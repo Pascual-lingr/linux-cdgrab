@@ -1,4 +1,4 @@
-# linux-cdgrab
+# LINUX-CDGRAB
 
 LINUX-CDGRAB es un front-end en modo consola para grabar discos ópticos (CD,DVD)
 
