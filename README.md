@@ -3,15 +3,18 @@
 lcdgrab(1)                  General Commands Manual                 lcdgrab(1)
 
 NAME
+
        lcdgrab – LINUX-CDGRAB –
        Front-end para la grabación de discos ópticos CD y DVD.
 
 SYNOPSIS
+
        lcdgrab
 
        lcdgrab [opciones]
 
 OPTIONS
+
        Se permiten los siguientes argumentos en la llamada a lcdgrab:
 
        lcdgrab
@@ -35,6 +38,7 @@ OPTIONS
        son independientes entre sí y el resto.
 
 EXAMPLES
+
        Ejecución con argumentos: lcdgrab -G=0,1,0 -L=/dev/hdc -V=16 -CA=0,1,0
 
        Ejecución      con     argumentos:     lcdgrab     --grabadora=/dev/hdd
@@ -48,6 +52,7 @@ EXAMPLES
        Imprime la versión: lcdgrab --version
 
 DESCRIPTION
+
        LINUX-CDGRAB es un front-end en modo consola
        para grabar discos ópticos (CD,DVD)
        La aplicación utiliza las herramientas de
@@ -238,6 +243,7 @@ DESCRIPTION
        bajo el directorio lcdgrabparches_idiom del idioma usado.
 
 FILES
+
        El fichero de configuración usado es /etc/lcdgrab.cfg
        /Programs/linux-cdgrab-0.5/lcdgrab.cfg sera usado
        bajo la distribución GoboLinux.
@@ -248,6 +254,7 @@ FILES
        los diferentes ficheros .txt de documentación del programa.
 
 ENVIRONMENT
+
        D_LINUXCDGRAB Directorio de instalación usado por la aplicación.
        D_PARCHES Directorio de instalación de parches usado por la aplicación.
        D_MNT Directorio usado como punto de montaje por la aplicación.
@@ -294,6 +301,7 @@ ENVIRONMENT
        Usado en la opción de copia de CD de datos con imagen previa.
 
 BUGS
+
         Es posible que en diversas distribuciones de Linux el montaje
         automático de unidades no permita a la aplicación funcionar
         corréctamente a la hora de realizar procesos de grabación de discos
@@ -310,10 +318,12 @@ BUGS
         parte del sistema.
 
 AUTOR
+
        Escrito por Pascual Martínez Cruz
        pascual89@hotmail.com
 
 COPYRIGHT
+
        Licenciado bajo GPL v2.
        Visite www.gnu.org para mas información.
 
