@@ -1,0 +1,186 @@
+#########################################################
+# lcgdrabAPI_idiom/Catala/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVD-API.idiom
+# Missatjes en catala per l'API de creació i tractament
+# de imatges de CD i DVD.
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribuire baix GPL v2
+# Part de Linux-cdgrab 0.5
+#########################################################
+
+# imagen_ext2
+
+imagen_ext2_MSG1="Crear imatge per a un CD-R/RW (702 Mbytes)"
+imagen_ext2_MSG2="Crear imatge per a un DVD+RW (4 Gbytes)"
+imagen_ext2_MSG3="Crear imatge per a un DVD+RW/DL (8 Gbytes)"
+imagen_ext2_MSG4="Creant arxiu buit amb capacitat per a 702 Mbytes"
+imagen_ext2_MSG5="Creant arxiu buit amb capacitat per a 4 Gbytes"
+imagen_ext2_MSG6="Creant arxiu buit amb capacitat per a 8 Gbytes"
+imagen_ext2_MSG7="ERROR :NO ES CONEIX LA MIDA DE LA IMAGEN.AVORTANT..."
+imagen_ext2_MSG8="exexutant"
+imagen_ext2_MSG9="El programa va ha formatar el arxiu buit."
+imagen_ext2_MSG10="Se us avisés que l'arxiu anteriorment creat no és un dispositiu de bloc i li preguntés si vol formatar"
+imagen_ext2_MSG11="Respongui afirmativament"
+imagen_ext2_MSG12="FORMATAT AMB EXIT"
+imagen_ext2_MSG12B="	Muntant Imatge . . ."
+imagen_ext2_MSG13="ERROR A L'FORMATAR L'ARXIU BUIT"
+imagen_ext2_MSG14="El programa ha muntat l'arxiu formatat en"
+imagen_ext2_MSG15="Linux-cdgrab llancés el gestor de arxius perquè pugui operar sobre la imatge muntada en"
+imagen_ext2_MSG16="Una vegada que els arxius son copiats desmunti el fitxer formatat"
+imagen_ext2_MSG17="La imatge ext2 aquesta en aquest directori"
+imagen_ext2_MSG18="ERROR A MUNTAR L'ARXIU D'IMATGE"
+imagen_ext2_MSG19="Fitxers per a incloure en la imatge ext2.Muntada a /mnt/lcdgrab"
+imagen_ext2_MSG20="Llançant el gestor de arxius..."
+imagen_ext2_MSG21="AVIS:"
+imagen_ext2_MSG22="-----"
+imagen_ext2_MSG23="La imatge"
+imagen_ext2_MSG24="seguis muntada"
+imagen_ext2_MSG25="ERROR A CREAR ARXIU BUIT AMB dd"
+imagen_ext2_MSG26="Comprovi que té espai lliure a la partició muntada en /"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="CREANT IMATGE DEL CD"
+extraer_isoCD_dd_MSG2="executant"
+extraer_isoCD_dd_MSG3="IMATGE CREADA EN /tmp"
+extraer_isoCD_dd_MSG4="No es troba"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="CREANT IMATGE DEL DVD"
+extraer_isoDVD_dd_MSG2="executant"
+extraer_isoDVD_dd_MSG3="IMATGE CREADA EN"
+extraer_isoDVD_dd_MSG4="No es troba"
+extraer_isoDVD_dd_MSG5="Abortat el process de grabació"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="executant"
+extraer_iso_readcd_MSG2="IMATGE CREADA AMB EXIT"
+extraer_iso_readcd_MSG3="Imatge creada en"
+extraer_iso_readcd_MSG4="Abortat el process de grabació..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="CD Muntat"
+extraer_iso_mkisofs_MSG2="Creant imatge ... "
+extraer_iso_mkisofs_MSG3="Habilitada la compatibilitat amb el Macintosh"
+extraer_iso_mkisofs_MSG4="Usant"
+extraer_iso_mkisofs_MSG5="executant"
+extraer_iso_mkisofs_MSG6="Imatge creada el directori"
+extraer_iso_mkisofs_MSG7="Reintentant el procés sense suport per a Macintosh"
+extraer_iso_mkisofs_MSG8="Imatge creada el directori"
+extraer_iso_mkisofs_MSG9="mkisofs retorna errors desconeguts a l'hora de crear"
+extraer_iso_mkisofs_MSG10="desde"
+extraer_iso_mkisofs_MSG11="Comproveu la integritat de les dades de"
+extraer_iso_mkisofs_MSG12="Muntant"
+extraer_iso_mkisofs_MSG12B="a"
+extraer_iso_mkisofs_MSG13="genisoimage retorna errors desconeguts a l'hora de crear"
+extraer_iso_mkisofs_MSG13B="desde"
+extraer_iso_mkisofs_MSG14="No es troba mkisofs ni genisoimage.Instale les cdrtools o el cdrkit."
+extraer_iso_mkisofs_MSG15="No ha pogut muntar"
+extraer_iso_mkisofs_MSG16="Imatge creada amb èxit a"
+
+# mkisofs_vanilla
+
+mkisofs_vanilla_MSG1="Arxius i directoris a incloure en la imatge .iso"
+mkisofs_vanilla_MSG2="Reintentant procés de creació d'imatge .iso"
+mkisofs_vanilla_MSG3="Purament iso: Noms dels arxius 8.3 caracters,lletra a mayuscula."
+mkisofs_vanilla_MSG4="executant"
+mkisofs_vanilla_MSG5="Imatge creada amb exit en /tmp"
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Llançant el gestor de arxius..."
+generar_iso_directorio_MSG2="Introduïu un nom per al futur CD/DVD"
+generar_iso_directorio_MSG3="CREANT IMATGE ..."
+generar_iso_directorio_MSG4="Habilitada la compatibilitat amb el Macintosh"
+generar_iso_directorio_MSG5="Usant"
+generar_iso_directorio_MSG6="executant"
+generar_iso_directorio_MSG7="IMATGE CREADA AL DIRECTORI"
+generar_iso_directorio_MSG8="EL PROCÉS DE CREACIÓ D'IMATGE HA FALLAT"
+generar_iso_directorio_MSG9="CREANT IMATGE SENSE COMPATIBILITAT AMB MACINTOSH"
+generar_iso_directorio_MSG10="No es troba mkisofs ni genisoimage.Instale les cdrtools o el cdrkit."
+generar_iso_directorio_MSG11="IMATGE GENERADA AMB ÈXIT EN"
+generar_iso_directorio_MSG12="VOLEU COMPRIMIR L'ARXIU D'IMATGE?"
+generar_iso_directorio_MSG13="(s/y) per comprimir; El procés és cancel·lat amb una altra opció."
+
+# imagenISO
+
+imagenISO_MSG1="Arxius i directoris a incloure en la imatge .iso"
+imagenISO_MSG2="SELECCIONI UNA OPCIÓ"
+imagenISO_MSG2B="--------------------"
+imagenISO_MSG3="Generar imatge ISO-9660 desde CD (fa servir dd)"
+imagenISO_MSG4="Generar imatge ISO-9660 desde DVD (fa servir dd)"
+imagenISO_MSG5="Generar imatge ISO-9660 desde CD (fa servir readcd)"
+imagenISO_MSG6="Generar imatge ISO-9660 des del disc CD o DVD (fa servir mkisofs)"
+imagenISO_MSG7="Crear una imatge ISO-9660 des de directoris del disc dur"
+imagenISO_MSG8="Menu anterior"
+imagenISO_MSG9="CREANT IMATGE"
+
+# imagen_img
+
+imagen_img_MSG1="Tecle el dispositiu de bloc origen des d'on va ha fer la imatge"
+imagen_img_MSG2="---------------------------------------------------------------"
+imagen_img_MSG3="Dispositius registrats a /etc/fstab i /etc/mtab"
+imagen_img_MSG4="Sortida del comand mount:"
+imagen_img_MSG5="Introduïu el nom de dispositiu : "
+imagen_img_MSG6="Creant imatge .img del dispositiu de bloc"
+imagen_img_MSG7="executant"
+imagen_img_MSG8="IMATGE DE DISPOSITIU CREADA EN"
+
+# monta_img
+
+monta_img_MSG1="Imatge iso o ext2 a muntar."
+monta_img_MSG2="Escriviu la ruta de directoris on es troba la imatge a muntar:"
+monta_img_MSG3="IMATGE DE CD MUNTADA:"
+monta_img_MSG4="ERROR A MUNTAR L'ARXIU D'IMATGE"
+monta_img_MSG5="NO ES TROBA"
+monta_img_MSG6="NO HI HA EL PUNT DE MUNTATGE"
+monta_img_MSG7="ERROR INESPERAT"
+
+# desmonta_img
+
+desmonta_img_MSG1="Imatge iso o ext2 a desmuntar."
+desmonta_img_MSG2="IMATGE DESMUNTADA"
+desmonta_img_MSG3="No es troba cap imatge muntada en"
+desmonta_img_MSG4="Sortida de mount :"
+desmonta_img_MSG5="Podeu especificar la ruta absoluta de directoris d'una imatge directament."
+desmonta_img_MSG6="Com per exemple /tmp/lcdgrabimg.iso o bé el directori de muntatge per a la imatge com pot ser /mnt/lcdgrab"
+desmonta_img_MSG7="Si no s'especifica pot buscar mitjançant el gestor de arxius"
+desmonta_img_MSG8="Llançant gestor de arxius"
+desmonta_img_MSG9="Especifiqueu la ruta de la imatge."
+desmonta_img_MSG10="IMATGE DESMUNTADA"
+desmonta_img_MSG11="ERROR AL DESMUNTAR IMATGE"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1="Imatge .nrg per convertir en .iso"
+nrg_a_iso_MSG2="Escriu la ruta de la imatge .nrg (Nero Burning ROM) a convertir"
+nrg_a_iso_MSG3="Convertint imatge..."
+nrg_a_iso_MSG4="La ruta de la imatge .nrg origen"
+nrg_a_iso_MSG5="no existeix o correspon amb un directori"
+nrg_a_iso_MSG6="Ruta no valida."
+nrg_a_iso_MSG7="ja és una imatge ISO-9660 prèvia, no serà convertida."
+nrg_a_iso_MSG8="Copiant amb diferent extensió..."
+nrg_a_iso_MSG9="CÒPIA COMPLETADA"
+nrg_a_iso_MSG10="executant"
+nrg_a_iso_MSG11="Imatge convertida amb èxit"
+nrg_a_iso_MSG12="ERROR A CREAR LA IMATGE .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Generar arxiu de descripció .cue des imatge .bin"
+GenerarArchivocue_MSG2="Directori actiu actual"
+GenerarArchivocue_MSG3="Escriviu només la ruta de directoris on es"
+GenerarArchivocue_MSG4="troba l'arxiu d'imatge:"
+GenerarArchivocue_MSG5="Escriu el nom de la imatge .bin a la qual se li va"
+GenerarArchivocue_MSG6="ha generar el seu corresponent arxiu .cue"
+GenerarArchivocue_MSG7="ARXIU DE DESCRIPCIÓ .cue GENERAT AMB ÈXIT"
+GenerarArchivocue_MSG8="ERROR A GENERAR ARXIU DE DESCRIPCIÓ .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="executant"
+ImagenbincueCDDVD_MSG2="IMATGE DE DISC .BIN .CUE GENERADA AMB ÈXIT"
+

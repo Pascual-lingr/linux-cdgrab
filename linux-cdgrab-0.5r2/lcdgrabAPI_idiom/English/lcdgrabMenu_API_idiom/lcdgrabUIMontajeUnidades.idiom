@@ -1,0 +1,48 @@
+#########################################################
+# lcdgrabAPI_idiom/English/lcgdrabMenu_API_idiom/lcdgrabUIMontajeUnidades.idiom
+# English messages for mount and unmount devices menu
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribute under GPL v2
+# Part of Linux-cdgrab 0.5
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="DEVICES CURRENTLY MOUNTED IN THE SYSTEM"
+montar_dispositivos_MSG2="LINUX-CDGRAB OPTIONS"
+montar_dispositivos_MSG3="Eject disc from player CD/DVD"
+montar_dispositivos_MSG4="Eject disc from CD/DVD recorder"
+montar_dispositivos_MSG5="Mount CD-ROM/DVD-ROM drive"
+montar_dispositivos_MSG6="Unmount CD-ROM/DVD-ROM"
+montar_dispositivos_MSG7="Mount or Unmount device by hand"
+montar_dispositivos_MSG0="Previous Menu"
+montar_dispositivos_MSG8="CD/DVD mounted in"
+montar_dispositivos_MSG9="PRESS INTRO TO CONTINUE ..."
+montar_dispositivos_MSG10="Error mounting the CD in"
+montar_dispositivos_MSG11="CD/DVD Has been unmounted"
+montar_dispositivos_MSG12="Error unmounting CD/DVD"
+montar_dispositivos_MSG13="Type device to mount/unmount:"
+montar_dispositivos_MSG14="Type mount point:"
+montar_dispositivos_MSG15="does not correspond to a block device"
+montar_dispositivos_MSG16="The mount point is not found"
+montar_dispositivos_MSG17="Default mount pointing"
+montar_dispositivos_MSG18="Type option:"
+montar_dispositivos_MSG19="Mount"
+montar_dispositivos_MSG20="on"
+montar_dispositivos_MSG21="Unmount"
+montar_dispositivos_MSG22="of"
+montar_dispositivos_MSG23="mounted on :"
+montar_dispositivos_MSG24="ERROR MOUNTING"
+montar_dispositivos_MSG25="on"
+montar_dispositivos_MSG26="unmounted of"
+montar_dispositivos_MSG27="UNMOUNTING ERROR"
+montar_dispositivos_MSG28="of"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Command exit of mount:"
+Montar_Imagenes_MSG2="Type option"
+Montar_Imagenes_MSG3="Mount image file of CD/DVD"
+Montar_Imagenes_MSG4="Unmount image file of CD/DVD"
+

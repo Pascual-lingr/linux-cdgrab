@@ -1,0 +1,27 @@
+#########################################################
+# lcdgrabAPI_idiom/English/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# English messages to audio conversion menu.
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribute under GPL v2
+# Part of Linux-cdgrab 0.5
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="AUDIO CONVERSION"
+menu_conversion_audio_MSG2="-------- AUDIO FORMAT CONVERSION --------"
+menu_conversion_audio_MSG3="Convert .mp3 in .wav"
+menu_conversion_audio_MSG4="Convert .ogg in .wav"
+menu_conversion_audio_MSG5="Convert .wav in .mp3"
+menu_conversion_audio_MSG6="Convert .wav in .ogg"
+menu_conversion_audio_MSG7="------ EXTRACTION OF AUDIO TRACKS ------"
+menu_conversion_audio_MSG8="Rip CD-Audio into .wav"
+menu_conversion_audio_MSG9="Rip a whole of audio tracks into .wav"
+menu_conversion_audio_MSG10="Rip CD-Audio into .mp3"
+menu_conversion_audio_MSG11="Rip CD-Audio into .ogg"
+menu_conversion_audio_MSG0="Previous Menu"
+menu_conversion_audio_MSG12="File .mp3 search"
+menu_conversion_audio_MSG13="File .ogg search"
+menu_conversion_audio_MSG14="File .wav search"
+

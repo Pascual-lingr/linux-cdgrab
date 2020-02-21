@@ -1,0 +1,15 @@
+#########################################################
+# lcdgrabAPI_idiom/Catala/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mesajes en Catala per lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribuire baix GPL v2
+# Part de linux-cdgrab 0.5
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="DISC OPTIC EXPULSAT"
+expulsar_medio_MSG2="Error en intentar expulsar el Disc del dispositiu"
+expulsar_medio_MSG3="Introduix en nom manualment :"
+

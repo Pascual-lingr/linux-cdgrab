@@ -1,0 +1,27 @@
+#########################################################
+# lcdgrabAPI_idiom/Catala/lcdgrabMenuAPI_idiom/lcdgrabUIAUDIO.idiom
+# Missatjes en catala per el menu de conversio d'arxius de audio
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribuire baix GPL v2
+# Part de Linux-cdgrab 0.5
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="CONVESIO DE AUDIO"
+menu_conversion_audio_MSG2="-------- CONVERSIO ENTRE FORMATS --------"
+menu_conversion_audio_MSG3="Converteix .mp3 a .wav"
+menu_conversion_audio_MSG4="Converteix .ogg a .wav"
+menu_conversion_audio_MSG5="Converteix .wav a .mp3"
+menu_conversion_audio_MSG6="Converteix .wav a .ogg"
+menu_conversion_audio_MSG7="------ EXTRACCIO DE PISTES D'AUDIO ------"
+menu_conversion_audio_MSG8="Ripejar un CD-Audio a .wav"
+menu_conversion_audio_MSG9="Ripejar un conjunt de pistes d'àudio a .wav"
+menu_conversion_audio_MSG10="Ripejar un CD-Audio a .mp3"
+menu_conversion_audio_MSG11="Ripejar un CD-Audio a .ogg"
+menu_conversion_audio_MSG0="Menu anterior"
+menu_conversion_audio_MSG12="Cerca d'arxius .mp3"
+menu_conversion_audio_MSG13="Cerca d'arxius .ogg"
+menu_conversion_audio_MSG14="Cerca d'arxius .wav"
+

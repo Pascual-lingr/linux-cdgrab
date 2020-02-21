@@ -1,0 +1,108 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 0.5		   #
+#        English messages for main program.        #
+#             Part of Linux-cdgrab 0.5             #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribute under GPL v2 license.	   #
+#						   #
+####################################################
+
+# creditos
+
+creditos_MSG1="Distribute under GPL v2"
+creditos_MSG2="See to info www.gnu.org"
+creditos_MSG3="Pascual Martinez Cruz, creator and maintainer --> pascual89@hotmail.com"
+creditos_MSG4="Report bugs: pascual89@hotmail.com"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="File generated automatically by LINUX-CDGRAB 0.5"
+creacion_de_mnt_MSG2="This file together with the directory "
+creacion_de_mnt_MSG3="have been generated automatically"
+creacion_de_mnt_MSG4="by the Linux-cdgrab application when verifying that its Linux distribution did not exist"
+creacion_de_mnt_MSG5="directory"
+creacion_de_mnt_MSG6="Linux-cdgrab uses this directory to mount your CD-ROM or DVD-ROM drive"
+creacion_de_mnt_MSG7="Directory"
+creacion_de_mnt_MSG8="will not be erased if Linux-cdgrab is uninstalled since it is usually the"
+creacion_de_mnt_MSG9="default mount point for /dev/cdrom in most Linux distributions."
+creacion_de_mnt_MSG10="If your distribution uses another directory to mount the device /dev/cdrom ,"
+creacion_de_mnt_MSG11="will not create any incompatibility when it comes to wanting to access your unit's data"
+creacion_de_mnt_MSG12="although if Linux-cdgrab has been uninstalled you can do without"
+creacion_de_mnt_MSG13="The purpose of this file is only informative, you can delete it freely once read."
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab can not find the text editor vi"
+ayuda_MSG2="Enter the name of a text editor installed on your system"
+ayuda_MSG3="NO INSTALLED EDITOR IS FOUND"
+
+
+# cargar_parche
+
+cargar_parche_MSG1="Loading"
+
+# Check Operating System
+
+main_IDSISTEMA_MSG1="WARNING:"
+main_IDSISTEMA_MSG2="Operating System not supported."
+main_IDSISTEMA_MSG3="If there are problems in the operation of the application use GNU/Linux"
+
+# arguments
+
+main_arg_MSG1="Invalid argument"
+
+# compatibilidad con cdrkit
+main_cdkit_test_MSG1="found"
+main_cdkit_test_MSG2="link to wodim created"
+main_cdkit_test_MSG3="link to genisoimage created"
+main_cdkit_test_MSG4="link to icedax created"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SINTAX"
+lcdgrab_sintaxis_MSG2="Print this help"
+lcdgrab_sintaxis_MSG3="Print Linux-cdgrab version"
+lcdgrab_sintaxis_MSG4="set IDE channel or burn device"
+lcdgrab_sintaxis_MSG5="or"
+lcdgrab_sintaxis_MSG6="set burn speed"
+lcdgrab_sintaxis_MSG7="set CD-ROM or DVD-ROM reader"
+lcdgrab_sintaxis_MSG8="set IDE ATAPI channel of recorder"
+lcdgrab_sintaxis_MSG9="The -G -V -L and -CA options imply each other."
+lcdgrab_sintaxis_MSG10="The -h and -v options are independent of each other and the rest."
+lcdgrab_sintaxis_MSG11="Examples:"
+lcdgrab_sintaxis_MSG12="device"
+lcdgrab_sintaxis_MSG13="number"
+
+# main program
+
+pgm_principal_MSG1="FATAL: A correct distribution of directories is not found."
+pgm_principal_MSG2="UNKNOWN"
+
+### main application menu
+
+main_lcdgrabop1="BURN CD	"
+main_lcdgrabop2="BURN DVD	"
+main_lcdgrabop3="OPERATIONS ON A DISK DEVICE"
+main_lcdgrabop4="IMAGE FILE CREATION"
+main_lcdgrabop5="AUDIO CONVERSION	"
+main_lcdgrabop6="MOUNT OR UNMOUNT CD/DVD	"
+main_lcdgrabop7="MOUNT OR UNMOUNT IMAGE FILE"
+main_lcdgrabop8="LOAD ADDITIONAL APPLICATION PATCH\t="
+main_lcdgrabop9="CONTROL CENTER	"
+main_lcdgrabop0="EXIT"
+main_lcdgrabet1="OTHER OPTIONS"
+main_lcdgrabopEe="Eject disk from device	"
+main_lcdgrabopTD="Show directory	"
+main_lcdgrabopG="File Manager	"
+main_lcdgrabopH="Help	"
+main_lcdgrabopA="About"
+main_lcdgrabopPRINCIPAL="Type option:"
+MSG1_MAIN="Selecting H shows the options."
+main_lcdgrabopdep_MSG1="Enter the script path:"
+main_lcdgrabopdep_MSG2="Invalid PATH"
+main_lcdgrabopdeppatch_MSG1="Patches installed:"
+main_lcdgrabopdeppatch_MSG2="Enter the path of the patch:"
+main_lcdgrabopdeppatch_MSG3="Not found"
+main_lcdgrabopA_MSG1="Executing under:"
+

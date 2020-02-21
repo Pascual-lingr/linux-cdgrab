@@ -1,0 +1,47 @@
+#########################################################
+# lcgdrabAPI_idiom/English/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# English Messajes for burn CD interface.
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribute under GPL v2
+# Part of Linux-cdgrab 0.5
+#########################################################
+
+# clonar
+
+clonar_MSG1="CHOOSE AN OPTION"
+clonar_MSG2="--- COPIES OF DISC WITH PREVIOUS IMAGE ---"
+clonar_MSG3="Copy data CD"
+clonar_MSG4="Create a previous CD image on the hard drive"
+clonar_MSG5="--- DISK COPY ON THE FLY ---"
+clonar_MSG6="Copy a data CD on the fly"
+clonar_MSG7="Clone a data CD on the fly"
+clonar_MSG8="THE COPY OPTIONS ON THE FLY REQUIRE TWO OPTICAL UNITS"
+clonar_MSG9="INSTALLED ON YOUR COMPUTER, SINCE THE DATA IS RECORDED WHILE"
+clonar_MSG10="READ DIRECTLY FROM THE DISC ORIGIN, IF ON YOUR COMPUTER ONLY HAS"
+clonar_MSG11="ONE CAN NOT USE THE COPIES ON THE FLY."
+clonar_MSG0="Previous menu"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="CD BURN"
+menugrabar_cd_MSG2="---------- CD - DATA -----------"
+menugrabar_cd_MSG3="Copy CD data."
+menugrabar_cd_MSG4="Burn new data CD."
+menugrabar_cd_MSG5="Burn new data CD (Multisesion)"
+menugrabar_cd_MSG6="Burn .iso or .ext2 image file on CD"
+menugrabar_cd_MSG7="Burn .bin/.cue image file on CD"
+menugrabar_cd_MSG8="---------- CD - AUDIO ----------"
+menugrabar_cd_MSG9="Copy CD-Audio"
+menugrabar_cd_MSG10="Burn an Audio CD from .wav files"
+menugrabar_cd_MSG11="Burn an Audio CD from .mp3 files"
+menugrabar_cd_MSG12="Burn an Audio CD from .ogg files"
+menugrabar_cd_MSG13="--------- REST OPTIONS ---------"
+menugrabar_cd_MSG14="Burn a Mixed-CD (Data + Audio)"
+menugrabar_cd_MSG15="Erase CD-RW"
+menugrabar_cd_MSG16="Close open CD "
+menugrabar_cd_MSG17="Show disk information in the unit"
+menugrabar_cd_MSG0="Previous menu"
+menugrabar_cd_MSGPRINCIPAL="Type option"
+
+

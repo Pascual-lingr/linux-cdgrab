@@ -1,0 +1,105 @@
+#########################################################
+# lcgdrabAPI_idiom/Español/lcdgrabAPP_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Español para la coleccion de funciones
+# contenida en lcdgrabAPP_API/lcdgrabAPP-SYS.sh
+#
+# Funciones de notificacion para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 0.5
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+
+m_cdrecord_sin_overburn_MSG1="Reintentando el proceso de grabacion..."
+m_cdrecord_sin_overburn_MSG2="Ejecutando cdrecord sin la opcion -overburn"
+m_cdrecord_sin_overburn_MSG3="-overburn no es compatible en dispositivos de grabación antiguos, ni en versiones antiguas de cdrecord."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="OPCION INVALIDA"
+
+# img_error
+
+img_error_D_MSG1="ERROR AL CREAR LA IMAGEN"
+
+# CD_error
+
+CD_error_D_MSG1="ERROR AL GRABAR EL CD"
+
+# DVD_error
+
+DVD_error_D_MSG1="ERROR AL GRABAR EL DVD"
+
+# DO_error
+
+DO_error_D_MSG1="ERROR AL GRABAR DISCO OPTICO"
+
+
+# tecla
+
+tecla_D_MSG1="\nPulse INTRO para continuar . . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="RUTAS DE DIRECTORIOS A GRABAR EN DISCO"
+rutas_dir_D_MSG2="Escriba el nombre de directorio (f para salir):"
+rutas_dir_D_MSG3="DIRECTORIO"
+rutas_dir_D_MSG4="NO VALIDO"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="MISMA UNIDAD OPTICA EN EL SISTEMA"
+una_sola_grabadora_D_MSG2="LA UNIDAD LECTORA Y DE GRABACION SON IGUALES\nSE PRESUPONE QUE SU SISTEMA POSEE SOLO UNA UNIDAD FISICA\nRETIRE EL DISCO ORIGEN DE LA UNIDAD\nINTRODUZCA UN DISCO OPTICO VIRGEN\nPARA CONTINUAR CON EL PROCESO DE GRABACION"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="LA GRABACION DEL DISCO HA FINALIZADO CORRECTAMENTE"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="OPCION INVALIDA"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="LA GRABACION DEL DISCO HA FINALIZADO CORRECTAMENTE"
+
+# text_img_error
+
+text_img_error_MSG1="ERROR AL CREAR LA IMAGEN"
+
+# text_CD_error
+
+text_CD_error_MSG1="ERROR AL GRABAR EL CD"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="ERROR AL GRABAR EL DVD"
+
+# text_DO_error
+
+text_DO_error_MSG1="ERROR AL GRABAR DISCO OPTICO"
+
+# teclash
+
+teclash_MSG1="Pulse INTRO para continuar . . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Escriba el nombre del directorio ( f para salir ):"
+text_rutas_dir_MSG2="DIRECTORIO"
+text_rutas_dir_MSG3=" NO VALIDO"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="MISMA UNIDAD OPTICA EN EL SISTEMA"
+text_una_sola_grabadora_MSG2="LA UNIDAD LECTORA Y DE GRABACION SON IGUALES."
+text_una_sola_grabadora_MSG3="SE PRESUPONE QUE SU SISTEMA POSEE SOLO UNA"
+text_una_sola_grabadora_MSG4="UNIDAD FISICA."
+text_una_sola_grabadora_MSG5="RETIRE EL DISCO ORIGEN DE LA UNIDAD."
+text_una_sola_grabadora_MSG6="INTRODUZCA UN DISCO OPTICO VIRGEN"
+text_una_sola_grabadora_MSG7="PARA CONTINUAR CON EL PROCESO DE GRABACION."
+

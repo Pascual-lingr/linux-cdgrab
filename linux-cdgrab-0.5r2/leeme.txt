@@ -1,0 +1,617 @@
+			LINUX - CDGRAB ver 0.5 r2
+			=========================
+
+			   20 - Febrero - 2020
+
+LINUX-CDGRAB es un front-end en modo consola para grabar discos ópticos (CD,DVD)
+
+La aplicación utiliza las herramientas de grabación cdrtools,cdrdao
+y dvd+-rw-tools para estas funciones.
+
+Permite también la creación de imagenes de CD y DVD, junto con conversión de
+ficheros de audio, compresión de archivos o bien el montado de unidades o
+imagenes de disco, entre otras opciones. Su interfaz es multilenguaje.
+
+El programa es un conjunto de scripts de shell que actuan como un interfaz
+de menus interactivos, encargados de llamar a las diferentes herramientas
+de grabación junto a otras diversas existenes en nuestra instalación,
+para llevar a cabo las funciones de grabación de discos ópticos, creación
+de imágenes, montaje de unidades e imágenes, operaciones sobre dispositivos
+de bloque, conversión de audio... etc.
+
+Este programa ha sido diseñado únicamente para el sistema operativo GNU/Linux.
+Solamente sera funcional en todas sus opciones si es utilizado bajo
+este sistema.
+Puede ejecutarse en otras versiones de UNIX e incluso en implementaciones
+como Cygwin o el subsistema Linux de Windows 10, pero no se ha tenido en
+cuenta la compatibilidad con otro UNIX que no sea Linux.
+
+Se incluye un parche en esta versión para dar compatibilidad al etiquetado
+de CD y DVD LightScribe.
+El proceso de etiquetado se lleva a cabo mediante la herramienta
+privativa 4L de Lacie.
+
+Requisitos:
+-----------
+Las herramientas de grabación cdrtools (acepta cdrkit), cdrdao
+y dvd+-rw-tools.
+Compresores de archivo zip, xz, gzip, bzip2.
+Conversores de sonido lame, oggenc y sox.
+Dispositivos /dev/loop para montar imagenes de CD/DVD.
+Utilidades estandares de Linux como tar, grep, dd, mke2fs, cat etc.
+
+Necesitara tener todos los programas instalados en su sistema para
+ que todas las opciones de la aplicacion funcionen correctamente.
+
+Las distribuciones de Linux suelen tener estas herramientas instaladas.
+
+Notas sobre el soporte LightScribe:
+
+Necesaria la herramienta 4L de Lacie para el parche LightScribe.
+
+Si usted no tiene una grabadora para etiquetar CDs o DVDs LightScribe
+puede prescindir el uso de este parche.
+
+Instalación:
+------------
+
+Descomprima el programa ejecutando:
+
+tar -xvzf lingrXY.tgz ( X e Y corresponden a la versión del programa )
+
+Dentro del directorio de archivos de linux-cdgrab teclee ./instalar
+
+NOTA:
+
+El programa se copiará en /usr/bin y podra ejecutarlo mediante la orden lcdgrab.
+La instalación creara el directorio /mnt/lcdgrab,éste es usado por linux-cdgrab como punto de montaje.
+El archivo lcdgrab, leeme.txt, GPL-2.0.txt, logo.txt y ayuda.txt se copiaran en /usr/share/linux-cdgrab.
+Si existen parches en la capeta de instalación se copiarán en /usr/share/linux-cdgrab/parches
+Si existen ficheros de idioma para los parches, seran copiados en /usr/share/linux-cdgrab/lcdgrabAPI_idiom/*/lcdgrabparches_idiom
+Adicionalmente a parches se crean los siguiente directorios en /usr/share/linux-cdgrab
+../lcdgrabAPP_PI
+../lcdgrabCMD_API
+../lcdgrabMenu_API
+../lcdgrabAPI_idiom
+estos directorios continen archivos .sh, .txt, .dat, .idiom que implementan las diferentes funciones del programa.
+ 
+La instalación sobreescribira a cualquier version >= 0.4 de este script.
+A partir de la version 0.4, el script se llama lcdgrab y no cdgrab como en 
+versiones <= 0.3, se ha cambiado el nombre del script al descubrir que cdgrab
+es una aplicación diferente implementada antes que este script.
+
+El fichero de configuración de la versión 0.4 no será valido para
+esta nueva versión.
+
+Manejo:
+-------
+
+1.- Ejecute lcdgrab bajo la linea de comandos;
+    (No se implementa ninguna gestión de usuarios).
+    Esta gestión debera configurarse manualmente
+    en el sistema. Usar con cautela en las opciones
+    de escritura sobre dispositivos de bloque si
+    la aplicación es usada como usuario root.
+    Este usuario no tiene ninguna limitación sobre el
+    sistema o la propia aplicación.
+
+2.- Teclee el numero correspondiente a la opcion deseada;
+
+3.- Introduzca los datos de configuración que le pida el programa;
+
+Los datos que pedira el programa son:
+
+	1.- Velocidad de grabación ;
+
+    	Basta con teclear el numero , por ejemplo 16.
+	No se acepta ningún valor de velocidad máxima.
+
+	2.- Canal IDE de la grabadora ;
+
+    	El canal donde esta conectada la grabadora.
+    	Si no lo sabe ejecute la siguiente orden : cdrecord -scanbus
+
+	Un ejemplo sobre valores del canal IDE son : 0,0,0 o 0,1,0
+
+	Puede especificar tambien en este caso el dispositivo de bloque que
+	corresponde con su grabadora bien /dev/hdd,/dev/hde etc,en lugar 
+	del canal IDE.
+	Segun su versión de cdrecord debe optar por un valor u otro.
+
+3.- Etiqueta para el CD ;
+
+    El nombre que quiera darle al CD , por ejemplo , fotografías
+
+4.- Ruta de directorios ;
+
+    La ruta de directorios de los datos a grabar , por ejemplo:
+    /home/usuario/documentos
+
+Manejo avanzado:
+----------------
+
+5.- Ejecución de lcdgrab con argumentos ;
+
+    Es posible invocar a lcdgrab con argumentos, los argumentos hacen que
+    linux-cdgrab cree automáticamente un fichero de configuración segun 
+    los valores con los que se hizo la llamada al programa.
+    Es una práctica util crear un breve script que invoque al programa
+    pasando como argumentos la configuración que se suela usar en el sistema.
+    Ha de tenerse en cuenta que el fichero de configuración de la aplicación
+    sera sobreescrito o generado en disco en cada ejecución si usa esta
+    práctica.
+   
+    Para listar los argumentos disponibles, ejecute : lcdgrab -h
+
+6.- Modo de depuración ;
+    
+    El modo de depuración solo sirve para detectar errores de ejecución
+    en linux-cdgrab.
+    Si desea depurar el script escriba dep desde el menu principal.
+    Si desea depurar un parche para linux-cdgrab escriba deppatch
+    en el menu principal.
+
+7.- Mostrar logotipo ASCII ;
+
+    Escribiendo logo desde el menu principal se mostrara el
+    logotipo ASCII de la aplicación.
+
+8.- Consulta de la pagina man ;
+    Consultar la pagina man de lcdgrab mendiante la orden:
+
+    man lcdgrab
+
+                       ARCHIVOS DE LA APLICACION
+                       =========================
+
+Contenido del directorio linux-cdgrab-0.5r2, salida de ls -Rla :
+
+.:
+total 128
+drwxrwxrwx  7 roo roo  4096 feb 19 23:58 .
+drwxr-xr-x 27 roo roo  4096 feb 19 23:26 ..
+-rwxrwxrwx  1 roo roo  5917 may 19  2018 ayuda.txt
+-rwxrwxrwx  1 roo roo 17932 mar  8  2017 GPL-2.0.txt
+-rwxrwxrwx  1 roo roo  1177 oct 22  2017 instalar
+-rwxrwxrwx  1 roo roo  2580 sep  1  2018 instalar.gobolinux
+-rwxrwxrwx  1 roo roo  1993 sep  1  2018 instalar.linux
+-rwxrwxrwx  1 roo roo 16844 feb 19 23:20 lcdgrab
+-rwxrwxrwx  1 roo roo  4795 feb 19 23:57 lcdgrab.1.gz
+drwxrwxrwx  6 roo roo  4096 sep  1  2018 lcdgrabAPI_idiom
+drwxrwxrwx  2 roo roo  4096 feb 13 00:46 lcdgrabAPP_API
+drwxrwxrwx  2 roo roo  4096 feb 14 00:35 lcdgrabCMD_API
+drwxrwxrwx  2 roo roo  4096 feb 14 00:07 lcdgrabMenu_API
+-rwxrwxrwx  1 roo roo 26625 feb 19 23:17 leeme.txt
+drwxrwxrwx  5 roo roo  4096 may 19  2018 LightScribePatchV05
+-rwxrwxrwx  1 roo roo   729 mar  8  2017 logo.txt
+
+./lcdgrabAPI_idiom:
+total 24
+drwxrwxrwx 6 roo roo 4096 sep  1  2018 .
+drwxrwxrwx 7 roo roo 4096 feb 19 23:58 ..
+drwxrwxrwx 6 roo roo 4096 feb 13 23:20 Catala
+drwxrwxrwx 6 roo roo 4096 feb 14 00:21 .defecidiom
+drwxrwxrwx 6 roo roo 4096 feb 13 23:21 English
+drwxrwxrwx 6 roo roo 4096 feb 13 23:21 Español
+
+./lcdgrabAPI_idiom/Catala:
+total 36
+drwxrwxrwx 6 roo roo 4096 feb 13 23:20 .
+drwxrwxrwx 6 roo roo 4096 sep  1  2018 ..
+-rwxrwxrwx 1 roo roo  150 may 29  2018 Descriptionlcdgrablang.txt
+drwxrwxrwx 2 roo roo 4096 sep  1  2018 lcdgrabAPP_API_idiom
+drwxrwxrwx 2 roo roo 4096 feb 14 00:31 lcdgrabCMD_API_idiom
+-rwxrwxrwx 1 roo roo 4309 feb 13 23:20 lcdgrab.idiom
+drwxrwxrwx 2 roo roo 4096 feb 14 00:36 lcdgrabMenu_API_idiom
+drwxrwxrwx 2 roo roo 4096 may 18  2018 lcdgrabparches_idiom
+
+./lcdgrabAPI_idiom/Catala/lcdgrabAPP_API_idiom:
+total 12
+drwxrwxrwx 2 roo roo 4096 sep  1  2018 .
+drwxrwxrwx 6 roo roo 4096 feb 13 23:20 ..
+-rwxrwxrwx 1 roo roo 2809 sep  1  2018 lcdgrabAPP-SYS.idiom
+
+./lcdgrabAPI_idiom/Catala/lcdgrabCMD_API_idiom:
+total 52
+drwxrwxrwx 2 roo roo 4096 feb 14 00:31 .
+drwxrwxrwx 6 roo roo 4096 feb 13 23:20 ..
+-rwxrwxrwx 1 roo roo 2636 may 29  2018 lcdgrabAUDIO-API.idiom
+-rwxrwxrwx 1 roo roo 5641 may 19  2018 lcdgrabCD-API.idiom
+-rwxrwxrwx 1 roo roo 1621 may 19  2018 lcdgrabCompresion-API.idiom
+-rwxrwxrwx 1 roo roo 5391 may 19  2018 lcdgrabDVD-API.idiom
+-rwxrwxrwx 1 roo roo  550 may 19  2018 lcdgrabExpulsaCDDVD-API.idiom
+-rwxrwxrwx 1 roo roo 8228 may 19  2018 lcdgrabIMAGENESCDDVD-API.idiom
+-rwxrwxrwx 1 roo roo 2526 feb 14 00:31 lcdgrabUNIDADES-API.idiom
+
+./lcdgrabAPI_idiom/Catala/lcdgrabMenu_API_idiom:
+total 56
+drwxrwxrwx 2 roo roo  4096 feb 14 00:36 .
+drwxrwxrwx 6 roo roo  4096 feb 13 23:20 ..
+-rwxrwxrwx 1 roo roo  1215 may 19  2018 lcdgrabUIAUDIO.idiom
+-rwxrwxrwx 1 roo roo   580 may 19  2018 lcdgrabUICargaParches.idiom
+-rwxrwxrwx 1 roo roo  1976 may 19  2018 lcdgrabUICD.idiom
+-rwxrwxrwx 1 roo roo 11411 may 19  2018 lcdgrabUICentroControl.idiom
+-rwxrwxrwx 1 roo roo  3426 may 19  2018 lcdgrabUIDVD.idiom
+-rwxrwxrwx 1 roo roo  2906 may 19  2018 lcdgrabUIGestorArchivos.idiom
+-rwxrwxrwx 1 roo roo  2462 may 19  2018 lcdgrabUIIMAGENESCDDVD.idiom
+-rwxrwxrwx 1 roo roo  2043 may 19  2018 lcdgrabUIMontajeUnidades.idiom
+-rwxrwxrwx 1 roo roo  1238 may 19  2018 lcdgrabUITMPDIR.idiom
+-rwxrwxrwx 1 roo roo  2459 feb 14 00:36 lcdgrabUIUnidadesDisco.idiom
+
+./lcdgrabAPI_idiom/Catala/lcdgrabparches_idiom:
+total 8
+drwxrwxrwx 2 roo roo 4096 may 18  2018 .
+drwxrwxrwx 6 roo roo 4096 feb 13 23:20 ..
+
+./lcdgrabAPI_idiom/.defecidiom:
+total 36
+drwxrwxrwx 6 roo roo 4096 feb 14 00:21 .
+drwxrwxrwx 6 roo roo 4096 sep  1  2018 ..
+-rwxrwxrwx 1 roo roo  106 abr 22  2018 Descriptionlcdgrablang.txt
+drwxrwxrwx 2 roo roo 4096 may 19  2018 lcdgrabAPP_API_idiom
+drwxrwxrwx 2 roo roo 4096 feb 14 00:19 lcdgrabCMD_API_idiom
+-rwxrwxrwx 1 roo roo 4339 feb 13 23:21 lcdgrab.idiom
+drwxrwxrwx 2 roo roo 4096 feb 14 00:10 lcdgrabMenu_API_idiom
+drwxrwxrwx 2 roo roo 4096 may 18  2018 lcdgrabparches_idiom
+
+./lcdgrabAPI_idiom/.defecidiom/lcdgrabAPP_API_idiom:
+total 12
+drwxrwxrwx 2 roo roo 4096 may 19  2018 .
+drwxrwxrwx 6 roo roo 4096 feb 14 00:21 ..
+-rwxrwxrwx 1 roo roo 2926 may 19  2018 lcdgrabAPP-SYS.idiom
+
+./lcdgrabAPI_idiom/.defecidiom/lcdgrabCMD_API_idiom:
+total 52
+drwxrwxrwx 2 roo roo 4096 feb 14 00:19 .
+drwxrwxrwx 6 roo roo 4096 feb 14 00:21 ..
+-rwxrwxrwx 1 roo roo 2734 may 29  2018 lcdgrabAUDIO-API.idiom
+-rwxrwxrwx 1 roo roo 5760 may 19  2018 lcdgrabCD-API.idiom
+-rwxrwxrwx 1 roo roo 1665 may 19  2018 lcdgrabCompresion-API.idiom
+-rwxrwxrwx 1 roo roo 5529 may 19  2018 lcdgrabDVD-API.idiom
+-rwxrwxrwx 1 roo roo  566 may 19  2018 lcdgrabExpulsaCDDVD-API.idiom
+-rwxrwxrwx 1 roo roo 8452 may 19  2018 lcdgrabIMAGENESCDDVD-API.idiom
+-rwxrwxrwx 1 roo roo 2831 feb 14 00:19 lcdgrabUNIDADES-API.idiom
+
+./lcdgrabAPI_idiom/.defecidiom/lcdgrabMenu_API_idiom:
+total 56
+drwxrwxrwx 2 roo roo  4096 feb 14 00:10 .
+drwxrwxrwx 6 roo roo  4096 feb 14 00:21 ..
+-rwxrwxrwx 1 roo roo  1233 may 19  2018 lcdgrabUIAUDIO.idiom
+-rwxrwxrwx 1 roo roo   575 may 19  2018 lcdgrabUICargaParches.idiom
+-rwxrwxrwx 1 roo roo  1986 may 19  2018 lcdgrabUICD.idiom
+-rwxrwxrwx 1 roo roo 11643 may 19  2018 lcdgrabUICentroControl.idiom
+-rwxrwxrwx 1 roo roo  3401 may 19  2018 lcdgrabUIDVD.idiom
+-rwxrwxrwx 1 roo roo  2950 may 19  2018 lcdgrabUIGestorArchivos.idiom
+-rwxrwxrwx 1 roo roo  2500 may 19  2018 lcdgrabUIIMAGENESCDDVD.idiom
+-rwxrwxrwx 1 roo roo  2064 may 19  2018 lcdgrabUIMontajeUnidades.idiom
+-rwxrwxrwx 1 roo roo  1336 may 19  2018 lcdgrabUITMPDIR.idiom
+-rwxrwxrwx 1 roo roo  2531 feb 14 00:10 lcdgrabUIUnidadesDisco.idiom
+
+./lcdgrabAPI_idiom/.defecidiom/lcdgrabparches_idiom:
+total 8
+drwxrwxrwx 2 roo roo 4096 may 18  2018 .
+drwxrwxrwx 6 roo roo 4096 feb 14 00:21 ..
+
+./lcdgrabAPI_idiom/English:
+total 32
+drwxrwxrwx 6 roo roo 4096 feb 13 23:21 .
+drwxrwxrwx 6 roo roo 4096 sep  1  2018 ..
+-rwxrwxrwx 1 roo roo  148 may 29  2018 Descriptionlcdgrablang.txt
+drwxrwxrwx 2 roo roo 4096 may 19  2018 lcdgrabAPP_API_idiom
+drwxrwxrwx 2 roo roo 4096 feb 14 00:34 lcdgrabCMD_API_idiom
+-rwxrwxrwx 1 roo roo 4067 feb 13 23:21 lcdgrab.idiom
+drwxrwxrwx 2 roo roo 4096 feb 14 00:36 lcdgrabMenu_API_idiom
+drwxrwxrwx 2 roo roo 4096 may 18  2018 lcdgrabparches_idiom
+
+./lcdgrabAPI_idiom/English/lcdgrabAPP_API_idiom:
+total 12
+drwxrwxrwx 2 roo roo 4096 may 19  2018 .
+drwxrwxrwx 6 roo roo 4096 feb 13 23:21 ..
+-rwxrwxrwx 1 roo roo 2733 may 19  2018 lcdgrabAPP-SYS.idiom
+
+./lcdgrabAPI_idiom/English/lcdgrabCMD_API_idiom:
+total 52
+drwxrwxrwx 2 roo roo 4096 feb 14 00:34 .
+drwxrwxrwx 6 roo roo 4096 feb 13 23:21 ..
+-rwxrwxrwx 1 roo roo 2520 may 29  2018 lcdgrabAUDIO-API.idiom
+-rwxrwxrwx 1 roo roo 5472 sep 15  2018 lcdgrabCD-API.idiom
+-rwxrwxrwx 1 roo roo 1568 may 19  2018 lcdgrabCompresion-API.idiom
+-rwxrwxrwx 1 roo roo 5330 may 19  2018 lcdgrabDVD-API.idiom
+-rwxrwxrwx 1 roo roo  542 may 19  2018 lcdgrabExpulsaCDDVD-API.idiom
+-rwxrwxrwx 1 roo roo 8198 may 19  2018 lcdgrabIMAGENESCDDVD-API.idiom
+-rwxrwxrwx 1 roo roo 2302 feb 14 00:34 lcdgrabUNIDADES-API.idiom
+
+./lcdgrabAPI_idiom/English/lcdgrabMenu_API_idiom:
+total 56
+drwxrwxrwx 2 roo roo  4096 feb 14 00:36 .
+drwxrwxrwx 6 roo roo  4096 feb 13 23:21 ..
+-rwxrwxrwx 1 roo roo  1159 sep  1  2018 lcdgrabUIAUDIO.idiom
+-rwxrwxrwx 1 roo roo   534 may 19  2018 lcdgrabUICargaParches.idiom
+-rwxrwxrwx 1 roo roo  1848 sep  1  2018 lcdgrabUICD.idiom
+-rwxrwxrwx 1 roo roo 10829 may 19  2018 lcdgrabUICentroControl.idiom
+-rwxrwxrwx 1 roo roo  3185 may 20  2018 lcdgrabUIDVD.idiom
+-rwxrwxrwx 1 roo roo  2815 may 19  2018 lcdgrabUIGestorArchivos.idiom
+-rwxrwxrwx 1 roo roo  2361 may 19  2018 lcdgrabUIIMAGENESCDDVD.idiom
+-rwxrwxrwx 1 roo roo  1960 may 19  2018 lcdgrabUIMontajeUnidades.idiom
+-rwxrwxrwx 1 roo roo  1226 may 19  2018 lcdgrabUITMPDIR.idiom
+-rwxrwxrwx 1 roo roo  2291 feb 14 00:36 lcdgrabUIUnidadesDisco.idiom
+
+./lcdgrabAPI_idiom/English/lcdgrabparches_idiom:
+total 8
+drwxrwxrwx 2 roo roo 4096 may 18  2018 .
+drwxrwxrwx 6 roo roo 4096 feb 13 23:21 ..
+
+./lcdgrabAPI_idiom/Español:
+total 36
+drwxrwxrwx 6 roo roo 4096 feb 13 23:21 .
+drwxrwxrwx 6 roo roo 4096 sep  1  2018 ..
+-rwxrwxrwx 1 roo roo  106 abr 22  2018 Descriptionlcdgrablang.txt
+drwxrwxrwx 2 roo roo 4096 may 19  2018 lcdgrabAPP_API_idiom
+drwxrwxrwx 2 roo roo 4096 feb 14 00:34 lcdgrabCMD_API_idiom
+-rwxrwxrwx 1 roo roo 4339 feb 13 23:21 lcdgrab.idiom
+drwxrwxrwx 2 roo roo 4096 feb 14 00:37 lcdgrabMenu_API_idiom
+drwxrwxrwx 2 roo roo 4096 may 18  2018 lcdgrabparches_idiom
+
+./lcdgrabAPI_idiom/Español/lcdgrabAPP_API_idiom:
+total 12
+drwxrwxrwx 2 roo roo 4096 may 19  2018 .
+drwxrwxrwx 6 roo roo 4096 feb 13 23:21 ..
+-rwxrwxrwx 1 roo roo 2926 may 19  2018 lcdgrabAPP-SYS.idiom
+
+./lcdgrabAPI_idiom/Español/lcdgrabCMD_API_idiom:
+total 52
+drwxrwxrwx 2 roo roo 4096 feb 14 00:34 .
+drwxrwxrwx 6 roo roo 4096 feb 13 23:21 ..
+-rwxrwxrwx 1 roo roo 2734 may 29  2018 lcdgrabAUDIO-API.idiom
+-rwxrwxrwx 1 roo roo 5760 may 19  2018 lcdgrabCD-API.idiom
+-rwxrwxrwx 1 roo roo 1665 may 19  2018 lcdgrabCompresion-API.idiom
+-rwxrwxrwx 1 roo roo 5529 may 19  2018 lcdgrabDVD-API.idiom
+-rwxrwxrwx 1 roo roo  566 may 19  2018 lcdgrabExpulsaCDDVD-API.idiom
+-rwxrwxrwx 1 roo roo 8452 may 19  2018 lcdgrabIMAGENESCDDVD-API.idiom
+-rwxrwxrwx 1 roo roo 2597 feb 14 00:34 lcdgrabUNIDADES-API.idiom
+
+./lcdgrabAPI_idiom/Español/lcdgrabMenu_API_idiom:
+total 56
+drwxrwxrwx 2 roo roo  4096 feb 14 00:37 .
+drwxrwxrwx 6 roo roo  4096 feb 13 23:21 ..
+-rwxrwxrwx 1 roo roo  1233 may 19  2018 lcdgrabUIAUDIO.idiom
+-rwxrwxrwx 1 roo roo   575 may 19  2018 lcdgrabUICargaParches.idiom
+-rwxrwxrwx 1 roo roo  1986 may 19  2018 lcdgrabUICD.idiom
+-rwxrwxrwx 1 roo roo 11643 may 19  2018 lcdgrabUICentroControl.idiom
+-rwxrwxrwx 1 roo roo  3401 may 19  2018 lcdgrabUIDVD.idiom
+-rwxrwxrwx 1 roo roo  2950 may 19  2018 lcdgrabUIGestorArchivos.idiom
+-rwxrwxrwx 1 roo roo  2500 may 19  2018 lcdgrabUIIMAGENESCDDVD.idiom
+-rwxrwxrwx 1 roo roo  2064 may 19  2018 lcdgrabUIMontajeUnidades.idiom
+-rwxrwxrwx 1 roo roo  1336 may 19  2018 lcdgrabUITMPDIR.idiom
+-rwxrwxrwx 1 roo roo  2465 feb 14 00:37 lcdgrabUIUnidadesDisco.idiom
+
+./lcdgrabAPI_idiom/Español/lcdgrabparches_idiom:
+total 8
+drwxrwxrwx 2 roo roo 4096 may 18  2018 .
+drwxrwxrwx 6 roo roo 4096 feb 13 23:21 ..
+
+./lcdgrabAPP_API:
+total 20
+drwxrwxrwx 2 roo roo 4096 feb 13 00:46 .
+drwxrwxrwx 7 roo roo 4096 feb 19 23:58 ..
+-rwxrwxrwx 1 roo roo 1230 feb 13 00:46 colores.dat
+-rwxrwxrwx 1 roo roo 6783 may 19  2018 lcdgrabAPP-SYS.sh
+
+./lcdgrabCMD_API:
+total 116
+drwxrwxrwx 2 roo roo  4096 feb 14 00:35 .
+drwxrwxrwx 7 roo roo  4096 feb 19 23:58 ..
+-rwxrwxrwx 1 roo roo  9701 feb 13 00:47 lcdgrabAUDIO-API.sh
+-rwxrwxrwx 1 roo roo 20283 sep 15  2018 lcdgrabCD-API.sh
+-rwxrwxrwx 1 roo roo  4293 may 19  2018 lcdgrabCompresion-API.sh
+-rwxrwxrwx 1 roo roo 22627 jun 20  2018 lcdgrabDVD-API.sh
+-rwxrwxrwx 1 roo roo   910 may 19  2018 lcdgrabExpulsaCDDVD-API.sh
+-rwxrwxrwx 1 roo roo 30183 may 19  2018 lcdgrabIMAGENESCDDVD-API.sh
+-rwxrwxrwx 1 roo roo  6718 feb 14 00:35 lcdgrabUNIDADES-API.sh
+
+./lcdgrabMenu_API:
+total 88
+drwxrwxrwx 2 roo roo  4096 feb 14 00:07 .
+drwxrwxrwx 7 roo roo  4096 feb 19 23:58 ..
+-rwxrwxrwx 1 roo roo  1963 may 19  2018 lcdgrabUIAUDIO.sh
+-rwxrwxrwx 1 roo roo  1018 may 19  2018 lcdgrabUICargaParches.sh
+-rwxrwxrwx 1 roo roo  3144 may 19  2018 lcdgrabUICD.sh
+-rwxrwxrwx 1 roo roo 30639 ago  1  2018 lcdgrabUICentroControl.sh
+-rwxrwxrwx 1 roo roo  5648 may 19  2018 lcdgrabUIDVD.sh
+-rwxrwxrwx 1 roo roo  4687 may 19  2018 lcdgrabUIGestorArchivos.sh
+-rwxrwxrwx 1 roo roo  3242 may 19  2018 lcdgrabUIIMAGENESCDDVD.sh
+-rwxrwxrwx 1 roo roo  4871 may 19  2018 lcdgrabUIMontajeUnidades.sh
+-rwxrwxrwx 1 roo roo  3072 may 19  2018 lcdgrabUITMPDIR.sh
+-rwxrwxrwx 1 roo roo  2550 feb 14 00:07 lcdgrabUIUnidadesDisco.sh
+
+./LightScribePatchV05:
+total 28
+drwxrwxrwx 5 roo roo 4096 may 19  2018 .
+drwxrwxrwx 7 roo roo 4096 feb 19 23:58 ..
+drwxrwxrwx 2 roo roo 4096 may 19  2018 Catala
+drwxrwxrwx 2 roo roo 4096 may 19  2018 English
+drwxrwxrwx 2 roo roo 4096 feb 13 00:50 Español
+-rwxrwxrwx 1 roo roo  479 may 19  2018 Leeme-soporte-lightscribe.txt
+-rwxrwxrwx 1 roo roo 2193 may 19  2018 lingr05lightscribepatch.sh
+
+./LightScribePatchV05/Catala:
+total 12
+drwxrwxrwx 2 roo roo 4096 may 19  2018 .
+drwxrwxrwx 5 roo roo 4096 may 19  2018 ..
+-rwxrwxrwx 1 roo roo 1337 may 19  2018 lingr05lightscribepatch.idiom
+
+./LightScribePatchV05/English:
+total 12
+drwxrwxrwx 2 roo roo 4096 may 19  2018 .
+drwxrwxrwx 5 roo roo 4096 may 19  2018 ..
+-rwxrwxrwx 1 roo roo 1326 may 19  2018 lingr05lightscribepatch.idiom
+
+./LightScribePatchV05/Español:
+total 12
+drwxrwxrwx 2 roo roo 4096 feb 13 00:50 .
+drwxrwxrwx 5 roo roo 4096 may 19  2018 ..
+-rwxrwxrwx 1 roo roo 1356 may 19  2018 lingr05lightscribepatch.idiom
+
+                       	DESARROLLO DEL PROGRAMA
+                        =======================
+
+Mejoras en la version 0.5:
+--------------------------
+#r2 20 -Febrero - 2020
+-Añadidos los sistemas de archivo ext3, ext4 y reiserfs en los formatos
+ de pendrive o discos duros.
+-Correciones ortográficas en comentarios de la primera versión
+-Retoques en la página man.
+			
+#r1 15 - Septiembre - 2018
+-Creado un logotipo con caracteres ASCII,puede visionarse escribiendo "logo"
+ en el menu principal.
+-Opcion para rellenar de ceros un DVD-RW/DVD+RW (borrado completo).
+ Destruye cualquier formato de disco. Formatear disco despues de este proceso.
+-Compatibilidad con el cdrkit de Debian.
+-Mejoras en el interfaz. Uso de Dialog para mostrar cuadros de dialogo. Cambios generales.
+-Opcion para grabar DVD-Video.
+-Opcion para crear imagenes .bin .cue desde la grabadora de CDs.
+ Necesario cdrdao.
+-Opcion para grabar imagenes desde ficheros .cue en CD. Necesario cdrdao.
+-Opcion para convertir archivos .ogg,.mp3 a .wav necesarios sox,lame y oggdec.
+-Implementado el centro de control,configura la aplicacion y gestiona otros
+ parametros.
+-Opcion para formatear un DVD-RW en incremental secuencial o sobreescritura
+ restringida.
+-Opcion para forzar el formato de un DVD+RW o localizar el bloque lead-out.
+-Muestra la informacion de un disco CD/DVD.Con cdrtools y dvd+-rw-tools
+-Opcion para grabar DVDs multisesion.
+-El script acepta argumentos:
+ * Genera un nuevo /etc/lcdgrab.cfg,mas informacion:lcdgrab --help
+-Opcion para copiar un DVD de datos ISO-9660 creando una imagen previa con dd.
+-Selección interactiva de colores para el interfaz.
+-Esquemas de colores para el interfaz.
+-Añadido el parametro -allow-limited-size en las llamadas a
+ genisoimage/growisofs
+ * -allow-limited-size es usado por genisoimage para poder hacer imagenes
+ de ficheros >= a 2 Gb
+-Añadido el parametro -joliet-long en las llamadas a mkisofs/growisofs.
+-Añadido conv=noerror en las llamadas a dd.(Ignora sectores defectuosos).
+-Soporte nativo para la distribucion GoboLinux.
+-Opcion para crear imagenes .img crudas,particiones de disco,diskettes etc...
+-Soporte para CDs de datos multisesion.
+-Cambios en el soporte para los sistemas de ficheros HFS y HFS+ (Sistemas de
+ archivo en Mac OS X), se usa -apple en vez de -hfs.
+-Muestra el comando que se ejecuta en las operaciones de grabacion,creado de
+ imagenes,audio...
+-Ripea pistas de audio a ficheros .wav o bien un CD-Audio completo,necesario
+ cdda2wav.
+-Soporte para imagenes .ext2 de 4 y 8 Gbytes.
+-Empaqueta y desempaqueta archivos en tar.gz,tar.bz2 y tar.xz
+-Convierte imagenes .nrg de Nero Burning ROM en .iso mediante dd.
+-Opcion para grabar CDs de audio desde ficheros *.wav
+-Opcion para copiar CDs de Audio.
+-Opcion para grabar CDs Mixtos (Datos + Audio)
+-Ripea un CD-Audio a .mp3
+-Compatibilidad con ficheros grandes, >= 2 o 4 Gigabytes al hacer imagenes
+ ISO-9660 con extensiones de Apple.
+ * Se ha sustituido el parametro -hfs por -apple en las llamadas a mkisofs
+ o genisoimage.
+ * Se testea si se usa genisoimage (pasando -allow-limited-size para este tema)
+ o mkisofs, ya que el funcionamiento es distinto entre ambas herramientas
+ (en el caso de las cdrtools este parametro no se usa, porque no lo necesita,
+ basta con usar -iso-level=3 o -iso-level=4).
+ * -allow-limited-size será usado solamente por genisoimage.
+ * Si el sistema tiene instaladas las cdrtools originales, usar -iso-level=3
+ en este tipo de grabaciones. 
+-Conversion y Grabacion de archivos .ogg en CD.
+-Conversion y Grabacion de archivos .mp3 en CD.
+-Comprime ficheros en xz.
+-Volcado de imagenes .img o .ext2 en un dispositivo de bloque.
+-Modularización del código fuente.
+-Implementada la pagina man del comando lcdgrab
+ * consultar mediante: man lcdgrab
+-Genera imagenes iso de CD con readcd.
+ * Opcion configurable para copias de CD en el Centro de Control.
+-Añadida la grabacion de DVD con cdrecord.
+-Formato de unidades de disco en ext2.
+-Soporte Multilenguaje en la aplicacion.
+-Normalización de ficheros de audio, formato .wav
+-Indicador de progreso.
+-Actualizado archivo de ayuda.
+
+Mejoras en la version 0.4 :
+---------------------------
+
+-Chequeo del sistema operativo, diseñado solo para linux.
+-Opcion para depurar parches : deppatch
+-Opcion para cambiar el lector de CD-ROM
+-En el montaje de CD-ROM ejecuta mount -t iso9660 $dispositivo $punto_de_montaje.Compatible con imagenes creadas mediante linux - cdgrab 0.3
+-Opcion para formatear un DVD+RW/DVD-RW,necesario dvd+rw-format
+-Opcion para grabar DVDs de datos a partir de archivos y directorios existentes
+ en el disco duro,necesario growisofs
+-Opcion para grabar imagenes ISO-9660 en un DVD,necesario growisofs.
+-Añadida la opcion de modificar el nivel iso. -iso-level toma el valor
+ especificado por el usuario.
+-Añadidos los parametros:
+ -pad -graft-points -hide-rr-moved -iso-level -path-list -volset-size 1 -volseqno 1 -A "LINUX-CDGRAB 0.4 -sysid LINUX 
+ a las llamadas a mkisofs, -path-list hizo necesario escribir la funcion
+ rutas_dir en Linux-cdgrab 0.4
+-La aplicacion permite la carga de parches.
+-Crea el directorio /mnt/cdrom en caso de que no exista.
+-Interfaz en varios colores (fondo y fuente)
+-Compatibilidad con grabadoras y versiones de cdrecord que no soporten el
+ parametro -overburn
+-Opcion para clonar CDs de datos,(no es funcional en todas las versiones de
+ cdrecord)
+-Grabacion en modo DAO.
+-Opcion para descomprimir imagenes en *.bz2,*.gz y *.zip
+-Opción para comprimir imagenes en *.bz2 o *.gz
+-Testeo del canal IDE e informe de dispositivos instalados.
+ (soportados los valores como 0,1,0 y /dev/dispositivo_de_grabacion)
+-Testeo de /dev/cdrom y /dev/dvd
+-Gestion de errores.
+-Opción de desinstalación.
+-El programa usa un fichero de configuracion.
+-Opcion para montar y desmontar dispositivos de bloque e imagenes.
+-Tolerancia a fallos.
+-Interfaz para manejar archivos en /tmp
+-Opcion de depuracion : dep
+ El script se depura mediante este comando : bash -x /usr/bin/lcdgrab
+ Si desea depurar el script en otro directorio ejecute :
+ bash -x $directorio/lcdgrab
+-Reescrito el archivo de ayuda.
+-Retocadas otras funciones.
+-Opcion para expulsar CDs de un dispositivo.
+-Creacion de imagenes .iso sin soporte para HFS (Sistema de ficheros de
+ Macintosh) en caso de que el parametro -h de mkisofs falle.
+-Añadida la capacidad de forzar el borrado de CD-RWs en caso de que el primer
+ intento falle.
+-Creacion de imagenes .iso desde un CD origen con mkisofs en caso de que dd
+ falle.
+
+Mejoras en la version 0.3 :
+---------------------------
+
+- El programa ha sido reescrito utilizando solo comandos del shell bash.
+- Opcion de ayuda.
+
+Mejoras en la version 0.2 :
+---------------------------
+
+- Opcion para grabar CDs de datos al vuelo.
+- Opcion para crear imagenes ISO-9660 y ext2.
+- Opcion para grabar imagenes en CD.
+
+Version 0.1 : (Inicios en programacion)
+---------------------------------------
+
+Programa prototipo.
+Graba CDs de datos en modo texto.
+Escrito en C , se llama a los comandos mediante la funcion system.
+
+Licencia:
+---------
+Distribuir la aplicacion bajo licencia GPL v2 (www.gnu.org).
+
+
+INFORME DE ERRORES EN : pascual89@hotmail.com
+
+Escrito por Pascual Martínez Cruz.
+pascual89@hotmail.com

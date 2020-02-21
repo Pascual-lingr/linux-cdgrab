@@ -1,0 +1,6 @@
+Catala.
+
+Llengua Catalana per linux-cdgrab.
+Experimental, generat per google translator en algunes parts.
+Pascual Martinez Cruz; pascual@hotmail.com
+

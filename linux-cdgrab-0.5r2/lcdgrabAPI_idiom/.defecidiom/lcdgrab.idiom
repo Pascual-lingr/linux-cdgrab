@@ -1,0 +1,110 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 0.5		   #
+# Mensajes en Español para la aplicacion principal #
+# Parte de Linux-cdgrab 0.5                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creditos
+
+creditos_MSG1="Distribuir bajo licencia GPL v2"
+creditos_MSG2="Mas informacion en www.gnu.org"
+creditos_MSG3="Pascual Martinez Cruz, creador y mantenedor --> pascual89@hotmail.com"
+creditos_MSG4="Informe de errores: pascual89@hotmail.com"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Archivo generado automaticamente por LINUX-CDGRAB 0.5"
+creacion_de_mnt_MSG2="Este archivo junto con el directorio"
+creacion_de_mnt_MSG3="han sido generados automaticamente"
+creacion_de_mnt_MSG4="por la aplicacion Linux-cdgrab al comprobar que en su distribucion de linux no existia"
+creacion_de_mnt_MSG5="el directorio"
+creacion_de_mnt_MSG6="Linux-cdgrab usa este directorio para montar su lector de CD-ROM o DVD-ROM"
+creacion_de_mnt_MSG7="El directorio"
+creacion_de_mnt_MSG8="no se borrara si Linux-cdgrab es desinstalado ya que suele ser el"
+creacion_de_mnt_MSG9="punto de montaje por defecto para /dev/cdrom en la mayoria de distribuciones de Linux."
+creacion_de_mnt_MSG10="Si su distribucion usa otro directorio para montar el dispositivo /dev/cdrom ,"
+creacion_de_mnt_MSG11="no creara ninguna incompatibilidad a la hora de querer acceder a los datos de su unidad"
+creacion_de_mnt_MSG12="aunque si Linux-cdgrab ha sido desinstalado puede prescindir de"
+creacion_de_mnt_MSG13="La finalidad de este archivo es solamente informativa,puede borrarlo libremente una vez leido."
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab no encuentra el editor de texto vi"
+ayuda_MSG2="Escriba el nombre de un editor de texto instalado en su sistema"
+ayuda_MSG3="NO SE ENCUENTRA NINGUN EDITOR INSTALADO"
+
+
+# cargar_parche
+
+cargar_parche_MSG1="Cargando"
+
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="AVISO:"
+main_IDSISTEMA_MSG2="Sistema operativo no soportado."
+main_IDSISTEMA_MSG3="Si existen problemas en el funcionamiento de la aplicacion use GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="No es un argumento valido"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="encontrado"
+main_cdkit_test_MSG2="enlace a wodim creado"
+main_cdkit_test_MSG3="enlace a genisoimage creado"
+main_cdkit_test_MSG4="enlace a icedax creado"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SINTAXIS"
+lcdgrab_sintaxis_MSG2="Imprime esta ayuda"
+lcdgrab_sintaxis_MSG3="Imprime la version de Linux-cdgrab"
+lcdgrab_sintaxis_MSG4="especifica el canal IDE o dispositivo de grabacion"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="especifica la velocidad de grabacion"
+lcdgrab_sintaxis_MSG7="especifica el lector de CD-ROM o DVD-ROM"
+lcdgrab_sintaxis_MSG8="especifica el canal IDE ATAPI de la grabadora"
+lcdgrab_sintaxis_MSG9="Las opciones -G -V -L y -CA se implican entre si."
+lcdgrab_sintaxis_MSG10="Las opciones -h y -v son independientes entre si y el resto."
+lcdgrab_sintaxis_MSG11="Ejemplos:"
+lcdgrab_sintaxis_MSG12="dispositivo"
+lcdgrab_sintaxis_MSG13="numero"
+
+# pgm principal
+
+pgm_principal_MSG1="FATAL: No se encuentra una distribucion correcta de directorios."
+pgm_principal_MSG2="DESCONOCIDO"
+
+# menu principal
+
+main_lcdgrabop1="GRABACION EN CD"
+main_lcdgrabop2="GRABACION EN DVD"
+main_lcdgrabop3="OPERACIONES EN UNIDAD DE DISCO"
+main_lcdgrabop4="CREACION DE IMAGENES"
+main_lcdgrabop5="CONVERSION DE AUDIO"
+main_lcdgrabop6="MONTAR O DESMONTAR CD/DVD"
+main_lcdgrabop7="MONTAR O DESMONTAR IMAGEN"
+main_lcdgrabop8="CARGAR UN PARCHE ADICIONAL\t\t="
+main_lcdgrabop9="CENTRO DE CONTROL"
+main_lcdgrabop0="SALIR"
+main_lcdgrabet1="OTRAS OPCIONES"
+main_lcdgrabopEe="Expulsar disco de la unidad"
+main_lcdgrabopTD="Mostrar el directorio"
+main_lcdgrabopG="Gestor de Archivos"
+main_lcdgrabopH="Ayuda"
+main_lcdgrabopA="Acerca"
+main_lcdgrabopPRINCIPAL="Teclee una opcion:"
+MSG1_MAIN="Seleccionando H se muestra el uso de opciones."
+main_lcdgrabopdep_MSG1="Introduzca la ruta del script:"
+main_lcdgrabopdep_MSG2="Ruta no valida"
+main_lcdgrabopdeppatch_MSG1="Parches instalados:"
+main_lcdgrabopdeppatch_MSG2="Introduzca la ruta del parche:"
+main_lcdgrabopdeppatch_MSG3="No se encuentra"
+main_lcdgrabopA_MSG1="Ejecutandose sobre:"
+

@@ -1,0 +1,48 @@
+#########################################################
+# lcdgrabAPI_idiom/Catala/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mesajes para la interfície de creació d'imatges
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribuire baix GPL v2
+# Part de Linux-cdgrab 0.5
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="CREACIÓ I TRACTAT SOBRE IMATGES DE DISC"
+MenuImagen_MSG2="------ CREACIÓ DE IMATGES ------"
+MenuImagen_MSG3="Crear una imatge ISO-9660"
+MenuImagen_MSG4="Crear una imatge ext2, sistema de fitxers de Linux"
+MenuImagen_MSG5="Crear una imatge .img de qualsevol dispositiu de blocs"
+MenuImagen_MSG6="Crear una imatge .bin .cue des del dispositiu actual"
+MenuImagen_MSG7="-------- ALTRES OPCIONS --------"
+MenuImagen_MSG8="Crear fitxer de descripció .cue des imatge .bin"
+MenuImagen_MSG9="Convertir una imatge .nrg (Nero Burning ROM) en .iso"
+MenuImagen_MSG10="Comprimir una imatge amb gzip, bzip2 o xz"
+MenuImagen_MSG11="Descomprimir una imatge en zip, gz, bz2 o xz"
+MenuImagen_MSG12="Canvia el mode iso"
+MenuImagen_MSG0="Menu anterior"
+MenuImagen_MSG13="Arxiu imatge que es vol comprimir"
+MenuImagen_MSG14="COMPRIMIR ARXIU D'IMATGE"
+MenuImagen_MSG15="Escriviu la ruta de directoris on aquesta la imatge que voleu comprimir:"
+MenuImagen_MSG16="Arxiu imatge que es vol descomprimir"
+MenuImagen_MSG17="NIVELL ISO ACTUAL"
+MenuImagen_MSG18="Nivell iso"
+MenuImagen_MSG19="Els noms d'arxiu consisteixen en una secció"
+MenuImagen_MSG20="i estan limitats a 8.3 caràcters."
+MenuImagen_MSG21="Trieu aquest nivell si vol tenir compatibilitat de noms"
+MenuImagen_MSG21b="sota el sistema operatiu MS-DOS"
+MenuImagen_MSG22="Els noms d'arxiu consisteixen en una secció"
+MenuImagen_MSG23="Nivell sense restriccions."
+MenuImagen_MSG24="Utilitza aquest nivell si vol compatibilitat amb arxius"
+MenuImagen_MSG25="grans, en aquest cas> = a 2 Gigabytes."
+MenuImagen_MSG26="Tots els nivells iso limiten el nom de fitxers a majúscules, minúscules i"
+MenuImagen_MSG27="caràcters com _ .Els noms de fitxer es limiten a 31 caràcters"
+MenuImagen_MSG28="Les rutes de directoris a 8 com a màxim i el nom de la ruta de"
+MenuImagen_MSG29="directoris a 255 caràcters."
+MenuImagen_MSG30="Trieu el nou nivell iso"
+MenuImagen_MSG31="El nivell iso 4 no és oficial"
+MenuImagen_MSG32="Consultar la pàgina man de mkisofs"
+MenuImagen_MSG33="Nivell ISO ivalid"
+MenuImagen_MSG34="Estableixet nivell iso 3 per defecte"
+

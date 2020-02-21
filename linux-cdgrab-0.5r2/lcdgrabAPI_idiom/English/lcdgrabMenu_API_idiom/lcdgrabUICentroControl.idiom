@@ -1,0 +1,249 @@
+#########################################################
+# lcdgrabAPI_idiom/English/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# English messages for Control Center Interface.
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribute under GPL v2
+# Part of Linux-cdgrab 0.5
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux-cdgrab Configuration"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="If you do not know which is the IDE channel belonging to" 
+ayuda_IDE_MSG2="your recorder can find out by pressing the letter t."
+ayuda_IDE_MSG3="An example of the IDE channel can be 0.0.0 or 0.1.0"
+ayuda_IDE_MSG4="You can also specify the corresponding device"
+ayuda_IDE_MSG5="to your recorder.If you do not know which one is safe press d,"
+ayuda_IDE_MSG6="to see the devices registered in the /etc/fstab file"
+ayuda_IDE_MSG7="An example of devices can be /dev/hdd,/dev/hde etc."
+ayuda_IDE_MSG8="If you wish you can also list all the devices contained"
+ayuda_IDE_MSG9="in the /dev directory by pressing the letter l."
+ayuda_IDE_MSG10="You must specify the IDE channel or the recording device"
+ayuda_IDE_MSG11="but not both."
+
+# desinstalar
+
+desinstalar_MSG1="Linux - cdgrab has been uninstalled of your system"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Burn Speed"
+imprimir_variables_MSG2="IDE/SCSI Bus channel or burn device"
+imprimir_variables_MSG3="CD-ROM or DVD-ROM Reader"
+imprimir_variables_MSG4="ATAPI Device"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Burn Speed"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI Bus channel or burn device"
+imprimir_lcdgrabcfg_MSG3="Lector de CD-ROM or DVD-ROM Reader"
+imprimir_lcdgrabcfg_MSG4="ATAPI Device"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Installed"
+chequeo_de_aplicaciones_MSG2="NO INSTALLED"
+chequeo_de_aplicaciones_MSG3="Install"
+chequeo_de_aplicaciones_MSG4="IMPORTANT:"
+chequeo_de_aplicaciones_MSG5="Installing the necessary tools Linux-cdgrab will work completely"
+chequeo_de_aplicaciones_MSG6="All the programs that Linux-cdgrab needs are installed on your system"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="Assign 0,0,0 value default to this variable"
+msgdefCANALATAPI_MSG2="The configuration file will be written with CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Configuration file generated automatically by Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG2="SPEED"
+nuevo_lcdgrabcfg_MSG3="CDROM_READER"
+nuevo_lcdgrabcfg_MSG4="ATAPIDEVICE"
+nuevo_lcdgrabcfg_MSG5="cdrecord not found in system"
+nuevo_lcdgrabcfg_MSG6="Install cdrtools package."
+nuevo_lcdgrabcfg_MSG7="You can continue the configuration by specifying the values"
+nuevo_lcdgrabcfg_MSG8="of recording if you know them previously."
+nuevo_lcdgrabcfg_MSG9="The cdrecord command is used in CD and DVD disc recordings"
+nuevo_lcdgrabcfg_MSG10="These options will not be functional until the package is installed."
+nuevo_lcdgrabcfg_MSG11="Neither will the unit scanning tool be functional, present"
+nuevo_lcdgrabcfg_MSG12="in this configuration wizard."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab needs to be configured in the following four steps"
+nuevo_lcdgrabcfg_MSG14="First Step."
+nuevo_lcdgrabcfg_MSG15="Burn Speed :"
+nuevo_lcdgrabcfg_MSG16="Only one number 2,4,8,16,32 ... etc"
+nuevo_lcdgrabcfg_MSG17="Second Step."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI Bus channel or burn device"
+nuevo_lcdgrabcfg_MSG19="A -> help"
+nuevo_lcdgrabcfg_MSG20="Scanning ..."
+nuevo_lcdgrabcfg_MSG21="Error scanning IDE/SCSI port"
+nuevo_lcdgrabcfg_MSG22="cdrecord command not found"
+nuevo_lcdgrabcfg_MSG23="Third Step."
+nuevo_lcdgrabcfg_MSG24="CD-ROM or DVD-ROM Reader Device"
+nuevo_lcdgrabcfg_MSG25="L -> List available devices"
+nuevo_lcdgrabcfg_MSG26="Scanning ..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI port scanned"
+nuevo_lcdgrabcfg_MSG28="Device to be used by cdrecord through dev = ATAPI in multisession recordings"
+nuevo_lcdgrabcfg_MSG30="The device has a nomenclature such as 0,0,0 or 1,0,0 etc"
+nuevo_lcdgrabcfg_MSG31="Specify the device to call cdrecord on multisession CDs: "
+nuevo_lcdgrabcfg_MSG32="The setup is not correct for CANALATAPI"
+nuevo_lcdgrabcfg_MSG33="Error scanning IDE/SCSI port"
+nuevo_lcdgrabcfg_MSG34="cdrecord command not found"
+nuevo_lcdgrabcfg_MSG36="Configuration file generated automatically by Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB CONFIGURATION COMPLETED"
+
+# colores
+
+colores_MSG1="Can not find the color list"
+colores_MSG2="Loading default colors"
+colores_MSG3="Choose new color scheme for the LINUX-CDGRAB interface"
+colores_MSG4="BLACK FONT"
+colores_MSG5="STANDARD BRILLIANT FONT"
+colores_MSG6="BLACK BACKGROUND"
+colores_MSG7="RED FONT"
+colores_MSG8="BLACK BRILLIANT FONT"
+colores_MSG9="RED BACKGROUND"
+colores_MSG10="GREEN FONT"
+colores_MSG11="RED BRILLIANT FONT"
+colores_MSG12="GREEN BACKGROUND"
+colores_MSG13="YELLOW FONT"
+colores_MSG14="GREEN BRILLIANT FONT"
+colores_MSG15="ORANGE BACKGROUND"
+colores_MSG16="BLUE FONT"
+colores_MSG17="YELLOW BRILLIANT FONT"
+colores_MSG18="BLUE BACKGROUND"
+colores_MSG19="MAGENTA FONT"
+colores_MSG20="BLUE BRILLIANT FONT"
+colores_MSG21="MAGENTA BACKGROUND"
+colores_MSG22="CIAN FONT"
+colores_MSG23="MAGENTA BRILLIANT FONT"
+colores_MSG24="CIAN BACKGROUND"
+colores_MSG25="GREY FONT"
+colores_MSG26="CIAN BACKGROUND"
+colores_MSG27="CIAN BRILLIANT FONT"
+colores_MSG28="GREY BACKGROUND"
+colores_MSG29="DEFAULT FONT"
+colores_MSG30="WHITE BRILLIANT FONT"
+colores_MSG31="DEFAULT BACKGROUND"
+colores_MSG32="Number of color for the font : "
+colores_MSG33="Number of color for the background : "
+colores_MSG34="Color number for warning messages : "
+colores_MSG35="Number of color for messages label : "
+colores_MSG36="Number of color for successful processes "
+colores_MSG37="Number of color for processes finished with error : "
+colores_MSG38="New layout for LINUX-CDGRAB"
+colores_MSG39="COLOR GENERAL DE FUENTE"
+colores_MSG40="LABELS"
+colores_MSG41="WARNINGS"
+colores_MSG42="OK"
+colores_MSG43="ERROR"
+colores_MSG44="BACKGROUND COLOR"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="AVAILABLE COLORS:"
+cambiar_esquema_de_color_MSG2="#####THEME COLOR#######"
+cambiar_esquema_de_color_MSG3="-----------------------"
+cambiar_esquema_de_color_MSG4="Menu Color"
+cambiar_esquema_de_color_MSG5="Error"
+cambiar_esquema_de_color_MSG6="Labels"
+cambiar_esquema_de_color_MSG6b="Warnings"
+cambiar_esquema_de_color_MSG7="Menu Color OK Error Warnings Labels"
+cambiar_esquema_de_color_MSG8="Type new color number :"
+cambiar_esquema_de_color_MSG9="INVALID OPTION"
+cambiar_esquema_de_color_MSG10="LOADING DEFAULT COLORS."
+cambiar_esquema_de_color_MSG11="  BACKGROUND = BLUE"
+cambiar_esquema_de_color_MSG12="  FONT = BRILLIANT WHITE"
+cambiar_esquema_de_color_MSG13="  WARNINGS = BRILLIANT BLACK"
+cambiar_esquema_de_color_MSG14="  ERRORS = BRILLIANT RED"
+cambiar_esquema_de_color_MSG15="  ERRORS = BRILLIANT RED"
+cambiar_esquema_de_color_MSG16="  OK = BRILLIANT GREEN"
+cambiar_esquema_de_color_MSG17="  LABELS = BRILLIANT MAGENTA"
+
+# cambia_lector
+
+cambia_lector_MSG1="Devices and mounting points according to /etc/fstab"
+cambia_lector_MSG2="Current device associated with the CD-ROM or DVD-ROM"
+cambia_lector_MSG3="Current device associated with the CD/DVD Recorder"
+cambia_lector_MSG4="Current device associated with the parameter dev=ATAPI :"
+cambia_lector_MSG5="(multisession support for cdrecord)"
+cambia_lector_MSG6="Select the device on which the change is to be made."
+cambia_lector_MSG7="Type option:"
+cambia_lector_MSG8="Type new device name"
+cambia_lector_MSG9="does not correspond with a block device"
+cambia_lector_MSG10="Device"
+cambia_lector_MSG11="assigned by default"
+cambia_lector_MSG12="New device :"
+cambia_lector_MSG13="Not all versions of cdrecord accept a block device as a recording parameter"
+cambia_lector_MSG14="Enter the name of the new ATAPI device"
+cambia_lector_MSG15="The configuration is not correct for CANALATAPI"
+cambia_lector_MSG16="0.0.0 is assigned by default to this variable"
+cambia_lector_MSG17="The configuration file will be written with CANALATAPI = 0,0,0"
+cambia_lector_MSG18="New device :"
+cambia_lector_MSG19="NO CHANGES TO DEVICES ARE MADE"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="From this menu you can choose what utility"
+cambia_generador_isocd_MSG2="will be used to generate images ISO-9660"
+cambia_generador_isocd_MSG3="from existing CDS in the reader unit."
+cambia_generador_isocd_MSG4="Current configuration:"
+cambia_generador_isocd_MSG5="Use dd (GNU coreutils component)"
+cambia_generador_isocd_MSG6="Use readcd (cdrtools component)"
+cambia_generador_isocd_MSG7="Previous Menu."
+cambia_generador_isocd_MSG8="Type option:"
+cambia_generador_isocd_MSG9="Using dd as iso generator."
+cambia_generador_isocd_MSG10="Using readcd as iso generator."
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Current notification system"
+cambia_notificaciones_MSG2="Notifications with dialog"
+cambia_notificaciones_MSG3="Notifications in text"
+cambia_notificaciones_MSG4="Exit"
+cambia_notificaciones_MSG5="Type option:"
+cambia_notificaciones_MSG6="Using notifications with dialog"
+cambia_notificaciones_MSG7="dialog command not found"
+cambia_notificaciones_MSG8="Using text notifications"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG1="Currently Available Languages:"
+cambiar_idioma_UI_MSG2="Enter the name of the language that will be used"
+cambiar_idioma_UI_MSG3="in the interface of the application:"
+cambiar_idioma_UI_MSG4="The new language used is:"
+
+# centro_de_control
+
+centro_de_control_MSG1="CONTROL CENTER"
+centro_de_control_MSG2="New Configuration"
+centro_de_control_MSG3="Delete configuration file"
+centro_de_control_MSG4="Show configuration file"
+centro_de_control_MSG5="Show current burn speed and devices used"
+centro_de_control_MSG6="Change Optical Unit"
+centro_de_control_MSG7="Check installed tools"
+centro_de_control_MSG8="Scan IDE/SCSI port with cdrecord"
+centro_de_control_MSG9="Change iso generating utility from CD"
+centro_de_control_MSG10="Change notification system"
+centro_de_control_MSG10b="Change color"
+centro_de_control_MSG10c="Change Interface Language"
+centro_de_control_MSG11="Uninstall program"
+centro_de_control_MSG12="Type option : "
+centro_de_control_MSG13="THERE IS NO CONFIGURATION FILE"
+centro_de_control_MSG14="CONFIGURATION FILE NOT FOUND"
+centro_de_control_MSG15="Scanning"
+centro_de_control_MSG16="IDE/SCSI port scanned"
+centro_de_control_MSG17="Error scanning IDE/SCSI port"
+centro_de_control_MSG18="Select color layout"
+centro_de_control_MSG19="Select colors arbitrarily"
+centro_de_control_MSG20="Previous Menu"
+centro_de_control_MSG21="Type option : "
+centro_de_control_MSG22="THERE IS NO CONFIGURATION FILE"
+centro_de_control_MSG23="CONFIGURATION FILE NOT FOUND"
+centro_de_control_MSG24="Select color layout"
+centro_de_control_MSG25="Select colors arbitrarily"
+centro_de_control_MSG26="Invalid option"
+

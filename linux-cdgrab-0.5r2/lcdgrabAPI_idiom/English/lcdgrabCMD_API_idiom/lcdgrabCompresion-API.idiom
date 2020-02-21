@@ -1,0 +1,51 @@
+#########################################################
+# lcdgrabAPI_idiom/English/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# English Messages to compresion/decompresion files API
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribute under GPL v2
+# Part of Linux-cdgrab 0.5
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Enter the path of the file or directory:"
+empaquetar_MSG2="------- Options -------"
+empaquetar_MSG3="Generate .tar.gz file"
+empaquetar_MSG4="Generate .tar.bz2 file"
+empaquetar_MSG5="Type option : "
+empaquetar_MSG6="Executing"
+empaquetar_MSG7="Invalid Option"
+
+# desempaquetar
+
+desempaquetar_MSG1="Enter the file path:"
+desempaquetar_MSG2="YOU DO NOT FIND A DECOMPRESSOR FOR"
+desempaquetar_MSG3="OR"
+desempaquetar_MSG4="DOES NOT EXIST"
+desempaquetar_MSG5="Executing"
+desempaquetar_MSG6="Unpacking"
+desempaquetar_MSG7="Error Unpacking"
+
+# comprime
+
+comprime_MSG1="COMPRESSING IMAGE"
+comprime_MSG2="Compress with bzip2"
+comprime_MSG3="Compress with gzip"
+comprime_MSG4="Compress with xz"
+comprime_MSG5="Previous Menu"
+comprime_MSG6="Executing"
+comprime_MSG7="Compression of finished image file"
+comprime_MSG8="Error compressing with"
+comprime_MSG9="Compressor not valid"
+
+# descomprime
+
+descomprime_MSG1="Type the file path:"
+descomprime_MSG2="-------------------"
+descomprime_MSG3="YOU DO NOT FIND A DECOMPRESSOR FOR"
+descomprime_MSG4="OR"
+descomprime_MSG5="DOES NOT EXIST"
+descomprime_MSG6="Executing"
+descomprime_MSG7="uncompressed"
+descomprime_MSG8="Error when trying to decompress"
+

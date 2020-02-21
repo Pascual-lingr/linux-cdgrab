@@ -1,0 +1,46 @@
+#########################################################
+# lcdgrabAPI_idiom/English/lcdgrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# English messages to Block Device API
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribute under GPL v2
+# Part of linux-cdgrab 0.5
+#########################################################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Path of the image .img or .ext2 to dump to disk."
+volcar_imagen_MSG2="-------------------------WARNING------------------------------" 
+volcar_imagen_MSG3="+ This option is not functional on optical discs.."
+volcar_imagen_MSG4="+ Use on pendrives, diskettes, disk partitions etc. "
+volcar_imagen_MSG5="+ Consideration with hard drives:"
+volcar_imagen_MSG6="+ The writing of the image is done with dd from the beginning"
+volcar_imagen_MSG7="  of the specified disc, it is not allowed to use a number of"
+volcar_imagen_MSG8="  sector in particular to start the writing process"
+volcar_imagen_MSG9="+  Use with caution. Use at your own risk."
+volcar_imagen_MSG10="+ Disk partitions may become unusable."
+volcar_imagen_MSG11="+ It is not recommended to use in systems with multiple partitions."
+volcar_imagen_MSG12="  The restoration can leave the partition table and"
+volcar_imagen_MSG13="  unusable partitions."
+volcar_imagen_MSG14="-------------------------------------------------------------"
+volcar_imagen_MSG15="TYPE C KEY TO CONTINUE; (The process will be canceled in another option)"
+volcar_imagen_MSG16="Specify the path of the .img or ext2 image to dump to disk: "
+volcar_imagen_MSG17="Mount command output:"
+volcar_imagen_MSG18="Specify the block device where the image will be dumped:"
+volcar_imagen_MSG19="WRITTING IMAGE"
+volcar_imagen_MSG20="AT DEVICE"
+volcar_imagen_MSG21="executing"
+volcar_imagen_MSG22="WRITTING IMAGE PROCESS ENDED"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Select the file system to"
+Formateador_linuxfs_MSG2="format the device:"
+Formateador_linuxfs_MSG3="Type device to be formatted:"
+Formateador_linuxfs_MSG4="executing"
+Formateador_linuxfs_MSG5="PROCESS COMPLETED"
+Formateador_linuxfs_MSG6="DISCS FORMATER"
+Formateador_linuxfs_MSG7="Set volume label"
+Formateador_linuxfs_MSG10="Type new label volume"
+Formateador_linuxfs_MSG11="New label Volume"
+Formateador_linuxfs_MSG14="Previous Menu"

@@ -1,0 +1,48 @@
+#########################################################
+# lcdgrabAPI_idiom/Español/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en español para el menu de montaje y desmontaje de dispositivos
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 0.5
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="DISPOSITIVOS MONTADOS ACTUALMENTE EN EL SISTEMA"
+montar_dispositivos_MSG2="OPCIONES DE LINUX-CDGRAB"
+montar_dispositivos_MSG3="Expulsar disco del lector de CD/DVD"
+montar_dispositivos_MSG4="Expulsar disco de la grabadora de CD/DVD"
+montar_dispositivos_MSG5="Montar lector de CD-ROM/DVD-ROM"
+montar_dispositivos_MSG6="Desmontar CD-ROM/DVD-ROM"
+montar_dispositivos_MSG7="Montar o desmontar dispositivo a mano"
+montar_dispositivos_MSG0="Menu anterior"
+montar_dispositivos_MSG8="CD montado en"
+montar_dispositivos_MSG9="PULSE INTRO PARA CONTINUAR ..."
+montar_dispositivos_MSG10="Error al montar el CD en"
+montar_dispositivos_MSG11="Se ha desmontado el CD"
+montar_dispositivos_MSG12="Error al desmontar el CD"
+montar_dispositivos_MSG13="Teclee el dispositivo a montar/desmontar:"
+montar_dispositivos_MSG14="Teclee el punto de montaje:"
+montar_dispositivos_MSG15="no corresponde a un dispositivo de bloque"
+montar_dispositivos_MSG16="No se encuentra el punto de montaje"
+montar_dispositivos_MSG17="Punto de montaje por defecto"
+montar_dispositivos_MSG18="Elija opcion:"
+montar_dispositivos_MSG19="Monta el"
+montar_dispositivos_MSG20="en"
+montar_dispositivos_MSG21="Desmonta"
+montar_dispositivos_MSG22="de"
+montar_dispositivos_MSG23="montado en :"
+montar_dispositivos_MSG24="ERROR AL MONTAR"
+montar_dispositivos_MSG25="EN"
+montar_dispositivos_MSG26="desmontado de"
+montar_dispositivos_MSG27="ERROR AL DESMONTAR"
+montar_dispositivos_MSG28="de"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Salida del comando mount"
+Montar_Imagenes_MSG2="Elija una opcion"
+Montar_Imagenes_MSG3="Montar imagen de CD/DVD"
+Montar_Imagenes_MSG4="Desmontar imagen de CD/DVD"
+

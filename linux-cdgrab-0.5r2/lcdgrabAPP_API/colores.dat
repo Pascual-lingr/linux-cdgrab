@@ -1,0 +1,65 @@
+# Colores en Linux-cdgrab 0.5
+# pascual89@hotmail.com
+##########################
+# colores de fuente
+##########################
+# negro
+NEGRO="\033[0;30m"
+# rojo
+ROJO="\033[0;31m"
+# verde
+VERDE="\033[0;32m"
+# amarillo o naranja
+AMARILLO="\033[0;33m"
+# azul
+AZUL="\033[0;34m"
+# magenta
+MAGENTA="\033[0;35m"
+# cian
+CIAN="\033[0;36m"
+# gris o negro
+GRIS="\033[0;37m"
+# color por defecto
+DEFECTO="\033[0;39m"
+##############################
+# colores brillantes de fuente
+##############################
+# color estandar,fondo siempre negro
+STANDAR="\033[1;0m"
+# negro
+B_NEGRO="\033[1;30m"
+# rojo
+B_ROJO="\033[1;31m"
+# verde claro
+B_VERDE="\033[1;32m"
+# amarillo
+B_AMARILLO="\033[1;33m"
+# azul marino
+B_AZUL="\033[1;34m"
+# magenta
+B_MAGENTA="\033[1;35m"
+# azul celeste
+B_CIAN="\033[1;36m"
+# blanco
+B_BLANCO="\033[1;37m"
+##################
+# colores de fondo
+##################
+# fondo negro
+FONDO_NEGRO="\033[1;40m"
+# fondo rojo
+FONDO_ROJO="\033[1;41m"
+# fondo verde
+FONDO_VERDE="\033[1;42m"
+# fondo naranja
+FONDO_NARANJA="\033[1;43m"
+# fondo azul
+FONDO_AZUL="\033[1;44m"
+# fondo magenta
+FONDO_MAGENTA="\033[1;45m"
+# fondo cian
+FONDO_CIAN="\033[1;46m"
+# fondo gris
+FONDO_GRIS="\033[1;47m"
+# fondo por defecto
+FONDO_DEFECTO="\033[1;49m"

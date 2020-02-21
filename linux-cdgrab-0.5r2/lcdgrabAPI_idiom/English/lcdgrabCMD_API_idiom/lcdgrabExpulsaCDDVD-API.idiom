@@ -1,0 +1,15 @@
+#########################################################
+# lcdgrabAPI_idiom/English/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# English Messages to lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribute under GPL v2
+# Part of linux-cdgrab 0.5
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="OPTICAL DISK EJECTED"
+expulsar_medio_MSG2="Error trying to eject Disk from device"
+expulsar_medio_MSG3="Enter the device name manually :"
+

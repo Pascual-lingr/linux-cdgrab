@@ -1,0 +1,48 @@
+#########################################################
+# lcdgrabAPI_idiom/Español/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en español para las acciones sobre dispositivos de bloque.
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 0.5
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Ruta de la imagen .img o .ext2 para volcar en disco."
+volcar_imagen_MSG2="-----------------------IMPORTANTE----------------------------" 
+volcar_imagen_MSG3="+ Esta opcion no es funcional en discos opticos."
+volcar_imagen_MSG4="+ Usar sobre pendrives, diskettes, particiones de disco etc. "
+volcar_imagen_MSG5="+ Consideracion con los discos duros:"
+volcar_imagen_MSG6="+ La escritura de la imagen se hace con dd desde el inicio"
+volcar_imagen_MSG7="  del disco especificado, no se permite usar un numero de"
+volcar_imagen_MSG8="  sector en concreto para iniciar el proceso de escritura"
+volcar_imagen_MSG9="+ Usar con precaucion. Usar bajo propio riesgo."
+volcar_imagen_MSG10="+ Las particiones de disco pueden quedar inservibles."
+volcar_imagen_MSG11="+ No se recomienda usar en sistemas de multiples particiones."
+volcar_imagen_MSG12="  La restauracion puede dejar la tabla de particiones y"
+volcar_imagen_MSG13="  particiones en si inservibles."
+volcar_imagen_MSG14="-------------------------------------------------------------"
+volcar_imagen_MSG15="PULSE LA TECLA C PARA CONTINUAR;(El proceso sera cancelado en otra opcion)"
+volcar_imagen_MSG16="Especifique la ruta de la imagen .img o ext2 para volcar en disco: "
+volcar_imagen_MSG17="Salida del comando mount:"
+volcar_imagen_MSG18="Especifique el dispositivo de bloques donde se va a volcar la imagen:"
+volcar_imagen_MSG19="VOLCANDO IMAGEN"
+volcar_imagen_MSG20="EN EL DISPOSITIVO"
+volcar_imagen_MSG21="ejecutando"
+volcar_imagen_MSG22="PROCESO DE VOLCADO DE IMAGEN FINALIZADO"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Seleccione el sistema de ficheros con el"
+Formateador_linuxfs_MSG2="que el dispositivo sera formateado:"
+Formateador_linuxfs_MSG3="Especifique el dispositivo de bloque a formatear: "
+Formateador_linuxfs_MSG4="ejecutando"
+Formateador_linuxfs_MSG5="PROCESO COMPLETADO"
+Formateador_linuxfs_MSG6="FORMATEADOR DE DISCOS"
+Formateador_linuxfs_MSG7="Establecer etiqueta de volumen"
+Formateador_linuxfs_MSG10="Especifique el nombre de etiqueta de volumen"
+Formateador_linuxfs_MSG11="Nueva etiqueta de Volumen"
+Formateador_linuxfs_MSG14="Menú Anterior"

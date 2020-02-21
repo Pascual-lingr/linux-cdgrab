@@ -1,0 +1,65 @@
+#!/bin/bash
+
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Instala Linux - cdgrab 0.5
+
+# crea los directorios
+echo "Instalacion de LINUX-CDGRAB 0.5"
+echo ""
+echo "Creando directorios ..."
+
+mkdir /mnt &> /dev/null
+mkdir /mnt/lcdgrab &> /dev/null
+mkdir /usr/share &> /dev/null
+mkdir /usr/share/linux-cdgrab &> /dev/null
+mkdir /usr/share/linux-cdgrab/parches &> /dev/null
+echo "Copiando archivos ..."
+
+cp -f lcdgrab /usr/share/linux-cdgrab
+
+if test -d /usr/share/man/es/man1;then
+   cp -f lcdgrab.1.gz /usr/share/man/es/man1
+fi
+
+if test -d /usr/man/man1;then
+   cp -f lcdgrab.1.gz /usr/man/man1
+fi
+
+cp -f /usr/share/linux-cdgrab/lcdgrab /usr/bin &> /dev/null
+cp -rf lcdgrabAPP_API /usr/share/linux-cdgrab
+cp -rf lcdgrabCMD_API /usr/share/linux-cdgrab
+cp -rf lcdgrabMenu_API /usr/share/linux-cdgrab
+cp -rf lcdgrabAPI_idiom /usr/share/linux-cdgrab
+
+chmod +x /usr/bin/lcdgrab
+chmod +x /usr/share/linux-cdgrab/lcdgrabAPP_API/*.sh
+chmod +x /usr/share/linux-cdgrab/lcdgrabCMD_API/*.sh
+chmod +x /usr/share/linux-cdgrab/lcdgrabMenu_API/*.sh
+
+cp -f leeme.txt logo.txt ayuda.txt GPL-2.0.txt /usr/share/linux-cdgrab
+
+echo "Copiando parche LightScribe"
+
+cd ./LightScribePatchV05
+cp -f lingr05lightscribepatch.sh /usr/share/linux-cdgrab/parches
+cp -f Leeme-soporte-lightscribe.txt /usr/share/linux-cdgrab/parches
+
+chmod +x /usr/share/linux-cdgrab/parches/lingr05lightscribepatch.sh
+
+cp -f ./Español/lingr05lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/Español/lcdgrabparches_idiom
+cp -f ./English/lingr05lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/English/lcdgrabparches_idiom
+cp -f ./Catala/lingr05lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/Catala/lcdgrabparches_idiom
+
+echo "Parche LightScribe Instalado"
+
+echo "Instalacion finalizada"
+echo ""
+echo "NOTA:"
+echo "Teclee lcdgrab para ejecutar el programa"
+echo ""
+echo "El manual esta en /usr/share/linux-cdgrab"
+echo "Consulte la pagina man mediante la orden:"
+echo "man lcdgrab"
+echo ""
+
+

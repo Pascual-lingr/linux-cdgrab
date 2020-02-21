@@ -1,0 +1,16 @@
+#########################################################
+# lcdgrabAPI_idiom/Español/lcgdrabMenu_API/lcdgrabUICargaParches.idiom
+# Mensajes para el interfaz de carga para parches.
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 0.5
+#########################################################
+
+# cargar_parche
+
+cargar_parche_MSG1="LISTADO DE PARCHES EXISTENTES:"
+cargar_parche_MSG2="Escriba el nombre del parche que quiera cargar:"
+cargar_parche_MSG3="Ejemplo : parche_para_DVD.sh"
+cargar_parche_MSG4="NO EXISTE EL PARCHE"
+

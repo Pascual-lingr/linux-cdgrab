@@ -1,0 +1,14 @@
+lingr05lightscribepatch.sh ver 0.3 --> 19 - Mayo - 2018
+
+Parche para soportar etiquetado LightScribe en LINUX-CDGRAB 0.5
+Pascual Martinez Cruz --> pascual89@hotmail.com
+Distribuir bajo la misma licencia que Linux-cdgrab 0.5 (GPL v2)
+
+path de ejecucion: /usr/share/linux-cdgrab/parches/lingr05lightscribepatch.sh
+
+ficheros de idioma: /usr/share/linux-cdgrab/lcdgrabAPI_idiom/${IDIOM}/lcdgrabparches_idiom/lingr05lightscribepatch.idiom
+donde IDIOM = Español, English, Catala.
+
+
+
+

@@ -1,0 +1,108 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 0.5		   #
+# Missatjes en Catala per l'aplicacion principall. #
+#            Part de Linux-cdgrab 0.5              #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuire baix licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creditos
+
+creditos_MSG1="Distribuire baix la licencia GPL v2"
+creditos_MSG2="Mes informacio en www.gnu.org"
+creditos_MSG3="Pascual Martinez Cruz, creador i mantenidor --> pascual89@hotmail.com"
+creditos_MSG4="Informe d'errors: pascual89@hotmail.com"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Archiu generat automaticament per LINUX-CDGRAB 0.5"
+creacion_de_mnt_MSG2="Aquest archiu amb el directori"
+creacion_de_mnt_MSG3="han siguts generats automaticament"
+creacion_de_mnt_MSG4="per la aplicacio Linux-cdgrab tras comprovar que en el seu distribució de linux no existis"
+creacion_de_mnt_MSG5="el directori"
+creacion_de_mnt_MSG6="Linux-cdgrab usa auquest directori per montar el seu lector de CD-DOM o DVD-ROM"
+creacion_de_mnt_MSG7="El directori"
+creacion_de_mnt_MSG8=" no es borrara si Linux-cdgrab es desinstalat ja que soleis ser"
+creacion_de_mnt_MSG9=" punt de muntatge per defecte usat per el dispositiu /dev/cdrom en la majoria de distribucions."
+creacion_de_mnt_MSG10="Si la seua distribucio fa servir un altre directori per montar el dispositiu /dev/cdrom ,"
+creacion_de_mnt_MSG11="no creés cap incompatibilitat a l'hora de voler accedir a les dades de la seva unitat"
+creacion_de_mnt_MSG12="encara que si Linux-cdgrab ha estat desinstal pot prescindir de"
+creacion_de_mnt_MSG13="La finalitat d'aquest fitxer és solament informativa, pot esborrar-se lliurement un cop llegit"
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab no troba l'editor de text vi"
+ayuda_MSG2="Escriu el nom d'un editor de text existent al sistema"
+ayuda_MSG3="NO TROBA CAP EDITOR INSTAL·LAT"
+
+# cargar_parche
+
+cargar_parche_MSG1="Cargant"
+
+# Comprova el Sistema Operatiu.
+
+main_IDSISTEMA_MSG1="AVIS:"
+main_IDSISTEMA_MSG2="Sistema operatiu no soportat."
+main_IDSISTEMA_MSG3="Si hi ha problemes en el funcionament de l'aplicació faci servir GNU/Linux"
+
+# arguments
+
+main_arg_MSG1="No es un argument valid"
+
+# compatibilitat amb el cdrkit
+
+main_cdkit_test_MSG1="trobat"
+main_cdkit_test_MSG2="enllaç a wodim creat"
+main_cdkit_test_MSG3="enllaç a genisoimage creat"
+main_cdkit_test_MSG4="enllaç a icedax creat"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SINTAXIS"
+lcdgrab_sintaxis_MSG2="Imprimeix aquesta ajuda"
+lcdgrab_sintaxis_MSG3="Imprimeix la versió de Linux-cdgrab"
+lcdgrab_sintaxis_MSG4="especifica el canal IDE o dispositiu de gravació"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="especifica la velocitat de gravació"
+lcdgrab_sintaxis_MSG7="especifica el lector de CD-ROM o DVD-ROM"
+lcdgrab_sintaxis_MSG8="especifica el canal IDE ATAPI de la gravadora"
+lcdgrab_sintaxis_MSG9="Les opcions -G -V -L i -Ca s'impliquen entre si."
+lcdgrab_sintaxis_MSG10="Les opcions -h i -v són independents entre si i la resta."
+lcdgrab_sintaxis_MSG11="Exemples:"
+lcdgrab_sintaxis_MSG12="dispositiu"
+lcdgrab_sintaxis_MSG13="nombre"
+
+# pgm principall
+
+pgm_principal_MSG1="FATAL: No es troba una distribució correcta de directoris."
+pgm_principal_MSG2="DESCONEGUT"
+
+### Menu principall de la aplicacio.
+
+main_lcdgrabop1="GRABACIO EN CD"
+main_lcdgrabop2="GRABACIO EN DVD"
+main_lcdgrabop3="OPERACIONS EN UNITAT DE DISC"
+main_lcdgrabop4="CREACIÓ D'IMATGES"
+main_lcdgrabop5="CONVERSIÓ D'AUDIO"
+main_lcdgrabop6="MUNTAR O DESMUNTAR CD/DVD"
+main_lcdgrabop7="MUNTAR O DESMUNTAR IMATGE"
+main_lcdgrabop8="CARREGAR UN PATH ADDICIONAL\t\t="
+main_lcdgrabop9="CENTRE DE CONTROL"
+main_lcdgrabop0="EIXIR"
+main_lcdgrabet1="OTRES OPCIONS"
+main_lcdgrabopEe="Expulsar disc de la unitat"
+main_lcdgrabopTD="Mostra directori"
+main_lcdgrabopG="Gestor d'Arxius"
+main_lcdgrabopH="Ajuda"
+main_lcdgrabopA="Sobre"
+main_lcdgrabopPRINCIPAL="Escriviu una opció:"
+MSG1_MAIN="Seleccionant H es mostra l'ús d'opcions."
+main_lcdgrabopdep_MSG1="Introduïu la ruta de l'script:"
+main_lcdgrabopdep_MSG2="Ruta no valida"
+main_lcdgrabopdeppatch_MSG1="Paths instalats:"
+main_lcdgrabopdeppatch_MSG2="Introduïu la ruta del path:"
+main_lcdgrabopdeppatch_MSG3="No es troba"
+main_lcdgrabopA_MSG1="Executant baix:"
+

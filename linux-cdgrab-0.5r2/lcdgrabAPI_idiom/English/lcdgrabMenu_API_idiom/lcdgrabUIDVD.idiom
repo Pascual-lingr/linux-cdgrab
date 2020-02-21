@@ -1,0 +1,74 @@
+#########################################################
+# lcdgrabAPI_idiom/English/lcdgrabMenuAPI_idiom/lcdgrabUIDVD.idiom 
+# English messages for DVD burning menu.
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribute under GPL v2
+# Part of Linux-cdgrab 0.5
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Select the user interface that will be used:"
+SeleccionaIUDVD_MSG2="Use dvd+-rw-tools interface"
+SeleccionaIUDVD_MSG3="Use Cdrecord-ProDVD interface"
+SeleccionaIUDVD_MSG4="Previus Menu"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="BURN DVD"
+menugrabar_dvd_MSG2="---------- DVD - DATA ----------"
+menugrabar_dvd_MSG3="Copy ISO-9660 data DVD"
+menugrabar_dvd_MSG4="Create a previous DVD image on the hard drive"
+menugrabar_dvd_MSG5="Burn a new data DVD ISO-9660"
+menugrabar_dvd_MSG6="Add new data session to ISO-9660 DVD data (DVD multisession)"
+menugrabar_dvd_MSG7="Requires a DVD previously recorded by the second option"
+menugrabar_dvd_MSG8="Burn an ISO-9660 data image to DVD"
+menugrabar_dvd_MSG9="Burn a .ext2 image on DVD"
+menugrabar_dvd_MSG10="---------- DVD - VIDEO ----------"
+menugrabar_dvd_MSG11="Burn a new DVD-Video"
+menugrabar_dvd_MSG12="--------- OTHER OPTIONS ---------"
+menugrabar_dvd_MSG13="Format a DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Show DVD disc information"
+menugrabar_dvd_MSG0="Previous Menu"
+menugrabar_dvd_MSGPRINCIPAL="Type option"
+menugrabar_dvd_MSG15="Files and directories to include in the DVD"
+menugrabar_dvd_MSG16="Launching File Manager..."
+menugrabar_dvd_MSG17="Image .iso to burn to DVD"
+menugrabar_dvd_MSG18="Type the directory path where the .iso image you want to record is located"
+menugrabar_dvd_MSG19="Requires version of cdrecord with support for DVD."
+menugrabar_dvd_MSG20="The recording of the .ext2 image on DVD will be done with cdrecord."
+menugrabar_dvd_MSG21="The existing version of cdrecord in your installation should"
+menugrabar_dvd_MSG22="support DVD recording."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="SELECT OPTION"
+dvd_clonar_MSG2="--- COPIES OF DISC WITH PREVIOUS IMAGE ---"
+dvd_clonar_MSG3="Copy a DVD Data"
+dvd_clonar_MSG4="Create a previous DVD image on the hard drive"
+dvd_clonar_MSG5="--- DISK COPY ON THE FLY ---"
+dvd_clonar_MSG6="Copy a data DVD on the fly"
+dvd_clonar_MSG7="Clone a data DVD on the fly"
+dvd_clonar_MSG8="THE COPY OPTIONS TO THE FLIGHT REQUIRE TWO OPTICAL UNITS"
+dvd_clonar_MSG9="INSTALLED ON YOUR EQUIPMENT, SINCE THE DATA IS RECORDED WHILE"
+dvd_clonar_MSG10="READ DIRECTLY FROM THE DISC ORIGIN, IF ON YOUR TEAM ONLY HAS"
+dvd_clonar_MSG11="ONE CAN NOT USE THE COPIES TO THE FLIGHT."
+dvd_clonar_MSG0="Previous Menu"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="BURN DVD"
+menugrabar_DVD_MSG2="------------------- DVD - DATA ------------------"
+menugrabar_DVD_MSG3="Copy a DVD data"
+menugrabar_DVD_MSG4="Burn new DVD data disk"
+menugrabar_DVD_MSG5="Burn .iso or .ext2 image in DVD"
+menugrabar_DVD_MSG6="Format DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Show disk information in the unit"
+menugrabar_DVD_MSG0="Previous Menu"
+menugrabar_DVD_MSGPRINCIPAL="Type option"
+

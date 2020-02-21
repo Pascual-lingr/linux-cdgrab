@@ -1,0 +1,16 @@
+#########################################################
+# lcdgrabAPI_idiom/Catala/lcgdrabMenu_API/lcdgrabUICargaParches.idiom
+# Mesajes en Catala per la interfície de càrrega per a patchs.
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribuire baix GPL v2
+# Part de Linux-cdgrab 0.5
+#########################################################
+
+# cargar_parche
+
+cargar_parche_MSG1="LLISTAT DE PATCHS EXISTENTS:"
+cargar_parche_MSG2="Escriu el nom del patch que vols carregar:"
+cargar_parche_MSG3="Example : parche_para_DVD.sh"
+cargar_parche_MSG4="NO EXISTIS EL PATCH"
+

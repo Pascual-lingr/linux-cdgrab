@@ -1,0 +1,6 @@
+Idioma usado por defecto.
+Español España.
+
+Idioma Español España para linux-cdgrab.
+Pascual Martinez Cruz; pascual@hotmail.com
+

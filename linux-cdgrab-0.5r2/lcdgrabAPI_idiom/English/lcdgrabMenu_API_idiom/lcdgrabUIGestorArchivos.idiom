@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/English/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# English Messages for File Manager
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribute under GPL v2
+# Part of Linux-cdgrab 0.5
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* NAVIGATION OPTIONS ************************"
+ayuda_gestor_de_archivos_MSG2="Browse the file system."
+ayuda_gestor_de_archivos_MSG3="X --> Exit"
+ayuda_gestor_de_archivos_MSG4="A --> Previous directory"
+ayuda_gestor_de_archivos_MSG5="B --> Next directory"
+ayuda_gestor_de_archivos_MSG6="Actions on files and directories."
+ayuda_gestor_de_archivos_MSG7="C --> Copy File"
+ayuda_gestor_de_archivos_MSG8="M --> Move File"
+ayuda_gestor_de_archivos_MSG9="CD --> Copy Directory"
+ayuda_gestor_de_archivos_MSG10="MD --> Move Directory"
+ayuda_gestor_de_archivos_MSG11="Compression actions on files and directories."
+ayuda_gestor_de_archivos_MSG12="Z --> Compress a file"
+ayuda_gestor_de_archivos_MSG13="DZ --> Uncompress a file"
+ayuda_gestor_de_archivos_MSG14="EZ --> Create a .tar.gz or .tar.bz2 package"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Unpack a .tar.gz or .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="********************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Current active directory"
+gestor_de_archivos_MSG0B="Files in"
+gestor_de_archivos_MSG1="========================= NAVIGATION OPTIONS ==========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> HELP="
+gestor_de_archivos_MSG3="========================================================================"
+gestor_de_archivos_MSG4="Type Option"
+gestor_de_archivos_MSG5="Type the directory"
+gestor_de_archivos_MSG6="Type the source file"
+gestor_de_archivos_MSG7="Type the destination file"
+gestor_de_archivos_MSG8="Successfully copied file"
+gestor_de_archivos_MSG9="Error copying the file"
+gestor_de_archivos_MSG10="Type the source file"
+gestor_de_archivos_MSG11="Type the destination file"
+gestor_de_archivos_MSG12="File moved with success"
+gestor_de_archivos_MSG13="Error moving the file"
+gestor_de_archivos_MSG14="Type the source directory"
+gestor_de_archivos_MSG15="Type the destination directory"
+gestor_de_archivos_MSG16="Directory copied successfully"
+gestor_de_archivos_MSG17="Error copying the directory"
+gestor_de_archivos_MSG18="Type the source directory"
+gestor_de_archivos_MSG19="Type the destination directory"
+gestor_de_archivos_MSG20="Directorio movido con exito"
+gestor_de_archivos_MSG21="Error moving the directory"
+gestor_de_archivos_MSG22="FILE TO COMPRESS"
+gestor_de_archivos_MSG23="Specify the file path"
+

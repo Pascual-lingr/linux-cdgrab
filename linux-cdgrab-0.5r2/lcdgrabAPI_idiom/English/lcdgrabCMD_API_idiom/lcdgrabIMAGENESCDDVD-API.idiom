@@ -1,0 +1,185 @@
+#########################################################
+# lcgdrabAPI_idiom/English/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVD-API.idiom
+# English messages to the API of Image file iso and others creation.
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribute under GPL v2
+# Part of Linux-cdgrab 0.5
+#########################################################
+
+# imagen_ext2
+
+imagen_ext2_MSG1="Create image for a CD-R/RW (702 Mbytes)"
+imagen_ext2_MSG2="Create image for a DVD+RW/DVD-RW (4 Gbytes)"
+imagen_ext2_MSG3="Create image for a DVD+RW DL (8 Gbytes)"
+imagen_ext2_MSG4="Creating empty file with capacity for 702 Mbytes"
+imagen_ext2_MSG5="Creating empty file with capacity for 4 Gbytes"
+imagen_ext2_MSG6="Creating empty file with capacity for 8 Gbytes"
+imagen_ext2_MSG7="ERROR :THE SIZE OF THE IMAGE IS NOT KNOWN.ABORTING..."
+imagen_ext2_MSG8="executing"
+imagen_ext2_MSG9="The program will format the empty file."
+imagen_ext2_MSG10="The system will warn you that the previously created file is not a block device and ask if you want to format it"
+imagen_ext2_MSG11="Answer affirmatively"
+imagen_ext2_MSG12="FORMATTED WITH SUCCESS"
+imagen_ext2_MSG12B="	Mounting Image file . . ."
+imagen_ext2_MSG13="ERROR WHEN FORMATTING THE EMPTY FILE"
+imagen_ext2_MSG14="The program has mounted the file formatted in"
+imagen_ext2_MSG15="Linux-cdgrab will launch the file manager so that it can operate on the image mounted on"
+imagen_ext2_MSG16="Once the files are copied, unmount the formatted file"
+imagen_ext2_MSG17="The image ext2 is in this directory"
+imagen_ext2_MSG18="ERROR WHEN MOUNTING THE IMAGE FILE"
+imagen_ext2_MSG19="Files to include in the image ext2.Mounted in /mnt/lcdgrab"
+imagen_ext2_MSG20="Launching the file manager..."
+imagen_ext2_MSG21="WARNING:"
+imagen_ext2_MSG22="-------"
+imagen_ext2_MSG23="Image file"
+imagen_ext2_MSG24="still mounted"
+imagen_ext2_MSG25="ERROR WHEN CREATING EMPTY FILE WITH dd"
+imagen_ext2_MSG26="Check that you have free space in the partition mounted on /"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="CREATING CD IMAGE FILE"
+extraer_isoCD_dd_MSG2="executing"
+extraer_isoCD_dd_MSG3="IMAGE FILE CREATED IN /tmp"
+extraer_isoCD_dd_MSG4="Not found"
+extraer_isoCD_dd_MSG5="Aborting the recording process"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="CREATING DVD IMAGE FILE"
+extraer_isoDVD_dd_MSG2="executing"
+extraer_isoDVD_dd_MSG3="IMAGE FILE CREATED IN"
+extraer_isoDVD_dd_MSG4="Not found"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="executing"
+extraer_iso_readcd_MSG2="IMAGE FILE CREATED WITH SUCCESS"
+extraer_iso_readcd_MSG3="Image file created in"
+extraer_iso_readcd_MSG4="Aborting the recording process..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="CD Mounted"
+extraer_iso_mkisofs_MSG2="Creating image file ... "
+extraer_iso_mkisofs_MSG3="Macintosh compatibility enabled"
+extraer_iso_mkisofs_MSG4="Using"
+extraer_iso_mkisofs_MSG5="executing"
+extraer_iso_mkisofs_MSG6="Image created in the directory"
+extraer_iso_mkisofs_MSG7="Retrying the process without support for Macintosh"
+extraer_iso_mkisofs_MSG8="Image created in the directory"
+extraer_iso_mkisofs_MSG9="kisofs returns unknown errors when creating"
+extraer_iso_mkisofs_MSG10="from"
+extraer_iso_mkisofs_MSG11="Check the integrity of the data of"
+extraer_iso_mkisofs_MSG12="Mounting"
+extraer_iso_mkisofs_MSG12B="in"
+extraer_iso_mkisofs_MSG13="genisoimage returns unknown errors when creating"
+extraer_iso_mkisofs_MSG13B="from"
+extraer_iso_mkisofs_MSG14="Unable to find mkisofs or genisoimage.Install the cdrtools or the cdrkit."
+extraer_iso_mkisofs_MSG15="Could not mount"
+extraer_iso_mkisofs_MSG16="Image file created with success in"
+
+# mkisofs_vanilla
+
+mkisofs_vanilla_MSG1="Files and directories to include in the .iso image file"
+mkisofs_vanilla_MSG2="Retrying the .iso image creation process"
+mkisofs_vanilla_MSG3="Pure iso: file name 8.3 characters, uppercase."
+mkisofs_vanilla_MSG4="executing"
+mkisofs_vanilla_MSG5="Image file created successfully in /tmp"
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Launching file manager..."
+generar_iso_directorio_MSG2="Type a name for the future CD/DVD"
+generar_iso_directorio_MSG3="CREATING IMAGE FILE ..."
+generar_iso_directorio_MSG4="Macintosh compatibility enabled"
+generar_iso_directorio_MSG5="Using"
+generar_iso_directorio_MSG6="executing"
+generar_iso_directorio_MSG7="IMAGE FILE CREATED IN THE DIRECTORY"
+generar_iso_directorio_MSG8="THE IMAGE CREATION PROCESS HAS FAILED"
+generar_iso_directorio_MSG9="CREATING IMAGE WITHOUT COMPATIBILITY WITH MACINTOSH"
+generar_iso_directorio_MSG10="Unable to find mkisofs or genisoimage.Install the cdrtools or the cdrkit."
+generar_iso_directorio_MSG11="IMAGE FILE GENERATED WITH SUCCESS IN"
+generar_iso_directorio_MSG12="WISH TO COMPRESS IMAGE FILE?"
+generar_iso_directorio_MSG13="(s/y) to compress; The process is canceled with another option."
+
+# imagenISO
+
+imagenISO_MSG1="Files and directories to include in the .iso image"
+imagenISO_MSG2="SELECT OPTION"
+imagenISO_MSG2B="---------------------"
+imagenISO_MSG3="Generate ISO-9660 image from CD (use dd)"
+imagenISO_MSG4="Generate ISO-9660 image from DVD (use dd)"
+imagenISO_MSG5="Generate ISO-9660 image from CD (use readcd)"
+imagenISO_MSG6="Generate ISO-9660 image from CD or DVD disc (use mkisofs)"
+imagenISO_MSG7="Create an ISO-9660 image from hard drive directories"
+imagenISO_MSG8="Previous menu"
+imagenISO_MSG9="CREATING IMAGE FILE"
+
+# imagen_img
+
+imagen_img_MSG1="Type the source block device from where you are going to make the image"
+imagen_img_MSG2="-----------------------------------------------------------------------"
+imagen_img_MSG3="Registered devices in /etc/fstab y /etc/mtab"
+imagen_img_MSG4="Mount command exit:"
+imagen_img_MSG5="Type device name : "
+imagen_img_MSG6="Crating .img image file from block device"
+imagen_img_MSG7="executing"
+imagen_img_MSG8="IMAGE FILE OF BLOCK DEVICE CREATED IN"
+
+# monta_img
+
+monta_img_MSG1="Imagen iso o ext2 a montar."
+monta_img_MSG2="Teclee la ruta de directorios donde se encuentra la imagen a montar:"
+monta_img_MSG3="IMAGEN DE CD MONTADA:"
+monta_img_MSG4="ERROR AL MONTAR EL ARCHIVO DE IMAGEN"
+monta_img_MSG5="NO SE ENCUENTRA"
+monta_img_MSG6="NO EXISTE EL PUNTO DE MONTAJE"
+monta_img_MSG7="ERROR INESPERADO"
+
+# desmonta_img
+
+desmonta_img_MSG1="Iso or ext2 image to mount."
+desmonta_img_MSG2="IMAGE FILE UNMOUNTED"
+desmonta_img_MSG3="No image mounted on "
+desmonta_img_MSG4="mount command exit :"
+desmonta_img_MSG5="You can specify the absolute directory path of an image directly."
+desmonta_img_MSG6="As for example /tmp/lcdgrabimg.iso or the mounting directory for the image as it can be /mnt/lcdgrab"
+desmonta_img_MSG7="If not specified, it can be searched through the file manager"
+desmonta_img_MSG8="Launching file manager"
+desmonta_img_MSG9="Specify the path of the image file."
+desmonta_img_MSG10="IMAGE FILE UNMOUNTED"
+desmonta_img_MSG11="ERROR UNMOUNTING IMAGE FILE"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1="Image file .nrg to convert to .iso"
+nrg_a_iso_MSG2="Enter the path of the image .nrg (Nero Burning ROM) to convert"
+nrg_a_iso_MSG3="Converting image..."
+nrg_a_iso_MSG4="The path of the source .nrg image"
+nrg_a_iso_MSG5="does not exist or corresponds to a directory"
+nrg_a_iso_MSG6="Invalid path."
+nrg_a_iso_MSG7="is already a previous ISO-9660 image, it will not be converted."
+nrg_a_iso_MSG8="Copying with different extension..."
+nrg_a_iso_MSG9="COPY COMPLETED"
+nrg_a_iso_MSG10="executing"
+nrg_a_iso_MSG11="Successfully converted image file"
+nrg_a_iso_MSG12="ERROR CREATING .iso IMAGE FILE"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Generate description file .cue from image .bin"
+GenerarArchivocue_MSG2="Current active directory"
+GenerarArchivocue_MSG3="Type only the directory path where you"
+GenerarArchivocue_MSG4="find the image file:"
+GenerarArchivocue_MSG5="Enter the name of the .bin image to which you are going"
+GenerarArchivocue_MSG6="has generated its corresponding .cue file"
+GenerarArchivocue_MSG7="DESCRIPTION FILE .cue GENERATED WITH SUCCESS"
+GenerarArchivocue_MSG8="ERROR WHEN GENERATING ARCHIVE OF DESCRIPTION .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="executing"
+ImagenbincueCDDVD_MSG2="DISC IMAGE .BIN .CUE GENERATED WITH SUCCESS"
+

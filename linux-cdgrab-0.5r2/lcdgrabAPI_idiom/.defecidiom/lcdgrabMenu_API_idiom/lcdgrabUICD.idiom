@@ -1,0 +1,47 @@
+#########################################################
+# lcgdrabAPI_idiom/Español/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+#
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 0.5
+#########################################################
+
+# clonar
+
+clonar_MSG1="ELIJA UNA OPCION"
+clonar_MSG2="--- COPIAS DE DISCO CON IMAGEN PREVIA ---"
+clonar_MSG3="Copiar un CD de datos"
+clonar_MSG4="Crea una imagen de CD previa en el disco duro"
+clonar_MSG5="--- COPIAS DE DISCO AL VUELO ---"
+clonar_MSG6="Copiar un CD de datos al vuelo"
+clonar_MSG7="Clonar un CD de datos al vuelo"
+clonar_MSG8="LAS OPCIONES DE COPIA AL VUELO PRECISAN DE DOS UNIDADES OPTICAS"
+clonar_MSG9="INSTALADAS EN SU EQUIPO,YA QUE LOS DATOS SE GRABAN MIENTRAS SE"
+clonar_MSG10="LEEN DIRECTAMENTE DEL DISCO ORIGEN,SI EN SU EQUIPO SOLO DISPONE"
+clonar_MSG11="DE UNA NO PODRA HACER USO DE LAS COPIAS AL VUELO."
+clonar_MSG0="Menu anterior"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="GRABACION EN CD"
+menugrabar_cd_MSG2="---------- CD - DATOS ----------"
+menugrabar_cd_MSG3="Copiar CD de datos"
+menugrabar_cd_MSG4="Grabar un nuevo CD de datos"
+menugrabar_cd_MSG5="Grabar un nuevo CD de datos multisesion"
+menugrabar_cd_MSG6="Grabar imagen .iso o .ext2 en CD"
+menugrabar_cd_MSG7="Grabar imagen .bin/.cue en CD"
+menugrabar_cd_MSG8="---------- CD - AUDIO ----------"
+menugrabar_cd_MSG9="Copiar un CD de Audio"
+menugrabar_cd_MSG10="Grabar un CD de Audio desde archivos .wav"
+menugrabar_cd_MSG11="Grabar un CD de Audio desde archivos .mp3"
+menugrabar_cd_MSG12="Grabar un CD de Audio desde archivos .ogg"
+menugrabar_cd_MSG13="-------- OTRAS OPCIONES --------"
+menugrabar_cd_MSG14="Grabar un CD Mixto (Datos + Audio)"
+menugrabar_cd_MSG15="Borrar un CD-RW"
+menugrabar_cd_MSG16="Cerrar CD abierto"
+menugrabar_cd_MSG17="Mostrar infomacion del disco en la unidad"
+menugrabar_cd_MSG0="Menu anterior"
+menugrabar_cd_MSGPRINCIPAL="Teclee una opcion"
+
+

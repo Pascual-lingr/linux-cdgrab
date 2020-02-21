@@ -1,0 +1,139 @@
+#########################################################
+# lcdgrabAPI_idiom/Catala/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Missatjes en catala per l'API de grabació de DVD.
+# 
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribuire baix GPL v2
+# Part de Linux-cdgrab 0.5
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Dispositiu de grabació com"
+buscar_grabadora_MSG1B="Valid"
+buscar_grabadora_MSG2="Dispositiu de grabació com"
+buscar_grabadora_MSG2B="Erroni"
+buscar_grabadora_MSG3="Les dvd+-rw-tools no accepten que el dispositiu de gravació sigui"
+buscar_grabadora_MSG4="Per poder gravar DVD mitjançant les dvd rw-tools ha d'especificar la seva gravadora com un dispositiu de bloc"
+buscar_grabadora_MSG5="Example"
+buscar_grabadora_MSG6="o be"
+buscar_grabadora_MSG7="Mostrant dispositius del sistema existents en /dev"
+buscar_grabadora_MSG8="Escriu el dispositiu de bloc que correspon amb la seva gravadora de DVD"
+buscar_grabadora_MSG9=" No s'ha especificat cap tipus de gravadora o opció."
+buscar_grabadora_MSG10="DISPOSITIU CONFIGURADO PER A LA GRAVADORA"
+buscar_grabadora_MSG11="S'ha exportat a l'entorn del shell el dispositiu de gravació com"
+
+# datos_dvd
+
+datos_dvd_MSG1="Introduïu un nom per al futur DVD:"
+datos_dvd_MSG2="GRABANT DVD . . ."
+datos_dvd_MSG3="Usant"
+datos_dvd_MSG4="executant"
+datos_dvd_MSG5=" DVD GRAVAT AMB EXIT !! "
+datos_dvd_MSG6="No es troba mkisofs o genisoimage, instal les cdrtools o bé cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Introduïu un nom per al futur DVD:"
+datos_dvd_multi_MSG2="GRAVANT DVD . . ."
+datos_dvd_multi_MSG3="Usant"
+datos_dvd_multi_MSG4="executant"
+datos_dvd_multi_MSG5=" DVD GRABAT AMB EXIT !! "
+datos_dvd_multi_MSG6="No es troba mkisofs o genisoimage, instal les cdrtools o bé cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="GRAVANT IMATGE . . ."
+grabimg_dvd_MSG2="executant"
+grabimg_dvd_MSG3=" IMATGE DE DVD GRAVADA AMB ÈXIT !"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="GRAVANT IMATGE EN DVD . . ."
+copia_bin_dvd_MSG2="executant"
+copia_bin_dvd_MSG3="	ESBORRANT ARXIU D'IMATGE"
+copia_bin_dvd_MSG4="GRAVACIÓ FINALITZADA !"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Formatar un"
+formatear_dvd_MSG2="Forçar un nou format per a un"
+formatear_dvd_MSG3="Relocalitzar el bloc lead-out d'un"
+formatear_dvd_MSG4="Formatar un DVD-RW a incremental seqüencial"
+formatear_dvd_MSG5="Formatar un DVD-RW a sobreescriptura restringida"
+formatear_dvd_MSG6="Omplir de zeros un DVD"
+formatear_dvd_MSG7="Mostra la informació del DVD"
+formatear_dvd_MSG8="Menu anterior"
+formatear_dvd_MSG9="Aquesta opció serveix per formatar el DVD per primera vegada."
+formatear_dvd_MSG10="Si el DVD ja aquesta formatat no esborrés les dades."
+formatear_dvd_MSG11="Aquests es sobreescriuran en una nova gravació."
+formatear_dvd_MSG12="Per esborrar el contingut del DVD faci servir:"
+formatear_dvd_MSG13="Omplir de zeros un DVD"
+formatear_dvd_MSG14="Aquesta opció esborra format i dades del DVD tractat."
+formatear_dvd_MSG15="executant"
+formatear_dvd_MSG16="DVD+RW/DVD-RW FORMATAT AMB ÈXIT !"
+formatear_dvd_MSG17="ERROR A L'FORMATAR DVD"
+formatear_dvd_MSG18="Forçant format en disc DVD+RW ..."
+formatear_dvd_MSG19="DVD+RW FORMATAT AMB ÈXIT !"
+formatear_dvd_MSG20="ERROR A L'FORMATAR DVD+RW"
+formatear_dvd_MSG21="Aquesta opció no afecta les dades guardades en el DVD+RW"
+formatear_dvd_MSG22="Traient bloc lead-out del DVD+RW ..."
+formatear_dvd_MSG23="Formatant disc DVD-RW a escriptura seqüencial ..."
+formatear_dvd_MSG24="DVD-RW FORMATAT AMB ÈXIT !"
+formatear_dvd_MSG25="ERROR A L'FORMATAR DVD-RW"
+formatear_dvd_MSG26="Formatant disc DVD-RW a sobreescriptura restringida ..."
+
+# null_dvd
+
+null_dvd_MSG1="Escrivint en disc desde /dev/zero . . ."
+null_dvd_MSG2="executant"
+null_dvd_MSG3="PROCESS COMPLETAT"
+null_dvd_MSG4="ERROR INESPERAT"
+
+# dvd_video
+
+dvd_video_MSG1="Ruta on es troben els directoris VIDEO_TS i AUDIO_TS:"
+dvd_video_MSG2="Especifiqueu la ruta on es troben els directoris VIDEO_TS i AUDIO_TS:"
+dvd_video_MSG3="executing"
+dvd_video_MSG4="--- DVD-VIDEO GRAVAT AMB EXIT ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="executant"
+dvd_copia_bin_MSG2="	BORRANT ARXIU D'IMATGE"
+dvd_copia_bin_MSG3="S'HA PRODUÏT UN ERROR A LA GRAVACIÓ"
+
+# dvd_datos
+
+dvd_datos_MSG1="Arxius i directoris per crear la imatge .iso"
+dvd_datos_MSG2="ETIQUETA DEL DVD"
+dvd_datos_MSG3="Introduïu un nom per al futur DVD:"
+dvd_datos_MSG4="Llançant el gestor de arxius :"
+dvd_datos_MSG5="	CREANT IMATGE . . ."
+dvd_datos_MSG6="executant"
+dvd_datos_MSG7="IMATGE ISO-9660 CREADA EN"
+dvd_datos_MSG8="		GRAVANT DVD"
+dvd_datos_MSG9="EL PROCÉS DE CREACIÓ DE L'ARXIU IMATGE HA FALLAT"
+dvd_datos_MSG10="ES REINNTENTA CREAR UN NOU SENSE SUPORT PER HFS (Macintosh)"
+dvd_datos_MSG11="BORRANT IMATGE . . ."
+dvd_datos_MSG12="CREANT NOVA IMATGE . . ."
+dvd_datos_MSG13="BORRANT IMATGE..."
+
+# dvd_borra
+
+dvd_borra_MSG1="executant"
+dvd_borra_MSG2="DISC OPTIC FORMATAT AMB EXIT"
+dvd_borra_MSG3="ERROR A L'FORMATAR DISC OPTIC"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="executant"
+
