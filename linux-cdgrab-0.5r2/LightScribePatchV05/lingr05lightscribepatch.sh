@@ -38,12 +38,7 @@ imprimir_disco_lightscribe(){
 	read foto
 	echo "$imprimir_disco_lightscribe_MSG3:4L-cli print $IDE $foto"
 	printf "\n"
-		if test $UD -eq 0;then
-			CD_error
-		else
-			text_CD_error
-			presskey
-		fi
+
 	if 4L-cli print $IDE $foto;then
 
 		if test $UD -eq 0;then
@@ -53,8 +48,6 @@ imprimir_disco_lightscribe(){
 			presskey
 		fi
 
-		
-
 	else
 
 		if test $UD -eq 0;then
@@ -63,8 +56,6 @@ imprimir_disco_lightscribe(){
 			echo $imprimir_disco_lightscribe_MSG5
 			presskey
 		fi
-
-		
 
 	fi
 
