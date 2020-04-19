@@ -1,51 +1,50 @@
-#                                LINUX-CDGRAB
+lcdgrab(1)                                                                                        General Commands Manual                                                                                       lcdgrab(1)
 
-lcdgrab(1)                  General Commands Manual                 lcdgrab(1)
+
 
 NAME
        lcdgrab – LINUX-CDGRAB –
        Front-end para la grabación de discos ópticos CD y DVD.
+
 
 SYNOPSIS
        lcdgrab
 
        lcdgrab [opciones]
 
+
 OPTIONS
        Se permiten los siguientes argumentos en la llamada a lcdgrab:
 
-       lcdgrab
-       [-v]|[-h]|[-G=dispositivo][-V=numero][-L=dispositivo][-CA=dispositivo]
+       lcdgrab [-v]|[-h]|[-G=dispositivo][-V=numero][-L=dispositivo][-CA=dispositivo]
 
        -h  --help , Imprime una breve ayuda de sobre la sintaxis de llamada.
 
        -v  --version , Imprime la versión de Linux-cdgrab
 
-       -G  --grabadora , especifica el canal IDE o  dispositivo  de  grabación
-       -G=0,1,0 o -G=/dev/hdd
+       -G  --grabadora , especifica el canal IDE o dispositivo de grabación -G=0,1,0 o -G=/dev/hdd
 
        -V  --velocidad , especifica la velocidad de grabación -V=32
 
        -L  --lector , especifica el lector de CD-ROM o DVD-ROM -L=/dev/cdrom
 
-       -CA  --canal-atapi  ,  especifica  el  canal  IDE ATAPI de la grabadora
-       -CA=0,0,0 o -CA=1,0,0
+       -CA --canal-atapi , especifica el canal IDE ATAPI de la grabadora -CA=0,0,0 o -CA=1,0,0
 
-       Las opciones -G -V -L y -CA se implican entre sí.  Las opciones -h y -v
-       son independientes entre sí y el resto.
+
+       Las opciones -G -V -L y -CA se implican entre sí.  Las opciones -h y -v son independientes entre sí y el resto.
+
 
 EXAMPLES
        Ejecución con argumentos: lcdgrab -G=0,1,0 -L=/dev/hdc -V=16 -CA=0,1,0
 
-       Ejecución      con     argumentos:     lcdgrab     --grabadora=/dev/hdd
-       --lector=/dev/cdrom --velocidad=32 --canal-atapi=1,0,0
+       Ejecución con argumentos: lcdgrab --grabadora=/dev/hdd --lector=/dev/cdrom --velocidad=32 --canal-atapi=1,0,0
 
-       Por cada ejecución del comando con estos argumentos, sera  generado  un
-       nuevo archivo de configuración.
+       Por cada ejecución del comando con estos argumentos, sera generado un nuevo archivo de configuración.
 
        Muestra la ayuda de comandos: lcdgrab --help
 
        Imprime la versión: lcdgrab --version
+
 
 DESCRIPTION
        LINUX-CDGRAB es un front-end en modo consola
@@ -78,6 +77,7 @@ DESCRIPTION
        tar -xvzf lingrXY.tgz ( X e Y corresponden a la versión del programa )
 
        Dentro del directorio de archivos de linux-cdgrab teclee ./instalar
+
 
        Referencias al manejo interactivo del interfaz:
        -----------------------------------------------
@@ -126,10 +126,11 @@ DESCRIPTION
                /dev/hde etc,en lugar del canal IDE.
                Segun su versión de cdrecord debe optar por un valor u otro.
 
+
+
             NOTA: Parametrización errónea de la variable $IDE
             Una parametrización incorrecta de la variable $IDE provocará que
-            en  los  procesos  de  grabación cdrecord no pueda abrir el driver
-       SCSI.
+            en los procesos de grabación cdrecord no pueda abrir el driver SCSI.
             Si se da este comportamiento en la aplicación deberá borrarse el
             archivo actual de configuración y configurar de nuevo el programa.
 
@@ -193,6 +194,7 @@ DESCRIPTION
        DVD+R/RW DVD-R/RW DVD+RW DL
        DVD-RAM no probado aunque soportado por growisofs y cdrecord-ProDVD
 
+
        Implementar un idioma para LINUX-CDGRAB
        ---------------------------------------
 
@@ -239,6 +241,7 @@ DESCRIPTION
        el fichero .idiom correspondiente deberá almacenarse
        bajo el directorio lcdgrabparches_idiom del idioma usado.
 
+
 FILES
        El fichero de configuración usado es /etc/lcdgrab.cfg
        /Programs/linux-cdgrab-0.5/lcdgrab.cfg sera usado
@@ -259,8 +262,7 @@ ENVIRONMENT
        se guardan en este directorio.
        D_CFG Directorio del archivo de configuración.
        D_BIN Directorio de ejecutables del sistema.
-       UD Utilizada para mostrar  el  sistema  de  nofificaciones  de  fin  de
-       proceso al usuario.
+       UD Utilizada para mostrar el sistema de nofificaciones de fin de proceso al usuario.
        Si su valor es 0, notifica con el comando dialog, si su valor
        es 1, notifica con mensajes en texto.
        Velocidad Velocidad utilizada en los procesos de grabación.
@@ -286,14 +288,14 @@ ENVIRONMENT
        En caso contrario, el color de fondo usado sera el estándar.
        C_OK Color de fuente para los procesos terminados con éxito.
        C_FA Color de fuente para los procesos terminados con error.
-       C_ET  Color  de  fuente  para los mensajes de etiqueta existentes en el
-       menú.
+       C_ET Color de fuente para los mensajes de etiqueta existentes en el menú.
        C_AV Color de fuente para los mensajes de aviso existentes en el menú.
        COLOR_DEL_INTERFAZ Color de fuente usado en el interfaz.
        FONDO_INTERFAZ Color de fondo usado en el interfaz.
        utiliso Si su valor es 0, genera imagenes iso desde CD mediante dd
        Si su valor es 1, genera imagenes iso desde CD mediante readcd
        Usado en la opción de copia de CD de datos con imagen previa.
+
 
 BUGS
         Es posible que en diversas distribuciones de Linux el montaje
@@ -315,8 +317,12 @@ AUTOR
        Escrito por Pascual Martínez Cruz
        pascual89@hotmail.com
 
+
 COPYRIGHT
        Licenciado bajo GPL v2.
        Visite www.gnu.org para mas información.
 
-                                                                    lcdgrab(1)
+
+
+
+                                                                                                                                                                                                                lcdgrab(1)
