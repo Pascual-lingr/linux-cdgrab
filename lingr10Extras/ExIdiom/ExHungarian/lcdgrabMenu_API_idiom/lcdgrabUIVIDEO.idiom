@@ -1,0 +1,24 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en húngaro para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="VIDEOKONVERZIÓ"
+menu_conversion_video_MSG2="---------- FORMÁTUMOK KÖZÖTTI KONVERZIÓ ----------"
+menu_conversion_video_MSG3="Video konvertálása Blu Ray Disc Smart-TV-kompatibilissá"
+menu_conversion_video_MSG4="Konvertálni kívánt videófájl:"
+menu_conversion_video_MSG0="Előző menü"
+menu_conversion_video_MSG6="Asztali munkamenet rögzítése"
+menu_conversion_video_MSG7="Videofájl konvertálása más formátumba"
+menu_conversion_video_MSG8="----------------- EGYÉB OPCIÓK -------------------"
+menu_conversion_video_MSG9="Videófájl keverése hangfájllal"
+menu_conversion_video_MSG10="MP3 hang kibontása videofájlból"
+menu_conversion_video_MSG11="Videofájl kivágása"
+

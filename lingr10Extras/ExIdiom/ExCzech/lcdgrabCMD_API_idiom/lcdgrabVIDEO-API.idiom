@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExCzech/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en checo para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="KOMPATIBILITA VIDEO KONVERZE BLU-RAY DISKU"
+conv_video_BDVideo_MSG2="Určete cestu k video souboru, který chcete převést:"
+conv_video_BDVideo_MSG3="Určete název souboru nového videa, které chcete vytvořit:"
+conv_video_BDVideo_MSG4="Video soubor úspěšně převeden!!"
+conv_video_BDVideo_MSG5="Chyba při převodu video souboru"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="KONVERZNÍ SOUBORY VIDEA"
+conv_VideoFich_MSG2="Určete video soubor pro převod:"
+conv_VideoFich_MSG3="Určete soubor videa, který se má vygenerovat:"
+conv_VideoFich_MSG4="KONVERZE VIDEO SOUBORU DOKONČENA"
+conv_VideoFich_MSG5="CHYBA PŘI PŘEVODU VIDEO SOUBORU"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Určete soubor videa:"
+extrae_Audio_de_Video_MSG2="Určete zvukový soubor mp3, který se má vygenerovat:"
+extrae_Audio_de_Video_MSG3="EXTRAKCE ZVUKU ÚSPĚŠNĚ"
+extrae_Audio_de_Video_MSG4="CHYBA PŘI VYHLEDÁVÁNÍ ZVUKU"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Určete soubor videa:"
+extrae_Fragmento_Video_MSG2="Určete soubor videa, který se má vygenerovat:"
+extrae_Fragmento_Video_MSG3="Určit počáteční čas (Určit jako HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Určit čas ukončení (Určit jako HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="VIDEO ÚSPĚŠNĚ OŘEZNUTO"
+extrae_Fragmento_Video_MSG6="CHYBA PŘI STŘIHOVÁNÍ VIDEA"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Určete zvukový soubor:"
+mezcla_Audio_Video_MSG2="Určete soubor videa:"
+mezcla_Audio_Video_MSG3="Určete soubor videa, který se má vygenerovat:"
+mezcla_Audio_Video_MSG4="NOVÝ SOUBOR VIDEA ÚSPĚŠNĚ GENEROVÁN"
+mezcla_Audio_Video_MSG5="CHYBA GENEROVÁNÍ VIDEO SOUBORU"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="MOŽNOST NENÍ DOSTUPNÁ PRO ROZHRANÍ KONZOLY"
+graba_escritorio_MSG2="-- NAHRÁVÁNÍ REZE NA PLOCHA -- STISKNĚTE CTRL + C PRO ZRUŠENÍ A ZASTAVENÍ NAHRÁVÁNÍ"
+graba_escritorio_MSG3="ZÁZNAM VIDEA DOKONČENO"
+

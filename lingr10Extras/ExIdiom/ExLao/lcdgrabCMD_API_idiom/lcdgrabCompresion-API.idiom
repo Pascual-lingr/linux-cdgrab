@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Lao para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="ໃສ່ເສັ້ນທາງຂອງໄຟລ໌ຫຼືໄດເລກະທໍລີ:"
+empaquetar_MSG2="------- ທາງເລືອກ -------"
+empaquetar_MSG3="ສ້າງໄຟລ໌ .tar.gz"
+empaquetar_MSG4="ສ້າງໄຟລ໌ .tar.bz2"
+empaquetar_MSG5="ພິມທາງເລືອກ: "
+empaquetar_MSG6="ແລ່ນ"
+empaquetar_MSG7="ຕົວເລືອກບໍ່ຖືກຕ້ອງ"
+
+# desempaquetar
+
+desempaquetar_MSG1="ໃສ່ເສັ້ນທາງໄຟລ໌:"
+# Resultado del traductor
+desempaquetar_MSG2="ບໍ່ພົບ DECOMPRESSOR"
+desempaquetar_MSG3="ໂອດີ"
+desempaquetar_MSG4="ບໍ່ມີຢູ່"
+desempaquetar_MSG5="ແລ່ນ"
+# Resultado del traductor
+desempaquetar_MSG6="unpacked"
+desempaquetar_MSG7="ເກີດຄວາມຜິດພາດໃນການພະຍາຍາມຖອດຊອງ"
+
+# comprime
+
+comprime_MSG1="ບີບອັດຮູບພາບ"
+comprime_MSG2="ບີບອັດດ້ວຍ bzip2"
+comprime_MSG3="ບີບອັດດ້ວຍ gzip"
+comprime_MSG4="ບີບອັດດ້ວຍ xz"
+comprime_MSG5="ເມນູກ່ອນໜ້າ"
+comprime_MSG6="ແລ່ນ"
+comprime_MSG7="ການບີບອັດໄຟລ໌ຮູບພາບສຳເລັດແລ້ວ"
+comprime_MSG8="ການບີບອັດຜິດພາດກັບ"
+comprime_MSG9="ເຄື່ອງອັດບໍ່ຖືກຕ້ອງ"
+
+# descomprime
+
+descomprime_MSG1="ພິມເສັ້ນທາງໄຟລ໌:"
+descomprime_MSG2="------------"
+# Resultado del traductor
+descomprime_MSG3="ບໍ່ພົບ DECOMPRESSOR"
+descomprime_MSG4="ໂອດີ"
+descomprime_MSG5="ບໍ່ມີຢູ່"
+descomprime_MSG6="ແລ່ນ"
+descomprime_MSG7="ບໍ່ໄດ້ບີບອັດ"
+descomprime_MSG8="ເກີດຄວາມຜິດພາດໃນການບີບອັດ"

@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExCzech/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en checo para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="ZAŘÍZENÍ AKTUÁLNĚ NAMONTOVANÁ V SYSTÉMU"
+montar_dispositivos_MSG1B="MONTÁŽ/DEMONTÁŽ ZAŘÍZENÍ"
+montar_dispositivos_MSG2="VOLBY LINUX-CDGRAB"
+montar_dispositivos_MSG3="Vysunout disk ze čtečky CD/DVD/BD"
+montar_dispositivos_MSG4="Vysunout disk z vypalovačky CD/DVD/BD"
+montar_dispositivos_MSG5="Připojit čtečku CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG6="Odpojit CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Namontujte nebo rozeberte zařízení ručně"
+montar_dispositivos_MSG0="Předchozí nabídka"
+montar_dispositivos_MSG8="CD/DVD/BD připojeno"
+montar_dispositivos_MSG9="POKRAČOVAT STISKNĚTE ENTER..."
+montar_dispositivos_MSG10="Chyba při připojování CD/DVD/BD"
+montar_dispositivos_MSG11="CD/DVD/BD bylo odpojeno"
+montar_dispositivos_MSG12="Chyba při odpojování CD/DVD/BD"
+montar_dispositivos_MSG13="Zadejte zařízení k připojení/odpojení:"
+montar_dispositivos_MSG14="Zadejte bod připojení:"
+montar_dispositivos_MSG15="neodpovídá blokovému zařízení"
+montar_dispositivos_MSG16="Připojovací bod nenalezen"
+montar_dispositivos_MSG17="Výchozí bod připojení"
+montar_dispositivos_MSG18="Vyberte možnost:"
+montar_dispositivos_MSG19="Připojit"
+montar_dispositivos_MSG20="cs"
+montar_dispositivos_MSG21="Odpojit"
+montar_dispositivos_MSG22="de"
+montar_dispositivos_MSG23="připojeno na:"
+montar_dispositivos_MSG24="CHYBA PŘI MONTÁŽI"
+montar_dispositivos_MSG25="EN"
+montar_dispositivos_MSG26="odpojeno z"
+montar_dispositivos_MSG27="CHYBA PŘI ODEJOVÁNÍ"
+montar_dispositivos_MSG28="de"
+
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Výstup příkazu mount"
+Montar_Imagenes_MSG1B="SESTAVENÍ/DEMONTÁŽ OBRÁZKOVÝCH SOUBORŮ"
+Montar_Imagenes_MSG2="Vyberte možnost"
+Montar_Imagenes_MSG3="Připojit obraz CD/DVD/BD"
+Montar_Imagenes_MSG4="Odpojit obraz CD/DVD/BD"
+Montar_Imagenes_MSG5="Předchozí nabídka"

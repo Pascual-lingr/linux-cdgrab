@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAmharic/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Amárico para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* የአሰሳ አማራጮች ************************"
+ayuda_gestor_de_archivos_MSG2="የፋይል ስርዓቱን ያስሱ."
+ayuda_gestor_de_archivos_MSG3="X --> ወጣበል"
+ayuda_gestor_de_archivos_MSG4="A --> የቀድሞ ማውጫ"
+ayuda_gestor_de_archivos_MSG5="B --> ቀጣይ ማውጫ"
+ayuda_gestor_de_archivos_MSG6="በፋይሎች እና ማውጫዎች ላይ እርምጃዎች."
+ayuda_gestor_de_archivos_MSG7="C --> ፋይል ቅዳ"
+ayuda_gestor_de_archivos_MSG8="M --> ፋይል አንቀሳቅስ"
+ayuda_gestor_de_archivos_MSG9="CD --> ማውጫ ቅዳ"
+ayuda_gestor_de_archivos_MSG10="MD --> ማውጫ አንቀሳቅስ"
+ayuda_gestor_de_archivos_MSG11="በፋይሎች እና ማውጫዎች ላይ እርምጃዎችን መረዳት።"
+ayuda_gestor_de_archivos_MSG12="Z --> ፋይልን ጨመቁ"
+ayuda_gestor_de_archivos_MSG13="DZ --> ፋይልን ዚፕ ይክፈቱ"
+ayuda_gestor_de_archivos_MSG14="EZ --> የ.tar.gz ወይም .tar.bz2 ጥቅል ይፍጠሩ"
+ayuda_gestor_de_archivos_MSG15="DEZ --> .tar.gz ወይም .tar.bz2 ንቀቅ"
+ayuda_gestor_de_archivos_MSG16="*************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="የአሁኑ ንቁ ማውጫ"
+gestor_de_archivos_MSG0B="ውስጥ ፋይሎች"
+gestor_de_archivos_MSG1="=============================== የአሰሳ አማራጮች ============================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> ኤይድ ="
+gestor_de_archivos_MSG3="========================================================================"
+gestor_de_archivos_MSG4="አማራጭ ተይብ"
+gestor_de_archivos_MSG5=" ማውጫ ይተይቡ"
+gestor_de_archivos_MSG6="ምንጭ ፋይሉን ይተይቡ"
+gestor_de_archivos_MSG7="የመድረሻ ፋይሉን ይተይቡ"
+gestor_de_archivos_MSG8="ፋይሉ በተሳካ ሁኔታ ተቀድቷል"
+gestor_de_archivos_MSG9="ፋይል መቅዳት ላይ ስህተት"
+gestor_de_archivos_MSG10="ምንጭ ፋይሉን ይተይቡ"
+gestor_de_archivos_MSG11="የመድረሻ ፋይሉን ይተይቡ"
+gestor_de_archivos_MSG12="ፋይል በተሳካ ሁኔታ ተንቀሳቅሷል"
+gestor_de_archivos_MSG13="ፋይል ማንቀሳቀስ ላይ ስህተት"
+gestor_de_archivos_MSG14="ምንጭ ማውጫውን ይተይቡ"
+gestor_de_archivos_MSG15="የመድረሻ ማውጫውን ይተይቡ"
+gestor_de_archivos_MSG16="ማውጫ በተሳካ ሁኔታ ተቀድቷል"
+gestor_de_archivos_MSG17="ማህደር መቅዳት ላይ ስህተት"
+gestor_de_archivos_MSG18="ምንጭ ማውጫውን ይተይቡ"
+gestor_de_archivos_MSG19="የመዳረሻ ማውጫውን ይተይቡ"
+gestor_de_archivos_MSG20="መምሪያው በተሳካ ሁኔታ ተንቀሳቅሷል"
+gestor_de_archivos_MSG21="ማህደር ማንቀሳቀስ ላይ ስህተት"
+gestor_de_archivos_MSG22="ለመጭመቅ ፋይል"
+gestor_de_archivos_MSG23="የፋይል ዱካውን ይግለጹ"
+

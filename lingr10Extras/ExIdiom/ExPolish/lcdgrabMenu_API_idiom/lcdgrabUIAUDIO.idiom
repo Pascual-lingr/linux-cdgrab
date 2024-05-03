@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExPolish/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en polaco para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="KONWERSJA AUDIO"
+menu_conversion_audio_MSG2="------ KONWERSJA MIĘDZY FORMATAMI -----------"
+menu_conversion_audio_MSG3="Konwertuj .mp3 na .wav"
+menu_conversion_audio_MSG4="Konwertuj .ogg na .wav"
+menu_conversion_audio_MSG5="Konwertuj .wav na .mp3"
+menu_conversion_audio_MSG6="Konwertuj .wav na .ogg"
+menu_conversion_audio_MSG6C="Konwertuj .wav na .flac"
+menu_conversion_audio_MSG6B="Konwertuj .flac na .wav"
+menu_conversion_audio_MSG7="------------- WYCIĄGANIE ŚCIEŻEK AUDIO ---------"
+menu_conversion_audio_MSG8="Zgraj płytę audio CD do formatu .wav"
+menu_conversion_audio_MSG9="Zgraj zestaw ścieżek audio do .wav"
+menu_conversion_audio_MSG10="Zgraj płytę audio CD do formatu .mp3"
+menu_conversion_audio_MSG11="Zgraj płytę audio CD do .ogg"
+menu_conversion_audio_MSG0="Poprzednie menu"
+menu_conversion_audio_MSG12="Wyszukaj pliki .mp3"
+menu_conversion_audio_MSG13="Wyszukaj pliki .ogg"
+menu_conversion_audio_MSG14="Wyszukaj pliki .wav"
+menu_conversion_audio_MSG15="--------------- INNE OPERACJE ---------------"
+menu_conversion_audio_MSG16="Wytnij plik audio .wav"
+menu_conversion_audio_MSG17="Zgraj płytę audio CD do formatu .flac"
+

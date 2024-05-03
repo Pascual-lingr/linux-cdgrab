@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDanish/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en danés para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3-FILER TIL KONVERTER"
+mp3awav_MSG0="Indtast stien til .mp3-filerne: "
+mp3awav_MSG1="INVITTERER"
+mp3awav_MSG1B=" TIL .wav FORMAT"
+mp3awav_MSG2="kører"
+mp3awav_MSG3="Sampling indstillet til 44100 Mhz"
+mp3awav_MSG4="Fejl ved behandling af prøveudtagning"
+mp3awav_MSG5="Kunne ikke konvertere"
+mp3awav_MSG6="Mappe ikke fundet"
+mp3awav_MSG7="SLUT PÅ LYDKONVERTERING"
+mp3awav_MSG8="Normaliserer lydfil"
+mp3awav_MSG9="Fil"
+mp3awav_MSG10="Normaliseret"
+mp3awav_MSG11="Normaliseringsfejl"
+
+# oggawav
+
+oggawav_MSG0="OGG-FILER TIL KONVERTER"
+oggawav_MSG1="Indtast stien til .ogg-filerne: "
+oggawav_MSG2="INVITTERENDE"
+oggawav_MSG2B="Et .wav-FORMAT"
+oggawav_MSG3="kører"
+oggawav_MSG4="Sampling indstillet til 44100 Mhz"
+oggawav_MSG5="Fejl ved behandling af prøveudtagning"
+oggawav_MSG6="Kunne ikke konvertere"
+oggawav_MSG7="Mappe ikke fundet"
+oggawav_MSG8="SLUT PÅ LYDDÆKNING"
+oggawav_MSG9="Normaliserer lydfil"
+oggawav_MSG10="Fil"
+oggawav_MSG11="Normaliseret"
+oggawav_MSG12="Normaliseringsfejl"
+
+# cdawav
+
+cdawav_MSG1="RIPPER LYD-CD..."
+cdawav_MSG2="Udfører:"
+cdawav_MSG3="SUCCES FULDT RIPEDE LYDSPOR!!"
+cdawav_MSG4="Indhold i bibliotek med lydfiler"
+cdawav_MSG5="FEJL VED RIPNING AF LYDSPOR"
+
+# cddawav
+
+cddawav_MSG1="INDTAST ANTALLET AF SPOR FOR AT RIPPE:"
+cddawav_MSG2="Tryk på Crtl + c for at annullere ripping af et spor"
+cddawav_MSG3="Udfører:"
+cddawav_MSG4="RIPPET MED SUCCES"
+cddawav_MSG5="FEJL RIPPING"
+
+# wavamp3
+
+wavamp3_MSG0="WAV-FILER TIL KONVERTER"
+wavamp3_MSG1="Indtast stien til .wav-filerne: "
+wavamp3_MSG1B="KOVERTERER"
+wavamp3_MSG2="ET FORMAT"
+wavamp3_MSG3="Udfører:"
+wavamp3_MSG4="ved konvertering"
+wavamp3_MSG5="til .MP3-format"
+wavamp3_MSG6="Fejl ved konvertering"
+wavamp3_MSG7="LYDKONVERING FULDFØRT"
+wavamp3_MSG8="LYDMAGNOSTIK FUNDET IKKE"
+
+# cdamp3
+
+cdamp3_MSG1="RIPPER LYD-CD..."
+cdamp3_MSG2="Udfører:"
+cdamp3_MSG3="LYDSPOR MED SUCCES!!"
+cdamp3_MSG4="FEJL VED RIPPING AF LYDSPOR"
+cdamp3_MSG5="Opkaldsfunktion:"
+
+# wavaogg
+
+wavaogg_MSG1="Indtast stien til .wav-filerne: "
+wavaogg_MSG2="INDVIRENDE"
+wavaogg_MSG3="Et .ogg-FORMAT"
+wavaogg_MSG4="Kører:"
+wavaogg_MSG5="Fejl ved konvertering"
+wavaogg_MSG6="til .ogg-format"
+
+# cdaogg
+
+cdaogg_MSG1="RIPPER LYD-CD'ER..."
+cdaogg_MSG2="Udfører:"
+cdaogg_MSG3="SUCCES FULDT RIPEDE LYDSPOR!!"
+cdaogg_MSG4="FEJL VED RIPNING AF LYDSPOR"
+cdaogg_MSG5="Opkaldsfunktion:"
+
+# corta_wav
+
+corta_wav_MSG0="Antal sekunder:"
+corta_wav_MSG1="Angiv stien til lydfilen, der skal konverteres:"
+corta_wav_MSG2="Angiv tiden i antal sekunder, for hvilken"
+corta_wav_MSG3="skæring af filen vil begynde."
+corta_wav_MSG4="-BEMÆRK-"
+corta_wav_MSG5="For at angive begyndelsen af ​​lyden skal du indtaste 0"
+corta_wav_MSG6="Værdi i sekunder for at starte konvertering:"
+corta_wav_MSG7="Angiv tiden i antal sekunder, som"
+corta_wav_MSG8="skæring af filen vil blive fuldført."
+corta_wav_MSG9="Værdi i sekunder for slutningen af ​​konverteringen:"
+corta_wav_MSG10="Kører"
+corta_wav_MSG11="Trimmet lydfil"
+corta_wav_MSG12="Fejl under trimning af fil"
+corta_wav_MSG13="Lydfil der skal trimmes:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1="Angiv stien til .flac-filerne:"
+flacawav_MSG2="INVITTERENDE"
+flacawav_MSG3=" TIL .wav FORMAT"
+flacawav_MSG4="Sampling indstillet til 44100 Mhz"
+flacawav_MSG5="Fejl ved behandling af prøvetagning"
+flacawav_MSG6="Normaliserer lydfil"
+flacawav_MSG7="Fil"
+flacawav_MSG8="Normaliseret"
+flacawav_MSG9="Normaliseringsfejl"
+flacawav_MSG10="Kunne ikke konvertere"
+flacawav_MSG11="Mappe ikke fundet"
+flacawav_MSG12="SLUT PÅ LYDKONVERTERING"
+
+# wavaflac
+
+wavaflac_MSG0="WAV-FILER TIL KONVERTER"
+wavaflac_MSG1="Indtast stien til .wav-filerne: "
+wavaflac_MSG2="INVITTERENDE"
+wavaflac_MSG3="Et .flac-FORMAT"
+wavaflac_MSG4="konverteret til flac-format"
+wavaflac_MSG5="Fejl ved konvertering"
+wavaflac_MSG6="til .flac-format"
+wavaflac_MSG7="FLAC FILMATERIALE FUNDET IKKE"
+

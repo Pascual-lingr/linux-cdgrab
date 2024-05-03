@@ -1,0 +1,37 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAfrikaans/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Afrikáans para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Lêers in /tmp"
+dir_tmp_MSG2="Vee alle beelde en saamgeperste lêers uit"
+dir_tmp_MSG3="Begin die lêerbestuurder vir ander bewerkings"
+# Se omite 'n por evitar errores de funcionamiento
+dir_tmp_MSG4="Monteer of ontkoppel n prent"
+dir_tmp_MSG5="Wys die prentskeppingskieslys"
+dir_tmp_MSG6="Wys prentopname-opsies"
+dir_tmp_MSG7="Vorige spyskaart"
+dir_tmp_MSG8="LYS VAN BESTAANDE LêERS IN"
+# Se omite 'N por evitar errores de funcionamiento
+dir_tmp_MSG9="KIES N OPSIE:"
+dir_tmp_MSG10="BEELDE EN LÊERS GESKEE"
+dir_tmp_MSG11="Stel prent op."
+dir_tmp_MSG12="Ontkoppel prent."
+dir_tmp_MSG13="Brand prent na CD"
+dir_tmp_MSG14="Brand prent na DVD"
+dir_tmp_MSG14B="Brand prent na BD"
+dir_tmp_MSG15="Kies opsie volgens die opnamemedium"
+dir_tmp_MSG16="DIE LÊER IS NIE GEVIND NIE DIE KONFIGURASIE LÊER"
+dir_tmp_MSG17="Stap tans die opnameproses af"
+dir_tmp_MSG18="Spesifiseer die .iso-lêer om te brand"
+dir_tmp_MSG19="Voer die prentpad in: "
+
+

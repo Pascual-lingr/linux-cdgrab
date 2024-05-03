@@ -1,0 +1,282 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Húngaro para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux-cdgrab konfiguráció"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Ha nem tudja, melyik IDE csatornához tartozik"
+ayuda_IDE_MSG2="a rögzítő megtudhatja, ha megnyomja a t betűt."
+ayuda_IDE_MSG3="Az IDE csatorna példája lehet 0,0,0 vagy 0,1,0"
+ayuda_IDE_MSG4="Megadhatja a megfelelő eszközt is"
+ayuda_IDE_MSG5="a felvevőjére. Ha nem tudja biztosan, melyik az, nyomja meg a d gombot,"
+ayuda_IDE_MSG6="az /etc/fstab fájlban regisztrált eszközök megtekintéséhez"
+ayuda_IDE_MSG7="Példa az eszközökre: /dev/hdd, /dev/hde stb."
+ayuda_IDE_MSG8="Ha szeretné, listázhatja az összes tartalmazott eszközt"
+ayuda_IDE_MSG9="a /dev könyvtárban az l betű megnyomásával."
+ayuda_IDE_MSG10="Meg kell adnia az IDE-csatornát vagy a rögzítőeszközt"
+ayuda_IDE_MSG11="de nem mindkettő."
+
+# desinstalar
+
+desinstalar_MSG1="A Linux-cdgrab eltávolítva a rendszerről"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Rögzítési sebesség"
+imprimir_variables_MSG2="IDE/SCSI-csatorna vagy rögzítőeszköz"
+imprimir_variables_MSG3="CD-ROM, DVD-ROM vagy BD-ROM olvasó"
+imprimir_variables_MSG4="ATAPI-eszköz"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Rögzítési sebesség"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI-csatorna vagy rögzítőeszköz"
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM vagy BD-ROM olvasó"
+imprimir_lcdgrabcfg_MSG4="ATAPI-eszköz"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Telepítve"
+chequeo_de_aplicaciones_MSG2="NINCS TELEPÍTVE"
+chequeo_de_aplicaciones_MSG3="Telepítés"
+chequeo_de_aplicaciones_MSG4="FONTOS:"
+chequeo_de_aplicaciones_MSG5="A szükséges eszközök telepítése a Linux-cdgrab teljesen működni fog"
+chequeo_de_aplicaciones_MSG6="Minden program, amelyre a Linux-cdgrabnak szüksége van, telepítve van a rendszerére"
+chequeo_de_aplicaciones_MSG4B="FIGYELMEZTETÉS:"
+chequeo_de_aplicaciones_MSG5B="Hiányzó eszközök találhatók"
+chequeo_de_aplicaciones_MSG6B="A rendszerre telepített eszközök"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="A 0,0,0 alapértelmezés szerint ehhez a változóhoz van rendelve"
+msgdefCANALATAPI_MSG2="A konfigurációs fájl CANALATAPI = 0,0,0 értékkel lesz írva"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="A Linux-cdgrab által automatikusan generált konfigurációs fájl."
+nuevo_lcdgrabcfg_MSG5="cdrecord nem található a rendszerben"
+nuevo_lcdgrabcfg_MSG6="Telepítse a cdrtools csomagot."
+nuevo_lcdgrabcfg_MSG7="Folytathatja a konfigurációt az értékek megadásával"
+nuevo_lcdgrabcfg_MSG8="rögzítés, ha korábban ismeri őket."
+nuevo_lcdgrabcfg_MSG9="A cdrecord parancsot CD, DVD és BD lemezek rögzítésére használják"
+nuevo_lcdgrabcfg_MSG10="Ezek az opciók nem működnek, amíg a csomagot nem telepítik."
+nuevo_lcdgrabcfg_MSG11="A jelen lévő meghajtó leolvasó eszköz szintén nem fog működni"
+nuevo_lcdgrabcfg_MSG12="ebben a konfigurációs varázslóban."
+nuevo_lcdgrabcfg_MSG13="A Linux-cdgrab-ot a következő négy lépésben kell konfigurálni"
+nuevo_lcdgrabcfg_MSG14="Első lépés."
+nuevo_lcdgrabcfg_MSG15="Rögzítési sebesség"
+nuevo_lcdgrabcfg_MSG16="Csak egy szám 2,4,8,16,32... stb."
+nuevo_lcdgrabcfg_MSG17="Második lépés."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI-csatorna vagy rögzítőeszköz:"
+nuevo_lcdgrabcfg_MSG19="A -> súgó"
+nuevo_lcdgrabcfg_MSG20="Szkennelés..."
+nuevo_lcdgrabcfg_MSG21="Hiba az IDE/SCSI port vizsgálatakor"
+nuevo_lcdgrabcfg_MSG22="Cdrecord nem található"
+nuevo_lcdgrabcfg_MSG23="Harmadik lépés."
+nuevo_lcdgrabcfg_MSG24="CD-ROM, DVD-ROM vagy BD-ROM eszköz"
+nuevo_lcdgrabcfg_MSG25="L -> Elérhető eszközök listázása"
+nuevo_lcdgrabcfg_MSG26="Szkennelés..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI port vizsgálva"
+nuevo_lcdgrabcfg_MSG28="A cdrecord által a dev=ATAPI-n keresztül használandó eszköz több munkamenetes felvételeknél"
+nuevo_lcdgrabcfg_MSG30="Az eszköz nómenklatúrája 0,0,0 vagy 1,0,0 stb."
+nuevo_lcdgrabcfg_MSG31="Adja meg az eszközt a cdrecord meghívásához a többmenetes CD-ken: "
+nuevo_lcdgrabcfg_MSG32="A konfiguráció nem megfelelő a CANALATAPI-hoz"
+nuevo_lcdgrabcfg_MSG33="Hiba az IDE/SCSI port vizsgálatakor"
+nuevo_lcdgrabcfg_MSG34="Cdrecord nem található"
+nuevo_lcdgrabcfg_MSG36="A Linux-cdgrab által automatikusan generált konfigurációs fájl."
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB BEÁLLÍTÁS KÉSZÜLT"
+
+# colores
+
+colores_MSG1="A színek listája nem található"
+colores_MSG2="Alapértelmezett színek betöltése"
+colores_MSG3="Új színséma kiválasztása a LINUX-CDGRAB felülethez"
+colores_MSG4="FEKETE BETŰTŰ"
+colores_MSG5="STANDARD BRIGHT FONT"
+colores_MSG6="FEKETE HÁTTÉSZÍN"
+colores_MSG7="PIROS BETŰTŰ"
+colores_MSG8="világos fekete betűtípus"
+colores_MSG9="PIROS HÁTTÉSZÍN"
+colores_MSG10="FONT GREEN"
+colores_MSG11="RAGYONVÖRÖS SZÖKőkút"
+colores_MSG12="ZÖLD HÁTTÉRSZÍN"
+colores_MSG13="SÁRGA BETŰTŰ"
+colores_MSG14="RAGYOGÓZÖLD BETŰTŰ"
+colores_MSG15="NARANCS HÁTTÉSZÍN"
+colores_MSG16="KÉK BETŰTŰ"
+colores_MSG17="világos sárga betűtípus"
+colores_MSG18="KÉK HÁTTÉSZÍN"
+colores_MSG19="MAGENTA FONT"
+colores_MSG20="világos kék betűtípus"
+colores_MSG21="MAGENTA HÁTTÉSZÍN"
+colores_MSG22="CIÁN FORRÁS"
+colores_MSG23="BRIGHT MAGENTA FONT"
+colores_MSG24="CIÁN HÁTTÉSZÍN"
+colores_MSG25="SZÜRKE BETŰTŰ"
+colores_MSG26="CIÁN HÁTTÉSZÍN"
+colores_MSG27="világos CIÁNBETŰBETŰ"
+colores_MSG28="SZÜRKE HÁTTÉSZÍN"
+colores_MSG29="ALAPÉRTELMEZETT FORRÁS"
+colores_MSG30="világos fehér betűtípus"
+colores_MSG31="ALAPÉRTELMEZETT HÁTTÉSZÍN"
+colores_MSG32="A betűtípus színszáma: "
+colores_MSG33="A háttér színszáma: "
+colores_MSG34="Színszám a figyelmeztető üzenetekhez: "
+colores_MSG35="Színszám címkeüzenetekhez: "
+colores_MSG36="Színszám a sikeresen befejezett folyamatokhoz"
+colores_MSG37="Színszám a hibával leállított folyamatokhoz: "
+colores_MSG38="Új séma LINUX-CDGRAB-hoz"
+colores_MSG39="ÁLTALÁNOS BETŰSZÍN"
+colores_MSG40="CIMKÉK"
+colores_MSG41="FIGYELMEZTETÉSEK"
+colores_MSG42="SIKER"
+colores_MSG43="HIBA"
+colores_MSG44="HÁTTÉSZÍN"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="AZ ELÉRHETŐ SZÍNEK LISTÁJA:"
+cambiar_esquema_de_color_MSG2="#####SZÍNSZÁMÁK#######"
+cambiar_esquema_de_color_MSG3="----------------------"
+cambiar_esquema_de_color_MSG4="Szín menü"
+cambiar_esquema_de_color_MSG5="Sikertelen"
+cambiar_esquema_de_color_MSG6="Címkék"
+cambiar_esquema_de_color_MSG6b="Megjegyzések"
+cambiar_esquema_de_color_MSG7="Szín menü OK Hibafigyelmeztető címkék"
+cambiar_esquema_de_color_MSG8="Írja be az új szín számát:"
+cambiar_esquema_de_color_MSG9="ÉRVÉNYTELEN OPCIÓ"
+cambiar_esquema_de_color_MSG10="ALAPÉRTELMEZETT SZÍNEK BEÁLLÍTÁSA."
+cambiar_esquema_de_color_MSG11="  BACKGROUND = KÉK_HÁTTÉR"
+cambiar_esquema_de_color_MSG12="  FONT = FÉNYES FEHÉR"
+cambiar_esquema_de_color_MSG13="  FIGYELMEZTETÉSEK = FÉNYES SÁRGA"
+cambiar_esquema_de_color_MSG14="  HIBÁK = FÉNYES PIROS"
+cambiar_esquema_de_color_MSG15="  HIBÁK = FÉNYES PIROS"
+cambiar_esquema_de_color_MSG16="  HITS = FÉNYZÖLD"
+cambiar_esquema_de_color_MSG17="  CÍMKÉK = FÉNYES CIÁN"
+
+# cambia_lector
+
+cambia_lector_MSG1="KÖRNYEZETI BEÁLLÍTÁSOK AZ OPTIKAI EGYSÉGEKHEZ"
+cambia_lector_MSG2="A CD-ROM-hoz, DVD-ROM-hoz vagy BD-ROM-hoz társított jelenlegi eszköz"
+cambia_lector_MSG3="A CD/DVD/BD-íróhoz társított jelenlegi eszköz"
+cambia_lector_MSG4="A dev=ATAPI paraméterhez társított jelenlegi eszköz"
+cambia_lector_MSG5="(több munkamenet támogatása a cdrecordhoz)"
+cambia_lector_MSG6="Válassza ki azt az eszközt, amelyen a módosítást meg kívánja tenni."
+cambia_lector_MSG7="Írja be az opciót:"
+cambia_lector_MSG8="Adja meg az új eszköz nevét"
+cambia_lector_MSG9="nem blokkeszköznek felel meg"
+cambia_lector_MSG10="Eszköz"
+cambia_lector_MSG11="alapértelmezés szerint hozzárendelve"
+cambia_lector_MSG12="Az új eszköz:"
+cambia_lector_MSG13="A cdrecord nem minden verziója fogad el blokkeszközt rögzítési paraméterként"
+cambia_lector_MSG14="Adja meg az új ATAPI eszköz nevét"
+cambia_lector_MSG15="A konfiguráció nem megfelelő a CANALATAPI-hoz"
+cambia_lector_MSG16="A 0,0,0 alapértelmezés szerint ehhez a változóhoz van rendelve"
+cambia_lector_MSG17="A konfigurációs fájl CANALATAPI = 0,0,0 értékkel lesz írva"
+cambia_lector_MSG18="Az új eszköz:"
+cambia_lector_MSG19="NINCS VÁLTOZÁS AZ ESZKÖZÖKEN"
+cambia_lector_MSG4B="Értékek exportálása a konfigurációs fájlból"
+cambia_lector_MSG4C="EZEKET AZ ÉRTÉKEKET JELENTETTÉK A KÖRNYEZETNEK:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Ebből a menüből választhatja ki, melyik segédprogramot"
+cambia_generador_isocd_MSG2="az ISO-9660 képek generálására lesz használva"
+cambia_generador_isocd_MSG3="az olvasóegység meglévő CDS-jéből."
+cambia_generador_isocd_MSG4="Jelenlegi konfiguráció:"
+cambia_generador_isocd_MSG5="Dd használata (GNU coreutils komponens)"
+cambia_generador_isocd_MSG6="Readcd (cdrtools komponens) használata"
+cambia_generador_isocd_MSG7="Előző menü."
+cambia_generador_isocd_MSG8="Válasszon egy lehetőséget:"
+cambia_generador_isocd_MSG9="A dd használata iso generátorként."
+cambia_generador_isocd_MSG10="Readcd használata iso generátorként."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="HFS metaadatok beállítása Rock Ridge és Joliet mellett"
+establecer_hfs_iso_MSG2="Csak Rock Ridge és Joliet metaadatok használata"
+establecer_hfs_iso_MSG3="Előző menü."
+establecer_hfs_iso_MSG4="Válasszon opciót:"
+establecer_hfs_iso_MSG5="HFS, Rock Ridge és Joliet metaadatok használata"
+establecer_hfs_iso_MSG6="Rock Ridge és Joliet metaadatok használata"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Jelenlegi értesítési rendszer"
+cambia_notificaciones_MSG2A="GNOME grafikus felület"
+cambia_notificaciones_MSG2B="KDE grafikus felület"
+cambia_notificaciones_MSG2="Interfész az ncurses-okkal"
+cambia_notificaciones_MSG3="Szöveges felület"
+cambia_notificaciones_MSG4="Kilépés"
+cambia_notificaciones_MSG5="Válasszon egy lehetőséget:"
+cambia_notificaciones_MSG6="Interfész használata párbeszédablakkal"
+cambia_notidicaciones_MSG6B="Interfész használata zenityvel"
+cambia_notidicaciones_MSG6C="Interfész használata a kdialoggal"
+cambia_notificaciones_MSG7="A párbeszédpanel parancs nem található"
+cambia_notificaciones_MSG8="Szöveges felület használata"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Használt nyelv:"
+cambiar_idioma_UI_MSG1="Jelenleg elérhető nyelvek:"
+cambiar_idioma_UI_MSG2="Adja meg a használni kívánt nyelv nevét"
+cambiar_idioma_UI_MSG3="az alkalmazás felületén:"
+cambiar_idioma_UI_MSG4="Az új használt nyelv:"
+cambiar_idioma_UI_MSG5="A LINUX-CDGRAB újraindítása"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Jelenlegi konfiguráció"
+seleccion_gestor_archivos_MSG2="Mc használata"
+seleccion_gestor_archivos_MSG3="Integrált szövegkezelő használata"
+seleccion_gestor_archivos_MSG4="mc nem található a rendszeren telepítve"
+seleccion_gestor_archivos_MSG5="Alapértelmezés szerint az integrált szövegkezelő használata"
+seleccion_gestor_archivos_MSG6="mc segédprogram"
+seleccion_gestor_archivos_MSG7="Integrált szöveg"
+
+# centro_de_control
+
+centro_de_control_MSG1="VEZÉRLŐKÖZPONT"
+centro_de_control_MSG2="Új konfiguráció"
+centro_de_control_MSG3="Konfigurációs fájl törlése"
+centro_de_control_MSG4="Az aktuális konfigurációs fájl és értékek megjelenítése"
+centro_de_control_MSG5="KONFIGURÁCIÓS FÁJL ÉRTÉKEI:"
+centro_de_control_MSG5B="A KÖRNYEZETBEN HASZNÁLT AKTUÁLIS KONFIGURÁCIÓ:"
+centro_de_control_MSG6="Optikai adathordozó módosítása"
+centro_de_control_MSG7="Telepített programok ellenőrzése"
+centro_de_control_MSG8="Az IDE/SCSI port beolvasása cdrecord segítségével"
+centro_de_control_MSG8C="Az IDE/SCSI port beolvasása cdrskin segítségével"
+centro_de_control_MSG8B="Lista a rendszerbe telepített egységek cdrskin segítségével"
+centro_de_control_MSG9="Iso előállító segédprogram módosítása CD-ről"
+centro_de_control_MSG9B="HFS metaadatok beállítása iso-9660-hoz"
+centro_de_control_MSG10="Felhasználói felület módosítása"
+centro_de_control_MSG10b="Szín módosítása"
+centro_de_control_MSG10c="Interfész nyelvének módosítása"
+centro_de_control_MSG11="Fájlkezelő módosítása"
+centro_de_control_MSG11B="Program eltávolítása"
+centro_de_control_MSG12="Adjon meg egy beállítást: "
+centro_de_control_MSG13="A KONFIGURÁCIÓS FÁJL NEM LÉTEZIK"
+centro_de_control_MSG14="NEM TALÁLHATÓ KONFIGURÁCIÓS FÁJL"
+centro_de_control_MSG15="Szkennelés"
+centro_de_control_MSG16="IDE/SCSI port vizsgálva"
+centro_de_control_MSG17="Hiba az IDE/SCSI port vizsgálatakor"
+centro_de_control_MSG18="Színséma kiválasztása"
+centro_de_control_MSG19="Színek tetszőleges kiválasztása"
+centro_de_control_MSG20="Előző menü"
+centro_de_control_MSG21="Adjon meg egy beállítást: "
+centro_de_control_MSG22="A KONFIGURÁCIÓS FÁJL NEM LÉTEZIK"
+centro_de_control_MSG23="NEM TALÁLHATÓ KONFIGURÁCIÓS FÁJL"
+centro_de_control_MSG24="Színséma kiválasztása"
+centro_de_control_MSG25="Színek tetszőleges kiválasztása"
+centro_de_control_MSG26="Érvénytelen beállítás"
+

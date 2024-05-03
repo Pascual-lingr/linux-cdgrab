@@ -1,0 +1,51 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al vietnamita, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="TẠO VÀ XỬ LÝ HÌNH ẢNH ĐĨA"
+MenuImagen_MSG2="------------- TẠO HÌNH ẢNH -------------"
+MenuImagen_MSG3="Tạo Ảnh ISO-9660"
+MenuImagen_MSG4="Tạo Hình ảnh bằng hệ thống tệp Linux gốc"
+MenuImagen_MSG5="Tạo hình ảnh .img của bất kỳ thiết bị khối nào"
+MenuImagen_MSG6="Tạo hình ảnh .bin .cue từ thiết bị hiện tại"
+MenuImagen_MSG7="---------------- CÁC LỰA CHỌN KHÁC ----------------"
+MenuImagen_MSG8="Tạo tệp mô tả .cue từ hình ảnh .bin"
+MenuImagen_MSG9="Chuyển đổi hình ảnh .nrg (Nero Burning ROM) thành .iso"
+MenuImagen_MSG10="Nén ảnh bằng gzip, bzip2 hoặc xz"
+MenuImagen_MSG11="Giải nén hình ảnh ở dạng zip, gz, bz2 hoặc xz"
+MenuImagen_MSG11B="Kiểm tra tổng md5 của ảnh iso"
+MenuImagen_MSG12="Thay đổi chế độ iso"
+MenuImagen_MSG0="Trình đơn trước"
+MenuImagen_MSG13="Tập tin ảnh cần được nén"
+MenuImagen_MSG14="NÉN TẬP TIN HÌNH ẢNH"
+MenuImagen_MSG15="Nhập đường dẫn thư mục chứa hình ảnh bạn muốn nén:"
+MenuImagen_MSG16="Tệp hình ảnh bạn muốn giải nén"
+MenuImagen_MSG17="MỨC ISO HIỆN TẠI"
+MenuImagen_MSG18="mức iso"
+MenuImagen_MSG19="Tên tệp bao gồm một phần"
+MenuImagen_MSG20="và được giới hạn ở 8,3 ký tự."
+MenuImagen_MSG21="Chọn cấp độ này nếu bạn muốn đặt tên tương thích"
+MenuImagen_MSG21b="trong hệ điều hành MS-DOS"
+MenuImagen_MSG22="Tên tập tin bao gồm một phần"
+MenuImagen_MSG23="Mức độ không giới hạn."
+MenuImagen_MSG24="Sử dụng cấp độ này nếu bạn muốn khả năng tương thích của tệp"
+MenuImagen_MSG25="lớn, trong trường hợp này >= 2 Gigabyte."
+MenuImagen_MSG26="Tất cả các mức ISO đều giới hạn tên tệp ở chữ hoa, chữ thường và"
+MenuImagen_MSG27="các ký tự như _ . Tên tệp được giới hạn ở 31 ký tự"
+MenuImagen_MSG28="Tối đa 8 đường dẫn thư mục và tên đường dẫn"
+MenuImagen_MSG29="thư mục có 255 ký tự."
+MenuImagen_MSG30="Chọn mức iso mới"
+MenuImagen_MSG31="ISO cấp 4 không chính thức"
+MenuImagen_MSG32="Tham khảo trang man của mkisofs"
+MenuImagen_MSG33="Mức ISO không hợp lệ"
+MenuImagen_MSG34="Đặt mức iso 3 theo mặc định"
+
+

@@ -1,0 +1,53 @@
+COMPLEMENTOS EXTRA PARA LINUX-CDGRAB 1.0
+----------------------------------------
+
+Los complementos extra de la versión 1.0 de linux-cdrab corresponden con
+una serie de parches para la aplicación principal mas otras traducciones
+del idioma del interfaz generadas con un traductor.
+La instalación de estos será realizada en el directorio de instalación
+existente de linux-cdgrab.
+
+Los idiomas experimentales se copiarán en /usr/share/linux-cdgrab/lcdgrabAPI_idiom
+Los parches se copiarán en /usr/share/linux-cdgrab/parches
+Los ficheros de idioma para los parches, seran copiados 
+en /usr/share/linux-cdgrab/lcdgrabAPI_idiom/*/lcdgrabparches_idiom
+El fichero lingr10ExtrasLeeme.txt se copiará en /usr/share/linux-cdgrab
+
+Complementos implementados:
+---------------------------
+
+-> Traducción experimental al Japonés, Chino simplificado,
+   Ruso, Alemán, Francés, Coreano, Griego, Tailandés, Portugués,
+   Italiano, Holandés, Noruego, Polaco, Checo, Sueco, Armenio,
+   Georgiano, Danés, Amárico, Tigriña, Vietnamita, Islandés,
+   Suajili, Lao, Luxemburgués, Lituano, Afrikáans, Ucraniano,
+   Turco y Húngaro desde los archivos de Español.
+   Traducción experimental al Español desde idioma Inglés.
+   Por soporte al desarrollo. 
+   (usado Google Translate, usado Chat GPT).
+
+-> Parche para formatear dispositivos y archivos vacíos en ReiserFS.
+-> Actualización del parche LightScribe.
+
+NOTA:
+
+Las traducciones experimentales no se consideran oficiales,
+contienen errores de significado en contexto o traducción própia.
+Pueden llevar a confusión en el uso de las opciones del programa.
+Son traducciones generadas integramente por una IA o un traductor.
+Se nombran en directorios mediante el prefijo Ex y el nombre de
+idioma en inglés.
+
+No se recomienda el uso continuado de estas traducciones, tampoco
+se recomienda su uso en sistemas de producción.
+
+Quedan implementadas por soporte al desarrollo.
+Estudio del comportamiento de distintos caracteres bajo el shell.
+Realización de ajustes en los interfaces con ncurses y Qt.
+
+Licencia y creditos:
+--------------------
+Distribuir bajo GPL v2 (www.gnu.org)
+Pascual Martínez Cruz, pascual89@hotmail.com
+
+

@@ -1,0 +1,73 @@
+#########################################################
+# lcgdrabAPI_idiom/ExDutch/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Neerlandés, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="KIES EEN OPTIE"
+clonar_MSG2="------ SCHIJFKOPIËREN MET VOORBEELDBEELD ------"
+clonar_MSG3="Kopieer een gegevens-CD"
+clonar_MSG4="Maak een vorige CD-image op de harde schijf"
+clonar_MSG5="----------- SCHIJFKOPIËREN ON THE FLY ----------"
+clonar_MSG6="Kopieer direct een data-CD"
+clonar_MSG7="Een data-CD direct klonen"
+clonar_MSG7B="Kopieer direct een audio-cd"
+clonar_MSG8="VLIEGENDE KOPIEEROPTIES VEREIST TWEE OPTISCHE EENHEDEN"
+clonar_MSG9="GEÏNSTALLEERD OP UW COMPUTER, AANGEZIEN DE GEGEVENS WORDEN OPGENOMEN TERWIJL"
+clonar_MSG10="LEES DIRECT VANAF DE OORSPRONKSCHIJF, ALS ALLEEN UW COMPUTER DAT HEEFT"
+clonar_MSG11="MEN KAN DE KOPIEËN NIET GEBRUIKEN TIJDENS DE VLUCHT."
+clonar_MSG12B="KOPIEER CD-GEGEVENS"
+clonar_MSG0="Vorige menu"
+
+# mgrabacd
+
+mgrabacd_MSG1="CD-GEGEVENS VAN HARDE SCHIJF"
+mgrabacd_MSG2="Brand een nieuwe gegevens-CD (gebruik cdrtools)"
+mgrabacd_MSG3="Brand een nieuwe gegevens-CD (gebruik libburnia)"
+mgrabacd_MSG4="Vorige menu"
+mgrabacd_MSG5="Voer een optie in"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="GEGEVENSBEELDOPNAME"
+mgrabaimg_MSG2="Brand iso- of ext2-image naar CD-R/RW (gebruik cdrtools)"
+mgrabaimg_MSG3="ISO-image naar CD-R/RW branden (gebruik libburnia)"
+mgrabaimg_MSG4="Vorige menu"
+mgrabaimg_MSG5="Voer een optie in"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Brand een audio-cd van .wav-bestanden"
+mgrabararchivosaudio_MSG2="Brand een audio-cd van .mp3-bestanden"
+mgrabararchivosaudio_MSG3="Brand een audio-cd van .ogg-bestanden"
+mgrabararchivosaudio_MSG0="Vorige menu"
+mgrabararchivosaudio_MSG0B="Typ een optie"
+mgrabararchivosaudio_MSG4="Brand een audio-cd van .flac-bestanden"
+mgrabararchivosaudio_MSG5="CD-AUDIO OPNAME VAN BESTANDEN"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="OPNEMEN OP CD"
+menugrabar_cd_MSG2="------------------- CD - GEGEVENS ---------------"
+menugrabar_cd_MSG3="Gegevens-CD kopiëren"
+menugrabar_cd_MSG4="Een nieuwe gegevens-CD branden"
+menugrabar_cd_MSG5="Brand een nieuwe multi-sessie data-CD"
+menugrabar_cd_MSG6="Brand .iso of .ext2 afbeelding naar CD"
+menugrabar_cd_MSG7="Brand .bin/.cue-afbeelding naar CD"
+menugrabar_cd_MSG8="------------------- CD - AUDIO ------------------"
+menugrabar_cd_MSG9="Een audio-cd rippen"
+menugrabar_cd_MSG13="----------------- ANDERE OPTIES -----------------"
+menugrabar_cd_MSG14="Brand een gemengde CD (data + audio)"
+menugrabar_cd_MSG15="Een CD-RW verwijderen"
+menugrabar_cd_MSG16="Sluit geopende CD"
+menugrabar_cd_MSG17="Toon schijfinformatie in het station"
+menugrabar_cd_MSG18="Brand een audio-cd vanaf schijfbestanden"
+menugrabar_cd_MSG0="Vorige menu"
+menugrabar_cd_MSGPRINCIPAL="Typ een optie"
+

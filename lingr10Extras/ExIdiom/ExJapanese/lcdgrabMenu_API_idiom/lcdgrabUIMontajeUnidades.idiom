@@ -1,0 +1,51 @@
+#########################################################
+# lcdgrabAPI_idiom/ExJapanese/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Japonés para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, utilizado google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="現在システムに搭載されているデバイス"
+montar_dispositivos_MSG1B="組み立て/分解装置"
+montar_dispositivos_MSG2="LINUX-CDGRAB オプション"
+montar_dispositivos_MSG3="CD/DVD/BD ドライブからディスクを取り出す"
+montar_dispositivos_MSG4="CD/DVD/BD バーナーからディスクを取り出す"
+montar_dispositivos_MSG5="CD-ROM/DVD-ROM/BD-ROM ドライブのマウント"
+montar_dispositivos_MSG6="CD-ROM/DVD-ROM/BD-ROMのアンマウント"
+montar_dispositivos_MSG7="デバイスを手動でマウントまたはアンマウントする"
+montar_dispositivos_MSG0="前のメニュー"
+montar_dispositivos_MSG8="CD/DVD/BDを装着"
+montar_dispositivos_MSG9="Enter キーを押して続行..."
+montar_dispositivos_MSG10="CD/DVD/BD のマウントに失敗しました"
+montar_dispositivos_MSG11="CD/DVD/BD がアンマウントされました"
+montar_dispositivos_MSG12="CD/DVD/BD のアンマウント エラー"
+montar_dispositivos_MSG13="マウント/アンマウントするデバイスを入力します。"
+montar_dispositivos_MSG14="マウント ポイントを入力します。"
+montar_dispositivos_MSG15="ブロックデバイスに対応していません"
+montar_dispositivos_MSG16="マウントポイントが見つかりません"
+montar_dispositivos_MSG17="デフォルトのマウント ポイント"
+montar_dispositivos_MSG18="オプションを選択:"
+montar_dispositivos_MSG19="に乗る"
+montar_dispositivos_MSG20="の"
+montar_dispositivos_MSG21="降りる"
+montar_dispositivos_MSG22="の"
+montar_dispositivos_MSG23="上に取り付けられました ："
+montar_dispositivos_MSG24="組み立て中のエラー"
+montar_dispositivos_MSG25="の"
+montar_dispositivos_MSG26="から分解"
+montar_dispositivos_MSG27="取り外しエラー"
+montar_dispositivos_MSG28="の"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="マウント コマンドの出力"
+Montar_Imagenes_MSG1B="イメージファイルのマウント/アンマウント"
+Montar_Imagenes_MSG2="オプションを選択"
+Montar_Imagenes_MSG3="CD/DVD/BDイメージをマウント"
+Montar_Imagenes_MSG4="CD/DVD/BD イメージのアンマウント"
+Montar_Imagenes_MSG5="前のメニュー"

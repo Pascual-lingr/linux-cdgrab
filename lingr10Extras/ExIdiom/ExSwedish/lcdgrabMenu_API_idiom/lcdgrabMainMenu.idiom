@@ -1,0 +1,137 @@
+#########################################################
+# lcdgrabAPI_idiom/Exswedish/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Sueco, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab kan inte hitta vi-textredigeraren"
+ayuda_MSG2="Ange namnet på en textredigerare som är installerad på ditt system"
+ayuda_MSG3="INGEN INSTALLERAD REDAKTÖR HITTAD"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Fil genererad automatiskt av LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="Denna fil tillsammans med katalogen"
+creacion_de_mnt_MSG3="har genererats automatiskt"
+creacion_de_mnt_MSG4="av Linux-cdgrab-applikationen när du verifierade att den inte fanns i din Linux-distribution"
+creacion_de_mnt_MSG5="katalogen"
+creacion_de_mnt_MSG6="Linux-cdgrab använder den här katalogen för att montera sin CD-ROM/DVD-ROM/BD-ROM-enhet"
+creacion_de_mnt_MSG7="Katalogen"
+creacion_de_mnt_MSG8="det kommer inte att raderas om Linux-cdgrab avinstalleras eftersom det vanligtvis är"
+creacion_de_mnt_MSG9="standardmonteringspunkt för /dev/cdrom på de flesta Linux-distributioner."
+creacion_de_mnt_MSG10="Om din distribution använder en annan katalog för att montera enheten /dev/cdrom,"
+creacion_de_mnt_MSG11="det kommer inte att skapa någon inkompatibilitet när man försöker komma åt data på din enhet"
+creacion_de_mnt_MSG12="även om Linux-cdgrab har avinstallerats kan du klara dig utan"
+creacion_de_mnt_MSG13="Syftet med den här filen är endast i informationssyfte, du kan fritt radera den när den har lästs."
+
+# creditos
+
+creditos_MSG1="Distribuera under GPL v2-licens"
+creditos_MSG2="Mer information på www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, skapare och underhållare"
+creditos_MSG4="Bugrapport: pascual89@hotmail.com"
+creditos_MSG5="Programwebbplats: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Baserat på LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Laddar"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SYNTAX"
+lcdgrab_sintaxis_MSG2="Skriv ut denna hjälp"
+lcdgrab_sintaxis_MSG3="Skriv ut Linux version-cdgrab"
+lcdgrab_sintaxis_MSG4="anger IDE-kanalen eller inspelningsenheten"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="anger inspelningshastigheten"
+lcdgrab_sintaxis_MSG7="anger CD-ROM/DVD-ROM/BD-ROM-enhet"
+lcdgrab_sintaxis_MSG8="anger brännarens IDE ATAPI-kanal"
+lcdgrab_sintaxis_MSG9="Alternativen -G -V -L och -CA antyder varandra."
+lcdgrab_sintaxis_MSG9B="Alternativen -iut -ium -iug och -iuk är oberoende av varandra,"
+lcdgrab_sintaxis_MSG9C="komplementär till -G -V -L och -CA, och oberoende mellan -h och -v"
+lcdgrab_sintaxis_MSG10="Alternativen -h och -v är oberoende av varandra och resten."
+lcdgrab_sintaxis_MSG11="Exempel:"
+lcdgrab_sintaxis_MSG12="enhet"
+lcdgrab_sintaxis_MSG13="nummer"
+lcdgrab_sintaxis_MSG14="textgränssnitt"
+lcdgrab_sintaxis_MSG15="gränssnitt med ncurses"
+lcdgrab_sintaxis_MSG16="grafiskt gränssnitt med GTK"
+lcdgrab_sintaxis_MSG17="grafiskt gränssnitt med Qt"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Ange skriptsökvägen:"
+main_lcdgrabopdep_MSG2="Ogiltig sökväg"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Installerade patchar:"
+main_lcdgrabopdeppatch_MSG2="Ange patchsökvägen:"
+main_lcdgrabopdeppatch_MSG3="Hittades inte"
+
+# menu principal dialog
+
+main_lcdgrabop9uidia="LADDA UPP EN YTTERLIGARE PATCH"
+
+# menu principal texto
+
+main_lcdgrabop1_text="INSPELNING PÅ CD\t\t\t\t="
+main_lcdgrabop2_text="INSPELNING PÅ DVD\t\t\t="
+main_lcdgrabop3_text="INSPELNING PÅ BD\t\t\t\t="
+main_lcdgrabop4_text="HANDHAVANDE AV DISKDRIVNING\t\t="
+main_lcdgrabop5_text="BILDSKAPANDE\t\t\t\t="
+main_lcdgrabop6_text="LJUDOMVANDLING\t\t\t\t="
+main_lcdgrabop6b_text="VIDEOMANDERING\t\t\t\t="
+main_lcdgrabop7_text="MONTERA ELLER AVMONTERA CD/DVD/BD\t="
+main_lcdgrabop8_text="MONTERA ELLER AVMONTERA BILD\t\t="
+main_lcdgrabop9_text="LADDA UPP EN YTTERLIGARE PATCH\t\t="
+main_lcdgrabop10_text="KONTROLLCENTER\t\t\t\t="
+main_lcdgrabop0_text="GÅ UT\t\t\t\t\t="
+main_lcdgrabet1_text="ANDRA ALTERNATIV ##\t\t="
+main_lcdgrabopEe_text="Mata ut disken från enheten\t="
+main_lcdgrabopTD_text="Visa katalog"
+tabs="\t\t\t="
+main_lcdgrabopG_text="Filhanterare\t\t\t\t="
+main_lcdgrabopH_text="Hjälpa\t\t\t\t="
+main_lcdgrabopA_text="Handla om\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="INSPELNING PÅ CD"
+main_lcdgrabop2="INSPELNING PÅ DVD"
+main_lcdgrabop3="INSPELNING PÅ BD"
+main_lcdgrabop4="HANDHAVANDE AV DISKDRIVNING"
+main_lcdgrabop5="BILDSKAPANDE"
+main_lcdgrabop6="LJUDOMVANDLING"
+main_lcdgrabop6b="VIDEOMANDERING"
+main_lcdgrabop7="MONTERA ELLER AVMONTERA CD/DVD/BD"
+main_lcdgrabop8="MONTERA ELLER AVMONTERA BILD"
+main_lcdgrabop9="CARGAR UN PARCHE ADICIONAL"
+main_lcdgrabop10="KONTROLLCENTER"
+main_lcdgrabop0="GÅ UT"
+main_lcdgrabet1="ANDRA ALTERNATIV ##"
+main_lcdgrabopEe="Mata ut disken från enheten"
+main_lcdgrabopTD="Visa katalog"
+main_lcdgrabopG="Filhanterare"
+main_lcdgrabopH="Hjälpa"
+main_lcdgrabopA="Handla om"
+main_lcdgrabopPRINCIPAL="Skriv ett alternativ:"
+MSG1_MAIN="Att välja H visar användningen av alternativen."
+main_lcdgrabopA_MSG1="Springa på:"
+

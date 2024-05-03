@@ -1,0 +1,59 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAfrikaans/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Afrikáans para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* NAVIGASIE-OPSIES ************************"
+ayuda_gestor_de_archivos_MSG2="Blaai deur die lêerstelsel."
+ayuda_gestor_de_archivos_MSG3="X --> Verlaat"
+ayuda_gestor_de_archivos_MSG4="A --> Vorige gids"
+ayuda_gestor_de_archivos_MSG5="B --> Volgende gids"
+ayuda_gestor_de_archivos_MSG6="Handelinge op lêers en gidse."
+ayuda_gestor_de_archivos_MSG7="C --> Kopieer lêer"
+ayuda_gestor_de_archivos_MSG8="M --> Skuif lêer"
+ayuda_gestor_de_archivos_MSG9="CD --> Kopieer gids"
+ayuda_gestor_de_archivos_MSG10="MD --> Skuif gids"
+ayuda_gestor_de_archivos_MSG11="Verstaan ​​aksies op lêers en gidse."
+# Se omite 'n por evitar errores de funcionamiento
+ayuda_gestor_de_archivos_MSG12="Z --> Druk n lêer saam"
+ayuda_gestor_de_archivos_MSG13="DZ --> Dekomprimeer n lêer"
+ayuda_gestor_de_archivos_MSG14="EZ --> Skep n .tar.gz- of .tar.bz2-pakket"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Pak n .tar.gz of .tar.bz2 uit"
+ayuda_gestor_de_archivos_MSG16="*******************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Huidige aktiewe gids"
+gestor_de_archivos_MSG0B="Lêers in"
+gestor_de_archivos_MSG1="========================= NAVIGASIE-OPSIES ============================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> HULP="
+gestor_de_archivos_MSG3="========================================================================"
+# Se omite 'n por evitar errores de funcionamiento
+gestor_de_archivos_MSG4="Tik n opsie"
+gestor_de_archivos_MSG5="Tik gids"
+gestor_de_archivos_MSG6="Tik die bronlêer"
+gestor_de_archivos_MSG7="Tik die bestemminglêer"
+gestor_de_archivos_MSG8="Lêer suksesvol gekopieer"
+gestor_de_archivos_MSG9="Fout met die kopiëring van lêer"
+gestor_de_archivos_MSG10="Tik die bronlêer"
+gestor_de_archivos_MSG11="Tik die bestemminglêer"
+gestor_de_archivos_MSG12="Lêer suksesvol geskuif"
+gestor_de_archivos_MSG13="Fout met die skuif van lêer"
+gestor_de_archivos_MSG14="Tik die brongids"
+gestor_de_archivos_MSG15="Tik die bestemmingsgids"
+gestor_de_archivos_MSG16="Gids suksesvol gekopieer"
+gestor_de_archivos_MSG17="Fout met kopiëring van gids"
+gestor_de_archivos_MSG18="Tik die brongids"
+gestor_de_archivos_MSG19="Tik die bestemmingsgids"
+gestor_de_archivos_MSG20="Gids suksesvol geskuif"
+gestor_de_archivos_MSG21="Fout met skuif gids"
+gestor_de_archivos_MSG22="LêER OM TE KOMPRESSEER"
+gestor_de_archivos_MSG23="Spesifiseer die lêerpad"
+

@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExPolish/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Polaco para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="OBSŁUGA DYSKU"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- WAŻNY -----------------------"
+MenuDispositivosBloque_MSG3="+ Nie wykonuj operacji zapisu na dyskach twardych "
+MenuDispositivosBloque_MSG4="+ o partycjach dysku zawierających obrazy"
+MenuDispositivosBloque_MSG5="+ odzyskiwanie, partycje rozruchowe lub własne"
+MenuDispositivosBloque_MSG6="+ partycja systemu operacyjnego."
+MenuDispositivosBloque_MSG7="+ Niewłaściwe użycie opcji pisania tego menu "
+MenuDispositivosBloque_MSG8="+ może wygenerować katastrofę w systemie."
+MenuDispositivosBloque_MSG9="+ Używaj ostrożnie. Używaj na własne ryzyko."
+MenuDispositivosBloque_MSG10="---------------------- PISMO ---------------------"
+MenuDispositivosBloque_MSG11="Zrzuć plik obrazu na dysk"
+MenuDispositivosBloque_MSG11B="Zrzuć obraz ISO lub img (samoczynnie uruchamiający się) na pendrive lub dysk USB"
+MenuDispositivosBloque_MSG11C="Nie wszystkie systemy instalacyjne są obsługiwane."
+MenuDispositivosBloque_MSG12="Formatuj dysk przy użyciu natywnego systemu plików Linux lub Windows"
+MenuDispositivosBloque_MSG13="-------------------- CZYTANIE --------------------"
+MenuDispositivosBloque_MSG14="Utwórz obraz .img z dysku"
+MenuDispositivosBloque_MSG15="Poprzednie menu"
+MenuDispositivosBloque_MSG16="Wpisz opcję"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------WAŻNY------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Formatuj jednostkę z systemem plików używanym w urządzeniach"
+UIFormatearUnidad_linuxfs_MSG2B="+ lub partycje dysku."
+UIFormatearUnidad_linuxfs_MSG3="+ Ta opcja usunie wszystkie istniejące dane w urządzeniu"
+UIFormatearUnidad_linuxfs_MSG4="+ Dyski wymienne sformatowane w systemie plików"
+UIFormatearUnidad_linuxfs_MSG5="+ Sam Linux będzie dostępny tylko w tym systemie operacyjnym."
+UIFormatearUnidad_linuxfs_MSG6="+ Używaj ostrożnie, używaj na własne ryzyko."
+UIFormatearUnidad_linuxfs_MSG7="-------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="NACIŚNIJ KLAWISZ C, ABY KONTYNUOWAĆ; (Proces zostanie anulowany w innej opcji)"
+

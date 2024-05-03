@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGerman/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Alemán para el API de grabación en BD.
+# Traducción experimental, generada con google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660-BILD RICHTIG AUF BLU-RAY AUFGENOMMEN"
+grabar_ISO_BD_MSG2="FEHLER BEI DER BILDAUFZEICHNUNG AUF BLU-RAY-DISK"
+grabar_ISO_BD_MSG3="ISO-9660-BILD IN BD"
+grabar_ISO_BD_MSG4="Geben Sie den Pfad des zu brennenden ISO-9660-Images an:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Dateien und Verzeichnisse zum Erstellen des ISO-Images"
+bd_datos_MSG2="DB-LABEL"
+bd_datos_MSG3="Geben Sie einen Namen für die zukünftige Datenbank ein:"
+bd_datos_MSG4="Dateimanager starten:"
+bd_datos_MSG5=" BILD ERSTELLEN . . ."
+bd_datos_MSG6="läuft"
+bd_datos_MSG7="ISO-9660-BILD ERSTELLT IN"
+bd_datos_MSG8=" BD AUFZEICHNEN"
+bd_datos_MSG13="BILD WIRD LÖSCHEN..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Die erforderliche Formatierung oder Löschung wird je nach Festplattenstatus angewendet"
+borrar_BDRE_lb_MSG2="BD-RE ERFOLGREICH GELÖSCHT!!"
+borrar_BDRE_lb_MSG3="FEHLER BEIM LÖSCHEN DER BD-RE"
+

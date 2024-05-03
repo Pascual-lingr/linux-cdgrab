@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExChinese/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Chino Simplificado para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="/tmp 中的文件"
+dir_tmp_MSG2="删除所有图像和压缩文件"
+dir_tmp_MSG3="启动文件管理器进行其他操作"
+dir_tmp_MSG4="装载或卸载图像"
+dir_tmp_MSG5="显示图像创建菜单"
+dir_tmp_MSG6="显示图像记录选项"
+dir_tmp_MSG7="上一个菜单"
+dir_tmp_MSG8="中的现有文件列表"
+dir_tmp_MSG9="选择一个选项："
+dir_tmp_MSG10="删除的图像和文件"
+dir_tmp_MSG11="安装图像。"
+dir_tmp_MSG12="卸载图像。"
+dir_tmp_MSG13="将映像刻录到 CD"
+dir_tmp_MSG14="将图像刻录到 DVD"
+dir_tmp_MSG14B="将图像刻录到 BD"
+dir_tmp_MSG15="根据录音支持选择选项"
+dir_tmp_MSG16="找不到配置文件"
+dir_tmp_MSG17="中止录制过程"
+dir_tmp_MSG18="指定要烧录的.iso文件"
+dir_tmp_MSG19="写入图片的路径："
+

@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDanish/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en danés para el API de video.
+# Traducción experimental, generado con Google Translator.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="VIDEOKONVERING BLU-RAY DISC KOMPATIBILITET"
+conv_video_BDVideo_MSG2="Angiv stien til videofilen, der skal konverteres:"
+conv_video_BDVideo_MSG3="Angiv filnavnet på den nye video, der skal oprettes:"
+conv_video_BDVideo_MSG4="Videofil konverteret med succes!!"
+conv_video_BDVideo_MSG5="Fejl ved konvertering af videofil"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="CONVERSION VIDEOFILER"
+conv_VideoFich_MSG2="Angiv videofilen, der skal konverteres:"
+conv_VideoFich_MSG3="Angiv videofilen, der skal genereres:"
+conv_VideoFich_MSG4="VIDEOFIL KONVERTERING FULDFØRT"
+conv_VideoFich_MSG5="FEJL VED KONVERTERING AF VIDEOFIL"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Angiv videofilen:"
+extrae_Audio_de_Video_MSG2="Angiv den mp3-lydfil, der skal genereres:"
+extrae_Audio_de_Video_MSG3="LYDUDTAGNING MED SUCCES"
+extrae_Audio_de_Video_MSG4="FEJL VED UDTAGNING AF LYD"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Angiv videofilen:"
+extrae_Fragmento_Video_MSG2="Angiv videofilen, der skal genereres:"
+extrae_Fragmento_Video_MSG3="Angiv starttidspunktet (Angiv som TT:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Angiv sluttidspunktet (Angiv som TT:MM:SS) :"
+extrae_Fragmento_Video_MSG5="VIDEO SUCCES FULDT TRIMMET"
+extrae_Fragmento_Video_MSG6="FEJL VED TRIMNING AF VIDEO"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Angiv lydfilen:"
+mezcla_Audio_Video_MSG2="Angiv videofilen:"
+mezcla_Audio_Video_MSG3="Angiv videofilen, der skal genereres:"
+mezcla_Audio_Video_MSG4="NY VIDEOFIL ER SUCCES GENERERET"
+mezcla_Audio_Video_MSG5="FEJL VED GENERERING AF VIDEOFIL"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="MULIGHED IKKE TILGÆNGELIG FOR KONSOL-GRÆNSEFLADE"
+graba_escritorio_MSG2="-- OPTAGELSE AF DESKTOPSESSION -- TRYK CTRL + C FOR AT ANNULLERE OG STOPPE OPTAGELSE"
+graba_escritorio_MSG3="VIDEOOPTAGELSE FULDFØRT"
+

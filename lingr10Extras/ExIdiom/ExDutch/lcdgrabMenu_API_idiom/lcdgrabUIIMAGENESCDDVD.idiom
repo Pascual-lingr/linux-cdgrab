@@ -1,0 +1,51 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDutch/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Neerlandés, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="CREATIE EN OMGAAN MET SCHIJFBEELDINGEN"
+MenuImagen_MSG2="--------------- AFBEELDING MAKEN --------------"
+MenuImagen_MSG3="Maak een ISO-9660-afbeelding"
+MenuImagen_MSG4="Maak een image met een native Linux-bestandssysteem"
+MenuImagen_MSG5="Maak een .img-afbeelding van elk blokapparaat"
+MenuImagen_MSG6="Maak een .bin .cue-afbeelding van het huidige apparaat"
+MenuImagen_MSG7="---------------- ANDERE OPTIES ----------------"
+MenuImagen_MSG8="Genereer een .cue-beschrijvingsbestand uit een .bin-afbeelding"
+MenuImagen_MSG9="Converteer een .nrg (Nero Burning ROM) afbeelding naar .iso"
+MenuImagen_MSG10="Een afbeelding comprimeren met gzip, bzip2 of xz"
+MenuImagen_MSG11="Een afbeelding decomprimeren in zip, gz, bz2 of xz"
+MenuImagen_MSG11B="Controleer md5-som van ISO-afbeeldingen"
+MenuImagen_MSG12="Wijzig de ISO-modus"
+MenuImagen_MSG0="Vorige menu"
+MenuImagen_MSG13="Afbeeldingsbestand dat moet worden gecomprimeerd"
+MenuImagen_MSG14="COMPRESSIE BEELDBESTAND"
+MenuImagen_MSG15="Typ het mappad waar de afbeelding die u wilt comprimeren zich bevindt:"
+MenuImagen_MSG16="Afbeeldingsbestand dat u wilt decomprimeren"
+MenuImagen_MSG17="HUIDIG ISO-NIVEAU"
+MenuImagen_MSG18="iso-niveau"
+MenuImagen_MSG19="Bestandsnamen bestaan ​​uit een sectie"
+MenuImagen_MSG20="en zijn beperkt tot 8,3 tekens."
+MenuImagen_MSG21="Kies dit niveau als u naamcompatibiliteit wilt"
+MenuImagen_MSG21b="onder het MS-DOS besturingssysteem"
+MenuImagen_MSG22="Bestandsnamen bestaan ​​uit een sectie"
+MenuImagen_MSG23="Onbeperkt niveau."
+MenuImagen_MSG24="Gebruik dit niveau als u bestandscompatibiliteit wilt"
+MenuImagen_MSG25="groot, in dit geval >= 2 Gigabytes."
+MenuImagen_MSG26="Alle ISO-niveaus beperken bestandsnamen tot hoofdletters, kleine letters en"
+MenuImagen_MSG27="tekens zoals _. Bestandsnamen zijn beperkt tot 31 tekens"
+MenuImagen_MSG28="Maximaal 8 mappaden en padnaam"
+MenuImagen_MSG29="mappen tot 255 tekens."
+MenuImagen_MSG30="Kies het nieuwe ISO-niveau"
+MenuImagen_MSG31="ISO niveau 4 is niet officieel"
+MenuImagen_MSG32="Raadpleeg de mkisofs manpagina"
+MenuImagen_MSG33="Ongeldig ISO-niveau"
+MenuImagen_MSG34="Stel ISO-niveau 3 standaard in"
+
+

@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExTigrinya/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Tigriña para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="ስርሓት ዲስክ ድራይቭ"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- ጠቃሚ -----------------------"
+MenuDispositivosBloque_MSG3="+ ኣብ ሃርድ ድራይቭ ናይ ጽሕፈት ስርሓት ኣይትፍጸም "
+MenuDispositivosBloque_MSG4="+ ብዛዕባ ምስልታት ዝሓዙ ክፍልታት ዲስክ።"
+MenuDispositivosBloque_MSG5="+ ምሕዋይ፣ ምጅማር ክፍልታት ወይ ናይ ገዛእ ርእስኻ።"
+MenuDispositivosBloque_MSG6="+ ክፍሊ ስርዓተ-ምሕደራ።"
+MenuDispositivosBloque_MSG7="+ ዘይግቡእ ኣጠቓቕማ ናይ ጽሑፍ ኣማራጺታት ናይዚ ዝርዝር "
+MenuDispositivosBloque_MSG8="+ ኣብቲ ስርዓት ዕንወት ከስዕብ ይኽእል።"
+MenuDispositivosBloque_MSG9="+ ብጥንቃቐ ተጠቐም። ኣብ ናይ ገዛእ ርእስኻ ሓደጋ ተጠቐም።"
+MenuDispositivosBloque_MSG10="------------------- ምጽሓፍ -------------------"
+MenuDispositivosBloque_MSG11="ናይ ምስሊ ፋይል ናብ ዲስክ ድራይቭ ምድርባይ"
+MenuDispositivosBloque_MSG11B="iso ወይ img ምስሊ (ባዕሉ ዝጅምር) ናብ pendrive ወይ USB disk ምድርባይ"
+MenuDispositivosBloque_MSG11C="ኩሎም ናይ ምትካል ስርዓታት ኣይድገፉን እዮም።"
+MenuDispositivosBloque_MSG12="ድራይቭ ምስ ተወላዲ ሊኑክስ ወይ ዊንዶውስ ፋይል ሲስተም ፎርማት ምግባር"
+MenuDispositivosBloque_MSG13="-------------------- ምንባብ --------------------"
+MenuDispositivosBloque_MSG14="ካብ ዲስክ ድራይቭ .img ምስሊ ምፍጣር"
+MenuDispositivosBloque_MSG15="ቅድሚ ሕጂ ዝነበረ ዝርዝር መግቢ"
+MenuDispositivosBloque_MSG16="ሓደ ኣማራጺ ጽሓፍ"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------ጠቃሚ------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ ኣብ መሳርሒታት ዝጥቀም ስርዓተ ፋይል ዘለዎ ኣሃዱ ቅርጺ።"
+UIFormatearUnidad_linuxfs_MSG2B="+ ወይ ዲስክ ክፍልታት።"
+UIFormatearUnidad_linuxfs_MSG3="+ እዚ ኣማራጺ ንኹሉ ዝጸንሐ ዳታ ኣብቲ ኣሃዱ ክድምስሶ እዩ።"
+UIFormatearUnidad_linuxfs_MSG4="+ ብፋይል ሲስተም ዝተቐረጹ ክእለዩ ዝኽእሉ ድራይቭታት።"
+UIFormatearUnidad_linuxfs_MSG5="+ ሊኑክስ ንባዕሉ ኣብ ትሕቲ እዚ ስርዓተ ምምሕዳር ጥራይ እዩ ዝረአ።"
+UIFormatearUnidad_linuxfs_MSG6="+ ብጥንቃቐ ተጠቐም፣ ኣብ ናይ ገዛእ ርእስኻ ሓደጋ ተጠቐም።"
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="ንምቕጻል C KEY ምጽቃጥ፤(እቲ መስርሕ ብኻልእ ኣማራጺ ክስረዝ እዩ)"
+

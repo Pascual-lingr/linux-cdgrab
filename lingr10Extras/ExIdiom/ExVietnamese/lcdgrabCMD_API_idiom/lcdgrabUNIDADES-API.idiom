@@ -1,0 +1,71 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en Vietnamita para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Đường dẫn của hình ảnh .img hoặc .ext2 để đổ vào đĩa."
+volcar_imagen_MSG2="-----------------------QUAN TRỌNG----------------------------" 
+volcar_imagen_MSG3="+ Tùy chọn này không hoạt động trên đĩa quang."
+volcar_imagen_MSG4="+ Sử dụng trên ổ đĩa, đĩa mềm, phân vùng đĩa, v.v."
+volcar_imagen_MSG5="+ Cân nhắc với ổ cứng:"
+volcar_imagen_MSG6="+ Hình ảnh được viết bằng dd ngay từ đầu"
+volcar_imagen_MSG7=" từ đĩa được chỉ định, không được phép sử dụng số"
+volcar_imagen_MSG8=" Khu vực cụ thể để bắt đầu quá trình viết"
+volcar_imagen_MSG9="+ Sử dụng thận trọng. Sử dụng có nguy cơ."
+volcar_imagen_MSG10="+ Phân vùng đĩa có thể không sử dụng được."
+volcar_imagen_MSG11="+ Không nên sử dụng nó trên hệ thống nhiều phân vùng."
+volcar_imagen_MSG12=" Việc khôi phục có thể rời khỏi bảng phân vùng và"
+volcar_imagen_MSG13=" Bản thân các phân vùng vô dụng."
+volcar_imagen_MSG14="-------------------------------------------------------------"
+volcar_imagen_MSG15="BẤM PHÍM C ĐỂ TIẾP TỤC; (Quá trình này sẽ bị hủy trong tùy chọn khác)"
+volcar_imagen_MSG16="Chỉ định đường dẫn của tệp hình ảnh để lưu vào đĩa: "
+volcar_imagen_MSG17="Gắn kết đầu ra lệnh:"
+volcar_imagen_MSG18="Chỉ định thiết bị khối nơi hình ảnh sẽ được kết xuất:"
+volcar_imagen_MSG19="BẢO HÌNH ẢNH"
+volcar_imagen_MSG20="TRÊN THIẾT BỊ"
+volcar_imagen_MSG21="đang chạy"
+volcar_imagen_MSG22="QUY TRÌNH DUMP HÌNH ẢNH HOÀN THÀNH"
+
+# volcar_iso
+
+volcar_iso_MSG1="Chỉ định thiết bị khối để ghi ảnh iso vào:"
+volcar_iso_MSG2="CẢNH BÁO"
+volcar_iso_MSG2B="--------"
+volcar_iso_MSG3="Chỉ định khối thiết bị để ghi vào."
+volcar_iso_MSG4="Ví dụ: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Không chỉ định phân vùng thuộc về thiết bị này"
+volcar_iso_MSG6="Ví dụ: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Chỉ định hình ảnh hoặc img iso-9660 để viết:"
+volcar_iso_MSG9="Quá trình hoàn tất"
+volcar_iso_MSG10="Lỗi trong quá trình ghi iso"
+volcar_iso_MSG11="Chỉ định kích thước khối để ghi hình ảnh"
+volcar_iso_MSG12="Chọn tùy chọn theo hệ điều hành để viết:"
+volcar_iso_MSG13="ISO-9660 hoặc hình ảnh IMG có thể khởi động để flash trên thiết bị:"
+volcar_iso_MSG14="Thoát"
+volcar_iso_MSG15="ISO-9660 HOẶC TẬP TIN HÌNH ẢNH IMG"
+volcar_ISO_MSG16="CHỌN HỆ THỐNG VẬN HÀNH ĐỂ kết xuất VÀO ĐƠN VỊ"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Chọn hệ thống tập tin với"
+Formateador_linuxfs_MSG2="thiết bị sẽ được định dạng:"
+Formateador_linuxfs_MSG3="Chỉ định thiết bị khối cần định dạng: "
+Formateador_linuxfs_MSG5="ĐÃ HOÀN THÀNH"
+Formateador_linuxfs_MSG6="Định dạng đĩa"
+Formateador_linuxfs_MSG7="Đặt nhãn ổ đĩa"
+Formateador_linuxfs_MSG10="Chỉ định tên nhãn ổ đĩa"
+Formateador_linuxfs_MSG11="Nhãn tập đĩa mới"
+Formateador_linuxfs_MSG12="Chỉ định kích thước khối"
+Formateador_linuxfs_MSG13="Kích thước khối mới"
+Formateador_linuxfs_MSG14="Menu trước"
+
+

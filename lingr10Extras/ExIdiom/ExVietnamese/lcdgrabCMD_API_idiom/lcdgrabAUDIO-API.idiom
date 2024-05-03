@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en vietnamita para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="TẬP TIN MP3 ĐỂ CHUYỂN ĐỔI"
+mp3awav_MSG0="Nhập đường dẫn của tệp .mp3: "
+mp3awav_MSG1="CHUYỂN ĐỔI"
+mp3awav_MSG1B=" ĐẾN ĐỊNH DẠNG .wav"
+mp3awav_MSG2="đang chạy"
+mp3awav_MSG3="Đặt mẫu thành 44100 Mhz"
+mp3awav_MSG4="Lỗi xử lý lấy mẫu"
+mp3awav_MSG5="Chuyển đổi không thành công"
+mp3awav_MSG6="Không tìm thấy thư mục"
+mp3awav_MSG7="KẾT THÚC CHUYỂN ĐỔI ÂM THANH"
+mp3awav_MSG8="Bình thường hóa tập tin âm thanh"
+mp3awav_MSG9="Tệp"
+mp3awav_MSG10="Chuẩn hóa"
+mp3awav_MSG11="Lỗi chuẩn hóa"
+
+# oggawav
+
+oggawav_MSG0="TẬP TIN OGG ĐỂ CHUYỂN ĐỔI"
+oggawav_MSG1="Nhập đường dẫn của tệp .ogg: "
+oggawav_MSG2="CHUYỂN ĐỔI"
+oggawav_MSG2B="Định dạng .wav"
+oggawav_MSG3="đang chạy"
+oggawav_MSG4="Đặt mẫu thành 44100 Mhz"
+oggawav_MSG5="Lỗi xử lý lấy mẫu"
+oggawav_MSG6="Chuyển đổi không thành công"
+oggawav_MSG7="Không tìm thấy thư mục"
+oggawav_MSG8="KẾT THÚC BẠC PHỦ ÂM THANH"
+oggawav_MSG9="Đang chuẩn hóa tập tin âm thanh"
+oggawav_MSG10="Tệp"
+oggawav_MSG11="Chuẩn hóa"
+oggawav_MSG12="Lỗi chuẩn hóa"
+
+# cdawav
+
+cdawav_MSG1="RIPPING CD ÂM THANH..."
+cdawav_MSG2="Đang thực thi:"
+cdawav_MSG3="BÀI ÂM THANH CHƯA THÀNH CÔNG!!"
+cdawav_MSG4="Nội dung của thư mục tập tin âm thanh"
+cdawav_MSG5="LỖI KHI RIP ÂM THANH"
+
+# cddawav
+
+cddawav_MSG1="NHẬP SỐ BÀI HÁT ĐỂ RIP:"
+cddawav_MSG2="Nhấn Ctrl + c để hủy việc sao chép một bản nhạc"
+cddawav_MSG3="Đang thực thi:"
+cddawav_MSG4="Đã XÉT THÀNH CÔNG"
+cddawav_MSG5="LỖI SAO CHÉP"
+
+# wavamp3
+
+wavamp3_MSG0="TẬP TIN WAV ĐỂ CHUYỂN ĐỔI"
+wavamp3_MSG1="Nhập đường dẫn của tệp .wav: "
+wavamp3_MSG1B="CHUYỂN ĐỔI"
+wavamp3_MSG2="Định dạng"
+wavamp3_MSG3="Đang thực thi:"
+wavamp3_MSG4="khi chuyển đổi"
+wavamp3_MSG5="sang định dạng .MP3"
+wavamp3_MSG6="Lỗi chuyển đổi"
+wavamp3_MSG7="ĐÃ HOÀN THÀNH CHUYỂN ĐỔI ÂM THANH"
+wavamp3_MSG8="KHÔNG TÌM THẤY THƯ MỤC ÂM THANH"
+
+# cdamp3
+
+cdamp3_MSG1="RIPPING CD ÂM THANH..."
+cdamp3_MSG2="Đang thực thi:"
+cdamp3_MSG3="BÀI ÂM THANH CHƯA THÀNH CÔNG!!"
+cdamp3_MSG4="LỖI KHI RIPPING ÂM THANH"
+cdamp3_MSG5="Chức năng gọi:"
+
+# wavaogg
+
+wavaogg_MSG1="Nhập đường dẫn của tệp .wav: "
+wavaogg_MSG2="CHUYỂN ĐỔI"
+wavaogg_MSG3="Định dạng .ogg"
+wavaogg_MSG4="Đang chạy:"
+wavaogg_MSG5="Lỗi chuyển đổi"
+wavaogg_MSG6="sang định dạng .ogg"
+
+# cdaogg
+
+cdaogg_MSG1="RIPPING CD ÂM THANH..."
+cdaogg_MSG2="Đang thực thi:"
+cdaogg_MSG3="BÀI ÂM THANH CHƯA THÀNH CÔNG!!"
+cdaogg_MSG4="LỖI KHI RIP ÂM THANH"
+cdaogg_MSG5="Chức năng gọi:"
+
+# corta_wav
+
+corta_wav_MSG0="Số giây:"
+corta_wav_MSG1="Chỉ định đường dẫn của tệp âm thanh cần chuyển đổi:"
+corta_wav_MSG2="Chỉ định thời gian tính bằng giây"
+corta_wav_MSG3="Việc cắt tập tin sẽ bắt đầu."
+corta_wav_MSG4="-ghi chú-"
+corta_wav_MSG5="Để chỉ định phần đầu của âm thanh, hãy nhập 0"
+corta_wav_MSG6="Giá trị tính bằng giây để bắt đầu chuyển đổi:"
+corta_wav_MSG7="Chỉ định thời gian tính bằng giây"
+corta_wav_MSG8="Việc cắt tập tin sẽ hoàn tất."
+corta_wav_MSG9="Giá trị tính bằng giây khi kết thúc chuyển đổi:"
+corta_wav_MSG10="Đang chạy"
+corta_wav_MSG11="Tập tin âm thanh đã được cắt bớt"
+corta_wav_MSG12="Lỗi khi cắt tập tin"
+corta_wav_MSG13="Tệp âm thanh cần cắt:"
+
+# flacawav
+
+flacawav_MSG0="ÂM THANH FLAC/WAV"
+flacawav_MSG1="Chỉ định đường dẫn của tệp .flac:"
+flacawav_MSG2="CHUYỂN ĐỔI"
+flacawav_MSG3=" ĐẾN ĐỊNH DẠNG .wav"
+flacawav_MSG4="Đặt mẫu thành 44100 Mhz"
+flacawav_MSG5="Lỗi xử lý lấy mẫu"
+flacawav_MSG6="Chuẩn hóa tập tin âm thanh"
+flacawav_MSG7="Tệp"
+flacawav_MSG8="Chuẩn hóa"
+flacawav_MSG9="Lỗi chuẩn hóa"
+flacawav_MSG10="Chuyển đổi không thành công"
+flacawav_MSG11="Không tìm thấy thư mục"
+flacawav_MSG12="KẾT THÚC CHUYỂN ĐỔI ÂM THANH"
+
+# wavaflac
+
+wavaflac_MSG0="TẬP TIN WAV ĐỂ CHUYỂN ĐỔI"
+wavaflac_MSG1="Nhập đường dẫn của tệp .wav: "
+wavaflac_MSG2="CHUYỂN ĐỔI"
+wavaflac_MSG3="Định dạng .flac"
+wavaflac_MSG4="đã chuyển đổi sang định dạng flac"
+wavaflac_MSG5="Lỗi chuyển đổi"
+wavaflac_MSG6="sang định dạng .flac"
+wavaflac_MSG7="KHÔNG TÌM THƯ MỤC TẬP TIN FLAC"
+

@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Suajili para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* CHAGUO ZA URAMBAZAJI ************************"
+ayuda_gestor_de_archivos_MSG2="Vinjari mfumo wa faili."
+ayuda_gestor_de_archivos_MSG3="X --> Toka"
+ayuda_gestor_de_archivos_MSG4="A --> Saraka iliyotangulia"
+ayuda_gestor_de_archivos_MSG5="B --> Saraka inayofuata"
+ayuda_gestor_de_archivos_MSG6="Vitendo kwenye faili na saraka."
+ayuda_gestor_de_archivos_MSG7="C --> Nakili Faili"
+ayuda_gestor_de_archivos_MSG8="M --> Hamisha faili"
+ayuda_gestor_de_archivos_MSG9="CD --> Nakili Saraka"
+ayuda_gestor_de_archivos_MSG10="MD --> Hamisha saraka"
+ayuda_gestor_de_archivos_MSG11="Kuelewa vitendo kwenye faili na saraka."
+ayuda_gestor_de_archivos_MSG12="Z --> Finya faili"
+ayuda_gestor_de_archivos_MSG13="DZ --> Punguza faili"
+ayuda_gestor_de_archivos_MSG14="EZ --> Unda kifurushi cha .tar.gz au .tar.bz2"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Ondoa .tar.gz au .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="***********************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Saraka amilifu ya sasa"
+gestor_de_archivos_MSG0B="Faili ndani"
+gestor_de_archivos_MSG1="========================= CHAGUO ZA URAMBAZAJI ========================"
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> AID="
+gestor_de_archivos_MSG3="======================================================================="
+gestor_de_archivos_MSG4="Andika chaguo"
+gestor_de_archivos_MSG5="Aina saraka"
+gestor_de_archivos_MSG6="Chapa faili chanzo"
+gestor_de_archivos_MSG7="Andika faili lengwa"
+gestor_de_archivos_MSG8="Faili imenakiliwa kwa mafanikio"
+gestor_de_archivos_MSG9="Hitilafu katika kunakili faili"
+gestor_de_archivos_MSG10="Chapa faili chanzo"
+gestor_de_archivos_MSG11="Andika faili lengwa"
+gestor_de_archivos_MSG12="Faili imesogezwa kwa mafanikio"
+gestor_de_archivos_MSG13="Hitilafu katika kuhamisha faili"
+gestor_de_archivos_MSG14="Chapa saraka ya chanzo"
+gestor_de_archivos_MSG15="Andika saraka lengwa"
+gestor_de_archivos_MSG16="Directory imenakiliwa kwa mafanikio"
+gestor_de_archivos_MSG17="Hitilafu katika kunakili saraka"
+gestor_de_archivos_MSG18="Chapa saraka ya chanzo"
+gestor_de_archivos_MSG19="Andika saraka lengwa"
+gestor_de_archivos_MSG20="Directory imesogezwa kwa mafanikio"
+gestor_de_archivos_MSG21="Hitilafu katika kuhamisha saraka"
+gestor_de_archivos_MSG22="FILI LA KUBANA"
+gestor_de_archivos_MSG23="Bainisha njia ya faili"
+

@@ -1,0 +1,31 @@
+# Idioma Español para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Nyomja meg az ENTER-t a folytatáshoz..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="======================================="
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 LIGHTSCRIBE TÁMOGATÁS."
+cabecera_lightscribe_MSG3="======================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Írja be a lemezre nyomtatni kívánt kép elérési útját:"
+imprimir_disco_lightscribe_MSG2="A képformátumnak .bmp-nek kell lennie"
+imprimir_disco_lightscribe_MSG3="futás"
+imprimir_disco_lightscribe_MSG4="Címke nyomtatva a lemezen"
+imprimir_disco_lightscribe_MSG5="Hiba a címke lemezre nyomtatásakor"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="A LightScribe technológia csak néhány egységen van jelen"
+lingr10lightscribepatch_MSG2="Ellenőrizze, hogy a felvevő rendelkezik-e."
+lingr10lightscribepatch_MSG3="Hasonlóan csak speciális CD-k vagy DVD-k címkézhetők a LightScribe-hez"
+lingr10lightscribepatch_MSG4="LightScribe lemez nyomtatása"
+lingr10lightscribepatch_MSG5="Előző menü"
+lingr10lightscribepatch_MSG6="Érvénytelen beállítás"
+

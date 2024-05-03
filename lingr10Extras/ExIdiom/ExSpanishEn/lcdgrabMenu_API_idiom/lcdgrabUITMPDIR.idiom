@@ -1,0 +1,37 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSpanishEn/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Messages for menu interface that manages image files
+# stored in /tmp system directory.
+#
+# Experimental Spanish translation from English, generate by Google Translate
+#
+# Traducción experimental al Español desde los archivos de Inglés,
+# generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribute bajo GPL v2
+# Part of Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Archivos en /tmp"
+dir_tmp_MSG2="Eliminar todas las imágenes y archivos comprimidos"
+dir_tmp_MSG3="Inicie el administrador de archivos para realizar otras opciones"
+dir_tmp_MSG4="Montar o desmontar archivo de imagen"
+dir_tmp_MSG5="Mostrar menú de creación de imágenes"
+dir_tmp_MSG6="Mostrar menú de grabación de imágenes"
+dir_tmp_MSG7="Menú anterior"
+dir_tmp_MSG8="LISTA DE ARCHIVOS EXISTENTES EN"
+dir_tmp_MSG9="SELECCIONE UNA OPCIÓN:"
+dir_tmp_MSG10="IMÁGENES Y ARCHIVOS COMPRIMIDOS BORRADOS"
+dir_tmp_MSG11="Montar archivo de imagen."
+dir_tmp_MSG12="Desmontar archivo de imagen."
+dir_tmp_MSG13="Grabar archivo de imagen en CD"
+dir_tmp_MSG14="Grabar archivo de imagen en DVD"
+dir_tmp_MSG14B="Grabar archivo de imagen en BD"
+dir_tmp_MSG15="Elija la opción según el soporte de grabación"
+dir_tmp_MSG16="NO ENCONTRAR EL ARCHIVO EL ARCHIVO DE CONFIGURACIÓN"
+dir_tmp_MSG17="Abortando el proceso de grabación"
+dir_tmp_MSG18="Especifique el archivo .iso para grabar"
+dir_tmp_MSG19="Escriba la ruta de la imagen: "

@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Islandés para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* SIGLINGARVALGJÖG ************************"
+ayuda_gestor_de_archivos_MSG2="Skoðaðu skráarkerfið."
+ayuda_gestor_de_archivos_MSG3="X --> Farðu út"
+ayuda_gestor_de_archivos_MSG4="A --> Fyrri skrá"
+ayuda_gestor_de_archivos_MSG5="B --> Næsta skrá"
+ayuda_gestor_de_archivos_MSG6="Aðgerðir á skrám og möppum."
+ayuda_gestor_de_archivos_MSG7="C --> Afritaðu skrá"
+ayuda_gestor_de_archivos_MSG8="M --> Færa skrá"
+ayuda_gestor_de_archivos_MSG9="CD --> Afrita möppu"
+ayuda_gestor_de_archivos_MSG10="MD --> Færa möppu"
+ayuda_gestor_de_archivos_MSG11="Að skilja aðgerðir á skrám og möppum."
+ayuda_gestor_de_archivos_MSG12="Z --> Þjappaðu skrá"
+ayuda_gestor_de_archivos_MSG13="DZ --> Taktu niður skrá"
+ayuda_gestor_de_archivos_MSG14="EZ --> Búðu til .tar.gz eða .tar.bz2 pakka"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Taktu upp .tar.gz eða .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Núverandi virk skrá"
+gestor_de_archivos_MSG0B="Skrár inn"
+gestor_de_archivos_MSG1="=========================== SIGLINGARVALGJÖG =========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> AID="
+gestor_de_archivos_MSG3="======================================================================="
+gestor_de_archivos_MSG4="Sláðu inn valmöguleika"
+gestor_de_archivos_MSG5="Sláðu inn möppu"
+gestor_de_archivos_MSG6="Sláðu inn frumskrána"
+gestor_de_archivos_MSG7="Sláðu inn áfangaskrána"
+gestor_de_archivos_MSG8="Skrá afrituð með góðum árangri"
+gestor_de_archivos_MSG9="Villa við að afrita skrá"
+gestor_de_archivos_MSG10="Sláðu inn frumskrána"
+gestor_de_archivos_MSG11="Sláðu inn áfangaskrána"
+gestor_de_archivos_MSG12="Skrá flutt með góðum árangri"
+gestor_de_archivos_MSG13="Villa við að flytja skrá"
+gestor_de_archivos_MSG14="Sláðu inn upprunaskrána"
+gestor_de_archivos_MSG15="Sláðu inn áfangaskrána"
+gestor_de_archivos_MSG16="Mafsskrá afrituð með góðum árangri"
+gestor_de_archivos_MSG17="Villa við að afrita möppu"
+gestor_de_archivos_MSG18="Sláðu inn upprunaskrána"
+gestor_de_archivos_MSG19="Sláðu inn áfangaskrána"
+gestor_de_archivos_MSG20="Myndasafn flutt með góðum árangri"
+gestor_de_archivos_MSG21="Villa við að færa möppu"
+gestor_de_archivos_MSG22="SKRÁ AÐ ÞJÁJA"
+gestor_de_archivos_MSG23="Tilgreindu skráarslóðina"
+

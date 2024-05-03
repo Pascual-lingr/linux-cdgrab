@@ -1,0 +1,109 @@
+#########################################################
+# lcgdrabAPI_idiom/ExNorwegian/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Noruego para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="Prøver opptaksprosessen på nytt..."
+m_cdrecord_sin_overburn_MSG2="Kjører cdrecord uten alternativet -overburn"
+m_cdrecord_sin_overburn_MSG3="-overburn støttes ikke på eldre opptaksenheter, og heller ikke på eldre versjoner av cdrecord."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="Ugyldig alternativ"
+
+# img_error
+
+img_error_D_MSG1="FEIL NÅR BILDET SKAL LAGES"
+
+# CD_error
+
+CD_error_D_MSG1="FEIL VED BRENNING AV CD-en"
+
+# DVD_error
+
+DVD_error_D_MSG1="FEIL VED BRENNING AV DVD-EN"
+
+# DO_error
+
+DO_error_D_MSG1="FEIL VED SKRIVING AV OPTISK PLATE"
+
+
+# tecla
+
+tecla_D_MSG1="\nTrykk ENTER for å fortsette. . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="BANER TIL KATALOGER Å BRENNE TIL PLATE"
+rutas_dir_D_MSG2="Skriv inn katalognavn (f for å avslutte):"
+rutas_dir_D_MSG3="KATALOG"
+rutas_dir_D_MSG4="UGYLDIG"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="SAMME OPTISKE ENHET I SYSTEMET"
+una_sola_grabadora_D_MSG2="LESE- OG OPPTAKSENHETEN ER DE SAMME. DET ANTES AT SYSTEMET DITT KUN HAR EN FYSISK ENHET. FJERN KILDEDISKEN FRA ENHETEN. SETTE INN EN OPTISK JOMFOR PLATE FOR Å FORTSETTE OPPTAKSPROSESSEN"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="OPPTAKET AV PLATEN ER SUKSESSfull fullført"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="Ugyldig alternativ"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="OPPTAKET AV PLATEN ER SUKSESSfull fullført"
+
+# text_img_error
+
+text_img_error_MSG1="FEIL NÅR BILDET SKAL LAGES"
+
+# text_CD_error
+
+text_CD_error_MSG1="FEIL VED BRENNING AV CD-en"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="FEIL VED BRENNING AV DVD-EN"
+
+# text_DO_error
+
+text_DO_error_MSG1="FEIL VED SKRIVING AV OPTISK PLATE"
+
+# teclash
+
+teclash_MSG1="Trykk ENTER for å fortsette. . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Skriv inn katalognavnet (f for å avslutte):"
+text_rutas_dir_MSG2="KATALOG"
+text_rutas_dir_MSG3="UGYLDIG"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="SAMME OPTISKE ENHET I SYSTEMET"
+text_una_sola_grabadora_MSG2="LESE- OG OPPTAKSENHETEN ER DEN SAMME."
+text_una_sola_grabadora_MSG3="DET ANTES AT SYSTEMET DITT BARE HAR ETT"
+text_una_sola_grabadora_MSG4="FYSISK ENHET."
+text_una_sola_grabadora_MSG5="FJERN KILDEDISKEN FRA ENHETEN."
+text_una_sola_grabadora_MSG6="SETT inn EN OPTISK JOMFORSKIVE"
+text_una_sola_grabadora_MSG7="Å FORTSETTE MED OPPTAKSPROSESSEN."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="Løping"

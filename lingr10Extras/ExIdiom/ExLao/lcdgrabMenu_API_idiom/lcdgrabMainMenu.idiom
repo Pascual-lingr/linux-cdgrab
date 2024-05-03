@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Lao, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab ບໍ່ສາມາດຊອກຫາຕົວແກ້ໄຂຂໍ້ຄວາມ vi"
+ayuda_MSG2="ໃສ່ຊື່ຂອງຕົວແກ້ໄຂຂໍ້ຄວາມທີ່ຕິດຕັ້ງຢູ່ໃນລະບົບຂອງເຈົ້າ"
+ayuda_MSG3="ບໍ່ພົບຕົວແກ້ໄຂທີ່ຕິດຕັ້ງແລ້ວ"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="ໄຟລ໌ທີ່ສ້າງຂຶ້ນໂດຍອັດຕະໂນມັດໂດຍ LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="ໄຟລ໌ນີ້ພ້ອມກັບໄດເລກະທໍລີ"
+creacion_de_mnt_MSG3="ໄດ້​ຖືກ​ສ້າງ​ຂຶ້ນ​ອັດ​ຕະ​ໂນ​ມັດ​"
+creacion_de_mnt_MSG4="ໂດຍແອັບພລິເຄຊັນ Linux-cdgrab ເມື່ອກວດສອບວ່າມັນບໍ່ມີຢູ່ໃນການແຈກຢາຍ Linux ຂອງທ່ານ"
+creation_of_mnt_MSG5="ໄດເລກະທໍລີ"
+creation_de_mnt_MSG6="Linux-cdgrab ໃຊ້ໄດເລກະທໍລີນີ້ເພື່ອຕິດຕັ້ງໄດຣຟ໌ CD-ROM/DVD-ROM/BD-ROM"
+creation_de_mnt_MSG7="ໄດເລກະທໍລີ"
+creacion_de_mnt_MSG8="ມັນຈະບໍ່ຖືກລຶບຖ້າ Linux-cdgrab ຖືກຖອນການຕິດຕັ້ງ ເພາະວ່າມັນມັກຈະເປັນ"
+creacion_de_mnt_MSG9="ຈຸດເຊື່ອມຕໍ່ເລີ່ມຕົ້ນສຳລັບ /dev/cdrom ຢູ່ໃນການແຈກຢາຍ Linux ສ່ວນໃຫຍ່."
+creacion_de_mnt_MSG10="ຖ້າການແຈກຢາຍຂອງເຈົ້າໃຊ້ໄດເຣັກທໍຣີອື່ນເພື່ອຕິດອຸປະກອນ /dev/cdrom,"
+creacion_de_mnt_MSG11="ມັນຈະບໍ່ສ້າງຄວາມບໍ່ເຂົ້າກັນໄດ້ເມື່ອພະຍາຍາມເຂົ້າເຖິງຂໍ້ມູນໃນໜ່ວຍຂອງເຈົ້າ"
+creacion_de_mnt_MSG12="ເຖິງແມ່ນວ່າຖ້າ Linux-cdgrab ໄດ້ຖືກຖອນການຕິດຕັ້ງແລ້ວ, ເຈົ້າສາມາດເຮັດໄດ້ໂດຍບໍ່ມີການ"
+creacion_de_mnt_MSG13="ຈຸດ​ປະ​ສົງ​ຂອງ​ໄຟລ​໌​ນີ້​ແມ່ນ​ເພື່ອ​ຈຸດ​ປະ​ສົງ​ຂໍ້​ມູນ​ຂ່າວ​ສານ​ເທົ່າ​ນັ້ນ​, ທ່ານ​ສາ​ມາດ​ລຶບ​ມັນ​ໄດ້​ຢ່າງ​ເສລີ​ໃນ​ຄັ້ງ​ທີ່​ອ່ານ​."
+
+# creditos
+
+creditos_MSG1="ແຈກຢາຍພາຍໃຕ້ໃບອະນຸຍາດ GPL v2"
+creditos_MSG2="ຂໍ້ມູນເພີ່ມເຕີມໄດ້ທີ່ www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, ຜູ້ສ້າງ ແລະຮັກສາ"
+creditos_MSG4="ລາຍງານຂໍ້ຜິດພາດ: pascual89@hotmail.com"
+creditos_MSG5="ເວັບໄຊທ໌ຂອງໂຄງການ: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="ອີງໃສ່ LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="ກຳລັງສາກໄຟ"
+
+# lcdgrab_sintaxis
+
+# Resultado del traductor
+lcdgrab_sintaxis_MSG1="SYNTAX"
+lcdgrab_sintaxis_MSG2="ພິມການຊ່ວຍເຫຼືອນີ້"
+lcdgrab_sintaxis_MSG3="ພິມ Linux version-cdgrab"
+lcdgrab_sintaxis_MSG4="ລະບຸຊ່ອງ IDE ຫຼືອຸປະກອນບັນທຶກ"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="ລະບຸຄວາມໄວການບັນທຶກ"
+lcdgrab_sintaxis_MSG7="ລະບຸໄດຣຟ໌ CD-ROM/DVD-ROM/BD-ROM"
+lcdgrab_sintaxis_MSG8="ລະບຸຊ່ອງ IDE ATAPI ຂອງຕົວບັນທຶກ"
+lcdgrab_sintaxis_MSG9="ຕົວເລືອກ -G -V -L ແລະ -CA ຫມາຍເຖິງກັນແລະກັນ."
+lcdgrab_sintaxis_MSG9B="ຕົວເລືອກ -iut -ium -iug ແລະ -iuk ແມ່ນເອກະລາດເຊິ່ງກັນແລະກັນ,"
+lcdgrab_sintaxis_MSG9C="ການເສີມກັບ -G -V -L ແລະ -CA, ແລະເອກະລາດລະຫວ່າງ -h ແລະ -v"
+lcdgrab_sintaxis_MSG10="ຕົວເລືອກ -h ແລະ -v ແມ່ນເອກະລາດຂອງກັນແລະກັນ ແລະສ່ວນທີ່ເຫຼືອ."
+lcdgrab_sintaxis_MSG11="ຕົວຢ່າງ:"
+lcdgrab_sintaxis_MSG12="ອຸປະກອນ"
+lcdgrab_sintaxis_MSG13="ຕົວເລກ"
+lcdgrab_sintaxis_MSG14="ການໂຕ້ຕອບຂໍ້ຄວາມ"
+lcdgrab_sintaxis_MSG15="ການໂຕ້ຕອບກັບ ncurses"
+lcdgrab_sintaxis_MSG16="ການໂຕ້ຕອບຮູບພາບກັບ GTK"
+lcdgrab_sintaxis_MSG17="ການໂຕ້ຕອບຮູບພາບທີ່ມີ Qt"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="ໃສ່ເສັ້ນທາງສະຄຣິບ:"
+main_lcdgrabopdep_MSG2="ເສັ້ນທາງບໍ່ຖືກຕ້ອງ"
+
+# depura_parche
+
+# Resultado del traductor
+main_lcdgrabopdeppatch_MSG1="ການ​ຕິດ​ຕັ້ງ patches:"
+main_lcdgrabopdeppatch_MSG2="ໃສ່ເສັ້ນທາງແກ້ໄຂ:"
+main_lcdgrabopdeppatch_MSG3="ບໍ່ພົບ"
+
+# menu principal dialog
+main_lcdgrabop9uidia="ອັບ​ໂຫຼດ​ການ​ແກ້​ໄຂ​ເພີ່ມ​ເຕີມ​"
+
+# menu principal texto
+
+main_lcdgrabop1_text="ບັນທຶກໃສ່ CD\t\t\t\t="
+main_lcdgrabop2_text="ການບັນທຶກດີວີດີ\t\t\t\t="
+main_lcdgrabop3_text="ການບັນທຶກໃນ BD\t\t\t\t="
+# Resultado del traductor
+main_lcdgrabop4_text="ການດໍາເນີນງານ DISK DRIVE\t\t\t="
+main_lcdgrabop5_text="ການສ້າງຮູບພາບ\t\t\t\t="
+main_lcdgrabop6_text="ການແປງສຽງ\t\t\t\t="
+main_lcdgrabop6b_text="ການແປງວິດີໂອ\t\t\t\t="
+# Resultado del traductor
+main_lcdgrabop7_text="mount ຫຼື unmount CD/DVD/BD\t\t="
+main_lcdgrabop8_text="mount ຫຼື unmount ຮູບ\t\t\t="
+main_lcdgrabop9_text="ອັບ​ໂຫຼດ​ການ​ແກ້​ໄຂ​ເພີ່ມ​ເຕີມ\t​\t\t="
+main_lcdgrabop10_text="ສູນຄວບຄຸມ\t\t\t\t\t="
+main_lcdgrabop0_text="ອອກ​ໄປ​ນອກ\t\t\t\t\t="
+main_lcdgrabet1_text="ທາງເລືອກອື່ນ ##\t\t\t="
+main_lcdgrabopEe_text="ເອົາແຜ່ນອອກຈາກໄດ\t\t\t="
+main_lcdgrabopTD_text="ສະແດງລາຍຊື່"
+tabs="\t\t\t="
+main_lcdgrabopG_text="ຜູ້ຈັດການໄຟລ໌\t\t\t\t="
+main_lcdgrabopH_text="ການຊ່ວຍເຫຼືອ\t\t\t\t="
+main_lcdgrabopA_text="ກ່ຽວກັບ\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="ບັນທຶກໃສ່ CD"
+main_lcdgrabop2="ການບັນທຶກດີວີດີ"
+main_lcdgrabop3="ການບັນທຶກໃນ BD"
+# Resultado del traductor
+main_lcdgrabop4="ການດໍາເນີນງານ DISK DRIVE"
+main_lcdgrabop5="ການສ້າງຮູບພາບ"
+main_lcdgrabop6="ການແປງສຽງ"
+main_lcdgrabop6b="ການແປງວິດີໂອ"
+# Resultado del traductor
+main_lcdgrabop7="mount ຫຼື unmount CD/DVD/BD"
+main_lcdgrabop8="mount ຫຼື unmount ຮູບ"
+main_lcdgrabop9="ອັບ​ໂຫຼດ​ການ​ແກ້​ໄຂ​ເພີ່ມ​ເຕີມ​"
+main_lcdgrabop10="ສູນຄວບຄຸມ"
+main_lcdgrabop0="ອອກ​ໄປ​ນອກ"
+main_lcdgrabet1="ທາງເລືອກອື່ນ ##"
+main_lcdgrabopEe="ເອົາແຜ່ນອອກຈາກໄດ"
+main_lcdgrabopTD="ສະແດງລາຍຊື່"
+main_lcdgrabopG="ຜູ້ຈັດການໄຟລ໌"
+main_lcdgrabopH="ການຊ່ວຍເຫຼືອ"
+main_lcdgrabopA="ກ່ຽວກັບ"
+main_lcdgrabopPRINCIPAL="ໃສ່ຕົວເລືອກ:"
+MSG1_MAIN="ການເລືອກ H ສະແດງໃຫ້ເຫັນການໃຊ້ທາງເລືອກ."
+main_lcdgrabopA_MSG1="ແລ່ນຢູ່:"
+

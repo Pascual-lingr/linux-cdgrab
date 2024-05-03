@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTurkish/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en Turco para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="SES DÖNÜŞÜMÜ"
+menu_conversion_audio_MSG2="------------ FORMATLAR ARASINDA DÖNÜŞÜM -----------"
+menu_conversion_audio_MSG3=".mp3'ü .wav'a dönüştür"
+menu_conversion_audio_MSG4=".ogg'u .wav'a dönüştür"
+menu_conversion_audio_MSG5=".wav'ı .mp3'e dönüştür"
+menu_conversion_audio_MSG6=".wav'ı .ogg'a dönüştür"
+menu_conversion_audio_MSG6C=".wav'ı .flac'a dönüştür"
+menu_conversion_audio_MSG6B=".flac'ı .wav'a dönüştür"
+menu_conversion_audio_MSG7="------------- SES PARÇALARINI ÇIKARMA -------------"
+menu_conversion_audio_MSG8="Ses CD'sini .wav'a kopyala"
+menu_conversion_audio_MSG9="Bir dizi ses parçasını .wav'a kopyala"
+menu_conversion_audio_MSG10="Ses CD'sini .mp3'e kopyala"
+menu_conversion_audio_MSG11="Ses CD'sini .ogg'a kopyala"
+menu_conversion_audio_MSG0="Önceki menü"
+menu_conversion_audio_MSG12=".mp3 dosyalarını arayın"
+menu_conversion_audio_MSG13=".ogg dosyalarını arayın"
+menu_conversion_audio_MSG14=".wav dosyalarını arayın"
+menu_conversion_audio_MSG15="---------------- DİĞER İŞLEMLER ------------------"
+menu_conversion_audio_MSG16=".wav ses dosyasını kes"
+menu_conversion_audio_MSG17="Ses CD'sini .flac'a kopyala"
+

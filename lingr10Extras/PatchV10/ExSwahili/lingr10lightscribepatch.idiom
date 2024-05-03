@@ -1,0 +1,32 @@
+# Idioma Suajili para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Bonyeza ENTER ili kuendelea..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="======================================"
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 MSAADA WA LIGHTSCRIBE."
+cabecera_lightscribe_MSG3="======================================"
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Andika njia ya picha unayotaka kuchapisha kwenye diski:"
+imprimir_disco_lightscribe_MSG2="Muundo wa picha lazima uwe .bmp"
+imprimir_disco_lightscribe_MSG3="running"
+imprimir_disco_lightscribe_MSG4="Lebo iliyochapishwa kwenye Diski"
+imprimir_disco_lightscribe_MSG5="Hitilafu katika kuchapisha lebo kwenye diski"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="Teknolojia ya LightScribe inapatikana kwenye baadhi ya vitengo pekee"
+lingr10lightscriptpatch_MSG2="Unapaswa kuangalia kama kinasa sauti chako kinayo."
+lingr10lightscribepatch_MSG3="Vile vile, ni CD au DVD maalum pekee zinazoweza kuwekewa lebo ya LightScribe"
+lingr10lightscribepatch_MSG4="Chapisha Diski ya Kuandika Mwanga"
+lingr10lightscribepatch_MSG5="Menyu iliyotangulia"
+lingr10lightscribepatch_MSG6="Chaguo Batili"
+

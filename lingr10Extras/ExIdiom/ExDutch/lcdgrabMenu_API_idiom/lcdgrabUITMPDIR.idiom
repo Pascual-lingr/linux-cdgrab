@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDutch/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Neerlandés para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Bestanden in /tmp"
+dir_tmp_MSG2="Verwijder alle afbeeldingen en gecomprimeerde bestanden"
+dir_tmp_MSG3="Start bestandsbeheer voor andere bewerkingen"
+dir_tmp_MSG4="Een afbeelding koppelen of ontkoppelen"
+dir_tmp_MSG5="Toon het menu voor het maken van afbeeldingen"
+dir_tmp_MSG6="Toon opties voor beeldopname"
+dir_tmp_MSG7="Vorige menu"
+dir_tmp_MSG8="LIJST VAN BESTAANDE BESTANDEN IN"
+dir_tmp_MSG9="SELECTEER EEN OPTIE:"
+dir_tmp_MSG10="VERWIJDERDE AFBEELDINGEN EN BESTANDEN"
+dir_tmp_MSG11="Afbeelding koppelen."
+dir_tmp_MSG12="Afbeelding ontkoppelen."
+dir_tmp_MSG13="Afbeelding op CD branden"
+dir_tmp_MSG14="Afbeelding op dvd branden"
+dir_tmp_MSG14B="Afbeelding naar BD branden"
+dir_tmp_MSG15="Kies optie op basis van het opnamemedium"
+dir_tmp_MSG16="HET BESTAND IS NIET GEVONDEN IN HET CONFIGURATIEBESTAND"
+dir_tmp_MSG17="Het opnameproces afbreken"
+dir_tmp_MSG18="Specificeer het .iso-bestand dat u wilt branden"
+dir_tmp_MSG19="Voer het afbeeldingspad in: "
+

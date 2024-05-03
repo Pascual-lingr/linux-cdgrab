@@ -1,0 +1,91 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTigrinya/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Tigriña, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="እቲ ዝጥቀመሉ ናይ ተጠቃሚ መተሓላለፊ ምረጽ:"
+SeleccionaIUDVD_MSG2="ን dvd+-rw-tools ዝኸውን መተሓላለፊ ተጠቐም።"
+SeleccionaIUDVD_MSG3="ን Cdrecord-ProDVD መተሓላለፊ ተጠቐም።"
+SeleccionaIUDVD_MSG4="ንሊበርንያ መተሓላለፊ ተጠቐም።"
+SeleccionaIUDVD_MSG5="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="ናብ ዲቪዲ ምቕራጽ።"
+menugrabar_dvd_MSG2="------------------ ዲቪዲ - ዳታ -----------------"
+menugrabar_dvd_MSG3="ናይ ISO-9660 ዳታ ዲቪዲ ቅዳሕ።"
+menugrabar_dvd_MSG4="ኣብ ሃርድ ድራይቭ ቅድሚ ሕጂ ዝነበረ ናይ ዲቪዲ ምስሊ ፍጠር።"
+menugrabar_dvd_MSG5="ሓድሽ ISO-9660 ዳታ ዲቪዲ ኣቃጽል።"
+menugrabar_dvd_MSG6="ሓድሽ ናይ ዳታ ክፍለ ግዜ ናብ ISO-9660 ዳታ ዲቪዲ (ብዙሕ ክፍለ ግዜ ዲቪዲ) ምውሳኽ።"
+menugrabar_dvd_MSG7="ቅድሚ ሕጂ ካልኣይ ኣማራጺ ተጠቒምካ ዝተቐድሐ ዲቪዲ የድሊ።"
+menugrabar_dvd_MSG8="ናይ ISO-9660 ዳታ ምስሊ ናብ DVD ኣቃጽሎ።"
+menugrabar_dvd_MSG9="ናይ .ext2 ምስሊ ናብ ዲቪዲ ኣቃጽል።"
+menugrabar_dvd_MSG10="------------------ ዲቪዲ - ቪድዮ -----------------"
+menugrabar_dvd_MSG11="ሓድሽ ዲቪዲ-ቪድዮ ኣቃጽል።"
+menugrabar_dvd_MSG12="--------------- ካልኦት ኣማራጺታት -----------------"
+menugrabar_dvd_MSG13="ንዲቪዲ+RW/DVD-RW ቅርጺ ግበር።"
+menugrabar_dvd_MSG14="ሓበሬታ ዲቪዲ ዲስክ ኣርኢ።"
+menugrabar_dvd_MSG0="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+menugrabar_dvd_MSGPRINCIPAL="መሳርሒ ስራሕ"
+menugrabar_dvd_MSG15="ኣብ ዲቪዲ ክካተቱ ዘለዎም ፋይላትን ማህደርን።"
+menugrabar_dvd_MSG16="ኣመሓዳሪ ፋይል ምጅማር..."
+menugrabar_dvd_MSG17=".iso ምስሊ ናብ ዲቪዲ ንምንዳድ"
+menugrabar_dvd_MSG18="እቲ ክትቃጸል እትደሊ .iso ምስሊ ዝርከበሉ መንገዲ ማህደር ጽሓፍ።"
+menugrabar_dvd_MSG19="ስሪት ናይ cdrecord ምስ ደገፍ ዲቪዲ የድሊ።"
+menugrabar_dvd_MSG20="ምቕራጽ ናይቲ .ext2 ምስሊ ኣብ ዲቪዲ ብ cdrecord ክግበር እዩ።"
+menugrabar_dvd_MSG21="ኣብ ምትካልካ ዘሎ ናይ cdrecord ስሪት ክኸውን ኣለዎ።"
+menugrabar_dvd_MSG22="ንዲቪዲ ምቕራጽ ይድግፍ።"
+
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="ኣማራጺ ምረጹ።"
+dvd_clonar_MSG2="--- ዲስክ ቅዳሓት ምስ ቅድመ ምርኢት ምስሊ ---"
+dvd_clonar_MSG3="ናይ ዳታ ዲቪዲ ቅዳሕ።"
+dvd_clonar_MSG4="ኣብ ሃርድ ድራይቭ ቅድሚ ሕጂ ዝነበረ ናይ ዲቪዲ ምስሊ ፍጠር።"
+dvd_clonar_MSG5="--- ዲስክ ቅዳሓት ኣብ በረራ ---"
+dvd_clonar_MSG6="ናይ ዳታ ዲቪዲ ኣብ በረራ ምቕዳሕ።"
+dvd_clonar_MSG7="ናይ ዳታ ዲቪዲ ኣብ በረራ ክሎን ግበር።"
+dvd_clonar_MSG8="ናይ በረራ ቅዳሕ ኣማራጺታት ክልተ ብርሃናዊ ኣሃዱታት የድልዮም።"
+dvd_clonar_MSG9="ኣብ ኮምፒተርካ ተተኺሉ፣ እቲ ዳታ ኣብ እዋን ስለዝምዝገብ።"
+dvd_clonar_MSG10="ካብ መበገሲ ዲስክ ብቐጥታ ኣንብብ፣ ኮምፒተርካ ጥራይ እንተሃልይዋ።"
+dvd_clonar_MSG11="ኣብ በረራ ነቶም ቅዳሓት ክትጥቀመሎም ኣይትኽእልን ኢኻ።"
+dvd_clonar_MSG0="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+dvd_clonar_MSG12="ናይ ዲቪዲ ዳታ ቅዳሕ።"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="ዲቪዲ ምቕራጽ"
+menugrabar_DVD_MSG2="------------------ ዲቪዲ - ዳታ ------------------"
+menugrabar_DVD_MSG3="ሪፕ ዳታ ዲቪዲ።"
+menugrabar_DVD_MSG4="ሓድሽ ዳታ ዲቪዲ ኣቃጽል።"
+menugrabar_DVD_MSG5=".iso ወይ .ext2 ምስሊ ናብ DVD ኣቃጽል።"
+menugrabar_DVD_MSG6="ፎርማት ዲቪዲ+RW/DVD-RW።"
+menugrabar_DVD_MSG7="ኣብ ድራይቭ ሓበሬታ ዲስክ ኣርኢ።"
+menugrabar_DVD_MSG0="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+menugrabar_DVD_MSGPRINCIPAL="ሓደ ኣማራጺ ጽሓፍ"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="ምስሊ iso-9660 ናብ ሲዲ/ዲቪዲ ኣቃጽል።"
+menugrabar_DVD_libburnia_MSG2="ዳታ ካብ ሃርድ ድራይቭ ናብ ሲዲ/ዲቪዲ ኣቃጽል።"
+menugrabar_DVD_libburnia_MSG3="ቅርጺ ሲዲ/ዲቪዲ/ቢዲ።"
+menugrabar_DVD_libburnia_MSG4="DVD-RW ናብ ተኸታታሊ ወሰኽ ቅርጺ ግበር።"
+menugrabar_DVD_libburnia_MSG5="DVD-RW ናብ ዝተገደበ ልዕሊ ምጽሓፍ ቅርጺ ግበር።"
+menugrabar_DVD_libburnia_MSG6="ሓበሬታ ድራይቭ ኣርኢ።"
+menugrabar_DVD_libburnia_MSG8="ኣብቲ ስርዓት ዝተተኽሉ ድራይቭታት ዝርዝር።"
+menugrabar_DVD_libburnia_MSG0="ውጹ"
+menugrabar_DVD_libburnia_MSG7="ሓደ ኣማራጺ ጽሓፍ"
+

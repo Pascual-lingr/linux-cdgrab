@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExJapanese/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Japonés para el gestor de archivos
+# Traducción experimental, utilizado google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* ナビゲーションオプション ************************"
+ayuda_gestor_de_archivos_MSG2="ファイル システムを参照します。"
+ayuda_gestor_de_archivos_MSG3="X --> 外出"
+ayuda_gestor_de_archivos_MSG4="A --> 古いディレクトリ"
+ayuda_gestor_de_archivos_MSG5="B --> 次のディレクトリ"
+ayuda_gestor_de_archivos_MSG6="ファイルとディレクトリに対するアクション。"
+ayuda_gestor_de_archivos_MSG7="C --> ファイルをコピー"
+ayuda_gestor_de_archivos_MSG8="M --> ファイルを移動"
+ayuda_gestor_de_archivos_MSG9="CD --> ディレクトリをコピー"
+ayuda_gestor_de_archivos_MSG10="MD --> ディレクトリを移動"
+ayuda_gestor_de_archivos_MSG11="ファイルとディレクトリに対する理解アクション。"
+ayuda_gestor_de_archivos_MSG12="Z --> ファイルを圧縮する"
+ayuda_gestor_de_archivos_MSG13="DZ --> ファイルを解凍する"
+ayuda_gestor_de_archivos_MSG14="EZ --> .tar.gz または .tar.bz2 パッケージを作成する"
+ayuda_gestor_de_archivos_MSG15="DEZ --> .tar.gz または .tar.bz2 を解凍します"
+ayuda_gestor_de_archivos_MSG16="******************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="現在のアクティブ ディレクトリ"
+gestor_de_archivos_MSG0B="のファイル"
+gestor_de_archivos_MSG1="========================= ナビゲーションオプション ============================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> 援助 ="
+gestor_de_archivos_MSG3="========================================================================"
+gestor_de_archivos_MSG4="オプションを入力してください"
+gestor_de_archivos_MSG5="タイプディレクトリ"
+gestor_de_archivos_MSG6="ソースファイルを入力してください"
+gestor_de_archivos_MSG7="宛先ファイルを入力します"
+gestor_de_archivos_MSG8="ファイルが正常にコピーされました"
+gestor_de_archivos_MSG9="ファイルのコピー中にエラーが発生しました"
+gestor_de_archivos_MSG10="ソースファイルを入力してください"
+gestor_de_archivos_MSG11="宛先ファイルを入力します"
+gestor_de_archivos_MSG12="ファイルは正常に移動しました"
+gestor_de_archivos_MSG13="ファイルの移動中にエラーが発生しました"
+gestor_de_archivos_MSG14="ソース ディレクトリを入力します"
+gestor_de_archivos_MSG15="宛先ディレクトリを入力します"
+gestor_de_archivos_MSG16="ディレクトリが正常にコピーされました"
+gestor_de_archivos_MSG17="ディレクトリのコピー中にエラーが発生しました"
+gestor_de_archivos_MSG18="ソース ディレクトリを入力します"
+gestor_de_archivos_MSG19="宛先ディレクトリを入力します"
+gestor_de_archivos_MSG20="ディレクトリは正常に移動しました"
+gestor_de_archivos_MSG21="ディレクトリの移動中にエラーが発生しました"
+gestor_de_archivos_MSG22="圧縮するファイル"
+gestor_de_archivos_MSG23="ファイルパスを指定"
+

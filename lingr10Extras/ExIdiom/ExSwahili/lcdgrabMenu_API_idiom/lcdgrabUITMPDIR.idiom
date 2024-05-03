@@ -1,0 +1,35 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Suajili para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Faili katika /tmp"
+dir_tmp_MSG2="Futa picha zote na faili zilizobanwa"
+dir_tmp_MSG3="Zindua kidhibiti faili kwa shughuli zingine"
+dir_tmp_MSG4="Weka au Ondoa picha"
+dir_tmp_MSG5="Onyesha menyu ya kuunda picha"
+dir_tmp_MSG6="Onyesha chaguzi za kurekodi picha"
+dir_tmp_MSG7="Menyu iliyotangulia"
+dir_tmp_MSG8="ORODHA YA FAILI ZILIZOPO NDANI"
+dir_tmp_MSG9="CHAGUA CHAGUO:"
+dir_tmp_MSG10="PICHA NA FAILI ILIYOFUTWA"
+dir_tmp_MSG11="Weka picha."
+dir_tmp_MSG12="Ondoa picha."
+dir_tmp_MSG13="Choma picha kwenye CD"
+dir_tmp_MSG14="Choma picha kwenye DVD"
+dir_tmp_MSG14B="Choma picha kwa BD"
+dir_tmp_MSG15="Chagua chaguo kulingana na njia ya kurekodi"
+dir_tmp_MSG16="FILI HAIJAPATIKANA FAILI LA USINGIZI"
+dir_tmp_MSG17="Kukomesha mchakato wa kurekodi"
+dir_tmp_MSG18="Bainisha faili ya .iso ili kuchoma"
+dir_tmp_MSG19="Ingiza njia ya picha: "
+
+

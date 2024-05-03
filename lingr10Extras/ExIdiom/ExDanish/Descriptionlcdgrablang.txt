@@ -1,0 +1,21 @@
+Dansk
+
+Danés. Danish.
+Experimental
+
+Contiene errores de significado en contexto o traducción propia.
+Por estudio del comportamiento de caracteres daneses en el shell.
+El shell debe tener soporte para ciertos caracteres daneses, de 
+lo contrario partes de este idioma no serán funcionales en el shell.
+Generado con Google Translate.
+
+Contains meaning errors in context or own translation.
+By study of the behavior of Danish characters in the shell.
+The shell must have support for certain Danish characters, so
+otherwise parts of this language will not be functional in the shell.
+Generated with Google Translate.
+
+Dansk sprog til linux-cdgrab.
+Eksperimentel, genereret med Google Translate.
+Pascual Martínez Cruz; pascual@hotmail.com
+

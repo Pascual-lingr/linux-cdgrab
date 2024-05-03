@@ -1,0 +1,67 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLithuanian/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en lituano para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1=".img arba .ext2 vaizdo, kurį reikia perkelti į diską, kelias."
+volcar_imagen_MSG2="-----------------------SVARBU----------------------------" 
+volcar_imagen_MSG3="+ Ši parinktis neveikia optiniuose diskuose."
+volcar_imagen_MSG4="+ Naudoti nešiojamuosiuose įrenginiuose, diskeliuose, disko skaidiniuose ir kt. "
+volcar_imagen_MSG5="+ Svarstymas apie kietuosius diskus:"
+volcar_imagen_MSG6="+ Vaizdas parašytas su dd nuo pradžios"
+volcar_imagen_MSG7="  iš nurodyto disko, numerio naudojimas neleidžiamas"
+volcar_imagen_MSG8="  konkretus sektorius rašymo procesui pradėti"
+volcar_imagen_MSG9="+ Naudokite atsargiai. Naudokite savo rizika."
+volcar_imagen_MSG10="+ Disko skaidiniai gali tapti netinkami naudoti."
+volcar_imagen_MSG11="+ Nerekomenduojama jo naudoti kelių skirsnių sistemose."
+volcar_imagen_MSG12="  Atkūrimas gali palikti skaidinių lentelę ir"
+volcar_imagen_MSG13="  Patys nenaudingi skirsniai."
+volcar_imagen_MSG14="---------------------------------------------------------"
+volcar_imagen_MSG15="PASPUSK KLAVIŠĄ C, KAD TĘSITE; (Procesas bus atšauktas naudojant kitą parinktį)"
+volcar_imagen_MSG16="Nurodykite vaizdo failo kelią, kurį norite iškelti į diską: "
+volcar_imagen_MSG17="Sujungti komandos išvestį:"
+volcar_imagen_MSG18="Nurodykite blokavimo įrenginį, kuriame vaizdas turi būti išmestas:"
+volcar_imagen_MSG19="IŠMETIMO VAIZDAS"
+volcar_imagen_MSG20="Įrenginyje"
+volcar_imagen_MSG21="veikia"
+volcar_imagen_MSG22="VAIZDO IŠMETIMO PROCESAS BAIGTAS"
+
+# volcar_iso
+
+volcar_iso_MSG3="Nurodykite blokuoti įrenginį, į kurį norite rašyti."
+volcar_iso_MSG4="Pavyzdžiai: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Nenurodyti skaidinio, priklausančio šiam įrenginiui"
+volcar_iso_MSG6="Pavyzdžiai: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Nurodykite ISO-9660 vaizdą arba img, kurį norite rašyti:"
+volcar_iso_MSG9="Procesas baigtas"
+volcar_iso_MSG10="Iso rašymo proceso klaida"
+volcar_iso_MSG11="Nurodykite bloko dydį, kad galėtumėte įrašyti vaizdą"
+volcar_iso_MSG12="Pasirinkite parinktį pagal operacinę sistemą, kurią norite rašyti:"
+volcar_iso_MSG13="ISO-9660 arba paleidžiamas IMG vaizdas, skirtas mirksi įrenginyje:"
+volcar_iso_MSG14="Išeiti"
+volcar_iso_MSG15="ISO-9660 ARBA IMG VAIZDO FAILAS"
+volcar_ISO_MSG16="PASIRINKITE OPERACINĘ SISTEMĄ, KAD IŠVESTI Į VIENETĄ"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Pasirinkite failų sistemą su"
+Formateador_linuxfs_MSG2="įrenginys bus suformatuotas:"
+Formateador_linuxfs_MSG3="Nurodykite blokavimo įrenginį, kurį norite formatuoti: "
+Formateador_linuxfs_MSG5="PROCESAS BAIGTAS"
+Formateador_linuxfs_MSG6="DISKO FORMATUOJAMAS"
+Formateador_linuxfs_MSG7="Nustatyti garsumo etiketę"
+Formateador_linuxfs_MSG10="Nurodykite tomo etiketės pavadinimą"
+Formateador_linuxfs_MSG11="Nauja tomo etiketė"
+Formateador_linuxfs_MSG12="Nurodykite bloko dydį"
+Formateador_linuxfs_MSG13="Naujas bloko dydis"
+Formateador_linuxfs_MSG14="Ankstesnis meniu"
+

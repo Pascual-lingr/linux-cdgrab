@@ -1,0 +1,72 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTurkish/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Turco, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="BİR SEÇENEK SEÇİN"
+clonar_MSG2="---- ÖNİZLEME GÖRÜNTÜSÜ İLE DİSK KOPYALARI -----"
+clonar_MSG3="Veri CD'sini kopyala"
+clonar_MSG4="Sabit sürücüde önceki bir CD görüntüsü oluştur"
+clonar_MSG5="----------- ANINDA DİSK KOPYALARI --------------"
+clonar_MSG6="Bir veri CD'sini anında kopyalayın"
+clonar_MSG7="Bir veri CD'sini anında kopyalayın"
+clonar_MSG7B="Anında Ses CD'si kopyalayın"
+clonar_MSG8="UÇAN KOPYALAMA SEÇENEKLERİ İKİ OPTİK BİRİM GEREKTİRİR"
+clonar_MSG9="VERİLER KAYDEDİRKEN BİLGİSAYARINIZA YÜKLENDİ"
+clonar_MSG10="YALNIZCA BİLGİSAYARINIZDA VARSA, DOĞRUDAN ORİJİN DİSKTEN OKUYUN"
+clonar_MSG11="KİŞİ UÇUŞTA KOPYALARI KULLANAMAZ."
+clonar_MSG12B="CD VERİLERİNİ KOPYALA"
+clonar_MSG0="Önceki menü"
+
+# mgrabacd
+
+mgrabacd_MSG1="SABİT DİSKTEN CD VERİLERİ"
+mgrabacd_MSG2="Yeni bir veri CD'si yazın (cdrtools kullanın)"
+mgrabacd_MSG3="Yeni bir veri CD'si yazın (libburnia kullanın)"
+mgrabacd_MSG4="Önceki menü"
+mgrabacd_MSG5="Bir seçenek girin"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="VERİ GÖRÜNTÜ KAYDI"
+mgrabaimg_MSG2="Iso veya ext2 görüntüsünü CD-R/RW'ye yazın (cdrtools kullanın)"
+mgrabaimg_MSG3="Iso görüntüsünü CD-R/RW'ye yazın (libburnia kullanın)"
+mgrabaimg_MSG4="Önceki menü"
+mgrabaimg_MSG5="Bir seçenek girin"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1=".wav dosyalarından Ses CD'si yazın"
+mgrabararchivosaudio_MSG2=".mp3 dosyalarından Ses CD'si yazın"
+mgrabararchivosaudio_MSG3=".ogg dosyalarından Ses CD'si yazın"
+mgrabararchivosaudio_MSG0="Önceki menü"
+mgrabararchivosaudio_MSG0B="Bir seçenek yazın"
+mgrabararchivosaudio_MSG4=".flac dosyalarından Ses CD'si yazın"
+mgrabararchivosaudio_MSG5="DOSYALARDAN CD-SES KAYDI"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="CD'YE KAYIT YAPILIYOR"
+menugrabar_cd_MSG2="------------------- CD - VERİ --------------------"
+menugrabar_cd_MSG3="Veri CD'sini kopyala"
+menugrabar_cd_MSG4="Yeni bir veri CD'si yazın"
+menugrabar_cd_MSG5="Yeni bir çok oturumlu veri CD'si yazın"
+menugrabar_cd_MSG6=".iso veya .ext2 görüntüsünü CD'ye yazın"
+menugrabar_cd_MSG7=".bin/.cue görüntüsünü CD'ye yaz"
+menugrabar_cd_MSG8="-------------------- CD - SES --------------------"
+menugrabar_cd_MSG9="Ses CD'sini Dönüştür"
+menugrabar_cd_MSG13="--------------- DİĞER SEÇENEKLER -----------------"
+menugrabar_cd_MSG14="Karışık CD Yaz (Veri + Ses)"
+menugrabar_cd_MSG15="CD-RW'yi silin"
+menugrabar_cd_MSG16="Açık CD'yi kapat"
+menugrabar_cd_MSG17="Sürücüdeki disk bilgilerini göster"
+menugrabar_cd_MSG18="Disk dosyalarından Ses CD'si yazın"
+menugrabar_cd_MSG0="Önceki menü"
+menugrabar_cd_MSGPRINCIPAL="Bir seçenek yazın"

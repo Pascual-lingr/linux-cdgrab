@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTurkish/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Turco, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="DİSK GÖRÜNTÜLERİNİN OLUŞTURULMASI VE İŞLEMLERİ"
+MenuImagen_MSG2="---------------- GÖRÜNTÜ OLUŞTURMA ---------------"
+MenuImagen_MSG3="Bir ISO-9660 Görüntüsü Oluştur"
+MenuImagen_MSG4="Yerel Linux dosya sistemiyle Görüntü Oluştur"
+MenuImagen_MSG5="Herhangi bir blok aygıtının .img görüntüsünü oluşturun"
+MenuImagen_MSG6="Geçerli cihazdan bir .bin .cue Görüntüsü oluştur"
+MenuImagen_MSG7="---------------- DİĞER SEÇENEKLER ----------------"
+MenuImagen_MSG8=".bin görüntüsünden .cue açıklama dosyası oluştur"
+MenuImagen_MSG9="Bir .nrg (Nero Burning ROM) görüntüsünü .iso'ya dönüştürün"
+MenuImagen_MSG10="Bir Resmi gzip, bzip2 veya xz ile sıkıştırın"
+MenuImagen_MSG11="Zip, gz, bz2 veya xz'deki bir Resmin sıkıştırmasını açın"
+MenuImagen_MSG11B="Iso görüntülerinin md5 toplamını kontrol edin"
+MenuImagen_MSG12="Iso modunu değiştir"
+MenuImagen_MSG0="Önceki menü"
+MenuImagen_MSG13="Sıkıştırılacak resim dosyası"
+MenuImagen_MSG14="GÖRÜNTÜ DOSYASINI SIKIŞTIR"
+MenuImagen_MSG15="Sıkıştırmak istediğiniz görüntünün bulunduğu dizin yolunu yazın:"
+MenuImagen_MSG16="Sıkıştırmasını açmak istediğiniz resim dosyası"
+MenuImagen_MSG17="GEÇERLİ ISO DÜZEYİ"
+MenuImagen_MSG18="iso düzeyi"
+MenuImagen_MSG19="Dosya adları bir bölümden oluşur"
+MenuImagen_MSG20="ve 8,3 karakterle sınırlıdır."
+MenuImagen_MSG21="Ad uyumluluğunu istiyorsanız bu düzeyi seçin"
+MenuImagen_MSG21b="MS-DOS işletim sistemi altında"
+MenuImagen_MSG22="Dosya adları bir bölümden oluşur"
+MenuImagen_MSG23="Sınırsız seviye."
+MenuImagen_MSG24="Dosyalarla uyumluluk istiyorsanız bu düzeyi kullanın"
+MenuImagen_MSG25="Büyük, bu durumda >= 2 Gigabayt."
+MenuImagen_MSG26="Tüm ISO seviyeleri dosya adlarını büyük, küçük harf ve olarak sınırlandırır"
+MenuImagen_MSG27="karakterler _ gibi. Dosya adları 31 karakterle sınırlıdır"
+MenuImagen_MSG28="Maksimum 8 dizin yolu ve yol adı"
+MenuImagen_MSG29="255 karaktere kadar dizinler."
+MenuImagen_MSG30="Yeni ISO düzeyini seçin"
+MenuImagen_MSG31="ISO seviye 4 resmi değil"
+MenuImagen_MSG32="Mkisofs kılavuz sayfasına bakın"
+MenuImagen_MSG33="Geçersiz ISO düzeyi"
+MenuImagen_MSG34="ISO seviye 3 varsayılan olarak ayarlanmıştır"
+

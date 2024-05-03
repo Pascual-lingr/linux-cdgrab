@@ -1,0 +1,72 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabación en CD.
+# Traducción experimental al Suajili, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="CHAGUA CHAGUO"
+clonar_MSG2="------- NAKALA ZA DISK NA PICHA YA ANGALIO -------"
+clonar_MSG3="Nakili CD ya data"
+clonar_MSG4="Unda picha ya awali ya CD kwenye diski kuu"
+clonar_MSG5="----------- NAKALA ZA DISK ON THE FLY ------------"
+clonar_MSG6="Nakili CD ya data kwa kuruka"
+clonar_MSG7="Tengeneza CD ya data wakati wa kuruka"
+clonar_MSG7B="Nakili CD ya Sauti wakati wa kuruka"
+clonar_MSG8="CHAGUO ZA KURUSHA NAKALA ZINAHITAJI VITENGO MBILI VYA MAONI"
+clonar_MSG9="IMESAKINISHWA KWENYE COMPUTER YAKO, KWA VILE DATA IMEREKODIWA WAKATI"
+clonar_MSG10="SOMA MOJA KWA MOJA KUTOKA KWENYE DISK ASILI, IKIWA TU COMPUTER YAKO INAYO"
+clonar_MSG11="MTU HATATAWEZA KUTUMIA NAKALA KWENYE NDEGE."
+clonar_MSG12B="COPY CD DATA"
+clonar_MSG0="Menyu iliyotangulia"
+
+# mgrabacd
+
+mgrabacd_MSG1="DATA YA CD KUTOKA HARD DISK"
+mgrabacd_MSG2="Choma CD mpya ya data (tumia cdrtools)"
+mgrabacd_MSG3="Choma CD mpya ya data (tumia libburnia)"
+mgrabacd_MSG4="Menyu iliyotangulia"
+mgrabacd_MSG5="Ingiza chaguo"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="KUREKODI PICHA YA DATA"
+mgrabaimg_MSG2="Choma picha ya iso au ext2 kwa CD-R/RW (tumia cdrtools)"
+mgrabaimg_MSG3="Choma picha ya iso kwa CD-R/RW (tumia libburnia)"
+mgrabaimg_MSG4="Menyu iliyotangulia"
+mgrabaimg_MSG5="Ingiza chaguo"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Choma CD ya Sauti kutoka kwa faili za .wav"
+mgrabararchivosaudio_MSG2="Choma CD ya Sauti kutoka kwa faili za .mp3"
+mgrabararchivosaudio_MSG3="Choma CD ya Sauti kutoka kwa faili za .ogg"
+mgrabararchivosaudio_MSG0="Menyu iliyotangulia"
+mgrabararchivosaudio_MSG0B="Chapa chaguo"
+mgrabararchivosaudio_MSG4="Choma CD ya Sauti kutoka kwa faili za .flac"
+mgrabararchivosaudio_MSG5="CD-AUDIO RECORDING FROM FLES"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="KUREKODI KWA CD"
+menugrabar_cd_MSG2="-------------------- CD - DATA -------------------"
+menugrabar_cd_MSG3="Nakili CD ya data"
+menugrabar_cd_MSG4="Choma CD mpya ya data"
+menugrabar_cd_MSG5="Choma CD mpya ya data ya vipindi vingi"
+menugrabar_cd_MSG6="Choma .iso au .ext2 picha kwenye CD"
+menugrabar_cd_MSG7="Burn .bin/.cue image to CD"
+menugrabar_cd_MSG8="-------------------- CD - AUDIO ------------------"
+menugrabar_cd_MSG9="Rip an Audio CD"
+menugrabar_cd_MSG13="---------------- CHAGUO NYINGINE -----------------"
+menugrabar_cd_MSG14="Choma CD Mchanganyiko (Data + Sauti)"
+menugrabar_cd_MSG15="Futa CD-RW"
+menugrabar_cd_MSG16="Funga CD iliyofunguliwa"
+menugrabar_cd_MSG17="Onyesha taarifa za diski kwenye hifadhi"
+menugrabar_cd_MSG18="Choma CD ya Sauti kutoka kwa faili za diski"
+menugrabar_cd_MSG0="Menyu iliyotangulia"
+menugrabar_cd_MSGPRINCIPAL="Chapa chaguo"

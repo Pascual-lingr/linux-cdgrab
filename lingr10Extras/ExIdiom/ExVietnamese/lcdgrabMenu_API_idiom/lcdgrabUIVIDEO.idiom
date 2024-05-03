@@ -1,0 +1,26 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en vietnamita para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="CHUYỂN ĐỔI VIDEO"
+menu_conversion_video_MSG2="----------- CHUYỂN ĐỔI GIỮA CÁC ĐỊNH DẠNG -----------"
+menu_conversion_video_MSG3="Chuyển đổi video sang đĩa Blu Ray tương thích với Smart-TV"
+menu_conversion_video_MSG4="Tệp video cần chuyển đổi:"
+menu_conversion_video_MSG0="Trình đơn trước"
+menu_conversion_video_MSG6="Ghi phiên máy tính để bàn"
+menu_conversion_video_MSG7="Chuyển đổi tập tin video sang định dạng khác"
+menu_conversion_video_MSG8="----------------- CÁC LỰA CHỌN KHÁC -----------------"
+menu_conversion_video_MSG9="Trộn tệp Video với tệp Âm thanh"
+menu_conversion_video_MSG10="Trích xuất âm thanh MP3 từ tệp video"
+menu_conversion_video_MSG11="Cắt tệp video"
+
+
+

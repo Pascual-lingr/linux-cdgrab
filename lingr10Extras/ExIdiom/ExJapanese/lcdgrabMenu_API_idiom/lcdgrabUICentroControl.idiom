@@ -1,0 +1,283 @@
+#########################################################
+# lcdgrabAPI_idiom/ExJapanese/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Japonés para el Interfaz del Centro de Control
+# Traducción experimental, utilizado google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="linux-cdgrab 構成"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="どの IDE チャネルに属するかわからない場合" 
+ayuda_IDE_MSG2="あなたのレコーダーは文字tを押すことで見つけることができます."
+ayuda_IDE_MSG3="IDE チャネルの例は、0,0,0 または 0,1,0 です。"
+ayuda_IDE_MSG4="対応するデバイスを指定することもできます"
+ayuda_IDE_MSG5="どちらのレコーダーか分からない場合はdを押してください"
+ayuda_IDE_MSG6="/etc/fstab ファイルに登録されているデバイスを確認するには"
+ayuda_IDE_MSG7="デバイスの例は、/dev/hdd、/dev/hde などです。"
+ayuda_IDE_MSG8="必要に応じて、含まれているすべてのデバイスを一覧表示することもできます"
+ayuda_IDE_MSG9="文字 l を押して /dev ディレクトリに移動します。"
+ayuda_IDE_MSG10="IDE チャネルまたは録音デバイスを指定する必要があります"
+ayuda_IDE_MSG11="両方ではありません。"
+
+# desinstalar
+
+desinstalar_MSG1="Linux - cdgrab がシステムからアンインストールされました"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="記録速度"
+imprimir_variables_MSG2="IDE/SCSI チャネルまたは記録デバイス"
+imprimir_variables_MSG3="CD-ROM または DVD-ROM ドライブ"
+imprimir_variables_MSG4="ATAPI デバイス"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="記録速度"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI チャネルまたは記録デバイス"
+imprimir_lcdgrabcfg_MSG3="CD-ROM、DVD-ROM、または BD-ROM ドライブ"
+imprimir_lcdgrabcfg_MSG4="ATAPI デバイス"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="インストール済み"
+chequeo_de_aplicaciones_MSG2="インストールされていない"
+chequeo_de_aplicaciones_MSG3="インストール"
+chequeo_de_aplicaciones_MSG4="重要："
+chequeo_de_aplicaciones_MSG5="必要なツールのインストール Linux-cdgrab は完全に機能します"
+chequeo_de_aplicaciones_MSG6="linux-cdgrab が必要とするすべてのプログラムがシステムにインストールされています。"
+chequeo_de_aplicaciones_MSG4B="警告："
+chequeo_de_aplicaciones_MSG5B="不足しているツールが見つかりました"
+chequeo_de_aplicaciones_MSG6B="システムにインストールされているツール"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="この変数にはデフォルトで 0,0,0 が割り当てられます"
+msgdefCANALATAPI_MSG2="構成ファイルは CANALATAPI = 0,0,0 で書き込まれます"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Linux-cdgrab が自動生成する設定ファイル。"
+nuevo_lcdgrabcfg_MSG5="システムに cdrecord が見つかりません"
+nuevo_lcdgrabcfg_MSG6="cdrtools パッケージをインストールします。"
+nuevo_lcdgrabcfg_MSG7="値を指定して構成を続行できます"
+nuevo_lcdgrabcfg_MSG8="以前にそれらを知っている場合は記録します。"
+nuevo_lcdgrabcfg_MSG9="cdrecord コマンドは、CD、DVD、および BD ディスクの書き込みに使用されます。"
+nuevo_lcdgrabcfg_MSG10="これらのオプションは、パッケージがインストールされるまで機能しません。"
+nuevo_lcdgrabcfg_MSG11="ユニットスキャンツールも機能しません。"
+nuevo_lcdgrabcfg_MSG12="このセットアップ ウィザードで。"
+nuevo_lcdgrabcfg_MSG13="linux-cdgrab は、次の 4 つの手順で構成する必要があります"
+nuevo_lcdgrabcfg_MSG14="最初の一歩。"
+nuevo_lcdgrabcfg_MSG15="録音速度 :"
+nuevo_lcdgrabcfg_MSG16="数字のみ 2,4,8,16,32... など"
+nuevo_lcdgrabcfg_MSG17="第二段階。"
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI チャネルまたは記録デバイス:"
+nuevo_lcdgrabcfg_MSG19="A -> 援助"
+nuevo_lcdgrabcfg_MSG20="走査..."
+nuevo_lcdgrabcfg_MSG21="IDE/SCSI ポートのスキャンに失敗しました"
+nuevo_lcdgrabcfg_MSG22="CDレコードが見つかりません"
+nuevo_lcdgrabcfg_MSG23="第三段階。"
+nuevo_lcdgrabcfg_MSG24="CD-ROM、DVD-ROM、または BD-ROM デバイス"
+nuevo_lcdgrabcfg_MSG25="L -> 利用可能なデバイスを一覧表示する"
+nuevo_lcdgrabcfg_MSG26="走査..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI ポートスキャン"
+nuevo_lcdgrabcfg_MSG28="マルチセッション記録で dev=ATAPI を介して cdrecord が使用するデバイス"
+nuevo_lcdgrabcfg_MSG30="デバイスには、0,0,0 または 1,0,0 などの命名法があります。"
+nuevo_lcdgrabcfg_MSG31="マルチセッション CD で cdrecord を呼び出すデバイスを指定します。 "
+nuevo_lcdgrabcfg_MSG32="CANALATAPI の構成が正しくありません"
+nuevo_lcdgrabcfg_MSG33="IDE/SCSI ポートのスキャンに失敗しました"
+nuevo_lcdgrabcfg_MSG34="CDレコードが見つかりません"
+nuevo_lcdgrabcfg_MSG36="Linux-cdgrab が自動生成する設定ファイル。"
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB の設定が完了しました"
+
+# colores
+
+colores_MSG1="カラーリストが見つかりません"
+colores_MSG2="デフォルトの色を読み込んでいます"
+colores_MSG3="LINUX-CDGRAB インターフェイスの新しい配色の選択"
+colores_MSG4="黒のフォント"
+colores_MSG5="標準光沢フォント"
+colores_MSG6="背景色 黒"
+colores_MSG7="レッドソース"
+colores_MSG8="光沢のある黒のフォント"
+colores_MSG9="背景色 赤"
+colores_MSG10="グリーンソース"
+colores_MSG11="赤の光沢のあるフォント"
+colores_MSG12="緑の背景色"
+colores_MSG13="イエローソース"
+colores_MSG14="緑の光沢のあるフォント"
+colores_MSG15="背景色オレンジ"
+colores_MSG16="ブルーフォント"
+colores_MSG17="明るい黄色のフォント"
+colores_MSG18="背景色 青"
+colores_MSG19="マゼンタフォント"
+colores_MSG20="青い光沢のあるフォント"
+colores_MSG21="マゼンタの背景色"
+colores_MSG22="シアンフォント"
+colores_MSG23="グロッシー マゼンタ フォント"
+colores_MSG24="シアンの背景色"
+colores_MSG25="グレイソース"
+colores_MSG26="シアンの背景色"
+colores_MSG27="シアン光沢のあるフォント"
+colores_MSG28="背景色 グレー"
+colores_MSG29="ソースデフォルト"
+colores_MSG30="白い光沢のあるフォント"
+colores_MSG31="デフォルトの背景色"
+colores_MSG32="フォントの色番号: "
+colores_MSG33="背景の色番号: "
+colores_MSG34="警告メッセージの色番号: "
+colores_MSG35="ラベル メッセージの色番号: "
+colores_MSG36="正常に完了したプロセスの色番号 "
+colores_MSG37="エラーで終了したプロセスの色番号: "
+colores_MSG38="LINUX-CDGRAB の新しいスキーム"
+colores_MSG39="全体的なソースカラー"
+colores_MSG40="ラベル"
+colores_MSG41="注意事項"
+colores_MSG42="成功"
+colores_MSG43="間違い"
+colores_MSG44="背景の色"
+
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="利用可能な色のリスト:"
+cambiar_esquema_de_color_MSG2="#####カラースキーム#######"
+cambiar_esquema_de_color_MSG3="----------------------"
+cambiar_esquema_de_color_MSG4="カラーメニュー"
+cambiar_esquema_de_color_MSG5="失敗した"
+cambiar_esquema_de_color_MSG6="タグ"
+cambiar_esquema_de_color_MSG6b="特記事項"
+cambiar_esquema_de_color_MSG7="カラーメニュー 失敗した タグ 特記事項"
+cambiar_esquema_de_color_MSG8="新しい色の番号を入力してください:"
+cambiar_esquema_de_color_MSG9="無効なオプション"
+cambiar_esquema_de_color_MSG10="デフォルトの色の設定。"
+cambiar_esquema_de_color_MSG11="  FONDO = FONDO_AZUL"
+cambiar_esquema_de_color_MSG12="  FUENTE = BRILLANTE BLANCO"
+cambiar_esquema_de_color_MSG13="  AVISOS = BRILLANTE NEGRO"
+cambiar_esquema_de_color_MSG14="  ERRORES = BRILLANTE ROJO"
+cambiar_esquema_de_color_MSG15="  ERRORES = BRILLANTE ROJO"
+cambiar_esquema_de_color_MSG16="  ACIERTOS = BRILLANTE VERDE"
+cambiar_esquema_de_color_MSG17="  ETIQUETAS = BRILLANTE MAGENTA"
+
+# cambia_lector
+
+cambia_lector_MSG1="光学ユニットの環境構成"
+cambia_lector_MSG2="CD-ROM、DVD-ROM、または BD-ROM に関連付けられている現在のデバイス"
+cambia_lector_MSG3="CD/DVD/BD ライターに関連付けられている現在のデバイス"
+cambia_lector_MSG4="パラメータ dev=ATAPI に関連付けられている現在のデバイス"
+cambia_lector_MSG5="(cdrecord のマルチセッション サポート)"
+cambia_lector_MSG6="変更するデバイスを選択します。"
+cambia_lector_MSG7="オプションを入力してください:"
+cambia_lector_MSG8="新しいデバイスの名前を入力してください"
+cambia_lector_MSG9="ブロックデバイスに対応していません"
+cambia_lector_MSG10="デバイス"
+cambia_lector_MSG11="デフォルトで割り当てられる"
+cambia_lector_MSG12="新しいデバイスは次のとおりです。"
+cambia_lector_MSG13="cdrecord のすべてのバージョンがブロック デバイスを記録パラメータとして受け入れるわけではありません。"
+cambia_lector_MSG14="新しい ATAPI デバイスの名前を入力してください"
+cambia_lector_MSG15="CANALATAPI の構成が正しくありません"
+cambia_lector_MSG16="この変数にはデフォルトで 0,0,0 が割り当てられます"
+cambia_lector_MSG17="構成ファイルは CANALATAPI = 0,0,0 で書き込まれます"
+cambia_lector_MSG18="新しいデバイスは次のとおりです。"
+cambia_lector_MSG19="デバイスに変更はありません"
+cambia_lector_MSG4B="設定ファイルから値をエクスポート"
+cambia_lector_MSG4C="これらの値は環境に報告されました:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="このメニューから、どのユーティリティを選択できますか"
+cambia_generador_isocd_MSG2="ISO-9660 イメージの生成に使用されます"
+cambia_generador_isocd_MSG3="リーダーユニットの既存の CDS から。"
+cambia_generador_isocd_MSG4="現在の構成:"
+cambia_generador_isocd_MSG5="dd (GNU coreutils コンポーネント) を使用する"
+cambia_generador_isocd_MSG6="readcd (cdrtools のコンポーネント) を使用する"
+cambia_generador_isocd_MSG7="前のメニュー。"
+cambia_generador_isocd_MSG8="選択肢一つを選択してください："
+cambia_generador_isocd_MSG9="dd を iso ジェネレーターとして使用します。"
+cambia_generador_isocd_MSG10="iso ジェネレーターとして readcd を使用します"
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Rock Ridge および Joliet とともに HFS メタデータを設定する"
+establecer_hfs_iso_MSG2="Rock Ridge と Joliet のメタデータのみを使用する"
+establecer_hfs_iso_MSG3="前のメニュー"
+establecer_hfs_iso_MSG4="選択肢一つを選択してください："
+establecer_hfs_iso_MSG5="HFS、Rock Ridge、Joliet メタデータの使用"
+establecer_hfs_iso_MSG6="Rock Ridge と Joliet のメタデータの使用"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="現在の届出制度"
+cambia_notificaciones_MSG2A="GNOME グラフィカル インターフェイス"
+cambia_notificaciones_MSG2B="KDE グラフィカル インターフェイス"
+cambia_notificaciones_MSG2="ncurses とのインターフェース"
+cambia_notificaciones_MSG3="テキストインターフェース"
+cambia_notificaciones_MSG4="外出"
+cambia_notificaciones_MSG5="選択肢一つを選択してください："
+cambia_notificaciones_MSG6="dialog でインターフェイスを使用する"
+cambia_notidicaciones_MSG6B="zenity でインターフェイスを使用する"
+cambia_notificaciones_MSG6C="kdialog でのインターフェイスの使用"
+cambia_notificaciones_MSG7="dialog コマンドが見つかりません"
+cambia_notificaciones_MSG8="テキスト インターフェイスの使用"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="使用言語"
+cambiar_idioma_UI_MSG1="現在利用可能な言語:"
+cambiar_idioma_UI_MSG2="使用する言語の名前を書きます"
+cambiar_idioma_UI_MSG3="アプリケーション インターフェイスで:"
+cambiar_idioma_UI_MSG4="使用される新しい言語は次のとおりです。"
+cambiar_idioma_UI_MSG5="LINUX-CDGRAB を再起動します"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="現在の構成"
+seleccion_gestor_archivos_MSG2="使用する"
+seleccion_gestor_archivos_MSG3="統合されたテキスト マネージャーを使用する"
+seleccion_gestor_archivos_MSG4="システムにインストールされている mc が見つかりません"
+seleccion_gestor_archivos_MSG5="デフォルトで組み込みのテキスト マネージャを使用する"
+seleccion_gestor_archivos_MSG6="mc ユーティリティ"
+seleccion_gestor_archivos_MSG7="統合テキスト"
+
+# centro_de_control
+
+centro_de_control_MSG1="コントロールセンター"
+centro_de_control_MSG2="新しい構成"
+centro_de_control_MSG3="構成ファイルの削除"
+centro_de_control_MSG4="ファイルと現在の構成値を表示する"
+centro_de_control_MSG5="構成ファイルの値:"
+centro_de_control_MSG5B="環境で使用される現在の構成:"
+centro_de_control_MSG6="光メディアの変更"
+centro_de_control_MSG7="インストールされているプログラムを確認する"
+centro_de_control_MSG8="cdrecord で IDE/SCSI ポートをスキャンする"
+centro_de_control_MSG8C="cdrskin で IDE/SCSI ポートをスキャンする"
+centro_de_control_MSG8B="cdrskin を使用してシステムにインストールされているドライブを一覧表示する"
+centro_de_control_MSG9="ISO ジェネレーター ユーティリティを CD から変更する"
+centro_de_control_MSG9B="iso-9660 の HFS メタデータを設定する"
+centro_de_control_MSG10="ユーザー インターフェイスの変更"
+centro_de_control_MSG10b="色を変える"
+centro_de_control_MSG10c="インターフェイス言語の変更"
+centro_de_control_MSG11="ファイルマネージャーの変更"
+centro_de_control_MSG11B="プログラムのアンインストール"
+centro_de_control_MSG12="オプションを入力してください: "
+centro_de_control_MSG13="構成ファイルが存在しません"
+centro_de_control_MSG14="構成ファイルが見つかりません"
+centro_de_control_MSG15="走査"
+centro_de_control_MSG16="IDE/SCSI ポートスキャン"
+centro_de_control_MSG17="IDE/SCSI ポートのスキャンに失敗しました"
+centro_de_control_MSG18="カラースキームを選択"
+centro_de_control_MSG19="色を勝手に選ぶ"
+centro_de_control_MSG20="前のメニュー"
+centro_de_control_MSG21="オプションを入力してください: "
+centro_de_control_MSG22="構成ファイルが存在しません"
+centro_de_control_MSG23="構成ファイルが見つかりません"
+centro_de_control_MSG24="カラースキームを選択"
+centro_de_control_MSG25="色を勝手に選ぶ"
+centro_de_control_MSG26="オプションが無効です"
+

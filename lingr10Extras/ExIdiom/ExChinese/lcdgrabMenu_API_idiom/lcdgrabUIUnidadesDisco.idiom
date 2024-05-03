@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExChinese/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en chino simplificado para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="磁盘驱动器操作"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="------------------------- 重要的 ------------------------"
+MenuDispositivosBloque_MSG3="+ 不要对硬盘进行写操作 "
+MenuDispositivosBloque_MSG4="+ 在包含图像的磁盘分区上 "
+MenuDispositivosBloque_MSG5="+ 恢复，启动分区或你自己的"
+MenuDispositivosBloque_MSG6="+ 操作系统分区。"
+MenuDispositivosBloque_MSG7="+ 滥用此菜单的书写选项 "
+MenuDispositivosBloque_MSG8="+ 它可以在系统中造成灾难。"
+MenuDispositivosBloque_MSG9="+ 谨慎使用。使用风险自负。"
+MenuDispositivosBloque_MSG10="---------------------- 写作 ----------------------"
+MenuDispositivosBloque_MSG11="将图像文件转储到驱动器上"
+MenuDispositivosBloque_MSG11B="将 iso 或 img 映像（可引导）转储到闪存驱动器或 USB 磁盘上"
+MenuDispositivosBloque_MSG11C="并非所有安装系统都受支持。"
+MenuDispositivosBloque_MSG12="使用本机 Linux 或 Windows 文件系统格式化驱动器"
+MenuDispositivosBloque_MSG13="---------------------- 阅读 ----------------------"
+MenuDispositivosBloque_MSG14="从驱动器创建 .img 图像"
+MenuDispositivosBloque_MSG15="上一个菜单"
+MenuDispositivosBloque_MSG16="输入一个选项"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="------------------------------重要的------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ 使用设备中使用的文件系统格式化驱动器"
+UIFormatearUnidad_linuxfs_MSG2B="+ 或磁盘分区。"
+UIFormatearUnidad_linuxfs_MSG3="+ 此选项将擦除驱动器上的所有现有数据。"
+UIFormatearUnidad_linuxfs_MSG4="+ 使用文件系统格式化的可移动驱动器"
+UIFormatearUnidad_linuxfs_MSG5="+ 自己的 Linux 将只能在此操作系统下访问。"
+UIFormatearUnidad_linuxfs_MSG6="+ 谨慎使用，风险自负。"
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="PRESS THE C KEY TO CONTINUE;（该过程将在另一个选项中取消）"
+

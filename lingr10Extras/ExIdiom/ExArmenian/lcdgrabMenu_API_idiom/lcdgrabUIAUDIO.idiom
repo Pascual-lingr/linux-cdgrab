@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExArmenian/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en armenio para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+# Resultado devuelto por el traductor
+menu_conversion_audio_MSG1="AUDIO CONVERSION"
+menu_conversion_audio_MSG2="----------- ՓՈԽԱԴՐՈՒՄԸ ՖՈՐՄԱՏՆԵՐԻ ՄԻՋԵՎ -----------"
+menu_conversion_audio_MSG3="Փոխարկեք .mp3-ը .wav-ի"
+menu_conversion_audio_MSG4="Փոխարկեք .ogg-ը .wav-ի"
+menu_conversion_audio_MSG5="Վերափոխել .wav-ը .mp3"
+menu_conversion_audio_MSG6="Փոխարկեք .wav-ը .ogg-ի"
+menu_conversion_audio_MSG6C="Վերափոխել .wav-ը .flac"
+menu_conversion_audio_MSG6B="Վերափոխել .flac-ը .wav"
+# Resultado devuelto por el traductor
+menu_conversion_audio_MSG7="-------------- AUDIO TRACK EXTRACTION -------------"
+menu_conversion_audio_MSG8="Աուդիո ձայնասկավառակը պատռել .wav-ին"
+menu_conversion_audio_MSG9="Աուդիո հետքերից մի շարք կոտորել .wav-ում"
+menu_conversion_audio_MSG10="Աուդիո ձայնասկավառակը պատռել .mp3-ում"
+menu_conversion_audio_MSG11="Աուդիո ձայնասկավառակը պատռել .ogg-ում"
+menu_conversion_audio_MSG0="Նախորդ ընտրացանկ"
+menu_conversion_audio_MSG12="Որոնել .mp3 ֆայլեր"
+menu_conversion_audio_MSG13="Որոնել .ogg ֆայլեր"
+menu_conversion_audio_MSG14="Որոնել .wav ֆայլեր"
+menu_conversion_audio_MSG15="------------- ԱՅԼ ԳՈՐԾՈՂՈՒԹՅՈՒՆՆԵՐ ----------------"
+menu_conversion_audio_MSG16="Կտրել .wav աուդիո ֆայլը"
+menu_conversion_audio_MSG17="Աուդիո ձայնասկավառակը պատռել .flac-ում"

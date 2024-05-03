@@ -1,0 +1,109 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTurkish/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Turco para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="Kayıt işlemi yeniden deneniyor..."
+m_cdrecord_sin_overburn_MSG2="cdrecord'u -overburn seçeneği olmadan çalıştırma"
+m_cdrecord_sin_overburn_MSG3="-overburn, eski kayıt cihazlarında veya cdrecord'un eski sürümlerinde desteklenmez."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="GEÇERSİZ SEÇENEK"
+
+# img_error
+
+img_error_D_MSG1="GÖRÜNTÜ OLUŞTURURKEN HATA"
+
+# CD_error
+
+CD_error_D_MSG1="CD'Yİ YAZARKEN HATA"
+
+# DVD_error
+
+DVD_error_D_MSG1="DVD YAZARKEN HATA"
+
+# DO_error
+
+DO_error_D_MSG1="OPTİK DİSK YAZILIRKEN HATA"
+
+
+# tecla
+
+tecla_D_MSG1="\nDevam etmek için ENTER'a basın. . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="DİSTE YAZILACAK DİZİN YOLLARI"
+rutas_dir_D_MSG2="Dizin adını girin (çıkış için f):"
+rutas_dir_D_MSG3="DİZİN"
+rutas_dir_D_MSG4="GEÇERSİZ"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="SİSTEMDE AYNI OPTİK BİRİM"
+una_sola_grabadora_D_MSG2="OKUMA VE KAYIT BİRİMİ AYNIDIR. SİSTEMİNİZİN SADECE BİR FİZİKSEL BİRİM OLDUĞU VARSAYILMIŞTIR. KAYNAK DİSKİNİ ÜNİTEDEN ÇIKARIN. KAYIT SÜRECİNE DEVAM ETMEK İÇİN BİR SİZ OPTİK DİSK TAKIN"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="DİSKİN KAYDI BAŞARIYLA TAMAMLANDI"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="GEÇERSİZ SEÇENEK"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="DİSKİN KAYDI BAŞARIYLA TAMAMLANDI"
+
+# text_img_error
+
+text_img_error_MSG1="GÖRÜNTÜ OLUŞTURURKEN HATA"
+
+# text_CD_error
+
+text_CD_error_MSG1="CD'Yİ YAZARKEN HATA"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="DVD YAZARKEN HATA"
+
+# text_DO_error
+
+text_DO_error_MSG1="OPTİK DİSK YAZILIRKEN HATA"
+
+# teclash
+
+teclash_MSG1="Devam etmek için ENTER'a basın. . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Dizin adını girin (çıkış için f):"
+text_rutas_dir_MSG2="DİZİN"
+text_rutas_dir_MSG3="GEÇERSİZ"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="SİSTEMDEKİ AYNI OPTİK BİRİM"
+text_una_sola_grabadora_MSG2="OKUMA VE KAYIT BİRİMİ AYNIDIR."
+text_una_sola_grabadora_MSG3="SİSTEMİNİZDE SADECE BİR tane olduğu varsayılmaktadır"
+text_una_sola_grabadora_MSG4="FİZİKSEL BİRİM."
+text_una_sola_grabadora_MSG5="KAYNAK DİSKİNİ ÜNİTEDEN ÇIKARIN."
+text_una_sola_grabadora_MSG6="BİR SİZ OPTİK DİSK YERLEŞTİRİN"
+text_una_sola_grabadora_MSG7="KAYIT SÜRECİNE DEVAM ETMEK İÇİN."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="Koşma"

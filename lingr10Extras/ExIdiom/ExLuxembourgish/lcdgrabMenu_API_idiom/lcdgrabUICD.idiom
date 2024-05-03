@@ -1,0 +1,73 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLuxembourgish/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Luxemburgués, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="WËLLEN ENG OPTION"
+clonar_MSG2="------ DISKKOPIÉIERT MAT PREVIEW BILD -------"
+clonar_MSG3="Kopieer eng Date-CD"
+clonar_MSG4="Erstellt e virdrun CD Bild op der Festplack"
+clonar_MSG5="------------ DISK KOPIÉIERT ON THE FLY ----------"
+clonar_MSG6="Kopieer eng Date-CD op der Flucht"
+clonar_MSG7="Klonen eng Daten CD op der Flucht"
+clonar_MSG7B="Kopieer eng Audio CD op der Flucht"
+clonar_MSG8="FLÉIEND KOPIOPTIONEN ERfuerderen ZWEE OPTISK UNITES"
+clonar_MSG9="OP ÄREM COMPUTER INSTALLÉIERT, ZËNNT D'DATA WËLLT OPSCHREIWEN"
+clonar_MSG10="LIEST DIREKT VUN DER ORIGIN-DISK, WANN NËMMEN ÄR COMPUTER HAT"
+clonar_MSG11="EEN KËNNE NET D'KOPIEN UM FLUG BENOTZEN."
+clonar_MSG12B="COPY CD DATA"
+clonar_MSG0="Menü virdru"
+
+# mgrabacd
+
+mgrabacd_MSG1="CD-DATA VUN HARDDISK"
+mgrabacd_MSG2="Eng nei Daten CD brennen (benotzt cdrtools)"
+mgrabacd_MSG3="Eng nei Daten CD brennen (benotzt Libburnia)"
+mgrabacd_MSG4="Menü virdru"
+mgrabacd_MSG5="Eng Optioun anzeginn"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="DATA BILDOPSCHREIWEN"
+mgrabaimg_MSG2="Iso oder ext2 Bild op CD-R/RW brennen (benotzt cdrtools)"
+mgrabaimg_MSG3="Iso Bild op CD-R/RW verbrennen (benotzt Libburnia)"
+mgrabaimg_MSG4="Menü virdru"
+mgrabaimg_MSG5="Eng Optioun"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Eng Audio CD vun .wav Dateien brennen"
+mgrabararchivosaudio_MSG2="Eng Audio CD vun .mp3 Dateien brennen"
+mgrabararchivosaudio_MSG3="Eng Audio CD vun .ogg Dateien brennen"
+mgrabararchivosaudio_MSG0="Menü virdru"
+mgrabararchivosaudio_MSG0B="Gitt eng Optioun"
+mgrabararchivosaudio_MSG4="Eng Audio CD vun .flac Dateien brennen"
+mgrabararchivosaudio_MSG5="CD-AUDIO OPSCHREIWEN VUN FILES"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="OPSCHREIWEN OP CD"
+menugrabar_cd_MSG2="------------------------ CD - DATA --------------------"
+menugrabar_cd_MSG3="Daten CD kopéieren"
+menugrabar_cd_MSG4="Eng nei Daten CD brennen"
+menugrabar_cd_MSG5="Eng nei Multi-Session Daten CD brennen"
+menugrabar_cd_MSG6="Verbrennt .iso oder .ext2 Bild op CD"
+menugrabar_cd_MSG7="Brennen .bin/.cue Bild op CD"
+menugrabar_cd_MSG8="------------------------ CD - AUDIO -------------------"
+menugrabar_cd_MSG9="Ripp eng Audio CD"
+menugrabar_cd_MSG13="--------------------- ANER OPTIONEN ------------------"
+menugrabar_cd_MSG14="Ee gemëschte CD brennen (Daten + Audio)"
+menugrabar_cd_MSG15="Eng CD-RW läschen"
+menugrabar_cd_MSG16="Opmaachen CD zoumaachen"
+menugrabar_cd_MSG17="Diskinformatioun am Drive weisen"
+menugrabar_cd_MSG18="Eng Audio CD vun Diskdateien brennen"
+menugrabar_cd_MSG0="Menü virdru"
+menugrabar_cd_MSGPRINCIPAL="Gitt eng Optioun"
+

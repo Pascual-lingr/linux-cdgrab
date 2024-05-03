@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTurkish/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Turco para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 GÖRÜNTÜSÜ BLU-RAY'E DOĞRU BİR ŞEKİLDE KAYDEDİLMİŞTİR"
+grabar_ISO_BD_MSG2="BLU-RAY DİSK'E GÖRÜNTÜ KAYDEDİRKEN HATA"
+grabar_ISO_BD_MSG3="BD'DEKİ ISO-9660 GÖRÜNTÜ"
+grabar_ISO_BD_MSG4="Yazılacak ISO-9660 görüntüsünün yolunu belirtin:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1=".iso görüntüsünü oluşturmak için dosyalar ve dizinler"
+bd_datos_MSG2="DB ETİKETİ"
+bd_datos_MSG3="Gelecekteki BD için bir ad girin:"
+bd_datos_MSG4="Dosya yöneticisi başlatılıyor:"
+bd_datos_MSG5="GÖRÜNTÜ OLUŞTURUYORUZ..."
+bd_datos_MSG6="çalışıyor"
+bd_datos_MSG7="ISO-9660 GÖRÜNTÜSÜ OLUŞTURULDU"
+bd_datos_MSG8="BD KAYIT YAPILIYOR"
+bd_datos_MSG13="RESMİ SİLİN..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Diskin durumuna göre gerekli biçimlendirme veya silme işlemi uygulanır"
+borrar_BDRE_lb_MSG2="BD-RE BAŞARIYLA SİLİNDİ!!"
+borrar_BDRE_lb_MSG3="BD-RE'Yİ SİLİRKEN HATA"
+

@@ -1,0 +1,74 @@
+#########################################################
+# lcgdrabAPI_idiom/ExPolish/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Polaco, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="WYBIERZ OPCJĘ"
+clonar_MSG2="------ KOPIE PŁYT Z OBRAZEM PODGLĄDU ------"
+clonar_MSG3="Skopiuj płytę CD z danymi"
+clonar_MSG4="Utwórz poprzedni obraz płyty CD na dysku twardym"
+clonar_MSG5="----------- KOPIOWANIE DYSKÓW W locie ----------"
+clonar_MSG6="Kopiuj płytę CD z danymi w locie"
+clonar_MSG7="Klonuj płytę CD z danymi w locie"
+clonar_MSG7B="Kopiuj płytę audio CD w locie"
+clonar_MSG8="OPCJE LATAJĄCEGO KOPIOWANIA WYMAGAJĄ DWÓCH JEDNOSTEK OPTYCZNYCH"
+clonar_MSG9="ZAINSTALOWANE NA TWOIM KOMPUTERZE, PONIEWAŻ DANE SĄ PODCZAS ZAPISU"
+clonar_MSG10="CZYTAJ BEZPOŚREDNIO Z DYSKU ORYGINALNEGO, JEŚLI TYLKO TWÓJ KOMPUTER MA"
+clonar_MSG11="NIE BĘDZIE MOŻNA WYKORZYSTAĆ KOPII PODCZAS LOTU."
+clonar_MSG12B="KOPIUJ DANE CD"
+clonar_MSG0="Poprzednie menu"
+
+# mgrabacd
+
+mgrabacd_MSG1="DANE CD Z DYSKU TWARDEGO"
+mgrabacd_MSG2="Nagraj nową płytę CD z danymi (użyj cdrtools)"
+mgrabacd_MSG3="Nagraj nową płytę CD z danymi (użyj libburnia)"
+mgrabacd_MSG4="Poprzednie menu"
+mgrabacd_MSG5="Wprowadź opcję"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="ZAPIS DANYCH OBRAZU"
+mgrabaimg_MSG2="Nagraj obraz ISO lub ext2 na CD-R/RW (użyj cdrtools)"
+mgrabaimg_MSG3="Nagraj obraz ISO na CD-R/RW (użyj libburnia)"
+mgrabaimg_MSG4="Poprzednie menu"
+mgrabaimg_MSG5="Wprowadź opcję"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Nagraj płytę audio CD z plików .wav"
+mgrabararchivosaudio_MSG2="Nagraj płytę audio CD z plików .mp3"
+mgrabararchivosaudio_MSG3="Nagraj płytę audio CD z plików .ogg"
+mgrabararchivosaudio_MSG0="Poprzednie menu"
+mgrabararchivosaudio_MSG0B="Wpisz opcję"
+mgrabararchivosaudio_MSG4="Nagraj płytę audio CD z plików .flac"
+mgrabararchivosaudio_MSG5="NAGRYWANIE CD-AUDIO Z PLIKÓW"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="NAGRYWANIE NA CD"
+menugrabar_cd_MSG2="------------------ CD - DANE ------------------"
+menugrabar_cd_MSG3="Kopiuj płytę CD z danymi"
+menugrabar_cd_MSG4="Nagraj nową płytę CD z danymi"
+menugrabar_cd_MSG5="Nagraj nową wielosesyjną płytę CD z danymi"
+menugrabar_cd_MSG6="Nagraj obraz .iso lub .ext2 na płytę CD"
+menugrabar_cd_MSG7="Nagraj obraz .bin/.cue na CD"
+menugrabar_cd_MSG8="----------------- CD - AUDIO ------------------"
+menugrabar_cd_MSG9="Zgraj płytę audio CD"
+menugrabar_cd_MSG13="----------------- INNE OPCJE ----------------"
+menugrabar_cd_MSG14="Nagraj mieszaną płytę CD (dane + audio)"
+menugrabar_cd_MSG15="Usuń płytę CD-RW"
+menugrabar_cd_MSG16="Zamknij otwartą płytę CD"
+menugrabar_cd_MSG17="Pokaż informacje o dysku w napędzie"
+menugrabar_cd_MSG18="Nagraj płytę audio CD z plików dyskowych"
+menugrabar_cd_MSG0="Poprzednie menu"
+menugrabar_cd_MSGPRINCIPAL="Wpisz opcję"
+
+

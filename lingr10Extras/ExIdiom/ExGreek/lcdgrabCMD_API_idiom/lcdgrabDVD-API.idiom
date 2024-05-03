@@ -1,0 +1,174 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGreek/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Griego para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Συσκευή εγγραφής ως"
+buscar_grabadora_MSG1B="Έγκυρο"
+buscar_grabadora_MSG2="Συσκευή εγγραφής ως"
+buscar_grabadora_MSG2B="Σφάλμα"
+buscar_grabadora_MSG3="Τα dvd+-rw-tools δεν αποδέχονται ότι η συσκευή εγγραφής είναι"
+buscar_grabadora_MSG4="Για να μπορέσετε να εγγράψετε DVD χρησιμοποιώντας τα εργαλεία dvd+rw, πρέπει να καθορίσετε τη συσκευή εγγραφής σας ως συσκευή μπλοκ"
+buscar_grabadora_MSG5="Παράδειγμα"
+buscar_grabadora_MSG6="ή"
+buscar_grabadora_MSG7="Εμφάνιση υπαρχουσών συσκευών συστήματος στο /dev"
+buscar_grabadora_MSG8="Εισαγάγετε τη συσκευή μπλοκ που αντιστοιχεί στη συσκευή εγγραφής DVD σας"
+buscar_grabadora_MSG9="Δεν έχει καθοριστεί τύπος συσκευής εγγραφής ή επιλογή."
+buscar_grabadora_MSG10="ΔΙΑΜΟΡΦΩΣΗ ΣΥΣΚΕΥΗΣ ΓΙΑ ΤΗΝ ΕΓΓΡΑΦΗ"
+buscar_grabadora_MSG11="Η συσκευή εγγραφής έχει εξαχθεί στο περιβάλλον του κελύφους ως"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Η πιθανή τιμή ισχύει μόνο για cdrecord"
+buscar_grabadoralb_MSG2="Η τρέχουσα διαμόρφωση για τη συσκευή εγγραφής είναι"
+buscar_grabadoralb_MSG3="Βεβαιωθείτε ότι αυτή η διαμόρφωση ταιριάζει με την τιμή που έχει εκχωρηθεί από το cdrskin"
+buscar_grabadoralb_MSG4="Σάρωση θύρας IDE/SCSI με cdrskin..."
+buscar_grabadoralb_MSG5="Καθορίστε τη νέα τιμή που θα χρησιμοποιηθεί με το cdrskin:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Εισαγάγετε ένα όνομα για το μελλοντικό DVD:"
+datos_dvd_MSG2="ΕΓΓΡΑΦΗ DVD . . ."
+datos_dvd_MSG3="Χρήση"
+datos_dvd_MSG4="τρέχει"
+datos_dvd_MSG5="Το DVD ΕΓΓΡΑΦΗΚΕ ΕΠΙΤΥΧΙΑ!"
+datos_dvd_MSG6="Δεν βρέθηκε mkisofs ή genisoimage, εγκαταστήστε cdrtools ή cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Εισαγάγετε ένα όνομα για το μελλοντικό DVD:"
+datos_dvd_multi_MSG2="ΕΓΓΡΑΦΗ DVD . . ."
+datos_dvd_multi_MSG3="Χρήση"
+datos_dvd_multi_MSG4="τρέχει"
+datos_dvd_multi_MSG5="Το DVD ΕΓΓΡΑΦΗΚΕ ΜΕ ΕΠΙΤΥΧΙΑ!"
+datos_dvd_multi_MSG6="Δεν είναι δυνατή η εύρεση Mkisofs ή genisoimage, εγκατάσταση cdrtools ή cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="ΕΓΓΡΑΦΗ ΕΙΚΟΝΑΣ . . ."
+grabimg_dvd_MSG2="τρέχει"
+grabimg_dvd_MSG3="! Η ΕΙΚΟΝΑ DVD ΕΓΓΡΑΦΗΚΕ ΜΕ ΕΠΙΤΥΧΙΑ!"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="ΕΓΓΡΑΦΗ ΕΙΚΟΝΑΣ ΣΕ DVD . . ."
+copia_bin_dvd_MSG2="τρέχει"
+copia_bin_dvd_MSG3=" ΔΙΑΓΡΑΦΗ ΑΡΧΕΙΟΥ ΕΙΚΟΝΑΣ"
+copia_bin_dvd_MSG4="Η ΕΓΓΡΑΦΗ ΟΛΟΚΛΗΡΩΘΗΚΕ!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Μορφοποίηση α"
+formatear_dvd_MSG2="Επιβολή νέας μορφής για ένα"
+formatear_dvd_MSG3="Μεταφορά του μπλοκ απαγωγών του α"
+formatear_dvd_MSG4="Μορφοποίηση ενός DVD-RW σε διαδοχικές επαυξήσεις"
+formatear_dvd_MSG5="Μορφοποίηση DVD-RW σε περιορισμένη αντικατάσταση"
+formatear_dvd_MSG6="Γεμίστε ένα DVD με μηδενικά"
+formatear_dvd_MSG7="Εμφανίζει τις πληροφορίες DVD"
+formatear_dvd_MSG8="Προηγούμενο μενού"
+formatear_dvd_MSG9="Αυτή η επιλογή χρησιμοποιείται για τη διαμόρφωση του DVD για πρώτη φορά."
+formatear_dvd_MSG10="Εάν το DVD είναι ήδη μορφοποιημένο, δεν θα διαγράψει τα δεδομένα."
+formatear_dvd_MSG11="Αυτά θα αντικατασταθούν σε μια νέα εγγραφή."
+formatear_dvd_MSG12="Για να διαγράψετε τα περιεχόμενα του DVD χρησιμοποιήστε:"
+formatear_dvd_MSG13="Γεμίστε ένα DVD με μηδενικά"
+formatear_dvd_MSG14="Αυτή η επιλογή διαγράφει τη μορφή και τα δεδομένα από το επεξεργασμένο DVD."
+formatear_dvd_MSG15="εκτελείται"
+formatear_dvd_MSG16="DVD+RW/DVD-RW ΜΟΡΦΑΤΗΚΕ ΕΠΙΤΥΧΙΑ!"
+formatear_dvd_MSG17="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗ ΜΟΡΦΗ ΤΟΥ DVD"
+formatear_dvd_MSG18="Επιβολή μορφοποίησης σε δίσκο DVD+RW..."
+formatear_dvd_MSG19="DVD+RW ΜΟΡΦΗΘΗΚΕ ΜΕ ΕΠΙΤΥΧΙΑ!"
+formatear_dvd_MSG20="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗ ΜΟΡΦΗ ΤΟΥ DVD+RW"
+formatear_dvd_MSG21="Αυτή η επιλογή δεν επηρεάζει τα δεδομένα που είναι αποθηκευμένα στο DVD+RW"
+formatear_dvd_MSG22="Κατάργηση μπλοκ απαγωγών από DVD+RW..."
+formatear_dvd_MSG23="Μορφοποίηση δίσκου DVD-RW σε διαδοχική εγγραφή..."
+formatear_dvd_MSG24="Το DVD-RW ΜΟΡΦΑΡΤΗΚΕ ΕΠΙΤΥΧΙΑ!"
+formatear_dvd_MSG25="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗ ΜΟΡΦΗ ΤΟΥ DVD-RW"
+formatear_dvd_MSG26="Μορφοποίηση δίσκου DVD-RW σε περιορισμένη αντικατάσταση..."
+formatear_dvd_MSG27="ΔΙΑΓΡΑΦΗ ΕΠΑΝΕΓΡΑΨΙΜΟΥ DVD"
+
+# null_dvd
+
+null_dvd_MSG1="Εγγραφή σε δίσκο από /dev/zero . . ."
+null_dvd_MSG2="τρέχει"
+null_dvd_MSG3="Η ΔΙΑΔΙΚΑΣΙΑ ΟΛΟΚΛΗΡΩΘΗΚΕ"
+null_dvd_MSG4="ΜΗ ΑΝΑΜΕΝΟΜΕΝΟ ΣΦΑΛΜΑ"
+
+# dvd_video
+
+dvd_video_MSG1="Διαδρομή όπου βρίσκονται οι κατάλογοι VIDEO_TS και AUDIO_TS:"
+dvd_video_MSG2="Καθορίστε τη διαδρομή όπου βρίσκονται οι κατάλογοι VIDEO_TS και AUDIO_TS:"
+dvd_video_MSG3="τρέχει"
+dvd_video_MSG4="--- ΕΠΙΤΥΧΗΓΡΑΦΗΘΗΚΕ DVD-VIDEO ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="τρέχει"
+dvd_copia_bin_MSG2=" ΔΙΑΓΡΑΦΗ ΑΡΧΕΙΟΥ ΕΙΚΟΝΑΣ"
+dvd_copia_bin_MSG3="ΕΧΕΙ ΣΥΜΒΑΣΕΙ ΣΦΑΛΜΑ ΚΑΤΑΧΩΡΗΣΗΣ"
+
+# dvd_datos
+
+dvd_datos_MSG1="Αρχεία και κατάλογοι για τη δημιουργία της εικόνας .iso"
+dvd_datos_MSG2="ΕΤΙΚΕΤΑ DVD"
+dvd_datos_MSG3="Εισαγάγετε ένα όνομα για το μελλοντικό DVD:"
+dvd_datos_MSG4="Εκκίνηση του διαχειριστή αρχείων:"
+dvd_datos_MSG5=" ΔΗΜΙΟΥΡΓΙΑ ΕΙΚΟΝΑΣ . . ."
+dvd_datos_MSG6="τρέχει"
+dvd_datos_MSG7="Η ΕΙΚΟΝΑ ISO-9660 ΔΗΜΙΟΥΡΓΗΘΗΚΕ ΣΤΟ"
+dvd_datos_MSG8="ΕΓΓΡΑΦΗ DVD"
+dvd_datos_MSG13="ΔΙΑΓΡΑΦΗ ΕΙΚΟΝΑΣ..."
+
+# dvd_borra
+
+dvd_borra_MSG1="τρέχει"
+dvd_borra_MSG2="Ο ΟΠΤΙΚΟΣ ΔΙΣΚΟΣ ΜΟΡΦΗΘΗΚΕ ΜΕ ΕΠΙΤΥΧΙΑ"
+dvd_borra_MSG3="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗ ΜΟΡΦΗ ΤΟΥ ΟΠΤΙΚΟΥ ΔΙΣΚΟΥ"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="τρέχει"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="τρέχει"
+formatearCDDVDBD_MSG2="Ο ΟΠΤΙΚΟΣ ΔΙΣΚΟΣ ΜΟΡΦΗΘΗΚΕ ΜΕ ΕΠΙΤΥΧΙΑ"
+formatearCDDVDBD_MSG3="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗ ΜΟΡΦΗ ΤΟΥ ΟΠΤΙΚΟΥ ΔΙΣΚΟΥ"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="Το DVD-RW μορφοποιήθηκε με επιτυχία!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Σφάλμα κατά τη μορφοποίηση του DVD-RW σε περιορισμένη αντικατάσταση"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="Το DVD-RW μορφοποιήθηκε με επιτυχία!!"
+formatearDVDRW_incremental_secuencial_MSG2="Σφάλμα κατά τη μορφοποίηση του DVD-RW σε διαδοχική σταδιακή"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Καθορίστε τη διαδρομή της εικόνας ISO-9660 προς εγγραφή:"
+cdrskinisocddvd_MSG2="Η ΕΙΚΟΝΑ ISO ΚΑΤΑΓΡΑΦΗΚΕ ΜΕ ΕΠΙΤΥΧΙΑ!!"
+cdrskinisocddvd_MSG3="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΕΓΓΡΑΦΗ ΕΙΚΟΝΑΣ"
+
+
+
+

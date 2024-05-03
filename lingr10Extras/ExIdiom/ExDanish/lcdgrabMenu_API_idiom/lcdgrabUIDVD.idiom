@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDanish/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Danés, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Vælg den brugergrænseflade, der skal bruges:"
+SeleccionaIUDVD_MSG2="Brug grænsefladen til dvd+-rw-værktøjer"
+SeleccionaIUDVD_MSG3="Brug grænsefladen til Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Brug grænsefladen til libburnia"
+SeleccionaIUDVD_MSG5="Forrige menu"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="DVD-OPTAGELSE"
+menugrabar_dvd_MSG2="----------------- DVD - DATA ------------------"
+menugrabar_dvd_MSG3="Kopier en ISO-9660 data-dvd"
+menugrabar_dvd_MSG4="Opret et tidligere DVD-billede på harddisken"
+menugrabar_dvd_MSG5="Brænd en ny ISO-9660 data-dvd"
+menugrabar_dvd_MSG6="Tilføj ny datasession til ISO-9660 data DVD (multisession DVD)"
+menugrabar_dvd_MSG7="Kræver en DVD tidligere optaget med den anden mulighed"
+menugrabar_dvd_MSG8="Brænd et ISO-9660 databillede til DVD"
+menugrabar_dvd_MSG9="Brænd et .ext2-billede til DVD"
+menugrabar_dvd_MSG10="----------------- DVD - VIDEO -----------------"
+menugrabar_dvd_MSG11="Brænd en ny dvd-video"
+menugrabar_dvd_MSG12="-------------- ANDRE MULIGHEDER ---------------"
+menugrabar_dvd_MSG13="Formater en DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Vis DVD-diskinformation"
+menugrabar_dvd_MSG0="Forrige menu"
+menugrabar_dvd_MSGPRINCIPAL="Skriv en indstilling"
+menugrabar_dvd_MSG15="Filer og mapper, der skal inkluderes på DVD'en"
+menugrabar_dvd_MSG16="Starter filhåndteringen..."
+menugrabar_dvd_MSG17=".iso-billede til at brænde til DVD"
+menugrabar_dvd_MSG18="Skriv mappestien, hvor .iso-billedet, du vil brænde, er placeret"
+menugrabar_dvd_MSG19="Kræver version af cdrecord med DVD-understøttelse."
+menugrabar_dvd_MSG20="Optagelsen af ​​.ext2-billedet på DVD vil ske med cdrecord."
+menugrabar_dvd_MSG21="Den cdrecord-version, der findes i din installation, skal"
+menugrabar_dvd_MSG22="understøtte DVD-optagelse."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="VÆLG EN MULIGHED"
+dvd_clonar_MSG2="--- DISC KOPIER MED FORBRUGSBILLEDE ---"
+dvd_clonar_MSG3="Kopier en data-dvd"
+dvd_clonar_MSG4="Opret et tidligere DVD-billede på harddisken"
+dvd_clonar_MSG5="--- DISC KOPIER PÅ FLYVET ---"
+dvd_clonar_MSG6="Kopier en data-dvd med det samme"
+dvd_clonar_MSG7="Klon en data-dvd i farten"
+dvd_clonar_MSG8="FLYVENDE KOPIINDSTILLINGER KRÆVER TO OPTISKE ENHEDER"
+dvd_clonar_MSG9="INSTALLERET PÅ DIN COMPUTER, DA DATANE ER OPTAGET MENS"
+dvd_clonar_MSG10="LÆS DIREKTE FRA ORIGIN-DISKEN, HVIS DIN COMPUTER KUN HAR DEN"
+dvd_clonar_MSG11="DU VIL IKKE KUN BRUGE KOPIERNE PÅ FLYVET."
+dvd_clonar_MSG0="Forrige menu"
+dvd_clonar_MSG12="DVD DATA KOPI"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD-OPTAGELSE"
+menugrabar_DVD_MSG2="------------------- DVD - DATA ------------------"
+menugrabar_DVD_MSG3="Rip data DVD"
+menugrabar_DVD_MSG4="Brænd en ny data-dvd"
+menugrabar_DVD_MSG5="Brænd .iso- eller .ext2-billede til DVD"
+menugrabar_DVD_MSG6="Formater DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Vis diskoplysninger i drevet"
+menugrabar_DVD_MSG0="Forrige menu"
+menugrabar_DVD_MSGPRINCIPAL="Skriv en indstilling"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Brænd iso-9660 billede til DVD"
+menugrabar_DVD_libburnia_MSG2="Brænd data fra harddisk til DVD"
+menugrabar_DVD_libburnia_MSG3="Formater DVD"
+menugrabar_DVD_libburnia_MSG4="Formater DVD-RW til sekventiel trinvis"
+menugrabar_DVD_libburnia_MSG5="Formater DVD-RW til begrænset overskrivning"
+menugrabar_DVD_libburnia_MSG6="Vis drevoplysninger"
+menugrabar_DVD_libburnia_MSG8="Vis drev installeret i systemet"
+menugrabar_DVD_libburnia_MSG0="Afslut"
+menugrabar_DVD_libburnia_MSG7="Angiv en indstilling"
+

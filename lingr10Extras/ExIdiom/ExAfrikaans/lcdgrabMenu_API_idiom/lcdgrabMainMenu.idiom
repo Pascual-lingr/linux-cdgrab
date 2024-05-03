@@ -1,0 +1,140 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAfrikaans/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Afrikáans, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab kan nie die vi-teksredigeerder vind nie"
+# Se omite 'n por evitar errores de funcionamiento
+ayuda_MSG2="Voer die naam in van n teksredigeerder wat op jou stelsel geïnstalleer is"
+ayuda_MSG3="GEEN GEINSTALLEERDE REDAKTEUR GEVIND NIE"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Lêer outomaties gegenereer deur LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="Hierdie lêer saam met die gids"
+creacion_de_mnt_MSG3="is outomaties gegenereer"
+creacion_de_mnt_MSG4="deur die Linux-cdgrab-toepassing wanneer geverifieer word dat dit nie in jou Linux-verspreiding bestaan ​​het nie"
+creacion_de_mnt_MSG5="die gids"
+creacion_de_mnt_MSG6="Linux-cdgrab gebruik hierdie gids om sy CD-ROM/DVD-ROM/BD-ROM-aandrywer te monteer"
+creacion_de_mnt_MSG7="Die gids"
+creacion_de_mnt_MSG8="dit sal nie uitgevee word as Linux-cdgrab gedeïnstalleer word nie aangesien dit gewoonlik die"
+creacion_de_mnt_MSG9="standaardmonteerpunt vir /dev/cdrom op die meeste Linux-verspreidings."
+# Se omite 'n por evitar errores de funcionamiento
+creacion_de_mnt_MSG10="As jou verspreiding n ander gids gebruik om die toestel /dev/cdrom te monteer,"
+creacion_de_mnt_MSG11="dit sal geen onversoenbaarheid skep wanneer jy toegang tot die data op jou eenheid probeer kry nie"
+creacion_de_mnt_MSG12="alhoewel as Linux-cdgrab gedeïnstalleer is, kan jy daarsonder klaarkom"
+creacion_de_mnt_MSG13="Die doel van hierdie lêer is slegs vir inligtingsdoeleindes, jy kan dit vrylik uitvee sodra dit gelees is."
+
+# creditos
+
+creditos_MSG1="Verdeel onder GPL v2-lisensie"
+creditos_MSG2="Meer inligting by www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, skepper en onderhouder"
+creditos_MSG4="Foutverslag: pascual89@hotmail.com"
+creditos_MSG5="Program webwerf: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Gebaseer op LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Laai"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SINTAKSIS"
+lcdgrab_sintaxis_MSG2="Druk hierdie hulp"
+lcdgrab_sintaxis_MSG3="Druk die Linux-weergawe-cdgrab"
+lcdgrab_sintaxis_MSG4="spesifiseer die IDE-kanaal of opname-toestel"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="spesifiseer die opname spoed"
+lcdgrab_sintaxis_MSG7="spesifiseer CD-ROM/DVD-ROM/BD-ROM-aandrywer"
+lcdgrab_sintaxis_MSG8="spesifiseer die IDE ATAPI-kanaal van die opnemer"
+lcdgrab_sintaxis_MSG9="Die -G -V -L en -CA opsies impliseer mekaar."
+lcdgrab_sintaxis_MSG9B="Die -iut -ium -iug en -iuk opsies is onafhanklik van mekaar,"
+lcdgrab_sintaxis_MSG9C="aanvullend tot -G -V -L en -CA, en onafhanklik tussen -h en -v"
+lcdgrab_sintaxis_MSG10="Die -h en -v opsies is onafhanklik van mekaar en die res."
+lcdgrab_sintaxis_MSG11="Voorbeelde:"
+lcdgrab_sintaxis_MSG12="toestel"
+lcdgrab_sintaxis_MSG13="nommer"
+lcdgrab_sintaxis_MSG14="tekskoppelvlak"
+lcdgrab_sintaxis_MSG15="koppelvlak met ncurses"
+lcdgrab_sintaxis_MSG16="grafiese koppelvlak met GTK"
+lcdgrab_sintaxis_MSG17="grafiese koppelvlak met Qt"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Voer die skrifpad in:"
+main_lcdgrabopdep_MSG2="Ongeldige pad"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Geïnstalleerde pleisters:"
+main_lcdgrabopdeppatch_MSG2="Voer die pleisterpad in:"
+main_lcdgrabopdeppatch_MSG3="Nie gevind nie"
+
+# menu principal dialog
+# Se omite 'N por evitar errores de funcionamiento
+main_lcdgrabop9uidia="LAAI N BYKOMENDE PATCH OP"
+
+# menu principal texto
+
+main_lcdgrabop1_text="OPNAME NA CD\t\t\t\t="
+main_lcdgrabop2_text="DVD-OPNAME\t\t\t\t="
+main_lcdgrabop3_text="OPNAME OP BD\t\t\t\t="
+main_lcdgrabop4_text="SKYFDRYF BEDRYWIGHEDE\t\t\t="
+main_lcdgrabop5_text="BEELD SKEPPING\t\t\t\t="
+main_lcdgrabop6_text="OUDIO-OMSKEIDING\t\t\t\t="
+main_lcdgrabop6b_text="VIDEO-OMSKEIDING\t\t\t\t="
+main_lcdgrabop7_text="MONTEER OF ONTSTEL CD/DVD/BD\t\t="
+main_lcdgrabop8_text="BEVESTIG OF ONTSTEL BEELD\t\t="
+main_lcdgrabop9_text="LAAI N BYKOMENDE PATCH OP\t\t="
+main_lcdgrabop10_text="BEHEERSENTRUM\t\t\t\t="
+main_lcdgrabop0_text="GAAN UIT\t\t\t\t\t="
+main_lcdgrabet1_text="ANDER OPSIES ##\t\t="
+main_lcdgrabopEe_text="Steek skyf uit aandrywer\t\t="
+main_lcdgrabopTD_text="Wys gids"
+tabs="\t\t\t="
+main_lcdgrabopG_text="Lêer bestuurder\t\t\t="
+main_lcdgrabopH_text="Hulp\t\t\t\t\t="
+main_lcdgrabopA_text="Oor\t\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="OPNAME NA CD"
+main_lcdgrabop2="DVD-OPNAME"
+main_lcdgrabop3="OPNAME OP BD"
+main_lcdgrabop4="SKYFDRYF BEDRYWIGHEDE"
+main_lcdgrabop5="BEELD SKEPPING"
+main_lcdgrabop6="OUDIO-OMSKEIDING"
+main_lcdgrabop6b="VIDEO-OMSKEIDING"
+main_lcdgrabop7="MONTEER OF ONTSTEL CD/DVD/BD"
+main_lcdgrabop8="BEVESTIG OF ONTSTEL BEELD"
+main_lcdgrabop9="LAAI N BYKOMENDE PATCH OP"
+main_lcdgrabop10="BEHEERSENTRUM"
+main_lcdgrabop0="GAAN UIT"
+main_lcdgrabet1="ANDER OPSIES ##"
+main_lcdgrabopEe="Steek skyf uit aandrywer"
+main_lcdgrabopTD="Wys gids"
+main_lcdgrabopG="Lêer bestuurder"
+main_lcdgrabopH="Hulp"
+main_lcdgrabopA="Oor"
+# Se omite 'n por evitar errores de funcionamiento
+main_lcdgrabopPRINCIPAL="Tik n opsie:"
+MSG1_MAIN="Deur H te kies, wys die gebruik van opsies."
+main_lcdgrabopA_MSG1="Loop op:"
+

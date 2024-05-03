@@ -1,0 +1,23 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTigrinya/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en tigriña para el menu de conversión de Video.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="ምቕያር ቪድዮ"
+menu_conversion_video_MSG2="------------ ኣብ መንጎ ፎርማት ዝግበር ምቕያር -----------"
+menu_conversion_video_MSG3="ቪድዮ ናብ ብሉ ሬይ ዲስክ ስማርት-ቲቪ ዝሰማማዕ ምቕያር"
+menu_conversion_video_MSG4="ዝተቐየረ ቪድዮ ፋይል:"
+menu_conversion_video_MSG0="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+menu_conversion_video_MSG6="ናይ ዴስክቶፕ ክፍለ ግዜ መዝገብ።"
+menu_conversion_video_MSG7="ፋይል ቪድዮ ናብ ዝተፈላለየ ቅርጺ ምቕያር።"
+menu_conversion_video_MSG8="------------------ ካልኦት ኣማራጺታት -----------------"
+menu_conversion_video_MSG9="Video ፋይል ምስ Audio ፋይል ምሕዋስ"
+menu_conversion_video_MSG10="ካብ ቪድዮ ፋይል MP3 ድምጺ ኣውጽእ"
+menu_conversion_video_MSG11="ቪድዮ ፋይል ምቑራጽ"

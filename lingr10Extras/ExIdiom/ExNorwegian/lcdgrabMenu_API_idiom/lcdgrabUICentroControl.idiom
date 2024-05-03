@@ -1,0 +1,282 @@
+#########################################################
+# lcdgrabAPI_idiom/ExNorwegian/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Noruego para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translator
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux-cdgrab-konfigurasjon"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Hvis du ikke vet hvilken IDE-kanal som tilhører"
+ayuda_IDE_MSG2="opptakeren din kan finne ut ved å trykke på bokstaven t."
+ayuda_IDE_MSG3="Et eksempel på IDE-kanalen kan være 0,0,0 eller 0,1,0"
+ayuda_IDE_MSG4="Du kan også spesifisere den tilsvarende enheten"
+ayuda_IDE_MSG5="til opptakeren din. Hvis du ikke vet hvilken det er, trykk på d,"
+ayuda_IDE_MSG6="for å se enhetene som er registrert i /etc/fstab-filen"
+ayuda_IDE_MSG7="Et eksempel på enheter kan være /dev/hdd, /dev/hde osv."
+ayuda_IDE_MSG8="Hvis du ønsker, kan du også liste opp alle enhetene"
+ayuda_IDE_MSG9="i /dev-katalogen ved å trykke på bokstaven l."
+ayuda_IDE_MSG10="Du må spesifisere IDE-kanalen eller opptaksenheten"
+ayuda_IDE_MSG11="men ikke begge deler."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab har blitt avinstallert fra systemet ditt"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Opptakshastighet"
+imprimir_variables_MSG2="IDE/SCSI-kanal eller opptaksenhet"
+imprimir_variables_MSG3="CD-ROM-, DVD-ROM- eller BD-ROM-leser"
+imprimir_variables_MSG4="ATAPI-enhet"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Opptakshastighet"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI-kanal eller opptaksenhet"
+imprimir_lcdgrabcfg_MSG3="CD-ROM-, DVD-ROM- eller BD-ROM-leser"
+imprimir_lcdgrabcfg_MSG4="ATAPI-enhet"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Installert"
+chequeo_de_aplicaciones_MSG2="IKKE INSTALLERT"
+chequeo_de_aplicaciones_MSG3="Installer"
+chequeo_de_aplicaciones_MSG4="VIKTIG:"
+chequeo_de_aplicaciones_MSG5="Installering av de nødvendige verktøyene Linux-cdgrab vil fungere fullstendig"
+chequeo_de_aplicaciones_MSG6="Alle programmene som Linux-cdgrab trenger er installert på systemet ditt"
+chequeo_de_aplicaciones_MSG4B="MERKNAD:"
+chequeo_de_aplicaciones_MSG5B="Manglende verktøy funnet"
+chequeo_de_aplicaciones_MSG6B="Verktøy installert på systemet"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 er som standard tildelt denne variabelen"
+msgdefCANALATAPI_MSG2="Konfigurasjonsfilen vil bli skrevet med CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Konfigurasjonsfil automatisk generert av Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG5="cdrecord er ikke funnet i systemet"
+nuevo_lcdgrabcfg_MSG6="Installer cdrtools-pakken."
+nuevo_lcdgrabcfg_MSG7="Du kan fortsette konfigurasjonen ved å spesifisere verdiene"
+nuevo_lcdgrabcfg_MSG8="opptak hvis du kjenner dem fra før."
+nuevo_lcdgrabcfg_MSG9="Cdrecord-kommandoen brukes til å ta opp CD-, DVD- og BD-plater"
+nuevo_lcdgrabcfg_MSG10="Disse alternativene vil ikke fungere før nevnte pakke er installert."
+nuevo_lcdgrabcfg_MSG11="Stasjonsskanneverktøyet, tilstede, vil heller ikke fungere"
+nuevo_lcdgrabcfg_MSG12="i denne konfigurasjonsveiviseren."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab må konfigureres i de følgende fire trinnene"
+nuevo_lcdgrabcfg_MSG14="Første trinn."
+nuevo_lcdgrabcfg_MSG15="Opptakshastighet:"
+nuevo_lcdgrabcfg_MSG16="Bare ett tall 2,4,8,16,32... osv"
+nuevo_lcdgrabcfg_MSG17="Andre trinn."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI-kanal eller opptaksenhet:"
+nuevo_lcdgrabcfg_MSG19="A -> hjelp"
+nuevo_lcdgrabcfg_MSG20="Skanner..."
+nuevo_lcdgrabcfg_MSG21="Feil ved skanning av IDE/SCSI-port"
+nuevo_lcdgrabcfg_MSG22="Cdrecord ikke funnet"
+nuevo_lcdgrabcfg_MSG23="Tredje trinn."
+nuevo_lcdgrabcfg_MSG24="CD-ROM-, DVD-ROM- eller BD-ROM-enhet"
+nuevo_lcdgrabcfg_MSG25="L -> List tilgjengelige enheter"
+nuevo_lcdgrabcfg_MSG26="Skanner..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI-port skannet"
+nuevo_lcdgrabcfg_MSG28="Enhet som skal brukes av cdrecord gjennom dev=ATAPI i opptak med flere økter"
+nuevo_lcdgrabcfg_MSG30="Enheten har en nomenklatur som 0,0,0 eller 1,0,0 osv."
+nuevo_lcdgrabcfg_MSG31="Spesifiser enheten som skal ringe cdrecord på multisession-CDer: "
+nuevo_lcdgrabcfg_MSG32="Konfigurasjonen er ikke riktig for CANALATAPI"
+nuevo_lcdgrabcfg_MSG33="Feil ved skanning av IDE/SCSI-port"
+nuevo_lcdgrabcfg_MSG34="Cdrecord ikke funnet"
+nuevo_lcdgrabcfg_MSG36="Konfigurasjonsfil automatisk generert av Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB-OPPSETTET FULLFØRT"
+
+# colores
+
+colores_MSG1="Listen over farger ble ikke funnet"
+colores_MSG2="Laster standardfarger"
+colores_MSG3="Velg nytt fargeskjema for LINUX-CDGRAB-grensesnittet"
+colores_MSG4="SVART FONT"
+colores_MSG5="STANDARD LYS FONT"
+colores_MSG6="SORT BAKGRUNNSFARGE"
+colores_MSG7="RØD FONT"
+colores_MSG8="LYS SVART FONT"
+colores_MSG9="RØD BAKGRUNNSFARGE"
+colores_MSG10="FONT GREEN"
+colores_MSG11="KLAR RØD FONTENE"
+colores_MSG12="GRØNN BAKGRUNNSFARGE"
+colores_MSG13="GUL FONT"
+colores_MSG14="LYS GRØNN FONT"
+colores_MSG15="ORANSJE BAKGRUNNSFARGE"
+colores_MSG16="BLÅ FONT"
+colores_MSG17="LYD GUL FONT"
+colores_MSG18="BLÅ BAKGRUNNSFARGE"
+colores_MSG19="MAGENTA FONT"
+colores_MSG20="BRIGHT BLUE FONT"
+colores_MSG21="MAGENTA BAKGRUNNSFARGE"
+colores_MSG22="CYANKILDE"
+colores_MSG23="BRIGHT MAGENTA FONT"
+colores_MSG24="CYAN BAKGRUNNSFARGE"
+colores_MSG25="GRÅ FONT"
+colores_MSG26="CYAN BAKGRUNNSFARGE"
+colores_MSG27="BRIGHT CYAN FONT"
+colores_MSG28="GRÅ BAKGRUNNSFARGE"
+colores_MSG29="STANDARDKILDE"
+colores_MSG30="BRIGHT WHITE FONT"
+colores_MSG31="STANDARD BAKGRUNNSFARGE"
+colores_MSG32="Fargenummer for skriften: "
+colores_MSG33="Fargenummer for bakgrunnen: "
+colores_MSG34="Fargenummer for advarselsmeldinger: "
+colores_MSG35="Fargenummer for etikettmeldinger: "
+colores_MSG36="Fargenummer for vellykket fullførte prosesser"
+colores_MSG37="Fargenummer for prosesser avsluttet med feil: "
+colores_MSG38="Nytt oppsett for LINUX-CDGRAB"
+colores_MSG39="GENERELL SKRIFTFARGE"
+colores_MSG40="LABELS"
+colores_MSG41="MERKNADER"
+colores_MSG42="SUKSESS"
+colores_MSG43="FEIL"
+colores_MSG44="BAKGRUNNSFARGE"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="LISTE OVER TILGJENGELIGE FARGER:"
+cambiar_esquema_de_color_MSG2="##########FARGESKJEMA###########"
+cambiar_esquema_de_color_MSG3="--------------------------------"
+cambiar_esquema_de_color_MSG4="Fargemeny"
+cambiar_esquema_de_color_MSG5="Mislyktes"
+cambiar_esquema_de_color_MSG6="Etiketter"
+cambiar_esquema_de_color_MSG6b="Merknader"
+cambiar_esquema_de_color_MSG7="Fargemeny OK Feiladvarselsetiketter"
+cambiar_esquema_de_color_MSG8="Skriv inn nummeret til den nye fargen:"
+cambiar_esquema_de_color_MSG9="UGYLDIG ALTERNATIV"
+cambiar_esquema_de_color_MSG10="ANGI STANDARDFARGER."
+cambiar_esquema_de_color_MSG11=" BAKGRUNN = BLÅ_BAKGRUNN"
+cambiar_esquema_de_color_MSG12="FONT = BRIGHT WHITE"
+cambiar_esquema_de_color_MSG13=" ADVARSLER = LYGT GUL"
+cambiar_esquema_de_color_MSG14=" FEIL = KLAR RØD"
+cambiar_esquema_de_color_MSG15=" FEIL = KLAR RØD"
+cambiar_esquema_de_color_MSG16=" HITS = LYS GRØNN"
+cambiar_esquema_de_color_MSG17=" ETIKETTER = LYS CYAN"
+
+# cambia_lector
+
+cambia_lector_MSG1="MILJØKONFIGURASJON FOR OPTISKE ENHETER"
+cambia_lector_MSG2="Gjeldende enhet knyttet til CD-ROM, DVD-ROM eller BD-ROM"
+cambia_lector_MSG3="Gjeldende enhet tilknyttet CD/DVD/BD-brenneren"
+cambia_lector_MSG4="Gjeldende enhet assosiert med parameteren dev=ATAPI"
+cambia_lector_MSG5="(støtte for flere økter for cdrecord)"
+cambia_lector_MSG6="Velg enheten som endringen skal gjøres på."
+cambia_lector_MSG7="Angi alternativ:"
+cambia_lector_MSG8="Skriv inn navnet på den nye enheten"
+cambia_lector_MSG9="tilsvarer ikke en blokkeringsenhet"
+cambia_lector_MSG10="Enhet"
+cambia_lector_MSG11="tildelt som standard"
+cambia_lector_MSG12="Den nye enheten er:"
+cambia_lector_MSG13="Ikke alle versjoner av cdrecord godtar en blokkeringsenhet som opptaksparameter"
+cambia_lector_MSG14="Skriv inn navnet på den nye ATAPI-enheten"
+cambia_lector_MSG15="Konfigurasjonen er ikke riktig for CANALATAPI"
+cambia_lector_MSG16="0,0,0 er som standard tildelt denne variabelen"
+cambia_lector_MSG17="Konfigurasjonsfilen vil bli skrevet med CANALATAPI = 0,0,0"
+cambia_lector_MSG18="Den nye enheten er:"
+cambia_lector_MSG19="INGEN ENDRINGER ER GJORT PÅ ENHETENE"
+cambia_lector_MSG4B="Eksporter verdier fra konfigurasjonsfilen"
+cambia_lector_MSG4C="DISSE VERDENE BLEV RAPPORTERT TIL MILJØET:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Fra denne menyen kan du velge hvilket verktøy"
+cambia_generador_isocd_MSG2="vil bli brukt til å generere ISO-9660-bilder"
+cambia_generador_isocd_MSG3="fra eksisterende CDS på leseenheten."
+cambia_generador_isocd_MSG4="Gjeldende konfigurasjon:"
+cambia_generador_isocd_MSG5="Bruk dd (GNU coreutils-komponent)"
+cambia_generador_isocd_MSG6="Bruk readcd (cdrtools-komponent)"
+cambia_generador_isocd_MSG7="Forrige meny."
+cambia_generador_isocd_MSG8="Velg et alternativ:"
+cambia_generador_isocd_MSG9="Bruker dd som iso-generator."
+cambia_generador_isocd_MSG10="Bruker readcd som iso-generator."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Sett HFS-metadata sammen med Rock Ridge og Joliet"
+establecer_hfs_iso_MSG2="Bruk bare Rock Ridge og Joliet metadata"
+establecer_hfs_iso_MSG3="Forrige meny."
+establecer_hfs_iso_MSG4="Velg et alternativ:"
+establecer_hfs_iso_MSG5="Bruke HFS, Rock Ridge og Joliet metadata"
+establecer_hfs_iso_MSG6="Bruke Rock Ridge og Joliet metadata"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Gjeldende varslingssystem"
+cambia_notificaciones_MSG2A="GNOME grafisk grensesnitt"
+cambia_notificaciones_MSG2B="KDE grafisk grensesnitt"
+cambia_notificaciones_MSG2="Grensesnitt med ncurses"
+cambia_notificaciones_MSG3="Tekstgrensesnitt"
+cambia_notificaciones_MSG4="Avslutt"
+cambia_notificaciones_MSG5="Velg et alternativ:"
+cambia_notificaciones_MSG6="Bruke grensesnitt med dialogboks"
+cambia_notidicaciones_MSG6B="Bruke grensesnitt med zenity"
+cambia_notidicaciones_MSG6C="Bruke grensesnitt med kdialog"
+cambia_notificaciones_MSG7="Dialogkommando ikke funnet"
+cambia_notificaciones_MSG8="Bruker tekstgrensesnitt"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Språk i bruk:"
+cambiar_idioma_UI_MSG1="For øyeblikket tilgjengelige språk:"
+cambiar_idioma_UI_MSG2="Skriv inn navnet på språket som skal brukes"
+cambiar_idioma_UI_MSG3="i applikasjonsgrensesnittet:"
+cambiar_idioma_UI_MSG4="Det nye språket som brukes er:"
+cambiar_idioma_UI_MSG5="Start LINUX-CDGRAB på nytt"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Gjeldende konfigurasjon"
+seleccion_gestor_archivos_MSG2="Bruk mc"
+seleccion_gestor_archivos_MSG3="Bruk integrert tekstbehandling"
+seleccion_gestor_archivos_MSG4="mc kan ikke finnes installert på systemet"
+seleccion_gestor_archivos_MSG5="Bruker som standard integrert tekstbehandling"
+seleccion_gestor_archivos_MSG6="mc-verktøy"
+seleccion_gestor_archivos_MSG7="Integrert tekst"
+
+# centro_de_control
+
+centro_de_control_MSG1="KONTROLLSENTER"
+centro_de_control_MSG2="Ny konfigurasjon"
+centro_de_control_MSG3="Slett konfigurasjonsfil"
+centro_de_control_MSG4="Vis gjeldende konfigurasjonsfil og verdier"
+centro_de_control_MSG5="KONFIGURASJONSFILVERDIER:"
+centro_de_control_MSG5B="GÅENDE KONFIGURASJON BRUKT I MILJØET:"
+centro_de_control_MSG6="Endre optisk media"
+centro_de_control_MSG7="Sjekk installerte programmer"
+centro_de_control_MSG8="Skann IDE/SCSI-porten med cdrecord"
+centro_de_control_MSG8C="Skann IDE/SCSI-porten med cdrskin"
+centro_de_control_MSG8B="List enheter installert i systemet med cdrskin"
+centro_de_control_MSG9="Endre iso-genereringsverktøy fra CD"
+centro_de_control_MSG9B="Angi HFS-metadata for iso-9660"
+centro_de_control_MSG10="Endre brukergrensesnitt"
+centro_de_control_MSG10b="Endre farge"
+centro_de_control_MSG10c="Endre grensesnittspråk"
+centro_de_control_MSG11="Endre filbehandling"
+centro_de_control_MSG11B="Avinstaller program"
+centro_de_control_MSG12="Skriv inn et alternativ: "
+centro_de_control_MSG13="KONFIGURASJONSFILEN FINNER IKKE"
+centro_de_control_MSG14="FINNER IKKE KONFIGURASJONSFILEN"
+centro_de_control_MSG15="Skanning"
+centro_de_control_MSG16="IDE/SCSI-port skannet"
+centro_de_control_MSG17="Feil ved skanning av IDE/SCSI-port"
+centro_de_control_MSG18="Velg fargevalg"
+centro_de_control_MSG19="Velg farger vilkårlig"
+centro_de_control_MSG20="Forrige meny"
+centro_de_control_MSG21="Skriv inn et alternativ: "
+centro_de_control_MSG22="KONFIGURASJONSFILEN FINNER IKKE"
+centro_de_control_MSG23="FINNER IKKE KONFIGURASJONSFILEN"
+centro_de_control_MSG24="Velg fargeskjema"
+centro_de_control_MSG25="Velg farger vilkårlig"
+centro_de_control_MSG26="Ugyldig alternativ"
+

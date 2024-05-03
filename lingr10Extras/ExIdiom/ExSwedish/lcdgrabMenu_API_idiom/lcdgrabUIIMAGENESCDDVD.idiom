@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/Swedish/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al sueco, generado con google translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="SKAPA OCH HANTERA SKIVBILDER"
+MenuImagen_MSG2="-------------------- BILDSKAPA ------------------------"
+MenuImagen_MSG3="Skapa en ISO-9660-bild"
+MenuImagen_MSG4="Skapa en bild med ett inbyggt Linux-filsystem"
+MenuImagen_MSG5="Skapa en .img-bild av valfri blockenhet"
+MenuImagen_MSG6="Skapa en .bin .cue-bild från den aktuella enheten"
+MenuImagen_MSG7="---------------- ANDRA ALTERNATIV ---------------------"
+MenuImagen_MSG8="Generera .cue-beskrivningsfil från .bin-bild"
+MenuImagen_MSG9="Konvertera en .nrg (Nero Burning ROM)-bild till .iso"
+MenuImagen_MSG10="Komprimera en bild med gzip, bzip2 eller xz"
+MenuImagen_MSG11="Dekomprimera en bild i zip, gz, bz2 eller xz"
+MenuImagen_MSG11B="Kontrollera md5 summan av iso-bilder"
+MenuImagen_MSG12="Ändra iso-läge"
+MenuImagen_MSG0="Föregående meny"
+MenuImagen_MSG13="Bildfil som ska komprimeras"
+MenuImagen_MSG14="KOMPRIMERA BILDFILEN"
+MenuImagen_MSG15="Skriv in katalogsökvägen där bilden du vill komprimera finns:"
+MenuImagen_MSG16="Bildfil som du vill dekomprimera"
+MenuImagen_MSG17="AKTUELL ISO-NIVÅ"
+MenuImagen_MSG18="iso-nivå"
+MenuImagen_MSG19="Filnamn består av en sektion"
+MenuImagen_MSG20="och är begränsade till 8,3 tecken."
+MenuImagen_MSG21="Välj denna nivå om du vill ha namnkompatibilitet"
+MenuImagen_MSG21b="under MS-DOS-operativsystemet"
+MenuImagen_MSG22="Filnamn består av en sektion"
+MenuImagen_MSG23="Obegränsad nivå."
+MenuImagen_MSG24="Använd denna nivå om du vill ha filkompatibilitet"
+MenuImagen_MSG25="stor, i detta fall >= 2 Gigabyte."
+MenuImagen_MSG26="Alla ISO-nivåer begränsar filnamn till versaler, gemener och"
+MenuImagen_MSG27="tecken som _ . Filnamn är begränsade till 31 tecken"
+MenuImagen_MSG28="Max 8 katalogsökvägar och sökvägsnamn"
+MenuImagen_MSG29="kataloger till 255 tecken."
+MenuImagen_MSG30="Välj den nya iso-nivån"
+MenuImagen_MSG31="ISO nivå 4 är inte officiell"
+MenuImagen_MSG32="Konsultera mkisofs man-sida"
+MenuImagen_MSG33="Ogiltig ISO-nivå"
+MenuImagen_MSG34="Ställ in iso-nivå 3 som standard"
+

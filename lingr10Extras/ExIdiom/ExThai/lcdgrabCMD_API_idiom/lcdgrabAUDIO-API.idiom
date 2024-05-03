@@ -1,0 +1,174 @@
+#########################################################
+# lcgdrabAPI_idiom/ExThai/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en tailandés para el API de audio.
+# Traducción experimental, generado con Chat GPT y Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+# Traducción Chat GPT - INI
+mp3awav_MSG0B="ไฟล์ MP3 ที่ต้องการแปลง"
+mp3awav_MSG0="กรุณาพิมพ์เส้นทางของไฟล์ .mp3: "
+mp3awav_MSG1="การแปลง"
+# Traducción Chat GPT - FIN
+mp3awav_MSG1B=" เป็น .wav รูปแบบ"
+# Traducción Chat GPT - INI
+mp3awav_MSG2="กำลังดำเนินการ"
+# Traducción Chat GPT - FIN
+mp3awav_MSG3="ตั้งค่าการสุ่มตัวอย่างเป็น 44100 Mhz"
+mp3awav_MSG4="เกิดข้อผิดพลาดในการประมวลผลการสุ่มตัวอย่าง"
+mp3awav_MSG5="ไม่สามารถแปลง"
+mp3awav_MSG6="ไม่พบไดเร็กทอรี"
+mp3awav_MSG7="สิ้นสุดการแปลงเสียง"
+mp3awav_MSG8="กำลังทำให้ไฟล์เสียงเป็นมาตรฐาน"
+mp3awav_MSG9="ไฟล์"
+mp3awav_MSG10="ทำให้เป็นมาตรฐาน"
+mp3awav_MSG11="ข้อผิดพลาดในการทำให้เป็นมาตรฐาน"
+
+# oggawav
+
+# Traducción Chat GPT - INI
+oggawav_MSG0="ไฟล์ OGG ที่ต้องการแปลง"
+oggawav_MSG1="กรุณาพิมพ์เส้นทางของไฟล์ .ogg: "
+oggawav_MSG2="การแปลง"
+# Traducción Chat GPT - FIN
+oggawav_MSG2B="A FORMATO .wav"
+# Traducción Chat GPT - INI
+oggawav_MSG3="กำลังดำเนินการ"
+# Traducción Chat GPT - FIN
+oggawav_MSG4="ตั้งค่าการสุ่มตัวอย่างเป็น 44100 Mhz"
+oggawav_MSG5="เกิดข้อผิดพลาดในการประมวลผลการสุ่มตัวอย่าง"
+oggawav_MSG6="ไม่สามารถแปลง"
+oggawav_MSG7="ไม่พบไดเร็กทอรี"
+oggawav_MSG8="สิ้นสุดการครอบคลุมเสียง"
+oggawav_MSG9="กำลังทำให้ไฟล์เสียงเป็นมาตรฐาน"
+oggawav_MSG10="ไฟล์"
+oggawav_MSG11="ทำให้เป็นมาตรฐาน"
+oggawav_MSG12="ข้อผิดพลาดในการทำให้เป็นมาตรฐาน"
+
+# cdawav
+
+cdawav_MSG1="การริพซีดีเพลง..."
+# Traducción Chat GPT - INI
+cdawav_MSG2="กำลังดำเนินการ:"
+# Traducción Chat GPT - FIN
+cdawav_MSG3="เพลงที่คัดลอกมาสำเร็จแล้ว!!"
+cdawav_MSG4="เนื้อหาของไดเร็กทอรีไฟล์เสียง"
+cdawav_MSG5="ข้อผิดพลาดเมื่อทำการริพแทร็กเสียง"
+
+# cddawav
+
+# Resultado de Google Translator
+cddawav_MSG1="ป้อนจำนวนแทร็กที่จะ RIP :"
+cddawav_MSG2="กด Crtl + c เพื่อยกเลิกการริปแทร็ก"
+# Traducción Chat GPT - INI
+cddawav_MSG3="กำลังดำเนินการ:"
+# Traducción Chat GPT - FIN
+cddawav_MSG4="ฉีกสำเร็จ"
+cddawav_MSG5="ข้อผิดพลาดเมื่อริป"
+
+# wavamp3
+
+# Traducción Chat GPT - INI
+wavamp3_MSG0="ไฟล์ WAV ที่ต้องการแปลง"
+wavamp3_MSG1="กรุณาพิมพ์เส้นทางของไฟล์ .wav: "
+wavamp3_MSG1B="การแปลง"
+# Traducción Chat GPT - FIN
+wavamp3_MSG2="เพื่อจัดรูปแบบ"
+# Traducción Chat GPT - INI
+wavamp3_MSG3="กำลังดำเนินการ:"
+# Traducción Chat GPT - FIN
+wavamp3_MSG4="เมื่อทำการแปลง"
+wavamp3_MSG5="เป็นรูปแบบ .MP3"
+wavamp3_MSG6="เกิดข้อผิดพลาดในการแปลง"
+wavamp3_MSG7="การแปลงไฟล์เสียงเสร็จสมบูรณ์"
+wavamp3_MSG8="ไม่พบไดเรกทอรีเสียง"
+
+# cdamp3
+
+cdamp3_MSG1="การริพซีดีเพลง..."
+# Traducción Chat GPT - INI
+cdamp3_MSG2="กำลังดำเนินการ:"
+# Traducción Chat GPT - FIN
+cdamp3_MSG3="เพลงที่คัดลอกมาสำเร็จแล้ว!!"
+cdamp3_MSG4="ข้อผิดพลาดเมื่อริปแทร็กเสียง"
+cdamp3_MSG5="กำลังเรียกใช้ฟังก์ชัน:"
+
+# wavaogg
+
+# Traducción Chat GPT - INI
+wavaogg_MSG1="กรุณาพิมพ์เส้นทางของไฟล์ .wav: "
+wavaogg_MSG2="การแปลง"
+# Traducción Chat GPT - FIN
+wavaogg_MSG3="เป็น .ogg รูปแบบ"
+# Traducción Chat GPT - INI
+wavaogg_MSG4="กำลังดำเนินการ:"
+# Traducción Chat GPT - FIN
+wavaogg_MSG5="เกิดข้อผิดพลาดในการแปลง"
+wavaogg_MSG6="เป็นรูปแบบ .ogg"
+
+# cdaogg
+
+cdaogg_MSG1="การริพซีดีเพลง..."
+# Traducción Chat GPT - INI
+cdaogg_MSG2="กำลังดำเนินการ:"
+# Traducción Chat GPT - FIN
+cdaogg_MSG3="เพลงที่คัดลอกมาสำเร็จแล้ว!!"
+cdaogg_MSG4="ข้อผิดพลาดเมื่อทำการริพแทร็กเสียง"
+cdaogg_MSG5="กำลังเรียกใช้ฟังก์ชัน:"
+
+# corta_wav
+
+corta_wav_MSG0="จำนวนวินาที:"
+corta_wav_MSG1="ระบุเส้นทางของไฟล์เสียงที่จะแปลง:"
+corta_wav_MSG2="ระบุเวลาเป็นจำนวนวินาทีซึ่ง"
+corta_wav_MSG3="จะเริ่มตัดไฟล์"
+corta_wav_MSG4="-หมายเหตุ-"
+corta_wav_MSG5="หากต้องการระบุจุดเริ่มต้นของเสียง ให้ป้อน 0"
+corta_wav_MSG6="ค่าเป็นวินาทีเพื่อเริ่มการแปลง:"
+corta_wav_MSG7="ระบุเวลาเป็นจำนวนวินาทีซึ่ง"
+corta_wav_MSG8="การตัดไฟล์จะเสร็จสิ้น"
+corta_wav_MSG9="ค่าเป็นวินาทีเมื่อสิ้นสุดการแปลง:"
+# Traducción Chat GPT - INI
+corta_wav_MSG10="กำลังดำเนินการ"
+# Traducción Chat GPT - FIN
+corta_wav_MSG11="ไฟล์เสียงที่ถูกตัดแต่ง"
+corta_wav_MSG12="เกิดข้อผิดพลาดขณะตัดแต่งไฟล์"
+corta_wav_MSG13="ไฟล์เสียงที่จะตัด:"
+
+# flacawav
+
+flacawav_MSG0="เสียง FLAC/WAV"
+# Traducción Chat GPT - INI
+flacawav_MSG1="กรุณาพิมพ์เส้นทางของไฟล์ .flac :"
+flacawav_MSG2="การแปลง"
+# Traducción Chat GPT - FIN
+flacawav_MSG3=" ถึง .wav รูปแบบ"
+flacawav_MSG4="ตั้งค่าการสุ่มตัวอย่างเป็น 44100 Mhz"
+flacawav_MSG5="เกิดข้อผิดพลาดในการประมวลผลการสุ่มตัวอย่าง"
+flacawav_MSG6="กำลังทำให้ไฟล์เสียงเป็นมาตรฐาน"
+flacawav_MSG7="ไฟล์"
+flacawav_MSG8="ทำให้เป็นมาตรฐาน"
+flacawav_MSG9="ข้อผิดพลาดในการทำให้เป็นมาตรฐาน"
+flacawav_MSG10="ไม่สามารถแปลง"
+flacawav_MSG11="ไม่พบไดเร็กทอรี"
+flacawav_MSG12="สิ้นสุดการแปลงเสียง"
+
+# wavaflac
+# Traducción Chat GPT - INI
+wavaflac_MSG0="ไฟล์ WAV ที่ต้องการแปลง"
+wavaflac_MSG1="กรุณาพิมพ์เส้นทางของไฟล์ .wav: "
+wavaflac_MSG2="การแปลง"
+# Traducción Chat GPT - FIN
+wavaflac_MSG3="รูปแบบ .flac"
+wavaflac_MSG4="แปลงเป็นรูปแบบ flac"
+wavaflac_MSG5="เกิดข้อผิดพลาดในการแปลง"
+wavaflac_MSG6="เป็นรูปแบบ .flac"
+# Traducción Chat GPT - INI
+wavaflac_MSG7="ไม่พบไดเรกทอรีของไฟล์ FLAC"
+# Traducción Chat GPT - FIN
+

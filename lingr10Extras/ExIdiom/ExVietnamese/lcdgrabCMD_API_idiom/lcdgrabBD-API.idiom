@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Vietnamita para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="Hình ảnh ISO-9660 ĐƯỢC GHI CHÍNH XÁC TRÊN BLU-RAY"
+grabar_ISO_BD_MSG2="LỖI KHI GHI HÌNH ẢNH TRÊN ĐĨA BLU-RAY"
+grabar_ISO_BD_MSG3="Hình ảnh ISO-9660 trong BD"
+grabar_ISO_BD_MSG4="Chỉ định đường dẫn của ảnh ISO-9660 cần ghi:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Các tập tin và thư mục để tạo hình ảnh .iso"
+bd_datos_MSG2="DB NHÃN"
+bd_datos_MSG3="Nhập tên cho BD trong tương lai:"
+bd_datos_MSG4="Khởi chạy trình quản lý tập tin:"
+bd_datos_MSG5=" TẠO HÌNH ẢNH . . ."
+bd_datos_MSG6="đang chạy"
+bd_datos_MSG7="Hình ảnh ISO-9660 ĐƯỢC TẠO TRONG"
+bd_datos_MSG8="	GHI BD"
+bd_datos_MSG13="XÓA HÌNH ẢNH..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Việc định dạng hoặc xóa cần thiết được áp dụng tùy thuộc vào trạng thái đĩa"
+borrar_BDRE_lb_MSG2="BD-RE ĐÃ XÓA THÀNH CÔNG!!"
+borrar_BDRE_lb_MSG3="LỖI KHI XÓA BD-RE"
+

@@ -1,0 +1,73 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLithuanian/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Lituano, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="PASIRINKITE PARINKTĮ"
+clonar_MSG2="------ DISKO KOPIJAS SU PERŽIŪROS VAIZDU -------"
+clonar_MSG3="Kopijuoti duomenų kompaktinį diską"
+clonar_MSG4="Sukurti ankstesnį kompaktinio disko vaizdą standžiajame diske"
+clonar_MSG5="----------- DISKŲ KOPIJAS SKRYDŽIOJE -----------"
+clonar_MSG6="Nukopijuokite duomenų kompaktinį diską skrydžio metu"
+clonar_MSG7="Klonuoti duomenų kompaktinį diską skrendant"
+clonar_MSG7B="Nukopijuokite garso kompaktinį diską skrendant"
+clonar_MSG8="Skraidančiai KOPIJAVIMO PARINKTIMS REIKIA DU OPTINIŲ ĮRENGINIŲ"
+clonar_MSG9="ĮDIEGTA JŪSŲ KOMPIUTERIEJE, KAD DUOMENYS ĮRAŠomi KOL"
+clonar_MSG10="SKAITYTI TIESIOGIAI IŠ KILMĖS DISKO, JEI TURĖJO JŪSŲ KOMPIUTERIS"
+clonar_MSG11="SKRYDŽIO metu NEGALĖS NAUDOTI KOPIJŲ."
+clonar_MSG12B="kopijuoti kompaktinio disko duomenis"
+clonar_MSG0="Ankstesnis meniu"
+
+# mgrabacd
+
+mgrabacd_MSG1="CD DUOMENYS IŠ KIETŲJŲ DISKO"
+mgrabacd_MSG2="Įrašykite naują duomenų kompaktinį diską (naudokite cdrtools)"
+mgrabacd_MSG3="Įrašykite naują duomenų kompaktinį diską (naudokite libburnia)"
+mgrabacd_MSG4="Ankstesnis meniu"
+mgrabacd_MSG5="Įveskite parinktį"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="DUOMENŲ VAIZDO ĮRAŠYMAS"
+mgrabaimg_MSG2="Įrašykite iso arba ext2 vaizdą į CD-R/RW (naudokite cdrtools)"
+mgrabaimg_MSG3="Įrašyti iso vaizdą į CD-R/RW (naudokite libburnia)"
+mgrabaimg_MSG4="Ankstesnis meniu"
+mgrabaimg_MSG5="Įveskite parinktį"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Įrašykite garso kompaktinį diską iš .wav failų"
+mgrabararchivosaudio_MSG2="Įrašykite garso kompaktinį diską iš .mp3 failų"
+mgrabararchivosaudio_MSG3="Įrašykite garso kompaktinį diską iš .ogg failų"
+mgrabararchivosaudio_MSG0="Ankstesnis meniu"
+mgrabararchivosaudio_MSG0B="Įveskite parinktį"
+mgrabararchivosaudio_MSG4="Įrašykite garso kompaktinį diską iš .flac failų"
+mgrabararchivosaudio_MSG5="CD-GARSO ĮRAŠYMAS IŠ FAILŲ"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="ĮRAŠYMAS Į CD"
+menugrabar_cd_MSG2="-------------------- CD - DUOMENYS -----------------"
+menugrabar_cd_MSG3="Kopijuoti duomenų kompaktinį diską"
+menugrabar_cd_MSG4="Įrašyti naują duomenų kompaktinį diską"
+menugrabar_cd_MSG5="Įrašyti naują kelių seansų duomenų kompaktinį diską"
+menugrabar_cd_MSG6="Įrašyti .iso arba .ext2 vaizdą į kompaktinį diską"
+menugrabar_cd_MSG7="Įrašyti .bin/.cue vaizdą į kompaktinį diską"
+menugrabar_cd_MSG8="--------------------- CD - GARSO -------------------"
+menugrabar_cd_MSG9="Nukopijuokite garso kompaktinį diską"
+menugrabar_cd_MSG13="------------------KITI PASIRINKIMAI-----------------"
+menugrabar_cd_MSG14="Įrašykite mišrų kompaktinį diską (duomenys + garsas)"
+menugrabar_cd_MSG15="Ištrinti CD-RW"
+menugrabar_cd_MSG16="Uždaryti atidarytą kompaktinį diską"
+menugrabar_cd_MSG17="Rodyti disko informaciją įrenginyje"
+menugrabar_cd_MSG18="Įrašyti garso kompaktinį diską iš disko failų"
+menugrabar_cd_MSG0="Ankstesnis meniu"
+menugrabar_cd_MSGPRINCIPAL="Įveskite parinktį"
+

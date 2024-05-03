@@ -1,0 +1,51 @@
+#########################################################
+# lcdgrabAPI_idiom/ExPortuguese/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en portugués para el menu de montaje y desmontaje de dispositivos
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="DISPOSITIVOS MONTADOS ATUALMENTE NO SISTEMA"
+montar_dispositivos_MSG1B="MONTAGEM/DESMONTAGEM DE DISPOSITIVOS"
+montar_dispositivos_MSG2="OPÇÕES LINUX-CDGRAB"
+montar_dispositivos_MSG3="Ejetar disco do leitor de CD/DVD/BD"
+montar_dispositivos_MSG4="Ejetar disco do gravador de CD/DVD/BD"
+montar_dispositivos_MSG5="Montar leitor de CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG6="Desmontar CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Montar ou desmontar o dispositivo manualmente"
+montar_dispositivos_MSG0="Menu anterior"
+montar_dispositivos_MSG8="CD/DVD/BD montado em"
+montar_dispositivos_MSG9="PRESSIONE ENTER PARA CONTINUAR..."
+montar_dispositivos_MSG10="Erro ao montar o CD/DVD/BD em"
+montar_dispositivos_MSG11="O CD/DVD/BD foi desmontado"
+montar_dispositivos_MSG12="Erro ao desmontar o CD/DVD/BD"
+montar_dispositivos_MSG13="Digite o dispositivo para montar/desmontar:"
+montar_dispositivos_MSG14="Insira o ponto de montagem:"
+montar_dispositivos_MSG15="não corresponde a um dispositivo de bloco"
+montar_dispositivos_MSG16="Ponto de montagem não encontrado"
+montar_dispositivos_MSG17="Ponto de montagem padrão"
+montar_dispositivos_MSG18="Escolher opção:"
+montar_dispositivos_MSG19="Montar o"
+montar_dispositivos_MSG20="pt"
+montar_dispositivos_MSG21="Desmontar"
+montar_dispositivos_MSG22="de"
+montar_dispositivos_MSG23="montado em:"
+montar_dispositivos_MSG24="ERRO AO MONTAR"
+montar_dispositivos_MSG25="PT"
+montar_dispositivos_MSG26="desmontado de"
+montar_dispositivos_MSG27="ERRO AO DESMONTAR"
+montar_dispositivos_MSG28="de"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Saída do comando de montagem"
+Montar_Imagenes_MSG1B="MONTANDO/DESMONTANDO ARQUIVOS DE IMAGEM"
+Montar_Imagenes_MSG2="Escolha uma opção"
+Montar_Imagenes_MSG3="Montar imagem de CD/DVD/BD"
+Montar_Imagenes_MSG4="Desmontar imagem de CD/DVD/BD"
+Montar_Imagenes_MSG5="Menu Anterior"
+

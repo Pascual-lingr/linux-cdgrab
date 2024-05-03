@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en islandés para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Sláðu inn slóð skráar eða möppu:"
+empaquetar_MSG2="------- Valmöguleikar -------"
+empaquetar_MSG3="Búa til .tar.gz skrá"
+empaquetar_MSG4="Búa til .tar.bz2 skrá"
+empaquetar_MSG5="Sláðu inn valmöguleika: "
+empaquetar_MSG6="Í gangi"
+empaquetar_MSG7="Ógildur valkostur"
+
+# desempaquetar
+
+desempaquetar_MSG1="Sláðu inn skráarslóðina:"
+desempaquetar_MSG2="ENGIN ÞJÁTTJAFINN FINN FYRIR"
+desempaquetar_MSG3="EÐA"
+desempaquetar_MSG4="ER EKKI TIL"
+desempaquetar_MSG5="Í gangi"
+desempaquetar_MSG6="afpakkað"
+desempaquetar_MSG7="Villa við að reyna að taka upp"
+
+# comprime
+
+comprime_MSG1="ÞJÁMJA MYND"
+comprime_MSG2="Þjappa með bzip2"
+comprime_MSG3="Þjappa með gzip"
+comprime_MSG4="Þjappa með xz"
+comprime_MSG5="Fyrri valmynd"
+comprime_MSG6="Í gangi"
+comprime_MSG7="Þjöppun myndskrár lokið"
+comprime_MSG8="Villa við að þjappa með"
+comprime_MSG9="Ógild þjöppu"
+
+# descomprime
+
+descomprime_MSG1="Sláðu inn skráarslóðina:"
+descomprime_MSG2="------------------------"
+descomprime_MSG3="ENGIN ÞJÁTTJAFINN FINN FYRIR"
+descomprime_MSG4="EÐA"
+descomprime_MSG5="ER EKKI TIL"
+descomprime_MSG6="Í gangi"
+descomprime_MSG7="óþjappað"
+descomprime_MSG8="Villa við að reyna að þjappa niður"
+

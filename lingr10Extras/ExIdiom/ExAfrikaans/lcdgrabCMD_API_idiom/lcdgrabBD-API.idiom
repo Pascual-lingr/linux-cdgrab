@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAfrikaans/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Afrikáans para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660-BEELD KORREK AANGENEEM OP BLU-RAY"
+grabar_ISO_BD_MSG2="FOUT BY DIE OPNEEM VAN BEELD OP BLU-RAY-SKYF"
+grabar_ISO_BD_MSG3="ISO-9660 BEELD IN BD"
+grabar_ISO_BD_MSG4="Spesifiseer die pad van die ISO-9660-prent om te brand:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Lêers en gidse om die .iso-beeld te skep"
+bd_datos_MSG2="DB ETIKET"
+# Se omite 'n por evitar errores de funcionamiento
+bd_datos_MSG3="Voer n naam vir die toekomstige BD in:"
+bd_datos_MSG4="Begin tans die lêerbestuurder:"
+bd_datos_MSG5=" SKEP BEELD . . ."
+bd_datos_MSG6="hardloop"
+bd_datos_MSG7="ISO-9660-BEELD INGESKEEP"
+bd_datos_MSG8="NEEM BD op"
+bd_datos_MSG13="VEE BEELD..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Die nodige formatering of uitvee word toegepas afhangende van die skyfstatus"
+borrar_BDRE_lb_MSG2="BD-RE SUKSESVOL GESKEE!!"
+borrar_BDRE_lb_MSG3="FOUT WANNEER BD-RE uitgevee word"

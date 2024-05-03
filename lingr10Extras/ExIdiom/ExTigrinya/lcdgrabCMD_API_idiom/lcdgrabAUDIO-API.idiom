@@ -1,0 +1,143 @@
+#########################################################
+# lcgdrabAPI_idiom/ExTigrinya/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en tigriña para el API de audio.
+# Traducción experimental. generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3 ፋይላት ንምቕያር"
+mp3awav_MSG0="መንገዲ ናይ .mp3 ፋይላት ኣእቱ: "
+mp3awav_MSG1="ምእማን"
+mp3awav_MSG1B=" ናብ .wav ፎርማት።"
+mp3awav_MSG2="ምጉያይ"
+mp3awav_MSG3="ናሙና ናብ 44100 ሜጋ ሄርዝ ተቐሚጡ።"
+mp3awav_MSG4="ናይ ጌጋ መስርሕ ናሙና።"
+mp3awav_MSG5="ምቕያር ኣይተኻእለን።"
+mp3awav_MSG6="ማእከል ኣይተረኽበን።"
+mp3awav_MSG7="መወዳእታ ምቕያር ድምጺ"
+mp3awav_MSG8="ናይ ድምጺ ፋይል ንቡር ምግባር"
+mp3awav_MSG9="ፋይል።"
+mp3awav_MSG10="ንቡር ዝኾነ"
+mp3awav_MSG11="ናይ ንቡር ምግባር ጌጋ"
+
+# oggawav
+
+oggawav_MSG0="OGG ፋይላት ክቕየሩ።"
+oggawav_MSG1="መንገዲ ናይ .ogg ፋይላት ኣእቱ: "
+oggawav_MSG2="ምእማን።"
+oggawav_MSG2B="ናይ .wav ፎርማት።"
+oggawav_MSG3="ምጉያይ"
+oggawav_MSG4="ናሙና ናብ 44100 ሜጋ ሄርዝ ተቐሚጡ።"
+oggawav_MSG5="ናይ ጌጋ መስርሕ ናሙና።"
+oggawav_MSG6="ምቕያር ኣይተኻእለን።"
+oggawav_MSG7="ማእከል ኣይተረኽበን።"
+oggawav_MSG8="መወዳእታ ሽፋን ድምጺ"
+oggawav_MSG9="ናይ ድምጺ ፋይል ንቡር ምግባር።"
+oggawav_MSG10="ፋይል።"
+oggawav_MSG11="ንቡር።"
+oggawav_MSG12="ናይ ንቡር ምግባር ጌጋ"
+
+# cdawav
+
+cdawav_MSG1="ሪፒንግ ኦድዮ ሲዲ..."
+cdawav_MSG2="ምፍጻም:"
+cdawav_MSG3="ብዓወት ዝበሰለ ናይ ድምጺ ትራክስ!!"
+cdawav_MSG4="ትሕዝቶ ናይ ድምጺ ፋይላት ማህደር።"
+cdawav_MSG5="ናይ ድምጺ ትራክ ኣብ ዝበስለሉ እዋን ጌጋ"
+
+# cddawav
+
+cddawav_MSG1="ብዝሒ ናይቶም ክትቅንጥጡ ዘለኩም ትራክታት ኣእትዉ:"
+cddawav_MSG2="ንሓደ ትራክ ምቕንጣጥ ንምስራዝ Crtl + c ንጽቀጥ።"
+cddawav_MSG3="ምፍጻም:"
+cddawav_MSG4="ብዓወት ተቐዲዱ።"
+cddawav_MSG5="ጌጋ ምቕንጣጥ።"
+
+# wavamp3
+
+wavamp3_MSG0="ዋቭ ፋይላት ንምቕያር።"
+wavamp3_MSG1="መንገዲ ናይ .wav ፋይላት ኣእቱ: "
+wavamp3_MSG1B="ምቕያር።"
+wavamp3_MSG2="ሓደ ፎርማት።"
+wavamp3_MSG3="ምፍጻም:"
+wavamp3_MSG4="ኣብ እንቕይረሉ እዋን።"
+wavamp3_MSG5="ናብ .MP3 ቅርጺ።"
+wavamp3_MSG6="ኣብ ምቕያር ጌጋ።"
+wavamp3_MSG7="ምቕያር ድምጺ ተዛዚሙ"
+wavamp3_MSG8="ማህደር ድምጺ ኣይተረኽበን"
+
+# cdamp3
+
+cdamp3_MSG1="ሪፒንግ ኦድዮ ሲዲ..."
+cdamp3_MSG2="ምፍጻም:"
+cdamp3_MSG3="ብዓወት ዝበሰለ ናይ ድምጺ ትራክስ!!"
+cdamp3_MSG4="ናይ ድምጺ ትራክ ክቕንጥጥ ከሎ ጌጋ"
+cdamp3_MSG5="ናይ ምድዋል ተግባር:"
+
+# wavaogg
+
+wavaogg_MSG1="መንገዲ ናይ .wav ፋይላት ኣእቱ: "
+wavaogg_MSG2="ምእማን።"
+wavaogg_MSG3="ናይ .ogg ቅርጺ።"
+wavaogg_MSG4="ይሰርሕ ኣሎ:"
+wavaogg_MSG5="ኣብ ምቕያር ጌጋ።"
+wavaogg_MSG6="ናብ .ogg ቅርጺ።"
+
+# cdaogg
+
+cdaogg_MSG1="ሪፒንግ ናይ ድምጺ ሲዲታት..."
+cdaogg_MSG2="ምፍጻም:"
+cdaogg_MSG3="ብዓወት ዝበሰለ ናይ ድምጺ ትራክስ!!"
+cdaogg_MSG4="ናይ ድምጺ ትራክ ኣብ ዝበስለሉ እዋን ጌጋ"
+cdaogg_MSG5="ናይ ምድዋል ተግባር:"
+
+# corta_wav
+
+corta_wav_MSG0="ብዝሒ ካልኢታት:"
+corta_wav_MSG1="መንገዲ ናይቲ ዝቕየር ድምጺ ፋይል ግለጽ:"
+corta_wav_MSG2="እቲ ግዜ ብብዝሒ ካልኢታት ግለጽ፣ ንዕኡ።"
+corta_wav_MSG3="ምቑራጽ ናይቲ ፋይል ክጅምር እዩ።"
+corta_wav_MSG4="-መተሓሳሰቢ-"
+corta_wav_MSG5="መጀመርታ ናይቲ ድምጺ ንምግላጽ 0 ኣእቱ።"
+corta_wav_MSG6="ዋጋ ኣብ ካልኢታት ምቕያር ንምጅማር:"
+corta_wav_MSG7="እቲ ግዜ ብብዝሒ ካልኢታት ግለጽ፣ ንዕኡ።"
+corta_wav_MSG8="ምቑራጽ ናይቲ ፋይል ክዛዘም እዩ።"
+corta_wav_MSG9="ዋጋ ብካልኢት ንመወዳእታ ምቕያር:"
+corta_wav_MSG10="ይጎዪ ኣሎ።"
+corta_wav_MSG11="ዝተቖርጸ ፋይል ድምጺ።"
+corta_wav_MSG12="ፋይል ኣብ ምቑራጽ ጌጋ ኣጋጢሙ።"
+corta_wav_MSG13="ናይ ድምጺ ፋይል ንምቑራጽ:"
+
+# flacawav
+
+flacawav_MSG0="ፍላክ/ዋቭ ድምጺ።"
+flacawav_MSG1="መንገዲ ናይ .flac ፋይላት ግለጽ:"
+flacawav_MSG2="ምእማን።"
+flacawav_MSG3=" ናብ .wav ቅርጺ።"
+flacawav_MSG4="ናሙና ናብ 44100 ሜጋ ሄርዝ ተቐሚጡ።"
+flacawav_MSG5="ናይ ጌጋ መስርሕ ናሙና።"
+flacawav_MSG6="ናይ ድምጺ ፋይል ንቡር ምግባር።"
+flacawav_MSG7="ፋይል።"
+flacawav_MSG8="ንቡር ዝኾነ።"
+flacawav_MSG9="ናይ ንቡር ምግባር ጌጋ"
+flacawav_MSG10="ምቕያር ኣይተኻእለን።"
+flacawav_MSG11="ማእከል ኣይተረኽበን።"
+flacawav_MSG12="መወዳእታ ምቕያር ድምጺ"
+
+# wavaflac
+
+wavaflac_MSG0="ዋቭ ፋይላት ክቕየሩ።"
+wavaflac_MSG1="መንገዲ ናይ .wav ፋይላት ኣእቱ: "
+wavaflac_MSG2="ምእማን።"
+wavaflac_MSG3="ናይ .flac ቅርጺ።"
+wavaflac_MSG4="ናብ flac ቅርጺ ተቐይሩ።"
+wavaflac_MSG5="ኣብ ምቕያር ጌጋ።"
+wavaflac_MSG6="ናብ .flac ቅርጺ።"
+# Resultado del traductor
+wavaflac_MSG7="FLAC FILE DIRECTORY ኣይተረኽበን።"
+

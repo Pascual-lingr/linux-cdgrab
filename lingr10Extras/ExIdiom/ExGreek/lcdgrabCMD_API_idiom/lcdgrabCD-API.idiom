@@ -1,0 +1,185 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGreek/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Griego para el API de grabación en CD.
+# Traducción experimetal, gnerado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="τρέξιμο"
+copia_bin_MSG2="--------------ΠΡΟΣΠΑΘΗΣΗ ΔΙΑΔΙΚΑΣΙΑΣ ΕΓΓΡΑΦΗΣ---------------"
+copia_bin_MSG3="	ΔΙΑΓΡΑΦΗ ΑΡΧΕΙΟΥ ΕΙΚΟΝΑΣ"
+copia_bin_MSG4="ΕΧΕΙ ΠΡΟΒΕΙ ΣΦΑΛΜΑ ΣΤΗΝ ΚΑΤΑΓΡΑΦΗ"
+copia_bin_MSG5="Δεν είναι δυνατή η εύρεση του αρχείου ένδειξης εικόνας δίσκου .iso. Διακοπή εγγραφής..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="τρέξιμο"
+datos_al_vuelo_MSG2="Αποτυχία προσπάθειας εγγραφής, επανάληψη χωρίς υποστήριξη overburn"
+datos_al_vuelo_MSG3="Ελέγξτε ότι ο δίσκος ή η συσκευή προέλευσης"
+datos_al_vuelo_MSG4="είναι σε καλή κατάσταση"
+datos_al_vuelo_MSG5="Λήψη αριθμού μπλοκ απαγωγών από τον δίσκο προέλευσης"
+datos_al_vuelo_MSG6="ΑΝΤΙΓΡΑΦΗ ΔΙΣΚΟΥ..."
+
+# clonar_cd
+
+clonar_cd_MSG1="τρέξιμο"
+clonar_cd_MSG2="Το CD ΚΛΩΝοποιήθηκε με επιτυχία"
+clonar_cd_MSG3="ΕΝΑ ΣΦΑΛΜΑ ΣΥΝΕΒΗΘΗΚΕ ΚΑΤΑ ΤΗΝ ΚΛΩΝΟΠΟΙΗΣΗ ΤΟΥ CD"
+
+# datos
+
+datos_MSG1="Αρχεία και κατάλογοι για τη δημιουργία της εικόνας .iso"
+datos_MSG2="ΕΤΙΚΕΤΑ CD/DVD/BD"
+datos_MSG3="Εισαγάγετε ένα όνομα για το μελλοντικό CD/DVD/BD:"
+datos_MSG4="Εκκίνηση της διαχείρισης αρχείων:"
+datos_MSG5=" ΔΗΜΙΟΥΡΓΙΑ ΕΙΚΟΝΑΣ ...."
+datos_MSG6="τρέχει"
+datos_MSG7="Η ΕΙΚΟΝΑ ISO-9660 ΔΗΜΙΟΥΡΓΗΘΗΚΕ ΣΤΟ"
+datos_MSG8="ΕΓΓΡΑΦΗ CD/DVD/BD"
+datos_MSG9="Η ΔΙΑΔΙΚΑΣΙΑ ΔΗΜΙΟΥΡΓΙΑΣ ΑΡΧΕΙΟΥ ΕΙΚΟΝΑΣ ΑΠΟΤΥΧΕ"
+datos_MSG10="ΠΡΟΣΠΑΘΗΣΗ ΔΗΜΙΟΥΡΓΙΑΣ ΝΕΟΥ ΧΩΡΙΣ ΥΠΟΣΤΗΡΙΞΗ ΓΙΑ HFS (Macintosh)"
+datos_MSG11="ΔΙΑΓΡΑΦΗ ΕΙΚΟΝΑΣ . . ."
+datos_MSG12="ΔΗΜΙΟΥΡΓΙΑ ΝΕΑΣ ΕΙΚΟΝΑΣ . . ."
+datos_MSG13="ΔΕΝ ΕΓΙΝΕ ΔΥΝΑΤΟΝ ΝΑ ΕΓΓΡΑΦΕΙ ΣΩΣΤΑ"
+datos_MSG14="------------ΕΠΑΝΑΛΗΨΗ ΔΙΑΔΙΚΑΣΙΑΣ ΕΓΓΡΑΦΗΣ-----------"
+datos_MSG15="ΔΙΑΓΡΑΦΗ ΕΙΚΟΝΑΣ..."
+datos_MSG16="ΕΓΓΡΑΦΗ ΔΕΔΟΜΕΝΩΝ ISO-9660 CD/DVD/BD..."
+datos_MSG17="Δεν βρέθηκε."
+datos_MSG18="Διακοπή εγγραφής δίσκου..."
+
+# datoslb
+
+datoslb_MSG1="Σφάλμα: Δεν είναι δυνατή η εύρεση του αρχείου εικόνας. Ακύρωση..."
+datoslb_MSG2="Η ΔΙΑΔΙΚΑΣΙΑ ΕΓΓΡΑΦΗΣ ΟΚ"
+datoslb_MSG3="ΣΦΑΛΜΑ ΣΤΗ ΔΙΑΔΙΚΑΣΙΑ ΗΧΟΓΡΑΦΗΣΗΣ"
+
+# borra
+
+borra_MSG0="Προηγούμενο μενού"
+borra_MSG1="Επιλέξτε τον τρόπο διαγραφής του CD-RW"
+borra_MSG2="---------------------------------"
+borra_MSG3="Γρήγορη διαγραφή (χρήση cdrecord)"
+borra_MSG4="Ολοκλήρωση διαγραφής (χρήση cdrecord)"
+borra_MSG5="Απαιτείται διαγραφή (χρησιμοποιήστε cdrskin)"
+borra_MSG6="τρέχει"
+borra_MSG7="Η απαραίτητη μορφοποίηση ή διαγραφή εφαρμόζεται ανάλογα με την κατάσταση του δίσκου"
+borra_MSG8="Το CD-RW ΔΙΑΓΡΑΦΗΚΕ ΕΠΙΤΥΧΙΑ!!"
+borra_MSG9="ΣΦΑΛΜΑ ΚΑΤΑ ΔΙΑΓΡΑΦΗ CD-RW"
+borra_MSG10="ΑΝΑΓΚΑΣΤΕ ΔΙΑΓΡΑΦΗ CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="ΣΦΑΛΜΑ ΟΤΑΝ ΠΡΟΣΠΑΘΕΙΤΕ ΝΑ ΣΒΗΣΕΤΕ ΤΟ CD-RW"
+err_borra_cdrw_MSG2="CD-RW ΜΗ ΧΡΗΣΙΜΟΠΟΙΗΜΕΝΟ"
+err_borra_cdrw_MSG3="ΔΕΝ ΕΙΝΑΙ ΔΥΝΑΤΟΝ ΝΑ ΔΙΑΓΡΑΨΕΙΣ ΑΥΤΟ το CD-RW"
+err_borra_cdrw_MSG4="ΕΛΕΓΞΤΕ ΟΤΙ ΤΟ CD-RW ΔΕΝ ΕΙΝΑΙ ΦΥΣΙΚΗ ΒΛΑΒΗ"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="τρέχει"
+cerrar_cd_MSG2="ΤΟ CD ΕΧΕΙ ΚΛΕΙΣΕΙ ΣΩΣΤΑ"
+cerrar_cd_MSG3="ΣΦΑΛΜΑ ΚΑΤΑ ΤΟ ΚΛΕΙΣΙΜΟ ΤΟΥ CD"
+cerrar_cd_MSG4="ΚΛΕΙΣΙΜΟ ΚΟΜΜΑΤΙΟΥ ΣΕ DATA CD . . .."
+
+# grabimg
+
+grabimg_MSG1=".iso ή .ext2 εικόνα για εγγραφή σε CD/DVD"
+grabimg_MSG2="Εκκίνηση της διαχείρισης αρχείων."
+grabimg_MSG3="Πληκτρολογήστε την πλήρη διαδρομή όπου βρίσκεται η εικόνα CD/DVD που θέλετε να εγγράψετε:"
+grabimg_MSG4="τρέχει"
+grabimg_MSG5="-----------ΕΠΑΝΕΞΑΓΩΓΗ ΔΙΑΔΙΚΑΣΙΑΣ ΕΓΓΡΑΦΗΣ-----------"
+grabimg_MSG6="Η ΕΓΓΡΑΦΗ ΟΛΟΚΛΗΡΩΘΗΚΕ!!"
+grabimg_MSG7="Η ΕΙΚΟΝΑ .EXT2 ΕΓΓΡΑΦΗΚΕ ΜΕ ΕΠΙΤΥΧΙΑ"
+
+# grabimglb
+
+grabimglb_MSG1="Πληκτρολογήστε την πλήρη διαδρομή όπου βρίσκεται η εικόνα CD/DVD που θέλετε να εγγράψετε:"
+grabimglb_MSG2="Εγγραφή εικόνας σε δίσκο..."
+grabimglb_MSG3="Η ΕΙΚΟΝΑ ISO-9660 ΕΓΓΡΑΦΗΚΕ ΜΕ ΕΠΙΤΥΧΙΑ"
+grabimglb_MSG4="ΣΦΑΛΜΑ ΣΤΗΝ ΚΑΤΑΓΡΑΦΗ ΤΗΣ ΕΙΚΟΝΑΣ ISO-9660"
+grabimglb_MSG5="Σφάλμα: Το αρχείο εικόνας δεν βρέθηκε. Ακύρωση..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin και αρχεία .cue για την εγγραφή της εικόνας"
+grabimg_cue_MSG2="Για να εγγράψετε την εικόνα bin/cue, και τα δύο αρχεία πρέπει να είναι"
+grabimg_cue_MSG3="να είστε στον ενεργό κατάλογο."
+grabimg_cue_MSG4="Τρέχων ενεργός κατάλογος"
+grabimg_cue_MSG5="Εισαγάγετε το όνομα του αρχείου *.cue που αναφέρεται στο αρχείο εικόνας *.bin"
+grabimg_cue_MSG6=".cue αρχείο: "
+grabimg_cue_MSG7="τρέχει"
+grabimg_cue_MSG8="Η ΕΓΓΡΑΦΗ ΟΛΟΚΛΗΡΩΘΗΚΕ!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Εγγραφή CD-Multisesion από εικόνα .iso"
+cd_multi_MSG2="Εγγραφή μιας πρώτης συνεδρίας στο CD από μια εικόνα .iso"
+cd_multi_MSG3="Εγγραφή CD-Multisesion από αρχεία στο δίσκο"
+cd_multi_MSG4="Εγγραφή διαδοχικών περιόδων λειτουργίας στο CD από αρχεία στον σκληρό δίσκο"
+cd_multi_MSG5="Αυτή η επιλογή απαιτεί ένα CD πολλαπλών περιόδων σύνδεσης, με μια προηγούμενη εγγραφή."
+cd_multi_MSG6="Προηγούμενο μενού"
+cd_multi_MSG7=".iso εικόνα για εγγραφή σε CD-Multisesion"
+cd_multi_MSG8="Καθορίστε τη διαδρομή της εικόνας .iso"
+cd_multi_MSG9="τρέχει"
+cd_multi_MSG10="ΕΓΓΡΑΦΗΚΕ ΜΕ ΕΠΙΤΥΧΙΑ ΠΟΛΛΑΠΛΕΣ ΣΕΛΙΔΕΣ CD!!"
+cd_multi_MSG11="Κατάλογοι που θα συμπεριληφθούν στην εικόνα."
+cd_multi_MSG12="Καθορίστε παρακάτω ποιους καταλόγους θα συμπεριλάβετε"
+cd_multi_MSG13="Εισαγάγετε ένα όνομα για την ετικέτα του CD:"
+cd_multi_MSG14="ΔΗΜΙΟΥΡΓΙΑ ΕΙΚΟΝΑΣ..."
+cd_multi_MSG15="ΔΗΜΙΟΥΡΓΗΘΗΚΕ ΜΕ ΕΠΙΤΥΧΙΑ"
+cd_multi_MSG16="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗ ΔΗΜΙΟΥΡΓΙΑ ΤΗΣ ΕΙΚΟΝΑΣ. ΑΠΟΡΡΙΜΕΝΗ ΔΙΑΔΙΚΑΣΙΑ ΗΧΟΓΡΑΦΗΣΗΣ..."
+cd_multi_MSG17="ΕΓΓΡΑΦΗ ΕΙΚΟΝΑΣ CD..."
+cd_multi_MSG18="MENU CD MULTISESION"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="RIPPING AUDIO CD..."
+copia_cd_audio_MSG2="Εκτέλεση"
+copia_cd_audio_MSG3="ΤΑ ΗΧΗΤΙΚΑ ΚΟΜΜΑΤΙΑ ΩΡΕΨΑΝ ΜΕ ΕΠΙΤΥΧΙΑ!!"
+copia_cd_audio_MSG4="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΑΝΤΙΓΡΑΦΗ ΤΩΝ ΚΟΜΜΑΤΩΝ ΗΧΟΥ"
+copia_cd_audio_MSG5="ΕΓΓΡΑΦΗ CD AUDIO..."
+copia_cd_audio_MSG6="Το CD AUDIO ΑΝΤΙΓΡΑΦΗ ΕΠΙΤΥΧΙΑ!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav αρχεία για εγγραφή σε CD"
+wav_a_cd_MSG2="Το Linux-cdgrab δεν θα ελέγχει το μέγεθος καταλόγου"
+wav_a_cd_MSG3="Βεβαιωθείτε ότι δεν είναι περισσότερα από 650 Mbyte σε περίπτωση"
+wav_a_cd_MSG4="εάν χρησιμοποιείτε CD διάρκειας 80 λεπτών."
+wav_a_cd_MSG5="Εισαγάγετε τη διαδρομή καταλόγου των αρχείων .wav"
+wav_a_cd_MSG6="τρέχει"
+wav_a_cd_MSG7="Η ΔΙΑΔΙΚΑΣΙΑ ΟΛΟΚΛΗΡΩΘΗΚΕ!"
+
+# cdmixto
+
+cdmixto_MSG1="Έργο δημιουργίας CD-Mixto (Εικόνα δεδομένων .iso + Αρχεία ήχου .wav)"
+cdmixto_MSG2="Το Linux-cdgrab δεν θα ελέγχει το μέγεθος καταλόγου"
+cdmixto_MSG3="πού βρίσκονται τα αρχεία ήχου."
+cdmixto_MSG4="Ούτε θα το κάνει από την εικόνα .iso που πρόκειται να εγγράψετε"
+cdmixto_MSG5="μετά."
+cdmixto_MSG6="Να είστε συνεπείς με το μέγεθος που έχετε"
+cdmixto_MSG7="εγγραφή στο νέο σας CD."
+cdmixto_MSG8="Καθορίστε τη διαδρομή των αρχείων ήχου:"
+cdmixto_MSG9="Καθορίστε τη διαδρομή εικόνας iso:"
+cdmixto_MSG10="###############################"
+cdmixto_MSG11="ΕΓΓΡΑΦΗ ΜΙΚΤΟΣ CD: DATA + AUDIO"
+cdmixto_MSG12="τρέχει"
+cdmixto_MSG13="----MIXED-CD ΔΗΜΙΟΥΡΓΗΘΗΚΕ ΕΠΙΤΥΧΙΑ-----!!"
+cdmixto_MSG14="------ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΕΓΓΡΑΦΗ του CD-MIXED--------"
+
+# discoinfo
+
+discoinfo_MSG1="τρέξιμο"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="Η θύρα IDE/SCSI σαρώθηκε"
+cdrecord_scan_MSG1="Σφάλμα σάρωσης θύρας IDE/SCSI"
+cdrecord_scan_MSG2="Το Cdrecord δεν βρέθηκε"
+
+

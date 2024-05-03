@@ -1,0 +1,55 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en georgiano para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="მოწყობილობები, რომლებიც ამჟამად დამონტაჟებულია სისტემაში"
+montar_dispositivos_MSG1B="მოწყობილობის აწყობა/ამოწყობა"
+# Resultado del traductor
+montar_dispositivos_MSG2="LINUX-CDGRAB OPTIONS"
+montar_dispositivos_MSG3="დისკის ამოღება CD/DVD/BD მკითხველიდან"
+montar_dispositivos_MSG4="დისკის ამოღება CD/DVD/BD ჩამწერიდან"
+montar_dispositivos_MSG5="CD-ROM/DVD-ROM/BD-ROM მკითხველის დაყენება"
+montar_dispositivos_MSG6="მოხსნა CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="მოწყობილობის დამონტაჟება ან დემონტაჟი ხელით"
+montar_dispositivos_MSG0="წინა მენიუ"
+montar_dispositivos_MSG8="დამაგრებულია CD/DVD/BD"
+montar_dispositivos_MSG9="გაგრძელებისთვის დააჭირეთ ENTER..."
+montar_dispositivos_MSG10="შეცდომა CD/DVD/BD-ზე დაყენებისას"
+montar_dispositivos_MSG11="CD/DVD/BD დამონტაჟდა"
+montar_dispositivos_MSG12="შეცდომა CD/DVD/BD-ის მოხსნისას"
+montar_dispositivos_MSG13="აკრიფეთ მოწყობილობა დასამონტაჟებლად/გადასამაგრებლად:"
+montar_dispositivos_MSG14="შეიყვანეთ დამაგრების წერტილი:"
+montar_dispositivos_MSG15="არ შეესაბამება ბლოკის მოწყობილობას"
+montar_dispositivos_MSG16="დამაგრების წერტილი ვერ მოიძებნა"
+montar_dispositivos_MSG17="სამონტაჟო ნაგულისხმევი წერტილი"
+montar_dispositivos_MSG18="აირჩიე ვარიანტი:"
+montar_dispositivos_MSG19="დაამონტაჟეთ"
+# Resultado del traductor
+montar_dispositivos_MSG20="in"
+montar_dispositivos_MSG21="მოხსნა"
+montar_dispositivos_MSG22="დან"
+montar_dispositivos_MSG23="დამონტაჟდა:"
+mount_devices_MSG24="შეცდომა დამონტაჟებისას"
+# Resultado del traductor
+montar_dispositivos_MSG25="EN"
+montar_dispositivos_MSG26="მოხსნილია"
+montar_dispositivos_MSG27="შეცდომა მოხსნისას"
+montar_dispositivos_MSG28="დან"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="დამაგრების ბრძანების გამომავალი"
+Montar_Imagenes_MSG1B="სურათის ფაილების აწყობა/აშლა"
+Montar_Imagenes_MSG2="აირჩიე ვარიანტი"
+Montar_Imagenes_MSG3="CD/DVD/BD სურათის დამონტაჟება"
+Montar_Imagenes_MSG4="CD/DVD/BD გამოსახულების მოხსნა"
+Montar_Imagenes_MSG5="წინა მენიუ"
+

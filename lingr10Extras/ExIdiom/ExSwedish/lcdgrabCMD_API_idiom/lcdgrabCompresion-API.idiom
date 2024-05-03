@@ -1,0 +1,54 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwedish/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en sueco para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Ange sökvägen till filen eller katalogen:"
+empaquetar_MSG2="------- alternativ -------"
+empaquetar_MSG3="Generera .tar.gz-fil"
+empaquetar_MSG4="Generera .tar.bz2-fil"
+empaquetar_MSG5="Skriv ett alternativ: "
+empaquetar_MSG6="Kör"
+empaquetar_MSG7="Ogiltigt alternativ"
+
+# desempaquetar
+
+desempaquetar_MSG1="Ange filsökvägen:"
+desempaquetar_MSG2="INGEN DEKOMPRESSOR HITTADE FÖR"
+desempaquetar_MSG3="ELLER"
+desempaquetar_MSG4="FINNS INTE"
+desempaquetar_MSG5="Kör"
+desempaquetar_MSG6="uppackad"
+desempaquetar_MSG7="Fel vid försök att packa upp"
+
+# comprime
+
+comprime_MSG1="KOMPRESSERAR BILD"
+comprime_MSG2="Komprimera med bzip2"
+comprime_MSG3="Komprimera med gzip"
+comprime_MSG4="Komprimera med xz"
+comprime_MSG5="Föregående meny"
+comprime_MSG6="Kör"
+comprime_MSG7="Komprimering av bildfil slutförd"
+comprime_MSG8="Fel vid komprimering med"
+comprime_MSG9="Ogiltig kompressor"
+
+# descomprime
+
+descomprime_MSG1="Skriv filsökvägen:"
+descomprime_MSG2="------------------"
+descomprime_MSG3="INGEN DEKOMPRESSOR HITTADE FÖR"
+descomprime_MSG4="ELLER"
+descomprime_MSG5="FINNS INTE"
+descomprime_MSG6="Kör"
+descomprime_MSG7="okomprimerad"
+descomprime_MSG8="Fel vid försök att dekomprimera"
+

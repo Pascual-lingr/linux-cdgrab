@@ -1,0 +1,188 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Lao para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="ແລ່ນ"
+copia_bin_MSG2="--------------ກຳລັງລອງຂະບວນການບັນທຶກໃໝ່---------------"
+copia_bin_MSG3="	ກຳລັງລຶບໄຟລ໌ຮູບ"
+copia_bin_MSG4="ມີຂໍ້ຜິດພາດເກີດຂຶ້ນໃນການບັນທຶກ"
+copia_bin_MSG5="ບໍ່ສາມາດຊອກເຫັນໄຟລ໌ dump ຮູບພາບຂອງ disk .iso. ກຳລັງຍົກເລີກການບັນທຶກ..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="ແລ່ນ"
+datos_al_vuelo_MSG2="ຄວາມ​ພະ​ຍາ​ຍາມ​ການ​ບັນ​ທຶກ​ຜິດ​ພາດ​, ລອງ​ໃຫມ່​ໂດຍ​ບໍ່​ມີ​ການ​ຮອງ​ຮັບ overburn​"
+datos_al_vuelo_MSG3="ກວດ​ເບິ່ງ​ວ່າ​ແຫຼ່ງ​ແຜ່ນ​ຫຼື​ອຸ​ປະ​ກອນ"
+datos_al_vuelo_MSG4="ຢູ່ໃນສະພາບດີ"
+datos_al_vuelo_MSG5="ການໄດ້ຮັບຈໍານວນຕົວບລັອກທີ່ນຳໜ້າຈາກແຜ່ນທີ່ມາ"
+datos_al_vuelo_MSG6="ອັດສຳເນົາແຜ່ນ..."
+
+# clonar_cd
+
+clonar_cd_MSG1="ແລ່ນ"
+clonar_cd_MSG2="ໂຄນ CD ສຳເລັດແລ້ວ"
+clonar_cd_MSG3="ເກີດຄວາມຜິດພາດຂຶ້ນໃນຂະນະທີ່ກຳລັງໂຄນ CD​"
+
+# datos
+
+datos_MSG1="ໄຟລ໌ ແລະໄດເລກະທໍລີເພື່ອສ້າງຮູບພາບ .iso"
+datos_MSG2="CD/DVD/BD LABEL"
+datos_MSG3="ໃສ່ຊື່ສໍາລັບ CD/DVD/BD ໃນອະນາຄົດ:"
+datos_MSG4="ເປີດຕົວຈັດການໄຟລ໌:"
+datos_MSG5=" ການສ້າງຮູບພາບ ... ."
+datos_MSG6="ແລ່ນ"
+datos_MSG7="ISO-9660 ສ້າງຮູບພາບໃນ"
+datos_MSG8="ການເຜົາໄຫມ້ CD/DVD/BD"
+datos_MSG9="ຂະບວນການສ້າງໄຟລ໌ຮູບພາບລົ້ມເຫລວ"
+datos_MSG10="ພະຍາຍາມສ້າງອັນໃໝ່ໂດຍທີ່ບໍ່ຮອງຮັບ HFS (Macintosh)"
+datos_MSG11="ລຶບຮູບພາບ ..."
+datos_MSG12="ການ​ສ້າງ​ຮູບ​ພາບ​ໃຫມ່ ... ."
+datos_MSG13="ມັນບໍ່ສາມາດບັນທຶກໄດ້ຢ່າງຖືກຕ້ອງ"
+datos_MSG14="------------ ຂັ້ນຕອນການບັນທຶກຄືນໃໝ່ ------------"
+datos_MSG15="ລຶບ IMAGE..."
+datos_MSG16="ການເຜົາໄຫມ້ຂໍ້ມູນ ISO-9660 CD/DVD/BD..."
+datos_MSG17="ບໍ່ພົບ."
+datos_MSG18="ການຍົກເລີກການບັນທຶກແຜ່ນ..."
+
+# datoslb
+
+datoslb_MSG1="ຂໍ້ຜິດພາດ: ບໍ່ສາມາດຊອກຫາໄຟລ໌ຮູບພາບໄດ້. ກຳລັງຍົກເລີກ..."
+datoslb_MSG2="ຂັ້ນຕອນການບັນທຶກຕົກລົງ"
+datoslb_MSG3="ຜິດພາດໃນຂະບວນການບັນທຶກ"
+
+# borra
+
+borra_MSG0="ເມນູກ່ອນໜ້າ"
+borra_MSG1="ເລືອກໂໝດເພື່ອລຶບ CD-RW"
+borra_MSG2="------------------"
+borra_MSG3="ລຶບດ່ວນ (ໃຊ້ cdrecord)"
+borra_MSG4="ລຶບໃຫ້ຄົບຖ້ວນ (ໃຊ້ cdrecord)"
+borra_MSG5="ຕ້ອງການລຶບ (ໃຊ້ cdrskin)"
+borra_MSG6="ແລ່ນ"
+borra_MSG7="ການ​ຈັດ​ຮູບ​ແບບ​ທີ່​ຈໍາ​ເປັນ​ຫຼື​ການ​ລົບ​ແມ່ນ​ໄດ້​ຮັບ​ການ​ນໍາ​ໃຊ້​ຂຶ້ນ​ກັບ​ສະ​ຖາ​ນະ​ພາບ disk"
+borra_MSG8="CD-RW ລຶບສຳເລັດແລ້ວ!!"
+borra_MSG9="ຜິດພາດເມື່ອລຶບ CD-RW"
+delete_MSG10="ບັງຄັບໃຫ້ລຶບ CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="ຜິດພາດເມື່ອພະຍາຍາມລຶບ CD-RW"
+err_borra_cdrw_MSG2="CD-RW ໃຊ້ບໍ່ໄດ້"
+err_borra_cdrw_MSG3="ມັນເປັນໄປບໍ່ໄດ້ທີ່ຈະລຶບ CD-RW ນີ້"
+err_borra_cdrw_MSG4="ກວດເບິ່ງ CD-RW ສໍາລັບຄວາມເສຍຫາຍທາງດ້ານຮ່າງກາຍ"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="ແລ່ນ"
+cerrar_cd_MSG2="ແຜ່ນ CD ໄດ້ຖືກປິດຢ່າງຖືກຕ້ອງ"
+cerrar_cd_MSG3="ຄວາມຜິດພາດເມື່ອປິດແຜ່ນຊີດີ"
+cerrar_cd_MSG4="ການປິດການຕິດຕາມຂໍ້ມູນໃນ CD ..."
+
+# grabimg
+
+grabimg_MSG1=".iso ຫຼື .ext2 ຮູບ​ພາບ​ທີ່​ຈະ​ໄຫມ້​ກັບ CD/DVD"
+grabimg_MSG2="ເປີດຕົວຈັດການໄຟລ໌."
+grabimg_MSG3="ພິມເສັ້ນທາງເຕັມທີ່ຮູບພາບ CD/DVD ທີ່ທ່ານຕ້ອງການຈະໄຫມ້ຢູ່:"
+grabimg_MSG4="ແລ່ນ"
+grabimg_MSG5="----------- ຂັ້ນຕອນການບັນທຶກຄືນໃໝ່ ------------"
+grabimg_MSG6="ບັນທຶກສຳເລັດແລ້ວ!!"
+grabimg_MSG7="ໄຟລ໌ .EXT2 ຮູບພາບສຳເລັດແລ້ວ"
+
+# grabimglb
+
+grabimglb_MSG1="ພິມເສັ້ນທາງເຕັມບ່ອນທີ່ຮູບພາບ CD/DVD ທີ່ທ່ານຕ້ອງການຈະໄຫມ້ຢູ່:"
+grabimglb_MSG2="ກຳລັງເຜົາຮູບໃສ່ແຜ່ນ..."
+grabimglb_MSG3="ISO-9660 ບັນທຶກຮູບພາບສຳເລັດແລ້ວ"
+grabimglb_MSG4="ຜິດພາດໃນການບັນທຶກພາບ ISO-9660"
+grabimglb_MSG5="ຂໍ້ຜິດພາດ: ບໍ່ພົບໄຟລ໌ຮູບພາບ. ກຳລັງຍົກເລີກ..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin ແລະ .cue ໄຟລ໌ເພື່ອບັນທຶກຮູບພາບ"
+grabimg_cue_MSG2="ເພື່ອບັນທຶກຮູບພາບ bin/cue, ທັງສອງໄຟລ໌ຈະຕ້ອງ"
+grabimg_cue_MSG3="ຢູ່ໃນໄດເລກະທໍລີທີ່ໃຊ້ຢູ່."
+grabimg_cue_MSG4="ໄດເລກະທໍລີທີ່ໃຊ້ໃນປະຈຸບັນ"
+grabimg_cue_MSG5="ໃສ່ຊື່ຂອງໄຟລ໌ *.cue ທີ່ອ້າງອີງໄຟລ໌ຮູບພາບ *.bin"
+# Resultado del traductor
+grabimg_cue_MSG6=".cue file: "
+grabimg_cue_MSG7="ແລ່ນ"
+grabimg_cue_MSG8="ບັນທຶກສຳເລັດແລ້ວ!!"
+
+# graba un CD multisesion
+
+# Resultado del traductor
+cd_multi_MSG1="ເຜົາ Multisession CD ຈາກຮູບ .iso"
+cd_multi_MSG2="ເຜົາເຊສຊັນທຳອິດໃສ່ແຜ່ນຊີດີຈາກຮູບ .iso"
+# Resultado del traductor
+cd_multi_MSG3="ເຜົາ CD-Multi-session ຈາກໄຟລ໌ໃນແຜ່ນ"
+cd_multi_MSG4="ບັນທຶກເຊດຊັນຕໍ່ເນື່ອງໃສ່ແຜ່ນຊີດີຈາກໄຟລ໌ໃນຮາດດິດ"
+cd_multi_MSG5="ຕົວເລືອກນີ້ຕ້ອງການ CD ຫຼາຍເຊດຊັນ, ກັບເຊດຊັນທີ່ບັນທຶກໄວ້ໃນເມື່ອກ່ອນ."
+cd_multi_MSG6="ເມນູກ່ອນໜ້າ"
+cd_multi_MSG7="ຮູບ .iso ທີ່ຈະໄຫມ້ເປັນ CD-Multi-session"
+cd_multi_MSG8="ລະບຸເສັ້ນທາງຂອງຮູບ .iso"
+cd_multi_MSG9="ແລ່ນ"
+cd_multi_MSG10="ບັນທຶກ CD ຫຼາຍເຊດຊັນສຳເລັດແລ້ວ"
+cd_multi_MSG11="ໄດເລກະທໍລີທີ່ຈະລວມຢູ່ໃນຮູບ."
+cd_multi_MSG12="ລະບຸລຸ່ມນີ້ວ່າລາຍການໃດຈະລວມເອົາ"
+cd_multi_MSG13="ໃສ່ຊື່ສຳລັບປ້າຍກຳກັບ CD:"
+cd_multi_MSG14="ກຳລັງສ້າງຮູບ..."
+cd_multi_MSG15="ສ້າງສຳເລັດແລ້ວ"
+cd_multi_MSG16="ຜິດ​ພາດ​ໃນ​ເວ​ລາ​ທີ່​ການ​ສ້າງ​ຮູບ​ພາບ​."
+cd_multi_MSG17="ກຳລັງເຜົາຮູບ CD..."
+cd_multi_MSG18="ເມນູ CD ຫຼາຍເຊດຊັນ"
+
+# copia_cd_audio
+
+# Resultado del traductor
+copia_cd_audio_MSG1="RIP ສຽງ CDs..."
+copia_cd_audio_MSG2="ແລ່ນ"
+copia_cd_audio_MSG3="ຕິດຕາມສຽງເພງສຳເລັດແລ້ວ!!"
+copia_cd_audio_MSG4="ຜິດພາດເມື່ອກຳລັງສົ່ງສຽງເພງ"
+copia_cd_audio_MSG5="ການເຜົາໄຫມ້ CD Audio..."
+copia_cd_audio_MSG6="AUDIO CD ສຳເລັດແລ້ວ!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav ໄຟລ໌ທີ່ຈະເຜົາໄຫມ້ໃສ່ CD"
+wav_a_cd_MSG2="Linux-cdgrab ຈະບໍ່ກວດສອບຂະຫນາດໄດເລກະທໍລີ"
+wav_a_cd_MSG3="ໃຫ້ແນ່ໃຈວ່າມັນບໍ່ເກີນ 650 Mbytes ໃນກໍລະນີ"
+wav_a_cd_MSG4="ຖ້າທ່ານໃຊ້ CD 80 ນາທີ."
+wav_a_cd_MSG5="ໃສ່ເສັ້ນທາງໄດເລກະທໍລີຂອງໄຟລ໌ .wav"
+wav_a_cd_MSG6="ແລ່ນ"
+wav_a_cd_MSG7="ຂັ້ນຕອນສຳເລັດແລ້ວ!"
+
+# cdmixto
+
+cdmixto_MSG1="ໂຄງການສ້າງ CD-Mixto ຮູບພາບຂໍ້ມູນ .iso + ໄຟລ໌ສຽງ .wav"
+cdmixto_MSG2="Linux-cdgrab ຈະບໍ່ກວດສອບຂະຫນາດໄດເລກະທໍລີ"
+cdmixto_MSG3="ໄຟລ໌ສຽງຢູ່ໃສ."
+cdmixto_MSG4="ຫຼືມັນຈະບໍ່ເຮັດຈາກຮູບ .iso ທີ່ເຈົ້າຈະບັນທຶກ"
+cdmixto_MSG5="ຫຼັງ."
+cdmixto_MSG6="ສອດຄ່ອງກັບຂະໜາດທີ່ເຈົ້າມີ"
+cdmixto_MSG7="ຈູດໃສ່ CD ໃໝ່ຂອງເຈົ້າ."
+cdmixto_MSG8="ລະບຸເສັ້ນທາງຂອງໄຟລ໌ສຽງ:"
+cdmixto_MSG9="ລະບຸເສັ້ນທາງຮູບພາບ iso:"
+cdmixto_MSG10="#########################"
+cdmixto_MSG11="ການບັນທຶກ CD ປະສົມ: ຂໍ້ມູນ + ສຽງ"
+cdmixto_MSG12="ແລ່ນ"
+cdmixto_MSG13="¡¡----ສ້າງ CD ປະສົມສຳເລັດແລ້ວ-----!!"
+cdmixto_MSG14="------ຜິດພາດໃນເວລາເຜົາ CD ປະສົມ--------"
+
+# discoinfo
+
+discoinfo_MSG1="ແລ່ນ"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI ພອດສະແກນແລ້ວ"
+cdrecord_scan_MSG1="ຜິດພາດໃນການສະແກນ IDE/SCSI port"
+cdrecord_scan_MSG2="ບໍ່ພົບ cdrecord"
+

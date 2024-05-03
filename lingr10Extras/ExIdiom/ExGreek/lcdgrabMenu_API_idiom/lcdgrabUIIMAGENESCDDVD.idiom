@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGreek/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al griego, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="ΔΗΜΙΟΥΡΓΙΑ ΚΑΙ ΘΕΡΑΠΕΙΑ ΣΤΙΣ ΕΙΚΟΝΕΣ ΔΙΣΚΟΥ"
+MenuImagen_MSG2="------------- ΔΗΜΙΟΥΡΓΙΑ ΕΙΚΟΝΑΣ --------------"
+MenuImagen_MSG3="Δημιουργία εικόνας ISO-9660"
+MenuImagen_MSG4="Δημιουργία εικόνας με εγγενές σύστημα αρχείων Linux"
+MenuImagen_MSG5="Δημιουργία εικόνας .img οποιασδήποτε συσκευής μπλοκ"
+MenuImagen_MSG6="Δημιουργία εικόνας .bin .cue από την τρέχουσα συσκευή"
+MenuImagen_MSG7="--------------- ΑΛΛΕΣ ΕΠΙΛΟΓΕΣ ----------------"
+MenuImagen_MSG8="Δημιουργία αρχείου περιγραφής .cue από εικόνα .bin"
+MenuImagen_MSG9="Μετατροπή εικόνας .nrg (Nero Burning ROM) σε .iso"
+MenuImagen_MSG10="Συμπίεση εικόνας με gzip, bzip2 ή xz"
+MenuImagen_MSG11="Αποσυμπίεση εικόνας σε zip, gz, bz2 ή xz"
+MenuImagen_MSG11B="Ελέγξτε το άθροισμα md5 των εικόνων iso"
+MenuImagen_MSG12="Αλλαγή της λειτουργίας iso"
+MenuImagen_MSG0="Προηγούμενο μενού"
+MenuImagen_MSG13="Αρχείο εικόνας προς συμπίεση"
+MenuImagen_MSG14="ΣΥΜΠΙΕΣΗ ΑΡΧΕΙΟΥ ΕΙΚΟΝΑΣ"
+MenuImagen_MSG15="Πληκτρολογήστε τη διαδρομή καταλόγου όπου βρίσκεται η εικόνα που θέλετε να συμπιέσετε:"
+MenuImagen_MSG16="Αρχείο εικόνας που θέλετε να αποσυμπιέσετε"
+MenuImagen_MSG17="ΤΡΕΧΟΝ ΕΠΙΠΕΔΟ ISO"
+MenuImagen_MSG18="επίπεδο iso"
+MenuImagen_MSG19="Τα ονόματα αρχείων αποτελούνται από μια ενότητα"
+MenuImagen_MSG20="και περιορίζονται σε 8,3 χαρακτήρες."
+MenuImagen_MSG21="Επιλέξτε αυτό το επίπεδο εάν θέλετε συμβατότητα ονομάτων"
+MenuImagen_MSG21b="κάτω από το λειτουργικό σύστημα MS-DOS"
+MenuImagen_MSG22="Τα ονόματα αρχείων αποτελούνται από μια ενότητα"
+MenuImagen_MSG23="Απεριόριστο επίπεδο."
+MenuImagen_MSG24="Χρησιμοποιήστε αυτό το επίπεδο εάν θέλετε συμβατότητα αρχείων"
+MenuImagen_MSG25="μεγάλο, σε αυτήν την περίπτωση >= 2 Gigabyte."
+MenuImagen_MSG26="Όλα τα επίπεδα ISO περιορίζουν τα ονόματα αρχείων σε κεφαλαία, πεζά και"
+MenuImagen_MSG27="χαρακτήρες όπως _ .Τα ονόματα αρχείων περιορίζονται σε 31 χαρακτήρες"
+MenuImagen_MSG28="Μέγιστο 8 διαδρομές καταλόγου και όνομα διαδρομής"
+MenuImagen_MSG29="καταλόγους με 255 χαρακτήρες."
+MenuImagen_MSG30="Επιλέξτε το νέο επίπεδο ISO"
+MenuImagen_MSG31="Το επίπεδο ISO 4 δεν είναι επίσημο"
+MenuImagen_MSG32="Συμβουλευτείτε τη σελίδα του χρήστη mkisofs"
+MenuImagen_MSG33="Μη έγκυρο επίπεδο ISO"
+MenuImagen_MSG34="Ορίστε το επίπεδο iso 3 από προεπιλογή"
+

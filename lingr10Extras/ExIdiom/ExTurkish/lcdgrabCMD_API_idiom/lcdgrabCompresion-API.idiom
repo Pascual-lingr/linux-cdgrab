@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTurkish/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Turco para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Dosyanın veya dizinin yolunu girin:"
+empaquetar_MSG2="------- Seçenekler -------"
+empaquetar_MSG3=".tar.gz dosyasını oluştur"
+empaquetar_MSG4=".tar.bz2 dosyasını oluştur"
+empaquetar_MSG5="Bir seçenek yazın: "
+empaquetar_MSG6="Çalışıyor"
+empaquetar_MSG7="Geçersiz seçenek"
+
+# desempaquetar
+
+desempaquetar_MSG1="Dosya yolunu girin:"
+desempaquetar_MSG2="KOMPRESÖR BULUNAMADI"
+desempaquetar_MSG3="VEYA"
+desempaquetar_MSG4="MEVCUT DEĞİL"
+desempaquetar_MSG5="Çalışıyor"
+desempaquetar_MSG6="paketten çıkarıldı"
+desempaquetar_MSG7="Paketi açmaya çalışırken hata oluştu"
+
+# comprime
+
+comprime_MSG1="GÖRÜNTÜ SIKIŞTIRILIYOR"
+comprime_MSG2="bzip2 ile sıkıştır"
+comprime_MSG3="Gzip ile sıkıştır"
+comprime_MSG4="xz ile sıkıştır"
+comprime_MSG5="Önceki menü"
+comprime_MSG6="Çalışıyor"
+comprime_MSG7="Resim dosyası sıkıştırması tamamlandı"
+comprime_MSG8="Şununla sıkıştırılırken hata oluştu"
+comprime_MSG9="Geçersiz kompresör"
+
+# descomprime
+
+descomprime_MSG1="Dosya yolunu yazın:"
+descomprime_MSG2="-------------------"
+descomprime_MSG3="KOMPRESÖR BULUNAMADI"
+descomprime_MSG4="VEYA"
+descomprime_MSG5="MEVCUT DEĞİL"
+descomprime_MSG6="Çalışıyor"
+descomprime_MSG7="sıkıştırılmamış"
+descomprime_MSG8="Sıkıştırmayı açmaya çalışırken hata"
+

@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Húngaro, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="A Linux-cdgrab nem találja a vi szövegszerkesztőt"
+ayuda_MSG2="Írja be a rendszerére telepített szövegszerkesztő nevét"
+ayuda_MSG3="NEM TALÁLHATÓ TELEPÍTETT SZERKESZTŐ"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="A LINUX-CDGRAB 1.0 által automatikusan generált fájl"
+creacion_de_mnt_MSG2="Ez a fájl a könyvtárral együtt"
+creacion_de_mnt_MSG3="automatikusan generáltak"
+creacion_de_mnt_MSG4="a Linux-cdgrab alkalmazás által, amikor ellenőrizte, hogy nem létezett-e az Ön Linux disztribúciójában"
+creacion_de_mnt_MSG5="a könyvtár"
+creacion_de_mnt_MSG6="A Linux-cdgrab ezt a könyvtárat használja a CD-ROM/DVD-ROM/BD-ROM meghajtó csatlakoztatásához"
+creacion_de_mnt_MSG7="A könyvtár"
+creacion_de_mnt_MSG8="nem törlődik, ha a Linux-cdgrab eltávolítva van, mivel általában a"
+creacion_de_mnt_MSG9="a /dev/cdrom alapértelmezett csatolási pontja a legtöbb Linux disztribúción."
+creacion_de_mnt_MSG10="Ha a disztribúció egy másik könyvtárat használ az eszköz csatlakoztatásához /dev/cdrom,"
+creacion_de_mnt_MSG11="nem okoz semmilyen inkompatibilitást, amikor megpróbál hozzáférni az egységen lévő adatokhoz"
+creacion_de_mnt_MSG12="bár ha a Linux-cdgrab-t eltávolították, megteheti anélkül"
+creacion_de_mnt_MSG13="A fájl célja csak tájékoztató jellegű, olvasás után szabadon törölheti."
+
+# creditos
+
+creditos_MSG1="Terjesztés GPL v2 licenc alatt"
+creditos_MSG2="További információ a www.gnu.org oldalon"
+creditos_MSG3="Pascual Martínez Cruz, alkotó és karbantartó"
+creditos_MSG4="Hibajelentés: pascual89@hotmail.com"
+creditos_MSG5="A program weboldala: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Alapján LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Töltés"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SZINTAXIS"
+lcdgrab_sintaxis_MSG2="A súgó kinyomtatása"
+lcdgrab_sintaxis_MSG3="Linux verzió-cdgrab nyomtatása"
+lcdgrab_sintaxis_MSG4="meghatározza az IDE csatornát vagy rögzítőeszközt"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="meghatározza a rögzítési sebességet"
+lcdgrab_sintaxis_MSG7="meghatározza a CD-ROM/DVD-ROM/BD-ROM meghajtót"
+lcdgrab_sintaxis_MSG8="meghatározza a rögzítő IDE ATAPI csatornáját"
+lcdgrab_sintaxis_MSG9="A -G -V -L és -CA opciók egymásra utalnak."
+lcdgrab_sintaxis_MSG9B="A -iut -ium -iug és -iuk opciók függetlenek egymástól,"
+lcdgrab_sintaxis_MSG9C="kiegészítő -G -V -L és -CA, és független a -h és -v között"
+lcdgrab_sintaxis_MSG10="A -h és -v opció független egymástól és a többitől."
+lcdgrab_sintaxis_MSG11="Példák:"
+lcdgrab_sintaxis_MSG12="eszköz"
+lcdgrab_sintaxis_MSG13="szám"
+lcdgrab_sintaxis_MSG14="szöveges felület"
+lcdgrab_sintaxis_MSG15="interfész ncurses-el"
+lcdgrab_sintaxis_MSG16="grafikus interfész GTK-val"
+lcdgrab_sintaxis_MSG17="grafikus interfész Qt-vel"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Adja meg a szkript elérési útját:"
+main_lcdgrabopdep_MSG2="Érvénytelen elérési út"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Telepített javítások:"
+main_lcdgrabopdeppatch_MSG2="Adja meg a javítás elérési útját:"
+main_lcdgrabopdeppatch_MSG3="Nem található"
+
+# menu principal dialog
+main_lcdgrabop9uidia="TÖLTSE FEL EGY TOVÁBBI Javítást"
+
+# menu principal texto
+
+main_lcdgrabop1_text="FELVÉTEL CD\t\t\t\t="
+main_lcdgrabop2_text="DVD-FELVÉTEL\t\t\t\t="
+main_lcdgrabop3_text="FELVÉTEL BD\t\t\t\t="
+main_lcdgrabop4_text="LEMEZMEGHAJTÓ MŰVELETEK\t\t\t="
+main_lcdgrabop5_text="KÉPTEREMTÉS\t\t\t\t="
+main_lcdgrabop6_text="AUDIO KONVERZIÓ\t\t\t\t="
+main_lcdgrabop6b_text="VIDEÓ KONVERZIÓ\t\t\t\t="
+main_lcdgrabop7_text="A CD/DVD/BD FELSZERELÉSE VAGY LESZERELÉSE="
+main_lcdgrabop8_text="FELSZERELÉS VAGY KI A KÉP\t\t="
+main_lcdgrabop9_text="TÖLTSE FEL EGY TOVÁBBI Javítást\t\t="
+main_lcdgrabop10_text="IRÁNYÍTÓ KÖZPONT\t\t\t="
+main_lcdgrabop0_text="ELJÁR SZÓRAKOZNI\t\t\t\t="
+main_lcdgrabet1_text="EGYÉB OPCIÓK ##\t\t="
+main_lcdgrabopEe_text="Lemez kiadása a meghajtóból\t="
+main_lcdgrabopTD_text="Könyvtár megjelenítése"
+tabs="\t="
+main_lcdgrabopG_text="Fájl kezelő\t\t\t\t="
+main_lcdgrabopH_text="Támogatás\t\t\t\t="
+main_lcdgrabopA_text="Ról ről\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="FELVÉTEL CD"
+main_lcdgrabop2="DVD-FELVÉTEL"
+main_lcdgrabop3="FELVÉTEL BD"
+main_lcdgrabop4="LEMEZMEGHAJTÓ MŰVELETEK"
+main_lcdgrabop5="KÉPTEREMTÉS"
+main_lcdgrabop6="AUDIO KONVERZIÓ"
+main_lcdgrabop6b="VIDEÓ KONVERZIÓ"
+main_lcdgrabop7="A CD/DVD/BD FELSZERELÉSE VAGY LESZERELÉSE"
+main_lcdgrabop8="FELSZERELÉS VAGY KI A KÉP"
+main_lcdgrabop9="TÖLTSE FEL EGY TOVÁBBI Javítást"
+main_lcdgrabop10="IRÁNYÍTÓ KÖZPONT"
+main_lcdgrabop0="ELJÁR SZÓRAKOZNI"
+main_lcdgrabet1="EGYÉB OPCIÓK ##"
+main_lcdgrabopEe="Lemez kiadása a meghajtóból"
+main_lcdgrabopTD="Könyvtár megjelenítése"
+main_lcdgrabopG="Fájl kezelő"
+main_lcdgrabopH="Támogatás"
+main_lcdgrabopA="Ról ről"
+main_lcdgrabopPRINCIPAL="Írjon be egy lehetőséget:"
+MSG1_MAIN="A H kiválasztása megmutatja az opciók használatát."
+main_lcdgrabopA_MSG1="Futás alatt:"
+

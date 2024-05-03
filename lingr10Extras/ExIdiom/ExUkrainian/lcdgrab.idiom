@@ -1,0 +1,43 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Ucraniano para la aplicación principal
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Файл, автоматично створений LINUX-CDGRAB 1.0"
+creacion_de_Depot_MSG2="Цей файл разом із каталогом"
+creacion_de_Depot_MSG3="були згенеровані автоматично"
+creacion_de_Depot_MSG4="програмою Linux-cdgrab під час перевірки її відсутності у вашому дистрибутиві Linux"
+creacion_de_Depot_MSG5="каталог"
+creacion_de_Depot_MSG6="Linux-cdgrab використовує цей каталог для запису тимчасових файлів і зображень пристроїв (iso, img тощо)"
+creacion_de_Depot_MSG8="Depot використовується GoboLinux для зберігання тимчасових файлів"
+creacion_de_Depot_MSG9="Цей файл призначений лише для інформаційних цілей, ви можете вільно видалити його після прочитання."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="УВАГА:"
+main_IDSISTEMA_MSG2="Операційна система не підтримується."
+main_IDSISTEMA_MSG3="Якщо є проблеми в роботі програми, використовуйте GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="Це не вагомий аргумент"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="знайдено"
+main_cdkit_test_MSG2="створено посилання на wodim"
+main_cdkit_test_MSG3="посилання на genisoimage створено"
+main_cdkit_test_MSG4="створено посилання на icedax"
+
+# pgm principal
+
+pgm_principal_MSG1="ФАТАЛЬНИЙ: Не знайдено правильного розподілу каталогу."
+pgm_principal_MSG2="НЕЗНАЙОМЕЦЬ"
+

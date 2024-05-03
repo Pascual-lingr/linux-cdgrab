@@ -1,0 +1,89 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAfrikaans/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Afrikáans, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+# Se omite 'N por evitar errores de funcionamiento
+clonar_MSG1="KIES N OPSIE"
+clonar_MSG2="------ VOORBEELD SKYF KOPIEë -------"
+# Se omite 'n por evitar errores de funcionamiento
+clonar_MSG3="Kopieer n data-CD"
+clonar_MSG4="Skep n pre-CD beeld op jou hardeskyf"
+clonar_MSG5="----------- SKYFKOPIEë OP DIE VLUG -----------"
+# Se omite 'n por evitar errores de funcionamiento
+clonar_MSG6="Kopieer n data-CD dadelik"
+clonar_MSG7="Kloner n data-CD op die vlug"
+# Se omite 'n por evitar errores de funcionamiento
+clonar_MSG7B="Kopieer n oudio-CD dadelik"
+clonar_MSG8="VLIEGENDE KOPIE-OPSIES VEREIS TWEE OPTIESE EENHEDE"
+clonar_MSG9="GEINSTALLEER OP JOU REKENAAR, AANGESIEN DIE DATA AANGESKEN WORD TERWYL"
+clonar_MSG10="LEES DIREK VANAF DIE OORSPRONGSKYF, AS JOU REKENAAR NET HET"
+clonar_MSG11="MENS SAL NIE DIE KOPIEë OP DIE VLUG KAN GEBRUIK NIE."
+clonar_MSG12B="KOPIEER CD DATA"
+clonar_MSG0="Vorige spyskaart"
+
+# mgrabacd
+
+mgrabacd_MSG1="CD DATA VAN HARDE SKYF"
+# Se omite 'n por evitar errores de funcionamiento
+mgrabacd_MSG2="Brand n nuwe data-CD (gebruik cdrtools)"
+mgrabacd_MSG3="Brand n nuwe data-CD (gebruik libburnia)"
+mgrabacd_MSG4="Vorige spyskaart"
+# Se omite 'n por evitar errores de funcionamiento
+mgrabacd_MSG5="Voer n opsie in"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="DATABEELDOPNAME"
+mgrabaimg_MSG2="Brand iso- of ext2-beeld na CD-R/RW (gebruik cdrtools)"
+mgrabaimg_MSG3="Brand iso-beeld na CD-R/RW (gebruik libburnia)"
+mgrabaimg_MSG4="Vorige spyskaart"
+# Se omite 'n por evitar errores de funcionamiento
+mgrabaimg_MSG5="Voer n opsie in"
+
+# mgrabararchivosaudio
+
+# Se omite 'n por evitar errores de funcionamiento
+mgrabararchivosaudio_MSG1="Verbrand n oudio-CD vanaf .wav-lêers"
+mgrabararchivosaudio_MSG2="Verbrand n oudio-CD vanaf .mp3-lêers"
+mgrabararchivosaudio_MSG3="Verbrand n oudio-CD vanaf .ogg-lêers"
+mgrabararchivosaudio_MSG0="Vorige spyskaart"
+# Se omite 'n por evitar errores de funcionamiento
+mgrabararchivosaudio_MSG0B="Tik n opsie"
+mgrabararchivosaudio_MSG4="Verbrand n oudio-CD vanaf .flac-lêers"
+mgrabararchivosaudio_MSG5="CD-AUDIO-OPNAME VANAF LêERS"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="NEEM OP NA CD"
+menugrabar_cd_MSG2="-------------------- CD - DATA --------------------"
+menugrabar_cd_MSG3="Kopieer data-CD"
+# Se omite 'n por evitar errores de funcionamiento
+menugrabar_cd_MSG4="Brand n nuwe data-CD"
+menugrabar_cd_MSG5="Brand n nuwe multi-sessie data CD"
+menugrabar_cd_MSG6="Brand .iso of .ext2 beeld na CD"
+menugrabar_cd_MSG7="Brand .bin/.cue beeld na CD"
+menugrabar_cd_MSG8="-------------------- CD - AUDIO -------------------"
+# Se omite 'n por evitar errores de funcionamiento
+menugrabar_cd_MSG9="Ryp n oudio-CD"
+menugrabar_cd_MSG13="------------------ ANDER OPSIES -------------------"
+# Se omite 'n por evitar errores de funcionamiento
+menugrabar_cd_MSG14="Brand n gemengde CD (data + oudio)"
+# Se omite 'n por evitar errores de funcionamiento
+menugrabar_cd_MSG15="Vee n CD-RW uit"
+menugrabar_cd_MSG16="Maak oop CD toe"
+menugrabar_cd_MSG17="Wys skyfinligting in die aandrywer"
+# Se omite 'n por evitar errores de funcionamiento
+menugrabar_cd_MSG18="Brand n oudio-CD vanaf skyflêers"
+menugrabar_cd_MSG0="Vorige spyskaart"
+# Se omite 'n por evitar errores de funcionamiento
+menugrabar_cd_MSGPRINCIPAL="Tik n opsie"
+
+

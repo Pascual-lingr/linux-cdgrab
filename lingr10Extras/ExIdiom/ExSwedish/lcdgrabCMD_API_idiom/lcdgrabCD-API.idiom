@@ -1,0 +1,184 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwedish/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Sueco para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="kör"
+copia_bin_MSG2="--------------FÖRSÖKER INSPELNINGSPROCESSEN IGEN---------------"
+copia_bin_MSG3="	RADERA BILDFILEN"
+copia_bin_MSG4="ETT FEL HAR UPPSTÅTT I INSPELNINGEN"
+copia_bin_MSG5="Det går inte att hitta diskens .iso-avbildningsdump. Avbryter inspelningen..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="löpar"
+datos_al_vuelo_MSG2="Fel vid inspelningsförsök, försöker igen utan stöd för överbränning"
+datos_al_vuelo_MSG3="Kontrollera att källdisken eller enheten"
+datos_al_vuelo_MSG4="är i gott skick"
+datos_al_vuelo_MSG5="Hämta leadout-blocknummer från källdisken"
+datos_al_vuelo_MSG6="KOPIERA DISK..."
+
+# clonar_cd
+
+clonar_cd_MSG1="kör"
+clonar_cd_MSG2="CD KLONAD FRAMGÅNG"
+clonar_cd_MSG3="ETT FEL HAR UPPSTÅTT NED KLONNING AV CD-skivan"
+
+# datos
+
+datos_MSG1="Filer och kataloger för att skapa .iso-bilden"
+datos_MSG2="CD/DVD/BD ETIKETT"
+datos_MSG3="Ange ett namn för den framtida CD/DVD/BD:"
+datos_MSG4="Starta filhanteraren:"
+datos_MSG5=" SKAPAR BILD . . ."
+datos_MSG6="kör"
+datos_MSG7="ISO-9660 BILD SKAPAD IN"
+datos_MSG8="BRÄNNING AV CD/DVD/BD"
+datos_MSG9="PROCESSEN FÖR SKAPA BILDFILEN HAR MISSLYCKADES"
+datos_MSG10="FÖRSÖKER IGEN SKAPA EN NY UTAN STÖD FÖR HFS (Macintosh)"
+datos_MSG11="RADERAR BILD . . ."
+datos_MSG12="SKAPA NY BILD . . ."
+datos_MSG13="DET HAR INTE ÄR MÖJLIGT ATT REGISTRERA KORREKT"
+datos_MSG14="------------FÖRSÖKER INSPELNINGSPROCESSEN IGEN-----------"
+datos_MSG15="RADERA BILD..."
+datos_MSG16="BRÄNNING ISO-9660 DATA CD/DVD/BD..."
+datos_MSG17="Hittades inte."
+datos_MSG18="Avbryter diskinspelning..."
+
+# datoslb
+
+datoslb_MSG1="Fel: Bildfilen kan inte hittas. Avbryter..."
+datoslb_MSG2="INSPELNINGSPROCESS OK"
+datoslb_MSG3="FEL I INSPELNINGSPROCESSEN"
+
+# borra
+
+borra_MSG0="Föregående meny"
+borra_MSG1="Välj läge för att radera CD-RW"
+borra_MSG2="----------------------------------"
+borra_MSG3="Snabb radering (använd cdrecord)"
+borra_MSG4="Slutför radering (använd cdrecord)"
+borra_MSG5="Radering krävs (använd cdrskin)"
+borra_MSG6="kör"
+borra_MSG7="Nödvändig formatering eller radering tillämpas beroende på diskens status"
+borra_MSG8="CD-RW RADERAD MED FRAMGÅNG!!"
+borra_MSG9="FEL VID RADERING AV CD-RW"
+borra_MSG10="TVINGA RADERA CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="FEL NÄR DU FÖRSÖKER RADERA CD-RW:n"
+err_borra_cdrw_MSG2="CD-RW EJ ANVÄNDBAR"
+err_borra_cdrw_MSG3="DET ÄR INTE MÖJLIGT ATT RADERA DENNA CD-RW"
+err_borra_cdrw_MSG4="Kontrollera CD-RW:n för fysiska skador"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="kör"
+cerrar_cd_MSG2="CD:N HAR STÄNGTS KORREKT"
+cerrar_cd_MSG3="FEL VID STÄNGNING AV CD-skivan"
+cerrar_cd_MSG4="AVSLUTANDE SPÅR PÅ DATA CD . . ."
+
+# grabimg
+
+grabimg_MSG1=".iso- eller .ext2-bild för att bränna till CD/DVD"
+grabimg_MSG2="Startar filhanteraren."
+grabimg_MSG3="Skriv in hela sökvägen där CD/DVD-avbildningen som du vill bränna finns:"
+grabimg_MSG4="löpar"
+grabimg_MSG5="-----------FÖRSÖKER INSPELNINGSPROCESSEN IGEN-----------"
+grabimg_MSG6="INSPELNING AVSLUTAD!!"
+grabimg_MSG7="BILD .EXT2 LYCKADES INSPELAD"
+
+# grabimglb
+
+grabimglb_MSG1="Skriv in hela sökvägen där CD/DVD-avbildningen du vill bränna finns:"
+grabimglb_MSG2="Bränner bild till disk..."
+grabimglb_MSG3="ISO-9660 BILD INSPELAD FRAMFÖRJANDE"
+grabimglb_MSG4="FEL I INSPELNING AV ISO-9660-BILDEN"
+grabimglb_MSG5="Fel: Bildfilen hittades inte. Avbryter..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin- och .cue-filer för att spela in bilden"
+grabimg_cue_MSG2="För att spela in bin/cue-bilden måste båda filerna"
+grabimg_cue_MSG3="vara i den aktiva katalogen."
+grabimg_cue_MSG4="Aktuell aktiv katalog"
+grabimg_cue_MSG5="Ange namnet på *.cue-filen som refererar till *.bin-bildfilen"
+grabimg_cue_MSG6=".cue-fil: "
+grabimg_cue_MSG7="löpar"
+grabimg_cue_MSG8="INSPELNING AVSLUTAD!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Bränn multisession-cd från en .iso-bild"
+cd_multi_MSG2="Bränn en första session till CD:n från en .iso-bild"
+cd_multi_MSG3="Bränn multisession CD från filer på disk"
+cd_multi_MSG4="Spela in successiva sessioner till CD:n från filer på hårddisken"
+cd_multi_MSG5="Det här alternativet kräver en CD med flera sessioner, med en tidigare inspelad session."
+cd_multi_MSG6="Föregående meny"
+cd_multi_MSG7=".iso-bild att bränna till CD-Multi-session"
+cd_multi_MSG8="Ange sökvägen till .iso-bilden"
+cd_multi_MSG9="kör"
+cd_multi_MSG10="MULTI-SESSION CD LYCKADES INSPELAD!!"
+cd_multi_MSG11="Kataloger att inkludera i bilden."
+cd_multi_MSG12="Ange nedan vilka kataloger som ska inkluderas"
+cd_multi_MSG13="Ange ett namn för CD-etiketten:"
+cd_multi_MSG14="SKAPA BILD..."
+cd_multi_MSG15="LYCKAD SKAPADE"
+cd_multi_MSG16="FEL NÄR BILDEN SKAPAS. AVBRYTAR INSPELNINGSPROCESSEN..."
+cd_multi_MSG17="BRÄNNING AV CD-BILD..."
+cd_multi_MSG18="CD MULTI-SESSION MENY"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="RIPPAR LJUD-CD..."
+copia_cd_audio_MSG2="Kör"
+copia_cd_audio_MSG3="LJUDSPÅR FRAMGÅNGSRIKADE!!"
+copia_cd_audio_MSG4="FEL VID RIPNING AV LJUDSPÅR"
+copia_cd_audio_MSG5="BRÄNNING AV LJUD-CD..."
+copia_cd_audio_MSG6="LJUD-CD KOPIERADES MED FRAMGÅNG!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav-filer att bränna till CD"
+wav_a_cd_MSG2="Linux-cdgrab kontrollerar inte katalogstorlek"
+wav_a_cd_MSG3="Se till att det inte är mer än 650 Mbyte i fall"
+wav_a_cd_MSG4="om du använder en 80 minuters CD."
+wav_a_cd_MSG5="Ange katalogsökvägen till .wav-filerna"
+wav_a_cd_MSG6="löpar"
+wav_a_cd_MSG7="PROCESSEN AVSLUTAD!"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Mixto skapande projekt (Data Image .iso + ljudfiler .wav)"
+cdmixto_MSG2="Linux-cdgrab kontrollerar inte katalogstorlek"
+cdmixto_MSG3="var är ljudfilerna."
+cdmixto_MSG4="Det kommer inte heller att göra det från .iso-bilden som du ska spela in"
+cdmixto_MSG5="efter."
+cdmixto_MSG6="Var konsekvent med storleken du har"
+cdmixto_MSG7="bränna till din nya CD."
+cdmixto_MSG8="Ange sökvägen till ljudfilerna:"
+cdmixto_MSG9="Ange ISO-bildsökvägen:"
+cdmixto_MSG10="#################################"
+cdmixto_MSG11="SPELA IN BLANDAD CD: DATA + LJUD"
+cdmixto_MSG12="kör"
+cdmixto_MSG13="----MIXED-CD SKAPADES MED FRAMGÅNGSRIKTIGT-----!!"
+cdmixto_MSG14="------FEL VID BRÄNNANDE CD-MIXED--------"
+
+# discoinfo
+
+discoinfo_MSG1="kör"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI port skannad"
+cdrecord_scan_MSG1="Fel vid skanning av IDE/SCSI-port"
+cdrecord_scan_MSG2="cdrecord hittades inte"
+

@@ -1,0 +1,92 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Húngaro, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Válassza ki a használni kívánt felhasználói felületet:"
+SeleccionaIUDVD_MSG2="Az interfész használata dvd+-rw-eszközökhöz"
+SeleccionaIUDVD_MSG3="Az interfész használata a Cdrecord-ProDVD-hez"
+SeleccionaIUDVD_MSG4="Az interfész használata a libburniához"
+SeleccionaIUDVD_MSG5="Előző menü"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="FELVÉTEL DVD-RE"
+menugrabar_dvd_MSG2="----------------- DVD - ADATOK -------------------"
+menugrabar_dvd_MSG3="ISO-9660 adat-DVD másolása"
+menugrabar_dvd_MSG4="Előző DVD-kép létrehozása a merevlemezen"
+menugrabar_dvd_MSG5="Új ISO-9660 adat-DVD írása"
+__menugrabar_dvd_MSG6="Új adatmunka hozzáadása az ISO-9660 adat-DVD-hez (többmenetes DVD)"
+__menugrabar_dvd_MSG7="Előzőleg a második opcióval rögzített DVD szükséges"
+menugrabar_dvd_MSG8="ISO-9660 adatkép írása DVD-re"
+__menugrabar_dvd_MSG9=".ext2 kép írása DVD-re"
+menugrabar_dvd_MSG10="------------------ DVD - VIDEÓ -------------------"
+menugrabar_dvd_MSG11="Új DVD-videó írása"
+menugrabar_dvd_MSG12="--------------- EGYÉB OPCIÓK ------------------"
+menugrabar_dvd_MSG13="DVD+RW/DVD-RW formázása"
+menugrabar_dvd_MSG14="DVD lemez információinak megjelenítése"
+menugrabar_dvd_MSG0="Előző menü"
+menugrabar_dvd_MSGPRINCIPAL="Írjon be egy beállítást"
+menugrabar_dvd_MSG15="A DVD-n feltüntetendő fájlok és könyvtárak"
+menugrabar_dvd_MSG16="A fájlkezelő indítása..."
+menugrabar_dvd_MSG17=".iso kép DVD-re írandó"
+menugrabar_dvd_MSG18="Írja be a könyvtár elérési útját, ahol az égetni kívánt .iso kép található"
+menugrabar_dvd_MSG19="A cdrecord DVD-támogatással rendelkező verziója szükséges."
+menugrabar_dvd_MSG20="Az .ext2 kép DVD-re rögzítése a cdrecord segítségével történik."
+menugrabar_dvd_MSG21="A telepítésben lévő cdrecord verziónak kell"
+menugrabar_dvd_MSG22="DVD-rögzítés támogatása."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+_dvd_clonar_MSG1="VÁLASSZON LEHETŐSÉGET"
+_dvd_clonar_MSG2="--- LEMEZ MÁSOLATOK ELŐNÉZETI KÉPPEL ---"
+_dvd_clonar_MSG3="Adat-DVD másolása"
+_dvd_clonar_MSG4="Előző DVD-kép létrehozása a merevlemezen"
+_dvd_clonar_MSG5="--- LEMEZ MÁSOLATOK A REPÜLÉSRE ---"
+_dvd_clonar_MSG6="Másolás egy adat-DVD-t menet közben"
+_dvd_clonar_MSG7="Adat-DVD klónozása menet közben"
+dvd_clonar_MSG8="REPÜLŐ MÁSOLÁSI OPCIÓK KÉT OPTIKAI EGYSÉGET SZÜKSÉGELnek"
+_dvd_clonar_MSG9="TELEPÍTVE A SZÁMÍTÓGÉPRE, MIVEL AZ ADATOK RÖGZÍTÉSE ALATT VAN"
+_dvd_clonar_MSG10="KÖZVETLENÜL OLVASÁS A FORRÁSLEMEZRŐL, HA CSAK A SZÁMÍTÓGÉPÉN VAN"
+_dvd_clonar_MSG11="A MÁSOLATOKAT NEM LEHET HASZNÁLNI A REPÜLÉSRE."
+_dvd_clonar_MSG0="Előző menü"
+_dvd_clonar_MSG12="DVD ADATMÁSOLÁS"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD-FELVÉTEL"
+menugrabar_DVD_MSG2="------------------ DVD - ADATOK -------------------"
+menugrabar_DVD_MSG3="Adat DVD bemásolása"
+menugrabar_DVD_MSG4="Új adat-DVD írása"
+menugrabar_DVD_MSG5=".iso vagy .ext2 kép írása DVD-re"
+menugrabar_DVD_MSG6="DVD+RW/DVD-RW formázása"
+menugrabar_DVD_MSG7="Lemezinformációk megjelenítése a meghajtóban"
+menugrabar_DVD_MSG0="Előző menü"
+menugrabar_DVD_MSGPRINCIPAL="Írjon be egy beállítást"
+menugrabar_DVD_MSG8="Előző DVD-kép létrehozása a merevlemezen"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Iso-9660 kép írása DVD-re"
+menugrabar_DVD_libburnia_MSG2="Adatok írása merevlemezről DVD-re"
+menugrabar_DVD_libburnia_MSG3="DVD formázása"
+menugrabar_DVD_libburnia_MSG4="DVD-RW formázása szekvenciális inkrementálisra"
+_menugrabar_DVD_libburnia_MSG5="DVD-RW formázása korlátozott felülírásra"
+menugrabar_DVD_libburnia_MSG6="Meghajtó információinak megjelenítése"
+menugrabar_DVD_libburnia_MSG8="Lista a rendszerbe telepített meghajtók"
+menugrabar_DVD_libburnia_MSG0="Kilépés"
+menugrabar_DVD_libburnia_MSG7="Adjon meg egy beállítást"
+
+

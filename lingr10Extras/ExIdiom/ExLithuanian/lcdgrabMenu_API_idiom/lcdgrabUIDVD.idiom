@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLithuanian/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimentalal lituano, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Pasirinkite vartotojo sąsają, kuri bus naudojama:"
+SeleccionaIUDVD_MSG2="Naudokite sąsają DVD+-rw-įrankiams"
+SeleccionaIUDVD_MSG3="Naudokite sąsają Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Naudokite libburnia sąsają"
+SeleccionaIUDVD_MSG5="Ankstesnis meniu"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="DVD ĮRAŠYMAS"
+menugrabar_dvd_MSG2="---------------- DVD - DUOMENYS -----------------"
+menugrabar_dvd_MSG3="Nukopijuoti ISO-9660 duomenų DVD"
+menugrabar_dvd_MSG4="Sukurti ankstesnį DVD vaizdą standžiajame diske"
+menugrabar_dvd_MSG5="Įrašykite naują ISO-9660 duomenų DVD"
+menugrabar_dvd_MSG6="Pridėti naują duomenų seansą prie ISO-9660 duomenų DVD (daugia seansų DVD)"
+menugrabar_dvd_MSG7="Reikalingas DVD, anksčiau įrašytas naudojant antrąją parinktį"
+menugrabar_dvd_MSG8="Įrašyti ISO-9660 duomenų vaizdą į DVD"
+menugrabar_dvd_MSG9="Įrašykite .ext2 vaizdą į DVD"
+menugrabar_dvd_MSG10="----------------- DVD - VIDEO -------------------"
+menugrabar_dvd_MSG11="Įrašykite naują DVD vaizdo įrašą"
+menugrabar_dvd_MSG12="--------------- KITI PASIRINKIMAI -----------------"
+menugrabar_dvd_MSG13="DVD+RW/DVD-RW formatavimas"
+menugrabar_dvd_MSG14="Rodyti DVD disko informaciją"
+menugrabar_dvd_MSG0="Ankstesnis meniu"
+menugrabar_dvd_MSGPRINCIPAL="Įveskite parinktį"
+menugrabar_dvd_MSG15="Failai ir katalogai, kuriuos reikia įtraukti į DVD"
+menugrabar_dvd_MSG16="Paleidžiama failų tvarkyklė..."
+menugrabar_dvd_MSG17=".iso vaizdas įrašyti į DVD"
+menugrabar_dvd_MSG18="Įveskite katalogo kelią, kuriame yra norimas įrašyti .iso vaizdas"
+menugrabar_dvd_MSG19="Reikalinga cdrecord versija su DVD palaikymu."
+menugrabar_dvd_MSG20=".ext2 vaizdo įrašymas į DVD bus atliktas naudojant cdrecord."
+menugrabar_dvd_MSG21="Jūsų diegime esanti cdrecord versija turėtų"
+menugrabar_dvd_MSG22="palaiko DVD įrašymą."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="PASIRINKITE PASIRINKTI"
+dvd_clonar_MSG2="--- DISKO KOPIJAS SU PERŽIŪROS VAIZDU ---"
+dvd_clonar_MSG3="Kopijuoti duomenų DVD"
+dvd_clonar_MSG4="Sukurti ankstesnį DVD vaizdą standžiajame diske"
+dvd_clonar_MSG5="--- DISKŲ KOPIJAS SKRYDŽIOJE ---"
+dvd_clonar_MSG6="Nukopijuoti duomenų DVD skrydžio metu"
+dvd_clonar_MSG7="Klonuoti duomenų DVD skrydžio metu"
+dvd_clonar_MSG8="Skraidančiai KOPIJAVIMO PARINKTIMS REIKIA DU OPTINIŲ ĮRENGINIŲ"
+dvd_clonar_MSG9="ĮDIEGTA JŪSŲ KOMPIUTERIEJE, KAD DUOMENYS ĮRAŠomi KOL"
+dvd_clonar_MSG10="SKAITYKITE TIESIOGIAI IŠ KILMĖS DISKO, JEI TIK JŪSŲ KOMPIUTERIS TURĖJO"
+dvd_clonar_MSG11="JUMS NEGALĖSITE NAUDOTI KOPIJŲ SKRYDŽIO metu."
+dvd_clonar_MSG0="Ankstesnis meniu"
+dvd_clonar_MSG12="DVD DUOMENŲ KOPIJA"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD ĮRAŠYMAS"
+menugrabar_DVD_MSG2="----------------- DVD - DUOMENYS -----------------"
+menugrabar_DVD_MSG3="Nukopijuoti duomenų DVD"
+menugrabar_DVD_MSG4="Įrašyti naują duomenų DVD"
+menugrabar_DVD_MSG5="Įrašyti .iso arba .ext2 vaizdą į DVD"
+menugrabar_DVD_MSG6="Formatuoti DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Rodyti disko informaciją diske"
+menugrabar_DVD_MSG0="Ankstesnis meniu"
+menugrabar_DVD_MSGPRINCIPAL="Įveskite parinktį"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Įrašyti iso-9660 vaizdą į DVD"
+menugrabar_DVD_libburnia_MSG2="Įrašyti duomenis iš standžiojo disko į DVD"
+menugrabar_DVD_libburnia_MSG3="Formatuoti DVD"
+menugrabar_DVD_libburnia_MSG4="DVD-RW formatavimas į nuoseklų laipsnį"
+menugrabar_DVD_libburnia_MSG5="Formatuoti DVD-RW, kad būtų apribotas perrašymas"
+menugrabar_DVD_libburnia_MSG6="Rodyti disko informaciją"
+menugrabar_DVD_libburnia_MSG8="Sąrašas sistemoje įdiegtų diskų"
+menugrabar_DVD_libburnia_MSG0="Išeiti"
+menugrabar_DVD_libburnia_MSG7="Įveskite parinktį"
+

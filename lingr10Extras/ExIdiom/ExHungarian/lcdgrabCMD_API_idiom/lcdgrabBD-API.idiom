@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Húngaro para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 KÉP HELYESEN FELVÉTELVE BLU-RAY-RE"
+grabar_ISO_BD_MSG2="HIBA A KÉP BLU-RAY LEMEZRE FELVÉTELÉSÉN"
+grabar_ISO_BD_MSG3="ISO-9660 KÉP BD-BEN"
+grabar_ISO_BD_MSG4="Adja meg az égetendő ISO-9660 kép elérési útját:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Fájlok és könyvtárak az .iso kép létrehozásához"
+bd_datos_MSG2="DB LABEL"
+bd_datos_MSG3="Adja meg a jövőbeli BD nevét:"
+bd_datos_MSG4="A fájlkezelő indítása:"
+bd_datos_MSG5=" KÉP LÉTREHOZÁSA..."
+bd_datos_MSG6="futás"
+bd_datos_MSG7="ISO-9660 KÉP LÉTREHOZOTT"
+bd_datos_MSG8="		BD FELVÉTEL"
+bd_datos_MSG13="KÉP TÖRLÉSE..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="A szükséges formázás vagy törlés a lemez állapotától függően kerül alkalmazásra"
+borrar_BDRE_lb_MSG2="BD-RE SIKERESEN TÖRÖLVE!!"
+borrar_BDRE_lb_MSG3="HIBA A BD-RE TÖRLÉSE ESETÉN"
+

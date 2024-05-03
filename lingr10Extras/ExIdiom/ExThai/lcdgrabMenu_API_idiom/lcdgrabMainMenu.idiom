@@ -1,0 +1,164 @@
+#########################################################
+# lcdgrabAPI_idiom/ExThai/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al tailandés, generado con Chat GPT
+# y Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+# Traducción Chat GPT - INI
+ayuda_MSG1="Linux-cdgrab ไม่พบตัวแก้ไขข้อความ vi"
+ayuda_MSG2="กรุณาพิมพ์ชื่อของตัวแก้ไขข้อความที่ติดตั้งในระบบของคุณ"
+ayuda_MSG3="ไม่พบตัวแก้ไขที่ติดตั้งในระบบ"
+# Traducción Chat GPT - FIN
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="ไฟล์ที่สร้างโดยอัตโนมัติโดย LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="ไฟล์นี้พร้อมกับไดเร็กทอรี"
+creacion_de_mnt_MSG3="ถูกสร้างขึ้นโดยอัตโนมัติ"
+creacion_de_mnt_MSG4="โดยแอปพลิเคชัน Linux-cdgrab เมื่อตรวจสอบว่าไม่มีอยู่ในการกระจาย Linux ของคุณ"
+creacion_de_mnt_MSG5="ไดเร็กทอรี"
+creacion_de_mnt_MSG6="Linux-cdgrab ใช้ไดเร็กทอรีนี้เพื่อเมานต์ไดรฟ์ CD-ROM/DVD-ROM/BD-ROM"
+creacion_de_mnt_MSG7="ไดเร็กทอรี"
+creacion_de_mnt_MSG8="มันจะไม่ถูกลบหากถอนการติดตั้ง Linux-cdgrab เนื่องจากโดยปกติแล้วจะเป็น"
+creacion_de_mnt_MSG9="จุดเมานท์เริ่มต้นสำหรับ /dev/cdrom บน Linux ส่วนใหญ่"
+creacion_de_mnt_MSG10="หากการแจกจ่ายของคุณใช้ไดเร็กทอรีอื่นเพื่อเมานต์อุปกรณ์ /dev/cdrom"
+creacion_de_mnt_MSG11="จะไม่สร้างความเข้ากันไม่ได้เมื่อพยายามเข้าถึงข้อมูลในหน่วยของคุณ"
+creacion_de_mnt_MSG12="แม้ว่าจะถอนการติดตั้ง Linux-cdgrab แล้ว คุณก็สามารถทำได้โดยไม่ต้องติดตั้ง"
+creacion_de_mnt_MSG13="วัตถุประสงค์ของไฟล์นี้มีวัตถุประสงค์เพื่อให้ข้อมูลเท่านั้น คุณสามารถลบออกได้อย่างอิสระเมื่ออ่านแล้ว"
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="ไฟล์ที่สร้างโดยอัตโนมัติโดย LINUX-CDGRAB 1.0"
+creacion_de_Depot_MSG2="ไฟล์นี้พร้อมกับไดเร็กทอรี"
+creacion_de_Depot_MSG3="ถูกสร้างขึ้นโดยอัตโนมัติ"
+creacion_de_Depot_MSG4="โดยแอปพลิเคชัน Linux-cdgrab เมื่อตรวจสอบว่าไม่มีอยู่ในการกระจาย Linux ของคุณ"
+creacion_de_Depot_MSG5="ไดเร็กทอรี"
+creacion_de_Depot_MSG6="Linux-cdgrab ใช้ไดเร็กทอรีนี้เพื่อเขียนไฟล์ชั่วคราวและอิมเมจของอุปกรณ์ (iso, img ฯลฯ ..)"
+creacion_de_Depot_MSG7="ไดเรกทอรี"
+creacion_de_Depot_MSG8="GoboLinux ใช้ Depot เพื่อจัดเก็บไฟล์ชั่วคราว"
+creacion_de_Depot_MSG9="วัตถุประสงค์ของไฟล์นี้มีวัตถุประสงค์เพื่อให้ข้อมูลเท่านั้น คุณสามารถลบออกได้อย่างอิสระเมื่ออ่านแล้ว"
+
+# creditos
+
+# Traducción Chat GPT - INI
+creditos_MSG1="แจกจ่ายภายใต้สัญญาอนุญาต GPL v2"
+creditos_MSG2="ข้อมูลเพิ่มเติมที่ www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, ผู้สร้างและผู้ดูแลรักษา"
+creditos_MSG4="รายงานข้อผิดพลาด: pascual89@hotmail.com"
+creditos_MSG5="เว็บไซต์ของโปรแกรม : www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="อิงจาก LINUX-CDGRAB 1.0 Beta CopyRight: Pascual Martínez Cruz"
+
+# Traducción Chat GPT - FIN
+
+# cargar_parche
+
+cargar_parche_MSG1="กำลังชาร์จ"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="ไวยากรณ์"
+# Traducción Chat GPT - INI
+lcdgrab_sintaxis_MSG2="พิมพ์คำช่วยเหล่านี้"
+lcdgrab_sintaxis_MSG3="พิมพ์เวอร์ชันของ Linux-cdgrab"
+lcdgrab_sintaxis_MSG4="ระบุช่อง IDE หรืออุปกรณ์เขียนไดรฟ์"
+# Resultado del traductor
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="ระบุความเร็วในการเขียนไดรฟ์"
+lcdgrab_sintaxis_MSG7="ระบุเครื่องอ่านแผ่น CD-ROM/DVD-ROM/BD-ROM"
+lcdgrab_sintaxis_MSG8="ระบุช่อง IDE ATAPI ของเครื่องเขียนไดร์ฟ"
+lcdgrab_sintaxis_MSG9="ตัวเลือก -G -V -L และ -CA มีความสัมพันธ์กัน"
+# Traducción Chat GPT - FIN
+lcdgrab_sintaxis_MSG9B="ตัวเลือก -iut -ium -iug และ -iuk มีความเป็นอิสระจากกัน"
+lcdgrab_sintaxis_MSG9C="เสริมกับ -G -V -L และ -CA และเป็นอิสระระหว่าง -h และ -v"
+# Traducción Chat GPT - INI
+lcdgrab_sintaxis_MSG10="ตัวเลือก -h และ -v เป็นอิสระต่อกันและต่อส่วนที่เหลือ"
+# Traducción Chat GPT - FIN
+lcdgrab_sintaxis_MSG11="ตัวอย่าง:"
+lcdgrab_sintaxis_MSG12="อุปกรณ์"
+lcdgrab_sintaxis_MSG13="หมายเลข"
+# Traducción Chat GPT - INI
+lcdgrab_sintaxis_MSG14="อินเตอร์เฟซเป็นข้อความ"
+lcdgrab_sintaxis_MSG15="อินเตอร์เฟซด้วย ncurses"
+lcdgrab_sintaxis_MSG16="อินเตอร์เฟซกราฟิกด้วย GTK"
+lcdgrab_sintaxis_MSG17="อินเตอร์เฟซกราฟิกด้วย Qt"
+# Traducción Chat GPT - FIN
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="ป้อนเส้นทางสคริปต์:"
+main_lcdgrabopdep_MSG2="เส้นทางไม่ถูกต้อง"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="ติดตั้งแพตช์:"
+main_lcdgrabopdeppatch_MSG2="ป้อนเส้นทางการแก้ไข:"
+main_lcdgrabopdeppatch_MSG3="ไม่พบ"
+
+# menu principal dialog
+
+# Traducción Chat GPT - INI
+main_lcdgrabop9uidia="โหลดแพทช์เพิ่มเติม"
+
+# menu principal texto
+
+main_lcdgrabop1_text="การบันทึกลงแผ่นซีดี\t\t\t\t="
+main_lcdgrabop2_text="การบันทึกลงแผ่นดีวีดี\t\t\t\t="
+main_lcdgrabop3_text="การบันทึกลงแผ่นบลูเรย์\t\t\t="
+main_lcdgrabop4_text="การดำเนินการในหน่วยดิสก์\t\t\t="
+main_lcdgrabop5_text="การสร้างภาพ\t\t\t\t="
+main_lcdgrabop6_text="การแปลงไฟล์เสียง\t\t\t\t="
+main_lcdgrabop6b_text="การแปลงไฟล์วิดีโอ\t\t\t\t="
+main_lcdgrabop7_text="การติดตั้งหรือถอดออก CD/DVD/BD\t\t="
+main_lcdgrabop8_text="การแนบหรือถอดออกภาพ\t\t\t="
+main_lcdgrabop9_text="โหลดแพทช์เพิ่มเติม\t\t\t\t="
+main_lcdgrabop10_text="ศูนย์ควบคุม\t\t\t\t="
+main_lcdgrabop0_text="ออก\t\t\t\t\t="
+main_lcdgrabet1_text="ตัวเลือกอื่น ๆ ##\t\t="
+main_lcdgrabopEe_text="ดึงแผ่นและเครื่องบันทึกออกจากช่องใส่แผ่น\t="
+main_lcdgrabopTD_text="แสดงไดเรกทอรี"
+tabs="\t\t\t="
+main_lcdgrabopG_text="ผู้จัดการไฟล์\t\t\t\t="
+main_lcdgrabopH_text="ช่วยเหลือ\t\t\t\t="
+main_lcdgrabopA_text="เกี่ยวกับ\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="การบันทึกลงแผ่นซีดี"
+main_lcdgrabop2="การบันทึกลงแผ่นดีวีดี"
+main_lcdgrabop3="การบันทึกลงแผ่นบลูเรย์"
+main_lcdgrabop4="การดำเนินการในหน่วยดิสก์"
+main_lcdgrabop5="การสร้างภาพ"
+main_lcdgrabop6="การแปลงไฟล์เสียง"
+main_lcdgrabop6b="การแปลงไฟล์วิดีโอ"
+main_lcdgrabop7="การติดตั้งหรือถอดออก CD/DVD/BD"
+main_lcdgrabop8="การแนบหรือถอดออกภาพ"
+main_lcdgrabop9="โหลดแพทช์เพิ่มเติม"
+main_lcdgrabop10="ศูนย์ควบคุม"
+main_lcdgrabop0="ออก"
+main_lcdgrabet1="ตัวเลือกอื่น ๆ ##"
+main_lcdgrabopEe="ดึงแผ่นและเครื่องบันทึกออกจากช่องใส่แผ่น"
+main_lcdgrabopTD="แสดงไดเรกทอรี"
+main_lcdgrabopG="ผู้จัดการไฟล์"
+main_lcdgrabopH="ช่วยเหลือ"
+main_lcdgrabopA="เกี่ยวกับ"
+main_lcdgrabopPRINCIPAL="ป้อนตัวเลือก:"
+MSG1_MAIN="เลือก H เพื่อแสดงการใช้ตัวเลือก"
+main_lcdgrabopA_MSG1="กำลังทำงานบน:"
+# Traducción Chat GPT - FIN
+

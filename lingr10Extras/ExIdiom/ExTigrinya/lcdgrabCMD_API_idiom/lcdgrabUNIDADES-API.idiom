@@ -1,0 +1,71 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTigrinya/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en tigriña para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="መንገዲ ናይ .img ወይ .ext2 ምስሊ ናብ ዲስክ ንምድርባይ።"
+volcar_imagen_MSG2="-----------------------ጠቃሚ----------------------------" 
+volcar_imagen_MSG3="+ እዚ ኣማራጺ ኣብ ኦፕቲካል ዲስክታት ዝሰርሕ ኣይኮነን።"
+volcar_imagen_MSG4="+ ኣብ ፔንድራይቭ፡ ፍሎፒ ዲስክ፡ ዲስክ ፓርቲሽን ወዘተ ምጥቃም። "
+volcar_imagen_MSG5="+ ምስ ሃርድ ድራይቭ ኣብ ግምት ምእታው፤"
+volcar_imagen_MSG6="+ ምጽሓፍ ምስሊ ካብ መጀመርታ ብ dd ይግበር"
+volcar_imagen_MSG7="  ናይቲ ዝተወሰነ ዲስክ፡ ቁጽሪ ናይ ምጥቃም ኣይፍቀድን እዩ።"
+volcar_imagen_MSG8="  ፍሉይ ዓውዲ መስርሕ ጽሑፍ ንምጅማር"
+volcar_imagen_MSG9="+ ብጥንቃቐ ተጠቐመሉ። ብናይ ገዛእ ርእስኻ ሓደጋ ምጥቃም።"
+volcar_imagen_MSG10="+ ናይ ዲስክ ክፍልታት ኣብ ጥቕሚ ዘይውዕሉ ክኾኑ ይኽእሉ እዮም።"
+volcar_imagen_MSG11="+ ኣብ ብዙሕ ምክፍፋል ዘለዎም ስርዓታት ንኽትጥቀመሉ ኣይምከርን።"
+volcar_imagen_MSG12="  እቲ ምምላስ ካብቲ ናይ ምክፍፋል ሰደቓ ክወጽእ ይኽእል እዩ ከምኡውን..."
+volcar_imagen_MSG13="  ምክፍፋላት ንባዕሎም ዘይጠቕሙ እዮም።"
+volcar_imagen_MSG14="-------------------------------------------------------------"
+# El traductor muestra C KEY
+volcar_imagen_MSG15="ንምቕጻል C KEY ምጽቃጥ፤(እቲ መስርሕ ብኻልእ ኣማራጺ ክስረዝ እዩ)"
+volcar_imagen_MSG16="መንገዲ ናይቲ ናብ ዲስክ ዝድርበ ምስሊ ፋይል ግለጽ፤ "
+volcar_imagen_MSG17="ውጽኢት ትእዛዝ ምትካል፤"
+volcar_imagen_MSG18="እቲ ምስሊ ክድርበየሉ ዘለዎ ብሎክ መሳርሒ ግለጽ፤"
+volcar_imagen_MSG19="ምስሊ ምድርባይ"
+volcar_imagen_MSG20="ኣብቲ መሳርሒ"
+volcar_imagen_MSG21="ምጉያይ"
+volcar_imagen_MSG22="መስርሕ ምድርባይ ምስሊ ተዛዚሙ"
+
+# volcar_iso
+
+volcar_iso_MSG1="ነቲ iso ምስሊ ንምጽሓፍ ዝሕግዝ ብሎክ መሳርሒ ግለጽ፤"
+volcar_iso_MSG2="ምኸዳን"
+volcar_iso_MSG2B="-----"
+volcar_iso_MSG3="ንኽትጽሕፈሉ ብሎክ መሳርሒ ግለጽ።"
+volcar_iso_MSG4="ኣብነታት: /dev/sdb, /dev/sdc።"
+volcar_iso_MSG5="ናይዚ መሳርሒ ዝኾነ ክፍሊ ኣይትግለጽ።"
+volcar_iso_MSG6="ኣብነታት፡ /dev/sdb1, /dev/sdc2።"
+volcar_iso_MSG7="ንኽጽሕፎ iso-9660 ምስሊ ወይ img ግለጽ:"
+volcar_iso_MSG9="መስርሕ ተዛዚሙ።"
+volcar_iso_MSG10="ኣብ መስርሕ ምጽሓፍ iso ጌጋ።"
+volcar_iso_MSG11="እቲ ምስሊ ንምጽሓፍ መጠን ብሎክ ግለጽ።"
+volcar_iso_MSG12="ክትጽሕፍ ብመሰረት ስርዓተ ምምሕዳር ኣማራጺ ምረጽ:"
+volcar_iso_MSG13="ISO-9660 ወይ ቦት ዝግበረሉ IMG ምስሊ ኣብ መሳርሒ ንኽፍላሽ:"
+volcar_iso_MSG14="ምውጻእ።"
+volcar_iso_MSG15="ISO-9660 ወይ IMG ምስሊ ፋይል"
+volcar_ISO_MSG16="ኣብ ኣሃዱ ንምድርባይ ዝሕግዝ ስርዓተ ስራሕ ምረጽ"።
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="እቲ ፋይል ሲስተም ምስ ምረጽ።"
+Formateador_linuxfs_MSG2="እቲ መሳርሒ ክቕረጽ እዩ:"
+Formateador_linuxfs_MSG3="እቲ ክቐርጽ ዝኽእል ናይ ብሎክ መሳርሒ ግለጽ: "
+Formateador_linuxfs_MSG5="መስርሕ ተዛዚሙ።"
+Formateador_linuxfs_MSG6="ዲስክ ፎርማተር።"
+Formateador_linuxfs_MSG7="ናይ ድምጺ ምልክት ኣቐምጥ።"
+Formateador_linuxfs_MSG10="ስም ስያመ ድምጺ ግለጽ።"
+Formateador_linuxfs_MSG11="ሓድሽ ምልክት ድምጺ።"
+Formateador_linuxfs_MSG12="ዓቐን ብሎክ ግለጽ።"
+Formateador_linuxfs_MSG13="ሓድሽ መጠን ብሎክ።"
+Formateador_linuxfs_MSG14="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+

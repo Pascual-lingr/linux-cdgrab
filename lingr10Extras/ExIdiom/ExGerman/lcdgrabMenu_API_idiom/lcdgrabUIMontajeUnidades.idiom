@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGerman/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Alemán para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generada con google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="DERZEIT IM SYSTEM MONTIERTE GERÄTE"
+montar_dispositivos_MSG1B="GERÄTE MOUNT/UNMOUNT"
+montar_dispositivos_MSG2="--LINUX-CDGRAB-OPTIONEN-"
+montar_dispositivos_MSG3="Disk aus CD/DVD/BD-Lesegerät auswerfen"
+montar_dispositivos_MSG4="Disc aus CD/DVD/BD-Brenner auswerfen"
+montar_dispositivos_MSG5="CD-ROM/DVD-ROM/BD-ROM-Laufwerk mounten"
+montar_dispositivos_MSG6="CD-ROM/DVD-ROM/BD-ROM aushängen"
+montar_dispositivos_MSG7="Gerät manuell ein- oder aushängen"
+montar_dispositivos_MSG0="Vorheriges Menü"
+montar_dispositivos_MSG8="CD/DVD/BD gemountet auf"
+montar_dispositivos_MSG9="Drücken Sie die Eingabetaste, um fortzufahren..."
+montar_dispositivos_MSG10="Fehler beim Mounten der CD/DVD/BD auf"
+montar_dispositivos_MSG11="Die CD/DVD/BD wurde ausgehängt"
+montar_dispositivos_MSG12="Fehler beim Unmounten der CD/DVD/BD"
+montar_dispositivos_MSG13="Geben Sie das Gerät zum Mounten/Unmounten ein:"
+montar_dispositivos_MSG14="Einhängepunkt eingeben:"
+montar_dispositivos_MSG15="entspricht keinem Blockgerät"
+montar_dispositivos_MSG16="Einhängepunkt kann nicht gefunden werden"
+montar_dispositivos_MSG17="Standard-Mountpunkt"
+montar_dispositivos_MSG18="Option wählen:"
+montar_dispositivos_MSG19="Mounten"
+montar_dispositivos_MSG20="on"
+montar_dispositivos_MSG21="Unmounten"
+montar_dispositivos_MSG22="von"
+montar_dispositivos_MSG23="gemountet auf:"
+montar_dispositivos_MSG24="MOUNT-FEHLER"
+montar_dispositivos_MSG25="DE"
+montar_dispositivos_MSG26="nicht gemountet von"
+montar_dispositivos_MSG27="UNMOUNT-FEHLER"
+montar_dispositivos_MSG28="von"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Ausgabe des Mount-Befehls"
+Montar_Imagenes_MSG1B="BILDDATEIEN MOUNT/UNMOUNT"
+Montar_Imagenes_MSG2="Wählen Sie eine Option"
+Montar_Imagenes_MSG3="CD/DVD/BD-Image mounten"
+Montar_Imagenes_MSG4="CD/DVD/BD-Image aushängen"
+Montar_Imagenes_MSG5="Vorheriges Menü"
+

@@ -1,0 +1,73 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Húngaro, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="VÁLASSZON LEHETŐSÉGET"
+clonar_MSG2="------ LEMEZ MÁSOLATOK ELŐNÉZETI KÉPPEL -------"
+clonar_MSG3="Adat-CD másolása"
+clonar_MSG4="Előző CD-kép létrehozása a merevlemezen"
+clonar_MSG5="----------- LEMEZ MÁSOLATOK KÖZBEN ------------"
+clonar_MSG6="Adat-CD másolása menet közben"
+clonar_MSG7="Adat-CD klónozása menet közben"
+clonar_MSG7B="Audio CD másolása menet közben"
+clonar_MSG8="REPÜLŐ MÁSOLÁSI OPCIÓKHOZ KÉT OPTIKAI EGYSÉGET SZÜKSÉGES"
+clonar_MSG9="TELEPÍTVE AZ ÖN SZÁMÍTÓGÉPÉRE, MIVEL AZ ADATOK RÖGZÍTÉSE ALATT VAN"
+clonar_MSG10="OLVASD KÖZVETLENÜL AZ EREDETI LEMEZRŐL, HA CSAK A SZÁMÍTÓGÉPÉN VAN"
+clonar_MSG11="NEM TUDJA HASZNÁLNI A MÁSOLATOKAT A REPÜLÉSRE."
+clonar_MSG12B="CD ADATOK MÁSOLÁSA"
+clonar_MSG0="Előző menü"
+
+# mgrabacd
+
+mgrabacd_MSG1="CD ADATOK MEREVLEMEZRŐL"
+mgrabacd_MSG2="Új adat-CD írása (cdrtools használata)"
+mgrabacd_MSG3="Új adat-CD írása (használja a libburniát)"
+mgrabacd_MSG4="Előző menü"
+mgrabacd_MSG5="Adjon meg egy beállítást"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="ADATKÉP RÖGZÍTÉSE"
+mgrabaimg_MSG2="Iso vagy ext2 kép írása CD-R/RW-re (cdrtools használata)"
+mgrabaimg_MSG3="Iso kép írása CD-R/RW-re (használjon libburniát)"
+mgrabaimg_MSG4="Előző menü"
+mgrabaimg_MSG5="Adjon meg egy beállítást"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Audio CD írása .wav fájlokból"
+mgrabararchivosaudio_MSG2="Audio CD írása .mp3 fájlokból"
+mgrabararchivosaudio_MSG3="Audio CD írása .ogg fájlokból"
+mgrabararchivosaudio_MSG0="Előző menü"
+mgrabararchivosaudio_MSG0B="Írjon be egy beállítást"
+mgrabararchivosaudio_MSG4="Audio CD írása .flac fájlokból"
+mgrabararchivosaudio_MSG5="CD-AUDIO FELVÉTEL FÁJLOKBÓL"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="FELVÉTEL CD-RE"
+menugrabar_cd_MSG2="------------------ CD - ADATOK -------------------"
+menugrabar_cd_MSG3="Adatok CD másolása"
+menugrabar_cd_MSG4="Új adat-CD írása"
+menugrabar_cd_MSG5="Új több munkamenetes adat-CD írása"
+menugrabar_cd_MSG6=".iso vagy .ext2 kép írása CD-re"
+menugrabar_cd_MSG7=".bin/.cue kép írása CD-re"
+menugrabar_cd_MSG8="------------------ CD - AUDIO --------------------"
+menugrabar_cd_MSG9="Audio CD bemásolása"
+menugrabar_cd_MSG13="------------------ EGYÉB OPCIÓK ------------------"
+menugrabar_cd_MSG14="Vegyes CD írása (adat + hang)"
+menugrabar_cd_MSG15="CD-RW törlése"
+menugrabar_cd_MSG16="Nyitott CD bezárása"
+menugrabar_cd_MSG17="Lemezinformációk megjelenítése a meghajtóban"
+menugrabar_cd_MSG18="Audio CD írása lemezfájlokból"
+menugrabar_cd_MSG0="Előző menü"
+menugrabar_cd_MSGPRINCIPAL="Írjon be egy beállítást"
+

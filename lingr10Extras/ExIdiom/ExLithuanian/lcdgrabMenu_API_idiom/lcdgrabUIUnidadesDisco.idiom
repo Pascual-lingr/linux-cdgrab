@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExLithuanian/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Lituano para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="DISKŲ VEIKSMAI"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- SVARBU -----------------------"
+MenuDispositivosBloque_MSG3="+ Neatlikite rašymo operacijų kietajame diske "
+MenuDispositivosBloque_MSG4="+ apie disko skaidinius, kuriuose yra vaizdų"
+MenuDispositivosBloque_MSG5="+ atkūrimas, įkrovos skaidiniai arba jūsų"
+MenuDispositivosBloque_MSG6="+ operacinės sistemos skaidinys."
+MenuDispositivosBloque_MSG7="+ Netinkamas šio meniu rašymo parinkčių naudojimas "
+MenuDispositivosBloque_MSG8="+ gali sukelti katastrofą sistemoje."
+MenuDispositivosBloque_MSG9="+ Naudokite atsargiai. Naudokite savo rizika."
+MenuDispositivosBloque_MSG10="--------------------- RAŠYMAS -----------------------"
+MenuDispositivosBloque_MSG11="Iškelkite vaizdo failą į disko įrenginį"
+MenuDispositivosBloque_MSG11B="Iškelti iso arba img vaizdą (savaime paleidžiamas) į laikmeną arba USB diską"
+MenuDispositivosBloque_MSG11C="Palaikomos ne visos diegimo sistemos."
+MenuDispositivosBloque_MSG12="Formatuoti diską su gimtąja Linux arba Windows failų sistema"
+MenuDispositivosBloque_MSG13="-------------------- SKAITYMAS ---------------------"
+MenuDispositivosBloque_MSG14="Sukurti .img vaizdą iš disko įrenginio"
+MenuDispositivosBloque_MSG15="Ankstesnis meniu"
+MenuDispositivosBloque_MSG16="Įveskite parinktį"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------SVARBU------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Formatavimo vienetas su įrenginiuose naudojama failų sistema"
+UIFormatearUnidad_linuxfs_MSG2B="+ arba disko skaidiniai."
+UIFormatearUnidad_linuxfs_MSG3="+ Ši parinktis ištrins visus esamus įrenginio duomenis"
+UIFormatearUnidad_linuxfs_MSG4="+ Nuimami diskai, suformatuoti naudojant failų sistemą"
+UIFormatearUnidad_linuxfs_MSG5="+ Pats Linux bus pasiekiamas tik naudojant šią operacinę sistemą."
+UIFormatearUnidad_linuxfs_MSG6="+ Naudokite atsargiai, naudokite savo rizika."
+UIFormatearUnidad_linuxfs_MSG7="--------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="PASPUSITE KLAVIŠĄ C, KAD TĘSITE; (Procesas bus atšauktas naudojant kitą parinktį)"
+

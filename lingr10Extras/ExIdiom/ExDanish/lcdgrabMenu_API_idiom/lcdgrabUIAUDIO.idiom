@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDanish/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en danés para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="LYDKONVERING"
+menu_conversion_audio_MSG2="----------- KONVERTERING MELLEM FORMATER -----------"
+menu_conversion_audio_MSG3="Konverter .mp3 til .wav"
+menu_conversion_audio_MSG4="Konverter .ogg til .wav"
+menu_conversion_audio_MSG5="Konverter .wav til .mp3"
+menu_conversion_audio_MSG6="Konverter .wav til .ogg"
+menu_conversion_audio_MSG6C="Konverter .wav til .flac"
+menu_conversion_audio_MSG6B="Konverter .flac til .wav"
+menu_conversion_audio_MSG7="--------- UDTREKNING AF LYDSPOR ---------"
+menu_conversion_audio_MSG8="Rip en lyd-cd til .wav"
+menu_conversion_audio_MSG9="Rip et sæt lydspor til .wav"
+menu_conversion_audio_MSG10="Rip en lyd-cd til .mp3"
+menu_conversion_audio_MSG11="Rip en lyd-cd til .ogg"
+menu_conversion_audio_MSG0="Forrige menu"
+menu_conversion_audio_MSG12="Søg efter .mp3-filer"
+menu_conversion_audio_MSG13="Søg efter .ogg-filer"
+menu_conversion_audio_MSG14="Søg efter .wav-filer"
+menu_conversion_audio_MSG15="------------------------"
+menu_conversion_audio_MSG16="Klip .wav-lydfil"
+menu_conversion_audio_MSG17="Rip en lyd-cd til .flac"
+
+

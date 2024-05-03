@@ -1,0 +1,179 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAfrikaans/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Afrikáans para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Neem toestel op as"
+buscar_grabadora_MSG1B="Geldig"
+buscar_grabadora_MSG2="Neem toestel op as"
+buscar_grabadora_MSG2B="Fout"
+buscar_grabadora_MSG3="Die dvd+-rw-nutsmiddels aanvaar nie dat die opnametoestel is"
+# Se omite 'n por evitar errores de funcionamiento
+buscar_grabadora_MSG4="Om DVD's te kan brand met die dvd+rw-tools moet jy jou opnemer as n bloktoestel spesifiseer"
+buscar_grabadora_MSG5="Voorbeeld"
+buscar_grabadora_MSG6="of"
+buscar_grabadora_MSG7="Wys tans bestaande stelseltoestelle in /dev"
+buscar_grabadora_MSG8="Voer die blok toestel in wat ooreenstem met jou DVD-opnemer"
+buscar_grabadora_MSG9="Geen opnemer tipe of opsie is gespesifiseer nie."
+buscar_grabadora_MSG10="TOESTEL GECONFIGUREER VIR DIE OPNEMER"
+buscar_grabadora_MSG11="Die opname-toestel is na die dop-omgewing uitgevoer as"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Moontlike waarde slegs geldig vir cdrecord"
+buscar_grabadoralb_MSG2="Die huidige opstelling vir die opnemer is"
+buscar_grabadoralb_MSG3="Kyk dat hierdie opstelling ooreenstem met die waarde wat deur cdrskin toegeken is"
+buscar_grabadoralb_MSG4="Skandeer IDE/SCSI-poort met cdrskin..."
+buscar_grabadoralb_MSG5="Spesifiseer die nuwe waarde wat met cdrskin gebruik sal word:"
+
+# datos_dvd
+
+# Se omite 'n por evitar errores de funcionamiento
+datos_dvd_MSG1="Voer n naam vir die toekomstige DVD in:"
+datos_dvd_MSG2="NEEM DVD OP . . ."
+datos_dvd_MSG3="Gebruik"
+datos_dvd_MSG4="loop"
+datos_dvd_MSG5="DVD SUKSESVOL AANGENEEM!"
+datos_dvd_MSG6="Mkisofs of genisoimage kan nie gevind word nie, installeer cdrtools of cdrkit"
+
+# datos_dvd_multi
+
+# Se omite 'n por evitar errores de funcionamiento
+datos_dvd_multi_MSG1="Voer n naam vir die toekomstige DVD in:"
+datos_dvd_multi_MSG2="NEEM DVD OP . . ."
+datos_dvd_multi_MSG3="Gebruik"
+datos_dvd_multi_MSG4="loop"
+datos_dvd_multi_MSG5="DVD SUKSESVOL AANGENEEM!"
+datos_dvd_multi_MSG6="Mkisofs of genisoimage kan nie gevind word nie, installeer cdrtools of cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="NEEM BEELD OP . . ."
+grabimg_dvd_MSG2="hardloop"
+grabimg_dvd_MSG3="! DVD-BEELD SUKSESVOL AANGENEEM !"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="NEEM BEELD OP DVD OP . . ."
+copia_bin_dvd_MSG2="loop"
+copia_bin_dvd_MSG3="	VEEE BEELD LÊER UIT"
+copia_bin_dvd_MSG4="OPNAME VOLTOOI!"
+
+# formatear_dvd
+
+# Se omite 'n por evitar errores de funcionamiento
+formatear_dvd_MSG1="Formateer n"
+formatear_dvd_MSG2="Forseer n nuwe formaat vir n"
+formatear_dvd_MSG3="Herplaas die uitloopblok van n"
+formatear_dvd_MSG4="Formateer n DVD-RW na opeenvolgend inkrementeel"
+formatear_dvd_MSG5="Formateer n DVD-RW na beperkte oorskryf"
+formatear_dvd_MSG6="Vul n DVD met nulle"
+formatear_dvd_MSG7="Wys DVD-inligting"
+formatear_dvd_MSG8="Vorige spyskaart"
+formatear_dvd_MSG9="Hierdie opsie word gebruik om die DVD vir die eerste keer te formateer."
+formatear_dvd_MSG10="As die DVD reeds geformateer is, sal dit nie die data uitvee nie."
+# Se omite 'n por evitar errores de funcionamiento
+formatear_dvd_MSG11="Hierdie sal in n nuwe opname oorgeskryf word."
+formatear_dvd_MSG12="Om die inhoud van die DVD uit te vee, gebruik:"
+# Se omite 'n por evitar errores de funcionamiento
+formatear_dvd_MSG13="Vul n DVD met nulle"
+formatear_dvd_MSG14="Hierdie opsie vee formaat en data van die behandelde DVD uit."
+formatear_dvd_MSG15="loop"
+formatear_dvd_MSG16="DVD+RW/DVD-RW SUKSESVOL GEFORMATEER !"
+formatear_dvd_MSG17="FOUT BY DIE FORMATERING VAN DVD"
+formatear_dvd_MSG18="Forseer formaat op DVD+RW-skyf..."
+formatear_dvd_MSG19="DVD+RW SUKSESVOL GEFORMATEER!"
+formatear_dvd_MSG20="FOUT BY DIE FORMATERING VAN DVD+RW"
+formatear_dvd_MSG21="Hierdie opsie beïnvloed nie die data wat op die DVD+RW gestoor is nie"
+formatear_dvd_MSG22="Verwyder tans uitloopblok van DVD+RW..."
+formatear_dvd_MSG23="Formateer tans DVD-RW-skyf na sekwensiële skryf..."
+formatear_dvd_MSG24="DVD-RW SUKSESVOL GEFORMATEER!"
+formatear_dvd_MSG25="FOUT BY DIE FORMATERING VAN DVD-RW"
+formatear_dvd_MSG26="Formateer tans DVD-RW-skyf na beperkte oorskryf..."
+formatear_dvd_MSG27="VEE HERSKRYFBARE DVD uit"
+
+# null_dvd
+
+null_dvd_MSG1="Skryf na skyf vanaf /dev/zero . . ."
+null_dvd_MSG2="loop"
+null_dvd_MSG3="PROSES VOLTOOI"
+null_dvd_MSG4="ONVERWAGTE FOUT"
+
+# dvd_video
+
+dvd_video_MSG1="Pad waar die VIDEO_TS- en AUDIO_TS-gidse geleë is:"
+dvd_video_MSG2="Spesifiseer die pad waar die VIDEO_TS- en AUDIO_TS-gidse geleë is:"
+dvd_video_MSG3="loop"
+dvd_video_MSG4="--- SUKSESVOL OPNEEM DVD-VIDEO ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="loop"
+dvd_copia_bin_MSG2="	VEEE BEELD LÊER UIT"
+# Se omite 'N por evitar errores de funcionamiento
+dvd_copia_bin_MSG3="N OPNAMEFOUT HET VOORKOM"
+
+# dvd_datos
+
+dvd_datos_MSG1="Lêers en gidse om die .iso-beeld te skep"
+dvd_datos_MSG2="DVD ETIKET"
+# Se omite 'n por evitar errores de funcionamiento
+dvd_datos_MSG3="Voer 'n naam vir die toekomstige DVD in:"
+dvd_datos_MSG4="Begin tans die lêerbestuurder:"
+dvd_datos_MSG5="	SKEP tans BEELD . . ."
+dvd_datos_MSG6="loop"
+dvd_datos_MSG7="ISO-9660-BEELD INGESKEEP"
+dvd_datos_MSG8="	NEEM DVD op"
+dvd_datos_MSG13="VEE BEELD..."
+
+# dvd_borra
+
+dvd_borra_MSG1="hardloop"
+dvd_borra_MSG2="OPTIESE SKYF SUKSESVOL GEFORMATEER"
+dvd_borra_MSG3="FOUT BY DIE FORMATERING VAN OPTIESE SKYF"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="hardloop"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="Hardloop"
+formatearCDDVDBD_MSG2="OPTIESE SKYF SUKSESVOL GEFORMATEER"
+formatearCDDVDBD_MSG3="FOUT BY DIE FORMATERING VAN OPTIESE SKYF"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW suksesvol geformateer!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Fout met formatering van DVD-RW na beperkte oorskryf"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW suksesvol geformateer!!"
+formatearDVDRW_incremental_secuencial_MSG2="Fout met die formatering van DVD-RW na sekwensiële inkrementele"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Spesifiseer die pad van die iso-9660 beeld om te brand:"
+cdrskinisocddvd_MSG2="ISO-BEELD SUKSESVOL AANGENEEM!!"
+cdrskinisocddvd_MSG3="FOUT BY DIE OPNAME VAN BEELD"
+

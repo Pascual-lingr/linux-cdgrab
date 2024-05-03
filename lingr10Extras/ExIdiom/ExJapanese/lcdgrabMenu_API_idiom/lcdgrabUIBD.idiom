@@ -1,0 +1,19 @@
+#########################################################
+# lcdgrabAPI_idiom/ExJapanese/lcgdrabMenu_API_idiom/lcdgrabUIBD.idiom
+# Menu de Interfaz para la grabación de BD.
+# Traducción experimental al Japonés. Usado google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_grabar_BD
+
+menu_grabar_BD_MSG0="前のメニュー。"
+menu_grabar_BD_MSG1="ブルーレイディスクへの記録"
+menu_grabar_BD_MSG2="ハード ドライブ データから新しい BD-R/BD-RE iso を書き込みます"
+menu_grabar_BD_MSG7="iso-9660/udf イメージを BD-R/BD-RE に書き込む"
+menu_grabar_BD_MSG8="------------------ DB - データ ------------------"
+menu_grabar_BD_MSG9="ドライブのディスク情報を表示する"
+menu_grabar_BD_MSG10="必要なフォーマットを BD-RE に適用します"

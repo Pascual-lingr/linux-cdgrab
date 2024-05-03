@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAmharic/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en amárico para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="ወደ ዲስክ ለመጣል የ.img ወይም .ext2 ምስል መንገድ።"
+volcar_imagen_MSG2="-----------------------አስፈላጊ----------------------------" 
+volcar_imagen_MSG3="+ ይህ አማራጭ በኦፕቲካል ዲስኮች ላይ አይሰራም።"
+volcar_imagen_MSG4="+ በ pendrives፣ ፍሎፒ ዲስኮች፣ የዲስክ ክፍልፋዮች፣ ወዘተ ላይ ተጠቀም።"
+volcar_imagen_MSG5="+ ከሃርድ ድራይቮች ጋር ግምት ውስጥ መግባት:"
+volcar_imagen_MSG6="+ ምስሉ ከመጀመሪያው በዲ ተጽፏል"
+volcar_imagen_MSG7=" ከተጠቀሰው ዲስክ ቁጥር መጠቀም አይፈቀድም"
+volcar_imagen_MSG8="የአጻጻፍ ሂደቱን ለመጀመር የተወሰነ ዘርፍ"
+volcar_imagen_MSG9="+ በጥንቃቄ ተጠቀም። በራስህ ኃላፊነት ተጠቀም።"
+volcar_imagen_MSG10="+ የዲስክ ክፍልፋዮች ጥቅም ላይ የማይውሉ ሊሆኑ ይችላሉ።"
+volcar_imagen_MSG11="+ በባለብዙ ክፍልፋይ ስርዓቶች ላይ ለመጠቀም አይመከርም።"
+volcar_imagen_MSG12="መልሶ ማግኘቱ የክፋይ ሠንጠረዡን ሊወጣ ይችላል እና"
+volcar_imagen_MSG13="ጥቅም የሌላቸው ክፍልፋዮች እራሳቸው።"
+volcar_imagen_MSG14="-------------------------------------------------------------"
+volcar_imagen_MSG15="ለመቀጠል የ C ቁልፍን ይጫኑ፤ (ሂደቱ በሌላ አማራጭ ይሰረዛል)"
+volcar_imagen_MSG16="ወደ ዲስክ ለመጣል የምስሉን ፋይል ዱካ ይግለጹ: "
+volcar_imagen_MSG17="የትእዛዝ ውፅዓትን ጫን:"
+volcar_imagen_MSG18="ምስሉ የሚጣልበት የማገጃ መሳሪያውን ይግለጹ፡"
+volcar_imagen_MSG19="ምስል መጣል"
+volcar_imagen_MSG20="በመሣሪያው ላይ"
+volcar_imagen_MSG21="እየሮጠ"
+volcar_imagen_MSG22="የምስል መጣል ሂደት ተጠናቀቀ"
+
+# volcar_iso
+
+volcar_iso_MSG1="የ iso ምስሉን ለመፃፍ የማገጃ መሳሪያውን ይግለጹ፡-"
+volcar_iso_MSG2="ማስጠንቀቂያ"
+volcar_iso_MSG2B="--------"
+volcar_iso_MSG3=" የሚጽፍበት መሣሪያን ይግለጹ።"
+volcar_iso_MSG4="ምሳሌዎች: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="የዚህ መሣሪያ ክፍልፋይ አይግለጹ"
+volcar_iso_MSG6="ምሳሌዎች: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="የ iso-9660 ምስሉን ይግለጹ ወይም ለመጻፍ img:"
+volcar_iso_MSG9="ሂደቱ ተጠናቅቋል"
+volcar_iso_MSG10="በ iso መጻፍ ሂደት ውስጥ ስህተት"
+volcar_iso_MSG11="ምስሉን ለመፃፍ የማገጃውን መጠን ይግለጹ"
+volcar_iso_MSG12="ለመጻፍ በስርዓተ ክወናው መሰረት አማራጭ ምረጥ፡"
+volcar_iso_MSG13="ISO-9660 ወይም ሊነሳ የሚችል IMG ምስል በመሣሪያው ላይ እንዲበራ:"
+volcar_iso_MSG14="ውጣ"
+volcar_iso_MSG15="ISO-9660 ወይም IMG ምስል ፋይል"
+volcar_ISO_MSG16="ወደ ዩኒት ለመጣል የአሰራር ስርዓትን ምረጥ"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="የፋይል ስርዓቱን በ ይምረጡ"
+Formateador_linuxfs_MSG2="መሣሪያው ይቀረጻል:"
+Formateador_linuxfs_MSG3="ለመቅረጽ የማገጃ መሳሪያውን ይግለጹ፡"
+Formateador_linuxfs_MSG5="ሂደት ተጠናቀቀ"
+Formateador_linuxfs_MSG6="ዲስክ ፎርማት"
+Formateador_linuxfs_MSG7="የድምጽ መለያ አዘጋጅ"
+Formateador_linuxfs_MSG10="የድምጽ መለያውን ስም ይግለጹ"
+Formateador_linuxfs_MSG11="አዲስ የድምጽ መለያ"
+Formateador_linuxfs_MSG12="የብሎክ መጠንን ይግለጹ"
+Formateador_linuxfs_MSG13="አዲስ የማገጃ መጠን"
+Formateador_linuxfs_MSG14="የቀድሞው ምናሌ"
+

@@ -1,0 +1,234 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en Suajili para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="MFUMO WA FILI PICHA"
+imagen_linux_fs_MSG2="Chagua mfumo wa faili: "
+imagen_linux_fs_MSG3="Unda picha ya CD-R/RW (Mbytes 702)"
+imagen_linux_fs_MSG4="Unda picha ya DVD+RW (Gbytes 4)"
+imagen_linux_fs_MSG5="Unda picha ya DVD+RW/DL (Gbytes 8)"
+imagen_linux_fs_MSG5B="Unda picha ya BD-R/RE (Gbytes 25)"
+imagen_linux_fs_MSG5C="Unda faili ya picha kwa ukubwa maalum"
+imagen_linux_fs_MSG6="Kuunda faili tupu yenye uwezo wa Mbytes 702"
+imagen_linux_fs_MSG7="Kuunda faili tupu yenye uwezo wa Gbytes 4"
+imagen_linux_fs_MSG8="Kuunda faili tupu yenye uwezo wa Gbytes 8"
+imagen_linux_fs_MSG8B="Kuunda faili tupu yenye uwezo wa Gbytes 25"
+imagen_linux_fs_MSG8C="Kuunda faili tupu na saizi maalum"
+imagen_linux_fs_MSG9="KOSA: UKUBWA WA PICHA HAUJULIKANI. KUACHA..."
+imagen_linux_fs_MSG10="Inaendesha"
+imagen_linux_fs_MSG11="Programu itafomati faili tupu."
+imagen_linux_fs_MSG12="Mfumo utakuonya kuwa faili iliyoundwa hapo awali sio kifaa cha kuzuia na utakuuliza ikiwa unataka kuiumbiza"
+imagen_linux_fs_MSG13="Jibu ndiyo"
+imagen_linux_fs_MSG13="IMEFANIKIWA KWA MAFANIKIO"
+imagen_linux_fs_MSG14=" Picha ya Kupachika . . ."
+imagen_linux_fs_MSG15="KOSA LINAPOFUNGA FILI TUPU"
+imagen_linux_fs_MSG16="Programu imepachika faili iliyoumbizwa"
+imagen_linux_fs_MSG17="Linux-cdgrab itazindua kidhibiti faili ili kiweze kufanya kazi kwenye picha iliyowekwa"
+imagen_linux_fs_MSG18="Mafaili yakisha kunakiliwa, ondoa faili iliyoumbizwa"
+imagen_linux_fs_MSG19="Picha ya linux iko kwenye saraka hii"
+imagen_linux_fs_MSG19B="KOSA WAKATI WA KUWEKA FAILI LA PICHA"
+imagen_linux_fs_MSG20="Faili za kujumuisha kwenye picha. Imewekwa ndani /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Inazindua kidhibiti faili..."
+imagen_linux_fs_MSG22="TAARIFA:"
+imagen_linux_fs_MSG23="--------"
+imagen_linux_fs_MSG24="Picha"
+imagen_linux_fs_MSG25="bado imewekwa"
+imagen_linux_fs_MSG26="KOSA LINAPOTENGENEZA FAILI TUPU KWA dd"
+imagen_linux_fs_MSG27="Angalia kuwa una nafasi ya bure kwenye kizigeu kilichowekwa kwa /"
+imagen_linux_fs_MSG34="MFUMO WA FILI ILI KUUmbiza FILA"
+imagen_linux_fs_MSG35="KUZALISHA FAILI TUPU ILIYO NA UKUBWA UDAKU"
+imagen_linux_fs_MSG36="Bainisha ukubwa wa kizuizi cha faili mpya tupu (thamani ya nambari pekee):"
+imagen_linux_fs_MSG37="Mfano wa thamani kwa ukubwa wa kizuizi ni: 1024, 2048 (Ext2 pekee) au 4096 (Miundo yote)"
+imagen_linux_fs_MSG38="Bainisha ukubwa wa faili tupu ili kutoa (thamani ya nambari tu):"
+imagen_linux_fs_MSG39="Vipimo vya nafasi ili kutoa faili tupu:"
+imagen_linux_fs_MSG40="Bainisha kipimo cha nafasi cha kutumia: "
+imagen_linux_fs_MSG41="KOSA LINAPOTAJA KIPIMO CHA UKUBWA"
+imagen_linux_fs_MSG42="Thamani ya saizi ya kuzuia:"
+imagen_linux_fs_MSG43="Kiasi cha nafasi kwa faili tupu:"
+imagen_linux_fs_MSG44="Thamani iliyohesabiwa katika baiti:"
+imagen_linux_fs_MSG45="Thamani iliyohesabiwa kwa hesabu:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Washa usomaji wa md5 unapotengeneza picha za .iso"
+comprobar_lectura_md5_MSG2="Zima usomaji wa md5 unapotengeneza picha za .iso"
+comprobar_lectura_md5_MSG3="Menyu iliyotangulia"
+comprobar_lectura_md5_MSG4="Usanidi wa sasa:"
+comprobar_lectura_md5_MSG5="Imewezeshwa"
+comprobar_lectura_md5_MSG6="Walemavu"
+comprobar_lectura_md5_MSG7="Soma jumla ya md5 imewashwa"
+comprobar_lectura_md5_MSG8="Soma jumla ya md5 imezimwa"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Jina la picha ya iso halikuweza kusomeka"
+leer_md5sum_MSG2="Kusoma md5sum of"
+leer_md5sum_MSG3="Inaonyesha md5 jumla ya picha"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="KUTENGENEZA CD IMAGE"
+extraer_isoCD_dd_MSG2="PICHA IMEUNDWA NDANI"
+extraer_isoCD_dd_MSG3="Haijapatikana"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="CREATING DVD IMAGE"
+extraer_isoDVD_dd_MSG2="running"
+extraer_isoDVD_dd_MSG3="PICHA IMEUNDWA NDANI"
+extraer_isoDVD_dd_MSG4="Haijapatikana"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="running"
+extraer_iso_readcd_MSG2="PICHA IMEFANIKIWA KUUNDA"
+extraer_iso_readcd_MSG3="Picha imeundwa"
+extraer_iso_readcd_MSG4="Kukomesha mchakato wa kurekodi..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="CD iliyowekwa"
+extraer_iso_mkisofs_MSG2="Inaunda picha..."
+extraer_iso_mkisofs_MSG3="Upatanifu wa Macintosh umewezeshwa"
+extraer_iso_mkisofs_MSG4="Kutumia"
+extraer_iso_mkisofs_MSG5="running"
+extraer_iso_mkisofs_MSG6="Picha imeundwa katika saraka"
+extraer_iso_mkisofs_MSG7="Kujaribu tena mchakato bila usaidizi wa Macintosh"
+extraer_iso_mkisofs_MSG8="Picha imeundwa katika saraka"
+extraer_iso_mkisofs_MSG9="mkisofs inarudisha makosa yasiyojulikana wakati wa kuunda"
+extraer_iso_mkisofs_MSG10="kutoka"
+extraer_iso_mkisofs_MSG11="Angalia uadilifu wa data"
+extraer_iso_mkisofs_MSG12="Kuweka"
+extraer_iso_mkisofs_MSG12B="sw"
+extraer_iso_mkisofs_MSG13="genisoimage inarudisha makosa yasiyojulikana wakati wa kuunda"
+extraer_iso_mkisofs_MSG13B="kutoka"
+extraer_iso_mkisofs_MSG14="Mkisofs na genisoimage hazijapatikana. Tafadhali sakinisha cdrtools au cdrkit."
+extraer_iso_mkisofs_MSG15="Haikuweza kupachikwa"
+extraer_iso_mkisofs_MSG16="Picha imeundwa kwa mafanikio katika"
+
+# m_comp_img
+
+m_comp_img_MSG1="PICHA IMETOLEWA KWA MAFANIKIO KATIKA"
+m_comp_img_MSG2="JE, UNATAKA KUBANA FILI LA PICHA?"
+m_comp_img_MSG3="(s/y) kubana; Mchakato umeghairiwa kwa chaguo jingine."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Inazindua kidhibiti faili..."
+generar_iso_directorio_MSG2="Ingiza jina la CD/DVD/BD ya baadaye"
+generar_iso_directorio_MSG3="KUUNDA PICHA..."
+generar_iso_directorio_MSG4="Upatanifu wa Macintosh umewezeshwa"
+generar_iso_directorio_MSG5="Kutumia"
+generar_iso_directorio_MSG6="inaendesha"
+generar_iso_directorio_MSG7="PICHA ILIYOUNGWA KWENYE DIRECTORY"
+generar_iso_directorio_MSG8="MCHAKATO WA KUUNDA PICHA UMESHINDWA"
+generar_iso_directorio_MSG9="KUUNDA PICHA BILA UTANIFU WA MACINTOSH"
+generar_iso_directorio_MSG10="mkisofs na genisoimage hazipatikani. Tafadhali sakinisha cdrtools au cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Ingiza jina la DVD/BD ya baadaye"
+generar_bdv_udf_directorio_MSG2="Bainisha saraka ili kutoa taswira ya video:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Bainisha lebo ya diski:"
+generar_iso_directorio_libburnia_MSG2="Bainisha saraka ili kutoa picha ya iso-9660:"
+generar_iso_directorio_libburnia_MSG3="ISO9660 picha imeundwa kwa mafanikio!!"
+generar_iso_directorio_libburnia_MSG4="Hitilafu katika kuzalisha picha ya iso-9660 kwa xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="Faili na saraka za kujumuisha kwenye picha ya .iso"
+imagenISO_MSG2="CHAGUA CHAGUO"
+imagenISO_MSG2B="-------------"
+imagenISO_MSG3="Tengeneza picha ya ISO-9660 kutoka kwa CD (tumia dd)"
+imagenISO_MSG4="Tengeneza picha ya ISO-9660 kutoka kwa DVD (tumia dd)"
+imagenISO_MSG5="Tengeneza picha ya ISO-9660 kutoka kwa CD (tumia readcd)"
+imagenISO_MSG6="Tengeneza picha ya ISO-9660 kutoka kwa CD au DVD disk (tumia mkisofs)"
+imagenISO_MSG7="Unda picha ya ISO-9660 kutoka kwa data ya diski kuu (tumia mkisofs)"
+imagenISO_MSG8="Menyu iliyotangulia"
+imagenISO_MSG9="KUUNDA PICHA"
+imagenISO_MSG10="Unda picha ya ISO-9660 kutoka kwa data ya diski kuu (tumia xorriso)"
+imagenISO_MSG11="Unda picha ya iso/udf kutoka kwa CD/DVD/BD (tumia mkisofs)"
+imagenISO_MSG12="Unda picha ya iso/udf kutoka kwa data ya diski kuu (tumia mkisofs)"
+imagenISO_MSG13="ISO-9660 FORMATTER MENU"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Unda picha ya UDF/ISO kutoka kwa data ya diski kuu (tumia mkisofs)"
+imagenISO_MSG15="Unda picha ya UDF/ISO kwa usaidizi wa Video ya DVD (tumia mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Andika kifaa cha kuzuia chanzo ambacho picha itatengenezwa"
+imagen_img_MSG2="----------------------------------------------------------"
+imagen_img_MSG3="Vifaa vilivyosajiliwa katika /etc/fstab na /etc/mtab"
+imagen_img_MSG4="Weka pato la amri:"
+imagen_img_MSG5="Ingiza jina la kifaa: "
+imagen_img_MSG6="Kuunda .img picha ya kifaa cha kuzuia"
+imagen_img_MSG7="inaendesha"
+imagen_img_MSG8="PICHA YA KIFAA IMEUNDWA NDANI"
+
+# monta_img
+
+monta_img_MSG1="ISO au picha ya ext2 ya kuweka."
+monta_img_MSG2="Andika njia ya saraka ambapo picha ya kupachikwa iko:"
+monta_img_MSG3="PICHA YA CD ILIYOPANDA:"
+monta_img_MSG4="KOSA WAKATI WA KUWEKA FAILI LA PICHA"
+monta_img_MSG5="HAIJAPATIKANA"
+monta_img_MSG6="MOUNT POINT HAIPO"
+monta_img_MSG7="KOSA LISILOTARAJIWA"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO au picha ext2 ili kuteremka."
+desmonta_img_MSG2="PICHA ILIYOTENGULIWA"
+desmonta_img_MSG3="Hakuna picha iliyopachikwa iliyopatikana"
+desmonta_img_MSG4="Weka pato:"
+desmonta_img_MSG5="Unaweza kubainisha njia kamili ya saraka ya picha moja kwa moja."
+desmonta_img_MSG6="Kama vile /tmp/lcdgrabimg.iso au saraka ya kuweka picha kama vile /mnt/lcdgrab"
+desmonta_img_MSG7="Ikiwa haijabainishwa, inaweza kutafutwa kwa kutumia kidhibiti faili"
+desmonta_img_MSG8="Inazindua kidhibiti faili"
+desmonta_img_MSG9="Bainisha njia ya picha."
+desmonta_img_MSG10="PICHA ILIYOTENGULIWA"
+desmonta_img_MSG11="KOSA WAKATI WA KUINUA PICHA"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg picha ya kubadilisha hadi .iso"
+nrg_a_iso_MSG2="Ingiza njia ya picha ya .nrg (Nero Burning ROM) ili kubadilisha"
+nrg_a_iso_MSG3="Inabadilisha picha..."
+nrg_a_iso_MSG4="Njia ya chanzo .nrg picha"
+nrg_a_iso_MSG5="haipo au inalingana na saraka"
+nrg_a_iso_MSG6="Njia batili."
+nrg_a_iso_MSG7="tayari ni picha ya awali ya ISO-9660, haitabadilishwa."
+nrg_a_iso_MSG8="Inakili kwa kiendelezi tofauti..."
+nrg_a_iso_MSG9="NAKALA IMEMEKAMILIKA"
+nrg_a_iso_MSG10="running"
+nrg_a_iso_MSG11="Picha imebadilishwa kwa ufanisi"
+nrg_a_iso_MSG12="KOSA WAKATI WA KUUNDA PICHA .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Tengeneza faili ya maelezo ya .cue kutoka kwa picha ya .bin"
+GenerarArchivocue_MSG2="Saraka amilifu ya sasa"
+GenerarArchivocue_MSG3="Andika njia ya saraka ambapo"
+GenerarArchivocue_MSG4="tafuta faili ya picha:"
+GenerarArchivocue_MSG5="Ingiza jina la picha ya .bin ambayo"
+GenerarArchivocue_MSG6="imetoa .cue faili yake inayolingana"
+GenerarArchivocue_MSG7="DESCRIPTION FILE .cue IMETOLEWA KWA MAFANIKIO"
+GenerarArchivocue_MSG8="KOSA LINAPOTOA FAILI LA MAELEZO .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="Kimbia"
+ImagenbincueCDDVD_MSG2=".BIN .CUE PICHA YA DISK IMEFANIKIWA KUZALISHA"
+

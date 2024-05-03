@@ -1,0 +1,170 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Húngaro para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Rögzítő eszköz mint"
+buscar_grabadora_MSG1B="Érvényes"
+buscar_grabadora_MSG2="Rögzítő eszköz mint"
+buscar_grabadora_MSG2B="Hiba"
+buscar_grabadora_MSG3="A dvd+-rw-tools nem fogadja el, hogy a felvevő eszköz"
+buscar_grabadora_MSG4="Ahhoz, hogy DVD-ket írhasson a dvd+rw-tools segítségével, meg kell adnia a felvevőt blokkeszközként"
+buscar_grabadora_MSG5="Példa"
+buscar_grabadora_MSG6="vagy"
+buscar_grabadora_MSG7="Meglévő rendszereszközök megjelenítése a /dev mappában"
+buscar_grabadora_MSG8="Adja meg a DVD-felvevőjének megfelelő blokkeszközt"
+buscar_grabadora_MSG9="Nincs rögzítőtípus vagy beállítás megadva."
+buscar_grabadora_MSG10="KÉSZÜLÉK BEÁLLÍTVA A RÖGZÍTŐHEZ"
+buscar_grabadora_MSG11="A rögzítőeszköz exportálva lett a shell környezetbe mint"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="A lehetséges érték csak a cdrecord-ra érvényes"
+buscar_grabadoralb_MSG2="A rögzítő jelenlegi konfigurációja"
+buscar_grabadoralb_MSG3="Ellenőrizze, hogy ez a konfiguráció megegyezik-e a cdrskin által hozzárendelt értékkel"
+buscar_grabadoralb_MSG4="IDE/SCSI port keresése cdrskinnel..."
+buscar_grabadoralb_MSG5="Adja meg a cdrskinhez használt új értéket:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Adja meg a jövőbeli DVD nevét:"
+datos_dvd_MSG2="DVD RÖGZÍTÉSE..."
+datos_dvd_MSG3="Használat"
+datos_dvd_MSG4="fut"
+datos_dvd_MSG5="A DVD SIKERTELEN RÖGZÍTETT! "
+datos_dvd_MSG6="Mkisofs vagy genisoimage nem található, telepítse a cdrtools-t vagy a cdrkit-et"
+
+# datos_dvd_multi
+
+__datos_dvd_multi_MSG1="Adja meg a jövőbeli DVD nevét:"
+__datos_dvd_multi_MSG2="DVD-FELVÉTEL..."
+__datos_dvd_multi_MSG3="Használatban"
+__datos_dvd_multi_MSG4="fut"
+__datos_dvd_multi_MSG5="A DVD SIKERTELEN RÖGZÍTETT! "
+__datos_dvd_multi_MSG6="Mkisofs vagy genisoimage nem található, telepítse a cdrtools-t vagy a cdrkit-et"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="KÉP RÖGZÍTÉSE..."
+grabimg_dvd_MSG2="futás"
+grabimg_dvd_MSG3="! A DVD-KÉP SIKERESEN RÖGZÍTETT !"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="KÉP RÖGZÍTÉSE DVD-RE..."
+copia_bin_dvd_MSG2="fut"
+copia_bin_dvd_MSG3="	KÉPFÁJL TÖRLÉSE"
+copia_bin_dvd_MSG4="FELVÉTEL KÉSZ!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="A formázása"
+formatear_dvd_MSG2="Új formátum kényszerítése egy"
+formatear_dvd_MSG3="A kivezető blokk áthelyezése"
+formatear_dvd_MSG4="DVD-RW formázása szekvenciális inkrementálisra"
+formatear_dvd_MSG5="DVD-RW formázása korlátozott felülírásra"
+formatear_dvd_MSG6="DVD megtöltése nullákkal"
+formatear_dvd_MSG7="DVD információ megjelenítése"
+formatear_dvd_MSG8="Előző menü"
+formatear_dvd_MSG9="Ez az opció a DVD első formázására szolgál."
+formatear_dvd_MSG10="Ha a DVD már formázva van, nem törli az adatokat."
+formatear_dvd_MSG11="Ezek felül lesznek írva egy új felvételnél."
+formatear_dvd_MSG12="A DVD tartalmának törléséhez használja:"
+formatear_dvd_MSG13="DVD megtöltése nullákkal"
+formatear_dvd_MSG14="Ez az opció törli a formátumot és az adatokat a kezelt DVD-ről."
+formatear_dvd_MSG15="fut"
+formatear_dvd_MSG16="DVD+RW/DVD-RW SIKERTELEN FORMÁZVA!"
+formatear_dvd_MSG17="HIBA A DVD FORMÁZÁSÁNAK"
+formatear_dvd_MSG18="Formázás kényszerítése DVD+RW lemezen..."
+formatear_dvd_MSG19="DVD+RW SIKERTELEN FORMÁZVA!"
+formatear_dvd_MSG20="HIBA DVD+RW FORMÁZÁSÁNAK"
+formatear_dvd_MSG21="Ez az opció nincs hatással a DVD+RW lemezre mentett adatokra"
+formatear_dvd_MSG22="Kivezető blokk eltávolítása a DVD+RW lemezről..."
+formatear_dvd_MSG23="DVD-RW lemez formázása szekvenciális íráshoz..."
+formatear_dvd_MSG24="DVD-RW SIKERTELEN FORMÁZVA!"
+formatear_dvd_MSG25="HIBA DVD-RW FORMÁZÁSÁNAK"
+formatear_dvd_MSG26="DVD-RW lemez formázása korlátozott felülírásra..."
+formatear_dvd_MSG27="RÖGZÍTHETŐ DVD TÖRLÉSE"
+
+# null_dvd
+
+null_dvd_MSG1="Lemezre írás a /dev/zero könyvtárból...."
+null_dvd_MSG2="fut"
+null_dvd_MSG3="FOLYAMAT VÉGZETT"
+null_dvd_MSG4="VÁRATLAN HIBA"
+
+# dvd_video
+
+dvd_video_MSG1="Az elérési út, ahol a VIDEO_TS és AUDIO_TS könyvtár található:"
+dvd_video_MSG2="Adja meg az elérési utat, ahol a VIDEO_TS és AUDIO_TS könyvtárak találhatók:"
+dvd_video_MSG3="fut"
+dvd_video_MSG4="--- SIKERTELEN RÖGZÍTETT DVD-VIDEO ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="ejecutando"
+dvd_copia_bin_MSG2="	BORRANDO ARCHIVO DE IMAGEN"
+dvd_copia_bin_MSG3="SE HA PRODUCIDO UN ERROR EN LA GRABACIÓN"
+
+# dvd_datos
+
+dvd_datos_MSG1="Fájlok és könyvtárak az .iso kép létrehozásához"
+dvd_datos_MSG2="DVD CÍMKE"
+dvd_datos_MSG3="Adja meg a jövőbeli DVD nevét:"
+dvd_datos_MSG4="A fájlkezelő indítása:"
+dvd_datos_MSG5="	KÉP LÉTREHOZÁSA..."
+dvd_datos_MSG6="fut"
+dvd_datos_MSG7="ISO-9660 KÉP LÉTREHOZOTT"
+dvd_datos_MSG8="		DVD-FELVÉTEL"
+dvd_datos_MSG13="KÉP TÖRLÉSE..."
+
+# dvd_borra
+
+dvd_borra_MSG1="futás"
+dvd_borra_MSG2="OPTIKUS LEMEZ SIKERTELEN FORMÁZVA"
+dvd_borra_MSG3="HIBA AZ OPTIKAI LEMEZ FORMÁZÁSÁN"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="futás"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="Futás"
+formatearCDDVDBD_MSG2="OPTIKUS LEMEZ SIKERES FORMÁZÁSA"
+formatearCDDVDBD_MSG3="HIBA AZ OPTIKAI LEMEZ FORMÁZÁSÁN"
+
+# formatearDVDRW_sobreescritura_restringida
+
+__formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW sikeresen formázva!!"
+__formatearDVDRW_sobreescritura_restringida_MSG2="Hiba a DVD-RW korlátozott felülírásra formázásakor"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW sikeresen formázva!!"
+formatearDVDRW_incremental_secuencial_MSG2="Hiba a DVD-RW szekvenciális növekményes formázásakor"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Adja meg az égetendő iso-9660 kép elérési útját:"
+cdrskinisocddvd_MSG2="ISO KÉP SIKERESEN RÖGZÍTETTÜK!!"
+cdrskinisocddvd_MSG3="HIBA A KÉP RÖGZÍTÉSÉKOR"

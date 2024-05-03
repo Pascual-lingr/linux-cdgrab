@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDutch/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Neerlandés para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="APPARATEN DIE MOMENTEEL IN HET SYSTEEM GEMONTEERD zijn"
+montar_dispositivos_MSG1B="MONTAGE/DEMONTAGE VAN APPARATEN"
+montar_dispositivos_MSG2="LINUX OPTIONS-CDGRAB"
+montar_dispositivos_MSG3="Schijf verwijderen uit CD/DVD/BD-lezer"
+montar_dispositivos_MSG4="Schijf uit cd/dvd/BD-brander verwijderen"
+montar_dispositivos_MSG5="CD-ROM/DVD-ROM/BD-ROM-lezer koppelen"
+montar_dispositivos_MSG6="CD-ROM/DVD-ROM/BD-ROM ontkoppelen"
+montar_dispositivos_MSG7="Apparaat met de hand monteren of demonteren"
+montar_dispositivos_MSG0="Vorige menu"
+montar_dispositivos_MSG8="CD/DVD/BD gemonteerd op"
+montar_dispositivos_MSG9="DRUK OP ENTER OM DOOR TE GAAN..."
+montar_dispositivos_MSG10="Fout bij het koppelen van de CD/DVD/BD"
+montar_dispositivos_MSG11="De CD/DVD/BD is ontkoppeld"
+montar_dispositivos_MSG12="Fout bij het ontkoppelen van de cd/dvd/BD"
+montar_dispositivos_MSG13="Typ het apparaat dat u wilt koppelen/ontkoppelen:"
+montar_dispositivos_MSG14="Voer het koppelpunt in:"
+montar_dispositivos_MSG15="komt niet overeen met een blokapparaat"
+montar_dispositivos_MSG16="Mountpunt niet gevonden"
+montar_dispositivos_MSG17="Standaard koppelpunt"
+montar_dispositivos_MSG18="Kies optie:"
+montar_dispositivos_MSG19="Monteer de"
+montar_dispositivos_MSG20="nl"
+montar_dispositivos_MSG21="Ontkoppelen"
+montar_dispositivos_MSG22="de"
+montar_dispositivos_MSG23="gemonteerd op:"
+montar_dispositivos_MSG24="FOUT BIJ MONTAGE"
+montar_dispositivos_MSG25="NL"
+montar_dispositivos_MSG26="ontkoppeld van"
+montar_dispositivos_MSG27="FOUT BIJ HET ONTKOPPELEN"
+montar_dispositivos_MSG28="de"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Uitvoer van het mount-commando"
+Montar_Imagenes_MSG1B="ASSEMBLEREN/DEMONTEREN VAN BEELDBESTANDEN"
+Montar_Imagenes_MSG2="Kies een optie"
+Montar_Imagenes_MSG3="CD/DVD/BD-image koppelen"
+Montar_Imagenes_MSG4="CD/DVD/BD-image ontkoppelen"
+Montar_Imagenes_MSG5="Vorige menu"
+

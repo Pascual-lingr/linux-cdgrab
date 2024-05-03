@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwedish/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Sueco para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 BILD KORREKT INSPELAD PÅ BLU-RAY"
+grabar_ISO_BD_MSG2="FEL VID INSPELNING AV BILD PÅ BLU-RAY-DISK"
+grabar_ISO_BD_MSG3="ISO-9660 BILD I BD"
+grabar_ISO_BD_MSG4="Ange sökvägen till ISO-9660-bilden som ska brännas:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Filer och kataloger för att skapa .iso-bilden"
+bd_datos_MSG2="DB LABEL"
+bd_datos_MSG3="Ange ett namn för den framtida BD:"
+bd_datos_MSG4="Starta filhanteraren:"
+bd_datos_MSG5=" SKAPA BILD . . ."
+bd_datos_MSG6="kör"
+bd_datos_MSG7="ISO-9660 BILD SKAPADES I"
+bd_datos_MSG8="Spelar in BD"
+bd_datos_MSG13="RADERA BILD..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Nödvändig formatering eller radering tillämpas beroende på diskens status"
+borrar_BDRE_lb_MSG2="BD-RE RADERADES MED FRAMGÅNG!!"
+borrar_BDRE_lb_MSG3="FEL VID RADERING AV BD-RE"
+

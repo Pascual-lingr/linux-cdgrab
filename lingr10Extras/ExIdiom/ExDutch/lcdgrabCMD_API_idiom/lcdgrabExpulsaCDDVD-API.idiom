@@ -1,0 +1,15 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDutch/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Neerlandés para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="OPTISCHE SCHIJF UITGEWORPEN"
+expulsar_medio_MSG2="Fout bij het uitwerpen van de schijf uit het apparaat"
+expulsar_medio_MSG3="Voer de naam handmatig in:"

@@ -1,0 +1,184 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDutch/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Neerlandés para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="actief"
+copia_bin_MSG2="--------------OPNAMEPROCES OPNIEUW PROBEREN---------------"
+copia_bin_MSG3=" BEELDBESTAND VERWIJDEREN"
+copia_bin_MSG4="Er is een fout opgetreden tijdens het opnemen"
+copia_bin_MSG5="Het .iso-bestand met schijfkopiedump kan niet worden gevonden. Opname wordt afgebroken..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="actief"
+datos_al_vuelo_MSG2="Fout bij opnamepoging, opnieuw proberen zonder ondersteuning voor overbranden"
+datos_al_vuelo_MSG3="Controleer of de bronschijf of het bronapparaat"
+datos_al_vuelo_MSG4="is in goede staat"
+datos_al_vuelo_MSG5="Verkrijgen leadout bloknummer van de bronschijf"
+datos_al_vuelo_MSG6="SCHIJF KOPIËREN..."
+
+# clonar_cd
+
+clonar_cd_MSG1="actief"
+clonar_cd_MSG2="CD SUCCESVOL GEKLONEN"
+clonar_cd_MSG3="Er is een fout opgetreden bij het klonen van de cd"
+
+# datos
+
+datos_MSG1="Bestanden en mappen om de .iso-image te maken"
+datos_MSG2="CD/DVD/BD-LABEL"
+datos_MSG3="Voer een naam in voor de toekomstige CD/DVD/BD:"
+datos_MSG4="Bestandsbeheer starten:"
+datos_MSG5=" AFBEELDING MAKEN . ."
+datos_MSG6="actief"
+datos_MSG7="ISO-9660 AFBEELDING GEMAAKT IN"
+datos_MSG8="CD/DVD/BD BRANDEN"
+datos_MSG9="HET AANMAAKPROCES VAN BEELDBESTAND IS MISLUKT"
+datos_MSG10="OPNIEUW PROBEREN EEN NIEUWE TE MAKEN ZONDER ONDERSTEUNING VOOR HFS (Macintosh)"
+datos_MSG11="BEELD VERWIJDEREN . ."
+datos_MSG12="NIEUWE AFBEELDING MAKEN . ."
+datos_MSG13="HET WAS NIET MOGELIJK OM CORRECT OP TE NEMEN"
+datos_MSG14="------------OPNAMEPROCES OPNIEUW PROBEREN-----------"
+datos_MSG15="WIS AFBEELDING..."
+datos_MSG16="ISO-9660 DATA CD/DVD/BD BRANDEN..."
+datos_MSG17="Niet gevonden."
+datos_MSG18="Schijfopname afbreken..."
+
+# datoslb
+
+datoslb_MSG1="Fout: Het afbeeldingsbestand kan niet worden gevonden. Afbreken..."
+datoslb_MSG2="OPNAMEPROCES OK"
+datoslb_MSG3="FOUT IN HET OPNAMEPROCES"
+
+# borra
+
+borra_MSG0="Vorige menu"
+borra_MSG1="Kies de modus om de CD-RW te wissen"
+borra_MSG2="----------------------------------"
+borra_MSG3="Snel verwijderen (gebruik cdrecord)"
+borra_MSG4="Verwijderen voltooien (gebruik cdrecord)"
+borra_MSG5="Verwijdering vereist (gebruik cdrskin)"
+borra_MSG6="actief"
+borra_MSG7="De noodzakelijke formattering of verwijdering wordt toegepast, afhankelijk van de schijfstatus"
+borra_MSG8="CD-RW SUCCESVOL VERWIJDERD!!"
+borra_MSG9="FOUT BIJ HET VERWIJDEREN VAN CD-RW"
+borra_MSG10="FORCEER VERWIJDEREN CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="FOUT BIJ PROBEREN DE CD-RW TE WISSEN"
+err_borra_cdrw_MSG2="CD-RW ONBRUIKBAAR"
+err_borra_cdrw_MSG3="HET IS NIET MOGELIJK OM DEZE CD-RW TE VERWIJDEREN"
+err_borra_cdrw_MSG4="CONTROLEER DE CD-RW OP FYSIEKE SCHADE"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="actief"
+cerrar_cd_MSG2="DE CD IS CORRECT GESLOTEN"
+cerrar_cd_MSG3="FOUT BIJ HET SLUITEN VAN DE CD"
+cerrar_cd_MSG4="TRACK OP DATA-CD SLUITEN . ."
+
+# grabimg
+
+grabimg_MSG1=".iso of .ext2-image om op CD/DVD te branden"
+grabimg_MSG2="Bestandsbeheer starten."
+grabimg_MSG3="Typ het volledige pad waar de CD/DVD-image die u wilt branden zich bevindt:"
+grabimg_MSG4="rennen"
+grabimg_MSG5="-----------OPNIEUW PROBEREN OPNAMEPROCES-----------"
+grabimg_MSG6="OPNAME VOLTOOID!!"
+grabimg_MSG7="AFBEELDING .EXT2 SUCCESVOL OPGENOMEN"
+
+# grabimglb
+
+grabimglb_MSG1="Typ het volledige pad waar de CD/DVD-image die u wilt branden zich bevindt:"
+grabimglb_MSG2="Beeld naar schijf branden..."
+grabimglb_MSG3="ISO-9660 BEELD SUCCESVOL OPGENOMEN"
+grabimglb_MSG4="FOUT BIJ HET OPNEMEN VAN HET ISO-9660-BEELD"
+grabimglb_MSG5="Fout: afbeeldingsbestand niet gevonden. Afbreken..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin- en .cue-bestanden om de afbeelding op te nemen"
+grabimg_cue_MSG2="Om de bin/cue-afbeelding op te nemen, moeten beide bestanden"
+grabimg_cue_MSG3="bevind zich in de actieve map."
+grabimg_cue_MSG4="Huidige actieve map"
+grabimg_cue_MSG5="Voer de naam in van het *.cue-bestand dat verwijst naar het *.bin-afbeeldingsbestand"
+grabimg_cue_MSG6=".cue-bestand: "
+grabimg_cue_MSG7="rennen"
+grabimg_cue_MSG8="OPNAME VOLTOOID!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Multisessie-CD branden vanaf een .iso-image"
+cd_multi_MSG2="Brand een eerste sessie op de CD vanaf een .iso-image"
+cd_multi_MSG3="Multisessie-CD branden van bestanden op schijf"
+cd_multi_MSG4="Opeenvolgende sessies opnemen op de CD vanaf bestanden op de harde schijf"
+cd_multi_MSG5="Voor deze optie is een cd met meerdere sessies vereist, met een eerder opgenomen sessie."
+cd_multi_MSG6="Vorige menu"
+cd_multi_MSG7=".iso-image om op CD-Multi-sessie te branden"
+cd_multi_MSG8="Specificeer het pad van de .iso-image"
+cd_multi_MSG9="actief"
+cd_multi_MSG10="MULTI-SESSION CD SUCCESVOL OPGENOMEN!!"
+cd_multi_MSG11="Mappen die in de afbeelding moeten worden opgenomen."
+cd_multi_MSG12="Geef hieronder aan welke mappen u wilt opnemen"
+cd_multi_MSG13="Voer een naam in voor het CD-label:"
+cd_multi_MSG14="AFBEELDING MAKEN..."
+cd_multi_MSG15="SUCCESVOL GEMAAKT"
+cd_multi_MSG16="FOUT BIJ HET MAKEN VAN HET BEELD. HET OPNAMEPROCES AFBREKEN..."
+cd_multi_MSG17="CD-BEELD BRANDEN..."
+cd_multi_MSG18="CD MULTISESSIEMENU"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="RIPPEREN VAN AUDIO-CD..."
+copia_cd_audio_MSG2="Bezig met uitvoeren"
+copia_cd_audio_MSG3="AUDIOTRACKS SUCCESVOL GERIPT!!"
+copia_cd_audio_MSG4="FOUT BIJ HET RIPPEN VAN AUDIOTRACKS"
+copia_cd_audio_MSG5="AUDIO-CD BRANDEN..."
+copia_cd_audio_MSG6="AUDIO CD SUCCESVOL GEKOPIEERD!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav-bestanden om op CD te branden"
+wav_a_cd_MSG2="Linux-cdgrab controleert de mapgrootte niet"
+wav_a_cd_MSG3="Zorg ervoor dat het niet meer dan 650 Mbytes is"
+wav_a_cd_MSG4="als u een cd van 80 minuten gebruikt."
+wav_a_cd_MSG5="Voer het mappad van de .wav-bestanden in"
+wav_a_cd_MSG6="actief"
+wav_a_cd_MSG7="PROCES VOLTOOID!"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Mixto creatie project (Data Image .iso + Audiobestanden .wav)"
+cdmixto_MSG2="Linux-cdgrab controleert de mapgrootte niet"
+cdmixto_MSG3="waar zijn de audiobestanden."
+cdmixto_MSG4="Dit gebeurt ook niet vanaf de .iso-image die u gaat opnemen"
+cdmixto_MSG5="na."
+cdmixto_MSG6="Wees consistent met de maat die je hebt"
+cdmixto_MSG7="brand op uw nieuwe CD."
+cdmixto_MSG8="Specificeer het pad van de audiobestanden:"
+cdmixto_MSG9="Specificeer het ISO-imagepad:"
+cdmixto_MSG10="#################################"
+cdmixto_MSG11="GEMENGDE CD OPNEMEN: DATA + AUDIO"
+cdmixto_MSG12="actief"
+cdmixto_MSG13="----GEMENGDE-CD SUCCESVOL GEMAAKT-----!!"
+cdmixto_MSG14="------FOUT BIJ HET BRANDEN VAN CD-MIXED--------"
+
+# discoinfo
+
+discoinfo_MSG1="rennen"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI-poort gescand"
+cdrecord_scan_MSG1="Fout bij scannen IDE/SCSI-poort"
+cdrecord_scan_MSG2="Cdrecord niet gevonden"
+

@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Lao para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* ຕົວເລືອກການນຳທາງ ************************"
+ayuda_gestor_de_archivos_MSG2="ຄົ້ນຫາລະບົບໄຟລ໌."
+ayuda_gestor_de_archivos_MSG3="X --> ອອກ​ໄປ​ນອກ"
+ayuda_gestor_de_archivos_MSG4="A --> ໄດເລກະທໍລີທີ່ຜ່ານມາ"
+ayuda_gestor_de_archivos_MSG5="B --> ໄດເລກະທໍລີຕໍ່ໄປ"
+ayuda_gestor_de_archivos_MSG6="ການປະຕິບັດກ່ຽວກັບໄຟລ໌ແລະໄດເລກະທໍລີ."
+ayuda_gestor_de_archivos_MSG7="C --> ສຳເນົາໄຟລ໌"
+ayuda_gestor_de_archivos_MSG8="M --> ຍ້າຍໄຟລ໌"
+ayuda_gestor_de_archivos_MSG9="CD --> ສຳເນົາໄດເລກະທໍລີ"
+ayuda_gestor_de_archivos_MSG10="MD --> ຍ້າຍໄດເລກະທໍລີ"
+ayuda_gestor_de_archivos_MSG11="ຄວາມເຂົ້າໃຈການປະຕິບັດກ່ຽວກັບໄຟລ໌ແລະໄດເລກະທໍລີ."
+ayuda_gestor_de_archivos_MSG12="Z --> ບີບອັດໄຟລ໌"
+# Resultado del traductor
+ayuda_gestor_de_archivos_MSG13="DZ --> Unzip ໄຟລ໌"
+ayuda_gestor_de_archivos_MSG14="EZ --> ສ້າງແພັກເກັດ .tar.gz ຫຼື .tar.bz2"
+ayuda_gestor_de_archivos_MSG15="DEZ --> ຖອດກ່ອງ .tar.gz ຫຼື .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="ໄດເລກະທໍລີທີ່ເຄື່ອນໄຫວໃນປະຈຸບັນ"
+gestor_de_archivos_MSG0B="ໄຟລ໌ໃນ"
+gestor_de_archivos_MSG1="============================== ຕົວເລືອກການນຳທາງ ========================"
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> ການຊ່ວຍເຫຼືອ="
+gestor_de_archivos_MSG3="=============================================================================="
+gestor_de_archivos_MSG4="ພິມທາງເລືອກ"
+gestor_de_archivos_MSG5="ປະເພດໄດເລກະທໍລີ"
+gestor_de_archivos_MSG6="ພິມໄຟລ໌ແຫຼ່ງ"
+gestor_de_archivos_MSG7="ພິມໄຟລ໌ປາຍທາງ"
+gestor_de_archivos_MSG8="ສຳເນົາໄຟລ໌ສຳເລັດແລ້ວ"
+gestor_de_archivos_MSG9="ຜິດພາດໃນການສຳເນົາໄຟລ໌"
+gestor_de_archivos_MSG10="ພິມໄຟລ໌ແຫຼ່ງ"
+gestor_de_archivos_MSG11="ພິມໄຟລ໌ປາຍທາງ"
+gestor_de_archivos_MSG12="ຍ້າຍໄຟລ໌ສຳເລັດແລ້ວ"
+gestor_de_archivos_MSG13="ເກີດຄວາມຜິດພາດໃນການເຄື່ອນຍ້າຍໄຟລ໌"
+gestor_de_archivos_MSG14="ພິມລາຍການແຫຼ່ງທີ່ມາ"
+gestor_de_archivos_MSG15="ພິມລາຍການປາຍທາງ"
+gestor_de_archivos_MSG16="ສຳເນົາໄດເຣັກທໍຣີສຳເລັດແລ້ວ"
+gestor_de_archivos_MSG17="ຜິດພາດໃນການສຳເນົາໄດເຣັກທໍຣີ"
+gestor_de_archivos_MSG18="ພິມລາຍການແຫຼ່ງທີ່ມາ"
+gestor_de_archivos_MSG19="ພິມລາຍການປາຍທາງ"
+gestor_de_archivos_MSG20="ຍ້າຍໄດເລກະທໍລີສຳເລັດແລ້ວ"
+gestor_de_archivos_MSG21="ຜິດພາດໃນການເຄື່ອນຍ້າຍໄດເລກະທໍລີ"
+gestor_de_archivos_MSG22="ໄຟລ໌ທີ່ຈະບີບອັດ"
+gestor_de_archivos_MSG23="ລະບຸເສັ້ນທາງໄຟລ໌"

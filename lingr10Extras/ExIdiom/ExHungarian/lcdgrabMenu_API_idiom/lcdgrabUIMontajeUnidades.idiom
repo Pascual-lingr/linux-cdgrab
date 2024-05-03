@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en húngaro para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="JELENLEG A RENDSZERBE SZERELT ESZKÖZÖK"
+montar_dispositivos_MSG1B="ESZKÖZÖK ÖSSZESZERELÉSE/BONTÁSA"
+montar_dispositivos_MSG2="LINUX-CDGRAB OPCIÓK"
+montar_dispositivos_MSG3="Lemez kiadása a CD/DVD/BD olvasóból"
+montar_dispositivos_MSG4="Lemez kiadása a CD/DVD/BD íróból"
+montar_dispositivos_MSG5="CD-ROM/DVD-ROM/BD-ROM olvasó csatlakoztatása"
+montar_dispositivos_MSG6="CD-ROM/DVD-ROM/BD-ROM leválasztása"
+montar_dispositivos_MSG7="Eszköz felszerelése vagy szétszerelése kézzel"
+montar_dispositivos_MSG0="Előző menü"
+montar_dispositivos_MSG8="CD/DVD/BD csatlakoztatva"
+montar_dispositivos_MSG9="Nyomja meg az ENTER billentyűt a FOLYTATÁSHOZ..."
+montar_dispositivos_MSG10="Hiba a CD/DVD/BD csatlakoztatásakor"
+montar_dispositivos_MSG11="A CD/DVD/BD le lett csatolva"
+montar_dispositivos_MSG12="Hiba a CD/DVD/BD leválasztásakor"
+montar_dispositivos_MSG13="Írja be a csatlakoztatni/leválasztandó eszközt:"
+montar_dispositivos_MSG14="Adja meg a csatolási pontot:"
+montar_dispositivos_MSG15="nem blokkeszköznek felel meg"
+montar_dispositivos_MSG16="A csatlakozási pont nem található"
+montar_dispositivos_MSG17="Alapértelmezett csatolási pont"
+montar_dispositivos_MSG18="Válasszon opciót:"
+montar_dispositivos_MSG19="Rögzítse a"
+montar_dispositivos_MSG20="hu"
+montar_dispositivos_MSG21="Leválasztás"
+montar_dispositivos_MSG22="de"
+montar_dispositivos_MSG23="csatolva:"
+montar_dispositivos_MSG24="HIBA CSATLAKOZTATÁSKOR"
+montar_dispositivos_MSG25="HU"
+montar_dispositivos_MSG26="lekapcsolva"
+montar_dispositivos_MSG27="HIBA KIBOCSÁTÁSKOR"
+montar_dispositivos_MSG28="de"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="A mount parancs kimenete"
+Montar_Imagenes_MSG1B="KÉPFÁJLOK ÖSSZESZERELÉSE/SZÁLLÍTÁSA"
+Montar_Imagenes_MSG2="Válassz egy lehetőséget"
+Montar_Imagenes_MSG3="CD/DVD/BD kép csatlakoztatása"
+Montar_Imagenes_MSG4="CD/DVD/BD kép leválasztása"
+Montar_Imagenes_MSG5="Előző menü"
+

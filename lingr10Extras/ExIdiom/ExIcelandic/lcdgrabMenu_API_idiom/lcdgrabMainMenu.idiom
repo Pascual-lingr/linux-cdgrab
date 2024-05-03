@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Islandés, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab finnur ekki vi textaritilinn"
+ayuda_MSG2="Sláðu inn nafn textaritils sem er uppsettur á kerfinu þínu"
+ayuda_MSG3="ENGIN UPPSETTUR RITLIFI fannst"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Skrá búin til sjálfkrafa af LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="Þessi skrá ásamt möppunni"
+creacion_de_mnt_MSG3="hafa verið mynduð sjálfkrafa"
+creacion_de_mnt_MSG4="með Linux-cdgrab forritinu þegar þú staðfestir að það hafi ekki verið til í Linux dreifingunni þinni"
+creacion_de_mnt_MSG5="möppunni"
+creacion_de_mnt_MSG6="Linux-cdgrab notar þessa möppu til að tengja CD-ROM/DVD-ROM/BD-ROM drifið sitt"
+creacion_de_mnt_MSG7="Myndskráin"
+creacion_de_mnt_MSG8="því verður ekki eytt ef Linux-cdgrab er fjarlægt þar sem það er venjulega"
+creacion_de_mnt_MSG9="sjálfgefinn tengipunktur fyrir /dev/cdrom í flestum Linux dreifingum."
+creacion_de_mnt_MSG10="Ef dreifing þín notar aðra möppu til að tengja tækið /dev/cdrom,"
+creacion_de_mnt_MSG11="það skapar ekki ósamrýmanleika þegar reynt er að fá aðgang að gögnum á einingunni þinni"
+creacion_de_mnt_MSG12="þó ef Linux-cdgrab hefur verið fjarlægt geturðu verið án"
+creacion_de_mnt_MSG13="Tilgangur þessarar skráar er eingöngu til upplýsinga, þú getur frjálslega eytt henni þegar hún hefur verið lesin."
+
+# creditos
+
+creditos_MSG1="Dreifa undir GPL v2 leyfi"
+creditos_MSG2="Nánari upplýsingar á www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, skapari og umsjónarmaður"
+creditos_MSG4="Villuskýrsla: pascual89@hotmail.com"
+creditos_MSG5="Vefsíða forritsins: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Byggt á LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Hleðsla"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SYNTAX"
+lcdgrab_sintaxis_MSG2="Prenta þessa hjálp"
+lcdgrab_sintaxis_MSG3="Prentaðu Linux útgáfuna-cdgrab"
+lcdgrab_sintaxis_MSG4="tilgreinir IDE rásina eða upptökutæki"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="tilgreinir upptökuhraðann"
+lcdgrab_sintaxis_MSG7="tilgreinir CD-ROM/DVD-ROM/BD-ROM drif"
+lcdgrab_sintaxis_MSG8="tilgreinir IDE ATAPI rás upptökutækisins"
+lcdgrab_sintaxis_MSG9="Möguleikarnir -G -V -L og -CA gefa til kynna hver annan."
+lcdgrab_sintaxis_MSG9B="-iut -ium -iug og -iuk valkostirnir eru óháðir hver öðrum,"
+lcdgrab_sintaxis_MSG9C="uppfylling við -G -V -L og -CA, og óháð milli -h og -v"
+lcdgrab_sintaxis_MSG10="-h og -v valkostirnir eru óháðir hver öðrum og hinum."
+lcdgrab_sintaxis_MSG11="Dæmi:"
+lcdgrab_sintaxis_MSG12="tæki"
+lcdgrab_sintaxis_MSG13="númer"
+lcdgrab_sintaxis_MSG14="textaviðmót"
+lcdgrab_sintaxis_MSG15="viðmót við ncurses"
+lcdgrab_sintaxis_MSG16="grafískt viðmót með GTK"
+lcdgrab_sintaxis_MSG17="grafískt viðmót með Qt"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Sláðu inn forskriftarslóðina:"
+main_lcdgrabopdep_MSG2="Ógild slóð"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Uppsettir plástrar:"
+main_lcdgrabopdeppatch_MSG2="Sláðu inn plásturslóðina:"
+main_lcdgrabopdeppatch_MSG3="Finn ekki"
+
+# menu principal dialog
+main_lcdgrabop9uidia="HLAÐU AÐ VIÐBÆTTI PATCH"
+
+# menu principal texto
+
+main_lcdgrabop1_text="UPPTAKA Á CD\t\t\t\t="
+main_lcdgrabop2_text="DVD UPPTAKA\t\t\t\t="
+main_lcdgrabop3_text="UPPTAKA Á BD\t\t\t\t="
+main_lcdgrabop4_text="REKSTUR DISKRIFS\t\t\t\t="
+main_lcdgrabop5_text="MYNDAGERÐ\t\t\t\t="
+main_lcdgrabop6_text="HJÁLJÓÐUMBREYTING\t\t\t="
+main_lcdgrabop6b_text="VIDEOUMBREYTING\t\t\t\t="
+main_lcdgrabop7_text="SETJA EÐA AFTAKA CD/DVD/BD\t\t="
+main_lcdgrabop8_text="FÆGJA EÐA FÆGJA MYND\t\t\t="
+main_lcdgrabop9_text="HLAÐU AÐ VIÐBÆTTI PATCH\t\t\t="
+main_lcdgrabop10_text="STJÓRNMIÐSTÖÐ\t\t\t\t="
+main_lcdgrabop0_text="FARÐU ÚT\t\t\t\t\t="
+main_lcdgrabet1_text="AÐRIR VALKOSTIR ##\t\t="
+main_lcdgrabopEe_text="Taktu diskinn úr drifi\t\t="
+main_lcdgrabopTD_text="Sýna möppu"
+tabs="\t\t\t="
+main_lcdgrabopG_text="Skráastjóri\t\t\t\t="
+main_lcdgrabopH_text="Aðstoð\t\t\t\t="
+main_lcdgrabopA_text="Um\t\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="UPPTAKA Á CD"
+main_lcdgrabop2="DVD UPPTAKA"
+main_lcdgrabop3="UPPTAKA Á BD"
+main_lcdgrabop4="REKSTUR DISKRIFS"
+main_lcdgrabop5="MYNDAGERÐ"
+main_lcdgrabop6="HJÁLJÓÐUMBREYTING"
+main_lcdgrabop6b="VIDEOUMBREYTING"
+main_lcdgrabop7="SETJA EÐA AFTAKA CD/DVD/BD"
+main_lcdgrabop8="FÆGJA EÐA FÆGJA MYND"
+main_lcdgrabop9="HLAÐU AÐ VIÐBÆTTI PATCH"
+main_lcdgrabop10="STJÓRNMIÐSTÖÐ"
+main_lcdgrabop0="FARÐU ÚT"
+main_lcdgrabet1="AÐRIR VALKOSTIR ##"
+main_lcdgrabopEe="Taktu diskinn úr drifi"
+main_lcdgrabopTD="Sýna möppu"
+main_lcdgrabopG="Skráastjóri"
+main_lcdgrabopH="Aðstoð"
+main_lcdgrabopA="Um"
+main_lcdgrabopPRINCIPAL="Sláðu inn valmöguleika:"
+MSG1_MAIN="Að velja H sýnir notkun valkosta."
+main_lcdgrabopA_MSG1="Keyrir á:"
+

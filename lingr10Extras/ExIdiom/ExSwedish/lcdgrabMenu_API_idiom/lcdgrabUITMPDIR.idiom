@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwedish/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Sueco para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Filer i /tmp"
+dir_tmp_MSG2="Ta bort alla bilder och komprimerade filer"
+dir_tmp_MSG3="Starta filhanteraren för andra operationer"
+dir_tmp_MSG4="Montera eller avmontera en bild"
+dir_tmp_MSG5="Visa menyn för bildskapande"
+dir_tmp_MSG6="Visa bildinspelningsalternativ"
+dir_tmp_MSG7="Föregående meny"
+dir_tmp_MSG8="LISTA ÖVER EXISTERANDE FILER I"
+dir_tmp_MSG9="VÄLJ ETT ALTERNATIV:"
+dir_tmp_MSG10="RADERADE BILDER OCH FILER"
+dir_tmp_MSG11="Montera bild."
+dir_tmp_MSG12="Avmontera bild."
+dir_tmp_MSG13="Bränn bild till CD"
+dir_tmp_MSG14="Bränn bild till DVD"
+dir_tmp_MSG14B="Bränn bild till BD"
+dir_tmp_MSG15="Välj alternativ enligt inspelningsmediet"
+dir_tmp_MSG16="FILEN HITTS INTE KONFIGURATIONSFILEN"
+dir_tmp_MSG17="Avbryter inspelningsprocessen"
+dir_tmp_MSG18="Ange .iso-filen som ska brännas"
+dir_tmp_MSG19="Ange bildsökvägen: "
+

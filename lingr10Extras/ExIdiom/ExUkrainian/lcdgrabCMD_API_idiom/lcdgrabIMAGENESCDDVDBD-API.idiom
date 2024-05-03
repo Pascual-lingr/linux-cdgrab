@@ -1,0 +1,234 @@
+#########################################################
+# lcdgrabAPI_idiom/ExUkrainian/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en Ucraniano para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="ФАЙЛОВА СИСТЕМА ЗОБРАЖЕНЬ"
+imagen_linux_fs_MSG2="Виберіть файлову систему: "
+imagen_linux_fs_MSG3="Створити образ для CD-R/RW (702 Мбайт)"
+imagen_linux_fs_MSG4="Створити образ для DVD+RW (4 Гбайт)"
+imagen_linux_fs_MSG5="Створити образ для DVD+RW/DL (8 Гбайт)"
+imagen_linux_fs_MSG5B="Створити образ для BD-R/RE (25 Гбайт)"
+imagen_linux_fs_MSG5C="Створити файл зображення нестандартного розміру"
+imagen_linux_fs_MSG6="Створення порожнього файлу ємністю 702 Мбайт"
+imagen_linux_fs_MSG7="Створення порожнього файлу ємністю 4 Гбайт"
+imagen_linux_fs_MSG8="Створення порожнього файлу ємністю 8 Гбайт"
+imagen_linux_fs_MSG8B="Створення порожнього файлу ємністю 25 Гбайт"
+imagen_linux_fs_MSG8C="Створення порожнього файлу нестандартного розміру"
+imagen_linux_fs_MSG9="ПОМИЛКА: РОЗМІР ЗОБРАЖЕННЯ НЕВІДОМИЙ. ПЕРЕРАВАННЯ..."
+imagen_linux_fs_MSG10="Запущено"
+imagen_linux_fs_MSG11="Програма відформатує порожній файл."
+imagen_linux_fs_MSG12="Система попередить вас, що раніше створений файл не є блоковим пристроєм, і запитає, чи хочете ви його відформатувати"
+imagen_linux_fs_MSG13="Відповісти так"
+imagen_linux_fs_MSG13="СФОРМУВАНО УСПІШНО"
+imagen_linux_fs_MSG14=" Зображення монтування . . ."
+imagen_linux_fs_MSG15="ПОМИЛКА ПІД ФОРМАТУВАННЯ ПОРОЖНОГО ФАЙЛУ"
+imagen_linux_fs_MSG16="Програма змонтувала файл, відформатований у"
+imagen_linux_fs_MSG17="Linux-cdgrab запустить менеджер файлів, щоб він міг працювати з образом, встановленим на"
+imagen_linux_fs_MSG18="Після того, як файли будуть скопійовані, відмонтуйте відформатований файл"
+imagen_linux_fs_MSG19="Образ Linux знаходиться в цьому каталозі"
+imagen_linux_fs_MSG19B="ПОМИЛКА ПІД ЧАС МОНТУВАННЯ ФАЙЛУ ОБРАЗУ"
+imagen_linux_fs_MSG20="Файли для включення в образ. Змонтовано в /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Запуск файлового менеджера..."
+imagen_linux_fs_MSG22="УВАГА:"
+imagen_linux_fs_MSG23="------"
+imagen_linux_fs_MSG24="Зображення"
+imagen_linux_fs_MSG25="ще змонтовано"
+imagen_linux_fs_MSG26="ПОМИЛКА ПІД ЧАС СТВОРЕННЯ ПОРОЖНОГО ФАЙЛУ ЗА ДОПОМОГОЮ dd"
+imagen_linux_fs_MSG27="Перевірте, чи є у вас вільний простір у розділі, змонтованому в /"
+imagen_linux_fs_MSG34="ФАЙЛОВА СИСТЕМА ДЛЯ ФОРМАТУВАННЯ ФАЙЛУ"
+imagen_linux_fs_MSG35="ГЕНЕРУВАННЯ ПОРОЖНЬОГО ФАЙЛУ З НЕПРИСТАВНИЦЬКИМ РОЗМІРОМ"
+imagen_linux_fs_MSG36="Вкажіть розмір блоку нового порожнього файлу (лише числове значення):"
+imagen_linux_fs_MSG37="Прикладом значень для розміру блоку є: 1024, 2048 (лише Ext2) або 4096 (усі формати)"
+imagen_linux_fs_MSG38="Вкажіть розмір порожнього файлу для створення (лише числове значення):"
+imagen_linux_fs_MSG39="Вимірювання простору для створення порожнього файлу:"
+imagen_linux_fs_MSG40="Вкажіть розмір простору для використання: "
+imagen_linux_fs_MSG41="ПОМИЛКА ПІД ЧАС ВИЗНАЧЕННЯ РОЗМІРУ"
+imagen_linux_fs_MSG42="Значення розміру блоку:"
+imagen_linux_fs_MSG43="Кількість місця для порожнього файлу:"
+imagen_linux_fs_MSG44="Обчислене значення в байтах:"
+imagen_linux_fs_MSG45="Обчислене значення для підрахунку:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Увімкнути читання md5 під час створення зображень .iso"
+comprobar_lectura_md5_MSG2="Вимкнути читання md5 під час створення зображень .iso"
+comprobar_lectura_md5_MSG3="Попереднє меню"
+comprobar_lectura_md5_MSG4="Поточна конфігурація:"
+comprobar_lectura_md5_MSG5="Увімкнено"
+comprobar_lectura_md5_MSG6="Вимкнено"
+comprobar_lectura_md5_MSG7="Прочитати суму md5 активовано"
+comprobar_lectura_md5_MSG8="Читання суми md5 вимкнено"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Неможливо прочитати назву iso-образу"
+leer_md5sum_MSG2="Читання md5sum з"
+leer_md5sum_MSG3="Показ суми md5 зображення"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="СТВОРЕННЯ ОБРАЗУ CD"
+extraer_isoCD_dd_MSG2="ЗОБРАЖЕННЯ СТВОРЕНО В"
+extraer_isoCD_dd_MSG3="Не знайдено"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="СТВОРЕННЯ ОБРАЗУ DVD"
+extraer_isoDVD_dd_MSG2="запущено"
+extraer_isoDVD_dd_MSG3="ЗОБРАЖЕННЯ СТВОРЕНО В"
+extraer_isoDVD_dd_MSG4="Не знайдено"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="запущено"
+extraer_iso_readcd_MSG2="ЗОБРАЖЕННЯ УСПІШНО СТВОРЕНО"
+extraer_iso_readcd_MSG3="Зображення створено в"
+extraer_iso_readcd_MSG4="Припинення процесу запису..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Змонтований компакт-диск"
+extraer_iso_mkisofs_MSG2="Створення образу..."
+extraer_iso_mkisofs_MSG3="Сумісність з Macintosh увімкнено"
+extraer_iso_mkisofs_MSG4="Використання"
+extraer_iso_mkisofs_MSG5="запущено"
+extraer_iso_mkisofs_MSG6="Зображення створено в каталозі"
+extraer_iso_mkisofs_MSG7="Повторна спроба процесу без підтримки Macintosh"
+extraer_iso_mkisofs_MSG8="Зображення створено в каталозі"
+extraer_iso_mkisofs_MSG9="mkisofs повертає невідомі помилки під час створення"
+extraer_iso_mkisofs_MSG10="з"
+extraer_iso_mkisofs_MSG11="Перевірити цілісність даних"
+extraer_iso_mkisofs_MSG12="Монтаж"
+extraer_iso_mkisofs_MSG12B="en"
+extraer_iso_mkisofs_MSG13="genisoimage повертає невідомі помилки під час створення"
+extraer_iso_mkisofs_MSG13B="з"
+extraer_iso_mkisofs_MSG14="Mkisofs і genisoimage не знайдено. Встановіть cdrtools або cdrkit."
+extraer_iso_mkisofs_MSG15="Неможливо встановити"
+extraer_iso_mkisofs_MSG16="Зображення успішно створено в"
+
+# m_comp_img
+
+m_comp_img_MSG1="ЗОБРАЖЕННЯ УСПІШНО ЗГЕНЕРОВАНО В"
+m_comp_img_MSG2="ЧИ ХОЧЕТЕ СТИСНУТИ ФАЙЛ ЗОБРАЖЕННЯ?"
+m_comp_img_MSG3="(s/y) для стиснення; процес скасовується за допомогою іншої опції."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Запуск файлового менеджера..."
+generar_iso_directorio_MSG2="Введіть назву для майбутнього CD/DVD/BD"
+generar_iso_directorio_MSG3="СТВОРЕННЯ ОБРАЗУ..."
+generar_iso_directorio_MSG4="Сумісність з Macintosh увімкнено"
+generar_iso_directorio_MSG5="Використання"
+generar_iso_directorio_MSG6="запущено"
+generar_iso_directorio_MSG7="ЗОБРАЖЕННЯ, СТВОРЕНЕ В КАТАЛОГІ"
+generar_iso_directorio_MSG8="ПРОЦЕС СТВОРЕННЯ ЗОБРАЖЕННЯ ВІДБУЛОСЯ"
+generar_iso_directorio_MSG9="СТВОРЕННЯ ОБРАЗУ БЕЗ СУМІСНОСТІ З MACINTOSH"
+generar_iso_directorio_MSG10="Mkisofs і genisoimage не знайдено. Встановіть cdrtools або cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Введіть назву для майбутнього DVD/BD"
+generar_bdv_udf_directorio_MSG2="Вкажіть каталог для створення відеозображення:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Вкажіть мітку диска:"
+generar_iso_directorio_libburnia_MSG2="Вкажіть каталог для створення образу ISO-9660:"
+generar_iso_directorio_libburnia_MSG3="Зображення ISO9660 створено успішно!!"
+generar_iso_directorio_libburnia_MSG4="Помилка під час створення зображення iso-9660 за допомогою xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="Файли та каталоги для включення в образ .iso"
+imagenISO_MSG2="ОБЕРІТЬ ВАРІАНТ"
+imagenISO_MSG2B="---------------"
+imagenISO_MSG3="Створити образ ISO-9660 із CD (використовувати dd)"
+imagenISO_MSG4="Створити образ ISO-9660 із DVD (використовуйте dd)"
+imagenISO_MSG5="Створити образ ISO-9660 із CD (використовувати readcd)"
+imagenISO_MSG6="Створити образ ISO-9660 із CD або DVD диска (використовуйте mkisofs)"
+imagenISO_MSG7="Створити образ ISO-9660 із даних жорсткого диска (використовуйте mkisofs)"
+imagenISO_MSG8="Попереднє меню"
+imagenISO_MSG9="СТВОРЕННЯ ЗОБРАЖЕННЯ"
+imagenISO_MSG10="Створити образ ISO-9660 із даних жорсткого диска (використовувати xorriso)"
+imagenISO_MSG11="Створіть образ iso/udf із CD/DVD/BD (використовуйте mkisofs)"
+imagenISO_MSG12="Створити образ iso/udf із даних жорсткого диска (використовуйте mkisofs)"
+imagenISO_MSG13="МЕНЮ ФОРМАТУВАННЯ ISO-9660"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Створити образ UDF/ISO з даних жорсткого диска (використовувати mkisofs)"
+imagenISO_MSG15="Створіть образ UDF/ISO із підтримкою DVD Video (використовуйте mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Введіть вихідний блок-пристрій, з якого буде створено зображення"
+imagen_img_MSG2="----------------------------------------------------------------"
+imagen_img_MSG3="Пристрої, зареєстровані в /etc/fstab і /etc/mtab"
+imagen_img_MSG4="Вивід команди монтування:"
+imagen_img_MSG5="Введіть назву пристрою: "
+imagen_img_MSG6="Створення .img образу блокового пристрою"
+imagen_img_MSG7="запущено"
+imagen_img_MSG8="ЗОБРАЖЕННЯ ПРИСТРОЮ СТВОРЕНО В"
+
+# monta_img
+
+monta_img_MSG1="Образ ISO або ext2 для монтування."
+monta_img_MSG2="Введіть шлях до каталогу, де знаходиться образ для монтування:"
+monta_img_MSG3="МОНТУВАНИЙ ОБРАЗ CD:"
+monta_img_MSG4="ПОМИЛКА ПІД ЧАС МОНТУВАННЯ ФАЙЛУ ОБРАЗУ"
+monta_img_MSG5="НЕ ЗНАЙДЕНО"
+monta_img_MSG6="ТОЧКА МОНТАЖУ НЕ ІСНУЄ"
+monta_img_MSG7="НЕОПІДЧИВАНА ПОМИЛКА"
+
+# desmonta_img
+
+desmonta_img_MSG1="Образ ISO або ext2 для демонтування."
+desmonta_img_MSG2="РОЗІБРАНЕ ЗОБРАЖЕННЯ"
+desmonta_img_MSG3="Змонтований образ не знайдено"
+desmonta_img_MSG4="Змонтувати вихід:"
+desmonta_img_MSG5="Ви можете безпосередньо вказати абсолютний шлях до каталогу зображення."
+desmonta_img_MSG6="Такий як /tmp/lcdgrabimg.iso або каталог монтування для образу, такий як /mnt/lcdgrab"
+desmonta_img_MSG7="Якщо не вказано, його можна шукати за допомогою файлового менеджера"
+desmonta_img_MSG8="Запуск файлового менеджера"
+desmonta_img_MSG9="Вкажіть шлях до зображення."
+desmonta_img_MSG10="ЗОБРАЖЕННЯ В РОЗІБРАННОМУ СИСТЕМІ"
+desmonta_img_MSG11="ПОМИЛКА ПІД МОНТУВАННЯ ОБРАЗУ"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg зображення для перетворення на .iso"
+nrg_a_iso_MSG2="Введіть шлях до образу .nrg (Nero Burning ROM) для конвертації"
+nrg_a_iso_MSG3="Перетворення зображення..."
+nrg_a_iso_MSG4="Шлях вихідного зображення .nrg"
+nrg_a_iso_MSG5="не існує або відповідає каталогу"
+nrg_a_iso_MSG6="Недійсний шлях."
+nrg_a_iso_MSG7="це вже попередній образ ISO-9660, його не буде перетворено."
+nrg_a_iso_MSG8="Копіювання з іншим розширенням..."
+nrg_a_iso_MSG9="КОПІЮВАННЯ ЗАВЕРШЕНО"
+nrg_a_iso_MSG10="запущено"
+nrg_a_iso_MSG11="Зображення успішно перетворено"
+nrg_a_iso_MSG12="ПОМИЛКА ПІД ЧАС СТВОРЕННЯ ОБРАЗУ .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Створити файл опису .cue із зображення .bin"
+GenerarArchivocue_MSG2="Поточний активний каталог"
+GenerarArchivocue_MSG3="Записати лише шлях до каталогу, де"
+GenerarArchivocue_MSG4="знайти файл зображення:"
+GenerarArchivocue_MSG5="Введіть назву зображення .bin, до якого"
+GenerarArchivocue_MSG6="створив відповідний файл .cue"
+GenerarArchivocue_MSG7="ФАЙЛ ОПИСУ .cue УСПІШНО ЗГЕНЕРОВАНО"
+GenerarArchivocue_MSG8="ПОМИЛКА ПІД ЧАС ГЕНЕРУВАННЯ ФАЙЛУ ОПИСУ .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="запущено"
+ImagenbincueCDDVD_MSG2=".BIN .CUE ОБРАЗ ДИСКА УСПІШНО ЗГЕНЕРОВАНО"
+

@@ -1,0 +1,59 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Vietnamita para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* TÙY CHỌN ĐIỀU HƯỚNG ************************"
+ayuda_gestor_de_archivos_MSG2="Duyệt hệ thống tập tin."
+ayuda_gestor_de_archivos_MSG3="X --> Đi ra ngoài"
+ayuda_gestor_de_archivos_MSG4="A --> Thư mục trước đó"
+ayuda_gestor_de_archivos_MSG5="B --> Thư mục tiếp theo"
+ayuda_gestor_de_archivos_MSG6="Các thao tác trên tập tin và thư mục."
+ayuda_gestor_de_archivos_MSG7="C --> Sao chép tập tin"
+ayuda_gestor_de_archivos_MSG8="M --> Di chuyển tập tin"
+ayuda_gestor_de_archivos_MSG9="CD --> Sao chép thư mục"
+ayuda_gestor_de_archivos_MSG10="MD --> Di chuyển thư mục"
+ayuda_gestor_de_archivos_MSG11="Hiểu các hành động trên tập tin và thư mục."
+ayuda_gestor_de_archivos_MSG12="Z --> Nén một tập tin"
+ayuda_gestor_de_archivos_MSG13="DZ --> Giải nén một tập tin"
+ayuda_gestor_de_archivos_MSG14="EZ --> Tạo gói .tar.gz hoặc .tar.bz2"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Giải nén tệp .tar.gz hoặc .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Thư mục hoạt động hiện tại"
+gestor_de_archivos_MSG0B="Tập tin trong"
+gestor_de_archivos_MSG1="============================== TÙY CHỌN ĐIỀU HƯỚNG ==========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> SỰ GIÚP ĐỠ="
+gestor_de_archivos_MSG3="=============================================================================="
+gestor_de_archivos_MSG4="Nhập một tùy chọn"
+gestor_de_archivos_MSG5="Gõ thư mục"
+gestor_de_archivos_MSG6="Nhập tệp nguồn"
+gestor_de_archivos_MSG7="Nhập tệp đích"
+gestor_de_archivos_MSG8="Đã sao chép tệp thành công"
+gestor_de_archivos_MSG9="Lỗi sao chép tập tin"
+gestor_de_archivos_MSG10="Nhập tệp nguồn"
+gestor_de_archivos_MSG11="Nhập tệp đích"
+gestor_de_archivos_MSG12="Đã di chuyển tệp thành công"
+gestor_de_archivos_MSG13="Lỗi di chuyển tập tin"
+gestor_de_archivos_MSG14="Nhập thư mục nguồn"
+gestor_de_archivos_MSG15="Nhập thư mục đích"
+gestor_de_archivos_MSG16="Đã sao chép thư mục thành công"
+gestor_de_archivos_MSG17="Lỗi sao chép thư mục"
+gestor_de_archivos_MSG18="Nhập thư mục nguồn"
+gestor_de_archivos_MSG19="Nhập thư mục đích"
+gestor_de_archivos_MSG20="Thư mục đã được di chuyển thành công"
+gestor_de_archivos_MSG21="Lỗi di chuyển thư mục"
+gestor_de_archivos_MSG22="TẬP TIN ĐỂ NÉN"
+gestor_de_archivos_MSG23="Chỉ định đường dẫn tệp"
+
+
+

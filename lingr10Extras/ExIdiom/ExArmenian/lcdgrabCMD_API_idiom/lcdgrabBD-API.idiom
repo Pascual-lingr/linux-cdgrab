@@ -1,0 +1,48 @@
+#########################################################
+# lcdgrabAPI_idiom/ExArmenian/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Armenio para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 ՊԱՏԿԵՐԸ ՃԻՇՏ ՁԵՌՆԱԳՐՎԱԾ Է BLU-RAY ՈՒՄ"
+grabar_ISO_BD_MSG2="ՍԽԱԼ ԲԼՈՒ-ՌԵՅ ՍԿՍԱՎՈՐՈՎ ՊԱՏԿԵՐԸ ՁԱՅՆԱԳՐԵԼՈՒՑ"
+grabar_ISO_BD_MSG3="ISO-9660 IMAGE IN BD"
+grabar_ISO_BD_MSG4="Նշեք ISO-9660 պատկերի այրման ուղին."
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Ֆայլեր և գրացուցակներ .iso պատկերը ստեղծելու համար"
+# Resultado del traductor
+bd_datos_MSG2="DB LABEL"
+bd_datos_MSG3="Մուտքագրեք անուն ապագա BD-ի համար:"
+bd_datos_MSG4="Ֆայլերի կառավարչի գործարկում."
+bd_datos_MSG5=" ՊԱՏԿԵՐԻ ՍՏԵՂԾՈՒՄ..."
+bd_datos_MSG6="վազում"
+bd_datos_MSG7="ISO-9660 ՊԱՏԿԵՐԸ ՍՏԵՂԾՎԵԼ Է"
+bd_datos_MSG8="		Ձայնագրման BD"
+bd_datos_MSG13="ՊԱՏԿԵՐԸ Ջնջվում է..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Անհրաժեշտ ձևաչափումը կամ ջնջումը կիրառվում է կախված սկավառակի կարգավիճակից"
+borrar_BDRE_lb_MSG2="BD-RE ՀԱՋՈՂՈՎ ՋՆՋՎԱԾ Է!!"
+borrar_BDRE_lb_MSG3="ՍԽԱԼ BD-RE Ջնջելիս"
+

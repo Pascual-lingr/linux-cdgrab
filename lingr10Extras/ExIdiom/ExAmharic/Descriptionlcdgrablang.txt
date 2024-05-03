@@ -1,0 +1,21 @@
+አማርኛ
+
+Amárico. Amharic.
+Experimental.
+
+Contiene errores de significado en contexto o traducción propia.
+Por estudio del comportamiento de los caracteres amáricos en el shell.
+El shell debe tener soporte para los caracteres amáricos, de lo
+contrario, este idioma no será funcional en el shell.
+Generado con Google Translate.
+
+Contains meaning errors in context or own translation.
+By study of the behavior of Amharic characters in the shell.
+The shell must have support for Amharic characters, otherwise,
+this language will not be functional in the shell.
+Generated with Google Translate.
+
+አማርኛ ቋንቋ ለ linux-cdgrab
+የሙከራ፣ በGoogle ትርጉም የመነጨ።
+Pascual Martínez Cruz; pascual@hotmail.com
+

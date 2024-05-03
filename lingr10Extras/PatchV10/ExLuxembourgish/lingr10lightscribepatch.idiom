@@ -1,0 +1,32 @@
+# Idioma Luxemburgués para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con google translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Press ENTER fir weiderzemaachen ..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="====================================="
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 LIGHTSCRIBE SUPPORT."
+cabecera_lightscribe_MSG3="====================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Schreift de Wee vum Bild un, deen Dir op Disk drécke wëllt:"
+imprimir_disco_lightscribe_MSG2="D'Bildformat muss .bmp sinn"
+imprimir_disco_lightscribe_MSG3="laafen"
+imprimir_disco_lightscribe_MSG4="Label op der Disk gedréckt"
+imprimir_disco_lightscribe_MSG5="Feeler beim Drécken vum Label op Disk"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="LightScribe Technologie ass nëmmen op e puer Eenheeten präsent"
+lingr10lightscribepatch_MSG2="Dir sollt kucken ob Äre Rekorder en huet."
+lingr10lightscribepatch_MSG3="Och nëmme speziell CDen oder DVDen kënne fir LightScribe markéiert ginn"
+lingr10lightscribepatch_MSG4="Dréckt eng LightScribe Disk"
+lingr10lightscribepatch_MSG5="Menü virdru"
+lingr10lightscribepatch_MSG6="Invalid Optioun"
+

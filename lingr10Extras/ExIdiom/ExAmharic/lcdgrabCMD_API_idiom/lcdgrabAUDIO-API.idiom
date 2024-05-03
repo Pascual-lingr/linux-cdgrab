@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAmharic/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en amárico para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3 ፋይሎች ለመለወጥ"
+mp3awav_MSG0="የ .mp3 ፋይሎችን መንገድ አስገባ:"
+mp3awav_MSG1="መለወጥ"
+mp3awav_MSG1B=" ወደ .wav ቅርጸት"
+mp3awav_MSG2="እየሮጠ"
+mp3awav_MSG3="ናሙና ወደ 44100Mhz ተቀናብሯል"
+mp3awav_MSG4="ናሙና ማካሄድ ላይ ስህተት"
+mp3awav_MSG5="መቀየር አልተሳካም"
+mp3awav_MSG6="ማውጫ አልተገኘም"
+mp3awav_MSG7="የድምጽ ለውጥ መጨረሻ"
+mp3awav_MSG8="የድምጽ ፋይልን መደበኛ ማድረግ"
+mp3awav_MSG9="ፋይል"
+mp3awav_MSG10="መደበኛ"
+mp3awav_MSG11="የማስተካከያ ስህተት"
+
+# oggawav
+
+oggawav_MSG0="የOGG ፋይሎች ለመለወጥ"
+oggawav_MSG1="የ .ogg ፋይሎችን መንገድ አስገባ:"
+oggawav_MSG2="መለወጥ"
+oggawav_MSG2B="ወደ .wav ቅርጸት"
+oggawav_MSG3="እየሮጠ"
+oggawav_MSG4="ናሙና ወደ 44100Mhz ተቀናብሯል"
+oggawav_MSG5="ናሙና ማካሄድ ላይ ስህተት"
+oggawav_MSG6="መቀየር አልተሳካም"
+oggawav_MSG7="መምሪያ አልተገኘም"
+oggawav_MSG8="የድምጽ ሽፋን መጨረሻ"
+oggawav_MSG9="የድምጽ ፋይልን መደበኛ ማድረግ"
+oggawav_MSG10="ፋይል"
+oggawav_MSG11="መደበኛ"
+oggawav_MSG12="የማስተካከል ስህተት"
+
+# cdawav
+
+cdawav_MSG1="የድምጽ ሲዲ መቅዳት..."
+cdawav_MSG2="በማስፈጸም ላይ:"
+cdawav_MSG3=" በተሳካ ሁኔታ የበሰለ የድምጽ ትራኮች!!"
+cdawav_MSG4="የድምጽ ፋይሎች ማውጫ ይዘቶች"
+cdawav_MSG5="የድምጽ ዱካዎችን በሚቀዳ ጊዜ ስህተት"
+
+# cddawav
+
+cddawav_MSG1="ለመቅደድ የትራኮች ቁጥር አስገባ:"
+cddawav_MSG2=" ትራክ መቅደድን ለመሰረዝ Crtl + c ን ይጫኑ"
+cddawav_MSG3="በማስፈጸም ላይ:"
+cddawav_MSG4="በተሳካ ሁኔታ የተቀደደ"
+cddawav_MSG5="መቅዳት"
+
+# wavamp3
+
+wavamp3_MSG0="የ WAV ፋይሎች ለመለወጥ"
+wavamp3_MSG1="የ wav ፋይሎችን መንገድ አስገባ:"
+wavamp3_MSG1B="መለወጥ"
+wavamp3_MSG2="ለመቅረጽ"
+wavamp3_MSG3="በመፈጸም ላይ:"
+wavamp3_MSG4="ሲቀየር"
+wavamp3_MSG5="ወደ .MP3 ቅርጸት"
+wavamp3_MSG6="መቀየር ላይ ስህተት"
+wavamp3_MSG7="የድምጽ ለውጥ ተጠናቀቀ"
+wavamp3_MSG8="የድምጽ ማውጫ አልተገኘም"
+
+# cdamp3
+
+cdamp3_MSG1="ኦዲዮ ሲዲ መቅደድ"
+cdamp3_MSG2="በማስፈጸም ላይ:"
+cdamp3_MSG3="በተሳካ ሁኔታ የበሰለ የድምጽ ትራኮች!!"
+cdamp3_MSG4="የድምጽ ትራኮችን ሲቀዳጅ ስህተት"
+cdamp3_MSG5="የጥሪ ተግባር:"
+
+# wavaogg
+
+wavaogg_MSG1="የ.wav ፋይሎችን መንገድ አስገባ:"
+wavaogg_MSG2="መለወጥ"
+wavaogg_MSG3="ወደ .ogg ቅርጸት"
+wavaogg_MSG4="በመሮጥ:"
+wavaogg_MSG5="መቀየር ላይ ስህተት"
+wavaogg_MSG6="ወደ .ogg ቅርጸት"
+
+# cdaogg
+
+cdaogg_MSG1="RIPEANDO CD DE AUDIO ..."
+cdaogg_MSG2="Ejecutando:"
+cdaogg_MSG3="¡¡ PISTAS DE AUDIO RIPEADAS CON ÉXITO !!"
+cdaogg_MSG4="ERROR AL RIPEAR LAS PISTAS DE AUDIO"
+cdaogg_MSG5="Llamando a la función:"
+
+# corta_wav
+
+corta_wav_MSG0="የሰከንዶች ብዛት:"
+corta_wav_MSG1="ለመቀየር የድምጽ ፋይሉን ዱካ ይግለጹ፡"
+corta_wav_MSG2="ሰዓቱን በሰከንዶች ቁጥር ይግለጹ፣ ለዚህም"
+corta_wav_MSG3="ፋይሉን መቁረጥ ይጀምራል"
+corta_wav_MSG4="-ማስታወሻ-"
+corta_wav_MSG5="የድምፅ መጀመሪያን ለመለየት 0 አስገባ"
+corta_wav_MSG6="መቀየር ለመጀመር በሰከንዶች ውስጥ ያለው ዋጋ፡"
+corta_wav_MSG7="ሰዓቱን በሰከንዶች ቁጥር ይግለጹ፣ ለዚህም"
+corta_wav_MSG8="ፋይሉን መቁረጥ ይጠናቀቃል።"
+corta_wav_MSG9="ዋጋ በሴኮንዶች ውስጥ ለውጡ መጨረሻ፡"
+corta_wav_MSG10="እየሮጠ"
+corta_wav_MSG11="የተከረከመ የድምጽ ፋይል"
+corta_wav_MSG12="ፋይሉን በመቁረጥ ጊዜ ስህተት"
+corta_wav_MSG13="ለመቁረጥ የድምጽ ፋይል:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV ኦዲዮ"
+flacawav_MSG1="የ .flac ፋይሎችን መንገድ ይግለጹ፡"
+flacawav_MSG2="መለወጥ"
+flacawav_MSG3=" ወደ .wav ቅርጸት"
+flacawav_MSG4="ናሙና ወደ 44100Mhz ተቀናብሯል"
+flacawav_MSG5="ናሙና ማካሄድ ላይ ስህተት"
+flacawav_MSG6="የድምጽ ፋይልን መደበኛ ማድረግ"
+flacawav_MSG7="ፋይል"
+flacawav_MSG8="መደበኛ"
+flacawav_MSG9="የማስተካከያ ስህተት"
+flacawav_MSG10="መቀየር አልተሳካም"
+flacawav_MSG11="መምሪያ አልተገኘም"
+flacawav_MSG12="የድምጽ ለውጥ መጨረሻ"
+
+# wavaflac
+
+wavaflac_MSG0="የ WAV ፋይሎች ለመለወጥ"
+wavaflac_MSG1="የ wav ፋይሎችን መንገድ አስገባ፡"
+wavaflac_MSG2="መቀየር"
+wavaflac_MSG3=".flac ቅርጸት"
+wavaflac_MSG4="ወደ flac ቅርጸት ተቀይሯል"
+wavaflac_MSG5="መቀየር ላይ ስህተት"
+wavaflac_MSG6="ወደ .flac ቅርጸት"
+wavaflac_MSG7="FLAC ፋይል ማውጫ አልተገኘም"
+

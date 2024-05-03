@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExThai/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en tailandés para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Chat GPT y Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="กรุณาพิมพ์เส้นทางของไฟล์หรือไดเรกทอรี:"
+empaquetar_MSG2="------- ตัวเลือก -------"
+empaquetar_MSG3="สร้างไฟล์ .tar.gz"
+empaquetar_MSG4="สร้างไฟล์ .tar.bz2"
+empaquetar_MSG5="พิมพ์ตัวเลือกหนึ่ง : "
+empaquetar_MSG6="กำลังดำเนินการ"
+empaquetar_MSG7="ตัวเลือกไม่ถูกต้อง"
+
+# desempaquetar
+
+desempaquetar_MSG1="กรุณาพิมพ์เส้นทางของไฟล์:"
+desempaquetar_MSG2="ไม่พบเครื่องบีบอัดสำหรับ"
+desempaquetar_MSG3="หรือ"
+desempaquetar_MSG4="ไม่มีอยู่"
+desempaquetar_MSG5="กำลังดำเนินการ"
+# Traducción de Google Translate - INI
+desempaquetar_MSG6="แกะออก"
+desempaquetar_MSG7="เกิดข้อผิดพลาดในการพยายามแกะกล่อง"
+# Traducción de Google Translate - FIN
+
+# comprime
+
+comprime_MSG1="กำลังบีบอัดรูปภาพ"
+comprime_MSG2="บีบอัดด้วย bzip2"
+comprime_MSG3="บีบอัดด้วย gzip"
+comprime_MSG4="บีบอัดด้วย xz"
+comprime_MSG5="เมนูก่อนหน้า"
+comprime_MSG6="กำลังดำเนินการ"
+comprime_MSG7="การบีบอัดไฟล์ภาพเสร็จสิ้น"
+comprime_MSG8="ข้อผิดพลาดในการบีบอัดด้วย"
+comprime_MSG9="คอมเพรสเซอร์ที่ไม่ถูกต้อง"
+
+# descomprime
+
+descomprime_MSG1="พิมพ์เส้นทางของไฟล์:"
+descomprime_MSG2="----------------"
+descomprime_MSG3="ไม่พบเครื่องบีบอัดสำหรับ"
+descomprime_MSG4="หรือ"
+descomprime_MSG5="ไม่มีอยู่"
+descomprime_MSG6="กำลังดำเนินการ"
+# Traducción de Google Translate - INI
+descomprime_MSG7="คลายซิป"
+descomprime_MSG8="เกิดข้อผิดพลาดขณะพยายามแตกไฟล์"
+# Traducción de Google Translate - FIN

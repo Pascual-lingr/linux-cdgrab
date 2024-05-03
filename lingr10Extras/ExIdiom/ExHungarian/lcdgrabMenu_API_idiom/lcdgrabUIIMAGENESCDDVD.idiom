@@ -1,0 +1,51 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Húngaro, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="LEMEZKÉPEK LÉTREHOZÁSA ÉS KEZELÉSE"
+MenuImagen_MSG2="---------------- KÉP LÉTREHOZÁSA ---------------"
+MenuImagen_MSG3="ISO-9660 kép létrehozása"
+MenuImagen_MSG4="Kép létrehozása natív Linux fájlrendszerrel"
+MenuImagen_MSG5=".img kép létrehozása bármely blokkolóeszközről"
+MenuImagen_MSG6=".bin .cue kép létrehozása az aktuális eszközről"
+MenuImagen_MSG7="------------------ EGYÉB OPCIÓK ----------------"
+MenuImagen_MSG8=".cue leíró fájl létrehozása .bin képből"
+MenuImagen_MSG9=".nrg (Nero Burning ROM) kép konvertálása .iso formátumba"
+MenuImagen_MSG10="Kép tömörítése gzip, bzip2 vagy xz segítségével"
+MenuImagen_MSG11="Kép kicsomagolása zip, gz, bz2 vagy xz formátumban"
+MenuImagen_MSG11B="Az iso képek md5 összegének ellenőrzése"
+MenuImagen_MSG12="Iso mód módosítása"
+MenuImagen_MSG0="Előző menü"
+MenuImagen_MSG13="Tömörítendő képfájl"
+MenuImagen_MSG14="KÉPFÁJL TÖMÖRÍTÉSE"
+MenuImagen_MSG15="Írja be a könyvtár elérési útját, ahol a tömöríteni kívánt kép található:"
+MenuImagen_MSG16="Képfájl, amelyet ki szeretne tömöríteni"
+MenuImagen_MSG17="AKTUÁLIS ISO SZINT"
+MenuImagen_MSG18="iso szint"
+MenuImagen_MSG19="A fájlnevek egy szakaszból állnak"
+MenuImagen_MSG20="és legfeljebb 8,3 karakter lehet."
+MenuImagen_MSG21="Válassza ezt a szintet, ha névkompatibilitást szeretne"
+MenuImagen_MSG21b="MS-DOS operációs rendszer alatt"
+MenuImagen_MSG22="A fájlnevek egy szakaszból állnak"
+MenuImagen_MSG23="Korlátlan szint."
+MenuImagen_MSG24="Használja ezt a szintet, ha fájlokkal kíván kompatibilitást"
+MenuImagen_MSG25="nagy, ebben az esetben >= 2 Gigabájt."
+MenuImagen_MSG26="Minden ISO szint korlátozza a fájlneveket nagybetűkre, kisbetűkre és"
+MenuImagen_MSG27="olyan karakterek, mint a _ . A fájlnevek legfeljebb 31 karakterből állhatnak"
+MenuImagen_MSG28="Legfeljebb 8 könyvtárút és elérési út neve"
+MenuImagen_MSG29="255 karakteres könyvtárak."
+MenuImagen_MSG30="Válassza ki az új iso szintet"
+MenuImagen_MSG31="A 4-es ISO szint nem hivatalos"
+MenuImagen_MSG32="Nézze meg az mkisofs kézikönyvoldalát"
+MenuImagen_MSG33="Érvénytelen ISO-szint"
+MenuImagen_MSG34="A 3-as ISO szint alapértelmezés szerint beállítva"
+
+

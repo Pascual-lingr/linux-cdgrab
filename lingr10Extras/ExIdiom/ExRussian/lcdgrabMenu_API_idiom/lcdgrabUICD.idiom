@@ -1,0 +1,73 @@
+#########################################################
+# lcgdrabAPI_idiom/ExRussian/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Idioma Ruso para el Interfaz para la grabación en CD.
+# Traducción experimental, generada con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="ВЫБЕРИТЕ ВАРИАНТ"
+clonar_MSG2="-- КОПИИ ДИСКА С ПРЕДВАРИТЕЛЬНЫМ ИЗОБРАЖЕНИЕМ --"
+clonar_MSG3="Копировать компакт-диск с данными"
+clonar_MSG4="Создать предыдущий образ компакт-диска на жестком диске"
+clonar_MSG5="------------- КОПИИ ДИСКОВ НА ЛЕТУ -------------"
+clonar_MSG6="Копирование компакт-диска с данными на лету"
+clonar_MSG7="Клонировать компакт-диск с данными на лету"
+clonar_MSG7B="Копирование аудио компакт-диска на лету"
+clonar_MSG8="ДЛЯ ВАРИАНТОВ ЛЕТУЧЕГО КОПИРОВАНИЯ ТРЕБУЮТСЯ ДВА ОПТИЧЕСКИХ БЛОКА"
+clonar_MSG9="УСТАНАВЛИВАЕТСЯ НА ВАШ КОМПЬЮТЕР, ТАК КАК ДАННЫЕ ЗАПИСЫВАЮТСЯ ВО ВРЕМЯ"
+clonar_MSG10="ЧИТАЙТЕ ПРЯМО С ИСХОДНОГО ДИСКА, ЕСЛИ ТОЛЬКО НА ВАШЕМ КОМПЬЮТЕРЕ"
+clonar_MSG11="ПОЛЬЗОВАТЬСЯ КОПИЯМИ В ПОЛЕТЕ НЕ МОЖЕТ."
+clonar_MSG12B="КОПИРОВАТЬ ДАННЫЕ КОМПАКТ-ДИСКА"
+clonar_MSG0="Предыдущее меню"
+
+# mgrabacd
+
+mgrabacd_MSG1="CD-ДАННЫЕ С ЖЕСТКОГО ДИСКА"
+mgrabacd_MSG2="Запишите новый компакт-диск с данными (используйте cdrtools)"
+mgrabacd_MSG3="Запишите новый компакт-диск с данными (используйте libburnia)"
+mgrabacd_MSG4="Предыдущее меню"
+mgrabacd_MSG5="Введите вариант"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="ЗАПИСАТЬ ИЗОБРАЖЕНИЕ ДАННЫХ"
+mgrabaimg_MSG2="Записать образ iso или ext2 на CD-R/RW (используйте cdrtools)"
+mgrabaimg_MSG3="Записать ISO-образ на CD-R/RW (используйте libburnia)"
+mgrabaimg_MSG4="Предыдущее меню"
+mgrabaimg_MSG5="Введите вариант"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Записать аудио компакт-диск из файлов .wav"
+mgrabararchivosaudio_MSG2="Записать аудио компакт-диск из файлов .mp3"
+mgrabararchivosaudio_MSG3="Записать аудио компакт-диск из файлов .ogg"
+mgrabararchivosaudio_MSG0="Предыдущее меню"
+mgrabararchivosaudio_MSG0B="Введите вариант"
+mgrabararchivosaudio_MSG4="Записать аудио компакт-диск из файлов .flac"
+mgrabararchivosaudio_MSG5="ЗАПИСЬ АУДИО CD ИЗ ФАЙЛОВ"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="ЗАПИСЬ НА CD"
+menugrabar_cd_MSG2="------------- Компакт-диск - ДАННЫЕ -------------"
+menugrabar_cd_MSG3="Копировать компакт-диск с данными"
+menugrabar_cd_MSG4="Записать новый компакт-диск с данными"
+menugrabar_cd_MSG5="Записать новый компакт-диск с многосессионными данными"
+menugrabar_cd_MSG6="Записать образ .iso или .ext2 на компакт-диск"
+menugrabar_cd_MSG7="Записать образ .bin/.cue на компакт-диск"
+menugrabar_cd_MSG8="------------------ CD - АУДИО -------------------"
+menugrabar_cd_MSG9="Копировать аудио компакт-диск"
+menugrabar_cd_MSG13="---------------- ДРУГИЕ ВАРИАНТЫ ----------------"
+menugrabar_cd_MSG14="Записать смешанный компакт-диск (данные + аудио)"
+menugrabar_cd_MSG15="Удалить CD-RW"
+menugrabar_cd_MSG16="Закрыть открытый компакт-диск"
+menugrabar_cd_MSG17="Показать информацию о диске"
+menugrabar_cd_MSG18="Записать аудио компакт-диск из файлов диска"
+menugrabar_cd_MSG0="Предыдущее меню"
+menugrabar_cd_MSGPRINCIPAL="Введите параметр"
+

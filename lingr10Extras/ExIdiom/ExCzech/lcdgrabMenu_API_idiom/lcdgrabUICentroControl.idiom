@@ -1,0 +1,282 @@
+#########################################################
+# lcdgrabAPI_idiom/ExCzech/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Checo para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Konfigurace Linux-cdgrab"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Pokud nevíte, ke kterému kanálu IDE patří"
+ayuda_IDE_MSG2="váš rekordér to může zjistit stisknutím písmene t."
+ayuda_IDE_MSG3="Příklad kanálu IDE může být 0,0,0 nebo 0,1,0"
+ayuda_IDE_MSG4="Můžete také určit odpovídající zařízení"
+ayuda_IDE_MSG5="k vašemu záznamníku. Pokud nevíte, který to je, určitě stiskněte d,"
+ayuda_IDE_MSG6="pro zobrazení zařízení zaregistrovaných v souboru /etc/fstab"
+ayuda_IDE_MSG7="Příkladem zařízení může být /dev/hdd, /dev/hde atd."
+ayuda_IDE_MSG8="Pokud si přejete, můžete také vypsat všechna obsažená zařízení"
+ayuda_IDE_MSG9="v adresáři /dev stisknutím písmene l."
+ayuda_IDE_MSG10="Musíte zadat kanál IDE nebo nahrávací zařízení"
+ayuda_IDE_MSG11="ale ne obojí."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab byl z vašeho systému odinstalován"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Rychlost záznamu"
+imprimir_variables_MSG2="IDE/SCSI kanál nebo nahrávací zařízení"
+imprimir_variables_MSG3="Čtečka CD-ROM, DVD-ROM nebo BD-ROM"
+imprimir_variables_MSG4="Zařízení ATAPI"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Rychlost záznamu"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI kanál nebo nahrávací zařízení"
+imprimir_lcdgrabcfg_MSG3="Čtečka CD-ROM, DVD-ROM nebo BD-ROM"
+imprimir_lcdgrabcfg_MSG4="Zařízení ATAPI"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Nainstalováno"
+chequeo_de_aplicaciones_MSG2="NEINSTALOVÁNO"
+chequeo_de_aplicaciones_MSG3="Instalovat"
+chequeo_de_aplicaciones_MSG4="DŮLEŽITÉ:"
+chequeo_de_aplicaciones_MSG5="Instalace potřebných nástrojů Linux-cdgrab bude plně fungovat"
+chequeo_de_aplicaciones_MSG6="Všechny programy, které Linux-cdgrab potřebuje, jsou nainstalovány ve vašem systému"
+chequeo_de_aplicaciones_MSG4B="POZNÁMKA:"
+chequeo_de_aplicaciones_MSG5B="Nalezeny chybějící nástroje"
+chequeo_de_aplicaciones_MSG6B="Nástroje nainstalované v systému"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 je standardně přiřazeno této proměnné"
+msgdefCANALATAPI_MSG2="Konfigurační soubor bude zapsán s CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Konfigurační soubor automaticky generovaný Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG5="cdrecord nebyl v systému nalezen"
+nuevo_lcdgrabcfg_MSG6="Nainstalujte balíček cdrtools."
+nuevo_lcdgrabcfg_MSG7="Můžete pokračovat v konfiguraci zadáním hodnot"
+nuevo_lcdgrabcfg_MSG8="záznam, pokud je znáte dříve."
+nuevo_lcdgrabcfg_MSG9="Příkaz cdrecord se používá při nahrávání disků CD, DVD a BD"
+nuevo_lcdgrabcfg_MSG10="Tyto možnosti nebudou funkční, dokud nebude daný balíček nainstalován."
+nuevo_lcdgrabcfg_MSG11="Přítomný nástroj pro skenování disku také nebude funkční"
+nuevo_lcdgrabcfg_MSG12="v tomto průvodci konfigurací."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab je třeba nakonfigurovat v následujících čtyřech krocích"
+nuevo_lcdgrabcfg_MSG14="První krok."
+nuevo_lcdgrabcfg_MSG15="Rychlost záznamu:"
+nuevo_lcdgrabcfg_MSG16="Pouze jedno číslo 2,4,8,16,32... atd"
+nuevo_lcdgrabcfg_MSG17="Druhý krok."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI kanál nebo nahrávací zařízení:"
+nuevo_lcdgrabcfg_MSG19="A -> pomoc"
+nuevo_lcdgrabcfg_MSG20="Skenuji..."
+nuevo_lcdgrabcfg_MSG21="Chyba při skenování portu IDE/SCSI"
+nuevo_lcdgrabcfg_MSG22="Cdrecord nenalezen"
+nuevo_lcdgrabcfg_MSG23="Třetí krok."
+nuevo_lcdgrabcfg_MSG24="Zařízení CD-ROM, DVD-ROM nebo BD-ROM"
+nuevo_lcdgrabcfg_MSG25="L -> Seznam dostupných zařízení"
+nuevo_lcdgrabcfg_MSG26="Skenuji..."
+nuevo_lcdgrabcfg_MSG27="Prohledán port IDE/SCSI"
+nuevo_lcdgrabcfg_MSG28="Zařízení, které bude používat cdrecord přes dev=ATAPI v nahrávkách s více relacemi"
+nuevo_lcdgrabcfg_MSG30="Zařízení má nomenklaturu jako 0,0,0 nebo 1,0,0 atd."
+nuevo_lcdgrabcfg_MSG31="Určete zařízení pro volání cdrecord na CD s více sekcemi: "
+nuevo_lcdgrabcfg_MSG32="Konfigurace není správná pro CANALATAPI"
+nuevo_lcdgrabcfg_MSG33="Chyba při skenování portu IDE/SCSI"
+nuevo_lcdgrabcfg_MSG34="Cdrecord nenalezen"
+nuevo_lcdgrabcfg_MSG36="Konfigurační soubor automaticky generovaný Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG37="NASTAVENÍ LINUX-CDGRAB DOKONČENO"
+
+# colores
+
+colores_MSG1="Seznam barev nelze nalézt"
+colores_MSG2="Načítání výchozích barev"
+colores_MSG3="Vyberte nové barevné schéma pro rozhraní LINUX-CDGRAB"
+colores_MSG4="ČERNÉ PÍSMO"
+colores_MSG5="STANDARDNÍ JASNÉ PÍSMO"
+colores_MSG6="ČERNÁ BARVA POZADÍ"
+colores_MSG7="ČERVENÉ PÍSMO"
+colores_MSG8="SVĚTLE ČERNÉ PÍSMO"
+colores_MSG9="ČERVENÁ BARVA POZADÍ"
+colores_MSG10="PÍSMO ZELENÉ"
+colores_MSG11="JASNĚ ČERVENÁ FONTÁNA"
+colores_MSG12="ZELENÁ BARVA POZADÍ"
+colores_MSG13="ŽLUTÉ PÍSMO"
+colores_MSG14="SVĚTLE ZELENÉ PÍSMO"
+colores_MSG15="ORANŽOVÁ BARVA POZADÍ"
+colores_MSG16="MODRÉ PÍSMO"
+colores_MSG17="JASNĚ ŽLUTÉ PÍSMO"
+colores_MSG18="MODRÁ BARVA POZADÍ"
+colores_MSG19="MAGENTA FONT"
+colores_MSG20="JASNĚ MODRÉ PÍSMO"
+colores_MSG21="PURGENTOVÁ BARVA POZADÍ"
+colores_MSG22="AZUROVÝ ZDROJ"
+colores_MSG23="JASNĚ PURPUROVÉ PÍSMO"
+colores_MSG24="Azurová BARVA POZADÍ"
+colores_MSG25="ŠEDÉ PÍSMO"
+colores_MSG26="Azurová BARVA POZADÍ"
+colores_MSG27="JASNĚ AZUROVÉ PÍSMO"
+colores_MSG28="ŠEDÁ BARVA POZADÍ"
+colores_MSG29="VÝCHOZÍ ZDROJ"
+colores_MSG30="JASNĚ BÍLÉ PÍSMO"
+colores_MSG31="VÝCHOZÍ BARVA POZADÍ"
+colores_MSG32="Číslo barvy pro font: "
+colores_MSG33="Číslo barvy pro pozadí: "
+colores_MSG34="Číslo barvy pro varovné zprávy: "
+colores_MSG35="Číslo barvy pro zprávy štítku: "
+colores_MSG36="Číslo barvy pro úspěšně dokončené procesy"
+colores_MSG37="Číslo barvy pro procesy ukončené s chybou: "
+colores_MSG38="Nové schéma pro LINUX-CDGRAB"
+colores_MSG39="OBECNÁ BARVA PÍSMA"
+colores_MSG40="ŠTÍTKY"
+colores_MSG41="POZNÁMKY"
+colores_MSG42="ÚSPĚCH"
+colores_MSG43="CHYBA"
+colores_MSG44="BARVA POZADÍ"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="SEZNAM DOSTUPNÝCH BAREV:"
+cambiar_esquema_de_color_MSG2="#####BAREVNÁ SCHÉMA#######"
+cambiar_esquema_de_color_MSG3="--------------------------"
+cambiar_esquema_de_color_MSG4="Nabídka barev"
+cambiar_esquema_de_color_MSG5="Selhalo"
+cambiar_esquema_de_color_MSG6="Štítky"
+cambiar_esquema_de_color_MSG6b="Oznámení"
+cambiar_esquema_de_color_MSG7="Nabídka barev OK štítky s varováním při selhání"
+cambiar_esquema_de_color_MSG8="Zadejte číslo nové barvy:"
+cambiar_esquema_de_color_MSG9="NEPLATNÁ MOŽNOST"
+cambiar_esquema_de_color_MSG10="NASTAVENÍ VÝCHOZÍCH BAREV."
+cambiar_esquema_de_color_MSG11=" BACKGROUND = BLUE_BACKGROUND"
+cambiar_esquema_de_color_MSG12="FONT = JASNĚ BÍLÁ"
+cambiar_esquema_de_color_MSG13=" VAROVÁNÍ = JASNĚ ŽLUTÁ"
+cambiar_esquema_de_color_MSG14=" CHYBY = JASNĚ ČERVENÁ"
+cambiar_esquema_de_color_MSG15=" CHYBY = JASNĚ ČERVENÁ"
+cambiar_esquema_de_color_MSG16=" HITS = SVĚTLE ZELENÁ"
+cambiar_esquema_de_color_MSG17=" ŠTÍTKY = JASNĚ AZUROVÁ"
+
+# cambia_lector
+
+cambia_lector_MSG1="NASTAVENÍ PROSTŘEDÍ PRO OPTICKÉ JEDNOTKY"
+cambia_lector_MSG2="Aktuální zařízení spojené s CD-ROM, DVD-ROM nebo BD-ROM"
+cambia_lector_MSG3="Aktuální zařízení spojené s vypalovačkou CD/DVD/BD"
+cambia_lector_MSG4="Aktuální zařízení spojené s parametrem dev=ATAPI"
+cambia_lector_MSG5="(podpora více relací pro cdrecord)"
+cambia_lector_MSG6="Vyberte zařízení, na kterém se má změna provést."
+cambia_lector_MSG7="Zadejte možnost:"
+cambia_lector_MSG8="Zadejte název nového zařízení"
+cambia_lector_MSG9="neodpovídá blokovému zařízení"
+cambia_lector_MSG10="Zařízení"
+cambia_lector_MSG11="přiřazeno ve výchozím nastavení"
+cambia_lector_MSG12="Nové zařízení je:"
+cambia_lector_MSG13="Ne všechny verze cdrecord akceptují blokové zařízení jako parametr nahrávání"
+cambia_lector_MSG14="Zadejte název nového zařízení ATAPI"
+cambia_lector_MSG15="Konfigurace není správná pro CANALATAPI"
+cambia_lector_MSG16="0,0,0 je standardně přiřazeno této proměnné"
+cambia_lector_MSG17="Konfigurační soubor bude zapsán s CANALATAPI = 0,0,0"
+cambia_lector_MSG18="Nové zařízení je:"
+cambia_lector_MSG19="NA ZAŘÍZENÍ NEJSOU PROVÁDĚNY ŽÁDNÉ ZMĚNY"
+cambia_lector_MSG4B="Exportovat hodnoty z konfiguračního souboru"
+cambia_lector_MSG4C="TYTO HODNOTY BYLY HLÁŠENY DO ŽIVOTNÍHO PROSTŘEDÍ:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Z tohoto menu si můžete vybrat, který nástroj"
+cambia_generador_isocd_MSG2="bude použito ke generování obrázků ISO-9660"
+cambia_generador_isocd_MSG3="z existujícího CDS na čtecí jednotce."
+cambia_generador_isocd_MSG4="Aktuální konfigurace:"
+cambia_generador_isocd_MSG5="Použít dd (komponenta GNU coreutils)"
+cambia_generador_isocd_MSG6="Použít readcd (komponenta cdrtools)"
+cambia_generador_isocd_MSG7="Předchozí nabídka."
+cambia_generador_isocd_MSG8="Vyberte možnost:"
+cambia_generador_isocd_MSG9="Používám dd jako generátor iso."
+cambia_generador_isocd_MSG10="Používám readcd jako generátor iso."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Nastavit metadata HFS spolu s Rock Ridge a Joliet"
+establecer_hfs_iso_MSG2="Použít pouze metadata Rock Ridge a Joliet"
+establecer_hfs_iso_MSG3="Předchozí nabídka."
+establecer_hfs_iso_MSG4="Vyberte možnost:"
+establecer_hfs_iso_MSG5="Používání metadat HFS, Rock Ridge a Joliet"
+establecer_hfs_iso_MSG6="Použití metadat Rock Ridge a Joliet"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Aktuální systém upozornění"
+cambia_notificaciones_MSG2A="Grafické rozhraní GNOME"
+cambia_notificaciones_MSG2B="Grafické rozhraní KDE"
+cambia_notificaciones_MSG2="Rozhraní s ncurses"
+cambia_notificaciones_MSG3="Textové rozhraní"
+cambia_notificaciones_MSG4="Konec"
+cambia_notificaciones_MSG5="Vyberte možnost:"
+cambia_notificaciones_MSG6="Používání rozhraní s dialogem"
+cambia_notidicaciones_MSG6B="Používání rozhraní s zeity"
+cambia_notidicaciones_MSG6C="Používání rozhraní s kdialogem"
+cambia_notificaciones_MSG7="Dialogový příkaz nenalezen"
+cambia_notificaciones_MSG8="Používání textového rozhraní"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Používaný jazyk:"
+cambiar_idioma_UI_MSG1="Aktuálně dostupné jazyky:"
+cambiar_idioma_UI_MSG2="Zadejte název jazyka, který bude použit"
+cambiar_idioma_UI_MSG3="v rozhraní aplikace:"
+cambiar_idioma_UI_MSG4="Nový použitý jazyk je:"
+cambiar_idioma_UI_MSG5="Restartovat LINUX-CDGRAB"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Aktuální konfigurace"
+seleccion_gestor_archivos_MSG2="Použít mc"
+seleccion_gestor_archivos_MSG3="Použít integrovaný textový manažer"
+seleccion_gestor_archivos_MSG4="mc nelze nalézt nainstalovaný v systému"
+seleccion_gestor_archivos_MSG5="Výchozí použití integrovaného textového manažera"
+seleccion_gestor_archivos_MSG6="nástroj mc"
+seleccion_gestor_archivos_MSG7="Integrovaný text"
+
+# centro_de_control
+
+centro_de_control_MSG1="ŘÍDÍCÍ CENTRUM"
+centro_de_control_MSG2="Nová konfigurace"
+centro_de_control_MSG3="Smazat konfigurační soubor"
+centro_de_control_MSG4="Zobrazit aktuální konfigurační soubor a hodnoty"
+centro_de_control_MSG5="HODNOTY KONFIGURAČNÍHO SOUBORU:"
+centro_de_control_MSG5B="AKTUÁLNÍ KONFIGURACE POUŽÍVANÁ V PROSTŘEDÍ:"
+centro_de_control_MSG6="Změnit optické médium"
+centro_de_control_MSG7="Zkontrolovat nainstalované programy"
+centro_de_control_MSG8="Prohledejte port IDE/SCSI pomocí cdrecord"
+centro_de_control_MSG8C="Prohledat port IDE/SCSI pomocí cdrskin"
+centro_de_control_MSG8B="Seznam jednotek nainstalovaných v systému s cdrskin"
+centro_de_control_MSG9="Změna nástroje pro generování iso z CD"
+centro_de_control_MSG9B="Nastavit metadata HFS pro iso-9660"
+centro_de_control_MSG10="Změnit uživatelské rozhraní"
+centro_de_control_MSG10b="Změnit barvu"
+centro_de_control_MSG10c="Změnit jazyk rozhraní"
+centro_de_control_MSG11="Změnit správce souborů"
+centro_de_control_MSG11B="Odinstalovat program"
+centro_de_control_MSG12="Zadejte možnost: "
+centro_de_control_MSG13="KONFIGURAČNÍ SOUBOR NEEXISTUJE"
+centro_de_control_MSG14="KONFIGURAČNÍ SOUBOR NENALEZEN"
+centro_de_control_MSG15="Skenování"
+centro_de_control_MSG16="port IDE/SCSI prohledán"
+centro_de_control_MSG17="Chyba při skenování portu IDE/SCSI"
+centro_de_control_MSG18="Vyberte barevné schéma"
+centro_de_control_MSG19="Vyberte barvy libovolně"
+centro_de_control_MSG20="Předchozí nabídka"
+centro_de_control_MSG21="Zadejte možnost: "
+centro_de_control_MSG22="KONFIGURAČNÍ SOUBOR NEEXISTUJE"
+centro_de_control_MSG23="KONFIGURAČNÍ SOUBOR NENALEZEN"
+centro_de_control_MSG24="Vyberte barevné schéma"
+centro_de_control_MSG25="Vyberte barvy libovolně"
+centro_de_control_MSG26="Neplatná možnost"
+

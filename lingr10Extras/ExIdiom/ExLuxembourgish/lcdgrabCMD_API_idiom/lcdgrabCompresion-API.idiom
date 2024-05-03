@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLuxembourgish/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Luxemburgués para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Gitt de Wee vun der Datei oder Verzeechnes un:"
+empaquetar_MSG2="------- Optiounen -------"
+empaquetar_MSG3="Generéiere .tar.gz Datei"
+empaquetar_MSG4="Generéieren .tar.bz2 Datei"
+empaquetar_MSG5="Gitt eng Optioun: "
+empaquetar_MSG6="Lafen"
+empaquetar_MSG7="Invalid Optioun"
+
+# desempaquetar
+
+desempaquetar_MSG1="Gitt de Dateiwee an:"
+desempaquetar_MSG2="KENG DEKOMPRESSOR FOND FIR"
+desempaquetar_MSG3="ODER"
+desempaquetar_MSG4="GËTT NET"
+desempaquetar_MSG5="Lafen"
+desempaquetar_MSG6="ausgepackt"
+desempaquetar_MSG7="Feeler beim Versuch auszepaken"
+
+# comprime
+
+comprime_MSG1="KOMPRESSEREN BILD"
+comprime_MSG2="Kompriméieren mat bzip2"
+comprime_MSG3="Compress mat gzip"
+comprime_MSG4="Compress mat xz"
+comprime_MSG5="Menü virdru"
+comprime_MSG6="Lafen"
+comprime_MSG7="Bilddateikompressioun fäerdeg"
+comprime_MSG8="Feeler beim Kompriméieren mat"
+comprime_MSG9="Invalid Kompressor"
+
+# descomprime
+
+descomprime_MSG1="Typ de Fichier Wee:"
+descomprime_MSG2="-------------------"
+descomprime_MSG3="KENG DEKOMPRESSOR FOND FIR"
+descomprime_MSG4="ODER"
+descomprime_MSG5="GËTT NET"
+descomprime_MSG6="Lafen"
+descomprime_MSG7="net kompriméiert"
+descomprime_MSG8="Feeler beim Dekompriméieren"
+

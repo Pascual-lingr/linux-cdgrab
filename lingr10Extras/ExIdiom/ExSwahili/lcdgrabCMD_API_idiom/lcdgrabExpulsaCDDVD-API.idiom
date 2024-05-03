@@ -1,0 +1,17 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Suajili para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="OPTICAL DISK EJECTED"
+expulsar_medio_MSG2="Kosa wakati wa kujaribu kutoa Diski kutoka kwa kifaa"
+expulsar_medio_MSG3="Ingiza jina wewe mwenyewe:"
+
+

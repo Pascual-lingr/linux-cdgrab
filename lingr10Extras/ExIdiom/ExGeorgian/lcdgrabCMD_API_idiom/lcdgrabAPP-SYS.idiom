@@ -1,0 +1,110 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Georgiano para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+# 
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="ჩაწერის პროცესის ხელახლა მცდელობა..."
+m_cdrecord_sin_overburn_MSG2="cdrecord გაშვება -overburn ვარიანტის გარეშე"
+m_cdrecord_sin_overburn_MSG3="-overburn არ არის მხარდაჭერილი ძველ ჩამწერ მოწყობილობებზე და არც cdrecord-ის ძველ ვერსიებზე."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="არასწორი ვარიანტი"
+
+# img_error
+
+img_error_D_MSG1="შეცდომა სურათის შექმნისას"
+
+# CD_error
+
+CD_error_D_MSG1="შეცდომა CD-ის ჩაწერისას"
+
+# DVD_error
+
+DVD_error_D_MSG1="შეცდომა DVD-ის ჩაწერისას"
+
+# DO_error
+
+DO_error_D_MSG1="შეცდომა ოპტიკური დისკის დაწერისას"
+
+
+# tecla
+
+tecla_D_MSG1="\nდააჭირეთ ENTER გასაგრძელებლად. . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="დირექტორიების ბილიკები დისკზე დასაწვავად"
+rutas_dir_D_MSG2="შეიყვანეთ დირექტორია სახელი (f გასასვლელად):"
+rutas_dir_D_MSG3="დირექტორია"
+rutas_dir_D_MSG4="არასწორია"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="იგივე ოპტიკური ერთეული სისტემაში"
+# Resultado del traductor
+una_sola_grabadora_D_MSG2="კითხვისა და ჩაწერის ერთეული იგივეა. ვარაუდობენ, რომ თქვენს სისტემას აქვს მხოლოდ ერთი ფიზიკური ერთეული. ამოიღეთ წყაროს დისკი ერთეულიდან. ჩასვით VIRGIN ოპტიკური დისკი ჩაწერის პროცესის გასაგრძელებლად"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="დისკის ჩაწერა წარმატებით დასრულდა"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="არასწორი ვარიანტი"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="დისკის ჩაწერა წარმატებით დასრულდა"
+
+# text_img_error
+
+text_img_error_MSG1="შეცდომა სურათის შექმნისას"
+
+# text_CD_error
+
+text_CD_error_MSG1="შეცდომა CD-ის ჩაწერისას"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="შეცდომა DVD-ის ჩაწერისას"
+
+# text_DO_error
+
+text_DO_error_MSG1="შეცდომა ოპტიკური დისკის დაწერისას"
+
+# teclash
+
+teclash_MSG1="დააჭირეთ ENTER გასაგრძელებლად. . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="შეიყვანეთ დირექტორიის სახელი ( f გასასვლელად ):"
+text_rutas_dir_MSG2="დირექტორია"
+text_rutas_dir_MSG3=" არასწორია"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="იგივე ოპტიკური ერთეული სისტემაში"
+text_una_sola_grabadora_MSG2="კითხვისა და ჩაწერის ერთეული იგივეა."
+text_una_sola_grabadora_MSG3="ვარაუდობენ, რომ თქვენს სისტემას აქვს მხოლოდ ერთი"
+text_una_sola_grabadora_MSG4="ფიზიკური ერთეული."
+text_una_sola_grabadora_MSG5="წაშალეთ წყაროს დისკი ერთეულიდან."
+text_una_sola_grabadora_MSG6="ქალწულის ოპტიკური დისკის ჩასმა"
+text_una_sola_grabadora_MSG7="გაგრძელდეს ჩაწერის პროცესი."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="სირბილი"

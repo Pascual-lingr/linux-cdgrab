@@ -1,0 +1,73 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabación en CD.
+# Traducción experimental al Islandés, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="VELDU VALKOST"
+clonar_MSG2="------ DISKAFRIFT MEÐ FORSKÝÐARMYND -------"
+clonar_MSG3="Afrita gagnadisk"
+clonar_MSG4="Búa til fyrri geisladisk mynd á harða diskinum"
+clonar_MSG5="------------ DISKAFRIFT Á FLUGU -----------"
+clonar_MSG6="Afrita gagnadisk á flugi"
+clonar_MSG7="Klóna gagnadisk á flugi"
+clonar_MSG7B="Rifið hljóðdisk á flugu"
+clonar_MSG8="FLUGAFRIFTARVALKOSTIR ÞURFA TVÆR OPTÍSKAR EININGAR"
+clonar_MSG9="UPSETT Á TÖLVUNNI ÞÍN, ÞAR SEM GÖGN ER SKRÁÐ Á MEÐAN"
+clonar_MSG10="LESTU BEINT AF UPPRUNADISKINUM, EF AÐEINS TÖLVAN ÞÍN ER með"
+clonar_MSG11="EINN VERÐUR EKKI FÆR AÐ NOTA AFRITIN Í FLUGI."
+clonar_MSG12B="AFRITA CD GÖGN"
+clonar_MSG0="Fyrri valmynd"
+
+# mgrabacd
+
+mgrabacd_MSG1="Geisladiskagögn af hörðum diski"
+mgrabacd_MSG2="Brenna nýjan gagnadisk (notaðu cdrtools)"
+mgrabacd_MSG3="Brenna nýjan gagnadisk (notaðu libburnia)"
+mgrabacd_MSG4="Fyrri valmynd"
+mgrabacd_MSG5="Sláðu inn valmöguleika"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="GAGNA MYNDASKRÁNING"
+mgrabaimg_MSG2="Brenna iso eða ext2 mynd á CD-R/RW (notaðu cdrtools)"
+mgrabaimg_MSG3="Brenna iso mynd á CD-R/RW (notaðu libburnia)"
+mgrabaimg_MSG4="Fyrri valmynd"
+mgrabaimg_MSG5="Sláðu inn valmöguleika"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Brenna hljóðdisk úr .wav skrám"
+mgrabararchivosaudio_MSG2="Brenna hljóðdisk af .mp3 skrám"
+mgrabararchivosaudio_MSG3="Brenna hljóðdisk af .ogg skrám"
+mgrabararchivosaudio_MSG0="Fyrri valmynd"
+mgrabararchivosaudio_MSG0B="Sláðu inn valmöguleika"
+mgrabararchivosaudio_MSG4="Brenna hljóðdisk af .flac skrám"
+mgrabararchivosaudio_MSG5="Geisladisk-hljóðupptaka úr skrám"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="UPPTAKA Á CD"
+menugrabar_cd_MSG2="------------------- CD - DATA -------------------"
+menugrabar_cd_MSG3="Afrita gagnadisk"
+menugrabar_cd_MSG4="Brenna nýjan gagnageisladisk"
+menugrabar_cd_MSG5="Brenna nýjan geisladisk með mörgum lotum"
+menugrabar_cd_MSG6="Brenna .iso eða .ext2 mynd á geisladisk"
+menugrabar_cd_MSG7="Brenna .bin/.cue mynd á geisladisk"
+menugrabar_cd_MSG8="-------------------- CD - HLJÓÐ ------------------"
+menugrabar_cd_MSG9="Afritaðu hljóðdisk"
+menugrabar_cd_MSG13="----------------- AÐRIR VALKOSTIR -----------------"
+menugrabar_cd_MSG14="Brenna blandaðan geisladisk (gögn + hljóð)"
+menugrabar_cd_MSG15="Eyða CD-RW"
+menugrabar_cd_MSG16="Loka opnum geisladiski"
+menugrabar_cd_MSG17="Sýna upplýsingar um diskinn í drifinu"
+menugrabar_cd_MSG18="Brenna hljóðdisk af diskskrám"
+menugrabar_cd_MSG0="Fyrri valmynd"
+menugrabar_cd_MSGPRINCIPAL="Sláðu inn valmöguleika"
+

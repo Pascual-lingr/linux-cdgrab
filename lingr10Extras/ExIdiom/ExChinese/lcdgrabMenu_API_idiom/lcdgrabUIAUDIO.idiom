@@ -1,0 +1,32 @@
+#########################################################
+# lcdgrabAPI_idiom/ExChinese/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en chino simplificado para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="音频转换"
+menu_conversion_audio_MSG2="---------------- 格式之间的转换 -----------------"
+menu_conversion_audio_MSG3="将 .mp3 转换为 .wav"
+menu_conversion_audio_MSG4="将 .ogg 转换成 .wav"
+menu_conversion_audio_MSG5="将 .wav 转换成 .mp3"
+menu_conversion_audio_MSG6="将 .wav 转换成 .ogg"
+menu_conversion_audio_MSG6C="将 .wav 转换成 .flac"
+menu_conversion_audio_MSG6B="将 .flac 转换成 .wav"
+menu_conversion_audio_MSG7="------------------- 音轨提取 --------------------"
+menu_conversion_audio_MSG8="将 CD 音频翻录为 .wav"
+menu_conversion_audio_MSG9="将一组音轨翻录为 .wav"
+menu_conversion_audio_MSG10="将 CD 音频翻录为 .mp3"
+menu_conversion_audio_MSG11="将 CD 音频翻录到 .ogg"
+menu_conversion_audio_MSG0="上一个菜单"
+menu_conversion_audio_MSG12="搜索 .mp3 文件"
+menu_conversion_audio_MSG13="搜索 .ogg 文件"
+menu_conversion_audio_MSG14="搜索 .wav 文件"
+menu_conversion_audio_MSG15="-------------------- 其他操作 -------------------"
+menu_conversion_audio_MSG16="剪切 .wav 音频文件"
+menu_conversion_audio_MSG17="将 CD 音频翻录为 .flac"

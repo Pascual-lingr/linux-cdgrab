@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAmharic/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en amárico para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="በስርዓቱ ውስጥ በአሁኑ ጊዜ የተጫኑ መሣሪያዎች"
+montar_dispositivos_MSG1B="ስብሰባ/የመሳሪያዎችን ማሰናከል"
+montar_dispositivos_MSG2="LINUX-CDGRAB አማራጮች"
+montar_dispositivos_MSG3="ዲስክን ከሲዲ/ዲቪዲ/ቢዲ አንባቢ አውጣ"
+montar_dispositivos_MSG4="ዲስክን ከሲዲ/ዲቪዲ/ቢዲ ማቃጠያ አውጣ"
+montar_dispositivos_MSG5="ሲዲ-ሮም/ዲቪዲ-ሮም/BD-ROM አንባቢን ጫን"
+montar_dispositivos_MSG6="ሲዲ-ሮም/ዲቪዲ-ሮም/BD-ROM ንቀል"
+montar_dispositivos_MSG7="መሣሪያውን በእጅ ጫን ወይም አፍርሰው"
+montar_dispositivos_MSG0="የቀድሞው ምናሌ"
+montar_dispositivos_MSG8="ሲዲ/ዲቪዲ/ቢዲ ተጭኗል"
+montar_dispositivos_MSG9="ለመቀጠል አስገባን ይጫኑ..."
+montar_dispositivos_MSG10="ሲዲ/ዲቪዲ/ቢዲ በ ላይ መጫን ላይ ስህተት"
+montar_dispositivos_MSG11="ሲዲ/ዲቪዲ/ቢዲ ተነቅሏል"
+montar_dispositivos_MSG12="ሲዲ/ዲቪዲ/ቢዲ መንቀል ላይ ስህተት"
+montar_dispositivos_MSG13="ለመሰካት/ለመንቀል መሳሪያውን ይተይቡ፡"
+montar_dispositivos_MSG14="የማፈናጠጫ ነጥቡን አስገባ::"
+montar_dispositivos_MSG15="ከአግድ መሣሪያ ጋር አይዛመድም"
+montar_dispositivos_MSG16="የተራራ ነጥብ አልተገኘም"
+montar_dispositivos_MSG17="ነባሪ የማፈናጠጫ ነጥብ"
+montar_dispositivos_MSG18="አማራጭ ምረጥ፡"
+montar_dispositivos_MSG19="ጫን"
+montar_dispositivos_MSG20="ውስጥ"
+montar_dispositivos_MSG21="ንቀል"
+montar_dispositivos_MSG22="የ"
+montar_dispositivos_MSG23="ተጭኗል በ:"
+montar_dispositivos_MSG24="ሲሰቀል ስህተት"
+montar_dispositivos_MSG25="ውስጥ"
+montar_dispositivos_MSG26="ተወግዷል ከ"
+montar_dispositivos_MSG27="ሲነሳ ስህተት"
+montar_dispositivos_MSG28="የ"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="የተራራው ትዕዛዝ ውጤት"
+Montar_Imagenes_MSG1B="ASSEMBLING/የማሰናከል ምስል ፋይሎች"
+Montar_Imagenes_MSG2="አማራጭ ምረጥ"
+Montar_Imagenes_MSG3="ሲዲ/ዲቪዲ/ቢዲ ምስል ጫን"
+Montar_Imagenes_MSG4="የሲዲ/ዲቪዲ/ቢዲ ምስል ንቀል"
+Montar_Imagenes_MSG5="የቀድሞው ምናሌ"
+

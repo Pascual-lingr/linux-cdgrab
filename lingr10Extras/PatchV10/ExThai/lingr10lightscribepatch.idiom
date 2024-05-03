@@ -1,0 +1,33 @@
+# Idioma Tailandés para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+# Experimental, generado con Google Translate.
+
+# presskey
+
+# Traducción de Chat GPT - INI
+presskey_MSG1="กดปุ่ม ENTER เพื่อดำเนินการต่อไป..."
+# Traducción de Chat GPT - FIN
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="=================================="
+cabecera_lightscribe_MSG2="รองรับ LINUX-CDGRAB 1.0 LIGHTSCRIBE"
+cabecera_lightscribe_MSG3="=================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="พิมพ์เส้นทางของภาพที่คุณต้องการพิมพ์ลงดิสก์:"
+imprimir_disco_lightscribe_MSG2="รูปแบบรูปภาพต้องเป็น .bmp"
+imprimir_disco_lightscribe_MSG3 = "กำลังทำงาน"
+imprimir_disco_lightscribe_MSG4="ฉลากที่พิมพ์บนดิสก์"
+imprimir_disco_lightscribe_MSG5="เกิดข้อผิดพลาดในการพิมพ์ฉลากลงดิสก์"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="เทคโนโลยี LightScribe มีเฉพาะในบางยูนิตเท่านั้น"
+lingr10lightscribepatch_MSG2="คุณควรตรวจสอบว่าเครื่องบันทึกของคุณมีหรือไม่"
+lingr10lightscribepatch_MSG3="เช่นเดียวกัน เฉพาะซีดีหรือดีวีดีพิเศษเท่านั้นที่สามารถติดป้ายกำกับ LightScribe"
+lingr10lightscribepatch_MSG4="พิมพ์ดิสก์ LightScribe"
+lingr10lightscribepatch_MSG5="เมนูก่อนหน้า"
+lingr10lightscribepatch_MSG6="ตัวเลือกไม่ถูกต้อง"

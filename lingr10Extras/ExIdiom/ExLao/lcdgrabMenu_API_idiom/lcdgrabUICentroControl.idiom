@@ -1,0 +1,290 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Lao para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="linux-cdgrab ການຕັ້ງຄ່າ"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="ຖ້າທ່ານບໍ່ຮູ້ວ່າຊ່ອງ IDE ໃດເປັນຂອງ"
+ayuda_IDE_MSG2="ຕົວບັນທຶກຂອງທ່ານສາມາດຊອກຮູ້ໄດ້ໂດຍການກົດປຸ່ມ t."
+ayuda_IDE_MSG3="ຕົວຢ່າງຂອງຊ່ອງ IDE ສາມາດເປັນ 0,0,0 ຫຼື 0,1,0"
+ayuda_IDE_MSG4="ທ່ານຍັງສາມາດລະບຸອຸປະກອນທີ່ສອດຄ້ອງກັນໄດ້"
+ayuda_IDE_MSG5="ເຖິງຕົວບັນທຶກຂອງເຈົ້າ. ຖ້າເຈົ້າບໍ່ຮູ້ວ່າອັນໃດແມ່ນໃຫ້ກົດ d,"
+ayuda_IDE_MSG6="ເພື່ອເບິ່ງອຸປະກອນທີ່ລົງທະບຽນຢູ່ໃນໄຟລ໌ /etc/fstab"
+ayuda_IDE_MSG7="ຕົວຢ່າງຂອງອຸປະກອນອາດຈະເປັນ /dev/hdd, /dev/hde ແລະອື່ນໆ."
+ayuda_IDE_MSG8="ຖ້າທ່ານຕ້ອງການ, ທ່ານສາມາດລາຍຊື່ອຸປະກອນທັງໝົດທີ່ມີ"
+ayuda_IDE_MSG9="ຢູ່ໃນລະບົບ /dev ໂດຍການກົດຕົວອັກສອນ l."
+ayuda_IDE_MSG10="ເຈົ້າຕ້ອງລະບຸຊ່ອງ IDE ຫຼືອຸປະກອນບັນທຶກ"
+ayuda_IDE_MSG11="ແຕ່ບໍ່ແມ່ນທັງສອງ."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab ໄດ້ຖືກຖອນການຕິດຕັ້ງອອກຈາກລະບົບຂອງທ່ານ"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="ຄວາມໄວໃນການບັນທຶກ"
+imprimir_variables_MSG2="IDE/SCSI ຊ່ອງ ຫຼືອຸປະກອນບັນທຶກ"
+# Resultado del traductor
+imprimir_variables_MSG3="CD-ROM, DVD-ROM ຫຼື BD-ROM reader"
+imprimir_variables_MSG4="ອຸປະກອນ ATAPI"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="ຄວາມໄວໃນການບັນທຶກ"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI ຊ່ອງ ຫຼືອຸປະກອນບັນທຶກ"
+# Resultado del traductor
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM ຫຼື BD-ROM reader"
+imprimir_lcdgrabcfg_MSG4="ອຸປະກອນ ATAPI"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="ຕິດຕັ້ງແລ້ວ"
+chequeo_de_aplicaciones_MSG2="ບໍ່ໄດ້ຕິດຕັ້ງ"
+chequeo_de_aplicaciones_MSG3="ຕິດຕັ້ງ"
+chequeo_de_aplicaciones_MSG4="ສຳຄັນ:"
+chequeo_de_aplicaciones_MSG5="ການຕິດຕັ້ງເຄື່ອງມືທີ່ຈໍາເປັນ Linux-cdgrab ຈະເຮັດວຽກຢ່າງສົມບູນ"
+chequeo_de_aplicaciones_MSG6="ທຸກໂປຣແກຣມທີ່ Linux-cdgrab ຕ້ອງການແມ່ນຕິດຕັ້ງຢູ່ໃນລະບົບຂອງເຈົ້າ"
+chequeo_de_aplicaciones_MSG4B="ແຈ້ງການ:"
+chequeo_de_aplicaciones_MSG5B="ພົບເຄື່ອງມືທີ່ຂາດຫາຍໄປ"
+chequeo_de_aplicaciones_MSG6B="ເຄື່ອງ​ມື​ທີ່​ຕິດ​ຕັ້ງ​ໃນ​ລະ​ບົບ"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 ຖືກມອບໝາຍຕາມຄ່າເລີ່ມຕົ້ນໃຫ້ກັບຕົວແປນີ້"
+msgdefCANALATAPI_MSG2="ໄຟລ໌ການຕັ້ງຄ່າຈະຖືກຂຽນດ້ວຍ CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="ໄຟລ໌ການຕັ້ງຄ່າທີ່ສ້າງຂຶ້ນໂດຍອັດຕະໂນມັດໂດຍ Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG5="cdrecord ບໍ່ພົບຢູ່ໃນລະບົບ"
+nuevo_lcdgrabcfg_MSG6="ຕິດຕັ້ງແພັກເກັດ cdrtools."
+nuevo_lcdgrabcfg_MSG7="ທ່ານສາມາດສືບຕໍ່ການຕັ້ງຄ່າໂດຍການລະບຸຄ່າ"
+nuevo_lcdgrabcfg_MSG8="ການບັນທຶກຖ້າທ່ານຮູ້ຈັກພວກມັນມາກ່ອນ."
+nuevo_lcdgrabcfg_MSG9="ຄຳສັ່ງ cdrecord ຖືກໃຊ້ໃນການບັນທຶກແຜ່ນ CD, DVD ແລະ BD"
+nuevo_lcdgrabcfg_MSG10="ຕົວເລືອກເຫຼົ່ານີ້ຈະບໍ່ສາມາດໃຊ້ໄດ້ຈົນກວ່າຈະຕິດຕັ້ງຊຸດດັ່ງກ່າວ."
+nuevo_lcdgrabcfg_MSG11="ເຄື່ອງມືສະແກນໄດຣຟ໌, ປະຈຸບັນ, ຈະບໍ່ສາມາດໃຊ້ໄດ້ເຊັ່ນກັນ"
+nuevo_lcdgrabcfg_MSG12="ໃນຕົວຊ່ວຍສ້າງການຕັ້ງຄ່ານີ້."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab ຕ້ອງໄດ້ຮັບການຕັ້ງຄ່າໃນສີ່ຂັ້ນຕອນຕໍ່ໄປນີ້"
+nuevo_lcdgrabcfg_MSG14="ຂັ້ນຕອນທຳອິດ."
+nuevo_lcdgrabcfg_MSG15="ຄວາມໄວໃນການບັນທຶກ"
+nuevo_lcdgrabcfg_MSG16="ມີພຽງຕົວເລກດຽວ 2,4,8,16,32... ແລະ ອື່ນໆ"
+nuevo_lcdgrabcfg_MSG17="ຂັ້ນຕອນທີສອງ."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI ຊ່ອງ ຫຼືອຸປະກອນບັນທຶກ:"
+nuevo_lcdgrabcfg_MSG19="A -> ຊ່ວຍ"
+nuevo_lcdgrabcfg_MSG20="ກຳລັງສະແກນ..."
+nuevo_lcdgrabcfg_MSG21="ຜິດພາດໃນການສະແກນ IDE/SCSI port"
+nuevo_lcdgrabcfg_MSG22="ບໍ່ພົບ cdrecord"
+nuevo_lcdgrabcfg_MSG23="ຂັ້ນຕອນທີສາມ."
+nuevo_lcdgrabcfg_MSG24="CD-ROM, DVD-ROM ຫຼືອຸປະກອນ BD-ROM"
+nuevo_lcdgrabcfg_MSG25="L -> ລາຍຊື່ອຸປະກອນທີ່ມີຢູ່"
+nuevo_lcdgrabcfg_MSG26="ກຳລັງສະແກນ..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI ພອດສະແກນແລ້ວ"
+nuevo_lcdgrabcfg_MSG28="ອຸປະກອນທີ່ຈະໃຊ້ໂດຍ cdrecord ຜ່ານ dev=ATAPI ໃນການບັນທຶກຫຼາຍເຊດຊັນ"
+nuevo_lcdgrabcfg_MSG30="ອຸປະກອນມີນາມສະກຸນເຊັ່ນ 0,0,0 ຫຼື 1,0,0 ແລະອື່ນໆ"
+nuevo_lcdgrabcfg_MSG31="ລະບຸອຸປະກອນເພື່ອໂທຫາ cdrecord ໃນແຜ່ນ CDs ຫຼາຍເຊດຊັນ: "
+nuevo_lcdgrabcfg_MSG32="ການກຳນົດຄ່າບໍ່ຖືກຕ້ອງສຳລັບ CANALATAPI"
+nuevo_lcdgrabcfg_MSG33="ຄວາມຜິດພາດໃນການສະແກນ IDE/SCSI ພອດ"
+nuevo_lcdgrabcfg_MSG34="ບໍ່ພົບ Cdrecord"
+nuevo_lcdgrabcfg_MSG36="ໄຟລ໌ການຕັ້ງຄ່າທີ່ສ້າງຂຶ້ນໂດຍອັດຕະໂນມັດໂດຍ Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB ຕັ້ງຄ່າສຳເລັດແລ້ວ"
+
+# colores
+
+colores_MSG1="ລາຍຊື່ສີບໍ່ສາມາດຊອກຫາໄດ້"
+colores_MSG2="ກຳລັງໂຫຼດສີເລີ່ມຕົ້ນ"
+colores_MSG3="ເລືອກຮູບແບບສີໃໝ່ສຳລັບອິນເຕີເຟດ LINUX-CDGRAB"
+colores_MSG4="ຕົວອັກສອນສີດຳ"
+colores_MSG5="ຟອນມາດຕະຖານທີ່ສົດໃສ"
+colores_MSG6="ສີພື້ນຫຼັງສີດຳ"
+colores_MSG7="ຕົວອັກສອນສີແດງ"
+colores_MSG8="ຕົວອັກສອນສີດຳເຫຼື້ອມ"
+colores_MSG9="ສີພື້ນຫຼັງສີແດງ"
+colores_MSG10="ຕົວອັກສອນສີຂຽວ"
+colores_MSG11="ນໍ້າພຸສີແດງສົດໃສ"
+colores_MSG12="ສີພື້ນຫຼັງສີຂຽວ"
+colores_MSG13="ຕົວອັກສອນສີເຫຼືອງ"
+colores_MSG14="ຕົວອັກສອນສີຂຽວສົດໃສ"
+colores_MSG15="ສີພື້ນຫຼັງສີສົ້ມ"
+colores_MSG16="ນ້ຳພຸສີຟ້າ"
+colores_MSG17="ຕົວອັກສອນສີເຫຼືອງສົດໃສ"
+colores_MSG18="ສີພື້ນຫຼັງສີຟ້າ"
+colores_MSG19="ຕົວອັກສອນສີມ່ວງແດງ"
+colores_MSG20="ຕົວອັກສອນສີຟ້າສົດໃສ"
+colores_MSG21="ສີພື້ນຫຼັງສີມ່ວງ"
+colores_MSG22="ແຫຼ່ງທີ່ມາ"
+colores_MSG23="ຕົວອັກສອນສີມ່ວງແດງສົດໃສ"
+colores_MSG24="ສີພື້ນຫຼັງສີຟ້າຂຽວ"
+colores_MSG25="ຕົວອັກສອນສີເທົາ"
+colores_MSG26="ສີພື້ນຫຼັງສີຟ້າຂຽວ"
+colores_MSG27="ຕົວອັກສອນສີຟ້າອ່ອນສີຟ້າ"
+colores_MSG28="ສີພື້ນຫຼັງສີຂີ້ເຖົ່າ"
+colores_MSG29="ແຫຼ່ງເລີ່ມຕົ້ນ"
+colores_MSG30="ຕົວອັກສອນສີຂາວສົດໃສ"
+colores_MSG31="ສີພື້ນຫຼັງເລີ່ມຕົ້ນ"
+colores_MSG32="ໝາຍເລກສີສຳລັບຟອນ:"
+colores_MSG33="ໝາຍເລກສີສຳລັບພື້ນຫຼັງ: "
+colores_MSG34="ໝາຍເລກສີສຳລັບຂໍ້ຄວາມເຕືອນ: "
+colores_MSG35="ໝາຍເລກສີສຳລັບຂໍ້ຄວາມປ້າຍກຳກັບ: "
+colores_MSG36="ໝາຍເລກສີສຳລັບຂະບວນການທີ່ສຳເລັດແລ້ວ"
+colores_MSG37="ໝາຍເລກສີສຳລັບຂະບວນການຖືກຢຸດຕິດ້ວຍຄວາມຜິດພາດ: "
+colores_MSG38="ຮູບແບບໃໝ່ສຳລັບ LINUX-CDGRAB"
+colores_MSG39="ສີຕົວອັກສອນ"
+colores_MSG40="ປ້າຍກຳກັບ"
+colores_MSG41="ແຈ້ງການ"
+colores_MSG42="ຄວາມສຳເລັດ"
+colores_MSG43="ຜິດພາດ"
+colores_MSG44="ສີພື້ນຫຼັງ"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="ລາຍຊື່ສີທີ່ມີ:"
+cambiar_esquema_de_color_MSG2="#####ໂຄງ​ການ​ສີ​#######"
+cambiar_esquema_de_color_MSG3="----------------------"
+cambiar_esquema_de_color_MSG4="ເມນູສີ"
+cambiar_esquema_de_color_MSG5="ລົ້ມເຫລວ"
+cambiar_esquema_de_color_MSG6="ປ້າຍກຳກັບ"
+cambiar_esquema_de_color_MSG6b="ແຈ້ງການ"
+cambiar_esquema_de_color_MSG7="ເມນູສີ OK ປ້າຍເຕືອນຄວາມລົ້ມເຫລວ"
+cambiar_esquema_de_color_MSG8="ໃສ່ຕົວເລກຂອງສີໃໝ່:"
+cambiar_esquema_de_color_MSG9="ຕົວເລືອກບໍ່ຖືກຕ້ອງ"
+cambiar_esquema_de_color_MSG10="ຕັ້ງຄ່າສີເລີ່ມຕົ້ນ."
+cambiar_esquema_de_color_MSG11="  ພື້ນຫລັງ = ພື້ນຫລັງສີຟ້າ"
+cambiar_esquema_de_color_MSG12="  ແຫຼ່ງຂໍ້ມູນ = ສີຂາວສົດໃສ"
+cambiar_esquema_de_color_MSG13="  ຄຳເຕືອນ = ສີເຫຼືອງສົດໃສ"
+cambiar_esquema_de_color_MSG14="  ຄວາມຜິດພາດ = ສີ​ແດງ​ສົດ​ໃສ"
+cambiar_esquema_de_color_MSG15="  ຄວາມຜິດພາດ = ສີ​ແດງ​ສົດ​ໃສ"
+cambiar_esquema_de_color_MSG16="  ຄວາມສຳເລັດ = ສີຂຽວສົດໃສ"
+cambiar_esquema_de_color_MSG17="  ປ້າຍກຳກັບ = ສີຟ້າສົດ"
+
+# cambia_lector
+
+# Resultado del traductor
+cambia_lector_MSG1="ການຕັ້ງຄ່າສະພາບແວດລ້ອມສຳລັບໜ່ວຍ optical"
+cambia_lector_MSG2="ອຸປະກອນປະຈຸບັນທີ່ເຊື່ອມໂຍງກັບ CD-ROM, DVD-ROM ຫຼື BD-ROM"
+cambia_lector_MSG3="ອຸປະກອນປະຈຸບັນທີ່ກ່ຽວຂ້ອງກັບ CD/DVD/BD Burner"
+cambia_lector_MSG4="ອຸປະກອນປະຈຸບັນທີ່ກ່ຽວຂ້ອງກັບພາລາມິເຕີ dev=ATAPI"
+cambia_lector_MSG5="(ຮອງຮັບຫຼາຍເຊດຊັນສຳລັບ cdrecord)"
+cambia_lector_MSG6="ເລືອກອຸປະກອນທີ່ຈະເຮັດການປ່ຽນແປງ."
+cambia_lector_MSG7="ໃສ່ຕົວເລືອກ:"
+cambia_lector_MSG8="ໃສ່ຊື່ຂອງອຸປະກອນໃໝ່"
+cambia_lector_MSG9="ບໍ່ກົງກັບອຸປະກອນບລັອກ"
+cambia_lector_MSG10="ອຸປະກອນ"
+cambia_lector_MSG11="ມອບໝາຍຕາມຄ່າເລີ່ມຕົ້ນ"
+cambia_lector_MSG12="ອຸປະກອນໃໝ່ແມ່ນ:"
+cambia_lector_MSG13="ບໍ່ທຸກລຸ້ນຂອງ cdrecord ຍອມຮັບອຸປະກອນບລັອກເປັນພາລາມິເຕີການບັນທຶກ"
+cambia_lector_MSG14="ໃສ່ຊື່ຂອງອຸປະກອນ ATAPI ໃໝ່"
+cambia_lector_MSG15="ການກຳນົດຄ່າບໍ່ຖືກຕ້ອງສຳລັບ CANALATAPI"
+cambia_lector_MSG16="0,0,0 ຖືກມອບໝາຍໂດຍຄ່າເລີ່ມຕົ້ນໃຫ້ກັບຕົວແປນີ້"
+cambia_lector_MSG17="ໄຟລ໌ການຕັ້ງຄ່າຈະຖືກຂຽນດ້ວຍ CANALATAPI = 0,0,0"
+cambia_lector_MSG18="ອຸປະກອນໃໝ່ແມ່ນ:"
+cambia_lector_MSG19="ບໍ່ມີການປ່ຽນແປງໃດໆໃນອຸປະກອນ"
+cambia_lector_MSG4B="ຄ່າສົ່ງອອກຈາກໄຟລ໌ການຕັ້ງຄ່າ"
+cambia_lector_MSG4C="ຄຸນຄ່າເຫຼົ່ານີ້ຖືກລາຍງານຕໍ່ສະພາບແວດລ້ອມ:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="ຈາກເມນູນີ້ເຈົ້າສາມາດເລືອກໄດ້ວ່າມີປະໂຫຍດໃດ"
+cambia_generador_isocd_MSG2="ຈະຖືກໃຊ້ເພື່ອສ້າງຮູບພາບ ISO-9660"
+cambia_generador_isocd_MSG3="ຈາກ CDS ທີ່ມີຢູ່ແລ້ວໃນໜ່ວຍອ່ານ."
+cambia_generador_isocd_MSG4="ການຕັ້ງຄ່າປັດຈຸບັນ:"
+cambia_generador_isocd_MSG5="ໃຊ້ dd (ອົງປະກອບ GNU coreutils)"
+cambia_generador_isocd_MSG6="ໃຊ້ readcd (ອົງປະກອບ cdrtools)"
+cambia_generador_isocd_MSG7="ເມນູກ່ອນໜ້າ."
+cambia_generador_isocd_MSG8="ເລືອກທາງເລືອກ:"
+# Resultado del traductor
+cambia_generador_isocd_MSG9="ການ​ນໍາ​ໃຊ້ dd ເປັນ iso generator."
+# Resultado del traductor
+cambia_generador_isocd_MSG10="ການ​ນໍາ​ໃຊ້ readcd ເປັນ iso generator."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="ຕັ້ງ HFS metadata ພ້ອມກັບ Rock Ridge ແລະ Joliet"
+establecer_hfs_iso_MSG2="ໃຊ້ແຕ່ເມຕາເດຕາຂອງ Rock Ridge ແລະ Joliet"
+establecer_hfs_iso_MSG3="ເມນູກ່ອນໜ້າ."
+establecer_hfs_iso_MSG4="ເລືອກທາງເລືອກ:"
+establecer_hfs_iso_MSG5="ການ​ນໍາ​ໃຊ້ HFS, Rock Ridge ແລະ metadata ຂອງ Joliet"
+establecer_hfs_iso_MSG6="ການໃຊ້ເມຕາເດຕາຂອງ Rock Ridge ແລະ Joliet"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="ລະບົບການແຈ້ງເຕືອນປັດຈຸບັນ"
+# Resultado del traductor
+cambia_notificaciones_MSG2A="GNOME Graphical Interface"
+# Resultado del traductor
+cambia_notificaciones_MSG2B="KDE Graphical Interface"
+cambia_notificaciones_MSG2="ການໂຕ້ຕອບກັບ ncurses"
+cambia_notificaciones_MSG3="ສ່ວນຕິດຕໍ່ຂໍ້ຄວາມ"
+cambia_notificaciones_MSG4="ອອກ"
+cambia_notificaciones_MSG5="ເລືອກທາງເລືອກ:"
+cambia_notificaciones_MSG6="ການ​ນໍາ​ໃຊ້​ການ​ໂຕ້​ຕອບ​ກັບ​ການ​ໂຕ້​ຕອບ​"
+cambia_notidicaciones_MSG6B="ການ​ນໍາ​ໃຊ້​ການ​ໂຕ້​ຕອບ​ກັບ zenity"
+cambia_notidicaciones_MSG6C="ການ​ນໍາ​ໃຊ້​ການ​ໂຕ້​ຕອບ​ກັບ kdialog"
+cambia_notificaciones_MSG7="ບໍ່ພົບຄຳສັ່ງ dialog"
+cambia_notificaciones_MSG8="ການ​ນໍາ​ໃຊ້​ຕົວ​ອັກ​ສອນ"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="ພາສາທີ່ໃຊ້ຢູ່:"
+cambiar_idioma_UI_MSG1="ພາສາທີ່ມີຢູ່ໃນປັດຈຸບັນ:"
+cambiar_idioma_UI_MSG2="ໃສ່ຊື່ຂອງພາສາທີ່ຈະໃຊ້"
+cambiar_idioma_UI_MSG3="ໃນການໂຕ້ຕອບແອັບພລິເຄຊັນ:"
+cambiar_idioma_UI_MSG4="ພາສາໃໝ່ທີ່ໃຊ້ແມ່ນ:"
+cambiar_idioma_UI_MSG5="ຣີສະຕາດ LINUX-CDGRAB"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="ການຕັ້ງຄ່າປັດຈຸບັນ"
+seleccion_gestor_archivos_MSG2="ໃຊ້ mc"
+seleccion_gestor_archivos_MSG3="ໃຊ້ຕົວຈັດການຂໍ້ຄວາມປະສົມປະສານ"
+seleccion_gestor_archivos_MSG4="ບໍ່ພົບ mc ຕິດຕັ້ງຢູ່ໃນລະບົບ"
+seleccion_gestor_archivos_MSG5="ການໃຊ້ຕົວຈັດການຂໍ້ຄວາມປະສົມປະສານໂດຍຄ່າເລີ່ມຕົ້ນ"
+seleccion_gestor_archivos_MSG6="mc ປະໂຫຍດ"
+seleccion_gestor_archivos_MSG7="ຂໍ້ຄວາມປະສົມປະສານ"
+
+# centro_de_control
+
+centro_de_control_MSG1="ສູນຄວບຄຸມ"
+centro_de_control_MSG2="ການຕັ້ງຄ່າໃໝ່"
+centro_de_control_MSG3="ລຶບໄຟລ໌ການຕັ້ງຄ່າ"
+centro_de_control_MSG4="ສະແດງໄຟລ໌ການຕັ້ງຄ່າປັດຈຸບັນ ແລະຄ່າ"
+centro_de_control_MSG5="ຄ່າຂອງໄຟລ໌ການຕັ້ງຄ່າ"
+centro_de_control_MSG5B="ການຕັ້ງຄ່າປັດຈຸບັນທີ່ໃຊ້ໃນສະພາບແວດລ້ອມ:"
+centro_de_control_MSG6="ປ່ຽນສື່ທາງແສງ"
+centro_de_control_MSG7="ກວດເບິ່ງໂປຣແກຣມທີ່ຕິດຕັ້ງ"
+centro_de_control_MSG8="ສະແກນ IDE/SCSI ພອດດ້ວຍ cdrecord"
+centro_de_control_MSG8C="ສະແກນຜອດ IDE/SCSI ດ້ວຍ cdrskin"
+centro_de_control_MSG8B="ລາຍຊື່ໜ່ວຍທີ່ຕິດຕັ້ງຢູ່ໃນລະບົບດ້ວຍ cdrskin"
+centro_de_control_MSG9="ປ່ຽນ iso ຜະລິດຜົນປະໂຫຍດຈາກ CD"
+centro_de_control_MSG9B="ຕັ້ງ HFS metadata ສໍາລັບ iso-9660"
+centro_de_control_MSG10="ປ່ຽນສ່ວນຕິດຕໍ່ຜູ້ໃຊ້"
+centro_de_control_MSG10b="ປ່ຽນສີ"
+centro_de_control_MSG10c="ປ່ຽນພາສາໃນການໂຕ້ຕອບ"
+centro_de_control_MSG11="ປ່ຽນຕົວຈັດການໄຟລ໌"
+centro_de_control_MSG11B="ຖອນການຕິດຕັ້ງໂປຣແກຣມ"
+centro_de_control_MSG12="ໃສ່ຕົວເລືອກ: "
+centro_de_control_MSG13="ບໍ່ມີໄຟລ໌ການຕັ້ງຄ່າ"
+# Resultado del traductor
+centro_de_control_MSG14="ບໍ່ພົບໄຟລ໌CONFIGURATION"
+centro_de_control_MSG15="ການສະແກນ"
+centro_de_control_MSG16="IDE/SCSI ພອດສະແກນແລ້ວ"
+centro_de_control_MSG17="ຜິດພາດໃນການສະແກນ IDE/SCSI port"
+centro_de_control_MSG18="ເລືອກຮູບແບບສີ"
+centro_de_control_MSG19="ເລືອກສີຕາມໃຈມັກ"
+centro_de_control_MSG20="ເມນູກ່ອນໜ້າ"
+centro_de_control_MSG21="ໃສ່ຕົວເລືອກ: "
+centro_de_control_MSG22="ບໍ່ມີໄຟລ໌ການຕັ້ງຄ່າ"
+# Resultado del traductor
+centro_de_control_MSG23="CONFIGURATION ໄຟລ໌ບໍ່ພົບ"
+centro_de_control_MSG24="ເລືອກຮູບແບບສີ"
+centro_de_control_MSG25="ເລືອກສີຕາມໃຈມັກ"
+centro_de_control_MSG26="ທາງເລືອກທີ່ບໍ່ຖືກຕ້ອງ"

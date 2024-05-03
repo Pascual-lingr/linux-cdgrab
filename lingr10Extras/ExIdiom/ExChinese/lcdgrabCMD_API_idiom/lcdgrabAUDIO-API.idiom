@@ -1,0 +1,142 @@
+#########################################################
+# lcgdrabAPI_idiom/ExChinese/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en chino simplificado para el API de audio.
+# TRaducción experimental, utilizado Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="要转换的 MP3 文件"
+mp3awav_MSG0="输入 .mp3 文件的路径："
+mp3awav_MSG1="转换中"
+mp3awav_MSG1B=".wav 格式"
+mp3awav_MSG2="跑步"
+mp3awav_MSG3="采样设置为 44100 Mhz"
+mp3awav_MSG4="处理抽样时出错"
+mp3awav_MSG5="转换失败"
+mp3awav_MSG6="找不到目录"
+mp3awav_MSG7="音频转换结束"
+mp3awav_MSG8="规范化音频文件"
+mp3awav_MSG9="档案"
+mp3awav_MSG10="归一化"
+mp3awav_MSG11="错误归一化"
+
+# oggawav
+
+oggawav_MSG0="要转换的 OGG 文件"
+oggawav_MSG1="输入 .ogg 文件的路径："
+oggawav_MSG2="转换中"
+oggawav_MSG2B=".wav 格式"
+oggawav_MSG3="跑步"
+oggawav_MSG4="采样设置为 44100 Mhz"
+oggawav_MSG5="处理抽样时出错"
+oggawav_MSG6="转换失败"
+oggawav_MSG7="找不到目录"
+oggawav_MSG8="音频转换结束"
+oggawav_MSG9="规范化音频文件"
+oggawav_MSG10="档案"
+oggawav_MSG11="归一化"
+oggawav_MSG12="错误归一化"
+
+# cdawav
+
+cdawav_MSG1="正在翻录音频 CD..."
+cdawav_MSG2="跑步:"
+cdawav_MSG3="成功成熟的音轨！！"
+cdawav_MSG4="音频文件目录的内容"
+cdawav_MSG5="翻录音轨时出错"
+
+# cddawav
+
+cddawav_MSG1="输入要翻录的曲目数："
+cddawav_MSG2="按 Crtl + c 取消翻录曲目"
+cddawav_MSG3="跑步:"
+cddawav_MSG4="成熟成功"
+cddawav_MSG5="成熟时出错"
+
+# wavamp3
+
+wavamp3_MSG0="要转换的 WAV 文件"
+wavamp3_MSG1="输入 .wav 文件的路径："
+wavamp3_MSG1B="转换中"
+wavamp3_MSG2="格式化"
+wavamp3_MSG3="跑步:"
+wavamp3_MSG4="转换时"
+wavamp3_MSG5="到 .MP3 格式"
+wavamp3_MSG6="转换失败"
+wavamp3_MSG7="音频转换完成"
+wavamp3_MSG8="找不到音频目录"
+
+# cdamp3
+
+cdamp3_MSG1="正在翻录音频 CD..."
+cdamp3_MSG2="跑步:"
+cdamp3_MSG3="成功成熟的音轨！！"
+cdamp3_MSG4="翻录音轨时出错"
+cdamp3_MSG5="调用函数："
+
+# wavaogg
+
+wavaogg_MSG1="输入 .wav 文件的路径： "
+wavaogg_MSG2="转换中"
+wavaogg_MSG3=".ogg 格式"
+wavaogg_MSG4="跑步:"
+wavaogg_MSG5="转换失败"
+wavaogg_MSG6=".ogg 格式"
+
+# cdaogg
+
+cdaogg_MSG1="正在翻录音频 CD..."
+cdaogg_MSG2="跑步:"
+cdaogg_MSG3="成功成熟的音轨！！"
+cdaogg_MSG4="翻录音轨时出错"
+cdaogg_MSG5="调用函数："
+
+# corta_wav
+
+corta_wav_MSG0="秒数："
+corta_wav_MSG1="指定要转换的音频文件的路径："
+corta_wav_MSG2="以秒为单位指定时间，其中"
+corta_wav_MSG3="文件的切割将开始。"
+corta_wav_MSG4="-笔记-"
+corta_wav_MSG5="要指定音频的开头，您必须告知自己 0"
+corta_wav_MSG6="转换开始的值（以秒为单位）："
+corta_wav_MSG7="以秒为单位指定时间，其中"
+corta_wav_MSG8="文件的切割将完成。"
+corta_wav_MSG9="转换结束的值（以秒为单位）："
+corta_wav_MSG10="跑步"
+corta_wav_MSG11="修剪音频文件"
+corta_wav_MSG12="裁剪文件时出错"
+corta_wav_MSG13="要修剪的音频文件："
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV 音频"
+flacawav_MSG1="指定 .flac 文件的路径："
+flacawav_MSG2="转换中"
+flacawav_MSG3=".wav 格式"
+flacawav_MSG4="采样设置为 44100 Mhz"
+flacawav_MSG5="处理抽样时出错"
+flacawav_MSG6="规范化音频文件"
+flacawav_MSG7="档案"
+flacawav_MSG8="归一化"
+flacawav_MSG9="错误归一化"
+flacawav_MSG10="转换失败"
+flacawav_MSG11="找不到目录"
+flacawav_MSG12="音频转换结束"
+
+# wavaflac
+
+wavaflac_MSG0="要转换的 WAV 文件"
+wavaflac_MSG1="输入 .wav 文件的路径："
+wavaflac_MSG2="转换中"
+wavaflac_MSG3=".flac 格式"
+wavaflac_MSG4="转换成flac格式"
+wavaflac_MSG5="转换失败"
+wavaflac_MSG6=".flac 格式"
+wavaflac_MSG7="未找到 FLAC 文件目录"
+

@@ -1,0 +1,32 @@
+#########################################################
+# lcdgrabAPI_idiom/ExThai/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en tailandés para el menu de conversión de Audio.
+# Traducción experimental, generado con Chat GPT
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="ส่งเสียงเป็นข้อความเป็นภาษาไทย"
+menu_conversion_audio_MSG2="-------- การแปลงรูปแบบระหว่างกัน --------"
+menu_conversion_audio_MSG3="แปลงไฟล์ .mp3 เป็น .wav"
+menu_conversion_audio_MSG4="แปลงไฟล์ .ogg เป็น .wav"
+menu_conversion_audio_MSG5="แปลงไฟล์ .wav เป็น .mp3"
+menu_conversion_audio_MSG6="แปลงไฟล์ .wav เป็น .ogg"
+menu_conversion_audio_MSG6C="แปลงไฟล์ .wav เป็น .flac"
+menu_conversion_audio_MSG6B="แปลงไฟล์ .flac เป็น .wav"
+menu_conversion_audio_MSG7="------ การแยกตัวอย่างเสียงออกจากแทร็กเสียง ------"
+menu_conversion_audio_MSG8="แปลงเนื้อหาเสียงจากแผ่นซีดีเป็นไฟล์ .wav"
+menu_conversion_audio_MSG9="แปลงชุดของเพลงเป็นไฟล์ .wav"
+menu_conversion_audio_MSG10="แปลงเนื้อหาเสียงจากแผ่นซีดีเป็นไฟล์ .mp3"
+menu_conversion_audio_MSG11="แปลงเนื้อหาเสียงจากแผ่นซีดีเป็นไฟล์ .ogg"
+menu_conversion_audio_MSG0="เมนูก่อนหน้า"
+menu_conversion_audio_MSG12="การค้นหาไฟล์ .mp3"
+menu_conversion_audio_MSG13="การค้นหาไฟล์ .ogg"
+menu_conversion_audio_MSG14="การค้นหาไฟล์ .wav"
+menu_conversion_audio_MSG15="------------ การดำเนินการอื่นๆ ------------"
+menu_conversion_audio_MSG16="ตัดไฟล์เสียง .wav"
+menu_conversion_audio_MSG17="แปลงไฟล์เสียงจากแผ่นซีดีเป็น .flac"

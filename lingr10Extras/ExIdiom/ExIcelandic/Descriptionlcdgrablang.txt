@@ -1,0 +1,17 @@
+íslenskur
+
+Islandés. Icelandic.
+Experimental.
+
+Contiene errores del significado en contexto o traducción propia.
+Por estudio del comportamiento de ciertos caracteres islandeses bajo el shell.
+Generado con Google Translate.
+
+Contains errors of meaning in context or own translation.
+By study of the behavior of certain Icelandic characters under the shell.
+Generated with Google Translate.
+
+Íslenska fyrir linux-cdgrab
+Tilraunakennt, búið til með Google Translate
+Pascual Martínez Cruz; pascual@hotmail.com
+

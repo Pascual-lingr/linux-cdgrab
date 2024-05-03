@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en georgiano para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="ვიდეო კონვერტაციის BLU-RAY დისკის თავსებადობა"
+conv_video_BDVideo_MSG2="მიუთითეთ ვიდეო ფაილის კონვერტაციის გზა:"
+conv_video_BDVideo_MSG3="მიუთითეთ ახალი ვიდეოს ფაილის სახელი, რომელიც უნდა შეიქმნას:"
+conv_video_BDVideo_MSG4="ვიდეო ფაილი წარმატებით გადაკეთდა!!"
+conv_video_BDVideo_MSG5="შეცდომა ვიდეო ფაილის კონვერტაციისას"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="ვიდეო ფაილების კონვერტაცია"
+conv_VideoFich_MSG2="მიუთითეთ ვიდეო ფაილი კონვერტაციისთვის:"
+conv_VideoFich_MSG3="მიუთითეთ ვიდეო ფაილი გენერირებისთვის:"
+conv_VideoFich_MSG4="ვიდეო ფაილის კონვერტაცია დასრულებულია"
+conv_VideoFich_MSG5="შეცდომა ვიდეო ფაილის კონვერტაციისას"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="მიუთითეთ ვიდეო ფაილი:"
+extrae_Audio_de_Video_MSG2="მიუთითეთ mp3 ხმის ფაილი გენერირებისთვის:"
+extrae_Audio_de_Video_MSG3="ხმის ამოღება წარმატებით"
+extrae_Audio_de_Video_MSG4="შეცდომა ხმის ამოღებისას"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="მიუთითეთ ვიდეო ფაილი:"
+extrae_Fragmento_Video_MSG2="მიუთითეთ ვიდეო ფაილი გენერირებისთვის:"
+extrae_Fragmento_Video_MSG3="მიუთითეთ საწყისი დრო (მიუთითეთ როგორც HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="მიუთითეთ დასრულების დრო (მიუთითეთ როგორც HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="ვიდეო წარმატებით ამოჭრილია"
+extrae_Fragmento_Video_MSG6="შეცდომა ვიდეოს მოჭრისას"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="მიუთითეთ ხმის ფაილი:"
+mezcla_Audio_Video_MSG2="მიუთითეთ ვიდეო ფაილი:"
+mezcla_Audio_Video_MSG3="მიუთითეთ ვიდეო ფაილი გენერირებისთვის:"
+mezcla_Audio_Video_MSG4="ახალი ვიდეო ფაილი წარმატებით გენერირებულია"
+mezcla_Audio_Video_MSG5="ვიდეო ფაილის გენერირების შეცდომა"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="ოფცია მიუწვდომელია კონსოლის ინტერფეისისთვის"
+graba_escritorio_MSG2="-- დესკტოპის სესიის ჩაწერა -- დააჭირეთ CTRL + C, რომ გააუქმოთ და შეწყვიტოთ ჩაწერა"
+graba_escritorio_MSG3="ვიდეოს ჩაწერა დასრულებულია"
+
+

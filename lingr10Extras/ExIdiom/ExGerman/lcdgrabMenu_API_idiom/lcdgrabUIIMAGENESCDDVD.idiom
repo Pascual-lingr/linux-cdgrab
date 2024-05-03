@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGerman/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Alemán, generado con google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="ERSTELLUNG UND VERTRAG ÜBER DISC-BILDER"
+MenuImagen_MSG2="------------ ERSTELLUNG VON BILDERN -----------"
+MenuImagen_MSG3="Erstellen Sie ein ISO-9660-Image"
+MenuImagen_MSG4="Erstellen Sie ein Image mit einem nativen Linux-Dateisystem"
+MenuImagen_MSG5="Erstellen Sie ein IMG-Image eines beliebigen Blockgeräts"
+MenuImagen_MSG6="Erstellen Sie ein .bin .cue-Image vom aktuellen Gerät"
+MenuImagen_MSG7="--------------- ANDERE OPTIONEN ---------------"
+MenuImagen_MSG8="Generieren Sie eine .cue-Beschreibungsdatei aus einem .bin-Bild"
+MenuImagen_MSG9="Konvertieren Sie ein .nrg-Image (Nero Burning ROM) in .iso"
+MenuImagen_MSG10="Komprimieren Sie ein Bild mit gzip, bzip2 oder xz"
+MenuImagen_MSG11="Entpacken Sie ein Bild in zip, gz, bz2 oder xz"
+MenuImagen_MSG11B="Überprüfen Sie die MD5-Summe der ISO-Images"
+MenuImagen_MSG12="ISO-Modus ändern"
+MenuImagen_MSG0="vorheriges Menü"
+MenuImagen_MSG13="Zu komprimierende Bilddatei"
+MenuImagen_MSG14="BILDDATEI KOMPRIMIEREN"
+MenuImagen_MSG15="Geben Sie den Verzeichnispfad ein, in dem sich das Bild befindet, das Sie komprimieren möchten:"
+MenuImagen_MSG16="Bilddatei, die dekomprimiert werden soll"
+MenuImagen_MSG17="AKTUELLE ISO-STUFE"
+MenuImagen_MSG18="ISO-Level"
+MenuImagen_MSG19="Dateinamen bestehen aus einem Abschnitt"
+MenuImagen_MSG20="und sind auf 8,3 Zeichen begrenzt."
+MenuImagen_MSG21="Wählen Sie diese Ebene, wenn Sie Namenskompatibilität wünschen"
+MenuImagen_MSG21b="unter dem Betriebssystem MS-DOS"
+MenuImagen_MSG22="Dateinamen bestehen aus einem Abschnitt"
+MenuImagen_MSG23="Uneingeschränktes Niveau."
+MenuImagen_MSG24="Verwenden Sie diese Ebene, wenn Sie Kompatibilität mit Dateien wünschen"
+MenuImagen_MSG25="groß, in diesem Fall >= bis 2 Gigabyte."
+MenuImagen_MSG26="Alle ISO-Ebenen beschränken Dateinamen auf Groß- und Kleinschreibung."
+MenuImagen_MSG27="Zeichen wie _. Dateinamen sind auf 31 Zeichen beschränkt"
+MenuImagen_MSG28="Verzeichnispfade auf maximal 8 und der Pfadname von"
+MenuImagen_MSG29="Verzeichnisse auf 255 Zeichen."
+MenuImagen_MSG30="Wählen Sie die neue ISO-Stufe"
+MenuImagen_MSG31="ISO Level 4 ist nicht offiziell"
+MenuImagen_MSG32="Siehe die Manpage zu mkisofs"
+MenuImagen_MSG33="Ungültige ISO-Stufe"
+MenuImagen_MSG34="Stellen Sie standardmäßig ISO-Level 3 ein"
+

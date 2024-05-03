@@ -1,0 +1,52 @@
+lingr10reiserfspatch.sh ver 0.2 --> 21/01/2024
+
+path de ejecución: /usr/share/linux-cdgrab/parches/lingr10reiserfspatch.sh
+
+ficheros de idioma: /usr/share/linux-cdgrab/lcdgrabAPI_idiom/${IDIOM}/lcdgrabparches_idiom/lingr10reiserfspatch.idiom
+donde IDIOM = Español, EspDefNA, Catala, English, ExFrench, ExDeutsch, ExGreek, ExRussian, ExJapanese, ExChinese, ExKorean, ExThai, ExPortuguese, ExItalian, ExDutch, ExNorwegian, ExPolish, ExCzech, ExSwedish, ExArmenian, ExGeorgian, ExSpanishEn, ExDanish, ExAmharic, ExTigrinya, ExVietnamese, ExIcelandic, ExSwahili, ExLao, ExLuxembourgish, ExLithuanian, ExAfrikaans, ExUkrainian, ExTurkish, ExHungarian y .defecidiom
+
+Parche para soportar el sistema de ficheros Reiser File System en LINUX-CDGRAB 1.0
+Pascual Martínez Cruz --> pascual89@hotmail.com
+Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+v 0.2:
+------
+
+- Genera imágenes ReiserFS de tamaño personalizado por el usuario.
+
+v 0.1:
+------
+
+-Formatea unidades y archivos vacíos en ReiserFS (necesario mkreiserfs).
+-Monta/desmonta las imágenes .reiserfs generadas.
+-Borra las imágenes .reiserfs generadas.
+
+Notas sobre el parche:
+
+Sistema de ficheros pŕoximamente desmantenido del kernel linux (futuro 2025).
+
+Se extrae el soporte de la aplicación principal y queda implementado
+como un parche, por retrocompatibilidad en distribuciones donde se use.
+
+El tamaño de bloque usado por defecto en este sistema de ficheros es 4096.
+No podrán grabarse las imagenes generadas en discos ópticos mediante cdrecord
+al superar el tamaño de bloque permitido (2048 Kbytes).
+
+Plataforma de desarrollo (cat /etc/os-release):
+-----------------------------------------------
+
+NAME="Linux Mint"
+VERSION="19.3 (Tricia)"
+ID=linuxmint
+ID_LIKE=ubuntu
+PRETTY_NAME="Linux Mint 19.3"
+VERSION_ID="19.3"
+HOME_URL="https://www.linuxmint.com/"
+SUPPORT_URL="https://forums.ubuntu.com/"
+BUG_REPORT_URL="http://linuxmint-troubleshooting-guide.readthedocs.io/en/latest/"
+PRIVACY_POLICY_URL="https://www.linuxmint.com/"
+VERSION_CODENAME=tricia
+UBUNTU_CODENAME=bionic
+
+Versión del comando (mkreiserfs -V): mkreiserfs 3.6.27
+

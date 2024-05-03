@@ -1,0 +1,57 @@
+#########################################################
+# lcgdrabAPI_idiom/ExGerman/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Traducción experimental a Alemán de los mensajes de procedimientos
+# para la conversión de video. Generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="VIDEOKONVERTIERUNG BLU-RAY-DISC-KOMPATIBILITÄT"
+conv_video_BDVideo_MSG2="Geben Sie den Pfad der zu konvertierenden Videodatei an:"
+conv_video_BDVideo_MSG3="Geben Sie den Dateinamen des neuen Videos an, das erstellt werden soll:"
+conv_video_BDVideo_MSG4="Videodatei erfolgreich konvertiert!!"
+conv_video_BDVideo_MSG5="Fehler beim Konvertieren der Videodatei"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="KONVERTIERUNG VON VIDEODATEIEN"
+conv_VideoFich_MSG2="Geben Sie die zu konvertierende Videodatei an:"
+conv_VideoFich_MSG3="Geben Sie die zu generierende Videodatei an:"
+conv_VideoFich_MSG4="VIDEODATEIKONVERTIERUNG ABGESCHLOSSEN"
+conv_VideoFich_MSG5="FEHLER BEIM KONVERTIEREN DER VIDEODATEI"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Geben Sie die Videodatei an:"
+extrae_Audio_de_Video_MSG2="Geben Sie die zu generierende MP3-Sounddatei an:"
+extrae_Audio_de_Video_MSG3="TON-EXTRAKTION ERFOLGREICH"
+extrae_Audio_de_Video_MSG4="FEHLER BEIM EXTRAHIEREN DES TONS"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Geben Sie die Videodatei an:"
+extrae_Fragmento_Video_MSG2="Geben Sie die zu generierende Videodatei an:"
+extrae_Fragmento_Video_MSG3="Geben Sie die Anfangszeit an (Angabe als HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Geben Sie die Endzeit an (Angabe als HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="VIDEO ERFOLGREICH GETRIMMT"
+extrae_Fragmento_Video_MSG6="FEHLER BEIM VIDEOSCHNEIDEN"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Geben Sie die Sounddatei an:"
+mezcla_Audio_Video_MSG2="Geben Sie die Videodatei an:"
+mezcla_Audio_Video_MSG3="Geben Sie die zu generierende Videodatei an:"
+mezcla_Audio_Video_MSG4="NEUE VIDEODATEI ERFOLGREICH GENERIERT"
+mezcla_Audio_Video_MSG5="FEHLER BEI DER GENERIERUNG DER VIDEODATEI"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="OPTION FÜR KONSOLE-INTERFACE NICHT VERFÜGBAR"
+graba_escritorio_MSG2="-- AUFZEICHNUNG DER DESKTOP-SITZUNG – DRÜCKEN SIE STRG + C, UM DIE AUFZEICHNUNG ABBRECHEN UND ZU STOPPEN"
+graba_escritorio_MSG3="VIDEOAUFZEICHNUNG ABGESCHLOSSEN"
+
+

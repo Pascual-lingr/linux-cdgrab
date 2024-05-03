@@ -1,0 +1,184 @@
+#########################################################
+# lcdgrabAPI_idiom/ExArmenian/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Armenio para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="վազում"
+copia_bin_MSG2="--------------ՁԱՅՆԱԳՐԵԼՈՒ ԳՈՐԾԸՆԹԱՑԸ ՆՈՐԻ ՓՈՐՁՈՒՄ Է---------------"
+copia_bin_MSG3="	ՊԱՏԿԵՐԻ ՖԱՅԼԻ ՋՆՋՈՒՄ"
+copia_bin_MSG4="ՁԱՅՆԱԳՐՈՒՄ ՍԽԱԼ Է ՏԵՂԻՎԵԼ"
+copia_bin_MSG5="Սկավառակի .iso պատկերի աղբանոց ֆայլը հնարավոր չէ գտնել: Ձայնագրումը ընդհատվում է..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="վազում"
+datos_al_vuelo_MSG2="Ձայնագրման փորձի սխալ, նորից փորձել առանց գերայրման աջակցության"
+datos_al_vuelo_MSG3="Ստուգեք աղբյուրի սկավառակը կամ սարքը"
+datos_al_vuelo_MSG4="լավ վիճակում է"
+datos_al_vuelo_MSG5="Ստանալ սկզբնաղբյուրի բլոկի համարը աղբյուրի սկավառակից"
+datos_al_vuelo_MSG6="ՊԱՏՃԱՌՆՈՒՄ ՍԿՍԸ..."
+
+# clonar_cd
+
+clonar_cd_MSG1="վազում"
+clonar_cd_MSG2="CD ՀԱՋՈՂ ԿԼՈՆԱՑՎԱԾ"
+clonar_cd_MSG3="ՍԽԱԼ Է ՏԵՂԱԽՎԵԼ ՍԿՍ ը ԿԼՈՆԵԼՈՎ"
+
+# datos
+
+datos_MSG1="Ֆայլեր և գրացուցակներ .iso պատկերը ստեղծելու համար"
+datos_MSG2="CD/DVD/BD LABEL"
+datos_MSG3="Մուտքագրեք անուն ապագա CD/DVD/BD-ի համար:"
+datos_MSG4="Ֆայլերի կառավարչի գործարկում."
+datos_MSG5=" ՊԱՏԿԵՐԻ ՍՏԵՂԾՈՒՄ..."
+datos_MSG6="վազում"
+datos_MSG7="ISO-9660 ՊԱՏԿԵՐԸ ՍՏԵՂԾՎԵԼ Է"
+datos_MSG8="ՎԻՐԵԼՈՎ CD/DVD/BD"
+datos_MSG9="ՊԱՏԿԵՐԻ ՖԱՅԼԻ ՍՏԵՂԾՄԱՆ ԳՈՐԾԸՆԹԱՑԸ ՉԱՓԱԽՎԵԼ Է"
+datos_MSG10="ՆՈՐԻ ՓՈՐՁՈՒՄ ԵՆՔ ՍՏԵՂԾԵԼ ՆՈՐԸ ԱՌԱՆՑ HFS ի Macintosh ԱՋԱԿՑՈՒԹՅԱՆ"
+datos_MSG11="ՊԱՏԿԵՐԻ ՋՆՋՈՒՄ..."
+datos_MSG12="ՆՈՐ ՊԱՏԿԵՐ ՍՏԵՂԾՈՒՄ ԵՆՔ..."
+datos_MSG13="ՀՆԱՐԱՎՈՐ ՉԷ ՃԻՇՏ ՁԵՌՆԱՐԿԵԼ"
+datos_MSG14="------------ՁԱՅՆԱԳՐԵԼՈՒ ԳՈՐԾԸՆԹԱՑԸ ՆՈՐԻ ՓՈՐՁՈՒՄ Է-----------"
+datos_MSG15="Ջնջել պատկերը..."
+datos_MSG16="ԻՍՕ-9660 ՏՎՅԱԼՆԵՐԻ ԱՅՑՈՒՄ CD/DVD/BD..."
+datos_MSG17="Չի գտնվել."
+datos_MSG18="Սկավառակի ձայնագրման ընդհատում..."
+
+# datoslb
+
+datoslb_MSG1="Սխալ : պատկերի ֆայլը հնարավոր չէ գտնել: Ընդհատում..."
+datoslb_MSG2="ՁԵՌՆԱՐԿՄԱՆ ԳՈՐԾԸՆԹԱՑԸ ՍԱՀՄԱՆԻ Է"
+datoslb_MSG3="ՍԽԱԼ ՁԵՌՆԱՐԿՄԱՆ ԳՈՐԾԸՆԹԱՑՈՒՄ"
+
+# borra
+
+borra_MSG0="Նախորդ մենյու"
+borra_MSG1="Ընտրեք CD-RW ն ջնջելու ռեժիմը"
+borra_MSG2="----------------------------------"
+borra_MSG3="Արագ ջնջել օգտագործել cdrecord"
+borra_MSG4="Լրիվ ջնջել օգտագործել cdrecord"
+borra_MSG5="Պահանջվում է ջնջում օգտագործեք cdrskin"
+borra_MSG6="վազում է"
+borra_MSG7="Անհրաժեշտ ձևաչափումը կամ ջնջումը կիրառվում է կախված սկավառակի կարգավիճակից"
+borra_MSG8="CD-RW ն Ջնջվել է ՀԱՋՈՂՈՎ!!"
+borra_MSG9="ՍԽԱԼ CD-RW Ջնջելիս"
+borra_MSG10="ՍՊԻՏԻ ՋՆԵԼ CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="ՍԽԱԼ, ԵՐԲ ՓՈՐՁՈՒՄ ԵՍ ՋՆԵԼ CD-RW ն"
+err_borra_cdrw_MSG2="CD-RW ԱՆՕԳՏԱԳՈՐԾԵԼԻ"
+err_borra_cdrw_MSG3="ՀՆԱՐԱՎՈՐ ՉԷ Ջնջել ԱՅՍ CD-RW-ն"
+err_borra_cdrw_MSG4="ՍՏՈՒԳԵՔ CD-RW-ն ՖԻԶԻԿԱԿԱՆ ՎՆԱՍՆԵՐԻ ՀԱՄԱՐ"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="վազում"
+cerrar_cd_MSG2="ՍՍԿ ը ՃԻՇՏ ՓԱԿՎԵԼ Է"
+cerrar_cd_MSG3="ՍԽԱԼ ՓԱԿԵԼՈՎ ՍԿՍ-ը"
+cerrar_cd_MSG4="ՏԵՂԵԿՈՒԹՅԱՆ ՓԱԿՈՒՄ ՏՎՅԱԼՆԵՐԻ CD Ի ՎՐԱ..."
+
+# grabimg
+
+grabimg_MSG1=".iso կամ .ext2 պատկեր CD/DVD-ում գրելու համար"
+grabimg_MSG2="Ֆայլերի կառավարչի գործարկում:"
+grabimg_MSG3="Մուտքագրեք ամբողջ ճանապարհը, որտեղ գտնվում է CD/DVD պատկերը, որը ցանկանում եք գրել."
+grabimg_MSG4="վազում"
+grabimg_MSG5="-----------ՁԱՅՆԱԳՐԵԼՈՒ ԳՈՐԾԸՆԹԱՑԸ ՆՈՐԻ ՓՈՐՁՈՒՄ Է-----------"
+grabimg_MSG6="Ձայնագրումն ԱՎԱՐՏՎԱԾ Է!!"
+grabimg_MSG7="ՊԱՏԿԵՐԸ .EXT2 ՀԱՋՈՂՈՎ ԳՐԱՆՑՎԱԾ Է"
+
+# grabimglb
+
+grabimglb_MSG1="Մուտքագրեք ամբողջական ուղին, որտեղ գտնվում է CD/DVD պատկերը, որը ցանկանում եք գրել."
+grabimglb_MSG2="Պատկերի այրում սկավառակի վրա..."
+grabimglb_MSG3="ISO-9660 ՊԱՏԿԵՐԸ ՀԱՋՈՂՈՎ ԳՐԱՆՑՎԱԾ Է"
+grabimglb_MSG4="ՍԽԱԼ ԻՍՕ-9660 ՊԱՏԿԵՐԸ ՁԵՌՆԱՐԿԵԼՈՒ ՄԵՋ"
+grabimglb_MSG5="Սխալ. պատկերի ֆայլը չի ​​գտնվել: Ընդհատվում է..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin և .cue ֆայլեր պատկերը ձայնագրելու համար"
+grabimg_cue_MSG2="Աղբարկղ/հուշապատկերը ձայնագրելու համար երկու ֆայլերը պետք է"
+grabimg_cue_MSG3="լինել ակտիվ գրացուցակում :"
+grabimg_cue_MSG4="Ներկայիս ակտիվ գրացուցակը"
+grabimg_cue_MSG5="Մուտքագրեք *.cue ֆայլի անունը, որը հղում է անում *.bin պատկերի ֆայլին"
+grabimg_cue_MSG6=".cue ֆայլ."
+grabimg_cue_MSG7="վազում"
+grabimg_cue_MSG8="Ձայնագրումն ԱՎԱՐՏՎԱԾ Է!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Վառել բազմատեսակ CD-ն .iso պատկերից"
+cd_multi_MSG2="Վառել առաջին նիստը CD-ի վրա .iso պատկերից"
+cd_multi_MSG3="Վառել բազմատեսակ CD-ն սկավառակի վրա գտնվող ֆայլերից"
+cd_multi_MSG4="Ձայնագրեք հաջորդական նիստերը սկավառակի վրա կոշտ սկավառակի ֆայլերից"
+cd_multi_MSG5="Այս ընտրանքը պահանջում է բազմասեսիա ձայնասկավառակ՝ նախկինում ձայնագրված աշխատաշրջանով :"
+cd_multi_MSG6="Նախորդ ընտրացանկ"
+cd_multi_MSG7=".iso պատկեր՝ CD-Multi-sesion-ում գրելու համար"
+cd_multi_MSG8="Նշեք .iso պատկերի ուղին"
+cd_multi_MSG9="վազում"
+cd_multi_MSG10="ԲԱԶՄԱՍԵՍԻՈՆ ձայնասկավառակը ՀԱՋՈՂՈՎ ՁԱՅՆԱԳՐՎԵՑ!!"
+cd_multi_MSG11="Նկարում ներառելու գրացուցակներ:"
+cd_multi_MSG12="Նշեք, թե որ գրացուցակները ներառել ստորև"
+cd_multi_MSG13="Մուտքագրեք CD-ի պիտակի անունը."
+cd_multi_MSG14="ՊԱՏԿԵՐ ՍՏԵՂԾՈՒՄ..."
+cd_multi_MSG15="ՀԱՋՈՂՈՎ ՍՏԵՂԾՎԵԼ Է"
+cd_multi_MSG16="ՍԽԱԼ ՍՏԵՂԾՎԵԼ Է ՊԱՏԿԵՐԸ ՍՏԵՂԾԵԼԻՑ: ՁԵՌՆԱՐԿԵԼՈՒ ԳՈՐԾԸՆԹԱՑԸ..."
+cd_multi_MSG17="ՍԿ-ի պատկերի այրում..."
+cd_multi_MSG18="CD MULTI-SESSION ՄԵՆՅՈՒ"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="ԱՈՒԴԻՈ ձայնասկավառակի ՍԿՏԱՌՈՒՄ..."
+copia_cd_audio_MSG2="Գործում է"
+copia_cd_audio_MSG3="AUDIO TRACKS ՀԱՋՈՂՈՒԹՅԱՆ ՀԱՍՆԱՑՎԱԾ!!"
+copia_cd_audio_MSG4="ՍԽԱԼ ԱՈՒԴԻՈ ՀԵՂԵՐԸ ՌԻՊԵԼԻՑ"
+copia_cd_audio_MSG5="ԱՈՒԴԻՈ ձայնասկավառակի այրում..."
+copia_cd_audio_MSG6="AUDIO CD ՀԱՋՈՂՈՒԹՅԱՆ ՊԱՏՃԱՌՎԱԾ Է!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav ֆայլեր CD-ի վրա գրելու համար"
+wav_a_cd_MSG2="Linux-cdgrab-ը չի ստուգի գրացուցակի չափը"
+wav_a_cd_MSG3="Համոզվեք, որ այն դեպքում 650 Մբայթից ավելի չէ"
+wav_a_cd_MSG4="եթե 80 րոպեանոց CD եք օգտագործում։"
+wav_a_cd_MSG5="Մուտքագրեք .wav ֆայլերի գրացուցակի ուղին"
+wav_a_cd_MSG6="վազում"
+wav_a_cd_MSG7=" ԱՎԱՐՏՎԱԾ ԳՈՐԾԸՆԹԱՑ !"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Mixto-ի ստեղծման նախագիծ Տվյալների պատկեր .iso + Աուդիո Ֆայլեր .wav"
+cdmixto_MSG2="Linux-cdgrab-ը չի ստուգի գրացուցակի չափը"
+cdmixto_MSG3="որտեղ են աուդիո ֆայլերը:"
+cdmixto_MSG4="Ոչ էլ դա անի .iso պատկերից, որը դուք պատրաստվում եք ձայնագրել"
+cdmixto_MSG5="հետո."
+cdmixto_MSG6="Համապատասխան եղեք ձեր ունեցած չափին"
+cdmixto_MSG7="գրել ձեր նոր CD-ի վրա:"
+cdmixto_MSG8="Նշեք աուդիո ֆայլերի ուղին."
+cdmixto_MSG9="Նշեք iso պատկերի ուղին."
+cdmixto_MSG10="#################################"
+cdmixto_MSG11="ԽԱՌՆ ձայնագրում. ՏՎՅԱԼՆԵՐ + ԱՈՒԴԻՈ"
+cdmixto_MSG12="վազում"
+cdmixto_MSG13="----ԽԱՌՆԱՑ CD ՀԱՋՈՂՈՎ ՍՏԵՂԾՎԵԼ Է-----!!"
+cdmixto_MSG14="------ՍԽԱԼ ԽԱՌՆՈՎ CD Այրելիս--------"
+
+# discoinfo
+
+discoinfo_MSG1="վազում"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI պորտը սկանավորվել է"
+cdrecord_scan_MSG1="Սխալ IDE/SCSI պորտը սկանավորելիս"
+cdrecord_scan_MSG2="cdrecord-ը չի գտնվել"
+

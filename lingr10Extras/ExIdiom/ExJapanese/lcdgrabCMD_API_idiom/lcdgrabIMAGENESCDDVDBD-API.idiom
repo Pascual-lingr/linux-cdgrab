@@ -1,0 +1,234 @@
+#########################################################
+# lcgdrabAPI_idiom/ExJapanese/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en Japonés para el API de creacion y tratamiento
+# de imágenes de CD, DVD y BD
+# Traducción experimental, utilizado google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="画像ファイルシステム"
+imagen_linux_fs_MSG2="ファイル システムを選択します。"
+imagen_linux_fs_MSG3="CD-R/RW用のイメージを作成（702Mバイト）"
+imagen_linux_fs_MSG4="DVD+RW (4 Gbyte) のイメージを作成します。"
+imagen_linux_fs_MSG5="DVD+RW/DL用イメージ作成(8Gバイト)"
+imagen_linux_fs_MSG5B="BD-R/RE（25Gバイト）用イメージの作成"
+imagen_linux_fs_MSG5C="カスタムサイズの画像ファイルを作成する"
+imagen_linux_fs_MSG6="容量702Mバイトの空ファイルを作成する"
+imagen_linux_fs_MSG7="容量4Gバイトの空ファイルを作成する"
+imagen_linux_fs_MSG8="容量8Gバイトの空ファイルを作成する"
+imagen_linux_fs_MSG8B="25Gバイトの容量を持つ空のファイルを作成する"
+imagen_linux_fs_MSG8C="カスタムサイズの空のファイルを作成する"
+imagen_linux_fs_MSG9="エラー: イメージ サイズが不明です。中止しています..."
+imagen_linux_fs_MSG10="ランニング"
+imagen_linux_fs_MSG11="プログラムは空のファイルをフォーマットします。"
+imagen_linux_fs_MSG12="システムは、以前に作成されたファイルがブロック デバイスではないことを警告し、フォーマットするかどうかを尋ねます。"
+imagen_linux_fs_MSG13="はいと答える"
+imagen_linux_fs_MSG13="正常にフォーマットされました"
+imagen_linux_fs_MSG14="	装着イメージ。 . ."
+imagen_linux_fs_MSG15="空のファイルのフォーマット中のエラー"
+imagen_linux_fs_MSG16="プログラムはフォーマットされたファイルをマウントしました"
+imagen_linux_fs_MSG17="linux-cdgrab はファイル マネージャーを起動するので、マウントされたイメージを操作できます。"
+imagen_linux_fs_MSG18="ファイルがコピーされたら、フォーマットされたファイルをアンマウントします"
+imagen_linux_fs_MSG19="Linux イメージはこのディレクトリにあります"
+imagen_linux_fs_MSG19B="イメージ ファイルのマウント エラー"
+imagen_linux_fs_MSG20="イメージに含めるファイル。 /mnt/lcdgrab にマウント"
+imagen_linux_fs_MSG21="ファイルマネージャを起動しています..."
+imagen_linux_fs_MSG22="警告:"
+imagen_linux_fs_MSG23="----"
+imagen_linux_fs_MSG24="絵"
+imagen_linux_fs_MSG25="まだマウントされています"
+imagen_linux_fs_MSG26="dd で空のファイルを作成するときのエラー"
+imagen_linux_fs_MSG27="/ にマウントされたパーティションに空き容量があることを確認します"
+imagen_linux_fs_MSG34="Sファイルをフォーマットするファイルシステム"
+imagen_linux_fs_MSG35="カスタム サイズでの空のファイルの生成"
+imagen_linux_fs_MSG36="新しい空のファイルのブロック サイズを指定します (数値のみ):"
+imagen_linux_fs_MSG37="ブロック サイズの値の例は次のとおりです: 1024、2048 (Ext2 のみ) または 4096 (すべての形式)"
+imagen_linux_fs_MSG38="生成する空のファイルのサイズを指定します (数値のみ):"
+imagen_linux_fs_MSG39="空のファイルを生成するためのスペース測定:"
+imagen_linux_fs_MSG40="使用するスペース測定を指定してください: "
+imagen_linux_fs_MSG41="サイズ測定値を指定する際のエラー"
+imagen_linux_fs_MSG42="ブロック サイズ値:"
+imagen_linux_fs_MSG43="空のファイルの容量:"
+imagen_linux_fs_MSG44="バイト単位の計算値:"
+imagen_linux_fs_MSG45="カウントの計算値:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1=".iso イメージの生成時に md5 読み取りをアクティブ化する"
+comprobar_lectura_md5_MSG2=".iso イメージの生成時に md5 読み取りを無効にする"
+comprobar_lectura_md5_MSG3="前のメニュー"
+comprobar_lectura_md5_MSG4="現在の構成:"
+comprobar_lectura_md5_MSG5="アクティブ化された"
+comprobar_lectura_md5_MSG6="無効"
+comprobar_lectura_md5_MSG7="読み取り合計MD5が有効"
+comprobar_lectura_md5_MSG8="合計読み取りMD5が無効になっています"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="iso イメージ名を読み取れませんでした"
+leer_md5sum_MSG2="読み取り合計 md5"
+leer_md5sum_MSG3="画像の md5 合計を表示しています"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="CD イメージの作成"
+extraer_isoCD_dd_MSG2="で作成された画像"
+extraer_isoCD_dd_MSG3="見つかりません"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="DVD イメージの作成"
+extraer_isoDVD_dd_MSG2="ランニング"
+extraer_isoDVD_dd_MSG3="で作成された画像"
+extraer_isoDVD_dd_MSG4="見つかりません"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="ランニング"
+extraer_iso_readcd_MSG2="イメージが正常に作成されました"
+extraer_iso_readcd_MSG3="で作成された画像"
+extraer_iso_readcd_MSG4="記録プロセスを中止しています..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="CDマウント"
+extraer_iso_mkisofs_MSG2="画像を作成しています... "
+extraer_iso_mkisofs_MSG3="Macintosh 互換性が有効"
+extraer_iso_mkisofs_MSG4="着ている"
+extraer_iso_mkisofs_MSG5="ランニング"
+extraer_iso_mkisofs_MSG6="ディレクトリに作成されたイメージ"
+extraer_iso_mkisofs_MSG7="Macintosh サポートなしでプロセスを再試行しています"
+extraer_iso_mkisofs_MSG8="ディレクトリに作成されたイメージ"
+extraer_iso_mkisofs_MSG9="作成時に mkisofs が不明なエラーを返す"
+extraer_iso_mkisofs_MSG10="から"
+extraer_iso_mkisofs_MSG11="データの整合性をチェックする"
+extraer_iso_mkisofs_MSG12="ライディング"
+extraer_iso_mkisofs_MSG12B="の"
+extraer_iso_mkisofs_MSG13="genisoimage は、作成時に不明なエラーを返します"
+extraer_iso_mkisofs_MSG13B="から"
+extraer_iso_mkisofs_MSG14="mkisofs または genisoimage が見つかりません。cdrtools または cdrkit をインストールしてください。"
+extraer_iso_mkisofs_MSG15="マウントできませんでした"
+extraer_iso_mkisofs_MSG16="イメージが正常に作成されました"
+
+# m_comp_img
+
+m_comp_img_MSG1="で正常に生成された画像"
+m_comp_img_MSG2="画像ファイルを圧縮しますか?"
+m_comp_img_MSG3="(s/y) 圧縮します。プロセスは別のオプションでキャンセルされます。"
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="ファイルマネージャを起動しています..."
+generar_iso_directorio_MSG2="将来の CD/DVD/BD の名前を入力してください"
+generar_iso_directorio_MSG3="イメージを作成しています..."
+generar_iso_directorio_MSG4="Macintosh 互換性が有効"
+generar_iso_directorio_MSG5="着ている"
+generar_iso_directorio_MSG6="ランニング"
+generar_iso_directorio_MSG7="ディレクトリに作成されたイメージ"
+generar_iso_directorio_MSG8="イメージ作成プロセスが失敗しました"
+generar_iso_directorio_MSG9="MACINTOSH 互換性のないイメージの作成"
+generar_iso_directorio_MSG10="mkisofs または genisoimage が見つかりません。cdrtools または cdrkit をインストールしてください。"
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="今後作成する DVD/BD の名前を入力してください"
+generar_bdv_udf_directorio_MSG2="ビデオ イメージを生成するディレクトリを指定します。"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="ディスク ラベルを指定します。"
+generar_iso_directorio_libburnia_MSG2="iso-9660 イメージを生成するディレクトリを指定します。"
+generar_iso_directorio_libburnia_MSG3="ISO9660 イメージが正常に作成されました!"
+generar_iso_directorio_libburnia_MSG4="xorriso を使用した iso-9660 イメージの生成エラー"
+
+# imagenISO
+
+imagenISO_MSG1=".iso イメージに含めるファイルとディレクトリ"
+imagenISO_MSG2="選択肢一つを選択してください"
+imagenISO_MSG2B="-----------------------"
+imagenISO_MSG3="CD から ISO-9660 イメージを生成 (dd を使用)"
+imagenISO_MSG4="DVD から ISO-9660 イメージを生成 (dd を使用)"
+imagenISO_MSG5="CD から ISO-9660 イメージを生成 (readcd を使用)"
+imagenISO_MSG6="CD または DVD ディスクから ISO-9660 イメージを生成 (mkisofs を使用)"
+imagenISO_MSG7="ハードドライブデータから ISO-9660 イメージを作成 (mkisofs を使用)"
+imagenISO_MSG8="前のメニュー"
+imagenISO_MSG9="イメージの作成"
+imagenISO_MSG10="ハードドライブデータから ISO-9660 イメージを作成 (xorriso を使用)"
+imagenISO_MSG11="CD/DVD/BD から iso/udf イメージを作成 (mkisofs を使用)"
+imagenISO_MSG12="ハード ドライブ データから iso/udf イメージを作成 (mkisofs を使用)"
+imagenISO_MSG13="ISO-9660 フォーマッターメニュー"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="ハードドライブデータから UDF/ISO イメージを作成 (mkisofs を使用)"
+imagenISO_MSG15="DVD ビデオをサポートする UDF/ISO イメージの作成 (mkisofs を使用)"
+
+# imagen_img
+
+imagen_img_MSG1="イメージの作成元となるソース ブロック デバイスを入力します"
+imagen_img_MSG2="-----------------------------------------------"
+imagen_img_MSG3="/etc/fstab および /etc/mtab に登録されているデバイス"
+imagen_img_MSG4="マウント コマンドの出力:"
+imagen_img_MSG5="デバイス名を入力してください: "
+imagen_img_MSG6="ブロックデバイスの .img イメージの作成"
+imagen_img_MSG7="ランニング"
+imagen_img_MSG8="で作成されたデバイス イメージ"
+
+# monta_img
+
+monta_img_MSG1="マウントする iso または ext2 イメージ。"
+monta_img_MSG2="マウントするイメージがあるディレクトリ パスを入力します。"
+monta_img_MSG3="マウントされた CD イメージ:"
+monta_img_MSG4="イメージ ファイルのマウント エラー"
+monta_img_MSG5="見つかりません"
+monta_img_MSG6="マウントポイントがありません"
+monta_img_MSG7="予期しないエラー"
+
+# desmonta_img
+
+desmonta_img_MSG1="アンマウントする iso または ext2 イメージ。"
+desmonta_img_MSG2="分解画像"
+desmonta_img_MSG3="にマウントされたイメージが見つかりません"
+desmonta_img_MSG4="マウント出力:"
+desmonta_img_MSG5="イメージの絶対ディレクトリ パスを直接指定できます。"
+desmonta_img_MSG6="/tmp/lcdgrabimg.iso など、または /mnt/lcdgrab などのイメージのマウント ディレクトリ"
+desmonta_img_MSG7="指定しない場合は、ファイルマネージャから検索できます"
+desmonta_img_MSG8="ファイルマネージャを起動しています"
+desmonta_img_MSG9="画像パスを指定します。"
+desmonta_img_MSG10="分解画像"
+desmonta_img_MSG11="イメージのマウント解除エラー"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".iso に変換する .nrg イメージ"
+nrg_a_iso_MSG2="変換する .nrg (Nero Burning ROM) イメージのパスを入力します"
+nrg_a_iso_MSG3="画像を変換しています..."
+nrg_a_iso_MSG4="ソース .nrg イメージのパス"
+nrg_a_iso_MSG5="存在しないか、ディレクトリに対応しています"
+nrg_a_iso_MSG6="無効なルートです。"
+nrg_a_iso_MSG7="すでに以前の ISO-9660 イメージです。変換されません。"
+nrg_a_iso_MSG8="別の拡張子でコピーしています..."
+nrg_a_iso_MSG9="完成したコピー"
+nrg_a_iso_MSG10="ランニング"
+nrg_a_iso_MSG11="画像が正常に変換されました"
+nrg_a_iso_MSG12=".iso イメージの作成中にエラーが発生しました"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1=".bin イメージから .cue 記述ファイルを生成する"
+GenerarArchivocue_MSG2="現在のアクティブ ディレクトリ"
+GenerarArchivocue_MSG3="ディレクトリ パスのみを入力します。"
+GenerarArchivocue_MSG4="画像ファイルを見つけます。"
+GenerarArchivocue_MSG5="移動先の .bin イメージの名前を入力します"
+GenerarArchivocue_MSG6="対応する .cue ファイルを生成しました"
+GenerarArchivocue_MSG7="説明ファイル .cue が正常に生成されました"
+GenerarArchivocue_MSG8="エラー生成説明ファイル .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="ランニング"
+ImagenbincueCDDVD_MSG2="ディスク イメージ .BIN .CUE が正常に生成されました"
+

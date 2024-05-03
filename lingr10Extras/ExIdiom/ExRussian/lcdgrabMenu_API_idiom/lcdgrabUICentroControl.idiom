@@ -1,0 +1,281 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRussian/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Idioma Ruso para el interfaz del Centro de Control
+# Traducción experimental, generada con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Конфигурация Linux-cdgrab"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Если вы не знаете, к какому каналу IDE принадлежит"
+ayuda_IDE_MSG2="ваш диктофон может узнать это, нажав букву t."
+ayuda_IDE_MSG3="Пример канала IDE может быть 0,0,0 или 0,1,0"
+ayuda_IDE_MSG4="Вы также можете указать соответствующее устройство"
+ayuda_IDE_MSG5="к вашему диктофону. Если вы точно не знаете, какой именно, нажмите d",
+ayuda_IDE_MSG6="для просмотра устройств, зарегистрированных в файле /etc/fstab"
+ayuda_IDE_MSG7="Примером устройств могут быть /dev/hdd, /dev/hde и т. д."
+ayuda_IDE_MSG8="При желании вы также можете перечислить все содержащиеся в нем устройства"
+ayuda_IDE_MSG9="в каталоге /dev, нажав букву l."
+ayuda_IDE_MSG10="Необходимо указать канал IDE или записывающее устройство"
+ayuda_IDE_MSG11="но не то и другое."
+
+# desinstalar
+
+desinstalar_MSG1="Linux — cdgrab удален из вашей системы"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Скорость записи"
+imprimir_variables_MSG2="Канал IDE/SCSI или записывающее устройство"
+imprimir_variables_MSG3="Привод CD-ROM, DVD-ROM или BD-ROM"
+imprimir_variables_MSG4="Устройство ATAPI"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Скорость записи"
+imprimir_lcdgrabcfg_MSG2="Канал IDE/SCSI или записывающее устройство"
+imprimir_lcdgrabcfg_MSG3="Привод CD-ROM, DVD-ROM или BD-ROM"
+imprimir_lcdgrabcfg_MSG4="Устройство ATAPI"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Установлено"
+chequeo_de_aplicaciones_MSG2="НЕ УСТАНОВЛЕНО"
+chequeo_de_aplicaciones_MSG3="Установить"
+chequeo_de_aplicaciones_MSG4="ВАЖНО:"
+chequeo_de_aplicaciones_MSG5="Установив необходимые инструменты, Linux-cdgrab будет работать полностью"
+chequeo_de_aplicaciones_MSG6="Все программы, необходимые Linux-cdgrab, установлены в вашей системе"
+chequeo_de_aplicaciones_MSG4B="ВНИМАНИЕ:"
+chequeo_de_aplicaciones_MSG5B="Обнаружены недостающие инструменты"
+chequeo_de_aplicaciones_MSG6B="Инструменты, установленные в системе"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 по умолчанию присвоено этой переменной"
+msgdefCANALATAPI_MSG2="Файл конфигурации будет записан с CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Файл конфигурации, автоматически создаваемый Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG5="cdrecord не найден в системе"
+nuevo_lcdgrabcfg_MSG6="Установите пакет cdrtools."
+nuevo_lcdgrabcfg_MSG7="Вы можете продолжить настройку, указав значения"
+nuevo_lcdgrabcfg_MSG8="записей, если вы знали их ранее."
+nuevo_lcdgrabcfg_MSG9="Команда cdrecord используется для записи CD, DVD и BD дисков"
+nuevo_lcdgrabcfg_MSG10="Эти параметры не будут работать, пока указанный пакет не будет установлен."
+nuevo_lcdgrabcfg_MSG11="Инструмент сканирования дисков также не будет работать, присутствует"
+nuevo_lcdgrabcfg_MSG12="в этом мастере настройки."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab необходимо настроить в следующие четыре шага"
+nuevo_lcdgrabcfg_MSG14="Первый шаг."
+nuevo_lcdgrabcfg_MSG15="Скорость записи:"
+nuevo_lcdgrabcfg_MSG16="Только числа 2,4,8,16,32... и т. д."
+nuevo_lcdgrabcfg_MSG17="Второй шаг."
+nuevo_lcdgrabcfg_MSG18="Канал IDE/SCSI или записывающее устройство:"
+nuevo_lcdgrabcfg_MSG19="A -> помощь"
+nuevo_lcdgrabcfg_MSG20="Сканирование..."
+nuevo_lcdgrabcfg_MSG21="Ошибка сканирования порта IDE/SCSI"
+nuevo_lcdgrabcfg_MSG22="Cdrecord не найден"
+nuevo_lcdgrabcfg_MSG23="Третий шаг."
+nuevo_lcdgrabcfg_MSG24="Устройство CD-ROM, DVD-ROM или BD-ROM"
+nuevo_lcdgrabcfg_MSG25="L -> Список доступных устройств"
+nuevo_lcdgrabcfg_MSG26="Сканирование..."
+nuevo_lcdgrabcfg_MSG27="Сканированный порт IDE/SCSI"
+nuevo_lcdgrabcfg_MSG28="Устройство, которое будет использоваться cdrecord через dev=ATAPI при многосессионной записи"
+nuevo_lcdgrabcfg_MSG30="Устройство имеет номенклатуру, например 0,0,0 или 1,0,0 и т. д."
+nuevo_lcdgrabcfg_MSG31="Укажите устройство для вызова cdrecord на мультисессионных компакт-дисках: "
+nuevo_lcdgrabcfg_MSG32="Конфигурация CANALATAPI неверна"
+nuevo_lcdgrabcfg_MSG33="Ошибка сканирования порта IDE/SCSI"
+nuevo_lcdgrabcfg_MSG34="Cdrecord не найден"
+nuevo_lcdgrabcfg_MSG36="Файл конфигурации, автоматически создаваемый Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG37="КОНФИГУРАЦИЯ LINUX-CDGRAB ЗАВЕРШЕНА"
+
+# colores
+
+colores_MSG1="Невозможно найти список цветов"
+colores_MSG2="Загрузка цветов по умолчанию"
+colores_MSG3="Выберите новую цветовую схему для интерфейса LINUX-CDGRAB"
+colores_MSG4="ЧЕРНЫЙ ШРИФТ"
+colores_MSG5="СТАНДАРТНЫЙ ГЛЯНЦЕВЫЙ ШРИФТ"
+colores_MSG6="ЦВЕТ ФОНА ЧЕРНЫЙ"
+colores_MSG7="КРАСНЫЙ ШРИФТ"
+colores_MSG8="ЧЕРНЫЙ ГЛЯНЦЕВЫЙ ШРИФТ"
+colores_MSG9="КРАСНЫЙ ЦВЕТ ФОНА"
+colores_MSG10="ЗЕЛЕНЫЙ ШРИФТ"
+colores_MSG11="ЯРКИЙ КРАСНЫЙ ШРИФТ"
+colores_MSG12="ЗЕЛЕНЫЙ ЦВЕТ ФОНА"
+colores_MSG13="ЖЕЛТЫЙ ШРИФТ"
+colores_MSG14="ЗЕЛЕНЫЙ ГЛЯНЦЕВЫЙ ШРИФТ"
+colores_MSG15="ОРАНЖЕВЫЙ ЦВЕТ ФОНА"
+colores_MSG16="СИНИЙ ШРИФТ"
+colores_MSG17="ЯРКИЙ ЖЕЛТЫЙ ШРИФТ"
+colores_MSG18="ЦВЕТ ФОНА СИНИЙ"
+colores_MSG19="ПУРПУРНЫЙ ШРИФТ"
+colores_MSG20="СИНИЙ ГЛЯНЦЕВЫЙ ШРИФТ"
+colores_MSG21="ПУРПУРНЫЙ ЦВЕТ ФОНА"
+colores_MSG22="ГОЛУБОЙ ШРИФТ"
+colores_MSG23="ЯРКИЙ ПУРПУРНЫЙ ШРИФТ"
+colores_MSG24="ГОЛУБОЙ ЦВЕТ ФОНА"
+colores_MSG25="СЕРЫЙ ШРИФТ"
+colores_MSG26="ГОЛУБОЙ ЦВЕТ ФОНА"
+colores_MSG27="ГЛЯНЦЕВЫЙ ШРИФТ ГОЛУБОЙ"
+colores_MSG28="СЕРЫЙ ЦВЕТ ФОНА"
+colores_MSG29="ШРИФТ ПО УМОЛЧАНИЮ"
+colores_MSG30="ГЛЯНЦЕВЫЙ БЕЛЫЙ ШРИФТ"
+colores_MSG31="ЦВЕТ ФОНА ПО УМОЛЧАНИЮ"
+colores_MSG32="Номер цвета шрифта: "
+colores_MSG33="Номер цвета фона: "
+colores_MSG34="Количество цветов для предупреждающих сообщений: "
+colores_MSG35="Номер цвета для сообщений метки: "
+colores_MSG36="Номер цвета для успешно завершенных процессов"
+colores_MSG37="Номер цвета для процессов, завершенных с ошибкой: "
+colores_MSG38="Новая схема для LINUX-CDGRAB"
+colores_MSG39="ОБЩИЙ ЦВЕТ ШРИФТА"
+colores_MSG40="ЭТИКЕТКИ"
+colores_MSG41="УВЕДОМЛЕНИЯ"
+colores_MSG42="УСПЕХ"
+colores_MSG43="ОШИБКА"
+colores_MSG44="ЦВЕТ ФОНА"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="СПИСОК ДОСТУПНЫХ ЦВЕТОВ:"
+cambiar_esquema_de_color_MSG2="####ЦВЕТОВЫЕ СХЕМЫ######"
+cambiar_esquema_de_color_MSG3="------------------------"
+cambiar_esquema_de_color_MSG4="Цветовое меню"
+cambiar_esquema_de_color_MSG5="Не удалось"
+cambiar_esquema_de_color_MSG6="Ярлыки"
+cambiar_esquema_de_color_MSG6b="Уведомления"
+cambiar_esquema_de_color_MSG7="Цветовое меню ОК, предупреждения о сбое"
+cambiar_esquema_de_color_MSG8="Введите номер нового цвета:"
+cambiar_esquema_de_color_MSG9="НЕДЕЙСТВИТЕЛЬНЫЙ ОПЦИЯ"
+cambiar_esquema_de_color_MSG10="УСТАНОВКА ЦВЕТОВ ПО УМОЛЧАНИЮ."
+cambiar_esquema_de_color_MSG11="ФОН = СИНИЙ_ФОН"
+cambiar_esquema_de_color_MSG12=" ШРИФТ = ГЛЯНЦЕВЫЙ БЕЛЫЙ"
+cambiar_esquema_de_color_MSG13=" УВЕДОМЛЕНИЯ = ЯРКИЙ ЖЕЛТЫЙ"
+cambiar_esquema_de_color_MSG14=" ОШИБКИ = ЯРКИЙ КРАСНЫЙ"
+cambiar_esquema_de_color_MSG15=" ОШИБКИ = ЯРКИЙ КРАСНЫЙ"
+cambiar_esquema_de_color_MSG16="ХИТЫ = ЯРКИЙ ЗЕЛЕНЫЙ"
+cambiar_esquema_de_color_MSG17=" ЭТИКЕТКИ = ГЛЯНЦЕВЫЙ ГОЛУБОЙ"
+
+# cambia_lector
+
+cambia_lector_MSG1="КОНФИГУРАЦИЯ СРЕДЫ ДЛЯ ОПТИЧЕСКИХ БЛОКОВ"
+cambia_lector_MSG2="Текущее устройство, связанное с CD-ROM, DVD-ROM или BD-ROM"
+cambia_lector_MSG3="Текущее устройство, связанное с устройством записи CD/DVD/BD"
+cambia_lector_MSG4="Текущее устройство, связанное с параметром dev=ATAPI"
+cambia_lector_MSG5="(поддержка нескольких сеансов для cdrecord)"
+cambia_lector_MSG6="Выберите устройство, на котором необходимо внести изменения."
+cambia_lector_MSG7="Введите вариант:"
+cambia_lector_MSG8="Введите имя нового устройства"
+cambia_lector_MSG9="не соответствует блочному устройству"
+cambia_lector_MSG10="Устройство"
+cambia_lector_MSG11="назначено по умолчанию"
+cambia_lector_MSG12="Новое устройство:"
+cambia_lector_MSG13="Не все версии cdrecord принимают блочное устройство в качестве параметра записи"
+cambia_lector_MSG14="Введите имя нового устройства ATAPI"
+cambia_lector_MSG15="Конфигурация CANALATAPI неверна"
+cambia_lector_MSG16="0,0,0 по умолчанию присвоено этой переменной"
+cambia_lector_MSG17="Файл конфигурации будет записан с CANALATAPI = 0,0,0"
+cambia_lector_MSG18="Новое устройство:"
+cambia_lector_MSG19="В УСТРОЙСТВА НЕ ВНЕСЕНЫ НИКАКИЕ ИЗМЕНЕНИЯ"
+cambia_lector_MSG4B="Экспортировать значения из файла конфигурации"
+cambia_lector_MSG4C="ЭТИ ЗНАЧЕНИЯ БЫЛИ СООБЩЕНЫ В ОКРУЖАЮЩУЮ СРЕДУ:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="В этом меню вы можете выбрать, какую утилиту"
+cambia_generador_isocd_MSG2="будет использоваться для создания изображений ISO-9660"
+cambia_generador_isocd_MSG3="из существующих CDS в блоке чтения."
+cambia_generador_isocd_MSG4="Текущая конфигурация:"
+cambia_generador_isocd_MSG5="Использовать dd (компонент GNU coreutils)"
+cambia_generador_isocd_MSG6="Использовать readcd (компонент cdrtools)"
+cambia_generador_isocd_MSG7="Предыдущее меню."
+cambia_generador_isocd_MSG8="Выберите вариант:"
+cambia_generador_isocd_MSG9="Использование dd в качестве генератора ISO."
+cambia_generador_isocd_MSG10="Использование readcd в качестве генератора ISO."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Установите метаданные HFS вместе с Rock Ridge и Joliet"
+establecer_hfs_iso_MSG2="Использовать только метаданные Rock Ridge и Joliet"
+establecer_hfs_iso_MSG3="Предыдущее меню."
+establecer_hfs_iso_MSG4="Выберите вариант:"
+establecer_hfs_iso_MSG5="Использование метаданных HFS, Rock Ridge и Joliet"
+establecer_hfs_iso_MSG6="Использование метаданных Rock Ridge и Joliet"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Текущая система уведомлений"
+cambia_notificaciones_MSG2A="Графический интерфейс GNOME"
+cambia_notificaciones_MSG2B="Графический интерфейс KDE"
+cambia_notificaciones_MSG2="Интерфейс с ncurses"
+cambia_notificaciones_MSG3="Интерфейс в тексте"
+cambia_notificaciones_MSG4="Выход"
+cambia_notificaciones_MSG5="Выберите вариант:"
+cambia_notificaciones_MSG6="Использование интерфейса с диалогом"
+cambia_notidicaciones_MSG6B="Использование интерфейса с zenity"
+cambia_notificaciones_MSG6C="Использование интерфейса с kdialog"
+cambia_notificaciones_MSG7="Команда диалогового окна не найдена"
+cambia_notificaciones_MSG8="Использование текстового интерфейса"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Используемый язык:"
+cambiar_idioma_UI_MSG1="Доступные на данный момент языки:"
+cambiar_idioma_UI_MSG2="Введите название языка, который будет использоваться"
+cambiar_idioma_UI_MSG3="в интерфейсе приложения:"
+cambiar_idioma_UI_MSG4="Используется новый язык:"
+cambiar_idioma_UI_MSG5="Перезапустить LINUX-CDGRAB"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Текущая конфигурация"
+seleccion_gestor_archivos_MSG2="Использовать mc"
+seleccion_gestor_archivos_MSG3="Использовать встроенный текстовый менеджер"
+seleccion_gestor_archivos_MSG4="Не могу найти mc, установленный в системе"
+seleccion_gestor_archivos_MSG5="Использование встроенного текстового менеджера по умолчанию"
+seleccion_gestor_archivos_MSG6="Утилита mc"
+seleccion_gestor_archivos_MSG7="Интегрированный текст"
+
+# centro_de_control
+
+centro_de_control_MSG1="ЦЕНТР УПРАВЛЕНИЯ"
+centro_de_control_MSG2="Новая конфигурация"
+centro_de_control_MSG3="Удалить файл конфигурации"
+centro_de_control_MSG4="Показать файл и текущие значения конфигурации"
+centro_de_control_MSG5="ЗНАЧЕНИЯ ФАЙЛА КОНФИГУРАЦИИ:"
+centro_de_control_MSG5B="ТЕКУЩАЯ КОНФИГУРАЦИЯ, ИСПОЛЬЗУЕМАЯ В СРЕДЕ:"
+centro_de_control_MSG6="Заменить оптический носитель"
+centro_de_control_MSG7="Проверьте установленные программы"
+centro_de_control_MSG8="Сканировать порт IDE/SCSI с помощью cdrecord"
+centro_de_control_MSG8C="Сканировать порт IDE/SCSI с помощью cdrskin"
+centro_de_control_MSG8B="Список устройств, установленных в системе с помощью cdrskin"
+centro_de_control_MSG9="Заменить утилиту генератора ISO с компакт-диска"
+centro_de_control_MSG9B="Установить метаданные HFS для ISO-9660"
+centro_de_control_MSG10="Изменить пользовательский интерфейс"
+centro_de_control_MSG10b="Изменить цвет"
+centro_de_control_MSG10c="Изменить язык интерфейса"
+centro_de_control_MSG11="Изменить файловый менеджер"
+centro_de_control_MSG11B="Удалить программу"
+centro_de_control_MSG12="Введите опцию: "
+centro_de_control_MSG13="ФАЙЛ КОНФИГУРАЦИИ НЕ СУЩЕСТВУЕТ"
+centro_de_control_MSG14="ФАЙЛ КОНФИГУРАЦИИ НЕ НАЙДЕН"
+centro_de_control_MSG15="Сканирование"
+centro_de_control_MSG16="Сканированный порт IDE/SCSI"
+centro_de_control_MSG17="Ошибка сканирования порта IDE/SCSI"
+centro_de_control_MSG18="Выберите цветовую схему"
+centro_de_control_MSG19="Выбирать цвета произвольно"
+centro_de_control_MSG20="Предыдущее меню"
+centro_de_control_MSG21="Введите параметр: "
+centro_de_control_MSG22="ФАЙЛ КОНФИГУРАЦИИ НЕ СУЩЕСТВУЕТ"
+centro_de_control_MSG23="ФАЙЛ КОНФИГУРАЦИИ НЕ НАЙДЕН"
+centro_de_control_MSG24="Выберите цветовую схему"
+centro_de_control_MSG25="Выбирать цвета произвольно"
+centro_de_control_MSG26="Опция недействительна"

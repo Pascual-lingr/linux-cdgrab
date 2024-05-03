@@ -1,0 +1,35 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDanish/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Danés para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Filer i /tmp"
+dir_tmp_MSG2="Slet alle billeder og komprimerede filer"
+dir_tmp_MSG3="Start filhåndteringen for andre handlinger"
+dir_tmp_MSG4="Monter eller afmonter et billede"
+dir_tmp_MSG5="Vis billedoprettelsesmenuen"
+dir_tmp_MSG6="Vis billedoptagelsesmuligheder"
+dir_tmp_MSG7="Forrige menu"
+dir_tmp_MSG8="LISTE OVER EKSISTERENDE FILER I"
+dir_tmp_MSG9="VÆLG EN MULIGHED:"
+dir_tmp_MSG10="SLETTEDE BILLEDER OG FILER"
+dir_tmp_MSG11="Monter billede."
+dir_tmp_MSG12="Afmonter billede."
+dir_tmp_MSG13="Brænd billede til cd"
+dir_tmp_MSG14="Brænd billede til DVD"
+dir_tmp_MSG14B="Brænd billede til BD"
+dir_tmp_MSG15="Vælg mulighed i henhold til optagemediet"
+dir_tmp_MSG16="FILEN ER IKKE FUNDET KONFIGURATIONSFILEN"
+dir_tmp_MSG17="Afbrydelse af optagelsesprocessen"
+dir_tmp_MSG18="Angiv .iso-filen, der skal brændes"
+dir_tmp_MSG19="Indtast billedstien: "
+
+

@@ -1,0 +1,185 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTigrinya/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Tigriña para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="ምጉያይ"
+copia_bin_MSG2="--------------መስርሕ ምቕራጽ ዳግማይ ምፍታን---------------"
+copia_bin_MSG3="	ምስሊ ፋይል ምድምሳስ"
+copia_bin_MSG4="ኣብቲ መዝገብ ጌጋ ኣጋጢሙ ኣሎ።"
+copia_bin_MSG5="እቲ ዲስክ .iso ምስሊ ዳምፕ ፋይል ክርከብ ኣይከኣለን። ምቕዳሕ ምንጻል..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="ምጉያይ"
+datos_al_vuelo_MSG2="ፈተነ ምቕራጽ ጌጋ፣ ብዘይ ደገፍ ልዕሊ ዓቐን ምንዳድ ዳግማይ ምፍታን።"
+datos_al_vuelo_MSG3="እቲ ምንጪ ዲስክ ወይ መሳርሒ ምዃኑ ኣረጋግጽ።"
+datos_al_vuelo_MSG4="ኣብ ጽቡቕ ኩነታት ኣሎ።"
+datos_al_vuelo_MSG5="ካብ ምንጪ ዲስክ ቁጽሪ ብሎክ ሊድኣውት ምርካብ"።
+datos_al_vuelo_MSG6="ዲስክ ምቕዳሕ..."
+
+# clonar_cd
+
+clonar_cd_MSG1="ምጉያይ"
+clonar_cd_MSG2="ሲዲ ብዓወት ክሎን ተገይሩ።"
+clonar_cd_MSG3="ሲዲ ክሎን ኣብ ዝግበረሉ እዋን ጌጋ ኣጋጢሙ።"
+
+# datos
+
+datos_MSG1="ናይ .iso ምስሊ ንምፍጣር ዝሕግዙ ፋይላትን ማህደርን።"
+datos_MSG2="ሲዲ/ዲቪዲ/ቢዲ ምልክት።"
+datos_MSG3="ንመጻኢ ሲዲ/ዲቪዲ/ቢዲ ስም ኣእቱ:"
+datos_MSG4="ኣመሓዳሪ ፋይል ምጅማር:"
+datos_MSG5=" ምስሊ ምፍጣር . . ."
+datos_MSG6="ምጉያይ"
+datos_MSG7="ISO-9660 ምስሊ ኣብ ተፈጢሩ"
+datos_MSG8="ሲዲ/ዲቪዲ/ቢዲ ምንዳድ።"
+datos_MSG9="መስርሕ ምፍጣር ፋይል ምስሊ ፈሺሉ።"
+datos_MSG10="ብዘይ ደገፍ ን HFS (Macintosh) ሓድሽ ንምፍጣር ዳግማይ ይፍትን ኣሎ"
+datos_MSG11="ስእሊ ምድምሳስ . . ."
+datos_MSG12="ሓድሽ ምስሊ ምፍጣር . . ."
+datos_MSG13="ብትኽክል ምምዝጋብ ኣይተኻእለን።"
+datos_MSG14="------------መስርሕ ምቕራጽ ዳግማይ ምፍታን------------"
+datos_MSG15="ስእሊ ምድምሳስ..."
+datos_MSG16="ISO-9660 ዳታ ሲዲ/ዲቪዲ/ቢዲ ምንዳድ..."
+datos_MSG17="ኣይተረኽበን።"
+datos_MSG18="ምቁራጽ ዲስክ ምቁራጽ..."
+
+# datoslb
+
+datoslb_MSG1="ጌጋ: እቲ ምስሊ ፋይል ኣይተረኽበን። ይቋረጽ ኣሎ..."
+datoslb_MSG2="መስርሕ ምቕራጽ ጽቡቕ ኣሎ"
+datoslb_MSG3="ኣብ መስርሕ ምዝገባ ጌጋ"
+
+# borra
+
+borra_MSG0="ቅድሚ ሕጂ ዝነበረ ዝርዝር መግቢ"
+borra_MSG1="CD-RW ንምድምሳስ ሞድ ምረጽ"
+borra_MSG2="---------------------"
+borra_MSG3="ቅልጡፍ ምድምሳስ (cdrecord ተጠቐም)"
+borra_MSG4="ምሉእ ብምሉእ ምድምሳስ (cdrecord ተጠቐም)"
+borra_MSG5="ምድምሳስ የድሊ (cdrskin ተጠቐም)"
+borra_MSG6="ምጉያይ"
+borra_MSG7="እቲ ዘድሊ ፎርማት ወይ ምድምሳስ ከከም ኩነታት ዲስክ ይትግበር"
+borra_MSG8="CD-RW ብዓወት ተደምሲሱ!!"
+borra_MSG9="ጌጋ ምድምሳስ CD-RW"
+borra_MSG10="ብሓይሊ ምድምሳስ CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="ሲዲ-RW ክትድምስሶ ኣብ እትፍትነሉ እዋን ጌጋ"
+err_borra_cdrw_MSG2="CD-RW ኣብ ጥቕሚ ዘይውዕል።"
+err_borra_cdrw_MSG3="እዚ CD-RW ምድምሳስ ኣይከኣልን።"
+err_borra_cdrw_MSG4="ኣብ CD-RW ኣካላዊ ጉድኣት እንተሃልዩ መርምሩ።"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="ምጉያይ"
+cerrar_cd_MSG2="እቲ ሲዲ ብትኽክል ተዓጽዩ ኣሎ"
+cerrar_cd_MSG3="ሲዲ ኣብ እትዓጽወሉ እዋን ጌጋ"
+cerrar_cd_MSG4="ምዕጻው ትራክ ኣብ ዳታ ሲዲ . . ."
+
+# grabimg
+
+grabimg_MSG1=".iso ወይ .ext2 ምስሊ ናብ ሲዲ/ዲቪዲ ንምንዳድ"
+grabimg_MSG2="ምጅማር ኣመሓዳሪ ፋይል።"
+grabimg_MSG3="እቲ ክትቃጽሎ እትደሊ ምስሊ ሲዲ/ዲቪዲ ዝኾነሉ ምሉእ መንገዲ ጽሓፍ፤"
+grabimg_MSG4="ምጉያይ"
+grabimg_MSG5="-----------መስርሕ ምቕራጽ ዳግማይ ምፍታን-----------"
+grabimg_MSG6="ምቕዳሕ ተዛዚሙ!!"
+grabimg_MSG7=".EXT2 ምስሊ ብዓወት ተመዝጊቡ።"
+
+# grabimglb
+
+grabimglb_MSG1="እቲ ክትቃጸል እትደሊ ሲዲ/ዲቪዲ ምስሊ ዝርከበሉ ምሉእ መንገዲ ጽሓፍ:"
+grabimglb_MSG2="ስእሊ ናብ ዲስክ ይቃጸል..."
+grabimglb_MSG3="ISO-9660 ምስሊ ብዓወት ተመዝጊቡ"
+grabimglb_MSG4="ኣብ ምምዝጋብ ምስሊ ISO-9660 ጌጋ"
+grabimglb_MSG5="ጌጋ: ፋይል ምስሊ ኣይተረኽበን። ይቋረጽ ኣሎ..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".binን .cueን ፋይላት ነቲ ምስሊ ንምምዝጋብ"
+grabimg_cue_MSG2="ናይ bin/cue ምስሊ ንምምዝጋብ፡ ክልቲኦም ፋይላት ክህልዎም ኣለዎ።"
+grabimg_cue_MSG3="ኣብቲ ንጡፍ ማህደር ኩን።"
+grabimg_cue_MSG4="ናይ ሕጂ ንጡፍ ማህደር።"
+grabimg_cue_MSG5="ስም ናይቲ *.bin ምስሊ ፋይል ዝውከስ *.cue ፋይል ኣእቱ።"
+grabimg_cue_MSG6=".cue ፋይል: "
+grabimg_cue_MSG7="ምጉያይ።"
+grabimg_cue_MSG8="ምቕራጽ ተዛዚሙ!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="ካብ .iso ምስሊ ብዙሕ ክፍለ ግዜ ሲዲ ኣቃጽል።"
+cd_multi_MSG2="ካብ .iso ምስሊ ቀዳማይ ክፍለ ግዜ ናብ ሲዲ ኣቃጽል።"
+cd_multi_MSG3="ብዙሕ ክፍለ ግዜ ሲዲ ካብ ፋይላት ኣብ ዲስክ ኣቃጽል።"
+cd_multi_MSG4="ካብ ኣብ ሃርድ ድራይቭ ዝርከቡ ፋይላት ተኸታተልቲ ክፍለ ግዜታት ናብ ሲዲ ምምዝጋብ።"
+cd_multi_MSG5="እዚ ኣማራጺ ብዙሕ ክፍለ ግዜ ዘለዎ ሲዲ የድልዮ፣ ምስ ኣቐዲሙ ዝተቐድሐ ክፍለ ግዜ።"
+cd_multi_MSG6="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+cd_multi_MSG7=".iso ምስሊ ናብ ሲዲ-ብዙሕ-ክፍለ-ግዜ ክቃጸል"
+cd_multi_MSG8="መንገዲ ናይቲ .iso ምስሊ ግለጽ።"
+cd_multi_MSG9="ምጉያይ።"
+cd_multi_MSG10="ብዙሕ ክፍለ ግዜ ዘለዋ ሲዲ ብዓወት ተመዝጊባ!!"
+cd_multi_MSG11="ኣብቲ ምስሊ ክካተቱ ዘለዎም ማህደራት።"
+cd_multi_MSG12="ኣብ ታሕቲ ኣየኖት ማህደር ከም ዘካትት ግለጽ።"
+cd_multi_MSG13="ናይ ሲዲ ስያመ ስም ኣእቱ:"
+cd_multi_MSG14="ስእሊ ምፍጣር..."
+cd_multi_MSG15="ብዓወት ተፈጢሩ።"
+cd_multi_MSG16="እቲ ምስሊ ኣብ ዝፈጠረሉ እዋን ጌጋ። መስርሕ ምቕራጽ ምቁራጽ..."
+cd_multi_MSG17="ስእሊ ሲዲ ምንዳድ..."
+cd_multi_MSG18="ናይ ሲዲ ብዙሕ ክፍለ ግዜ ዘለዎ ዝርዝር።"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="ሲዲ ድምጺ ምቕንጣጥ..."
+copia_cd_audio_MSG2="ምጉያይ"
+copia_cd_audio_MSG3="ናይ ድምጺ ትራክ ብዓወት በሲሉ!!"
+copia_cd_audio_MSG4="ናይ ድምጺ ትራክ ኣብ ዝበስለሉ እዋን ጌጋ"
+copia_cd_audio_MSG5="ናይ ድምጺ ሲዲ ምንዳድ..."
+copia_cd_audio_MSG6="ናይ ድምጺ ሲዲ ብዓወት ተቐዲሑ!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav ፋይላት ናብ ሲዲ ክቃጸሉ"
+wav_a_cd_MSG2="Linux-cdgrab ዓቐን ማህደር ኣይምርምርን እዩ"
+wav_a_cd_MSG3="ንኸይከውን ካብ 650 Mbytes ከምዘይበዝሕ ኣረጋግጽ።"
+wav_a_cd_MSG4="ናይ 80 ደቓይቕ ሲዲ ትጥቀም እንተኾንካ።"
+wav_a_cd_MSG5="ናይ .wav ፋይላት ናይ ማህደር መንገዲ ኣእቱ።"
+wav_a_cd_MSG6="ምጉያይ"
+wav_a_cd_MSG7="ዝተዛዘመ መስርሕ !"
+
+# cdmixto
+
+cdmixto_MSG1="ፕሮጀክት ምፍጣር ሲዲ-ሚክስቶ (ዳታ ምስሊ .iso + ድምጺ ፋይላት .wav)"
+cdmixto_MSG2="Linux-cdgrab ዓቐን ማህደር ኣይምርምርን እዩ"
+cdmixto_MSG3="እቶም ናይ ድምጺ ፋይላት ኣበይ ኣለዉ።"
+cdmixto_MSG4="ካብቲ ክትቅድሖ ዝሓሰብካ .iso ምስሊ'ውን ከምኡ ኣይገብርን።"
+cdmixto_MSG5="ድሕሪ።"
+cdmixto_MSG6="ምስ ዘለካ ዓቐን ዝሰማማዕ ኩን።"
+cdmixto_MSG7="ናብ ሓዳስ ሲዲኻ ኣቃጽል።"
+cdmixto_MSG8="መንገዲ ናይ ድምጺ ፋይላት ግለጽ:"
+cdmixto_MSG9="ናይ iso ምስሊ መንገዲ ግለጽ:"
+cdmixto_MSG10="#################################"
+# Resultado del traductor
+cdmixto_MSG11="ምንዳድ ዝተሓዋወሰ ሲዲ : ሰነድ + AUDIO"
+cdmixto_MSG12="ምጉያይ"
+cdmixto_MSG13="----ብዓወት ዝተፈጠረ MIXED CD-----"
+cdmixto_MSG14="------MIXED CD ኣብ እትቃጸልሉ እዋን ጌጋ--------"
+
+# discoinfo
+
+discoinfo_MSG1="ምጉያይ"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI ወደብ ስካን ተገይሩ።"
+cdrecord_scan_MSG1="ኣብ ምፍታሽ IDE/SCSI ወደብ ጌጋ።"
+cdrecord_scan_MSG2="ክድረኮርድ ኣይተረኽበን።"
+

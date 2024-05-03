@@ -1,0 +1,32 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRussian/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en Ruso para el menu de conversion de Audio.
+# Traducción experimental, generada con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="ПРЕОБРАЗОВАНИЕ АУДИО"
+menu_conversion_audio_MSG2="-------- ПРЕОБРАЗОВАНИЕ МЕЖДУ ФОРМАТАМИ ---------"
+menu_conversion_audio_MSG3="Конвертировать .mp3 в .wav"
+menu_conversion_audio_MSG4="Конвертировать .ogg в .wav"
+menu_conversion_audio_MSG5="Конвертировать .wav в .mp3"
+menu_conversion_audio_MSG6="Конвертировать .wav в .ogg"
+menu_conversion_audio_MSG6C="Конвертировать .wav в .flac"
+menu_conversion_audio_MSG6B="Конвертировать .flac в .wav"
+menu_conversion_audio_MSG7="----------- ИЗВЛЕЧЕНИЕ АУДИО ДОРОЖКИ ------------"
+menu_conversion_audio_MSG8="Закопировать аудио компакт-диск в формат .wav"
+menu_conversion_audio_MSG9="Копировать набор аудиодорожек в формат .wav"
+menu_conversion_audio_MSG10="Закопировать аудио компакт-диск в .mp3"
+menu_conversion_audio_MSG11="Закопировать аудио компакт-диск в .ogg"
+menu_conversion_audio_MSG0="Предыдущее меню"
+menu_conversion_audio_MSG12="Поиск файлов .mp3"
+menu_conversion_audio_MSG13="Поиск файлов .ogg"
+menu_conversion_audio_MSG14="Поиск файлов .wav"
+menu_conversion_audio_MSG15="--------------- ДРУГИЕ ОПЕРАЦИИ -----------------"
+menu_conversion_audio_MSG16="Вырезать аудиофайл .wav"
+menu_conversion_audio_MSG17="Закопировать аудио компакт-диск в .flac"

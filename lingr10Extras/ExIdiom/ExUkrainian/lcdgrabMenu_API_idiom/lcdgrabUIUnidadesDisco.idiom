@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExUkrainian/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Ucraniano para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="ОПЕРАЦІЇ ДИСКОВОГО ПРИВОДУ"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- ВАЖЛИВО -----------------------"
+MenuDispositivosBloque_MSG3="+ Не виконувати операції запису на жорсткі диски "
+MenuDispositivosBloque_MSG4="+ про розділи диска, які містять зображення"
+MenuDispositivosBloque_MSG5="+ відновлення, завантажувальні розділи або власні"
+MenuDispositivosBloque_MSG6="+ розділ операційної системи."
+MenuDispositivosBloque_MSG7="+ Неправильне використання параметрів написання цього меню "
+MenuDispositivosBloque_MSG8="+ може призвести до катастрофи в системі."
+MenuDispositivosBloque_MSG9="+ Використовуйте з обережністю. Використовуйте на власний ризик."
+MenuDispositivosBloque_MSG10="-------------------- ПИСЬМО ----------------------"
+MenuDispositivosBloque_MSG11="Вивести файл зображення на диск"
+MenuDispositivosBloque_MSG11B="Скинути образ iso або img (самозавантажувальний) на накопичувач або USB-диск"
+MenuDispositivosBloque_MSG11C="Підтримуються не всі системи встановлення."
+MenuDispositivosBloque_MSG12="Форматувати диск за допомогою рідної файлової системи Linux або Windows"
+MenuDispositivosBloque_MSG13="-------------------- ЧИТАННЯ ---------------------"
+MenuDispositivosBloque_MSG14="Створити зображення .img із дисковода"
+MenuDispositivosBloque_MSG15="Попереднє меню"
+MenuDispositivosBloque_MSG16="Введіть параметр"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="-----------------------------ВАЖЛИВО--------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Формат блоку з файловою системою, яка використовується в пристроях"
+UIFormatearUnidad_linuxfs_MSG2B="+ або розділи диска."
+UIFormatearUnidad_linuxfs_MSG3="+ Цей параметр зітре всі існуючі дані на пристрої"
+UIFormatearUnidad_linuxfs_MSG4="+ Знімні диски, відформатовані з файловою системою"
+UIFormatearUnidad_linuxfs_MSG5="+ сама Linux буде доступна лише в цій операційній системі."
+UIFormatearUnidad_linuxfs_MSG6="+ Використовуйте з обережністю, використовуйте на власний ризик."
+UIFormatearUnidad_linuxfs_MSG7="--------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="НАТИСНІТЬ КЛАВІШУ C, ЩОБ ПРОДОВЖИТИ (Процес буде скасовано в іншому варіанті)"
+

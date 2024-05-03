@@ -1,0 +1,46 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLuxembourgish/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Luxemburgués para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 BILD KORREKT OP BLU-RAY OPSCHREIWEN"
+grabar_ISO_BD_MSG2="Feeler WANN BILD OP BLU-RAY DISK OPSCHREIWEN"
+grabar_ISO_BD_MSG3="ISO-9660 BILD OP BD"
+grabar_ISO_BD_MSG4="Spezifizéiert de Wee vum ISO-9660 Bild fir ze brennen:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Dateien an Verzeichnisser fir den .iso Bild ze kreéieren"
+bd_datos_MSG2="DB LABEL"
+bd_datos_MSG3="Gitt en Numm fir déi zukünfteg BD un:"
+bd_datos_MSG4="Fichiermanager starten:"
+bd_datos_MSG5=" BILD CREATING . . ."
+bd_datos_MSG6="laafen"
+bd_datos_MSG7="ISO-9660 BILD ERSCHAFFT"
+bd_datos_MSG8="	BD OPSCHREIWEN"
+bd_datos_MSG13="BILD LËSCHEN..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Déi néideg Formatéierung oder Läschung gëtt jee no Disk Status ugewannt"
+borrar_BDRE_lb_MSG2="BD-RE GLESCHT GELESCHT!!"
+borrar_BDRE_lb_MSG3="Feeler beim Läschen BD-RE"

@@ -1,0 +1,45 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Húngaro para la aplicación principal #
+# Parte de Linux-cdgrab 1.0                        #
+# Traducción experimental.                         #
+# Generado con Google Translate.                   #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="A LINUX-CDGRAB 1.0 által automatikusan generált fájl"
+creacion_de_Depot_MSG2="Ez a fájl a könyvtárral együtt"
+creacion_de_Depot_MSG3="automatikusan generáltak"
+creacion_de_Depot_MSG4="a Linux-cdgrab alkalmazás által, amikor ellenőrizte, hogy nem létezett-e az Ön Linux disztribúciójában"
+creacion_de_Depot_MSG5="a könyvtár"
+creacion_de_Depot_MSG6="A Linux-cdgrab ezt a könyvtárat használja ideiglenes fájlok és eszközképek (iso, img stb.) írásához."
+creacion_de_Depot_MSG8="A Depot a GoboLinux használja ideiglenes fájlok tárolására"
+creacion_de_Depot_MSG9="A fájl célja csak tájékoztató jellegű, olvasás után szabadon törölheti."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="FIGYELMEZTETÉS:"
+main_IDSISTEMA_MSG2="Az operációs rendszer nem támogatott."
+main_IDSISTEMA_MSG3="Ha problémák vannak az alkalmazás működésével, használja a GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="Ez nem érvényes érv"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="talált"
+main_cdkit_test_MSG2="link létrehozva a wodim-hez"
+main_cdkit_test_MSG3="link létrehozva a genisoimage-hez"
+main_cdkit_test_MSG4="Icedax link létrehozva"
+
+# pgm principal
+
+pgm_principal_MSG1="FATAL: Nem található megfelelő könyvtárelosztás."
+pgm_principal_MSG2="ISMERETLEN"
+

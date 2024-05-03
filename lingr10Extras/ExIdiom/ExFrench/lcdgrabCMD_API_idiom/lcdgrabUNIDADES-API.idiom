@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFrench/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en francés para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Chemin de l'image .img ou .ext2 à vider sur le disque"
+volcar_imagen_MSG2="-----------------------IMPORTANT----------------------------" 
+volcar_imagen_MSG3="+ Cette option n'est pas fonctionnelle sur les disques optiques."
+volcar_imagen_MSG4="+ Utilisation sur clés USB, disquettes, partitions de disque, etc. "
+volcar_imagen_MSG5="+ Considération avec les disques durs :"
+volcar_imagen_MSG6="+ L'image est écrite avec dd depuis le début"
+volcar_imagen_MSG7=" à partir du disque spécifié, il n'est pas permis d'utiliser un certain nombre de"
+volcar_imagen_MSG8="secteur spécifique pour démarrer le processus d'écriture"
+volcar_imagen_MSG9="+ À utiliser avec prudence. À utiliser à vos propres risques."
+volcar_imagen_MSG10="+ Les partitions de disque peuvent devenir inutilisables."
+volcar_imagen_MSG11="+ Il n'est pas recommandé de l'utiliser dans des systèmes à partitions multiples."
+volcar_imagen_MSG12="La restauration peut quitter la table de partition et"
+volcar_imagen_MSG13="partitions inutiles."
+volcar_imagen_MSG14="------------------------------------------------------------"
+volcar_imagen_MSG15="APPUYEZ SUR LA TOUCHE C POUR CONTINUER ;(Le processus sera annulé dans une autre option)"
+volcar_imagen_MSG16="Spécifiez le chemin du fichier image à vider sur le disque : "
+volcar_imagen_MSG17="Sortie de la commande de montage :"
+volcar_imagen_MSG18="Spécifiez le périphérique bloc sur lequel l'image doit être dumpée :"
+volcar_imagen_MSG19="VIDAGE DE L'IMAGE"
+volcar_imagen_MSG20="SUR L'APPAREIL"
+volcar_imagen_MSG21="en cours d'exécution"
+volcar_imagen_MSG22="PROCESSUS DE VIDE-IMAGE TERMINÉ"
+
+# volcar_iso
+
+volcar_iso_MSG1="Spécifiez le périphérique bloc sur lequel écrire l'image ISO :"
+volcar_iso_MSG2="AVIS"
+volcar_iso_MSG2B="-----"
+volcar_iso_MSG3="Spécifiez le périphérique bloc sur lequel écrire."
+volcar_iso_MSG4="Exemples : /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Ne spécifiez pas de partition appartenant à ce périphérique"
+volcar_iso_MSG6="Exemples : /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Spécifiez l'image iso-9660 ou img à écrire :"
+volcar_iso_MSG9="Processus terminé"
+volcar_iso_MSG10="Erreur dans le processus d'écriture iso"
+volcar_iso_MSG11="Spécifiez la taille du bloc pour écrire l'image"
+volcar_iso_MSG12="Sélectionner l'option selon le système d'exploitation pour écrire :"
+volcar_iso_MSG13="ISO-9660 ou image IMG bootable à flasher sur l'appareil :"
+volcar_iso_MSG14="Quitter"
+volcar_iso_MSG15="FICHIER IMAGE ISO-9660 OU IMG"
+volcar_ISO_MSG16="SÉLECTIONNEZ LE SYSTÈME D'EXPLOITATION À VERSER DANS L'UNITÉ"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Sélectionnez le système de fichiers avec"
+Formateador_linuxfs_MSG2="le périphérique sera formaté :"
+Formateador_linuxfs_MSG3="Spécifiez le périphérique bloc à formater : "
+Formateador_linuxfs_MSG5="PROCESSUS TERMINÉ"
+Formateador_linuxfs_MSG6="FORMATEUR DE DISQUE"
+Formateador_linuxfs_MSG7="Définir le nom du volume"
+Formateador_linuxfs_MSG10="Spécifiez le nom du nom de volume"
+Formateador_linuxfs_MSG11="Nouvelle étiquette de volume"
+Formateador_linuxfs_MSG12="Spécifier la taille du bloc"
+Formateador_linuxfs_MSG13="Nouvelle taille de bloc"
+Formateador_linuxfs_MSG14="Menu précédent"
+

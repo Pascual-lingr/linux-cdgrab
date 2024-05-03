@@ -1,0 +1,109 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAmharic/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Amárico para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="የቀረጻውን ሂደት እንደገና በመሞከር ላይ..."
+m_cdrecord_sin_overburn_MSG2="ከመጠን በላይ ማቃጠል አማራጭ ሳይኖር ሲዲኮርድ በማሄድ ላይ"
+m_cdrecord_sin_overburn_MSG3="-ከመጠን በላይ ማቃጠል በአሮጌ መቅጃ መሳሪያዎችም ሆነ በአሮጌው የሲዲኮርድ ስሪቶች ላይ አይደገፍም።"
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="ልክ ያልሆነ አማራጭ"
+
+# img_error
+
+img_error_D_MSG1="ምስሉን በሚፈጥሩበት ጊዜ ስህተት"
+
+# CD_error
+
+CD_error_D_MSG1="ሲዲውን በማቃጠል ጊዜ ስህተት"
+
+# DVD_error
+
+DVD_error_D_MSG1="ዲቪዲውን በማቃጠል ጊዜ ስህተት"
+
+# DO_error
+
+DO_error_D_MSG1="ኦፕቲካል ዲስክን ሲጽፉ ስህተት"
+
+
+# tecla
+
+tecla_D_MSG1="\nለመቀጠል ENTERን ይጫኑ። . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="ዲስክ ለማቃጠል የመመሪያ መንገዶች"
+rutas_dir_D_MSG2="የማውጫ ስም አስገባ (ለመውጣት ረ)"
+rutas_dir_D_MSG3="ማውጫ"
+rutas_dir_D_MSG4="ልክ ያልሆነ"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="በስርአቱ ውስጥ ተመሳሳይ የኦፕቲካል ክፍል"
+una_sola_grabadora_D_MSG2="የንባብ እና የመቅጃ ክፍል አንድ አይነት ነው። የእርስዎ ስርዓት አንድ የአካል ክፍል ብቻ እንዳለው ይገመታል። የምንጭ ዲስኩን ከዩኒት ያስወግዱት። የመቅዳት ሂደቱን ለመቀጠል ድንግል ኦፕቲካል ዲስክ አስገባ"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="የዲስክ ቀረጻ በተሳካ ሁኔታ ተጠናቀቀ"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="ልክ ያልሆነ አማራጭ"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="የዲስክ ቀረጻ በተሳካ ሁኔታ ተጠናቀቀ"
+
+# text_img_error
+
+text_img_error_MSG1="ምስሉን በሚፈጥሩበት ጊዜ ስህተት"
+
+# text_CD_error
+
+text_CD_error_MSG1="ሲዲውን በማቃጠል ጊዜ ስህተት"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="ዲቪዲውን በማቃጠል ጊዜ ስህተት"
+
+# text_DO_error
+
+text_DO_error_MSG1="ኦፕቲካል ዲስክን ሲጽፉ ስህተት"
+
+# teclash
+
+teclash_MSG1="ለመቀጠል ENTERን ይጫኑ። . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="የማውጫውን ስም አስገባ ( ለመውጣት f):"
+text_rutas_dir_MSG2="ማውጫ"
+text_rutas_dir_MSG3="ልክ ያልሆነ"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="በስርዓቱ ውስጥ አንድ አይነት የጨረር ክፍል"
+text_una_sola_grabadora_MSG2="የማንበብ እና መቅጃ ክፍል አንድ ነው።"
+text_una_sola_grabadora_MSG3="ስርዓታችሁ አንድ ብቻ እንዳለው ይገመታል"
+text_una_sola_grabadora_MSG4="አካላዊ ዩኒት"
+text_una_sola_grabadora_MSG5="ምንጭ ዲስክን ከዩኒት አስወግድ።"
+text_una_sola_grabadora_MSG6="ድንግል ኦፕቲካል ዲስክ አስገባ"
+text_una_sola_grabadora_MSG7="በቀረጻው ሂደት ለመቀጠል።"
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="መሮጥ"

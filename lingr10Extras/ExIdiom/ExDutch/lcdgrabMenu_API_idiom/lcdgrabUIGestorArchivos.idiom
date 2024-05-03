@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDutch/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Neerlandés para el gestor de archivos
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* NAVIGATIE OPTIES ************************"
+ayuda_gestor_de_archivos_MSG2="Blader door het bestandssysteem."
+ayuda_gestor_de_archivos_MSG3="X --> Uitgaan"
+ayuda_gestor_de_archivos_MSG4="A --> Vorige map"
+ayuda_gestor_de_archivos_MSG5="B --> Volgende map"
+ayuda_gestor_de_archivos_MSG6="Acties op bestanden en mappen."
+ayuda_gestor_de_archivos_MSG7="C --> Kopieer bestand"
+ayuda_gestor_de_archivos_MSG8="M --> Bestand verplaatsen"
+ayuda_gestor_de_archivos_MSG9="CD --> Kopieer map"
+ayuda_gestor_de_archivos_MSG10="MD --> Verplaats map"
+ayuda_gestor_de_archivos_MSG11="Acties op bestanden en mappen begrijpen."
+ayuda_gestor_de_archivos_MSG12="Z --> Een bestand comprimeren"
+ayuda_gestor_de_archivos_MSG13="DZ --> Pak een bestand uit"
+ayuda_gestor_de_archivos_MSG14="EZ --> Maak een .tar.gz- of .tar.bz2-pakket"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Pak een .tar.gz of .tar.bz2 uit"
+ayuda_gestor_de_archivos_MSG16="******************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Huidige actieve map"
+gestor_de_archivos_MSG0B="Bestanden in"
+gestor_de_archivos_MSG1="============================= NAVIGATIE OPTIES ========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> HULP="
+gestor_de_archivos_MSG3="========================================================================"
+gestor_de_archivos_MSG4="Typ een optie"
+gestor_de_archivos_MSG5="Type map"
+gestor_de_archivos_MSG6="Typ het bronbestand"
+gestor_de_archivos_MSG7="Typ het doelbestand"
+gestor_de_archivos_MSG8="Bestand succesvol gekopieerd"
+gestor_de_archivos_MSG9="Fout bij kopiëren van bestand"
+gestor_de_archivos_MSG10="Typ het bronbestand"
+gestor_de_archivos_MSG11="Typ het doelbestand"
+gestor_de_archivos_MSG12="Bestand succesvol verplaatst"
+gestor_de_archivos_MSG13="Fout bij verplaatsen bestand"
+gestor_de_archivos_MSG14="Typ de bronmap"
+gestor_de_archivos_MSG15="Typ de doelmap"
+gestor_de_archivos_MSG16="Map succesvol gekopieerd"
+gestor_de_archivos_MSG17="Fout bij kopiëren map"
+gestor_de_archivos_MSG18="Typ de bronmap"
+gestor_de_archivos_MSG19="Typ de doelmap"
+gestor_de_archivos_MSG20="Directory succesvol verplaatst"
+gestor_de_archivos_MSG21="Fout bij verplaatsen map"
+gestor_de_archivos_MSG22="BESTAND OM TE COMPRESSEREN"
+gestor_de_archivos_MSG23="Geef het bestandspad op"
+

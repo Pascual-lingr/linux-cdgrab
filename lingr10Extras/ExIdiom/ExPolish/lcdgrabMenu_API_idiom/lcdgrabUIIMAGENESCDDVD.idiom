@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExPolish/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Polaco, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="TWORZENIE I POSTĘPOWANIE Z OBRAZAMI DYSKU"
+MenuImagen_MSG2="------------- TWORZENIE OBRAZU -------"
+MenuImagen_MSG3="Utwórz obraz ISO-9660"
+MenuImagen_MSG4="Utwórz obraz z natywnym systemem plików Linux"
+MenuImagen_MSG5="Utwórz obraz .img dowolnego urządzenia blokowego"
+MenuImagen_MSG6="Utwórz obraz .bin .cue z bieżącego urządzenia"
+MenuImagen_MSG7="---------------- INNE OPCJE --------------"
+MenuImagen_MSG8="Wygeneruj plik opisu .cue z obrazu .bin"
+MenuImagen_MSG9="Konwertuj obraz .nrg (Nero Burning ROM) na .iso"
+MenuImagen_MSG10="Kompresuj obraz za pomocą gzip, bzip2 lub xz"
+MenuImagen_MSG11="Dekompresuj obraz w formacie zip, gz, bz2 lub xz"
+MenuImagen_MSG11B="Sprawdź sumę obrazów ISO md5"
+MenuImagen_MSG12="Zmień tryb ISO"
+MenuImagen_MSG0="Poprzednie menu"
+MenuImagen_MSG13="Plik obrazu do skompresowania"
+MenuImagen_MSG14="KOMPRESUJ PLIK OBRAZU"
+MenuImagen_MSG15="Wpisz ścieżkę katalogu, w którym znajduje się obraz, który chcesz skompresować:"
+MenuImagen_MSG16="Plik obrazu, który chcesz rozpakować"
+MenuImagen_MSG17="AKTUALNY POZIOM ISO"
+MenuImagen_MSG18="poziom iso"
+MenuImagen_MSG19="Nazwy plików składają się z sekcji"
+MenuImagen_MSG20="i są ograniczone do 8,3 znaków."
+MenuImagen_MSG21="Wybierz ten poziom, jeśli chcesz zachować zgodność nazewnictwa"
+MenuImagen_MSG21b="w systemie operacyjnym MS-DOS"
+MenuImagen_MSG22="Nazwy plików składają się z sekcji"
+MenuImagen_MSG23="Poziom nieograniczony."
+MenuImagen_MSG24="Użyj tego poziomu, jeśli chcesz zachować kompatybilność plików"
+MenuImagen_MSG25="duży, w tym przypadku >= 2 Gigabajty."
+MenuImagen_MSG26="Wszystkie poziomy ISO ograniczają nazwy plików do wielkich, małych i"
+MenuImagen_MSG27="znaki takie jak _. Nazwy plików są ograniczone do 31 znaków"
+MenuImagen_MSG28="Maksymalnie 8 ścieżek katalogów i nazwa ścieżki"
+MenuImagen_MSG29="katalogi do 255 znaków."
+MenuImagen_MSG30="Wybierz nowy poziom ISO"
+MenuImagen_MSG31="ISO poziom 4 nie jest oficjalny"
+MenuImagen_MSG32="Sprawdź stronę podręcznika mkisofs"
+MenuImagen_MSG33="Nieprawidłowy poziom ISO"
+MenuImagen_MSG34="Ustaw domyślnie poziom ISO 3"
+

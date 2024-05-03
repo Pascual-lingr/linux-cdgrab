@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Suajili para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 PICHA IMEREKODIWA KWA USAHIHI KWENYE BLU-RAY"
+grabar_ISO_BD_MSG2="KOSA WAKATI WA KUREKODI PICHA KWENYE BLU-RAY DISK"
+grabar_ISO_BD_MSG3="ISO-9660 IMAGE IN BD"
+grabar_ISO_BD_MSG4="Bainisha njia ya picha ya ISO-9660 ili kuchoma:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Faili na saraka za kuunda picha ya .iso"
+bd_datos_MSG2="DB LABEL"
+bd_datos_MSG3="Ingiza jina la BD ya baadaye:"
+bd_datos_MSG4="Kuzindua kidhibiti faili:"
+bd_datos_MSG5=" KUUNDA PICHA . . ."
+bd_datos_MSG6="inaendesha"
+bd_datos_MSG7="ISO-9660 PICHA IMEUNGWA NDANI"
+bd_datos_MSG8="KUREKODI BD"
+bd_datos_MSG13="FUTA PICHA..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Uumbizaji au ufutaji unaohitajika unatumika kulingana na hali ya diski"
+borrar_BDRE_lb_MSG2="BD-RE IMEFANIKIWA KUFUTWA!!"
+borrar_BDRE_lb_MSG3="KOSA LINAPOFUTA BD-RE"
+

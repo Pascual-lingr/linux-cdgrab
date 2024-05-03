@@ -1,0 +1,24 @@
+lingr10lightscribepatch.sh ver 0.4 --> 17/09/2023 - Actualización a versión 1.0
+
+path de ejecución: /usr/share/linux-cdgrab/parches/lingr10lightscribepatch.sh
+
+ficheros de idioma: /usr/share/linux-cdgrab/lcdgrabAPI_idiom/${IDIOM}/lcdgrabparches_idiom/lingr10lightscribepatch.idiom
+donde IDIOM = Español, EspDefNA, Catala, English, ExFrench, ExDeutsch, ExGreek, ExRussian, ExJapanese, ExChinese, ExKorean, ExThai, ExPortuguese, ExItalian, ExDutch, ExNorwegian, ExPolish, ExCzech, ExSwedish, ExArmenian, ExGeorgian, ExSpanishEn, ExDanish, ExAmharic, ExTigrinya, ExVietnamese, ExIcelandic, ExSwahili, ExLao, ExLuxembourgish, ExLithuanian, ExAfrikaans, ExUkrainian, ExTurkish, ExHungarian y .defecidiom
+
+Parche para soportar etiquetado LightScribe en LINUX-CDGRAB 1.0
+Pascual Martínez Cruz --> pascual89@hotmail.com
+Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+Notas sobre el soporte LightScribe:
+
+La tecnología LightScribe permite imprimir carátulas desde una imagen .bmp
+sobre CDs y DVDs que soporten esta función de etiquetado.
+
+Necesaria unidad de grabación y discos especiales para LightScribe.
+
+Necesaria la herramienta 4L de Lacie para el parche LightScribe.
+
+
+
+
+

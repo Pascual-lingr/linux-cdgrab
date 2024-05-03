@@ -1,0 +1,56 @@
+#########################################################
+# lcgdrabAPI_idiom/ExRussian/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en Ruso para el API de video.
+# Traducción experimental, generada con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="СОВМЕСТИМОСТЬ ВИДЕО КОНВЕРСИИ С BLU-RAY-ДИСКАМИ"
+conv_video_BDVideo_MSG2="Укажите путь к видеофайлу для конвертации:"
+conv_video_BDVideo_MSG3="Укажите имя файла нового видео, которое нужно создать:"
+conv_video_BDVideo_MSG4="Видеофайл успешно преобразован!!"
+conv_video_BDVideo_MSG5="Ошибка конвертации видеофайла"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="ПРЕОБРАЗОВАНИЕ ВИДЕОФАЙЛОВ"
+conv_VideoFich_MSG2="Укажите видеофайл для конвертации:"
+conv_VideoFich_MSG3="Укажите видеофайл для создания:"
+conv_VideoFich_MSG4="ПРЕОБРАЗОВАНИЕ ВИДЕОФАЙЛА ЗАВЕРШЕНО"
+conv_VideoFich_MSG5="ОШИБКА ПРИ КОНВЕРТИРОВАНИИ ВИДЕОФАЙЛА"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Укажите видеофайл:"
+extrae_Audio_de_Video_MSG2="Укажите звуковой файл mp3 для создания:"
+extrae_Audio_de_Video_MSG3="ИЗВЛЕЧЕНИЕ ЗВУКА УСПЕШНО"
+extrae_Audio_de_Video_MSG4="ОШИБКА ПРИ ИЗВЛЕЧЕНИИ ЗВУКА"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Укажите видеофайл:"
+extrae_Fragmento_Video_MSG2="Укажите видеофайл для создания:"
+extrae_Fragmento_Video_MSG3="Укажите начальное время (Укажите как ЧЧ:ММ:СС) :"
+extrae_Fragmento_Video_MSG4="Укажите время окончания (Укажите как ЧЧ:ММ:СС) :"
+extrae_Fragmento_Video_MSG5="ВИДЕО УСПЕШНО ОБРЕЗАНО"
+extrae_Fragmento_Video_MSG6="ОШИБКА ПРИ ОБРЕЗКЕ ВИДЕО"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Укажите звуковой файл:"
+mezcla_Audio_Video_MSG2="Укажите видеофайл:"
+mezcla_Audio_Video_MSG3="Укажите видеофайл для создания:"
+mezcla_Audio_Video_MSG4="НОВЫЙ ВИДЕОФАЙЛ УСПЕШНО СОЗДАН"
+mezcla_Audio_Video_MSG5="ОШИБКА ПРИ ГЕНЕРИРОВАНИИ ВИДЕОФАЙЛА"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="ОПЦИЯ НЕДОСТУПНА ДЛЯ КОНСОЛЬНОГО ИНТЕРФЕЙСА"
+graba_escritorio_MSG2="-- ЗАПИСЬ СЕАНСА НА СТОЛЕ - НАЖМИТЕ CTRL + C, ЧТОБЫ ОТМЕНИТЬ И ОСТАНОВИТЬ ЗАПИСЬ"
+graba_escritorio_MSG3="ВИДЕОЗАПИСЬ ЗАВЕРШЕНА"
+

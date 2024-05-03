@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKorean/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Coreano. Generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="디스크 이미지 생성 및 처리"
+MenuImagen_MSG2="------ 이미지 생성 ------"
+MenuImagen_MSG3="ISO-9660 이미지 생성"
+MenuImagen_MSG4="기본 Linux 파일 시스템으로 이미지 생성"
+MenuImagen_MSG5="모든 블록 장치의 .img 이미지 생성"
+MenuImagen_MSG6="현재 장치에서 .bin .cue 이미지 생성"
+MenuImagen_MSG7="-------- 기타 옵션 --------"
+MenuImagen_MSG8=".bin 이미지에서 .cue 설명 파일 생성"
+MenuImagen_MSG9=".nrg(Nero Burning ROM) 이미지를 .iso로 변환"
+MenuImagen_MSG10="gzip, bzip2 또는 xz로 이미지 압축"
+MenuImagen_MSG11="zip, gz, bz2 또는 xz 형식의 이미지 압축 풀기"
+MenuImagen_MSG11B="ISO 이미지의 md5 합계 확인"
+MenuImagen_MSG12="ISO 모드 변경"
+MenuImagen_MSG0="이전 메뉴"
+MenuImagen_MSG13="압축할 이미지 파일"
+MenuImagen_MSG14="이미지 파일 압축"
+MenuImagen_MSG15="압축하려는 이미지가 있는 디렉터리 경로를 입력하세요:"
+MenuImagen_MSG16="압축을 풀고 싶은 이미지 파일"
+MenuImagen_MSG17="현재 ISO 레벨"
+MenuImagen_MSG18="iso 레벨"
+MenuImagen_MSG19="파일 이름은 섹션으로 구성됩니다."
+MenuImagen_MSG20="8.3자로 제한됩니다."
+MenuImagen_MSG21="이름 지정 호환성을 원하면 이 수준을 선택하십시오"
+MenuImagen_MSG21b="MS-DOS 운영 체제에서"
+MenuImagen_MSG22="파일 이름은 섹션으로 구성됩니다."
+MenuImagen_MSG23="레벨 제한 없음."
+MenuImagen_MSG24="파일 호환성을 원한다면 이 수준을 사용하세요"
+MenuImagen_MSG25="대형, 이 경우 >= 2GB."
+MenuImagen_MSG26="모든 ISO 레벨은 파일 이름을 대문자, 소문자로 제한합니다."
+MenuImagen_MSG27="_ .파일 이름은 31자로 제한됩니다."
+MenuImagen_MSG28="디렉터리 경로 및 경로 이름은 최대 8개"
+MenuImagen_MSG29="디렉터리는 255자까지 가능합니다."
+MenuImagen_MSG30="새 ISO 레벨을 선택하세요"
+MenuImagen_MSG31="ISO 레벨 4는 공식이 아닙니다."
+MenuImagen_MSG32="mkisofs 매뉴얼 페이지를 참조하세요"
+MenuImagen_MSG33="잘못된 ISO 레벨"
+MenuImagen_MSG34="기본적으로 ISO 레벨 3을 설정합니다"
+

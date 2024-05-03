@@ -1,0 +1,107 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwedish/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Sueco para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+# Traducción experimental, generado con Google Translate.
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="Försöker inspelningsprocessen igen..."
+m_cdrecord_sin_overburn_MSG2="Kör cdrecord utan alternativet -overburn"
+m_cdrecord_sin_overburn_MSG3="-overburn stöds inte på äldre inspelningsenheter, inte heller på äldre versioner av cdrecord."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="OGILTIGT ALTERNATIV"
+
+# img_error
+
+img_error_D_MSG1="FEL VID SKAPA BILDEN"
+
+# CD_error
+
+CD_error_D_MSG1="FEL VID BRÄNNANDE AV CD-skivan"
+
+# DVD_error
+
+DVD_error_D_MSG1="FEL VID BRÄNNANDE AV DVD-skivan"
+
+# DO_error
+
+DO_error_D_MSG1="FEL NÄR DU SKRIVER OPTISK SKIVA"
+
+# tecla
+
+tecla_D_MSG1="\nTryck på ENTER för att fortsätta . . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="SÄTAR TILL kataloger ATT BRÄNNA PÅ SKIVAN"
+rutas_dir_D_MSG2="Ange katalognamn (f för att avsluta):"
+rutas_dir_D_MSG3="KATALOG"
+rutas_dir_D_MSG4="Ogiltig"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="SAMMA OPTISKA ENHET I SYSTEMET"
+una_sola_grabadora_D_MSG2="LÄS- OCH INSPELNINGSENHETEN ÄR SAMMA. DET ANTAS ATT DITT SYSTEM ENDAST HAR EN FYSISK ENHET. TA UR KÄLLDISKAN FRÅN ENHETEN. SÄTT I EN OPTISK UNDERBART SKIVA FÖR ATT FORTSÄTTA INSPELNINGSPROCESSEN"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="INSPELNINGEN AV SKIVAN HAR FRAMGÅNGSJÄLLD"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="OGILTIGT ALTERNATIV"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="INSPELNINGEN AV SKIVAN HAR FRAMGÅNGSJÄLLD"
+
+# text_img_error
+
+text_img_error_MSG1="FEL VID SKAPA BILDEN"
+
+# text_CD_error
+
+text_CD_error_MSG1="FEL VID BRÄNNANDE AV CD-skivan"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="FEL VID BRÄNNANDE AV DVD-skivan"
+
+# text_DO_error
+
+text_DO_error_MSG1="FEL NÄR DU SKRIVER OPTISK SKIVA"
+
+# teclash
+
+teclash_MSG1="Tryck på ENTER för att fortsätta . . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Ange katalognamnet (f för att avsluta):"
+text_rutas_dir_MSG2="KATALOG"
+text_rutas_dir_MSG3="Ogiltig"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="SAMMA OPTISKA ENHET I SYSTEMET"
+text_una_sola_grabadora_MSG2="LÄS- OCH INSPELNINGSENHETEN ÄR SAMMA."
+text_una_sola_grabadora_MSG3="DET ANTAS ATT DITT SYSTEM ENDAST HAR ETT"
+text_una_sola_grabadora_MSG4="FYSISK ENHET."
+text_una_sola_grabadora_MSG5="TA BORT KÄLLDISKAN FRÅN ENHETEN."
+text_una_sola_grabadora_MSG6="SÄTTA IN EN OPTISK SKIVA FÖR VIRGIN"
+text_una_sola_grabadora_MSG7="ATT FORTSÄTTA MED INSPELNINGSPROCESSEN."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="Löpning"

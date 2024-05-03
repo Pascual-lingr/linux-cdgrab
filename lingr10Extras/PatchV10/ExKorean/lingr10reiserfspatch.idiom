@@ -1,0 +1,75 @@
+# Idioma Coreano para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+# Traducción experimental al Coreano, generado con Google Translator
+# presskey
+
+presskey_MSG1="Pulse INTRO para continuar..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="====================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0은 REISERFS를 지원합니다."
+cabecera_interfaz_MSG3="====================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="마운트 명령 출력:"
+formatear_disco_reiserfs_MSG2="포맷할 블록 장치 지정: "
+formatear_disco_reiserfs_MSG3="장치가 성공적으로 포맷되었습니다."
+formatear_disco_reiserfs_MSG4="장치 포맷 오류"
+formatear_disco_reiserfs_MSG5="프로세스 완료"
+formatear_disco_reiserfs_MSG6="장치를 마운트 해제하는 중..."
+formatear_disco_reiserfs_MSG7="ReiserFS에서 드라이브를 포맷하는 중..."
+formatear_disco_reiserfs_MSG8="실행 중"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="성공적으로 포맷되었습니다."
+formatear_img_reiserfs_MSG2="빈 파일을 포맷할 때 오류가 발생했습니다."
+formatear_img_reiserfs_MSG3="빈 파일 생성 중..."
+formatear_img_reiserfs_MSG4="실행 중"
+formatear_img_reiserfs_MSG5="ReiserFS에서 빈 파일을 포맷하는 중..."
+formatear_img_reiserfs_MSG6="사용자 정의 크기의 빈 파일 생성"
+formatear_img_reiserfs_MSG7="생성할 빈 파일의 크기를 지정하십시오(숫자 값만):"
+formatear_img_reiserfs_MSG8="빈 파일을 생성하기 위한 공간 측정:"
+formatear_img_reiserfs_MSG9="사용할 공간 측정을 지정하십시오: "
+formatear_img_reiserfs_MSG10="크기 측정을 지정할 때 오류가 발생했습니다."
+formatear_img_reiserfs_MSG11="블록 크기 값:"
+formatear_img_reiserfs_MSG12="빈 파일을 위한 공간:"
+formatear_img_reiserfs_MSG13="계산된 값(바이트):"
+formatear_img_reiserfs_MSG14="계산된 개수 값:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="CD-R/RW용 이미지 생성(702MB)"
+m_img_CDDVDBD_reiserfs_MSG2="DVD+RW용 이미지 생성(4GB)"
+m_img_CDDVDBD_reiserfs_MSG3="DVD+RW/DL용 이미지 생성(8GB)"
+m_img_CDDVDBD_reiserfs_MSG4="BD-R/RE용 이미지 생성(25GB)"
+m_img_CDDVDBD_reiserfs_MSG5="사용자 정의 크기로 이미지 파일 생성"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="종료"
+imgr_tmp_MSG1="모든 reiserfs 이미지 파일 삭제"
+imgr_tmp_MSG2="이미지 파일 마운트 또는 마운트 해제"
+imgr_tmp_MSG3="이미지 파일 위치"
+imgr_tmp_MSG4="옵션을 선택하세요"
+imgr_tmp_MSG5="삭제된 이미지 파일"
+imgr_tmp_MSG6="이미지 마운트"
+imgr_tmp_MSG7="이미지 마운트 해제"
+imgr_tmp_MSG8="마운트된 이미지"
+imgr_tmp_MSG9="마운트 해제된 이미지"
+imgr_tmp_MSG10="잘못된 옵션"
+imgr_tmp_MSG11="마운트 또는 마운트 해제할 이미지를 지정하세요:"
+imgr_tmp_MSG12="이미지 마운트 오류"
+imgr_tmp_MSG13="이미지 마운트 해제 오류"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="ReiserFS에서 드라이브 포맷"
+lingr10reiserfspatch_MSG2="CD/DVD/BD용 ReiserFS 이미지 생성"
+lingr10reiserfspatch_MSG3="ReiserFS 이미지 작업"
+lingr10reiserfspatch_MSG4="잘못된 옵션"
+lingr10reiserfspatch_MSG0="종료"
+

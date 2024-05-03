@@ -1,0 +1,109 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Húngaro para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="A rögzítési folyamat újrapróbálkozása..."
+m_cdrecord_sin_overburn_MSG2="Cdrecord futtatása az -overburn opció nélkül"
+m_cdrecord_sin_overburn_MSG3="A-overburn nem támogatott a régebbi felvevőeszközökön, sem a cdrecord régebbi verzióin."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="ÉRVÉNYTELEN OPCIÓ"
+
+# img_error
+
+img_error_D_MSG1="HIBA A KÉP LÉTREHOZÁSAKOR"
+
+# CD_error
+
+CD_error_D_MSG1="HIBA A CD ÉGÉSE ESETÉN"
+
+# DVD_error
+
+DVD_error_D_MSG1="HIBA A DVD ÍRÁSÁNAK"
+
+# DO_error
+
+DO_error_D_MSG1="HIBA AZ OPTIKAI LEMEZ ÍRÁSÁNAK"
+
+
+# tecla
+
+tecla_D_MSG1="\nNyomja meg az ENTER-t a folytatáshoz. . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="LEMEZRE ÉGETŐ KÖNYVTÁROK ÚTJAI"
+rutas_dir_D_MSG2="Adja meg a könyvtár nevét (f a kilépéshez):"
+rutas_dir_D_MSG3="KÖNYVTÁR"
+rutas_dir_D_MSG4="INVALID"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="UGYANAZ OPTIKAI EGYSÉG A RENDSZERBEN"
+una_sola_grabadora_D_MSG2="AZ OLVASÓ ÉS RÖGZÍTŐ EGYSÉG UGYANAZ. FELTÉTELEZÉS, HOGY RENDSZERÉNEK CSAK EGY FIZIKAI EGYSÉGE VAN. TÁVOLÍTSA KI A FORRÁSLEMEZET AZ EGYSÉGBŐL. A FELVÉTELI FOLYAMAT FOLYTATÁSÁHOZ HELYEZZ BE EGY SZŰZ OPTIKAI LEMEZT"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="A LEMEZ RÖGZÍTÉSE SIKERESEN BEFEJEZETT"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="ÉRVÉNYTELEN OPCIÓ"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="A LEMEZ RÖGZÍTÉSE SIKERESEN BEFEJEZETT"
+
+# text_img_error
+
+text_img_error_MSG1="HIBA A KÉP LÉTREHOZÁSAKOR"
+
+# text_CD_error
+
+text_CD_error_MSG1="HIBA A CD ÉGÉSE ESETÉN"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="HIBA A DVD ÍRÁSÁNAK"
+
+# text_DO_error
+
+text_DO_error_MSG1="HIBA AZ OPTIKAI LEMEZ ÍRÁSÁNAK"
+
+# teclash
+
+teclash_MSG1="Nyomja meg az ENTER-t a folytatáshoz. . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Írja be a könyvtár nevét ( f a kilépéshez):"
+text_rutas_dir_MSG2="KÖNYVTÁR"
+text_rutas_dir_MSG3="ÉRVÉNYTELEN"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="UGYANAZ OPTIKAI EGYSÉG A RENDSZERBEN"
+text_una_sola_grabadora_MSG2="AZ OLVASÓ ÉS RÖGZÍTŐ EGYSÉG UGYANAZ."
+text_una_sola_grabadora_MSG3="FELTÉTELEZŐ, HOGY A RENDSZERBEN CSAK EGY VAN"
+text_una_sola_grabadora_MSG4="FIZIKAI EGYSÉG."
+text_una_sola_grabadora_MSG5="TÁVOLÍTSA EL A FORRÁSLEMEZET AZ EGYSÉGBŐL."
+text_una_sola_grabadora_MSG6="HELYEZZ BE EGY SZŰZ OPTIKAI LEMEZT"
+text_una_sola_grabadora_MSG7="A RÖGZÍTÉSI FOLYAMAT FOLYTATÁSÁHOZ."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="Futás"

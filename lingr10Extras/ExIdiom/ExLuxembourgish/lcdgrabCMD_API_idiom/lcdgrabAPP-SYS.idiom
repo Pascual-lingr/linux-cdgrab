@@ -1,0 +1,109 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLuxembourgish/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Luxemburgués para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con google translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="Versicht den Opnahmeprozess erëm..."
+m_cdrecord_sin_overburn_MSG2="cdrecord lafen ouni d'Optioun -overburn"
+m_cdrecord_sin_overburn_MSG3="-overburn gëtt net op eeler Opnamapparater ënnerstëtzt, nach op eeler Versioune vu cdrecord."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="ONGËLTEG OPTIOUN"
+
+# img_error
+
+img_error_D_MSG1="ERROR WANN D'BILD SCHÉIEREN"
+
+# CD_error
+
+CD_error_D_MSG1="ERROR WANN DER CD BRENNT"
+
+# DVD_error
+
+DVD_error_D_MSG1="ERROR WANN D'DVD BRENNT"
+
+# DO_error
+
+DO_error_D_MSG1="ERROR WANN OPTICAL DISC OPSCHREIWEN"
+
+
+# tecla
+
+tecla_D_MSG1="\nPress ENTER fir weiderzemaachen. . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="WEE VUN DIRECTORIES FIR OP DISC VERbrennen"
+rutas_dir_D_MSG3="Gitt den Numm vum Verzeichnis (f fir erauszekommen):"
+rutas_dir_D_MSG3="DIRECTORY"
+rutas_dir_D_MSG4="NET VALID"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="SAME OPTICAL UNIT AN DEN SYSTEM"
+una_sola_grabadora_D_MSG2="D'LIES- AN RECORDING UNIT SINN D'SELME. Et gëtt ugeholl, datt Äre SYSTEM NËMMEN ENG PHYSICAL UNIT HASS. ECH D'Quelldisk aus der Eenheet ECH. INSERT E VIRGIN OPTICAL DISC FIR WEIDER DEN OPSCHREIWENPROCESS"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="D'OPSCHREIWEN VUN DER DISC ASS SUCCESS FÉI"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="ONGËLTEG OPTIOUN"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="D'OPSCHREIWEN VUN DER DISC ASS SUCCESS FÉI"
+
+# text_img_error
+
+text_img_error_MSG1="ERROR WANN D'BILD SCHÉIEREN"
+
+# text_CD_error
+
+text_CD_error_MSG1="ERROR WANN DER CD BRENNT"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="ERROR WANN D'DVD BRENNT"
+
+# text_DO_error
+
+text_DO_error_MSG1="ERROR WANN OPTICAL DISC OPSCHREIWEN"
+
+# teclash
+
+teclash_MSG1="Press ENTER fir weiderzemaachen. . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Gitt den Numm vum Verzeichnis (f fir erauszekommen):"
+text_rutas_dir_MSG2="DIRECTORY"
+text_rutas_dir_MSG3=" INVALID"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="SELME OPTISCHE UNIT AN DEN SYSTEM"
+text_una_sola_grabadora_MSG2="D'LIES- AN OPSCHREIWUNG SINN DÉI SELWECHT."
+text_una_sola_grabadora_MSG3="ET Gëtt ugeholl datt Äre SYSTEM NËMMEN EEN HAT"
+text_una_sola_grabadora_MSG4="PHYSISK Eenheet."
+text_una_sola_grabadora_MSG5="DÉI SOURCE DISK VUN DER UNIT ECH ECHTER."
+text_una_sola_grabadora_MSG6="ENG VIRGIN OPTICAL DISC setzen"
+text_una_sola_grabadora_MSG7="FIR WEIDER MAT DEN OPSCHREIWENPROCESS."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="Lafen"

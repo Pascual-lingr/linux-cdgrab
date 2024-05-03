@@ -1,0 +1,171 @@
+#########################################################
+# lcdgrabAPI_idiom/ExPolish/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Polaco para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Urządzenie nagrywające jako"
+buscar_grabadora_MSG1B="Prawidłowe"
+buscar_grabadora_MSG2="Urządzenie nagrywające jako"
+buscar_grabadora_MSG2B="Błąd"
+buscar_grabadora_MSG3="Narzędzia dvd+-rw-tools nie akceptują tego, że urządzenie nagrywające jest"
+buscar_grabadora_MSG4="Aby móc nagrywać płyty DVD przy użyciu narzędzi dvd+-rw-tools, musisz określić swoją nagrywarkę jako urządzenie blokowe"
+buscar_grabadora_MSG5="Przykład"
+buscar_grabadora_MSG6="lub"
+buscar_grabadora_MSG7="Pokazywanie istniejących urządzeń systemowych w /dev"
+buscar_grabadora_MSG8="Wprowadź urządzenie blokowe odpowiadające Twojej nagrywarce DVD"
+buscar_grabadora_MSG9="Nie określono typu ani opcji rejestratora."
+buscar_grabadora_MSG10="URZĄDZENIE SKONFIGUROWANE DLA REJESTRATORA"
+buscar_grabadora_MSG11="Urządzenie nagrywające zostało wyeksportowane do środowiska powłoki jako"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Możliwa wartość dotyczy tylko płyty cdrecord"
+buscar_grabadoralb_MSG2="Aktualna konfiguracja rejestratora to"
+buscar_grabadoralb_MSG3="Sprawdź, czy ta konfiguracja jest zgodna z wartością przypisaną przez cdrskin"
+buscar_grabadoralb_MSG4="Skanowanie portu IDE/SCSI za pomocą cdrskin..."
+buscar_grabadoralb_MSG5="Określ nową wartość, która będzie używana z cdrskin:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Wprowadź nazwę przyszłej płyty DVD:"
+datos_dvd_MSG2="NAGRYWANIE DVD . . . "
+datos_dvd_MSG3="Używanie"
+datos_dvd_MSG4="działa"
+datos_dvd_MSG5="DVD NAGRANO POMYŚLNIE! "
+datos_dvd_MSG6="Nie można znaleźć Mkisofs lub genisoimage, zainstaluj cdrtools lub cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Wprowadź nazwę przyszłego DVD:"
+datos_dvd_multi_MSG2="NAGRYWANIE DVD . . . "
+datos_dvd_multi_MSG3="Używanie"
+datos_dvd_multi_MSG4="działa"
+datos_dvd_multi_MSG5="DVD NAGRANO POMYŚLNIE! "
+datos_dvd_multi_MSG6="Nie można znaleźć Mkisofs lub genisoimage, zainstaluj cdrtools lub cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="NAGRYWANIE OBRAZU . . . "
+grabimg_dvd_MSG2="działa"
+grabimg_dvd_MSG3="OBRAZ DVD NAGRANO POMYŚLNIE!"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="NAGRYWANIE OBRAZU NA DVD . . . "
+copia_bin_dvd_MSG2="działa"
+copia_bin_dvd_MSG3=" USUWANIE PLIKU OBRAZU"
+copia_bin_dvd_MSG4="NAGRYWANIE ZAKOŃCZONE!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Formatuj"
+formatear_dvd_MSG2="Wymuś nowy format dla"
+formatear_dvd_MSG3="Przenieś blok wyprowadzający"
+formatear_dvd_MSG4="Formatuj płytę DVD-RW w trybie sekwencyjnym i przyrostowym"
+formatear_dvd_MSG5="Formatuj płytę DVD-RW w celu ograniczonego nadpisywania"
+formatear_dvd_MSG6="Wypełnij DVD zerami"
+formatear_dvd_MSG7="Pokaż informacje o DVD"
+formatear_dvd_MSG8="Poprzednie menu"
+formatear_dvd_MSG9="Ta opcja jest używana do pierwszego formatowania DVD."
+formatear_dvd_MSG10="Jeśli płyta DVD jest już sformatowana, dane nie zostaną usunięte."
+formatear_dvd_MSG11="Zostaną one nadpisane w nowym nagraniu."
+formatear_dvd_MSG12="Aby usunąć zawartość DVD, użyj:"
+formatear_dvd_MSG13="Wypełnij DVD zerami"
+formatear_dvd_MSG14="Ta opcja usuwa format i dane z obrobionej płyty DVD."
+formatear_dvd_MSG15="działa"
+formatear_dvd_MSG16="DVD+RW/DVD-RW POMYŚLNIE SFORMATOWANE!"
+formatear_dvd_MSG17="BŁĄD PODCZAS FORMATOWANIA DVD"
+formatear_dvd_MSG18="Wymuszanie formatowania na płycie DVD+RW..."
+formatear_dvd_MSG19="DVD+RW POMYŚLNIE SFORMATOWANE!"
+formatear_dvd_MSG20="BŁĄD PODCZAS FORMATOWANIA DVD+RW"
+formatear_dvd_MSG21="Ta opcja nie ma wpływu na dane zapisane na płycie DVD+RW"
+formatear_dvd_MSG22="Usuwanie bloku wyprowadzającego z płyty DVD+RW..."
+formatear_dvd_MSG23="Formatowanie dysku DVD-RW do zapisu sekwencyjnego..."
+formatear_dvd_MSG24="DVD-RW POMYŚLNIE SFORMATOWANE!"
+formatear_dvd_MSG25="BŁĄD PODCZAS FORMATOWANIA DVD-RW"
+formatear_dvd_MSG26="Formatowanie dysku DVD-RW w celu ograniczonego nadpisywania..."
+formatear_dvd_MSG27="USUŃ DVD DO PONOWNEGO ZAPISU"
+
+# null_dvd
+
+null_dvd_MSG1="Zapis na dysk z /dev/zero . . . "
+null_dvd_MSG2="działa"
+null_dvd_MSG3="PROCES ZAKOŃCZONY"
+null_dvd_MSG4="NIEOCZEKIWANY BŁĄD"
+
+# dvd_video
+
+dvd_video_MSG1="Ścieżka, w której znajdują się katalogi VIDEO_TS i AUDIO_TS:"
+dvd_video_MSG2="Określ ścieżkę, w której znajdują się katalogi VIDEO_TS i AUDIO_TS:"
+dvd_video_MSG3="działa"
+dvd_video_MSG4="--- UDOSTĘPNIONE NAGRYWANIE DVD-VIDEO ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="działanie"
+dvd_copia_bin_MSG2="	USUWANIE PLIKU OBRAZU"
+dvd_copia_bin_MSG3="WYSTĄPIŁ BŁĄD W NAGRANIU"
+
+# dvd_datos
+
+dvd_datos_MSG1="Pliki i katalogi do utworzenia obrazu .iso"
+dvd_datos_MSG2="ETYKIETA DVD"
+dvd_datos_MSG3="Wprowadź nazwę przyszłej płyty DVD:"
+dvd_datos_MSG4="Uruchamianie menedżera plików:"
+dvd_datos_MSG5="	TWORZENIE OBRAZU . . ."
+dvd_datos_MSG6="działanie"
+dvd_datos_MSG7="OBRAZ ISO-9660 UTWORZONY W"
+dvd_datos_MSG8="		NAGRYWANIE DVD"
+dvd_datos_MSG13="USUWANIE OBRAZU..."
+
+# dvd_borra
+
+dvd_borra_MSG1="działanie"
+dvd_borra_MSG2="DYSK OPTYCZNY SFORMATOWANY POMYŚLNIE"
+dvd_borra_MSG3="BŁĄD PODCZAS FORMATOWANIA DYSKU OPTYCZNEGO"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="działanie"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="działanie"
+formatearCDDVDBD_MSG2="DYSK OPTYCZNY POMYŚLNIE SFORMATOWANY"
+formatearCDDVDBD_MSG3="BŁĄD PODCZAS FORMATOWANIA DYSKÓW OPTYCZNYCH"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW sformatowano pomyślnie!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Błąd formatowania DVD-RW w celu ograniczonego nadpisywania"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW sformatowano pomyślnie!!"
+formatearDVDRW_incremental_secuencial_MSG2="Błąd podczas formatowania DVD-RW na sekwencyjne przyrostowe"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Określ ścieżkę obrazu ISO-9660 do nagrania:"
+cdrskinisocddvd_MSG2="OBRAZ ISO ZAPISANO POMYŚLNIE!!"
+cdrskinisocddvd_MSG3="BŁĄD PODCZAS ZAPISU OBRAZU"
+

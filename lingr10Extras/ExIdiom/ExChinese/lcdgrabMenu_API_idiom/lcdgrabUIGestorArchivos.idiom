@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExChinese/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en chino simplificado para el gestor de archivos
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* 导航选项 ************************"
+ayuda_gestor_de_archivos_MSG2="浏览文件系统。"
+ayuda_gestor_de_archivos_MSG3="X --> 出去"
+ayuda_gestor_de_archivos_MSG4="A --> 旧目录"
+ayuda_gestor_de_archivos_MSG5="B --> S下一个目录"
+ayuda_gestor_de_archivos_MSG6="对文件和目录的操作。"
+ayuda_gestor_de_archivos_MSG7="C --> 复制文件"
+ayuda_gestor_de_archivos_MSG8="M --> 移动文件"
+ayuda_gestor_de_archivos_MSG9="CD --> 复制目录"
+ayuda_gestor_de_archivos_MSG10="MD --> 移动目录"
+ayuda_gestor_de_archivos_MSG11="对文件和目录的理解操作。"
+ayuda_gestor_de_archivos_MSG12="Z --> 压缩文件"
+ayuda_gestor_de_archivos_MSG13="DZ --> 解压缩文件"
+ayuda_gestor_de_archivos_MSG14="EZ --> 创建一个 .tar.gz 或 .tar.bz2 包"
+ayuda_gestor_de_archivos_MSG15="DEZ --> 解压缩 .tar.gz 或 .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*********************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="当前活动目录"
+gestor_de_archivos_MSG0B="文件在"
+gestor_de_archivos_MSG1="============================== 导航选项 ================================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> 援助="
+gestor_de_archivos_MSG3="======================================================================="
+gestor_de_archivos_MSG4="输入一个选项"
+gestor_de_archivos_MSG5="类型目录"
+gestor_de_archivos_MSG6="输入源文件"
+gestor_de_archivos_MSG7="输入目标文件"
+gestor_de_archivos_MSG8="文件复制成功"
+gestor_de_archivos_MSG9="复制文件时出错"
+gestor_de_archivos_MSG10="输入源文件"
+gestor_de_archivos_MSG11="输入目标文件"
+gestor_de_archivos_MSG12="文件移动成功"
+gestor_de_archivos_MSG13="移动文件时出错"
+gestor_de_archivos_MSG14="输入源目录"
+gestor_de_archivos_MSG15="输入目标目录"
+gestor_de_archivos_MSG16="目录复制成功"
+gestor_de_archivos_MSG17="复制目录时出错"
+gestor_de_archivos_MSG18="输入源目录"
+gestor_de_archivos_MSG19="输入目标目录"
+gestor_de_archivos_MSG20="目录移动成功"
+gestor_de_archivos_MSG21="移动目录时出错"
+gestor_de_archivos_MSG22="要压缩的文件"
+gestor_de_archivos_MSG23="指定文件路径"
+

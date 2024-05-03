@@ -1,0 +1,239 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en Lao para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+# Resultado del traductor
+imagen_linux_fs_MSG1="ລະບົບໄຟລ໌ IMAGE"
+imagen_linux_fs_MSG2="ເລືອກລະບົບໄຟລ໌: "
+imagen_linux_fs_MSG3="ສ້າງຮູບພາບສຳລັບ CD-R/RW (702 Mbytes)"
+imagen_linux_fs_MSG4="ສ້າງຮູບພາບສຳລັບ DVD+RW (4 Gbytes)"
+imagen_linux_fs_MSG5="ສ້າງຮູບພາບສຳລັບ DVD+RW/DL (8 Gbytes)"
+imagen_linux_fs_MSG5B="ສ້າງຮູບພາບສຳລັບ BD-R/RE (25 Gbytes)"
+imagen_linux_fs_MSG5C="ສ້າງໄຟລ໌ຮູບພາບດ້ວຍຂະໜາດທີ່ກຳນົດເອງ"
+imagen_linux_fs_MSG6="ການສ້າງໄຟລ໌ເປົ່າທີ່ມີຄວາມຈຸ 702 Mbytes"
+imagen_linux_fs_MSG7="ການສ້າງໄຟລ໌ເປົ່າທີ່ມີຄວາມຈຸ 4 Gbytes"
+imagen_linux_fs_MSG8="ການສ້າງໄຟລ໌ເປົ່າທີ່ມີຄວາມຈຸ 8 Gbytes"
+imagen_linux_fs_MSG8B="ການສ້າງໄຟລ໌ເປົ່າທີ່ມີຄວາມຈຸ 25 Gbytes"
+imagen_linux_fs_MSG8C="ການສ້າງໄຟລ໌ເປົ່າດ້ວຍຂະໜາດທີ່ກຳນົດເອງ"
+imagen_linux_fs_MSG9="ຜິດພາດ: ຂະໜາດຂອງຮູບແມ່ນບໍ່ຮູ້. ຍົກເລີກ..."
+imagen_linux_fs_MSG10="ແລ່ນ"
+imagen_linux_fs_MSG11="ໂປຣແກຣມຈະຈັດຮູບແບບໄຟລ໌ເປົ່າ."
+imagen_linux_fs_MSG12="ລະບົບຈະເຕືອນທ່ານວ່າໄຟລ໌ທີ່ສ້າງຂຶ້ນໃນເມື່ອກ່ອນບໍ່ແມ່ນອຸປະກອນບລັອກ ແລະຈະຖາມວ່າທ່ານຕ້ອງການຟໍແມັດມັນບໍ່"
+imagen_linux_fs_MSG13="ຕອບໄດ້"
+# Resultado del traductor
+imagen_linux_fs_MSG13="FORMATED ສຳເລັດຜົນ"
+imagen_linux_fs_MSG14=" ການຕິດຕັ້ງຮູບພາບ ..."
+imagen_linux_fs_MSG15="ຜິດພາດເມື່ອສ້າງໄຟລ໌ຫວ່າງເປົ່າ"
+imagen_linux_fs_MSG16="ໂຄງການໄດ້ຕິດຕັ້ງໄຟລ໌ທີ່ມີຮູບແບບໃນ"
+imagen_linux_fs_MSG17="Linux-cdgrab ຈະເປີດຕົວຈັດການໄຟລ໌ເພື່ອໃຫ້ມັນສາມາດເຮັດວຽກກັບຮູບພາບທີ່ຕິດຕັ້ງຢູ່"
+imagen_linux_fs_MSG18="ເມື່ອໄຟລ໌ໄດ້ຖືກຄັດລອກ, ຖອນການເຊື່ອມຕໍ່ໄຟລ໌ທີ່ມີຮູບແບບ"
+imagen_linux_fs_MSG19="ຮູບ linux ຢູ່ໃນໄດເລກະທໍລີນີ້"
+imagen_linux_fs_MSG19B="ຜິດພາດເມື່ອຕັ້ງໄຟລ໌ຮູບ"
+imagen_linux_fs_MSG20="ໄຟລ໌ທີ່ຈະລວມຢູ່ໃນຮູບພາບ. ຕິດຢູ່ໃນ /mnt/lcdgrab"
+imagen_linux_fs_MSG21="ເປີດຕົວຈັດການໄຟລ໌..."
+imagen_linux_fs_MSG22="ແຈ້ງການ:"
+imagen_linux_fs_MSG23="-------"
+imagen_linux_fs_MSG25="ຍັງຕິດຢູ່"
+imagen_linux_fs_MSG26="ຜິດພາດເມື່ອສ້າງໄຟລ໌ຫວ່າງເປົ່າດ້ວຍ dd"
+imagen_linux_fs_MSG27="ກວດເບິ່ງວ່າທ່ານມີພື້ນທີ່ຫວ່າງຢູ່ໃນພາທິຊັນທີ່ຕິດຕັ້ງຢູ່ /"
+imagen_linux_fs_MSG34="ລະບົບໄຟລ໌ເພື່ອຈັດຮູບແບບໄຟລ໌"
+imagen_linux_fs_MSG35="ການສ້າງໄຟລເປົ່າຫວ່າງທີ່ມີຂະຫນາດທີ່ກໍານົດເອງ"
+imagen_linux_fs_MSG36="ລະບຸຂະໜາດບລັອກຂອງໄຟລ໌ຫວ່າງໃໝ່ (ຄ່າຕົວເລກເທົ່ານັ້ນ):"
+imagen_linux_fs_MSG37="ຕົວຢ່າງຂອງຄ່າຂອງຂະໜາດບລັອກແມ່ນ: 1024, 2048 (ext2 ເທົ່ານັ້ນ) ຫຼື 4096 (ທຸກຮູບແບບ)"
+imagen_linux_fs_MSG38="ລະບຸຂະໜາດຂອງໄຟລ໌ເປົ່າເພື່ອສ້າງ (ພຽງແຕ່ຄ່າຕົວເລກ):"
+imagen_linux_fs_MSG39="ການວັດແທກພື້ນທີ່ເພື່ອສ້າງໄຟລ໌ຫວ່າງເປົ່າ:"
+imagen_linux_fs_MSG40="ລະບຸການວັດແທກພື້ນທີ່ທີ່ຈະໃຊ້: "
+imagen_linux_fs_MSG41="ຜິດພາດເມື່ອກຳນົດການວັດແທກຂະໜາດ"
+imagen_linux_fs_MSG42="ຄ່າຂະໜາດບລັອກ:"
+imagen_linux_fs_MSG43="ຈຳນວນພື້ນທີ່ສຳລັບໄຟລ໌ຫວ່າງເປົ່າ:"
+imagen_linux_fs_MSG44="ຄ່າຄຳນວນເປັນໄບຕ໌:"
+imagen_linux_fs_MSG45="ຄ່າຄຳນວນສຳລັບນັບ:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="ເປີດໃຊ້ການອ່ານ md5 ເມື່ອສ້າງຮູບພາບ .iso"
+comprobar_lectura_md5_MSG2="ປິດການອ່ານ md5 ເມື່ອສ້າງຮູບພາບ .iso"
+comprobar_lectura_md5_MSG3="ເມນູກ່ອນໜ້າ"
+comprobar_lectura_md5_MSG4="ການກຳນົດຄ່າປັດຈຸບັນ:"
+comprobar_lectura_md5_MSG5="ເປີດໃຊ້ແລ້ວ"
+comprobar_lectura_md5_MSG6="ປິດການໃຊ້ງານ"
+# Resultado del traductor
+comprobar_lectura_md5_MSG7="ອ່ານ md5 sum activated"
+# Resultado del traductor
+comprobar_lectura_md5_MSG8="ອ່ານ md5 sum disabled"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="ຊື່ຂອງຮູບ iso ບໍ່ສາມາດອ່ານໄດ້"
+leer_md5sum_MSG2="ການອ່ານ md5sum ຂອງ"
+leer_md5sum_MSG3="ກຳລັງສະແດງຜົນລວມ md5 ຂອງຮູບ"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="ການສ້າງຮູບພາບ CD"
+extraer_isoCD_dd_MSG2="ຮູບພາບທີ່ສ້າງຂຶ້ນໃນ"
+extraer_isoCD_dd_MSG3="ບໍ່ພົບ"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="ການສ້າງຮູບພາບ DVD"
+extraer_isoDVD_dd_MSG2="ແລ່ນ"
+extraer_isoDVD_dd_MSG3="ຮູບພາບທີ່ສ້າງຂຶ້ນໃນ"
+extraer_isoDVD_dd_MSG4="ບໍ່ພົບ"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="ແລ່ນ"
+# Resultado del traductor
+extraer_iso_readcd_MSG2="IMAGE ສ້າງສຳເລັດແລ້ວ"
+extraer_iso_readcd_MSG3="ຮູບພາບທີ່ສ້າງຂຶ້ນໃນ"
+extraer_iso_readcd_MSG4="ການຍົກເລີກຂະບວນການບັນທຶກ..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="CD ທີ່ຕິດຢູ່"
+extraer_iso_mkisofs_MSG2="ກຳລັງສ້າງຮູບ..."
+extraer_iso_mkisofs_MSG3="ເປີດການນຳໃຊ້ຄວາມເຂົ້າກັນໄດ້ຂອງ Macintosh"
+extraer_iso_mkisofs_MSG4="ການນໍາໃຊ້"
+extraer_iso_mkisofs_MSG5="ແລ່ນ"
+extraer_iso_mkisofs_MSG6="ຮູບພາບທີ່ສ້າງຂຶ້ນໃນໄດເລກະທໍລີ"
+extraer_iso_mkisofs_MSG7="ພະຍາຍາມຂະບວນການຄືນໃໝ່ໂດຍບໍ່ມີການຮອງຮັບ Macintosh"
+extraer_iso_mkisofs_MSG8="ຮູບພາບທີ່ສ້າງຂຶ້ນໃນໄດເລກະທໍລີ"
+extraer_iso_mkisofs_MSG9="mkisofs ຕອບຂໍ້ຜິດພາດທີ່ບໍ່ຮູ້ຈັກໃນເວລາສ້າງ"
+extraer_iso_mkisofs_MSG10="ຈາກ"
+extraer_iso_mkisofs_MSG11="ກວດສອບຄວາມສົມບູນຂອງຂໍ້ມູນ"
+extraer_iso_mkisofs_MSG12="ການຕິດຕັ້ງ"
+extraer_iso_mkisofs_MSG12B="ໃນ"
+extraer_iso_mkisofs_MSG13="genisoimage ສົ່ງຄືນຂໍ້ຜິດພາດທີ່ບໍ່ຮູ້ຈັກໃນເວລາສ້າງ"
+extraer_iso_mkisofs_MSG13B="ຈາກ"
+extraer_iso_mkisofs_MSG14="ບໍ່ພົບ mkisofs ແລະ genisoimage. ກະລຸນາຕິດຕັ້ງ cdrtools ຫຼື cdrkit."
+extraer_iso_mkisofs_MSG15="ບໍ່ສາມາດຕິດໄດ້"
+extraer_iso_mkisofs_MSG16="ສ້າງຮູບພາບສຳເລັດໃນ"
+
+# m_comp_img
+
+m_comp_img_MSG1="ສ້າງຮູບພາບສຳເລັດໃນ"
+m_comp_img_MSG2="ເຈົ້າຕ້ອງການບີບອັດໄຟລ໌ຮູບພາບບໍ?"
+m_comp_img_MSG3="s/y ເພື່ອບີບອັດ; ຂະບວນການຖືກຍົກເລີກດ້ວຍທາງເລືອກອື່ນ."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="ເປີດຕົວຈັດການໄຟລ໌..."
+generar_iso_directorio_MSG2="ໃສ່ຊື່ສໍາລັບ CD/DVD/BD ໃນອະນາຄົດ"
+generar_iso_directorio_MSG3="ກຳລັງສ້າງຮູບ..."
+generar_iso_directorio_MSG4="ເປີດການນຳໃຊ້ຄວາມເຂົ້າກັນໄດ້ຂອງ Macintosh"
+generar_iso_directorio_MSG5="ການນໍາໃຊ້"
+generar_iso_directorio_MSG6="ແລ່ນ"
+generar_iso_directorio_MSG7="ຮູບພາບທີ່ສ້າງຂຶ້ນໃນໄດເລກະທໍລີ"
+generar_iso_directorio_MSG8="ຂະບວນການສ້າງຮູບພາບລົ້ມເຫລວ"
+generar_iso_directorio_MSG9="ການສ້າງຮູບພາບໂດຍບໍ່ມີການເຂົ້າກັນໄດ້ MACINTOSH"
+generar_iso_directorio_MSG10="ບໍ່ພົບ Mkisofs ແລະ genisoimage. ກະລຸນາຕິດຕັ້ງ cdrtools ຫຼື cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="ໃສ່ຊື່ສໍາລັບ DVD/BD ໃນອະນາຄົດ"
+generar_bdv_udf_directorio_MSG2="ລະບຸໄດເລກະທໍລີເພື່ອສ້າງຮູບພາບວິດີໂອ:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="ລະບຸປ້າຍກຳກັບແຜ່ນ:"
+generar_iso_directorio_libburnia_MSG2="ລະບຸໄດເລກະທໍລີເພື່ອສ້າງຮູບພາບ iso-9660:"
+generar_iso_directorio_libburnia_MSG3="ISO9660 ສ້າງສຳເລັດຮູບ!!"
+generar_iso_directorio_libburnia_MSG4="ເກີດຄວາມຜິດພາດໃນການສ້າງຮູບພາບ iso-9660 ດ້ວຍ xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="ໄຟລ໌ ແລະລາຍການທີ່ຈະຮວມຢູ່ໃນຮູບ .iso"
+imagenISO_MSG2="ເລືອກຕົວເລືອກ"
+imagenISO_MSG2B="----------"
+imagenISO_MSG3="ສ້າງຮູບພາບ ISO-9660 ຈາກ CD (ໃຊ້ dd)"
+imagenISO_MSG4="ສ້າງຮູບພາບ ISO-9660 ຈາກດີວີດີ (ໃຊ້ dd)"
+imagenISO_MSG5="ສ້າງຮູບ ISO-9660 ຈາກ CD (ໃຊ້ readcd)"
+imagenISO_MSG6="ສ້າງຮູບພາບ ISO-9660 ຈາກແຜ່ນ CD ຫຼື DVD (ໃຊ້ mkisofs)"
+imagenISO_MSG7="ສ້າງຮູບພາບ ISO-9660 ຈາກຂໍ້ມູນຮາດດິດ (ໃຊ້ mkisofs)"
+imagenISO_MSG8="ເມນູກ່ອນໜ້າ"
+imagenISO_MSG9="ສ້າງຮູບພາບ"
+imagenISO_MSG10="ສ້າງຮູບພາບ ISO-9660 ຈາກຂໍ້ມູນຮາດດິດ (ໃຊ້ xorriso)"
+imagenISO_MSG11="ສ້າງຮູບ iso/udf ຈາກ CD/DVD/BD (ໃຊ້ mkisofs)"
+imagenISO_MSG12="ສ້າງຮູບພາບ iso/udf ຈາກຂໍ້ມູນຮາດດິດ (ໃຊ້ mkisofs)"
+# Resultado del traductor
+imagenISO_MSG13="ISO-9660 FORMATTER ເມນູ"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="ສ້າງຮູບ UDF/ISO ຈາກຂໍ້ມູນຮາດດິດ (ໃຊ້ mkisofs)"
+imagenISO_MSG15="ສ້າງຮູບພາບ UDF/ISO ດ້ວຍການຮອງຮັບ DVD ວິດີໂອ (ໃຊ້ mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="ພິມອຸປະກອນບລັອກແຫຼ່ງທີ່ຮູບພາບຈະຖືກສ້າງຂຶ້ນ"
+imagen_img_MSG2="--------------------------------"
+imagen_img_MSG3="ອຸປະກອນທີ່ລົງທະບຽນໃນ /etc/fstab ແລະ /etc/mtab"
+imagen_img_MSG4="mount ຄໍາສັ່ງອອກ:"
+imagen_img_MSG5="ໃສ່ຊື່ອຸປະກອນ: "
+imagen_img_MSG6="ການສ້າງຮູບພາບ .img ຂອງອຸປະກອນບລັອກ"
+imagen_img_MSG7="ແລ່ນ"
+imagen_img_MSG8="ສ້າງຮູບພາບອຸປະກອນໃນ"
+
+# monta_img
+
+monta_img_MSG1="ISO ຫຼື ext2 ຮູບທີ່ຈະຕິດ."
+monta_img_MSG2="ພິມເສັ້ນທາງໄດເລກະທໍລີທີ່ຮູບທີ່ຈະຕິດຢູ່:"
+monta_img_MSG3="ຮູບພາບ CD ທີ່ຕິດຕັ້ງ:"
+monta_img_MSG4="ຜິດພາດເມື່ອຕັ້ງໄຟລ໌ຮູບ"
+monta_img_MSG5="ບໍ່ພົບ"
+monta_img_MSG6="ບໍ່ມີຈຸດເຊື່ອມຕໍ່"
+monta_img_MSG7="ຄວາມຜິດພາດທີ່ບໍ່ໄດ້ຄາດຫວັງ"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO ຫຼື ext2 ຮູບທີ່ຈະຕັດການເຊື່ອມຕໍ່."
+desmonta_img_MSG2="ຮູບພາບທີ່ຖືກຕັດສິນໃຈ"
+desmonta_img_MSG3="ບໍ່ພົບຮູບທີ່ຕິດຢູ່"
+desmonta_img_MSG4="mount output:"
+desmonta_img_MSG5="ທ່ານສາມາດກໍານົດເສັ້ນທາງໄດເລກະທໍລີຢ່າງແທ້ຈິງຂອງຮູບພາບໄດ້ໂດຍກົງ."
+desmonta_img_MSG6="ເຊັ່ນ: /tmp/lcdgrabimg.iso ຫຼືໄດເລກະທໍລີການຕິດຕັ້ງສໍາລັບຮູບພາບເຊັ່ນ /mnt/lcdgrab"
+desmonta_img_MSG7="ຖ້າບໍ່ລະບຸ, ມັນສາມາດຊອກຫາໄດ້ໂດຍໃຊ້ຕົວຈັດການໄຟລ໌"
+desmonta_img_MSG8="ເປີດຕົວຈັດການໄຟລ໌"
+desmonta_img_MSG9="ລະບຸເສັ້ນທາງຮູບພາບ."
+desmonta_img_MSG10="ຮູບທີ່ຖືກຕັດສິນໄປແລ້ວ"
+desmonta_img_MSG11="ຜິດພາດເມື່ອຖອນການຕິດຕັ້ງຮູບພາບ"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg ຮູບທີ່ຈະປ່ຽນເປັນ .iso"
+nrg_a_iso_MSG2="ໃສ່ເສັ້ນທາງຂອງຮູບພາບ .nrg (Nero Burning ROM) ເພື່ອແປງ"
+nrg_a_iso_MSG3="ກຳລັງປ່ຽນຮູບ..."
+nrg_a_iso_MSG4="ເສັ້ນທາງຂອງແຫຼ່ງທີ່ມາ .nrg ຮູບພາບ"
+nrg_a_iso_MSG5="ບໍ່ມີຢູ່ ຫຼືກົງກັບບັນຊີລາຍການ"
+nrg_a_iso_MSG6="ເສັ້ນທາງບໍ່ຖືກຕ້ອງ."
+nrg_a_iso_MSG7="ມັນເປັນຮູບ ISO-9660 ທີ່ຜ່ານມາ, ມັນຈະບໍ່ຖືກແປງ."
+nrg_a_iso_MSG8="ການສຳເນົາດ້ວຍນາມສະກຸນທີ່ແຕກຕ່າງກັນ..."
+nrg_a_iso_MSG9="ສຳເນົາສຳເລັດແລ້ວ"
+nrg_a_iso_MSG10="ແລ່ນ"
+nrg_a_iso_MSG11="ປ່ຽນຮູບພາບສຳເລັດແລ້ວ"
+nrg_a_iso_MSG12="ຜິດພາດເມື່ອສ້າງຮູບພາບ .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="ສ້າງໄຟລ໌ລາຍລະອຽດ .cue ຈາກຮູບ .bin"
+GenerarArchivocue_MSG2="ໄດເລກະທໍລີທີ່ໃຊ້ງານໃນປະຈຸບັນ"
+GenerarArchivocue_MSG3="ຂຽນພຽງແຕ່ເສັ້ນທາງໄດເລກະທໍລີບ່ອນທີ່"
+GenerarArchivocue_MSG4="ຊອກຫາໄຟລ໌ຮູບພາບ:"
+GenerarArchivocue_MSG5="ໃສ່ຊື່ຂອງຮູບ .bin ທີ່"
+GenerarArchivocue_MSG6="ໄດ້ສ້າງໄຟລ໌ .cue ທີ່ສອດຄ້ອງກັນ"
+GenerarArchivocue_MSG7="ສ້າງໄຟລ໌ລາຍລະອຽດ .cue ສຳເລັດແລ້ວ"
+GenerarArchivocue_MSG8="ຜິດພາດເມື່ອສ້າງໄຟລ໌ລາຍລະອຽດ .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="ແລ່ນ"
+ImagenbincueCDDVD_MSG2="ສ້າງຮູບພາບແຜ່ນ .BIN .CUE ສຳເລັດແລ້ວ"
+

@@ -1,0 +1,23 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLuxembourgish/lcgdrabMenu_API_idiom/lcdgrabUIBD.idiom
+# Menú de Interfaz para la grabación de BD.
+# Traducción experimental al Luxembugués, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_grabar_BD
+
+menu_grabar_BD_MSG0="Menü virdru."
+menu_grabar_BD_MSG1="BLU-RAY DISC OPSCHREIWEN"
+menu_grabar_BD_MSG2="Verbrennt en neien BD-R/BD-RE ISO vun der Festplackdaten"
+menu_grabar_BD_MSG4="ISO/UDF Bild fir op Disk ze brennen."
+menu_grabar_BD_MSG7="Iso-9660/udf Bild op BD-R/BD-RE brennen"
+menu_grabar_BD_MSG8="------------------------ BD - DAT --------------------"
+menu_grabar_BD_MSG9="Den Drive Disk Informatioun weisen"
+menu_grabar_BD_MSG10="Noutwendeg Läschen op BD-RE uwenden"
+
+
+

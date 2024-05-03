@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKorean/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Coreano para el gestor de archivos
+# Traducción experimental, generado con google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* 탐색 옵션 ************************"
+ayuda_gestor_de_archivos_MSG2="파일 시스템을 탐색합니다."
+ayuda_gestor_de_archivos_MSG3="X --> 나가"
+ayuda_gestor_de_archivos_MSG4="A --> 이전 디렉토리"
+ayuda_gestor_de_archivos_MSG5="B --> 다음 디렉토리"
+ayuda_gestor_de_archivos_MSG6="파일 및 디렉터리에 대한 작업."
+ayuda_gestor_de_archivos_MSG7="C --> 파일 복사"
+ayuda_gestor_de_archivos_MSG8="M --> 파일 이동"
+ayuda_gestor_de_archivos_MSG9="CD --> 디렉토리 복사"
+ayuda_gestor_de_archivos_MSG10="MD --> 디렉토리 이동"
+ayuda_gestor_de_archivos_MSG11="파일 및 디렉터리에 대한 작업을 이해합니다."
+ayuda_gestor_de_archivos_MSG12="Z --> 파일 압축"
+ayuda_gestor_de_archivos_MSG13="DZ --> 파일 압축 풀기"
+ayuda_gestor_de_archivos_MSG14="EZ --> .tar.gz 또는 .tar.bz2 패키지 생성"
+ayuda_gestor_de_archivos_MSG15="DEZ --> .tar.gz 또는 .tar.bz2 압축 풀기"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="현재 활성 디렉터리"
+gestor_de_archivos_MSG0B="의 파일"
+gestor_de_archivos_MSG1="=============================== 탐색 옵션 ===================================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> 지원="
+gestor_de_archivos_MSG3="======================================================================="
+gestor_de_archivos_MSG4="옵션을 입력하세요"
+gestor_de_archivos_MSG5="유형 디렉토리"
+gestor_de_archivos_MSG6="소스 파일을 입력하세요"
+gestor_de_archivos_MSG7="대상 파일을 입력하세요"
+gestor_de_archivos_MSG8="파일이 성공적으로 복사되었습니다."
+gestor_de_archivos_MSG9="파일을 복사하는 중 오류가 발생했습니다."
+gestor_de_archivos_MSG10="소스 파일을 입력하세요"
+gestor_de_archivos_MSG11="대상 파일을 입력하세요"
+gestor_de_archivos_MSG12="파일이 성공적으로 이동되었습니다."
+gestor_de_archivos_MSG13="파일을 이동하는 중에 오류가 발생했습니다."
+gestor_de_archivos_MSG14="소스 디렉터리를 입력하세요."
+gestor_de_archivos_MSG15="대상 디렉터리를 입력하세요."
+gestor_de_archivos_MSG16="디렉터리가 성공적으로 복사되었습니다."
+gestor_de_archivos_MSG17="디렉터리를 복사하는 중 오류가 발생했습니다."
+gestor_de_archivos_MSG18="소스 디렉터리를 입력하세요."
+gestor_de_archivos_MSG19="대상 디렉터리를 입력하세요."
+gestor_de_archivos_MSG20="디렉터리가 성공적으로 이동되었습니다."
+gestor_de_archivos_MSG21="디렉터리를 이동하는 중에 오류가 발생했습니다."
+gestor_de_archivos_MSG22="압축할 파일"
+gestor_de_archivos_MSG23="파일 경로 지정"
+

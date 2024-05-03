@@ -1,0 +1,171 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLuxembourgish/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Luxemburgués para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Opnam Gerät als"
+buscar_grabadora_MSG1B="Valid"
+buscar_grabadora_MSG2="Opnam Gerät als"
+buscar_grabadora_MSG2B="Feeler"
+buscar_grabadora_MSG3="D'DVD+-rw-Tools akzeptéieren net datt den Opnamapparat ass"
+buscar_grabadora_MSG4="Fir fäeg sinn DVDen mat den DVD+rw-Tools ze brennen, musst Dir Ären Recorder als Blockapparat spezifizéieren"
+buscar_grabadora_MSG5="Beispill"
+buscar_grabadora_MSG6="oder"
+buscar_grabadora_MSG7="Weist existéierend Systemgeräter an /dev"
+buscar_grabadora_MSG8="Gitt de Blockapparat an deen Ärem DVD Recorder entsprécht"
+buscar_grabadora_MSG9="Keen Recorder Typ oder Optioun gouf uginn."
+buscar_grabadora_MSG10="GERÉIT FIR DE RECORDER KONFIGURERT"
+buscar_grabadora_MSG11="Den Opnamapparat gouf an d'Shell-Ëmfeld exportéiert als"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Méigleche Wäert nëmme valabel fir cdrecord"
+buscar_grabadoralb_MSG2="Déi aktuell Konfiguratioun fir den Recorder ass"
+buscar_grabadoralb_MSG3="Kontrolléieren datt dës Konfiguratioun entsprécht dem Wäert dee vum cdrskin zougewisen ass"
+buscar_grabadoralb_MSG4="Scannen IDE/SCSI Hafen mat cdrskin..."
+buscar_grabadoralb_MSG5="Spezifizéiert den neie Wäert dee mat cdrskin benotzt gëtt:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Gitt en Numm fir déi zukünfteg DVD un:"
+datos_dvd_MSG2="DVD OPSCHREIWEN . . ."
+datos_dvd_MSG3="Benotzen"
+datos_dvd_MSG4="laafen"
+datos_dvd_MSG5="DVD SUCCÉSÉI OPSCHREIWEN!"
+datos_dvd_MSG6="mkisofs oder genisoimage kann net fonnt ginn, installéieren cdrtools oder cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Gitt en Numm fir déi zukünfteg DVD un:"
+datos_dvd_multi_MSG2="DVD OPSCHREIWEN . . ."
+datos_dvd_multi_MSG3="Benotzen"
+datos_dvd_multi_MSG4="laafen"
+datos_dvd_multi_MSG5="DVD SUCCÉSÉI OPSCHREIWEN!"
+datos_dvd_multi_MSG6="mkisofs oder genisoimage kann net fonnt ginn, installéieren cdrtools oder cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="BILDOPSCHREIWEN . . ."
+grabimg_dvd_MSG2="laafen"
+grabimg_dvd_MSG3="! DVD IMAGE SUCCESSFULL OPSCHREIWEN!"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="BILDOPSCHREIWEN OP DVD . . ."
+copia_bin_dvd_MSG2="laafen"
+copia_bin_dvd_MSG3="	BILDFICHE LËSCHEN"
+copia_bin_dvd_MSG4="OPSCHREIWEN FËLLT!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Format a"
+formatear_dvd_MSG2="En neit Format forcéieren fir eng"
+formatear_dvd_MSG3="De Lead-Out Block vun engem ëmsetzen"
+formatear_dvd_MSG4="Formatéieren eng DVD-RW op sequentiell inkrementell"
+formatear_dvd_MSG5="Formatéieren eng DVD-RW op eng limitéiert Iwwerschrëft"
+formatear_dvd_MSG6="Fëllt eng DVD mat Nullen"
+formatear_dvd_MSG7="DVD Informatioun weisen"
+formatear_dvd_MSG8="Menü virdru"
+formatear_dvd_MSG9="Dës Optioun gëtt benotzt fir d'DVD fir d'éischte Kéier ze formatéieren."
+formatear_dvd_MSG10="Wann d'DVD scho formatéiert ass, läscht se d'Donnéeën net."
+formatear_dvd_MSG11="Dës ginn an enger neier Opnam iwwerschriwwen."
+formatear_dvd_MSG12="Fir den Inhalt vun der DVD ze läschen benotzt:"
+formatear_dvd_MSG13="Fëllt eng DVD mat Nullen"
+formatear_dvd_MSG14="Dës Optioun läscht Format an Daten vun der behandelt DVD."
+formatear_dvd_MSG15="laafen"
+formatear_dvd_MSG16="DVD+RW/DVD-RW SUCCÉISST FORMATERT !"
+formatear_dvd_MSG17="FEELER WANN D'DVD Formatéiert"
+formatear_dvd_MSG18="Format op DVD+RW Disc forcéieren..."
+formatear_dvd_MSG19="DVD+RW SUCCESS FORMATTERT!"
+formatear_dvd_MSG20="Feeler WANN Dir DVD+RW formatéiert"
+formatear_dvd_MSG21="Dës Optioun beaflosst net d'Donnéeën déi op der DVD+RW gespäichert sinn"
+formatter_dvd_MSG22="Lead-out Block vun DVD+RW ewechhuelen..."
+formatear_dvd_MSG23="Formatéieren DVD-RW Disk op sequenziell Schreiwen..."
+formatear_dvd_MSG24="DVD-RW SUCCESS FORMATTERT!"
+formatear_dvd_MSG25="FEELER WANN D'DVD-RW FORMATÉIERT"
+formatear_dvd_MSG26="Formatéieren DVD-RW Scheif op limitéiert Iwwerschreiwe..."
+formatear_dvd_MSG27="REWRITABLE DVD läschen"
+
+# null_dvd
+
+null_dvd_MSG1="Schreift op Disk vun /dev/null . . ."
+null_dvd_MSG2="laafen"
+null_dvd_MSG3="PROCESS KOMPLETT"
+null_dvd_MSG4="UNERWACHT ERROR"
+
+# dvd_video
+
+dvd_video_MSG1="Wee wou d'VIDEO_TS an AUDIO_TS Verzeichnisser sinn:"
+dvd_video_MSG2="Spezifizéiert de Wee wou d'VIDEO_TS an AUDIO_TS Verzeichnisser sinn:"
+dvd_video_MSG3="laafen"
+dvd_video_MSG4="--- SUCCESSÉI OPSCHREIWEN DVD-VIDEO ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="laafen"
+dvd_copia_bin_MSG2="	BILDFICHE LËSCHEN"
+dvd_copia_bin_MSG3="En Aschreiwungsfeeler ass geschitt"
+
+# dvd_datos
+
+dvd_datos_MSG1="Dateien an Verzeichnisser fir den .iso Bild ze kreéieren"
+dvd_datos_MSG2="DVD LABEL"
+dvd_datos_MSG3="Gitt en Numm fir déi zukünfteg DVD un:"
+dvd_datos_MSG4="Fichiermanager starten:"
+dvd_datos_MSG5="	BILD CREATING . . ."
+dvd_datos_MSG6="laafen"
+dvd_datos_MSG7="ISO-9660 BILD ERSCHAFFT"
+dvd_datos_MSG8="	DVD OPSCHREIWEN"
+dvd_datos_MSG13="BILD LËSCHEN..."
+
+# dvd_borra
+
+dvd_borra_MSG1="laafen"
+dvd_borra_MSG2="OPTISK DISK SUCCESSFULL FORMATERT"
+dvd_borra_MSG3="FEELER WANN OPTISCHEN DISK FORMATÉIERT"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="lafen"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="Lafen"
+formatearCDDVDBD_MSG2="OPTISK DISK SUCCESSFULL FORMATERT"
+formatearCDDVDBD_MSG3="FEELER WANN OPTISCHEN DISK FORMATERT"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW erfollegräich formatéiert!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Feeler beim Formatéiere vun DVD-RW fir limitéiert Iwwerschreiwe"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW erfollegräich formatéiert!!"
+formatearDVDRW_incremental_secuencial_MSG2="Feeler beim Formatéiere vun DVD-RW op sequentiell inkrementell"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Spezifizéiert de Wee vum ISO-9660 Bild fir ze brennen:"
+cdrskinisocddvd_MSG2="ISO BILD SUCCESS OPSCHREIWEN!!"
+cdrskinisocddvd_MSG3="Feeler beim Ophuelen vum Bild"
+

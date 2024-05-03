@@ -1,0 +1,32 @@
+# Idioma Checo para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+# Traducción experimental, generado con Google Translate
+
+# presskey
+
+presskey_MSG1="Pokračujte stisknutím ENTER..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="====================================="
+cabecera_lightscribe_MSG2="PODPORA LIGHTSCRIBE LINUX-CDGRAB 1.0."
+cabecera_lightscribe_MSG3="====================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Zadejte cestu k obrázku, který chcete vytisknout na disk:"
+imprimir_disco_lightscribe_MSG2="Formát obrázku musí být .bmp"
+imprimir_disco_lightscribe_MSG3="běh"
+imprimir_disco_lightscribe_MSG4="Štítek vytištěný na disku"
+imprimir_disco_lightscribe_MSG5="Chyba při tisku štítku na disk"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="Technologie LightScribe je přítomna pouze na některých jednotkách"
+lingr10lightscribepatch_MSG2="Měli byste zkontrolovat, zda jej váš rekordér má."
+lingr10lightscribepatch_MSG3="Stejně tak pouze speciální CD nebo DVD mohou být označeny pro LightScribe"
+lingr10lightscribepatch_MSG4="Vytisknout disk LightScribe"
+lingr10lightscribepatch_MSG5="Předchozí nabídka"
+lingr10lightscribepatch_MSG6="Neplatná možnost"
+

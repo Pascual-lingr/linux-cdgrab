@@ -1,0 +1,95 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Lao, generado con Google Translator.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="ເລືອກສ່ວນຕິດຕໍ່ຜູ້ໃຊ້ທີ່ຈະໃຊ້:"
+SeleccionaIUDVD_MSG2="ໃຊ້ການໂຕ້ຕອບສຳລັບ dvd+-rw-tools"
+SeleccionaIUDVD_MSG3="ໃຊ້ການໂຕ້ຕອບສຳລັບ cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="ໃຊ້ການໂຕ້ຕອບສຳລັບ libburnia"
+SeleccionaIUDVD_MSG5="ເມນູກ່ອນໜ້າ"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="ບັນທຶກໃສ່ DVD"
+# Resultado del traductor
+menugrabar_dvd_MSG2="----------------- DVD - DATA ------------------"
+menugrabar_dvd_MSG3="ສຳເນົາ DVD ຂໍ້ມູນ ISO-9660"
+menugrabar_dvd_MSG4="ສ້າງ​ຮູບ​ພາບ DVD ຜ່ານ​ມາ​ໃນ​ຮາດ​ດິດ"
+menugrabar_dvd_MSG5="ໄຫມ້ DVD ຂໍ້ມູນ ISO-9660 ໃໝ່"
+# Resultado del traductor
+menugrabar_dvd_MSG6="ເພີ່ມເຊດຊັນຂໍ້ມູນໃໝ່ໃສ່ ISO-9660 data DVD (multisession DVD)"
+menugrabar_dvd_MSG7="ຕ້ອງການ DVD ທີ່ບັນທຶກໄວ້ໃນເມື່ອກ່ອນໂດຍໃຊ້ຕົວເລືອກທີສອງ"
+menugrabar_dvd_MSG8="ເຜົາຮູບຂໍ້ມູນ ISO-9660 ເປັນ DVD"
+menugrabar_dvd_MSG9="ເຜົາຮູບ .ext2 ເປັນ DVD"
+# Resultado del traductor
+menugrabar_dvd_MSG10="----------------- DVD - VIDEO ------------------"
+menugrabar_dvd_MSG11="ໄຫມ້ວິດີໂອດີວີດີໃຫມ່"
+menugrabar_dvd_MSG12="--------------- ທາງເລືອກອື່ນ -----------------"
+menugrabar_dvd_MSG13="ຈັດຮູບແບບ DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="ສະແດງຂໍ້ມູນແຜ່ນດີວີດີ"
+menugrabar_dvd_MSG0="ເມນູກ່ອນໜ້າ"
+menugrabar_dvd_MSGPRINCIPAL="ພິມທາງເລືອກ"
+menugrabar_dvd_MSG15="ໄຟລ໌ ແລະລາຍການທີ່ຈະລວມຢູ່ໃນດີວີດີ"
+menugrabar_dvd_MSG16="ເປີດຕົວຈັດການໄຟລ໌..."
+menugrabar_dvd_MSG17=".iso ຮູບພາບທີ່ຈະໄຫມ້ເປັນ DVD"
+menugrabar_dvd_MSG18="ພິມເສັ້ນທາງໄດເລກະທໍລີບ່ອນທີ່ຮູບພາບ .iso ທີ່ທ່ານຕ້ອງການຈະໄຫມ້ຢູ່"
+menugrabar_dvd_MSG19="ຕ້ອງການລຸ້ນຂອງ cdrecord ທີ່ຮອງຮັບ DVD."
+menugrabar_dvd_MSG20="ການ​ບັນ​ທຶກ​ຮູບ​ພາບ .ext2 ໃນ DVD ຈະ​ຖືກ​ເຮັດ​ດ້ວຍ cdrecord."
+menugrabar_dvd_MSG21="ລຸ້ນ cdrecord ທີ່ມີຢູ່ໃນການຕິດຕັ້ງຂອງທ່ານຄວນ"
+menugrabar_dvd_MSG22="ຮອງຮັບການບັນທຶກດີວີດີ."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="ເລືອກຕົວເລືອກ"
+dvd_clonar_MSG2="--- DISC ສຳເນົາດ້ວຍຮູບຕົວຢ່າງ---"
+dvd_clonar_MSG3="ສຳເນົາຂໍ້ມູນ DVD"
+dvd_clonar_MSG4="ສ້າງ​ຮູບ​ພາບ DVD ຜ່ານ​ມາ​ໃນ​ຮາດ​ດິດ"
+dvd_clonar_MSG5="--- DISC ສຳເນົາຢູ່ໃນຖ້ຽວບິນ ---"
+dvd_clonar_MSG6="ສຳເນົາ DVD ຂໍ້ມູນທັນທີ"
+dvd_clonar_MSG7="Clone DVD ຂໍ້ມູນໄດ້ທັນທີ"
+dvd_clonar_MSG8="ຕົວເລືອກການສຳເນົາການບິນຕ້ອງໃຊ້ສອງໜ່ວຍ optical"
+dvd_clonar_MSG9="ຕິດຕັ້ງຢູ່ໃນຄອມພິວເຕີຂອງເຈົ້າ, ເພາະວ່າຂໍ້ມູນຖືກບັນທຶກໃນຂະນະທີ່"
+# Resultado del traductor
+dvd_clonar_MSG10="ອ່ານໂດຍກົງຈາກ ORIGIN DISK, ຖ້າຄອມພິວເຕີຂອງເຈົ້າມີມັນເທົ່ານັ້ນ"
+dvd_clonar_MSG11="ເຈົ້າຈະບໍ່ສາມາດໃຊ້ສຳເນົາໃນຖ້ຽວບິນໄດ້."
+dvd_clonar_MSG0="ເມນູກ່ອນໜ້າ"
+dvd_clonar_MSG12="ສຳເນົາຂໍ້ມູນດີວີດີ"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="ບັນທຶກໃສ່ດີວີດີ"
+# Resultado del traductor
+menugrabar_DVD_MSG2="------------------ DVD - DATA -------------------"
+menugrabar_DVD_MSG3="ສໍາເນົາຂໍ້ມູນ DVD"
+menugrabar_DVD_MSG4="Bໄຫມ້ DVD ຂໍ້ມູນໃຫມ່"
+menugrabar_DVD_MSG5="ເຜົາຮູບ .iso ຫຼື .ext2 ເປັນ DVD"
+menugrabar_DVD_MSG6="ຮູບແບບ DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="ສະແດງຂໍ້ມູນໃນແຜ່ນດິດ"
+menugrabar_DVD_MSG0="ເມນູກ່ອນໜ້າ"
+menugrabar_DVD_MSGPRINCIPAL="ພິມຕົວເລືອກ"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="ເຜົາຮູບ iso-9660 ເປັນ DVD"
+menugrabar_DVD_libburnia_MSG2="ເຜົາຂໍ້ມູນຈາກຮາດໄດເປັນດີວີດີ"
+menugrabar_DVD_libburnia_MSG3="ຮູບແບບດີວີດີ"
+menugrabar_DVD_libburnia_MSG4="ຮູບແບບ DVD-RW ເປັນການເພີ່ມຕາມລໍາດັບ"
+menugrabar_DVD_libburnia_MSG5="ຮູບແບບ DVD-RW ເພື່ອຂຽນທັບທີ່ຈຳກັດ"
+menugrabar_DVD_libburnia_MSG6="ສະແດງຂໍ້ມູນໄດຣຟ໌"
+menugrabar_DVD_libburnia_MSG8="ລາຍການໄດທີ່ຕິດຕັ້ງຢູ່ໃນລະບົບ"
+menugrabar_DVD_libburnia_MSG0="ອອກ"
+menugrabar_DVD_libburnia_MSG7="ໃສ່ຕົວເລືອກ"
+

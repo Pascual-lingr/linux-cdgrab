@@ -1,0 +1,73 @@
+#########################################################
+# lcgdrabAPI_idiom/ExNorwegian/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabación en CD.
+# Traducción experimental al Noruego, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="VELG ET ALTERNATIV"
+clonar_MSG2="---- PLATEKOPIERINGER MED FORHÅNDSMÅSSBILDE ---"
+clonar_MSG3="Kopier en data-CD"
+clonar_MSG4="Opprett et tidligere CD-bilde på harddisken"
+clonar_MSG5="------------- DISKEKOPIER PÅ FLYEN ------------"
+clonar_MSG6="Kopier en data-CD i farten"
+clonar_MSG7="Klon en data-CD i farten"
+clonar_MSG7B="Kopier en lyd-CD i farten"
+clonar_MSG8="FLYGENDE KOPIALTERNATIVER KREVER TO OPTISKE ENHETER"
+clonar_MSG9="INSTALLERT PÅ DIN DATAMASKIN, SIDEN DATANE ER REGISTRERT MENS"
+clonar_MSG10="LES DIREKTE FRA ORIGIN-DISKEN, HVIS BARE DIN DATAMASKIN HAR"
+clonar_MSG11="ONE VIL IKKE KUNNE BRUKE KOPIANE PÅ FLYT."
+clonar_MSG12B="KOPIERING CD-DATA"
+clonar_MSG0="Forrige meny"
+
+# mgrabacd
+
+mgrabacd_MSG1="CD-DATA FRA HARDDISK"
+mgrabacd_MSG2="Brenn en ny data-CD (bruk cdrtools)"
+mgrabacd_MSG3="Brenn en ny data-CD (bruk libburnia)"
+mgrabacd_MSG4="Forrige meny"
+mgrabacd_MSG5="Skriv inn et alternativ"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="DATABILDEOPPTAK"
+mgrabaimg_MSG2="Brenn iso- eller ext2-bilde til CD-R/RW (bruk cdrtools)"
+mgrabaimg_MSG3="Brenn iso-bilde til CD-R/RW (bruk libburnia)"
+mgrabaimg_MSG4="Forrige meny"
+mgrabaimg_MSG5="Skriv inn et alternativ"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Brenn en lyd-CD fra .wav-filer"
+mgrabararchivosaudio_MSG2="Brenn en lyd-CD fra .mp3-filer"
+mgrabararchivosaudio_MSG3="Brenn en lyd-CD fra .ogg-filer"
+mgrabararchivosaudio_MSG0="Forrige meny"
+mgrabararchivosaudio_MSG0B="Skriv inn et alternativ"
+mgrabararchivosaudio_MSG4="Brenn en lyd-CD fra .flac-filer"
+mgrabararchivosaudio_MSG5="CD-LYDOPPTAK FRA FILER"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="OPPTAK TIL CD"
+menugrabar_cd_MSG2="-------------------- CD - DATA ------------------"
+menugrabar_cd_MSG3="Kopier data-CD"
+menugrabar_cd_MSG4="Brenn en ny data-CD"
+menugrabar_cd_MSG5="Brenn en ny multi-session data CD"
+menugrabar_cd_MSG6="Brenn .iso- eller .ext2-bilde til CD"
+menugrabar_cd_MSG7="Brenn .bin/.cue-bilde til CD"
+menugrabar_cd_MSG8="------------------- CD - AUDIO ------------------"
+menugrabar_cd_MSG9="Rip en lyd-CD"
+menugrabar_cd_MSG13="-------------- ANDRE ALTERNATIVER ---------------"
+menugrabar_cd_MSG14="Brenn en blandet CD (data + lyd)"
+menugrabar_cd_MSG15="Slett en CD-RW"
+menugrabar_cd_MSG16="Lukk åpen CD"
+menugrabar_cd_MSG17="Vis diskinformasjon i stasjonen"
+menugrabar_cd_MSG18="Brenn en lyd-CD fra diskfiler"
+menugrabar_cd_MSG0="Forrige meny"
+menugrabar_cd_MSGPRINCIPAL="Skriv inn et alternativ"
+

@@ -1,0 +1,36 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en Lao para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+# Resultado del traductor
+menu_conversion_audio_MSG1="AUDIO CONVERSION"
+# Resultado del traductor
+menu_conversion_audio_MSG2="------------ CONVERSION ລະຫວ່າງ FORMATS -----------"
+menu_conversion_audio_MSG3="ປ່ຽນ .mp3 ເປັນ .wav"
+menu_conversion_audio_MSG4="ປ່ຽນ .ogg ເປັນ .wav"
+menu_conversion_audio_MSG5="ປ່ຽນ .wav ເປັນ .mp3"
+menu_conversion_audio_MSG6="ປ່ຽນ .wav ເປັນ .ogg"
+menu_conversion_audio_MSG6C="ແປງ .wav ເປັນ .flac"
+menu_conversion_audio_MSG6B="ປ່ຽນ .flac ເປັນ .wav"
+# Resultado del traductor
+menu_conversion_audio_MSG7="---------- EXTRACTING AUDIO TRACKS ---------"
+menu_conversion_audio_MSG8="ຕັດແຜ່ນສຽງເປັນ .wav"
+menu_conversion_audio_MSG9="ຕັດຊຸດເພງສຽງເປັນ .wav"
+menu_conversion_audio_MSG10="ຕັດແຜ່ນສຽງເປັນ .mp3"
+menu_conversion_audio_MSG11="ຕັດແຜ່ນສຽງເປັນ .ogg"
+menu_conversion_audio_MSG0="ເມນູກ່ອນໜ້າ"
+menu_conversion_audio_MSG12="ຊອກຫາໄຟລ໌ .mp3"
+menu_conversion_audio_MSG13="ຊອກຫາໄຟລ໌ .ogg"
+menu_conversion_audio_MSG14="ຊອກຫາໄຟລ໌ .wav"
+menu_conversion_audio_MSG15="---------------- ການດໍາເນີນງານອື່ນໆ ---------------"
+menu_conversion_audio_MSG16="ຕັດໄຟລ໌ສຽງ .wav"
+menu_conversion_audio_MSG17="ຕັດແຜ່ນສຽງເປັນ .flac"
+

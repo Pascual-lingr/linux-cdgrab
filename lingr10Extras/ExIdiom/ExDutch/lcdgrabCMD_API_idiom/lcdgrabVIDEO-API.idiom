@@ -1,0 +1,56 @@
+#########################################################
+# lcgdrabAPI_idiom/ExDutch/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en Neerlandés para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="VIDEO CONVERSIE BLU-RAY DISC COMPATIBILITEIT"
+conv_video_BDVideo_MSG2="Geef het pad op van het videobestand dat u wilt converteren:"
+conv_video_BDVideo_MSG3="Geef de bestandsnaam op van de nieuwe video die u wilt maken:"
+conv_video_BDVideo_MSG4="Videobestand succesvol geconverteerd!!"
+conv_video_BDVideo_MSG5="Fout bij converteren videobestand"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="CONVERSIE VIDEOBESTANDEN"
+conv_VideoFich_MSG2="Specificeer het videobestand dat u wilt converteren:"
+conv_VideoFich_MSG3="Specificeer het videobestand dat u wilt genereren:"
+conv_VideoFich_MSG4="CONVERSIE VAN VIDEOBESTANDEN VOLTOOID"
+conv_VideoFich_MSG5="FOUT BIJ HET CONVERTEREN VAN VIDEOBESTAND"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Specificeer het videobestand:"
+extrae_Audio_de_Video_MSG2="Specificeer het mp3-geluidsbestand dat u wilt genereren:"
+extrae_Audio_de_Video_MSG3="GELUIDSEXTRACTIE SUCCESVOL"
+extrae_Audio_de_Video_MSG4="FOUT BIJ HET EXTRACEREN VAN GELUID"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Specificeer het videobestand:"
+extrae_Fragmento_Video_MSG2="Specificeer het videobestand dat u wilt genereren:"
+extrae_Fragmento_Video_MSG3="Specificeer de initiële tijd (specificeer als HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Geef de eindtijd op (specificeer als HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="VIDEO SUCCESVOL BIJGESNIJD"
+extrae_Fragmento_Video_MSG6="FOUT BIJ HET TRIMMEN VAN VIDEO"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Specificeer het geluidsbestand:"
+mezcla_Audio_Video_MSG2="Specificeer het videobestand:"
+mezcla_Audio_Video_MSG3="Specificeer het videobestand dat u wilt genereren:"
+mezcla_Audio_Video_MSG4="NIEUW VIDEOBESTAND SUCCESVOL GEGENEREERD"
+mezcla_Audio_Video_MSG5="FOUT BIJ GEGENEREERD VIDEOBESTAND"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="OPTIE NIET BESCHIKBAAR VOOR CONSOLE-INTERFACE"
+graba_escritorio_MSG2="-- BUREAUBLAD SESSIE OPNEMEN -- DRUK OP CTRL + C OM DE OPNAME TE ANNULEREN EN TE STOPPEN"
+graba_escritorio_MSG3="VIDEO-OPNAME VOLTOOID"
+

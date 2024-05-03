@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en húngaro para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Adja meg a fájl vagy könyvtár elérési útját:"
+empaquetar_MSG2="------- Lehetőségek -------"
+empaquetar_MSG3=".tar.gz fájl létrehozása"
+empaquetar_MSG4=".tar.bz2 fájl létrehozása"
+empaquetar_MSG5="Írjon be egy beállítást: "
+empaquetar_MSG6="Futás"
+empaquetar_MSG7="Érvénytelen beállítás"
+
+# desempaquetar
+
+desempaquetar_MSG1="Adja meg a fájl elérési útját:"
+desempaquetar_MSG2="NEM TALÁLHATÓ DEKOMPRESSZOR"
+desempaquetar_MSG3="VAGY"
+desempaquetar_MSG4="NEM LÉTEZIK"
+desempaquetar_MSG5="Futás"
+desempaquetar_MSG6="kicsomagolva"
+desempaquetar_MSG7="Hiba a kicsomagolás során"
+
+# comprime
+
+comprime_MSG1="KÉP TÖMÖRÍTÉSE"
+comprime_MSG2="Tömörítés bzip2-vel"
+comprime_MSG3="Tömörítés gzip segítségével"
+comprime_MSG4="Tömörítés xz-vel"
+comprime_MSG5="Előző menü"
+comprime_MSG6="Futás"
+comprime_MSG7="A képfájl tömörítése befejeződött"
+comprime_MSG8="Hiba a tömörítésnél"
+comprime_MSG9="Érvénytelen tömörítő"
+
+# descomprime
+
+descomprime_MSG1="Írja be a fájl elérési útját:"
+descomprime_MSG2="-----------------------------"
+descompress_MSG3="NEM TALÁLHATÓ DEKOMPRESSZOR"
+descomprime_MSG4="VAGY"
+descomprime_MSG5="NEM LÉTEZIK"
+descomprime_MSG6="Futás"
+descomprime_MSG7="tömörítetlen"
+descomprime_MSG8="Hiba a kicsomagolás során"
+

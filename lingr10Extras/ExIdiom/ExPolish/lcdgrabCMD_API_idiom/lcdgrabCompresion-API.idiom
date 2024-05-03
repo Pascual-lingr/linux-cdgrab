@@ -1,0 +1,55 @@
+#########################################################
+# lcdgrabAPI_idiom/ExPolish/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en polaco para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Podaj ścieżkę pliku lub katalogu:"
+empaquetar_MSG2="------- Opcje -------"
+empaquetar_MSG3="Generuj plik .tar.gz"
+empaquetar_MSG4="Generuj plik .tar.bz2"
+empaquetar_MSG5="Wpisz opcję: "
+empaquetar_MSG6="Uruchomiony"
+empaquetar_MSG7="Nieprawidłowa opcja"
+
+# desempaquetar
+
+desempaquetar_MSG1="Wprowadź ścieżkę pliku:"
+desempaquetar_MSG2="NIE ZNALEZIONO ŻADNEGO DEKOMPRESORA"
+desempaquetar_MSG3="LUB"
+desempaquetar_MSG4="NIE ISTNIEJE"
+desempaquetar_MSG5="Uruchamianie"
+desempaquetar_MSG6="rozpakowano"
+desempaquetar_MSG7="Błąd przy próbie rozpakowania"
+
+# comprime
+
+comprime_MSG1="KOMPRESOWANIE OBRAZU"
+comprime_MSG2="Kompresuj za pomocą bzip2"
+comprime_MSG3="Kompresuj za pomocą gzipa"
+comprime_MSG4="Kompresuj za pomocą xz"
+comprime_MSG5="Poprzednie menu"
+comprime_MSG6="Uruchamianie"
+comprime_MSG7="Kompresja pliku obrazu została zakończona"
+comprime_MSG8="Błąd podczas kompresji z"
+comprime_MSG9="Nieprawidłowy kompresor"
+
+# descomprime
+
+descomprime_MSG1="Wpisz ścieżkę pliku:"
+descomprime_MSG2="--------------------"
+descompress_MSG3="NIE ZNALEZIONO ŻADNEGO DEKOMPRESora"
+descomprime_MSG4="LUB"
+descomprime_MSG5="NIE ISTNIEJE"
+descompress_MSG6="Uruchamianie"
+descomprime_MSG7="nieskompresowany"
+descomprime_MSG8="Błąd podczas próby dekompresji"
+
+
+

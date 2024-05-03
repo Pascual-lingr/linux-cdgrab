@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLuxembourgish/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Luxemburgués para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3 FILES TO CONVERTER"
+mp3awav_MSG0="Gitt de Wee vun den .mp3 Dateien an: "
+mp3awav_MSG1="CONVERTEREN"
+mp3awav_MSG1B=" BIS .wav FORMAT"
+mp3awav_MSG2="laafen"
+mp3awav_MSG3="Sampling op 44100 Mhz gesat"
+mp3awav_MSG4="Feeler beim Veraarbechtung vun der Probe"
+mp3awav_MSG5="Konvertéieren net fäerdeg"
+mp3awav_MSG6="Verzeichnis net fonnt"
+mp3awav_MSG7="END OF AUDIO CONVERSION"
+mp3awav_MSG8="Audiodatei normaliséieren"
+mp3awav_MSG9="Datei"
+mp3awav_MSG10="Normaliséiert"
+mp3awav_MSG11="Normaliséierungsfehler"
+
+# oggawav
+
+oggawav_MSG0="OGG FILES TO CONVERTER"
+oggawav_MSG1="Gitt de Wee vun den .ogg Dateien an: "
+oggawav_MSG2="CONVERTEREN"
+oggawav_MSG2B="A .wav FORMAT"
+oggawav_MSG3="laafen"
+oggawav_MSG4="Sampling op 44100 Mhz gesat"
+oggawav_MSG5="Feeler beim Veraarbechtung vun der Probe"
+oggawav_MSG6="Konvertéieren net fäerdeg"
+oggawav_MSG7="Verzeichnis net fonnt"
+oggawav_MSG8="END OF AUDIO COVERAGE"
+oggawav_MSG9="Audiodatei normaliséieren"
+oggawav_MSG10="Datei"
+oggawav_MSG11="Normaliséiert"
+oggawav_MSG12="Normaliséierungsfehler"
+
+# cdawav
+
+cdawav_MSG1="AUDIO CD RIPPEN..."
+cdawav_MSG2="Ausféieren:"
+cdawav_MSG3="SUCCESSFULL RIPED AUDIO TRACKS!!"
+cdawav_MSG4="Inhalter vun den Audiodateienverzeichnis"
+cdawav_MSG5="Feeler WANN AUDIO TRACKS RIPING"
+
+# cddawav
+
+cddawav_MSG1="GEE D'UZUEL VUN DE TRACKS FIR RIP:"
+cddawav_MSG2="Dréckt Crtl + c fir d'Rippen vun enger Streck ze annuléieren"
+cddawav_MSG3="Ausféieren:"
+cddawav_MSG4="SUCCESSFULL RIPPED"
+cddawav_MSG5="FEILER RIPPING"
+
+# wavamp3
+
+wavamp3_MSG0="WAV-Dateien fir ze konvertéieren"
+wavamp3_MSG1="Gitt de Wee vun den .wav Dateien an: "
+wavamp3_MSG1B="CONVERTING"
+wavamp3_MSG2="A FORMAT"
+wavamp3_MSG3="Ausféieren:"
+wavamp3_MSG4="wann Dir konvertéiert"
+wavamp3_MSG5="zu .MP3 Format"
+wavamp3_MSG6="Fehler beim Ëmwandlung"
+wavamp3_MSG7="AUDIOCONVERSION KOMPLETT"
+wavamp3_MSG8="AUDIO DIRECTORY NET FOND"
+
+# cdamp3
+
+cdamp3_MSG1="AUDIO CD RIPPEN..."
+cdamp3_MSG2="Ausféieren:"
+cdamp3_MSG3="SUCCESSFULL RIPED AUDIO TRACKS!!"
+cdamp3_MSG4="Feeler WANN RIPPING AUDIO TRACKS"
+cdamp3_MSG5="Urufffunktioun:"
+
+# wavaogg
+
+wavaogg_MSG1="Gitt de Wee vun den .wav Dateien an: "
+wavaogg_MSG2="CONVERTING"
+wavaogg_MSG3="A .ogg FORMAT"
+wavaogg_MSG4="Lafen:"
+wavaogg_MSG5="Fehler beim Ëmwandlung"
+wavaogg_MSG6="zu .ogg Format"
+
+# cdaogg
+
+cdaogg_MSG1="AUDIO CDen RIPPEN..."
+cdaogg_MSG2="Ausféieren:"
+cdaogg_MSG3="SUCCESSFULL RIPED AUDIO TRACKS!!"
+cdaogg_MSG4="Feeler WANN AUDIO TRACKS RIPING"
+cdaogg_MSG5="Urufffunktioun:"
+
+# corta_wav
+
+corta_wav_MSG0="Zuel vu Sekonnen:"
+corta_wav_MSG1="Spezifizéiert de Wee vun der Audiodatei fir ze konvertéieren:"
+corta_wav_MSG2="Spezifizéiert d'Zäit an Zuel vu Sekonnen, fir déi"
+corta_wav_MSG3="Ausschneiden vun der Datei fänkt un."
+corta_wav_MSG4="-NOTE-"
+corta_wav_MSG5="Fir den Ufank vum Audio ze spezifizéieren, gitt 0"
+corta_wav_MSG6="Wäert a Sekonnen fir d'Konversioun unzefänken:"
+corta_wav_MSG7="Spezifizéiert d'Zäit an Zuel vu Sekonnen, fir déi"
+corta_wav_MSG8="Ausschneiden vun der Datei gëtt ofgeschloss."
+corta_wav_MSG9="Wäert a Sekonnen fir d'Enn vun der Konversioun:"
+corta_wav_MSG10="Lafen"
+corta_wav_MSG11="Triméiert Audiodatei"
+corta_wav_MSG12="Feeler beim Trimmen vum Fichier"
+corta_wav_MSG13="Audiodatei fir ze trimmen:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1="De Wee vun den .flac Dateien uginn:"
+flacawav_MSG2="CONVERTEREN"
+flacawav_MSG3=" BIS .wav FORMAT"
+flacawav_MSG4="Sampling op 44100 Mhz gesat"
+flacawav_MSG5="Feeler beim Veraarbechtung vun der Probe"
+flacawav_MSG6="Audiodatei normaliséieren"
+flacawav_MSG7="Fichier"
+flacawav_MSG8="Normaliséiert"
+flacawav_MSG9="Normaliséierungsfehler"
+flacawav_MSG10="Konvertéieren net fäerdeg"
+flacawav_MSG11="Verzeichnis net fonnt"
+flacawav_MSG12="END OF AUDIO CONVERSION"
+
+# wavaflac
+
+wavaflac_MSG0="WAV-Dateien fir ze konvertéieren"
+wavaflac_MSG1="Gitt de Wee vun den .wav Dateien an: "
+wavaflac_MSG2="CONVERTEREN"
+wavaflac_MSG3="A .flac FORMAT"
+wavaflac_MSG4="op Flac-Format ëmgewandelt"
+wavaflac_MSG5="Feeler beim Ëmwandlung"
+wavaflac_MSG6="zu .flac Format"
+wavaflac_MSG7="FLAC FILE DIRECTORY NET FOND"
+

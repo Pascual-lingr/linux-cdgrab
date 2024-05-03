@@ -1,0 +1,55 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLuxembourgish/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en Luxemburgués para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="VIDEO CONVERSION BLU-RAY DISC KOMPATIBILITET"
+conv_video_BDVideo_MSG2="Spezifizéiert de Wee vun der Videodatei fir ze konvertéieren:"
+conv_video_BDVideo_MSG3="Spezifizéiert den Dateinumm vum neie Video fir ze kreéieren:"
+conv_video_BDVideo_MSG4="Video Datei erfollegräich ëmgerechent!!"
+conv_video_BDVideo_MSG5="Feeler beim Ëmwandlung vun der Videodatei"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="CONVERSION VIDEO FILES"
+conv_VideoFich_MSG2="Spezifizéiert d'Videodatei fir ze konvertéieren:"
+conv_VideoFich_MSG3="Spezifizéiert d'Videodatei fir ze generéieren:"
+conv_VideoFich_MSG4="VIDEO FILE CONVERSION OFTEGEN"
+conv_VideoFich_MSG5="Feeler WANN DE VIDEO FILE KONVERTÉIERT"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Videodatei spezifizéieren:"
+extrae_Audio_de_Video_MSG2="Spezifizéiert d'MP3 Sounddatei fir ze generéieren:"
+extrae_Audio_de_Video_MSG3="SOUND EXTRACTION SUCCESSFULL"
+extrae_Audio_de_Video_MSG4="FEELER WANN EXTRAKTIOUN SOUND"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Videodatei spezifizéieren:"
+extrae_Fragmento_Video_MSG2="Spezifizéiert d'Videodatei fir ze generéieren:"
+extrae_Fragmento_Video_MSG3="Spezifizéiere vun der initialer Zäit (Spezifizéiert als HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Endzäit spezifizéiert (Spezifizéiert als HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="VIDEO SUCCÉSÉS GÉNÉIERT"
+extrae_Fragmento_Video_MSG6="FEELER WANN VIDEO TRIMMEN"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="D'Toundatei spezifizéieren:"
+mezcla_Audio_Video_MSG2="Videodatei spezifizéieren:"
+mezcla_Audio_Video_MSG3="Spezifizéiert d'Videodatei fir ze generéieren:"
+mezcla_Audio_Video_MSG4="NEIE VIDEO FILE SUCCESSFULL GENERÉIERT"
+mezcla_Audio_Video_MSG5="Feeler beim Generéiere vun engem VIDEO FILE"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="OPTION NET DISPONIBEL FIR CONSOLE INTERFACE"
+graba_escritorio_MSG2="-- OPSCHREIWEN DESKTOP SESSION -- Dréckt CTRL + C FIR ANNULÉIEREN AN OPSCHREIWEN STOPPE"
+graba_escritorio_MSG3="VIDEOOPSCHREIWEN FËLLT"

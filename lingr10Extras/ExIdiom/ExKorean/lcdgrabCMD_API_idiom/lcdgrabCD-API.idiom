@@ -1,0 +1,182 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKorean/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Coreano para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="달리기"
+copia_bin_MSG2="--------------녹음 과정을 다시 시도하는 중---------------"
+copia_bin_MSG3="	이미지 파일 삭제 중"
+copia_bin_MSG4="녹화에 오류가 발생했습니다"
+copia_bin_MSG5="디스크 .iso 이미지 덤프 파일을 찾을 수 없습니다. 녹화를 중단하는 중..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="달리기"
+datos_al_vuelo_MSG2="녹화 시도가 실패했습니다. 오버버닝 지원 없이 다시 시도하는 중입니다."
+datos_al_vuelo_MSG3="소스 디스크나 장치가"
+datos_al_vuelo_MSG4="상태는 양호해요"
+datos_al_vuelo_MSG5="소스 디스크에서 리드아웃 블록 번호를 얻는 중"
+datos_al_vuelo_MSG6="디스크 복사 중 ..."
+
+# clonar_cd
+
+clonar_cd_MSG1="달리기"
+clonar_cd_MSG2="CD가 성공적으로 복제되었습니다."
+clonar_cd_MSG3="CD를 복제할 때 오류가 발생했습니다."
+
+# datos
+
+datos_MSG2="CD/DVD/BD 라벨"
+datos_MSG3="향후 CD/DVD/BD의 이름을 입력하세요:"
+datos_MSG4="파일 관리자 실행 중:"
+datos_MSG5="이미지 생성 중 . . ."
+datos_MSG6="달리기"
+datos_MSG7="ISO-9660 이미지 생성 위치"
+datos_MSG8="CD/DVD/BD 굽는 중"
+datos_MSG9="이미지 파일 생성 과정이 실패했습니다"
+datos_MSG10="HFS를 지원하지 않고 새로운 것을 생성하려고 재시도 중입니다(Macintosh)"
+datos_MSG11="이미지 삭제 중 . . ."
+datos_MSG12="새 이미지 생성 중 . . ."
+datos_MSG13="올바른 녹음이 불가능했습니다."
+datos_MSG14="------------녹화 과정을 다시 시도하는 중----------"
+datos_MSG15="이미지 삭제..."
+datos_MSG16="ISO-9660 데이터 CD/DVD/BD 굽는 중..."
+datos_MSG17="찾을 수 없습니다."
+datos_MSG18="디스크 녹화를 중단하는 중..."
+
+# datoslb
+
+datoslb_MSG1="실수: 이미지 파일을 찾을 수 없습니다. 중단 중..."
+datoslb_MSG2="녹음 프로세스 정상"
+datoslb_MSG3="녹음 과정에서 오류가 발생했습니다."
+
+# borra
+
+borra_MSG0="이전 메뉴"
+borra_MSG1="CD-RW를 지울 모드를 선택하세요"
+borra_MSG2="---------"
+borra_MSG3="빠른 삭제(cdrecord 사용)"
+borra_MSG4="삭제 완료(cdrecord 사용)"
+borra_MSG5="삭제 필요(cdrskin 사용)"
+borra_MSG6="실행 중"
+borra_MSG7="디스크 상태에 따라 필요한 포맷이나 삭제가 적용됩니다."
+borra_MSG8="CD-RW가 성공적으로 삭제되었습니다!!"
+borra_MSG9="CD-RW 삭제 시 오류가 발생했습니다."
+borra_MSG10="CD-RW 강제 삭제"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="CD-RW를 지우려고 할 때 오류가 발생했습니다."
+err_borra_cdrw_MSG2="CD-RW를 사용할 수 없습니다."
+err_borra_cdrw_MSG3="이 CD-RW는 삭제할 수 없습니다."
+err_borra_cdrw_MSG4="CD-RW가 물리적 손상이 아닌지 확인하세요."
+
+# cerrar_cd
+
+cerrar_cd_MSG1="달리기"
+cerrar_cd_MSG2="CD가 올바르게 닫혔습니다."
+cerrar_cd_MSG3="CD를 닫을 때 오류가 발생했습니다."
+cerrar_cd_MSG4="데이터 CD의 트랙을 닫는 중..."
+
+# grabimg
+
+grabimg_MSG1="CD/DVD에 구울 .iso 또는 .ext2 이미지"
+grabimg_MSG2="파일 관리자를 시작하는 중입니다."
+grabimg_MSG3="구울 CD/DVD 이미지가 있는 전체 경로를 입력하세요:"
+grabimg_MSG4="달리기"
+grabimg_MSG5="------------녹화 과정을 재시도하는 중----------"
+grabimg_MSG6="녹화 완료!!"
+grabimg_MSG7="이미지 .EXT2가 성공적으로 기록되었습니다."
+
+# grabimglb
+
+grabimglb_MSG1="구울 CD/DVD 이미지가 있는 전체 경로를 입력하세요:"
+grabimglb_MSG2="이미지를 디스크에 굽는 중..."
+grabimglb_MSG3="ISO-9660 이미지가 성공적으로 기록되었습니다"
+grabimglb_MSG4="ISO-9660 이미지를 기록하는 중 오류가 발생했습니다"
+grabimglb_MSG5="오류: 이미지 파일을 찾을 수 없습니다. 중단하는 중..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1="이미지를 구울 .bin 및 .cue 파일"
+grabimg_cue_MSG2="빈/큐 이미지를 기록하려면 두 파일 모두 다음과 같아야 합니다."
+grabimg_cue_MSG3="활성 디렉터리에 있어야 합니다."
+grabimg_cue_MSG4="현재 활성 디렉터리"
+grabimg_cue_MSG5="*.bin 이미지 파일을 참조하는 *.cue 파일의 이름을 입력하세요."
+grabimg_cue_MSG6=".cue 파일: "
+grabimg_cue_MSG7="달리기"
+grabimg_cue_MSG8="녹화 완료!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1=".iso 이미지에서 CD 멀티세션 굽기"
+cd_multi_MSG2=".iso 이미지에서 CD에 첫 번째 세션 굽기"
+cd_multi_MSG3="디스크의 파일에서 CD 멀티세션 굽기"
+cd_multi_MSG4="하드 드라이브의 파일에서 CD에 연속 세션을 기록합니다."
+cd_multi_MSG5="이 옵션을 사용하려면 이전에 녹음된 세션이 포함된 멀티 세션 CD가 필요합니다."
+cd_multi_MSG6="이전 메뉴"
+cd_multi_MSG7="CD 멀티세션에 구울.iso 이미지"
+cd_multi_MSG8=".iso 이미지의 경로를 지정하세요"
+cd_multi_MSG9="달리기"
+cd_multi_MSG10="멀티세션 CD가 성공적으로 녹음되었습니다!!"
+cd_multi_MSG11="이미지에 포함할 디렉터리입니다."
+cd_multi_MSG12="포함할 디렉터리를 아래에 지정하세요."
+cd_multi_MSG13="CD 라벨 이름을 입력하세요:"
+cd_multi_MSG14="이미지 생성 중..."
+cd_multi_MSG15="성공적으로 생성되었습니다"
+cd_multi_MSG16="이미지 생성 시 오류가 발생했습니다. 녹음 프로세스를 중단하는 중..."
+cd_multi_MSG17="CD 이미지 굽는 중..."
+cd_multi_MSG18="메뉴 CD 멀티세션"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="오디오 CD 추출 중..."
+copia_cd_audio_MSG2="달리기"
+copia_cd_audio_MSG3="오디오 트랙이 성공적으로 추출되었습니다!!"
+copia_cd_audio_MSG4="오디오 트랙 추출 시 오류 발생"
+copia_cd_audio_MSG5="오디오 CD 굽는 중..."
+copia_cd_audio_MSG6="오디오 CD가 성공적으로 복사되었습니다!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1="CD로 구울.wav 파일"
+wav_a_cd_MSG2="Linux-cdgrab은 디렉토리 크기를 확인하지 않습니다"
+wav_a_cd_MSG3="경우에 따라 650MB를 넘지 않도록 하세요."
+wav_a_cd_MSG4="80분 CD를 사용하는 경우."
+wav_a_cd_MSG5=".wav 파일의 디렉터리 경로를 입력하세요"
+wav_a_cd_MSG6="달리기"
+wav_a_cd_MSG7="프로세스가 완료되었습니다!"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Mixto 생성 프로젝트(데이터 이미지 .iso + 오디오 파일 .wav)"
+cdmixto_MSG2="Linux-cdgrab은 디렉토리 크기를 확인하지 않습니다"
+cdmixto_MSG3="오디오 파일은 어디에 있나요?"
+cdmixto_MSG4="기록하려는 .iso 이미지에서도 그렇게 하지 않습니다."
+cdmixto_MSG5="이후."
+cdmixto_MSG6="현재 크기와 일관성을 유지하세요"
+cdmixto_MSG7="새 CD에 굽습니다."
+cdmixto_MSG8="오디오 파일의 경로를 지정하십시오:"
+cdmixto_MSG9="ISO 이미지 경로를 지정하세요:"
+cdmixto_MSG10="###############################"
+cdmixto_MSG11="혼합 CD 녹음: 데이터 + 오디오"
+cdmixto_MSG12="달리기"
+cdmixto_MSG13="----혼합-CD가 성공적으로 생성되었습니다-----!!"
+cdmixto_MSG14="------혼합된 CD를 구울 때 오류 발생---------"
+
+# discoinfo
+
+discoinfo_MSG1="달리기"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI 포트 검사됨"
+cdrecord_scan_MSG1="IDE/SCSI 포트 검색 오류"
+cdrecord_scan_MSG2="cdrecord를 찾을 수 없습니다"

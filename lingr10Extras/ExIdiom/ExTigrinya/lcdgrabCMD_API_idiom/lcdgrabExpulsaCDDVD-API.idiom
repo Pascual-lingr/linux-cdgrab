@@ -1,0 +1,16 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTigrinya/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Tigriña para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="ኦፕቲካል ዲስክ ተባሪሩ"
+expulsar_medio_MSG2="ዲስክ ካብ መሳርሒ ከተውጽእ ኣብ እትፍትነሉ እዋን ጌጋ።"
+expulsar_medio_MSG3="እቲ ስም ብኢድካ ኣእቱ:"
+

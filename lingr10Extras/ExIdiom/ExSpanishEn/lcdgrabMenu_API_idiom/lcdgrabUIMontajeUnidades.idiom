@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSpanishEn/lcgdrabMenu_API_idiom/lcdgrabUIMontajeUnidades.idiom
+# Messages for mount and unmount devices menu
+#
+# Experimental Spanish translation from English, generate by Google Translate
+#
+# Traducción experimental al Español desde los archivos de Inglés,
+# generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribute under GPL v2
+# Part of Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="DISPOSITIVOS ACTUALMENTE MONTADOS EN EL SISTEMA"
+montar_dispositivos_MSG1B="MONT/UMOUNT DISPOSITIVO"
+montar_dispositivos_MSG2="OPCIONES LINUX-CDGRAB"
+montar_dispositivos_MSG3="Expulsar disco del reproductor CD/DVD/BD"
+montar_dispositivos_MSG4="Expulsar disco de la grabadora CD/DVD/BD"
+montar_dispositivos_MSG5="Montar unidad de CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG6="Desmontar CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Montar o desmontar dispositivo manualmente"
+montar_dispositivos_MSG0="Menú Anterior"
+montar_dispositivos_MSG8="CD/DVD/BD montado en"
+montar_dispositivos_MSG9="PULSE INTRO PARA CONTINUAR..."
+montar_dispositivos_MSG10="Error al montar el CD/DVD/BD en"
+montar_dispositivos_MSG11="CD/DVD/BD ha sido desmontado"
+montar_dispositivos_MSG12="Error al desmontar CD/DVD/BD"
+montar_dispositivos_MSG13="Escriba dispositivo a montar/desmontar:"
+montar_dispositivos_MSG14="Tipo punto de montaje:"
+montar_dispositivos_MSG15="no corresponde a un dispositivo de bloque"
+montar_dispositivos_MSG16="No se encuentra el punto de montaje"
+montar_dispositivos_MSG17="Apunte de montaje predeterminado"
+montar_dispositivos_MSG18="Tipo de opción:"
+montar_dispositivos_MSG19="Montaje"
+montar_dispositivos_MSG20="encendido"
+montar_dispositivos_MSG21="Desmontar"
+montar_dispositivos_MSG22="de"
+montar_dispositivos_MSG23="montado en :"
+montar_dispositivos_MSG24="ERROR DE MONTAJE"
+montar_dispositivos_MSG25="encendido"
+montar_dispositivos_MSG26="desmontado de"
+montar_dispositivos_MSG27="ERROR DE DESMONTAJE"
+montar_dispositivos_MSG28="de"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Comando salida de monte"
+Montar_Imagenes_MSG1B="MONTAR/UMMONTAR ARCHIVO DE IMAGEN"
+Montar_Imagenes_MSG2="Opción de tipo"
+Montar_Imagenes_MSG3="Montar archivo de imagen de CD/DVD/BD"
+Montar_Imagenes_MSG4="Desmontar archivo de imagen de CD/DVD/BD"
+Montar_Imagenes_MSG5="Menú Anterior"
+

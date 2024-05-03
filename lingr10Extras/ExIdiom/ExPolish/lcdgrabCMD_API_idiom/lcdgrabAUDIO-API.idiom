@@ -1,0 +1,142 @@
+#########################################################
+# lcgdrabAPI_idiom/ExPolish/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en polaco para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="PLIKI MP3 DO KONWERSJI"
+mp3awav_MSG0="Wprowadź ścieżkę plików .mp3: "
+mp3awav_MSG1="KORZYSTANIE"
+mp3awav_MSG1B=" DO FORMATU .wav"
+mp3awav_MSG2="działa"
+mp3awav_MSG3="Próbkowanie ustawione na 44100 MHz"
+mp3awav_MSG4="Błąd przetwarzania próbkowania"
+mp3awav_MSG5="Nie udało się przekonwertować"
+mp3awav_MSG6="Nie znaleziono katalogu"
+mp3awav_MSG7="KONIEC KONWERSJI AUDIO"
+mp3awav_MSG8="Normalizacja pliku audio"
+mp3awav_MSG9="Plik"
+mp3awav_MSG10="Znormalizowany"
+mp3awav_MSG11="Błąd normalizacji"
+
+# oggawav
+
+oggawav_MSG0="PLIKI OGG DO KONWERSJI"
+oggawav_MSG1="Wprowadź ścieżkę plików .mp3: "
+oggawav_MSG2="KORZYSTANIE"
+oggawav_MSG2B=" DO FORMATU .wav"
+oggawav_MSG3="działa"
+oggawav_MSG4="Próbkowanie ustawione na 44100 MHz"
+oggawav_MSG5="Błąd przetwarzania próbkowania"
+oggawav_MSG6="Nie udało się przekonwertować"
+oggawav_MSG7="Nie znaleziono katalogu"
+oggawav_MSG7="KONIEC KONWERSJI AUDIO"
+oggawav_MSG8="Normalizacja pliku audio"
+oggawav_MSG10="Plik"
+oggawav_MSG11="Znormalizowany"
+oggawav_MSG12="Błąd normalizacji"
+
+# cdawav
+
+cdawav_MSG1="ZRYWANIE CD AUDIO..."
+cdawav_MSG2="Wykonywanie:"
+cdawav_MSG3="UDAŁO SIĘ ZROBIĆ ŚCIEŻKI AUDIO!!"
+cdawav_MSG4="Zawartość katalogu plików audio"
+cdawav_MSG5="BŁĄD PODCZAS ZGRYWANIA ŚCIEŻEK AUDIO"
+
+# cddawav
+
+cddawav_MSG1="WPROWADŹ LICZBĘ UTWORÓW DO ZRIPOWANIA:"
+cddawav_MSG2="Naciśnij Crtl + c, aby anulować zgrywanie ścieżki"
+cddawav_MSG3="Wykonywanie:"
+cddawav_MSG4="UDAŁO SIĘ W PEŁNI ZROBIONE"
+cddawav_MSG5="BŁĄD Zgrywania"
+
+# wavamp3
+
+wavamp3_MSG0="PLIKI WAV DO KONWERSJI"
+wavamp3_MSG1="Wprowadź ścieżkę plików .wav: "
+wavamp3_MSG1B="KONWERSJA"
+wavamp3_MSG2="FORMAT"
+wavamp3_MSG3="Wykonywanie:"
+wavamp3_MSG4="podczas konwersji"
+wavamp3_MSG5="do formatu .MP3"
+wavamp3_MSG6="Błąd podczas konwersji"
+wavamp3_MSG7="KONWERSJA AUDIO ZAKOŃCZONA"
+wavamp3_MSG8="NIE ZNALEZIONO KATALOGU AUDIO"
+
+# cdamp3
+
+cdamp3_MSG1="ZRYWANIE CD AUDIO..."
+cdamp3_MSG2="Wykonywanie:"
+cdamp3_MSG3="UDAŁO SIĘ ZROBIĆ ŚCIEŻKI AUDIO!!"
+cdamp3_MSG4="BŁĄD PODCZAS ZGRYWANIA ŚCIEŻEK AUDIO"
+cdamp3_MSG5="Funkcja wywoływania:"
+
+# wavaogg
+
+wavaogg_MSG1="Wprowadź ścieżkę plików .wav: "
+wavaogg_MSG2="Przekonywanie"
+wavaogg_MSG3="FORMAT .ogg"
+wavaogg_MSG4="Uruchamianie:"
+wavaogg_MSG5="Błąd podczas konwersji"
+wavaogg_MSG6="do formatu .ogg"
+
+# cdaogg
+
+cdaogg_MSG1="ZRYWANIE płyt AUDIO CD..."
+cdaogg_MSG2="Wykonywanie:"
+cdaogg_MSG3="UDAŁO SIĘ ZROBIĆ ŚCIEŻKI AUDIO!!"
+cdaogg_MSG4="BŁĄD PODCZAS ZGRYWANIA ŚCIEŻEK AUDIO"
+cdaogg_MSG5="Funkcja wywoływania:"
+
+# corta_wav
+
+corta_wav_MSG0="Liczba sekund:"
+corta_wav_MSG1="Określ ścieżkę pliku audio do konwersji:"
+corta_wav_MSG2="Określ czas w sekundach, przez który"
+corta_wav_MSG3="rozpocznie się wycinanie pliku."
+corta_wav_MSG4="-UWAGA-"
+corta_wav_MSG5="Aby określić początek dźwięku, wpisz 0"
+corta_wav_MSG6="Wartość w sekundach rozpoczęcia konwersji:"
+corta_wav_MSG7="Określ czas w sekundach, przez który"
+corta_wav_MSG8="Wycinanie pliku zostanie zakończone."
+corta_wav_MSG9="Wartość w sekundach końca konwersji:"
+corta_wav_MSG10="Uruchamianie"
+corta_wav_MSG11="Przycięty plik audio"
+corta_wav_MSG12="Błąd podczas przycinania pliku"
+corta_wav_MSG13="Plik audio do przycięcia:"
+
+# flacawav
+
+flacawav_MSG0="DŹWIĘK FLAC/WAV"
+flacawav_MSG1="Określ ścieżkę plików .flac:"
+flacawav_MSG2="KORZYSTANIE"
+flacawav_MSG3=" DO FORMATU .wav"
+flacawav_MSG4="Próbkowanie ustawione na 44100 MHz"
+flacawav_MSG5="Błąd przetwarzania próbkowania"
+flacawav_MSG6="Normalizacja pliku audio"
+flacawav_MSG7="Plik"
+flacawav_MSG8="Znormalizowany"
+flacawav_MSG9="Błąd normalizacji"
+flacawav_MSG10="Nie udało się przekonwertować"
+flacawav_MSG11="Nie znaleziono katalogu"
+flacawav_MSG12="KONIEC KONWERSJI AUDIO"
+
+# wavaflac
+
+wavaflac_MSG0="PLIKI WAV DO KONWERSJI"
+wavaflac_MSG1="Wprowadź ścieżkę plików .wav: "
+wavaflac_MSG2="Przekonywanie"
+wavaflac_MSG3="FORMAT .flac"
+wavaflac_MSG4="konwertowane do formatu flac"
+wavaflac_MSG5="Błąd podczas konwersji"
+wavaflac_MSG6="do formatu .flac"
+wavaflac_MSG7="NIE ZNALEZIONO KATALOGU PLIKÓW FLAC"
+

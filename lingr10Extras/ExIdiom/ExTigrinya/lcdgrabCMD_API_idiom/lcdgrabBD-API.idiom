@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTigrinya/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Tigriña para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 ምስሊ ብትኽክል ኣብ BLU-RAY ተመዝጊቡ።"
+grabar_ISO_BD_MSG2="ስእሊ ኣብ BLU-RAY DISK ኣብ ምቕራጽ ጌጋ"
+grabar_ISO_BD_MSG3="ISO-9660 ምስሊ ኣብ BD"
+grabar_ISO_BD_MSG4="እቲ ISO-9660 ምስሊ ዝቃጸል መንገዲ ግለጽ:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="ናይ .iso ምስሊ ንምፍጣር ዝሕግዙ ፋይላትን ማህደርን።"
+bd_datos_MSG2="ናይ ዲቢ ምልክት።"
+bd_datos_MSG3="ንመጻኢ BD ስም ኣእቱ:"
+bd_datos_MSG4="ኣመሓዳሪ ፋይል ምጅማር:"
+bd_datos_MSG5=" ምስሊ ምፍጣር . . ."
+bd_datos_MSG6="ዝጎዪ ዘሎ።"
+bd_datos_MSG7="ISO-9660 ምስሊ ኣብ ተፈጢሩ።"
+bd_datos_MSG8="ምቕራጽ BD።"
+bd_datos_MSG13="ስእሊ ምድምሳስ..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="እቲ ኣድላዪ ቅርጺ ወይ ምድምሳስ ከከም ኩነታት ዲስክ ይትግበር።"
+borrar_BDRE_lb_MSG2="BD-RE ብዓወት ተደምሲሱ!!"
+borrar_BDRE_lb_MSG3="BD-RE ኣብ ዝድምሰሰሉ እዋን ጌጋ"
+

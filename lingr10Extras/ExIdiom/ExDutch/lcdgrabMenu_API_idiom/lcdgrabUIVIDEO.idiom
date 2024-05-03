@@ -1,0 +1,25 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDutch/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en Neerlandés para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="VIDEOCONVERSIE"
+menu_conversion_video_MSG2="----------- CONVERSIE TUSSEN FORMATEN -----------"
+menu_conversion_video_MSG3="Converteer video naar Blu Ray Disc Smart-TV-compatibel"
+menu_conversion_video_MSG4="Videobestand om te converteren:"
+menu_conversion_video_MSG0="Vorige menu"
+menu_conversion_video_MSG6="Bureaubladsessie opnemen"
+menu_conversion_video_MSG7="Converteer videobestand naar een ander formaat"
+menu_conversion_video_MSG8="----------------- ANDERE OPTIES ----------------"
+menu_conversion_video_MSG9="Mix videobestand met audiobestand"
+menu_conversion_video_MSG10="MP3-audio extraheren uit videobestand"
+menu_conversion_video_MSG11="Videobestand bijsnijden"
+
+

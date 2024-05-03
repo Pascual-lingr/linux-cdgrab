@@ -1,0 +1,113 @@
+#########################################################
+# lcgdrabAPI_idiom/ExJapanese/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Japonés para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, utilizado google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+
+m_cdrecord_sin_overburn_MSG1="記録処理を再試行しています..."
+m_cdrecord_sin_overburn_MSG2="-overburn オプションなしで cdrecord を実行する"
+m_cdrecord_sin_overburn_MSG3="-overburn は、古い録音デバイスや古いバージョンの cdrecord ではサポートされていません。"
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="無効なオプション"
+
+# img_error
+
+img_error_D_MSG1="イメージ作成中のエラー"
+
+# CD_error
+
+CD_error_D_MSG1="CD の録音中にエラーが発生しました"
+
+# DVD_error
+
+DVD_error_D_MSG1="DVD の記録中にエラーが発生しました"
+
+# DO_error
+
+DO_error_D_MSG1="光ディスク記録中のエラー"
+
+
+# tecla
+
+tecla_D_MSG1="\nENTER を押して続行します . . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="ディスクに記録するディレクトリ パス"
+rutas_dir_D_MSG2="ディレクトリ名を入力します (終了するには f):"
+rutas_dir_D_MSG3="ディレクトリ"
+rutas_dir_D_MSG4="有効ではありません"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="システム内の同じ光学ユニット"
+una_sola_grabadora_D_MSG2="読み取りユニットと記録ユニットは同じです。システムには物理ドライブが 1 つしかないことを前提としています。ドライブからソース ディスクを取り出します。ブランクの光ディスクを挿入して、記録プロセスを続行してください"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="ディスクの記録が正常に終了しました"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="無効なオプション"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="ディスクの記録が正常に終了しました"
+
+# text_img_error
+
+text_img_error_MSG1="イメージ作成中のエラー"
+
+# text_CD_error
+
+text_CD_error_MSG1="CD の録音中にエラーが発生しました"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="DVD の記録中にエラーが発生しました"
+
+# text_DO_error
+
+text_DO_error_MSG1="光ディスク記録中のエラー"
+
+# teclash
+
+teclash_MSG1="ENTER を押して続行します . . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="ディレクトリの名前を入力します (終了するには f ):"
+text_rutas_dir_MSG2="ディレクトリ"
+text_rutas_dir_MSG3=" 有効ではありません"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1=$una_sola_grabadora_D_MSG1
+# Debe ser mas correcto la traducción del párrafo de texto total,
+# Se asigna esta traducción resuelta arriba y se anulan el resto
+# de mensajes.
+text_una_sola_grabadora_MSG2=$una_sola_grabadora_D_MSG2
+text_una_sola_grabadora_MSG3=""
+text_una_sola_grabadora_MSG4=""
+text_una_sola_grabadora_MSG5=""
+text_una_sola_grabadora_MSG6=""
+text_una_sola_grabadora_MSG7=""
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="ランニング"

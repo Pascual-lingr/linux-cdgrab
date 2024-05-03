@@ -1,0 +1,24 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGreek/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en griego para el menu de conversión de Video.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="ΜΕΤΑΤΡΟΠΗ ΒΙΝΤΕΟ"
+menu_conversion_video_MSG2="------------ ΜΕΤΑΤΡΟΠΗ ΜΕΤΑΞΥ ΜΟΡΦΩΝ ------------"
+menu_conversion_video_MSG3="Μετατροπή βίντεο σε Blu Ray Disc συμβατό με Smart TV"
+menu_conversion_video_MSG4="Αρχείο βίντεο για μετατροπή:"
+menu_conversion_video_MSG0="Προηγούμενο μενού"
+menu_conversion_video_MSG6="Καταγραφή συνεδρίας στην επιφάνεια εργασίας"
+menu_conversion_video_MSG7="Μετατροπή αρχείου βίντεο σε διαφορετική μορφή"
+menu_conversion_video_MSG8="----------------- ΑΛΛΕΣ ΕΠΙΛΟΓΕΣ ----------------"
+menu_conversion_video_MSG9="Μίξη αρχείου βίντεο με αρχείο ήχου"
+menu_conversion_video_MSG10="Εξαγωγή ήχου MP3 από αρχείο βίντεο"
+menu_conversion_video_MSG11="Περικοπή αρχείου βίντεο"
+

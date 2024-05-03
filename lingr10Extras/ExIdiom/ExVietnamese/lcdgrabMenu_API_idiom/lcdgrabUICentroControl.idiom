@@ -1,0 +1,283 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Vietnammita para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Cấu hình Linux-cdgrab"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Nếu bạn không biết kênh IDE thuộc về kênh nào"
+ayuda_IDE_MSG2="máy ghi âm của bạn có thể tìm ra bằng cách nhấn vào chữ t."
+ayuda_IDE_MSG3="Ví dụ về kênh IDE có thể là 0,0,0 hoặc 0,1,0"
+ayuda_IDE_MSG4="Bạn cũng có thể chỉ định thiết bị tương ứng"
+ayuda_IDE_MSG5="vào máy ghi của bạn. Nếu bạn không biết chắc chắn đó là cái nào, hãy nhấn d,"
+ayuda_IDE_MSG6="để xem các thiết bị đã đăng ký trong tệp /etc/fstab"
+ayuda_IDE_MSG7="Ví dụ về thiết bị có thể là /dev/hdd, /dev/hde, v.v."
+ayuda_IDE_MSG8="Nếu muốn, bạn cũng có thể liệt kê tất cả các thiết bị chứa"
+ayuda_IDE_MSG9="trong thư mục /dev bằng cách nhấn chữ l."
+ayuda_IDE_MSG10="Bạn phải chỉ định kênh IDE hoặc thiết bị ghi"
+ayuda_IDE_MSG11="nhưng không phải cả hai."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab đã được gỡ cài đặt khỏi hệ thống của bạn"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Tốc độ ghi"
+imprimir_variables_MSG2="Kênh IDE/SCSI hoặc thiết bị ghi"
+imprimir_variables_MSG3="Đầu đọc CD-ROM, DVD-ROM hoặc BD-ROM"
+imprimir_variables_MSG4="Thiết bị ATAPI"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Tốc độ ghi"
+imprimir_lcdgrabcfg_MSG2="Kênh IDE/SCSI hoặc thiết bị ghi"
+imprimir_lcdgrabcfg_MSG3="Đầu đọc CD-ROM, DVD-ROM hoặc BD-ROM"
+imprimir_lcdgrabcfg_MSG4="Thiết bị ATAPI"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Đã cài đặt"
+chequeo_de_aplicaciones_MSG2="CHƯA CÀI ĐẶT"
+chequeo_de_aplicaciones_MSG3="Cài đặt"
+chequeo_de_aplicaciones_MSG4="QUAN TRỌNG:"
+chequeo_de_aplicaciones_MSG5="Cài đặt các công cụ cần thiết Linux-cdgrab sẽ hoạt động hoàn toàn"
+chequeo_de_aplicaciones_MSG6="Tất cả các chương trình mà Linux-cdgrab cần đã được cài đặt trên hệ thống của bạn"
+chequeo_de_aplicaciones_MSG4B="THÔNG BÁO:"
+chequeo_de_aplicaciones_MSG5B="Tìm thấy thiếu công cụ"
+chequeo_de_aplicaciones_MSG6B="Công cụ được cài đặt trên hệ thống"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 được gán theo mặc định cho biến này"
+msgdefCANALATAPI_MSG2="File cấu hình sẽ được ghi CANALATAPI=0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Tệp cấu hình được tạo tự động bởi Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG5="cdrecord chưa được tìm thấy trong hệ thống"
+nuevo_lcdgrabcfg_MSG6="Cài đặt gói cdrtools."
+nuevo_lcdgrabcfg_MSG7="Bạn có thể tiếp tục cấu hình bằng cách chỉ định các giá trị"
+nuevo_lcdgrabcfg_MSG8="ghi âm nếu bạn biết họ trước đây."
+nuevo_lcdgrabcfg_MSG9="Lệnh cdrecord được sử dụng để ghi đĩa CD, DVD và BD"
+nuevo_lcdgrabcfg_MSG10="Các tùy chọn này sẽ không hoạt động cho đến khi gói nói trên được cài đặt."
+nuevo_lcdgrabcfg_MSG11="Công cụ quét ổ đĩa hiện tại cũng sẽ không hoạt động"
+nuevo_lcdgrabcfg_MSG12="trong trình hướng dẫn cấu hình này."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab cần được cấu hình theo bốn bước sau"
+nuevo_lcdgrabcfg_MSG14="Bước đầu tiên."
+nuevo_lcdgrabcfg_MSG15="Tốc độ ghi:"
+nuevo_lcdgrabcfg_MSG16="Chỉ có một số 2,4,8,16,32... vv"
+nuevo_lcdgrabcfg_MSG17="Bước thứ hai."
+nuevo_lcdgrabcfg_MSG18="Kênh IDE/SCSI hoặc thiết bị ghi:"
+nuevo_lcdgrabcfg_MSG19="A -> trợ giúp"
+nuevo_lcdgrabcfg_MSG20="Đang quét..."
+nuevo_lcdgrabcfg_MSG21="Lỗi quét cổng IDE/SCSI"
+nuevo_lcdgrabcfg_MSG22="Không tìm thấy bản ghi Cd"
+nuevo_lcdgrabcfg_MSG23="Bước thứ ba."
+nuevo_lcdgrabcfg_MSG24="Thiết bị CD-ROM, DVD-ROM hoặc BD-ROM"
+nuevo_lcdgrabcfg_MSG25="L -> Liệt kê các thiết bị có sẵn"
+nuevo_lcdgrabcfg_MSG26="Đang quét..."
+nuevo_lcdgrabcfg_MSG27="Đã quét cổng IDE/SCSI"
+nuevo_lcdgrabcfg_MSG28="Thiết bị được cdrecord sử dụng thông qua dev=ATAPI trong bản ghi nhiều phiên"
+nuevo_lcdgrabcfg_MSG30="Thiết bị có danh pháp như 0,0,0 hoặc 1,0,0, v.v."
+nuevo_lcdgrabcfg_MSG31="Chỉ định thiết bị để gọi cdrecord trên đĩa CD nhiều phiên: "
+nuevo_lcdgrabcfg_MSG32="Cấu hình CANALATAPI không đúng"
+nuevo_lcdgrabcfg_MSG33="Lỗi quét cổng IDE/SCSI"
+nuevo_lcdgrabcfg_MSG34="Không tìm thấy bản ghi Cd"
+nuevo_lcdgrabcfg_MSG36="Tệp cấu hình được tạo tự động bởi Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG37="ĐÃ HOÀN THÀNH CÀI ĐẶT LINUX-CDGRAB"
+
+# colores
+
+colores_MSG1="Không thể tìm thấy danh sách màu"
+colores_MSG2="Đang tải màu mặc định"
+colores_MSG3="Chọn bảng màu mới cho giao diện LINUX-CDGRAB"
+colores_MSG4="PHÔNG CHỮ ĐEN"
+colores_MSG5="PHÔNG CHỮ SÁNG TIÊU CHUẨN"
+colores_MSG6="MÀU NỀN ĐEN"
+colores_MSG7="PHÔNG CHỮ ĐỎ"
+colores_MSG8="PHÔNG CHỮ ĐEN SÁNG"
+colores_MSG9="MÀU NỀN ĐỎ"
+colores_MSG10="PHÔNG CHỮ XANH"
+colores_MSG11="ĐÀI PHUN MÀU ĐỎ SÁNG"
+colores_MSG12="MÀU NỀN XANH"
+colores_MSG13="PHÔNG CHỮ VÀNG"
+colores_MSG14="PHÔNG CHỮ XANH SÁNG"
+colores_MSG15="MÀU NỀN CAM"
+colores_MSG16="PHÔNG CHỮ XANH"
+colores_MSG17="PHÔNG CHỮ VÀNG SÁNG"
+colores_MSG18="MÀU NỀN XANH"
+colores_MSG19="Phông chữ màu đỏ tươi"
+colores_MSG20="PHÔNG CHỮ XANH SÁNG"
+colores_MSG21="MÀU NỀN ĐẸP"
+colores_MSG22="NGUỒN CYAN"
+colores_MSG23="Phông chữ màu đỏ tươi"
+colores_MSG24="MÀU NỀN CYAN"
+colores_MSG25="PHÔNG CHỮ MÀU XÁM"
+colores_MSG26="MÀU NỀN CYAN"
+colores_MSG27="PHÔNG CHỮ CYAN SÁNG"
+colores_MSG28="MÀU NỀN XÁM"
+colores_MSG29="NGUỒN MẶC ĐỊNH"
+colores_MSG30="PHÔNG CHỮ TRẮNG SÁNG"
+colores_MSG31="MÀU NỀN MẶC ĐỊNH"
+colores_MSG32="Số màu của phông chữ: "
+colores_MSG33="Số màu cho nền: "
+colores_MSG34="Số màu cho thông báo cảnh báo: "
+colores_MSG35="Số màu cho thông báo nhãn: "
+colores_MSG36="Số màu cho quá trình hoàn thành thành công"
+colores_MSG37="Số màu cho các quá trình bị kết thúc do lỗi: "
+colores_MSG38="Lược đồ mới cho LINUX-CDGRAB"
+colores_MSG39="MÀU PHÔNG CHỮ CHUNG"
+colores_MSG40="LABELS"
+colores_MSG41="THÔNG BÁO"
+colores_MSG42="THÀNH CÔNG"
+colores_MSG43="LỖI"
+colores_MSG44="MÀU NỀN"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="DANH SÁCH MÀU CÓ SẴN:"
+cambiar_esquema_de_color_MSG2="#####PHƯƠNG PHÁP MÀU SẮC#######"
+cambiar_esquema_de_color_MSG3="-------------------------------"
+cambiar_esquema_de_color_MSG4="Menu Màu"
+cambiar_esquema_de_color_MSG5="Thất bại"
+cambiar_esquema_de_color_MSG6="Nhãn"
+cambiar_esquema_de_color_MSG6b="Thông báo"
+cambiar_esquema_de_color_MSG7="Menu màu OK Nhãn cảnh báo lỗi"
+cambiar_esquema_de_color_MSG8="Nhập số lượng màu mới:"
+cambiar_esquema_de_color_MSG9="TÙY CHỌN KHÔNG HỢP LỆ"
+cambiar_esquema_de_color_MSG10="THIẾT LẬP MÀU MẶC ĐỊNH."
+cambiar_esquema_de_color_MSG11=" BACKGROUND = BLUE_BACKGROUND"
+cambiar_esquema_de_color_MSG12=" FONT = TRẮNG SÁNG"
+cambiar_esquema_de_color_MSG13=" CẢNH BÁO = VÀNG SÁNG"
+cambiar_esquema_de_color_MSG14=" LỖI = ĐỎ SÁNG"
+cambiar_esquema_de_color_MSG15=" LỖI = ĐỎ SÁNG"
+cambiar_esquema_de_color_MSG16=" HITS = XANH SÁNG"
+cambiar_esquema_de_color_MSG17=" NHÃN = CYAN SÁNG"
+
+# cambia_lector
+
+cambia_lector_MSG1="THIẾT LẬP MÔI TRƯỜNG CHO CÁC ĐƠN VỊ QUANG HỌC"
+cambia_lector_MSG2="Thiết bị hiện tại được liên kết với CD-ROM, DVD-ROM hoặc BD-ROM"
+cambia_lector_MSG3="Thiết bị hiện tại được liên kết với Đầu ghi CD/DVD/BD"
+cambia_lector_MSG4="Thiết bị hiện tại được liên kết với tham số dev=ATAPI"
+cambia_lector_MSG5="(hỗ trợ nhiều phiên cho cdrecord)"
+cambia_lector_MSG6="Chọn thiết bị cần thực hiện thay đổi."
+cambia_lector_MSG7="Nhập tùy chọn:"
+cambia_lector_MSG8="Nhập tên của thiết bị mới"
+cambia_lector_MSG9="không tương ứng với thiết bị khối"
+cambia_lector_MSG10="Thiết bị"
+cambia_lector_MSG11="được gán theo mặc định"
+cambia_lector_MSG12="Thiết bị mới là:"
+cambia_lector_MSG13="Không phải tất cả các phiên bản của cdrecord đều chấp nhận thiết bị khối làm tham số ghi"
+cambia_lector_MSG14="Nhập tên của thiết bị ATAPI mới"
+cambia_lector_MSG15="Cấu hình CANALATAPI không đúng"
+cambia_lector_MSG16="0,0,0 được gán mặc định cho biến này"
+cambia_lector_MSG17="Tệp cấu hình sẽ được ghi bằng CANALATAPI = 0,0,0"
+cambia_lector_MSG18="Thiết bị mới là:"
+cambia_lector_MSG19="KHÔNG CÓ THAY ĐỔI TRÊN THIẾT BỊ"
+cambia_lector_MSG4B="Xuất giá trị từ tệp cấu hình"
+cambia_lector_MSG4C="Các GIÁ TRỊ ĐÃ ĐƯỢC BÁO CÁO CHO MÔI TRƯỜNG:"
+
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Từ menu này bạn có thể chọn tiện ích nào"
+cambia_generador_isocd_MSG2="sẽ được sử dụng để tạo ra hình ảnh ISO-9660"
+cambia_generador_isocd_MSG3="từ CDS hiện có trên thiết bị đọc."
+cambia_generador_isocd_MSG4="Cấu hình hiện tại:"
+cambia_generador_isocd_MSG5="Sử dụng dd (thành phần GNU coreutils)"
+cambia_generador_isocd_MSG6="Sử dụng readcd (thành phần cdrtools)"
+cambia_generador_isocd_MSG7="Trình đơn trước."
+cambia_generador_isocd_MSG8="Chọn một tùy chọn:"
+cambia_generador_isocd_MSG9="Sử dụng dd làm trình tạo iso."
+cambia_generador_isocd_MSG10="Sử dụng readcd làm trình tạo iso."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Đặt siêu dữ liệu HFS cùng với Rock Ridge và Joliet"
+establecer_hfs_iso_MSG2="Chỉ sử dụng siêu dữ liệu Rock Ridge và Joliet"
+establecer_hfs_iso_MSG3="Menu trước."
+establecer_hfs_iso_MSG4="Chọn một tùy chọn:"
+establecer_hfs_iso_MSG5="Sử dụng siêu dữ liệu HFS, Rock Ridge và Joliet"
+establecer_hfs_iso_MSG6="Sử dụng siêu dữ liệu Rock Ridge và Joliet"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Hệ thống thông báo hiện tại"
+cambia_notificaciones_MSG2A="Giao diện đồ họa Gnome"
+cambia_notificaciones_MSG2B="Giao diện đồ họa KDE"
+cambia_notificaciones_MSG2="Giao diện với ncurses"
+cambia_notificaciones_MSG3="Giao diện văn bản"
+cambia_notificaciones_MSG4="Thoát"
+cambia_notificaciones_MSG5="Chọn một tùy chọn:"
+cambia_notificaciones_MSG6="Sử dụng giao diện với hộp thoại"
+cambia_notidicaciones_MSG6B="Sử dụng giao diện một cách thoải mái"
+cambia_notidicaciones_MSG6C="Sử dụng giao diện với kdialog"
+cambia_notificaciones_MSG7="Không tìm thấy lệnh hộp thoại"
+cambia_notificaciones_MSG8="Sử dụng giao diện văn bản"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Ngôn ngữ sử dụng:"
+cambiar_idioma_UI_MSG1="Ngôn ngữ hiện có:"
+cambiar_idioma_UI_MSG2="Nhập tên ngôn ngữ sẽ được sử dụng"
+cambiar_idioma_UI_MSG3="trong giao diện ứng dụng:"
+cambiar_idioma_UI_MSG4="Ngôn ngữ mới được sử dụng là:"
+cambiar_idioma_UI_MSG5="Khởi động lại LINUX-CDGRAB"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Cấu hình hiện tại"
+seleccion_gestor_archivos_MSG2="Sử dụng mc"
+seleccion_gestor_archivos_MSG3="Sử dụng trình quản lý văn bản tích hợp"
+seleccion_gestor_archivos_MSG4="không thể tìm thấy mc được cài đặt trên hệ thống"
+seleccion_gestor_archivos_MSG5="Sử dụng trình quản lý văn bản tích hợp theo mặc định"
+seleccion_gestor_archivos_MSG6="mc tiện ích"
+seleccion_gestor_archivos_MSG7="Văn bản tích hợp"
+
+# centro_de_control
+
+centro_de_control_MSG1="TRUNG TÂM ĐIỀU KHIỂN"
+centro_de_control_MSG2="Cấu hình mới"
+centro_de_control_MSG3="Xóa tập tin cấu hình"
+centro_de_control_MSG4="Hiển thị giá trị và tệp cấu hình hiện tại"
+centro_de_control_MSG5="GIÁ TRỊ TẬP TIN CẤU HÌNH:"
+centro_de_control_MSG5B="CẤU HÌNH HIỆN TẠI ĐƯỢC SỬ DỤNG TRONG MÔI TRƯỜNG:"
+centro_de_control_MSG6="Thay đổi phương tiện quang học"
+centro_de_control_MSG7="Kiểm tra các chương trình đã cài đặt"
+centro_de_control_MSG8="Quét cổng IDE/SCSI bằng cdrecord"
+centro_de_control_MSG8C="Quét cổng IDE/SCSI bằng cdrskin"
+centro_de_control_MSG8B="Liệt kê các đơn vị được cài đặt trong hệ thống bằng cdrskin"
+centro_de_control_MSG9="Thay đổi tiện ích tạo iso từ CD"
+centro_de_control_MSG9B="Đặt siêu dữ liệu HFS cho iso-9660"
+centro_de_control_MSG10="Thay đổi giao diện người dùng"
+centro_de_control_MSG10b="Thay đổi màu sắc"
+centro_de_control_MSG10c="Thay đổi ngôn ngữ giao diện"
+centro_de_control_MSG11="Thay đổi Trình quản lý Tập tin"
+centro_de_control_MSG11B="Gỡ cài đặt chương trình"
+centro_de_control_MSG12="Nhập một tùy chọn: "
+centro_de_control_MSG13="TẬP TIN CẤU HÌNH KHÔNG TỒN TẠI"
+centro_de_control_MSG14="KHÔNG TÌM THẤY TỆP CẤU HÌNH"
+centro_de_control_MSG15="Đang quét"
+centro_de_control_MSG16="Đã quét cổng IDE/SCSI"
+centro_de_control_MSG17="Lỗi quét cổng IDE/SCSI"
+centro_de_control_MSG18="Chọn bảng màu"
+centro_de_control_MSG19="Chọn màu tùy ý"
+centro_de_control_MSG20="Trình đơn trước"
+centro_de_control_MSG21="Nhập một tùy chọn: "
+centro_de_control_MSG22="TẬP TIN CẤU HÌNH KHÔNG TỒN TẠI"
+centro_de_control_MSG23="KHÔNG TÌM THẤY TỆP CẤU HÌNH"
+centro_de_control_MSG24="Chọn bảng màu"
+centro_de_control_MSG25="Chọn màu tùy ý"
+centro_de_control_MSG26="Tùy chọn không hợp lệ"
+

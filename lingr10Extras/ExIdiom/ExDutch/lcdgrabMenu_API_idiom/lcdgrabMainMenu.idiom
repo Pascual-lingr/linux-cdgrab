@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDutch/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Neerlandés, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab kan de vi-teksteditor niet vinden"
+ayuda_MSG2="Voer de naam in van een teksteditor die op uw systeem is geïnstalleerd"
+ayuda_MSG3="GEEN GEÏNSTALLEERDE EDITOR GEVONDEN"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Bestand automatisch gegenereerd door LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="Dit bestand samen met de directory"
+creacion_de_mnt_MSG3="zijn automatisch gegenereerd"
+creacion_de_mnt_MSG4="door de Linux-cdgrab applicatie bij het verifiëren dat deze niet bestond in uw Linux-distributie"
+creacion_de_mnt_MSG5="de map"
+creacion_de_mnt_MSG6="Linux-cdgrab gebruikt deze map om zijn CD-ROM/DVD-ROM/BD-ROM-station te mounten"
+creacion_de_mnt_MSG7="De map"
+creacion_de_mnt_MSG8="het zal niet worden verwijderd als Linux-cdgrab wordt verwijderd, omdat dit meestal de"
+creacion_de_mnt_MSG9="standaard mountpunt voor /dev/cdrom op de meeste Linux-distributies."
+creacion_de_mnt_MSG10="Als uw distributie een andere map gebruikt om het apparaat /dev/cdrom te mounten,"
+creacion_de_mnt_MSG11="het zal geen enkele incompatibiliteit creëren wanneer u probeert toegang te krijgen tot de gegevens op uw apparaat"
+creacion_de_mnt_MSG12="hoewel je zonder Linux-cdgrab kunt doen"
+creacion_de_mnt_MSG13="Het doel van dit bestand is alleen voor informatieve doeleinden, u kunt het na lezen vrijelijk verwijderen."
+
+# creditos
+
+creditos_MSG1="Distribueren onder GPL v2-licentie"
+creditos_MSG2="Meer informatie op www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, maker en onderhouder"
+creditos_MSG4="Bugrapport: pascual89@hotmail.com"
+creditos_MSG5="Programmawebsite: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Gebaseerd op LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Opladen"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SYNTAXIS"
+lcdgrab_sintaxis_MSG2="Druk deze hulp af"
+lcdgrab_sintaxis_MSG3="De Linux-versie-cdgrab afdrukken"
+lcdgrab_sintaxis_MSG4="specificeert het IDE-kanaal of opnameapparaat"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="specificeert de opnamesnelheid"
+lcdgrab_sintaxis_MSG7="specificeert CD-ROM/DVD-ROM/BD-ROM-station"
+lcdgrab_sintaxis_MSG8="specificeert het IDE ATAPI-kanaal van de recorder"
+lcdgrab_sintaxis_MSG9="De -G -V -L en -CA opties impliceren elkaar."
+lcdgrab_sintaxis_MSG9B="De -iut -ium -iug en -iuk opties zijn onafhankelijk van elkaar,"
+lcdgrab_sintaxis_MSG9C="complementair aan -G -V -L en -CA, en onafhankelijk tussen -h en -v"
+lcdgrab_sintaxis_MSG10="De -h en -v opties zijn onafhankelijk van elkaar en de rest."
+lcdgrab_sintaxis_MSG11="Voorbeelden:"
+lcdgrab_sintaxis_MSG12="apparaat"
+lcdgrab_sintaxis_MSG13="nummer"
+lcdgrab_sintaxis_MSG14="tekstinterface"
+lcdgrab_sintaxis_MSG15="interface met ncurses"
+lcdgrab_sintaxis_MSG16="grafische interface met GTK"
+lcdgrab_sintaxis_MSG17="grafische interface met Qt"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Voer het scriptpad in:"
+main_lcdgrabopdep_MSG2="Ongeldig pad"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Geïnstalleerde patches:"
+main_lcdgrabopdeppatch_MSG2="Voer het patchpad in:"
+main_lcdgrabopdeppatch_MSG3="Niet gevonden"
+
+# menu principal dialog
+main_lcdgrabop9uidia="UPLOAD EEN EXTRA PATCH"
+
+# menu principal texto
+
+main_lcdgrabop1_text="OPNEMEN OP CD\t\t\t\t="
+main_lcdgrabop2_text="DVD-OPNAME\t\t\t\t="
+main_lcdgrabop3_text="OPNAME OP BD\t\t\t\t="
+main_lcdgrabop4_text="WERKING VAN SCHIJFSTATIONS\t\t="
+main_lcdgrabop5_text="BEELDCREATIE\t\t\t\t="
+main_lcdgrabop6_text="AUDIO-CONVERSIE\t\t\t\t="
+main_lcdgrabop6b_text="VIDEOCONVERSIE\t\t\t\t="
+main_lcdgrabop7_text="CD/DVD/BD MONTEREN OF ONTMOGEN\t\t="
+main_lcdgrabop8_text="MONTEER OF ONTMOUNT AFBEELDING\t\t="
+main_lcdgrabop9_text="UPLOAD EEN EXTRA PATCH\t\t\t="
+main_lcdgrabop10_text="CONTROLE CENTRUM\t\t\t="
+main_lcdgrabop0_text="UITGAAN\t\t\t\t\t="
+main_lcdgrabet1_text="ANDERE OPTIES ##\t\t="
+main_lcdgrabopEe_text="Schijf uit het station verwijderen"
+main_lcdgrabopTD_text="Toon map"
+tabs="\t\t\t="
+main_lcdgrabopG_text="Bestandsbeheer\t\t\t="
+main_lcdgrabopH_text="Hulp\t\t\t\t\t="
+main_lcdgrabopA_text="Over\t\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="CD-OPNAME"
+main_lcdgrabop2="DVD-OPNAME"
+main_lcdgrabop3="OPNEMEN NAAR BD"
+main_lcdgrabop4="SCHIJFSCHIJFBEWERKINGEN"
+main_lcdgrabop5="BEELD CREATIE"
+main_lcdgrabop6="AUDIOCONVERSIE"
+main_lcdgrabop6b="VIDEOCONVERSIE"
+main_lcdgrabop7="MOUNT OF UNMOUNT CD/DVD/BD"
+main_lcdgrabop8="AFBEELDING ONTMOGEN OF ONTMOGEN"
+main_lcdgrabop9="LAAD EEN EXTRA PATCH"
+main_lcdgrabop10="CONTROLECENTRUM"
+main_lcdgrabop0="EXIT"
+main_lcdgrabet1="ANDERE OPTIES ##"
+main_lcdgrabopEe="Schijf uit station verwijderen"
+main_lcdgrabopTD="Toon map"
+main_lcdgrabopG="Bestandsbeheer"
+main_lcdgrabopH="Help"
+main_lcdgrabopA="Over"
+main_lcdgrabopPRINCIPAL="Voer een optie in:"
+MSG1_MAIN="Het selecteren van H toont het gebruik van opties."
+main_lcdgrabopA_MSG1="Wordt uitgevoerd op:"
+

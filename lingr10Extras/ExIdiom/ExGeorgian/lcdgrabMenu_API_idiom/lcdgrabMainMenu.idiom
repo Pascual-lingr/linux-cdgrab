@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Georgiano, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab ვერ პოულობს vi ტექსტის რედაქტორს"
+ayuda_MSG2="შეიყვანეთ თქვენს სისტემაში დაინსტალირებული ტექსტური რედაქტორის სახელი"
+ayuda_MSG3="დაინსტალირებული რედაქტორი ვერ მოიძებნა"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="ფაილი ავტომატურად გენერირებული LINUX-CDGRAB 1.0-ის მიერ"
+creacion_de_mnt_MSG2="ეს ფაილი დირექტორიასთან ერთად"
+creacion_de_mnt_MSG3="გამომუშავდა ავტომატურად"
+creacion_de_mnt_MSG4="Linux-cdgrab აპლიკაციის მიერ, როდესაც ადასტურებს, რომ ის არ არსებობდა თქვენს Linux დისტრიბუციაში"
+creacion_de_mnt_MSG5="საქაღალდე"
+creacion_de_mnt_MSG6="Linux-cdgrab იყენებს ამ დირექტორიას CD-ROM/DVD-ROM/BD-ROM დისკის დასამონტაჟებლად"
+creacion_de_mnt_MSG7="საქაღალდე"
+creacion_de_mnt_MSG8="ის არ წაიშლება, თუ Linux-cdgrab დეინსტალირებულია, რადგან ეს ჩვეულებრივ არის"
+creacion_de_mnt_MSG9="/dev/cdrom-ის ნაგულისხმევი სამონტაჟო წერტილი Linux-ის უმეტეს დისტრიბუციაზე."
+creacion_de_mnt_MSG10="თუ თქვენი განაწილება იყენებს სხვა დირექტორიას მოწყობილობის /dev/cdrom-ის დასამონტაჟებლად,"
+creacion_de_mnt_MSG11="ის არ შექმნის შეუთავსებლობას თქვენი ერთეულის მონაცემებზე წვდომის მცდელობისას"
+creacion_de_mnt_MSG12="თუმცა, თუ Linux-cdgrab დეინსტალირებულია, ამის გარეშე შეგიძლიათ"
+creacion_de_mnt_MSG13="ამ ფაილის დანიშნულება მხოლოდ საინფორმაციო მიზნებისთვისაა, წაკითხვის შემდეგ შეგიძლიათ თავისუფლად წაშალოთ."
+
+# creditos
+
+creditos_MSG1="გავრცელება GPL v2 ლიცენზიით"
+creditos_MSG2="დამატებითი ინფორმაცია www.gnu.org"
+creditos_MSG3="პასკუალ მარტინეს კრუზი, შემქმნელი და შემსრულებელი"
+creditos_MSG4="შეცდომის ანგარიში: pascual89@hotmail.com"
+creditos_MSG5="პროგრამის ვებსაიტი: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+ccreditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="დაფუძნებული LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="დამუხტვა"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="სინტაქსი"
+lcdgrab_sintaxis_MSG2="ამ დახმარების ამობეჭდვა"
+lcdgrab_sintaxis_MSG3=" Linux-ის ვერსიის დაბეჭდვა-cdgrab"
+lcdgrab_sintaxis_MSG4="მიუთითებს IDE არხს ან ჩამწერ მოწყობილობას"
+lcdgrab_sintaxis_MSG5="ან"
+lcdgrab_sintaxis_MSG6="მიუთითებს ჩაწერის სიჩქარეს"
+lcdgrab_sintaxis_MSG7="მიუთითებს CD-ROM/DVD-ROM/BD-ROM დისკს"
+lcdgrab_sintaxis_MSG8="მიუთითებს ჩამწერის IDE ATAPI არხს"
+lcdgrab_sintaxis_MSG9="-G -V -L და -CA ვარიანტები ერთმანეთს გულისხმობს."
+lcdgrab_sintaxis_MSG9B=" -iut -ium -iug და -iuk პარამეტრები ერთმანეთისგან დამოუკიდებელია,"
+lcdgrab_sintaxis_MSG9C="შეავსებს -G -V -L და -CA და დამოუკიდებელი -h და -v"
+lcdgrab_sintaxis_MSG10="-h და -v პარამეტრები ერთმანეთისგან და დანარჩენისგან დამოუკიდებელია."
+lcdgrab_sintaxis_MSG11="მაგალითები:"
+lcdgrab_sintaxis_MSG12="მოწყობილობა"
+lcdgrab_sintaxis_MSG13="ნომერი"
+lcdgrab_sintaxis_MSG14="ტექსტური ინტერფეისი"
+lcdgrab_sintaxis_MSG15="ინტერფეისი ncurses-თან"
+lcdgrab_sintaxis_MSG16="გრაფიკული ინტერფეისი GTK-თან"
+lcdgrab_sintaxis_MSG17="გრაფიკული ინტერფეისი Qt-თან"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="შეიყვანეთ სკრიპტის ბილიკი:"
+main_lcdgrabopdep_MSG2="არასწორი გზა"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="დაინსტალირებული პატჩები:"
+main_lcdgrabopdeppatch_MSG2="შეიყვანეთ პატჩის გზა:"
+main_lcdgrabopdeppatch_MSG3="ვერ მოიძებნა"
+
+# menu principal dialog
+main_lcdgrabop9uidia="ატვირთეთ დამატებითი პატჩი"
+
+# menu principal texto
+
+main_lcdgrabop1_text="ჩაწერა CD-ზე\t\t\t\t="
+main_lcdgrabop2_text="DVD ჩაწერა\t\t\t\t="
+main_lcdgrabop3_text="ჩაწერა BD-ზე\t\t\t\t="
+main_lcdgrabop4_text="დისკის დისკის ოპერაციები\t\t\t="
+main_lcdgrabop5_text="სურათის შექმნა\t\t\t\t="
+main_lcdgrabop6_text="აუდიო კონვერტაცია\t\t\t="
+main_lcdgrabop6b_text="ვიდეო კონვერტაცია\t\t\t="
+main_lcdgrabop7_text="CD/DVD/BD დამაგრება ან გამორთვა\t\t="
+main_lcdgrabop8_text="სურათის დამაგრება ან ამოღება\t\t="
+main_lcdgrabop9_text="ატვირთეთ დამატებითი პატჩი\t\t="
+main_lcdgrabop10_text="კონტროლის ცენტრი\t\t\t="
+main_lcdgrabop0_text="გარეთ გასვლა\t\t\t\t="
+main_lcdgrabet1_text="სხვა ვარიანტები ##\t\t="
+main_lcdgrabopEe_text="დისკის ამოღება დისკიდან\t\t="
+main_lcdgrabopTD_text="დირექტორიას ჩვენება"
+tabs="\t\t="
+main_lcdgrabopG_text="ფაილის მენეჯერი\t\t\t="
+main_lcdgrabopH_text="დახმარება\t\t\t\t="
+main_lcdgrabopA_text="შესახებ\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="ჩაწერა CD-ზე"
+main_lcdgrabop2="DVD ჩაწერა"
+main_lcdgrabop3="ჩაწერა BD-ზე"
+main_lcdgrabop4="დისკის დისკის ოპერაციები"
+main_lcdgrabop5="სურათის შექმნა"
+main_lcdgrabop6="აუდიო კონვერტაცია"
+main_lcdgrabop6b="ვიდეო კონვერტაცია"
+main_lcdgrabop7="CD/DVD/BD დამაგრება ან გამორთვა"
+main_lcdgrabop8="სურათის დამაგრება ან ამოღება"
+main_lcdgrabop9="ატვირთეთ დამატებითი პატჩი"
+main_lcdgrabop10="კონტროლის ცენტრი"
+main_lcdgrabop0="გარეთ გასვლა"
+main_lcdgrabet1="სხვა ვარიანტები ##"
+main_lcdgrabopEe="დისკის ამოღება დისკიდან"
+main_lcdgrabopTD="დირექტორიას ჩვენება"
+main_lcdgrabopG="ფაილის მენეჯერი"
+main_lcdgrabopH="დახმარება"
+main_lcdgrabopA="შესახებ"
+main_lcdgrabopPRINCIPAL="ჩაწერეთ ვარიანტი:"
+MSG1_MAIN="H არჩევა აჩვენებს ოფციების გამოყენებას."
+main_lcdgrabopA_MSG1="გაშვება:"
+

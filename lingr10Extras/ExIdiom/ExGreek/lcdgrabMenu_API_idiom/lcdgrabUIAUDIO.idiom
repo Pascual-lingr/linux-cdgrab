@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGreek/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en griego para el menu de conversión de Audio.
+# Generado con Google Translate, traducción experimental.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="ΜΕΤΑΤΡΟΠΗ ΗΧΟΥ"
+menu_conversion_audio_MSG2="------------ ΜΕΤΑΤΡΟΠΗ ΜΕΤΑΞΥ ΜΟΡΦΩΝ ------------"
+menu_conversion_audio_MSG3="Μετατροπή .mp3 σε .wav"
+menu_conversion_audio_MSG4="Μετατροπή .ogg σε .wav"
+menu_conversion_audio_MSG5="Μετατροπή .wav σε .mp3"
+menu_conversion_audio_MSG6="Μετατροπή .wav σε .ogg"
+menu_conversion_audio_MSG6C="Μετατροπή .wav σε .flac"
+menu_conversion_audio_MSG6B="Μετατροπή .flac σε .wav"
+menu_conversion_audio_MSG7="----------- ΕΞΑΓΩΓΗ ΗΧΗΤΙΚΩΝ ΚΟΜΜΑΤΩΝ -----------"
+menu_conversion_audio_MSG8="Αντιγραφή ενός CD ήχου σε .wav"
+menu_conversion_audio_MSG9="Αντιγραφή ενός συνόλου κομματιών ήχου σε .wav"
+menu_conversion_audio_MSG10="Αντιγραφή ενός CD ήχου σε .mp3"
+menu_conversion_audio_MSG11="Αντιγραφή ενός CD ήχου στο .ogg"
+menu_conversion_audio_MSG0="Προηγούμενο μενού"
+menu_conversion_audio_MSG12="Αναζήτηση αρχείων .mp3"
+menu_conversion_audio_MSG13="Αναζήτηση αρχείων .ogg"
+menu_conversion_audio_MSG14="Αναζήτηση αρχείων .wav"
+menu_conversion_audio_MSG15="--------------- ΑΛΛΕΣ ΛΕΙΤΟΥΡΓΙΕΣ ---------------"
+menu_conversion_audio_MSG16="Αποκοπή αρχείου ήχου .wav"
+menu_conversion_audio_MSG17="Αντιγραφή ενός CD ήχου σε .flac"
+

@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en islandés para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="VÍDEOUMBREYTING BLU-RAY DISC SAMSÆTNI"
+conv_video_BDVideo_MSG2="Tilgreindu slóð myndbandsskrárinnar sem á að umbreyta:"
+conv_video_BDVideo_MSG3="Tilgreindu skráarheiti nýja myndbandsins sem á að búa til:"
+conv_video_BDVideo_MSG4="Vídeóskrá breytt með góðum árangri!!"
+conv_video_BDVideo_MSG5="Villa við að umbreyta myndbandsskrá"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="VIÐVIÐSKÁLAR"
+conv_VideoFich_MSG2="Tilgreindu myndbandsskrána sem á að umbreyta:"
+conv_VideoFich_MSG3="Tilgreindu myndbandsskrána sem á að búa til:"
+conv_VideoFich_MSG4="VIÐVIÐSKRÁUMVIÐVÖLU LOKIÐ"
+conv_VideoFich_MSG5="VILLA VIÐ UMVIÐSKRÁ VIDEO"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Tilgreindu myndbandsskrána:"
+extrae_Audio_de_Video_MSG2="Tilgreindu mp3 hljóðskrána sem á að búa til:"
+extrae_Audio_de_Video_MSG3="HLJÓÐÚTTRÚN TAKK TIL"
+extrae_Audio_de_Video_MSG4="VILLA VIÐ ÚTDRAGNA HLJÓÐ"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Tilgreindu myndbandsskrána:"
+extrae_Fragmento_Video_MSG2="Tilgreindu myndbandsskrána sem á að búa til:"
+extrae_Fragmento_Video_MSG3="Tilgreindu upphafstímann (Tilgreindu sem HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Tilgreindu lokatíma (Tilgreindu sem HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="Myndskeið tókst að klippa"
+extrae_Fragmento_Video_MSG6="VILLA VIÐ VIÐSKIPTA MYNDBAND"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Tilgreindu hljóðskrána:"
+mezcla_Audio_Video_MSG2="Tilgreindu myndbandsskrána:"
+mezcla_Audio_Video_MSG3="Tilgreindu myndbandsskrána sem á að búa til:"
+mezcla_Audio_Video_MSG4="NÝ MYNDBANDSSKÁL TEKKIÐ TIL"
+mezcla_Audio_Video_MSG5="VILLA VIÐ BÚA TIL MYNDBANDSKRÁ"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="VALKOSTIR EKKI LAUSUR FYRIR STJÓRNARVITI"
+graba_escritorio_MSG2="-- UPPTAKA SKÁLDSKIPTAÞINGU -- ÝTTU á CTRL + C TIL AÐ HÆTA við OG HÆTTA UPPTAKA"
+graba_escritorio_MSG3="Myndupptöku lokið"
+

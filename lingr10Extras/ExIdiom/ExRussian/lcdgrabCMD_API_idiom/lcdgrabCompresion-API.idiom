@@ -1,0 +1,55 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRussian/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Ruso para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Введите путь к файлу или каталогу:"
+empaquetar_MSG2="------- Параметры -------"
+empaquetar_MSG3="Создать файл .tar.gz"
+empaquetar_MSG4="Создать файл .tar.bz2"
+empaquetar_MSG5="Введите вариант: "
+empaquetar_MSG6="Выполняется"
+empaquetar_MSG7="Неверный параметр"
+
+# desempaquetar
+
+desempaquetar_MSG1="Введите путь к файлу:"
+desempaquetar_MSG2="НЕ НАЙДЕНО ДЕКОМПРЕССОРА"
+desempaquetar_MSG3="ИЛИ"
+desempaquetar_MSG4="НЕ СУЩЕСТВУЕТ"
+desempaquetar_MSG5="Выполняется"
+desempaquetar_MSG6="распаковано"
+desempaquetar_MSG7="Ошибка при распаковке"
+
+
+# comprime
+
+comprime_MSG1="СЖАТИЕ ИЗОБРАЖЕНИЯ"
+comprime_MSG2="Сжать с помощью bzip2"
+comprime_MSG3="Сжать с помощью gzip"
+comprime_MSG4="Сжать с помощью xz"
+comprime_MSG5="Предыдущее меню"
+comprime_MSG6="Выполняется"
+comprime_MSG7="Сжатие файла изображения завершено"
+comprime_MSG8="Ошибка сжатия"
+comprime_MSG9="Неверный компрессор"
+
+# descomprime
+
+descomprime_MSG1="Введите путь к файлу:"
+descomprime_MSG2="---------------------"
+descomprime_MSG3="НЕ НАЙДЕНО ДЕКОМПРЕССОРА"
+descomprime_MSG4="ИЛИ"
+descomprime_MSG5="НЕ СУЩЕСТВУЕТ"
+descomprime_MSG6="Выполняется"
+descomprime_MSG7="несжатый"
+descomprime_MSG8="Ошибка при распаковке"
+

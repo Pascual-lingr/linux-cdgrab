@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExPortuguese/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Portugués para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="IMAGEM ISO-9660 GRAVADA CORRETAMENTE EM BLU-RAY"
+grabar_ISO_BD_MSG2="ERRO AO GRAVAR IMAGEM NO DISCO BLU-RAY"
+grabar_ISO_BD_MSG3="IMAGEM ISO-9660 EM BD"
+grabar_ISO_BD_MSG4="Especifique o caminho da imagem ISO-9660 para gravar:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Arquivos e diretórios para criar a imagem .iso"
+bd_datos_MSG2="DB LABEL"
+bd_datos_MSG3="Digite um nome para o futuro BD:"
+bd_datos_MSG4="Iniciando o gerenciador de arquivos:"
+bd_datos_MSG5=" CRIANDO IMAGEM . . ."
+bd_datos_MSG6="em execução"
+bd_datos_MSG7="IMAGEM ISO-9660 CRIADA EM"
+bd_datos_MSG8="GRAVANDO BD"
+bd_datos_MSG13="APAGAR IMAGEM..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="A formatação ou exclusão necessária é aplicada dependendo do status do disco"
+borrar_BDRE_lb_MSG2="BD-RE EXCLUÍDO COM SUCESSO!!"
+borrar_BDRE_lb_MSG3="ERRO AO EXCLUIR BD-RE"
+

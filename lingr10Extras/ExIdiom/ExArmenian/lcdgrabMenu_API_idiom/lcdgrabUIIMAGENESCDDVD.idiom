@@ -1,0 +1,49 @@
+#########################################################
+# lcdgrabAPI_idiom/ExArmenian/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="ՍՏԵՂԾՈՒՄ ԵՎ ՍԿՍԻ ՊԱՏԿԵՐՆԵՐԻ ՀԵՏ ԳՈՐԾՈՒՄ"
+MenuImagen_MSG2="------------- ՊԱՏԿԵՐԻ ՍՏԵՂԾՈՒՄ -------------"
+MenuImagen_MSG3="Ստեղծեք ISO-9660 պատկեր"
+MenuImagen_MSG4="Ստեղծեք պատկեր բնիկ Linux ֆայլային համակարգով"
+MenuImagen_MSG5="Ստեղծեք ցանկացած արգելափակման սարքի .img պատկեր"
+MenuImagen_MSG6="Ստեղծեք .bin .cue պատկեր ընթացիկ սարքից"
+MenuImagen_MSG7="---------------- ԱՅԼ ՏԱՐԲԵՐԱԿՆԵՐ ----------------"
+MenuImagen_MSG8="Ստեղծեք .cue նկարագրության ֆայլ .bin պատկերից"
+MenuImagen_MSG9="Վերափոխեք .nrg (Nero Burning ROM) պատկերը .iso"
+MenuImagen_MSG10="Կոմպրես պատկերը gzip, bzip2 կամ xz"
+MenuImagen_MSG11="Անջատեք պատկերը zip, gz, bz2 կամ xz"
+MenuImagen_MSG11B="Ստուգեք md5 iso պատկերների գումարը"
+MenuImagen_MSG12="Փոխել iso ռեժիմը"
+MenuImagen_MSG0="Նախորդ ընտրացանկ"
+MenuImagen_MSG13="Պատկերի ֆայլը պետք է սեղմվի"
+MenuImagen_MSG14="ԿՈՄՊՐԵՍ ՊԱՏԿԵՐԻ ՖԱՅԼԸ"
+MenuImagen_MSG15="Մուտքագրեք գրացուցակի ուղին, որտեղ գտնվում է պատկերը, որը ցանկանում եք սեղմել. "
+MenuImagen_MSG16="Պատկերի ֆայլ, որը ցանկանում եք ապասեղմել"
+MenuImagen_MSG17="ԸՆԹԱՑԻԿ ԻՍՈ ՄԱԿԱՐԴԱԿ"
+MenuImagen_MSG18="Իզո մակարդակ"
+MenuImagen_MSG19="Ֆայլերի անունները բաղկացած են մի հատվածից"
+MenuImagen_MSG20="և սահմանափակվում է 8.3 նիշով:"
+MenuImagen_MSG21="Ընտրեք այս մակարդակը, եթե ցանկանում եք անվանման համատեղելիություն"
+MenuImagen_MSG21b="MS-DOS օպերացիոն համակարգի ներքո"
+MenuImagen_MSG22="Ֆայլերի անունները բաղկացած են մի հատվածից"
+MenuImagen_MSG23="Անսահմանափակ մակարդակ."
+MenuImagen_MSG24="Օգտագործեք այս մակարդակը, եթե ցանկանում եք ֆայլերի համատեղելիություն"
+MenuImagen_MSG25="մեծ, այս դեպքում >= 2 Գիգաբայթ:"
+MenuImagen_MSG26="Բոլոր ISO մակարդակները սահմանափակում են ֆայլերի անունները մեծատառերով, փոքրատառերով և"
+MenuImagen_MSG27="Նիշերը, ինչպիսիք են _ . Ֆայլերի անունները սահմանափակված են 31 նիշով"
+MenuImagen_MSG28="Առավելագույնը 8 գրացուցակի ուղիներ և ուղու անվանում"
+MenuImagen_MSG29="255 նիշից բաղկացած գրացուցակներ:"
+MenuImagen_MSG30="Ընտրեք նոր ISO մակարդակը"
+MenuImagen_MSG31="ISO 4-րդ մակարդակը պաշտոնական չէ"
+MenuImagen_MSG32="Խորհրդակցեք mkisofs մարդու էջը"
+MenuImagen_MSG33="Սխալ ISO մակարդակ"
+MenuImagen_MSG34="Սահմանել iso մակարդակ 3 ըստ լռելյայն"

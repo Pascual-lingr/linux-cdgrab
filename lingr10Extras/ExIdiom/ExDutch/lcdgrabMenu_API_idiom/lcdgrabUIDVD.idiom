@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDutch/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Neerlandés, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Selecteer de gebruikersinterface die gebruikt zal worden:"
+SeleccionaIUDVD_MSG2="Gebruik de interface voor dvd+-rw-tools"
+SeleccionaIUDVD_MSG3="Gebruik de interface voor Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Gebruik de interface voor libburnia"
+SeleccionaIUDVD_MSG5="Vorige menu"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="OPNEMEN OP DVD"
+menugrabar_dvd_MSG2="----------------- DVD - GEGEVENS ---------------"
+menugrabar_dvd_MSG3="Kopieer een ISO-9660 gegevens-dvd"
+menugrabar_dvd_MSG4="Maak een vorige DVD-image op de harde schijf"
+menugrabar_dvd_MSG5="Brand een nieuwe ISO-9660 gegevens-dvd"
+menugrabar_dvd_MSG6="Voeg nieuwe datasessie toe aan ISO-9660 data-dvd (multisessie-dvd)"
+menugrabar_dvd_MSG7="Vereist een DVD die eerder is opgenomen met de tweede optie"
+menugrabar_dvd_MSG8="Brand een ISO-9660 data-image naar DVD"
+menugrabar_dvd_MSG9="Een .ext2-afbeelding op dvd branden"
+menugrabar_dvd_MSG10="----------------- DVD - VIDEO ------------------"
+menugrabar_dvd_MSG11="Een nieuwe dvd-video branden"
+menugrabar_dvd_MSG12="---------------- ANDERE OPTIES -----------------"
+menugrabar_dvd_MSG13="Formatteer een DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Toon dvd-schijfinformatie"
+menugrabar_dvd_MSG0="Vorige menu"
+menugrabar_dvd_MSGPRINCIPAL="Typ een optie"
+menugrabar_dvd_MSG15="Bestanden en mappen die op de dvd moeten worden gezet"
+menugrabar_dvd_MSG16="Bestandsbeheer starten..."
+menugrabar_dvd_MSG17=".iso-image om op dvd te branden"
+menugrabar_dvd_MSG18="Typ het mappad waar de .iso-image die u wilt branden zich bevindt"
+menugrabar_dvd_MSG19="Vereist versie van cdrecord met dvd-ondersteuning."
+menugrabar_dvd_MSG20="De opname van de .ext2-afbeelding op DVD zal worden gedaan met cdrecord."
+menugrabar_dvd_MSG21="De cdrecord-versie die in uw installatie aanwezig is"
+menugrabar_dvd_MSG22="ondersteunt dvd-opname."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="KIES EEN OPTIE"
+dvd_clonar_MSG2="--- SCHIJFKOPIËREN MET VOORBEELDBEELD ---"
+dvd_clonar_MSG3="Kopieer een gegevens-dvd"
+dvd_clonar_MSG4="Maak een vorige DVD-image op de harde schijf"
+dvd_clonar_MSG5="--- SCHIJFKOPIËREN TIJDENS DE VLUCHT ---"
+dvd_clonar_MSG6="Kopieer direct een gegevens-dvd"
+dvd_clonar_MSG7="Een gegevens-dvd in een handomdraai klonen"
+dvd_clonar_MSG8="VLIEGENDE KOPIEEROPTIES VEREIST TWEE OPTISCHE EENHEDEN"
+dvd_clonar_MSG9="GEÏNSTALLEERD OP UW COMPUTER, AANGEZIEN DE GEGEVENS WORDEN OPGENOMEN TERWIJL"
+dvd_clonar_MSG10="LEES DIRECT VANAF DE OORSPRONKSCHIJF, ALS UW COMPUTER DIT ALLEEN HEEFT"
+dvd_clonar_MSG11="U KUNT DE KOPIEËN NIET GEBRUIKEN TIJDENS DE VLUCHT."
+dvd_clonar_MSG0="Vorige menu"
+dvd_clonar_MSG12="DVD-GEGEVENS KOPIE"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="OPNEMEN OP DVD"
+menugrabar_DVD_MSG2="---------------- DVD - GEGEVENS -----------------"
+menugrabar_DVD_MSG3="Gegevens-dvd rippen"
+menugrabar_DVD_MSG4="Brand een nieuwe gegevens-dvd"
+menugrabar_DVD_MSG5="Brand .iso of .ext2 afbeelding naar DVD"
+menugrabar_DVD_MSG6="Formatteer DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Toon schijfinformatie in het station"
+menugrabar_DVD_MSG0="Vorige menu"
+menugrabar_DVD_MSGPRINCIPAL="Typ een optie"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="ISO-9660-image naar DVD branden"
+menugrabar_DVD_libburnia_MSG2="Gegevens branden van harde schijf naar DVD"
+menugrabar_DVD_libburnia_MSG3="Formatteer DVD"
+menugrabar_DVD_libburnia_MSG4="Formatteer DVD-RW naar sequentieel incrementeel"
+menugrabar_DVD_libburnia_MSG5="Formatteer DVD-RW naar beperkt overschrijven"
+menugrabar_DVD_libburnia_MSG6="Toon schijfinformatie"
+menugrabar_DVD_libburnia_MSG8="Lijst van de stations die in het systeem zijn geïnstalleerd"
+menugrabar_DVD_libburnia_MSG0="Afsluiten"
+menugrabar_DVD_libburnia_MSG7="Voer een optie in"
+

@@ -1,0 +1,19 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcgdrabMenu_API/lcdgrabUICargaParches.idiom
+# Mensajes para el interfaz de carga para parches.
+# Traducción experimental al vietnamita, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cargar_parche
+
+cargar_parche_MSG1=" DANH SÁCH CÁC BẢN Vá HIỆN CÓ:"
+cargar_parche_MSG2="Nhập tên của bản vá bạn muốn tải:"
+cargar_parche_MSG3="Ví dụ: patch_for_DVD.sh"
+cargar_parche_MSG4="VÁCH KHÔNG TỒN TẠI"
+
+
+

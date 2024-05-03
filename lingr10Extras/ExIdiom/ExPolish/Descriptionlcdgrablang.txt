@@ -1,0 +1,21 @@
+Polski
+Experimental.
+
+Traducción al idioma Polaco.
+Contiene errores de significado en contexto u ortográficos.
+Generado con Google Translate.
+Por estudio del comportamienro de caracteres Polacos bajo bajo el shell.
+El shell debe tener soporte para los caracteres de idioma Polaco, de lo 
+contrario, este idioma no será funcional bajo el shell.
+
+Translation into Polish language.
+Contains errors in meaning in context or spelling.
+Generated with Google Translate.
+By study of the behavior of Polish characters under the shell.
+The shell must have support for Polish language characters,
+otherwise this language will not be functional under the shell.
+
+Język polski dla Linux-cdgrab
+Eksperymentalne, wygenerowane za pomocą Tłumacza Google.
+Pascual Martínez Cruz; pascual@hotmail.com
+

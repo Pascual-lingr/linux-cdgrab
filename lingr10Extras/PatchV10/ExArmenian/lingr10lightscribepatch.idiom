@@ -1,0 +1,31 @@
+# Idioma Armenio para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Շարունակելու համար սեղմեք ENTER..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="======================================"
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 LIGHTSCRIBE ԱՋԱԿՑՈՒՄ:"
+cabecera_lightscribe_MSG3="======================================"
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Մուտքագրեք պատկերի ուղին, որը ցանկանում եք տպել սկավառակի վրա."
+imprimir_disco_lightscribe_MSG2="Պատկերի ձևաչափը պետք է լինի .bmp"
+imprimir_disco_lightscribe_MSG3="վազում"
+imprimir_disco_lightscribe_MSG4="Պիտակը տպված է սկավառակի վրա"
+imprimir_disco_lightscribe_MSG5="Սխալ տպել պիտակը սկավառակի վրա"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="LightScribe տեխնոլոգիան առկա է միայն որոշ միավորների վրա"
+lingr10lightscribepatch_MSG2="Դուք պետք է ստուգեք, արդյոք ձեր ձայնագրիչն այն ունի:"
+lingr10lightscribepatch_MSG3="Նույնպես, LightScribe-ի համար կարող են պիտակավորվել միայն հատուկ CD կամ DVD սկավառակներ"
+lingr10lightscribepatch_MSG4="Տպել LightScribe սկավառակ"
+lingr10lightscribepatch_MSG5="Նախորդ ընտրացանկ"
+lingr10lightscribepatch_MSG6="Անվավեր տարբերակ"

@@ -1,0 +1,282 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Suajili para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Usanidi wa Linux-cdgrab"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Ikiwa hujui ni kituo gani cha IDE"
+ayuda_IDE_MSG2="kinasa sauti chako kinaweza kujua kwa kubofya herufi t."
+ayuda_IDE_MSG3="Mfano wa kituo cha IDE unaweza kuwa 0,0,0 au 0,1,0"
+ayuda_IDE_MSG4="Unaweza pia kubainisha kifaa sambamba"
+ayuda_IDE_MSG5="kwenye kinasa sauti chako. Ikiwa hujui ni kipi kwa uhakika bonyeza d,"
+ayuda_IDE_MSG6="kuona vifaa vilivyosajiliwa katika faili ya /etc/fstab"
+ayuda_IDE_MSG7="Mfano wa vifaa unaweza kuwa /dev/hdd, /dev/hde nk."
+ayuda_IDE_MSG8="Ukipenda, unaweza pia kuorodhesha vifaa vyote vilivyomo"
+ayuda_IDE_MSG9="katika saraka ya /dev kwa kubonyeza herufi l."
+ayuda_IDE_MSG10="Lazima ubainishe kituo cha IDE au kifaa cha kurekodi"
+ayuda_IDE_MSG11="lakini si zote mbili."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab imeondolewa kwenye mfumo wako"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Kasi ya kurekodi"
+imprimir_variables_MSG2="IDE/SCSI chaneli au kifaa cha kurekodi"
+imprimir_variables_MSG3="CD-ROM, DVD-ROM au BD-ROM reader"
+imprimir_variables_MSG4="ATAPI Kifaa"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Kasi ya kurekodi"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI chaneli au kifaa cha kurekodi"
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM au BD-ROM reader"
+imprimir_lcdgrabcfg_MSG4="ATAPI Kifaa"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Imesakinishwa"
+chequeo_de_aplicaciones_MSG2="HAIJASAKINISHWA"
+chequeo_de_aplicaciones_MSG3="Sakinisha"
+chequeo_de_aplicaciones_MSG4="MUHIMU:"
+chequeo_de_aplicaciones_MSG5="Kusakinisha zana muhimu Linux-cdgrab itafanya kazi kabisa"
+chequeo_de_aplicaciones_MSG6="Programu zote ambazo Linux-cdgrab inahitaji zimesakinishwa kwenye mfumo wako"
+chequeo_de_aplicaciones_MSG4B="NOTICE:"
+chequeo_de_aplicaciones_MSG5B="Zana zilizokosekana zimepatikana"
+chequeo_de_aplicaciones_MSG6B="Zana zilizosakinishwa kwenye mfumo"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 imetolewa kwa chaguo-msingi kwa utofauti huu"
+msgdefCANALATAPI_MSG2="Faili ya usanidi itaandikwa kwa CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Faili ya usanidi inayozalishwa kiotomatiki na Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG5="cdrecord haijapatikana kwenye mfumo"
+nuevo_lcdgrabcfg_MSG6="Sakinisha kifurushi cha cdrtools."
+nuevo_lcdgrabcfg_MSG7="Unaweza kuendelea na usanidi kwa kubainisha thamani"
+nuevo_lcdgrabcfg_MSG8="kurekodi ikiwa unazijua hapo awali."
+nuevo_lcdgrabcfg_MSG9="Amri ya cdrecord inatumika katika kurekodi diski za CD, DVD na BD"
+nuevo_lcdgrabcfg_MSG10="Chaguo hizi hazitafanya kazi hadi kifurushi kilichosemwa kisakinishwe."
+nuevo_lcdgrabcfg_MSG11="Zana ya kuchanganua kiendeshi, iliyopo, pia haitafanya kazi"
+nuevo_lcdgrabcfg_MSG12="katika kichawi hiki cha usanidi."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab inahitaji kusanidiwa katika hatua nne zifuatazo"
+nuevo_lcdgrabcfg_MSG14="Hatua ya kwanza."
+nuevo_lcdgrabcfg_MSG15="Kasi ya kurekodi:"
+nuevo_lcdgrabcfg_MSG16="Nambari moja tu 2,4,8,16,32... nk"
+nuevo_lcdgrabcfg_MSG17="Hatua ya pili."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI chaneli au kifaa cha kurekodi:"
+nuevo_lcdgrabcfg_MSG19="A -> msaada"
+nuevo_lcdgrabcfg_MSG20="Inachanganua..."
+nuevo_lcdgrabcfg_MSG21="Hitilafu katika kuchanganua bandari ya IDE/SCSI"
+nuevo_lcdgrabcfg_MSG22="Cdrecord haipatikani"
+nuevo_lcdgrabcfg_MSG23="Hatua ya tatu."
+nuevo_lcdgrabcfg_MSG24="CD-ROM, DVD-ROM au BD-ROM device"
+nuevo_lcdgrabcfg_MSG25="L -> Orodhesha vifaa vinavyopatikana"
+nuevo_lcdgrabcfg_MSG26="Inachanganua..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI bandari imechanganuliwa"
+nuevo_lcdgrabcfg_MSG28="Kifaa kitakachotumiwa na cdrecord kupitia dev=ATAPI katika rekodi za vipindi vingi"
+nuevo_lcdgrabcfg_MSG30="Kifaa kina neno kama 0,0,0 au 1,0,0 nk"
+nuevo_lcdgrabcfg_MSG31="Bainisha kifaa cha kupiga cdrecord kwenye CD za multisession: "
+nuevo_lcdgrabcfg_MSG32="Usanidi sio sahihi kwa CANALATAPI"
+nuevo_lcdgrabcfg_MSG33="Hitilafu katika kuchanganua bandari ya IDE/SCSI"
+nuevo_lcdgrabcfg_MSG34="Cdrecord haipatikani"
+nuevo_lcdgrabcfg_MSG36="Faili ya usanidi inayozalishwa kiotomatiki na Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG37="UWEKEZAJI WA LINUX-CDGRAB UMEMEKAMILIKA"
+
+# colores
+
+colores_MSG1="Orodha ya rangi haiwezi kupatikana"
+colores_MSG2="Inapakia rangi chaguo-msingi"
+colores_MSG3="Chagua mpangilio mpya wa rangi kwa kiolesura cha LINUX-CDGRAB"
+colores_MSG4="FONT NYEUSI"
+colores_MSG5="STANDARD BRIGHT FONT"
+colores_MSG6=" RANGI NYUMA NYUMA"
+colores_MSG7="FONT NYEKUNDU"
+colores_MSG8="NENESI NYEUSI INAYONG'ARA"
+colores_MSG9=" RANGI NYUMA YA NYUMA"
+colores_MSG10="FONT KIJANI"
+colores_MSG11="CHEMCHEMI NYEKUNDU INAYONG'ARA"
+colores_MSG12="RANGI NYUMA YA KIJANI"
+colores_MSG13="FONT MANJANO"
+colores_MSG14="FONT YA KIJANI ANGAVU"
+colores_MSG15=" RANGI NYUMA YA MACHUNGWA"
+colores_MSG16="BLUE FONT"
+colores_MSG17="FONT MANJANO INAYONG'ARA"
+colores_MSG18="RANGI NYUMA YA BLUU"
+colores_MSG19="MAGENTA FONT"
+colores_MSG20="BLUE FONT INAYONG'ARA"
+colores_MSG21=" RANGI NYUMA YA MAGENTA"
+colores_MSG22="CYAN SOURCE"
+colores_MSG23="BRIGHT MAGENTA FONT"
+colores_MSG24="CYAN Background COLOR"
+colores_MSG25="GRAY FONT"
+colores_MSG26="CYAN Background COLOR"
+colores_MSG27="BRIGHT CYAN FONT"
+colores_MSG28="RANGI NYUMA YA KIJIVU"
+colores_MSG29="CHANZO CHA msingi"
+colores_MSG30="FONT NYEUPE NG'ARI"
+colores_MSG31=" RANGI CHAGUO USULI"
+colores_MSG32="Nambari ya rangi ya fonti: "
+colores_MSG33="Nambari ya rangi kwa usuli: "
+colores_MSG34="Nambari ya rangi kwa jumbe za onyo: "
+colores_MSG35="Nambari ya rangi kwa ujumbe wa lebo: "
+colores_MSG36="Nambari ya rangi kwa michakato iliyokamilishwa kwa ufanisi"
+colores_MSG37="Nambari ya rangi kwa michakato iliyokatishwa na hitilafu: "
+colores_MSG38="Mpango mpya wa LINUX-CDGRAB"
+colores_MSG39=" RANGI YA JUMLA YA FONT"
+colores_MSG40="LABELS"
+colores_MSG41="NOTICES"
+colores_MSG42="SUCCESS"
+colores_MSG43="ERROR"
+colores_MSG44="RANGI YA NYUMA"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="ORODHA YA RANGI INAYOPATIKANA:"
+cambiar_esquema_de_color_MSG2="#####MIPANGO YA RANGI########"
+cambiar_esquema_de_color_MSG3="-----------------------------"
+cambiar_esquema_de_color_MSG4="Menyu ya Rangi"
+cambiar_esquema_de_color_MSG5="Imeshindwa"
+cambiar_esquema_de_color_MSG6="Labels"
+cambiar_esquema_de_color_MSG6b="Notisi"
+cambiar_esquema_de_color_MSG7="Menyu ya Rangi Sawa Lebo za Maonyo ya Kushindwa"
+cambiar_esquema_de_color_MSG8="Ingiza nambari ya rangi mpya:"
+cambiar_esquema_de_color_MSG9="CHAGUO BATILI"
+cambiar_esquema_de_color_MSG10="KUWEKA RANGI CHAGUO-MSINGI."
+cambiar_esquema_de_color_MSG11="USULI = BLUE_USULI"
+cambiar_esquema_de_color_MSG12="FONT = NYEUPE NG'ARI"
+cambiar_esquema_de_color_MSG13=" WARNINGS = MANJANO INAYONG'ARA"
+cambiar_esquema_de_color_MSG14=" MAKOSA = NYEKUNDU ING'ARA"
+cambiar_esquema_de_color_MSG15=" MAKOSA = NYEKUNDU ING'ARA"
+cambiar_esquema_de_color_MSG16=" HITS = KIJANI ANGAVU"
+cambiar_esquema_de_color_MSG17=" LEBO = CYAN ANGAVU"
+
+# cambia_lector
+
+cambia_lector_MSG1="MIPANGILIO YA MAZINGIRA KWA VITENGO VYA MAONI"
+cambia_lector_MSG2="Kifaa cha sasa kinachohusishwa na CD-ROM, DVD-ROM au BD-ROM"
+cambia_lector_MSG3="Kifaa cha sasa kinachohusishwa na CD/DVD/BD Burner"
+cambia_lector_MSG4="Kifaa cha sasa kinachohusishwa na parameta dev=ATAPI"
+cambia_lector_MSG5="(msaada wa vipindi vingi vya cdrecord)"
+cambia_lector_MSG6="Chagua kifaa ambacho mabadiliko yatafanywa."
+cambia_lector_MSG7="Ingiza chaguo:"
+cambia_lector_MSG8="Ingiza jina la kifaa kipya"
+cambia_lector_MSG9="hailingani na kifaa cha kuzuia"
+cambia_lector_MSG10="Kifaa"
+cambia_lector_MSG11="imetolewa na chaguo-msingi"
+cambia_lector_MSG12="Kifaa kipya ni:"
+cambia_lector_MSG13="Si matoleo yote ya cdrecord yanayokubali kifaa cha kuzuia kama kigezo cha kurekodi"
+cambia_lector_MSG14="Ingiza jina la kifaa kipya cha ATAPI"
+cambia_lector_MSG15="Usanidi si sahihi kwa CANALATAPI"
+cambia_lector_MSG16="0,0,0 imetolewa kwa chaguo-msingi kwa utofauti huu"
+cambia_lector_MSG17="Faili ya usanidi itaandikwa kwa CANALATAPI = 0,0,0"
+cambia_lector_MSG18="Kifaa kipya ni:"
+cambia_lector_MSG19="HAKUNA MABADILIKO YANAYOFANYIKA KWENYE VIFAA"
+cambia_lector_MSG4B="Hamisha maadili kutoka kwa faili ya usanidi"
+cambia_lector_MSG4C="MAADILI HAYA YALIRIPOTIWA KWA MAZINGIRA:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Kutoka menyu hii unaweza kuchagua ni matumizi gani"
+cambia_generador_isocd_MSG2="itatumika kutengeneza picha za ISO-9660"
+cambia_generador_isocd_MSG3="kutoka kwa CDS zilizopo kwenye kitengo cha kusoma."
+cambia_generador_isocd_MSG4="Usanidi wa sasa:"
+cambia_generador_isocd_MSG5="Tumia dd (sehemu ya msingi ya GNU)"
+cambia_generador_isocd_MSG6="Tumia readcd (sehemu ya cdrtools)"
+cambia_generador_isocd_MSG7="Menyu iliyotangulia."
+cambia_generador_isocd_MSG8="Chagua chaguo:"
+cambia_generador_isocd_MSG9="Kutumia dd kama jenereta ya iso."
+cambia_generador_isocd_MSG10="Kutumia readcd kama jenereta ya iso."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Weka metadata ya HFS pamoja na Rock Ridge na Joliet"
+establecer_hfs_iso_MSG2="Tumia Rock Ridge na metadata ya Joliet pekee"
+establecer_hfs_iso_MSG3="Menyu iliyotangulia."
+establecer_hfs_iso_MSG4="Chagua chaguo:"
+establecer_hfs_iso_MSG5="Kutumia HFS, Rock Ridge na metadata ya Joliet"
+establecer_hfs_iso_MSG6="Kutumia Rock Ridge na metadata ya Joliet"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Mfumo wa sasa wa arifa"
+cambia_notificaciones_MSG2A="GNOME Graphical Interface"
+cambia_notificaciones_MSG2B="KDE Graphical Interface"
+cambia_notificaciones_MSG2="Kiolesura chenye ncurses"
+cambia_notificaciones_MSG3="Kiolesura cha maandishi"
+cambia_notificaciones_MSG4="Toka"
+cambia_notificaciones_MSG5="Chagua chaguo:"
+cambia_notificaciones_MSG6="Kutumia kiolesura chenye mazungumzo"
+cambia_notidicaciones_MSG6B="Kutumia Kiolesura chenye zenity"
+cambia_notidicaciones_MSG6C="Kutumia Kiolesura chenye kdialog"
+cambia_notificaciones_MSG7="Amri ya kidadisi haikupatikana"
+cambia_notificaciones_MSG8="Kutumia kiolesura cha maandishi"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Lugha inayotumika:"
+cambiar_idioma_UI_MSG1="Lugha Zinazopatikana Kwa Sasa:"
+cambiar_idioma_UI_MSG2="Ingiza jina la lugha itakayotumika"
+cambiar_idioma_UI_MSG3="katika kiolesura cha programu:"
+cambiar_idioma_UI_MSG4="Lugha mpya iliyotumika ni:"
+cambiar_idioma_UI_MSG5="Anzisha upya LINUX-CDGRAB"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Usanidi wa sasa"
+seleccion_gestor_archivos_MSG2="Tumia mc"
+seleccion_gestor_archivos_MSG3="Tumia kidhibiti maandishi jumuishi"
+seleccion_gestor_archivos_MSG4="mc haiwezi kupatikana ikiwa imesakinishwa kwenye mfumo"
+seleccion_gestor_archivos_MSG5="Kutumia kidhibiti cha maandishi kilichounganishwa kwa chaguo-msingi"
+seleccion_gestor_archivos_MSG6="mc shirika"
+seleccion_gestor_archivos_MSG7="Nakala Iliyounganishwa"
+
+# centro_de_control
+
+centro_de_control_MSG1="CONTROL CENTER"
+centro_de_control_MSG2="Usanidi Mpya"
+centro_de_control_MSG3="Futa faili ya usanidi"
+centro_de_control_MSG4="Onyesha faili ya sasa ya usanidi na thamani"
+centro_de_control_MSG5="CONFIGURATION FILE VALUES:"
+centro_de_control_MSG5B="UWEKEZAJI WA SASA UNAOTUMIKA KATIKA MAZINGIRA:"
+centro_de_control_MSG6="Badilisha Midia ya Macho"
+centro_de_control_MSG7="Angalia programu zilizosakinishwa"
+centro_de_control_MSG8="Changanua mlango wa IDE/SCSI kwa cdrecord"
+centro_de_control_MSG8C="Changanua bandari ya IDE/SCSI kwa cdrskin"
+centro_de_control_MSG8B="Orodhesha vitengo vilivyosakinishwa kwenye mfumo na cdrskin"
+centro_de_control_MSG9="Badilisha matumizi ya iso ya iso kutoka CD"
+centro_de_control_MSG9B="Weka metadata ya HFS ya iso-9660"
+centro_de_control_MSG10="Badilisha Kiolesura cha Mtumiaji"
+centro_de_control_MSG10b="Badilisha Rangi"
+centro_de_control_MSG10c="Badilisha Lugha ya Kiolesura"
+centro_de_control_MSG11="Badilisha Kidhibiti Faili"
+centro_de_control_MSG11B="Ondoa programu"
+centro_de_control_MSG12="Ingiza chaguo: "
+centro_de_control_MSG13="FILI LA UDHIBITI HAIPO"
+centro_de_control_MSG14="FILI LA UDHIBITI HAIJAPATIKANA"
+centro_de_control_MSG15="Kuchanganua"
+centro_de_control_MSG16="IDE/SCSI lango limechanganuliwa"
+centro_de_control_MSG17="Hitilafu katika kuchanganua bandari ya IDE/SCSI"
+centro_de_control_MSG18="Chagua mpango wa rangi"
+centro_de_control_MSG19="Chagua rangi kiholela"
+centro_de_control_MSG20="Menyu iliyotangulia"
+centro_de_control_MSG21="Ingiza chaguo: "
+centro_de_control_MSG22="FILI LA UDHIBITI HAIPO"
+centro_de_control_MSG23="FILI LA UDHIBITI HAIJAPATIKANA"
+centro_de_control_MSG24="Chagua mpangilio wa rangi"
+centro_de_control_MSG25="Chagua rangi kiholela"
+centro_de_control_MSG26="Chaguo batili"
+

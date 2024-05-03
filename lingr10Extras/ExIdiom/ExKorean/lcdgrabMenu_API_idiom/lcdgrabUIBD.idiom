@@ -1,0 +1,20 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKorean/lcgdrabMenu_API_idiom/lcdgrabUIBD.idiom
+# Menu de Interfaz para la grabación de BD.
+# Traducción experimental al Coreano, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_grabar_BD
+
+menu_grabar_BD_MSG0="이전 메뉴."
+menu_grabar_BD_MSG1="BLU-RAY 디스크에 녹화 중"
+menu_grabar_BD_MSG2="하드 드라이브 데이터에서 새 BD-R/BD-RE iso 굽기"
+menu_grabar_BD_MSG4="디스크에 구울 ISO/UDF 이미지입니다."
+menu_grabar_BD_MSG7="BD-R/BD-RE에서 iso-9660/udf 이미지 굽기"
+menu_grabar_BD_MSG8="------------------- BD - 데이터 -----------------"
+menu_grabar_BD_MSG9="드라이브 디스크 정보 표시"
+menu_grabar_BD_MSG10="BD-RE에 필요한 포맷 적용"

@@ -1,0 +1,110 @@
+#########################################################
+# lcgdrabAPI_idiom/ExGreek/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma griego para la coleccion de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+
+m_cdrecord_sin_overburn_MSG1="Επανάληψη της διαδικασίας εγγραφής..."
+m_cdrecord_sin_overburn_MSG2="Εκτέλεση cdrecord χωρίς την επιλογή -overburn"
+m_cdrecord_sin_overburn_MSG3="-overburn δεν υποστηρίζεται σε παλαιότερες συσκευές εγγραφής, ούτε σε παλαιότερες εκδόσεις του cdrecord."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="ΜΗ ΕΓΚΥΡΗ ΕΠΙΛΟΓΗ"
+
+# img_error
+
+img_error_D_MSG1="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗ ΔΗΜΙΟΥΡΓΙΑ ΤΗΣ ΕΙΚΟΝΑΣ"
+
+# CD_error
+
+CD_error_D_MSG1="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΕΓΓΡΑΦΗ ΤΟΥ CD"
+
+# DVD_error
+
+DVD_error_D_MSG1="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΕΓΓΡΑΦΗ ΤΟΥ DVD"
+
+# DO_error
+
+DO_error_D_MSG1="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΕΓΓΡΑΦΗ ΟΠΤΙΚΟΥ ΔΙΣΚΟΥ"
+
+
+# tecla
+
+tecla_D_MSG1="\nΠατήστε ENTER για να συνεχίσετε. . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="ΔΙΑΔΡΟΜΕΣ ΚΑΤΑΛΟΓΟΥ ΓΙΑ ΚΑΨΗ ΣΤΟ ΔΙΣΚΟ"
+rutas_dir_D_MSG2="Εισαγάγετε το όνομα του καταλόγου (f στ να φύγω):"
+rutas_dir_D_MSG3="ΕΥΡΕΤΗΡΙΟ"
+rutas_dir_D_MSG4="ΔΕΝ ΕΙΝΑΙ ΕΓΚΥΡΗ"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="ΙΔΙΑ ΟΠΤΙΚΗ ΜΟΝΑΔΑ ΣΤΟ ΣΥΣΤΗΜΑ"
+una_sola_grabadora_D_MSG2="Η ΜΟΝΑΔΑ ΑΝΑΓΝΩΣΗΣ ΚΑΙ ΚΑΤΑΓΡΑΦΗΣ ΕΙΝΑΙ ΙΔΙΑ. ΥΠΟΤΙΘΕΤΑΙ ΟΤΙ ΤΟ ΣΥΣΤΗΜΑ ΣΑΣ ΕΧΕΙ ΜΟΝΟ ΜΙΑ ΦΥΣΙΚΗ ΜΟΝΑΔΑ. ΑΦΑΙΡΕΣΤΕ ΤΟΝ ΔΙΣΚΟ ΠΗΓΗΣ ΑΠΟ ΤΗ ΜΟΝΑΔΑ. ΤΟΠΟΘΕΤΗΣΤΕ ΕΝΑ ΠΑΡΘΕΝΟ ΟΠΤΙΚΟ ΔΙΣΚΟ ΓΙΑ ΣΥΝΕΧΙΣΗ ΤΗΣ ΔΙΑΔΙΚΑΣΙΑΣ ΕΓΓΡΑΦΗΣ"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="Η ΕΓΓΡΑΦΗ ΤΟΥ ΔΙΣΚΟΥ ΟΛΟΚΛΗΡΩΘΗΚΕ ΜΕ ΕΠΙΤΥΧΙΑ"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="ΜΗ ΕΓΚΥΡΗ ΕΠΙΛΟΓΗ"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="Η ΕΓΓΡΑΦΗ ΤΟΥ ΔΙΣΚΟΥ ΟΛΟΚΛΗΡΩΘΗΚΕ ΜΕ ΕΠΙΤΥΧΙΑ"
+
+# text_img_error
+
+text_img_error_MSG1="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗ ΔΗΜΙΟΥΡΓΙΑ ΤΗΣ ΕΙΚΟΝΑΣ"
+
+# text_CD_error
+
+text_CD_error_MSG1="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΕΓΓΡΑΦΗ ΤΟΥ CD"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΕΓΓΡΑΦΗ ΤΟΥ DVD"
+
+# text_DO_error
+
+text_DO_error_MSG1="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΕΓΓΡΑΦΗ ΟΠΤΙΚΟΥ ΔΙΣΚΟΥ"
+
+# teclash
+
+teclash_MSG1="Πατήστε ENTER για να συνεχίσετε. . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Εισαγάγετε το όνομα του καταλόγου (f στ να φύγω):"
+text_rutas_dir_MSG2="ΕΥΡΕΤΗΡΙΟ"
+text_rutas_dir_MSG3=" ΔΕΝ ΕΙΝΑΙ ΕΓΚΥΡΗ"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="ΙΔΙΑ ΟΠΤΙΚΗ ΜΟΝΑΔΑ ΣΤΟ ΣΥΣΤΗΜΑ"
+text_una_sola_grabadora_MSG2="Η ΜΟΝΑΔΑ ΑΝΑΓΝΩΣΗΣ ΚΑΙ ΚΑΤΑΓΡΑΦΗΣ ΕΙΝΑΙ ΙΔΙΑ."
+text_una_sola_grabadora_MSG3="ΥΠΟΤΙΘΕΤΑΙ ΟΤΙ ΤΟ ΣΥΣΤΗΜΑ ΣΑΣ ΕΧΕΙ ΜΟΝΟ ΕΝΑ"
+text_una_sola_grabadora_MSG4="ΦΥΣΙΚΗ ΜΟΝΑΔΑ."
+text_una_sola_grabadora_MSG5="ΚΑΤΑΡΓΗΣΗ ΤΟΥ ΔΙΣΚΟΥ ΠΗΓΗΣ ΑΠΟ ΤΗ ΜΟΝΑΔΑ."
+text_una_sola_grabadora_MSG6="ΕΙΣΑΓΩΓΗ ΠΑΡΘΕΝΟΥ ΟΠΤΙΚΟΥ ΔΙΣΚΟΥ"
+text_una_sola_grabadora_MSG7="ΓΙΑ ΣΥΝΕΧΙΣΗ ΜΕ ΤΗ ΔΙΑΔΙΚΑΣΙΑ ΗΧΟΓΡΑΦΗΣΗΣ."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="Τρέξιμο"

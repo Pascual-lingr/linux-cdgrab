@@ -1,0 +1,24 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFrench/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en francés para el menu de conversion de Video.
+# Traducción experimental, generada con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="CONVERSION VIDÉO"
+menu_conversion_video_MSG2="----------- CONVERSION ENTRE FORMATS ------------"
+menu_conversion_video_MSG3="Convertir la vidéo en disque Blu Ray compatible Smart-TV"
+menu_conversion_video_MSG4="Fichier vidéo à convertir :"
+menu_conversion_video_MSG0="Menu précédent"
+menu_conversion_video_MSG6="Enregistrer une session de bureau"
+menu_conversion_video_MSG7="Convertir le fichier vidéo dans un format différent"
+menu_conversion_video_MSG8="----------------- AUTRES OPTIONS ----------------"
+menu_conversion_video_MSG9="Mélanger le fichier vidéo avec le fichier audio"
+menu_conversion_video_MSG10="Extraire l'audio MP3 d'un fichier vidéo"
+menu_conversion_video_MSG11="Découper le fichier vidéo"
+
+

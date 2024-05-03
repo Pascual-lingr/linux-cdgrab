@@ -1,0 +1,61 @@
+#########################################################
+# lcdgrabAPI_idiom/ExThai/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Tailandés para el menu de montaje y desmontaje de dispositivos
+# Experimental, generado con Google Translate y Chat GPT
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="อุปกรณ์ที่ติดตั้งอยู่ในระบบในปัจจุบัน"
+montar_dispositivos_MSG1B="ประกอบ/ถอดประกอบอุปกรณ์"
+montar_dispositivos_MSG2="ตัวเลือก LINUX-CDGRAB"
+montar_dispositivos_MSG3="นำดิสก์ออกจากเครื่องอ่าน CD/DVD/BD"
+montar_dispositivos_MSG4="นำดิสก์ออกจากเครื่องเขียนซีดี/ดีวีดี/BD"
+montar_dispositivos_MSG5="เมานต์เครื่องอ่านซีดีรอม/ดีวีดีรอม/BD-ROM"
+montar_dispositivos_MSG6="ถอนติดตั้งซีดีรอม/ดีวีดีรอม/BD-ROM"
+montar_dispositivos_MSG7="ติดตั้งหรือถอดอุปกรณ์ด้วยมือ"
+# Traducción Chat GPT - INI
+montar_dispositivos_MSG0="เมนูก่อนหน้า"
+# Traducción Chat GPT - FIN
+montar_dispositivos_MSG8="ติดตั้งซีดี/ดีวีดี/BD"
+montar_dispositivos_MSG9="กด ENTER เพื่อดำเนินการต่อ..."
+montar_dispositivos_MSG10="เกิดข้อผิดพลาดในการติดตั้งซีดี/ดีวีดี/BD"
+montar_dispositivos_MSG11="ซีดี/ดีวีดี/BD ได้ถูกถอดออกแล้ว"
+montar_dispositivos_MSG12="เกิดข้อผิดพลาดในการถอดซีดี/ดีวีดี/BD"
+montar_dispositivos_MSG13="พิมพ์อุปกรณ์ที่จะเมานต์/ถอนเมานท์:"
+montar_dispositivos_MSG14="ป้อนจุดเมานท์:"
+montar_dispositivos_MSG15="ไม่สอดคล้องกับอุปกรณ์บล็อก"
+montar_dispositivos_MSG16="ไม่พบจุดเมานท์"
+montar_dispositivos_MSG17="จุดเมานท์เริ่มต้น"
+# Traducción Chat GPT - INI
+montar_dispositivos_MSG18="กรุณาพิมพ์ตัวเลือก:"
+# Traducción Chat GPT - FIN
+montar_dispositivos_MSG19="เมานต์"
+# Resultado del traductor
+montar_dispositivos_MSG20="th"
+montar_dispositivos_MSG21="ถอนติดตั้ง"
+montar_dispositivos_MSG22="เด"
+montar_dispositivos_MSG23="ติดตั้งบน:"
+montar_dispositivos_MSG24="ข้อผิดพลาดเมื่อติดตั้ง"
+# Resultado del traductor
+montar_dispositivos_MSG25="TH"
+montar_dispositivos_MSG26="ลงจากหลังม้าแล้ว"
+montar_dispositivos_MSG27="ข้อผิดพลาดเมื่อยกเลิกการเมานท์"
+montar_dispositivos_MSG28="เด"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="เอาต์พุตคำสั่งเมานต์"
+Montar_Imagenes_MSG1B="การประกอบ/การแยกชิ้นส่วนไฟล์ภาพ"
+# Traducción Chat GPT - INI
+Montar_Imagenes_MSG2="กรุณาพิมพ์ตัวเลือก"
+# Traducción Chat GPT - FIN
+Montar_Imagenes_MSG3="เมานต์อิมเมจซีดี/ดีวีดี/BD"
+Montar_Imagenes_MSG4="ถอนติดตั้งอิมเมจซีดี/ดีวีดี/BD"
+# Traducción Chat GPT - INI
+Montar_Imagenes_MSG5="เมนูก่อนหน้า"
+# Traducción Chat GPT - FIN

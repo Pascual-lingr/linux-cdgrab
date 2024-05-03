@@ -1,0 +1,32 @@
+# Idioma Afrikáans para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con google translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Druk ENTER om voort te gaan..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="==========================================="
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 LIGHTSCRIBE ONDERSTEUNING."
+cabecera_lightscribe_MSG3="==========================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Tik die pad van die prent wat jy na skyf wil druk:"
+imprimir_disco_lightscribe_MSG2="Die prentformaat moet .bmp wees"
+imprimir_disco_lightscribe_MSG3="hardloop"
+imprimir_disco_lightscribe_MSG4="Etiket gedruk op die skyf"
+imprimir_disco_lightscribe_MSG5="Fout met die druk van etiket na skyf"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="LightScribe-tegnologie is slegs op sommige eenhede teenwoordig"
+lingr10lightscribepatch_MSG2="Jy moet kyk of jou opnemer dit het."
+lingr10lightscribepatch_MSG3="Net so kan slegs spesiale CD's of DVD's gemerk word vir LightScribe"
+lingr10lightscribepatch_MSG4="Druk 'n LightScribe-skyf"
+lingr10lightscribepatch_MSG5="Vorige spyskaart"
+lingr10lightscribepatch_MSG6="Ongeldige opsie"
+

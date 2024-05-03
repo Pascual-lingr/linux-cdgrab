@@ -1,0 +1,15 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKorean/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Coreano para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="광 디스크가 꺼졌습니다"
+expulsar_medio_MSG2="장치에서 디스크를 꺼내는 중 오류가 발생했습니다."
+expulsar_medio_MSG3="이름을 직접 입력하세요:"

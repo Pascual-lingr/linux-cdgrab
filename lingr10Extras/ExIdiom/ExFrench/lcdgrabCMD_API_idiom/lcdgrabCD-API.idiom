@@ -1,0 +1,184 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFrench/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Francés para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="en cours d'exécution"
+copia_bin_MSG2="--------------RECESSATION DU PROCESSUS D'ENREGISTREMENT---------------"
+copia_bin_MSG3=" SUPPRESSION DU FICHIER IMAGE"
+copia_bin_MSG4="UNE ERREUR D'ENREGISTREMENT EST SURVENUE"
+copia_bin_MSG5="Le fichier .iso de dump de l'image disque est introuvable. Abandon de l'enregistrement..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="en cours d'exécution"
+datos_al_vuelo_MSG2="Erreur de tentative d'enregistrement, nouvelle tentative sans prise en charge de la surcharge"
+datos_al_vuelo_MSG3="Vérifiez que le disque ou le périphérique source"
+datos_al_vuelo_MSG4="est en bon état"
+datos_al_vuelo_MSG5="Obtention du numéro de bloc de sortie à partir du disque source"
+datos_al_vuelo_MSG6="COPIE DU DISQUE..."
+
+# clonar_cd
+
+clonar_cd_MSG1="en cours d'exécution"
+clonar_cd_MSG2="CD CLONÉ AVEC SUCCÈS"
+clonar_cd_MSG3="UNE ERREUR EST SURVENUE LORS DU CLONAGE DU CD"
+
+# datos
+
+datos_MSG1="Fichiers et répertoires pour créer l'image .iso"
+datos_MSG2="ÉTIQUETTE CD/DVD/BD"
+datos_MSG3="Entrez un nom pour le futur CD/DVD/BD :"
+datos_MSG4="Lancement du gestionnaire de fichiers :"
+datos_MSG5=" CRÉATION D'IMAGE . . ."
+datos_MSG6="en cours d'exécution"
+datos_MSG7="IMAGE ISO-9660 CRÉÉE DANS"
+datos_MSG8="GRAVURE DE CD/DVD/BD"
+datos_MSG9="LE PROCESSUS DE CRÉATION DU FICHIER IMAGE A ÉCHOUÉ"
+datos_MSG10="RÉESSAYER D'EN CRÉER UN NOUVEAU SANS SUPPORT POUR HFS (Macintosh)"
+datos_MSG11="SUPPRESSION DE L'IMAGE . . ."
+datos_MSG12="CRÉATION D'UNE NOUVELLE IMAGE . . ."
+datos_MSG13="IL N'EST PAS POSSIBLE D'ENREGISTRER CORRECTEMENT"
+datos_MSG14="------------RECESSATION DU PROCESSUS D'ENREGISTREMENT---------------"
+datos_MSG15="EFFACER L'IMAGE..."
+datos_MSG16="GRAVURE DE CD/DVD/BD DE DONNÉES ISO-9660..."
+datos_MSG17="Non trouvé."
+datos_MSG18="Abandon de l'enregistrement sur disque..."
+
+# datoslb
+
+datoslb_MSG1="Erreur : Le fichier image est introuvable. Abandon..."
+datoslb_MSG2="PROCESSUS D'ENREGISTREMENT OK"
+datoslb_MSG3="ERREUR DANS LE PROCESSUS D'ENREGISTREMENT"
+
+# borra
+
+borra_MSG0="Menu précédent"
+borra_MSG1="Choisissez le mode pour effacer le CD-RW"
+borra_MSG2="-----------------------------------"
+borra_MSG3="Suppression rapide (utiliser cdrecord)"
+borra_MSG4="Suppression complète (utiliser cdrecord)"
+borra_MSG5="Suppression requise (utiliser cdrskin)"
+borra_MSG6="en cours d'exécution"
+borra_MSG7="Le formatage ou la suppression nécessaire est appliqué en fonction de l'état du disque"
+borra_MSG8="CD-RW EFFACÉ AVEC SUCCÈS !!"
+borra_MSG9="ERREUR D'EFFACEMENT DU CD-RW"
+borra_MSG10="FORCER L'EFFACEMENT DU CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="ERREUR LORS DE LA ESSAI D'EFFACER LE CD-RW"
+err_borra_cdrw_MSG2="CD-RW INUTILISABLE"
+err_borra_cdrw_MSG3="IL N'EST PAS POSSIBLE DE SUPPRIMER CE CD-RW"
+err_borra_cdrw_MSG4="VÉRIFIEZ QUE LE CD-RW N'EST PAS UN DOMMAGE PHYSIQUE"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="en cours d'exécution"
+cerrar_cd_MSG2="LE CD A ÉTÉ FERMÉ CORRECTEMENT"
+cerrar_cd_MSG3="ERREUR LORS DE LA FERMETURE DU CD"
+cerrar_cd_MSG4="FERMETURE DE LA PISTE SUR LE CD DE DONNÉES . . ."
+
+# grabimg
+
+grabimg_MSG1="Image .iso ou .ext2 à graver sur CD/DVD"
+grabimg_MSG2="Lancement du gestionnaire de fichiers."
+grabimg_MSG3="Tapez le chemin complet où se trouve l'image CD/DVD que vous souhaitez graver :"
+grabimg_MSG4="en cours d'exécution"
+grabimg_MSG5="-----------RECESSATION DU PROCESSUS D'ENREGISTREMENT---------------"
+grabimg_MSG6="ENREGISTREMENT TERMINÉ !!"
+grabimg_MSG7="IMAGE .EXT2 ENREGISTRÉE AVEC SUCCÈS"
+
+# grabimglb
+
+grabimglb_MSG1="Tapez le chemin complet de l'image CD/DVD que vous souhaitez graver :"
+grabimglb_MSG2="Graver l'image sur le disque..."
+grabimglb_MSG3="IMAGE ISO-9660 ENREGISTRÉE AVEC SUCCÈS"
+grabimglb_MSG4="ERREUR PENDANT L'ENREGISTREMENT D'UNE IMAGE ISO-9660"
+grabimglb_MSG5="Erreur : Impossible de trouver le fichier image. Abandon..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1="Fichiers .bin et .cue pour récupérer l'image"
+grabimg_cue_MSG2="Pour enregistrer l'image bin/cue, les deux fichiers doivent"
+grabimg_cue_MSG3="vous êtes dans Active Directory."
+grabimg_cue_MSG4="Répertoire actif actuel"
+grabimg_cue_MSG5="Entrez le nom du fichier *.cue qui fait référence au fichier image *.bin"
+grabimg_cue_MSG6="fichier .cue : "
+grabimg_cue_MSG7="en cours d'exécution"
+grabimg_cue_MSG8="ENREGISTREMENT TERMINÉ !!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Graver une multisession de CD à partir d'une image .iso"
+cd_multi_MSG2="Graver une première session sur le CD à partir d'une image .iso"
+cd_multi_MSG3="Graver un CD-Multisession à partir de fichiers sur le disque"
+cd_multi_MSG4="Enregistrer les sessions successives sur le CD à partir des fichiers du disque dur"
+cd_multi_MSG5="Cette option nécessite un CD multi-session, avec une session préalablement enregistrée."
+cd_multi_MSG6="Menu précédent"
+cd_multi_MSG7="image .iso à graver sur CD-Multisession"
+cd_multi_MSG8="Spécifiez le chemin de l'image .iso"
+cd_multi_MSG9="en cours d'exécution"
+cd_multi_MSG10="CD MULTISESSION ENREGISTRÉ AVEC SUCCÈS !!"
+cd_multi_MSG11="Répertoires à inclure dans l'image."
+cd_multi_MSG12="Spécifiez ci-dessous les répertoires à inclure"
+cd_multi_MSG13="Entrez un nom pour le label du CD :"
+cd_multi_MSG14="CRÉATION D'IMAGE..."
+cd_multi_MSG15="CRÉÉ AVEC SUCCÈS"
+cd_multi_MSG16="ERREUR LORS DE LA CRÉATION DE L'IMAGE. PROCESSUS D'ENREGISTREMENT À L'ABORD..."
+cd_multi_MSG17="GRAVURE D'IMAGE CD..."
+cd_multi_MSG18="MENU CD MULTISÉSION"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="RIPPAGE DU CD AUDIO..."
+copia_cd_audio_MSG2="En cours d'exécution"
+copia_cd_audio_MSG3="PISTES AUDIO RIPÉES AVEC SUCCÈS !!"
+copia_cd_audio_MSG4="ERREUR LORS DE L'EXPIRATION DES PISTES AUDIO"
+copia_cd_audio_MSG5="GRAVURE DE CD AUDIO..."
+copia_cd_audio_MSG6="CD AUDIO COPIÉ AVEC SUCCÈS !!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1="Fichiers .wav à graver sur CD"
+wav_a_cd_MSG2="Linux-cdgrab ne vérifiera pas la taille du répertoire"
+wav_a_cd_MSG3="Assurez-vous qu'il ne dépasse pas 650 Mo au cas où"
+wav_a_cd_MSG4="si vous utilisez un CD de 80 minutes."
+wav_a_cd_MSG5="Entrez le chemin du répertoire des fichiers .wav"
+wav_a_cd_MSG6="en cours d'exécution"
+wav_a_cd_MSG7="PROCESSUS TERMINÉ!"
+
+# cdmixto
+
+cdmixto_MSG1="Projet de création CD-Mixto (Data Image .iso + Fichiers Audio .wav)"
+cdmixto_MSG2="Linux-cdgrab ne vérifiera pas la taille du répertoire"
+cdmixto_MSG3="où sont les fichiers audio."
+cdmixto_MSG4="Il ne le fera pas non plus à partir de l'image .iso que vous allez enregistrer"
+cdmixto_MSG5="plus tard."
+cdmixto_MSG6="Soyez cohérent avec la taille que vous avez"
+cdmixto_MSG7="graver sur votre nouveau CD."
+cdmixto_MSG8="Spécifiez le chemin des fichiers audio :"
+cdmixto_MSG9="Spécifiez le chemin de l'image iso :"
+cdmixto_MSG10="#################################"
+cdmixto_MSG11="ENREGISTREMENT CD MIXTE : DONNEES + AUDIO"
+cdmixto_MSG12="en cours d'exécution"
+cdmixto_MSG13="----CD MIXTE CRÉÉ AVEC SUCCÈS----- !! "
+cdmixto_MSG14="------ERREUR LORS DE LA GRAVURE D'UN CD MIXTE--------"
+
+# discoinfo
+
+discoinfo_MSG1="en cours d'exécution"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="Port IDE/SCSI analysé"
+cdrecord_scan_MSG1="Erreur lors de l'analyse du port IDE/SCSI"
+cdrecord_scan_MSG2="Cdrecord introuvable"
+

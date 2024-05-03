@@ -1,0 +1,146 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAfrikaans/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Afrikáans para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3-LêERS OM TE OMSETTE"
+mp3awav_MSG0="Voer die pad van die .mp3-lêers in: "
+mp3awav_MSG1="KEIS OM"
+mp3awav_MSG1B=" NA .wav FORMAT"
+mp3awav_MSG2="hardloop"
+mp3awav_MSG3="Steekproef gestel op 44100 Mhz"
+mp3awav_MSG4="Fout met die verwerking van monsterneming"
+mp3awav_MSG5="Kon nie omskakel nie"
+mp3awav_MSG6="Gids nie gevind nie"
+mp3awav_MSG7="EINDE VAN OUDIOOMSKEIDING"
+mp3awav_MSG8="Normalisering van oudiolêer"
+mp3awav_MSG9="Lêer"
+mp3awav_MSG10="Genormaliseer"
+mp3awav_MSG11="Normaliseringsfout"
+
+# oggawav
+
+oggawav_MSG0="OGG-LêERS OM TE OMSETTE"
+oggawav_MSG1="Voer die pad van die .ogg-lêers in: "
+oggawav_MSG2="KEIS OM"
+# Se omite 'n por evitar errores de funcionamiento
+oggawav_MSG2B="n .wav FORMAAT"
+oggawav_MSG3="hardloop"
+oggawav_MSG4="Steekproef gestel op 44100 Mhz"
+oggawav_MSG5="Fout met die verwerking van monsterneming"
+oggawav_MSG6="Kon nie omskakel nie"
+oggawav_MSG7="Gids nie gevind nie"
+oggawav_MSG8="EINDE VAN OUDIODEKKING"
+oggawav_MSG9="Normalisering van oudiolêer"
+oggawav_MSG10="Lêer"
+oggawav_MSG11="Genormaliseer"
+oggawav_MSG12="Normaliseringsfout"
+
+# cdawav
+
+cdawav_MSG1="RIP tans oudio-CD..."
+cdawav_MSG2="Voer tans uit:"
+cdawav_MSG3="SUKSESVOL GERYFDE OUDIOSNELLE!!"
+cdawav_MSG4="Inhoud van oudiolêersgids"
+cdawav_MSG5="FOUT WANNEER LUISTERKANTE RYP word"
+
+# cddawav
+
+cddawav_MSG1="VOER DIE AANTAL SNITE IN OM TE RIP:"
+# Se omite 'n por evitar errores de funcionamiento
+cddawav_MSG2="Druk Crtl + c om die rip van n snit te kanselleer"
+cddawav_MSG3="Voer tans uit:"
+cddawav_MSG4="SUKSESVOL GESKER"
+cddawav_MSG5="FOUT RIPPING"
+
+# wavamp3
+
+wavamp3_MSG0="WAV-LêERS OM TE OMSETTE"
+wavamp3_MSG1="Voer die pad van die .wav-lêers in: "
+wavamp3_MSG1B="KEIS OM"
+# Se omite 'N por evitar errores de funcionamiento
+wavamp3_MSG2="'N FORMAAT"
+wavamp3_MSG3="Voer tans uit:"
+wavamp3_MSG4="wanneer omskakeling"
+wavamp3_MSG5="na .MP3-formaat"
+wavamp3_MSG6="Fout omskakeling"
+wavamp3_MSG7="AUDIO-OMSKEIDING VOLTOOI"
+wavamp3_MSG8="AUDIO-GIDS NIE GEVIND NIE"
+
+# cdamp3
+
+cdamp3_MSG1="RIP tans oudio-CD..."
+cdamp3_MSG2="Voer tans uit:"
+cdamp3_MSG3="SUKSESVOL GERYFDE OUDIOSNELLE!!"
+cdamp3_MSG4="FOUT BY DIE RIP VAN KLUISSNELE"
+cdamp3_MSG5="Oproepfunksie:"
+
+# wavaogg
+
+wavaogg_MSG1="Voer die pad van die .wav-lêers in: "
+wavaogg_MSG2="KEIS OM"
+# Se omite 'n por evitar errores de funcionamiento
+wavaogg_MSG3="n .ogg FORMAAT"
+wavaogg_MSG4="Lopende:"
+wavaogg_MSG5="Fout omskakeling"
+wavaogg_MSG6="na .ogg-formaat"
+
+# cdaogg
+
+cdaogg_MSG1="RIP tans oudio-CD's..."
+cdaogg_MSG2="Voer tans uit:"
+cdaogg_MSG3="SUKSESVOL GERYFDE OUDIOSNELLE!!"
+cdaogg_MSG4="FOUT WANNEER LUISTERSNITE RYP WORD"
+cdaogg_MSG5="Oproepfunksie:"
+
+# corta_wav
+
+corta_wav_MSG0="Aantal sekondes:"
+corta_wav_MSG1="Spesifiseer die pad van die oudiolêer om te omskep:"
+corta_wav_MSG2="Spesifiseer die tyd in aantal sekondes, waarvoor"
+corta_wav_MSG3="sny van die lêer sal begin."
+corta_wav_MSG4="-LET WEL-"
+corta_wav_MSG5="Om die begin van die oudio te spesifiseer, voer 0 in"
+corta_wav_MSG6="Waarde in sekondes om omskakeling te begin:"
+corta_wav_MSG7="Spesifiseer die tyd in aantal sekondes, waarvoor"
+corta_wav_MSG8="sny van die lêer sal voltooi word."
+corta_wav_MSG9="Waarde in sekondes vir die einde van die omskakeling:"
+corta_wav_MSG10="Hardloop"
+corta_wav_MSG11="Besnoeide oudiolêer"
+corta_wav_MSG12="Fout tydens snoei van lêer"
+corta_wav_MSG13="Oudiolêer om te knip:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1="Spesifiseer die pad van die .flac lêers:"
+flacawav_MSG2="KEIS OM"
+flacawav_MSG3=" NA .wav FORMAAT"
+flacawav_MSG4="Monsterneming ingestel op 44100 Mhz"
+flacawav_MSG5="Fout met die verwerking van monsterneming"
+flacawav_MSG6="Normalisering van oudiolêer"
+flacawav_MSG7="Lêer"
+flacawav_MSG8="Genormaliseer"
+flacawav_MSG9="Normaliseringsfout"
+flacawav_MSG10="Kon nie omskakel nie"
+flacawav_MSG11="Gids nie gevind nie"
+flacawav_MSG12="EINDE VAN OUDIO-OMSKEIDING"
+
+# wavaflac
+
+wavaflac_MSG0="WAV-LêERS OM TE OMSETTE"
+wavaflac_MSG1="Voer die pad van die .wav-lêers in: "
+wavaflac_MSG2="BEKEER OM"
+# Se omite 'n por evitar errores de funcionamiento
+wavaflac_MSG3="n .flac FORMAAT"
+wavaflac_MSG4="omgeskakel na flac-formaat"
+wavaflac_MSG5="Fout omskakeling"
+wavaflac_MSG6="na .flac-formaat"
+wavaflac_MSG7="FLAC-LêERGIDS NIE GEVIND NIE"

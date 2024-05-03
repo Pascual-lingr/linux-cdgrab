@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLithuanian/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Lituano para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="ŠIUO metu SISTEMoje MONTUOTI ĮRENGINIAI"
+montar_dispositivos_MSG1B="PRIETAISŲ SURINKIMAS / IŠRENGIMAS"
+montar_dispositivos_MSG2="LINUX OPTIONS-CDGRAB"
+montar_dispositivos_MSG3="Išimti diską iš CD/DVD/BD skaitytuvo"
+montar_dispositivos_MSG4="Išimti diską iš CD/DVD/BD įrašymo įrenginio"
+montar_dispositivos_MSG5="Prijunkite CD-ROM/DVD-ROM/BD-ROM skaitytuvą"
+montar_dispositivos_MSG6="Atjungti CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Sumontuokite arba išardykite įrenginį rankomis"
+montar_dispositivos_MSG0="Ankstesnis meniu"
+montar_dispositivos_MSG8="CD / DVD / BD prijungtas"
+montar_dispositivos_MSG9="PASPUSK ENTER, KAD TĘSTI..."
+montar_dispositivos_MSG10="Klaida montuojant CD/DVD/BD diską"
+montar_dispositivos_MSG11="CD/DVD/BD diskas buvo atjungtas"
+montar_dispositivos_MSG12="Klaida atjungiant CD/DVD/BD diską"
+montar_dispositivos_MSG13="Įveskite įrenginį, kurį norite prijungti/atjungti:"
+montar_dispositivos_MSG14="Įveskite prijungimo tašką:"
+montar_dispositivos_MSG15="neatitinka blokuojamo įrenginio"
+montar_dispositivos_MSG16="Prijungimo taškas nerastas"
+montar_dispositivos_MSG17="Numatytasis prijungimo taškas"
+montar_dispositivos_MSG18="Pasirinkite parinktį:"
+montar_dispositivos_MSG19="Sumontuokite"
+montar_dispositivos_MSG20="lt"
+montar_dispositivos_MSG21="Atjungti"
+montar_dispositivos_MSG22="de"
+montar_dispositivos_MSG23="prijungta:"
+montar_dispositivos_MSG24="KLAIDA PRIJUNGANT"
+montar_dispositivos_MSG25="LT"
+montar_dispositivos_MSG26="išjungta iš"
+montar_dispositivos_MSG27="KLAIDA ATJUNGANT"
+montar_dispositivos_MSG28="de"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Montavimo komandos išvestis"
+Montar_Imagenes_MSG1B="VAIZDO FAILŲ SURENGIMAS / IŠARDAVIMAS"
+Montar_Imagenes_MSG2="Pasirinkite parinktį"
+Montar_Imagenes_MSG3="Įdėkite CD/DVD/BD vaizdą"
+Montar_Imagenes_MSG4="Atjungti CD/DVD/BD vaizdą"
+Montar_Imagenes_MSG5="Ankstesnis meniu"
+

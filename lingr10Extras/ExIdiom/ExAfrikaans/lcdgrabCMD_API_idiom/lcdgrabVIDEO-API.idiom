@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAfrikaans/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en Afrikáans para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="VIDEO-OMSKEIDING BLU-RAY DISC VERENIGBAARHEID"
+conv_video_BDVideo_MSG2="Spesifiseer die pad van die videolêer om te omskep:"
+conv_video_BDVideo_MSG3="Spesifiseer die lêernaam van die nuwe video om te skep:"
+conv_video_BDVideo_MSG4="Videolêer suksesvol omgeskakel!!"
+conv_video_BDVideo_MSG5="Fout met die omskakeling van videolêer"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="OMSKEIDING VIDEO LÊERS"
+conv_VideoFich_MSG2="Spesifiseer die videolêer om te omskep:"
+conv_VideoFich_MSG3="Spesifiseer die videolêer om te genereer:"
+conv_VideoFich_MSG4="VIDEO LÊER OMSETTING VOLTOOI"
+conv_VideoFich_MSG5="FOUT BY OMSETTING VAN VIDEO LÊER"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Spesifiseer die videolêer:"
+extrae_Audio_de_Video_MSG2="Spesifiseer die mp3-klanklêer om te genereer:"
+extrae_Audio_de_Video_MSG3="KLANK UITTREKSEL SUKSESVOL"
+extrae_Audio_de_Video_MSG4="FOUT BY UITTREKSEL VAN KLANK"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Spesifiseer die videolêer:"
+extrae_Fragmento_Video_MSG2="Spesifiseer die videolêer om te genereer:"
+extrae_Fragmento_Video_MSG3="Spesifiseer die aanvanklike tyd (Spesifiseer as UU:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Spesifiseer die eindtyd (Spesifiseer as UU:MM:SS) :"
+extrae_Fragmento_Video_MSG5="VIDEO SUKSESVOL GESNY"
+extrae_Fragmento_Video_MSG6="FOUT WANNEER VIDEO AFSNEI"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Spesifiseer die klanklêer:"
+mezcla_Audio_Video_MSG2="Spesifiseer die videolêer:"
+mezcla_Audio_Video_MSG3="Spesifiseer die videolêer om te genereer:"
+mezcla_Audio_Video_MSG4="NUWE VIDEO LÊER SUKSESVOL GEGENEREER"
+mezcla_Audio_Video_MSG5="FOUT OM VIDEO LÊER TE GENEREER"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="OPSIE NIE BESKIKBAAR VIR KONSOLE-VERSLAAG NIE"
+graba_escritorio_MSG2="-- NEEM REKENAARSESSIE OP -- DRUK CTRL + C OM TE KANSELLEER EN TE STOP OPNAME"
+graba_escritorio_MSG3="VIDEO-OPNAME VOLTOOI"
+

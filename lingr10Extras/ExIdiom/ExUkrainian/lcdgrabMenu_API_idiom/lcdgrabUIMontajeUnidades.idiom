@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExUkrainian/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Ucraniano para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="ПРИСТРОЇ, ЯКІ ЗМОНТОВАНІ В СИСТЕМІ"
+montar_dispositivos_MSG1B="МОНТАЖ/РОЗБІРКА ПРИСТРОЇВ"
+montar_dispositivos_MSG2="ПАРАМЕТРИ LINUX-CDGRAB"
+montar_dispositivos_MSG3="Вийняти диск із пристрою читання CD/DVD/BD"
+montar_dispositivos_MSG4="Вийняти диск із пристрою для запису CD/DVD/BD"
+montar_dispositivos_MSG5="Підключити пристрій читання CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG6="Відключити CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Монтаж або демонтаж пристрою вручну"
+montar_dispositivos_MSG0="Попереднє меню"
+montar_dispositivos_MSG8="CD/DVD/BD встановлено"
+montar_dispositivos_MSG9="НАТИСНІТЬ ENTER, ЩОБ ПРОДОВЖИТИ..."
+montar_dispositivos_MSG10="Помилка монтування CD/DVD/BD"
+montar_dispositivos_MSG11="CD/DVD/BD було відключено"
+montar_dispositivos_MSG12="Помилка демонтування CD/DVD/BD"
+montar_dispositivos_MSG13="Введіть пристрій для підключення/відключення:"
+montar_dispositivos_MSG14="Введіть точку підключення:"
+montar_dispositivos_MSG15="не відповідає блоковому пристрою"
+montar_dispositivos_MSG16="Точка монтування не знайдена"
+montar_dispositivos_MSG17="Точка монтування за замовчуванням"
+montar_dispositivos_MSG18="Виберіть параметр:"
+montar_dispositivos_MSG19="Установити"
+montar_dispositivos_MSG20="в"
+montar_dispositivos_MSG21="Відключити"
+montar_dispositivos_MSG22="з"
+montar_dispositivos_MSG23="встановлено на:"
+montar_dispositivos_MSG24="ПОМИЛКА ПІД ЧАС МОНТАЖУ"
+montar_dispositivos_MSG25="UK"
+montar_dispositivos_MSG26="знятий з"
+montar_dispositivos_MSG27="ПОМИЛКА ПРИ ВІДМОНТУВАННІ"
+montar_dispositivos_MSG28="de"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Вихід команди монтування"
+Montar_Imagenes_MSG1B="МОНТАЖ/РОЗБІРКА ФАЙЛОВ ЗОБРАЖЕНЬ"
+Montar_Imagenes_MSG2="Виберіть варіант"
+Montar_Imagenes_MSG3="Підключити образ CD/DVD/BD"
+Montar_Imagenes_MSG4="Відключити образ CD/DVD/BD"
+Montar_Imagenes_MSG5="Попереднє меню"
+

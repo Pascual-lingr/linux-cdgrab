@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwedish/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en sueco para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="VIDEOKOVERTERING BLU-RAY DISC KOMPATIBILITET"
+conv_video_BDVideo_MSG2="Ange sökvägen till videofilen som ska konverteras:"
+conv_video_BDVideo_MSG3="Ange filnamnet för den nya videon som ska skapas:"
+conv_video_BDVideo_MSG4="Videofil konverterades framgångsrikt!!"
+conv_video_BDVideo_MSG5="Fel vid konvertering av videofil"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="CONVERSION VIDEOFILER"
+conv_VideoFich_MSG2="Ange videofilen som ska konverteras:"
+conv_VideoFich_MSG3="Ange videofilen som ska genereras:"
+conv_VideoFich_MSG4="VIDEOFILKONVERING AVSLUTAD"
+conv_VideoFich_MSG5="FEL VID KONVERTERING AV VIDEOFIL"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Ange videofilen:"
+extrae_Audio_de_Video_MSG2="Ange mp3-ljudfilen som ska genereras:"
+extrae_Audio_de_Video_MSG3="LJUDUTTAGNING LYCKADES"
+extrae_Audio_de_Video_MSG4="FEL NÄR LJUD EXTRAHERAS"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Ange videofilen:"
+extrae_Fragmento_Video_MSG2="Ange videofilen som ska genereras:"
+extrae_Fragmento_Video_MSG3="Ange den första tiden (Ange som TT:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Ange sluttid (Ange som TT:MM:SS) :"
+extrae_Fragmento_Video_MSG5="VIDEO TRIMMAD FRAMGÅNG"
+extrae_Fragmento_Video_MSG6="FEL VID TRIMNING AV VIDEO"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Ange ljudfilen:"
+mezcla_Audio_Video_MSG2="Ange videofilen:"
+mezcla_Audio_Video_MSG3="Ange videofilen som ska genereras:"
+mezcla_Audio_Video_MSG4="NY VIDEOFIL FRAMGÅNGSRICK GENERERAD"
+mezcla_Audio_Video_MSG5="FEL VID GENERERING AV VIDEOFIL"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="ALTERNATIV INTE TILLGÄNGLIGT FÖR KONSOLGRÄNSSNITT"
+graba_escritorio_MSG2="-- INSPELNING AV DISKTOPSESSION -- TRYCK CTRL + C FÖR ATT AVBRYTA OCH STOPPA INSPELNING"
+graba_escritorio_MSG3="VIDEOINSPELNING AVSLUTAD"
+
+

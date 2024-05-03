@@ -1,0 +1,76 @@
+#########################################################
+# lcgdrabAPI_idiom/ExThai/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabación en CD.
+# Traducción experimental, generado con Chat GPT
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="เลือกตัวเลือกหนึ่ง"
+clonar_MSG2="--- สำเนาดิสก์พร้อมรูปภาพตัวอย่าง ---"
+clonar_MSG3="คัดลอกข้อมูลจากแผ่นซีดี"
+clonar_MSG4="สร้างภาพลักษณ์ของแผ่นซีดีล่วงหน้าบนฮาร์ดไดร์ฟ"
+clonar_MSG5="--- สำเนาแผ่นดิสก์ในขณะที่กำลังบิน ---"
+clonar_MSG6="สำเนาข้อมูลจากแผ่นซีดีในขณะที่กำลังบิน"
+clonar_MSG7="คลอนแผ่นซีดีข้อมูลขณะที่กำลังบิน"
+clonar_MSG7B="ริพซีดีเพลงได้ทันที"
+# Chat GPT da esta traducción
+clonar_MSG8="ตัวเลือกการคัดลอกแบบ Real-Time ต้องใช้เครื่องอ่านและเขียนแผ่นออปติกสองตัวที่ติดตั้ง"
+clonar_MSG9="ในเครื่องคอมพิวเตอร์ของคุณ เนื่องจากข้อมูลถูกบันทึกขณะที่มันถูกอ่านโดยตรงจากแผ่น"
+clonar_MSG10="ดิสก์ต้นฉบับ หากคุณมีเพียงเครื่องอ่านและเขียนแผ่นออปติกเพียงตัวเดียวในเครื่อง"
+# Chat GPT da esta traducción
+clonar_MSG11="คอมพิวเตอร์ของคุณ คุณจะไม่สามารถใช้การคัดลอกแบบ Real-Time ได้"
+clonar_MSG12B="คัดลอกข้อมูลจากแผ่นซีดี"
+clonar_MSG0="เมนูก่อนหน้านี้"
+
+# mgrabacd
+
+mgrabacd_MSG1="คัดลอกข้อมูลจากฮาร์ดดิสก์ไปยังแผ่นซีดี"
+mgrabacd_MSG2="เขียนข้อมูลลงบนแผ่นซีดีใหม่ (ใช้ cdrtools)"
+mgrabacd_MSG3="เขียนข้อมูลลงบนแผ่นซีดีใหม่ (ใช้ libburnia)"
+mgrabacd_MSG4="เมนูก่อนหน้านี้"
+mgrabacd_MSG5="กรุณาพิมพ์ตัวเลือก"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="บันทึกภาพข้อมูล"
+mgrabaimg_MSG2="เขียนภาพไอโซหรือ ext2 ลงบนแผ่นซีดีรูปแบบ CD-R/RW (ใช้ cdrtools)"
+mgrabaimg_MSG3="เขียนภาพไอโซลงบนแผ่นซีดีรูปแบบ CD-R/RW (ใช้ libburnia)"
+mgrabaimg_MSG4="เมนูก่อนหน้านี้"
+mgrabaimg_MSG5="กรุณาพิมพ์ตัวเลือก"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="เขียนเสียงบนแผ่นซีดีจากไฟล์ .wav"
+mgrabararchivosaudio_MSG2="เขียนเสียงบนแผ่นซีดีจากไฟล์ .mp3"
+mgrabararchivosaudio_MSG3="เขียนเสียงบนแผ่นซีดีจากไฟล์ .ogg"
+mgrabararchivosaudio_MSG0="เมนูก่อนหน้านี้"
+mgrabararchivosaudio_MSG0B="กรุณาพิมพ์ตัวเลือก"
+mgrabararchivosaudio_MSG4="เขียนเสียงบนแผ่นซีดีจากไฟล์ .flac"
+mgrabararchivosaudio_MSG5="การบันทึกเสียงบนแผ่นซีดีจากไฟล์"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="การบันทึกลงแผ่นซีดี"
+menugrabar_cd_MSG2="---------- แผ่นซีดีข้อมูล ----------"
+menugrabar_cd_MSG3="คัดลอกแผ่นซีดีข้อมูล"
+menugrabar_cd_MSG4="เขียนแผ่นซีดีข้อมูลใหม่"
+menugrabar_cd_MSG5="เขียนแผ่นซีดีข้อมูลใหม่แบบมัลติเซสชัน"
+menugrabar_cd_MSG6="เขียนภาพ .iso หรือ .ext2 ลงบนแผ่นซีดี"
+menugrabar_cd_MSG7="เขียนภาพ .bin/.cue ลงบนแผ่นซีดี"
+menugrabar_cd_MSG8="---------- แผ่นซีดีเพลง ----------"
+menugrabar_cd_MSG9="คัดลอกแผ่นซีดีเพลง"
+menugrabar_cd_MSG13="-------- ตัวเลือกอื่นๆ --------"
+menugrabar_cd_MSG14="เขียนแผ่นซีดีแบบผสม (ข้อมูล + เสียง)"
+menugrabar_cd_MSG15="ลบข้อมูลบนแผ่นซีดีรูปแบบ CD-RW"
+menugrabar_cd_MSG16="ปิดแผ่นซีดีที่เปิดอยู่"
+menugrabar_cd_MSG17="แสดงข้อมูลแผ่นดิสก์ในเครื่องบันทึก"
+menugrabar_cd_MSG18="เขียนแผ่นซีดีเสียงจากไฟล์แผ่นดิสก์"
+menugrabar_cd_MSG0="เมนูก่อนหน้านี้"
+menugrabar_cd_MSGPRINCIPAL="กรุณาพิมพ์ตัวเลือก"
+
+

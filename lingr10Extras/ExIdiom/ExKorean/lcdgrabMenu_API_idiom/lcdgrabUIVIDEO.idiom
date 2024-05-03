@@ -1,0 +1,23 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKorean/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en Coreano para el menu de conversión de Video.
+# Traducción experimetal, generada con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="비디오 변환"
+menu_conversion_video_MSG2="----------------- 형식 간 변환 ------------------"
+menu_conversion_video_MSG3="비디오를 블루레이 디스크 스마트 TV 호환으로 변환"
+menu_conversion_video_MSG4="변환할 비디오 파일:"
+menu_conversion_video_MSG0="이전 메뉴"
+menu_conversion_video_MSG6="데스크톱 세션 녹화"
+menu_conversion_video_MSG7="동영상 파일을 다른 형식으로 변환"
+menu_conversion_video_MSG8="------------------- 기타 옵션 ------------------"
+menu_conversion_video_MSG9="비디오 파일과 오디오 파일 혼합"
+menu_conversion_video_MSG10="비디오 파일에서 MP3 오디오 추출"
+menu_conversion_video_MSG11="비디오 파일 다듬기"

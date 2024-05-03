@@ -1,0 +1,108 @@
+#########################################################
+# lcdgrabAPI_idiom/ExCzech/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Checo para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+# Traducción experimental, generado con Google Translate
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="Opakuji proces nahrávání..."
+m_cdrecord_sin_overburn_MSG2="Spuštění cdrecord bez volby -overburn"
+m_cdrecord_sin_overburn_MSG3="-overburn není podporován na starších záznamových zařízeních ani na starších verzích cdrecord."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="NEPLATNÁ MOŽNOST"
+
+# img_error
+
+img_error_D_MSG1="CHYBA PŘI VYTVÁŘENÍ OBRÁZKU"
+
+# CD_error
+
+CD_error_D_MSG1="CHYBA PŘI VYPALOVÁNÍ CD"
+
+# DVD_error
+
+DVD_error_D_MSG1="CHYBA PŘI VYPALOVÁNÍ DVD"
+
+# DO_error
+
+DO_error_D_MSG1="CHYBA PŘI ZÁPISU NA OPTICKÝ DISK"
+
+
+# tecla
+
+tecla_D_MSG1="\nPokračujte stisknutím ENTER . . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="CESTY ADRESÁŘŮ K VYPÁLENÍ NA DISK"
+rutas_dir_D_MSG2="Zadejte název adresáře (f pro ukončení):"
+rutas_dir_D_MSG3="ADRESÁŘ"
+rutas_dir_D_MSG4="NEPLATNÉ"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="STEJNÁ OPTICKÁ JEDNOTKA V SYSTÉMU"
+una_sola_grabadora_D_MSG2="ČTECÍ A ZÁZNAMOVÁ JEDNOTKA JSOU STEJNÁ. PŘEDPOKLADÁ SE, ŽE VÁŠ SYSTÉM MÁ POUZE JEDNU FYZICKOU JEDNOTKU. VYJMĚTE ZDROJOVÝ DISK Z JEDNOTKY. VLOŽTE OPTICKÝ DISK VIRGIN, ABY BYCH POKRAČOVAL V PROCESU ZÁZNAMU"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="NAHRÁVÁNÍ DISKU BYLO ÚSPĚŠNĚ DOKONČENO"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="NEPLATNÁ MOŽNOST"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="NAHRÁVÁNÍ DISKU BYLO ÚSPĚŠNĚ DOKONČENO"
+
+# text_img_error
+
+text_img_error_MSG1="CHYBA PŘI VYTVÁŘENÍ OBRÁZKU"
+
+# text_CD_error
+
+text_CD_error_MSG1="CHYBA PŘI VYPALOVÁNÍ CD"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="CHYBA PŘI VYPALOVÁNÍ DVD"
+
+# text_DO_error
+
+text_DO_error_MSG1="CHYBA PŘI ZÁPISU NA OPTICKÝ DISK"
+
+# teclash
+
+teclash_MSG1="Pokračujte stisknutím ENTER . . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Zadejte název adresáře ( f pro ukončení ):"
+text_rutas_dir_MSG2="ADRESÁŘ"
+text_rutas_dir_MSG3="NEPLATNÉ"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="STEJNÁ OPTICKÁ JEDNOTKA V SYSTÉMU"
+text_una_sola_grabadora_MSG2="JEDNOTKA PRO ČTENÍ A ZÁZNAM JSOU STEJNÉ."
+text_una_sola_grabadora_MSG3="PŘEDPOKLADÁ SE, ŽE VÁŠ SYSTÉM MÁ POUZE JEDEN"
+text_una_sola_grabadora_MSG4="FYZICKÁ JEDNOTKA."
+text_una_sola_grabadora_MSG5="ODSTRAŇTE ZDROJOVÝ DISK Z JEDNOTKY."
+text_una_sola_grabadora_MSG6="VLOŽTE PANENSKÝ OPTICKÝ DISK"
+text_una_sola_grabadora_MSG7="POKRAČOVAT V PROCESU ZÁZNAMU."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="Běh"

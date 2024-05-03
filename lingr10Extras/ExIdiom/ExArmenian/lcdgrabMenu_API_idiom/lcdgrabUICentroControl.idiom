@@ -1,0 +1,282 @@
+#########################################################
+# lcdgrabAPI_idiom/ExArmenian/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Armenio para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux-cdgrab կոնֆիգուրացիա"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Եթե չգիտեք, թե որ IDE ալիքին է պատկանում"
+ayuda_IDE_MSG2="Ձեր ձայնագրիչը կարող է իմանալ՝ սեղմելով t տառը։"
+ayuda_IDE_MSG3="IDE ալիքի օրինակ կարող է լինել 0,0,0 կամ 0,1,0"
+ayuda_IDE_MSG4="Դուք կարող եք նաև նշել համապատասխան սարքը"
+ayuda_IDE_MSG5="ձեր ձայնագրիչին: Եթե չգիտեք, թե որն է, հաստատ սեղմեք d,"
+ayuda_IDE_MSG6="/etc/fstab ֆայլում գրանցված սարքերը դիտելու համար"
+ayuda_IDE_MSG7="Սարքերի օրինակ կարող է լինել /dev/hdd, /dev/hde և այլն։"
+ayuda_IDE_MSG8="Ցանկության դեպքում կարող եք նաև թվարկել պարունակվող բոլոր սարքերը"
+ayuda_IDE_MSG9="/dev գրացուցակում՝ սեղմելով l տառը։"
+ayuda_IDE_MSG10="Դուք պետք է նշեք IDE ալիքը կամ ձայնագրող սարքը"
+ayuda_IDE_MSG11="բայց ոչ երկուսն էլ։"
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab-ը հեռացվել է ձեր համակարգից"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Ձայնագրման արագություն"
+imprimir_variables_MSG2="IDE/SCSI ալիք կամ ձայնագրող սարք"
+imprimir_variables_MSG3="CD-ROM, DVD-ROM կամ BD-ROM ընթերցող"
+imprimir_variables_MSG4="ATAPI սարք"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Ձայնագրման արագություն"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI ալիք կամ ձայնագրող սարք"
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM կամ BD-ROM ընթերցող"
+imprimir_lcdgrabcfg_MSG4="ATAPI սարք"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Տեղադրված է"
+chequeo_de_aplicaciones_MSG2="ՏԵՂԱԴՐՎԱԾ ՉԷ"
+chequeo_de_aplicaciones_MSG3="Տեղադրել"
+chequeo_de_aplicaciones_MSG4="ԿԱՐԵՎՈՐ."
+chequeo_de_aplicaciones_MSG5="Անհրաժեշտ գործիքների տեղադրումը Linux-cdgrab-ն ամբողջությամբ կաշխատի"
+chequeo_de_aplicaciones_MSG6="Բոլոր այն ծրագրերը, որոնց կարիքը Linux-cdgrab-ը պետք է, տեղադրված են ձեր համակարգում"
+chequeo_de_aplicaciones_MSG4B="ԾԱՆՈՒՑՈՒՄ."
+chequeo_de_aplicaciones_MSG5B="Գտնվել են բացակայող գործիքներ"
+chequeo_de_aplicaciones_MSG6B="Համակարգում տեղադրված գործիքներ"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0-ը լռելյայն վերագրված է այս փոփոխականին"
+msgdefCANALATAPI_MSG2="Կազմաձեւման ֆայլը կգրվի CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Կազմաձեւման ֆայլը ավտոմատ կերպով ստեղծվում է Linux-cdgrab-ի կողմից։"
+nuevo_lcdgrabcfg_MSG5="cdrecord համակարգում չի գտնվել"
+nuevo_lcdgrabcfg_MSG6="Տեղադրեք cdrtools փաթեթը։"
+nuevo_lcdgrabcfg_MSG7="Դուք կարող եք շարունակել կազմաձևումը նշելով արժեքները"
+nuevo_lcdgrabcfg_MSG8="ձայնագրում, եթե դրանք նախկինում գիտեք։"
+nuevo_lcdgrabcfg_MSG9="Cdrecord հրամանն օգտագործվում է CD, DVD և BD սկավառակներ ձայնագրելու համար"
+nuevo_lcdgrabcfg_MSG10="Այս ընտրանքները չեն գործի, քանի դեռ նշված փաթեթը չի տեղադրվել:"
+nuevo_lcdgrabcfg_MSG11="Սարքի սկանավորման գործիքը, ներկա, նույնպես չի գործի"
+nuevo_lcdgrabcfg_MSG12="Այս կազմաձևման հրաշագործում։"
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab-ը պետք է կազմաձևվի հետևյալ չորս քայլերով"
+nuevo_lcdgrabcfg_MSG14="Առաջին քայլ."
+nuevo_lcdgrabcfg_MSG15="Ձայնագրման արագություն:"
+nuevo_lcdgrabcfg_MSG16="Միայն մեկ թիվ 2,4,8,16,32... և այլն"
+nuevo_lcdgrabcfg_MSG17="Երկրորդ քայլ."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI ալիք կամ ձայնագրող սարք."
+nuevo_lcdgrabcfg_MSG19="A -> օգնություն"
+nuevo_lcdgrabcfg_MSG20="Սկանավորում..."
+nuevo_lcdgrabcfg_MSG21="Սխալ՝ IDE/SCSI պորտը սկանավորելիս"
+nuevo_lcdgrabcfg_MSG22="Cdrecord-ը չի գտնվել"
+nuevo_lcdgrabcfg_MSG23="Երրորդ քայլ."
+nuevo_lcdgrabcfg_MSG24="CD-ROM, DVD-ROM կամ BD-ROM սարք"
+nuevo_lcdgrabcfg_MSG25="L -> Ցուցակել հասանելի սարքերը"
+nuevo_lcdgrabcfg_MSG26="Սկանավորում..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI պորտը սկանավորվել է"
+nuevo_lcdgrabcfg_MSG28="Սարքը կօգտագործվի cdrecord-ի կողմից dev=ATAPI-ի միջոցով բազմասեսիա ձայնագրություններում"
+nuevo_lcdgrabcfg_MSG30="Սարքն ունի 0,0,0 կամ 1,0,0 և այլն նոմենկլատուրա"
+nuevo_lcdgrabcfg_MSG31="Նշեք սարքը, որը պետք է զանգի cdrecord բազմասեսիա սկավառակների վրա."
+nuevo_lcdgrabcfg_MSG32="Կազմաձեւը ճիշտ չէ CANALATAPI-ի համար"
+nuevo_lcdgrabcfg_MSG33="Սխալ՝ IDE/SCSI պորտը սկանավորելիս"
+nuevo_lcdgrabcfg_MSG34="Cdrecord-ը չի գտնվել"
+nuevo_lcdgrabcfg_MSG36="Կազմաձեւման ֆայլը ավտոմատ կերպով ստեղծվում է Linux-cdgrab-ի կողմից։"
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB SETUP ԱՎԱՐՏՎԱԾ Է"
+
+# colores
+
+colores_MSG1="Գույների ցանկը հնարավոր չէ գտնել"
+colores_MSG2="Նախադրված գույների բեռնում"
+colores_MSG3="Ընտրեք նոր գունային սխեման LINUX-CDGRAB ինտերֆեյսի համար"
+colores_MSG4="ՍԵՎ ՏԱՐԱԳԻՐ"
+colores_MSG5="ՍՏԱՆԴԱՐՏ ՊԱՅՄԱՆ ՏԱՐԱԳԻՐ"
+colores_MSG6="ՍԵՎ ֆոնի գույնը"
+colores_MSG7="ԿԱՐՄԻՐ Տառատեսակ"
+colores_MSG8="ՎԱՅՐ ՍԵՎ ՏԱՌԱԳԻՐ"
+colores_MSG9="ԿԱՐՄԻՐ ֆոնի գույնը"
+colores_MSG10="ԿԱՆԱՉ ՏԱՐԱԳԻՏԱԿ"
+colores_MSG11="ՎԱՌ ԿԱՐՄԻՐ Շատրվան"
+colores_MSG12="ԿԱՆԱՉ ֆոնի գույնը"
+colores_MSG13="ԴԵՂԻՆ ՏԱՐԱԳՐԵՐ"
+colores_MSG14="ՎԱՅՐԿԱՆԱՉ ՏԱՌԱԳԻՐ"
+colores_MSG15="ՆԱՐԱՆՋԻ ֆոնի գույնը"
+colores_MSG16="ԿԱՊՈՒՅՏ ՏԱՐԱԳԻՐ"
+colores_MSG17="ՎԱՌ ԴԵՂԻՆ ՏԱՐԱԳԻՐ"
+colores_MSG18="ԿԱՊՈՒՏ ՖՈՆՏԻ ԳՈՒՅՆԸ"
+colores_MSG19="MAGENTA FONT"
+colores_MSG20="ՎԱՌ ԿԱՊՈՒՅՏ ՏԱՌԱԳԻՐ"
+colores_MSG21="ՄԱՋԵՆՏԱ ֆոնի գույնը"
+colores_MSG22="CYAN SOURCE"
+colores_MSG23="ՊԱՅՈՒՐ ՄԱՋԵՆՏԱ Տառատեսակ"
+colores_MSG24="ԿՈՆԱԿԱՆ ֆոնի գույնը"
+colores_MSG25="ՄՈԽՐԵՅ ՏՐԱԳԻՐ"
+colores_MSG26="ԿՈՆԱԿԱՆ ֆոնի գույնը"
+colores_MSG27="ՎԱՌ ՑԱՆՑ ՏԱՌԱԳԻՐ"
+colores_MSG28="ՄՈԽՐԻ ՖՈՆԻ ԳՈՒՅՆ"
+colores_MSG29="ԿԱՌԱՎԱՐՎԱԾ ԱՂԲՅՈՒՐ"
+colores_MSG30="ՎԱՅՐ ՍՊԻՏԱԿ ՏԱՌԱԳԻՐ"
+colores_MSG31="ՆԱԽՆԱՀԱՅՏ ՖՈՆԻ ԳՈՒՅՆԸ"
+colores_MSG32="Տառատեսակի գույնի համարը."
+colores_MSG33="Ֆոնի գույնի համարը."
+colores_MSG34="Նախազգուշական հաղորդագրությունների գունային համարը."
+colores_MSG35="Գույնի համարը պիտակի հաղորդագրությունների համար."
+colores_MSG36="Գույնի համարը հաջող ավարտված գործընթացների համար"
+colores_MSG37="Սխալով ավարտված գործընթացների գույնի համարը."
+colores_MSG38="Նոր սխեման LINUX-CDGRAB-ի համար"
+colores_MSG39="ԸՆԴՀԱՆՈՒՐ ՏՐԱԳԻՐԻ ԳՈՒՅՆԸ"
+colores_MSG40="ՊԻՏԱԿՆԵՐ"
+colores_MSG41="ԾԱՆՈՒՑՈՒՄՆԵՐ"
+colores_MSG42="ՀԱՋՈՂՈՒԹՅՈՒՆ"
+colores_MSG43="ՍԽԱԼ"
+colores_MSG44="ՀԱՍՏԱՏԱԿԱՆ ԳՈՒՅՆ"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="ՀԱՍԱՆԵԼԻ ԳՈՒՅՆԵՐԻ ՑԱՆԿ."
+cambiar_esquema_de_color_MSG2="#####ԳՈՒՆԱՅԻՆ Սխեմաներ#######"
+cambiar_esquema_de_color_MSG3="-----------------------------"
+cambiar_esquema_de_color_MSG4="Գունավոր ընտրացանկ"
+cambiar_esquema_de_color_MSG5="Չհաջողվեց"
+cambiar_esquema_de_color_MSG6="Պիտակներ"
+cambiar_esquema_de_color_MSG6b="Ծանուցումներ"
+cambiar_esquema_de_color_MSG7="Գունավոր ընտրացանկը OK ձախողման նախազգուշացման պիտակներ"
+cambiar_esquema_de_color_MSG8="Մուտքագրեք նոր գույնի համարը."
+cambiar_esquema_de_color_MSG9="ԱՆՎԱՎԵՐ ՏԱՐԲԵՐԱԿ"
+cambiar_esquema_de_color_MSG10="ԿԱՐԳԱՎՈՐՎԱԾ ԳՈՒՅՆԵՐԻ ԿԱՐԳԱՎՈՐՈՒՄ։"
+cambiar_esquema_de_color_MSG11=" ՀԱՂՈՐԴ = BLUE_BACKGROUND"
+cambiar_esquema_de_color_MSG12=" Շատրվան = ՊԱՅՄԱՆ ՍՊԻՏԱԿ"
+cambiar_esquema_de_color_MSG13=" ԶԳՈՒՇԱՑՈՒՄՆԵՐ = ՎԱՌ ԴԵՂԻՆ"
+cambiar_esquema_de_color_MSG14=" ՍԽԱԼՆԵՐ = ՎԱՌ ԿԱՐՄԻՐ"
+cambiar_esquema_de_color_MSG15=" ՍԽԱԼՆԵՐ = ՎԱՌ ԿԱՐՄԻՐ"
+cambiar_esquema_de_color_MSG16=" ՀԱՋՈՂՈՒԹՅՈՒՆ = ՊԱՅՄԱՆ ԿԱՆԱՉ"
+cambiar_esquema_de_color_MSG17=" ՊԻՏԱԿՆԵՐ = ՊԱՅՐՍԿՅԱՆ"
+
+# cambia_lector
+
+cambia_lector_MSG1="ՄԻՋԱՎԱՅՐԻ ԿԱՐԳԱՎՈՐՈՒՄՆԵՐ ՕՊՏԻԿԱԿԱՆ ՄԻԱՎՈՐՆԵՐԻ ՀԱՄԱՐ"
+cambia_lector_MSG2="Ընթացիկ սարքը կապված է CD-ROM-ի, DVD-ROM-ի կամ BD-ROM-ի հետ"
+cambia_lector_MSG3="Ընթացիկ սարքը կապված է CD/DVD/BD Burner-ի հետ"
+cambia_lector_MSG4="Ընթացիկ սարքը կապված է dev=ATAPI պարամետրի հետ"
+cambia_lector_MSG5="(բազմակի նստաշրջանի աջակցություն cdrecord-ի համար)"
+cambia_lector_MSG6="Ընտրեք սարքը, որի վրա պետք է կատարվի փոփոխությունը։"
+cambia_lector_MSG7="Մուտքագրեք տարբերակ."
+cambia_lector_MSG8="Մուտքագրեք նոր սարքի անունը"
+cambia_lector_MSG9="չի համապատասխանում արգելափակման սարքին"
+cambia_lector_MSG10="Սարք"
+cambia_lector_MSG11="նախադրված է լռելյայն"
+cambia_lector_MSG12="Նոր սարքն է."
+cambia_lector_MSG13="cdrecord-ի ոչ բոլոր տարբերակներն են ընդունում արգելափակման սարքը որպես ձայնագրման պարամետր"
+cambia_lector_MSG14="Մուտքագրեք նոր ATAPI սարքի անունը"
+cambia_lector_MSG15="Կազմաձեւը ճիշտ չէ CANALATAPI-ի համար"
+cambia_lector_MSG16="0,0,0-ը լռելյայն վերագրված է այս փոփոխականին"
+cambia_lector_MSG17="Կազմաձեւման ֆայլը կգրվի CANALATAPI = 0,0,0"
+cambia_lector_MSG18="Նոր սարքն է."
+cambia_lector_MSG19="ՍԱՐՔԵՐՈՒՄ ՓՈՓՈԽՈՒԹՅՈՒՆՆԵՐ ՉԻ ԿԱՏԱՐՎԵԼ"
+cambia_lector_MSG4B="Արտահանել արժեքները կազմաձևման ֆայլից"
+cambia_lector_MSG4C="ԱՅՍ ԱՐԺԵՔՆԵՐԸ ՀԱՇՎԵՑՎԵԼ ԵՆ ՇՐՋԱԿԱՅԻՆ."
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Այս ընտրացանկից կարող եք ընտրել, թե որ օգտակար ծրագիրը"
+cambia_generador_isocd_MSG2="կօգտագործվի ISO-9660 պատկերներ ստեղծելու համար"
+cambia_generador_isocd_MSG3="կարդալու միավորի առկա CDS-ից:"
+cambia_generador_isocd_MSG4="Ընթացիկ կոնֆիգուրացիա:"
+cambia_generador_isocd_MSG5="Օգտագործեք dd (GNU coreutils բաղադրիչ)"
+cambia_generador_isocd_MSG6="Օգտագործեք readcd (cdrtools բաղադրիչ)"
+cambia_generador_isocd_MSG7="Նախորդ ընտրացանկ."
+cambia_generador_isocd_MSG8="Ընտրեք տարբերակ."
+cambia_generador_isocd_MSG9="Օգտագործելով dd որպես iso ​​գեներատոր :"
+cambia_generador_isocd_MSG10="Օգտագործելով readcd որպես iso ​​գեներատոր :"
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Սահմանել HFS մետատվյալները Rock Ridge-ի և Joliet-ի հետ միասին"
+establecer_hfs_iso_MSG2="Օգտագործեք միայն Rock Ridge և Joliet մետատվյալները"
+establecer_hfs_iso_MSG3="Նախորդ ընտրացանկ."
+establecer_hfs_iso_MSG4="Ընտրեք տարբերակ."
+establecer_hfs_iso_MSG5="Օգտագործելով HFS, Rock Ridge և Joliet մետատվյալները"
+establecer_hfs_iso_MSG6="Rock Ridge-ի և Joliet-ի մետատվյալների օգտագործումը"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Ներկայիս ծանուցման համակարգ"
+cambia_notificaciones_MSG2A="GNOME գրաֆիկական ինտերֆեյս"
+cambia_notificaciones_MSG2B="KDE գրաֆիկական ինտերֆեյս"
+cambia_notificaciones_MSG2="Ինտերֆեյս ncurses-ի հետ"
+cambia_notificaciones_MSG3="Տեքստային միջերես"
+cambia_notificaciones_MSG4="Ելք"
+cambia_notificaciones_MSG5="Ընտրեք տարբերակ."
+cambia_notificaciones_MSG6="Ինտերֆեյսի օգտագործումը երկխոսության հետ"
+cambia_notidicaciones_MSG6B="Օգտագործելով միջերեսը zenity-ի հետ"
+cambia_notidicaciones_MSG6C="Օգտագործելով միջերես kdialog-ի հետ"
+cambia_notificaciones_MSG7="Երկխոսության հրամանը չի գտնվել"
+cambia_notificaciones_MSG8="Տեքստի միջերեսի օգտագործում"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Օգտագործվող լեզու."
+cambiar_idioma_UI_MSG1="Ներկայումս հասանելի լեզուներ."
+cambiar_idioma_UI_MSG2="Մուտքագրեք օգտագործվող լեզվի անունը"
+cambiar_idioma_UI_MSG3="հավելվածի միջերեսում"
+cambiar_idioma_UI_MSG4="Օգտագործված նոր լեզուն է."
+cambiar_idioma_UI_MSG5="Վերագործարկեք LINUX-CDGRAB"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Ընթացիկ կոնֆիգուրացիա"
+seleccion_gestor_archivos_MSG2="Օգտագործել mc"
+seleccion_gestor_archivos_MSG3="Օգտագործեք ինտեգրված տեքստային կառավարիչ"
+seleccion_gestor_archivos_MSG4="mc-ը համակարգում տեղադրված չէ"
+seleccion_gestor_archivos_MSG5="Տեքստի ինտեգրված կառավարչի օգտագործումը լռելյայնորեն"
+seleccion_gestor_archivos_MSG6="mc օգտակար"
+seleccion_gestor_archivos_MSG7="Ինտեգրված տեքստ"
+
+# centro_de_control
+
+centro_de_control_MSG1="ՎԵՐԱՀՈՂԱԿԱՆ ԿԵՆՏՐՈՆ"
+centro_de_control_MSG2="Նոր կոնֆիգուրացիա"
+centro_de_control_MSG3="Ջնջել կազմաձևման ֆայլը"
+centro_de_control_MSG4="Ցուցադրել ընթացիկ կազմաձևման ֆայլը և արժեքները"
+centro_de_control_MSG5="ԿՈՆՖԻԳՈՒՐԱՑՄԱՆ ՖԱՅԼԻ ԱՐԺԵՔՆԵՐԸ."
+centro_de_control_MSG5B="ՄԻՋԱՎԱՅՐՈՒՄ ՕԳՏԱԳՈՐԾՎԵԼ Է ԸՆԹԱՑԻԿ ԿԱԶՄԱՎՈՐՈՒՄԸ."
+centro_de_control_MSG6="Փոխել օպտիկական մեդիան"
+centro_de_control_MSG7="Ստուգեք տեղադրված ծրագրերը"
+centro_de_control_MSG8="Սկանավորեք IDE/SCSI պորտը cdrecord-ով"
+centro_de_control_MSG8C="Սկանավորեք IDE/SCSI պորտը cdrskin-ով"
+centro_de_control_MSG8B="Ցուցակել համակարգում տեղադրված միավորները cdrskin-ով"
+centro_de_control_MSG9="Փոխել iso ստեղծող ծրագիրը CD-ից"
+centro_de_control_MSG9B="Սահմանել HFS մետատվյալները iso-9660-ի համար"
+centro_de_control_MSG10="Փոխել օգտագործողի միջերեսը"
+centro_de_control_MSG10b="Փոխել գույնը"
+centro_de_control_MSG10c="Փոխել միջերեսի լեզուն"
+centro_de_control_MSG11="Փոխել Ֆայլերի կառավարիչը"
+centro_de_control_MSG11B="Տեղահանել ծրագիրը"
+centro_de_control_MSG12="Մուտքագրեք տարբերակ."
+centro_de_control_MSG13="ԿՈՆՖԻԳՈՒՐԱՑԻՈՆ ՖԱՅԼ ՉԿԱ"
+centro_de_control_MSG14="ԿՈՆՖԻԳՈՒՐԱՑԻԱՅԻ ՖԱՅԼԸ ՉԻ ԳՏՆՎԵԼ"
+centro_de_control_MSG15="Սկանավորում"
+centro_de_control_MSG16="IDE/SCSI պորտը սկանավորվել է"
+centro_de_control_MSG17="Սխալ՝ IDE/SCSI պորտը սկանավորելիս"
+centro_de_control_MSG18="Ընտրեք գունային սխեման"
+centro_de_control_MSG19="Ընտրեք գույները կամայականորեն"
+centro_de_control_MSG20="Նախորդ ընտրացանկ"
+centro_de_control_MSG21="Մուտքագրեք տարբերակ."
+centro_de_control_MSG22="ԿՈՆՖԻԳՈՒՐԱՑԻՈՆ ՖԱՅԼ ՉԿԱ"
+centro_de_control_MSG23="ԿՈՆՖԻԳՈՒՐԱՑԻԱՅԻ ՖԱՅԼԸ ՉԻ ԳՏՆՎԵԼ"
+centro_de_control_MSG24="Ընտրեք գունային սխեման"
+centro_de_control_MSG25="Ընտրեք գույները կամայականորեն"
+centro_de_control_MSG26="Անվավեր տարբերակ"
+

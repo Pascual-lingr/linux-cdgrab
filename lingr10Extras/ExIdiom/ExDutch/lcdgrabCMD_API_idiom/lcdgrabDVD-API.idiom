@@ -1,0 +1,172 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDutch/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Neerlandés para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Opnameapparaat als"
+buscar_grabadora_MSG1B="Geldig"
+buscar_grabadora_MSG2="Opnameapparaat als"
+buscar_grabadora_MSG2B="Fout"
+buscar_grabadora_MSG3="De dvd+-rw-tools accepteren niet dat het opnameapparaat"
+buscar_grabadora_MSG4="Om DVD's te kunnen branden met behulp van de dvd+rw-tools moet u uw recorder specificeren als een blokapparaat"
+buscar_grabadora_MSG5="Voorbeeld"
+buscar_grabadora_MSG6="o goed"
+buscar_grabadora_MSG7="Bestaande systeemapparaten tonen in /dev"
+buscar_grabadora_MSG8="Voer het blokapparaat in dat overeenkomt met uw DVD-recorder"
+buscar_grabadora_MSG9="Er is geen recordertype of optie opgegeven."
+buscar_grabadora_MSG10="APPARAAT GECONFIGUREERD VOOR DE RECORDER"
+buscar_grabadora_MSG11="Het opnameapparaat is geëxporteerd naar de shell-omgeving als"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Mogelijke waarde alleen geldig voor cdrecord"
+buscar_grabadoralb_MSG2="De huidige configuratie voor de recorder is"
+buscar_grabadoralb_MSG3="Controleer of deze configuratie overeenkomt met de waarde toegewezen door cdrskin"
+buscar_grabadoralb_MSG4="IDE/SCSI-poort scannen met cdrskin..."
+buscar_grabadoralb_MSG5="Specificeer de nieuwe waarde die gebruikt zal worden met cdrskin:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Voer een naam in voor de toekomstige dvd:"
+datos_dvd_MSG2="DVD OPNEMEN . ."
+datos_dvd_MSG3="Gebruik"
+datos_dvd_MSG4="actief"
+datos_dvd_MSG5="DVD SUCCESVOL OPGENOMEN! "
+datos_dvd_MSG6="Mkisofs of genisoimage kan niet worden gevonden, installeer cdrtools of cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Voer een naam in voor de toekomstige dvd:"
+datos_dvd_multi_MSG2="DVD OPNEMEN . ."
+datos_dvd_multi_MSG3="Gebruik"
+datos_dvd_multi_MSG4="actief"
+datos_dvd_multi_MSG5="DVD SUCCESVOL OPGENOMEN! "
+datos_dvd_multi_MSG6="Mkisofs of genisoimage kan niet worden gevonden, installeer cdrtools of cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="BEELD OPNEMEN . ."
+grabimg_dvd_MSG2="actief"
+grabimg_dvd_MSG3="! DVD-BEELD SUCCESVOL OPGENOMEN!"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="BEELD OPNEMEN OP DVD . ."
+copia_bin_dvd_MSG2="actief"
+copia_bin_dvd_MSG3=" BEELDBESTAND VERWIJDEREN"
+copia_bin_dvd_MSG4="OPNAME VOLTOOID!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Formatteer een"
+formatear_dvd_MSG2="Forceer een nieuw formaat voor een"
+formatear_dvd_MSG3="Verplaats het lead-out blok van een"
+formatear_dvd_MSG4="Formatteer een DVD-RW naar sequentieel incrementeel"
+formatear_dvd_MSG5="Formatteer een DVD-RW met beperkt overschrijven"
+formatear_dvd_MSG6="Vul een dvd met nullen"
+formatear_dvd_MSG7="Toon dvd-informatie"
+formatear_dvd_MSG8="Vorige menu"
+formatear_dvd_MSG9="Deze optie wordt gebruikt om de dvd voor de eerste keer te formatteren."
+formatear_dvd_MSG10="Als de dvd al is geformatteerd, worden de gegevens niet gewist."
+formatear_dvd_MSG11="Deze worden bij een nieuwe opname overschreven."
+formatear_dvd_MSG12="Om de inhoud van de dvd te verwijderen gebruik je:"
+formatear_dvd_MSG13="Vul een dvd met nullen"
+formatear_dvd_MSG14="Deze optie verwijdert het formaat en de gegevens van de behandelde dvd."
+formatear_dvd_MSG15="actief"
+formatear_dvd_MSG16="DVD+RW/DVD-RW SUCCESVOL GEFORMATTEERD !"
+formatear_dvd_MSG17="FOUT BIJ HET FORMATTEREN VAN DVD"
+formatear_dvd_MSG18="Formaat forceren op DVD+RW-schijf..."
+formatear_dvd_MSG19="DVD+RW SUCCESVOL GEFORMATTEERD!"
+formatear_dvd_MSG20="FOUT BIJ HET FORMATTEREN VAN DVD+RW"
+formatear_dvd_MSG21="Deze optie heeft geen invloed op de gegevens die zijn opgeslagen op de DVD+RW"
+formatear_dvd_MSG22="Verwijderen van lead-out blok van DVD+RW..."
+formatear_dvd_MSG23="Dvd-rw-schijf formatteren voor sequentieel schrijven..."
+formatear_dvd_MSG24="DVD-RW SUCCESVOL GEFORMATTEERD!"
+formatear_dvd_MSG25="FOUT BIJ HET FORMATTEREN VAN DVD-RW"
+formatear_dvd_MSG26="Dvd-rw-schijf formatteren voor beperkt overschrijven..."
+formatear_dvd_MSG27="WIS HERSCHRIJFBARE DVD"
+
+# null_dvd
+
+null_dvd_MSG1="Schrijven naar schijf vanaf /dev/zero . . ."
+null_dvd_MSG2="actief"
+null_dvd_MSG3="PROCES VOLTOOID"
+null_dvd_MSG4="ONVERWACHTE FOUT"
+
+# dvd_video
+
+dvd_video_MSG1="Pad waar de VIDEO_TS en AUDIO_TS mappen zich bevinden:"
+dvd_video_MSG2="Specificeer het pad waar de VIDEO_TS en AUDIO_TS mappen zich bevinden:"
+dvd_video_MSG3="actief"
+dvd_video_MSG4="--- SUCCESVOL OPGENOMEN DVD-VIDEO ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="rennen"
+dvd_copia_bin_MSG2=" BEELDBESTAND VERWIJDEREN"
+dvd_copia_bin_MSG3="Er is een opnamefout opgetreden"
+
+# dvd_datos
+
+dvd_datos_MSG1="Bestanden en mappen om de .iso-image te maken"
+dvd_datos_MSG2="DVD-LABEL"
+dvd_datos_MSG3="Voer een naam in voor de toekomstige dvd:"
+dvd_datos_MSG4="Bestandsbeheer starten:"
+dvd_datos_MSG5=" AFBEELDING MAKEN . ."
+dvd_datos_MSG6="actief"
+dvd_datos_MSG7="ISO-9660 AFBEELDING GEMAAKT IN"
+dvd_datos_MSG8="DVD OPNEMEN"
+dvd_datos_MSG13="WIS AFBEELDING..."
+
+# dvd_borra
+
+dvd_borra_MSG1="rennen"
+dvd_borra_MSG2="OPTISCHE SCHIJF SUCCESVOL GEFORMATTEERD"
+dvd_borra_MSG3="FOUT BIJ HET FORMATTEREN VAN OPTISCHE SCHIJF"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="rennen"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="Wordt uitgevoerd"
+formatearCDDVDBD_MSG2="OPTISCHE SCHIJF SUCCESVOL GEFORMATTEERD"
+formatearCDDVDBD_MSG3="FOUT BIJ HET FORMATTEREN VAN DE OPTISCHE SCHIJF"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW succesvol geformatteerd!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Fout bij het formatteren van DVD-RW naar beperkt overschrijven"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW succesvol geformatteerd!!"
+formatearDVDRW_incremental_secuencial_MSG2="Fout bij het formatteren van DVD-RW naar sequentieel incrementeel"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Specificeer het pad van de ISO-9660-image die u wilt branden:"
+cdrskinisocddvd_MSG2="ISO-BEELD SUCCESVOL OPGENOMEN!!"
+cdrskinisocddvd_MSG3="FOUT BIJ OPNAME VAN BEELD"
+
+

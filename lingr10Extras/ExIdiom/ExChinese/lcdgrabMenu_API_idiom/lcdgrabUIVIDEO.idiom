@@ -1,0 +1,23 @@
+#########################################################
+# lcdgrabAPI_idiom/ExChinese/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Traducción experimental al Chino Simplificado del menú de conversión de video
+# generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="视频转换"
+menu_conversion_video_MSG2="---------------- 格式之间的转换 -----------------"
+menu_conversion_video_MSG3="将视频转换为兼容蓝光光盘的智能电视"
+menu_conversion_video_MSG4="要转换的视频文件："
+menu_conversion_video_MSG0="上一个菜单"
+menu_conversion_video_MSG6="记录桌面会话"
+menu_conversion_video_MSG7="将视频文件转换为不同格式"
+menu_conversion_video_MSG8="------------------ 其他选项 --------------------"
+menu_conversion_video_MSG9="将视频文件与音频文件混合"
+menu_conversion_video_MSG10="从视频文件中提取 MP3 音频"
+menu_conversion_video_MSG11="修剪视频文件"

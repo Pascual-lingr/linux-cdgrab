@@ -1,0 +1,254 @@
+#########################################################
+# lcgdrabAPI_idiom/ExThai/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en tailandés para el API de creacion y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Chat GPT y Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="ระบบไฟล์ภาพ"
+imagen_linux_fs_MSG2="เลือกระบบไฟล์: "
+imagen_linux_fs_MSG3="สร้างอิมเมจสำหรับ CD-R/RW (702 Mbytes)"
+imagen_linux_fs_MSG4="สร้างภาพสำหรับ DVD+RW (4 Gbytes)"
+imagen_linux_fs_MSG5="สร้างภาพสำหรับ DVD+RW/DL (8 Gbytes)"
+imagen_linux_fs_MSG5B="สร้างภาพสำหรับ BD-R/RE (25 Gbytes)"
+imagen_linux_fs_MSG5C="สร้างไฟล์รูปภาพด้วยขนาดที่กำหนดเอง"
+imagen_linux_fs_MSG6="กำลังสร้างไฟล์เปล่าที่มีความจุ 702 Mbytes"
+imagen_linux_fs_MSG7="กำลังสร้างไฟล์เปล่าที่มีความจุ 4 Gbytes"
+imagen_linux_fs_MSG8="กำลังสร้างไฟล์เปล่าที่มีความจุ 8 Gbytes"
+imagen_linux_fs_MSG8B="กำลังสร้างไฟล์เปล่าที่มีความจุ 25 Gbytes"
+imagen_linux_fs_MSG8C="การสร้างไฟล์เปล่าด้วยขนาดที่กำหนดเอง"
+imagen_linux_fs_MSG9="ข้อผิดพลาด: ไม่ทราบขนาดรูปภาพ กำลังยกเลิก..."
+# Traducción de Chat GPT - INI
+imagen_linux_fs_MSG10="กำลังดำเนินการ"
+# Traducción de Chat GPT - FIN
+imagen_linux_fs_MSG11="โปรแกรมจะฟอร์แมตไฟล์เปล่า"
+imagen_linux_fs_MSG12="ระบบจะเตือนคุณว่าไฟล์ที่สร้างไว้ก่อนหน้านี้ไม่ใช่อุปกรณ์บล็อก และจะถามว่าคุณต้องการฟอร์แมตหรือไม่"
+imagen_linux_fs_MSG13="ตอบว่าใช่"
+imagen_linux_fs_MSG13="จัดรูปแบบสำเร็จแล้ว"
+imagen_linux_fs_MSG14=" กำลังติดตั้งอิมเมจ . . . "
+imagen_linux_fs_MSG15="ข้อผิดพลาดเมื่อจัดรูปแบบไฟล์ว่าง"
+imagen_linux_fs_MSG16="โปรแกรมได้เมานต์ไฟล์ที่ฟอร์แมตเป็น"
+imagen_linux_fs_MSG17="Linux-cdgrab จะเรียกใช้ตัวจัดการไฟล์เพื่อให้สามารถทำงานกับรูปภาพที่ติดตั้งอยู่"
+imagen_linux_fs_MSG18="เมื่อคัดลอกไฟล์แล้ว ให้ถอนการต่อเชื่อมไฟล์ที่ฟอร์แมตแล้ว"
+imagen_linux_fs_MSG19="อิมเมจ linux อยู่ในไดเร็กทอรีนี้"
+imagen_linux_fs_MSG19B="ข้อผิดพลาดเมื่อติดตั้งไฟล์ภาพ"
+imagen_linux_fs_MSG20="ไฟล์ที่จะรวมไว้ในรูปภาพ ติดตั้งใน /mnt/lcdgrab"
+imagen_linux_fs_MSG21="กำลังเปิดตัวจัดการไฟล์..."
+imagen_linux_fs_MSG22="ประกาศ:"
+imagen_linux_fs_MSG23="-------"
+imagen_linux_fs_MSG24="รูปภาพ"
+imagen_linux_fs_MSG25="ยังคงติดตั้งอยู่"
+imagen_linux_fs_MSG26="ข้อผิดพลาดเมื่อสร้างไฟล์ว่างด้วย dd"
+imagen_linux_fs_MSG27="ตรวจสอบว่าคุณมีพื้นที่ว่างบนพาร์ติชันที่ติดตั้งที่ /"
+imagen_linux_fs_MSG34="ระบบไฟล์เพื่อจัดรูปแบบไฟล์"
+imagen_linux_fs_MSG35="การสร้างไฟล์เปล่าด้วยขนาดที่กำหนดเอง"
+imagen_linux_fs_MSG36="ระบุขนาดบล็อกของไฟล์ว่างใหม่ (เฉพาะค่าตัวเลข):"
+imagen_linux_fs_MSG37="ตัวอย่างค่าสำหรับขนาดบล็อกคือ: 1024, 2048 (Ext2 เท่านั้น) หรือ 4096 (ทุกรูปแบบ)"
+imagen_linux_fs_MSG38="ระบุขนาดของไฟล์ว่างที่จะสร้าง (เฉพาะค่าตัวเลข):"
+imagen_linux_fs_MSG39="การวัดพื้นที่เพื่อสร้างไฟล์ว่าง:"
+imagen_linux_fs_MSG40="ระบุการวัดพื้นที่ที่จะใช้: "
+imagen_linux_fs_MSG41="ข้อผิดพลาดเมื่อระบุการวัดขนาด"
+imagen_linux_fs_MSG42="ค่าขนาดบล็อก:"
+imagen_linux_fs_MSG43="จำนวนพื้นที่สำหรับไฟล์ว่าง:"
+imagen_linux_fs_MSG44="ค่าที่คำนวณเป็นไบต์:"
+imagen_linux_fs_MSG45="ค่าที่คำนวณได้สำหรับการนับ:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="เปิดใช้งานการอ่าน md5 เมื่อสร้างอิมเมจ .iso"
+comprobar_lectura_md5_MSG2="ปิดใช้งานการอ่าน md5 เมื่อสร้างอิมเมจ .iso"
+# Traducción de Chat GPT - INI
+comprobar_lectura_md5_MSG3="เมนูก่อนหน้า"
+# Traducción de Chat GPT - FIN
+comprobar_lectura_md5_MSG4="การกำหนดค่าปัจจุบัน:"
+comprobar_lectura_md5_MSG5="เปิดใช้งานแล้ว"
+comprobar_lectura_md5_MSG6="ปิดการใช้งาน"
+comprobar_lectura_md5_MSG7="อ่านผลรวม md5 ที่เปิดใช้งานแล้ว"
+comprobar_lectura_md5_MSG8="อ่านผลรวม md5 ปิดการใช้งาน"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="ไม่สามารถอ่านชื่อของอิมเมจ ISO"
+leer_md5sum_MSG2="กำลังอ่าน md5sum ของ"
+leer_md5sum_MSG3="กำลังแสดงผลรวม md5 ของรูปภาพ"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="กำลังสร้างอิมเมจซีดี"
+extraer_isoCD_dd_MSG2="ภาพที่สร้างขึ้นใน"
+extraer_isoCD_dd_MSG3="ไม่พบ"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="การสร้างภาพดีวีดี"
+# Traducción de Chat GPT - INI
+extraer_isoDVD_dd_MSG2="กำลังดำเนินการ"
+# Traducción de Chat GPT - FIN
+extraer_isoDVD_dd_MSG3="รูปภาพที่สร้างขึ้นใน"
+extraer_isoDVD_dd_MSG4="ไม่พบ"
+
+# extraer_iso_readcd
+
+# Traducción de Chat GPT - INI
+extraer_iso_readcd_MSG1="กำลังดำเนินการ"
+# Traducción de Chat GPT - FIN
+extraer_iso_readcd_MSG2="สร้างภาพสำเร็จแล้ว"
+extraer_iso_readcd_MSG3="ภาพที่สร้างขึ้นใน"
+extraer_iso_readcd_MSG4="กำลังยกเลิกกระบวนการบันทึก..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="ซีดีที่ติดตั้ง"
+extraer_iso_mkisofs_MSG2="กำลังสร้างภาพ..."
+extraer_iso_mkisofs_MSG3="เปิดใช้งานความเข้ากันได้ของ Macintosh"
+extraer_iso_mkisofs_MSG4="การใช้"
+# Traducción de Chat GPT - INI
+extraer_iso_mkisofs_MSG5="กำลังดำเนินการ"
+# Traducción de Chat GPT - FIN
+extraer_iso_mkisofs_MSG6="รูปภาพที่สร้างในไดเร็กทอรี"
+extraer_iso_mkisofs_MSG7="กำลังลองกระบวนการใหม่โดยไม่รองรับ Macintosh"
+extraer_iso_mkisofs_MSG8="รูปภาพที่สร้างในไดเร็กทอรี"
+extraer_iso_mkisofs_MSG9="mkisofs ส่งคืนข้อผิดพลาดที่ไม่รู้จักเมื่อสร้าง"
+extraer_iso_mkisofs_MSG10="จาก"
+extraer_iso_mkisofs_MSG11="ตรวจสอบความสมบูรณ์ของข้อมูล"
+extraer_iso_mkisofs_MSG12="การติดตั้ง"
+extraer_iso_mkisofs_MSG12B="en"
+extraer_iso_mkisofs_MSG13="genisoimage ส่งคืนข้อผิดพลาดที่ไม่รู้จักเมื่อสร้าง"
+extraer_iso_mkisofs_MSG13B="จาก"
+extraer_iso_mkisofs_MSG14="ไม่พบ Mkisofs และ genisoimage โปรดติดตั้ง cdrtools หรือ cdrkit"
+extraer_iso_mkisofs_MSG15="ไม่สามารถติดตั้งได้"
+extraer_iso_mkisofs_MSG16="สร้างภาพสำเร็จใน"
+
+# m_comp_img
+
+m_comp_img_MSG1="สร้างภาพสำเร็จใน"
+m_comp_img_MSG2="คุณต้องการบีบอัดไฟล์รูปภาพหรือไม่"
+m_comp_img_MSG3="(s/y) เพื่อบีบอัด; กระบวนการนี้ถูกยกเลิกด้วยตัวเลือกอื่น"
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="กำลังเปิดตัวตัวจัดการไฟล์..."
+generar_iso_directorio_MSG2="ป้อนชื่อสำหรับซีดี/ดีวีดี/BD ในอนาคต"
+generar_iso_directorio_MSG3="กำลังสร้างภาพ..."
+generar_iso_directorio_MSG4="เปิดใช้งานความเข้ากันได้ของ Macintosh"
+generar_iso_directorio_MSG5="การใช้"
+# Traducción de Chat GPT - INI
+generar_iso_directorio_MSG6="กำลังดำเนินการ"
+# Traducción de Chat GPT - FIN
+generar_iso_directorio_MSG7="ภาพที่สร้างขึ้นในไดเรกทอรี"
+generar_iso_directorio_MSG8="กระบวนการสร้างภาพล้มเหลว"
+generar_iso_directorio_MSG9="การสร้างภาพโดยไม่มีความเข้ากันได้ของ MACINTOSH"
+generar_iso_directorio_MSG10="ไม่พบ Mkisofs และ genisoimage โปรดติดตั้ง cdrtools หรือ cdrkit"
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="ป้อนชื่อสำหรับดีวีดี/BD ในอนาคต"
+generar_bdv_udf_directorio_MSG2="ระบุไดเร็กทอรีเพื่อสร้างภาพวิดีโอ:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="ระบุป้ายชื่อดิสก์:"
+generar_iso_directorio_libburnia_MSG2="ระบุไดเร็กทอรีเพื่อสร้างอิมเมจ iso-9660:"
+generar_iso_directorio_libburnia_MSG3="สร้างอิมเมจ ISO9660 สำเร็จแล้ว!!"
+generar_iso_directorio_libburnia_MSG4="เกิดข้อผิดพลาดในการสร้างอิมเมจ iso-9660 ด้วย xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="ไฟล์และไดเร็กทอรีที่จะรวมไว้ในอิมเมจ .iso"
+imagenISO_MSG2="เลือกตัวเลือก"
+imagenISO_MSG2B="---------------------"
+imagenISO_MSG3="สร้างอิมเมจ ISO-9660 จากซีดี (ใช้ dd)"
+imagenISO_MSG4="สร้างอิมเมจ ISO-9660 จากดีวีดี (ใช้ dd)"
+imagenISO_MSG5="สร้างอิมเมจ ISO-9660 จากซีดี (ใช้ readcd)"
+imagenISO_MSG6="สร้างอิมเมจ ISO-9660 จากดิสก์ซีดีหรือดีวีดี (ใช้ mkisofs)"
+imagenISO_MSG7="สร้างอิมเมจ ISO-9660 จากข้อมูลฮาร์ดไดรฟ์ (ใช้ mkisofs)"
+# Traducción de Chat GPT - INI
+imagenISO_MSG8="เมนูก่อนหน้า"
+# Traducción de Chat GPT - FIN
+imagenISO_MSG9="กำลังสร้างภาพ"
+imagenISO_MSG10="สร้างอิมเมจ ISO-9660 จากข้อมูลฮาร์ดไดรฟ์ (ใช้ xorriso)"
+imagenISO_MSG11="สร้างอิมเมจ ISO/udf จากซีดี/ดีวีดี/BD (ใช้ mkisofs)"
+imagenISO_MSG12="สร้างอิมเมจ ISO/udf จากข้อมูลฮาร์ดไดรฟ์ (ใช้ mkisofs)"
+imagenISO_MSG13="เมนูฟอร์แมต ISO-9660"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="สร้างอิมเมจ UDF/ISO จากข้อมูลฮาร์ดไดรฟ์ (ใช้ mkisofs)"
+imagenISO_MSG15="สร้างอิมเมจ UDF/ISO พร้อมรองรับวิดีโอ DVD (ใช้ mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="พิมพ์อุปกรณ์บล็อคต้นทางที่จะใช้สร้างอิมเมจ"
+imagen_img_MSG2="-------------------------------"
+imagen_img_MSG3="อุปกรณ์ที่ลงทะเบียนใน /etc/fstab และ /etc/mtab"
+imagen_img_MSG4="เอาต์พุตคำสั่งเมานต์:"
+imagen_img_MSG5="ป้อนชื่ออุปกรณ์: "
+imagen_img_MSG6="กำลังสร้างภาพ .img ของอุปกรณ์บล็อก"
+# Traducción de Chat GPT - INI
+imagen_img_MSG7="กำลังดำเนินการ"
+# Traducción de Chat GPT - FIN
+imagen_img_MSG8="ภาพอุปกรณ์ที่สร้างขึ้นใน"
+
+# monta_img
+
+monta_img_MSG1="ภาพ ISO หรือ ext2 ที่จะเมานต์"
+monta_img_MSG2="พิมพ์เส้นทางไดเร็กทอรีที่มีรูปภาพที่จะติดตั้ง:"
+monta_img_MSG3="ภาพซีดีที่ติดไว้:"
+monta_img_MSG4="ข้อผิดพลาดเมื่อติดตั้งไฟล์ภาพ"
+monta_img_MSG5="ไม่พบ"
+monta_img_MSG6="ไม่มีจุดเมานท์"
+monta_img_MSG7="ข้อผิดพลาดที่ไม่คาดคิด"
+
+# desmonta_img
+
+desmonta_img_MSG1="ภาพ ISO หรือ ext2 ที่จะลงจากหลังม้า"
+desmonta_img_MSG2="ภาพที่แยกส่วน"
+desmonta_img_MSG3="ไม่พบรูปภาพที่ติดตั้ง"
+desmonta_img_MSG4="เมานท์เอาท์พุต:"
+desmonta_img_MSG5="คุณสามารถระบุเส้นทางไดเร็กทอรีที่แน่นอนของรูปภาพได้โดยตรง"
+desmonta_img_MSG6="เช่น /tmp/lcdgrabimg.iso หรือไดเร็กทอรีการติดตั้งสำหรับรูปภาพ เช่น /mnt/lcdgrab"
+desmonta_img_MSG7="หากไม่ได้ระบุ ก็สามารถค้นหาได้โดยใช้ตัวจัดการไฟล์"
+desmonta_img_MSG8="กำลังเปิดตัวจัดการไฟล์"
+desmonta_img_MSG9="ระบุเส้นทางรูปภาพ"
+desmonta_img_MSG10="ภาพที่แยกส่วน"
+desmonta_img_MSG11="ข้อผิดพลาดเมื่อยกเลิกการเมานท์รูปภาพ"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg รูปภาพที่จะแปลงเป็น .iso"
+nrg_a_iso_MSG2="ป้อนเส้นทางของอิมเมจ .nrg (Nero Burning ROM) ที่จะแปลง"
+nrg_a_iso_MSG3="กำลังแปลงรูปภาพ..."
+nrg_a_iso_MSG4="เส้นทางของรูปภาพ .nrg ต้นทาง"
+nrg_a_iso_MSG5="ไม่มีอยู่หรือสอดคล้องกับไดเรกทอรี"
+nrg_a_iso_MSG6="เส้นทางไม่ถูกต้อง"
+nrg_a_iso_MSG7="เป็นอิมเมจ ISO-9660 ก่อนหน้าอยู่แล้ว แต่จะไม่ถูกแปลง"
+nrg_a_iso_MSG8="กำลังคัดลอกโดยใช้นามสกุลอื่น..."
+nrg_a_iso_MSG9="คัดลอกเสร็จแล้ว"
+# Traducción de Chat GPT - INI
+nrg_a_iso_MSG10="กำลังดำเนินการ"
+# Traducción de Chat GPT - FIN
+nrg_a_iso_MSG11="แปลงรูปภาพเรียบร้อยแล้ว"
+nrg_a_iso_MSG12="ข้อผิดพลาดเมื่อสร้างภาพ .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="สร้างไฟล์คำอธิบาย .cue จากอิมเมจ .bin"
+GenerarArchivocue_MSG2="ไดเร็กทอรีปัจจุบันที่ใช้งานอยู่"
+GenerarArchivocue_MSG3="เขียนเฉพาะเส้นทางไดเรกทอรีโดยที่"
+GenerarArchivocue_MSG4="ค้นหาไฟล์รูปภาพ:"
+GenerarArchivocue_MSG5="ป้อนชื่อของอิมเมจ .bin ที่"
+GenerarArchivocue_MSG6="ได้สร้างไฟล์ .cue ที่เกี่ยวข้องแล้ว"
+GenerarArchivocue_MSG7="ไฟล์คำอธิบาย .cue สร้างสำเร็จแล้ว"
+GenerarArchivocue_MSG8="ข้อผิดพลาดเมื่อสร้างไฟล์คำอธิบาย .cue"
+
+# ImagenbincueCDDVD
+
+# Traducción de Chat GPT - INI
+ImagenbincueCDDVD_MSG1="กำลังดำเนินการ"
+ImagenbincueCDDVD_MSG2="สร้างไฟล์ดิสก์ .BIN .CUE สำเร็จ"
+# Traducción de Chat GPT - FIN
+

@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLithuanian/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Lituano, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab negali rasti vi teksto rengyklės"
+ayuda_MSG2="Įveskite teksto rengyklės, įdiegtos jūsų sistemoje, pavadinimą"
+ayuda_MSG3="NERASTA NĖRA ĮDIEGTO REDAKTORIAUS"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Failas automatiškai sugeneruotas LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="Šis failas kartu su katalogu"
+creacion_de_mnt_MSG3="buvo sugeneruoti automatiškai"
+creacion_de_mnt_MSG4="Linux-cdgrab programa, kai patikrinama, ar jos nėra jūsų Linux platinime"
+creacion_de_mnt_MSG5="katalogas"
+creacion_de_mnt_MSG6="Linux-cdgrab naudoja šį katalogą savo CD-ROM/DVD-ROM/BD-ROM įrenginiui prijungti"
+creacion_de_mnt_MSG7="Katalogas"
+creacion_de_mnt_MSG8="jis nebus ištrintas, jei Linux-cdgrab bus pašalintas, nes dažniausiai tai yra"
+creacion_de_mnt_MSG9="numatytasis /dev/cdrom prijungimo taškas daugelyje Linux platinimų."
+creacion_de_mnt_MSG10="Jei jūsų platinimas naudoja kitą katalogą įrenginiui prijungti /dev/cdrom,"
+creacion_de_mnt_MSG11="nesudarys nesuderinamumo bandant pasiekti jūsų įrenginio duomenis"
+creacion_de_mnt_MSG12="nors jei Linux-cdgrab buvo pašalintas, galite apsieiti be"
+creacion_de_mnt_MSG13="Šis failas skirtas tik informaciniams tikslams, perskaitę galite jį laisvai ištrinti."
+
+# creditos
+
+creditos_MSG1="Platinti pagal GPL v2 licenciją"
+creditos_MSG2="Daugiau informacijos www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, kūrėjas ir prižiūrėtojas"
+creditos_MSG4="Pranešimas apie klaidas: pascual89@hotmail.com"
+creditos_MSG5="Programos svetainė: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Remiantis LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Įkrovimas"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SINTAKSĖ"
+lcdgrab_sintaxis_MSG2="Spausdinti šią žinyną"
+lcdgrab_sintaxis_MSG3="Spausdinti Linux versiją-cdgrab"
+lcdgrab_sintaxis_MSG4="nurodo IDE kanalą arba įrašymo įrenginį"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="nurodo įrašymo greitį"
+lcdgrab_sintaxis_MSG7="nurodo CD-ROM/DVD-ROM/BD-ROM įrenginį"
+lcdgrab_sintaxis_MSG8="nurodo įrašymo įrenginio IDE ATAPI kanalą"
+lcdgrab_sintaxis_MSG9="Parinktys -G -V -L ir -CA reiškia viena kitą."
+lcdgrab_sintaxis_MSG9B="Parinktys -iut -ium -iug ir -iuk nepriklauso viena nuo kitos,"
+lcdgrab_sintaxis_MSG9C="papildomas -G -V -L ir -CA, ir nepriklausomas tarp -h ir -v"
+lcdgrab_sintaxis_MSG10="-h ir -v parinktys nepriklauso viena nuo kitos ir nuo kitų."
+lcdgrab_sintaxis_MSG11="Pavyzdžiai:"
+lcdgrab_sintaxis_MSG12="įrenginys"
+lcdgrab_sintaxis_MSG13="numeris"
+lcdgrab_sintaxis_MSG14="teksto sąsaja"
+lcdgrab_sintaxis_MSG15="sąsaja su ncurses"
+lcdgrab_sintaxis_MSG16="grafinė sąsaja su GTK"
+lcdgrab_sintaxis_MSG17="grafinė sąsaja su Qt"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Įveskite scenarijaus kelią:"
+main_lcdgrabopdep_MSG2="Netinkamas kelias"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Įdiegtos pataisos:"
+main_lcdgrabopdeppatch_MSG2="Įveskite pataisos kelią:"
+main_lcdgrabopdeppatch_MSG3="Nerasta"
+
+# menu principal dialog
+main_lcdgrabop9uidia="ĮKELĖK PAPILDOMO PAISTO"
+
+# menu principal texto
+
+main_lcdgrabop1_text="ĮRAŠYMAS Į CD\t\t\t\t="
+main_lcdgrabop2_text="DVD ĮRAŠYMAS\t\t\t\t="
+main_lcdgrabop3_text="ĮRAŠYMAS BD\t\t\t\t="
+main_lcdgrabop4_text="DISKŲ VEIKSMAI\t\t\t\t="
+main_lcdgrabop5_text="VAIZDO KŪRIMAS\t\t\t\t="
+main_lcdgrabop6_text="GARSO KONVERSIJA\t\t\t\t="
+main_lcdgrabop6b_text="VAIZDO KONVERSIJA\t\t\t="
+main_lcdgrabop7_text="SUJUNKITE AR ATŠALYKITE CD/DVD/BD\t="
+main_lcdgrabop8_text="SUJUNGTI ARBA ATKREIPTI VAIZDĄ\t\t="
+main_lcdgrabop9_text="ĮKELĖK PAPILDOMO PAISTO\t\t\t="
+main_lcdgrabop10_text="VALDYMO CENTRAS\t\t\t\t="
+main_lcdgrabop0_text="IŠEITI\t\t\t\t\t="
+main_lcdgrabet1_text="KITI PASIRINKIMAI ##\t\t="
+main_lcdgrabopEe_text="Išimkite diską iš disko\t\t="
+main_lcdgrabopTD_text="Rodyti katalogą"
+tabs="\t\t="
+main_lcdgrabopG_text="Failų tvarkyklė\t\t\t="
+main_lcdgrabopH_text="Pagalba\t\t\t\t="
+main_lcdgrabopA_text="Apie\t\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="ĮRAŠYMAS Į CD"
+main_lcdgrabop2="DVD ĮRAŠYMAS"
+main_lcdgrabop3="ĮRAŠYMAS BD"
+main_lcdgrabop4="DISKŲ VEIKSMAI"
+main_lcdgrabop5="VAIZDO KŪRIMAS"
+main_lcdgrabop6="GARSO KONVERSIJA"
+main_lcdgrabop6b="VAIZDO KONVERSIJA"
+main_lcdgrabop7="SUJUNKITE AR ATŠALYKITE CD/DVD/BD"
+main_lcdgrabop8="SUJUNGTI ARBA ATKREIPTI VAIZDĄ"
+main_lcdgrabop9="ĮKELĖK PAPILDOMO PAISTO"
+main_lcdgrabop10="VALDYMO CENTRAS"
+main_lcdgrabop0="IŠEITI"
+main_lcdgrabet1="KITI PASIRINKIMAI ##"
+main_lcdgrabopEe="Išimkite diską iš disko"
+main_lcdgrabopTD="Rodyti katalogą"
+main_lcdgrabopG="Failų tvarkyklė"
+main_lcdgrabopH="Pagalba"
+main_lcdgrabopA="Apie"
+main_lcdgrabopPRINCIPAL="Įveskite parinktį:"
+MSG1_MAIN="Pasirinkus H rodomas parinkčių naudojimas."
+main_lcdgrabopA_MSG1="Veikia:"
+

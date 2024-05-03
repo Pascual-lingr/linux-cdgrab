@@ -1,0 +1,171 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwedish/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Sueco para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Inspelningsenhet som"
+buscar_grabadora_MSG1B="Giltigt"
+buscar_grabadora_MSG2="Inspelningsenhet som"
+buscar_grabadora_MSG2B="Fel"
+buscar_grabadora_MSG3="Dvd+-rw-verktygen accepterar inte att inspelningsenheten är"
+buscar_grabadora_MSG4="För att kunna bränna DVD-skivor med dvd+rw-verktygen måste du ange din inspelare som en blockenhet"
+buscar_grabadora_MSG5="Exempel"
+buscar_grabadora_MSG6="eller"
+buscar_grabadora_MSG7="Visar befintliga systemenheter i /dev"
+buscar_grabadora_MSG8="Ange blockeringsenheten som motsvarar din DVD-inspelare"
+buscar_grabadora_MSG9="Ingen brännartyp eller alternativ har specificerats."
+buscar_grabadora_MSG10="ENHET KONFIGURERAD FÖR INSPELARE"
+buscar_grabadora_MSG11="Inspelningsenheten har exporterats till skalmiljön som"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Möjligt värde endast giltigt för cdrecord"
+buscar_grabadoralb_MSG2="Den aktuella konfigurationen för inspelaren är"
+buscar_grabadoralb_MSG3="Kontrollera att den här konfigurationen matchar värdet som tilldelats av cdrskin"
+buscar_grabadoralb_MSG4="Skanna IDE/SCSI-port med cdrskin..."
+buscar_grabadoralb_MSG5="Ange det nya värdet som ska användas med cdrskin:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Ange ett namn för framtida DVD:"
+datos_dvd_MSG2="Spelar in DVD . . ."
+datos_dvd_MSG3="Använder"
+datos_dvd_MSG4="kör"
+datos_dvd_MSG5="DVD LYCKADES INSPELAD!"
+datos_dvd_MSG6="Mkisofs eller genisoimage kan inte hittas, installera cdrtools eller cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Ange ett namn för framtida DVD:"
+datos_dvd_multi_MSG2="Spelar in DVD . . ."
+datos_dvd_multi_MSG3="Använder"
+datos_dvd_multi_MSG4="kör"
+datos_dvd_multi_MSG5="DVD LYCKADES INSPELAD!"
+datos_dvd_multi_MSG6="mkisofs eller genisoimage kan inte hittas, installera cdrtools eller cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="SPELAR IN BILD . . ."
+grabimg_dvd_MSG2="kör"
+grabimg_dvd_MSG3="! DVD-BILD INSPELAD MED FRAMGÅNGSRIKA !"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="SPELAR IN BILD PÅ DVD . . ."
+copia_bin_dvd_MSG2="kör"
+copia_bin_dvd_MSG3=" RADERA BILDFILEN"
+copia_bin_dvd_MSG4="INSPELNING AVSLUTAD!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Formatera a"
+formatear_dvd_MSG2="Tvinga fram ett nytt format för en"
+formatear_dvd_MSG3="Flytta ut utgångsblocket i en"
+formatear_dvd_MSG4="Formatera en DVD-RW till sekventiell inkrementell"
+formatear_dvd_MSG5="Formatera en DVD-RW till begränsad överskrivning"
+formatear_dvd_MSG6="Fyll en DVD med nollor"
+formatear_dvd_MSG7="Visa DVD-information"
+formatear_dvd_MSG8="Föregående meny"
+formatear_dvd_MSG9="Det här alternativet används för att formatera DVD:n för första gången."
+formatear_dvd_MSG10="Om DVD:n redan är formaterad kommer den inte att radera data."
+formatear_dvd_MSG11="Dessa kommer att skrivas över i en ny inspelning."
+formatear_dvd_MSG12="För att radera innehållet på DVD:n använd:"
+formatear_dvd_MSG13="Fyll en DVD med nollor"
+formatear_dvd_MSG14="Det här alternativet tar bort format och data från den behandlade DVD:n."
+formatear_dvd_MSG15="kör"
+formatear_dvd_MSG16="DVD+RW/DVD-RW FORMATERADES MED FRAMGÅNG !"
+formatear_dvd_MSG17="FEL VID FORMATERING AV DVD"
+formatear_dvd_MSG18="Tvingar fram format på DVD+RW-skiva..."
+formatear_dvd_MSG19="DVD+RW FORMATERADES MED FRAMGÅNG!"
+formatear_dvd_MSG20="FEL VID FORMATERING AV DVD+RW"
+formatear_dvd_MSG21="Det här alternativet påverkar inte data som sparats på DVD+RW"
+formatear_dvd_MSG22="Tar bort lead-out block från DVD+RW..."
+formatear_dvd_MSG23="Formaterar DVD-RW-skiva till sekventiell skrivning..."
+formatear_dvd_MSG24="DVD-RW FORMATERADES MED FRAMGÅNG!"
+formatear_dvd_MSG25="FEL VID FORMATERING AV DVD-RW"
+formatear_dvd_MSG26="Formaterar DVD-RW-skiva till begränsad överskrivning..."
+formatear_dvd_MSG27="RADERA REWRITABLE DVD"
+
+# null_dvd
+
+null_dvd_MSG1="Skriver till disk från /dev/noll . . ."
+null_dvd_MSG2="kör"
+null_dvd_MSG3="PROCESSEN SLUTAD"
+null_dvd_MSG4="Oväntat FEL"
+
+# dvd_video
+
+dvd_video_MSG1="Sökväg där katalogerna VIDEO_TS och AUDIO_TS finns:"
+dvd_video_MSG2="Ange sökvägen där katalogerna VIDEO_TS och AUDIO_TS finns:"
+dvd_video_MSG3="kör"
+dvd_video_MSG4="--- LYCKAT INSPELAD DVD-VIDEO ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="kör"
+dvd_copia_bin_MSG2=" RADERA BILDFILEN"
+dvd_copia_bin_MSG3="ETT INSPELNINGSFEL HAR UPPSTÅTT"
+
+# dvd_datos
+
+dvd_datos_MSG1="Filer och kataloger för att skapa .iso-avbildningen"
+dvd_datos_MSG2="DVD-ETIKETT"
+dvd_datos_MSG3="Ange ett namn för den framtida DVD:n:"
+dvd_datos_MSG4="Starta filhanteraren:"
+dvd_datos_MSG5=" SKAPA BILD . . ."
+dvd_datos_MSG6="kör"
+dvd_datos_MSG7="ISO-9660 BILD SKAPAD IN"
+dvd_datos_MSG8="INSPELNING DVD"
+dvd_datos_MSG13="RADERA BILD..."
+
+# dvd_borra
+
+dvd_borra_MSG1="kör"
+dvd_borra_MSG2="OPTISK DISK FORMATERADES FRAMGÅNGSRICKT"
+dvd_borra_MSG3="FEL VID FORMATERING AV OPTISK DISK"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="kör"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="Kör"
+formatearCDDVDBD_MSG2="OPTISK DISK FORMATERADES FRAMGÅNGSRIKTIGT"
+formatearCDDVDBD_MSG3="FEL VID FORMATERING AV OPTISK DISK"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW formaterades framgångsrikt!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Fel vid formatering av DVD-RW till begränsad överskrivning"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW formaterades framgångsrikt!!"
+formatearDVDRW_incremental_secuencial_MSG2="Fel vid formatering av DVD-RW till sekventiell inkrementell"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Ange sökvägen till ISO-9660-bilden som ska brännas:"
+cdrskinisocddvd_MSG2="ISO-BILD INSPELAD MED FRAMGÅNG!!"
+cdrskinisocddvd_MSG3="FEL VID INSPELNING AV BILD"
+

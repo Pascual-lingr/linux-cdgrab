@@ -1,0 +1,45 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Sueco para la aplicación principal   #
+# Traducción experimental.                         #
+# Generado con Google Translate.                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Fil genererad automatiskt av LINUX-CDGRAB 1.0"
+creacion_de_Depot_MSG2="Denna fil tillsammans med katalogen"
+creacion_de_Depot_MSG3="har genererats automatiskt"
+creacion_de_Depot_MSG4="av Linux-cdgrab-applikationen när du verifierade att den inte fanns i din Linux-distribution"
+creacion_de_Depot_MSG5="katalogen"
+creacion_de_Depot_MSG6="Linux-cdgrab använder den här katalogen för att skriva temporära filer och enhetsbilder (iso, img etc..)"
+creacion_de_Depot_MSG8="Depot används av GoboLinux för att lagra temporära filer"
+creacion_de_Depot_MSG9="Syftet med den här filen är endast i informationssyfte, du kan fritt radera den när den har lästs."
+
+# Comprueba el Sistema operativo.
+
+main_IDSYSTEM_MSG1="OBS:"
+main_IDSISTEMA_MSG2="Operativsystem stöds inte."
+main_IDSISTEMA_MSG3="Om det finns problem med applikationens funktion, använd GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="Det är inte ett giltigt argument"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="hittad"
+main_cdkit_test_MSG2="länk till wodim skapad"
+main_cdkit_test_MSG3="länk till genisoimage skapad"
+main_cdkit_test_MSG4="länk till icedax skapad"
+
+# pgm principal
+
+pgm_principal_MSG1="FATAL: Ingen korrekt katalogdistribution hittades."
+pgm_principal_MSG2="OKÄNT"
+

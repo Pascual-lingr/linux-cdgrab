@@ -1,0 +1,172 @@
+#########################################################
+# lcdgrabAPI_idiom/ExJapanese/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Japonés para el API de grabación en DVD.
+# Traducción experimental, generado por google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="みたいな録音機器"
+buscar_grabadora_MSG1B="有効"
+buscar_grabadora_MSG2="みたいな録音機器"
+buscar_grabadora_MSG2B="間違い"
+buscar_grabadora_MSG3="dvd+-rw-tools は、記録デバイスが"
+buscar_grabadora_MSG4="dvd+rw-tools を使用して DVD を作成できるようにするには、バーナーをブロック デバイスとして指定する必要があります。"
+buscar_grabadora_MSG5="例"
+buscar_grabadora_MSG6="まあまあ"
+buscar_grabadora_MSG7="/dev 内の既存のシステム デバイスを表示する"
+buscar_grabadora_MSG8="DVD バーナーに対応するブロック デバイスを入力します。"
+buscar_grabadora_MSG9=" レコーダーまたはオプションのタイプが指定されていません。"
+buscar_grabadora_MSG10="レコーダー用に設定されたデバイス"
+buscar_grabadora_MSG11="記録デバイスはシェル環境にエクスポートされています。"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="cdrecord にのみ有効な可能な値"
+buscar_grabadoralb_MSG2="レコーダーの現在の構成は次のとおりです。"
+buscar_grabadoralb_MSG3="この設定が cdrskin によって割り当てられた値と一致することを確認します"
+buscar_grabadoralb_MSG4="cdrskin で IDE/SCSI ポートをスキャンしています..."
+buscar_grabadoralb_MSG5="cdrskin で使用される新しい値を指定します。"
+
+# datos_dvd
+
+datos_dvd_MSG1="今後の DVD の名前を入力してください:"
+datos_dvd_MSG2="DVDを記録しています。 . ."
+datos_dvd_MSG3="着ている"
+datos_dvd_MSG4="ランニング"
+datos_dvd_MSG5=" DVD録画成功!! "
+datos_dvd_MSG6="mkisofs または genisoimage が見つかりません。cdrtools または cdrkit をインストールしてください"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="今後の DVD の名前を入力してください:"
+datos_dvd_multi_MSG2="DVDを記録しています。 . ."
+datos_dvd_multi_MSG3="着ている"
+datos_dvd_multi_MSG4="ランニング"
+datos_dvd_multi_MSG5=" DVD録画成功!! "
+datos_dvd_multi_MSG6="mkisofs または genisoimage が見つかりません。cdrtools または cdrkit をインストールしてください"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="記録画像。 . ."
+grabimg_dvd_MSG2="ランニング"
+grabimg_dvd_MSG3="! DVD イメージが正常に記録されました!"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="DVD に画像を記録しています。 . ."
+copia_bin_dvd_MSG2="ランニング"
+copia_bin_dvd_MSG3="	画像ファイルの削除"
+copia_bin_dvd_MSG4="レコーディング終了！"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="フォーマット"
+formatear_dvd_MSG2="新しいフォーマットを組織する"
+formatear_dvd_MSG3="のリードアウトブロックを再配置する"
+formatear_dvd_MSG4="DVD-RW をインクリメンタル シーケンシャルにフォーマットする"
+formatear_dvd_MSG5="DVD-RW を上書き制限付きでフォーマットする"
+formatear_dvd_MSG6="DVDのゼロフィル"
+formatear_dvd_MSG7="DVD情報を表示します"
+formatear_dvd_MSG8="前のメニュー"
+formatear_dvd_MSG9="このオプションは、初めて DVD をフォーマットするために使用されます。"
+formatear_dvd_MSG10="DVD が既にフォーマットされている場合、データは消去されません。"
+formatear_dvd_MSG11="これらは新しい録音で上書きされます。"
+formatear_dvd_MSG12="DVD のコンテンツを消去するには、次の手順を使用します"
+formatear_dvd_MSG13="DVDのゼロフィル"
+formatear_dvd_MSG14="このオプションは、処理された DVD からフォーマットとデータを消去します。"
+formatear_dvd_MSG15="ランニング"
+formatear_dvd_MSG16="DVD+RW/DVD-RW が正常にフォーマットされました!"
+formatear_dvd_MSG17="エラーフォーマット DVD"
+formatear_dvd_MSG18="DVD+RW ディスクを強制的にフォーマットしています..."
+formatear_dvd_MSG19="DVD+RW は正常にフォーマットされました!"
+formatear_dvd_MSG20="エラーフォーマット DVD+RW"
+formatear_dvd_MSG21="このオプションは、DVD+RW に保存されたデータには影響しません。"
+formatear_dvd_MSG22="DVD+RW からリードアウト ブロックを削除しています..."
+formatear_dvd_MSG23="DVD-RW ディスクをシーケンシャル書き込みにフォーマットしています..."
+formatear_dvd_MSG24="DVD-RW が正常にフォーマットされました!"
+formatear_dvd_MSG25="エラーフォーマット DVD-RW"
+formatear_dvd_MSG26="上書き制限のある DVD-RW ディスクをフォーマットしています..."
+formatear_dvd_MSG27="記録可能な DVD の消去"
+
+# null_dvd
+
+null_dvd_MSG1="/dev/zero からディスクに書き込みます。 . ."
+null_dvd_MSG2="ランニング"
+null_dvd_MSG3="完了したプロセス"
+null_dvd_MSG4="予期しないエラー"
+
+# dvd_video
+# graba DVD-Video
+
+dvd_video_MSG1="VIDEO_TS および AUDIO_TS ディレクトリが配置されているパス:"
+dvd_video_MSG2="VIDEO_TS および AUDIO_TS ディレクトリが配置されているパスを指定します。"
+dvd_video_MSG3="ランニング"
+dvd_video_MSG4="--- DVD-ビデオが正常に記録されました ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="ランニング"
+dvd_copia_bin_MSG2="	画像ファイルの削除"
+dvd_copia_bin_MSG3="記録エラーが発生しました"
+
+# dvd_datos
+
+dvd_datos_MSG1=".iso イメージを作成するためのファイルとディレクトリ"
+dvd_datos_MSG2="DVDレーベル"
+dvd_datos_MSG3="今後の DVD の名前を入力してください:"
+dvd_datos_MSG4="ファイル マネージャーの起動:"
+dvd_datos_MSG5="	画像を作成しています。 . ."
+dvd_datos_MSG6="ランニング"
+dvd_datos_MSG7="で作成された ISO-9660 イメージ"
+dvd_datos_MSG8="		DVDの記録"
+dvd_datos_MSG13="画像を削除しています..."
+
+# dvd_borra
+
+dvd_borra_MSG1="ランニング"
+dvd_borra_MSG2="光ディスクは正常にフォーマットされました"
+dvd_borra_MSG3="光ディスクのフォーマットエラー"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="ランニング"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="ランニング"
+formatearCDDVDBD_MSG2="光ディスクは正常にフォーマットされました"
+formatearCDDVDBD_MSG3="光ディスクのフォーマットエラー"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW フォーマット成功!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="DVD-RW を上書き制限付きでフォーマット中にエラーが発生しました"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW フォーマット成功!!"
+formatearDVDRW_incremental_secuencial_MSG2="DVD-RW をシーケンシャル インクリメンタルにフォーマット中にエラーが発生しました"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="書き込む iso-9660 イメージのパスを指定します。"
+cdrskinisocddvd_MSG2="ISO イメージが正常に記録されました!!"
+cdrskinisocddvd_MSG3="画像記録中のエラー"
+

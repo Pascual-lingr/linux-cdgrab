@@ -1,0 +1,32 @@
+# Idioma Lao para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="ກົດ ENTER ເພື່ອສືບຕໍ່..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="=================================="
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 ຮອງຮັບ LIGHTSCRIBE."
+cabecera_lightscribe_MSG3="=================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="ພິມເສັ້ນທາງຂອງຮູບທີ່ທ່ານຕ້ອງການພິມລົງໃນດິສກ໌:"
+imprimir_disco_lightscribe_MSG2="ຮູບແບບຮູບຕ້ອງເປັນ .bmp"
+imprimir_disco_lightscribe_MSG3="ແລ່ນ"
+imprimir_disco_lightscribe_MSG4="ປ້າຍກຳກັບທີ່ພິມໃສ່ໃນແຜ່ນ"
+imprimir_disco_lightscribe_MSG5="ຜິດພາດການພິມປ້າຍກຳກັບໃສ່ແຜ່ນດິດ"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="ເທັກໂນໂລຍີ LightScribe ມີຢູ່ໃນບາງໜ່ວຍເທົ່ານັ້ນ"
+lingr10lightscribepatch_MSG2="ເຈົ້າຄວນກວດເບິ່ງວ່າເຄື່ອງບັນທຶກຂອງເຈົ້າມີບໍ."
+lingr10lightscribepatch_MSG3="ເຊັ່ນດຽວກັນ, ພຽງແຕ່ແຜ່ນ CD ຫຼື DVDs ພິເສດທີ່ສາມາດຕິດສະຫຼາກໃຫ້ກັບ LightScribe"
+lingr10lightscribepatch_MSG4="ພິມແຜ່ນ LightScribe"
+lingr10lightscribepatch_MSG5="ເມນູກ່ອນໜ້າ"
+lingr10lightscribepatch_MSG6="ທາງເລືອກທີ່ບໍ່ຖືກຕ້ອງ"
+

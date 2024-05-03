@@ -1,0 +1,45 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Suajili para la aplicación principal #
+# Traducción experimental.                         #
+# Generado con Google Translate.                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Faili inayozalishwa kiotomatiki na LINUX-CDGRAB 1.0"
+creacion_de_Depot_MSG2="Faili hii pamoja na saraka"
+creacion_de_Depot_MSG3="zimetolewa kiotomatiki"
+creacion_de_Depot_MSG4="na programu ya Linux-cdgrab wakati wa kuthibitisha kwamba haikuwepo katika usambazaji wako wa Linux"
+creacion_de_Depot_MSG5="saraka"
+creacion_de_Depot_MSG6="Linux-cdgrab hutumia saraka hii kuandika faili za muda na picha za kifaa (iso, img n.k..)"
+creacion_de_Depot_MSG8="Depot inatumiwa na GoboLinux kuhifadhi faili za muda"
+creacion_de_Depot_MSG9="Madhumuni ya faili hii ni kwa madhumuni ya habari tu, unaweza kuifuta bila malipo mara tu ikisomwa."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="TAARIFA:"
+main_IDSISTEMA_MSG2="Mfumo wa uendeshaji hautumiki."
+main_IDSISTEMA_MSG3="Ikiwa kuna matatizo katika utendakazi wa programu, tumia GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="Sio hoja halali"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="imepatikana"
+main_cdkit_test_MSG2="kiungo cha wodim kimeundwa"
+main_cdkit_test_MSG3="kiungo cha picha ya jeni kimeundwa"
+main_cdkit_test_MSG4="kiungo cha icedax kimeundwa"
+
+# pgm principal
+
+pgm_principal_MSG1="FATAL: Hakuna usambazaji sahihi wa saraka uliopatikana."
+pgm_principal_MSG2="HAIJULIKANA"
+

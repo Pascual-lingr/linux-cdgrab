@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExUkrainian/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Ucraniano, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Виберіть інтерфейс користувача, який буде використовуватися:"
+SeleccionaIUDVD_MSG2="Використовувати інтерфейс для dvd+-rw-tools"
+SeleccionaIUDVD_MSG3="Використовувати інтерфейс для Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Використовувати інтерфейс для libburnia"
+SeleccionaIUDVD_MSG5="Попереднє меню"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="ЗАПИС НА DVD"
+menugrabar_dvd_MSG2="----------------- DVD - ДАНІ ------------------"
+menugrabar_dvd_MSG3="Копіювати DVD з даними ISO-9660"
+menugrabar_dvd_MSG4="Створити попередній образ DVD на жорсткому диску"
+menugrabar_dvd_MSG5="Записати новий DVD з даними ISO-9660"
+menugrabar_dvd_MSG6="Додати новий сеанс даних до DVD з даними ISO-9660 (мультисесійний DVD)"
+menugrabar_dvd_MSG7="Потрібен DVD, попередньо записаний за допомогою другого параметра"
+menugrabar_dvd_MSG8="Записати образ даних ISO-9660 на DVD"
+menugrabar_dvd_MSG9="Записати зображення .ext2 на DVD"
+menugrabar_dvd_MSG10="----------------- DVD - ВІДЕО ------------------"
+menugrabar_dvd_MSG11="Записати новий DVD-Video"
+menugrabar_dvd_MSG12="--------------- ІНШІ ПАРАМЕТРИ -----------------"
+menugrabar_dvd_MSG13="Форматувати DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Показати інформацію про DVD-диск"
+menugrabar_dvd_MSG0="Попереднє меню"
+menugrabar_dvd_MSGPRINCIPAL="Введіть параметр"
+menugrabar_dvd_MSG15="Файли та каталоги для включення на DVD"
+menugrabar_dvd_MSG16="Запуск файлового менеджера..."
+menugrabar_dvd_MSG17=".iso-образ для запису на DVD"
+menugrabar_dvd_MSG18="Введіть шлях до каталогу, де знаходиться образ .iso, який ви хочете записати"
+menugrabar_dvd_MSG19="Потрібна версія cdrecord із підтримкою DVD."
+menugrabar_dvd_MSG20="Запис зображення .ext2 на DVD буде виконано за допомогою cdrecord."
+menugrabar_dvd_MSG21="Версія cdrecord, наявна у вашій установці, повинна"
+menugrabar_dvd_MSG22="підтримка запису DVD."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="ВИБРАТИ ВАРІАНТ"
+dvd_clonar_MSG2="--- КОПІЇ ДИСКА З ПОПЕРЕДНІМ ПЕРЕГЛЯДОМ ЗОБРАЖЕННЯ ---"
+dvd_clonar_MSG3="Копіювати DVD з даними"
+dvd_clonar_MSG4="Створити попередній образ DVD на жорсткому диску"
+dvd_clonar_MSG5="--- КОПІЇ ДИСКА В РЕЙСІ ---"
+dvd_clonar_MSG6="Копіювати DVD з даними на льоту"
+dvd_clonar_MSG7="Клонувати DVD з даними на льоту"
+dvd_clonar_MSG8="ДЛЯ ВАРІАНТІВ ЛІТАЮЧОГО КОПІЮВАННЯ ПОТРІБНІ ДВА ОПТИЧНИХ БЛОКА"
+dvd_clonar_MSG9="ВСТАНОВЛЕНО НА ВАШОМУ КОМП ЮТЕРІ, ОСКІЛЬКИ ДАНІ ПОД ЧАС ЗАПИСУЮТЬСЯ"
+dvd_clonar_MSG10="ЧИТАЙТЕ ПРЯМО З ДИСКА ДЖЕРЕЛА, ЯКЩО Є ЛИШЕ НА ВАШОМУ КОМП ЮТЕРІ"
+dvd_clonar_MSG11="ВИ НЕ МОЖЕТЕ КОРИСТУВАТИСЯ КОПІЯМИ НА ПОЛІТІ."
+dvd_clonar_MSG0="Попереднє меню"
+dvd_clonar_MSG12="КОПІЮВАННЯ ДАНИХ DVD"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="ЗАПИС НА DVD"
+menugrabar_DVD_MSG2="------------------ DVD - ДАНІ -------------------"
+menugrabar_DVD_MSG3="Копіювати DVD з даними"
+menugrabar_DVD_MSG4="Записати новий DVD з даними"
+menugrabar_DVD_MSG5="Записати зображення .iso або .ext2 на DVD"
+menugrabar_DVD_MSG6="Форматувати DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Показати інформацію про диск у приводі"
+menugrabar_DVD_MSG0="Попереднє меню"
+menugrabar_DVD_MSGPRINCIPAL="Введіть параметр"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Записати образ ISO-9660 на DVD"
+menugrabar_DVD_libburnia_MSG2="Записати дані з жорсткого диска на DVD"
+menugrabar_DVD_libburnia_MSG3="Форматувати DVD"
+menugrabar_DVD_libburnia_MSG4="Форматувати DVD-RW у послідовний інкрементальний"
+menugrabar_DVD_libburnia_MSG5="Форматувати DVD-RW для обмеженого перезапису"
+menugrabar_DVD_libburnia_MSG6="Показати інформацію про диск"
+menugrabar_DVD_libburnia_MSG8="Список дисків, встановлених у системі"
+menugrabar_DVD_libburnia_MSG0="Вийти"
+menugrabar_DVD_libburnia_MSG7="Введіть параметр"
+

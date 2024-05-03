@@ -1,0 +1,73 @@
+#########################################################
+# lcgdrabAPI_idiom/ExItalian/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al italiano, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="SCEGLI UN'OPZIONE"
+clonar_MSG2="----- COPIE DISCO CON IMMAGINE ANTEPRIMA ------"
+clonar_MSG3="Copia un CD dati"
+clonar_MSG4="Crea un'immagine CD precedente sul disco rigido"
+clonar_MSG5="------------ COPIE DEL DISCO AL VOLO ----------"
+clonar_MSG6="Copia un CD dati al volo"
+clonar_MSG7="Clona un CD dati al volo"
+clonar_MSG7B="Copia un CD audio al volo"
+clonar_MSG8="LE OPZIONI DI COPIA VOLANTE RICHIEDONO DUE UNITÀ OTTICHE"
+clonar_MSG9="INSTALLATO SUL VOSTRO COMPUTER, DATO CHE I DATI SONO REGISTRATI MENTRE"
+clonar_MSG10="LEGGI DIRETTAMENTE DAL DISCO DI ORIGINE, SE SOLO IL TUO COMPUTER HA"
+clonar_MSG11="NON SARÀ POSSIBILE UTILIZZARE LE COPIE SUL VOLO."
+clonar_MSG12B="COPIA DATI DEL CD"
+clonar_MSG0="Menù precedente"
+
+# mgrabacd
+
+mgrabacd_MSG1="DATI CD DA DISCO RIGIDO"
+mgrabacd_MSG2="Masterizza un nuovo CD dati (usa cdrtools)"
+mgrabacd_MSG3="Masterizza un nuovo CD dati (usa libburnia)"
+mgrabacd_MSG4="Menù precedente"
+mgrabacd_MSG5="Inserisci un'opzione"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="REGISTRAZIONE IMMAGINI DATI"
+mgrabaimg_MSG2="Masterizza immagine ISO o ext2 su CD-R/RW (usa cdrtools)"
+mgrabaimg_MSG3="Masterizza immagine ISO su CD-R/RW (usa libburnia)"
+mgrabaimg_MSG4="Menu precedente"
+mgrabaimg_MSG5="Inserisci un'opzione"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Masterizza un CD audio da file .wav"
+mgrabararchivosaudio_MSG2="Masterizza un CD audio da file .mp3"
+mgrabararchivosaudio_MSG3="Masterizza un CD audio da file .ogg"
+mgrabararchivosaudio_MSG0="Menu precedente"
+mgrabararchivosaudio_MSG0B="Digita un'opzione"
+mgrabararchivosaudio_MSG4="Masterizza un CD audio da file .flac"
+mgrabararchivosaudio_MSG5="REGISTRAZIONE CD-AUDIO DA FILE"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="REGISTRAZIONE SU CD"
+menugrabar_cd_MSG2="------------------- CD - DATI ------------------"
+menugrabar_cd_MSG3="Copia CD dati"
+menugrabar_cd_MSG4="Masterizza un nuovo CD dati"
+menugrabar_cd_MSG5="Masterizza un nuovo CD dati multisessione"
+menugrabar_cd_MSG6="Masterizza immagine .iso o .ext2 su CD"
+menugrabar_cd_MSG7="Masterizza immagine .bin/.cue su CD"
+menugrabar_cd_MSG8="------------------ CD - AUDIO ------------------"
+menugrabar_cd_MSG9="Copia un CD audio"
+menugrabar_cd_MSG13="----------------- ALTRE OPZIONI ----------------"
+menugrabar_cd_MSG14="Masterizza un CD misto (dati + audio)"
+menugrabar_cd_MSG15="Elimina un CD-RW"
+menugrabar_cd_MSG16="Chiudi il CD aperto"
+menugrabar_cd_MSG17="Mostra informazioni sul disco nell'unità"
+menugrabar_cd_MSG18="Masterizza un CD audio da file su disco"
+menugrabar_cd_MSG0="Menu precedente"
+menugrabar_cd_MSGPRINCIPAL="Digita un'opzione"
+

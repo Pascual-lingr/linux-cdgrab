@@ -1,0 +1,102 @@
+#########################################################
+# lcdgrabAPI_idiom/ExThai/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menu de Interfaz para la grabación de DVD.
+# Traducción experimental al Talilandés, generado con 
+# Google Translate y Chat GPT.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+# Traducción Chat GPT - INI
+SeleccionaIUDVD_MSG1="โปรดเลือกอินเตอร์เฟซผู้ใช้ที่จะใช้:"
+SeleccionaIUDVD_MSG2="ใช้ตัวอินเตอร์เฟซสำหรับ dvd+-rw-tools"
+SeleccionaIUDVD_MSG3="ใช้ตัวอินเตอร์เฟซสำหรับ Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="ใช้ตัวอินเตอร์เฟซสำหรับ libburnia"
+SeleccionaIUDVD_MSG5="เมนูก่อนหน้า"
+# Traducción Chat GPT - FIN
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="การบันทึกบนดีวีดี"
+menugrabar_dvd_MSG2="---------- ดีวีดี - ข้อมูล ----------"
+menugrabar_dvd_MSG3="คัดลอกดีวีดีข้อมูล ISO-9660"
+menugrabar_dvd_MSG4="สร้างอิมเมจ DVD ก่อนหน้าบนฮาร์ดไดรฟ์"
+menugrabar_dvd_MSG5="เขียนดีวีดีข้อมูล ISO-9660 ใหม่"
+menugrabar_dvd_MSG6="เพิ่มเซสชันข้อมูลใหม่ลงในดีวีดีข้อมูล ISO-9660 (ดีวีดีแบบหลายเซสชัน)"
+menugrabar_dvd_MSG7="ต้องใช้ DVD ที่บันทึกไว้ก่อนหน้านี้โดยใช้ตัวเลือกที่สอง"
+menugrabar_dvd_MSG8="เบิร์นอิมเมจข้อมูล ISO-9660 ลงดีวีดี"
+menugrabar_dvd_MSG9="เบิร์นอิมเมจ .ext2 ลงดีวีดี"
+menugrabar_dvd_MSG10="---------- ดีวีดี - วิดีโอ ----------"
+menugrabar_dvd_MSG11="เขียนดีวีดีวิดีโอใหม่"
+menugrabar_dvd_MSG12="-------- ตัวเลือกอื่นๆ ---------"
+menugrabar_dvd_MSG13="ฟอร์แมต DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="แสดงข้อมูลแผ่น DVD"
+# Traducción Chat GPT - INI
+menugrabar_dvd_MSG0="เมนูก่อนหน้า"
+menugrabar_dvd_MSGPRINCIPAL="กรุณาพิมพ์ตัวเลือก"
+# Traducción Chat GPT - FIN
+menugrabar_dvd_MSG15="ไฟล์และไดเร็กทอรีที่จะรวมไว้ในดีวีดี"
+menugrabar_dvd_MSG16="กำลังเปิดตัวจัดการไฟล์..."
+menugrabar_dvd_MSG17=".iso ภาพที่จะเขียนลงดีวีดี"
+menugrabar_dvd_MSG18="พิมพ์เส้นทางไดเรกทอรีซึ่งมีอิมเมจ .iso ที่คุณต้องการเบิร์น"
+menugrabar_dvd_MSG19="ต้องมีเวอร์ชันของ cdrecord พร้อมการสนับสนุนดีวีดี"
+menugrabar_dvd_MSG20="การบันทึกภาพ .ext2 บน DVD จะดำเนินการด้วย cdrecord"
+menugrabar_dvd_MSG21="เวอร์ชันของ cdrecord ที่มีอยู่ในการติดตั้งของคุณจะต้อง"
+menugrabar_dvd_MSG22="รองรับการบันทึกดีวีดี"
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="เลือกตัวเลือก"
+dvd_clonar_MSG2="--- สำเนาดิสก์พร้อมภาพตัวอย่าง ---"
+dvd_clonar_MSG3="คัดลอกดีวีดีข้อมูล"
+dvd_clonar_MSG4="สร้างอิมเมจดีวีดีก่อนหน้าบนฮาร์ดไดรฟ์"
+dvd_clonar_MSG5="--- สำเนาแผ่นดิสก์บนเที่ยวบิน ---"
+dvd_clonar_MSG6="คัดลอกดีวีดีข้อมูลได้ทันที"
+dvd_clonar_MSG7="โคลนดีวีดีข้อมูลได้ทันที"
+dvd_clonar_MSG8="ตัวเลือกการคัดลอกแบบบินต้องใช้สองหน่วยออปติคอล"
+dvd_clonar_MSG9="ติดตั้งบนคอมพิวเตอร์ของคุณ เนื่องจากข้อมูลถูกบันทึกในขณะที่อยู่"
+dvd_clonar_MSG10="อ่านโดยตรงจาก ORIGIN DISK หากคอมพิวเตอร์ของคุณมีเท่านั้น"
+dvd_clonar_MSG11="คุณจะไม่สามารถใช้สำเนาบนเที่ยวบินได้"
+# Traducción Chat GPT - INI
+dvd_clonar_MSG0="เมนูก่อนหน้า"
+# Traducción Chat GPT - FIN
+dvd_clonar_MSG12="สำเนาดีวีดีข้อมูล"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="การบันทึกดีวีดี"
+menugrabar_DVD_MSG2="------------------ ดีวีดี-ข้อมูล ------------------"
+menugrabar_DVD_MSG3="ริพข้อมูลดีวีดี"
+menugrabar_DVD_MSG4="เขียนดีวีดีข้อมูลใหม่"
+menugrabar_DVD_MSG5="เบิร์นอิมเมจ .iso หรือ .ext2 ลงดีวีดี"
+menugrabar_DVD_MSG6="ฟอร์แมต DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="แสดงข้อมูลดิสก์ในไดรฟ์"
+# Traducción Chat GPT - INI
+menugrabar_DVD_MSG0="เมนูก่อนหน้า"
+menugrabar_DVD_MSGPRINCIPAL="กรุณาพิมพ์ตัวเลือก"
+# Traducción Chat GPT - FIN
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="เขียนอิมเมจ ISO-9660 ลงดีวีดี"
+menugrabar_DVD_libburnia_MSG2="เขียนข้อมูลจากฮาร์ดไดรฟ์ลงดีวีดี"
+menugrabar_DVD_libburnia_MSG3="ฟอร์แมตดีวีดี"
+menugrabar_DVD_libburnia_MSG4="ฟอร์แมต DVD-RW เป็นส่วนเพิ่มตามลำดับ"
+menugrabar_DVD_libburnia_MSG5="ฟอร์แมต DVD-RW เพื่อจำกัดการเขียนทับ"
+menugrabar_DVD_libburnia_MSG6="แสดงข้อมูลไดรฟ์"
+menugrabar_DVD_libburnia_MSG8="รายการไดรฟ์ที่ติดตั้งในระบบ"
+menugrabar_DVD_libburnia_MSG0="ออก"
+# Traducción Chat GPT - INI
+menugrabar_DVD_libburnia_MSG7="กรุณาพิมพ์ตัวเลือก"
+# Traducción Chat GPT - FIN
+
+

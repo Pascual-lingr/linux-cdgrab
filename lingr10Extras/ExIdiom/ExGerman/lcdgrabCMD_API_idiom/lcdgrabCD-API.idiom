@@ -1,0 +1,185 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGerman/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Alemán para el API de grabación en CD.
+# Traducción experimental, generada con google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="läuft"
+copia_bin_MSG2="--------------AUFZEICHNUNGSVORGANG WIEDERHOLEN---------------"
+copia_bin_MSG3="BILDDATEI LÖSCHEN"
+copia_bin_MSG4="Bei der Aufnahme ist ein Fehler aufgetreten"
+copia_bin_MSG5="Kann die .iso-Dump-Datei auf der Festplatte nicht finden. Brennen wird abgebrochen..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="läuft"
+datos_al_vuelo_MSG2="Ungültiger Aufnahmeversuch, erneuter Versuch ohne Overburn-Unterstützung"
+datos_al_vuelo_MSG3="Überprüfen Sie, ob die Quellfestplatte oder das Quellgerät vorhanden ist"
+datos_al_vuelo_MSG4="ist in gutem Zustand"
+datos_al_vuelo_MSG5="Abrufen der Leadout-Blocknummer von der Quellfestplatte"
+datos_al_vuelo_MSG6="Disk wird kopiert..."
+
+# clonar_cd
+
+clonar_cd_MSG1="läuft"
+clonar_cd_MSG2="CD ERFOLGREICH GEKLONT"
+clonar_cd_MSG3="Beim Klonen der CD ist ein Fehler aufgetreten"
+
+# datos
+
+datos_MSG1="Dateien und Verzeichnisse zum Erstellen des ISO-Images"
+datos_MSG2="CD/DVD/BD-ETIKETT"
+datos_MSG3="Geben Sie einen Namen für die zukünftige CD/DVD/BD ein:"
+datos_MSG4="Dateimanager starten:"
+datos_MSG5=" BILD ERSTELLEN . . ."
+datos_MSG6="läuft"
+datos_MSG7="ISO-9660-BILD ERSTELLT IN"
+datos_MSG8=" CD/DVD/BD AUFZEICHNEN"
+datos_MSG9="DER ERSTELLUNGSPROZESS DER BILDDATEI IST FEHLGESCHLAGEN"
+datos_MSG10="VERSUCHT ERNEUT, EIN NEUES OHNE UNTERSTÜTZUNG FÜR HFS (Macintosh) zu erstellen"
+datos_MSG11="BILD WIRD LÖSCHEN . . ."
+datos_MSG12="NEUES BILD ERSTELLEN . . ."
+datos_MSG13="ES WAR NICHT MÖGLICH, RICHTIG ZU SPEICHERN"
+datos_MSG14="------------RETRYING RECORDING PROCESS-----------"
+datos_MSG15="BILD WIRD LÖSCHEN..."
+datos_MSG16="ISO-9660-DATEN-CD/DVD/BD SCHREIBEN..."
+datos_MSG17="Nicht gefunden."
+datos_MSG18="Festplattenaufzeichnung wird abgebrochen..."
+
+# datoslb
+
+datoslb_MSG1="Fehler: Bilddatei kann nicht gefunden werden. Abbruch..."
+datoslb_MSG2="AUFZEICHNUNGSVORGANG OK"
+datoslb_MSG3="FEHLER IM AUFZEICHNUNGSVORGANG"
+
+# borra
+
+borra_MSG0="Vorheriges Menü"
+borra_MSG1="Wählen Sie den Modus zum Löschen der CD-RW"
+borra_MSG2="------------------------------------------"
+borra_MSG3="Schnelles Löschen (cdrecord verwenden)"
+borra_MSG4="Vollständig löschen (cdrecord verwenden)"
+borra_MSG5="Löschen erforderlich (cdrskin verwenden)"
+borra_MSG6="läuft"
+borra_MSG7="Die erforderliche Formatierung oder Löschung wird je nach Festplattenstatus angewendet"
+borra_MSG8="CD-RW ERFOLGREICH GELÖSCHT!!"
+borra_MSG9="FEHLER BEIM LÖSCHEN DER CD-RW"
+borra_MSG10="LÖSCHEN DER CD-RW ERWORBEN"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="FEHLER BEIM LÖSCHEN DER CD-RW"
+err_borra_cdrw_MSG2="CD-RW UNVERWENDBAR"
+err_borra_cdrw_MSG3="ES IST NICHT MÖGLICH, DIESE CD-RW ZU LÖSCHEN"
+err_borra_cdrw_MSG4="PRÜFEN SIE, DASS DIE CD-RW NICHT PHYSISCH BESCHÄDIGT IST"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="läuft"
+cerrar_cd_MSG2="DIE CD WURDE RICHTIG GESCHLOSSEN"
+cerrar_cd_MSG3="FEHLER BEIM SCHLIESSEN DER CD"
+cerrar_cd_MSG4="Abschlusstitel auf Daten-CD . . ."
+
+# grabimg
+
+grabimg_MSG1=".iso- oder .ext2-Image zum Brennen auf CD/DVD"
+grabimg_MSG2="Starte den Dateimanager."
+grabimg_MSG3="Geben Sie den vollständigen Pfad des CD/DVD-Images ein, das Sie brennen möchten:"
+grabimg_MSG4="läuft"
+grabimg_MSG5="-----------AUFNAHMEPROZESS WIEDERHOLEN-----------"
+grabimg_MSG6="AUFNAHME FERTIG!!"
+grabimg_MSG7="BILD .EXT2 ERFOLGREICH AUFGENOMMEN"
+
+# grabimglb
+
+grabimglb_MSG1="Geben Sie den vollständigen Pfad des CD/DVD-Images ein, das Sie brennen möchten:"
+grabimglb_MSG2="Image auf Festplatte schreiben..."
+grabimglb_MSG3="ISO-9660-BILD ERFOLGREICH AUFGENOMMEN"
+grabimglb_MSG4="FEHLER BEI DER AUFZEICHNUNG EINES ISO-9660-BILDES"
+grabimglb_MSG5="Fehler: Bilddatei kann nicht gefunden werden. Abbruch..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin- und .cue-Dateien, um das Bild zu erfassen"
+grabimg_cue_MSG2="Um das Bin/Cue-Image zu speichern, müssen beide Dateien vorhanden sein"
+grabimg_cue_MSG3="Sie befinden sich im Active Directory."
+grabimg_cue_MSG4="Aktuelles aktives Verzeichnis"
+grabimg_cue_MSG5="Geben Sie den Namen der *.cue-Datei ein, die auf die *.bin-Bilddatei verweist"
+grabimg_cue_MSG6="Datei .cue:"
+grabimg_cue_MSG7="läuft"
+grabimg_cue_MSG8="AUFNAHME FERTIG!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="CD-Multisession von einem .iso-Image brennen"
+cd_multi_MSG2="Erste Sitzung von einem .iso-Image auf CD brennen"
+cd_multi_MSG3="CD-Multisession aus Disc-Dateien brennen"
+cd_multi_MSG4="Aufeinanderfolgende Sitzungen aus Dateien auf der Festplatte auf CD schreiben"
+cd_multi_MSG5="Diese Option erfordert eine Multisession-CD mit einer zuvor aufgezeichneten Sitzung."
+cd_multi_MSG6="Vorheriges Menü"
+cd_multi_MSG7=".iso-Image zum Brennen auf CD-Multisession"
+cd_multi_MSG8="Geben Sie den Pfad des .iso-Images an"
+cd_multi_MSG9="läuft"
+cd_multi_MSG10="MULTISESSION-CD ERFOLGREICH AUFGENOMMEN!!"
+cd_multi_MSG11="Verzeichnisse, die in das Bild aufgenommen werden sollen."
+cd_multi_MSG12="Geben Sie unten an, welche Verzeichnisse einbezogen werden sollen"
+cd_multi_MSG13="Geben Sie einen Namen für das CD-Label ein:"
+cd_multi_MSG14="BILD ERSTELLT..."
+cd_multi_MSG15="ERFOLGREICH ERSTELLT"
+cd_multi_MSG16="FEHLER BEIM BILDERSTELLEN. LANGWEILIGER AUFNAHMEVORGANG..."
+cd_multi_MSG17="CD-BILD SCHREIBEN..."
+cd_multi_MSG18="CD MULTI SESSION MENU"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="AUDIO-CD rippen ..."
+copia_cd_audio_MSG2="Läuft"
+copia_cd_audio_MSG3="AUDIO-TRACKS ERFOLGREICH GEFERTIGT!!"
+copia_cd_audio_MSG4="FEHLER BEIM RIPPEN VON AUDIO-SPUREN"
+copia_cd_audio_MSG5="BRENNENDE AUDIO-CD ..."
+copia_cd_audio_MSG6="AUDIO-CD ERFOLGREICH KOPIERT!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav-Dateien zum Brennen auf CD"
+wav_a_cd_MSG2="Linux-cdgrab prüft die Verzeichnisgröße nicht"
+wav_a_cd_MSG3="Stellen Sie sicher, dass dieser nicht mehr als 650 MByte hat, falls"
+wav_a_cd_MSG4="wenn Sie eine 80-Minuten-CD verwenden."
+wav_a_cd_MSG5="Geben Sie den Verzeichnispfad der .wav-Dateien ein"
+wav_a_cd_MSG6="läuft"
+wav_a_cd_MSG7="PROZESS ABGESCHLOSSEN!"
+
+# cdmixto
+
+cdmixto_MSG1="Gemischtes CD-Erstellungsprojekt (.iso-Datenbild + .wav-Audiodateien)"
+cdmixto_MSG2="Linux-cdgrab prüft die Verzeichnisgröße nicht"
+cdmixto_MSG3="Wo sind die Audiodateien"
+cdmixto_MSG4="Das gilt auch nicht für das .iso-Image, das Sie brennen möchten"
+cdmixto_MSG5="später."
+cdmixto_MSG6="Achten Sie auf die Größe von allem, was Sie verwenden"
+cdmixto_MSG7="zum Brennen auf Ihre neue CD."
+cdmixto_MSG8="Geben Sie den Pfad der Audiodateien an:"
+cdmixto_MSG9="Geben Sie den Pfad des ISO-Images an:"
+cdmixto_MSG10="###################################"
+cdmixto_MSG11="MISCH-CD AUFZEICHNEN: DATEN + AUDIO"
+cdmixto_MSG12="läuft"
+cdmixto_MSG13="-----Erfolgreich erstellt-----!!"
+cdmixto_MSG14="------FEHLER BEI DER AUFNAHME EINER GEMISCHTEN CD--------"
+
+# discoinfo
+
+discoinfo_MSG1="Betrieb"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="Gescannter IDE/SCSI-Port"
+cdrecord_scan_MSG1="Fehler beim Scannen des IDE/SCSI-Ports"
+cdrecord_scan_MSG2="Cdrecord nicht gefunden"
+
+

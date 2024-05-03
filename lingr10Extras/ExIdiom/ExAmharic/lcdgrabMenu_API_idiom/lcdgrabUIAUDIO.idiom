@@ -1,0 +1,32 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAmharic/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en amárico para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="የኦዲዮ ልወጣ"
+menu_conversion_audio_MSG2="------------ በቅርጸቶች መካከል የሚደረግ ለውጥ -----------"
+menu_conversion_audio_MSG3=".mp3 ወደ .wav ቀይር"
+menu_conversion_audio_MSG4=".ogg ወደ .wav ቀይር"
+menu_conversion_audio_MSG5=".wav ወደ .mp3 ቀይር"
+menu_conversion_audio_MSG6=".wav ወደ .ogg ቀይር"
+menu_conversion_audio_MSG6C=".wav ወደ .flac ቀይር"
+menu_conversion_audio_MSG6B=".flac ወደ .wav ቀይር"
+menu_conversion_audio_MSG7="---------- ኦዲዮ ትራክ ማውጣት ---------"
+menu_conversion_audio_MSG8="የድምጽ ሲዲ ወደ .wav ቅዳ"
+menu_conversion_audio_MSG9="የድምጽ ትራኮችን ስብስብ ወደ .wav ቀደደ"
+menu_conversion_audio_MSG10="የድምጽ ሲዲ ወደ .mp3 መቅደድ"
+menu_conversion_audio_MSG11="የድምጽ ሲዲ ወደ .ኦግ ቅዳ"
+menu_conversion_audio_MSG0="የቀድሞው ምናሌ"
+menu_conversion_audio_MSG12=".mp3 ፋይሎችን ፈልግ"
+menu_conversion_audio_MSG13="የ .ogg ፋይሎችን ፈልግ"
+menu_conversion_audio_MSG14=".wav ፋይሎችን ፈልግ"
+menu_conversion_audio_MSG15="---------------- ሌሎች ኦፕሬሽኖች ---------------"
+menu_conversion_audio_MSG16="የ.wav የድምጽ ፋይልን ቁረጥ"
+menu_conversion_audio_MSG17="የድምጽ ሲዲ ወደ .flac ያንሱ"

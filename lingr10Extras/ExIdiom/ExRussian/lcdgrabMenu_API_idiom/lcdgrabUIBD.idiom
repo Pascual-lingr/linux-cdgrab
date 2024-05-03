@@ -1,0 +1,20 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRussian/lcgdrabMenu_API_idiom/lcdgrabUIBD.idiom
+# Menu de Interfaz para la grabación de BD.
+# Traducción experimental al idioma Ruso, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_grabar_BD
+
+menu_grabar_BD_MSG0="Предыдущее меню."
+menu_grabar_BD_MSG1="ЗАПИСЬ НА BLU-RAY ДИСК"
+menu_grabar_BD_MSG2="Записать новый ISO-образ BD-R/BD-RE из данных жесткого диска"
+menu_grabar_BD_MSG4="ISO/UDF-образ для записи на диск."
+menu_grabar_BD_MSG7="Записать изображение ISO-9660/UDF на BD-R/BD-RE"
+menu_grabar_BD_MSG8="------------------ BD - ДАННЫЕ ------------------"
+menu_grabar_BD_MSG9="Показать информацию о диске"
+menu_grabar_BD_MSG10="Примените необходимое форматирование к BD-RE."

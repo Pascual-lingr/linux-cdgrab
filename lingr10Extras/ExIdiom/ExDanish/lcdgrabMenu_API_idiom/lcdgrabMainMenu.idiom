@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDanish/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Danés, generado con Google Translator.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab kan ikke finde vi-teksteditoren"
+ayuda_MSG2="Indtast navnet på en teksteditor installeret på dit system"
+ayuda_MSG3="INGEN INSTALLERET EDITOR FUNDET"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Fil automatisk genereret af LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="Denne fil sammen med mappen"
+creacion_de_mnt_MSG3="er blevet genereret automatisk"
+creacion_de_mnt_MSG4="af Linux-cdgrab-applikationen, når du bekræfter, at den ikke fandtes i din Linux-distribution"
+creacion_de_mnt_MSG5="mappen"
+creacion_de_mnt_MSG6="Linux-cdgrab bruger denne mappe til at montere sit CD-ROM/DVD-ROM/BD-ROM-drev"
+creacion_de_mnt_MSG7="Mappen"
+creacion_de_mnt_MSG8="det vil ikke blive slettet, hvis Linux-cdgrab er afinstalleret, da det normalt er"
+creacion_de_mnt_MSG9="standard monteringspunkt for /dev/cdrom på de fleste Linux-distributioner."
+creacion_de_mnt_MSG10="Hvis din distribution bruger en anden mappe til at montere enheden /dev/cdrom,"
+creacion_de_mnt_MSG11="det vil ikke skabe nogen inkompatibilitet, når du forsøger at få adgang til dataene på din enhed"
+creacion_de_mnt_MSG12="selvom hvis Linux-cdgrab er blevet afinstalleret, kan du godt undvære"
+creacion_de_mnt_MSG13="Formålet med denne fil er kun til informationsformål, du kan frit slette den, når den er læst."
+
+# creditos
+
+creditos_MSG1="Distribuer under GPL v2-licens"
+creditos_MSG2="Mere information på www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, skaber og vedligeholder"
+creditos_MSG4="Fejlrapport: pascual89@hotmail.com"
+creditos_MSG5="Programwebsted: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Baseret på LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Opladning"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SYNTAKS"
+lcdgrab_sintaxis_MSG2="Udskriv denne hjælp"
+lcdgrab_sintaxis_MSG3="Udskriv Linux version-cdgrab"
+lcdgrab_sintaxis_MSG4="specificerer IDE-kanalen eller optageenheden"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="specificerer optagehastigheden"
+lcdgrab_sintaxis_MSG7="specificerer CD-ROM/DVD-ROM/BD-ROM-drev"
+lcdgrab_sintaxis_MSG8="specificerer optagerens IDE ATAPI-kanal"
+lcdgrab_sintaxis_MSG9="Indstillingerne -G -V -L og -CA implicerer hinanden."
+lcdgrab_sintaxis_MSG9B="Indstillingerne -iut -ium -iug og -iuk er uafhængige af hinanden,"
+lcdgrab_sintaxis_MSG9C="komplementær til -G -V -L og -CA, og uafhængig mellem -h og -v"
+lcdgrab_sintaxis_MSG10="Indstillingerne -h og -v er uafhængige af hinanden og resten."
+lcdgrab_sintaxis_MSG11="Eksempler:"
+lcdgrab_sintaxis_MSG12="enhed"
+lcdgrab_sintaxis_MSG13="nummer"
+lcdgrab_sintaxis_MSG14="tekstgrænseflade"
+lcdgrab_sintaxis_MSG15="grænseflade med ncurses"
+lcdgrab_sintaxis_MSG16="grafisk grænseflade med GTK"
+lcdgrab_sintaxis_MSG17="grafisk grænseflade med Qt"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Indtast scriptstien:"
+main_lcdgrabopdep_MSG2="Ugyldig sti"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Installerede patches:"
+main_lcdgrabopdeppatch_MSG2="Indtast patchstien:"
+main_lcdgrabopdeppatch_MSG3="Ikke fundet"
+
+# menu principal dialog
+main_lcdgrabop9uidia="UPLOAD EN YDERLIGERE PATCH"
+
+# menu principal texto
+
+main_lcdgrabop1_text="OPTAGELSE TIL CD\t\t\t\t="
+main_lcdgrabop2_text="DVD-OPTAGELSE\t\t\t\t="
+main_lcdgrabop3_text="OPTAGELSE PÅ BD\t\t\t\t="
+main_lcdgrabop4_text="DISKDREV FUNKTIONER\t\t\t="
+main_lcdgrabop5_text="BILLEDSKABELSE\t\t\t\t="
+main_lcdgrabop6_text="CONVERSIÓN DE AUDIO\t\t\t="
+main_lcdgrabop6b_text="CONVERSIÓN DE VIDEO\t\t\t="
+main_lcdgrabop7_text="MONTERE ELLER AFMONTERE CD/DVD/BD\t="
+main_lcdgrabop8_text="MONTERING ELLER AFMONTERING AF BILLEDE\t="
+main_lcdgrabop9_text="UPLOAD EN YDERLIGERE PATCH\t\t="
+main_lcdgrabop10_text="KONTROLCENTER\t\t\t\t="
+main_lcdgrabop0_text="GÅ UD\t\t\t\t\t="
+main_lcdgrabet1_text="ANDRE MULIGHEDER ##\t\t="
+main_lcdgrabopEe_text="Skub disken ud af drevet\t\t="
+main_lcdgrabopTD_text="Vis bibliotek"
+tabs="\t\t\t="
+main_lcdgrabopG_text="Filhåndtering\t\t\t="
+main_lcdgrabopH_text="Hjælpe\t\t\t\t="
+main_lcdgrabopA_text="Om\t\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="CD-OPTAGELSE"
+main_lcdgrabop2="DVD-OPTAGELSE"
+main_lcdgrabop3="OPTAGELSE TIL BD"
+main_lcdgrabop4="DISKDREV FUNKTIONER"
+main_lcdgrabop5="BILLEDOPRETTELSE"
+main_lcdgrabop6="LYDKONVERING"
+main_lcdgrabop6b="VIDEOKONVERING"
+main_lcdgrabop7="MONTERER ELLER AFMONTERER CD/DVD/BD"
+main_lcdgrabop8="MONTERE ELLER AFMONTERE BILLEDE"
+main_lcdgrabop9="INDLÆS EN YDERLIGERE PATCH"
+main_lcdgrabop10="KONTROLCENTER"
+main_lcdgrabop0="AFSLUT"
+main_lcdgrabet1="ANDRE MULIGHEDER ##"
+main_lcdgrabopEe="Skub disk ud fra drev"
+main_lcdgrabopTD="Vis mappe"
+main_lcdgrabopG="Filhåndtering"
+main_lcdgrabopH="Hjælp"
+main_lcdgrabopA="Om"
+main_lcdgrabopPRINCIPAL="Indtast en indstilling:"
+MSG1_MAIN="Valg af H viser brugen af ​​muligheder."
+main_lcdgrabopA_MSG1="Kører på:"
+

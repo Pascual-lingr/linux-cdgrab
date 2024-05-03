@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLithuanian/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Lituano para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Įveskite failo arba katalogo kelią:"
+empaquetar_MSG2="------- Galimybės -------"
+empaquetar_MSG3="Generuoti .tar.gz failą"
+empaquetar_MSG4="Generuoti .tar.bz2 failą"
+empaquetar_MSG5="Įveskite parinktį: "
+empaquetar_MSG6="Vykdomas"
+empaquetar_MSG7="Netinkama parinktis"
+
+# desempaquetar
+
+desempaquetar_MSG1="Įveskite failo kelią:"
+desempaquetar_MSG2="NĖRA DEKOMPRESORIAUS"
+desempaquetar_MSG3="ARBA"
+desempaquetar_MSG4="NĖRA"
+desempaquetar_MSG5="Veikia"
+desempaquetar_MSG6="išpakuota"
+desempaquetar_MSG7="Klaida bandant išpakuoti"
+
+# comprime
+
+comprime_MSG1="SUPRESUOJAMAS VAIZDAS"
+comprime_MSG2="Suspausti su bzip2"
+comprime_MSG3="Suspausti naudojant gzip"
+comprime_MSG4="Suspausti su xz"
+comprime_MSG5="Ankstesnis meniu"
+comprime_MSG6="Veikia"
+comprime_MSG7="Vaizdo failo glaudinimas baigtas"
+comprime_MSG8="Klaida glaudinant su"
+comprime_MSG9="Netinkamas kompresorius"
+
+# descomprime
+
+descomprime_MSG1="Įveskite failo kelią:"
+descomprime_MSG2="---------------------"
+descomprime_MSG3="NERASTA NĖRA DEKOMPRESORIAUS"
+descomprime_MSG4="ARBA"
+descomprime_MSG5="NEYRA"
+descomprime_MSG6="Veikia"
+descomprime_MSG7="nesuspaustas"
+descomprime_MSG8="Klaida bandant išskleisti"
+

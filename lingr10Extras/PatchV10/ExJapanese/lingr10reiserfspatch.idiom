@@ -1,0 +1,75 @@
+# Idioma Japonés para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+# Traducción experimental, generada con google translator
+
+# presskey
+
+presskey_MSG1="続行するには Enter キーを押してください..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="==================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 REISERFS のサポート。"
+cabecera_interfaz_MSG3="==================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="マウント コマンドの出力:"
+formatear_disco_reiserfs_MSG2="フォーマットするブロック デバイスを指定します: "
+formatear_disco_reiserfs_MSG3="デバイスは正常にフォーマットされました"
+formatear_disco_reiserfs_MSG4="デバイスのフォーマット中にエラーが発生しました"
+formatear_disco_reiserfs_MSG5="処理が完了しました"
+formatear_disco_reiserfs_MSG6="デバイスをアンマウントしています..."
+formatear_disco_reiserfs_MSG7="ReiserFS でドライブをフォーマットしています..."
+formatear_disco_reiserfs_MSG8="実行中"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="フォーマットに成功しました"
+formatear_img_reiserfs_MSG2="空のファイルのフォーマット中にエラーが発生しました"
+formatear_img_reiserfs_MSG3="空のファイルを生成中..."
+formatear_img_reiserfs_MSG4="実行中"
+formatear_img_reiserfs_MSG5="ReiserFS で空のファイルをフォーマットしています..."
+formatear_img_reiserfs_MSG6="カスタム サイズの空ファイルの生成"
+formatear_img_reiserfs_MSG7="生成する空のファイルのサイズを指定します (数値のみ):"
+formatear_img_reiserfs_MSG8="空のファイルを生成するためのスペース測定:"
+formatear_img_reiserfs_MSG9="使用するスペースの測定値を指定します: "
+formatear_img_reiserfs_MSG10="サイズ測定値を指定する際のエラー"
+formatear_img_reiserfs_MSG11="ブロック サイズ値:"
+formatear_img_reiserfs_MSG12="空のファイルの容量:"
+formatear_img_reiserfs_MSG13="バイト単位の計算値:"
+formatear_img_reiserfs_MSG14="カウントの計算値:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="CD-R/RW 用イメージの作成 (702 MB)"
+m_img_CDDVDBD_reiserfs_MSG2="DVD+RW (4G バイト) のイメージを作成"
+m_img_CDDVDBD_reiserfs_MSG3="DVD+RW/DL 用イメージの作成 (8 GB)"
+m_img_CDDVDBD_reiserfs_MSG4="BD-R/RE 用イメージの作成 (25 GB)"
+m_img_CDDVDBD_reiserfs_MSG5="カスタム サイズのイメージ ファイルを作成"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="終了"
+imgr_tmp_MSG1="reiserfs イメージ ファイルをすべて削除します"
+imgr_tmp_MSG2="イメージ ファイルのマウントまたはアンマウント"
+imgr_tmp_MSG3="画像ファイル"
+imgr_tmp_MSG4="オプションを選択してください"
+imgr_tmp_MSG5="削除された画像ファイル"
+imgr_tmp_MSG6="イメージをマウント"
+imgr_tmp_MSG7="イメージのマウントを解除"
+imgr_tmp_MSG8="イメージがマウントされました"
+imgr_tmp_MSG9="マウントされていないイメージ"
+imgr_tmp_MSG10="無効なオプション"
+imgr_tmp_MSG11="マウントまたはアンマウントするイメージを指定してください:"
+imgr_tmp_MSG12="イメージのマウント中にエラーが発生しました"
+imgr_tmp_MSG13="イメージのアンマウント中にエラーが発生しました"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="ReiserFS でドライブをフォーマットします"
+lingr10reiserfspatch_MSG2="CD/DVD/BD 用 ReiserFS イメージの作成"
+lingr10reiserfspatch_MSG3="ReiserFS イメージに対する操作"
+lingr10reiserfspatch_MSG4="無効なオプション"
+lingr10reiserfspatch_MSG0="終了"

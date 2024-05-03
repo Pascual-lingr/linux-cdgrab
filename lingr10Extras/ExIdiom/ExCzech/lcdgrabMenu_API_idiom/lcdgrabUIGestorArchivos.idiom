@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExCzech/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Checo para el gestor de archivos
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="**************************** MOŽNOSTI NAVIGACE **************************"
+ayuda_gestor_de_archivos_MSG2="Procházet systém souborů."
+ayuda_gestor_de_archivos_MSG3="X --> Jít ven"
+ayuda_gestor_de_archivos_MSG4="A --> Předchozí adresář"
+ayuda_gestor_de_archivos_MSG5="B --> Další adresář"
+ayuda_gestor_de_archivos_MSG6="Akce se soubory a adresáři."
+ayuda_gestor_de_archivos_MSG7="C --> Zkopírovat soubor"
+ayuda_gestor_de_archivos_MSG8="M --> Přesunout soubor"
+ayuda_gestor_de_archivos_MSG9="CD --> Kopírovat adresář"
+ayuda_gestor_de_archivos_MSG10="MD --> Přesunout adresář"
+ayuda_gestor_de_archivos_MSG11="Pochopení akcí se soubory a adresáři."
+ayuda_gestor_de_archivos_MSG12="Z --> Zkomprimujte soubor"
+ayuda_gestor_de_archivos_MSG13="DZ --> Rozbalte soubor"
+ayuda_gestor_de_archivos_MSG14="EZ --> Vytvořte balíček .tar.gz nebo .tar.bz2"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Rozbalte soubor .tar.gz nebo .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Aktuální aktivní adresář"
+gestor_de_archivos_MSG0B="Soubory v"
+gestor_de_archivos_MSG1="============================ MOŽNOSTI NAVIGACE =========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> POMOC="
+gestor_de_archivos_MSG3="========================================================================="
+gestor_de_archivos_MSG4="Zadejte možnost"
+gestor_de_archivos_MSG5="Typ adresář"
+gestor_de_archivos_MSG6="Zadejte zdrojový soubor"
+gestor_de_archivos_MSG7="Zadejte cílový soubor"
+gestor_de_archivos_MSG8="Soubor úspěšně zkopírován"
+gestor_de_archivos_MSG9="Chyba při kopírování souboru"
+gestor_de_archivos_MSG10="Zadejte zdrojový soubor"
+gestor_de_archivos_MSG11="Zadejte cílový soubor"
+gestor_de_archivos_MSG12="Soubor úspěšně přesunut"
+gestor_de_archivos_MSG13="Chyba při přesunu souboru"
+gestor_de_archivos_MSG14="Zadejte zdrojový adresář"
+gestor_de_archivos_MSG15="Zadejte cílový adresář"
+gestor_de_archivos_MSG16="Adresář úspěšně zkopírován"
+gestor_de_archivos_MSG17="Chyba při kopírování adresáře"
+gestor_de_archivos_MSG18="Zadejte zdrojový adresář"
+gestor_de_archivos_MSG19="Zadejte cílový adresář"
+gestor_de_archivos_MSG20="Adresář byl úspěšně přesunut"
+gestor_de_archivos_MSG21="Chyba při přesunu adresáře"
+gestor_de_archivos_MSG22="SOUBOR KOMPRESOVAT"
+gestor_de_archivos_MSG23="Určete cestu k souboru"
+

@@ -1,0 +1,171 @@
+#########################################################
+# lcdgrabAPI_idiom/ExNorwegian/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Noruego para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Ta opp enhet som"
+buscar_grabadora_MSG1B="Gyldig"
+buscar_grabadora_MSG2="Ta opp enhet som"
+buscar_grabadora_MSG2B="Feil"
+buscar_grabadora_MSG3="Dvd+-rw-verktøyene godtar ikke at opptaksenheten er"
+buscar_grabadora_MSG4="For å kunne brenne DVDer med dvd+rw-verktøyene må du spesifisere opptakeren som en blokkenhet"
+buscar_grabadora_MSG5="Eksempel"
+buscar_grabadora_MSG6="eller"
+buscar_grabadora_MSG7="Viser eksisterende systemenheter i /dev"
+buscar_grabadora_MSG8="Skriv inn blokkeringsenheten som tilsvarer DVD-opptakeren din"
+buscar_grabadora_MSG9="Ingen opptakertype eller alternativ er spesifisert."
+buscar_grabadora_MSG10="ENHET KONFIGURERT FOR OPPTAKEREN"
+buscar_grabadora_MSG11="Opptaksenheten har blitt eksportert til shell-miljøet som"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Mulig verdi kun gyldig for cdrecord"
+buscar_grabadoralb_MSG2="Gjeldende konfigurasjon for opptakeren er"
+buscar_grabadoralb_MSG3="Sjekk at denne konfigurasjonen samsvarer med verdien tildelt av cdrskin"
+buscar_grabadoralb_MSG4="Skanner IDE/SCSI-port med cdrskin..."
+buscar_grabadoralb_MSG5="Spesifiser den nye verdien som skal brukes med cdrskin:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Skriv inn et navn for den fremtidige DVDen:"
+datos_dvd_MSG2="TAKER OPP DVD . . ."
+datos_dvd_MSG3="Bruker"
+datos_dvd_MSG4="løper"
+datos_dvd_MSG5="DVD LYKKES OPP! "
+datos_dvd_MSG6="Mkisofs eller genisoimage kan ikke finnes, installer cdrtools eller cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Skriv inn et navn for den fremtidige DVDen:"
+datos_dvd_multi_MSG2="TAKER OPP DVD . . ."
+datos_dvd_multi_MSG3="Bruker"
+datos_dvd_multi_MSG4="løper"
+datos_dvd_multi_MSG5="DVD LYKKES OPP! "
+datos_dvd_multi_MSG6="Mkisofs eller genisoimage kan ikke finnes, installer cdrtools eller cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="TAKER OPP BILDE . . ."
+grabimg_dvd_MSG2="løper"
+grabimg_dvd_MSG3="! DVD-BILDE OPPTAKET MED SUKSESSFULLT !"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="TAKER OPP BILDE PÅ DVD . . ."
+copia_bin_dvd_MSG2="kjører"
+copia_bin_dvd_MSG3=" SLETTER BILDEFIL"
+copia_bin_dvd_MSG4="OPPTAKET FERDIG!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Formater a"
+formatear_dvd_MSG2="Tving et nytt format for en"
+formatear_dvd_MSG3="Flytt utgangsblokken til en"
+formatear_dvd_MSG4="Formater en DVD-RW til sekvensiell inkrementell"
+formatear_dvd_MSG5="Formater en DVD-RW til begrenset overskriving"
+formatear_dvd_MSG6="Fyll en DVD med nuller"
+formatear_dvd_MSG7="Vis DVD-informasjon"
+formatear_dvd_MSG8="Forrige meny"
+formatear_dvd_MSG9="Dette alternativet brukes til å formatere DVDen for første gang."
+formatear_dvd_MSG10="Hvis DVDen allerede er formatert, vil den ikke slette dataene."
+formatear_dvd_MSG11="Disse vil bli overskrevet i et nytt opptak."
+formatear_dvd_MSG12="For å slette innholdet på DVD-en bruk:"
+formatear_dvd_MSG13="Fyll en DVD med nuller"
+formatear_dvd_MSG14="Dette alternativet sletter format og data fra den behandlede DVDen."
+formatear_dvd_MSG15="kjører"
+formatear_dvd_MSG16="DVD+RW/DVD-RW LYKKES FORMATTERT!"
+formatear_dvd_MSG17="FEIL VED FORMATERING AV DVD"
+formatear_dvd_MSG18="Tvinger format på DVD+RW-plate..."
+formatear_dvd_MSG19="DVD+RW LYKKES FORMATTERT!"
+formatear_dvd_MSG20="FEIL VED FORMATERING AV DVD+RW"
+formatear_dvd_MSG21="Dette alternativet påvirker ikke dataene som er lagret på DVD+RW-en"
+formatear_dvd_MSG22="Fjerner utgangsblokk fra DVD+RW..."
+formatear_dvd_MSG23="Formaterer DVD-RW-disk til sekvensiell skriving..."
+formatear_dvd_MSG24="DVD-RW LYKKES FORMATTERT!"
+formatear_dvd_MSG25="FEIL VED FORMATERING AV DVD-RW"
+formatear_dvd_MSG26="Formaterer DVD-RW-disk til begrenset overskriving..."
+formatear_dvd_MSG27="SLETT OMSKRIVER DVD"
+
+# null_dvd
+
+null_dvd_MSG1="Skriver til disk fra /dev/null . . ."
+null_dvd_MSG2="kjører"
+null_dvd_MSG3="PROSESSEN FULLFØRT"
+null_dvd_MSG4="UVENTET FEIL"
+
+# dvd_video
+
+dvd_video_MSG1="Bane der VIDEO_TS- og AUDIO_TS-katalogene er plassert:"
+dvd_video_MSG2="Spesifiser banen der VIDEO_TS- og AUDIO_TS-katalogene er plassert:"
+dvd_video_MSG3="løper"
+dvd_video_MSG4="--- SUKSESSFULLT INNSPERT DVD-VIDEO ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="løper"
+dvd_copia_bin_MSG2=" SLETTER BILDEFIL"
+dvd_copia_bin_MSG3="EN OPPTAKSFEIL HAR OPPSTÅTT"
+
+# dvd_datos
+
+dvd_datos_MSG1="Filer og kataloger for å lage .iso-bildet"
+dvd_datos_MSG2="DVD-LABEL"
+dvd_datos_MSG3="Skriv inn et navn for den fremtidige DVDen:"
+dvd_datos_MSG4="Starter filbehandleren:"
+dvd_datos_MSG5=" LAGER BILDE . . ."
+dvd_datos_MSG6="løper"
+dvd_datos_MSG7="ISO-9660 BILDE OPPRETTET I"
+dvd_datos_MSG8="TAKER INN DVD"
+dvd_datos_MSG13="SLETT BILDE..."
+
+# dvd_borra
+
+dvd_borra_MSG1="løper"
+dvd_borra_MSG2="OPTISK DISKE LYKKES FORMATERT"
+dvd_borra_MSG3="FEIL VED FORMATERING AV OPTISK DISK"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="løping"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="Kjører"
+formatearCDDVDBD_MSG2="OPTISK DISK LYKKES FORMATERT"
+formatearCDDVDBD_MSG3="FEIL VED FORMATERING AV OPTISK DISK"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW formatert vellykket!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Feil ved formatering av DVD-RW til begrenset overskriving"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW formatert vellykket!!"
+formatearDVDRW_incremental_secuencial_MSG2="Feil ved formatering av DVD-RW til sekvensiell inkrementell"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Spesifiser banen til ISO-9660-bildet som skal brennes:"
+cdrskinisocddvd_MSG2="ISO-BILDE OPPTAKET MED VELDIGHET!!"
+cdrskinisocddvd_MSG3="FEIL VED OPPTAK AV BILDE"
+

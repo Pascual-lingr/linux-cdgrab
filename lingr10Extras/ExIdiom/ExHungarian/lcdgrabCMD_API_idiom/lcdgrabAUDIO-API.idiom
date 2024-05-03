@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en húngaro para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="KONVERTÁLHATÓ MP3 FÁJLOK"
+mp3awav_MSG0="Adja meg az .mp3 fájlok elérési útját: "
+mp3awav_MSG1="KONVERTÁLÁS"
+mp3awav_MSG1B=" .wav FORMÁTUMHOZ"
+mp3awav_MSG2="futás"
+mp3awav_MSG3="A mintavételezés 44100 Mhz-re van állítva"
+mp3awav_MSG4="Hiba a mintavétel feldolgozása közben"
+mp3awav_MSG5="Nem sikerült a konvertálás"
+mp3awav_MSG6="A könyvtár nem található"
+mp3awav_MSG7="HANGKONVERZIÓ VÉGE"
+mp3awav_MSG8="Hangfájl normalizálása"
+mp3awav_MSG9="Fájl"
+mp3awav_MSG10="Normalizált"
+mp3awav_MSG11="Normalizálási hiba"
+
+# oggawav
+
+oggawav_MSG0="KONVERTÁLHATÓ OGG FÁJLOK"
+oggawav_MSG1="Adja meg az .ogg fájlok elérési útját: "
+oggawav_MSG2="KONVERTÁLÁS"
+oggawav_MSG2B="A .wav FORMÁTUM"
+oggawav_MSG3="futás"
+oggawav_MSG4="A mintavételezés 44100 Mhz-re van állítva"
+oggawav_MSG5="Hiba a mintavételezés feldolgozása közben"
+oggawav_MSG6="Nem sikerült a konvertálás"
+oggawav_MSG7="A könyvtár nem található"
+oggawav_MSG8="AZ AUDIOLEFEDÉS VÉGE"
+oggawav_MSG9="Hangfájl normalizálása"
+oggawav_MSG10="Fájl"
+oggawav_MSG11="Normalizált"
+oggawav_MSG12="Normalizálási hiba"
+
+# cdawav
+
+cdawav_MSG1="AUDIO CD RIPPELÉSE..."
+cdawav_MSG2="Végrehajtás:"
+cdawav_MSG3="SIKERTELEN ISMERTETT HANGSZÁMOK!!"
+cdawav_MSG4="A hangfájlok könyvtárának tartalma"
+cdawav_MSG5="HIBA HANGSZÁMOK RIPELÉSÉN"
+
+# cddawav
+
+cddawav_MSG1="ADJA MEG A RIPOLHATÓ SZÁMÁT:"
+cddawav_MSG2="Nyomja meg a Crtl + c billentyűket a szám bemásolásának megszakításához"
+cddawav_MSG3="Végrehajtás:"
+cddawav_MSG4="SIKERTELEN KIHANGOLVA"
+cddawav_MSG5="HIBA RIPPING"
+
+# wavamp3
+
+wavamp3_MSG0="KONVERTÁLHATÓ WAV FÁJLOK"
+wavamp3_MSG1="Adja meg a .wav fájlok elérési útját: "
+wavamp3_MSG1B="KONVERTÁLÁS"
+wavamp3_MSG2="A FORMÁTUM"
+wavamp3_MSG3="Végrehajtás:"
+wavamp3_MSG4="konvertáláskor"
+wavamp3_MSG5=".MP3 formátumba"
+wavamp3_MSG6="Hiba az átalakítás során"
+wavamp3_MSG7="HANGKONVERZIÓ KÉSZÜLT"
+wavamp3_MSG8="AZ AUDIO KÖNYVTÁR NEM TALÁLHATÓ"
+
+# cdamp3
+
+cdamp3_MSG1="AUDIO CD RIPPELÉSE..."
+cdamp3_MSG2="Végrehajtás:"
+cdamp3_MSG3="SIKERTELEN ISMERTETT HANGSZÁMOK!!"
+cdamp3_MSG4="HIBA HANGSZÁMOK RIPPELÉSÉN"
+cdamp3_MSG5="Függvény hívása:"
+
+# wavaogg
+
+wavaogg_MSG1="Adja meg a .wav fájlok elérési útját: "
+wavaogg_MSG2="KONVERTÁLÁS"
+wavaogg_MSG3="A .ogg FORMÁTUM"
+wavaogg_MSG4="Futás:"
+wavaogg_MSG5="Hiba az átalakítás során"
+wavaogg_MSG6=".ogg formátumba"
+
+# cdaogg
+
+cdaogg_MSG1="AUDIO CD-K RIPPELÉSE..."
+cdaogg_MSG2="Végrehajtás:"
+cdaogg_MSG3="SIKERTELEN ISMERTETT HANGSZÁMOK!!"
+cdaogg_MSG4="HIBA HANGSZÁMOK RIPELÉSÉN"
+cdaogg_MSG5="Függvény hívása:"
+
+# corta_wav
+
+corta_wav_MSG0="Másodpercek száma:"
+corta_wav_MSG1="Adja meg a konvertálandó audiofájl elérési útját:"
+corta_wav_MSG2="Adja meg az időt másodpercben, amelyhez"
+corta_wav_MSG3="a fájl kivágása megkezdődik."
+corta_wav_MSG4="-MEGJEGYZÉS-"
+corta_wav_MSG5="A hang kezdetének megadásához írjon be 0-t"
+Corta_wav_MSG6="Érték másodpercben a konverzió megkezdéséhez:"
+corta_wav_MSG7="Adja meg az időt másodpercben, amelyhez"
+corta_wav_MSG8="a fájl kivágása befejeződik."
+corta_wav_MSG9="A konverzió végének értéke másodpercben:"
+corta_wav_MSG10="Futás"
+corta_wav_MSG11="Vágott hangfájl"
+corta_wav_MSG12="Hiba a fájl vágásakor"
+corta_wav_MSG13="Vágni kívánt hangfájl:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1="Adja meg a .flac fájlok elérési útját:"
+flacawav_MSG2="KONVERTÁLÁS"
+flacawav_MSG3=" .wav FORMÁTUMHOZ"
+flacawav_MSG4="A mintavételezés 44100 Mhz-re van állítva"
+flacawav_MSG5="Hiba a mintavétel feldolgozása során"
+flacawav_MSG6="Hangfájl normalizálása"
+flacawav_MSG7="Fájl"
+flacawav_MSG8="Normalizált"
+flacawav_MSG9="Normalizálási hiba"
+flacawav_MSG10="Nem sikerült konvertálni"
+flacawav_MSG11="A könyvtár nem található"
+flacawav_MSG12="HANGKONVERZIÓ VÉGE"
+
+# wavaflac
+
+wavaflac_MSG0="KONVERTÁLHATÓ WAV FÁJLOK"
+wavaflac_MSG1="Adja meg a .wav fájlok elérési útját: "
+wavaflac_MSG2="KONVERTÁLÁS"
+wavaflac_MSG3="A .flac FORMAT"
+wavaflac_MSG4="flac formátumba konvertálva"
+wavaflac_MSG5="Hiba az átalakítás során"
+wavaflac_MSG6=".flac formátumba"
+wavaflac_MSG7="FLAC FÁJLKÖNYVTÁR NEM TALÁLHATÓ"
+

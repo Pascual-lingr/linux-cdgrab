@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExLuxembourgish/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Luxemburgués para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="DISK DRIVE OPERATIOUNEN"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- WICHTEG -----------------------"
+MenuDispositivosBloque_MSG3="+ Maacht keng Schreifoperatioune op Festplazen aus "
+MenuDispositivosBloque_MSG4="+ iwwer Diskpartitionen déi Biller enthalen"
+MenuDispositivosBloque_MSG5="+ Erhuelung, Boot Partitionen oder Är eege"
+MenuDispositivosBloque_MSG6="+ Betribssystem Partition."
+MenuDispositivosBloque_MSG7="+ De Mëssbrauch vun de Schreifoptioune vun dësem Menü "
+MenuDispositivosBloque_MSG8="+ kann eng Katastroph am System generéieren."
+MenuDispositivosBloque_MSG9="+ Mat Vorsicht benotzen. Benotzt op eegene Risiko."
+MenuDispositivosBloque_MSG10="------------------- OPSCHREIWEN --------------------"
+MenuDispositivosBloque_MSG11="Dump eng Bilddatei op Disk Drive"
+MenuDispositivosBloque_MSG11B="Dumpt Iso oder Img Bild (selbstbootbar) op Pendrive oder USB Disk"
+MenuDispositivosBloque_MSG11C="Net all Installatiounssystemer ënnerstëtzt."
+MenuDispositivosBloque_MSG12="Format Drive mat native Linux oder Windows Dateisystem"
+MenuDispositivosBloque_MSG13="---------------------- LIESEN ----------------------"
+MenuDispositivosBloque_MSG14="Erstellt .img Bild vun engem Disk Drive"
+MenuDispositivosBloque_MSG15="Menü virdru"
+MenuDispositivosBloque_MSG16="Gitt eng Optioun"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------WICHTEG------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Format Eenheet mat Dateiesystem benotzt an Apparater"
+UIFormatearUnidad_linuxfs_MSG2B="+ oder Disk Partitionen."
+UIFormatearUnidad_linuxfs_MSG3="+ Dës Optioun läscht all existent Daten op der Eenheet"
+UIFormatearUnidad_linuxfs_MSG4="+ Removable Drive mat engem Dateiesystem formatéiert"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux selwer wäert nëmmen ënner dësem Betribssystem zougänglech sinn."
+UIFormatearUnidad_linuxfs_MSG6="+ Benotzt mat Vorsicht, benotzt op eegene Risiko."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="Dréckt den C KEY FIR WEIDER; (De Prozess gëtt an enger anerer Optioun annuléiert)"
+

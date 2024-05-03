@@ -1,0 +1,56 @@
+#########################################################
+# lcgdrabAPI_idiom/ExFrench/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en francés para el API de video.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="COMPATIBILITÉ DES DISQUES BLU-RAY DE CONVERSION VIDÉO"
+conv_video_BDVideo_MSG2="Spécifiez le chemin du fichier vidéo à convertir :"
+conv_video_BDVideo_MSG3="Spécifiez le nom de fichier de la nouvelle vidéo à créer :"
+conv_video_BDVideo_MSG4="Fichier vidéo converti avec succès !!"
+conv_video_BDVideo_MSG5="Erreur lors de la conversion du fichier vidéo"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="CONVERSION DE FICHIERS VIDÉO"
+conv_VideoFich_MSG2="Spécifiez le fichier vidéo à convertir :"
+conv_VideoFich_MSG3="Spécifiez le fichier vidéo à générer :"
+conv_VideoFich_MSG4="CONVERSION DE FICHIER VIDÉO TERMINÉE"
+conv_VideoFich_MSG5="ERREUR LORS DE LA CONVERSION DU FICHIER VIDÉO"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Spécifiez le fichier vidéo :"
+extrae_Audio_de_Video_MSG2="Spécifiez le fichier son mp3 à générer :"
+extrae_Audio_de_Video_MSG3="EXTRACTION DU SON AVEC SUCCÈS"
+extrae_Audio_de_Video_MSG4="ERREUR LORS DE L'EXTRACTION DU SON"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Spécifiez le fichier vidéo :"
+extrae_Fragmento_Video_MSG2="Spécifiez le fichier vidéo à générer :"
+extrae_Fragmento_Video_MSG3="Spécifiez l'heure initiale (Spécifiez comme HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Spécifiez l'heure de fin (Spécifiez comme HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="VIDÉO COUPÉE AVEC SUCCÈS"
+extrae_Fragmento_Video_MSG6="ERREUR LORS DU DÉCOUPAGE DE LA VIDÉO"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Spécifiez le fichier son :"
+mezcla_Audio_Video_MSG2="Spécifiez le fichier vidéo :"
+mezcla_Audio_Video_MSG3="Spécifiez le fichier vidéo à générer :"
+mezcla_Audio_Video_MSG4="NOUVEAU FICHIER VIDÉO GÉNÉRÉ AVEC SUCCÈS"
+mezcla_Audio_Video_MSG5="ERREUR DE GÉNÉRATION DU FICHIER VIDÉO"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="OPTION NON DISPONIBLE POUR L'INTERFACE CONSOLE"
+graba_escritorio_MSG2="-- ENREGISTREMENT D'UNE SESSION DE BUREAU -- APPUYEZ SUR CTRL + C POUR ANNULER ET ARRÊTER L'ENREGISTREMENT"
+graba_escritorio_MSG3="ENREGISTREMENT VIDÉO TERMINÉ"
+

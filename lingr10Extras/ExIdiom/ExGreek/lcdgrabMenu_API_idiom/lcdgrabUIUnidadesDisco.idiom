@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExGreek/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en griego para el Interfaz sobre dispositivo de bloque
+# Traducción experimetal, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="ΛΕΙΤΟΥΡΓΙΕΣ ΜΟΝΑΔΑΣ ΔΙΣΚΟΥ"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="----------------------- ΣΠΟΥΔΑΙΟΣ -----------------------"
+MenuDispositivosBloque_MSG3="+ Μην εκτελείτε λειτουργίες εγγραφής σε σκληρούς δίσκους "
+MenuDispositivosBloque_MSG4="+ σχετικά με τα διαμερίσματα δίσκου που περιέχουν εικόνες"
+MenuDispositivosBloque_MSG5="+ ανάκτηση, διαμερίσματα εκκίνησης ή δικά σας"
+MenuDispositivosBloque_MSG6="+ διαμέρισμα λειτουργικού συστήματος."
+MenuDispositivosBloque_MSG7="+ Η κακή χρήση των επιλογών γραφής αυτού του μενού "
+MenuDispositivosBloque_MSG8="+ μπορεί να προκαλέσει μια καταστροφή στο σύστημα."
+MenuDispositivosBloque_MSG9="+ Χρήση με προσοχή. Χρήση με δική σας ευθύνη."
+MenuDispositivosBloque_MSG10="--------------------- ΓΡΑΦΗ ----------------------"
+MenuDispositivosBloque_MSG11="Αποθέστε ένα αρχείο εικόνας στη μονάδα δίσκου"
+MenuDispositivosBloque_MSG11B="Αποθέστε εικόνα iso ή img (αυτοεκκινούμενη) σε pendrive ή δίσκο USB"
+MenuDispositivosBloque_MSG11C="Δεν υποστηρίζονται όλα τα συστήματα εγκατάστασης."
+MenuDispositivosBloque_MSG12="Μορφοποίηση μονάδας δίσκου με εγγενές σύστημα αρχείων Linux ή Windows"
+MenuDispositivosBloque_MSG13="-------------------- ΑΝΑΓΝΩΣΗ --------------------"
+MenuDispositivosBloque_MSG14="Δημιουργήστε εικόνα .img από μια μονάδα δίσκου"
+MenuDispositivosBloque_MSG15="Προηγούμενο μενού"
+MenuDispositivosBloque_MSG16="Πληκτρολογήστε μια επιλογή"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="---------------------------ΣΠΟΥΔΑΙΟΣ------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Μονάδα μορφοποίησης με σύστημα αρχείων που χρησιμοποιείται σε συσκευές"
+UIFormatearUnidad_linuxfs_MSG2B="+ ή κατατμήσεις δίσκου."
+UIFormatearUnidad_linuxfs_MSG3="+ Αυτή η επιλογή θα διαγράψει όλα τα υπάρχοντα δεδομένα στη μονάδα"
+UIFormatearUnidad_linuxfs_MSG4="+ Αφαιρούμενες μονάδες δίσκου μορφοποιημένες με σύστημα αρχείων"
+UIFormatearUnidad_linuxfs_MSG5="+ Το ίδιο το Linux θα είναι προσβάσιμο μόνο σε αυτό το λειτουργικό σύστημα."
+UIFormatearUnidad_linuxfs_MSG6="+ Χρήση με προσοχή, χρήση με δική σας ευθύνη."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="ΠΑΤΗΣΤΕ ΤΟ ΠΛΗΚΤΡΟ C ΓΙΑ ΣΥΝΕΧΕΙΑ (Η διαδικασία θα ακυρωθεί σε άλλη επιλογή)"
+

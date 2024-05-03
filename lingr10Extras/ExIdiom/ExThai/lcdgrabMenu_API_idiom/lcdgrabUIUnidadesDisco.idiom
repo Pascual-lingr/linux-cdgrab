@@ -1,0 +1,46 @@
+#########################################################
+# lcdgrabAPI_idion/ExThai/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Tailandés para el Interfaz sobre dispositivo de bloque
+# Experimental, generado con Google Translator y Chat GPT
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="การทำงานของดิสก์ไดรฟ์"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="----------------------- สำคัญ -----------------------"
+MenuDispositivosBloque_MSG3="+ อย่าทำการเขียนบนฮาร์ดไดรฟ์ "
+MenuDispositivosBloque_MSG4="+ เกี่ยวกับพาร์ติชันดิสก์ที่มีรูปภาพ"
+MenuDispositivosBloque_MSG5="+ การกู้คืนพาร์ติชันสำหรับบูตหรือของคุณเอง"
+MenuDispositivosBloque_MSG6="+ พาร์ติชันระบบปฏิบัติการ"
+MenuDispositivosBloque_MSG7="+ การใช้ตัวเลือกการเขียนของเมนูนี้ในทางที่ผิด "
+MenuDispositivosBloque_MSG8="+ สามารถสร้างภัยพิบัติในระบบได้"
+MenuDispositivosBloque_MSG9="+ ใช้ด้วยความระมัดระวัง ใช้โดยรับความเสี่ยงเอง"
+MenuDispositivosBloque_MSG10="---------- เขียน ----------"
+MenuDispositivosBloque_MSG11="ถ่ายโอนไฟล์รูปภาพไปยังดิสก์ไดรฟ์"
+MenuDispositivosBloque_MSG11B="ถ่ายโอนข้อมูล ISO หรืออิมเมจ img (บูตได้เอง) ไปยังเพนไดรฟ์หรือดิสก์ USB"
+MenuDispositivosBloque_MSG11C="ระบบการติดตั้งบางระบบไม่รองรับ"
+MenuDispositivosBloque_MSG12="ฟอร์แมตไดรฟ์ด้วยระบบไฟล์ Linux หรือ Windows"
+MenuDispositivosBloque_MSG13="---------- กำลังอ่าน ----------"
+MenuDispositivosBloque_MSG14="สร้างภาพ .img จากดิสก์ไดรฟ์"
+# Traducción Chat GPT - INI
+MenuDispositivosBloque_MSG15="เมนูก่อนหน้า"
+# Traducción Chat GPT - FIN
+MenuDispositivosBloque_MSG16="พิมพ์ตัวเลือก"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------สำคัญ------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ จัดรูปแบบหน่วยด้วยระบบไฟล์ที่ใช้ในอุปกรณ์"
+UIFormatearUnidad_linuxfs_MSG2B="+ หรือพาร์ติชันดิสก์"
+UIFormatearUnidad_linuxfs_MSG3="+ ตัวเลือกนี้จะลบข้อมูลที่มีอยู่ทั้งหมดในหน่วย"
+UIFormatearUnidad_linuxfs_MSG4="+ ไดรฟ์แบบถอดได้ซึ่งฟอร์แมตด้วยระบบไฟล์"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux จะสามารถเข้าถึงได้ภายใต้ระบบปฏิบัติการนี้เท่านั้น"
+UIFormatearUnidad_linuxfs_MSG6="+ ใช้ด้วยความระมัดระวัง ถือเป็นความเสี่ยงเอง"
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="กดปุ่ม C เพื่อดำเนินการต่อ (กระบวนการจะถูกยกเลิกในตัวเลือกอื่น)"
+

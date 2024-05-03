@@ -1,0 +1,173 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTigrinya/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Tigriña para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="መሳርሒ ምቕራጽ ከም።"
+buscar_grabadora_MSG1B="ቅኑዕ።"
+buscar_grabadora_MSG2="መሳርሒ ምቕራጽ ከም።"
+buscar_grabadora_MSG2B="ጌጋ።"
+buscar_grabadora_MSG3="እቶም dvd+-rw-tools እቲ መቕረጺ መሳርሒ ምዃኑ ኣይቅበሉን።"
+buscar_grabadora_MSG4="ብ dvd+rw-tools ተጠቒምካ ዲቪዲ ክትቃጸል ክትክእል ንመቕረጺኻ ከም ብሎክ መሳርሒ ክትገልጾ ኣለካ።"
+buscar_grabadora_MSG5="ኣብነት።"
+buscar_grabadora_MSG6="ወይ።"
+buscar_grabadora_MSG7="ኣብ /dev ዘለዉ ናይ ስርዓት መሳርሒታት ምርኣይ።"
+buscar_grabadora_MSG8="ምስ ዲቪዲ መቕረጺኻ ዝሰማማዕ ብሎክ መሳርሒ ኣእቱ።"
+buscar_grabadora_MSG9="ዝኾነ ዓይነት መዝገብ ወይ ኣማራጺ ኣይተገልጸን።"
+buscar_grabadora_MSG10="መሳርሒ ንመዝገብ ተዋዲዱ።"
+buscar_grabadora_MSG11="እቲ መቕረጺ መሳርሒ ናብ ከባቢ ሸል ከም ተሰዲዱ ኣሎ።"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="ክህሉ ዝኽእል ዋጋ ን cdrecord ጥራይ ዝሰማማዕ።"
+buscar_grabadoralb_MSG2="ናይ ሕጂ ውቅር ናይቲ መቕረጺ እዩ።"
+buscar_grabadoralb_MSG3="እዚ ውቅር ምስቲ ብ cdrskin ዝተመደበ ዋጋ ከም ዝሰማማዕ ኣረጋግጽ።"
+buscar_grabadoralb_MSG4="ናይ IDE/SCSI ወደብ ብ cdrskin ምጽራይ..."
+buscar_grabadoralb_MSG5="ምስ cdrskin ዝጥቀመሉ ሓድሽ ዋጋ ግለጽ:"
+
+# datos_dvd
+
+datos_dvd_MSG1="ንመጻኢ ዲቪዲ ስም ኣእቱ:"
+datos_dvd_MSG2="ናይ ምቕራጽ ዲቪዲ . . ."
+datos_dvd_MSG3="ምጥቃም።"
+datos_dvd_MSG4="ምጉያይ"
+datos_dvd_MSG5="ዲቪዲ ብዓወት ተመዝጊቡ! "
+datos_dvd_MSG6="Mkisofs ወይ genisoimage ክርከብ ኣይከኣለን፣ cdrtools ወይ cdrkit ጽዓን።"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="ንመጻኢ ዲቪዲ ስም ኣእቱ:"
+datos_dvd_multi_MSG2="ናይ ዲቪዲ ምቕራጽ . . ."
+datos_dvd_multi_MSG3="ምጥቃም።"
+datos_dvd_multi_MSG4="ምጉያይ"
+datos_dvd_multi_MSG5="ዲቪዲ ብዓወት ተመዝጊቡ! "
+datos_dvd_multi_MSG6="mkisofs ወይ genisoimage ክርከብ ኣይከኣለን፣ cdrtools ወይ cdrkit ጽዓን።"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="ምስሊ ምቕራጽ። . ."
+grabimg_dvd_MSG2="ምጉያይ"
+# Resultado del traductor
+grabimg_dvd_MSG3="! DVD IMAGE ብዓወት ተቐሪጹ!"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="ምስሊ ኣብ ዲቪዲ ምቕራጽ። . ."
+copia_bin_dvd_MSG2="ምጉያይ"
+copia_bin_dvd_MSG3="	ምስሊ ፋይል ምድምሳስ"
+copia_bin_dvd_MSG4="ምቕዳሕ ተዛዚሙ!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="ቅርጺ ሀ።"
+formatear_dvd_MSG2="ንሓደ ሓድሽ ቅርጺ ኣገድድ።"
+formatear_dvd_MSG3="ናይ ሓደ መሪሕ-መውጽኢ ብሎክ ምግዓዝ።"
+formatear_dvd_MSG4="ንDVD-RW ናብ ተኸታታሊ ወሰኽ ቅርጺ ግበር።"
+formatear_dvd_MSG5="ንDVD-RW ናብ ዝተገደበ ልዕሊ ምጽሓፍ ቅርጺ ግበር።"
+formatear_dvd_MSG6="ሓንቲ ዲቪዲ ብዜሮታት ምልኣያ።"
+formatear_dvd_MSG7="ሓበሬታ ዲቪዲ ኣርእዩ።"
+formatear_dvd_MSG8="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+formatear_dvd_MSG9="እዚ ኣማራጺ ንመጀመርታ ግዜ ንዲቪዲ ንምቕራጽ ይጥቀመሉ።"
+formatear_dvd_MSG10="እቲ ዲቪዲ ድሮ ተቐሪጹ እንተኾይኑ፡ ነቲ ዳታ ኣይድምስሶን እዩ።"
+formatear_dvd_MSG11="እዚኦም ኣብ ሓድሽ ቅዳሕ ክጽሓፉ እዮም።"
+formatear_dvd_MSG12="ትሕዝቶ ናይቲ ዲቪዲ ንምድምሳስ ተጠቐም:"
+formatear_dvd_MSG13="ሓንቲ ዲቪዲ ብዜሮታት ምልኣያ።"
+formatear_dvd_MSG14="እዚ ኣማራጺ ቅርጽን ዳታን ካብቲ ዝተሓከመ ዲቪዲ ይድምስስ።"
+formatear_dvd_MSG15="ምጉያይ"
+formatear_dvd_MSG16="DVD+RW/DVD-RW ብዓወት ተቐሪጹ !"
+formatear_dvd_MSG17="ዲቪዲ ፎርማት ኣብ ዝገብረሉ እዋን ጌጋ"
+formatear_dvd_MSG18="ኣብ DVD+RW ዲስክ ቅርጺ ምግዳድ..."
+formatear_dvd_MSG19="ዲቪዲ+RW ብዓወት ተቐሪጹ!"
+formatear_dvd_MSG20="DVD+RW ፎርማት ኣብ ዝገብረሉ እዋን ጌጋ"
+formatear_dvd_MSG21="እዚ ኣማራጺ ኣብ DVD+RW ዝተዓቀበ ዳታ ኣይጸልዎን እዩ።"
+formatear_dvd_MSG22="ካብ DVD+RW ሊድ-ኣውት ብሎክ ምእላይ..."
+formatear_dvd_MSG23="ዲቪዲ-ኣርደብሊዩ ዲስክ ናብ ተኸታታሊ ጽሑፍ ምቕራጽ..."
+formatear_dvd_MSG24="ዲቪዲ-RW ብዓወት ተቐሪጹ!"
+formatear_dvd_MSG25="DVD-RW ፎርማት ኣብ ዝገብረሉ እዋን ጌጋ"
+formatear_dvd_MSG26="ዲቪዲ-RW ዲስክ ናብ ዝተገደበ ምጽሓፍ ምቕራጽ..."
+formatear_dvd_MSG27="ዳግማይ ክጽሓፍ ዝኽእል ዲቪዲ ምድምሳስ።"
+
+# null_dvd
+
+null_dvd_MSG1="ካብ /dev/zero ናብ ዲስክ ምጽሓፍ . . ."
+null_dvd_MSG2="ምጉያይ"
+null_dvd_MSG3="ዝተዛዘመ መስርሕ"
+null_dvd_MSG4="ዘይተጸበናዮ ጌጋ"
+
+# dvd_video
+
+dvd_video_MSG1="ናይ VIDEO_TSን AUDIO_TSን ማህደር ዝርከበሉ መንገዲ:"
+dvd_video_MSG2="እቲ VIDEO_TSን AUDIO_TSን ማህደር ዝርከበሉ መንገዲ ግለጽ:"
+dvd_video_MSG3="ምጉያይ"
+dvd_video_MSG4="--- ብዓወት ዝተቐድሐ DVD-VIDEO ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="ምጉያይ"
+dvd_copia_bin_MSG2=" ፋይል ምስሊ ምድምሳስ።"
+dvd_copia_bin_MSG3="ናይ ምዝገባ ጌጋ ኣጋጢሙ።"
+
+# dvd_datos
+
+dvd_datos_MSG1="ናይ .iso ምስሊ ንምፍጣር ዝሕግዙ ፋይላትን ማህደርን።"
+dvd_datos_MSG2="ናይ ዲቪዲ ምልክት።"
+dvd_datos_MSG3="ንመጻኢ ዲቪዲ ስም ኣእቱ:"
+dvd_datos_MSG4="ኣመሓዳሪ ፋይል ምጅማር:"
+dvd_datos_MSG5=" ምስሊ ምፍጣር . . ."
+dvd_datos_MSG6="ምጉያይ"
+dvd_datos_MSG7="ISO-9660 ምስሊ ኣብ ተፈጢሩ።"
+dvd_datos_MSG8="ናይ ምቕራጽ ዲቪዲ።"
+dvd_datos_MSG13="ስእሊ ምድምሳስ..."
+
+# dvd_borra
+
+dvd_borra_MSG1="ምጉያይ"
+dvd_borra_MSG2="ኦፕቲካል ዲስክ ብዓወት ፎርማት ተገይሩ።"
+dvd_borra_MSG3="ኦፕቲካል ዲስክ ፎርማት ኣብ እንገብረሉ እዋን ጌጋ"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="ምጉያይ"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="ምጉያይ"
+# Resultado del traductor
+formatearCDDVDBD_MSG2="OPTICAL DISK ብዓወት ፎርማት ተገይሩሉ።"
+formatearCDDVDBD_MSG3="ንኦፕቲካል ዲስክ ፎርማት ኣብ እንገብረሉ እዋን ጌጋ"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW ብዓወት ተቐሪጹ!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="DVD-RW ናብ ዝተገደበ ምጽሓፍ ኣብ ምቕራጽ ጌጋ።"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW ብዓወት ተቐሪጹ!!"
+formatearDVDRW_incremental_secuencial_MSG2="DVD-RW ናብ ተኸታታሊ ወሰኽ ክቐርጽ ከሎ ጌጋ።"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="እቲ iso-9660 ምስሊ ዝቃጸል መንገዲ ግለጽ: "
+cdrskinisocddvd_MSG2="ISO ምስሊ ብዓወት ተመዝጊቡ "
+cdrskinisocddvd_MSG3="ስእሊ ኣብ ምቕራጽ ጌጋ "
+

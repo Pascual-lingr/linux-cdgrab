@@ -1,0 +1,236 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en georgiano para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+# Resultado del traductor
+imagen_linux_fs_MSG1="IMAGE FILE SYSTEM"
+imagen_linux_fs_MSG2="აირჩიეთ ფაილური სისტემა: "
+imagen_linux_fs_MSG3="შექმენით სურათი CD-R/RW (702 Mbytes)"
+imagen_linux_fs_MSG4="სურათის შექმნა DVD+RW (4 გბაიტი)"
+imagen_linux_fs_MSG5="შექმენით სურათი DVD+RW/DL-ისთვის (8 გბაიტი)"
+imagen_linux_fs_MSG5B="შექმენით სურათი BD-R/RE-სთვის (25 გბაიტი)"
+imagen_linux_fs_MSG5C="შექმენით სურათის ფაილი მორგებული ზომით"
+imagen_linux_fs_MSG6="ცარიელი ფაილის შექმნა 702 მბაიტიანი ტევადობით"
+imagen_linux_fs_MSG7="ცარიელი ფაილის შექმნა 4 გბაიტიანი ტევადობით"
+imagen_linux_fs_MSG8="ცარიელი ფაილის შექმნა 8 გბაიტიანი ტევადობით"
+imagen_linux_fs_MSG8B="ცარიელი ფაილის შექმნა 25 გბაიტიანი ტევადობით"
+imagen_linux_fs_MSG8C="ცარიელი ფაილის შექმნა მორგებული ზომით"
+imagen_linux_fs_MSG9="შეცდომა: სურათის ზომა უცნობია. შეწყვეტა..."
+imagen_linux_fs_MSG10="გაშვებულია"
+imagen_linux_fs_MSG11="პროგრამა დააფორმატებს ცარიელ ფაილს."
+imagen_linux_fs_MSG12="სისტემა გაგაფრთხილებთ, რომ ადრე შექმნილი ფაილი არ არის ბლოკის მოწყობილობა და გკითხავთ, გსურთ თუ არა მისი ფორმატირება"
+imagen_linux_fs_MSG13="მიპასუხეთ დიახ"
+imagen_linux_fs_MSG13="ფორმატირდება წარმატებით"
+imagen_linux_fs_MSG14=" სურათის დამონტაჟება . . ."
+imagen_linux_fs_MSG15="შეცდომა ცარიელი ფაილის ფორმატირებისას"
+imagen_linux_fs_MSG16="პროგრამამ დაამონტაჟა ფორმატირებული ფაილი"
+imagen_linux_fs_MSG17="Linux-cdgrab გაუშვებს ფაილების მენეჯერს, რათა მან შეძლოს მუშაობა დამონტაჟებულ სურათზე"
+imagen_linux_fs_MSG18="როგორც ფაილები დაკოპირდება, განტვირთეთ ფორმატირებული ფაილი"
+imagen_linux_fs_MSG19="Linux-ის სურათი ამ დირექტორიაშია"
+imagen_linux_fs_MSG19B="შეცდომა სურათის ფაილზე დამონტაჟებისას"
+imagen_linux_fs_MSG20="ფაილები სურათში ჩასართავად. დამონტაჟებულია /mnt/lcdgrab"
+imagen_linux_fs_MSG21="ფაილ მენეჯერის გაშვება..."
+imagen_linux_fs_MSG22="შენიშვნა:"
+imagen_linux_fs_MSG23="---------"
+imagen_linux_fs_MSG24="სურათი"
+imagen_linux_fs_MSG25="ჯერ კიდევ დამონტაჟებული"
+imagen_linux_fs_MSG26="შეცდომა dd-ით ცარიელი ფაილის შექმნისას"
+imagen_linux_fs_MSG27="შეამოწმეთ, რომ გაქვთ თავისუფალი ადგილი დანაყოფზე, რომელიც დამონტაჟებულია /"
+imagen_linux_fs_MSG34="ფაილის სისტემა ფაილის ფორმატირებისთვის"
+imagen_linux_fs_MSG35="ცარიელი ფაილის თაობა მორგებული ზომით"
+imagen_linux_fs_MSG36="მიუთითეთ ახალი ცარიელი ფაილის ბლოკის ზომა (მხოლოდ რიცხვითი მნიშვნელობა):"
+imagen_linux_fs_MSG37="ბლოკის ზომის მნიშვნელობების მაგალითია: 1024, 2048 (მხოლოდ Ext2) ან 4096 (ყველა ფორმატი)"
+imagen_linux_fs_MSG38="მიუთითეთ გენერირებისთვის ცარიელი ფაილის ზომა (მხოლოდ რიცხვითი მნიშვნელობა):"
+imagen_linux_fs_MSG39="სივრცის გაზომვები ცარიელი ფაილის გენერირებისთვის:"
+imagen_linux_fs_MSG40="მიუთითეთ გამოსაყენებელი სივრცის გაზომვა: "
+imagen_linux_fs_MSG41="შეცდომა ზომის გაზომვის დაზუსტებისას"
+imagen_linux_fs_MSG42="ბლოკის ზომის მნიშვნელობა:"
+imagen_linux_fs_MSG43="სივრცის რაოდენობა ცარიელი ფაილისთვის:"
+imagen_linux_fs_MSG44="გამოთვლილი მნიშვნელობა ბაიტებში:"
+imagen_linux_fs_MSG45="გამოთვლილი მნიშვნელობა დათვლისთვის:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="md5 წაკითხვის ჩართვა .iso სურათების გენერირებისას"
+comprobar_lectura_md5_MSG2="გამორთეთ md5 კითხვა .iso სურათების გენერირებისას"
+comprobar_lectura_md5_MSG3="წინა მენიუ"
+comprobar_lectura_md5_MSG4="მიმდინარე კონფიგურაცია:"
+comprobar_lectura_md5_MSG5="ჩართულია"
+comprobar_lectura_md5_MSG6="გამორთულია"
+comprobar_lectura_md5_MSG7="მდ5 ჯამის წაკითხვა გააქტიურებულია"
+comprobar_lectura_md5_MSG8="md5 თანხის წაკითხვა გამორთულია"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="ისო სურათის სახელის წაკითხვა ვერ მოხერხდა"
+leer_md5sum_MSG2="კითხულობს md5sum of"
+leer_md5sum_MSG3="სურათის md5 ჯამის ჩვენება"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="CD სურათის შექმნა"
+extraer_isoCD_dd_MSG2="სურათი შექმნილია"
+extraer_isoCD_dd_MSG3="ვერ მოიძებნა"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="DVD სურათის შექმნა"
+extraer_isoDVD_dd_MSG2="გაშვებულია"
+extraer_isoDVD_dd_MSG3="სურათი შექმნილია"
+extraer_isoDVD_dd_MSG4="ვერ მოიძებნა"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="გაშვებულია"
+extraer_iso_readcd_MSG2="სურათი წარმატებით შეიქმნა"
+extraer_iso_readcd_MSG3="სურათი შექმნილია"
+extraer_iso_readcd_MSG4="ჩაწერის პროცესის შეწყვეტა..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="დამონტაჟებული CD"
+extraer_iso_mkisofs_MSG2="გამოსახულების შექმნა..."
+extraer_iso_mkisofs_MSG3="Macintosh თავსებადობა ჩართულია"
+extraer_iso_mkisofs_MSG4="გამოყენება"
+extraer_iso_mkisofs_MSG5="გაშვებული"
+extraer_iso_mkisofs_MSG6="სურათი შეიქმნა დირექტორიაში"
+extraer_iso_mkisofs_MSG7="პროცესის ხელახლა ცდა მაკინტოშის მხარდაჭერის გარეშე"
+extraer_iso_mkisofs_MSG8="სურათი შეიქმნა დირექტორიაში"
+extraer_iso_mkisofs_MSG9="mkisofs აბრუნებს უცნობ შეცდომებს შექმნისას"
+extraer_iso_mkisofs_MSG10="საწყისი"
+extraer_iso_mkisofs_MSG11="შეამოწმეთ მონაცემთა მთლიანობა"
+extraer_iso_mkisofs_MSG12="მონტაჟი"
+# Resultado del traductor
+extraer_iso_mkisofs_MSG12B="en"
+extraer_iso_mkisofs_MSG13="genisoimage აბრუნებს უცნობ შეცდომებს შექმნისას"
+extraer_iso_mkisofs_MSG13B="საწყისი"
+extraer_iso_mkisofs_MSG14="mkisofs და genisoimage ვერ მოიძებნა. გთხოვთ დააინსტალიროთ cdrtools ან cdrkit."
+extraer_iso_mkisofs_MSG15="ვერ დამონტაჟდა"
+extraer_iso_mkisofs_MSG16="სურათი წარმატებით შეიქმნა"
+
+# m_comp_img
+
+m_comp_img_MSG1="სურათი წარმატებით გენერირებულია"
+m_comp_img_MSG2="გსურთ სურათის ფაილის შეკუმშვა?"
+m_comp_img_MSG3="(s/y) შეკუმშვა; პროცესი გაუქმებულია სხვა ვარიანტით."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="ფაილ მენეჯერის გაშვება..."
+generar_iso_directorio_MSG2="შეიყვანეთ მომავალი CD/DVD/BD სახელი"
+generar_iso_directorio_MSG3="სურათის შექმნა..."
+generar_iso_directorio_MSG4="Macintosh თავსებადობა ჩართულია"
+generar_iso_directorio_MSG5="გამოყენება"
+generar_iso_directorio_MSG6="გაშვებულია"
+generar_iso_directorio_MSG7="სურათი შეიქმნა დირექტორიაში"
+generar_iso_directorio_MSG8="სურათის შექმნის პროცესი ვერ მოხერხდა"
+generar_iso_directorio_MSG9="სურათის შექმნა მაკინტოშის თავსებადობის გარეშე"
+generar_iso_directorio_MSG10="Mkisofs და genisoimage ვერ მოიძებნა. გთხოვთ დააინსტალიროთ cdrtools ან cdrkit."
+
+# generar_bdv_udf_directorio
+
+general_bdv_udf_directorio_MSG1="შეიყვანეთ სახელი მომავალი DVD/BD-ისთვის"
+general_bdv_udf_directorio_MSG2="მიუთითეთ დირექტორია ვიდეო სურათის გენერირებისთვის:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="მიუთითეთ დისკის ლეიბლი:"
+generar_iso_directorio_libburnia_MSG2="მიუთითეთ დირექტორია iso-9660 გამოსახულების გენერირებისთვის:"
+generar_iso_directorio_libburnia_MSG3="ISO9660 სურათი შეიქმნა წარმატებით!!"
+generar_iso_directorio_libburnia_MSG4="შეცდომა iso-9660 გამოსახულების გენერირებისას xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="ფაილები და დირექტორიები .iso სურათში ჩასართავად"
+imagenISO_MSG2="აირჩიე ვარიანტი"
+imagenISO_MSG2B="----------------"
+imagenISO_MSG3="შექმენით ISO-9660 სურათი CD-დან (გამოიყენეთ dd)"
+imagenISO_MSG4="შექმენით ISO-9660 სურათი DVD-დან (გამოიყენეთ dd)"
+imagenISO_MSG5="შექმენით ISO-9660 სურათი CD-დან (გამოიყენეთ readcd)"
+imagenISO_MSG6="შექმენით ISO-9660 გამოსახულება CD ან DVD დისკიდან (გამოიყენეთ mkisofs)"
+imagenISO_MSG7="შექმენით ISO-9660 სურათი მყარი დისკის მონაცემებიდან (გამოიყენეთ mkisofs)"
+imagenISO_MSG8="წინა მენიუ"
+imagenISO_MSG9="სურათის შექმნა"
+imagenISO_MSG10="შექმენით ISO-9660 სურათი მყარი დისკის მონაცემებიდან (გამოიყენეთ xorriso)"
+imagenISO_MSG11="შექმენით iso/udf სურათი CD/DVD/BD-დან (გამოიყენეთ mkisofs)"
+imagenISO_MSG12="შექმენით iso/udf სურათი მყარი დისკის მონაცემებიდან (გამოიყენეთ mkisofs)"
+imagenISO_MSG13="ISO-9660 FORMATTER მენიუ"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="შექმენით UDF/ISO სურათი მყარი დისკის მონაცემებიდან (გამოიყენეთ mkisofs)"
+imagenISO_MSG15="შექმენით UDF/ISO სურათი DVD ვიდეოს მხარდაჭერით (გამოიყენეთ mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="ჩაწერეთ წყაროს ბლოკის მოწყობილობა, საიდანაც უნდა გაკეთდეს სურათი"
+imagen_img_MSG2="----------------------------------------------------------------"
+imagen_img_MSG3="/etc/fstab და /etc/mtab რეგისტრირებული მოწყობილობები"
+imagen_img_MSG4="დაამონტაჟეთ ბრძანების გამომავალი:"
+imagen_img_MSG5="შეიყვანეთ მოწყობილობის სახელი: "
+imagen_img_MSG6="ბლოკის მოწყობილობის .img სურათის შექმნა"
+imagen_img_MSG7="გაშვებულია"
+imagen_img_MSG8="მოწყობილობის სურათი შექმნილია"
+
+# monta_img
+
+monta_img_MSG1="ISO ან ext2 სურათი დასამონტაჟებლად."
+monta_img_MSG2="აკრიფეთ დირექტორია გზა, სადაც განთავსებულია დასამონტაჟებელი სურათი:"
+monta_img_MSG3="მონტირებული CD IMAGE:"
+monta_img_MSG4="შეცდომა სურათის ფაილის დამონტაჟებისას"
+monta_img_MSG5="არ მოიძებნა"
+monta_img_MSG6="MOUNT POINT არ არსებობს"
+monta_img_MSG7="მოულოდნელი შეცდომა"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO ან ext2 გამოსახულება დასამონტაჟებლად."
+desmonta_img_MSG2="მოშლილი სურათი"
+desmonta_img_MSG3="დამონტაჟებული სურათი ვერ მოიძებნა"
+desmonta_img_MSG4="დაამაგრეთ გამომავალი:"
+desmonta_img_MSG5="შეგიძლიათ პირდაპირ მიუთითოთ სურათის აბსოლუტური დირექტორია გზა."
+desmonta_img_MSG6="როგორიცაა /tmp/lcdgrabimg.iso ან სურათის სამონტაჟო დირექტორია, როგორიცაა /mnt/lcdgrab"
+desmonta_img_MSG7="თუ არ არის მითითებული, მისი ძებნა შესაძლებელია ფაილ მენეჯერის გამოყენებით"
+desmonta_img_MSG8="ფაილ მენეჯერის გაშვება"
+desmonta_img_MSG9="მიუთითეთ გამოსახულების გზა."
+desmonta_img_MSG10="მოშლილი სურათი"
+desmonta_img_MSG11="შეცდომა სურათის ამოღებისას"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg სურათი გადაიყვანეთ .iso-ში"
+nrg_a_iso_MSG2="შეიყვანეთ .nrg (Nero Burning ROM) გამოსახულების გზა გადასაყვანად"
+nrg_a_iso_MSG3="მიმდინარეობს სურათის კონვერტაცია..."
+nrg_a_iso_MSG4="წყაროს .nrg გამოსახულების გზა"
+nrg_a_iso_MSG5="არ არსებობს ან შეესაბამება დირექტორიას"
+nrg_a_iso_MSG6="არასწორი გზა."
+nrg_a_iso_MSG7="ის უკვე წინა ISO-9660 სურათია, ის არ გადაიქცევა."
+nrg_a_iso_MSG8="კოპირება სხვა გაფართოებით..."
+nrg_a_iso_MSG9="კოპირება დასრულებულია"
+nrg_a_iso_MSG10="გაშვებულია"
+nrg_a_iso_MSG11="სურათი წარმატებით გადაკეთდა"
+nrg_a_iso_MSG12="შეცდომა სურათის შექმნისას .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1=".cue აღწერილობის ფაილის გენერირება .bin სურათიდან"
+GenerarArchivocue_MSG2="მიმდინარე აქტიური დირექტორია"
+GenerarArchivocue_MSG3="ჩაწერეთ მხოლოდ დირექტორიაში, სადაც"
+GenerarArchivocue_MSG4="იპოვეთ სურათის ფაილი:"
+GenerarArchivocue_MSG5="შეიყვანეთ .bin გამოსახულების სახელი, რომელიც იქნება"
+GenerarArchivocue_MSG6="შექმნა თავისი შესაბამისი .cue ფაილი"
+GenerarArchivocue_MSG7="აღწერის ფაილი .cue წარმატებით გენერირებულია"
+GenerarArchivocue_MSG8="შეცდომა აღწერის ფაილის გენერირებისას .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="გაშვებულია"
+ImagenbincueCDDVD_MSG2="დისკის სურათი .BIN .CUE წარმატებით გენერირებულია"
+

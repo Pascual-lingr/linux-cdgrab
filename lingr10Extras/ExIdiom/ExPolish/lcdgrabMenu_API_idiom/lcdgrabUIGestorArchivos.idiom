@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExPolish/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Polaco para el gestor de archivos
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* OPCJE NAWIGACJI ************************"
+ayuda_gestor_de_archivos_MSG2="Przeglądaj system plików."
+ayuda_gestor_de_archivos_MSG3="X --> Wychodzić"
+ayuda_gestor_de_archivos_MSG4="A --> Poprzedni katalog"
+ayuda_gestor_de_archivos_MSG5="B --> Następny katalog"
+ayuda_gestor_de_archivos_MSG6="Działania na plikach i katalogach."
+ayuda_gestor_de_archivos_MSG7="C --> Skopiować plik"
+ayuda_gestor_de_archivos_MSG8="M --> Przenieś plik"
+ayuda_gestor_de_archivos_MSG9="CD --> Kopiuj katalog"
+ayuda_gestor_de_archivos_MSG10="MD --> Przenieś katalog"
+ayuda_gestor_de_archivos_MSG11="Zrozumienie działań na plikach i katalogach."
+ayuda_gestor_de_archivos_MSG12="Z --> Skompresuj plik"
+ayuda_gestor_de_archivos_MSG13="DZ --> Rozpakuj plik"
+ayuda_gestor_de_archivos_MSG14="EZ --> Utwórz pakiet .tar.gz lub .tar.bz2"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Rozpakuj plik .tar.gz lub .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*****************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Bieżący aktywny katalog"
+gestor_de_archivos_MSG0B="Pliki w"
+gestor_de_archivos_MSG1="============================ OPCJE NAWIGACJI ============================"
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> POMOC="
+gestor_de_archivos_MSG3="========================================================================="
+gestor_de_archivos_MSG4="Wpisz opcję"
+gestor_de_archivos_MSG5="Wpisz katalog"
+gestor_de_archivos_MSG6="Wpisz plik źródłowy"
+gestor_de_archivos_MSG7="Wpisz plik docelowy"
+gestor_de_archivos_MSG8="Plik został skopiowany pomyślnie"
+gestor_de_archivos_MSG9="Błąd podczas kopiowania pliku"
+gestor_de_archivos_MSG10="Wpisz plik źródłowy"
+gestor_de_archivos_MSG11="Wpisz plik docelowy"
+gestor_de_archivos_MSG12="Plik został pomyślnie przeniesiony"
+gestor_de_archivos_MSG13="Błąd podczas przenoszenia pliku"
+gestor_de_archivos_MSG14="Wpisz katalog źródłowy"
+gestor_de_archivos_MSG15="Wpisz katalog docelowy"
+gestor_de_archivos_MSG16="Katalog został pomyślnie skopiowany"
+gestor_de_archivos_MSG17="Błąd podczas kopiowania katalogu"
+gestor_de_archivos_MSG18="Wpisz katalog źródłowy"
+gestor_de_archivos_MSG19="Wpisz katalog docelowy"
+gestor_de_archivos_MSG20="Pomyślnie przeniesiono katalog"
+gestor_de_archivos_MSG21="Błąd podczas przenoszenia katalogu"
+gestor_de_archivos_MSG22="PLIK DO KOMPRESOWANIA"
+gestor_de_archivos_MSG23="Określ ścieżkę pliku"

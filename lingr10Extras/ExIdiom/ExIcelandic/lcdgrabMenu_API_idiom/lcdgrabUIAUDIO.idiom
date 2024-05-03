@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en islandés para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="HLJÓÐUMBREYTING"
+menu_conversion_audio_MSG2="------------- UMBREYTING Á MILLI FORMAÐA -----------"
+menu_conversion_audio_MSG3="Breyta .mp3 í .wav"
+menu_conversion_audio_MSG4="Breyta .ogg í .wav"
+menu_conversion_audio_MSG5="Breyta .wav í .mp3"
+menu_conversion_audio_MSG6="Breyta .wav í .ogg"
+menu_conversion_audio_MSG6C="Breyta .wav í .flac"
+menu_conversion_audio_MSG6B="Breyta .flac í .wav"
+menu_conversion_audio_MSG7="---------- ÚTTAKA HJÓÐSLÖK ---------"
+menu_conversion_audio_MSG8="Rífðu hljóðdisk á .wav"
+menu_conversion_audio_MSG9="Rífa sett af hljóðlögum í .wav"
+menu_conversion_audio_MSG10="Rífðu hljóðdisk í .mp3"
+menu_conversion_audio_MSG11="Rífðu hljóðdisk á .ogg"
+menu_conversion_audio_MSG0="Fyrri valmynd"
+menu_conversion_audio_MSG12="Leita að .mp3 skrám"
+menu_conversion_audio_MSG13="Leita að .ogg skrám"
+menu_conversion_audio_MSG14="Leita að .wav skrám"
+menu_conversion_audio_MSG15="---------------- AÐRAR AÐGERÐIR --------------------"
+menu_conversion_audio_MSG16="Klippa .wav hljóðskrá"
+menu_conversion_audio_MSG17="Rífðu hljóðdisk á .flac"
+

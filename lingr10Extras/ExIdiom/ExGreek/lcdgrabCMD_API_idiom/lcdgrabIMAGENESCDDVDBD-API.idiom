@@ -1,0 +1,234 @@
+#########################################################
+# lcgdrabAPI_idiom/ExGreek/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en griego para el API de creacion y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="ΣΥΣΤΗΜΑ ΑΡΧΕΙΩΝ ΕΙΚΟΝΑΣ"
+imagen_linux_fs_MSG2="Επιλέξτε το σύστημα αρχείων: "
+imagen_linux_fs_MSG3="Δημιουργία εικόνας για CD-R/RW (702 Mbytes)"
+imagen_linux_fs_MSG4="Δημιουργία εικόνας για DVD+RW (4 Gbyte)"
+imagen_linux_fs_MSG5="Δημιουργία εικόνας για DVD+RW/DL (8 Gbyte)"
+imagen_linux_fs_MSG5B="Δημιουργία εικόνας για BD-R/RE (25 Gbyte)"
+imagen_linux_fs_MSG5C="Δημιουργία αρχείου εικόνας με προσαρμοσμένο μέγεθος"
+imagen_linux_fs_MSG6="Δημιουργία κενού αρχείου χωρητικότητας 702 Mbyte"
+imagen_linux_fs_MSG7="Δημιουργία κενού αρχείου χωρητικότητας 4 Gbyte"
+imagen_linux_fs_MSG8="Δημιουργία κενού αρχείου χωρητικότητας 8 Gbyte"
+imagen_linux_fs_MSG8B="Δημιουργία κενού αρχείου χωρητικότητας 25 Gbyte"
+imagen_linux_fs_MSG8C="Δημιουργία κενού αρχείου με προσαρμοσμένο μέγεθος"
+imagen_linux_fs_MSG9="ΣΦΑΛΜΑ: ΤΟ ΜΕΓΕΘΟΣ ΤΗΣ ΕΙΚΟΝΑΣ ΔΕΝ ΕΙΝΑΙ ΓΝΩΣΤΟ. ΑΠΟΡΡΙΨΗ..."
+imagen_linux_fs_MSG10="Εκτέλεση"
+imagen_linux_fs_MSG11="Το πρόγραμμα θα μορφοποιήσει το κενό αρχείο."
+imagen_linux_fs_MSG12="Το σύστημα θα σας προειδοποιήσει ότι το αρχείο που δημιουργήθηκε προηγουμένως δεν είναι συσκευή μπλοκ και θα σας ρωτήσει εάν θέλετε να το μορφοποιήσετε"
+imagen_linux_fs_MSG13="Απάντηση ναι"
+imagen_linux_fs_MSG13="ΔΙΑΜΟΡΦΩΣΗΚΕ ΕΠΙΤΥΧΙΑ"
+imagen_linux_fs_MSG14=" Τοποθέτηση εικόνας . . ."
+imagen_linux_fs_MSG15="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗ ΜΟΡΦΗ ΤΟΥ ΚΕΝΟΥ ΑΡΧΕΙΟΥ"
+imagen_linux_fs_MSG16="Το πρόγραμμα έχει προσαρτήσει το αρχείο σε μορφή"
+imagen_linux_fs_MSG17="Το Linux-cdgrab θα εκκινήσει τη διαχείριση αρχείων έτσι ώστε να μπορεί να λειτουργεί στην εικόνα που έχει προσαρτηθεί"
+imagen_linux_fs_MSG18="Μόλις αντιγραφούν τα αρχεία, αποπροσαρτήστε το μορφοποιημένο αρχείο"
+imagen_linux_fs_MSG19="Η εικόνα του linux βρίσκεται σε αυτόν τον κατάλογο"
+imagen_linux_fs_MSG19B="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΤΟΠΟΘΕΤΗΣΗ ΤΟΥ ΑΡΧΕΙΟΥ ΕΙΚΟΝΑΣ"
+imagen_linux_fs_MSG20="Αρχεία για συμπερίληψη στην εικόνα. Προσαρτήθηκαν στο /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Εκκίνηση της διαχείρισης αρχείων..."
+imagen_linux_fs_MSG22="ΕΙΔΟΠΟΙΗΣΗ:"
+imagen_linux_fs_MSG23="-----------"
+imagen_linux_fs_MSG24="Η εικόνα"
+imagen_linux_fs_MSG25="ακόμα τοποθετημένο"
+imagen_linux_fs_MSG26="ΣΦΑΛΜΑ ΚΑΤΑ ΔΗΜΙΟΥΡΓΙΑ ΚΕΝΟΥ ΑΡΧΕΙΟΥ ΜΕ dd"
+imagen_linux_fs_MSG27="Βεβαιωθείτε ότι έχετε ελεύθερο χώρο στο διαμέρισμα που είναι τοποθετημένο στο /"
+imagen_linux_fs_MSG34="ΣΥΣΤΗΜΑ ΑΡΧΕΙΩΝ ΓΙΑ ΜΟΡΦΗ ΑΡΧΕΙΟΥ"
+imagen_linux_fs_MSG35="ΓΕΝΙΑ ΚΕΝΟΥ ΑΡΧΕΙΟΥ ΜΕ ΠΡΟΣΑΡΜΟΣΜΕΝΟ ΜΕΓΕΘΟΣ"
+imagen_linux_fs_MSG36="Καθορίστε το μέγεθος του μπλοκ του νέου κενού αρχείου (μόνο μια αριθμητική τιμή):"
+imagen_linux_fs_MSG37="Ένα παράδειγμα τιμών για το μέγεθος του μπλοκ είναι: 1024, 2048 (μόνο Ext2) ή 4096 (Όλες οι μορφές)"
+imagen_linux_fs_MSG38="Καθορίστε το μέγεθος του κενού αρχείου που θα δημιουργηθεί (μόνο μια αριθμητική τιμή):"
+imagen_linux_fs_MSG39="Μετρήσεις διαστήματος για τη δημιουργία του κενού αρχείου:"
+imagen_linux_fs_MSG40="Καθορίστε τη μέτρηση χώρου που θα χρησιμοποιηθεί: "
+imagen_linux_fs_MSG41="ΣΦΑΛΜΑ ΟΤΑΝ ΠΡΟΣΔΙΟΡΙΖΟΝΤΑΙ ΤΗ ΜΕΤΡΗΣΗ ΜΕΓΕΘΟΥΣ"
+imagen_linux_fs_MSG42="Τιμή μεγέθους μπλοκ:"
+imagen_linux_fs_MSG43="Ποσότητα χώρου για κενό αρχείο:"
+imagen_linux_fs_MSG44="Υπολογιζόμενη τιμή σε byte:"
+imagen_linux_fs_MSG45="Υπολογιζόμενη τιμή για τον αριθμό:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Ενεργοποίηση ανάγνωσης md5 κατά τη δημιουργία εικόνων .iso"
+comprobar_lectura_md5_MSG2="Απενεργοποίηση ανάγνωσης md5 κατά τη δημιουργία εικόνων .iso"
+comprobar_lectura_md5_MSG3="Προηγούμενο μενού"
+comprobar_lectura_md5_MSG4="Τρέχουσα διαμόρφωση:"
+comprobar_lectura_md5_MSG5="Ενεργοποιήθηκε"
+comprobar_lectura_md5_MSG6="Απενεργοποιημένο"
+comprobar_lectura_md5_MSG7="Διαβάστε το άθροισμα md5 ενεργοποιημένο"
+comprobar_lectura_md5_MSG8="Απενεργοποιημένη ανάγνωση του ποσού md5"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Δεν ήταν δυνατή η ανάγνωση του ονόματος της εικόνας iso"
+leer_md5sum_MSG2="Ανάγνωση md5sum of"
+leer_md5sum_MSG3="Εμφάνιση του αθροίσματος md5 της εικόνας"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="ΔΗΜΙΟΥΡΓΙΑ ΕΙΚΟΝΑΣ CD"
+extraer_isoCD_dd_MSG2="Η ΕΙΚΟΝΑ ΔΗΜΙΟΥΡΓΗΘΗΚΕ ΣΤΟ"
+extraer_isoCD_dd_MSG3="Δεν βρέθηκε"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="ΔΗΜΙΟΥΡΓΙΑ ΕΙΚΟΝΑΣ DVD"
+extraer_isoDVD_dd_MSG2="τρέχει"
+extraer_isoDVD_dd_MSG3="Η ΕΙΚΟΝΑ ΔΗΜΙΟΥΡΓΗΘΗΚΕ ΣΤΟ"
+extraer_isoDVD_dd_MSG4="Δεν βρέθηκε"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="τρέχει"
+extraer_iso_readcd_MSG2="Η ΕΙΚΟΝΑ ΔΗΜΙΟΥΡΓΗΘΗΚΕ ΜΕ ΕΠΙΤΥΧΙΑ"
+extraer_iso_readcd_MSG3="Η εικόνα δημιουργήθηκε σε"
+extraer_iso_readcd_MSG4="Διακοπή της διαδικασίας εγγραφής..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Εγκατάσταση CD"
+extraer_iso_mkisofs_MSG2="Δημιουργία εικόνας..."
+extraer_iso_mkisofs_MSG3="Ενεργοποιήθηκε η συμβατότητα Macintosh"
+extraer_iso_mkisofs_MSG4="Χρήση"
+extraer_iso_mkisofs_MSG5="τρέχει"
+extraer_iso_mkisofs_MSG6="Η εικόνα δημιουργήθηκε στον κατάλογο"
+extraer_iso_mkisofs_MSG7="Επανάληψη της διαδικασίας χωρίς υποστήριξη Macintosh"
+extraer_iso_mkisofs_MSG8="Η εικόνα δημιουργήθηκε στον κατάλογο"
+extraer_iso_mkisofs_MSG9="mkisofs επιστρέφει άγνωστα σφάλματα κατά τη δημιουργία"
+extraer_iso_mkisofs_MSG10="από"
+extraer_iso_mkisofs_MSG11="Έλεγχος ακεραιότητας δεδομένων"
+extraer_iso_mkisofs_MSG12="Τοποθέτηση"
+extraer_iso_mkisofs_MSG12B="σε"
+extraer_iso_mkisofs_MSG13="Το genisoimage επιστρέφει άγνωστα σφάλματα κατά τη δημιουργία"
+extraer_iso_mkisofs_MSG13B="από"
+extraer_iso_mkisofs_MSG14="Δεν βρέθηκαν τα Mkisofs και το genisoimage. Εγκαταστήστε τα cdrtools ή το cdrkit."
+extraer_iso_mkisofs_MSG15="Δεν ήταν δυνατή η τοποθέτηση"
+extraer_iso_mkisofs_MSG16="Η εικόνα δημιουργήθηκε με επιτυχία στο"
+
+# m_comp_img
+
+m_comp_img_MSG1="ΕΙΚΟΝΑ ΔΗΜΙΟΥΡΓΗΘΗΚΕ ΜΕ ΕΠΙΤΥΧΙΑ ΣΤΟ"
+m_comp_img_MSG2="ΘΕΛΕΤΕ ΝΑ ΣΥΜΠΙΕΣΕΤΕ ΤΟ ΑΡΧΕΙΟ ΕΙΚΟΝΑΣ;"
+m_comp_img_MSG3="(s/y) για συμπίεση? Η διαδικασία ακυρώνεται με άλλη επιλογή."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Εκκίνηση της διαχείρισης αρχείων..."
+generar_iso_directorio_MSG2="Εισαγάγετε ένα όνομα για το μελλοντικό CD/DVD/BD"
+generar_iso_directorio_MSG3="ΔΗΜΙΟΥΡΓΙΑ ΕΙΚΟΝΑΣ..."
+generar_iso_directorio_MSG4="Ενεργοποιήθηκε η συμβατότητα Macintosh"
+generar_iso_directorio_MSG5="Χρήση"
+generar_iso_directorio_MSG6="τρέχει"
+generar_iso_directorio_MSG7="Η ΕΙΚΟΝΑ ΔΗΜΙΟΥΡΓΗΘΗΚΕ ΣΤΟΝ ΚΑΤΑΛΟΓΙΟ"
+generar_iso_directorio_MSG8="Η ΔΙΑΔΙΚΑΣΙΑ ΔΗΜΙΟΥΡΓΙΑΣ ΕΙΚΟΝΑΣ ΑΠΟΤΥΧΕ"
+generar_iso_directorio_MSG9="ΔΗΜΙΟΥΡΓΙΑ ΕΙΚΟΝΑΣ ΧΩΡΙΣ ΣΥΜΒΑΤΟΤΗΤΑ MACINTOSH"
+generar_iso_directorio_MSG10="Δεν βρέθηκαν τα Mkisofs και το genisoimage. Εγκαταστήστε τα cdrtools ή το cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Εισαγάγετε ένα όνομα για το μελλοντικό DVD/BD"
+generar_bdv_udf_directorio_MSG2="Καθορίστε τον κατάλογο για τη δημιουργία της εικόνας βίντεο:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Καθορίστε την ετικέτα του δίσκου:"
+generar_iso_directorio_libburnia_MSG2="Καθορίστε τον κατάλογο για τη δημιουργία της εικόνας iso-9660:"
+generar_iso_directorio_libburnia_MSG3="Η εικόνα ISO9660 δημιουργήθηκε με επιτυχία!!"
+generar_iso_directorio_libburnia_MSG4="Σφάλμα κατά τη δημιουργία εικόνας iso-9660 με xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="Αρχεία και κατάλογοι για συμπερίληψη στην εικόνα .iso"
+imagenISO_MSG2="ΕΠΙΛΟΓΗ ΕΠΙΛΟΓΗΣ"
+imagenISO_MSG2B="----------------"
+imagenISO_MSG3="Δημιουργία εικόνας ISO-9660 από CD (χρησιμοποιήστε dd)"
+imagenISO_MSG4="Δημιουργία εικόνας ISO-9660 από DVD (χρησιμοποιήστε dd)"
+imagenISO_MSG5="Δημιουργία εικόνας ISO-9660 από CD (χρησιμοποιήστε το readcd)"
+imagenISO_MSG6="Δημιουργία εικόνας ISO-9660 από δίσκο CD ή DVD (χρησιμοποιήστε mkisofs)"
+imagenISO_MSG7="Δημιουργία εικόνας ISO-9660 από δεδομένα σκληρού δίσκου (χρησιμοποιήστε mkisofs)"
+imagenISO_MSG8="Προηγούμενο μενού"
+imagenISO_MSG9="ΔΗΜΙΟΥΡΓΙΑ ΕΙΚΟΝΑΣ"
+imagenISO_MSG10="Δημιουργία εικόνας ISO-9660 από δεδομένα σκληρού δίσκου (χρησιμοποιήστε xorriso)"
+imagenISO_MSG11="Δημιουργία εικόνας iso/udf από CD/DVD/BD (χρησιμοποιήστε mkisofs)"
+imagenISO_MSG12="Δημιουργία εικόνας iso/udf από δεδομένα σκληρού δίσκου (χρησιμοποιήστε mkisofs)"
+imagenISO_MSG13="ΜΕΝΟΥ ΜΟΡΦΗΣ ISO-9660"
+imagenISO_MSG13B="======================================================"
+imagenISO_MSG14="Δημιουργία εικόνας UDF/ISO από δεδομένα σκληρού δίσκου (χρησιμοποιήστε mkisofs)"
+imagenISO_MSG15="Δημιουργία εικόνας UDF/ISO με υποστήριξη για βίντεο DVD (χρησιμοποιήστε mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Πληκτρολογήστε τη συσκευή μπλοκ πηγής από την οποία θα δημιουργηθεί η εικόνα"
+imagen_img_MSG2="----------------------------------------------- ---------------------------"
+imagen_img_MSG3="Συσκευές εγγεγραμμένες στο /etc/fstab και /etc/mtab"
+imagen_img_MSG4="Εξόδου εντολής προσάρτησης:"
+imagen_img_MSG5="Εισαγάγετε το όνομα της συσκευής: "
+imagen_img_MSG6="Δημιουργία εικόνας .img της συσκευής μπλοκ"
+imagen_img_MSG7="τρέχει"
+imagen_img_MSG8="ΔΗΜΙΟΥΡΓΗΘΗΚΕ ΕΙΚΟΝΑ ΣΥΣΚΕΥΗΣ"
+
+# monta_img
+
+monta_img_MSG1="Εικόνα ISO ή ext2 για προσάρτηση."
+monta_img_MSG2="Πληκτρολογήστε τη διαδρομή καταλόγου όπου βρίσκεται η εικόνα που πρόκειται να προσαρτηθεί:"
+monta_img_MSG3="ΕΙΚΟΝΑ ΤΟΠΟΘΕΤΗΣΗΣ CD:"
+monta_img_MSG4="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΤΟΠΟΘΕΤΗΣΗ ΤΟΥ ΑΡΧΕΙΟΥ ΕΙΚΟΝΑΣ"
+monta_img_MSG5="ΔΕΝ ΒΡΕΘΗΚΕ"
+monta_img_MSG6="ΤΟ ΣΗΜΕΙΟ ΟΡΟΣ ΔΕΝ ΥΠΑΡΧΕΙ"
+monta_img_MSG7="ΜΗ ΑΝΑΜΕΝΟΜΕΝΟ ΣΦΑΛΜΑ"
+
+# desmonta_img
+
+desmonta_img_MSG1="Εικόνα ISO ή ext2 για αποσυναρμολόγηση."
+desmonta_img_MSG2="ΑΠΟΣΥΡΩΜΕΝΗ ΕΙΚΟΝΑ"
+desmonta_img_MSG3="Δεν βρέθηκε προσαρτημένη εικόνα"
+desmonta_img_MSG4="Σύνδεση εξόδου:"
+desmonta_img_MSG5="Μπορείτε να καθορίσετε απευθείας την απόλυτη διαδρομή καταλόγου μιας εικόνας."
+desmonta_img_MSG6="Όπως /tmp/lcdgrabimg.iso ή ο κατάλογος προσάρτησης για την εικόνα όπως /mnt/lcdgrab"
+desmonta_img_MSG7="Εάν δεν έχει καθοριστεί, μπορεί να γίνει αναζήτηση χρησιμοποιώντας τη διαχείριση αρχείων"
+desmonta_img_MSG8="Εκκίνηση διαχείρισης αρχείων"
+desmonta_img_MSG9="Καθορίστε τη διαδρομή της εικόνας."
+desmonta_img_MSG10="ΑΠΟΣΥΡΩΜΕΝΗ ΕΙΚΟΝΑ"
+desmonta_img_MSG11="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΑΠΟΠΡΟΣΘΗΚΗ ΤΗΣ ΕΙΚΟΝΑΣ"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg εικόνα για μετατροπή σε .iso"
+nrg_a_iso_MSG2="Εισαγάγετε τη διαδρομή της εικόνας .nrg (Nero Burning ROM) για μετατροπή"
+nrg_a_iso_MSG3="Μετατροπή εικόνας..."
+nrg_a_iso_MSG4="Η διαδρομή της εικόνας πηγής .nrg"
+nrg_a_iso_MSG5="δεν υπάρχει ή αντιστοιχεί σε κατάλογο"
+nrg_a_iso_MSG6="Μη έγκυρη διαδρομή."
+nrg_a_iso_MSG7="είναι ήδη μια προηγούμενη εικόνα ISO-9660, δεν θα μετατραπεί."
+nrg_a_iso_MSG8="Αντιγραφή με διαφορετική επέκταση..."
+nrg_a_iso_MSG9="Η ΑΝΤΙΓΡΑΦΗ ΟΛΟΚΛΗΡΩΘΗΚΕ"
+nrg_a_iso_MSG10="τρέχει"
+nrg_a_iso_MSG11="Η μετατροπή της εικόνας έγινε με επιτυχία"
+nrg_a_iso_MSG12="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗ ΔΗΜΙΟΥΡΓΙΑ ΕΙΚΟΝΑΣ .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Δημιουργία αρχείου περιγραφής .cue από εικόνα .bin"
+GenerarArchivocue_MSG2="Τρέχον ενεργός κατάλογος"
+GenerarArchivocue_MSG3="Γράψτε μόνο τη διαδρομή καταλόγου όπου"
+GenerarArchivocue_MSG4="βρείτε το αρχείο εικόνας:"
+GenerarArchivocue_MSG5="Εισαγάγετε το όνομα της εικόνας .bin στην οποία"
+GenerarArchivocue_MSG6="έχει δημιουργήσει το αντίστοιχο αρχείο .cue"
+GenerarArchivocue_MSG7="ΤΟ ΑΡΧΕΙΟ ΠΕΡΙΓΡΑΦΗΣ .cue ΔΗΜΙΟΥΡΓΗΘΗΚΕ ΜΕ ΕΠΙΤΥΧΙΑ"
+GenerarArchivocue_MSG8="ΣΦΑΛΜΑ ΚΑΤΑ ΔΗΜΙΟΥΡΓΙΑ ΑΡΧΕΙΟΥ ΠΕΡΙΓΡΑΦΗΣ .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="τρέξιμο"
+ImagenbincueCDDVD_MSG2="ΔΗΜΙΟΥΡΓΗΘΗΚΕ ΜΕ ΕΠΙΤΥΧΙΑ .BIN .CUE DISK IMAGE"
+

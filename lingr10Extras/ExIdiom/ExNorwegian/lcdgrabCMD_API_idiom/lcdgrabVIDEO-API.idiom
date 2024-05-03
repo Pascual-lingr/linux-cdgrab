@@ -1,0 +1,55 @@
+#########################################################
+# lcgdrabAPI_idiom/ExNorwegian/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en noruego para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="VIDEOKONVERING BLU-RAY-DISC-KOMPATIBILITET"
+conv_video_BDVideo_MSG2="Spesifiser banen til videofilen som skal konverteres:"
+conv_video_BDVideo_MSG3="Spesifiser filnavnet til den nye videoen som skal lages:"
+conv_video_BDVideo_MSG4="Videofil konvertert vellykket!!"
+conv_video_BDVideo_MSG5="Feil ved konvertering av videofil"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="KONVERTERINGSVIDEOFILER"
+conv_VideoFich_MSG2="Spesifiser videofilen som skal konverteres:"
+conv_VideoFich_MSG3="Spesifiser videofilen som skal genereres:"
+conv_VideoFich_MSG4="VIDEOFILKONVERING FULLFØRT"
+conv_VideoFich_MSG5="FEIL VED KONVERTERING AV VIDEOFILEN"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Spesifiser videofilen:"
+extrae_Audio_de_Video_MSG2="Spesifiser mp3-lydfilen som skal genereres:"
+extrae_Audio_de_Video_MSG3="LYDUTTREKKING LYKKES"
+extrae_Audio_de_Video_MSG4="FEIL VED UTTREKKING AV LYD"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Spesifiser videofilen:"
+extrae_Fragmento_Video_MSG2="Spesifiser videofilen som skal genereres:"
+extrae_Fragmento_Video_MSG3="Spesifiser starttidspunktet (spesifiser som TT:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Spesifiser slutttiden (spesifiser som TT:MM:SS) :"
+extrae_Fragmento_Video_MSG5="VIDEO SUKSESSFULLT TRIMMET"
+extrae_Fragmento_Video_MSG6="FEIL VED TRIMING AV VIDEO"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Spesifiser lydfilen:"
+mezcla_Audio_Video_MSG2="Spesifiser videofilen:"
+mezcla_Audio_Video_MSG3="Spesifiser videofilen som skal genereres:"
+mezcla_Audio_Video_MSG4="NY VIDEOFIL ER SUKSESSFULLT GENERERT"
+mezcla_Audio_Video_MSG5="FEIL VED GENERERING AV VIDEOFIL"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="ALTERNATIV IKKE TILGJENGELIG FOR KONSOLLGRENSESNITTET"
+graba_escritorio_MSG2="-- OPPTAK AV DESKTOP SESSION -- TRYKK CTRL + C FOR Å AVBRYTE OG STOPPE OPPTAKET"
+graba_escritorio_MSG3="VIDEOOPPTAK FERDIG"

@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExArmenian/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en armenio para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="ՏԵՍԱՆՅՈՒԹԻ ՓՈՓՈԽԱՐԿՈՒՄ BLU-RAY ՍԿՍԱՎՈՐ ՀԱՄԱՏԵՂԱԿԱՆՈՒԹՅՈՒՆԸ"
+conv_video_BDVideo_MSG2="Նշեք փոխարկվող վիդեո ֆայլի ուղին."
+conv_video_BDVideo_MSG3="Նշեք ստեղծվող նոր տեսանյութի ֆայլի անունը."
+conv_video_BDVideo_MSG4="Վիդեո ֆայլը հաջողությամբ փոխարկվեց!!"
+conv_video_BDVideo_MSG5="Վիդեո ֆայլի վերափոխման սխալ"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="ՎԻԴԵՈ ՖԱՅԼԵՐԻ ԿՈՆՎԵՐՍԻԱ"
+conv_VideoFich_MSG2="Նշեք փոխարկվող վիդեո ֆայլը."
+conv_VideoFich_MSG3="Նշեք ստեղծվող վիդեո ֆայլը"
+conv_VideoFich_MSG4="ՏԵՍԱՆՅՈՒԹԻ ՖԱՅԼԻ ՓՈԽԱՐԿՈՒՄԸ ԱՎԱՐՏՎԱԾ Է"
+conv_VideoFich_MSG5="ՍԽԱԼ ՎԻԴԵՈ ՖԱՅԼԸ ՎԵՐԱՓՈԽԵԼՈՎ"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Նշեք վիդեո ֆայլը."
+extrae_Audio_de_Video_MSG2="Նշեք mp3 ձայնային ֆայլը, որը պետք է ստեղծվի."
+extrae_Audio_de_Video_MSG3="ՁԱՅՆԻ ՀԱՋՈՂՈՒԹՅՈՒՆԸ ՀԱՋՈՂՎԵՑ"
+extrae_Audio_de_Video_MSG4="ՍԽԱԼ ՁԱՅՆ ՀԱՆՁՆԵԼՈՒ ՀԱՄԱՐ"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Նշեք վիդեո ֆայլը."
+extrae_Fragmento_Video_MSG2="Նշեք ստեղծվող վիդեո ֆայլը"
+extrae_Fragmento_Video_MSG3="Նշեք սկզբնական ժամանակը Նշեք որպես HH:MM:SS :"
+extrae_Fragmento_Video_MSG4="Նշեք ավարտի ժամը Նշեք որպես HH:MM:SS :"
+extrae_Fragmento_Video_MSG5="ՏԵՍԱՆՅՈՒԹԸ ՀԱՋՈՂՈՎ ԿՐՎԱԾՎԱԾ Է"
+extrae_Fragmento_Video_MSG6="ՍԽԱԼ ՏԵՍԱՆՅՈՒԹ ՁԵՌՆԱԳՐԵԼԻՑ"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Նշեք ձայնային ֆայլը."
+mezcla_Audio_Video_MSG2="Նշեք վիդեո ֆայլը."
+mezcla_Audio_Video_MSG3="Նշեք ստեղծվող վիդեո ֆայլը"
+mezcla_Audio_Video_MSG4="ՆՈՐ ՏԵՍԱՆՅՈՒԹԻ ՖԱՅԼԸ ՀԱՋՈՂՈՎ ՍՏԵՂԾՎԵԼ Է"
+mezcla_Audio_Video_MSG5="ՏԵՍԱՆՅՈՒԹԻ ՍԽԱԼ ՍՏԵՂԾՈՒՄ Է ՏԵՍԱՆՅՈՒԹ"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="ՏԱՐԲԵՐԱԿԸ ՀԱՍԱՆԵԼԻ ՉԷ ՄԱՀՊԱՆԱԿԱՆ ԻՆՏԵՐՖԵՅՍԻ ՀԱՄԱՐ"
+graba_escritorio_MSG2="ՁԵՌՆԱԳՐԵԼ ՍՍԵՂԱՆԱՇԽԱՐԱՆԻ ՆԻՍՏԸ ՍԵՂՄԵՔ CTRL + C ՉԵՂԱՐԿԵԼՈՒ ԵՎ ՁԱՅՆԱԳՐԵԼԸ ԴԱԴԱՐԵՑՆԵԼՈՒ ՀԱՄԱՐ"
+graba_escritorio_MSG3="ՏԵՍԱՆՅՈՒԹԻ ՁԵՌՆԱԳՐՈՒԹՅՈՒՆԸ ԱՎԱՐՏՎԱԾ Է "
+

@@ -1,0 +1,233 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTurkish/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en Turco para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="GÖRÜNTÜ DOSYA SİSTEMİ"
+imagen_linux_fs_MSG2="Dosya sistemini seçin: "
+imagen_linux_fs_MSG3="CD-R/RW (702 Mbyte) için görüntü oluştur"
+imagen_linux_fs_MSG4="DVD+RW (4 Gbayt) için görüntü oluştur"
+imagen_linux_fs_MSG5="DVD+RW/DL (8 Gbyte) için görüntü oluştur"
+imagen_linux_fs_MSG5B="BD-R/RE (25 Gbyte) için resim oluştur"
+imagen_linux_fs_MSG5C="Özel boyutlu resim dosyası oluştur"
+imagen_linux_fs_MSG6="702 Mbyte kapasiteli boş dosya oluşturuluyor"
+imagen_linux_fs_MSG7="4 Gbyte kapasiteli boş dosya oluşturuluyor"
+imagen_linux_fs_MSG8="8 Gbyte kapasiteli boş dosya oluşturuluyor"
+imagen_linux_fs_MSG8B="25 Gbyte kapasiteli boş dosya oluşturuluyor"
+imagen_linux_fs_MSG8C="Özel boyutlu boş dosya oluşturuluyor"
+imagen_linux_fs_MSG9="HATA: RESİM BOYUTU BİLİNMİYOR. İPTAL EDİLİYOR..."
+imagen_linux_fs_MSG10="Çalışıyor"
+imagen_linux_fs_MSG11="Program boş dosyayı biçimlendirecek."
+imagen_linux_fs_MSG12="Sistem sizi önceden oluşturulan dosyanın bir blok aygıt olmadığı konusunda uyaracak ve onu biçimlendirmek isteyip istemediğinizi soracaktır"
+imagen_linux_fs_MSG13="Evet olarak cevapla"
+imagen_linux_fs_MSG13="BAŞARIYLA BİÇİMLENDİRİLDİ"
+imagen_linux_fs_MSG14=" Montaj Görüntüsü . ."
+imagen_linux_fs_MSG15="BOŞ DOSYA BİÇİMLENDİRİLİRKEN HATA"
+imagen_linux_fs_MSG16="Program, biçimlendirilmiş dosyayı ekledi"
+imagen_linux_fs_MSG17="Linux-cdgrab, üzerine monte edilen görüntü üzerinde çalışabilmesi için dosya yöneticisini başlatacak"
+imagen_linux_fs_MSG18="Dosyalar kopyalandıktan sonra biçimlendirilmiş dosyanın bağlantısını kesin"
+imagen_linux_fs_MSG19="Linux görüntüsü bu dizinde"
+imagen_linux_fs_MSG19B="GÖRÜNTÜ DOSYASINI BAĞLARKEN HATA"
+imagen_linux_fs_MSG20="Resme eklenecek dosyalar. /mnt/lcdgrab dizinine yerleştirildi"
+imagen_linux_fs_MSG21="Dosya yöneticisi başlatılıyor..."
+imagen_linux_fs_MSG22="BİLDİRİM:"
+imagen_linux_fs_MSG23="---------"
+imagen_linux_fs_MSG24="Resim"
+imagen_linux_fs_MSG25="hala bağlı"
+imagen_linux_fs_MSG26="dd İLE BOŞ DOSYA OLUŞTURURKEN HATA"
+imagen_linux_fs_MSG27="/ konumuna monte edilen bölümde boş alan olup olmadığını kontrol edin"
+imagen_linux_fs_MSG34="DOSYA BİÇİMLENDİRİLECEK DOSYA SİSTEMİ"
+imagen_linux_fs_MSG35="ÖZEL BOYUTTA BOŞ DOSYA OLUŞTURULMASI"
+imagen_linux_fs_MSG36="Yeni boş dosyanın blok boyutunu belirtin (yalnızca sayısal değer):"
+imagen_linux_fs_MSG37="Blok boyutuna ilişkin değerlere bir örnek: 1024, 2048 (yalnızca Ext2) veya 4096 (Tüm formatlar)"
+imagen_linux_fs_MSG38="Oluşturulacak boş dosyanın boyutunu belirtin (yalnızca sayısal bir değer):"
+imagen_linux_fs_MSG39="Boş dosyayı oluşturmak için alan ölçümleri:"
+imagen_linux_fs_MSG40="Kullanılacak alan ölçüsünü belirtin: "
+imagen_linux_fs_MSG41="BOYUT ÖLÇÜSÜNÜ BELİRTİRKEN HATA"
+imagen_linux_fs_MSG42="Blok boyutu değeri:"
+imagen_linux_fs_MSG43="Boş dosya için yer miktarı:"
+imagen_linux_fs_MSG44="Bayt cinsinden hesaplanan değer:"
+imagen_linux_fs_MSG45="Sayı için hesaplanan değer:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1=".iso görüntüleri oluştururken md5 okumayı etkinleştirin"
+comprobar_lectura_md5_MSG2=".iso görüntüleri oluştururken md5 okumayı devre dışı bırak"
+comprobar_lectura_md5_MSG3="Önceki menü"
+comprobar_lectura_md5_MSG4="Geçerli yapılandırma:"
+comprobar_lectura_md5_MSG5="Etkin"
+comprobar_lectura_md5_MSG6="Devre Dışı"
+comprobar_lectura_md5_MSG7="Md5 toplamını oku etkinleştirildi"
+comprobar_lectura_md5_MSG8="Md5 toplamını okuma devre dışı"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Iso görüntüsünün adı okunamadı"
+leer_md5sum_MSG2="md5 toplamı okunuyor"
+leer_md5sum_MSG3="Resmin md5 toplamı gösteriliyor"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="CD GÖRÜNTÜSÜ OLUŞTURUYORUZ"
+extraer_isoCD_dd_MSG2="GÖRÜNTÜ OLUŞTURULDU"
+extraer_isoCD_dd_MSG3="Bulunamadı"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="DVD GÖRÜNTÜSÜ OLUŞTURUYORUZ"
+extraer_isoDVD_dd_MSG2="çalışıyor"
+extraer_isoDVD_dd_MSG3="GÖRÜNTÜ OLUŞTURULDU"
+extraer_isoDVD_dd_MSG4="Bulunamadı"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="çalışıyor"
+extraer_iso_readcd_MSG2="GÖRÜNTÜ BAŞARIYLA OLUŞTURULDU"
+extraer_iso_readcd_MSG3="Resim şurada oluşturuldu"
+extraer_iso_readcd_MSG4="Kayıt işlemi iptal ediliyor..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Takılı CD"
+extraer_iso_mkisofs_MSG2="Resim oluşturuluyor..."
+extraer_iso_mkisofs_MSG3="Macintosh uyumluluğu etkin"
+extraer_iso_mkisofs_MSG4="Kullanılıyor"
+extraer_iso_mkisofs_MSG5="çalışıyor"
+extraer_iso_mkisofs_MSG6="Resim dizinde oluşturuldu"
+extraer_iso_mkisofs_MSG7="İşlemi Macintosh desteği olmadan yeniden deneme"
+extraer_iso_mkisofs_MSG8="Resim dizinde oluşturuldu"
+extraer_iso_mkisofs_MSG9="mkisofs oluştururken bilinmeyen hatalar döndürüyor"
+extraer_iso_mkisofs_MSG10="from"
+extraer_iso_mkisofs_MSG11="Veri bütünlüğünü kontrol et"
+extraer_iso_mkisofs_MSG12="Montaj"
+extraer_iso_mkisofs_MSG12B="tr"
+extraer_iso_mkisofs_MSG13="genisoimage oluşturulurken bilinmeyen hatalar döndürüyor"
+extraer_iso_mkisofs_MSG13B="from"
+extraer_iso_mkisofs_MSG14="mkisofs ve genisoimage bulunamadı. Lütfen cdrtools veya cdrkit'i yükleyin."
+extraer_iso_mkisofs_MSG15="Bağlanamadı"
+extraer_iso_mkisofs_MSG16="Resim başarıyla oluşturuldu"
+
+# m_comp_img
+
+m_comp_img_MSG1="GÖRÜNTÜ BAŞARIYLA OLUŞTURULDU"
+m_comp_img_MSG2="GÖRÜNTÜ DOSYASINI SIKIŞTIRMAK İSTİYOR MUSUNUZ?"
+m_comp_img_MSG3="(s/y) sıkıştırılacak; İşlem başka bir seçenekle iptal edilir."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Dosya yöneticisi başlatılıyor..."
+generar_iso_directorio_MSG2="Gelecekteki CD/DVD/BD için bir ad girin"
+generar_iso_directorio_MSG3="GÖRÜNTÜ OLUŞTURUYOR..."
+generar_iso_directorio_MSG4="Macintosh uyumluluğu etkin"
+generar_iso_directorio_MSG5="Kullanılıyor"
+generar_iso_directorio_MSG6="çalışıyor"
+generar_iso_directorio_MSG7="DİZİNDE OLUŞTURULAN GÖRÜNTÜ"
+generar_iso_directorio_MSG8="GÖRÜNTÜ OLUŞTURMA SÜRECİ BAŞARISIZ OLDU"
+generar_iso_directorio_MSG9="MACINTOSH UYUMLULUĞU OLMADAN GÖRÜNTÜ OLUŞTURUYORUZ"
+generar_iso_directorio_MSG10="Mkisofs ve genisoimage bulunamadı. Lütfen cdrtools veya cdrkit'i yükleyin."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Gelecekteki DVD/BD için bir ad girin"
+generar_bdv_udf_directorio_MSG2="Video görüntüsünün oluşturulacağı dizini belirtin:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Disk etiketini belirtin:"
+generar_iso_directorio_libburnia_MSG2="ISO-9660 görüntüsünün oluşturulacağı dizini belirtin:"
+generar_iso_directorio_libburnia_MSG3="ISO9660 görüntüsü başarıyla oluşturuldu!!"
+generar_iso_directorio_libburnia_MSG4="Xorriso ile iso-9660 görüntüsü oluşturulurken hata"
+
+# imagenISO
+
+imagenISO_MSG1=".iso görüntüsüne eklenecek dosyalar ve dizinler"
+imagenISO_MSG2="BİR SEÇENEK SEÇİN"
+imagenISO_MSG2B="-----------------"
+imagenISO_MSG3="CD'den ISO-9660 görüntüsü oluştur (dd kullanın)"
+imagenISO_MSG4="DVD'den ISO-9660 görüntüsü oluştur (dd kullanın)"
+imagenISO_MSG5="CD'den ISO-9660 görüntüsü oluştur (readcd kullanın)"
+imagenISO_MSG6="CD veya DVD diskten ISO-9660 görüntüsü oluştur (mkisofs kullanın)"
+imagenISO_MSG7="Sabit sürücü verilerinden ISO-9660 görüntüsü oluşturun (mkisofs kullanın)"
+imagenISO_MSG8="Önceki menü"
+imagenISO_MSG9="RESİM OLUŞTURUYOR"
+imagenISO_MSG10="Sabit sürücü verilerinden ISO-9660 görüntüsü oluşturun (xorriso kullanın)"
+imagenISO_MSG11="CD/DVD/BD'den iso/udf görüntüsü oluşturun (mkisofs kullanın)"
+imagenISO_MSG12="Sabit sürücü verilerinden iso/udf görüntüsü oluşturun (mkisofs kullanın)"
+imagenISO_MSG13="ISO-9660 BİÇİMLENDİRİCİ MENÜSÜ"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Sabit sürücü verilerinden UDF/ISO görüntüsü oluşturun (mkisofs kullanın)"
+imagenISO_MSG15="DVD Video desteğiyle UDF/ISO görüntüsü oluşturun (mkisofs kullanın)"
+
+# imagen_img
+
+imagen_img_MSG1="Görüntünün oluşturulacağı kaynak blok cihazını yazın"
+imagen_img_MSG2="----------------------------------------------------"
+imagen_img_MSG3="/etc/fstab ve /etc/mtab'da kayıtlı cihazlar"
+imagen_img_MSG4="Komut çıktısını bağla:"
+imagen_img_MSG5="Cihaz adını girin: "
+imagen_img_MSG6="Blok aygıtının .img görüntüsü oluşturuluyor"
+imagen_img_MSG7="çalışıyor"
+imagen_img_MSG8="CİHAZ GÖRÜNTÜSÜ OLUŞTURULDU"
+
+# monta_img
+
+monta_img_MSG1="Takılacak ISO veya ext2 görüntüsü."
+monta_img_MSG2="Takılacak görüntünün bulunduğu dizin yolunu yazın:"
+monta_img_MSG3="MONTAJLI CD GÖRÜNTÜSÜ:"
+monta_img_MSG4="GÖRÜNTÜ DOSYASINI BAĞLARKEN HATA"
+monta_img_MSG5="BULUNAMADI"
+monta_img_MSG6="BAĞIŞ NOKTASI MEVCUT DEĞİL"
+monta_img_MSG7="BEKLENMEYEN HATA"
+
+# desmonta_img
+
+desmonta_img_MSG1="Çıkarılacak ISO veya ext2 görüntüsü."
+desmonta_img_MSG2="KESİLMİŞ GÖRÜNTÜ"
+desmonta_img_MSG3="Bağlanmış resim bulunamadı"
+desmonta_img_MSG4="Bağlama çıktısı:"
+desmonta_img_MSG5="Bir görüntünün mutlak dizin yolunu doğrudan belirtebilirsiniz."
+desmonta_img_MSG6="Örneğin /tmp/lcdgrabimg.iso veya görüntünün montaj dizini, örneğin /mnt/lcdgrab"
+desmonta_img_MSG7="Belirtilmemişse dosya yöneticisi kullanılarak aranabilir"
+desmonta_img_MSG8="Dosya yöneticisi başlatılıyor"
+desmonta_img_MSG9="Resim yolunu belirtin."
+desmonta_img_MSG10="TOPLANTIDAN ÇIKARILAN GÖRÜNTÜ"
+desmonta_img_MSG11="GÖRÜNTÜYÜ KALDIRIRKEN HATA"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".iso'ya dönüştürülecek nrg resmi"
+nrg_a_iso_MSG2="Dönüştürülecek .nrg (Nero Burning ROM) görüntüsünün yolunu girin"
+nrg_a_iso_MSG3="Resim dönüştürülüyor..."
+nrg_a_iso_MSG4="Kaynak .nrg görüntüsünün yolu"
+nrg_a_iso_MSG5="mevcut değil veya bir dizine karşılık geliyor"
+nrg_a_iso_MSG6="Geçersiz yol."
+nrg_a_iso_MSG7="zaten önceki bir ISO-9660 görüntüsü, dönüştürülmeyecek."
+nrg_a_iso_MSG8="Farklı uzantıyla kopyalanıyor..."
+nrg_a_iso_MSG9="KOPYALAMA TAMAMLANDI"
+nrg_a_iso_MSG10="çalışıyor"
+nrg_a_iso_MSG11="Resim başarıyla dönüştürüldü"
+nrg_a_iso_MSG12="GÖRÜNTÜ .iso OLUŞTURURKEN HATA"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1=".bin görüntüsünden .cue açıklama dosyası oluştur"
+GenerarArchivocue_MSG2="Geçerli aktif dizin"
+GenerarArchivocue_MSG3="Yalnızca dizinin yolunu yazın"
+GenerarArchivocue_MSG4="görüntü dosyasını bulun:"
+GenerarArchivocue_MSG5="Gönderilecek .bin görüntüsünün adını girin"
+GenerarArchivocue_MSG6="ilgili .cue dosyasını oluşturdu"
+GenerarArchivocue_MSG7="AÇIKLAMA DOSYASI .cue BAŞARIYLA OLUŞTURULDU"
+GenerarArchivocue_MSG8="AÇIKLAMA DOSYASI OLUŞTURULURKEN HATA .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="çalışıyor"
+ImagenbincueCDDVD_MSG2=".BIN .CUE DİSK GÖRÜNTÜSÜ BAŞARIYLA OLUŞTURULDU"

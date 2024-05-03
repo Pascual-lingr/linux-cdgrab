@@ -1,0 +1,46 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Armenio para la aplicación principal #
+# Traducción experimental.                         #
+# Generado con Google Translate.                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Ֆայլը ավտոմատ կերպով ստեղծվում է LINUX-CDGRAB 1.0-ի կողմից"
+creacion_de_Depot_MSG2="Այս ֆայլը գրացուցակի հետ միասին"
+creacion_de_Depot_MSG3="ստեղծվել են ավտոմատ կերպով"
+creacion_de_Depot_MSG4="Linux-cdgrab հավելվածի կողմից, երբ հաստատում է, որ այն գոյություն չունի ձեր Linux բաշխման մեջ"
+creacion_de_Depot_MSG5="գրացուցակը"
+creacion_de_Depot_MSG6="Linux-cdgrab-ն օգտագործում է այս գրացուցակը ժամանակավոր ֆայլեր և սարքի պատկերներ (iso, img և այլն) գրելու համար":
+creacion_de_Depot_MSG8="Depot-ն օգտագործվում է GoboLinux-ի կողմից ժամանակավոր ֆայլեր պահելու համար"
+creacion_de_Depot_MSG9="Այս ֆայլի նպատակը միայն տեղեկատվական նպատակների համար է, դուք կարող եք ազատորեն ջնջել այն կարդալուց հետո։"
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="ԾԱՆՈՒՑՈՒՄ."
+main_IDSISTEMA_MSG2="Օպերացիոն համակարգը չի ապահովվում:"
+main_IDSISTEMA_MSG3="Եթե հավելվածի աշխատանքի մեջ խնդիրներ կան, օգտագործեք GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="Դա հիմնավոր փաստարկ չէ"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="գտնվել է"
+main_cdkit_test_MSG2="հղում դեպի wodim ստեղծված"
+main_cdkit_test_MSG3="հղում դեպի genisoimage ստեղծված"
+main_cdkit_test_MSG4="ստեղծվել է հղում դեպի icedax"
+
+# pgm principal
+
+pgm_principal_MSG1="FATAL. գրացուցակի ճիշտ բաշխում չի գտնվել:"
+pgm_principal_MSG2="ԱՆՀԱՅՏԻ"
+
+

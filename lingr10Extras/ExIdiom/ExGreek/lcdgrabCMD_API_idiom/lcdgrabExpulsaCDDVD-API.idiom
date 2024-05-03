@@ -1,0 +1,16 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGreek/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Griego para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="ΟΠΤΙΚΟΣ ΔΙΣΚΟΣ ΕΚΤΥΠΩΜΕΝΟΣ"
+expulsar_medio_MSG2="Σφάλμα κατά την προσπάθεια εξαγωγής του δίσκου από τη συσκευή"
+expulsar_medio_MSG3="Εισαγάγετε το όνομα χειροκίνητα:"
+

@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Suajili para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Ingiza njia ya faili au saraka:"
+empaquetar_MSG2="------- Chaguo -------"
+empaquetar_MSG3="Tengeneza faili ya .tar.gz"
+empaquetar_MSG4="Tengeneza faili ya .tar.bz2"
+empaquetar_MSG5="Chapa chaguo: "
+empaquetar_MSG6="Inaendesha"
+empaquetar_MSG7="Chaguo batili"
+
+# desempaquetar
+
+desempaquetar_MSG1="Ingiza njia ya faili:"
+desempaquetar_MSG2="HAKUNA DECOMPRESSOR INAYOPATIKANA KWA"
+desempaquetar_MSG3="AU"
+desempaquetar_MSG4="HAIPO"
+desempaquetar_MSG5="Inaendesha"
+desempaquetar_MSG6="unpacked"
+desempaquetar_MSG7="Hitilafu katika kujaribu kufungua"
+
+# comprime
+
+comprime_MSG1="KUBINDIKIZA PICHA"
+comprime_MSG2="Bonyeza na bzip2"
+comprime_MSG3="Finya kwa gzip"
+comprime_MSG4="Finyaza na xz"
+comprime_MSG5="Menyu iliyotangulia"
+comprime_MSG6="Inaendesha"
+comprime_MSG7="Mfinyazo wa faili ya picha umekamilika"
+comprime_MSG8="Hitilafu ya kubana na"
+comprime_MSG9="Compressor batili"
+
+# descomprime
+
+descomprime_MSG1="Andika njia ya faili:"
+descomprime_MSG2="---------------------"
+descomprime_MSG3="HAKUNA DECOMPRESSOR INAYOPATIKANA KWA"
+descomprime_MSG4="AU"
+descomprime_MSG5="HAIPO"
+descomprime_MSG6="Inaendesha"
+descomprime_MSG7="uncompressed"
+descomprime_MSG8="Hitilafu wakati wa kujaribu kupunguza"
+

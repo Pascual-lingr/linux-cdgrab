@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExJapanese/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en Japonés para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="ディスクにダンプする .img または .ext2 イメージのパス。"
+volcar_imagen_MSG2="-----------------------重要---------------------------" 
+volcar_imagen_MSG3="+ このオプションは、光ディスクでは機能しません。"
+volcar_imagen_MSG4="+ フラッシュ ドライブ、ディスケット、ディスク パーティションなどで使用します。 "
+volcar_imagen_MSG5="+ ハード ドライブに関する考慮事項:"
+volcar_imagen_MSG6="+ 画像の書き込みは最初からddで行っています"
+volcar_imagen_MSG7="  指定されたディスクの数を使用することはできません"
+volcar_imagen_MSG8="  特に書き込みプロセスを開始するセクター"
+volcar_imagen_MSG9="+ 注意して使用してください。自己責任で使用してください。"
+volcar_imagen_MSG10="+ ディスク パーティションが使用できなくなる可能性があります。"
+volcar_imagen_MSG11="+ マルチパーティション システムでの使用は推奨されません。"
+volcar_imagen_MSG12="  リストアはパーティション テーブルを離れ、"
+volcar_imagen_MSG13="  パーティション自体は役に立たない。"
+volcar_imagen_MSG14="------------------------------------------------------"
+# La traducción de google muestra literales en inglés
+volcar_imagen_MSG15="PRESS THE C KEY TO CONTINUE; (プロセスは別のオプションでキャンセルされます)"
+volcar_imagen_MSG16="ディスクにダンプするイメージ ファイルのパスを指定します。 "
+volcar_imagen_MSG17="マウント コマンドの出力:"
+volcar_imagen_MSG18="イメージがダンプされるブロック デバイスを指定します。"
+volcar_imagen_MSG19="画像のアップロード"
+volcar_imagen_MSG20="デバイス上"
+volcar_imagen_MSG21="ランニング"
+volcar_imagen_MSG22="イメージ ダンプ プロセスが終了しました"
+
+# volcar_iso
+
+volcar_iso_MSG1="iso イメージを書き込むブロック デバイスを指定します。"
+volcar_iso_MSG2="警告"
+volcar_iso_MSG2B="----"
+volcar_iso_MSG3="書き込み先のブロック デバイスを指定します。"
+volcar_iso_MSG4="例: /dev/sdb、/dev/sdc"
+volcar_iso_MSG5="このデバイスに属するパーティションを指定しないでください"
+volcar_iso_MSG6="例: /dev/sdb1、/dev/sdc2"
+volcar_iso_MSG7="書き込む iso-9660 イメージまたは img を指定します。"
+volcar_iso_MSG9="完了したプロセス"
+volcar_iso_MSG10="iso 書き込みプロセスでエラーが発生しました"
+volcar_iso_MSG11="画像を書き込むブロックサイズを指定"
+volcar_iso_MSG12="書き込むオペレーティング システムに応じてオプションを選択します。"
+volcar_iso_MSG13="デバイスでフラッシュする ISO-9660 または起動可能な IMG イメージ:"
+volcar_iso_MSG14="外出"
+volcar_iso_MSG15="画像ファイル ISO-9660 または IMG"
+volcar_ISO_MSG16="ドライブにダンプするオペレーティング システムを選択してください"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="でファイルシステムを選択しますデバイスがフォー"
+Formateador_linuxfs_MSG2="マットされることを確認します。"
+Formateador_linuxfs_MSG3="フォーマットするブロック デバイスを指定します。 "
+Formateador_linuxfs_MSG5="完了したプロセス"
+Formateador_linuxfs_MSG6="ディスクフォーマッター"
+Formateador_linuxfs_MSG7="ボリューム ラベルの設定"
+Formateador_linuxfs_MSG10="ボリュームラベル名を指定"
+Formateador_linuxfs_MSG11="新しいボリューム ラベル"
+Formateador_linuxfs_MSG12="ブロックサイズを指定"
+Formateador_linuxfs_MSG13="新しいブロック サイズ"
+Formateador_linuxfs_MSG14="前のメニュー"

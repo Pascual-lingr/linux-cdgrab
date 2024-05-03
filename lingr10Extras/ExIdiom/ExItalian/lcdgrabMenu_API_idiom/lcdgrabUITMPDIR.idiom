@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExItalian/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Italiano para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="File in /tmp"
+dir_tmp_MSG2="Elimina tutte le immagini e i file compressi"
+dir_tmp_MSG3="Avvia il file manager per altre operazioni"
+dir_tmp_MSG4="Monta o smonta un'immagine"
+dir_tmp_MSG5="Mostra il menu di creazione dell'immagine"
+dir_tmp_MSG6="Mostra opzioni di registrazione delle immagini"
+dir_tmp_MSG7="Menu precedente"
+dir_tmp_MSG8="ELENCO DEI FILE ESISTENTI IN"
+dir_tmp_MSG9="SELEZIONA UN'OPZIONE:"
+dir_tmp_MSG10="IMMAGINI E FILE CANCELLATI"
+dir_tmp_MSG11="Monta immagine."
+dir_tmp_MSG12="Smonta immagine."
+dir_tmp_MSG13="Masterizza immagine su CD"
+dir_tmp_MSG14="Masterizza immagine su DVD"
+dir_tmp_MSG14B="Masterizza immagine su BD"
+dir_tmp_MSG15="Scegli l'opzione in base al supporto di registrazione"
+dir_tmp_MSG16="IL FILE DI CONFIGURAZIONE NON TROVATO"
+dir_tmp_MSG17="Interruzione del processo di registrazione"
+dir_tmp_MSG18="Specifica il file .iso da masterizzare"
+dir_tmp_MSG19="Inserisci il percorso dell'immagine: "
+

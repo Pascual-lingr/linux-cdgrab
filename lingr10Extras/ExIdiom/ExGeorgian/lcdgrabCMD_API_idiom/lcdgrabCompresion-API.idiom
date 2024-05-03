@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en georgiano para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="შეიყვანეთ ფაილის ან დირექტორიას ბილიკი:"
+empaquetar_MSG2="------- პარამეტრები -------"
+empaquetar_MSG3=".tar.gz ფაილის გენერირება"
+empaquetar_MSG4=".tar.bz2 ფაილის გენერირება"
+empaquetar_MSG5="აკრიფეთ ვარიანტი: "
+empaquetar_MSG6="გაშვება"
+empaquetar_MSG7="არასწორი ვარიანტი"
+
+# desempaquetar
+
+desempaquetar_MSG1="შეიყვანეთ ფაილის გზა:"
+desempaquetar_MSG2="არ მოიძებნა დეკომპრესორი"
+desempaquetar_MSG3="ან"
+desempaquetar_MSG4="არ არსებობს"
+desempaquetar_MSG5="გაშვება"
+desempaquetar_MSG6="გახსნილია"
+desempaquetar_MSG7="შეცდომა შეფუთვის მცდელობისას"
+
+# comprime
+
+comprime_MSG1="სურათის შეკუმშვა"
+comprime_MSG2="შეკუმშვა bzip2-ით"
+comprime_MSG3="შეკუმშვა gzip-ით"
+comprime_MSG4="შეკუმშვა xz-ით"
+comprime_MSG5="წინა მენიუ"
+comprime_MSG6="გაშვება"
+comprime_MSG7="სურათის ფაილის შეკუმშვა დასრულდა"
+comprime_MSG8="შეცდომა შეკუმშვისას"
+comprime_MSG9="არასწორი კომპრესორი"
+
+# descomprime
+
+descomprime_MSG1="ჩაწერეთ ფაილის გზა:"
+descomprime_MSG2="-------------------"
+descomprime_MSG3="არ მოიძებნა დეკომპრესორი"
+descomprime_MSG4="ან"
+descomprime_MSG5="არ არსებობს"
+descomprime_MSG6="გაშვება"
+descomprime_MSG7="არაკომპრესირებული"
+descomprime_MSG8="შეცდომა დეკომპრესიის მცდელობისას"
+

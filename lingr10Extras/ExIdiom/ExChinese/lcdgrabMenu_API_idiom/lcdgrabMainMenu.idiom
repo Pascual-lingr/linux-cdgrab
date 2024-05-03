@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExChinese/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al chino simplificado, generado
+# con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="linux-cdgrab 找不到 vi 文本编辑器"
+ayuda_MSG2="输入系统上安装的文本编辑器的名称"
+ayuda_MSG3="未找到已安装的编辑器"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="LINUX-CDGRAB 1.0 自动生成的文件"
+creacion_de_mnt_MSG2="这个文件连同目录"
+creacion_de_mnt_MSG3="已经自动生成"
+creacion_de_mnt_MSG4="通过 Linux-cdgrab 应用程序验证它不存在于您的 Linux 发行版中"
+creacion_de_mnt_MSG5="目录"
+creacion_de_mnt_MSG6="Linux-cdgrab 使用这个目录来挂载你的 CD-ROM/DVD-ROM/BD-ROM 驱动器。"
+creacion_de_mnt_MSG7="目录"
+creacion_de_mnt_MSG8="如果卸载 linux-cdgrab，它不会被删除，因为它通常是"
+creacion_de_mnt_MSG9="大多数 Linux 发行版上 /dev/cdrom 的默认挂载点。"
+creacion_de_mnt_MSG10="如果您的发行版使用另一个目录来挂载设备 /dev/cdrom ,"
+creacion_de_mnt_MSG11="那么当您想要访问驱动器上的数据时，它不会造成任何不兼容。"
+creacion_de_mnt_MSG12="虽然如果 linux-cdgrab 已经被卸载了你也可以不用"
+creacion_de_mnt_MSG13="此文件的目的仅供参考，您可以在阅读后随意删除它。"
+
+# creditos
+
+creditos_MSG1="在 GPL v2 许可下分发"
+creditos_MSG2="更多信息请访问 www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz，创建者和维护者"
+creditos_MSG4="错误报告：pascual89@hotmail.com"
+creditos_MSG5="程序网址：www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="基于 LINUX-CDGRAB 1.0 版权所有：Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="收费"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="句法"
+lcdgrab_sintaxis_MSG2="打印此帮助"
+lcdgrab_sintaxis_MSG3="打印 linux-cdgrab 的版本"
+lcdgrab_sintaxis_MSG4="指定IDE通道或录音设备"
+lcdgrab_sintaxis_MSG5="任何一个"
+lcdgrab_sintaxis_MSG6="指定记录速度"
+lcdgrab_sintaxis_MSG7="指定 CD-ROM/DVD-ROM/BD-ROM 驱动器"
+lcdgrab_sintaxis_MSG8="指定刻录机的 IDE ATAPI 通道"
+lcdgrab_sintaxis_MSG9="-G -V -L 和 -CA 选项相互关联。"
+lcdgrab_sintaxis_MSG9B="-iut -ium -iug 和 -iuk 选项相互独立，"
+lcdgrab_sintaxis_MSG9C="与-G -V -L和-CA互补，-h和-v独立"
+lcdgrab_sintaxis_MSG10="-h 和 -v 选项彼此独立，其余选项独立。"
+lcdgrab_sintaxis_MSG11="例子："
+lcdgrab_sintaxis_MSG12="设备"
+lcdgrab_sintaxis_MSG13="数字"
+lcdgrab_sintaxis_MSG14="文本界面"
+lcdgrab_sintaxis_MSG15="与 ncurses 的接口"
+lcdgrab_sintaxis_MSG16="图形界面"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="输入脚本路径："
+main_lcdgrabopdep_MSG2="无效路线"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="安装的补丁："
+main_lcdgrabopdeppatch_MSG2="输入补丁路径："
+main_lcdgrabopdeppatch_MSG3="没有找到"
+
+# menu principal dialog
+main_lcdgrabop9uidia="上传额外的补丁"
+
+# menu principal texto
+
+main_lcdgrabop1_text="CD录音\t\t\t\t\t="
+main_lcdgrabop2_text="DVD 录制\t\t\t\t\t="
+main_lcdgrabop3_text="在 BD-R 上录制\t\t\t\t="
+main_lcdgrabop4_text="磁盘驱动器操作\t\t\t\t="
+main_lcdgrabop5_text="影像创作\t\t\t\t\t="
+main_lcdgrabop6_text="音频转换\t\t\t\t\t="
+main_lcdgrabop6b_text="视频转换\t\t\t\t\t="
+main_lcdgrabop7_text="安装或卸载 CD/DVD/BD\t\t\t="
+main_lcdgrabop8_text="安装或卸载映像\t\t\t\t="
+main_lcdgrabop9_text="上传额外的补丁\t\t\t\t="
+main_lcdgrabop10_text="控制中心\t\t\t\t="
+main_lcdgrabop0_text="出去\t\t\t\t\t="
+main_lcdgrabet1_text="其他选项 ##\t\t\t="
+main_lcdgrabopEe_text="从驱动器中弹出磁盘\t\t="
+main_lcdgrabopTD_text="显示目录"
+tabs="\t\t\t="
+main_lcdgrabopG_text="文件管理器\t\t\t\t="
+main_lcdgrabopH_text="援助\t\t\t\t\t="
+main_lcdgrabopA_text="关于\t\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="CD录音"
+main_lcdgrabop2="DVD 录制"
+main_lcdgrabop3="在 BD-R 上录制"
+main_lcdgrabop4="磁盘驱动器操作"
+main_lcdgrabop5="影像创作"
+main_lcdgrabop6="音频转换"
+main_lcdgrabop6b="视频转换"
+main_lcdgrabop7="安装或卸载 CD/DVD/BD"
+main_lcdgrabop8="安装或卸载映像"
+main_lcdgrabop9="上传额外的补丁"
+main_lcdgrabop10="控制中心"
+main_lcdgrabop0="出去"
+main_lcdgrabet1="其他选项 ##"
+main_lcdgrabopEe="从驱动器中弹出磁盘"
+main_lcdgrabopTD="显示目录"
+main_lcdgrabopG="文件管理器"
+main_lcdgrabopH="援助"
+main_lcdgrabopA="关于"
+main_lcdgrabopPRINCIPAL="输入一个选项："
+MSG1_MAIN="选择 H 显示选项的使用。"
+main_lcdgrabopA_MSG1="运行于："
+

@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRussian/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Idioma Ruso para el intefaz de creación de imágenes
+# Traducción experimental, generada con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="СОЗДАНИЕ И ОБРАБОТКА ОБРАЗОВ ДИСКОВ"
+MenuImagen_MSG2="------------- СОЗДАНИЕ ИЗОБРАЖЕНИЯ ------------"
+MenuImagen_MSG3="Создать образ ISO-9660"
+MenuImagen_MSG4="Создать образ с собственной файловой системой Linux"
+MenuImagen_MSG5="Создать образ .img любого блочного устройства"
+MenuImagen_MSG6="Создать образ .bin .cue с текущего устройства"
+MenuImagen_MSG7="--------------- ДРУГИЕ ВАРИАНТЫ ---------------"
+MenuImagen_MSG8="Создать файл описания .cue из изображения .bin"
+MenuImagen_MSG9="Преобразовать образ .nrg (Nero Burning ROM) в .iso"
+MenuImagen_MSG10="Сжать изображение с помощью gzip, bzip2 или xz"
+MenuImagen_MSG11="Распаковать изображение в zip, gz, bz2 или xz"
+MenuImagen_MSG11B="Проверить сумму md5 iso-образов"
+MenuImagen_MSG12="Изменить режим ISO"
+MenuImagen_MSG0="Предыдущее меню"
+MenuImagen_MSG13="Файл изображения, который нужно сжать"
+MenuImagen_MSG14="СЖАТИЕ ФАЙЛА ИЗОБРАЖЕНИЯ"
+MenuImagen_MSG15="Введите путь к каталогу, в котором находится изображение, которое вы хотите сжать:"
+MenuImagen_MSG16="Файл изображения, который вы хотите распаковать"
+MenuImagen_MSG17="ТЕКУЩИЙ УРОВЕНЬ ISO"
+MenuImagen_MSG18="уровень ISO"
+MenuImagen_MSG19="Имена файлов состоят из раздела"
+MenuImagen_MSG20="и ограничены 8,3 символами."
+MenuImagen_MSG21="Выберите этот уровень, если хотите совместимости имен"
+MenuImagen_MSG21b="под операционной системой MS-DOS"
+MenuImagen_MSG22="Имена файлов состоят из раздела"
+MenuImagen_MSG23="Неограниченный уровень."
+MenuImagen_MSG24="Используйте этот уровень, если вам нужна совместимость файлов"
+MenuImagen_MSG25="большой, в данном случае >= 2 гигабайта."
+MenuImagen_MSG26="Все уровни ISO ограничивают имена файлов прописными, строчными и"
+MenuImagen_MSG27="символы типа _ .Имена файлов ограничены 31 символом"
+MenuImagen_MSG28="Максимум 8 путей к каталогам и имя пути"
+MenuImagen_MSG29="каталоги до 255 символов."
+MenuImagen_MSG30="Выберите новый уровень ISO"
+MenuImagen_MSG31="ISO уровня 4 не является официальным"
+MenuImagen_MSG32="Обратитесь к справочной странице mkisofs"
+MenuImagen_MSG33="Неверный уровень ISO"
+MenuImagen_MSG34="Установить уровень ISO 3 по умолчанию"
+

@@ -1,0 +1,55 @@
+#########################################################
+# lcgdrabAPI_idiom/ExTigrinya/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en tigriña para el API de video.
+# Traducción experimetal, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="ናይ ቪድዮ ምቕያር ብሉ-ራይ ዲስክ ምትእስሳር"
+conv_video_BDVideo_MSG2="መንገዲ ናይቲ ዝቕየር ቪድዮ ፋይል ግለጽ:"
+conv_video_BDVideo_MSG3="ስም ፋይል ናይቲ ክትፈጥሮ እትደሊ ሓድሽ ቪድዮ ግለጽ:"
+conv_video_BDVideo_MSG4="ናይ ቪድዮ ፋይል ብዓወት ተቐይሩ!!"
+conv_video_BDVideo_MSG5="ናይ ቪድዮ ፋይል ኣብ ምቕያር ጌጋ ኣጋጢሙA።"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="ናይ ምቕያር ቪድዮ ፋይላት።"
+conv_VideoFich_MSG2="እቲ ክትቅይሮ እትደሊ ናይ ቪድዮ ፋይል ግለጽ:"
+conv_VideoFich_MSG3="እቲ ክትፈጥሮ እትደሊ ናይ ቪድዮ ፋይል ግለጽ:"
+conv_VideoFich_MSG4="ምቕያር ቪድዮ ፋይል ተዛዚሙ"
+conv_VideoFich_MSG5="ናይ ቪድዮ ፋይል ክንቅይር ከለና ጌጋ"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="ናይ ቪድዮ ፋይል ግለጽ:"
+extrae_Audio_de_Video_MSG2="እቲ ክትፈጥሮ እትደሊ mp3 ድምጺ ፋይል ግለጽ:"
+extrae_Audio_de_Video_MSG3="ድምፂ ምውጻእ ብዓወት።"
+extrae_Audio_de_Video_MSG4="ድምጺ ክንወጽእ ከለና ጌጋ"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="ናይ ቪድዮ ፋይል ግለጽ:"
+extrae_Fragmento_Video_MSG2="እቲ ክትፈጥሮ እትደሊ ናይ ቪድዮ ፋይል ግለጽ:"
+extrae_Fragmento_Video_MSG3="ናይ መጀመርታ ሰዓት ግለጽ (ከም HH:MM:SS ግለጽ) :"
+extrae_Fragmento_Video_MSG4="ናይ መወዳእታ ግዜ ግለጽ (ከም HH:MM:SS ግለጽ) :"
+extrae_Fragmento_Video_MSG5="ቪድዮ ብዓወት ተቖሪጹ።"
+extrae_Fragmento_Video_MSG6="ቪድዮ ኣብ ምቑራጽ ጌጋ"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="ናይ ድምጺ ፋይል ግለጽ:"
+mezcla_Audio_Video_MSG2="ናይ ቪድዮ ፋይል ግለጽ:"
+mezcla_Audio_Video_MSG3="እቲ ክትፈጥሮ እትደሊ ናይ ቪድዮ ፋይል ግለጽ:"
+mezcla_Audio_Video_MSG4="ሓድሽ ቪድዮ ፋይል ብዓወት ተፈጢሩ"
+mezcla_Audio_Video_MSG5="ናይ ቪድዮ ፋይል ኣብ ምፍጣር ጌጋ"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="ኣማራጺ ንኮንሶል ኢንተርፌስ ኣይርከብን።"
+graba_escritorio_MSG2="-- ምቕራጽ ናይ ዴስክቶፕ ክፍለ ግዜ -- ምቕራጽ ንምስርዛርን ንምቁራጽን CTRL + C ምጽቃጥ"
+graba_escritorio_MSG3="ምቕራጽ ቪድዮ ተዛዚሙ"

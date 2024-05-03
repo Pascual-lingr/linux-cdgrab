@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGreek/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menu de Interfaz para la grabación de DVD.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Επιλέξτε τη διεπαφή χρήστη που θα χρησιμοποιηθεί:"
+SeleccionaIUDVD_MSG2="Χρήση της διεπαφής για dvd+-rw-tools"
+SeleccionaIUDVD_MSG3="Χρήση της διεπαφής για το Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Χρήση της διεπαφής για τη λιμπουρνία"
+SeleccionaIUDVD_MSG5="Προηγούμενο μενού"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="ΕΓΓΡΑΦΗ ΣΕ DVD"
+menugrabar_dvd_MSG2="----------------- DVD - DATA ------------------"
+menugrabar_dvd_MSG3="Αντιγραφή DVD δεδομένων ISO-9660"
+menugrabar_dvd_MSG4="Δημιουργία προηγούμενης εικόνας DVD στον σκληρό δίσκο"
+menugrabar_dvd_MSG5="Εγγραφή νέου DVD δεδομένων ISO-9660"
+menugrabar_dvd_MSG6="Προσθήκη νέας περιόδου σύνδεσης δεδομένων σε DVD δεδομένων ISO-9660 (DVD πολλαπλών περιόδων σύνδεσης)"
+menugrabar_dvd_MSG7="Απαιτεί ένα DVD που έχει εγγραφεί προηγουμένως χρησιμοποιώντας τη δεύτερη επιλογή"
+menugrabar_dvd_MSG8="Εγγραφή εικόνας δεδομένων ISO-9660 σε DVD"
+menugrabar_dvd_MSG9="Εγγραφή εικόνας .ext2 σε DVD"
+menugrabar_dvd_MSG10="----------------- DVD - VIDEO -----------------"
+menugrabar_dvd_MSG11="Εγγραφή νέου DVD-Video"
+menugrabar_dvd_MSG12="---------------- ΑΛΛΕΣ ΕΠΙΛΟΓΕΣ ---------------"
+menugrabar_dvd_MSG13="Μορφοποίηση DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Εμφάνιση πληροφοριών δίσκου DVD"
+menugrabar_dvd_MSG0="Προηγούμενο μενού"
+menugrabar_dvd_MSGPRINCIPAL="Πληκτρολογήστε μια επιλογή"
+menugrabar_dvd_MSG15="Αρχεία και κατάλογοι για συμπερίληψη στο DVD"
+menugrabar_dvd_MSG16="Εκκίνηση της διαχείρισης αρχείων..."
+menugrabar_dvd_MSG17=".iso εικόνα για εγγραφή σε DVD"
+menugrabar_dvd_MSG18="Πληκτρολογήστε τη διαδρομή καταλόγου όπου βρίσκεται η εικόνα .iso που θέλετε να εγγράψετε"
+menugrabar_dvd_MSG19="Απαιτείται έκδοση cdrecord με υποστήριξη DVD."
+menugrabar_dvd_MSG20="Η εγγραφή της εικόνας .ext2 σε DVD θα γίνει με cdrecord."
+menugrabar_dvd_MSG21="Η έκδοση του cdrecord που υπάρχει στην εγκατάστασή σας πρέπει"
+menugrabar_dvd_MSG22="υποστήριξη εγγραφής DVD."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="ΕΠΙΛΟΓΗ ΕΠΙΛΟΓΗΣ"
+dvd_clonar_MSG2="-- ΑΝΤΙΓΡΑΦΑ ΔΙΣΚΟΥ ΜΕ ΕΙΚΟΝΑ ΠΡΟΕΠΙΣΚΟΠΗΣΗΣ --"
+dvd_clonar_MSG3="Αντιγραφή DVD δεδομένων"
+dvd_clonar_MSG4="Δημιουργία προηγούμενης εικόνας DVD στον σκληρό δίσκο"
+dvd_clonar_MSG5="--------- ΑΝΤΙΓΡΑΦΑ ΔΙΣΚΟΥ ΣΤΗΝ ΠΤΗΣΗ ---------"
+dvd_clonar_MSG6="Αντιγραφή ενός DVD δεδομένων εν κινήσει"
+dvd_clonar_MSG7="Κλωνοποίηση DVD δεδομένων εν κινήσει"
+dvd_clonar_MSG8="ΟΙ ΕΠΙΛΟΓΕΣ ΑΝΤΙΓΡΑΦΟΥ ΠΕΤΡΟΥ ΑΠΑΙΤΟΥΝ ΔΥΟ ΟΠΤΙΚΕΣ ΜΟΝΑΔΕΣ"
+dvd_clonar_MSG9="ΕΓΚΑΤΑΣΤΑΘΗΚΕ ΣΤΟΝ ΥΠΟΛΟΓΙΣΤΗ ΣΑΣ, ΑΦΟΥ ΤΑ ΔΕΔΟΜΕΝΑ ΚΑΤΑΓΡΑΦΟΝΤΑΙ ΕΝΩ ΕΙΝΑΙ"
+dvd_clonar_MSG10="ΔΙΑΒΑΣΤΕ ΑΠΕΥΘΕΙΑΣ ΑΠΟ ΤΟΝ ΔΙΣΚΟ ΠΡΟΕΛΕΥΣΗΣ, ΕΑΝ ΕΧΕΙ ΜΟΝΟ Ο ΥΠΟΛΟΓΙΣΤΗΣ ΣΑΣ"
+dvd_clonar_MSG11="ΔΕΝ ΘΑ ΜΠΟΡΕΙΤΕ ΝΑ ΧΡΗΣΙΜΟΠΟΙΗΣΕΤΕ ΤΑ ΑΝΤΙΓΡΑΦΑ ΣΤΗΝ ΠΤΗΣΗ."
+dvd_clonar_MSG0="Προηγούμενο μενού"
+dvd_clonar_MSG12="ΑΝΤΙΓΡΑΦΗ ΔΕΔΟΜΕΝΩΝ DVD"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="ΕΓΓΡΑΦΗ ΣΕ DVD"
+menugrabar_DVD_MSG2="------------------- DVD - DATA ------------------"
+menugrabar_DVD_MSG3="Αντιγραφή δεδομένων DVD"
+menugrabar_DVD_MSG4="Εγγραφή νέου DVD δεδομένων"
+menugrabar_DVD_MSG5="Εγγραφή εικόνας .iso ή .ext2 σε DVD"
+menugrabar_DVD_MSG6="Μορφοποίηση DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Εμφάνιση πληροφοριών δίσκου στη μονάδα δίσκου"
+menugrabar_DVD_MSG0="Προηγούμενο μενού"
+menugrabar_DVD_MSGPRINCIPAL="Πληκτρολογήστε μια επιλογή"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Εγγραφή εικόνας iso-9660 σε DVD"
+menugrabar_DVD_libburnia_MSG2="Εγγραφή δεδομένων από σκληρό δίσκο σε DVD"
+menugrabar_DVD_libburnia_MSG3="Μορφοποίηση DVD"
+menugrabar_DVD_libburnia_MSG4="Μορφοποίηση DVD-RW σε διαδοχική αύξηση"
+menugrabar_DVD_libburnia_MSG5="Μορφοποίηση DVD-RW σε περιορισμένη αντικατάσταση"
+menugrabar_DVD_libburnia_MSG6="Εμφάνιση πληροφοριών μονάδας δίσκου"
+menugrabar_DVD_libburnia_MSG8="Κατάλογος μονάδων δίσκου που είναι εγκατεστημένοι στο σύστημα"
+menugrabar_DVD_libburnia_MSG0="Έξοδος"
+menugrabar_DVD_libburnia_MSG7="Εισαγάγετε μια επιλογή"
+

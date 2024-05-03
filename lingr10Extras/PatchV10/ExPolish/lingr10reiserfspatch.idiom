@@ -1,0 +1,76 @@
+# Idioma Polaco para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Tranducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Naciśnij ENTER, aby kontynuować..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 SOPORTE REISERFS."
+cabecera_interfaz_MSG3="=================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Wyjście polecenia montowania:"
+formatear_disco_reiserfs_MSG2="Określ urządzenie blokowe do sformatowania: "
+formatear_disco_reiserfs_MSG3="Urządzenie sformatowano pomyślnie"
+formatear_disco_reiserfs_MSG4="Błąd formatowania urządzenia"
+formatear_disco_reiserfs_MSG5="PROCES ZAKOŃCZONY"
+formatear_disco_reiserfs_MSG6="Odmontowywanie urządzenia..."
+formatear_disco_reiserfs_MSG7="Formatowanie dysku w ReiserFS..."
+formatear_disco_reiserfs_MSG8="Uruchamianie"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="FORMOWANE POMYŚLNIE"
+formatear_img_reiserfs_MSG2="BŁĄD PRZY FORMATOWANIU PUSTEGO PLIKU"
+formatear_img_reiserfs_MSG3="Generowanie pustego pliku..."
+formatear_img_reiserfs_MSG4="Uruchamianie"
+formatear_img_reiserfs_MSG5="Formatowanie pustego pliku w ReiserFS..."
+formatear_img_reiserfs_MSG6="GENERACJA PUSTEGO PLIKU O NIESTANDARDOWYM ROZMIARZE"
+formatear_img_reiserfs_MSG7="Określ rozmiar pustego pliku do wygenerowania (tylko wartość liczbowa):"
+formatear_img_reiserfs_MSG8="Pomiary przestrzeni w celu wygenerowania pustego pliku:"
+formatear_img_reiserfs_MSG9="Określ miarę przestrzeni, której chcesz użyć: "
+formatear_img_reiserfs_MSG10="BŁĄD PRZY OKREŚLENIU POMIARU ROZMIARU"
+formatear_img_reiserfs_MSG11="Wartość rozmiaru bloku:"
+formatear_img_reiserfs_MSG12="Ilość miejsca na pusty plik:"
+formatear_img_reiserfs_MSG13="Obliczona wartość w bajtach:"
+formatear_img_reiserfs_MSG14="Obliczona wartość dla licznika:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Utwórz obraz dla płyty CD-R/RW (702 MB)"
+m_img_CDDVDBD_reiserfs_MSG2="Utwórz obraz dla płyty DVD+RW (4 GB)"
+m_img_CDDVDBD_reiserfs_MSG3="Utwórz obraz dla płyty DVD+RW/DL (8 GB)"
+m_img_CDDVDBD_reiserfs_MSG4="Utwórz obraz dla płyty BD-R/RE (25 GB)"
+m_img_CDDVDBD_reiserfs_MSG5="Utwórz plik obrazu o niestandardowym rozmiarze"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Wyjdź"
+imgr_tmp_MSG1="Usuń wszystkie pliki obrazów reiserfs"
+imgr_tmp_MSG2="Zamontuj lub odmontuj plik obrazu"
+imgr_tmp_MSG3="Pliki obrazów w"
+imgr_tmp_MSG4="Wybierz opcję"
+imgr_tmp_MSG5="Usunięte pliki obrazów"
+imgr_tmp_MSG6="Zamontuj obraz"
+imgr_tmp_MSG7="Odłącz obraz"
+imgr_tmp_MSG8="Zamontowany obraz"
+imgr_tmp_MSG9="Zdemontowany obraz"
+imgr_tmp_MSG10="Nieprawidłowa opcja"
+imgr_tmp_MSG11="Określ obraz do zamontowania lub odmontowania:"
+imgr_tmp_MSG12="Błąd podczas montowania obrazu"
+imgr_tmp_MSG13="Błąd podczas odmontowywania obrazu"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Formatuj dysk w ReiserFS"
+lingr10reiserfspatch_MSG2="Utwórz obraz ReiserFS dla CD/DVD/BD"
+lingr10reiserfspatch_MSG3="Operacje na obrazach ReiserFS"
+lingr10reiserfspatch_MSG4="Nieprawidłowa opcja"
+lingr10reiserfspatch_MSG0="Wyjdź"
+

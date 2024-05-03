@@ -1,0 +1,16 @@
+Español 
+
+Experimental (ExSpanishEn).
+
+Traducción al español desde los archivos de inglés.
+Por estudio de la precisión en traducciones del traductor.
+Contiene errores de significado en contexto y traducción propia.
+Generado con Google Translate.
+
+Spanish translation from the English files.
+By studying the accuracy of the translator's translations.
+Contains meaning errors in context and own translation.
+Generated with Google Translate.
+
+Pascual Martínez Cruz; pascual89@hotmail.com
+

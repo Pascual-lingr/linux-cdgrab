@@ -1,0 +1,149 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSpanishEn/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API_idiom.idiom
+# Messages to audio API.
+#
+# Function to notify the User Interface.
+# Common functions to User Interface.
+#
+# Experimental Spanish translation from English, generate by Google Translate
+#
+# Traducción experimental al Español desde los archivos de Inglés,
+# generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribute under GPL v2
+# Part of Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="ARCHIVOS MP3 PARA CONVERTIR"
+mp3awav_MSG0="Ingrese la ruta de los archivos .mp3: "
+mp3awav_MSG1="CONVERTIENDO"
+mp3awav_MSG1B=" AL FORMATO .wav"
+mp3awav_MSG2="ejecutando"
+mp3awav_MSG3="Muestreo establecido en 44100 Mhz"
+mp3awav_MSG4="Error en el muestreo"
+mp3awav_MSG5="error de conversión"
+mp3awav_MSG6="Directorio no encontrado"
+mp3awav_MSG7="FIN DE LA CONVERSIÓN DE AUDIO"
+mp3awav_MSG8="Normalizando archivo de audio"
+mp3awav_MSG9="Archivo"
+mp3awav_MSG10="Normalizado"
+mp3awav_MSG11="Error al normalizar"
+
+# oggawav
+
+oggawav_MSG0="ARCHIVOS OGG PARA CONVERTIR"
+oggawav_MSG1="Ingrese la ruta de los archivos .ogg: "
+oggawav_MSG2="CONVERTIENDO"
+oggawav_MSG2B="AL FORMATO .wav"
+oggawav_MSG3="ejecutando"
+oggawav_MSG4="Muestreo establecido en 44100 Mhz"
+oggawav_MSG5="Error en el muestreo"
+oggawav_MSG6="error de conversión"
+oggawav_MSG7="Directorio no encontrado"
+oggawav_MSG8="FIN DE LA CONVERSIÓN DE AUDIO"
+oggawav_MSG9="Normalizando archivo de audio"
+oggawav_MSG10="Archivo"
+oggawav_MSG11="Normalizado"
+oggawav_MSG12="Error al normalizar"
+
+# cdawav
+
+cdawav_MSG1="RIPIFICACIÓN DE CD DE AUDIO ..."
+cdawav_MSG2="Ejecutando:"
+cdawav_MSG3="¡¡ PISTAS DE AUDIO COPIADAS EXITOSAMENTE!!"
+cdawav_MSG4="Contenido del directorio de archivos de audio"
+cdawav_MSG5="ERROR AL COPIAR LAS PISTAS DE AUDIO"
+
+# cddawav
+
+cddawav_MSG1="ESPECIE EL NÚMERO DE PISTAS PARA RIPEAR:"
+cddawav_MSG2="Presiona Ctrl + c para cancelar una copia de pista"
+cddawav_MSG3="Ejecutando:"
+cddawav_MSG4="RIP EXITOSO"
+cddawav_MSG5="ERROR AL COPIAR"
+
+# wavamp3
+
+wavamp3_MSG0="ARCHIVOS WAV PARA CONVERTIR"
+wavamp3_MSG1="Ingrese la ruta de los archivos .wav: "
+wavamp3_MSG1B="CONVERTIENDO"
+wavamp3_MSG2="PARA FORMATEAR"
+wavamp3_MSG3="Ejecutando:"
+wavamp3_MSG4="para convertir"
+wavamp3_MSG5="al formato .MP3"
+wavamp3_MSG6="Error en la conversión"
+wavamp3_MSG7="FIN DE LA CONVERSIÓN DE AUDIO"
+wavamp3_MSG8="DIRECTORIO DE AUDIO NO ENCONTRADO"
+
+# cdamp3
+
+cdamp3_MSG1="RIPIENDO CD DE AUDIO..."
+cdamp3_MSG2="Ejecutando:"
+cdamp3_MSG3="PISTA DE AUDIO COPIADA EXITOSAMENTE"
+cdamp3_MSG4="ERROR AL COPIAR PISTAS DE AUDIO"
+cdamp3_MSG5="Función de llamada:"
+
+# wavaogg
+
+wavaogg_MSG1="Ingrese la ruta de los archivos .wav: "
+wavaogg_MSG2="CONVERTIENDO"
+wavaogg_MSG3="AL FORMATO .ogg"
+wavaogg_MSG4="Ejecutando:"
+wavaogg_MSG5="Error de conversión"
+wavaogg_MSG6="al formato .ogg"
+
+# cdaogg
+
+cdaogg_MSG1="RIPIENDO CD DE AUDIO..."
+cdaogg_MSG2="Ejecutando:"
+cdaogg_MSG3="PISTA DE AUDIO COPIADA EXITOSAMENTE"
+cdaogg_MSG4="ERROR AL COPIAR PISTAS DE AUDIO"
+cdaogg_MSG5="Función de llamada:"
+
+# corta_wav
+
+corta_wav_MSG0="Número de segundos:"
+corta_wav_MSG1="Especifique la ruta del archivo de audio a convertir:"
+corta_wav_MSG2="Especifique el tiempo en segundos durante el cual "
+corta_wav_MSG3="Comenzará el corte del archivo."
+corta_wav_MSG4="-NOTA-"
+corta_wav_MSG5="Para especificar el inicio del audio debes informar 0"
+corta_wav_MSG6="Valor en segundos para el inicio de la conversión:"
+corta_wav_MSG7="Especifique el tiempo en segundos durante el cual "
+corta_wav_MSG8="El corte del archivo finalizará."
+corta_wav_MSG9="Valor en segundos para el final de la conversión:"
+corta_wav_MSG10="Ejecutando"
+corta_wav_MSG11="Archivo de audio cortado"
+corta_wav_MSG12="Error al cortar el archivo de audio"
+corta_wav_MSG13="Archivo de audio para recortar:"
+
+# flacawav
+
+flacawav_MSG0="AUDIO FLAC/WAV"
+flacawav_MSG1="Especifique la ruta de los archivos flac :"
+flacawav_MSG2="CONVERTIENDO"
+flacawav_MSG3=" AL FORMATO .wav"
+flacawav_MSG4="Muestreo configurado en 44100 Mhz"
+flacawav_MSG5="Error de muestreo"
+flacawav_MSG6="Normalizando archivos de audio"
+flacawav_MSG7="Archivo"
+flacawav_MSG8="Normalizado"
+flacawav_MSG9="Error al normalizar"
+flacawav_MSG10="Error al convertir"
+flacawav_MSG11="Directorio no encontrado"
+flacawav_MSG12="FIN DE LA CONVERSIÓN DE AUDIO"
+
+# wavaflac
+
+wavaflac_MSG0="ARCHIVOS WAV PARA CONVERTIR"
+wavaflac_MSG1="Escriba la ruta de los archivos .wav: "
+wavaflac_MSG2="CONVERTIENDO"
+wavaflac_MSG3="AL FORMATO .flac"
+wavaflac_MSG4="convertido a formato flac"
+wavaflac_MSG5="Error al convertir"
+wavaflac_MSG6="al formato .flac"
+wavaflac_MSG7="DIRECTORIO DE ARCHIVOS FLAC NO ENCONTRADO"
+

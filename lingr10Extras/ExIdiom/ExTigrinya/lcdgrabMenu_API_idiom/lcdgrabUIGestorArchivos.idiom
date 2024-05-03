@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTigrinya/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Tigriña para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* ናይ ምምራሕ ኣማራጺታት ************************"
+ayuda_gestor_de_archivos_MSG2="ኣብቲ ፋይል ሲስተም ድህሰስ።"
+ayuda_gestor_de_archivos_MSG3="X --> ውጹ"
+ayuda_gestor_de_archivos_MSG4="A --> ቅድሚ ሕጂ ዝነበረ ማህደር"
+ayuda_gestor_de_archivos_MSG5="B --> ዝቕጽል ማህደር"
+ayuda_gestor_de_archivos_MSG6="ኣብ ፋይላትን ማህደርን ዝግበር ተግባራት።"
+ayuda_gestor_de_archivos_MSG7="C --> ፋይል ቅዳሕ"
+ayuda_gestor_de_archivos_MSG8="M --> ፋይል ምግዓዝ"
+ayuda_gestor_de_archivos_MSG9="CD --> ማህደር ቅዳሕ"
+ayuda_gestor_de_archivos_MSG10="MD --> ማህደር ምግዓዝ"
+ayuda_gestor_de_archivos_MSG11="ኣብ ፋይላትን ማህደርን ዝፍጸሙ ተግባራት ምርዳእ።"
+ayuda_gestor_de_archivos_MSG12="Z --> ንሓደ ፋይል ምጽቃጥ"
+ayuda_gestor_de_archivos_MSG13="DZ --> ንሓደ ፋይል ዚፕ ግበር"
+ayuda_gestor_de_archivos_MSG14="EZ --> .tar.gz ወይ .tar.bz2 ዝብል ፓኬጅ ምፍጣር"
+ayuda_gestor_de_archivos_MSG15="DEZ --> ንሓደ .tar.gz ወይ .tar.bz2 ምፍታሕ"
+ayuda_gestor_de_archivos_MSG16="******************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="ናይ ሕጂ ንጡፍ ማህደር"
+gestor_de_archivos_MSG0B="ፋይላት ኣብ..."
+gestor_de_archivos_MSG1="============================ ናይ ምምራሕ ኣማራጺታት ========================"
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> ረድኤት="
+gestor_de_archivos_MSG3="========================================================================="
+gestor_de_archivos_MSG4="ኣማራጺ ጽሓፍ።"
+gestor_de_archivos_MSG5="ዓይነት ማህደር።"
+gestor_de_archivos_MSG6="እቲ ምንጪ ፋይል ጽሓፍ።"
+gestor_de_archivos_MSG7="መዕለቢ ፋይል ጽሓፍ።"
+gestor_de_archivos_MSG8="ፋይል ብዓወት ተቐዲሑ።"
+gestor_de_archivos_MSG9="ፋይል ኣብ ምቕዳሕ ጌጋ ኣጋጢሙ።"
+gestor_de_archivos_MSG10="እቲ ምንጪ ፋይል ጽሓፍ።"
+gestor_de_archivos_MSG11="መዕለቢ ፋይል ጽሓፍ።"
+gestor_de_archivos_MSG12="ፋይል ብዓወት ተሰጋጊሩ።"
+gestor_de_archivos_MSG13="ፋይል ኣብ ምግዓዝ ጌጋ ኣጋጢሙ።"
+gestor_de_archivos_MSG14="እቲ ምንጪ ማህደር ጽሓፍ።"
+gestor_de_archivos_MSG15="መዕለቢ ማህደር ጽሓፍ።"
+gestor_de_archivos_MSG16="ማህደር ብዓወት ተቐዲሑ።"
+gestor_de_archivos_MSG17="ጌጋ ኣብ ምቕዳሕ ማህደር።"
+gestor_de_archivos_MSG18="እቲ ምንጪ ማህደር ጽሓፍ።"
+gestor_de_archivos_MSG19="መዕለቢ ማህደር ጽሓፍ።"
+gestor_de_archivos_MSG20="ማእከል ብዓወት ተሰጋጊሩ።"
+gestor_de_archivos_MSG21="ጌጋ ኣብ ምግዓዝ ማህደር።"
+gestor_de_archivos_MSG22="ፋይል ንምጽቃጥ።"
+gestor_de_archivos_MSG23="መንገዲ ፋይል ግለጽ።"
+

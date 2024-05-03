@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTurkish/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Turco para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="ŞU ANDA SİSTEMDE TAKILI CİHAZLAR"
+montar_dispositivos_MSG1B="CİHAZLARIN MONTAJI/SÖKÜLMESİ"
+montar_dispositivos_MSG2="LINUX-CDGRAB SEÇENEKLERİ"
+montar_dispositivos_MSG3="Diski CD/DVD/BD okuyucudan çıkar"
+montar_dispositivos_MSG4="Diski CD/DVD/BD yazıcıdan çıkar"
+montar_dispositivos_MSG5="CD-ROM/DVD-ROM/BD-ROM okuyucuyu bağla"
+montar_dispositivos_MSG6="CD-ROM/DVD-ROM/BD-ROM'un bağlantısını kes"
+montar_dispositivos_MSG7="Cihazı elle monte edin veya sökün"
+montar_dispositivos_MSG0="Önceki menü"
+montar_dispositivos_MSG8="CD/DVD/BD takılı"
+montar_dispositivos_MSG9="DEVAM ETMEK İÇİN ENTER'A BASIN..."
+montar_dispositivos_MSG10="CD/DVD/BD'yi takarken hata oluştu"
+montar_dispositivos_MSG11="CD/DVD/BD'nin bağlantısı kesildi"
+montar_dispositivos_MSG12="CD/DVD/BD'nin bağlantısı kesilirken hata oluştu"
+montar_dispositivos_MSG13="Takılacak/bağlantısı kesilecek cihazı yazın:"
+montar_dispositivos_MSG14="Bağlama noktasını girin:"
+montar_dispositivos_MSG15="bir blok cihaza karşılık gelmiyor"
+montar_dispositivos_MSG16="Bağlama noktası bulunamadı"
+montar_dispositivos_MSG17="Varsayılan bağlama noktası"
+montar_dispositivos_MSG18="Seçenek seçin:"
+montar_dispositivos_MSG19="Bağla"
+montar_dispositivos_MSG20="tr"
+montar_dispositivos_MSG21="Bağlantıyı kaldır"
+montar_dispositivos_MSG22="ile ilgili"
+montar_dispositivos_MSG23="bağlandığı yer:"
+montar_dispositivos_MSG24="MONTAJ ESNASINDA HATA"
+montar_dispositivos_MSG25="TR"
+montar_dispositivos_MSG26="bağlantısı kaldırıldı"
+montar_dispositivos_MSG27="MONTAJI KALDIRIRKEN HATA"
+montar_dispositivos_MSG28="ile ilgili"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Bağlama komutunun çıktısı"
+Montar_Imagenes_MSG1B="GÖRÜNTÜ DOSYALARINI MONTAJ/PARÇALAMA"
+Montar_Imagenes_MSG2="Bir seçenek seçin"
+Montar_Imagenes_MSG3="CD/DVD/BD görüntüsünü bağla"
+Montar_Imagenes_MSG4="CD/DVD/BD görüntüsünün bağlantısını kes"
+Montar_Imagenes_MSG5="Önceki Menü"
+

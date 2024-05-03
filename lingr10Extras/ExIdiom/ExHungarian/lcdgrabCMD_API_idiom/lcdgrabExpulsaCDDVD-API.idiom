@@ -1,0 +1,17 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Húngaro para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="OPTIKUS LEMEZ KIADVA"
+expulsar_medio_MSG2="Hiba a lemez kiadásakor az eszközről"
+expulsar_medio_MSG3="Írja be a nevet kézzel:"
+
+

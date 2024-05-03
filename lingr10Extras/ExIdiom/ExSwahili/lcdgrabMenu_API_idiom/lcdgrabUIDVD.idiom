@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Suajili, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Chagua kiolesura cha mtumiaji ambacho kitatumika:"
+SeleccionaIUDVD_MSG2="Tumia Kiolesura cha dvd+-rw-tools"
+SeleccionaIUDVD_MSG3="Tumia Kiolesura cha Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Tumia Kiolesura cha libburnia"
+SeleccionaIUDVD_MSG5="Menyu iliyotangulia"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="KUREKODI KWA DVD"
+menugrabar_dvd_MSG2="------------------- DVD - DATA ------------------"
+menugrabar_dvd_MSG3="Nakili DVD ya data ya ISO-9660"
+menugrabar_dvd_MSG4="Unda picha ya awali ya DVD kwenye diski kuu"
+menugrabar_dvd_MSG5="Choma DVD mpya ya data ya ISO-9660"
+menugrabar_dvd_MSG6="Ongeza kipindi kipya cha data kwa ISO-9660 data DVD (DVD ya multisession)"
+menugrabar_dvd_MSG7="Inahitaji DVD iliyorekodiwa hapo awali kwa kutumia chaguo la pili"
+menugrabar_dvd_MSG8="Choma picha ya data ya ISO-9660 kwenye DVD"
+menugrabar_dvd_MSG9="Choma picha ya .ext2 kwenye DVD"
+menugrabar_dvd_MSG10="------------------ DVD - VIDEO ------------------"
+menugrabar_dvd_MSG11="Choma DVD-Video mpya"
+menugrabar_dvd_MSG12="--------------- CHAGUO NYINGINE -----------------"
+menugrabar_dvd_MSG13="Umbiza DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Onyesha taarifa za diski ya DVD"
+menugrabar_dvd_MSG0="Menyu iliyotangulia"
+menugrabar_dvd_MSGPRINCIPAL="Chapa chaguo"
+menugrabar_dvd_MSG15="Faili na saraka za kujumuisha kwenye DVD"
+menugrabar_dvd_MSG16="Inazindua kidhibiti faili..."
+menugrabar_dvd_MSG17=".iso picha ya kuchoma hadi DVD"
+menugrabar_dvd_MSG18="Andika njia ya saraka ambapo picha ya .iso unayotaka kuchoma iko"
+menugrabar_dvd_MSG19="Inahitaji toleo la cdrecord na usaidizi wa DVD."
+menugrabar_dvd_MSG20="Kurekodi kwa picha ya .ext2 kwenye DVD kutafanywa kwa cdrecord."
+menugrabar_dvd_MSG21="Toleo la cdrecord lililopo kwenye usakinishaji wako linapaswa"
+menugrabar_dvd_MSG22="kusaidia kurekodi DVD."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="CHAGUA CHAGUO"
+dvd_clonar_MSG2="--- NAKALA ZA DISC NA PICHA YA ANGALIO ---"
+dvd_clonar_MSG3="Nakili DVD ya data"
+dvd_clonar_MSG4="Unda picha ya awali ya DVD kwenye diski kuu"
+dvd_clonar_MSG5="--- NAKALA ZA DISC KWENYE NDEGE ---"
+dvd_clonar_MSG6="Nakili DVD ya data kwa haraka"
+dvd_clonar_MSG7="Tengeneza DVD ya data kwa haraka"
+dvd_clonar_MSG8="CHAGUO ZA KURUSHA NAKALA ZINAHITAJI VITENGO MBILI VYA MAONI"
+dvd_clonar_MSG9="IMEWEKA KWENYE COMPUTER YAKO, KWA VILE DATA IMEREKODIWA WAKATI"
+dvd_clonar_MSG10="SOMA MOJA KWA MOJA KUTOKA KWENYE DISK ASILI, IKIWA COMPUTER YAKO NDIYO TU"
+dvd_clonar_MSG11="HUTAWEZA KUTUMIA NAKALA KWENYE NDEGE."
+dvd_clonar_MSG0="Menyu iliyotangulia"
+dvd_clonar_MSG12="NAKALA YA DVD YA DATA"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="KUREKODI KWA DVD"
+menugrabar_DVD_MSG2="------------------ DVD - DATA ------------------"
+menugrabar_DVD_MSG3="Rip data DVD"
+menugrabar_DVD_MSG4="Choma DVD mpya ya data"
+menugrabar_DVD_MSG5="Choma .iso au .ext2 picha kwenye DVD"
+menugrabar_DVD_MSG6="Umbiza DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Onyesha taarifa za diski kwenye hifadhi"
+menugrabar_DVD_MSG0="Menyu iliyotangulia"
+menugrabar_DVD_MSGPRINCIPAL="Chapa chaguo"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Choma picha ya iso-9660 kwenye DVD"
+menugrabar_DVD_libburnia_MSG2="Choma data kutoka gari ngumu hadi DVD"
+menugrabar_DVD_libburnia_MSG3="Umbiza DVD"
+menugrabar_DVD_libburnia_MSG4="Umbiza DVD-RW kwa nyongeza ya mfuatano"
+menugrabar_DVD_libburnia_MSG5="Umbiza DVD-RW hadi Uandikaji Uliozuiliwa"
+menugrabar_DVD_libburnia_MSG6="Onyesha habari ya kiendeshi"
+menugrabar_DVD_libburnia_MSG8="Orodhesha viendeshi vilivyosakinishwa kwenye mfumo"
+menugrabar_DVD_libburnia_MSG0="Toka"
+menugrabar_DVD_libburnia_MSG7="Ingiza chaguo"
+

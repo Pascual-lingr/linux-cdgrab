@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAmharic/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al amárico, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="የሚጠቅመውን የተጠቃሚ በይነገጽ ምረጥ፡"
+SeleccionaIUDVD_MSG2="ለዲቪዲ+-rw-መሳሪያዎች በይነገጽ ተጠቀም"
+SeleccionaIUDVD_MSG3="ለCdrecord-ProDVD በይነገጽ ተጠቀም"
+SeleccionaIUDVD_MSG4="ለlibburnia በይነገጽ ተጠቀም"
+SeleccionaIUDVD_MSG5="የቀድሞው ምናሌ"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="ዲቪዲ መቅዳት"
+menugrabar_dvd_MSG2="----------------- ዲቪዲ - ውሂብ ------------------"
+menugrabar_dvd_MSG3="የ ISO-9660 ውሂብ ዲቪዲ ቅዳ"
+menugrabar_dvd_MSG4="የቀድሞ ዲቪዲ ምስል በሃርድ ድራይቭ ላይ ፍጠር"
+menugrabar_dvd_MSG5="አዲስ ISO-9660 ውሂብ ዲቪዲ አቃጥለው"
+menugrabar_dvd_MSG6="አዲስ የውሂብ ክፍለ-ጊዜን ወደ ISO-9660 ውሂብ ዲቪዲ (ባለብዙ ጊዜ ዲቪዲ) አክል"
+menugrabar_dvd_MSG7="ሁለተኛውን አማራጭ በመጠቀም ቀደም ሲል የተቀዳ ዲቪዲ ያስፈልገዋል"
+menugrabar_dvd_MSG8="የ ISO-9660 ውሂብ ምስል ወደ ዲቪዲ ያቃጥሉ"
+menugrabar_dvd_MSG9=".ext2 ምስል ወደ ዲቪዲ ያቃጥሉ"
+menugrabar_dvd_MSG10="----------------- ዲቪዲ-ቪዲዮ ------------------"
+menugrabar_dvd_MSG11="አዲስ ዲቪዲ-ቪዲዮ ያቃጥሉ።"
+menugrabar_dvd_MSG12="--------------- ሌሎች አማራጮች -----------------"
+menugrabar_dvd_MSG13="DVD+RW/DVD-RW ቅረጽ"
+menugrabar_dvd_MSG14="የዲቪዲ ዲስክ መረጃ አሳይ"
+menugrabar_dvd_MSG0="የቀድሞው ምናሌ"
+menugrabar_dvd_MSGPRINCIPAL="አማራጭ ተይብ"
+menugrabar_dvd_MSG15="ፋይሎች እና ማውጫዎች በዲቪዲው ላይ የሚካተቱ"
+menugrabar_dvd_MSG16="ፋይል አቀናባሪውን በማስጀመር ላይ..."
+menugrabar_dvd_MSG17=".iso ምስል ወደ ዲቪዲ የሚቃጠል"
+menugrabar_dvd_MSG18="ማቃጠል የሚፈልጉት የ.iso ምስል የሚገኝበትን ማውጫ ዱካ ይተይቡ"
+menugrabar_dvd_MSG19="የሲድሪኮርድ እትም ከዲቪዲ ድጋፍ ጋር ይፈልጋል።"
+menugrabar_dvd_MSG20="የ.ext2 ምስል በዲቪዲ ላይ መቅዳት በሲዲኮርድ ይከናወናል።"
+menugrabar_dvd_MSG21="በጭነትዎ ውስጥ ያለው የሲዲኮርድ ስሪት አለበት"
+menugrabar_dvd_MSG22="የዲቪዲ ቅጂን ይደግፉ።"
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="አንድ አማራጭ ይምረጡ"
+dvd_clonar_MSG2="--- ቅድመ-ምስል የዲስክ ቅጂዎች ---"
+dvd_clonar_MSG3="የውሂብ ዲቪዲ ይቅዱ"
+dvd_clonar_MSG4="በሃርድ ድራይቭዎ ላይ የቅድመ እይታ የዲቪዲ ምስል ይፍጠሩ"
+dvd_clonar_MSG5="--- በበረራ ላይ የዲስክ ቅጂዎች ---"
+dvd_clonar_MSG6="በበረራ ላይ የውሂብ ዲቪዲ ቅዳ"
+dvd_clonar_MSG7="ዳታ ዲቪዲ በበረራ ላይ"
+dvd_clonar_MSG8="የበራሪ ቅጅ አማራጮች ሁለት የጨረር ክፍሎች ያስፈልጋቸዋል"
+dvd_clonar_MSG9="በኮምፒዩተርዎ ላይ ተጭኗል፣መረጃው የሚቀዳው እያለ ነው"
+dvd_clonar_MSG10="ኮምፒዩተርህ ያለው ብቻ ከሆነ ከኦሪጅኑ ዲስክ በቀጥታ አንብብ"
+dvd_clonar_MSG11="በበረራው ላይ ቅጂዎቹን መጠቀም አትችልም።"
+dvd_clonar_MSG0="የቀድሞው ምናሌ"
+dvd_clonar_MSG12="የዲቪዲ ውሂብ ቅጂ"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="ዲቪዲ መቅዳት"
+menugrabar_DVD_MSG2="------------------ ዲቪዲ - ውሂብ -------------------"
+menugrabar_DVD_MSG3="የሪፕ ዳታ ዲቪዲ"
+menugrabar_DVD_MSG4="አዲስ ዳታ ዲቪዲ ያቃጥሉ"
+menugrabar_DVD_MSG5=".iso ወይም .ext2 ምስልን ወደ ዲቪዲ ማቃጠል"
+menugrabar_DVD_MSG6="DVD+RW/DVD-RW ቅረጽ"
+menugrabar_DVD_MSG7="የዲስክ መረጃን በድራይቭ ውስጥ አሳይ"
+menugrabar_DVD_MSG0="የቀድሞው ምናሌ"
+menugrabar_DVD_MSGPRINCIPAL="አማራጭ ተይብ"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="የ iso-9660 ምስልን ወደ ዲቪዲ ያቃጥሉ"
+menugrabar_DVD_libburnia_MSG2="መረጃን ከሃርድ ድራይቭ ወደ ዲቪዲ ያቃጥሉ"
+menugrabar_DVD_libburnia_MSG3="ዲቪዲ ቅርጸት"
+menugrabar_DVD_libburnia_MSG4="DVD-RW ወደ ተከታታይ ጭማሪ ቅረጽ"
+menugrabar_DVD_libburnia_MSG5="DVD-RW ወደ የተገደበ ጽሁፍ ቅረጽ"
+menugrabar_DVD_libburnia_MSG6="የአነዳድ መረጃ አሳይ"
+menugrabar_DVD_libburnia_MSG8="በስርዓቱ ውስጥ የተጫኑ አሽከርካሪዎች ዝርዝር"
+menugrabar_DVD_libburnia_MSG0="ውጣ"
+menugrabar_DVD_libburnia_MSG7="አማራጭ አስገባ"
+

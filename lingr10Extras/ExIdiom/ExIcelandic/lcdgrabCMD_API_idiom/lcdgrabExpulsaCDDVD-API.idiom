@@ -1,0 +1,17 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Islandés para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="SJÓNLEIKUR DISK ÚT ÚTTAÐ"
+expulsar_medio_MSG2="Villa þegar reynt var að taka diskinn úr tækinu"
+expulsar_medio_MSG3="Sláðu inn nafnið handvirkt:"
+
+

@@ -1,0 +1,26 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDanish/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en danés para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="VIDEOKONVERING"
+menu_conversion_video_MSG2="----------- KONVERTERING MELLEM FORMATER -----------"
+menu_conversion_video_MSG3="Konverter video til Blu Ray Disc Smart-TV kompatibel"
+menu_conversion_video_MSG4="Videofil der skal konverteres:"
+menu_conversion_video_MSG0="Forrige menu"
+menu_conversion_video_MSG6="Optag skrivebordssession"
+menu_conversion_video_MSG7="Konverter videofil til andet format"
+menu_conversion_video_MSG8="----------------- ANDRE MULIGHEDER ----------------"
+menu_conversion_video_MSG9="Bland videofil med lydfil"
+menu_conversion_video_MSG10="Udtræk MP3-lyd fra videofil"
+menu_conversion_video_MSG11="Trim videofil"
+
+
+

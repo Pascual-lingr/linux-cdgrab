@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExPolish/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Polaco, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Wybierz interfejs użytkownika, który będzie używany:"
+SeleccionaIUDVD_MSG2="Użyj interfejsu dla narzędzi DVD+-rw"
+SeleccionaIUDVD_MSG3="Użyj interfejsu dla Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Użyj interfejsu dla libburnii"
+SeleccionaIUDVD_MSG5="Poprzednie menu"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="NAGRYWANIE NA DVD"
+menugrabar_dvd_MSG2="----------------- DVD - DANE -----------------"
+menugrabar_dvd_MSG3="Skopiuj płytę DVD z danymi ISO-9660"
+menugrabar_dvd_MSG4="Utwórz poprzedni obraz DVD na dysku twardym"
+menugrabar_dvd_MSG5="Nagraj nową płytę DVD z danymi ISO-9660"
+menugrabar_dvd_MSG6="Dodaj nową sesję danych do płyty DVD z danymi ISO-9660 (wielosesyjne DVD)"
+menugrabar_dvd_MSG7="Wymaga płyty DVD nagranej wcześniej przy użyciu drugiej opcji"
+menugrabar_dvd_MSG8="Nagraj obraz danych ISO-9660 na DVD"
+menugrabar_dvd_MSG9="Nagraj obraz .ext2 na DVD"
+menugrabar_dvd_MSG10="----------------- DVD - WIDEO -----------------"
+menugrabar_dvd_MSG11="Nagraj nową płytę DVD-Video"
+menugrabar_dvd_MSG12="-------------- INNE OPCJE ----------------"
+menugrabar_dvd_MSG13="Formatuj płytę DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Pokaż informacje o płycie DVD"
+menugrabar_dvd_MSG0="Poprzednie menu"
+menugrabar_dvd_MSGPRINCIPAL="Wpisz opcję"
+menugrabar_dvd_MSG15="Pliki i katalogi do umieszczenia na płycie DVD"
+menugrabar_dvd_MSG16="Uruchamianie menedżera plików..."
+menugrabar_dvd_MSG17="Obraz .iso do nagrania na DVD"
+menugrabar_dvd_MSG18="Wpisz ścieżkę katalogu, w którym znajduje się obraz .iso, który chcesz nagrać"
+menugrabar_dvd_MSG19="Wymaga wersji cdrecord z obsługą DVD."
+menugrabar_dvd_MSG20="Nagrywanie obrazu .ext2 na DVD zostanie wykonane za pomocą cdrecord."
+menugrabar_dvd_MSG21="Wersja cdrecord istniejąca w Twojej instalacji powinna"
+menugrabar_dvd_MSG22="obsługuje nagrywanie DVD."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="WYBIERZ OPCJĘ"
+dvd_clonar_MSG2="--- KOPIE PŁYT Z OBRAZEM PODGLĄDU ---"
+dvd_clonar_MSG3="Skopiuj DVD z danymi"
+dvd_clonar_MSG4="Utwórz poprzedni obraz DVD na dysku twardym"
+dvd_clonar_MSG5="--- KOPIE NA PŁYTACH W LOCIE ---"
+dvd_clonar_MSG6="Kopiuj DVD z danymi w locie"
+dvd_clonar_MSG7="Klonuj płytę DVD z danymi w locie"
+dvd_clonar_MSG8="OPCJE LOTNEGO KOPIOWANIA WYMAGAJĄ DWÓCH JEDNOSTEK OPTYCZNYCH"
+dvd_clonar_MSG9="ZAINSTALOWANE NA TWOIM KOMPUTERZE, PONIEWAŻ DANE SĄ PODCZAS ZAPISANIA"
+dvd_clonar_MSG10="CZYTAJ BEZPOŚREDNIO Z DYSKU ORYGINALNEGO, JEŚLI TYLKO TWÓJ KOMPUTER TAK MA"
+dvd_clonar_MSG11="NIE BĘDZIESZ MOŻLIWY WYKORZYSTAĆ KOPIÓW PODCZAS LOTU."
+dvd_clonar_MSG0="Poprzednie menu"
+dvd_clonar_MSG12="KOPIOWANIE DANYCH DVD"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="NAGRYWANIE NA DVD"
+menugrabar_DVD_MSG2="----------------- DVD - DANE ------------------"
+menugrabar_DVD_MSG3="Kopiuj DVD z danymi"
+menugrabar_DVD_MSG4="Nagraj nową płytę DVD z danymi"
+menugrabar_DVD_MSG5="Nagraj obraz .iso lub .ext2 na DVD"
+menugrabar_DVD_MSG6="Formatuj DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Pokaż informacje o płycie w napędzie"
+menugrabar_DVD_MSG0="Poprzednie menu"
+menugrabar_DVD_MSGPRINCIPAL="Wpisz opcję"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Nagraj obraz ISO-9660 na DVD"
+menugrabar_DVD_libburnia_MSG2="Nagraj dane z dysku twardego na DVD"
+menugrabar_DVD_libburnia_MSG3="Formatuj DVD"
+menugrabar_DVD_libburnia_MSG4="Formatuj DVD-RW na sekwencyjny, przyrostowy"
+menugrabar_DVD_libburnia_MSG5="Formatuj DVD-RW w celu ograniczonego nadpisywania"
+menugrabar_DVD_libburnia_MSG6="Pokaż informacje o napędzie"
+menugrabar_DVD_libburnia_MSG8="Wyświetl listę dysków zainstalowanych w systemie"
+menugrabar_DVD_libburnia_MSG0="Wyjdź"
+menugrabar_DVD_libburnia_MSG7="Wprowadź opcję"
+

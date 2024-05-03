@@ -1,0 +1,171 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Suajili para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Kifaa cha kurekodi kama"
+buscar_grabadora_MSG1B="Halali"
+buscar_grabadora_MSG2="Kifaa cha kurekodi kama"
+buscar_grabadora_MSG2B="Kosa"
+buscar_grabadora_MSG3="Dvd+-rw-tools hazikubali kuwa kifaa cha kurekodi ni"
+buscar_grabadora_MSG4="Ili uweze kuchoma DVD kwa kutumia dvd+rw-tools lazima ubainishe kinasa sauti chako kama kifaa cha kuzuia"
+buscar_grabadora_MSG5="Mfano"
+buscar_grabadora_MSG6="au"
+buscar_grabadora_MSG7="Inaonyesha vifaa vya mfumo vilivyopo katika /dev"
+buscar_grabadora_MSG8="Ingiza kifaa cha kuzuia kinacholingana na kinasa sauti chako"
+buscar_grabadora_MSG9="Hakuna aina ya kinasa au chaguo ambalo limebainishwa."
+buscar_grabadora_MSG10="KIFAA KILICHOFANIKIWA KWA KIREKODI"
+buscar_grabadora_MSG11="Kifaa cha kurekodi kimesafirishwa kwa mazingira ya ganda kama"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Thamani inayowezekana ni halali kwa cdrecord pekee"
+buscar_grabadoralb_MSG2="Usanidi wa sasa wa kinasa ni"
+buscar_grabadoralb_MSG3="Angalia kuwa usanidi huu unalingana na thamani iliyotolewa na cdrskin"
+buscar_grabadoralb_MSG4="Kuchanganua IDE/SCSI bandari na cdrskin..."
+buscar_grabadoralb_MSG5="Bainisha thamani mpya itakayotumika na cdrskin:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Ingiza jina la DVD ya baadaye:"
+datos_dvd_MSG2="KUREKODI DVD . . ."
+datos_dvd_MSG3="Kutumia"
+datos_dvd_MSG4="inaendesha"
+datos_dvd_MSG5="DVD IMEREKODIWA KWA MAFANIKIO! "
+datos_dvd_MSG6="Mkisofs au genisoimage haiwezi kupatikana, sakinisha cdrtools au cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Ingiza jina la DVD ya baadaye:"
+datos_dvd_multi_MSG2="KUREKODI DVD . . ."
+datos_dvd_multi_MSG3="Kutumia"
+datos_dvd_multi_MSG4="inaendesha"
+datos_dvd_multi_MSG5="DVD IMEREKODIWA KWA MAFANIKIO! "
+datos_dvd_multi_MSG6="Mkisofs au genisoimage haiwezi kupatikana, sakinisha cdrtools au cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="PICHA YA KUREKODI . . ."
+grabimg_dvd_MSG2="inaendesha"
+grabimg_dvd_MSG3="! PICHA YA DVD IMEREKODIWA KWA MAFANIKIO !"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="KUREKODI PICHA KWENYE DVD . . ."
+copia_bin_dvd_MSG2="inaendesha"
+copia_bin_dvd_MSG3=" KUFUTA FAILI LA PICHA"
+copia_bin_dvd_MSG4="KUREKODI IMEMEKAMILIKA!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Fomati a"
+formatear_dvd_MSG2="Lazimisha umbizo jipya la"
+formatear_dvd_MSG3="Hamisha kizuizi cha mbele cha a"
+formatear_dvd_MSG4="Umbiza DVD-RW kwa mfuatano wa nyongeza"
+formatear_dvd_MSG5="Umbiza DVD-RW kwa uandishi uliozuiliwa"
+formatear_dvd_MSG6="Jaza DVD na sufuri"
+formatear_dvd_MSG7="Onyesha taarifa za DVD"
+formatear_dvd_MSG8="Menyu iliyotangulia"
+formatear_dvd_MSG9="Chaguo hili linatumika kufomati DVD kwa mara ya kwanza."
+formatear_dvd_MSG10="Ikiwa DVD tayari imeumbizwa, haitafuta data."
+formatear_dvd_MSG11="Hizi zitafutwa katika rekodi mpya."
+formatear_dvd_MSG12="Ili kufuta maudhui ya DVD tumia:"
+formatear_dvd_MSG13="Jaza DVD na sufuri"
+formatear_dvd_MSG14="Chaguo hili linafuta umbizo na data kutoka kwa DVD iliyotibiwa."
+formatear_dvd_MSG15="inaendesha"
+formatear_dvd_MSG16="DVD+RW/DVD-RW IMEFANIKIWA UMUNDO !"
+formatear_dvd_MSG17="KOSA WAKATI WA KUFUNGA DVD"
+formatear_dvd_MSG18="Kulazimisha umbizo kwenye diski ya DVD+RW..."
+formatear_dvd_MSG19="DVD+RW IMEFANIKIWA KUUMBWA!"
+formatear_dvd_MSG20="KOSA WAKATI WA KUUmbiza DVD+RW"
+formatear_dvd_MSG21="Chaguo hili haliathiri data iliyohifadhiwa kwenye DVD+RW"
+formatear_dvd_MSG22="Inaondoa kizuizi cha kuongoza kutoka kwa DVD+RW..."
+formatear_dvd_MSG23="Kuumbiza diski ya DVD-RW kwa uandishi mfuatano..."
+formatear_dvd_MSG24="DVD-RW IMEFANIKIWA KUUMBWA!"
+formatear_dvd_MSG25="KOSA WAKATI WA KUUmbiza DVD-RW"
+formatear_dvd_MSG26="Kuumbiza diski ya DVD-RW kwa uandishi wenye vikwazo..."
+formatear_dvd_MSG27="FUTA DVD INAYOANDIKA UPYA"
+
+# null_dvd
+
+null_dvd_MSG1="Kuandika kwa diski kutoka /dev/zero . . ."
+null_dvd_MSG2="inaendesha"
+null_dvd_MSG3="MCHAKATO UMEMILIKA"
+null_dvd_MSG4="KOSA LISILOTARAJIWA"
+
+# dvd_video
+
+dvd_video_MSG1="Njia ambapo saraka za VIDEO_TS na AUDIO_TS zinapatikana:"
+dvd_video_MSG2="Bainisha njia ambapo saraka za VIDEO_TS na AUDIO_TS zinapatikana:"
+dvd_video_MSG3="inaendesha"
+dvd_video_MSG4="--- IMEFANIKIWA KUREKODIWA DVD-VIDEO ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="inaendesha"
+dvd_copia_bin_MSG2="	KUFUTA FAILI LA PICHA"
+dvd_copia_bin_MSG3="KOSA LA KUREKODI IMETOKEA"
+
+# dvd_datos
+
+dvd_datos_MSG1="Faili na saraka za kuunda picha ya .iso"
+dvd_datos_MSG2="DVD LABEL"
+dvd_datos_MSG3="Ingiza jina la DVD ya baadaye:"
+dvd_datos_MSG4="Kuzindua kidhibiti faili:"
+dvd_datos_MSG5=" KUUNDA PICHA . . ."
+dvd_datos_MSG6="inaendesha"
+dvd_datos_MSG7="ISO-9660 PICHA IMEUNGWA NDANI"
+dvd_datos_MSG8="KUREKODI DVD"
+dvd_datos_MSG13="FUTA PICHA..."
+
+# dvd_borra
+
+dvd_borra_MSG1="inaendesha"
+dvd_borra_MSG2="OPTICAL DISK IMEFANIKIWA KUUMBWA"
+dvd_borra_MSG3="KOSA WAKATI WA KUFUNGA DISC YA MAONI"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="inaendesha"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="Inaendesha"
+formatearCDDVDBD_MSG2="OPTICAL DISK IMEFANIKIWA KUUMBWA"
+formatearCDDVDBD_MSG3="KOSA WAKATI WA KUUmbiza DISK YA MAONI"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW Imeundwa kwa mafanikio!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Hitilafu katika kuumbiza DVD-RW kwa uandishi uliowekewa vikwazo"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW Imeundwa Kwa Mafanikio!!"
+formatearDVDRW_incremental_secuencial_MSG2="Hitilafu wakati wa kuumbiza DVD-RW kwa nyongeza ya mfuatano"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Bainisha njia ya picha ya iso-9660 ili kuchoma:"
+cdrskinisocddvd_MSG2="PICHA YA ISO IMEREKODIWA KWA MAFANIKIO!!"
+cdrskinisocddvd_MSG3="KOSA WAKATI WA KUREKODI PICHA"
+

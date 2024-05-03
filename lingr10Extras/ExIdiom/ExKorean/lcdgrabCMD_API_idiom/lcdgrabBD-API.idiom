@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKorean/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Coreano para el API de grabación en BD.
+# Traducción experimental, generado con Google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 이미지가 블루레이에 올바르게 기록되었습니다."
+grabar_ISO_BD_MSG2="BLU-RAY 디스크에 이미지를 녹화할 때 오류가 발생했습니다."
+grabar_ISO_BD_MSG3="BD의 ISO-9660 이미지"
+grabar_ISO_BD_MSG4="구울 ISO-9660 이미지의 경로를 지정하십시오:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1=".iso 이미지를 생성하기 위한 파일 및 디렉터리"
+bd_datos_MSG2="DB 라벨"
+bd_datos_MSG3="향후 BD의 이름을 입력하세요:"
+bd_datos_MSG4="파일 관리자 실행 중:"
+bd_datos_MSG5="이미지 생성 중..."
+bd_datos_MSG6="실행 중"
+bd_datos_MSG7="ISO-9660 이미지 생성 위치"
+bd_datos_MSG8="BD 녹음 중"
+bd_datos_MSG13="이미지 삭제..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="디스크 상태에 따라 필요한 포맷이나 삭제가 적용됩니다."
+borrar_BDRE_lb_MSG2="BD-RE 가 성공적으로 삭제되었습니다!!"
+borrar_BDRE_lb_MSG3="BD-RE 삭제 시 오류가 발생했습니다."
+

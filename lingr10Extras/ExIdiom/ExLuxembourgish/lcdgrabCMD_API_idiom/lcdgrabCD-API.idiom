@@ -1,0 +1,183 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLuxembourgish/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Luxemburgués para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="laafen"
+copia_bin_MSG2="-------------OPSCHREIWEN WEIDER PROCESSEN--------"
+copia_bin_MSG3="	BILDFICHE LËSCHEN"
+copia_bin_MSG4="ENG FEELER ASS OPSCHT ASS BEI OPSCHREIWEN"
+copia_bin_MSG5="Den Disk Image Dump .iso-Datei kann net fonnt ginn. Opnam ofbriechen..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="laafen"
+datos_al_vuelo_MSG2="Feeler beim Opnamversuch, nei probéiert ouni Ënnerstëtzung fir Iwwerbrennung"
+datos_al_vuelo_MSG3="Kontrolléieren datt d'Quelldisk oder Apparat"
+datos_al_vuelo_MSG4="ass an engem gudden Zoustand"
+datos_al_vuelo_MSG5="Erhalen Leadout Blocknummer vun der Quelldiskette"
+datos_al_vuelo_MSG6="DISK KOPIEREN..."
+
+# clonar_cd
+
+clonar_cd_MSG1="laafen"
+clonar_cd_MSG2="CD gelongen klonéiert"
+clonar_cd_MSG3="E Feeler ass geschitt wann Dir d'CD klonéiert"
+
+# datos
+
+datos_MSG1="Dateien an Verzeichnisser fir den .iso Bild ze kreéieren"
+datos_MSG2="CD/DVD/BD LABEL"
+datos_MSG3="Gitt en Numm fir déi zukünfteg CD/DVD/BD un:"
+datos_MSG4="Fichiermanager starten:"
+datos_MSG5=" BILD CREATING . . ."
+datos_MSG6="laafen"
+datos_MSG7="ISO-9660 BILD ERSCHAFFT"
+datos_MSG8="CD/DVD/BD brennen"
+datos_MSG9="DE BILDFICHE CREATIVE PROCESS HAS FAILED"
+datos_MSG10="Verspriechen ENG NEIEN OUNI SUPPORT FIR HFS (Macintosh) ze kreéieren"
+datos_MSG11="BILD LËSCHT . . ."
+datos_MSG12="NEIE BILD ERSCHAFEN . . ."
+datos_MSG13="ET ASS NET MÉIGLECH KORREKT OPSCHREIWEN"
+datos_MSG14="------------OPSCHREIWEN WEIDER PROCESSEN-----"
+datos_MSG15="BILD LËSCHEN..."
+datos_MSG16="ISO-9660 DATA CD/DVD/BD VERbrennen..."
+datos_MSG17="Net fonnt."
+datos_MSG18="Disk Opnam ofbriechen..."
+
+# datoslb
+
+datoslb_MSG1="Feeler: D'Bilddatei ka net fonnt ginn. Ofbriechen..."
+datoslb_MSG2="OPSCHREIWUNG OK"
+datoslb_MSG3="Feeler am Aufnahmeprozess"
+
+# borra
+
+borra_MSG0="Menü virdru"
+borra_MSG1="Wielt de Modus fir d'CD-RW ze läschen"
+borra_MSG2="-------------------------------------"
+borra_MSG3="Schnell läschen (benotzt cdrecord)"
+borra_MSG4="Läschen ofgeschloss (benotzt cdrecord)"
+borra_MSG5="Läschen erfuerderlech (benotzt cdrskin)"
+borra_MSG6="laafen"
+borra_MSG7="Déi néideg Formatéierung oder Läschen gëtt jee no dem Disk Status ugewannt"
+borra_MSG8="CD-RW geläscht geläscht!!"
+borra_MSG9="Feeler beim Leschen CD-RW"
+borra_MSG10="ZWUNZEN LËSCHEN CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="Feeler WANN Dir probéiert d'CD-RW ze läschen"
+err_borra_cdrw_MSG2="CD-RW UNNUSEABLE"
+err_borra_cdrw_MSG3="ET ASS NET MÉIG DËS CD-RW LÄSCHEN"
+err_borra_cdrw_MSG4="Kontrolléiert d'CD-RW FIR physesch Schued"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="laafen"
+cerrar_cd_MSG2="D'CD ass richteg zougemaach"
+cerrar_cd_MSG3="Feeler WANN D'CD zoumaachen"
+cerrar_cd_MSG4="SCHOER DER TRACK OP DATA CD . . ."
+
+# grabimg
+
+grabimg_MSG1=".iso oder .ext2 Bild fir op CD/DVD ze brennen"
+grabimg_MSG2="Fichiermanager starten."
+grabimg_MSG3="Gitt de ganze Wee an wou d'CD/DVD-Bild läit, déi Dir brenne wëllt:"
+grabimg_MSG4="laafen"
+grabimg_MSG5="-----------OPSCHREIWEN WEIDER PROCÉIERT----------"
+grabimg_MSG6="OPSCHREIWEN FËLLT!!"
+grabimg_MSG7="IMAGE .EXT2 SUCCESSFULL OPSCHREIWEN"
+
+# grabimglb
+
+grabimglb_MSG1="Schreift de ganze Wee an wou d'CD/DVD-Bild läit, déi Dir brenne wëllt:"
+grabimglb_MSG2="Bild op Disk brennen..."
+grabimglb_MSG3="ISO-9660 BILD SUCCESSFULL OPSCHREIWEN"
+grabimglb_MSG4="Feeler beim OPSCHREIWEN vum ISO-9660 BILD"
+grabimglb_MSG5="Feeler: Bilddatei net fonnt. Ofbriechen..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin an .cue Dateien fir d'Bild opzehuelen"
+grabimg_cue_MSG2="Fir d'Behälter/Que-Bild opzehuelen, musse béid Dateien"
+grabimg_cue_MSG3="am aktive Verzeechnes sinn."
+grabimg_cue_MSG4="Aktuellen aktive Verzeichnis"
+grabimg_cue_MSG5="Gitt den Numm vun der *.cue Datei un déi d'*.bin Bilddatei referéiert"
+grabimg_cue_MSG6=".cue Datei: "
+grabimg_cue_MSG7="laafen"
+grabimg_cue_MSG8="OPSCHREIWEN FËLLT!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Verbrenne Multisession CD vun engem .iso Bild"
+cd_multi_MSG2="Verbrennt eng éischt Sessioun op d'CD vun engem .iso Bild"
+cd_multi_MSG3="Verbrenne Multisession CD vun Dateien op Disk"
+cd_multi_MSG4="Opgeholl successive Sessiounen op der CD vun Dateien op der Festplack"
+cd_multi_MSG5="Dës Optioun erfuerdert eng Multi-Sessioun CD, mat enger virdru opgeholler Sessioun."
+cd_multi_MSG6="Menü virdru"
+cd_multi_MSG7=".iso Bild fir op CD-Multi-Session ze brennen"
+cd_multi_MSG8="Spezifizéiert de Wee vum .iso Bild"
+cd_multi_MSG9="laafen"
+cd_multi_MSG10="MULTI-SESSION CD SUCCESSFULL OPSCHREIWEN!!"
+cd_multi_MSG11="Verzeichnungen fir an d'Bild opzehuelen."
+cd_multi_MSG12="Spezifizéiert ënnen wéi eng Verzeichnisser mat abegraff"
+cd_multi_MSG13="Gitt en Numm fir den CD Label an:"
+cd_multi_MSG14="Bild erstellen..."
+cd_multi_MSG15="SUCCESSFULL GEMAACHT"
+cd_multi_MSG16="FEILER WANN D'BILD ERSTAAT. DEN OPSCHREIWENPROCESS ABODEN..."
+cd_multi_MSG17="CD-BILDER BRENNEN..."
+cd_multi_MSG18="CD MULTI-SESSION MENU"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="AUDIO CD RIPPEN..."
+copia_cd_audio_MSG2="Lafen"
+copia_cd_audio_MSG3="AUDIO TRACKS SUCCÉSÉI GÉIEREN!!"
+copia_cd_audio_MSG4="Feeler WANN AUDIO TRACKS RIPING"
+copia_cd_audio_MSG5="AUDIO CD VERbrennen..."
+copia_cd_audio_MSG6="AUDIO CD ERLUCHT KOPIEERT!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav Dateien fir op CD ze brennen"
+wav_a_cd_MSG2="Linux-cdgrab wäert d'Verzeechnesgréisst net kontrolléieren"
+wav_a_cd_MSG3="Vergewëssert Iech datt et am Fall net méi wéi 650 Mbytes ass"
+wav_a_cd_MSG4="wann Dir eng 80 Minutte CD benotzt."
+wav_a_cd_MSG5="Gitt den Verzeichniswee vun den .wav Dateien an"
+wav_a_cd_MSG6="laafen"
+wav_a_cd_MSG7="PROCESS FËLLT!"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Mixto Kreatiounsprojet (Datebild .iso + Audiodateien .wav)"
+cdmixto_MSG2="Linux-cdgrab wäert d'Verzeechnesgréisst net kontrolléieren"
+cdmixto_MSG3="wou sinn d'Audiodateien."
+cdmixto_MSG4="Ech wäert dat och net aus dem .iso Bild maachen, deen Dir wäert ophuelen"
+cdmixto_MSG5="no."
+cdmixto_MSG6="Sief konsequent mat der Gréisst déi Dir hutt"
+cdmixto_MSG7="op Är nei CD brennen."
+cdmixto_MSG8="De Wee vun den Audiodateien spezifizéieren:"
+cdmixto_MSG9="Spezifizéiert den ISO Bildwee:"
+cdmixto_MSG10="##################################"
+cdmixto_MSG11="OPSCHREIWEN MIXED CD: DATA + AUDIO"
+cdmixto_MSG12="lafen"
+cdmixto_MSG13="----SUCCESS SCHAFFT MIXED CD-----"
+cdmixto_MSG14="------ERROR WANN BRENN MIXED CD--------"
+
+# discoinfo
+
+discoinfo_MSG1="lafen"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI Port gescannt"
+cdrecord_scan_MSG1="Feeler beim Scannen vum IDE/SCSI Hafen"
+cdrecord_scan_MSG2="cdrecord net fonnt"

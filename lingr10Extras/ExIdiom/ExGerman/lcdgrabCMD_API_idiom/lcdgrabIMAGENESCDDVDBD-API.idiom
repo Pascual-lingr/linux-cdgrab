@@ -1,0 +1,239 @@
+#########################################################
+# lcgdrabAPI_idiom/ExGerman/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en Alemán para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con google translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="BILDDATEISYSTEM"
+imagen_linux_fs_MSG2="Wählen Sie das Dateisystem aus: "
+imagen_linux_fs_MSG3="Image für eine CD-R/RW erstellen (702 MB)"
+imagen_linux_fs_MSG4="Image für eine DVD+RW erstellen (4 GByte)"
+imagen_linux_fs_MSG5="Image für eine DVD+RW/DL (8 GByte) erstellen"
+imagen_linux_fs_MSG5B="Image für eine BD-RE erstellen (25 GByte)"
+imagen_linux_fs_MSG5C="Bilddatei mit benutzerdefinierter Größe erstellen"
+imagen_linux_fs_MSG6="Erstelle eine leere Datei mit einer Kapazität von 702 MB"
+imagen_linux_fs_MSG7="Erstelle eine leere Datei mit einer Kapazität von 4 GB"
+imagen_linux_fs_MSG8="Erstelle eine leere Datei mit einer Kapazität von 8 GB"
+imagen_linux_fs_MSG8B="Erstellen einer leeren Datei mit einer Kapazität von 25 GB"
+imagen_linux_fs_MSG8C="Leere Datei mit benutzerdefinierter Größe erstellen"
+imagen_linux_fs_MSG9="FEHLER: BILDGRÖSSE UNBEKANNT. ABBRUCH..."
+imagen_linux_fs_MSG10="Läuft"
+imagen_linux_fs_MSG11="Das Programm formatiert die leere Datei."
+imagen_linux_fs_MSG12="Das System warnt Sie, dass die zuvor erstellte Datei kein Blockgerät ist und fragt Sie, ob Sie sie formatieren möchten"
+imagen_linux_fs_MSG13="Bejahend antworten"
+imagen_linux_fs_MSG13="ERFOLGREICH FORMATIEREN"
+imagen_linux_fs_MSG14=" Image mounten . . ."
+imagen_linux_fs_MSG15="FEHLER BEIM FORMATIEREN DER LEEREN DATEI"
+imagen_linux_fs_MSG16="Das Programm hat die Datei im Format gemountet"
+imagen_linux_fs_MSG17="Linux-cdgrab startet den Dateimanager, damit Sie das gemountete Image bearbeiten können"
+imagen_linux_fs_MSG18="Nachdem die Dateien kopiert wurden, heben Sie die Bereitstellung der formatierten Datei auf"
+imagen_linux_fs_MSG19="Das Linux-Image befindet sich in diesem Verzeichnis"
+imagen_linux_fs_MSG19B="FEHLER BEIM MOUNTEN DER IMAGE-DATEI"
+imagen_linux_fs_MSG20="Dateien, die in das Bild aufgenommen werden sollen. Gemountet in /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Dateimanager starten..."
+imagen_linux_fs_MSG22="HINWEIS:"
+imagen_linux_fs_MSG23="------"
+imagen_linux_fs_MSG24="Das Bild"
+imagen_linux_fs_MSG25="noch gemountet"
+imagen_linux_fs_MSG26="FEHLER BEIM ERSTELLEN EINER LEEREN DATEI MIT dd"
+imagen_linux_fs_MSG27="Überprüfen Sie, ob auf der auf / gemounteten Partition freier Speicherplatz vorhanden ist"
+imagen_linux_fs_MSG34="DATEISYSTEM ZUM FORMATIEREN DER DATEI"
+imagen_linux_fs_MSG35="ERZEUGUNG EINER LEEREN DATEI MIT BENUTZERDEFINIERTER GRÖSSE"
+imagen_linux_fs_MSG36="Geben Sie die Blockgröße der neuen leeren Datei an (nur ein numerischer Wert):"
+imagen_linux_fs_MSG37="Ein Beispiel für Werte für die Blockgröße sind: 1024, 2048 (nur Ext2) oder 4096 (Alle Formate)"
+imagen_linux_fs_MSG38="Geben Sie die Größe der leeren Datei an, die generiert werden soll (nur ein numerischer Wert):"
+imagen_linux_fs_MSG39="Speicherplatzmessungen zum Generieren der leeren Datei:"
+imagen_linux_fs_MSG40="Geben Sie die zu verwendende Raummessung an: "
+imagen_linux_fs_MSG41="FEHLER BEI DER ANGABE DER GRÖSSENMESSUNG"
+imagen_linux_fs_MSG42="Blockgrößenwert:"
+imagen_linux_fs_MSG43="Speicherplatz für leere Datei:"
+imagen_linux_fs_MSG44="Berechneter Wert in Bytes:"
+imagen_linux_fs_MSG45="Berechneter Wert für count:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="MD5-Lesen beim Generieren von ISO-Bildern aktivieren"
+comprobar_lectura_md5_MSG2="MD5-Lesen beim Generieren von ISO-Bildern deaktivieren"
+comprobar_lectura_md5_MSG3="Vorheriges Menü"
+comprobar_lectura_md5_MSG4="Aktuelle Konfiguration:"
+comprobar_lectura_md5_MSG5="Aktiviert"
+comprobar_lectura_md5_MSG6="Deaktiviert"
+comprobar_lectura_md5_MSG7="Summe lesen md5 aktiviert"
+comprobar_lectura_md5_MSG8="Lesesumme md5 deaktiviert"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="ISO-Image-Name konnte nicht gelesen werden"
+leer_md5sum_MSG2="MD5-Summe lesen von"
+leer_md5sum_MSG3="Anzeige der MD5-Summe des Bildes"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="CREANDO IMAGEN DEL CD"
+extraer_isoCD_dd_MSG2="IMAGEN CREADA EN"
+extraer_isoCD_dd_MSG3="No se encuentra"
+
+extraer_isoCD_dd_MSG1="CD-Image ERSTELLEN"
+extraer_isoCD_dd_MSG2="BILD ERSTELLT IN"
+extraer_isoCD_dd_MSG3="Nicht gefunden"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="DVD-BILD ERSTELLEN"
+extraer_isoDVD_dd_MSG2="läuft"
+extraer_isoDVD_dd_MSG3="BILD ERSTELLT IN"
+extraer_isoDVD_dd_MSG4="Nicht gefunden"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="läuft"
+extraer_iso_readcd_MSG2="BILD ERFOLGREICH ERSTELLT"
+extraer_iso_readcd_MSG3="Bild erstellt in"
+extraer_iso_readcd_MSG4="Der Brennvorgang wird abgebrochen..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Gemountete CD"
+extraer_iso_mkisofs_MSG2="Image wird erstellt ... "
+extraer_iso_mkisofs_MSG3="Macintosh-Kompatibilität aktiviert"
+extraer_iso_mkisofs_MSG4="Verwendet"
+extraer_iso_mkisofs_MSG5="läuft"
+extraer_iso_mkisofs_MSG6="Bild im Verzeichnis erstellt"
+extraer_iso_mkisofs_MSG7="Vorgang ohne Macintosh-Unterstützung wiederholen"
+extraer_iso_mkisofs_MSG8="Bild im Verzeichnis erstellt"
+extraer_iso_mkisofs_MSG9="mkisofs gibt beim Erstellen unbekannte Fehler zurück"
+extraer_iso_mkisofs_MSG10="von"
+extraer_iso_mkisofs_MSG11="Datenintegrität prüfen von"
+extraer_iso_mkisofs_MSG12="Montage"
+extraer_iso_mkisofs_MSG12B="in"
+extraer_iso_mkisofs_MSG13="genisoimage gibt beim Erstellen unbekannte Fehler zurück"
+extraer_iso_mkisofs_MSG13B="von"
+extraer_iso_mkisofs_MSG14="Kann mkisofs oder genisoimage nicht finden. Bitte installieren Sie cdrtools oder cdrkit."
+extraer_iso_mkisofs_MSG15="Mounten fehlgeschlagen"
+extraer_iso_mkisofs_MSG16="Image erfolgreich erstellt in"
+
+# m_comp_img
+
+m_comp_img_MSG1="BILD ERFOLGREICH GENERIERT IN"
+m_comp_img_MSG2="MÖCHTEN SIE DIE BILDDATEI KOMPRIMIEREN?"
+m_comp_img_MSG3="(s/y) zum Komprimieren; Prozess wird mit einer anderen Option abgebrochen."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Dateimanager starten..."
+generar_iso_directorio_MSG2="Geben Sie einen Namen für die zukünftige CD/DVD/BD ein"
+generar_iso_directorio_MSG3="BILD ERSTELLT..."
+generar_iso_directorio_MSG4="Macintosh-Kompatibilität aktiviert"
+generar_iso_directorio_MSG5="Verwendet"
+generar_iso_directorio_MSG6="läuft"
+generar_iso_directorio_MSG7="BILD IM VERZEICHNIS ERSTELLT"
+generar_iso_directorio_MSG8="DER BILDERSTELLUNGSPROZESS IST FEHLGESCHLAGEN"
+generar_iso_directorio_MSG9="BILD OHNE MACINTOSH-KOMPATIBILITÄT ERSTELLEN"
+generar_iso_directorio_MSG10="Kann mkisofs oder genisoimage nicht finden. Bitte installieren Sie cdrtools oder cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Geben Sie einen Namen für die zukünftige DVD/BD ein"
+generar_bdv_udf_directorio_MSG2="Geben Sie das Verzeichnis zum Generieren des Videobilds an:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Geben Sie die Datenträgerbezeichnung an:"
+generar_iso_directorio_libburnia_MSG2="Geben Sie das Verzeichnis an, um das ISO-9660-Image zu generieren:"
+generar_iso_directorio_libburnia_MSG3="Iso9660-Image erfolgreich erstellt!!"
+generar_iso_directorio_libburnia_MSG4="Fehler beim Generieren des ISO-9660-Images mit xorriso"
+
+
+# imagenISO
+
+imagenISO_MSG1="Dateien und Verzeichnisse, die in das ISO-Image aufgenommen werden sollen"
+imagenISO_MSG2="WÄHLEN SIE EINE OPTION AUS"
+imagenISO_MSG2B="--------------------------"
+imagenISO_MSG3="ISO-9660-Image von CD generieren (dd verwenden)"
+imagenISO_MSG4="ISO-9660-Image von DVD generieren (dd verwenden)"
+imagenISO_MSG5="ISO-9660-Image von CD generieren (readcd verwenden)"
+imagenISO_MSG6="ISO-9660-Image von CD oder DVD generieren (verwendet mkisofs)"
+imagenISO_MSG7="ISO-9660-Image aus Festplattendaten erstellen (verwendet mkisofs)"
+imagenISO_MSG8="Vorheriges Menü"
+imagenISO_MSG9="BILD ERSTELLEN"
+imagenISO_MSG10="ISO-9660-Image aus Festplattendaten erstellen (verwendet xorriso)"
+imagenISO_MSG11="ISO/UDF-Image von CD/DVD/BD erstellen (verwendet mkisofs)"
+imagenISO_MSG12="ISO/UDF-Image aus Festplattendaten erstellen (verwendet mkisofs)"
+imagenISO_MSG13="ISO-9660-FORMATTERMENÜ"
+imagenISO_MSG13B="=================================================="
+imagenISO_MSG14="UDF/ISO-Image aus Festplattendaten erstellen (verwendet mkisofs)"
+imagenISO_MSG15="Erstellen Sie ein UDF/ISO-Image mit DVD Video Unterstützung (verwendet mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Geben Sie das Quellblockgerät ein, von dem das Image erstellt werden soll"
+imagen_img_MSG2="-------------------------------------------------------------------------"
+imagen_img_MSG3="Geräte registriert in /etc/fstab und /etc/mtab"
+imagen_img_MSG4="Ausgabe des Mount-Befehls:"
+imagen_img_MSG5="Geben Sie den Gerätenamen ein: "
+imagen_img_MSG6="Blockgerät-.img-Image wird erstellt"
+imagen_img_MSG7="läuft"
+imagen_img_MSG8="GERÄTEBILD ERSTELLT AUF"
+
+# monta_img
+
+monta_img_MSG1="Iso- oder ext2-Image zum Mounten."
+monta_img_MSG2="Geben Sie den Verzeichnispfad ein, in dem sich das bereitzustellende Image befindet:"
+monta_img_MSG3="MONTIERTES CD-BILD:"
+monta_img_MSG4="FEHLER BEIM MOUNTEN DER BILDDATEI"
+monta_img_MSG5="NICHT GEFUNDEN"
+monta_img_MSG6="MOUNT-PUNKT EXISTIERT NICHT"
+monta_img_MSG7="UNERWARTETER FEHLER"
+
+# desmonta_img
+
+desmonta_img_MSG1="Iso- oder ext2-Image zum Aufheben der Bereitstellung."
+desmonta_img_MSG2="VERRINGERTES BILD"
+desmonta_img_MSG3="Kein gemountetes Bild gefunden auf"
+desmonta_img_MSG4="Ausgabe des Mount:"
+desmonta_img_MSG5="Sie können den absoluten Verzeichnispfad eines Bildes direkt angeben."
+desmonta_img_MSG6="Zum Beispiel /tmp/lcdgrabimg.iso oder das Mount-Verzeichnis für das Image, zum Beispiel /mnt/lcdgrab"
+desmonta_img_MSG7="Wenn es nicht angegeben ist, kann es über den Dateimanager durchsucht werden"
+desmonta_img_MSG8="Dateimanager starten"
+desmonta_img_MSG9="Geben Sie den Pfad des Bildes an."
+desmonta_img_MSG10="VERRINGERTES BILD"
+desmonta_img_MSG11="FEHLER BEIM UNMONTIEREN DES BILDES"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg-Bild zum Konvertieren in .iso"
+nrg_a_iso_MSG2="Geben Sie den Pfad des zu konvertierenden .nrg-Images (Nero Burning ROM) ein"
+nrg_a_iso_MSG3="Bild wird konvertiert..."
+nrg_a_iso_MSG4="Der Pfad des Quell-.nrg-Bildes"
+nrg_a_iso_MSG5="existiert nicht oder entspricht einem Verzeichnis"
+nrg_a_iso_MSG6="Ungültiger Pfad."
+nrg_a_iso_MSG7="Es handelt sich bereits um ein früheres ISO-9660-Image, es wird nicht konvertiert."
+nrg_a_iso_MSG8="Kopieren mit anderer Erweiterung..."
+nrg_a_iso_MSG9="KOPIEREN ABGESCHLOSSEN"
+nrg_a_iso_MSG10="läuft"
+nrg_a_iso_MSG11="Bild erfolgreich konvertiert"
+nrg_a_iso_MSG12="FEHLER BEIM ERSTELLEN EINES ISO-BILDES"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Generiere eine .cue-Beschreibungsdatei aus einem .bin-Bild"
+GenerarArchivocue_MSG2="Aktuelles aktives Verzeichnis"
+GenerarArchivocue_MSG3="Geben Sie nur den Verzeichnispfad ein, in dem"
+GenerarArchivocue_MSG4="Bilddatei finden:"
+GenerarArchivocue_MSG5="Geben Sie den Namen des .bin-Images ein, zu dem es geht"
+GenerarArchivocue_MSG6="hat die entsprechende .cue-Datei generiert"
+GenerarArchivocue_MSG7="BESCHREIBUNGSDATEI .cue ERFOLGREICH GENERIERT"
+GenerarArchivocue_MSG8="FEHLER BEIM ERSTELLEN DER BESCHREIBUNGSDATEI .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="läuft"
+ImagenbincueCDDVD_MSG2="DISC-IMAGE .BIN .CUE ERFOLGREICH GENERIERT"
+

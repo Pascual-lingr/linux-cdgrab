@@ -1,0 +1,122 @@
+#########################################################
+# lcgdrabAPI_idiom/ExThai/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Tailandés para la coleccion de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Traducción experimental generado con Chat GPT
+# y Google Translate.
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="กำลังลองกระบวนการบันทึกอีกครั้ง..."
+m_cdrecord_sin_overburn_MSG2="กำลังเรียกใช้คำสั่ง cdrecord โดยไม่ระบุตัวเลือก -overburn"
+m_cdrecord_sin_overburn_MSG3="ตัวเลือก -overburn ไม่สามารถใช้งานได้กับอุปกรณ์เขียนแผ่นที่เป็นเวอร์ชันเก่าและเครื่องบันทึกที่เก่าของ cdrecord"
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="ตัวเลือกไม่ถูกต้อง"
+
+# img_error
+
+img_error_D_MSG1="คำผิดพลาดในการสร้างภาพ"
+
+# CD_error
+
+# Traducción con Google Translate - INI
+CD_error_D_MSG1="ข้อผิดพลาดเมื่อเบิร์นซีดี"
+
+# DVD_error
+
+DVD_error_D_MSG1="ข้อผิดพลาดเมื่อเขียนดีวีดี"
+
+# DO_error
+
+DO_error_D_MSG1="เกิดข้อผิดพลาดเมื่อบันทึกแผ่นดิสก์ออปติคอล"
+# Traducción con Google Translate - INI
+
+# tecla
+
+tecla_D_MSG1="\nกดปุ่ม ENTER เพื่อดำเนินการต่อไป..."
+
+# rutas_dir
+
+# Traducción con Google Translate - INI
+rutas_dir_D_MSG1="เส้นทางไดเร็กทอรีเพื่อเบิร์นลงดิสก์"
+# Traducción con Google Translate - FIN
+rutas_dir_D_MSG2="พิมพ์ชื่อไดเรกทอรี (กด f เพื่อออก):"
+# Traducción con Google Translate - INI
+rutas_dir_D_MSG3="ไดเรกทอรี"
+rutas_dir_D_MSG4="ไม่ถูกต้อง"
+# Traducción con Google Translate - FIN
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="อุปกรณ์ออปติกเดียวกันในระบบ"
+una_sola_grabadora_D_MSG2="เครื่องอ่านและเขียนเหมือนกัน คาดว่าระบบของคุณมีเพียงหนึ่งหน่วยกลางที่เป็นหน่วยกลางที่แท้จริง นำแผ่นดิสก์ต้นฉบับออกจากหน่วยกลาง และใส่แผ่นดิสก์ออปติกที่ยังไม่มีข้อมูลเพื่อดำเนินกระบวนการเขียนต่อไป"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="การบันทึกแผ่นดิสก์เสร็จสมบูรณ์แล้ว"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="ตัวเลือกไม่ถูกต้อง"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="การบันทึกแผ่นดิสก์เสร็จสมบูรณ์แล้ว"
+
+# text_img_error
+
+text_img_error_MSG1="คำผิดพลาดในการสร้างภาพ"
+
+# text_CD_error
+
+# Traducción con Google Translate - INI
+text_CD_error_MSG1="ข้อผิดพลาดเมื่อเบิร์นซีดี"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="ข้อผิดพลาดเมื่อเขียนดีวีดี"
+
+# text_DO_error
+
+text_DO_error_MSG1="เกิดข้อผิดพลาดเมื่อบันทึกแผ่นดิสก์ออปติคอล"
+# Traducción con Google Translate - FIN
+
+# teclash
+
+teclash_MSG1="กดปุ่ม ENTER เพื่อดำเนินการต่อไป..."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="พิมพ์ชื่อไดเรกทอรี (กด f เพื่อออก):"
+# Traducción con Google Translate - INI
+text_rutas_dir_MSG2="ไดเรกทอรี"
+text_rutas_dir_MSG3=" ไม่ถูกต้อง"
+# Traducción con Google Translate - FIN
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="อุปกรณ์ออปติกเดียวกันในระบบ"
+
+# Traducción con Google Translate - INI
+text_una_sola_grabadora_MSG2="หน่วยการอ่านและการบันทึกเหมือนกัน"
+text_una_sola_grabadora_MSG3="สันนิษฐานว่าระบบของคุณมีเพียงระบบเดียว"
+text_una_sola_grabadora_MSG4="หน่วยกายภาพ"
+text_una_sola_grabadora_MSG5="ลบซอร์สดิสก์ออกจากยูนิต"
+text_una_sola_grabadora_MSG6="ใส่แผ่นดิสก์ออพติคอล VIRGIN"
+text_una_sola_grabadora_MSG7="เพื่อดำเนินการบันทึกต่อไป"
+# Traducción con Google Translate - FIN
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="กำลังดำเนินการ"

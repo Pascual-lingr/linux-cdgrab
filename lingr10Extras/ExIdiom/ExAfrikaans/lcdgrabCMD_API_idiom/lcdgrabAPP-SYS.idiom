@@ -1,0 +1,110 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAfrikaans/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Afrikáans para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="Probeer tans die opnameproses..."
+m_cdrecord_sin_overburn_MSG2="Lop cdrecord sonder die -overburn-opsie"
+m_cdrecord_sin_overburn_MSG3="-overburn word nie op ouer opnametoestelle ondersteun nie, ook nie op ouer weergawes van cdrecord nie."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="ONGELDIGE OPSIE"
+
+# img_error
+
+img_error_D_MSG1="FOUT BY DIE SKEP VAN DIE BEELD"
+
+# CD_error
+
+CD_error_D_MSG1="FOUT BY DIE BRAND VAN DIE CD"
+
+# DVD_error
+
+DVD_error_D_MSG1="FOUT BY DIE BRAND VAN DIE DVD"
+
+# DO_error
+
+DO_error_D_MSG1="FOUT BY DIE SKRYF VAN OPTIESE SKYF"
+
+# tecla
+
+tecla_D_MSG1="\nDruk ENTER om voort te gaan. . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="PADIE VAN GIDS OM NA SKYF TE BRAND"
+rutas_dir_D_MSG2="Voer gidsnaam in (f om uit te gaan):"
+rutas_dir_D_MSG3="DIRECTORY"
+rutas_dir_D_MSG4="ONGELDIG"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="DIESELFDE OPTIESE EENHEID IN DIE STELSEL"
+# Se omite 'N por evitar errores de funcionamiento
+una_sola_grabadora_D_MSG2="DIE LEES- EN OPNEEM-EENHEID IS DIESELFDE. DAAR WORD AANVAAR DAT JOU STELSEL SLEGS EEN FISIESE EENHEID HET. VERWYDER DIE BRONSKYF UIT DIE EENHEID. VOEG N MAAGDE OPTIESE SKYF IN OM DIE OPNAMEPROSES VOORT TE GAAN"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="DIE OPNAME VAN DIE SKYF HET SUKSESVOL VOLTOOI"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="ONGELDIGE OPSIE"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="DIE OPNAME VAN DIE SKYF HET SUKSESVOL VOLTOOI"
+
+# text_img_error
+
+text_img_error_MSG1="FOUT BY DIE SKEP VAN DIE BEELD"
+
+# text_CD_error
+
+text_CD_error_MSG1="FOUT BY DIE BRAND VAN DIE CD"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="FOUT BY DIE BRAND VAN DIE DVD"
+
+# text_DO_error
+
+text_DO_error_MSG1="FOUT BY DIE SKRYF VAN OPTIESE SKYF"
+
+# teclash
+
+teclash_MSG1="Druk ENTER om voort te gaan. . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Voer die gidsnaam in ( f om af te sluit ):"
+text_rutas_dir_MSG2="DIRECTORY"
+text_rutas_dir_MSG3="ONGELDIG"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="SELFDE OPTIESE EENHEID IN DIE STELSEL"
+text_una_sola_grabadora_MSG2="DIE LEES- EN OPNAME-EENHEID IS DIESELFDE."
+text_una_sola_grabadora_MSG3="DAAR WORD AANVAAR DAT JOU STELSEL SLEGS EEN HET"
+text_una_sola_grabadora_MSG4="FISIESE EENHEID."
+text_una_sola_grabadora_MSG5="VERWYDER DIE BRONSKYF VAN DIE EENHEID."
+# Se omite 'N para evitar errores de funcionamiento
+text_una_sola_grabadora_MSG6="VOEG N MAAGDE OPTIESE SKYF IN"
+text_una_sola_grabadora_MSG7="OM MET DIE OPNAMEPROSES VOORT TE GAAN."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="Hardloop"

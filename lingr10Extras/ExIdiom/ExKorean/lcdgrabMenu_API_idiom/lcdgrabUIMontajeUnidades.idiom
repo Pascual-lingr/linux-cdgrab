@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKorean/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Coreano para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="장치가 현재 시스템에 장착되어 있습니다."
+montar_dispositivos_MSG1B="장치 조립/해체"
+montar_dispositivos_MSG2="---리눅스 옵션-CDGRAB---"
+montar_dispositivos_MSG3="CD/DVD/BD 리더에서 디스크 꺼내기"
+montar_dispositivos_MSG4="CD/DVD/BD 버너에서 디스크 꺼내기"
+montar_dispositivos_MSG5="CD-ROM/DVD-ROM/BD-ROM 리더 마운트"
+montar_dispositivos_MSG6="CD-ROM/DVD-ROM/BD-ROM 마운트 해제"
+montar_dispositivos_MSG7="장치를 직접 장착 또는 분해"
+montar_dispositivos_MSG0="이전 메뉴"
+montar_dispositivos_MSG8="CD/DVD/BD가 마운트되었습니다."
+montar_dispositivos_MSG9="계속하려면 Enter 키를 누르세요..."
+montar_dispositivos_MSG10="CD/DVD/BD 마운트 오류"
+montar_dispositivos_MSG11="CD/DVD/BD가 마운트 해제되었습니다"
+montar_dispositivos_MSG12="CD/DVD/BD 마운트 해제 오류"
+montar_dispositivos_MSG13="마운트/마운트 해제할 장치 입력:"
+montar_dispositivos_MSG14="마운트 지점을 입력하세요:"
+montar_dispositivos_MSG15="블록 장치에 해당하지 않습니다"
+montar_dispositivos_MSG16="마운트 지점을 찾을 수 없습니다"
+montar_dispositivos_MSG17="기본 마운트 지점"
+montar_dispositivos_MSG18="옵션 선택:"
+montar_dispositivos_MSG19="마운트"
+montar_dispositivos_MSG20="ko"
+montar_dispositivos_MSG21="마운트 해제"
+montar_dispositivos_MSG22="드"
+montar_dispositivos_MSG23="마운트된 위치:"
+montar_dispositivos_MSG24="마운트 시 오류가 발생했습니다."
+montar_dispositivos_MSG25="안에"
+montar_dispositivos_MSG26="다음에서 분리되었습니다"
+montar_dispositivos_MSG27="마운트 해제 시 오류 발생"
+montar_dispositivos_MSG28="드"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="마운트 명령 출력"
+Montar_Imagenes_MSG1B="이미지 파일 조립/해제"
+Montar_Imagenes_MSG2="옵션을 선택하세요"
+Montar_Imagenes_MSG3="CD/DVD/BD 이미지 마운트"
+Montar_Imagenes_MSG4="CD/DVD/BD 이미지 마운트 해제"
+Montar_Imagenes_MSG5="이전 메뉴"
+

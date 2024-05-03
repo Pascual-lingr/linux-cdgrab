@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExHungarian/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Húngaro para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="LEMEZMEGHAJTÓ MŰVELETEK"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- FONTOS -----------------------"
+MenuDispositivosBloque_MSG3="+ Ne végezzen írási műveleteket merevlemezeken "
+MenuDispositivosBloque_MSG4="+ a képeket tartalmazó lemezpartíciókról"
+MenuDispositivosBloque_MSG5="+ helyreállítás, rendszerindító partíciók vagy saját"
+MenuDispositivosBloque_MSG6="+ operációs rendszer partíció."
+MenuDispositivosBloque_MSG7="+ A menü írási lehetőségeinek visszaélése "
+MenuDispositivosBloque_MSG8="+ katasztrófát idézhet elő a rendszerben."
+MenuDispositivosBloque_MSG9="+ Használja körültekintően. Használja saját felelősségére."
+MenuDispositivosBloque_MSG10="--------------------- ÍRÁS -----------------------"
+MenuDispositivosBloque_MSG11="Képfájl kiírása a lemezmeghajtóra"
+MenuDispositivosBloque_MSG11B="Iso vagy img kép kiíratása (önindító) pendrive-ra vagy USB-lemezre"
+MenuDispositivosBloque_MSG11C="Nem minden telepítőrendszer támogatott."
+MenuDispositivosBloque_MSG12="Meghajtó formázása natív Linux vagy Windows fájlrendszerrel"
+MenuDispositivosBloque_MSG13="-------------------- OLVASÁS ---------------------"
+MenuDispositivosBloque_MSG14=".img kép létrehozása lemezmeghajtóról"
+MenuDispositivosBloque_MSG15="Előző menü"
+MenuDispositivosBloque_MSG16="Írjon be egy opciót"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------FONTOS------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Formázási egység az eszközökben használt fájlrendszerrel"
+UIFormatearUnidad_linuxfs_MSG2B="+ vagy lemezpartíciók."
+UIFormatearUnidad_linuxfs_MSG3="+ Ez az opció törli az egységen található összes adatot"
+UIFormatearUnidad_linuxfs_MSG4="+ Fájlrendszerrel formázott cserélhető meghajtók"
+UIFormatearUnidad_linuxfs_MSG5="+ Maga a Linux csak ezen operációs rendszer alatt lesz elérhető."
+UIFormatearUnidad_linuxfs_MSG6="+ Használja körültekintően, saját felelősségére használja."
+UIFormatearUnidad_linuxfs_MSG7="--------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="A FOLYTATÁSHOZ NYOMJA MEG A C GOMBOT (A folyamat egy másik lehetőségnél megszakad)"
+

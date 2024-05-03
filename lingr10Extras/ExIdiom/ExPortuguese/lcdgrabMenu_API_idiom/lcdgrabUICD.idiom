@@ -1,0 +1,76 @@
+#########################################################
+# lcgdrabAPI_idiom/ExPortuguese/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabación en CD.
+# Traducción experimental al Portugués, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="ESCOLHA UMA OPÇÃO"
+clonar_MSG2="------ CÓPIAS DE DISCO COM IMAGEM DE VISUALIZAÇÃO ------"
+clonar_MSG3="Copiar um CD de dados"
+clonar_MSG4="Crie uma imagem de CD anterior no disco rígido"
+clonar_MSG5="----------- CÓPIAS DE DISCO EM MOMENTO ----------"
+clonar_MSG6="Copiar um CD de dados em tempo real"
+clonar_MSG7="Clone um CD de dados instantaneamente"
+clonar_MSG7B="Copiar um CD de áudio instantaneamente"
+clonar_MSG8="OPÇÕES DE CÓPIA VOADORA REQUEREM DUAS UNIDADES ÓPTICAS"
+clonar_MSG9="INSTALADO NO SEU COMPUTADOR, DESDE QUE OS DADOS SÃO GRAVADOS ENQUANTO"
+clonar_MSG10="LEIA DIRETAMENTE DO DISCO DE ORIGEM, SE APENAS SEU COMPUTADOR TIVER"
+clonar_MSG11="NÃO SERÁ POSSÍVEL UTILIZAR AS CÓPIAS NO VOO."
+clonar_MSG12B="COPIAR DADOS DO CD"
+clonar_MSG0="Menu anterior"
+
+
+# mgrabacd
+
+mgrabacd_MSG1="DADOS DO CD DO DISCO RÍGIDO"
+mgrabacd_MSG2="Grave um novo CD de dados (use cdrtools)"
+mgrabacd_MSG3="Grave um novo CD de dados (use libburnia)"
+mgrabacd_MSG4="Menu anterior"
+mgrabacd_MSG5="Digite uma opção"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="GRAVAÇÃO DE IMAGEM DE DADOS"
+mgrabaimg_MSG2="Gravar imagem iso ou ext2 em CD-R/RW (use cdrtools)"
+mgrabaimg_MSG3="Gravar imagem iso em CD-R/RW (use libburnia)"
+mgrabaimg_MSG4="Menu anterior"
+mgrabaimg_MSG5="Digite uma opção"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Gravar um CD de áudio a partir de arquivos .wav"
+mgrabararchivosaudio_MSG2="Gravar um CD de áudio a partir de arquivos .mp3"
+mgrabararchivosaudio_MSG3="Gravar um CD de áudio a partir de arquivos .ogg"
+mgrabararchivosaudio_MSG0="Menu anterior"
+mgrabararchivosaudio_MSG0B="Digite uma opção"
+mgrabararchivosaudio_MSG4="Gravar um CD de áudio a partir de arquivos .flac"
+mgrabararchivosaudio_MSG5="GRAVAÇÃO DE CD-ÁUDIO DE ARQUIVOS"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="GRAVANDO PARA CD"
+menugrabar_cd_MSG2="------------------- CD - DADOS ------------------"
+menugrabar_cd_MSG3="Copiar CD de dados"
+menugrabar_cd_MSG4="Gravar um novo CD de dados"
+menugrabar_cd_MSG5="Gravar um novo CD de dados multi-sessão"
+menugrabar_cd_MSG6="Gravar imagem .iso ou .ext2 em CD"
+menugrabar_cd_MSG7="Gravar imagem .bin/.cue em CD"
+menugrabar_cd_MSG8="------------------- CD - ÁUDIO ------------------"
+menugrabar_cd_MSG9="Ripar um CD de áudio"
+menugrabar_cd_MSG13="----------------- OUTRAS OPÇÕES -----------------"
+menugrabar_cd_MSG14="Gravar um CD misto (dados + áudio)"
+menugrabar_cd_MSG15="Excluir um CD-RW"
+menugrabar_cd_MSG16="Fechar CD aberto"
+menugrabar_cd_MSG17="Mostrar informações do disco na unidade"
+menugrabar_cd_MSG18="Gravar um CD de áudio a partir de arquivos do disco"
+menugrabar_cd_MSG0="Menu anterior"
+menugrabar_cd_MSGPRINCIPAL="Digite uma opção"
+
+
+

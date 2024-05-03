@@ -1,0 +1,25 @@
+#########################################################
+# lcdgrabAPI_idiom/ExThai/lcgdrabMenu_API_idiom/lcdgrabUIBD.idiom
+# Menu de Interfaz para la grabación de BD.
+# Traducción experimental al tailandés, generado con Chat GPT
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_grabar_BD
+
+menu_grabar_BD_MSG0="เมนูก่อนหน้า"
+menu_grabar_BD_MSG1="การบันทึกลงแผ่นบลูเรย์"
+menu_grabar_BD_MSG2="บันทึก BD-R/BD-RE ใหม่จากข้อมูลในฮาร์ดดิสก์"
+menu_grabar_BD_MSG4="ภาพ ISO/UDF เพื่อบันทึกลงแผ่นดิสก์"
+menu_grabar_BD_MSG7="บันทึกภาพ ISO-9660 ลงใน BD-R/BD-RE"
+menu_grabar_BD_MSG8="---------- ข้อมูล BD ----------"
+menu_grabar_BD_MSG9="แสดงข้อมูลดิสก์ของไดรฟ์"
+# google translate
+menu_grabar_BD_MSG10="ใช้การลบที่จำเป็นกับ BD-RE"
+
+
+
+

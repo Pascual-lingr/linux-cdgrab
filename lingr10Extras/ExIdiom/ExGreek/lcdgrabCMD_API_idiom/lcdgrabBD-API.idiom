@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGreek/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Griego para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="Η ΕΙΚΟΝΑ ISO-9660 ΕΓΓΡΑΦΗΚΕ ΣΩΣΤΑ ΣΕ BLU-RAY"
+grabar_ISO_BD_MSG2="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΕΓΓΡΑΦΗ ΕΙΚΟΝΑΣ ΣΕ BLU-RAY DISK"
+grabar_ISO_BD_MSG3="ISO-9660 IMAGE IN BD"
+grabar_ISO_BD_MSG4="Καθορίστε τη διαδρομή της εικόνας ISO-9660 προς εγγραφή:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Αρχεία και κατάλογοι για τη δημιουργία της εικόνας .iso"
+bd_datos_MSG2="ΕΤΙΚΕΤΑ DB"
+bd_datos_MSG3="Εισαγάγετε ένα όνομα για το μελλοντικό BD:"
+bd_datos_MSG4="Εκκίνηση του διαχειριστή αρχείων:"
+bd_datos_MSG5=" ΔΗΜΙΟΥΡΓΙΑ ΕΙΚΟΝΑΣ . . ."
+bd_datos_MSG6="τρέχει"
+bd_datos_MSG7="Η ΕΙΚΟΝΑ ISO-9660 ΔΗΜΙΟΥΡΓΗΘΗΚΕ ΣΤΟ"
+bd_datos_MSG8="ΕΓΓΡΑΦΗ BD"
+bd_datos_MSG13="ΔΙΑΓΡΑΦΗ ΕΙΚΟΝΑΣ..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Η απαραίτητη μορφοποίηση ή διαγραφή εφαρμόζεται ανάλογα με την κατάσταση του δίσκου"
+borrar_BDRE_lb_MSG2="Το BD-RE ΔΙΑΓΡΑΦΗΚΕ ΕΠΙΤΥΧΙΑ!!"
+borrar_BDRE_lb_MSG3="ΣΦΑΛΜΑ ΚΑΤΑ ΔΙΑΓΡΑΦΗ BD-RE"
+

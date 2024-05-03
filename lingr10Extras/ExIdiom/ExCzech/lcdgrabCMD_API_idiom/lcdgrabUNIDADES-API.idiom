@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExCzech/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en checo para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Cesta k obrazu .img nebo .ext2 k výpisu na disk."
+volcar_imagen_MSG2="-----------------------DŮLEŽITÉ----------------------------" 
+volcar_imagen_MSG3="+ Tato možnost není na optických discích funkční."
+volcar_imagen_MSG4="+ Použití na pendrive, diskety, diskové oddíly atd."
+volcar_imagen_MSG5="+ Pozor na pevné disky:"
+volcar_imagen_MSG6="+ Obrázek je zapsán s dd od začátku"
+volcar_imagen_MSG7=" ze zadaného disku, použití čísla není povoleno"
+volcar_imagen_MSG8="specifický sektor pro zahájení procesu zápisu"
+volcar_imagen_MSG9="+ Používejte opatrně. Používejte na vlastní nebezpečí."
+volcar_imagen_MSG10="+ Diskové oddíly se mohou stát nepoužitelnými."
+volcar_imagen_MSG11="+ Nedoporučuje se používat na systémech s více oddíly."
+volcar_imagen_MSG12="Obnovení může opustit tabulku oddílů a"
+volcar_imagen_MSG13="samotné zbytečné oddíly."
+volcar_imagen_MSG14="-----------------------------------------------------------"
+volcar_imagen_MSG15="POKRAČOVAT STISKNĚTE KLÁVESU C; (Proces bude zrušen jinou možností)"
+volcar_imagen_MSG16="Určete cestu k souboru obrázku, který se má uložit na disk: "
+volcar_imagen_MSG17="Připojit výstup příkazu:"
+volcar_imagen_MSG18="Určete blokové zařízení, kam se má obrázek uložit:"
+volcar_imagen_MSG19="DUMPING IMAGE"
+volcar_imagen_MSG20="NA ZAŘÍZENÍ"
+volcar_imagen_MSG21="běží"
+volcar_imagen_MSG22="PROCES VYHLÁŠENÍ OBRÁZKU DOKONČEN"
+
+# volcar_iso
+
+volcar_iso_MSG1="Zadejte blokové zařízení, do kterého se má zapsat obraz iso:"
+volcar_iso_MSG2="VAROVÁNÍ"
+volcar_iso_MSG2B="--------"
+volcar_iso_MSG3="Určete blokové zařízení pro zápis."
+volcar_iso_MSG4="Příklady: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Neurčujte oddíl patřící tomuto zařízení"
+volcar_iso_MSG6="Příklady: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Určete obrázek iso-9660 nebo obrázek pro zápis:"
+volcar_iso_MSG9="Proces dokončen"
+volcar_iso_MSG10="Chyba v procesu zápisu iso"
+volcar_iso_MSG11="Specifikujte velikost bloku pro zápis obrázku"
+volcar_iso_MSG12="Vyberte možnost podle operačního systému pro zápis:"
+volcar_iso_MSG13="ISO-9660 nebo spouštěcí obraz IMG pro flashování na zařízení:"
+volcar_iso_MSG14="Konec"
+volcar_iso_MSG15="ISO-9660 NEBO OBRÁZKOVÝ SOUBOR IMG"
+volcar_ISO_MSG16="VYBRAT OPERAČNÍ SYSTÉM K DOPISOVÁNÍ DO JEDNOTKY"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Vyberte souborový systém pomocí"
+Formateador_linuxfs_MSG2="zařízení bude naformátováno:"
+Formateador_linuxfs_MSG3="Určete blokové zařízení pro formátování: "
+Formateador_linuxfs_MSG5="PROCES DOKONČEN"
+Formateador_linuxfs_MSG6="FORMÁTOR DISKU"
+Formateador_linuxfs_MSG7="Nastavit jmenovku svazku"
+Formateador_linuxfs_MSG10="Zadejte název jmenovky svazku"
+Formateador_linuxfs_MSG11="Nový štítek svazku"
+Formateador_linuxfs_MSG12="Určit velikost bloku"
+Formateador_linuxfs_MSG13="Nová velikost bloku"
+Formateador_linuxfs_MSG14="Předchozí nabídka"
+

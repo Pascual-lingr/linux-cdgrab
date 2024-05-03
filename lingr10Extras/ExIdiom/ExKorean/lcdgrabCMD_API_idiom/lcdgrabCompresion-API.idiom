@@ -1,0 +1,55 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKorean/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en coreano para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="파일이나 디렉터리의 경로를 입력하세요:"
+empaquetar_MSG2="------- 옵션 -------"
+empaquetar_MSG3=".tar.gz 파일 생성"
+empaquetar_MSG4=".tar.bz2 파일 생성"
+empaquetar_MSG5="옵션을 입력하세요: "
+empaquetar_MSG6="실행 중"
+empaquetar_MSG7="잘못된 옵션"
+
+# desempaquetar
+
+desempaquetar_MSG1="파일 경로를 입력하세요:"
+desempaquetar_MSG2="압축해제기를 찾을 수 없습니다."
+desempaquetar_MSG3="또는"
+desempaquetar_MSG4="존재하지 않습니다"
+desempaquetar_MSG5="실행 중"
+desempaquetar_MSG6="압축해제됨"
+desempaquetar_MSG7="압축해제 중 오류 발생"
+
+# comprime
+
+comprime_MSG1="이미지 압축 중"
+comprime_MSG2="bzip2로 압축"
+comprime_MSG3="gzip으로 압축"
+comprime_MSG4="xz로 압축"
+comprime_MSG5="이전 메뉴"
+comprime_MSG6="실행 중"
+comprime_MSG7="이미지 파일 압축이 완료되었습니다"
+comprime_MSG8="압축하는 중 오류가 발생했습니다."
+comprime_MSG9="잘못된 압축기"
+
+# descomprime
+
+descomprime_MSG1="파일 경로를 입력하세요:"
+descomprime_MSG2="---------------"
+descomprime_MSG3="압축해제기를 찾을 수 없습니다."
+descomprime_MSG4="또는"
+descomprime_MSG5="존재하지 않습니다"
+descomprime_MSG6="실행 중"
+descomprime_MSG7="압축되지 않음"
+descomprime_MSG8="압축 해제 중 오류 발생"
+
+

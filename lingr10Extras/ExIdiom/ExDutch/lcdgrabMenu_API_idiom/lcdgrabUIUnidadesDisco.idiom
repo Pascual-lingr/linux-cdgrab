@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExDutch/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Neerlandés para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="WERKING VAN SCHIJFSTATIONS"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- BELANGRIJK -----------------------"
+MenuDispositivosBloque_MSG3="+ Voer geen schrijfbewerkingen uit op harde schijven "
+MenuDispositivosBloque_MSG4="+ over schijfpartities die afbeeldingen bevatten"
+MenuDispositivosBloque_MSG5="+ herstel, opstartpartities of uw eigen partities"
+MenuDispositivosBloque_MSG6="+ besturingssysteempartitie."
+MenuDispositivosBloque_MSG7="+ Het misbruik van de schrijfopties van dit menu "
+MenuDispositivosBloque_MSG8="+ kan een catastrofe in het systeem veroorzaken."
+MenuDispositivosBloque_MSG9="+ Wees voorzichtig. Gebruik op eigen risico."
+MenuDispositivosBloque_MSG10="------------------- SCHRIJVEN -------------------"
+MenuDispositivosBloque_MSG11="Dump een afbeeldingsbestand naar schijfstation"
+MenuDispositivosBloque_MSG11B="Dump iso- of img-afbeelding (zelf opstartbaar) naar pendrive of USB-schijf"
+MenuDispositivosBloque_MSG11C="Niet alle installatiesystemen worden ondersteund."
+MenuDispositivosBloque_MSG12="Formatteer schijf met native Linux- of Windows-bestandssysteem"
+MenuDispositivosBloque_MSG13="--------------------- LEZING --------------------"
+MenuDispositivosBloque_MSG14="Maak .img-afbeelding vanaf een schijfstation"
+MenuDispositivosBloque_MSG15="Vorige menu"
+MenuDispositivosBloque_MSG16="Typ een optie"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------BELANGRIJK------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Formaateenheid met bestandssysteem gebruikt in apparaten"
+UIFormatearUnidad_linuxfs_MSG2B="+ of schijfpartities."
+UIFormatearUnidad_linuxfs_MSG3="+ Deze optie zal alle bestaande gegevens op het apparaat wissen"
+UIFormatearUnidad_linuxfs_MSG4="+ Verwisselbare schijven geformatteerd met een bestandssysteem"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux zelf zal alleen toegankelijk zijn onder dit besturingssysteem."
+UIFormatearUnidad_linuxfs_MSG6="+ Wees voorzichtig, gebruik op eigen risico."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="DRUK OP DE C-TOETS OM DOOR TE GAAN; (Het proces wordt bij een andere optie geannuleerd)"
+

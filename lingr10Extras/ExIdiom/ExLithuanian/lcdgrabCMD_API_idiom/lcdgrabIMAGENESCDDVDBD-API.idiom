@@ -1,0 +1,236 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLithuanian/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en Lituano para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="VAIZDO FAILŲ SISTEMA"
+imagen_linux_fs_MSG2="Pasirinkite failų sistemą: "
+imagen_linux_fs_MSG3="Sukurti vaizdą CD-R/RW (702 MB)"
+imagen_linux_fs_MSG4="Sukurti vaizdą DVD+RW (4 Gbaitai)"
+imagen_linux_fs_MSG5="Sukurti vaizdą DVD+RW/DL (8 Gbaitai)"
+imagen_linux_fs_MSG5B="Sukurti vaizdą BD-R/RE (25 Gbaitai)"
+imagen_linux_fs_MSG5C="Sukurti pasirinkto dydžio vaizdo failą"
+imagen_linux_fs_MSG6="Kuriamas tuščias failas, kurio talpa 702 MB"
+imagen_linux_fs_MSG7="Kuriamas tuščias failas, kurio talpa 4 Gbaitai"
+imagen_linux_fs_MSG8="Kuriamas tuščias failas, kurio talpa 8 Gbaitai"
+imagen_linux_fs_MSG8B="Kuriamas tuščias failas, kurio talpa 25 Gbaitai"
+imagen_linux_fs_MSG8C="Kuriamas tuščias failas su pasirinktiniu dydžiu"
+imagen_linux_fs_MSG9="KLAIDA: VAIZDO DYDIS NEŽINOMAS. NUTRAUKIMAS..."
+imagen_linux_fs_MSG10="Veikia"
+imagen_linux_fs_MSG11="Programa suformatuos tuščią failą."
+imagen_linux_fs_MSG12="Sistema įspės, kad anksčiau sukurtas failas nėra blokuojamas įrenginys ir paklaus, ar norite jį formatuoti"
+imagen_linux_fs_MSG13="Atsakyti taip"
+imagen_linux_fs_MSG13="SUFORMUOTA SĖKMINGAI"
+imagen_linux_fs_MSG14=" Montavimo vaizdas..."
+imagen_linux_fs_MSG15="KLAIDA FORMATUOJANT TUŠČĮ FAILĄ"
+imagen_linux_fs_MSG16="Programa įdiegė failą, suformatuotą"
+imagen_linux_fs_MSG17="Linux-cdgrab paleis failų tvarkyklę, kad ji galėtų veikti su įmontuotu vaizdu"
+imagen_linux_fs_MSG18="Kai failai bus nukopijuoti, atjunkite suformatuotą failą"
+imagen_linux_fs_MSG19="Linux vaizdas yra šiame kataloge"
+imagen_linux_fs_MSG19B="KLAIDA DIEGANT VAIZDO FAILĄ"
+imagen_linux_fs_MSG20="Failai, kuriuos reikia įtraukti į vaizdą. Sumontuoti /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Paleidžiama failų tvarkyklė..."
+imagen_linux_fs_MSG22="PASTABA:"
+imagen_linux_fs_MSG23="--------"
+imagen_linux_fs_MSG24="Vaizdas"
+imagen_linux_fs_MSG25="vis dar prijungtas"
+imagen_linux_fs_MSG26="KLAIDA KURTI TUŠČĄ FAILĄ SU dd"
+imagen_linux_fs_MSG27="Patikrinkite, ar turite laisvos vietos skaidinyje, sumontuotame /"
+imagen_linux_fs_MSG34="FAILŲ SISTEMA FAILUI FORMATUOTI"
+imagen_linux_fs_MSG35="TUŠČIO FAILOS SU TINKINTO DYDŽIO GENERAVIMAS"
+imagen_linux_fs_MSG36="Nurodykite naujo tuščio failo bloko dydį (tik skaitinė reikšmė):"
+imagen_linux_fs_MSG37="Bloko dydžio reikšmių pavyzdys yra: 1024, 2048 (tik Ext2) arba 4096 (visi formatai)"
+imagen_linux_fs_MSG38="Nurodykite generuojamo tuščio failo dydį (tik skaitinę reikšmę):"
+imagen_linux_fs_MSG39="Erdvės matavimai tuščiam failui generuoti:"
+imagen_linux_fs_MSG40="Nurodykite naudojamą erdvės matavimą: "
+imagen_linux_fs_MSG41="KLAIDA NURODYJANT DYDŽIO MATAVIMĄ"
+imagen_linux_fs_MSG42="Bloko dydžio reikšmė:"
+imagen_linux_fs_MSG43="Vietos kiekis tuščiam failui:"
+imagen_linux_fs_MSG44="Apskaičiuota vertė baitais:"
+imagen_linux_fs_MSG45="Apskaičiuota skaičiaus reikšmė:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Įgalinti md5 skaitymą generuojant .iso vaizdus"
+comprobar_lectura_md5_MSG2="Išjungti md5 skaitymą generuojant .iso vaizdus"
+comprobar_lectura_md5_MSG3="Ankstesnis meniu"
+comprobar_lectura_md5_MSG4="Dabartinė konfigūracija:"
+comprobar_lectura_md5_MSG5="Įjungta"
+comprobar_lectura_md5_MSG6="Išjungta"
+comprobar_lectura_md5_MSG7="Skaityti md5 sumą aktyvuota"
+comprobar_lectura_md5_MSG8="Md5 sumos skaitymas išjungtas"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Iso vaizdo pavadinimo nepavyko nuskaityti"
+leer_md5sum_MSG2="Nuskaitoma md5suma"
+leer_md5sum_MSG3="Rodoma md5 vaizdo suma"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="KURIAMAS CD VAIZDO"
+extraer_isoCD_dd_MSG2="VAIZDAS SUKURTAS"
+extraer_isoCD_dd_MSG3="Nerasta"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="DVD VAIZDO KŪRIMAS"
+extraer_isoDVD_dd_MSG2="veikia"
+extraer_isoDVD_dd_MSG3="VAIZDAS SUKURTAS"
+extraer_isoDVD_dd_MSG4="Nerasta"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="veikia"
+extraer_iso_readcd_MSG2="VAIZDAS SĖKMINGAI SUKURTAS"
+extraer_iso_readcd_MSG3="Vaizdas sukurtas"
+extraer_iso_readcd_MSG4="Nutraukiamas įrašymo procesas..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Įdėtas kompaktinis diskas"
+extraer_iso_mkisofs_MSG2="Kuriamas vaizdas..."
+extraer_iso_mkisofs_MSG3="Macintosh suderinamumas įjungtas"
+extraer_iso_mkisofs_MSG4="Naudojama"
+extraer_iso_mkisofs_MSG5="veikia"
+extraer_iso_mkisofs_MSG6="Vaizdas sukurtas kataloge"
+extraer_iso_mkisofs_MSG7="Pakartotinis proceso bandymas be Macintosh palaikymo"
+extraer_iso_mkisofs_MSG8="Vaizdas sukurtas kataloge"
+extraer_iso_mkisofs_MSG9="mkisofs grąžina nežinomas klaidas kurdamas"
+extraer_iso_mkisofs_MSG10="iš"
+extraer_iso_mkisofs_MSG11="Patikrinti duomenų vientisumą"
+extraer_iso_mkisofs_MSG12="Montavimas"
+extraer_iso_mkisofs_MSG12B="en"
+extraer_iso_mkisofs_MSG13="genisoimage grąžina nežinomas klaidas kurdamas"
+extraer_iso_mkisofs_MSG13B="iš"
+extraer_iso_mkisofs_MSG14="Mkisofs ir genisoimage nerasta. Įdiekite cdrtools arba cdrkit."
+extraer_iso_mkisofs_MSG15="Nepavyko prijungti"
+extraer_iso_mkisofs_MSG16="Vaizdas sėkmingai sukurtas"
+
+# m_comp_img
+
+m_comp_img_MSG1="VAIZDAS SĖKMINGAI SUKURTAS"
+m_comp_img_MSG2="AR NORITE SUspausti VAIZDO FAILĄ?"
+m_comp_img_MSG3="(s/y) suspausti; Procesas atšaukiamas naudojant kitą parinktį."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Paleidžiama failų tvarkyklė..."
+generar_iso_directorio_MSG2="Įveskite būsimo CD/DVD/BD pavadinimą"
+generar_iso_directorio_MSG3="KURIAMAS VAIZDAS..."
+generar_iso_directorio_MSG4="Macintosh suderinamumas įjungtas"
+generar_iso_directorio_MSG5="Naudojama"
+generar_iso_directorio_MSG6="veikia"
+generar_iso_directorio_MSG7="VAIZDAS SUKURTAS KATALOGUOSE"
+generar_iso_directorio_MSG8="VAIZDO KŪRIMO PROCESAS NESĖKO"
+generar_iso_directorio_MSG9="VAIZDO KŪRIMAS BE MACINTOSH SUDERINAMUMO"
+generar_iso_directorio_MSG10="Mkisofs ir genisoimage nerasta. Įdiekite cdrtools arba cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Įveskite būsimo DVD/BD pavadinimą"
+generar_bdv_udf_directorio_MSG2="Nurodykite katalogą vaizdo įrašo vaizdui generuoti:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Nurodykite disko etiketę:"
+generar_iso_directorio_libburnia_MSG2="Nurodykite katalogą, kuriame bus generuojamas iso-9660 vaizdas:"
+generar_iso_directorio_libburnia_MSG3="ISO9660 vaizdas sėkmingai sukurtas!!"
+generar_iso_directorio_libburnia_MSG4="Klaida generuojant iso-9660 vaizdą su xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="Archivos y directorios a incluir en la imagen .iso"
+imagenISO_MSG2="PASIRINKITE PASIRINKTI"
+imagenISO_MSG1="Failai ir katalogai įtraukti į .iso vaizdą"
+imagenISO_MSG2="PASIRINKITE PARINKTĮ"
+imagenISO_MSG2B="-------------------"
+imagenISO_MSG3="Generuoti ISO-9660 vaizdą iš kompaktinio disko (naudokite dd)"
+imagenISO_MSG4="Generuoti ISO-9660 vaizdą iš DVD (naudokite dd)"
+imagenISO_MSG5="Generuoti ISO-9660 vaizdą iš kompaktinio disko (naudokite readcd)"
+imagenISO_MSG6="Generuoti ISO-9660 vaizdą iš CD arba DVD disko (naudokite mkisofs)"
+imagenISO_MSG7="Sukurkite ISO-9660 vaizdą iš standžiojo disko duomenų (naudokite mkisofs)"
+imagenISO_MSG8="Ankstesnis meniu"
+imagenISO_MSG9="KURIAMAS VAIZDAS"
+imagenISO_MSG10="Sukurkite ISO-9660 vaizdą iš standžiojo disko duomenų (naudokite xorriso)"
+imagenISO_MSG11="Sukurti iso/udf vaizdą iš CD/DVD/BD (naudokite mkisofs)"
+imagenISO_MSG12="Sukurti iso/udf vaizdą iš standžiojo disko duomenų (naudokite mkisofs)"
+imagenISO_MSG13="ISO-9660 FORMATAVIMO MENIU"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Sukurti UDF/ISO vaizdą iš standžiojo disko duomenų (naudokite mkisofs)"
+imagenISO_MSG15="Sukurti UDF/ISO vaizdą su DVD Video palaikymu (naudokite mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Įveskite šaltinio bloko įrenginį, iš kurio norite sukurti vaizdą"
+imagen_img_MSG2="----------------------------------------------------------------"
+imagen_img_MSG3="Įrenginiai, užregistruoti /etc/fstab ir /etc/mtab"
+imagen_img_MSG4="Sujungti komandos išvestį:"
+imagen_img_MSG5="Įveskite įrenginio pavadinimą: "
+imagen_img_MSG6="Kuriamas blokuojamo įrenginio .img vaizdas"
+imagen_img_MSG7="veikia"
+imagen_img_MSG8="ĮRENGINIO VAIZDAS SUKURTAS"
+
+# monta_img
+
+monta_img_MSG1="ISO arba ext2 vaizdas montuojamas."
+monta_img_MSG2="Įveskite katalogo kelią, kuriame yra montuojamas vaizdas:"
+monta_img_MSG3="SUJUNGTAS CD VAIZDAS:"
+monta_img_MSG4="KLAIDA DIEGANT VAIZDO FAILĄ"
+monta_img_MSG5="NERASTA"
+monta_img_MSG6="MONTAS TAŠKO NĖRA"
+monta_img_MSG7="NETIKĖTA KLAIDA"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO arba ext2 vaizdas, kurį reikia išmontuoti."
+desmonta_img_MSG2="IŠDARYTAS VAIZDAS"
+desmonta_img_MSG3="Nerasta prijungto vaizdo"
+desmonta_img_MSG4="Prijungti išvestį:"
+desmonta_img_MSG5="Galite tiesiogiai nurodyti absoliutų vaizdo katalogo kelią."
+desmonta_img_MSG6="Pavyzdžiui, /tmp/lcdgrabimg.iso arba vaizdo montavimo katalogas, pvz., /mnt/lcdgrab"
+desmonta_img_MSG7="Jei nenurodyta, jo galima ieškoti naudojant failų tvarkyklę"
+desmonta_img_MSG8="Paleidžiama failų tvarkyklė"
+desmonta_img_MSG9="Nurodykite vaizdo kelią."
+desmonta_img_MSG10="IŠDARYTAS VAIZDAS"
+desmonta_img_MSG11="KLAIDA ATJUNGANT VAIZDĄ"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg vaizdas konvertuoti į .iso"
+nrg_a_iso_MSG2="Įveskite .nrg (Nero Burning ROM) vaizdo konvertavimo kelią"
+nrg_a_iso_MSG3="Konvertuojamas vaizdas..."
+nrg_a_iso_MSG4="Šaltinio .nrg vaizdo kelias"
+nrg_a_iso_MSG5="nėra arba atitinka katalogą"
+nrg_a_iso_MSG6="Netinkamas kelias."
+nrg_a_iso_MSG7="tai jau ankstesnis ISO-9660 vaizdas, jis nebus konvertuojamas."
+nrg_a_iso_MSG8="Kopijuojama su kitu plėtiniu..."
+nrg_a_iso_MSG9="KOPIJUOTI UŽBAIGTA"
+nrg_a_iso_MSG10="veikia"
+nrg_a_iso_MSG11="Vaizdas sėkmingai konvertuotas"
+nrg_a_iso_MSG12="KLAIDA KURTI VAIZDĄ .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Generuoti .cue aprašo failą iš .bin vaizdo"
+GenerarArchivocue_MSG2="Dabartinis aktyvus katalogas"
+GenerarArchivocue_MSG3="Įrašykite tik katalogo kelią, kur"
+GenerarArchivocue_MSG4="rasti vaizdo failą:"
+GenerarArchivocue_MSG5="Įveskite .bin atvaizdo, į kurį norite patekti, pavadinimą"
+GenerarArchivocue_MSG6="sugeneravo atitinkamą .cue failą"
+GenerarArchivocue_MSG7="APRAŠYMO FAILAS .cue SĖKMINGAI SUgeneruotas"
+GenerarArchivocue_MSG8="KLAIDA KURTI APRAŠYMO FAILĄ .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="veikia"
+ImagenbincueCDDVD_MSG2=".BIN .CUE DISKO VAIZDAS SĖKMINGAI SUgeneruotas"
+

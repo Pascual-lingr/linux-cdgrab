@@ -1,0 +1,54 @@
+#########################################################
+# lcdgrabAPI_idiom/ExNorwegian/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en noruego para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Skriv inn banen til filen eller katalogen:"
+empaquetar_MSG2="------- Alternativer -------"
+empaquetar_MSG3="Generer .tar.gz-fil"
+empaquetar_MSG4="Generer .tar.bz2-fil"
+empaquetar_MSG5="Skriv inn et alternativ: "
+empaquetar_MSG6="Kjører"
+empaquetar_MSG7="Ugyldig alternativ"
+
+# desempaquetar
+
+desempaquetar_MSG1="Skriv inn filbanen:"
+desempaquetar_MSG2="INGEN DEKOMPRESSOR FANT FOR"
+desempaquetar_MSG3="ELLER"
+desempaquetar_MSG4="EKSISTERER IKKE"
+desempaquetar_MSG5="Kjører"
+desempaquetar_MSG6="utpakket"
+desempaquetar_MSG7="Feil under forsøk på å pakke ut"
+
+# comprime
+
+comprime_MSG1="KOMPRESSERING AV BILDE"
+comprime_MSG2="Komprimer med bzip2"
+comprime_MSG3="Komprimer med gzip"
+comprime_MSG4="Komprimer med xz"
+comprime_MSG5="Forrige meny"
+comprime_MSG6="Kjører"
+comprime_MSG7="Bildefilkomprimering fullført"
+comprime_MSG8="Feil ved komprimering med"
+comprime_MSG9="Ugyldig kompressor"
+
+# descomprime
+
+descomprime_MSG1="Skriv inn filbanen:"
+descomprime_MSG2="-------------------"
+descompress_MSG3="INGEN DEKOMPRESSOR FANT FOR"
+descomprime_MSG4="ELLER"
+descomprime_MSG5="EKSISTERER IKKE"
+descompress_MSG6="Kjører"
+descomprime_MSG7="ukomprimert"
+descomprime_MSG8="Feil ved forsøk på å dekomprimere"
+

@@ -1,0 +1,137 @@
+#########################################################
+# lcdgrabAPI_idiom/ExCzech/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Checo, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab nemůže najít textový editor vi"
+ayuda_MSG2="Zadejte název textového editoru nainstalovaného ve vašem systému"
+ayuda_MSG3="NENAŠEL ŽÁDNÝ NAINSTALOVANÝ EDITOR"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Soubor automaticky generovaný LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="Tento soubor spolu s adresářem"
+creacion_de_mnt_MSG3="byly vygenerovány automaticky"
+creacion_de_mnt_MSG4="aplikací Linux-cdgrab při ověřování, že ve vaší distribuci Linuxu neexistuje"
+creacion_de_mnt_MSG5="adresář"
+creacion_de_mnt_MSG6="Linux-cdgrab používá tento adresář k připojení své jednotky CD-ROM/DVD-ROM/BD-ROM"
+creacion_de_mnt_MSG7="Adresář"
+creacion_de_mnt_MSG8="nebude smazán, pokud je Linux-cdgrab odinstalován, protože je to obvykle"
+creacion_de_mnt_MSG9="výchozí bod připojení pro /dev/cdrom na většině distribucí Linuxu."
+creacion_de_mnt_MSG10="Pokud vaše distribuce používá jiný adresář pro připojení zařízení /dev/cdrom,"
+creacion_de_mnt_MSG11="nevyvolá žádnou nekompatibilitu při pokusu o přístup k datům na vaší jednotce"
+creacion_de_mnt_MSG12="ačkoli pokud byl Linux-cdgrab odinstalován, můžete se bez něj obejít"
+creacion_de_mnt_MSG13="Účel tohoto souboru je pouze pro informační účely, po přečtení jej můžete libovolně smazat."
+
+# creditos
+
+creditos_MSG1="Distribuce pod licencí GPL v2"
+creditos_MSG2="Více informací na www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, tvůrce a správce"
+creditos_MSG4="Hlášení o chybě: pascual89@hotmail.com"
+creditos_MSG5="Webová stránka programu: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Na základě LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Nabíjení"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SYNTAXE"
+lcdgrab_sintaxis_MSG2="Vytisknout tuto nápovědu"
+lcdgrab_sintaxis_MSG3="Vytisknout verzi Linux-cdgrab"
+lcdgrab_sintaxis_MSG4="určuje kanál IDE nebo nahrávací zařízení"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="určuje rychlost nahrávání"
+lcdgrab_sintaxis_MSG7="určuje jednotku CD-ROM/DVD-ROM/BD-ROM"
+lcdgrab_sintaxis_MSG8="určuje kanál IDE ATAPI vypalovačky"
+lcdgrab_sintaxis_MSG9="Volby -G -V -L a -CA se navzájem zahrnují."
+lcdgrab_sintaxis_MSG9B="Volby -iut -ium -iug a -iuk jsou na sobě nezávislé,"
+lcdgrab_sintaxis_MSG9C="doplňkové k -G -V -L a -CA a nezávislé mezi -h a -v"
+lcdgrab_sintaxis_MSG10="Volby -h a -v jsou nezávislé na sobě a na ostatních."
+lcdgrab_sintaxis_MSG11="Příklady:"
+lcdgrab_sintaxis_MSG12="zařízení"
+lcdgrab_sintaxis_MSG13="číslo"
+lcdgrab_sintaxis_MSG14="textové rozhraní"
+lcdgrab_sintaxis_MSG15="rozhraní s ncurses"
+lcdgrab_sintaxis_MSG16="grafické rozhraní s GTK"
+lcdgrab_sintaxis_MSG17="grafické rozhraní s Qt"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Zadejte cestu skriptu:"
+main_lcdgrabopdep_MSG2="Neplatná cesta"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Nainstalované záplaty:"
+main_lcdgrabopdeppatch_MSG2="Zadejte cestu opravy:"
+main_lcdgrabopdeppatch_MSG3="Nenalezeno"
+
+# menu principal dialog
+
+main_lcdgrabop9uidia="NAHRAJTE DALŠÍ OPRAVU"
+
+# menu principal texto
+
+main_lcdgrabop1_text="NAHRÁVÁNÍ NA CD\t\t\t\t="
+main_lcdgrabop2_text="NAHRÁVÁNÍ DVD\t\t\t\t="
+main_lcdgrabop3_text="NAHRÁVÁNÍ NA BD\t\t\t\t="
+main_lcdgrabop4_text="OVLÁDÁNÍ DISKOVÉ JEDNOTKY\t\t="
+main_lcdgrabop5_text="TVORBA OBRAZU\t\t\t\t="
+main_lcdgrabop6_text="AUDIO KONVERZE\t\t\t\t="
+main_lcdgrabop6b_text="VIDEO KONVERZE\t\t\t\t="
+main_lcdgrabop7_text="PŘIPOJIT NEBO ODEBRAT CD/DVD/BD\t\t="
+main_lcdgrabop8_text="PŘIPOJTE NEBO ODEBRAT OBRÁZEK\t\t="
+main_lcdgrabop9_text="NAHRAJTE DALŠÍ OPRAVU\t\t\t="
+main_lcdgrabop10_text="KONTROLNÍ CENTRUM\t\t\t="
+main_lcdgrabop0_text="JÍT VEN\t\t\t\t\t="
+main_lcdgrabet1_text="JINÉ MOŽNOSTI ##\t\t="
+main_lcdgrabopEe_text="Vysuňte disk z jednotky\t\t="
+main_lcdgrabopTD_text="Zobrazit adresář"
+tabs="\t\t="
+main_lcdgrabopG_text="Správce souborů\t\t\t="
+main_lcdgrabopH_text="Pomoc\t\t\t\t="
+main_lcdgrabopA_text="O\t\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="NAHRÁVÁNÍ NA CD"
+main_lcdgrabop2="NAHRÁVÁNÍ DVD"
+main_lcdgrabop3="NAHRÁVÁNÍ NA BD"
+main_lcdgrabop4="OVLÁDÁNÍ DISKOVÉ JEDNOTKY"
+main_lcdgrabop5="TVORBA OBRAZU"
+main_lcdgrabop6="AUDIO KONVERZE"
+main_lcdgrabop6b="VIDEO KONVERZE"
+main_lcdgrabop7="PŘIPOJIT NEBO ODEBRAT CD/DVD/BD"
+main_lcdgrabop8="PŘIPOJTE NEBO ODEBRAT OBRÁZEK"
+main_lcdgrabop9="NAHRAJTE DALŠÍ OPRAVU"
+main_lcdgrabop10="KONTROLNÍ CENTRUM"
+main_lcdgrabop0="JÍT VEN"
+main_lcdgrabet1="JINÉ MOŽNOSTI ##"
+main_lcdgrabopEe="Vysuňte disk z jednotky"
+main_lcdgrabopTD="Zobrazit adresář"
+main_lcdgrabopG="Správce souborů"
+main_lcdgrabopH="Pomoc"
+main_lcdgrabopA="O"
+main_lcdgrabopPRINCIPAL="Zadejte možnost:"
+MSG1_MAIN="Výběrem H zobrazíte použití možností."
+main_lcdgrabopA_MSG1="Běží na:"
+

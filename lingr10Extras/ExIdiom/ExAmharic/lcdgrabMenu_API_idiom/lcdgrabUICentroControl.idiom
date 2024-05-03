@@ -1,0 +1,286 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAmharic/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Amárico para el Interfaz del Centro de Control
+# Traducción eperimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="የሊኑክስ ውቅር-ሲዲግራብ"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="የየትኛው አይዲኢ ቻናል እንደሆነ ካላወቁ"
+ayuda_IDE_MSG2="የእርስዎ መቅረጫ ፊደል t በመጫን ማወቅ ይችላል። "
+ayuda_IDE_MSG3="የ IDE ቻናሉ ምሳሌ 0,0,0 ወይም 0,1,0 ሊሆን ይችላል."
+ayuda_IDE_MSG4="ተጓዳኙን መሣሪያም መግለጽ ትችላለህ"
+ayuda_IDE_MSG5="ወደ መቅጃዎ። የትኛው እንደሆነ በትክክል ካላወቁ መ ን ይጫኑ። "
+ayuda_IDE_MSG6="በ /etc/fstab ፋይል ውስጥ የተመዘገቡትን መሳሪያዎች ለማየት"
+ayuda_IDE_MSG7="የመሳሪያዎች ምሳሌ /dev/hdd፣ /dev/hde ወዘተ ሊሆን ይችላል።"
+ayuda_IDE_MSG8="ከፈለግክ ሁሉንም የተያዙ መሣሪያዎች መዘርዘር ትችላለህ"
+ayuda_IDE_MSG9="በ /dev ማውጫው ውስጥ ፊደል lን በመጫን።"
+ayuda_IDE_MSG10="አይዲኢ ቻናል ወይም መቅረጫ መሳሪያውን መግለጽ አለብህ"
+ayuda_IDE_MSG11="ግን ሁለቱም አይደሉም።"
+
+# desinstalar
+
+desinstalar_MSG1="ሊኑክስ-ሲዲግራብ ከስርዓትዎ ተራግፏል"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="የመቅዳት ፍጥነት"
+imprimir_variables_MSG2="IDE/SCSI ሰርጥ ወይም መቅጃ መሳሪያ"
+imprimir_variables_MSG3="ሲዲ-ሮም፣ ዲቪዲ-ሮም ወይም BD-ROM አንባቢ"
+imprimir_variables_MSG4="ATAPI መሣሪያ"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="የመቅዳት ፍጥነት"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI ሰርጥ ወይም መቅጃ መሳሪያ"
+imprimir_lcdgrabcfg_MSG3="ሲዲ-ሮም፣ ዲቪዲ-ሮም ወይም BD-ROM አንባቢ"
+imprimir_lcdgrabcfg_MSG4="ATAPI መሣሪያ"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="ተጭኗል "
+chequeo_de_aplicaciones_MSG2="አልተጫነም"
+chequeo_de_aplicaciones_MSG3="ጫን"
+chequeo_de_aplicaciones_MSG4="አስፈላጊ:"
+chequeo_de_aplicaciones_MSG5="አስፈላጊዎቹን መሳሪያዎች ሊኑክስ-ሲዲግራብ መጫን ሙሉ በሙሉ ይሰራል"
+chequeo_de_aplicaciones_MSG6="Linux-cdgrab የሚፈልጋቸው ሁሉም ፕሮግራሞች በእርስዎ ስርዓት ላይ ተጭነዋል"
+chequeo_de_aplicaciones_MSG4B="ማሳሰቢያ:"
+chequeo_de_aplicaciones_MSG5B="የጎደሉ መሳሪያዎች ተገኝተዋል"
+chequeo_de_aplicaciones_MSG6B="በስርዓቱ ላይ የተጫኑ መሳሪያዎች"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 በነባሪ ለዚህ ተለዋዋጭ ተመድቧል"
+msgdefCANALATAPI_MSG2="የማዋቀሪያው ፋይል በCANALATAPI = 0,0,0 ይጻፋል"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="የማዋቀሪያ ፋይል በራስ-ሰር በሊኑክስ-cdgrab የመነጨ ነው። "
+nuevo_lcdgrabcfg_MSG5="cdrecord በስርዓቱ ውስጥ አልተገኘም"
+nuevo_lcdgrabcfg_MSG6="የ cdrtools ጥቅል ጫን።"
+nuevo_lcdgrabcfg_MSG7="እሴቶቹን በመግለጽ ውቅሩን መቀጠል ይችላሉ"
+nuevo_lcdgrabcfg_MSG8="ቀደም ብለው የሚያውቋቸው ከሆነ መቅዳት።"
+nuevo_lcdgrabcfg_MSG9="የሲዲኮርድ ትዕዛዝ ሲዲ፣ዲቪዲ እና ቢዲ ዲስኮች ለመቅዳት ጥቅም ላይ ይውላል"
+nuevo_lcdgrabcfg_MSG10="እነዚህ አማራጮች እሽግ እስካልተጫነ ድረስ ተግባራዊ አይሆኑም።"
+nuevo_lcdgrabcfg_MSG11="የድራይቭ ፍተሻ መሳሪያው፣ አሁን፣ እንዲሁም የሚሰራ አይሆንም"
+nuevo_lcdgrabcfg_MSG12="በዚህ የውቅር አዋቂ።"
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab በሚከተሉት አራት ደረጃዎች ማዋቀር ያስፈልገዋል"
+nuevo_lcdgrabcfg_MSG14="የመጀመሪያ ደረጃ"
+nuevo_lcdgrabcfg_MSG15="የቀረጻ ፍጥነት:"
+nuevo_lcdgrabcfg_MSG16="አንድ ቁጥር ብቻ 2,4,8,16,32... ወዘተ "
+nuevo_lcdgrabcfg_MSG17="ሁለተኛ ደረጃ"
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI ሰርጥ ወይም መቅጃ መሳሪያ፡"
+nuevo_lcdgrabcfg_MSG19="A -> እገዛ"
+nuevo_lcdgrabcfg_MSG20="በመቃኘት ላይ..."
+nuevo_lcdgrabcfg_MSG21="IDE/SCSI ወደብ መቃኘት ላይ ስህተት"
+nuevo_lcdgrabcfg_MSG22="ሲድሪኮርድ አልተገኘም"
+nuevo_lcdgrabcfg_MSG23=" ሦስተኛ ደረጃ።"
+nuevo_lcdgrabcfg_MSG24="CD-ROM፣ DVD-ROM ወይም BD-ROM መሣሪያ"
+nuevo_lcdgrabcfg_MSG25="L -> የሚገኙ መሣሪያዎችን ይዘርዝሩ"
+nuevo_lcdgrabcfg_MSG26="መቃኘት..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI ወደብ ተቃኘ"
+nuevo_lcdgrabcfg_MSG28="በብዙ ክፍለ-ጊዜ ቅጂዎች በcdrecord through dev=ATAPI ጥቅም ላይ የሚውል መሣሪያ"
+nuevo_lcdgrabcfg_MSG30="መሣሪያው እንደ 0,0,0 ወይም 1,0,0 ወዘተ ያሉ ስያሜዎች አሉት"
+nuevo_lcdgrabcfg_MSG31="በብዙ ሲዲዎች ላይ ሲድሪኮርድ ለመደወል መሳሪያውን ይግለጹ:"
+nuevo_lcdgrabcfg_MSG32="ውቅሩ ለCANALATAPI ትክክል አይደለም"
+nuevo_lcdgrabcfg_MSG33="IDE/SCSI ወደብ መቃኘት ላይ ስህተት"
+nuevo_lcdgrabcfg_MSG34="ሲድሪኮርድ አልተገኘም"
+nuevo_lcdgrabcfg_MSG36="የማዋቀር ፋይል በራስ-ሰር በሊኑክስ-cdgrab የመነጨ ነው።"
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB ማዋቀር ተጠናቅቋል"
+
+# colores
+
+colores_MSG1="የቀለማት ዝርዝር ሊገኝ አይችልም"
+colores_MSG2="ነባሪ ቀለሞችን በመጫን ላይ"
+colores_MSG3="ለ LINUX-CDGRAB በይነገጽ አዲስ የቀለም መርሃ ግብር ምረጥ"
+colores_MSG4="ጥቁር ፊደል"
+colores_MSG5="መደበኛ ብሩህ ፊደል"
+colores_MSG6="ጥቁር ዳራ ቀለም"
+colores_MSG7="ቀይ ፊደል"
+colores_MSG8="ብሩህ ጥቁር ፊደል"
+colores_MSG9="ቀይ ዳራ ቀለም"
+# Resultado del traductor
+colores_MSG10="FONT አረንጓዴ"
+colores_MSG11="ብሩህ ቀይ ፏፏቴ"
+colores_MSG12="አረንጓዴ ዳራ ቀለም"
+colores_MSG13="ቢጫ ፊደል"
+colores_MSG14="ብሩህ አረንጓዴ ፊደል"
+colores_MSG15="ብርቱካናማ ጀርባ ቀለም"
+colores_MSG16="ሰማያዊ ፊደል"
+colores_MSG17="ብሩህ ቢጫ ፊደል"
+colores_MSG18="ሰማያዊ ዳራ ቀለም"
+# El traductor no traduce la palabra magenta
+colores_MSG19="MAGENTA ቅርጸ-ቁምፊ"
+colores_MSG20="ብሩህ ሰማያዊ ፊደል"
+# El traductor no traduce la palabra magenta
+colores_MSG21="MAGENTA የጀርባ ቀለም"
+colores_MSG22="ሳይያን ምንጭ"
+# El traductor no traduce la palabra magenta
+colores_MSG23="MAGENTA ደማቅ ቅርጸ-ቁምፊ"
+colores_MSG24="ሳይያን ዳራ ቀለም"
+colores_MSG25="ግራጫ ፊደል"
+colores_MSG26="ሳይያን ዳራ ቀለም"
+colores_MSG27="ብሩህ ሳያን ፊደል"
+colores_MSG28="ግራጫ ዳራ ቀለም"
+colores_MSG29="ነባሪ ምንጭ"
+colores_MSG30="ብሩህ ነጭ ፊደል"
+colores_MSG31="ነባሪ የጀርባ ቀለም"
+colores_MSG32="የቅርጸ-ቁምፊው ቀለም ቁጥር፡"
+colores_MSG33="የቀለም ቁጥር ለጀርባ:"
+colores_MSG34="የቀለም ቁጥር ለማስጠንቀቂያ መልእክት፡"
+colores_MSG35="የመለያ መልእክቶች የቀለም ቁጥር፡"
+colores_MSG36="በተሳካ ሁኔታ ለተጠናቀቁ ሂደቶች የቀለም ቁጥር"
+colores_MSG37="በስህተት ለተቋረጡ ሂደቶች የቀለም ቁጥር፡"
+colores_MSG38="አዲስ እቅድ ለ LINUX-CDGRAB"
+colores_MSG39="አጠቃላይ የቅርጸ-ቁምፊ ቀለም "
+colores_MSG40="መለያዎች"
+colores_MSG41="ማሳወቂያዎች"
+colores_MSG42="ስኬት"
+colores_MSG43="ስህተት"
+colores_MSG44="የጀርባ ቀለም"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="የሚገኙ ቀለሞች ዝርዝር፡-"
+cambiar_esquema_de_color_MSG2="#####የቀለም መርሃግብሮች#######"
+cambiar_esquema_de_color_MSG3="------------------------"
+cambiar_esquema_de_color_MSG4="የቀለም ምናሌ"
+cambiar_esquema_de_color_MSG5="አልተሳካም።"
+cambiar_esquema_de_color_MSG6="መለያዎች"
+cambiar_esquema_de_color_MSG6b="ማሳሰቢያዎች"
+cambiar_esquema_de_color_MSG7="የቀለም ምናሌ እሺ የስህተት ማስታወሻዎች መለያዎች"
+cambiar_esquema_de_color_MSG8="የአዲሱን ቀለም ቁጥር ያስገቡ፡-"
+cambiar_esquema_de_color_MSG9="ልክ ያልሆነ አማራጭ"
+cambiar_esquema_de_color_MSG10="ነባሪውን ቀለሞች በማዘጋጀት ላይ።"
+cambiar_esquema_de_color_MSG11="  ዳራ = ሰማያዊ ዳራ"
+cambiar_esquema_de_color_MSG12="  ምንጭ = ደማቅ ነጭ"
+cambiar_esquema_de_color_MSG13="  ማሳሰቢያዎች = ደማቅ ቢጫ"
+cambiar_esquema_de_color_MSG14="  ስህተቶች = ደማቅ ቀይ"
+cambiar_esquema_de_color_MSG15="  ስህተቶች = ደማቅ ቀይ"
+cambiar_esquema_de_color_MSG16="  ስኬቶች = ብሩህ አረንጓዴ"
+cambiar_esquema_de_color_MSG17="  መለያዎች = ደማቅ ሳይያን"
+
+# cambia_lector
+
+cambia_lector_MSG1="የአካባቢ ቅንጅቶች ለኦፕቲካል ዩኒቶች"
+cambia_lector_MSG2="የአሁኑ መሣሪያ ከሲዲ-ሮም፣ ዲቪዲ-ሮም ወይም ቢዲ-ሮም ጋር የተገናኘ"
+cambia_lector_MSG3="የአሁኑ መሣሪያ ከሲዲ/ዲቪዲ/ቢዲ በርነር ጋር የተያያዘ"
+cambia_lector_MSG4="የአሁኑ መሣሪያ ከፓራሜትር dev=ATAPI ጋር የተያያዘ"
+cambia_lector_MSG5="ባለብዙ ክፍለ ጊዜ ድጋፍ ለ cdrecord"
+cambia_lector_MSG6="ለውጡ የሚካሄድበትን መሣሪያ ይምረጡ።"
+cambia_lector_MSG7="አማራጭ አስገባ:"
+cambia_lector_MSG8="የአዲሱን መሣሪያ ስም አስገባ"
+cambia_lector_MSG9="ከአግድ መሣሪያ ጋር አይዛመድም"
+cambia_lector_MSG10="መሣሪያ"
+cambia_lector_MSG11="በነባሪነት ተመድቧል"
+cambia_lector_MSG12="አዲሱ መሣሪያ ይህ ነው:"
+cambia_lector_MSG13="ሁሉም የሲዲኮርድ ስሪቶች የማገጃ መሣሪያን እንደ ቀረጻ መለኪያ አድርገው አይቀበሉም"
+cambia_lector_MSG14="የአዲሱን ATAPI መሣሪያ ስም አስገባ"
+cambia_lector_MSG15="ውቅሩ ለCANALATAPI ትክክል አይደለም"
+cambia_lector_MSG16="0,0,0 በነባሪ ለዚህ ተለዋዋጭ ተመድቧል"
+cambia_lector_MSG17="የማዋቀሪያው ፋይል በCANALATAPI = 0,0,0 ይጻፋል"
+cambia_lector_MSG18="አዲሱ መሣሪያ ይህ ነው:"
+cambia_lector_MSG19="በመሳሪያዎቹ ላይ ምንም ለውጦች አይደረጉም"
+cambia_lector_MSG4B="ከውቅረት ፋይሉ ወደ ውጭ ላክ"
+cambia_lector_MSG4C="እሴቶቹ ለአካባቢው ሪፖርት ተደርገዋል፡"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="ከዚህ ምናሌ የትኛውን መገልገያ መምረጥ ትችላለህ"
+cambia_generador_isocd_MSG2="የ ISO-9660 ምስሎችን ለመፍጠር ጥቅም ላይ ይውላል"
+cambia_generador_isocd_MSG3="በንባብ ክፍል ላይ ካለው ሲዲኤስ"
+cambia_generador_isocd_MSG4="የአሁኑ ውቅር:"
+cambia_generador_isocd_MSG5="dd ጂኤንዩ coreutils አካል ተጠቀም"
+cambia_generador_isocd_MSG6="readcd cdrtools አካል ተጠቀም"
+cambia_generador_isocd_MSG7="የቀድሞው ምናሌ"
+cambia_generador_isocd_MSG8="አማራጭ ምረጥ:"
+cambia_generador_isocd_MSG9="dd እንደ አይሶ ጄኔሬተር መጠቀም።"
+cambia_generador_isocd_MSG10="readcd እንደ አይሶ ጄኔሬተር መጠቀም።"
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="የHFS ሜታዳታ ከሮክ ሪጅ እና ጆሊየት ጋር አዘጋጅ"
+establecer_hfs_iso_MSG2="Rock Ridge እና Joliet ሜታዳታ ብቻ ተጠቀም"
+establecer_hfs_iso_MSG3="የቀድሞው ምናሌ"
+establecer_hfs_iso_MSG4="አማራጭ ምረጥ:"
+establecer_hfs_iso_MSG5="HFS፣ Rock Ridge እና Joliet ሜታዳታ በመጠቀም"
+establecer_hfs_iso_MSG6="Rock Ridge እና Joliet ሜታዳታ በመጠቀም"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="የአሁኑ የማሳወቂያ ስርዓት"
+cambia_notificaciones_MSG2A="GNOME ግራፊክ በይነገጽ "
+cambia_notificaciones_MSG2B="KDE ግራፊክ በይነገጽ"
+cambia_notificaciones_MSG2="በይነገጽ ከእርግማኖች ጋር"
+cambia_notificaciones_MSG3="የጽሑፍ በይነገጽ"
+cambia_notificaciones_MSG4="ውጣ"
+cambia_notificaciones_MSG5="አማራጭ ምረጥ:"
+cambia_notificaciones_MSG6="በመነጋገር በይነገጽ መጠቀም"
+cambia_notidicaciones_MSG6B="ከዜኒቲ ጋር በይነገጽ መጠቀም"
+cambia_notidicaciones_MSG6C="ከክዲያሎግ ጋር በይነገጽ መጠቀም"
+cambia_notificaciones_MSG7="የውይይት ትዕዛዝ አልተገኘም"
+cambia_notificaciones_MSG8="የጽሑፍ በይነገጽን በመጠቀም"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="ጥቅም ላይ የዋለ ቋንቋ:"
+cambiar_idioma_UI_MSG1="በአሁኑ ጊዜ የሚገኙ ቋንቋዎች፡"
+cambiar_idioma_UI_MSG2="የሚገለገልበትን ቋንቋ ስም አስገባ"
+cambiar_idioma_UI_MSG3="በመተግበሪያ በይነገጽ ውስጥ:"
+cambiar_idioma_UI_MSG4="አዲሱ ቋንቋ ጥቅም ላይ የዋለው ይህ ነው:"
+cambiar_idioma_UI_MSG5="LINUX-CDGRAB ዳግም አስጀምር "
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="የአሁኑ ውቅር"
+seleccion_gestor_archivos_MSG2="mc ተጠቀም"
+seleccion_gestor_archivos_MSG3="የተቀናጀ የጽሑፍ አስተዳዳሪ ተጠቀም"
+seleccion_gestor_archivos_MSG4="mc በስርዓቱ ላይ ተጭኖ ሊገኝ አይችልም"
+seleccion_gestor_archivos_MSG5="በነባሪ የተዋሃደውን የጽሑፍ አስተዳዳሪ ተጠቀም"
+seleccion_gestor_archivos_MSG6="mc መገልገያ"
+seleccion_gestor_archivos_MSG7="የተዋሃደ ጽሑፍ"
+
+# centro_de_control
+
+centro_de_control_MSG1="የመቆጣጠሪያ ማዕከል"
+centro_de_control_MSG2="አዲስ ውቅር"
+centro_de_control_MSG3="የውቅረት ፋይል ሰርዝ"
+centro_de_control_MSG4="የአሁኑን የውቅር ፋይል እና እሴቶች አሳይ"
+centro_de_control_MSG5="የማዋቀሪያ ፋይል እሴቶች:"
+centro_de_control_MSG5B="በአካባቢው ጥቅም ላይ የዋለ የአሁኑ ውቅረት:"
+centro_de_control_MSG6="የጨረር ሚዲያ ቀይር"
+centro_de_control_MSG7="የተጫኑ ፕሮግራሞችን ፈትሽ"
+centro_de_control_MSG8="IDE/SCSI ወደብ በሲድሪኮርድ ይቃኙ"
+centro_de_control_MSG8C="IDE/SCSI ወደብ በcdrskin ይቃኙ"
+centro_de_control_MSG8B="በሲስተሙ ውስጥ ከ cdrskin ጋር የተጫኑ ክፍሎችን ይዘርዝሩ"
+centro_de_control_MSG9="አይሶ የሚያመነጭ መገልገያ ከሲዲ ቀይር"
+centro_de_control_MSG9B="HFS ዲበ ውሂብ ለአይሶ-9660 አዘጋጅ"
+centro_de_control_MSG10="የተጠቃሚ በይነገጽ ቀይር"
+centro_de_control_MSG10b="ቀለም ቀይር"
+centro_de_control_MSG10c="በይነገጽ ቋንቋ ቀይር"
+centro_de_control_MSG11="ፋይል አቀናባሪ ቀይር"
+centro_de_control_MSG11B="ፕሮግራም አራግፍ"
+centro_de_control_MSG12="አማራጭ አስገባ:"
+centro_de_control_MSG13="የማዋቀር ፋይል የለም"
+centro_de_control_MSG14="የማዋቀሪያ ፋይል አልተገኘም"
+centro_de_control_MSG15="መቃኘት"
+centro_de_control_MSG16="IDE/SCSI ወደብ ተቃኘ"
+centro_de_control_MSG17="IDE/SCSI ወደብ መቃኘት ላይ ስህተት"
+centro_de_control_MSG18="የቀለም ንድፍ ምረጥ"
+centro_de_control_MSG19="በዘፈቀደ ቀለሞችን ምረጥ"
+centro_de_control_MSG20="የቀድሞው ምናሌ"
+centro_de_control_MSG21="አማራጭ አስገባ:"
+centro_de_control_MSG22="የማዋቀር ፋይል የለም"
+centro_de_control_MSG23="የማዋቀሪያ ፋይል አልተገኘም"
+centro_de_control_MSG24="የቀለም ንድፍ ምረጥ"
+centro_de_control_MSG25="በዘፈቀደ ቀለሞችን ምረጥ "
+centro_de_control_MSG26="ልክ ያልሆነ አማራጭ"
+

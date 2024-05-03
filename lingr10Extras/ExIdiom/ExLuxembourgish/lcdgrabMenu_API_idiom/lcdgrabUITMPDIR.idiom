@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLuxembourgish/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Luxemburgués para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Dateien an /tmp"
+dir_tmp_MSG2="All Biller a kompriméiert Dateien läschen"
+dir_tmp_MSG3="Fichiermanager fir aner Operatiounen starten"
+dir_tmp_MSG4="E Bild montéieren oder unmounten"
+dir_tmp_MSG5="D'Bild Erstellungsmenü weisen"
+dir_tmp_MSG6="Billeropnamoptiounen weisen"
+dir_tmp_MSG7="Menü virdru"
+dir_tmp_MSG8="LËSCHT VUN EXISTIEREN FICHEN IN"
+dir_tmp_MSG9="WËLLT ENG OPTION:"
+dir_tmp_MSG10="LÄSCHT BILER A FICHER"
+dir_tmp_MSG11="Mount Bild."
+dir_tmp_MSG12="Bild erofhuelen."
+dir_tmp_MSG13="Bild op CD brennen"
+dir_tmp_MSG14="Bild op DVD brennen"
+dir_tmp_MSG14B="Bild op BD brennen"
+dir_tmp_MSG15="Wielt Optioun no dem Opnammedium"
+dir_tmp_MSG16="DÉI FILE ASS DEN KONFIGURATIOUN FILE NET FONNEN"
+dir_tmp_MSG17="Den Opnamprozess ofbriechen"
+dir_tmp_MSG18="Spezifizéiert d'.iso Datei fir ze brennen"
+dir_tmp_MSG19="Gitt de Bildwee an: "

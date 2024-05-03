@@ -1,0 +1,47 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Islandés para la aplicación principal#
+# Traducción experimental.                         #
+# Generado con Google Translate                    #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Skrá búin til sjálfkrafa af LINUX-CDGRAB 1.0"
+creacion_de_Depot_MSG2="Þessi skrá ásamt möppunni"
+creacion_de_Depot_MSG3="hafa verið mynduð sjálfkrafa"
+creacion_de_Depot_MSG4="með Linux-cdgrab forritinu þegar þú staðfestir að það hafi ekki verið til í Linux dreifingunni þinni"
+creacion_de_Depot_MSG5="skráin"
+creacion_de_Depot_MSG6="Linux-cdgrab notar þessa möppu til að skrifa tímabundnar skrár og tæki myndir (iso, img osfrv.)"
+creacion_de_Depot_MSG8="Depot er notað af GoboLinux til að geyma tímabundnar skrár"
+creacion_de_Depot_MSG9="Tilgangur þessarar skráar er eingöngu til upplýsinga, þú getur frjálslega eytt henni þegar hún hefur verið lesin."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="ATKYNNING:"
+main_IDSISTEMA_MSG2="Stýrikerfi ekki stutt."
+main_IDSISTEMA_MSG3="Ef það eru vandamál í rekstri forritsins, notaðu GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="Það eru ekki gild rök"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="fundið"
+main_cdkit_test_MSG2="tengill á wodim búinn til"
+main_cdkit_test_MSG3="tengill á genisoimage búin til"
+main_cdkit_test_MSG4="tengill á icedax búinn til"
+
+# pgm principal
+
+pgm_principal_MSG1="FATAL: Engin rétt möppudreifing fannst."
+pgm_principal_MSG2="Ókunnugur"
+
+
+

@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExItalian/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Italiano, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Seleziona l'interfaccia utente che verrà utilizzata:"
+SeleccionaIUDVD_MSG2="Utilizza l'interfaccia per dvd+-rw-tools"
+SeleccionaIUDVD_MSG3="Utilizza l'interfaccia per Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Utilizza l'interfaccia per libburnia"
+SeleccionaIUDVD_MSG5="Menu precedente"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="REGISTRAZIONE SU DVD"
+menugrabar_dvd_MSG2="----------------- DVD - DATI ------------------"
+menugrabar_dvd_MSG3="Copia un DVD di dati ISO-9660"
+menugrabar_dvd_MSG4="Crea un'immagine DVD precedente sul disco rigido"
+menugrabar_dvd_MSG5="Masterizza un nuovo DVD dati ISO-9660"
+menugrabar_dvd_MSG6="Aggiungi nuova sessione dati al DVD dati ISO-9660 (DVD multisessione)"
+menugrabar_dvd_MSG7="Richiede un DVD precedentemente registrato utilizzando la seconda opzione"
+menugrabar_dvd_MSG8="Masterizza un'immagine dati ISO-9660 su DVD"
+menugrabar_dvd_MSG9="Masterizza un'immagine .ext2 su DVD"
+menugrabar_dvd_MSG10="----------------- DVD - VIDEO -----------------"
+menugrabar_dvd_MSG11="Masterizza un nuovo DVD-Video"
+menugrabar_dvd_MSG12="---------------- ALTRE OPZIONI ----------------"
+menugrabar_dvd_MSG13="Formatta un DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Mostra informazioni sul disco DVD"
+menugrabar_dvd_MSG0="Menù precedente"
+menugrabar_dvd_MSGPRINCIPAL="Digita un'opzione"
+menugrabar_dvd_MSG15="File e directory da includere nel DVD"
+menugrabar_dvd_MSG16="Avvio del file manager..."
+menugrabar_dvd_MSG17="Immagine.iso da masterizzare su DVD"
+menugrabar_dvd_MSG18="Digita il percorso della directory in cui si trova l'immagine .iso che desideri masterizzare"
+menugrabar_dvd_MSG19="Richiede la versione di cdrecord con supporto DVD."
+menugrabar_dvd_MSG20="La registrazione dell'immagine .ext2 su DVD verrà effettuata con cdrecord."
+menugrabar_dvd_MSG21="La versione cdrecord esistente nella tua installazione dovrebbe"
+menugrabar_dvd_MSG22="supporta la registrazione di DVD."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="SCEGLI UN'OPZIONE"
+dvd_clonar_MSG2="--- COPIE DISCO CON IMMAGINE ANTEPRIMA ---"
+dvd_clonar_MSG3="Copia un DVD di dati"
+dvd_clonar_MSG4="Crea un'immagine DVD precedente sul disco rigido"
+dvd_clonar_MSG5="--- COPIE DISCO SUL VOLO ---"
+dvd_clonar_MSG6="Copia un DVD di dati al volo"
+dvd_clonar_MSG7="Clona un DVD dati al volo"
+dvd_clonar_MSG8="LE OPZIONI DI COPIA VOLANTE RICHIEDONO DUE UNITÀ OTTICHE"
+dvd_clonar_MSG9="INSTALLATO SUL VOSTRO COMPUTER, DATO CHE I DATI SONO REGISTRATI MENTRE"
+dvd_clonar_MSG10="LEGGI DIRETTAMENTE DAL DISCO DI ORIGINE, SE SOLO IL TUO COMPUTER LO HA"
+dvd_clonar_MSG11="NON POTRAI UTILIZZARE LE COPIE SUL VOLO."
+dvd_clonar_MSG0="Menù precedente"
+dvd_clonar_MSG12="COPIA DATI DVD"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="REGISTRAZIONE SU DVD"
+menugrabar_DVD_MSG2="------------------- DVD - DATI ------------------"
+menugrabar_DVD_MSG3="Copia DVD dati"
+menugrabar_DVD_MSG4="Masterizza un nuovo DVD dati"
+menugrabar_DVD_MSG5="Masterizza immagine .iso o .ext2 su DVD"
+menugrabar_DVD_MSG6="Formatta DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Mostra informazioni sul disco nell'unità"
+menugrabar_DVD_MSG0="Menu precedente"
+menugrabar_DVD_MSGPRINCIPAL="Digita un'opzione"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Masterizza immagine ISO-9660 su DVD"
+menugrabar_DVD_libburnia_MSG2="Masterizza dati dal disco rigido su DVD"
+menugrabar_DVD_libburnia_MSG3="Formatta DVD"
+menugrabar_DVD_libburnia_MSG4="Formatta DVD-RW in incrementale sequenziale"
+menugrabar_DVD_libburnia_MSG5="Formatta DVD-RW per sovrascrittura limitata"
+menugrabar_DVD_libburnia_MSG6="Mostra informazioni sull'unità"
+menugrabar_DVD_libburnia_MSG8="Elenca le unità installate nel sistema"
+menugrabar_DVD_libburnia_MSG0="Esci"
+menugrabar_DVD_libburnia_MSG7="Inserisci un'opzione"
+

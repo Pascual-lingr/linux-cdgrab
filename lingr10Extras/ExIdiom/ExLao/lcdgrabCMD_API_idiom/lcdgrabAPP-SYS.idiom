@@ -1,0 +1,113 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Lao para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="ກຳລັງລອງຂະບວນການບັນທຶກຄືນໃໝ່..."
+m_cdrecord_sin_overburn_MSG2="ແລ່ນ cdrecord ໂດຍບໍ່ມີທາງເລືອກ -overburn"
+m_cdrecord_sin_overburn_MSG3="-overburn ບໍ່ຮອງຮັບໃນອຸປະກອນບັນທຶກເກົ່າ, ຫຼືໃນ cdrecord ລຸ້ນເກົ່າ."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="ຕົວເລືອກບໍ່ຖືກຕ້ອງ"
+
+# img_error
+
+img_error_D_MSG1="ຜິດພາດໃນເວລາສ້າງຮູບພາບ"
+
+# CD_error
+
+CD_error_D_MSG1="ຜິດພາດໃນເວລາເຜົາ CD"
+
+# DVD_error
+
+DVD_error_D_MSG1="ຜິດ​ພາດ​ໃນ​ເວ​ລາ​ທີ່​ການ​ເຜົາ​ໄຫມ້ DVD"
+
+# DO_error
+
+# Resultado del traductor
+DO_error_D_MSG1="ຜິດພາດໃນເວລາຂຽນ Optical DISC"
+
+# tecla
+
+tecla_D_MSG1="\nກົດ ENTER ເພື່ອສືບຕໍ່."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="ເສັ້ນທາງຂອງໄດເລກະທໍລີທີ່ຈະເຜົາໄໝ້ເພື່ອແຍກ"
+rutas_dir_D_MSG2="ໃສ່ຊື່ໄດເລກະທໍລີ (f ເພື່ອອອກ):"
+rutas_dir_D_MSG3="ໄດເລກະທໍລີ"
+rutas_dir_D_MSG4="ບໍ່​ຖືກ​ຕ້ອງ"
+
+# una_sola_grabadora
+
+# Resultado del traductor
+una_sola_grabadora_D_MSG1="ໜ່ວຍ optical ດຽວກັນຢູ່ໃນລະບົບ"
+una_sola_grabadora_D_MSG2="ໜ່ວຍອ່ານ ແລະບັນທຶກແມ່ນຄືກັນ. ສົມມຸດວ່າລະບົບຂອງເຈົ້າມີພຽງໜ່ວຍດຽວເທົ່ານັ້ນ. ເອົາແຜ່ນຕົ້ນສະບັບອອກຈາກຫົວຫນ່ວຍ. ໃສ່ແຜ່ນແວ່ນຕາເວີຈິນໄອແລນເພື່ອສືບຕໍ່ຂະບວນການບັນທຶກ"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="ການ​ບັນ​ທຶກ​ຂອງ​ແຜ່ນ​ໄດ້​ສໍາ​ເລັດ​ຢ່າງ​ສໍາ​ເລັດ​ຜົນ​"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="ຕົວເລືອກບໍ່ຖືກຕ້ອງ"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="ການ​ບັນ​ທຶກ​ຂອງ​ແຜ່ນ​ໄດ້​ສໍາ​ເລັດ​ຢ່າງ​ສໍາ​ເລັດ​ຜົນ​"
+
+# text_img_error
+
+text_img_error_MSG1="ຜິດພາດໃນເວລາສ້າງຮູບພາບ"
+
+# text_CD_error
+
+text_CD_error_MSG1="ຜິດພາດໃນເວລາເຜົາ CD"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="ຜິດ​ພາດ​ໃນ​ເວ​ລາ​ທີ່​ການ​ເຜົາ​ໄຫມ້ DVD"
+
+# text_DO_error
+
+# Resultado del traductor
+text_DO_error_MSG1="ຜິດພາດໃນເວລາຂຽນ Optical DISC"
+
+# teclash
+
+teclash_MSG1="ກົດ ENTER ເພື່ອສືບຕໍ່."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="ໃສ່ຊື່ໄດເລກະທໍລີ ( f ເພື່ອອອກ ):"
+text_rutas_dir_MSG2="ໄດເລກະທໍລີ"
+text_rutas_dir_MSG3="ບໍ່ຖືກຕ້ອງ"
+
+# text_una_sola_grabadora
+
+# Resultado del traductor
+text_una_sola_grabadora_MSG1="ໜ່ວຍ optical ດຽວກັນຢູ່ໃນລະບົບ"
+text_una_sola_grabadora_MSG2="ໜ່ວຍການອ່ານ ແລະການບັນທຶກແມ່ນຄືກັນ."
+text_una_sola_grabadora_MSG3="ມັນສົມມຸດວ່າລະບົບຂອງເຈົ້າມີອັນດຽວເທົ່ານັ້ນ"
+text_una_sola_grabadora_MSG4="ໜ່ວຍກາຍຍະກຳ."
+text_una_sola_grabadora_MSG5="ເອົາແຜ່ນທີ່ມາຈາກໜ່ວຍງານ."
+# Resultado del traductor
+text_una_sola_grabadora_MSG6="ໃສ່ແຜ່ນ optical ເວີຈິນ"
+text_una_sola_grabadora_MSG7="ເພື່ອສືບຕໍ່ກັບຂັ້ນຕອນການບັນທຶກ."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="ແລ່ນ"

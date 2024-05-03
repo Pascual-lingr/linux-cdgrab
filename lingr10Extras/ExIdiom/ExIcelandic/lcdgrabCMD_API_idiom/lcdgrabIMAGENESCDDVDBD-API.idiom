@@ -1,0 +1,234 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en islandés para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="MYNDASKJÁARKERFI"
+imagen_linux_fs_MSG2="Veldu skráarkerfið: "
+imagen_linux_fs_MSG3="Búa til mynd fyrir CD-R/RW (702 Mbæti)"
+imagen_linux_fs_MSG4="Búa til mynd fyrir DVD+RW (4 Gbæti)"
+imagen_linux_fs_MSG5="Búa til mynd fyrir DVD+RW/DL (8 Gbæti)"
+imagen_linux_fs_MSG5B="Búa til mynd fyrir BD-R/RE (25 Gbæti)"
+imagen_linux_fs_MSG5C="Búa til myndskrá með sérsniðinni stærð"
+imagen_linux_fs_MSG6="Býr til tóma skrá með getu fyrir 702 Mbæti"
+imagen_linux_fs_MSG7="Býr til tóma skrá með 4 Gbæti"
+imagen_linux_fs_MSG8="Búir til tóma skrá með getu fyrir 8 Gbæti"
+imagen_linux_fs_MSG8B="Búir til tóma skrá með getu fyrir 25 Gbæti"
+imagen_linux_fs_MSG8C="Býr til tóma skrá með sérsniðinni stærð"
+imagen_linux_fs_MSG9="VILLA: MYNDASTÆRÐ ER EKKI ÞEKKT. HÆTTA ER..."
+imagen_linux_fs_MSG10="Í gangi"
+imagen_linux_fs_MSG11="Forritið mun forsníða tómu skrána."
+imagen_linux_fs_MSG12="Kerfið mun vara þig við því að skráin sem áður var búin til sé ekki blokkartæki og spyr hvort þú viljir forsníða hana"
+imagen_linux_fs_MSG13="Svara já"
+imagen_linux_fs_MSG13="SKOÐAÐIÐ Árangursríkt"
+imagen_linux_fs_MSG14=" Festingarmynd . . ."
+imagen_linux_fs_MSG15="VILLA VIÐ FORSNIÐ er Tóma skráar"
+imagen_linux_fs_MSG16="Forritið hefur tengt skrána sniðið í"
+imagen_linux_fs_MSG17="Linux-cdgrab mun ræsa skráarstjórann þannig að hann geti starfað á myndinni sem er fest á"
+imagen_linux_fs_MSG18="Þegar skrárnar hafa verið afritaðar, aftengja sniðið skrána"
+imagen_linux_fs_MSG19="Linux myndin er í þessari möppu"
+imagen_linux_fs_MSG19B="VILLA VIÐ MEÐ MYNDASKÁLINN er settur upp"
+imagen_linux_fs_MSG20="Skráar sem á að hafa með í myndinni. Settar í /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Ræsir skráastjórann..."
+imagen_linux_fs_MSG22="ATKYNNING:"
+imagen_linux_fs_MSG23="----------"
+imagen_linux_fs_MSG24="Myndin"
+imagen_linux_fs_MSG25="enn festur"
+imagen_linux_fs_MSG26="VILLA VIÐ AÐ BÚA TIL TÓMA skrá með dd"
+imagen_linux_fs_MSG27="Gakktu úr skugga um að þú hafir laust pláss á skiptingunni sem er fest á /"
+imagen_linux_fs_MSG34="SKRÁKERFI AÐ FORSNIÐA SKRÁ"
+imagen_linux_fs_MSG35="KYNSTOÐ TÓMAR SKRÁAR MEÐ SÉRNARI STÆRÐ"
+imagen_linux_fs_MSG36="Tilgreindu blokkastærð nýju tómu skráarinnar (aðeins tölulegt gildi):"
+imagen_linux_fs_MSG37="Dæmi um gildi fyrir blokkastærðina eru: 1024, 2048 (aðeins Ext2) eða 4096 (Öll snið)"
+imagen_linux_fs_MSG38="Tilgreindu stærð tómu skráar sem á að búa til (aðeins tölulegt gildi):"
+imagen_linux_fs_MSG39="Rýmismælingar til að búa til tómu skrána:"
+imagen_linux_fs_MSG40="Tilgreindu plássmælinguna sem á að nota: "
+imagen_linux_fs_MSG41="VILLA ÞEGAR STÆRÐARMÆLING er tilgreind"
+imagen_linux_fs_MSG42="Blokkastærðargildi:"
+imagen_linux_fs_MSG43="Magn pláss fyrir tóma skrá:"
+imagen_linux_fs_MSG44="Reiknað gildi í bætum:"
+imagen_linux_fs_MSG45="Reiknað gildi fyrir talningu:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Virkja md5 lestur þegar .iso myndir eru búnar til"
+comprobar_lectura_md5_MSG2="Slökkva á md5 lestri þegar .iso myndir eru búnar til"
+comprobar_lectura_md5_MSG3="Fyrri valmynd"
+comprobar_lectura_md5_MSG4="Núverandi uppsetning:"
+comprobar_lectura_md5_MSG5="Virkt"
+comprobar_lectura_md5_MSG6="Óvirkt"
+comprobar_lectura_md5_MSG7="Lesa md5 summu virkjað"
+comprobar_lectura_md5_MSG8="Lesa md5 summan óvirk"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Nafnið á iso myndinni var ekki hægt að lesa"
+leer_md5sum_MSG2="Les md5summa af"
+leer_md5sum_MSG3="Sýnir md5 summu myndarinnar"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="BÚI TIL CDMYND"
+extraer_isoCD_dd_MSG2="MYND BÚIN TIL"
+extraer_isoCD_dd_MSG3="Finn ekki"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="BÚA TIL DVD MYND"
+extraer_isoDVD_dd_MSG2="í gangi"
+extraer_isoDVD_dd_MSG3="MYND BÚIN TIL"
+extraer_isoDVD_dd_MSG4="Finn ekki"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="í gangi"
+extraer_iso_readcd_MSG2="MYND BÚIN TIL TAKA"
+extraer_iso_readcd_MSG3="Mynd búin til í"
+extraer_iso_readcd_MSG4="Hættir upptökuferli..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Fengdur geisladiskur"
+extraer_iso_mkisofs_MSG2="Býr til mynd..."
+extraer_iso_mkisofs_MSG3="Macintosh samhæfni virkt"
+extraer_iso_mkisofs_MSG4="Notandi"
+extraer_iso_mkisofs_MSG5="hlaupandi"
+extraer_iso_mkisofs_MSG6="Mynd búin til í möppu"
+extraer_iso_mkisofs_MSG7="Reynir ferlið aftur án Macintosh stuðnings"
+extraer_iso_mkisofs_MSG8="Mynd búin til í möppu"
+extraer_iso_mkisofs_MSG9="mkisofs skilar óþekktum villum þegar búið er til"
+extraer_iso_mkisofs_MSG10="frá"
+extraer_iso_mkisofs_MSG11="Athugaðu gagnaheilleika"
+extraer_iso_mkisofs_MSG12="Setning"
+extraer_iso_mkisofs_MSG12B="is"
+extraer_iso_mkisofs_MSG13="genisoimage skilar óþekktum villum þegar búið er til"
+extraer_iso_mkisofs_MSG13B="frá"
+extraer_iso_mkisofs_MSG14="Mkisofs og genisoimage fundust ekki. Vinsamlegast settu upp cdrtools eða cdrkit."
+extraer_iso_mkisofs_MSG15="Ekki var hægt að tengja"
+extraer_iso_mkisofs_MSG16="Mynd búin til í"
+
+# m_comp_img
+
+m_comp_img_MSG1="MYND mynduð með góðum árangri í"
+m_comp_img_MSG2="VILTU ÞJÁPA MYNDASKÁLA?"
+m_comp_img_MSG3="(s/y) til að þjappa; Ferlið er hætt við annan valkost."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Ræsir skráastjórann..."
+generar_iso_directorio_MSG2="Sláðu inn nafn fyrir framtíðar geisladisk/DVD/BD"
+generar_iso_directorio_MSG3="BÚI TIL MYND..."
+generar_iso_directorio_MSG4="Macintosh samhæfni virkt"
+generar_iso_directorio_MSG5="Notandi"
+generar_iso_directorio_MSG6="í gangi"
+generar_iso_directorio_MSG7="MYND BÚIN TIL Í MÁLINUM"
+generar_iso_directorio_MSG8="MYNDABÚUNARFERLIÐ ER MEKKIÐ"
+generar_iso_directorio_MSG9="BÚA TIL MYND ÁN MACINTOSH SAMRÆMI"
+generar_iso_directorio_MSG10="Mkisofs og genisoimage finnast ekki. Vinsamlegast settu upp cdrtools eða cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Sláðu inn nafn fyrir framtíðar DVD/BD"
+generar_bdv_udf_directorio_MSG2="Tilgreindu möppuna til að búa til myndbandsmyndina:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Tilgreindu diskmerki:"
+generar_iso_directorio_libburnia_MSG2="Tilgreindu möppuna til að búa til iso-9660 myndina:"
+generar_iso_directorio_libburnia_MSG3="ISO9660 mynd búin til!!"
+generar_iso_directorio_libburnia_MSG4="Villa við að búa til iso-9660 mynd með xorriso"
+
+# imagenISO
+
+imagenISO_MSG1=" Skrár og möppur sem á að hafa með í .iso myndinni"
+imagenISO_MSG2="VELDU VALKOST"
+imagenISO_MSG2B="-------------"
+imagenISO_MSG3="Búa til ISO-9660 mynd af geisladiski (notaðu dd)"
+imagenISO_MSG4="Búa til ISO-9660 mynd af DVD (notaðu dd)"
+imagenISO_MSG5="Búa til ISO-9660 mynd af geisladiski (notaðu readcd)"
+imagenISO_MSG6="Búa til ISO-9660 mynd af geisladiski eða DVD diski (notaðu mkisofs)"
+imagenISO_MSG7="Búa til ISO-9660 mynd úr gögnum á harða disknum (notaðu mkisofs)"
+imagenISO_MSG8="Fyrri valmynd"
+imagenISO_MSG9="BÚI TIL MYND"
+imagenISO_MSG10="Búa til ISO-9660 mynd úr gögnum á harða disknum (notaðu xorriso)"
+imagenISO_MSG11="Búa til iso/udf mynd af geisladisk/DVD/BD (notaðu mkisofs)"
+imagenISO_MSG12="Búa til iso/udf mynd úr gögnum á harða disknum (notaðu mkisofs)"
+imagenISO_MSG13="ISO-9660 FORMATARVALmynd"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Búa til UDF/ISO mynd úr gögnum á harða disknum (notaðu mkisofs)"
+imagenISO_MSG15="Búa til UDF/ISO mynd með DVD myndbandsstuðningi (notaðu mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Sláðu inn upprunablokkunarbúnaðinn sem myndin á að gera úr"
+imagen_img_MSG2="----------------------------------------------------------"
+imagen_img_MSG3="Tæki skráð í /etc/fstab og /etc/mtab"
+imagen_img_MSG4="Fergja skipunarúttak:"
+imagen_img_MSG5="Sláðu inn heiti tækisins: "
+imagen_img_MSG6="Býr til .img mynd af blokkartækinu"
+imagen_img_MSG7="hlaupandi"
+imagen_img_MSG8="MYND TÆKIS BÚIN TIL"
+
+# monta_img
+
+monta_img_MSG1="ISO eða ext2 mynd til að tengja."
+monta_img_MSG2="Sláðu inn skráarslóðina þar sem myndin sem á að setja upp er staðsett:"
+monta_img_MSG3="MYND á geisladiski:"
+monta_img_MSG4="VILLA VIÐ MEÐ MYNDASKRÁLINN er settur upp"
+monta_img_MSG5="FINN EKKI"
+monta_img_MSG6="FÆGNINGSTUNDUR ER EKKI TIL"
+monta_img_MSG7="ÓVÆNT VILLA"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO eða ext2 mynd til að taka af."
+desmonta_img_MSG2="MYND Í sundur"
+desmonta_img_MSG3="Engin uppsett mynd fannst"
+desmonta_img_MSG4="Færingarúttak:"
+desmonta_img_MSG5="Þú getur tilgreint algera möppuslóð myndar beint."
+desmonta_img_MSG6="Eins og /tmp/lcdgrabimg.iso eða uppsetningarskrá fyrir myndina eins og /mnt/lcdgrab"
+desmonta_img_MSG7="Ef það er ekki tilgreint er hægt að leita í því með skráastjóranum"
+desmonta_img_MSG8="Ræsir skráasafn"
+desmonta_img_MSG9="Tilgreindu myndslóðina."
+desmonta_img_MSG10="MYND Í sundur"
+desmonta_img_MSG11="VILLA VIÐ AÐ FENGJA MYNDINA"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg mynd til að breyta í .iso"
+nrg_a_iso_MSG2="Sláðu inn slóð .nrg (Nero Burning ROM) myndarinnar sem á að umbreyta"
+nrg_a_iso_MSG3="Umbreytir mynd..."
+nrg_a_iso_MSG4="Slóð uppruna .nrg myndarinnar"
+nrg_a_iso_MSG5="er ekki til eða samsvarar möppu"
+nrg_a_iso_MSG6="Ógild slóð."
+nrg_a_iso_MSG7="það er nú þegar fyrri ISO-9660 mynd, henni verður ekki breytt."
+nrg_a_iso_MSG8="Afritar með annarri viðbót..."
+nrg_a_iso_MSG9="AFRIFT LOKIÐ"
+nrg_a_iso_MSG10="hlaupandi"
+nrg_a_iso_MSG11="Myndi breytt með góðum árangri"
+nrg_a_iso_MSG12="VILLA VIÐ BÚA TIL MYND .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Búa til .cue lýsingarskrá úr .bin mynd"
+GenerarArchivocue_MSG2="Núverandi virk skráasafn"
+GenerarArchivocue_MSG3="Skrifaðu aðeins skráarslóðina þar sem"
+GenerarArchivocue_MSG4="finndu myndskrána:"
+GenerarArchivocue_MSG5="Sláðu inn nafn .bin myndarinnar sem"
+GenerarArchivocue_MSG6="hefur búið til samsvarandi .cue skrá"
+GenerarArchivocue_MSG7="LÝSINGARSKRÁ .cue TEKKIÐ TIL"
+GenerarArchivocue_MSG8="VILLA VIÐ BÚNA TIL LÝSINGARSKRÁ .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="í gangi"
+ImagenbincueCDDVD_MSG2="DISKIMYND .BIN .CUE TEKKIÐ TIL"
+

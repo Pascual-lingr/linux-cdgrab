@@ -1,0 +1,16 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwedish/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Sueco para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="OPTISK DISK UTASTAD"
+expulsar_medio_MSG2="Fel vid försök att mata ut disken från enheten"
+expulsar_medio_MSG3="Ange namnet manuellt:"
+

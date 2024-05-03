@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExNorwegian/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Noruego, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="OPPRETTING OG HÅNDTERING AV DISKEBILDER"
+MenuImagen_MSG2="---------------- BILDEOPPRETTING --------------"
+MenuImagen_MSG3="Opprett et ISO-9660-bilde"
+MenuImagen_MSG4="Lag et bilde med et innebygd Linux-filsystem"
+MenuImagen_MSG5="Lag et .img-bilde av en blokkeringsenhet"
+MenuImagen_MSG6="Lag et .bin .cue-bilde fra gjeldende enhet"
+MenuImagen_MSG7="--------------- ANDRE ALTERNATIVER ------------"
+MenuImagen_MSG8="Generer .cue-beskrivelsesfil fra .bin-bilde"
+MenuImagen_MSG9="Konverter et .nrg (Nero Burning ROM) bilde til .iso"
+MenuImagen_MSG10="Komprimer et bilde med gzip, bzip2 eller xz"
+MenuImagen_MSG11="Dekomprimer et bilde i zip, gz, bz2 eller xz"
+MenuImagen_MSG11B="Sjekk md5-summen av iso-bilder"
+MenuImagen_MSG12="Endre iso-modus"
+MenuImagen_MSG0="Forrige meny"
+MenuImagen_MSG13="Bildefil som skal komprimeres"
+MenuImagen_MSG14="KOMPRESSER BILDEFIL"
+MenuImagen_MSG15="Skriv inn katalogbanen der bildet du vil komprimere er plassert:"
+MenuImagen_MSG16="Bildefil du vil dekomprimere"
+MenuImagen_MSG17="GÅENDE ISO-NIVÅ"
+MenuImagen_MSG18="iso-nivå"
+MenuImagen_MSG19="Filnavn består av en seksjon"
+MenuImagen_MSG20="og er begrenset til 8,3 tegn."
+MenuImagen_MSG21="Velg dette nivået hvis du vil ha navnekompatibilitet"
+MenuImagen_MSG21b="under MS-DOS-operativsystemet"
+MenuImagen_MSG22="Filnavn består av en seksjon"
+MenuImagen_MSG23="Ubegrenset nivå."
+MenuImagen_MSG24="Bruk dette nivået hvis du vil ha filkompatibilitet"
+MenuImagen_MSG25="stor, i dette tilfellet >= 2 Gigabyte."
+MenuImagen_MSG26="Alle ISO-nivåer begrenser filnavn til store, små og"
+MenuImagen_MSG27="tegn som _ . Filnavn er begrenset til 31 tegn"
+MenuImagen_MSG28="Maksimalt 8 katalogbaner og banenavn"
+MenuImagen_MSG29="kataloger til 255 tegn."
+MenuImagen_MSG30="Velg det nye iso-nivået"
+MenuImagen_MSG31="ISO nivå 4 er ikke offisielt"
+MenuImagen_MSG32="Konsulter mkisofs man-side"
+MenuImagen_MSG33="Ugyldig ISO-nivå"
+MenuImagen_MSG34="Sett ISO-nivå 3 som standard"
+

@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en islandés para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3 SKRÁR TIL UMBREYTA"
+mp3awav_MSG0="Sláðu inn slóð .mp3 skránna: "
+mp3awav_MSG1=" UMbreytir"
+mp3awav_MSG1B=" TIL .wav FORMAT"
+mp3awav_MSG2="hlaupandi"
+mp3awav_MSG3="Sýnataka stillt á 44100 Mhz"
+mp3awav_MSG4="Villa við vinnslu sýnatöku"
+mp3awav_MSG5="Tókst ekki að umbreyta"
+mp3awav_MSG6="Myndskrá fannst ekki"
+mp3awav_MSG7="END HLJÓÐUMBREYTINGU"
+mp3awav_MSG8="Vinnur hljóðskrá"
+mp3awav_MSG9="Skrá"
+mp3awav_MSG10="Venjulegt"
+mp3awav_MSG11="Villa við reglusetningu"
+
+# oggawav
+
+oggawav_MSG0="OGG SKRÁR TIL UMBREYTA"
+oggawav_MSG1="Sláðu inn slóð .ogg skráanna: "
+oggawav_MSG2=" UMbreytir"
+oggawav_MSG2B="A .wav FORMAT"
+oggawav_MSG3="hlaupandi"
+oggawav_MSG4="Sýnataka stillt á 44100 Mhz"
+oggawav_MSG5="Villa við vinnslu sýnatöku"
+oggawav_MSG6="Tókst ekki að breyta"
+oggawav_MSG7="Myndskrá fannst ekki"
+oggawav_MSG8="END HLJÓÐUMFYRLU"
+oggawav_MSG9="Vinnur hljóðskrá"
+oggawav_MSG10="Skrá"
+oggawav_MSG11="Venjulegt"
+oggawav_MSG12="Villa við reglusetningu"
+
+# cdawav
+
+cdawav_MSG1="RÍFAR HJÓÐCD..."
+cdawav_MSG2="Kyndir:"
+cdawav_MSG3="HLJÓÐSLÖK TAÐIÐ Árangurslaust!!"
+cdawav_MSG4="Innhald hljóðskráasafns"
+cdawav_MSG5="VILLA VIÐ ÞRIFÐ HLJÓÐSLÖK"
+
+# cddawav
+
+cddawav_MSG1="SLAÐU inn FJÖLDA LAGA TIL AÐ RIFA:"
+cddawav_MSG2="Ýttu á Crtl + c til að hætta við að rífa lag"
+cddawav_MSG3="Kyndir:"
+cddawav_MSG4="Árangursríkt rifið"
+cddawav_MSG5="VILLA VIÐ RIPPING"
+
+# wavamp3
+
+wavamp3_MSG0="WAV SKRÁR TIL UMBREYTA"
+wavamp3_MSG1="Sláðu inn slóð .wav skránna: "
+wavamp3_MSG1B=" UMBREYTIR"
+wavamp3_MSG2="SNIÐ"
+wavamp3_MSG3="Kemdir:"
+wavamp3_MSG4="við umbreytingu"
+wavamp3_MSG5="á .MP3 sniði"
+wavamp3_MSG6="Villa við að breyta"
+wavamp3_MSG7="HLJÓÐUM VIÐSKIPTI LOKIÐ"
+wavamp3_MSG8="HLJÓÐMÁL FINN EKKI"
+
+# cdamp3
+
+cdamp3_MSG1="RIPPAR HJÓÐCD..."
+cdamp3_MSG2="Kyndir:"
+cdamp3_MSG3="HLJÓÐSLÖK TAÐIÐ Árangursríkt!!"
+cdamp3_MSG4="VILLA VIÐ RIPPA HJÓÐSLÖK"
+cdamp3_MSG5="Símtalsaðgerð:"
+
+# wavaogg
+
+wavaogg_MSG1="Sláðu inn slóð .wav skránna: "
+wavaogg_MSG2=" UMbreytir"
+wavaogg_MSG3="A.ogg FORMAT"
+wavaogg_MSG4="Í gangi:"
+wavaogg_MSG5="Villa við að breyta"
+wavaogg_MSG6="á .ogg sniði"
+
+# cdaogg
+
+cdaogg_MSG1="AÐ RIPPA hljóðdiska..."
+cdaogg_MSG2="Kyndir:"
+cdaogg_MSG3="HLJÓÐSLÖK TAÐIÐ Árangurslaust!!"
+cdaogg_MSG4="VILLA VIÐ ÞRIFÐ HLJÓÐSLÖK"
+cdaogg_MSG5="Símtalsaðgerð:"
+
+# corta_wav
+
+corta_wav_MSG0="Fjöldi sekúndna:"
+corta_wav_MSG1="Tilgreindu slóð hljóðskrárinnar sem á að umbreyta:"
+corta_wav_MSG2="Tilgreindu tímann í sekúndnafjölda, sem"
+corta_wav_MSG3="klipping á skránni hefst."
+corta_wav_MSG4="-ATH-"
+corta_wav_MSG5="Til að tilgreina upphaf hljóðsins skaltu slá inn 0"
+corta_wav_MSG6="Gildi í sekúndum til að hefja viðskipti:"
+corta_wav_MSG7="Tilgreindu tímann í sekúndnafjölda, sem"
+corta_wav_MSG8="klippingu á skránni verður lokið."
+corta_wav_MSG9="Gildi í sekúndum fyrir lok viðskipta:"
+corta_wav_MSG10="Í gangi"
+corta_wav_MSG11="Snyrt hljóðskrá"
+corta_wav_MSG12="Villa við að klippa skrá"
+corta_wav_MSG13="Hljóðskrá til að klippa:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV hljóð"
+flacawav_MSG1="Tilgreindu slóð .flac skráanna:"
+flacawav_MSG2=" UMBREYTIR"
+flacawav_MSG3=" TIL .wav FORMAT"
+flacawav_MSG4="Sýnataka stillt á 44100 Mhz"
+flacawav_MSG5="Villa við vinnslu sýnatöku"
+flacawav_MSG6="Vinnur hljóðskrá"
+flacawav_MSG7="Skrá"
+flacawav_MSG8="Venjulegt"
+flacawav_MSG9="Villa í venjulegum stíl"
+flacawav_MSG10="Tókst ekki að breyta"
+flacawav_MSG11="Mappa fannst ekki"
+flacawav_MSG12="END HLJÓÐUMBREYTINGU"
+
+# wavaflac
+
+wavaflac_MSG0="WAV SKRÁR TIL UMBREYTA"
+wavaflac_MSG1="Sláðu inn slóð .wav skránna: "
+wavaflac_MSG2=" UMbreytir"
+wavaflac_MSG3="A.flac FORMAT"
+wavaflac_MSG4="breytt í flac snið"
+wavaflac_MSG5="Villa við að breyta"
+wavaflac_MSG6="á .flac sniði"
+wavaflac_MSG7="FLAC SKRÁMASAL FINNS EKKI"
+

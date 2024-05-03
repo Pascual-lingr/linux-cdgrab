@@ -1,0 +1,24 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en islandés para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="MYNDEÓUMBREYTING"
+menu_conversion_video_MSG2="------------ UMBREYTING Á MILLI SNIÐA -----------"
+menu_conversion_video_MSG3="Breyta myndbandi í Blu Ray Disc Smart-TV samhæft"
+menu_conversion_video_MSG4="Vídeóskrá til að umbreyta:"
+menu_conversion_video_MSG0="Fyrri valmynd"
+menu_conversion_video_MSG6="Taktu upp skjáborðslotu"
+menu_conversion_video_MSG7="Breyta myndbandsskrá í annað snið"
+menu_conversion_video_MSG8="----------------- AÐRIR VALKOSTIR ------------------"
+menu_conversion_video_MSG9="Blandaðu myndskrá við hljóðskrá"
+menu_conversion_video_MSG10="Taktu MP3 hljóð úr myndskrá"
+menu_conversion_video_MSG11="Klippa myndskrá"
+

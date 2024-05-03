@@ -1,0 +1,29 @@
+# Traducción experimental al Japonés (generado con google translator) para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com; Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="続行するには ENTER を押してください..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="====================================="
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 LIGHTSCRIBE サポート。"
+cabecera_lightscribe_MSG3="====================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="ディスクに印刷するイメージのパスを入力します。"
+imprimir_disco_lightscribe_MSG2="画像形式は .bmp である必要があります"
+imprimir_disco_lightscribe_MSG3="ランニング"
+imprimir_disco_lightscribe_MSG4="ディスクに印刷されたレーベル"
+imprimir_disco_lightscribe_MSG5="ディスクのラベル印刷エラー"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="LightScribe テクノロジーは一部のユニットのみに搭載されています"
+lingr10lightscribepatch_MSG2="レコーダーにそれが組み込まれているかどうかを確認する必要があります。"
+lingr10lightscribepatch_MSG3="同様に、LightScribe 用にラベル付けできるのは、特別な CD または DVD のみです。"
+lingr10lightscribepatch_MSG4="LightScribe ディスクの印刷"
+lingr10lightscribepatch_MSG5="前のメニュー"
+lingr10lightscribepatch_MSG6="無効なオプション"

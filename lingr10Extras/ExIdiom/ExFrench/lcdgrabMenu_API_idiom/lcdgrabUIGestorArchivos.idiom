@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFrench/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en francés para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* OPTIONS DE NAVIGATION ************************"
+ayuda_gestor_de_archivos_MSG2="Parcourir le système de fichiers"
+ayuda_gestor_de_archivos_MSG3="X --> Sortir"
+ayuda_gestor_de_archivos_MSG4="A --> Répertoire précédent"
+ayuda_gestor_de_archivos_MSG5="B --> Répertoire suivant"
+ayuda_gestor_de_archivos_MSG6="Actions sur les fichiers et répertoires."
+ayuda_gestor_de_archivos_MSG7="C --> Copier un fichier"
+ayuda_gestor_de_archivos_MSG8="M --> Déplacer le fichier"
+ayuda_gestor_de_archivos_MSG9="CD --> Copier le répertoire"
+ayuda_gestor_de_archivos_MSG10="MD --> Déplacer le répertoire"
+ayuda_gestor_de_archivos_MSG11="Comprendre les actions sur les fichiers et répertoires."
+ayuda_gestor_de_archivos_MSG12="Z --> Compresser un fichier"
+ayuda_gestor_de_archivos_MSG13="DZ --> Décompresser un fichier"
+ayuda_gestor_de_archivos_MSG14="EZ --> Créez un package .tar.gz ou .tar.bz2"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Décompressez un .tar.gz ou .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Répertoire actif actuel"
+gestor_de_archivos_MSG0B="Fichiers dans"
+gestor_de_archivos_MSG1="========================= OPTIONS DE NAVIGATION ========================"
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> AIDE="
+gestor_de_archivos_MSG3="========================================================================"
+gestor_de_archivos_MSG4="Tapez une option"
+gestor_de_archivos_MSG5="Type de répertoire"
+gestor_de_archivos_MSG6="Tapez le fichier source"
+gestor_de_archivos_MSG7="Tapez le fichier de destination"
+gestor_de_archivos_MSG8="Fichier copié avec succès"
+gestor_de_archivos_MSG9="Erreur lors de la copie du fichier"
+gestor_de_archivos_MSG10="Tapez le fichier source"
+gestor_de_archivos_MSG11="Tapez le fichier de destination"
+gestor_de_archivos_MSG12="Fichier déplacé avec succès"
+gestor_de_archivos_MSG13="Erreur lors du déplacement du fichier"
+gestor_de_archivos_MSG14="Tapez le répertoire source"
+gestor_de_archivos_MSG15="Tapez le répertoire de destination"
+gestor_de_archivos_MSG16="Répertoire copié avec succès"
+gestor_de_archivos_MSG17="Erreur lors de la copie du répertoire"
+gestor_de_archivos_MSG18="Tapez le répertoire source"
+gestor_de_archivos_MSG19="Tapez le répertoire de destination"
+gestor_de_archivos_MSG20="Répertoire déplacé avec succès"
+gestor_de_archivos_MSG21="Erreur lors du déplacement du répertoire"
+gestor_de_archivos_MSG22="FICHIER À COMPRESSER"
+gestor_de_archivos_MSG23="Spécifiez le chemin du fichier"
+

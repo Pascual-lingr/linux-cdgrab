@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAmharic/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en amárico para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="የፋይሉን ወይም ማውጫውን መንገድ አስገባ፡-"
+empaquetar_MSG2="------- አማራጮች -------"
+empaquetar_MSG3=".tar.gz ፋይል ይፍጠሩ"
+empaquetar_MSG4=".tar.bz2 ፋይል ይፍጠሩ"
+empaquetar_MSG5="አማራጭ ይተይቡ፡ "
+empaquetar_MSG6="መሮጥ"
+empaquetar_MSG7="ልክ ያልሆነ አማራጭ"
+
+# desempaquetar
+
+desempaquetar_MSG1="የፋይል ዱካውን ይፃፉ;"
+desempaquetar_MSG2="ዲኮምፕሬሰር አልተገኘም።"
+desempaquetar_MSG3="ወይ ጉድ"
+desempaquetar_MSG4="አልተገኘም"
+desempaquetar_MSG5="መሮጥ"
+desempaquetar_MSG6="ያልታሸገ"
+desempaquetar_MSG7="ለማንሳት መሞከር ላይ ስህተት"
+
+# comprime
+
+comprime_MSG1="ምስልን መጭመቅ"
+comprime_MSG2="በbzip2 ጨመቁ"
+comprime_MSG3="በ gzip ጨመቁ"
+comprime_MSG4="በ xz ጨመቁ"
+comprime_MSG5="የቀድሞው ምናሌ"
+comprime_MSG6="እየሮጠ"
+comprime_MSG7="የምስል ፋይል መጭመቅ ተጠናቀቀ"
+comprime_MSG8="በመጭመቅ ላይ ስህተት"
+comprime_MSG9="ልክ ያልሆነ መጭመቂያ"
+
+# descomprime
+
+descomprime_MSG1="የፋይል ዱካውን ይተይቡ:"
+descomprime_MSG2="---------------"
+descomprime_MSG3="ዲኮምፕሬሰር አልተገኘም።"
+descomprime_MSG4="ወይ ጉድ"
+descomprime_MSG5="አልተገኘም"
+descomprime_MSG6="መሮጥ"
+descomprime_MSG7="ዚፕ ተከፍቷል።"
+descomprime_MSG8="ዚፕ ለመክፈት ሲሞከር ስህተት"
+

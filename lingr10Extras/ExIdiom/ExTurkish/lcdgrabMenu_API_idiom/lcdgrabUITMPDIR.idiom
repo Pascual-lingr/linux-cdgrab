@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTurkish/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Turco para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="/tmp içindeki dosyalar"
+dir_tmp_MSG2="Tüm görselleri ve sıkıştırılmış dosyaları sil"
+dir_tmp_MSG3="Diğer işlemler için dosya yöneticisini başlat"
+dir_tmp_MSG4="Bir resmi bağla veya bağlantısını kaldır"
+dir_tmp_MSG5="Resim oluşturma menüsünü göster"
+dir_tmp_MSG6="Görüntü kayıt seçeneklerini göster"
+dir_tmp_MSG7="Önceki menü"
+dir_tmp_MSG8="MEVCUT DOSYALARIN LİSTESİ"
+dir_tmp_MSG9="BİR SEÇENEK SEÇİN:"
+dir_tmp_MSG10="SİLİNMİŞ GÖRÜNTÜLER VE DOSYALAR"
+dir_tmp_MSG11="Resmi bağla."
+dir_tmp_MSG12="Resmin bağlantısını kaldır."
+dir_tmp_MSG13="Resmi CD'ye yaz"
+dir_tmp_MSG14="Resmi DVD'ye yaz"
+dir_tmp_MSG14B="Resmi BD'ye yaz"
+dir_tmp_MSG15="Kayıt ortamına göre seçeneği seçin"
+dir_tmp_MSG16="YAPILANDIRMA DOSYASI DOSYA BULUNAMADI"
+dir_tmp_MSG17="Kayıt işlemi iptal ediliyor"
+dir_tmp_MSG18="Yazılacak .iso dosyasını belirtin"
+dir_tmp_MSG19="Resim yolunu girin: "
+

@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAmharic/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en amárico para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="የቪዲዮ ለውጥ የብሉ-ሬይ ዲስክ ተኳሃኝነት"
+conv_video_BDVideo_MSG2="የሚቀይርበትን የቪዲዮ ፋይል መንገድ ይግለጹ፡"
+conv_video_BDVideo_MSG3=" ለመፍጠር የአዲሱን ቪዲዮ ፋይል ስም ይግለጹ፡"
+conv_video_BDVideo_MSG4="የቪዲዮ ፋይል በተሳካ ሁኔታ ተለወጠ!!"
+conv_video_BDVideo_MSG5="የቪዲዮ ፋይል መቀየር ላይ ስህተት"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="የመቀየር ቪዲዮ ፋይሎች"
+conv_VideoFich_MSG2="ለመቀየር የቪዲዮ ፋይሉን ይግለጹ:"
+conv_VideoFich_MSG3="ለማመንጨት የቪዲዮ ፋይሉን ይግለጹ፡"
+conv_VideoFich_MSG4="የቪዲዮ ፋይል ልወጣ ተጠናቅቋል"
+conv_VideoFich_MSG5="የቪዲዮ ፋይል ሲቀይሩ ስህተት"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="የቪዲዮውን ፋይል ይግለጹ፡"
+extrae_Audio_de_Video_MSG2="ለመፍጠር የmp3 ድምጽ ፋይልን ይግለጹ፡"
+extrae_Audio_de_Video_MSG3="የድምጽ ማውጣት በተሳካ ሁኔታ"
+extrae_Audio_de_Video_MSG4="ድምጽ ሲወጣ ስህተት"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="የቪዲዮውን ፋይል ይግለጹ፡"
+extrae_Fragmento_Video_MSG2="ለማመንጨት የቪዲዮ ፋይሉን ይግለጹ፡"
+extrae_Fragmento_Video_MSG3="የመጀመሪያውን ጊዜ ይግለጹ (እንደ HH:MM:SS ይግለጹ) :"
+extrae_Fragmento_Video_MSG4="የመጨረሻውን ጊዜ ይግለጹ (እንደ HH:MM:SS ይግለጹ) :"
+extrae_Fragmento_Video_MSG5="ቪዲዮው በተሳካ ሁኔታ ተቆርጧል"
+extrae_Fragmento_Video_MSG6="ቪዲዮ በሚቆርጥበት ጊዜ ስህተት"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="የድምጽ ፋይሉን ይግለጹ:"
+mezcla_Audio_Video_MSG2="የቪዲዮውን ፋይል ይግለጹ፡"
+mezcla_Audio_Video_MSG3="ለማመንጨት የቪዲዮ ፋይሉን ይግለጹ፡"
+mezcla_Audio_Video_MSG4="አዲስ የቪዲዮ ፋይል በተሳካ ሁኔታ መነጨ"
+mezcla_Audio_Video_MSG5="የቪዲዮ ፋይል ማመንጨት ላይ ስህተት"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="አማራጭ ለኮንሶል በይነገጽ አይገኝም"
+graba_escritorio_MSG2="-- የዴስክቶፕ ክፍለ ጊዜ መቅጃ -- ለመሰረዝ እና መቅዳት ለማቆም CTRL + C ን ይጫኑ"
+graba_escritorio_MSG3="የቪዲዮ ቀረጻ ተጠናቅቋል"
+

@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExArmenian/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en armenio para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Մուտքագրեք ֆայլի կամ գրացուցակի ուղին."
+empaquetar_MSG2="------- Ընտրանքներ -------"
+empaquetar_MSG3="Ստեղծել .tar.gz ֆայլ"
+empaquetar_MSG4="Ստեղծել .tar.bz2 ֆայլ"
+empaquetar_MSG5="Մուտքագրեք տարբերակ."
+empaquetar_MSG6="Գործում է"
+empaquetar_MSG7="Անվավեր տարբերակ"
+
+# desempaquetar
+
+desempaquetar_MSG1="Մուտքագրեք ֆայլի ուղին."
+desempaquetar_MSG2="ՉԻ ԳՏՆՎԵԼ ԴԵԿՈՄՊՐԵՍՈՐ"
+desempaquetar_MSG3="ԿԱՄ"
+desempaquetar_MSG4="ՉԻ ԳՈՅՈՒՄ"
+desempaquetar_MSG5="Գործում է"
+desempaquetar_MSG6="փաթեթավորված"
+desempaquetar_MSG7="Սխալ՝ փաթաթելը փորձելիս"
+
+# comprime
+
+comprime_MSG1="ՊԱՏԿԵՐԻ ԿՈՄՊՐԵՍՈՒՄ"
+comprime_MSG2="Կոմպրես bzip2-ով"
+comprime_MSG3="Կոմպրես gzip-ով"
+comprime_MSG4="Կոմպրես xz-ով"
+comprime_MSG5="Նախորդ ընտրացանկ"
+comprime_MSG6="Գործում է"
+comprime_MSG7="Պատկերի ֆայլի սեղմումն ավարտված է"
+comprime_MSG8="Սխալ սեղմելիս"
+comprime_MSG9="Անվավեր կոմպրեսոր"
+
+# descomprime
+
+descomprime_MSG1="Մուտքագրեք ֆայլի ուղին."
+descomprime_MSG2="---------------------------"
+descomprime_MSG3="ՉԻ ԳՏՆՎԵԼ ԴԵԿՈՄՊՐԵՍՈՐ"
+descomprime_MSG4="ԿԱՄ"
+descomprime_MSG5="ՉԻ ԳՈՅՈՒՄ"
+descomprime_MSG6="Գործում է"
+descomprime_MSG7="չսեղմված"
+descomprime_MSG8="Սխալ՝ սեղմելիս"

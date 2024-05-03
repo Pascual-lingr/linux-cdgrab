@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLuxembourgish/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Luxemburgués, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="CREATIOUN AN MAT DISKBILDER HANNEN"
+MenuImagen_MSG2="---------------- BILD CREATIE -----------------"
+MenuImagen_MSG3="En ISO-9660 Bild erstellen"
+MenuImagen_MSG4="Erstellt e Bild mat engem gebiertege Linux Dateiesystem"
+MenuImagen_MSG5="Erstellt en .img Bild vun all Blockapparat"
+MenuImagen_MSG6="Erstellt e .bin .cue Bild vum aktuellen Apparat"
+MenuImagen_MSG7="---------------- ANER OPTIONEN ----------------"
+MenuImagen_MSG8="Generéieren .cue Beschreiwung Datei aus .bin Bild"
+MenuImagen_MSG9="Konvertéiert en .nrg (Nero Burning ROM) Bild an .iso"
+MenuImagen_MSG10="Kompress e Bild mat gzip, bzip2 oder xz"
+MenuImagen_MSG11="Dekompriméieren e Bild an zip, gz, bz2 oder xz"
+MenuImagen_MSG11B="Check md5 Zomm vun ISO Biller"
+MenuImagen_MSG12="Iso Modus änneren"
+MenuImagen_MSG0="Menü virdru"
+MenuImagen_MSG13="Bilddatei fir kompriméiert ze ginn"
+MenuImagen_MSG14="KOMPRESSEREN BILD FILE"
+MenuImagen_MSG15="Gitt den Verzeichniswee an wou d'Bild läit, déi Dir wëllt kompriméieren:"
+MenuImagen_MSG16="Bilddatei déi Dir dekompriméiere wëllt"
+MenuImagen_MSG17="AKTUELL ISO-NIVEAU"
+MenuImagen_MSG18="iso Niveau"
+MenuImagen_MSG19="Dateiname besteet aus enger Sektioun"
+MenuImagen_MSG20="a si limitéiert op 8,3 Zeechen."
+MenuImagen_MSG21="Wielt dësen Niveau wann Dir Nummkompatibilitéit wëllt"
+MenuImagen_MSG21b="ënnert dem MS-DOS Betribssystem"
+MenuImagen_MSG22="Dateiname besteet aus enger Sektioun"
+MenuImagen_MSG23="Onbeschränkt Niveau."
+MenuImagen_MSG24="Benotzt dësen Niveau wann Dir Dateikompatibilitéit wëllt"
+MenuImagen_MSG25="grouss, an dësem Fall >= 2 Gigabytes."
+MenuImagen_MSG26="All ISO-Niveaue limitéieren Dateinumm op grouss Buschtawen, kleng Buschtawen an"
+MenuImagen_MSG27="Zeechen wéi _ . Dateinumm si limitéiert op 31 Zeechen"
+MenuImagen_MSG28="Maximum 8 Verzeechnesweeër a Weenumm"
+MenuImagen_MSG29="Verzeichnungen op 255 Zeechen."
+MenuImagen_MSG30="Wielt den neien Iso-Niveau"
+MenuImagen_MSG31="ISO Niveau 4 ass net offiziell"
+MenuImagen_MSG32="Konsultéiert d'Mkisofs Man Page"
+MenuImagen_MSG33="Invalid ISO Niveau"
+MenuImagen_MSG34="Iso Niveau 3 als Standard setzen"
+

@@ -1,0 +1,137 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFrench/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al francés, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab ne trouve pas l'éditeur de texte vi"
+ayuda_MSG2="Entrez le nom d'un éditeur de texte installé sur votre système"
+ayuda_MSG3="AUCUN ÉDITEUR INSTALLÉ TROUVÉ"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Fichier généré automatiquement par LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="Ce fichier ainsi que le répertoire"
+creacion_de_mnt_MSG3="ont été générés automatiquement"
+creacion_de_mnt_MSG4="par l'application Linux-cdgrab en vérifiant qu'elle n'existait pas dans votre distribution Linux"
+creacion_de_mnt_MSG5="le répertoire"
+creacion_de_mnt_MSG6="Linux-cdgrab utilise ce répertoire pour monter son lecteur CD-ROM/DVD-ROM/BD-ROM"
+creacion_de_mnt_MSG7="Le répertoire"
+creacion_de_mnt_MSG8="il ne sera pas supprimé si Linux-cdgrab est désinstallé car il s'agit généralement du"
+creacion_de_mnt_MSG9="Point de montage par défaut pour /dev/cdrom sur la plupart des distributions Linux."
+creacion_de_mnt_MSG10="Si votre distribution utilise un autre répertoire pour monter le périphérique /dev/cdrom,"
+creacion_de_mnt_MSG11="cela ne créera aucune incompatibilité lors de la tentative d'accès aux données de votre appareil"
+creacion_de_mnt_MSG12="bien que si Linux-cdgrab a été désinstallé, vous pouvez vous en passer"
+creacion_de_mnt_MSG13="Le but de ce fichier est uniquement à titre informatif, vous pouvez le supprimer librement une fois lu."
+
+# creditos
+
+creditos_MSG1="Distribuer sous licence GPL v2"
+creditos_MSG2="Plus d'informations sur www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, créateur et mainteneur"
+creditos_MSG4="Rapport de bug : pascual89@hotmail.com"
+creditos_MSG5="Site Web du programme : www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Basé sur LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Mise en charge"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SYNTAXE"
+lcdgrab_sintaxis_MSG2="Imprimer cette aide"
+lcdgrab_sintaxis_MSG3="Imprimer la version Linux-cdgrab"
+lcdgrab_sintaxis_MSG4="spécifie le canal IDE ou le périphérique d'enregistrement"
+lcdgrab_sintaxis_MSG5="soit"
+lcdgrab_sintaxis_MSG6="spécifier la vitesse d'enregistrement"
+lcdgrab_sintaxis_MSG7="spécifie le lecteur de CD-ROM/DVD-ROM/BD-ROM"
+lcdgrab_sintaxis_MSG8="spécifie le canal IDE ATAPI de l'enregistreur"
+lcdgrab_sintaxis_MSG9="Les options -G -V -L et -CA s'impliquent mutuellement."
+lcdgrab_sintaxis_MSG9B="Les options -iut -ium -iug et -iuk sont indépendantes les unes des autres,"
+lcdgrab_sintaxis_MSG9C="complémentaire de -G -V -L et -CA, et indépendant entre -h et -v"
+lcdgrab_sintaxis_MSG10="Les options -h et -v sont indépendantes les unes des autres et des autres."
+lcdgrab_sintaxis_MSG11="Exemples:"
+lcdgrab_sintaxis_MSG12="appareil"
+lcdgrab_sintaxis_MSG13="le numéro"
+lcdgrab_sintaxis_MSG14="interface en texte"
+lcdgrab_sintaxis_MSG15="interface avec ncurses"
+lcdgrab_sintaxis_MSG16="interface graphique avec GTK"
+lcdgrab_sintaxis_MSG17="interface graphique avec Qt"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Entrez le chemin du script :"
+main_lcdgrabopdep_MSG2="Chemin invalide"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Patchs installés :"
+main_lcdgrabopdeppatch_MSG2="Entrez le chemin du correctif :"
+main_lcdgrabopdeppatch_MSG3="Introuvable"
+
+# menu principal dialog
+main_lcdgrabop9uidia="CHARGER UN PATCH SUPPLÉMENTAIRE"
+
+# menu principal texto
+
+main_lcdgrabop1_text="ENREGISTREMENT SUR CD\t\t\t="
+main_lcdgrabop2_text="ENREGISTREMENT DVD\t\t\t="
+main_lcdgrabop3_text="ENREGISTREMENT BD\t\t\t="
+main_lcdgrabop4_text="OPÉRATIONS DU LECTEUR DE DISQUE\t\t="
+main_lcdgrabop5_text="CRÉATION D'IMAGES\t\t\t="
+main_lcdgrabop6_text="CONVERSION AUDIO\t\t\t\t="
+main_lcdgrabop6b_text="CONVERSION VIDÉO\t\t\t\t="
+main_lcdgrabop7_text="MONTER OU DÉMONTER un CD/DVD/BD\t\t="
+main_lcdgrabop8_text="MONTER OU DÉMONTER L'IMAGE\t\t="
+main_lcdgrabop9_text="CHARGER UN PATCH SUPPLÉMENTAIRE\t\t="
+main_lcdgrabop10_text="CENTRE DE CONTRÔLE\t\t\t="
+main_lcdgrabop0_text="SORTIE\t\t\t\t\t="
+main_lcdgrabet1_text="AUTRES OPTIONS ##\t\t="
+main_lcdgrabopEe_text="Éjecter le disque du lecteur\t="
+main_lcdgrabopTD_text="Afficher le répertoire"
+tabs="\t="
+main_lcdgrabopG_text="Gestionnaire de fichiers\t\t="
+main_lcdgrabopH_text="Aide\t\t\t\t\t="
+main_lcdgrabopA_text="À propos\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="ENREGISTREMENT SUR CD"
+main_lcdgrabop2="ENREGISTREMENT DVD"
+main_lcdgrabop3="ENREGISTREMENT SUR BD"
+main_lcdgrabop4="OPÉRATIONS DU LECTEUR DE DISQUE"
+main_lcdgrabop5="CRÉATION D'IMAGES"
+main_lcdgrabop6="CONVERSION AUDIO"
+main_lcdgrabop6b="CONVERSION VIDÉO"
+main_lcdgrabop7="MONTER OU DÉMONTER un CD/DVD/BD"
+main_lcdgrabop8="MONTER OU DÉMONTER L'IMAGE"
+main_lcdgrabop9="CHARGER UN PATCH SUPPLÉMENTAIRE"
+main_lcdgrabop10="CENTRE DE CONTRÔLE"
+main_lcdgrabop0="SORTIE"
+main_lcdgrabet1="AUTRES OPTIONS ##"
+main_lcdgrabopEe="Éjecter le disque du lecteur"
+main_lcdgrabopTD="Afficher le répertoire"
+main_lcdgrabopG="Gestionnaire de fichiers"
+main_lcdgrabopH="Aide"
+main_lcdgrabopA="À propos"
+main_lcdgrabopPRINCIPAL="Tapez une option :"
+MSG1_MAIN="La sélection de H montre l'utilisation des options."
+main_lcdgrabopA_MSG1="En cours d'exécution sur :"
+
+

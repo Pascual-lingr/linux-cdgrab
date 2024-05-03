@@ -1,0 +1,32 @@
+# Idioma ExTigriña para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="ንምቕጻል ENTER ንጽቀጥ..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="================================="
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 ናይ ብርሃን ጽሑፍ ደገፍ።"
+cabecera_lightscribe_MSG3="================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="መንገዲ ናይቲ ናብ ዲስክ ክትሕትሞ እትደሊ ምስሊ ጽሓፍ:"
+imprimir_disco_lightscribe_MSG2="ቅርጺ ምስሊ .bmp ክኸውን ኣለዎ።"
+imprimir_disco_lightscribe_MSG3="ይሰርሕ ኣሎ።"
+imprimir_disco_lightscribe_MSG4="ኣብ ዲስክ ዝተሓትመ ስያመ።"
+imprimir_disco_lightscribe_MSG5="ስሕተት ኣብ ምሕታም ስያመ ናብ ዲስክ።"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="ቴክኖሎጂ ላይትስክሪብ ኣብ ገለ ኣሃዱታት ጥራይ እዩ ዘሎ።"
+lingr10lightscribepatch_MSG2="መቕረጺኻ እንተሃልይዎ ክትምርምር ኣለካ።"
+lingr10lightscribepatch_MSG3="ብተመሳሳሊ ንላይትስክራይብ ፍሉያት ሲዲ ወይ ዲቪዲ ጥራይ እዮም ክጽውዑ ዝኽእሉ።"
+lingr10lightscribepatch_MSG4="ላይትስክራይብ ዲስክ ሕትመት።"
+lingr10lightscribepatch_MSG5="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+lingr10lightscribepatch_MSG6="ዘይሕጋዊ ኣማራጺ።"
+

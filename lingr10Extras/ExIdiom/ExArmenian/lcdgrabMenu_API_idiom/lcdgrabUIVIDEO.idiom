@@ -1,0 +1,24 @@
+#########################################################
+# lcdgrabAPI_idiom/ExArmenian/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en armenio para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="ՏԵՍԱՆՅՈՒԹԻ ՓՈԽԱՐԿՈՒՄ"
+menu_conversion_video_MSG2="----------- ՓՈԽԱՓՈԽՈՒՄ ՁԵՎԵՐԻ ՄԻՋԵՎ ------------"
+menu_conversion_video_MSG3="Վերափոխեք տեսանյութը Blu Ray սկավառակի համատեղելի Smart TV-ի"
+menu_conversion_video_MSG4="Վիդեո ֆայլ փոխարկելու համար."
+menu_conversion_video_MSG0="Նախորդ ընտրացանկ"
+menu_conversion_video_MSG6="Ձայնագրել աշխատասեղանի նիստը"
+menu_conversion_video_MSG7="Վիդեո ֆայլը փոխարկեք տարբեր ձևաչափի"
+menu_conversion_video_MSG8="--------------- ԱՅԼ ՏԱՐԲԵՐԱԿՆԵՐ ----------------"
+menu_conversion_video_MSG9="Խառնել վիդեո ֆայլը աուդիո ֆայլի հետ"
+menu_conversion_video_MSG10="Հանել MP3 աուդիո վիդեո ֆայլից"
+menu_conversion_video_MSG11="Կտրել վիդեո ֆայլը"
+

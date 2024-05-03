@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Húngaro para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="*************************** NAVIGÁCIÓS OPCIÓK ****************************"
+ayuda_gestor_de_archivos_MSG2="Tallózás a fájlrendszerben."
+ayuda_gestor_de_archivos_MSG3="X --> Kilépés"
+ayuda_gestor_de_archivos_MSG4="A --> Előző könyvtár"
+ayuda_gestor_de_archivos_MSG5="B --> Következő könyvtár"
+ayuda_gestor_de_archivos_MSG6="Fájlokon és könyvtárakon végzett műveletek."
+ayuda_gestor_de_archivos_MSG7="C --> Fájl másolása"
+ayuda_gestor_de_archivos_MSG8="M --> Fájl áthelyezése"
+ayuda_gestor_de_archivos_MSG9="CD --> Könyvtár másolása"
+ayuda_gestor_de_archivos_MSG10="MD --> Könyvtár áthelyezése"
+ayuda_gestor_de_archivos_MSG11="Fájlokon és könyvtárakon végzett műveletek megértése."
+ayuda_gestor_de_archivos_MSG12="Z --> Fájl tömörítése"
+ayuda_gestor_de_archivos_MSG13="DZ --> Fájl kibontása"
+ayuda_gestor_de_archivos_MSG14="EZ --> Hozzon létre egy .tar.gz vagy .tar.bz2 csomagot"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Csomagolja ki a .tar.gz vagy .tar.bz2 fájlt"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Jelenlegi aktív könyvtár"
+gestor_de_archivos_MSG0B="Fájlok itt"
+gestor_de_archivos_MSG1="============================== NAVIGÁCIÓS OPCIÓK ============================"
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> TÁMOGATÁS="
+gestor_de_archivos_MSG3="============================================================================="
+gestor_de_archivos_MSG4="Írjon be egy beállítást"
+gestor_de_archivos_MSG5="Könyvtár típusa"
+gestor_de_archivos_MSG6="Írja be a forrásfájlt"
+gestor_de_archivos_MSG7="Írja be a célfájlt"
+gestor_de_archivos_MSG8="A fájl sikeresen másolva"
+gestor_de_archivos_MSG9="Hiba a fájl másolása közben"
+gestor_de_archivos_MSG10="Írja be a forrásfájlt"
+gestor_de_archivos_MSG11="Írja be a célfájlt"
+gestor_de_archivos_MSG12="A fájl sikeresen áthelyezve"
+gestor_de_archivos_MSG13="Hiba a fájl áthelyezésekor"
+gestor_de_archivos_MSG14="Írja be a forráskönyvtárat"
+gestor_de_archivos_MSG15="Írja be a célkönyvtárat"
+gestor_de_archivos_MSG16="A könyvtár sikeresen másolva"
+gestor_de_archivos_MSG17="Hiba a könyvtár másolása közben"
+gestor_de_archivos_MSG18="Írja be a forráskönyvtárat"
+gestor_de_archivos_MSG19="Írja be a célkönyvtárat"
+gestor_de_archivos_MSG20="A könyvtár sikeresen áthelyezve"
+gestor_de_archivos_MSG21="Hiba a könyvtár áthelyezésekor"
+gestor_de_archivos_MSG22="TÖMÖRÍTENDŐ FÁJL"
+gestor_de_archivos_MSG23="Adja meg a fájl elérési útját"
+

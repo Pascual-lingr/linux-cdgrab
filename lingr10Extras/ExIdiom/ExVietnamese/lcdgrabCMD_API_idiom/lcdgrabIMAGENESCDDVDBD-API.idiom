@@ -1,0 +1,234 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en vietnamita para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="HỆ THỐNG TẬP TIN HÌNH ẢNH"
+imagen_linux_fs_MSG2="Chọn hệ thống tập tin: "
+imagen_linux_fs_MSG3="Tạo hình ảnh cho CD-R/RW (702 Mbyte)"
+imagen_linux_fs_MSG4="Tạo hình ảnh cho DVD+RW (4 Gbyte)"
+imagen_linux_fs_MSG5="Tạo hình ảnh cho DVD+RW/DL (8 Gbyte)"
+imagen_linux_fs_MSG5B="Tạo hình ảnh cho BD-R/RE (25 Gbyte)"
+imagen_linux_fs_MSG5C="Tạo tập tin hình ảnh với kích thước tùy chỉnh"
+imagen_linux_fs_MSG6="Tạo tập tin trống có dung lượng 702 Mbyte"
+imagen_linux_fs_MSG7="Tạo tập tin trống có dung lượng 4 Gbyte"
+imagen_linux_fs_MSG8="Tạo tập tin trống có dung lượng 8 Gbyte"
+imagen_linux_fs_MSG8B="Tạo tệp trống có dung lượng 25 Gbyte"
+imagen_linux_fs_MSG8C="Tạo tập tin trống với kích thước tùy chỉnh"
+imagen_linux_fs_MSG9="LỖI: KHÔNG BIẾT KÍCH THƯỚC HÌNH ẢNH. HỦY..."
+imagen_linux_fs_MSG10="Đang chạy"
+imagen_linux_fs_MSG11="Chương trình sẽ định dạng tập tin trống."
+imagen_linux_fs_MSG12="Hệ thống sẽ cảnh báo bạn rằng tệp được tạo trước đó không phải là thiết bị khối và sẽ hỏi bạn có muốn định dạng nó không"
+imagen_linux_fs_MSG13="Trả lời có"
+imagen_linux_fs_MSG13="ĐÃ ĐƯỢC ĐỊNH DẠNG THÀNH CÔNG"
+imagen_linux_fs_MSG14=" Đang gắn hình ảnh . . ."
+imagen_linux_fs_MSG15="LỖI KHI ĐỊNH DẠNG TẬP TIN TRỐNG"
+imagen_linux_fs_MSG16="Chương trình đã gắn tập tin được định dạng vào"
+imagen_linux_fs_MSG17="Linux-cdgrab sẽ khởi chạy trình quản lý tập tin để nó có thể hoạt động trên hình ảnh được gắn trên"
+imagen_linux_fs_MSG18="Khi các tập tin đã được sao chép, hãy ngắt kết nối tập tin được định dạng"
+imagen_linux_fs_MSG19="Hình ảnh linux nằm trong thư mục này"
+imagen_linux_fs_MSG19B="LỖI KHI GẮN TẬP TIN HÌNH ẢNH"
+imagen_linux_fs_MSG20="Các tập tin cần đưa vào hình ảnh. Được gắn vào /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Khởi chạy trình quản lý tập tin..."
+imagen_linux_fs_MSG22="THÔNG BÁO:"
+imagen_linux_fs_MSG23="----------"
+imagen_linux_fs_MSG24="Hình ảnh"
+imagen_linux_fs_MSG25="vẫn được gắn kết"
+imagen_linux_fs_MSG26="LỖI KHI TẠO TẬP TIN TRỐNG VỚI dd"
+imagen_linux_fs_MSG27="Kiểm tra xem bạn có dung lượng trống trên phân vùng được gắn tại /"
+imagen_linux_fs_MSG34="HỆ THỐNG TẬP TIN ĐỂ ĐỊNH DẠNG TẬP TIN"
+imagen_linux_fs_MSG35="TẠO TẬP TIN TRỐNG VỚI KÍCH THƯỚC TÙY CHỈNH"
+imagen_linux_fs_MSG36="Chỉ định kích thước khối của tệp trống mới (chỉ giá trị số):"
+imagen_linux_fs_MSG37="Ví dụ về giá trị cho kích thước khối là: 1024, 2048 (chỉ Ext2) hoặc 4096 (Tất cả các định dạng)"
+imagen_linux_fs_MSG38="Chỉ định kích thước của tệp trống cần tạo (chỉ giá trị số):"
+imagen_linux_fs_MSG39="Đo không gian để tạo ra tập tin trống:"
+imagen_linux_fs_MSG40="Chỉ định phép đo không gian sẽ sử dụng: "
+imagen_linux_fs_MSG41="LỖI KHI XÁC ĐỊNH KÍCH THƯỚC ĐO LƯỜNG"
+imagen_linux_fs_MSG42="Giá trị kích thước khối:"
+imagen_linux_fs_MSG43="Dung lượng trống cho tập tin trống:"
+imagen_linux_fs_MSG44="Giá trị được tính theo byte:"
+imagen_linux_fs_MSG45="Giá trị tính toán cho số đếm:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Bật đọc md5 khi tạo ảnh .iso"
+comprobar_lectura_md5_MSG2="Tắt đọc md5 khi tạo ảnh .iso"
+comprobar_lectura_md5_MSG3="Menu trước"
+comprobar_lectura_md5_MSG4="Cấu hình hiện tại:"
+comprobar_lectura_md5_MSG5="Đã bật"
+comprobar_lectura_md5_MSG6="Đã tắt"
+comprobar_lectura_md5_MSG7="Đọc tổng md5 đã kích hoạt"
+comprobar_lectura_md5_MSG8="Đọc tổng md5 bị vô hiệu hóa"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Không thể đọc được tên của ảnh iso"
+leer_md5sum_MSG2="Đọc md5sum của"
+leer_md5sum_MSG3="Hiển thị tổng md5 của hình ảnh"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="TẠO HÌNH ẢNH CD"
+extraer_isoCD_dd_MSG2="Hình ảnh được tạo trong"
+extraer_isoCD_dd_MSG3="Không tìm thấy"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="TẠO HÌNH ẢNH DVD"
+extraer_isoDVD_dd_MSG2="đang chạy"
+extraer_isoDVD_dd_MSG3="Hình ảnh được tạo trong"
+extraer_isoDVD_dd_MSG4="Không tìm thấy"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="đang chạy"
+extraer_iso_readcd_MSG2="Hình ảnh được tạo thành công"
+extraer_iso_readcd_MSG3="Hình ảnh được tạo trong"
+extraer_iso_readcd_MSG4="Hủy bỏ quá trình ghi..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="CD được gắn"
+extraer_iso_mkisofs_MSG2="Đang tạo hình ảnh..."
+extraer_iso_mkisofs_MSG3="Đã bật khả năng tương thích với Macintosh"
+extraer_iso_mkisofs_MSG4="Sử dụng"
+extraer_iso_mkisofs_MSG5="đang chạy"
+extraer_iso_mkisofs_MSG6="Hình ảnh được tạo trong thư mục"
+extraer_iso_mkisofs_MSG7="Đang thử lại quy trình mà không có sự hỗ trợ của Macintosh"
+extraer_iso_mkisofs_MSG8="Hình ảnh được tạo trong thư mục"
+extraer_iso_mkisofs_MSG9="mkisofs trả về lỗi không xác định khi tạo"
+extraer_iso_mkisofs_MSG10="từ"
+extraer_iso_mkisofs_MSG11="Kiểm tra tính toàn vẹn dữ liệu"
+extraer_iso_mkisofs_MSG12="Gắn kết"
+extraer_iso_mkisofs_MSG12B="en"
+extraer_iso_mkisofs_MSG13="genisoimage trả về các lỗi không xác định khi tạo"
+extraer_iso_mkisofs_MSG13B="từ"
+extraer_iso_mkisofs_MSG14="Không tìm thấy Mkisofs và genisoimage. Vui lòng cài đặt cdrtools hoặc cdrkit."
+extraer_iso_mkisofs_MSG15="Không thể gắn kết"
+extraer_iso_mkisofs_MSG16="Hình ảnh được tạo thành công trong"
+
+# m_comp_img
+
+m_comp_img_MSG1="Hình ảnh được tạo thành công trong"
+m_comp_img_MSG2="BẠN CÓ MUỐN NÉN TỆP HÌNH ẢNH?"
+m_comp_img_MSG3="(s/y) để nén; Quá trình này bị hủy bằng tùy chọn khác."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Khởi chạy trình quản lý tập tin..."
+generar_iso_directorio_MSG2="Nhập tên cho CD/DVD/BD trong tương lai"
+generar_iso_directorio_MSG3="TẠO HÌNH ẢNH..."
+generar_iso_directorio_MSG4="Bật khả năng tương thích với Macintosh"
+generar_iso_directorio_MSG5="Sử dụng"
+generar_iso_directorio_MSG6="đang chạy"
+generar_iso_directorio_MSG7="Hình ảnh được tạo trong thư mục"
+generar_iso_directorio_MSG8="QUY TRÌNH TẠO HÌNH ẢNH ĐÃ THẤT BẠI"
+generar_iso_directorio_MSG9="TẠO HÌNH ẢNH KHÔNG TƯƠNG THÍCH VỚI MACINTOSH"
+generar_iso_directorio_MSG10="Không tìm thấy Mkisofs và genisoimage. Vui lòng cài đặt cdrtools hoặc cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Nhập tên cho DVD/BD trong tương lai"
+generar_bdv_udf_directorio_MSG2="Chỉ định thư mục để tạo hình ảnh video:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Chỉ định nhãn đĩa:"
+generar_iso_directorio_libburnia_MSG2="Chỉ định thư mục để tạo hình ảnh iso-9660:"
+generar_iso_directorio_libburnia_MSG3="Hình ảnh ISO9660 được tạo thành công!!"
+generar_iso_directorio_libburnia_MSG4="Lỗi tạo hình ảnh iso-9660 với xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="Các tập tin và thư mục cần đưa vào hình ảnh .iso"
+imagenISO_MSG2="CHỌN MỘT TÙY CHỌN"
+imagenISO_MSG2B="-----------------"
+imagenISO_MSG3="Tạo ảnh ISO-9660 từ CD (sử dụng dd)"
+imagenISO_MSG4="Tạo hình ảnh ISO-9660 từ DVD (sử dụng dd)"
+imagenISO_MSG5="Tạo ảnh ISO-9660 từ CD (sử dụng readcd)"
+imagenISO_MSG6="Tạo ảnh ISO-9660 từ đĩa CD hoặc DVD (sử dụng mkisofs)"
+imagenISO_MSG7="Tạo ảnh ISO-9660 từ dữ liệu ổ cứng (sử dụng mkisofs)"
+imagenISO_MSG8="Trình đơn trước"
+imagenISO_MSG9="TẠO HÌNH ẢNH"
+imagenISO_MSG10="Tạo ảnh ISO-9660 từ dữ liệu ổ cứng (sử dụng xorriso)"
+imagenISO_MSG11="Tạo ảnh iso/udf từ CD/DVD/BD (sử dụng mkisofs)"
+imagenISO_MSG12="Tạo ảnh iso/udf từ dữ liệu ổ cứng (sử dụng mkisofs)"
+imagenISO_MSG13="THỰC ĐƠN ĐỊNH DẠNG ISO-9660"
+imagenISO_MSG13B="================================================="
+imageISO_MSG14="Tạo ảnh UDF/ISO từ dữ liệu ổ cứng (sử dụng mkisofs)"
+imageISO_MSG15="Tạo ảnh UDF/ISO có hỗ trợ cho Video DVD/BD (sử dụng mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Nhập thiết bị khối nguồn mà hình ảnh sẽ được tạo từ đó"
+imagen_img_MSG2="------------------------------------------------------"
+imagen_img_MSG3="Thiết bị được đăng ký trong /etc/fstab và /etc/mtab"
+imagen_img_MSG4="Gắn kết đầu ra lệnh:"
+imagen_img_MSG5="Nhập tên thiết bị: "
+imagen_img_MSG6="Tạo hình ảnh .img của thiết bị khối"
+imagen_img_MSG7="đang chạy"
+imagen_img_MSG8="Hình ảnh THIẾT BỊ ĐƯỢC TẠO TRONG"
+
+# monta_img
+
+monta_img_MSG1="Hình ảnh ISO hoặc ext2 để gắn kết."
+monta_img_MSG2="Nhập đường dẫn thư mục chứa hình ảnh cần gắn:"
+monta_img_MSG3="Hình ảnh CD được gắn:"
+monta_img_MSG4="LỖI KHI GẮN TẬP TIN HÌNH ẢNH"
+monta_img_MSG5="KHÔNG TÌM THẤY"
+monta_img_MSG6="ĐIỂM MOUNT KHÔNG TỒN TẠI"
+monta_img_MSG7="LỖI KHÔNG DỰ KIẾN"
+
+# desmonta_img
+
+desmonta_img_MSG1="Hình ảnh ISO hoặc ext2 cần gỡ bỏ."
+desmonta_img_MSG2="Hình ảnh được tách rời"
+desmonta_img_MSG3="Không tìm thấy hình ảnh được gắn"
+desmonta_img_MSG4="Gắn kết đầu ra:"
+desmonta_img_MSG5="Bạn có thể chỉ định trực tiếp đường dẫn thư mục tuyệt đối của một hình ảnh."
+desmonta_img_MSG6="Ví dụ như /tmp/lcdgrabimg.iso hoặc thư mục gắn kết cho hình ảnh như /mnt/lcdgrab"
+desmonta_img_MSG7="Nếu không được chỉ định, nó có thể được tìm kiếm bằng trình quản lý tập tin"
+desmonta_img_MSG8="Khởi chạy trình quản lý tập tin"
+desmonta_img_MSG9="Chỉ định đường dẫn hình ảnh."
+desmonta_img_MSG10="Hình ảnh được tách rời"
+desmonta_img_MSG11="LỖI KHI GẮN HÌNH ẢNH"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg hình ảnh để chuyển đổi sang .iso"
+nrg_a_iso_MSG2="Nhập đường dẫn của image .nrg (Nero Burning ROM) để chuyển đổi"
+nrg_a_iso_MSG3="Đang chuyển đổi hình ảnh..."
+nrg_a_iso_MSG4="Đường dẫn của hình ảnh .nrg nguồn"
+nrg_a_iso_MSG5="không tồn tại hoặc tương ứng với một thư mục"
+nrg_a_iso_MSG6="Đường dẫn không hợp lệ."
+nrg_a_iso_MSG7="nó đã là ảnh ISO-9660 trước đó, nó sẽ không được chuyển đổi."
+nrg_a_iso_MSG8="Sao chép bằng tiện ích mở rộng khác..."
+nrg_a_iso_MSG9="SAO CHÉP HOÀN THÀNH"
+nrg_a_iso_MSG10="đang chạy"
+nrg_a_iso_MSG11="Hình ảnh được chuyển đổi thành công"
+nrg_a_iso_MSG12="LỖI KHI TẠO HÌNH ẢNH .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Tạo tệp mô tả .cue từ hình ảnh .bin"
+GenerarArchivocue_MSG2="Thư mục hoạt động hiện tại"
+GenerarArchivocue_MSG3="Chỉ ghi đường dẫn thư mục ở đâu"
+GenerarArchivocue_MSG4="tìm tệp hình ảnh:"
+GenerarArchivocue_MSG5="Nhập tên của hình ảnh .bin mà"
+GenerarArchivocue_MSG6="đã tạo tệp .cue tương ứng"
+GenerarArchivocue_MSG7="TẬP TIN MÔ TẢ .cue ĐƯỢC TẠO THÀNH CÔNG"
+GenerarArchivocue_MSG8="LỖI KHI TẠO TỆP MÔ TẢ .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="đang chạy"
+ImagenbincueCDDVD_MSG2="Hình ảnh đĩa .BIN .CUE ĐƯỢC TẠO THÀNH CÔNG"
+

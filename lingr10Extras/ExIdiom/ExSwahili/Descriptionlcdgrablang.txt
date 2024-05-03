@@ -1,0 +1,15 @@
+kiswahili
+
+Suajili. Swahili.
+Experimental.
+
+Contiene errores de significado en contexto o traducción propia.
+Generado con Google Translate.
+
+Contains meaning errors in context or own translation.
+Generated with Google Translate.
+
+Lugha ya kiswahili kwa linux-cdgrab
+Majaribio, yaliyotolewa na Google Tafsiri
+Pascual Martínez Cruz; pascual@hotmail.com
+

@@ -1,0 +1,76 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Vietnamita, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="CHỌN MỘT SỰ LỰA CHỌN"
+clonar_MSG2="------ BẢN SAO ĐĨA HÌNH ẢNH TRƯỚC -------"
+clonar_MSG3="Sao chép đĩa CD dữ liệu"
+clonar_MSG4="Tạo ảnh đĩa CD trước đó trên ổ cứng"
+clonar_MSG5="----------- BẢN SAO ĐĨA TRÊN CHUYẾN BAY -----------"
+clonar_MSG6="Sao chép đĩa CD dữ liệu một cách nhanh chóng"
+clonar_MSG7="Sao chép đĩa CD dữ liệu một cách nhanh chóng"
+clonar_MSG7B="Sao chép đĩa CD âm thanh một cách nhanh chóng"
+clonar_MSG8="TÙY CHỌN SAO CHÉP BAY YÊU CẦU HAI ĐƠN VỊ QUANG HỌC"
+clonar_MSG9="ĐÃ CÀI ĐẶT TRÊN MÁY TÍNH CỦA BẠN, VÌ DỮ LIỆU ĐƯỢC GHI LẠI TRONG KHI"
+clonar_MSG10="ĐỌC TRỰC TIẾP TỪ ĐĨA GỐC, NẾU CHỈ MÁY TÍNH CỦA BẠN CÓ"
+clonar_MSG11="MỘT NGƯỜI SẼ KHÔNG THỂ SỬ DỤNG BẢN SAO TRÊN CHUYẾN BAY."
+clonar_MSG12B="SAO CHÉP DỮ LIỆU CD"
+clonar_MSG0="Trình đơn trước"
+
+
+
+# mgrabacd
+
+mgrabacd_MSG1="DỮ LIỆU CD TỪ ĐĨA CỨNG"
+mgrabacd_MSG2="Ghi đĩa CD dữ liệu mới (sử dụng cdrtools)"
+mgrabacd_MSG3="Ghi đĩa CD dữ liệu mới (sử dụng libburnia)"
+mgrabacd_MSG4="Trình đơn trước"
+mgrabacd_MSG5="Nhập một tùy chọn"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="GHI HÌNH ẢNH DỮ LIỆU"
+mgrabaimg_MSG2="Ghi ảnh iso hoặc ext2 vào CD-R/RW (sử dụng cdrtools)"
+mgrabaimg_MSG3="Ghi ảnh iso vào CD-R/RW (sử dụng libburnia)"
+mgrabaimg_MSG4="Trình đơn trước"
+mgrabaimg_MSG5="Nhập một tùy chọn"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Ghi đĩa CD âm thanh từ tập tin .wav"
+mgrabararchivosaudio_MSG2="Ghi đĩa CD âm thanh từ tập tin .mp3"
+mgrabararchivosaudio_MSG3="Ghi đĩa CD âm thanh từ tập tin .ogg"
+mgrabararchivosaudio_MSG0="Menu trước"
+mgrabararchivosaudio_MSG0B="Nhập một tùy chọn"
+mgrabararchivosaudio_MSG4="Ghi đĩa CD âm thanh từ tập tin .flac"
+mgrabararchivosaudio_MSG5="GHI CD-ÂM THANH TỪ TẬP TIN"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="GHI VÀO CD"
+menugrabar_cd_MSG2="------------------- CD - DỮ LIỆU -------------------"
+menugrabar_cd_MSG3="Sao chép dữ liệu CD"
+menugrabar_cd_MSG4="Ghi đĩa CD dữ liệu mới"
+menugrabar_cd_MSG5="Ghi CD dữ liệu nhiều phiên mới"
+menugrabar_cd_MSG6="Ghi hình ảnh .iso hoặc .ext2 vào CD"
+menugrabar_cd_MSG7="Ghi hình ảnh .bin/.cue vào CD"
+menugrabar_cd_MSG8="-------------------- CD - ÂM THANH ------------------"
+menugrabar_cd_MSG9="Sao chép đĩa CD âm thanh"
+menugrabar_cd_MSG13="----------------- SỰ LỰA CHỌN KHÁC -----------------"
+menugrabar_cd_MSG14="Ghi đĩa CD hỗn hợp (Dữ liệu + Âm thanh)"
+menugrabar_cd_MSG15="Xóa CD-RW"
+menugrabar_cd_MSG16="Đóng CD đang mở"
+menugrabar_cd_MSG17="Hiển thị thông tin đĩa trong ổ đĩa"
+menugrabar_cd_MSG18="Ghi đĩa CD âm thanh từ tập tin đĩa"
+menugrabar_cd_MSG0="Menu trước"
+menugrabar_cd_MSGPRINCIPAL="Gõ một tùy chọn"
+
+

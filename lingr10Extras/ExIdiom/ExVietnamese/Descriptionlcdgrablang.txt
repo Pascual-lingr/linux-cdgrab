@@ -1,0 +1,21 @@
+Tiếng Việt
+
+Vietnamita. Vietnamese.
+Experimental.
+
+Contiene errores de significado en contexto u ortográficos.
+Por estudio del comportamiento de caracteres vietnamitas bajo bajo el shell.
+El shell debe tener soporte para los caracteres de idioma Vietnamita, de lo 
+contrario, este idioma no será funcional bajo el shell.
+Generado con Google Translate.
+
+Contains errors in meaning in context or spelling.
+By study of the behavior of vietnamitese characters under the shell.
+The shell must have support for vietnamitese language characters,
+otherwise this language will not be functional under the shell.
+Generated with Google Translate.
+
+Ngôn ngữ Vietamite cho linux-cdgrab.
+Thử nghiệm, được tạo bằng Google Dịch.
+Pascual Martínez Cruz; pascual@hotmail.com
+

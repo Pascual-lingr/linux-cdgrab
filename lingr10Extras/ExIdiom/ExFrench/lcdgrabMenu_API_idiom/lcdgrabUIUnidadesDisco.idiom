@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExFrench/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Francés para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="OPÉRATIONS DU LECTEUR DE DISQUE"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="------------------------IMPORTANT------------------------"
+MenuDispositivosBloque_MSG3="+ Ne pas effectuer d'opérations d'écriture sur les disques durs "
+MenuDispositivosBloque_MSG4="+ à propos des partitions de disque contenant des images"
+MenuDispositivosBloque_MSG5="+ récupération, partitions de démarrage ou la vôtre"
+MenuDispositivosBloque_MSG6="+ partition du système d'exploitation."
+MenuDispositivosBloque_MSG7="+ L'utilisation abusive des options d'écriture de ce menu "
+MenuDispositivosBloque_MSG8="+ peut générer une catastrophe dans le système."
+MenuDispositivosBloque_MSG9="+ À utiliser avec prudence. À utiliser à vos propres risques."
+MenuDispositivosBloque_MSG10="--------------------- ÉCRIRE --------------------"
+MenuDispositivosBloque_MSG11="Dumper un fichier image sur le lecteur de disque"
+MenuDispositivosBloque_MSG11B="Dumper l'image iso ou img (auto-démarrable) sur une clé USB ou un disque USB"
+MenuDispositivosBloque_MSG11C="Tous les systèmes d'installation ne sont pas pris en charge."
+MenuDispositivosBloque_MSG12="Formater le lecteur avec le système de fichiers natif Linux ou Windows"
+MenuDispositivosBloque_MSG13="-------------------- LECTURE --------------------"
+MenuDispositivosBloque_MSG14="Créer une image .img à partir d'un lecteur de disque"
+MenuDispositivosBloque_MSG15="Menu précédent"
+MenuDispositivosBloque_MSG16="Tapez une option"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------IMPORTANT------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Formater l'unité avec le système de fichiers utilisé dans les appareils"
+UIFormatearUnidad_linuxfs_MSG2B="+ ou partitions de disque."
+UIFormatearUnidad_linuxfs_MSG3="+ Cette option effacera toutes les données existantes sur l'unité"
+UIFormatearUnidad_linuxfs_MSG4="+ Disques amovibles formatés avec un système de fichiers"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux lui-même ne sera accessible que sous ce système d'exploitation."
+UIFormatearUnidad_linuxfs_MSG6="+ Utiliser avec prudence, utiliser à vos propres risques."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="APPUYEZ SUR LA TOUCHE C POUR CONTINUER ; (Le processus sera annulé dans une autre option)"
+

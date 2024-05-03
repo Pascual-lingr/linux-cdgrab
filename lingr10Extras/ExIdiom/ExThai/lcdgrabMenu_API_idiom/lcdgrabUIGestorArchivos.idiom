@@ -1,0 +1,58 @@
+#########################################################
+# lcdgrabAPI_idiom/ExThai/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Tailandés para el gestor de archivos
+# Tranducción experimental, generado con Chat GPT y Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* ตัวเลือกการนำทาง ************************"
+ayuda_gestor_de_archivos_MSG2="เรียกดูระบบไฟล์"
+ayuda_gestor_de_archivos_MSG3="X --> ออกไป"
+ayuda_gestor_de_archivos_MSG4="A --> ไดเรกทอรีก่อนหน้า"
+ayuda_gestor_de_archivos_MSG5="B --> ไดเรกทอรีถัดไป"
+ayuda_gestor_de_archivos_MSG6="การดำเนินการกับไฟล์และไดเร็กทอรี"
+ayuda_gestor_de_archivos_MSG7="C --> คัดลอกไฟล์"
+ayuda_gestor_de_archivos_MSG8="M --> ย้ายไฟล์"
+ayuda_gestor_de_archivos_MSG9="CD --> คัดลอกไดเรกทอรี"
+ayuda_gestor_de_archivos_MSG10="MD --> ย้ายไดเรกทอรี"
+ayuda_gestor_de_archivos_MSG11="ทำความเข้าใจการดำเนินการกับไฟล์และไดเร็กทอรี"
+ayuda_gestor_de_archivos_MSG12="Z --> บีบอัดไฟล์"
+ayuda_gestor_de_archivos_MSG13="DZ --> แตกไฟล์"
+ayuda_gestor_de_archivos_MSG14="EZ --> สร้างแพ็คเกจ .tar.gz หรือ .tar.bz2"
+ayuda_gestor_de_archivos_MSG15="DEZ --> แตกไฟล์ .tar.gz หรือ .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="ไดเร็กทอรีปัจจุบันที่ใช้งานอยู่"
+gestor_de_archivos_MSG0B="ไฟล์ใน"
+gestor_de_archivos_MSG1="================================= ตัวเลือกการนำทาง =============================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> ความช่วยเหลือ="
+gestor_de_archivos_MSG3="==============================================================================="
+# Traducción Chat GPT - INI
+gestor_de_archivos_MSG4="กรุณาพิมพ์ตัวเลือก"
+# Traducción Chat GPT - FIN
+gestor_de_archivos_MSG5="ประเภทไดเร็กทอรี"
+gestor_de_archivos_MSG6="พิมพ์ไฟล์ต้นฉบับ"
+gestor_de_archivos_MSG7="พิมพ์ไฟล์ปลายทาง"
+gestor_de_archivos_MSG8="คัดลอกไฟล์เรียบร้อยแล้ว"
+gestor_de_archivos_MSG9="เกิดข้อผิดพลาดในการคัดลอกไฟล์"
+gestor_de_archivos_MSG10="พิมพ์ไฟล์ต้นฉบับ"
+gestor_de_archivos_MSG11="พิมพ์ไฟล์ปลายทาง"
+gestor_de_archivos_MSG12="ย้ายไฟล์เรียบร้อยแล้ว"
+gestor_de_archivos_MSG13="เกิดข้อผิดพลาดในการย้ายไฟล์"
+gestor_de_archivos_MSG14="พิมพ์ไดเรกทอรีต้นทาง"
+gestor_de_archivos_MSG15="พิมพ์ไดเรกทอรีปลายทาง"
+gestor_de_archivos_MSG16="คัดลอกไดเรกทอรีเรียบร้อยแล้ว"
+gestor_de_archivos_MSG17="เกิดข้อผิดพลาดในการคัดลอกไดเร็กทอรี"
+gestor_de_archivos_MSG18="พิมพ์ไดเรกทอรีต้นทาง"
+gestor_de_archivos_MSG19="พิมพ์ไดเรกทอรีปลายทาง"
+gestor_de_archivos_MSG20="ย้ายไดเรกทอรีเรียบร้อยแล้ว"
+gestor_de_archivos_MSG21="เกิดข้อผิดพลาดในการย้ายไดเร็กทอรี"
+gestor_de_archivos_MSG22="ไฟล์ที่จะบีบอัด"
+gestor_de_archivos_MSG23="ระบุเส้นทางของไฟล์"

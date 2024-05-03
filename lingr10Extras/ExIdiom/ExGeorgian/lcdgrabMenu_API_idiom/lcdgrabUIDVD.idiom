@@ -1,0 +1,93 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="აირჩიეთ მომხმარებლის ინტერფეისი, რომელიც იქნება გამოყენებული:"
+SeleccionaIUDVD_MSG2="გამოიყენეთ ინტერფეისი dvd+-rw-tools-ისთვის"
+SeleccionaIUDVD_MSG3="გამოიყენეთ ინტერფეისი Cdrecord-ProDVD-ისთვის"
+SeleccionaIUDVD_MSG4="გამოიყენეთ ინტერფეისი ლიბურნიისთვის"
+SeleccionaIUDVD_MSG5="წინა მენიუ"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="ჩაწერა DVD-ზე"
+# Resultado del traductor
+menugrabar_dvd_MSG2="----------------- DVD - DATA ------------------"
+menugrabar_dvd_MSG3="დააკოპირეთ ISO-9660 მონაცემთა DVD"
+menugrabar_dvd_MSG4="შექმენით წინა DVD სურათი მყარ დისკზე"
+menugrabar_dvd_MSG5="ახალი ISO-9660 მონაცემთა DVD-ის ჩაწერა"
+menugrabar_dvd_MSG6="ახალი მონაცემთა სესიის დამატება ISO-9660 მონაცემთა DVD-ზე (მრავალსესიის DVD)"
+menugrabar_dvd_MSG7="საჭიროებს DVD-ს, რომელიც ადრე იყო ჩაწერილი მეორე ვარიანტის გამოყენებით"
+menugrabar_dvd_MSG8="ISO-9660 მონაცემთა გამოსახულების ჩაწერა DVD-ზე"
+menugrabar_dvd_MSG9=".ext2 სურათის ჩაწერა DVD-ზე"
+# Resultado del traductor
+menugrabar_dvd_MSG10="----------------- DVD - VIDEO ------------------"
+menugrabar_dvd_MSG11="ახალი DVD-ვიდეოს ჩაწერა"
+menugrabar_dvd_MSG12="-------------- სხვა ვარიანტები -----------------"
+menugrabar_dvd_MSG13="DVD+RW/DVD-RW ფორმატირება"
+menugrabar_dvd_MSG14="DVD დისკის ინფორმაციის ჩვენება"
+menugrabar_dvd_MSG0="წინა მენიუ"
+menugrabar_dvd_MSGPRINCIPAL="აკრიფეთ ვარიანტი"
+menugrabar_dvd_MSG15="ფაილები და დირექტორიები DVD-ზე დასამატებლად"
+menugrabar_dvd_MSG16="ფაილ მენეჯერის გაშვება..."
+menugrabar_dvd_MSG17=".iso სურათი ჩასაწერად DVD-ზე"
+menugrabar_dvd_MSG18="აკრიფეთ დირექტორია გზა, სადაც მდებარეობს .iso სურათი, რომლის ჩაწერაც გსურთ"
+menugrabar_dvd_MSG19="მოითხოვს cdrecord-ის ვერსიას DVD მხარდაჭერით."
+menugrabar_dvd_MSG20=".ext2 გამოსახულების ჩაწერა DVD-ზე განხორციელდება cdrecord-ით."
+menugrabar_dvd_MSG21="თქვენს ინსტალაციაში არსებული cdrecord ვერსია უნდა"
+menugrabar_dvd_MSG22="DVD ჩაწერის მხარდაჭერა."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="აირჩიე ვარიანტი"
+dvd_clonar_MSG2="--- დისკის ასლები წინასწარ გადახედვის სურათთან ერთად ---"
+dvd_clonar_MSG3="დააკოპირეთ მონაცემთა DVD"
+dvd_clonar_MSG4="შექმენით წინა DVD სურათი მყარ დისკზე"
+dvd_clonar_MSG5="--- დისკის ასლები ფრენისას ---"
+dvd_clonar_MSG6="დააკოპირეთ მონაცემთა DVD-ს ფრენა"
+dvd_clonar_MSG7="მონაცემთა DVD-ის კლონირება ფრენისას"
+dvd_clonar_MSG8="მფრინავი ასლის ვარიანტები საჭიროებს ორ ოპტიკურ ერთეულს"
+dvd_clonar_MSG9="დაინსტალირებულია თქვენს კომპიუტერზე, ვინაიდან მონაცემები ჩაწერილია სანამ"
+dvd_clonar_MSG10="წაიკითხეთ პირდაპირ საწყისი დისკიდან, თუ ის მხოლოდ თქვენს კომპიუტერს აქვს"
+dvd_clonar_MSG11="თქვენ ვერ შეძლებთ ასლების გამოყენებას ფრენისას."
+dvd_clonar_MSG0="წინა მენიუ"
+dvd_clonar_MSG12="DVD მონაცემთა ასლი"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="ჩაწერა DVD-ზე"
+# Resultado del traductor
+menugrabar_DVD_MSG2="------------------ DVD - DATA -------------------"
+menugrabar_DVD_MSG3="DVD მონაცემების ამოღება"
+menugrabar_DVD_MSG4="ახალი მონაცემების DVD ჩაწერა"
+menugrabar_DVD_MSG5="ჩაწერეთ .iso ან .ext2 სურათი DVD-ზე"
+menugrabar_DVD_MSG6="DVD+RW/DVD-RW ფორმატირება"
+menugrabar_DVD_MSG7="დისკის ინფორმაციის ჩვენება დისკში"
+menugrabar_DVD_MSG0="წინა მენიუ"
+menugrabar_DVD_MSGPRINCIPAL="აკრიფეთ ვარიანტი"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="ისო-9660 სურათის ჩაწერა DVD-ზე"
+menugrabar_DVD_libburnia_MSG2="მყარი დისკიდან მონაცემების ჩაწერა DVD-ზე"
+menugrabar_DVD_libburnia_MSG3="DVD დაფორმატება"
+menugrabar_DVD_libburnia_MSG4="DVD-RW დაფორმატება თანმიმდევრულ ზრდად"
+menugrabar_DVD_libburnia_MSG5="DVD-RW-ის დაფორმატება შეზღუდულ გადაწერაზე"
+menugrabar_DVD_libburnia_MSG6="დისკის ინფორმაციის ჩვენება"
+menugrabar_DVD_libburnia_MSG8="სისტემაში დაინსტალირებული დისკების სია"
+menugrabar_DVD_libburnia_MSG0="გასვლა"
+menugrabar_DVD_libburnia_MSG7="შეიყვანეთ ვარიანტი"
+

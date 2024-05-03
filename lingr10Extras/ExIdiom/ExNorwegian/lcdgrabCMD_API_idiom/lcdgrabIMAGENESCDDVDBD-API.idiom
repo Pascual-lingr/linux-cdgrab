@@ -1,0 +1,235 @@
+#########################################################
+# lcgdrabAPI_idiom/ExNorwegian/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en noruego para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="BILDEFILSYSTEM"
+imagen_linux_fs_MSG2="Velg filsystemet: "
+imagen_linux_fs_MSG3="Opprett bilde for en CD-R/RW (702 Mbytes)"
+imagen_linux_fs_MSG4="Lag bilde for en DVD+RW (4 Gbyte)"
+imagen_linux_fs_MSG5="Lag bilde for en DVD+RW/DL (8 Gbyte)"
+imagen_linux_fs_MSG5B="Lag bilde for en BD-R/RE (25 Gbyte)"
+imagen_linux_fs_MSG5C="Lag bildefil med egendefinert størrelse"
+imagen_linux_fs_MSG6="Oppretter tom fil med kapasitet på 702 Mbyte"
+imagen_linux_fs_MSG7="Oppretter tom fil med kapasitet på 4 Gbyte"
+imagen_linux_fs_MSG8="Oppretter tom fil med kapasitet på 8 Gbyte"
+imagen_linux_fs_MSG8B="Oppretter tom fil med kapasitet på 25 Gbyte"
+imagen_linux_fs_MSG8C="Oppretter tom fil med egendefinert størrelse"
+imagen_linux_fs_MSG9="FEIL: BILDESTØRRELSE ER IKKE KJENT. AVBRYTER..."
+imagen_linux_fs_MSG10="Kjører"
+imagen_linux_fs_MSG11="Programmet vil formatere den tomme filen."
+imagen_linux_fs_MSG12="Systemet vil advare deg om at den tidligere opprettede filen ikke er en blokkeringsenhet og vil spørre om du vil formatere den"
+imagen_linux_fs_MSG13="Svar ja"
+imagen_linux_fs_MSG13="FORMATERT SUKSESSFULLT"
+imagen_linux_fs_MSG14=" Monteringsbilde . . ."
+imagen_linux_fs_MSG15="FEIL VED FORMATERING AV TOM FIL"
+imagen_linux_fs_MSG16="Programmet har montert filen formatert i"
+imagen_linux_fs_MSG17="Linux-cdgrab vil starte filbehandlingen slik at den kan operere på bildet som er montert på"
+imagen_linux_fs_MSG18="Når filene har blitt kopiert, avmonter den formaterte filen"
+imagen_linux_fs_MSG19="Linux-bildet er i denne katalogen"
+imagen_linux_fs_MSG19B="FEIL VED MONTERING AV BILDEFILEN"
+imagen_linux_fs_MSG20="Filer som skal inkluderes i bildet. Montert i /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Starter filbehandlingen..."
+imagen_linux_fs_MSG22="MERKNAD:"
+imagen_linux_fs_MSG23="------"
+imagen_linux_fs_MSG24="Bildet"
+imagen_linux_fs_MSG25="fortsatt montert"
+imagen_linux_fs_MSG26="FEIL VED LAGRING AV TOM FIL MED dd"
+imagen_linux_fs_MSG27="Sjekk at du har ledig plass på partisjonen montert på /"
+imagen_linux_fs_MSG34="FILSYSTEM FOR Å FORMATERE FIL"
+imagen_linux_fs_MSG35="GENERERING AV TOM FIL MED EGENSTILD STØRRELSE"
+imagen_linux_fs_MSG36="Spesifiser blokkstørrelsen for den nye tomme filen (kun en numerisk verdi):"
+imagen_linux_fs_MSG37="Et eksempel på verdier for blokkstørrelsen er: 1024, 2048 (kun Ext2) eller 4096 (alle formater)"
+imagen_linux_fs_MSG38="Spesifiser størrelsen på den tomme filen som skal genereres (kun en numerisk verdi):"
+imagen_linux_fs_MSG39="Plassmålinger for å generere den tomme filen:"
+imagen_linux_fs_MSG40="Spesifiser plassmålet som skal brukes: "
+imagen_linux_fs_MSG41="FEIL VED SPESIFISERING AV STØRRELSESMÅLING"
+imagen_linux_fs_MSG42="Blokkstørrelsesverdi:"
+imagen_linux_fs_MSG43="Meng plass for tom fil:"
+imagen_linux_fs_MSG44="Beregnet verdi i byte:"
+imagen_linux_fs_MSG45="Beregnet verdi for telling:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Aktiver md5-lesing ved generering av .iso-bilder"
+comprobar_lectura_md5_MSG2="Deaktiver md5-lesing ved generering av .iso-bilder"
+comprobar_lectura_md5_MSG3="Forrige meny"
+comprobar_lectura_md5_MSG4="Gjeldende konfigurasjon:"
+comprobar_lectura_md5_MSG5="Aktivert"
+comprobar_lectura_md5_MSG6="Deaktivert"
+comprobar_lectura_md5_MSG7="Les md5 sum aktivert"
+comprobar_lectura_md5_MSG8="Les md5 sum deaktivert"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Navnet på ISO-bildet kunne ikke leses"
+leer_md5sum_MSG2="Leser md5sum av"
+leer_md5sum_MSG3="Viser md5-summen av bildet"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="LAGER CD-BILDE"
+extraer_isoCD_dd_MSG2="BILDET OPPRETTET I"
+extraer_isoCD_dd_MSG3="Ikke funnet"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="LAGER DVD-BILDE"
+extraer_isoDVD_dd_MSG2="kjører"
+extraer_isoDVD_dd_MSG3="BILDET OPPRETTET I"
+extraer_isoDVD_dd_MSG4="Ikke funnet"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="kjører"
+extraer_iso_readcd_MSG2="BILDET ER SUKSESSFULLT OPPRETTET"
+extraer_iso_readcd_MSG3="Bilde opprettet i"
+extraer_iso_readcd_MSG4="Avbryter opptaksprosessen..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Montert CD"
+extraer_iso_mkisofs_MSG2="Oppretter bilde..."
+extraer_iso_mkisofs_MSG3="Macintosh-kompatibilitet aktivert"
+extraer_iso_mkisofs_MSG4="Bruker"
+extraer_iso_mkisofs_MSG5="løper"
+extraer_iso_mkisofs_MSG6="Bilde opprettet i katalogen"
+extraer_iso_mkisofs_MSG7="Prøver prosessen på nytt uten Macintosh-støtte"
+extraer_iso_mkisofs_MSG8="Bilde opprettet i katalogen"
+extraer_iso_mkisofs_MSG9="mkisofs returnerer ukjente feil ved oppretting"
+extraer_iso_mkisofs_MSG10="fra"
+extraer_iso_mkisofs_MSG11="Sjekk dataintegriteten"
+extraer_iso_mkisofs_MSG12="Montering"
+extraer_iso_mkisofs_MSG12B="no"
+extraer_iso_mkisofs_MSG13="genisoimage returnerer ukjente feil ved oppretting"
+extraer_iso_mkisofs_MSG13B="fra"
+extraer_iso_mkisofs_MSG14="Mkisofs og genisoimage ikke funnet. Vennligst installer cdrtools eller cdrkit."
+extraer_iso_mkisofs_MSG15="Kunne ikke monteres"
+extraer_iso_mkisofs_MSG16="Bilde opprettet vellykket i"
+
+# m_comp_img
+
+m_comp_img_MSG1="BILDET GENERERT MED LYKKE TIL"
+m_comp_img_MSG2="VIL DU KOMprimere BILDEFILEN?"
+m_comp_img_MSG3="(s/y) for å komprimere; Prosessen avbrytes med et annet alternativ."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Starter filbehandleren..."
+generar_iso_directorio_MSG2="Skriv inn et navn for den fremtidige CD/DVD/BD"
+generar_iso_directorio_MSG3="LAGER BILDE..."
+generar_iso_directorio_MSG4="Macintosh-kompatibilitet aktivert"
+generar_iso_directorio_MSG5="Bruker"
+generar_iso_directorio_MSG6="løper"
+generar_iso_directorio_MSG7="BILDET OPPRETTET I KATALOGEN"
+generar_iso_directorio_MSG8="PROSESSEN FOR BILDEOPPRETTELSE HAR MISLYKT"
+generar_iso_directorio_MSG9="LAGE BILDE UTEN MACINTOSH-KOMPATIBILITET"
+generar_iso_directorio_MSG10="Mkisofs og genisoimage ble ikke funnet. Installer cdrtools eller cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Skriv inn et navn for fremtidige DVD/BD"
+generar_bdv_udf_directorio_MSG2="Spesifiser katalogen for å generere videobildet:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Spesifiser disketikett:"
+generar_iso_directorio_libburnia_MSG2="Spesifiser katalogen for å generere iso-9660-bildet:"
+generar_iso_directorio_libburnia_MSG3="ISO9660-bilde opprettet vellykket!!"
+generar_iso_directorio_libburnia_MSG4="Feil under generering av iso-9660-bilde med xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="Filer og kataloger som skal inkluderes i .iso-bildet"
+imagenISO_MSG2="VELG ET ALTERNATIV"
+imagenISO_MSG2B="----------------------------"
+imagenISO_MSG3="Generer ISO-9660-bilde fra CD (bruk dd)"
+imagenISO_MSG4="Generer ISO-9660-bilde fra DVD (bruk dd)"
+imagenISO_MSG5="Generer ISO-9660-bilde fra CD (bruk readcd)"
+imagenISO_MSG6="Generer ISO-9660-bilde fra CD- eller DVD-disk (bruk mkisofs)"
+imagenISO_MSG7="Lag ISO-9660-bilde fra harddiskdata (bruk mkisofs)"
+imagenISO_MSG8="Forrige meny"
+imagenISO_MSG9="LAGER BILDE"
+imagenISO_MSG10="Lag ISO-9660-bilde fra harddiskdata (bruk xorriso)"
+imagenISO_MSG11="Lag iso/udf-bilde fra en CD/DVD/BD (bruk mkisofs)"
+imagenISO_MSG12="Lag iso/udf-bilde fra harddiskdata (bruk mkisofs)"
+imagenISO_MSG13="\tISO-9660 FORMATTERMENY"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Lag UDF/ISO-bilde fra harddiskdata (bruk mkisofs)"
+imagenISO_MSG15="Lag UDF/ISO-bilde med støtte for DVD Video (bruk mkisofs)"
+
+
+# imagen_img
+
+imagen_img_MSG1="Skriv inn kildeblokkenheten som bildet skal lages fra"
+imagen_img_MSG2="-----------------------------------------------------"
+imagen_img_MSG3="Enheter registrert i /etc/fstab og /etc/mtab"
+imagen_img_MSG4="Monter kommandoutgang:"
+imagen_img_MSG5="Skriv inn enhetsnavnet: "
+imagen_img_MSG6="Oppretter .img-bilde av blokkeringsenheten"
+imagen_img_MSG7="løper"
+imagen_img_MSG8="ENHETSBILDE OPPRETTET I"
+
+# monta_img
+
+monta_img_MSG1="ISO- eller ext2-bilde som skal monteres."
+monta_img_MSG2="Skriv inn katalogbanen der bildet som skal monteres er plassert:"
+monta_img_MSG3="MONTERET CD-BILDE:"
+monta_img_MSG4="FEIL VED MONTERING AV BILDEFILEN"
+monta_img_MSG5="IKKE FUNNET"
+monta_img_MSG6="MONTERINGSPUNKT FINNER IKKE"
+monta_img_MSG7="UVENTET FEIL"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO- eller ext2-bilde som skal demonteres."
+desmonta_img_MSG2="DEMONTERT BILDE"
+desmonta_img_MSG3="Ingen montert bilde funnet"
+desmonta_img_MSG4="Monter utgang:"
+desmonta_img_MSG5="Du kan spesifisere den absolutte katalogbanen til et bilde direkte."
+desmonta_img_MSG6="Slik som /tmp/lcdgrabimg.iso eller monteringskatalogen for bildet som /mnt/lcdgrab"
+desmonta_img_MSG7="Hvis ikke spesifisert, kan det søkes ved hjelp av filbehandlingen"
+desmonta_img_MSG8="Starter filbehandling"
+desmonta_img_MSG9="Spesifiser bildebanen."
+desmonta_img_MSG10="DEMONTERT BILDE"
+desmonta_img_MSG11="FEIL VED AVMONTERING AV BILDET"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg-bilde som skal konverteres til .iso"
+nrg_a_iso_MSG2="Skriv inn banen til .nrg (Nero Burning ROM)-bildet som skal konverteres"
+nrg_a_iso_MSG3="Konverterer bilde..."
+nrg_a_iso_MSG4="Bienen til kilde-.nrg-bildet"
+nrg_a_iso_MSG5="finnes ikke eller tilsvarer en katalog"
+nrg_a_iso_MSG6="Ugyldig bane."
+nrg_a_iso_MSG7="det er allerede et tidligere ISO-9660-bilde, det vil ikke bli konvertert."
+nrg_a_iso_MSG8="Kopierer med annen utvidelse..."
+nrg_a_iso_MSG9="KOPIEN FULLFØRT"
+nrg_a_iso_MSG10="løper"
+nrg_a_iso_MSG11="Bilde konvertert vellykket"
+nrg_a_iso_MSG12="FEIL VED LAGRING AV BILDE .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Generer .cue-beskrivelsesfil fra .bin-bilde"
+GenerarArchivocue_MSG2="Gjeldende aktive katalog"
+GenerarArchivocue_MSG3="Skriv bare katalogbanen hvor"
+GenerarArchivocue_MSG4="finn bildefilen:"
+GenerarArchivocue_MSG5="Skriv inn navnet på .bin-bildet som"
+GenerarArchivocue_MSG6="har generert sin tilsvarende .cue-fil"
+GenerarArchivocue_MSG7="BESKRIVELSESFILEN .cue GENERERT VED LYKKELIG"
+GenerarArchivocue_MSG8="FEIL VED GENERERING AV BESKRIVELSESFIL .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="kjører"
+ImagenbincueCDDVD_MSG2="DISKIMAGE .BIN .CUE SUKSESSFULL GENERERT"
+

@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExPolish/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Polaco para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Pliki w /tmp"
+dir_tmp_MSG2="Usuń wszystkie obrazy i pliki skompresowane"
+dir_tmp_MSG3="Uruchom menedżera plików dla innych operacji"
+dir_tmp_MSG4="Zamontuj lub odmontuj obraz"
+dir_tmp_MSG5="Pokaż menu tworzenia obrazu"
+dir_tmp_MSG6="Pokaż opcje nagrywania obrazu"
+dir_tmp_MSG7="Poprzednie menu"
+dir_tmp_MSG8="LISTA ISTNIEJĄCYCH PLIKÓW W"
+dir_tmp_MSG9="WYBIERZ OPCJĘ:"
+dir_tmp_MSG10="USUNIĘTE OBRAZY I PLIKI"
+dir_tmp_MSG11="Zamontuj obraz."
+dir_tmp_MSG12="Odmontuj obraz."
+dir_tmp_MSG13="Nagraj obraz na płytę CD"
+dir_tmp_MSG14="Nagraj obraz na DVD"
+dir_tmp_MSG14B="Nagraj obraz na BD"
+dir_tmp_MSG15="Wybierz opcję w zależności od nośnika zapisu"
+dir_tmp_MSG16="NIE ZNALEZIONO PLIKU PLIKU KONFIGURACYJNEGO"
+dir_tmp_MSG17="Przerywanie procesu nagrywania"
+dir_tmp_MSG18="Określ plik .iso do nagrania"
+dir_tmp_MSG19="Wprowadź ścieżkę obrazu: "
+

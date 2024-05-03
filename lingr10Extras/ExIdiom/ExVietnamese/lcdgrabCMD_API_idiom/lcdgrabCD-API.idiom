@@ -1,0 +1,184 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Vietnamita para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="đang chạy"
+copia_bin_MSG2="--------------ĐANG THỬ LẠI QUY TRÌNH GHI---------------"
+copia_bin_MSG3="	XÓA TẬP TIN HÌNH ẢNH"
+copia_bin_MSG4="LỖI ĐÃ XUẤT HIỆN KHI GHI"
+copia_bin_MSG5="Không thể tìm thấy tệp .iso kết xuất ảnh đĩa. Đang hủy bỏ quá trình ghi..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="đang chạy"
+datos_al_vuelo_MSG2="Lỗi ghi, thử lại mà không hỗ trợ ghi quá mức"
+datos_al_vuelo_MSG3="Kiểm tra xem đĩa nguồn hoặc thiết bị"
+datos_al_vuelo_MSG4="đang trong tình trạng tốt"
+datos_al_vuelo_MSG5="Lấy số khối dẫn đầu từ đĩa nguồn"
+datos_al_vuelo_MSG6="SAO CHÉP ĐĨA..."
+
+# clonar_cd
+
+clonar_cd_MSG1="đang chạy"
+clonar_cd_MSG2="CD được sao chép thành công"
+clonar_cd_MSG3="XUẤT HIỆN LỖI KHI SAO CHÉP CD"
+
+# datos
+
+datos_MSG1="Các tập tin và thư mục để tạo ảnh .iso"
+datos_MSG2="Nhãn CD/DVD/BD"
+datos_MSG3="Nhập tên cho CD/DVD/BD trong tương lai:"
+datos_MSG4="Khởi chạy trình quản lý tập tin:"
+datos_MSG5="	TẠO HÌNH ẢNH. . ."
+datos_MSG6="đang chạy"
+datos_MSG7="HÌNH ẢNH ISO-9660 ĐƯỢC TẠO TẠI"
+datos_MSG8="		GHI CD/DVD/BD"
+datos_MSG9="QUY TRÌNH TẠO TẬP TIN HÌNH ẢNH ĐÃ THẤT BẠI"
+datos_MSG10="Đang thử lại để tạo một cái mới mà không cần hỗ trợ HFS (Macintosh)"
+datos_MSG11="XÓA HÌNH ẢNH . . ."
+datos_MSG12="TẠO HÌNH ẢNH MỚI . . ."
+datos_MSG13="KHÔNG THỂ GHI CHÍNH XÁC"
+datos_MSG14="------------ĐANG THỬ LẠI QUY TRÌNH GHI-----------"
+datos_MSG15="XÓA HÌNH ẢNH..."
+datos_MSG16="Đang đốt CD/DVD/BD DỮ LIỆU ISO-9660..."
+datos_MSG17="Không tìm thấy."
+datos_MSG18="Hủy ghi đĩa..."
+
+# datoslb
+
+datoslb_MSG1="Lỗi: Không thể tìm thấy tệp hình ảnh. Đang hủy bỏ..."
+datoslb_MSG2="QUY TRÌNH GHI OK"
+datoslb_MSG3="LỖI TRONG QUÁ TRÌNH GHI"
+
+# borra
+
+borra_MSG0="Menu trước"
+borra_MSG1="Chọn chế độ xóa CD-RW"
+borra_MSG2="----------------------------------"
+borra_MSG3="Xóa nhanh (sử dụng cdrecord)"
+borra_MSG4="Xóa hoàn toàn (sử dụng cdrecord)"
+borra_MSG5="Cần xóa (sử dụng cdrskin)"
+borra_MSG6="Đang chạy"
+borra_MSG7="Việc định dạng hoặc xóa cần thiết được áp dụng tùy thuộc vào trạng thái đĩa"
+borra_MSG8="CD-RW ĐÃ XÓA THÀNH CÔNG!!"
+borra_MSG9="LỖI KHI XÓA CD-RW"
+borra_MSG10="BẮT BUỘC XÓA CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="LỖI KHI CỐ XÓA CD-RW"
+err_borra_cdrw_MSG2="CD-RW KHÔNG SỬ DỤNG ĐƯỢC"
+err_borra_cdrw_MSG3="KHÔNG THỂ XÓA CD-RW NÀY"
+err_borra_cdrw_MSG4="KIỂM TRA CD-RW xem có THIỆT HẠI VẬT LÝ"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="đang chạy"
+cerrar_cd_MSG2="CD ĐÃ ĐƯỢC ĐÓNG ĐÚNG"
+cerrar_cd_MSG3="LỖI KHI ĐÓNG CD"
+cerrar_cd_MSG4="ĐANG KẾT THÚC TRÊN CD DỮ LIỆU . . ."
+
+# grabimg
+
+grabimg_MSG1=".iso hoặc hình ảnh .ext2 để ghi vào CD/DVD"
+grabimg_MSG2="Khởi chạy trình quản lý tập tin."
+grabimg_MSG3="Nhập đường dẫn đầy đủ nơi chứa ảnh CD/DVD bạn muốn ghi:"
+grabimg_MSG4="Đang chạy"
+grabimg_MSG5="-------------ĐANG THỬ LẠI QUY TRÌNH GHI----------"
+grabimg_MSG6="ĐÃ GHI HÌNH HOÀN THÀNH!!"
+grabimg_MSG7="IMAGE .EXT2 ĐƯỢC GHI THÀNH CÔNG"
+
+# grabimglb
+
+grabimglb_MSG1="Nhập đường dẫn đầy đủ nơi chứa ảnh CD/DVD bạn muốn ghi:"
+grabimglb_MSG2="Đang ghi ảnh vào đĩa..."
+grabimglb_MSG3="Hình ảnh ISO-9660 ĐƯỢC GHI THÀNH CÔNG"
+grabimglb_MSG4="LỖI KHI GHI HÌNH ẢNH ISO-9660"
+grabimglb_MSG5="Lỗi: Không tìm thấy tệp hình ảnh. Đang hủy bỏ..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin và các tập tin .cue để ghi lại hình ảnh"
+grabimg_cue_MSG2="Để ghi hình ảnh bin/cue, cả hai tập tin phải"
+grabimg_cue_MSG3="ở trong thư mục hoạt động."
+grabimg_cue_MSG4="Thư mục hoạt động hiện tại"
+grabimg_cue_MSG5="Nhập tên của tệp *.cue tham chiếu đến tệp hình ảnh *.bin"
+grabimg_cue_MSG6="tập tin .cue: "
+grabimg_cue_MSG7="Đang chạy"
+grabimg_cue_MSG8="GHI ĐÃ HOÀN THÀNH!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Ghi CD nhiều phiên từ ảnh .iso"
+cd_multi_MSG2="Ghi phiên đầu tiên vào đĩa CD từ ảnh .iso"
+cd_multi_MSG3="Ghi CD nhiều phiên từ các tập tin trên đĩa"
+cd_multi_MSG4="Ghi các phiên liên tiếp vào đĩa CD từ các tập tin trên ổ cứng"
+cd_multi_MSG5="Tùy chọn này yêu cầu đĩa CD nhiều phiên, với phiên đã được ghi trước đó."
+cd_multi_MSG6="Trình đơn trước"
+cd_multi_MSG7=".hình ảnh iso để ghi vào CD-Multi-session"
+cd_multi_MSG8="Chỉ định đường dẫn của hình ảnh .iso"
+cd_multi_MSG9="Đang chạy"
+cd_multi_MSG10="CD NHIỀU PHẦN ĐƯỢC GHI THÀNH CÔNG!!"
+cd_multi_MSG11="Thư mục cần đưa vào hình ảnh."
+cd_multi_MSG12="Chỉ định bên dưới những thư mục nào sẽ bao gồm"
+cd_multi_MSG13="Nhập tên cho nhãn CD:"
+cd_multi_MSG14="TẠO HÌNH ẢNH..."
+cd_multi_MSG15="TẠO THÀNH CÔNG"
+cd_multi_MSG16="LỖI KHI TẠO HÌNH ẢNH. CHẤM DỨT QUY TRÌNH GHI..."
+cd_multi_MSG17="ĐANG CHÁY HÌNH ẢNH CD..."
+cd_multi_MSG18="MENU CD NHIỀU PHIÊN"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="RIPPING CD ÂM THANH..."
+copia_cd_audio_MSG2="Đang chạy"
+copia_cd_audio_MSG3="BÀI ÂM THANH ĐANG CH Chín THÀNH CÔNG!!"
+copia_cd_audio_MSG4="LỖI KHI RIP ÂM THANH"
+copia_cd_audio_MSG5="Đang đốt CD ÂM THANH..."
+copia_cd_audio_MSG6="CD ÂM THANH ĐƯỢC SAO CHÉP THÀNH CÔNG!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1="Tập tin .wav để ghi vào CD"
+wav_a_cd_MSG2="Linux-cdgrab sẽ không kiểm tra kích thước thư mục"
+wav_a_cd_MSG3="Đảm bảo rằng nó không quá 650 Mbyte trong trường hợp này"
+wav_a_cd_MSG4="nếu bạn đang sử dụng đĩa CD 80 phút."
+wav_a_cd_MSG5="Nhập đường dẫn thư mục của tập tin .wav"
+wav_a_cd_MSG6="Đang chạy"
+wav_a_cd_MSG7="QUY TRÌNH HOÀN THÀNH!"
+
+# cdmixto
+
+cdmixto_MSG1="Dự án tạo CD-Mixto (Hình ảnh dữ liệu .iso + Tệp âm thanh .wav)"
+cdmixto_MSG2="Linux-cdgrab sẽ không kiểm tra kích thước thư mục"
+cdmixto_MSG3="tệp âm thanh ở đâu."
+cdmixto_MSG4="Nó cũng sẽ không làm như vậy từ hình ảnh .iso mà bạn định ghi"
+cdmixto_MSG5="sau."
+cdmixto_MSG6="Hãy nhất quán với kích thước bạn có"
+cdmixto_MSG7="ghi vào đĩa CD mới của bạn."
+cdmixto_MSG8="Chỉ định đường dẫn của tệp âm thanh:"
+cdmixto_MSG9="Chỉ định đường dẫn ảnh iso:"
+cdmixto_MSG10="##################################"
+cdmixto_MSG11="GHI CD HỖN HỢP: DỮ LIỆU + ÂM THANH"
+cdmixto_MSG12="đang chạy"
+cdmixto_MSG13="----CD HỖN HỢP ĐƯỢC TẠO THÀNH CÔNG-----!!"
+cdmixto_MSG14="------LỖI KHI GHI CD-MIXED--------"
+
+# discoinfo
+
+discoinfo_MSG1="đang chạy"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="Đã quét cổng IDE/SCSI"
+cdrecord_scan_MSG1="Lỗi quét cổng IDE/SCSI"
+cdrecord_scan_MSG2="Không tìm thấy bản ghi Cd"
+

@@ -1,0 +1,175 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Georgian para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="ჩამწერი მოწყობილობა როგორც"
+buscar_grabadora_MSG1B=" ძალაშია"
+buscar_grabadora_MSG2="ჩამწერი მოწყობილობა როგორც"
+buscar_grabadora_MSG2B="შეცდომა"
+buscar_grabadora_MSG3="Dvd+-rw-tools არ ეთანხმება, რომ ჩამწერი მოწყობილობა არის"
+buscar_grabadora_MSG4="იმისათვის, რომ შეძლოთ DVD-ების ჩაწერა dvd+rw-ინსტრუმენტების გამოყენებით, თქვენ უნდა მიუთითოთ თქვენი ჩამწერი, როგორც ბლოკის მოწყობილობა"
+buscar_grabadora_MSG5="მაგალითი"
+buscar_grabadora_MSG6="ან"
+buscar_grabadora_MSG7=" არსებული სისტემის მოწყობილობების ჩვენება /dev"
+buscar_grabadora_MSG8="შეიყვანეთ ბლოკის მოწყობილობა, რომელიც შეესაბამება თქვენს DVD ჩამწერს"
+buscar_grabadora_MSG9="ჩამწერის ტიპი ან ვარიანტი არ არის მითითებული."
+buscar_grabadora_MSG10="მოწყობილობა კონფიგურირებულია ჩამწერისთვის"
+buscar_grabadora_MSG11="ჩამწერი მოწყობილობა ექსპორტირებულია shell-ის გარემოში როგორც"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="შესაძლო მნიშვნელობა მოქმედებს მხოლოდ cdrecord-ისთვის"
+buscar_grabadoralb_MSG2="ჩამწერის მიმდინარე კონფიგურაცია არის"
+buscar_grabadoralb_MSG3="შეამოწმეთ, რომ ეს კონფიგურაცია ემთხვევა cdrskin-ის მიერ მინიჭებულ მნიშვნელობას"
+buscar_grabadoralb_MSG4="IDE/SCSI პორტის სკანირება cdrskin-ით..."
+buscar_grabadoralb_MSG5="მიუთითეთ ახალი მნიშვნელობა, რომელიც გამოყენებული იქნება cdrskin-თან ერთად:"
+
+# datos_dvd
+
+datos_dvd_MSG1="შეიყვანეთ სახელი მომავალი DVD-სთვის:"
+datos_dvd_MSG2="DVD-ის ჩაწერა . . ."
+datos_dvd_MSG3="გამოყენება"
+datos_dvd_MSG4="გაშვებულია"
+datos_dvd_MSG5="DVD წარმატებით ჩაიწერა!"
+datos_dvd_MSG6="mkisofs ან genisoimage ვერ მოიძებნა, დააინსტალირე cdrtools ან cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="შეიყვანეთ სახელი მომავალი DVD-სთვის:"
+datos_dvd_multi_MSG2="DVD-ის ჩაწერა . . ."
+datos_dvd_multi_MSG3="გამოყენება"
+datos_dvd_multi_MSG4="გაშვებულია"
+datos_dvd_multi_MSG5="DVD წარმატებით ჩაიწერა!"
+datos_dvd_multi_MSG6="Mkisofs ან genisoimage ვერ მოიძებნა, დააინსტალირეთ cdrtools ან cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="გამოსახულების ჩაწერა . . ."
+grabimg_dvd_MSG2="გაშვებულია"
+grabimg_dvd_MSG3="! DVD სურათი ჩაწერილია წარმატებით!"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="სურათის ჩაწერა DVD-ზე . . ."
+copia_bin_dvd_MSG2="გაშვებულია"
+copia_bin_dvd_MSG3="	სურათის ფაილის წაშლა"
+copia_bin_dvd_MSG4="ჩაწერა დასრულებულია!"
+
+# formatear_dvd
+
+# Resultado del traductor
+formatear_dvd_MSG1="ფორმატი a"
+formatear_dvd_MSG2="ახალი ფორმატის იძულება"
+formatear_dvd_MSG3="A-ს გამომავალი ბლოკის გადატანა"
+formatear_dvd_MSG4="DVD-RW-ის დაფორმატება თანმიმდევრულ ზრდად"
+formatear_dvd_MSG5="DVD-RW-ის დაფორმატება შეზღუდულ გადაწერაზე"
+formatear_dvd_MSG6="შეავსე DVD ნულებით"
+formatear_dvd_MSG7="DVD ინფორმაციის ჩვენება"
+formatear_dvd_MSG8="წინა მენიუ"
+formatear_dvd_MSG9="ეს პარამეტრი გამოიყენება DVD-ის დასაფორმებლად პირველად."
+formatear_dvd_MSG10="თუ DVD უკვე ფორმატირებულია, ის არ წაშლის მონაცემებს."
+formatear_dvd_MSG11="ეს გადაიწერება ახალ ჩანაწერში."
+formatear_dvd_MSG12="DVD-ის შიგთავსის წასაშლელად გამოიყენეთ:"
+formatter_dvd_MSG13="შეავსეთ DVD ნულებით"
+formatear_dvd_MSG14="ეს პარამეტრი წაშლის ფორმატს და მონაცემებს დამუშავებული DVD-დან."
+formatear_dvd_MSG15="გაშვებულია"
+formatear_dvd_MSG16="DVD+RW/DVD-RW წარმატებით ფორმატირდება!"
+formatear_dvd_MSG17="შეცდომა DVD-ის ფორმატირებისას"
+formatear_dvd_MSG18="DVD+RW დისკზე ფორმატის იძულება..."
+formatear_dvd_MSG19="DVD+RW წარმატებით ფორმატირებული!"
+formatear_dvd_MSG20="შეცდომა DVD+RW ფორმატირებისას"
+formatear_dvd_MSG21="ეს პარამეტრი არ მოქმედებს DVD+RW-ზე შენახულ მონაცემებზე"
+formatear_dvd_MSG22="მიმდინარე ბლოკის ამოღება DVD+RW-დან..."
+formatear_dvd_MSG23="DVD-RW დისკის ფორმატირება თანმიმდევრულ ჩაწერაზე..."
+formatear_dvd_MSG24="DVD-RW წარმატებით ფორმატირებული!"
+formatear_dvd_MSG25="შეცდომა DVD-RW ფორმატირებისას"
+formatear_dvd_MSG26="DVD-RW დისკის ფორმატირება შეზღუდულ გადაწერაზე..."
+formatear_dvd_MSG27="წაშალე გადასაწერი DVD"
+
+# null_dvd
+
+null_dvd_MSG1="დისკზე ჩაწერა /dev/zero . . ."
+null_dvd_MSG2="გაშვებულია"
+null_dvd_MSG3="პროცესი დასრულებულია"
+null_dvd_MSG4="მოულოდნელი შეცდომა"
+
+# dvd_video
+
+dvd_video_MSG1="გზა, სადაც მდებარეობს VIDEO_TS და AUDIO_TS დირექტორიები:"
+dvd_video_MSG2="მიუთითეთ გზა, სადაც მდებარეობს VIDEO_TS და AUDIO_TS დირექტორიები:"
+dvd_video_MSG3="გაშვებულია"
+dvd_video_MSG4="--- წარმატებით ჩაწერილი DVD-ვიდეო ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="გაშვებულია"
+# Resultado del traductor
+dvd_copia_bin_MSG2="	IMAGE ფაილის წაშლა"
+dvd_copia_bin_MSG3="დაიმართა ჩაწერის შეცდომა"
+
+# dvd_datos
+
+dvd_datos_MSG1="ფაილები და დირექტორიები .iso სურათის შესაქმნელად"
+# Resultado del traductor
+dvd_datos_MSG2="DVD LABEL"
+dvd_datos_MSG3="შეიყვანეთ სახელი მომავალი DVD-სთვის:"
+dvd_datos_MSG4="ფაილ მენეჯერის გაშვება:"
+dvd_datos_MSG5=" სურათის შექმნა ...."
+dvd_datos_MSG6="გაშვებულია"
+# Resultado del traductor
+dvd_datos_MSG7="ISO-9660 IMAGE CREATED IN"
+dvd_datos_MSG8="DVD ჩაწერა"
+dvd_datos_MSG13="წაშალე სურათი..."
+
+# dvd_borra
+
+dvd_borra_MSG1="გაშვებულია"
+dvd_borra_MSG2="ოპტიკური დისკი წარმატებით ფორმატირდება"
+dvd_borra_MSG3="შეცდომა ოპტიკური დისკის ფორმატირებისას"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="გაშვებულია"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="გაშვებულია"
+formatearCDDVDBD_MSG2="ოპტიკური დისკი წარმატებით ფორმატირებულია"
+formatearCDDVDBD_MSG3="შეცდომა ოპტიკური დისკის ფორმატირებისას"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW წარმატებით დაფორმატდა!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="DVD-RW შეზღუდულ გადაწერაზე ფორმატირების შეცდომა"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW წარმატებით დაფორმატდა!!"
+formatearDVDRW_incremental_secuencial_MSG2="შეცდომა DVD-RW თანმიმდევრულ ინკრემენტულზე ფორმატირებისას"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="მიუთითეთ iso-9660 გამოსახულების ჩასაწერი გზა:"
+cdrskinisocddvd_MSG2="ISO IMAGE ჩაწერილია წარმატებით!!"
+cdrskinisocddvd_MSG3="შეცდომა სურათის ჩაწერისას"
+

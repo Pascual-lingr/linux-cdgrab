@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en húngaro para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="VIDEOKONVERZIÓ BLU-RAY LEMEZ KOMPATIBILITÁSA"
+conv_video_BDVideo_MSG2="Adja meg a konvertálandó videofájl elérési útját:"
+conv_video_BDVideo_MSG3="Adja meg a létrehozandó új videó fájlnevét:"
+conv_video_BDVideo_MSG4="A videófájl sikeresen konvertálva!!"
+conv_video_BDVideo_MSG5="Hiba a videofájl konvertálásakor"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="KONVERZIÓS VIDEÓFÁJLOK"
+conv_VideoFich_MSG2="Adja meg a konvertálandó videofájlt:"
+conv_VideoFich_MSG3="Adja meg a generálandó videofájlt:"
+conv_VideoFich_MSG4="VIDEOFÁJL KONVERZIÓ VÉGEZÉS"
+conv_VideoFich_MSG5="HIBA A VIDEÓFÁJL KONVERTÁLÁSÁNAK"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Adja meg a videofájlt:"
+extrae_Audio_de_Video_MSG2="Adja meg a generálandó mp3 hangfájlt:"
+extrae_Audio_de_Video_MSG3="HANGKIVONÁS SIKERES"
+extrae_Audio_de_Video_MSG4="HIBA A HANG KIVONÁSÁVAL"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Adja meg a videofájlt:"
+extrae_Fragmento_Video_MSG2="Adja meg a generálandó videofájlt:"
+extrae_Fragmento_Video_MSG3="Adja meg a kezdeti időt (Adja meg ÓÓ:PP:SS) :"
+extrae_Fragmento_Video_MSG4="Adja meg a befejezési időt (Adja meg ÓÓ:PP:SS) :"
+extrae_Fragmento_Video_MSG5="VIDEO SIKERTELEN VÁGÁSA"
+extrae_Fragmento_Video_MSG6="HIBA A VIDEÓ VÁGÁSÁVAL"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Adja meg a hangfájlt:"
+mezcla_Audio_Video_MSG2="Adja meg a videofájlt:"
+mezcla_Audio_Video_MSG3="Adja meg a generálandó videofájlt:"
+mezcla_Audio_Video_MSG4="AZ ÚJ VIDEÓFÁJL SIKERESEN LÉTREHOZOTT"
+mezcla_Audio_Video_MSG5="HIBA VIDEÓFÁJL LÉTREHOZÁSA"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="NEM ELÉRHETŐ OPCIÓ KONZOL FELÜLETHEZ"
+graba_escritorio_MSG2="-- ASZTALI MUNKAVÉGZÉS RÖGZÍTÉSE -- NYOMJA MEG A CTRL + C billentyűt a TÖRLÉSÉHEZ ÉS A RÖGZÍTÉS LEÁLLÍTÁSÁHOZ"
+graba_escritorio_MSG3="VIDEOFELVÉTEL KÉSZ"
+

@@ -1,0 +1,235 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLuxembourgish/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en Luxemburgués para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="IMAGE FILE SYSTEM"
+imagen_linux_fs_MSG2="Wielt de Dateisystem aus: "
+imagen_linux_fs_MSG3="Bild erstellen fir eng CD-R/RW (702 Mbytes)"
+imagen_linux_fs_MSG4="Bild erstellen fir eng DVD+RW (4 Gbytes)"
+imagen_linux_fs_MSG5="Bild erstellen fir eng DVD+RW/DL (8 Gbytes)"
+imagen_linux_fs_MSG5B="Bild erstellen fir e BD-R/RE (25 Gbytes)"
+imagen_linux_fs_MSG5C="Bilddatei mat personaliséierter Gréisst erstellen"
+imagen_linux_fs_MSG6="Erstellt eidel Datei mat Kapazitéit fir 702 Mbytes"
+imagen_linux_fs_MSG7="Erstellt eidel Datei mat Kapazitéit fir 4 Gbytes"
+imagen_linux_fs_MSG8="Erstellt eidel Datei mat Kapazitéit fir 8 Gbytes"
+imagen_linux_fs_MSG8B="Erstellt eidel Datei mat Kapazitéit fir 25 Gbytes"
+imagen_linux_fs_MSG8C="Erstellt eidel Datei mat personaliséierter Gréisst"
+imagen_linux_fs_MSG9="Feeler: BILDGROUSSE ASS NET BEKONNÉIERT. Ofbriechen..."
+imagen_linux_fs_MSG10="Lafen"
+imagen_linux_fs_MSG11="De Programm formatéiert déi eidel Datei."
+imagen_linux_fs_MSG12="De System warnt Iech datt déi virdru erstallt Datei keen Blockapparat ass a freet ob Dir se formatéiere wëllt"
+imagen_linux_fs_MSG13="Äntwert jo"
+imagen_linux_fs_MSG13="SUCCESSFULL FORMATÉIERT"
+imagen_linux_fs_MSG14="Montage Bild . . ."
+imagen_linux_fs_MSG15="Feeler WANN EIEREN FICHE FORMATEREN"
+imagen_linux_fs_MSG16="De Programm huet de Datei formatéiert"
+imagen_linux_fs_MSG17="Linux-cdgrab lancéiert den Dateemanager sou datt et op d'Bild operéiert ka funktionnéieren"
+imagen_linux_fs_MSG18="Wann d'Dateien kopéiert sinn, demontéiert déi formatéiert Datei"
+imagen_linux_fs_MSG19="D'Linux-Bild ass an dësem Verzeichnis"
+imagen_linux_fs_MSG19B="Feeler WANN DER BILDFICHE MONTAGE"
+imagen_linux_fs_MSG20="Dateien fir an d'Bild opzehuelen. Montéiert an /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Fichiermanager starten..."
+imagen_linux_fs_MSG22="OPGEPASST:"
+imagen_linux_fs_MSG23="----------"
+imagen_linux_fs_MSG24="D'Bild"
+imagen_linux_fs_MSG25="nach montéiert"
+imagen_linux_fs_MSG26="Feeler WANN EEILER FISCHER MAT dd erstellt"
+imagen_linux_fs_MSG27="Kontrolléieren datt Dir fräi Plaz hutt op der Partition montéiert op /"
+imagen_linux_fs_MSG34="Dateisystem fir d'Datei ze formatéieren"
+imagen_linux_fs_MSG35="GENERATIOUN VUN EIEREN FISCHER MAT CUSTOM SIZE"
+imagen_linux_fs_MSG36="Spezifizéiert d'Blockgréisst vun der neier eidel Datei (nëmmen numeresche Wäert):"
+imagen_linux_fs_MSG37="E Beispill vu Wäerter fir d'Blockgréisst sinn: 1024, 2048 (nëmmen Ext2) oder 4096 (All Formater)"
+imagen_linux_fs_MSG38="Spezifizéiert d'Gréisst vun der eidel Datei fir ze generéieren (nëmmen en numeresche Wäert):"
+imagen_linux_fs_MSG39="Raummiessungen fir déi eidel Datei ze generéieren:"
+imagen_linux_fs_MSG40="Spezifizéiert d'Raummessung fir ze benotzen: "
+imagen_linux_fs_MSG41="Feeler WANN DER GRÉISST MOS SPEZIFISÉIERT"
+imagen_linux_fs_MSG42="Blockgréisst Wäert:"
+imagen_linux_fs_MSG43="Plazbetrag fir eidel Datei:"
+imagen_linux_fs_MSG44="Berechnte Wäert an Bytes:"
+imagen_linux_fs_MSG45="Berechnte Wäert fir d'Zuel:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Md5 Liesen aktivéieren wann Dir .iso Biller generéiert"
+comprobar_lectura_md5_MSG2="Md5 Liesen auszeschalten wann Dir .iso Biller generéiert"
+comprobar_lectura_md5_MSG3="Menü virdru"
+comprobar_lectura_md5_MSG4="Aktuell Konfiguratioun:"
+comprobar_lectura_md5_MSG5="Aktivéiert"
+comprobar_lectura_md5_MSG6="Behënnert"
+comprobar_lectura_md5_MSG7="Liesen md5 Zomm aktivéiert"
+comprobar_lectura_md5_MSG8="Md5 Zomm liesen behënnert"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Den Numm vum ISO Bild konnt net gelies ginn"
+leer_md5sum_MSG2="md5 sum vun liesen"
+leer_md5sum_MSG3="md5 Zomm vum Bild weisen"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="CREAT CD IMAGE"
+extraer_isoCD_dd_MSG2="Bild erstallt"
+extraer_isoCD_dd_MSG3="Net fonnt"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="DVD IMAGE SCHREPEN"
+extraer_isoDVD_dd_MSG2="laafen"
+extraer_isoDVD_dd_MSG3="Bild erstallt"
+extraer_isoDVD_dd_MSG4="Net fonnt"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="laafen"
+extraer_iso_readcd_MSG2="BILD ERLUCHT ERSCHAFFT"
+extraer_iso_readcd_MSG3="Bild erstallt an"
+extraer_iso_readcd_MSG4="Den Opnamprozess ofbriechen..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Mount CD"
+extraer_iso_mkisofs_MSG2="Bild erstellen..."
+extraer_iso_mkisofs_MSG3="Macintosh Kompatibilitéit aktivéiert"
+extraer_iso_mkisofs_MSG4="Benotzen"
+extraer_iso_mkisofs_MSG5="laafen"
+extraer_iso_mkisofs_MSG6="Bild am Verzeechnes erstallt"
+extraer_iso_mkisofs_MSG7="De Prozess nei probéieren ouni Macintosh Ënnerstëtzung"
+extraer_iso_mkisofs_MSG8="Bild erstallt am Verzeichnis"
+extraer_iso_mkisofs_MSG9="mkisofs bréngt onbekannte Feeler zréck beim Erstellen"
+extraer_iso_mkisofs_MSG10="vun"
+extraer_iso_mkisofs_MSG11="Datenintegritéit kontrolléieren"
+extraer_iso_mkisofs_MSG12="Montage"
+extraer_iso_mkisofs_MSG12B="en"
+extraer_iso_mkisofs_MSG13="genisoimage gëtt onbekannt Feeler zréck wann Dir erstellt"
+extraer_iso_mkisofs_MSG13B="vun"
+extraer_iso_mkisofs_MSG14="mkisofs an genisoimage net fonnt. Installéiert w.e.g. cdrtools oder cdrkit."
+extraer_iso_mkisofs_MSG15="Konnt net montéiert ginn"
+extraer_iso_mkisofs_MSG16="Bild erfollegräich erstallt an"
+
+# m_comp_img
+
+m_comp_img_MSG1="BILDER GENERÉIERT SUCCESSFULL IN"
+m_comp_img_MSG2="WËLLT DIR DEN BILDFICHE KOMPRESSEREN?"
+m_comp_img_MSG3="(s/y) fir ze kompriméieren; De Prozess gëtt mat enger anerer Optioun annuléiert."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Fichiermanager starten..."
+generar_iso_directorio_MSG2="Gitt en Numm fir déi zukünfteg CD/DVD/BD un"
+generar_iso_directorio_MSG3="Bild erstellen..."
+generar_iso_directorio_MSG4="Macintosh Kompatibilitéit aktivéiert"
+generar_iso_directorio_MSG5="Benotzen"
+generar_iso_directorio_MSG6="laafen"
+generar_iso_directorio_MSG7="BILD GEMAACHT AN DIR DIRECTORY"
+generar_iso_directorio_MSG8="D'BILDER CREATION PROCESS HAS FAILED"
+generar_iso_directorio_MSG9="BILD OUNI MACINTOSH KOMPATIBILITET SCHREFEN"
+generar_iso_directorio_MSG10="Mkisofs an genisoimage sinn net fonnt. Installéiert w.e.g. cdrtools oder cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Gitt en Numm fir déi zukünfteg DVD/BD an"
+generar_bdv_udf_directorio_MSG2="Spezifizéiert de Verzeichnis fir d'Videobild ze generéieren:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Disk Label spezifizéieren:"
+generar_iso_directorio_libburnia_MSG2="Spezifizéiert de Verzeichnis fir d'Iso-9660 Bild ze generéieren:"
+generar_iso_directorio_libburnia_MSG3="ISO9660 Bild erfollegräich erstallt!!"
+generar_iso_directorio_libburnia_MSG4="Feeler beim Generéiere vun ISO-9660 Bild mat Xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="Dateien an Verzeichnisser fir am .iso Bild opzehuelen"
+imagenISO_MSG2="WËLLT ENG OPTION"
+imagenISO_MSG2B="-----------------------------"
+imagenISO_MSG3="Generéieren ISO-9660 Bild vun CD (benotzt dd)"
+imagenISO_MSG4="Generéieren ISO-9660 Bild vun DVD (benotzt dd)"
+imagenISO_MSG5="Generéieren ISO-9660 Bild vun CD (benotzt readcd)"
+imagenISO_MSG6="Generéieren ISO-9660 Bild vun CD oder DVD Disk (benotzt mkisofs)"
+imagenISO_MSG7="Erstellt ISO-9660 Bild vun Festplackdaten (benotzt mkisofs)"
+imagenISO_MSG8="Menü virdru"
+imagenISO_MSG9="Bild erstellen"
+imagenISO_MSG10="Erstellt ISO-9660 Bild vun Festplackdaten (benotzt xorriso)"
+imagenISO_MSG11="Iso/udf Bild vun enger CD/DVD/BD erstellen (benotzt mkisofs)"
+imagenISO_MSG12="Iso/udf Bild vun der Festplackdaten erstellen (benotzt mkisofs)"
+imagenISO_MSG13="ISO-9660 FORMATTERMENU"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Erstellt UDF/ISO Bild vun Festplackdaten (benotzt mkisofs)"
+imagenISO_MSG15="Erstellt UDF/ISO Bild mat DVD Video Ënnerstëtzung (benotzt mkisofs)"
+
+
+# imagen_img
+
+imagen_img_MSG1="Typ de Quellblock Apparat aus deem d'Bild gemaach soll ginn"
+imagen_img_MSG2="-----------------------------------------------------------"
+imagen_img_MSG3="Geräter registréiert an /etc/fstab an /etc/mtab"
+imagen_img_MSG4="Mount Kommando Ausgang:"
+imagen_img_MSG5="Gitt den Apparat Numm an: "
+imagen_img_MSG6="Erstellt .img Bild vum Blockapparat"
+imagen_img_MSG7="laafen"
+imagen_img_MSG8="DEVICE BILD ERSCHAFFT"
+
+# monta_img
+
+monta_img_MSG1="ISO oder ext2 Bild fir ze montéieren."
+monta_img_MSG2="Schreift den Verzeichniswee an wou d'Bild läit fir ze montéieren:"
+monta_img_MSG3="MONTÉIERT CD IMAGE:"
+monta_img_MSG4="Feeler WANN DEN BILDFICHE MONTAGE"
+monta_img_MSG5="NET FOND"
+monta_img_MSG6="MONTAGEPUNKT GËTT NET"
+monta_img_MSG7="UNERWACHT FEILER"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO oder ext2 Bild fir ze demontéieren."
+desmonta_img_MSG2="DÉMONTÉIERT BILD"
+desmonta_img_MSG3="Kee montéiert Bild fonnt"
+desmonta_img_MSG4="Mount Ausgab:"
+desmonta_img_MSG5="Dir kënnt den absolute Verzeichniswee vun engem Bild direkt uginn."
+desmonta_img_MSG6="Wéi /tmp/lcdgrabimg.iso oder de Montéierungsverzeichnis fir d'Bild wéi /mnt/lcdgrab"
+desmonta_img_MSG7="Wann net spezifizéiert, kann et mam Dateimanager gesicht ginn"
+desmonta_img_MSG8="Dateimanager starten"
+desmonta_img_MSG9="De Bildwee spezifizéieren."
+desmonta_img_MSG10="Demontéiert BILD"
+desmonta_img_MSG11="Feeler WANN D'BILD ONMONTÉIERT"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg Bild fir op .iso ze konvertéieren"
+nrg_a_iso_MSG2="Gitt de Wee vum .nrg (Nero Burning ROM) Bild fir ze konvertéieren"
+nrg_a_iso_MSG3="Bild konvertéieren..."
+nrg_a_iso_MSG4="De Wee vun der Quell .nrg Bild"
+nrg_a_iso_MSG5="gëtt net oder entsprécht engem Verzeichnis"
+nrg_a_iso_MSG6="Invalid Wee."
+nrg_a_iso_MSG7="et ass schonn e virdrun ISO-9660 Bild, et gëtt net ëmgewandelt."
+nrg_a_iso_MSG8="Mat enger anerer Extensioun kopéieren..."
+nrg_a_iso_MSG9="KOPIE KOMPLETT"
+nrg_a_iso_MSG10="laafen"
+nrg_a_iso_MSG11="Bild erfollegräich ëmgewandelt"
+nrg_a_iso_MSG12="Feeler WANN E BILD .iso erstellen"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Generéieren .cue Beschreiwung Datei aus .bin Bild"
+GenerarArchivocue_MSG2="Aktuellen aktive Verzeichnis"
+GenerarArchivocue_MSG3="Schreift nëmmen de Verzeichniswee wou"
+GenerarArchivocue_MSG4="d'Bilddatei fannen:"
+GenerarArchivocue_MSG5="Gitt den Numm vum .bin Bild un deem"
+GenerarArchivocue_MSG6="huet seng entspriechend .cue Datei generéiert"
+GenerarArchivocue_MSG7="BESCHREIWUNG FILE .cue SUCCESSFULL GENERATED"
+GenerarArchivocue_MSG8="Feeler WANN D'DESKRIPTIOUN FILE .cue generéieren"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="laafen"
+ImagenbincueCDDVD_MSG2="DISK IMAGE .BIN .CUE SUCCESSFULL GENERATED"
+

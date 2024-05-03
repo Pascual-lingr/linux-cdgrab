@@ -1,0 +1,56 @@
+#########################################################
+# lcgdrabAPI_idiom/ExGreek/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en griego para el API de video.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="ΣΥΜΒΑΤΟΤΗΤΑ ΔΙΣΚΟΥ BLU-RAY ΜΕΤΑΤΡΟΠΗΣ ΒΙΝΤΕΟ"
+conv_video_BDVideo_MSG2="Καθορίστε τη διαδρομή του αρχείου βίντεο προς μετατροπή:"
+conv_video_BDVideo_MSG3="Καθορίστε το όνομα αρχείου του νέου βίντεο προς δημιουργία:"
+conv_video_BDVideo_MSG4="Η μετατροπή του αρχείου βίντεο έγινε με επιτυχία!!"
+conv_video_BDVideo_MSG5="Σφάλμα μετατροπής αρχείου βίντεο"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="ΑΡΧΕΙΑ ΒΙΝΤΕΟ ΜΕΤΑΤΡΟΠΗΣ"
+conv_VideoFich_MSG2="Καθορίστε το αρχείο βίντεο για μετατροπή:"
+conv_VideoFich_MSG3="Καθορίστε το αρχείο βίντεο για δημιουργία:"
+conv_VideoFich_MSG4="Η ΜΕΤΑΤΡΟΠΗ ΑΡΧΕΙΟΥ ΒΙΝΤΕΟ ΟΛΟΚΛΗΡΩΘΗΚΕ"
+conv_VideoFich_MSG5="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗ ΜΕΤΑΤΡΟΠΗ ΑΡΧΕΙΟΥ ΒΙΝΤΕΟ"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Καθορίστε το αρχείο βίντεο:"
+extrae_Audio_de_Video_MSG2="Καθορίστε το αρχείο ήχου mp3 για δημιουργία:"
+extrae_Audio_de_Video_MSG3="ΕΞΑΓΩΓΗ ΗΧΟΥ ΜΕ ΕΠΙΤΥΧΙΑ"
+extrae_Audio_de_Video_MSG4="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΕΞΑΓΩΓΗ ΤΟΥ ΗΧΟΥ"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Καθορίστε το αρχείο βίντεο:"
+extrae_Fragmento_Video_MSG2="Καθορίστε το αρχείο βίντεο για δημιουργία:"
+extrae_Fragmento_Video_MSG3="Καθορίστε την αρχική ώρα (Καθορίστε ως HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Καθορίστε την ώρα λήξης (Καθορίστε ως HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="ΤΟ ΒΙΝΤΕΟ ΠΕΡΙΕΧΘΗΚΕ ΕΠΙΤΥΧΙΑ"
+extrae_Fragmento_Video_MSG6="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΠΕΡΙΚΟΨΗ ΤΟΥ ΒΙΝΤΕΟ"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Καθορίστε το αρχείο ήχου:"
+mezcla_Audio_Video_MSG2="Καθορίστε το αρχείο βίντεο:"
+mezcla_Audio_Video_MSG3="Καθορίστε το αρχείο βίντεο που θα δημιουργηθεί:"
+mezcla_Audio_Video_MSG4="ΔΗΜΙΟΥΡΓΗΘΗΚΕ ΜΕ ΕΠΙΤΥΧΙΑ ΝΕΟ ΑΡΧΕΙΟ ΒΙΝΤΕΟ"
+mezcla_Audio_Video_MSG5="ΣΦΑΛΜΑ ΔΗΜΙΟΥΡΓΗΣΗΣ ΑΡΧΕΙΟΥ ΒΙΝΤΕΟ"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="Η ΕΠΙΛΟΓΗ ΔΕΝ ΔΙΑΘΕΣΙΜΟ ΓΙΑ ΤΗ ΔΙΑΠΡΑΞΗ ΚΟΝΣΟΛΑΣ"
+graba_escritorio_MSG2="-- ΕΓΓΡΑΦΗ ΣΥΝΕΔΡΙΟΥ ΕΠΙΦΑΝΕΙΑΣ -- ΠΙΕΣΤΕ CTRL + C ΓΙΑ ΑΚΥΡΩΣΗ ΚΑΙ ΔΙΑΚΟΠΗ ΤΗΣ ΕΓΓΡΑΦΗΣ"
+graba_escritorio_MSG3="Η ΕΓΓΡΑΦΗ ΒΙΝΤΕΟ ΟΛΟΚΛΗΡΩΘΗΚΕ"
+

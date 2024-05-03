@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFrench/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en francés para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="APPAREILS ACTUELLEMENT MONTÉS DANS LE SYSTÈME"
+montar_dispositivos_MSG1B="MONTAGE/DÉMONTAGE DES APPAREILS"
+montar_dispositivos_MSG2="--OPTIONS LINUX-CDGRAB--"
+montar_dispositivos_MSG3="Éjecter le disque du lecteur CD/DVD/BD"
+montar_dispositivos_MSG4="Éjecter le disque du graveur de CD/DVD/BD"
+montar_dispositivos_MSG5="Monter un lecteur de CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG6="Démonter le CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Monter ou démonter l'appareil à la main"
+montar_dispositivos_MSG0="Menu précédent"
+montar_dispositivos_MSG8="CD/DVD/BD monté sur"
+montar_dispositivos_MSG9="APPUYEZ SUR ENTRÉE POUR CONTINUER..."
+montar_dispositivos_MSG10="Erreur lors du montage du CD/DVD/BD sur"
+montar_dispositivos_MSG11="Le CD/DVD/BD a été démonté"
+montar_dispositivos_MSG12="Erreur lors du démontage du CD/DVD/BD"
+montar_dispositivos_MSG13="Tapez le périphérique à monter/démonter :"
+montar_dispositivos_MSG14="Entrez le point de montage :"
+montar_dispositivos_MSG15="ne correspond pas à un périphérique bloc"
+montar_dispositivos_MSG16="Point de montage introuvable"
+montar_dispositivos_MSG17="Point de montage par défaut"
+montar_dispositivos_MSG18="Choisissez l'option :"
+montar_dispositivos_MSG19="Monter le"
+montar_dispositivos_MSG20="fr"
+montar_dispositivos_MSG21="Démonter"
+montar_dispositivos_MSG22="de"
+montar_dispositivos_MSG23="monté sur :"
+montar_dispositivos_MSG24="ERREUR LORS DU MONTAGE"
+montar_dispositivos_MSG25="FR"
+montar_dispositivos_MSG26="démonté de"
+montar_dispositivos_MSG27="ERREUR LORS DU DÉMONTAGE"
+montar_dispositivos_MSG28="de"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Sortie de la commande de montage"
+Montar_Imagenes_MSG1B="ASSEMBLAGE/DÉMONTAGE DES FICHIERS IMAGES"
+Montar_Imagenes_MSG2="Choisissez une option"
+Montar_Imagenes_MSG3="Monter l'image CD/DVD/BD"
+Montar_Imagenes_MSG4="Démonter l'image CD/DVD/BD"
+Montar_Imagenes_MSG5="Menu précédent"
+

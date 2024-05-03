@@ -1,0 +1,139 @@
+#########################################################
+# lcdgrabAPI_idiom/ExArmenian/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Armenio, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab-ը չի կարող գտնել vi տեքստային խմբագրիչը"
+ayuda_MSG2="Մուտքագրեք ձեր համակարգում տեղադրված տեքստային խմբագրի անունը"
+ayuda_MSG3="ՏԵՂԱԴՐՎԱԾ ԽՄԲԱԳՐՈՂ ՉԻ ԳՏՆՎԵԼ"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Ֆայլը ավտոմատ կերպով ստեղծվում է LINUX-CDGRAB 1.0-ի կողմից"
+creacion_de_mnt_MSG2="Այս ֆայլը գրացուցակի հետ միասին"
+creacion_de_mnt_MSG3="ստեղծվել են ավտոմատ կերպով"
+creacion_de_mnt_MSG4="Linux-cdgrab հավելվածի կողմից, երբ հաստատում է, որ այն գոյություն չունի ձեր Linux բաշխման մեջ"
+creacion_de_mnt_MSG5="գրացուցակը"
+creacion_de_mnt_MSG6="Linux-cdgrab-ն օգտագործում է այս գրացուցակը իր CD-ROM/DVD-ROM/BD-ROM սկավառակը տեղադրելու համար"
+creacion_de_mnt_MSG7="Գրացուցակը"
+creacion_de_mnt_MSG8="այն չի ջնջվի, եթե Linux-cdgrab-ը հեռացված է, քանի որ սովորաբար այն է:"
+creacion_de_mnt_MSG9="/dev/cdrom-ի լռելյայն ամրացման կետը Linux բաշխումների մեծ մասում:"
+creacion_de_mnt_MSG10="Եթե ձեր բաշխումն օգտագործում է մեկ այլ գրացուցակ սարքը /dev/cdrom-ը միացնելու համար,"
+creacion_de_mnt_MSG11="դա անհամատեղելիություն չի ստեղծի, երբ փորձում եք մուտք գործել ձեր միավորի տվյալները"
+creacion_de_mnt_MSG12="չնայած, եթե Linux-cdgrab-ը տեղահանված է, կարող եք առանց դրա:"
+creacion_de_mnt_MSG13="Այս ֆայլի նպատակը միայն տեղեկատվական նպատակների համար է, դուք կարող եք ազատորեն ջնջել այն կարդալուց հետո։"
+
+# creditos
+
+creditos_MSG1="Տարածել GPL v2 լիցենզիայի ներքո"
+creditos_MSG2="Լրացուցիչ տեղեկություններ www.gnu.org կայքում"
+creditos_MSG3="Pascual Martínez Cruz, ստեղծող և պահպանող"
+creditos_MSG4="Սխալների մասին հաշվետվություն. pascual89@hotmail.com"
+creditos_MSG5="Ծրագրի կայք՝ www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Հիմնված LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Լիցքավորում"
+
+# lcdgrab_sintaxis
+
+# Resultado del traductor
+lcdgrab_sintaxis_MSG1="SYNTAX"
+lcdgrab_sintaxis_MSG2="Տպեք այս օգնությունը"
+lcdgrab_sintaxis_MSG3="Տպել Linux-ի տարբերակը-cdgrab"
+lcdgrab_sintaxis_MSG4="նշում է IDE ալիքը կամ ձայնագրող սարքը"
+# Resultado del traductor
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="նշում է ձայնագրման արագությունը"
+lcdgrab_sintaxis_MSG7="նշում է CD-ROM/DVD-ROM/BD-ROM սկավառակը"
+lcdgrab_sintaxis_MSG8="նշում է ձայնագրիչի IDE ATAPI ալիքը"
+lcdgrab_sintaxis_MSG9="-G -V -L և -CA տարբերակները ենթադրում են միմյանց։"
+lcdgrab_sintaxis_MSG9B=" -iut -ium -iug և -iuk տարբերակները միմյանցից անկախ են,"
+lcdgrab_sintaxis_MSG9C="կոմպլեմենտար -G -V -L և -CA, և անկախ -h և -v"
+lcdgrab_sintaxis_MSG10="-h և -v տարբերակները անկախ են միմյանցից և մնացածից։"
+lcdgrab_sintaxis_MSG11="Օրինակներ."
+lcdgrab_sintaxis_MSG12="սարք"
+lcdgrab_sintaxis_MSG13="համար"
+lcdgrab_sintaxis_MSG14="տեքստային ինտերֆեյս"
+lcdgrab_sintaxis_MSG15="ինտերֆեյս ncurses-ի հետ"
+lcdgrab_sintaxis_MSG16="գրաֆիկական ինտերֆեյս GTK-ի հետ"
+lcdgrab_sintaxis_MSG17="գրաֆիկական ինտերֆեյս Qt-ով"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Մուտքագրեք սցենարի ուղին."
+main_lcdgrabopdep_MSG2="Անվավեր ուղի"
+
+# depura_parche
+
+# Resultado del traductor
+main_lcdgrabopdeppatch_MSG1="Տեղադրված patches:"
+main_lcdgrabopdeppatch_MSG2="Մուտքագրեք կարկատակի ուղին."
+main_lcdgrabopdeppatch_MSG3="Չի գտնվել"
+
+# menu principal dialog
+main_lcdgrabop9uidia="ՎԵՐԲԵՐԵՔ ԼՐԱՑՈՒՑԻՉ ՊԱՏՉ"
+
+# menu principal texto
+
+main_lcdgrabop1_text="ՁԱՅՆԱԳՐՈՒՄ CD-ի վրա\t\t\t="
+main_lcdgrabop2_text="DVD Ձայնագրություն\t\t\t="
+main_lcdgrabop3_text="ՁԱՅՆԱԳՐՈՒՄ BD\t\t\t\t="
+main_lcdgrabop4_text="ՍԿՍԱՎՈՐՎԱԾ ԳՈՐԾՈՂՈՒԹՅՈՒՆՆԵՐ\t\t="
+main_lcdgrabop5_text="ՊԱՏԿԵՐԻ ՍՏԵՂԾՈՒՄ\t\t\t\t="
+main_lcdgrabop6_text="ԱՈՒԴԻՈՓՈԽԱՐԿՈՒՄ\t\t\t\t="
+main_lcdgrabop6b_text="ՏԵՍԱՆՅՈՒԹԻ ԿՈՆՎԵՐՍԻԱ\t\t\t="
+main_lcdgrabop7_text="ՀԵՌԱՑՆԵԼ ԿԱՄ ԱՊԱՑՐԵԼ CD/DVD/BD\t\t="
+main_lcdgrabop8_text="ՀԵՌԱՑՆԵԼ ԿԱՄ ԱՊԱՑԻՐ ՊԱՏԿԵՐԸ\t\t="
+main_lcdgrabop9_text="ՎԵՐԲԵՐԵՔ ԼՐԱՑՈՒՑԻՉ ՊԱՏՉ\t\t\t="
+main_lcdgrabop10_text="ՎԵՐԱՀՍԿՈՂՈՒԹՅԱՆ ԿԵՆՏՐՈՆ\t\t\t="
+main_lcdgrabop0_text="ԴՈՒՐՍ ԳԱԼ\t\t\t\t="
+main_lcdgrabet1_text="ԱՅԼ ՏԱՐԲԵՐԱԿՆԵՐ ##\t\t="
+main_lcdgrabopEe_text="Հեռացնել սկավառակը սկավառակից\t="
+main_lcdgrabopTD_text="Ցույց տալ գրացուցակը"
+tabs="\t\t="
+main_lcdgrabopG_text="Ֆայլերի կառավարիչ\t\t\t="
+main_lcdgrabopH_text="օգնություն\t\t\t\t="
+main_lcdgrabopA_text="Մասին\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="CD ՁԱՅՆԱԳՐՈՒՄ"
+main_lcdgrabop2="DVD Ձայնագրություն"
+main_lcdgrabop3="Ձայնագրում BD-ում"
+main_lcdgrabop4="ՍԿՍԱՎՈՐՎԱԾ ԳՈՐԾՈՂՈՒԹՅՈՒՆՆԵՐ"
+main_lcdgrabop5="ՊԱՏԿԵՐԻ ՍՏԵՂԾՈՒՄ"
+main_lcdgrabop6="ԱՈՒԴԻՈՓՈԽԱՐԿՈՒՄ"
+main_lcdgrabop6b="ՏԵՍԱՆՅՈՒԹԻ ՓՈԽԱՐԿՈՒՄ"
+main_lcdgrabop7="ՏԵՂԱՑՆԵԼ ԿԱՄ ԱԶԱՏԵԼ CD/DVD/BD"
+main_lcdgrabop8="ՏԵՂԱՑՆԵԼ ԿԱՄ ՀԱՆՁՆԵԼ ՊԱՏԿԵՐԸ"
+main_lcdgrabop9="Բեռնել ԼՐԱՑՈՒՑԻՉ ՊԱՏՉ"
+main_lcdgrabop10="ՎԵՐԱՀՍԿՈՂՈՒԹՅԱՆ ԿԵՆՏՐՈՆ"
+main_lcdgrabop0="ԵԼՔ"
+main_lcdgrabet1="ԱՅԼ ՏԱՐԲԵՐԱԿՆԵՐ ##"
+main_lcdgrabopEe="Հեռացնել սկավառակը դրայվից"
+main_lcdgrabopTD="Ցուցադրել գրացուցակը"
+main_lcdgrabopG="Ֆայլերի կառավարիչ"
+main_lcdgrabopH="Օգնություն"
+main_lcdgrabopA="մասին"
+main_lcdgrabopPRINCIPAL="Մուտքագրեք տարբերակ."
+MSG1_MAIN="H ընտրելը ցույց է տալիս տարբերակների օգտագործումը։"
+main_lcdgrabopA_MSG1="Աշխատում է."
+

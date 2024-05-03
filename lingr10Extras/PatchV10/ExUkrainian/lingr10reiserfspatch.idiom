@@ -1,0 +1,76 @@
+# Idioma Ucraniano para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Натисніть ENTER, щоб продовжити..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="===================================="
+cabecera_interfaz_MSG2="ПІДТРИМКА LINUX-CDGRAB 1.0 REISERFS."
+cabecera_interfaz_MSG3="===================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Вивід команди монтування:"
+formatear_disco_reiserfs_MSG2="Вкажіть блоковий пристрій для форматування: "
+formatear_disco_reiserfs_MSG3="Пристрій успішно відформатовано"
+formatear_disco_reiserfs_MSG4="Помилка форматування пристрою"
+formatear_disco_reiserfs_MSG5="ПРОЦЕС ЗАВЕРШЕНО"
+formatear_disco_reiserfs_MSG6="Демонтування пристрою..."
+formatear_disco_reiserfs_MSG7="Форматування диска в ReiserFS..."
+formatear_disco_reiserfs_MSG8="Біжить"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="СФОРМОВАНО УСПІШНО"
+formatear_img_reiserfs_MSG2="ПОМИЛКА ПІД ФОРМАТУВАННЯ ПОРОЖНОГО ФАЙЛУ"
+formatear_img_reiserfs_MSG3="Створення порожнього файлу..."
+formatear_img_reiserfs_MSG4="Запущено"
+formatear_img_reiserfs_MSG5="Форматування порожнього файлу в ReiserFS..."
+formatear_img_reiserfs_MSG6="ГЕНЕРУВАННЯ ПОРОЖНЬОГО ФАЙЛУ З НЕПРИМІТНИМ РОЗМІРОМ"
+formatear_img_reiserfs_MSG7="Вкажіть розмір порожнього файлу для створення (тільки числове значення):"
+formatear_img_reiserfs_MSG8="Вимірювання простору для створення порожнього файлу:"
+formatear_img_reiserfs_MSG9="Вкажіть розмір простору для використання: "
+formatear_img_reiserfs_MSG10="ПОМИЛКА ПІД ЧАС ВИЗНАЧЕННЯ РОЗМІРУ"
+formatear_img_reiserfs_MSG11="Значення розміру блоку:"
+formatear_img_reiserfs_MSG12="Кількість місця для порожнього файлу:"
+formatear_img_reiserfs_MSG13="Обчислене значення в байтах:"
+formatear_img_reiserfs_MSG14="Обчислене значення для підрахунку:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Створити образ для CD-R/RW (702 Мбайт)"
+m_img_CDDVDBD_reiserfs_MSG2="Створити образ для DVD+RW (4 Гбайт)"
+m_img_CDDVDBD_reiserfs_MSG3="Створити образ для DVD+RW/DL (8 Гбайт)"
+m_img_CDDVDBD_reiserfs_MSG4="Створити образ для BD-R/RE (25 Гбайт)"
+m_img_CDDVDBD_reiserfs_MSG5="Створити файл зображення нестандартного розміру"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Вийти"
+imgr_tmp_MSG1="Видалити всі файли зображень reiserfs"
+imgr_tmp_MSG2="Монтувати або демонтувати файл зображення"
+imgr_tmp_MSG3="Файли зображень у"
+imgr_tmp_MSG4="Виберіть варіант"
+imgr_tmp_MSG5="Видалені файли зображень"
+imgr_tmp_MSG6="Підключити образ"
+imgr_tmp_MSG7="Відключити зображення"
+imgr_tmp_MSG8="Змонтоване зображення"
+imgr_tmp_MSG9="Зняте зображення"
+imgr_tmp_MSG10="Недійсний параметр"
+imgr_tmp_MSG11="Вкажіть образ для монтування або демонтування:"
+imgr_tmp_MSG12="Помилка монтування зображення"
+imgr_tmp_MSG13="Помилка демонтування зображення"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Форматувати диск у ReiserFS"
+lingr10reiserfspatch_MSG2="Створити образ ReiserFS для CD/DVD/BD"
+lingr10reiserfspatch_MSG3="Операції над зображеннями ReiserFS"
+lingr10reiserfspatch_MSG4="Недійсний параметр"
+lingr10reiserfspatch_MSG0="Вийти"
+

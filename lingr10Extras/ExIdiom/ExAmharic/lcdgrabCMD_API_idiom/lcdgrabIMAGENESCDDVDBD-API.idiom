@@ -1,0 +1,234 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAmharic/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en amárico para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="የምስል ፋይል ስርዓት"
+imagen_linux_fs_MSG2="ፋይል ስርዓቱን ይምረጡ፡"
+imagen_linux_fs_MSG3="ለሲዲ-R/RW (702 Mbytes) ምስል ፍጠር"
+imagen_linux_fs_MSG4="ለዲቪዲ+አርደብሊው (4 Gbytes) ምስል ፍጠር"
+imagen_linux_fs_MSG5="ለዲቪዲ+RW/DL (8 Gbytes) ምስል ፍጠር"
+imagen_linux_fs_MSG5B="ለ BD-R/RE (25 Gbytes) ምስል ፍጠር"
+imagen_linux_fs_MSG5C="በብጁ መጠን የምስል ፋይል ፍጠር"
+imagen_linux_fs_MSG6="702 Mbytes አቅም ያለው ባዶ ፋይል በመፍጠር ላይ"
+imagen_linux_fs_MSG7="4 Gbytes አቅም ያለው ባዶ ፋይል መፍጠር"
+imagen_linux_fs_MSG8="8 Gbytes አቅም ያለው ባዶ ፋይል መፍጠር"
+imagen_linux_fs_MSG8B="25 Gbytes አቅም ያለው ባዶ ፋይል በመፍጠር ላይ"
+imagen_linux_fs_MSG8C="ብጁ መጠን ያለው ባዶ ፋይል በመፍጠር ላይ"
+imagen_linux_fs_MSG9="ስህተት: የምስል መጠን አይታወቅም። በማስወገድ ላይ..."
+imagen_linux_fs_MSG10="እየሮጠ"
+imagen_linux_fs_MSG11="ፕሮግራሙ ባዶውን ፋይል ይቀርጸዋል።"
+imagen_linux_fs_MSG12="ስርአቱ ቀደም ሲል የተፈጠረው ፋይል የማገጃ መሳሪያ እንዳልሆነ ያስጠነቅቀዎታል እና ቅርጸት መስራት ይፈልጉ እንደሆነ ይጠይቃል"
+imagen_linux_fs_MSG13="አዎ የሚል መልስ"
+imagen_linux_fs_MSG13="በተሳካ ሁኔታ ቀርጿል"
+imagen_linux_fs_MSG14="ምስልን በመጫን ላይ ..."
+imagen_linux_fs_MSG15="ባዶ ፋይል ሲቀረጽ ስህተት "
+imagen_linux_fs_MSG16="ፕሮግራሙ የተቀረፀውን ፋይል ሰቅሏል"
+imagen_linux_fs_MSG17="Linux-cdgrab በተጫነው ምስል ላይ እንዲሰራ የፋይል አቀናባሪውን ያስነሳዋል።"
+imagen_linux_fs_MSG18="ፋይሎቹ አንዴ ከተገለበጡ በኋላ የተቀረፀውን ፋይል ይንቀሉ"
+imagen_linux_fs_MSG19="የሊኑክስ ምስሉ በዚህ ማውጫ ውስጥ አለ"
+imagen_linux_fs_MSG19B="የምስል ፋይሉን በሚጭኑበት ጊዜ ስህተት"
+imagen_linux_fs_MSG20="በምስሉ ውስጥ የሚካተቱ ፋይሎች። በ /mnt/lcdgrab ውስጥ ተጭነዋል"
+imagen_linux_fs_MSG21="ፋይል አቀናባሪውን በማስጀመር ላይ..."
+imagen_linux_fs_MSG22="ማስታወቂያ:"
+imagen_linux_fs_MSG23="--------"
+imagen_linux_fs_MSG24="ምስሉ"
+imagen_linux_fs_MSG25="አሁንም ተጭኗል"
+imagen_linux_fs_MSG26="ባዶ ፋይልን በ dd ሲፈጥሩ ስህተት "
+imagen_linux_fs_MSG27="በ / ላይ በተሰቀለው ክፍልፍል ላይ ነፃ ቦታ እንዳለዎት ያረጋግጡ። "
+imagen_linux_fs_MSG34="ፋይል ለመቅረጽ የፋይል ስርዓት"
+imagen_linux_fs_MSG35="የብጁ መጠን ያለው ባዶ ፋይል ማመንጨት"
+imagen_linux_fs_MSG36="የአዲሱን ባዶ ፋይል የማገጃ መጠን ይግለጹ (ቁጥር ብቻ)"
+imagen_linux_fs_MSG37="የብሎክ መጠኑ የእሴቶች ምሳሌ 1024፣ 2048 (Ext2 ብቻ) ወይም 4096 (ሁሉም ቅርጸቶች) ናቸው። "
+imagen_linux_fs_MSG38="የሚፈጠረውን ባዶ ፋይል መጠን ይግለጹ (ቁጥር ብቻ)"
+imagen_linux_fs_MSG39="ባዶውን ፋይል ለመፍጠር የቦታ መለኪያዎች:"
+imagen_linux_fs_MSG40="ለመጠቀም የቦታ ልኬትን ይግለጹ"
+imagen_linux_fs_MSG41="መጠን ሲገለጽ ስህተት"
+imagen_linux_fs_MSG42="የመጠን እሴትን አግድ:"
+imagen_linux_fs_MSG43="የ ባዶ ፋይል የቦታ መጠን:"
+imagen_linux_fs_MSG44="የተሰላ ዋጋ በባይት:"
+imagen_linux_fs_MSG45="የተሰላ ዋጋ ለካ:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1=".iso ምስሎችን በሚያመነጭበት ጊዜ md5 ማንበብን አንቃ"
+comprobar_lectura_md5_MSG2=".iso ምስሎችን በሚፈጥሩበት ጊዜ md5 ማንበብን ያሰናክሉ"
+comprobar_lectura_md5_MSG3="የቀድሞው ምናሌ"
+comprobar_lectura_md5_MSG4="የአሁኑ ውቅር:"
+comprobar_lectura_md5_MSG5="ነቅቷል"
+comprobar_lectura_md5_MSG6="ተሰናክሏል"
+comprobar_lectura_md5_MSG7="md5 ድምር ገቢር ሆኗል"
+comprobar_lectura_md5_MSG8="md5 ድምር ተሰናክሏል አንብብ"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="የ iso ምስሉ ስም ሊነበብ አልቻለም"
+leer_md5sum_MSG2="md5 ድምር ማንበብ"
+leer_md5sum_MSG3="የምስሉን md5 ድምር በማሳየት ላይ"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="የሲዲ ምስል መፍጠር"
+extraer_isoCD_dd_MSG2="ምስል የተፈጠረ"
+extraer_isoCD_dd_MSG3="አልተገኘም"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="የዲቪዲ ምስል መፍጠር"
+extraer_isoDVD_dd_MSG2="እየሮጠ"
+extraer_isoDVD_dd_MSG3="ምስል የተፈጠረ"
+extraer_isoDVD_dd_MSG4="አልተገኘም"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="እየሮጠ"
+extraer_iso_readcd_MSG2="ምስል በተሳካ ሁኔታ ተፈጥሯል"
+extraer_iso_readcd_MSG3="ምስል ተፈጥሯል"
+extraer_iso_readcd_MSG4="የቀረጻውን ሂደት በማስወገድ ላይ..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="የተፈናጠጠ ሲዲ"
+extraer_iso_mkisofs_MSG2="ምስል በመፍጠር ላይ..."
+extraer_iso_mkisofs_MSG3="Macintosh ተኳሃኝነት ነቅቷል"
+extraer_iso_mkisofs_MSG4="መጠቀም"
+extraer_iso_mkisofs_MSG5="እየሮጠ"
+extraer_iso_mkisofs_MSG6="በማህደር ውስጥ የተፈጠረ ምስል"
+extraer_iso_mkisofs_MSG7="ያለ ማኪንቶሽ ድጋፍ ሂደቱን እንደገና በመሞከር ላይ"
+extraer_iso_mkisofs_MSG8="በማህደር ውስጥ የተፈጠረ ምስል"
+extraer_iso_mkisofs_MSG9="mkisofs ሲፈጠር ያልታወቁ ስህተቶችን ይመልሳል"
+extraer_iso_mkisofs_MSG10="ከ"
+extraer_iso_mkisofs_MSG11="የመረጃ ትክክለኛነት ያረጋግጡ"
+extraer_iso_mkisofs_MSG12="መጫን"
+extraer_iso_mkisofs_MSG12B="ውስጥ"
+extraer_iso_mkisofs_MSG13="genisoimage ሲፈጠር ያልታወቁ ስህተቶችን ይመልሳል"
+extraer_iso_mkisofs_MSG13B="ከ"
+extraer_iso_mkisofs_MSG14="mkisofs እና genisoimage አልተገኙም። እባክዎ cdrtools ወይም cdrkit ጫን።"
+extraer_iso_mkisofs_MSG15="መሰቀል አልተቻለም"
+extraer_iso_mkisofs_MSG16="ምስል በተሳካ ሁኔታ ተፈጥሯል"
+
+# m_comp_img
+
+m_comp_img_MSG1="ምስል በተሳካ ሁኔታ ተፈጥሯል"
+m_comp_img_MSG2="የምስል ፋይሉን መጫን ይፈልጋሉ?"
+m_comp_img_MSG3="(s/y) ለመጭመቅ፤ ሂደቱ በሌላ አማራጭ ተሰርዟል።"
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="ፋይል አቀናባሪውን በማስጀመር ላይ..."
+generar_iso_directorio_MSG2="ለወደፊቱ ሲዲ/ዲቪዲ/ቢዲ ስም አስገባ"
+generar_iso_directorio_MSG3="ምስል በመፍጠር ላይ..."
+generar_iso_directorio_MSG4="Macintosh ተኳኋኝነት ነቅቷል"
+generar_iso_directorio_MSG5="መጠቀም"
+generar_iso_directorio_MSG6="እየሮጠ"
+generar_iso_directorio_MSG7="ምስል በመመሪያው ውስጥ የተፈጠረ"
+generar_iso_directorio_MSG8="የምስል አፈጣጠር ሂደት አልተሳካም"
+generar_iso_directorio_MSG9="ያለ ማኪንቶሽ ተኳሃኝነት ምስል መፍጠር"
+generar_iso_directorio_MSG10="mkisofs እና genisoimage አልተገኙም። እባክዎ cdrtools ወይም cdrkit ይጫኑ።"
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="ለወደፊቱ ዲቪዲ/ቢዲ ስም አስገባ"
+generar_bdv_udf_directorio_MSG2="የቪዲዮውን ምስል ለመፍጠር ማውጫውን ይግለጹ፡"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="የዲስክ መለያ ይግለጹ:"
+generar_iso_directorio_libburnia_MSG2="የ iso-9660 ምስል ለመፍጠር ማውጫውን ይግለጹ፡"
+generar_iso_directorio_libburnia_MSG3="ISO9660 ምስል በተሳካ ሁኔታ ተፈጥሯል!!"
+generar_iso_directorio_libburnia_MSG4="የ iso-9660 ምስልን በ xorriso በማመንጨት ላይ ስህተት"
+
+# imagenISO
+
+imagenISO_MSG1="በ .iso ምስል ውስጥ የሚካተቱ ፋይሎች እና ማውጫዎች"
+imagenISO_MSG2="አንድ አማራጭ ይምረጡ"
+imagenISO_MSG2B="---------------"
+imagenISO_MSG3="ISO-9660 ምስል ከሲዲ ፍጠር (dd ተጠቀም)"
+imagenISO_MSG4="ISO-9660 ምስል ከዲቪዲ ፍጠር (dd ተጠቀም)"
+imagenISO_MSG5="ISO-9660 ምስል ከሲዲ ፍጠር (readcd ተጠቀም)"
+imagenISO_MSG6="ISO-9660 ምስል ከሲዲ ወይም ዲቪዲ ዲስክ ይፍጠሩ (mkisofs ይጠቀሙ)"
+imagenISO_MSG7="ISO-9660 ምስል ከሃርድ ድራይቭ ውሂብ ፍጠር (mkisofs ተጠቀም)"
+imagenISO_MSG8="የቀድሞው ምናሌ"
+imagenISO_MSG9="ምስል መፍጠር"
+imagenISO_MSG10="ISO-9660 ምስል ከሃርድ ድራይቭ ውሂብ ፍጠር ( xorriso ተጠቀም)"
+imagenISO_MSG11="የ iso/udf ምስል ከሲዲ/ዲቪዲ/BD ፍጠር (mkisofs ተጠቀም)"
+imagenISO_MSG12="የ iso/udf ምስል ከሃርድ ድራይቭ ውሂብ ፍጠር (mkisofs ተጠቀም)"
+imagenISO_MSG13="ISO-9660 የቅርጸት ምናሌ"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="UDF/ISO ምስል ከሃርድ ድራይቭ ውሂብ ይፍጠሩ (mkisofs ይጠቀሙ)"
+imagenISO_MSG15="UDF/ISO ምስል በዲቪዲ ቪዲዮ ድጋፍ ይፍጠሩ (mkisofs ይጠቀሙ)"
+
+# imagen_img
+
+imagen_img_MSG1="ምስሉ የሚሠራበትን የምንጭ ማገጃ መሳሪያ ይተይቡ"
+imagen_img_MSG2="--------------------------------"
+imagen_img_MSG3="በ /etc/fstab እና /etc/mtab ውስጥ የተመዘገቡ መሳሪያዎች"
+imagen_img_MSG4="የትእዛዝ ውፅዓት ጫን:"
+imagen_img_MSG5="የመሳሪያውን ስም አስገባ:"
+imagen_img_MSG6="የማገጃ መሳሪያውን ምስል በመፍጠር ላይ"
+imagen_img_MSG7="እየሮጠ"
+imagen_img_MSG8="የመሣሪያ ምስል ተፈጥሯል"
+
+# monta_img
+
+monta_img_MSG1="ISO ወይም ext2 ምስል ለመሰካት።"
+monta_img_MSG2="የሚሰቀለው ምስል የሚገኝበትን ማውጫ መንገድ ይተይቡ፡"
+monta_img_MSG3="የተሰቀለ ሲዲ ምስል:"
+monta_img_MSG4="የምስል ፋይሉን ሲሰቀል ስህተት"
+monta_img_MSG5="አልተገኘም"
+monta_img_MSG6="የመጫኛ ነጥብ የለም"
+monta_img_MSG7="ያልተጠበቀ ስህተት"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO ወይም ext2 ምስል ለመንቀል።"
+desmonta_img_MSG2="የተሰናከለ ምስል"
+desmonta_img_MSG3="ምንም የተገጠመ ምስል አልተገኘም"
+desmonta_img_MSG4="የመጫን ውፅዓት:"
+desmonta_img_MSG5="የምስልን ፍፁም ማውጫ ዱካ በቀጥታ መግለጽ ትችላለህ።"
+desmonta_img_MSG6="እንደ /tmp/lcdgrabimg.iso ወይም እንደ /mnt/lcdgrab የመሰለ የምስሉ መጫኛ ማውጫ"
+desmonta_img_MSG7="ካልተገለጸ የፋይል አቀናባሪውን በመጠቀም መፈለግ ይቻላል"
+desmonta_img_MSG8="የፋይል አስተዳዳሪን በማስጀመር ላይ"
+desmonta_img_MSG9="የምስል ዱካውን ይግለጹ።"
+desmonta_img_MSG10="የተሰናከለ ምስል"
+desmonta_img_MSG11="ምስሉን ሲከፍት ስህተት"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg ምስል ወደ .iso ለመቀየር"
+nrg_a_iso_MSG2="ለመቀየር የ.nrg (Nero Burning ROM) ምስልን መንገድ አስገባ"
+nrg_a_iso_MSG3="ምስል በመቀየር ላይ..."
+nrg_a_iso_MSG4="የምንጩ .nrg ምስል መንገድ"
+nrg_a_iso_MSG5="የለም ወይም ከማውጫ ጋር ይዛመዳል"
+nrg_a_iso_MSG6="ልክ ያልሆነ መንገድ"
+nrg_a_iso_MSG7="ቀድሞውንም የ ISO-9660 ምስል ነው፣ አይቀየርም።"
+nrg_a_iso_MSG8="በተለየ ቅጥያ በመቅዳት ላይ..."
+nrg_a_iso_MSG9="ቅዳ ተጠናቀቀ"
+nrg_a_iso_MSG10="እየሮጠ"
+nrg_a_iso_MSG11="ምስል በተሳካ ሁኔታ ተቀይሯል"
+nrg_a_iso_MSG12="ምስል ሲፈጥሩ ስህተት"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1=".cue መግለጫ ፋይል ከ.ቢን ምስል ፍጠር"
+GenerarArchivocue_MSG2="የአሁኑ ንቁ ማውጫ"
+GenerarArchivocue_MSG3="የማውጫውን መንገድ ብቻ ጻፍ"
+GenerarArchivocue_MSG4="የምስል ፋይሉን አግኝ፡"
+GenerarArchivocue_MSG5="የትኛው የቢን ምስል ስም አስገባ"
+GenerarArchivocue_MSG6="ተጓዳኙን የ.cue ፋይል ፈጥሯል"
+GenerarArchivocue_MSG7=".cue መግለጫ ፋይል በተሳካ ሁኔታ ተፈጥሯል።"
+GenerarArchivocue_MSG8="የመግለጫ ፋይል ሲያመነጭ ስህተት .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="መሮጥ"
+ImagenbincueCDDVD_MSG2=".BIN .CUE የዲስክ ምስል በተሳካ ሁኔታ መነጨ"
+

@@ -1,0 +1,44 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Luxemburgués para la aplicación principal 
+# Traducción experimental, generado con Google Translate
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Datei automatesch vun LINUX-CDGRAB 1.0 generéiert"
+creacion_de_Depot_MSG2="Dëse Fichier zesumme mam Verzeechnes"
+creacion_de_Depot_MSG3="automatesch generéiert ginn"
+creacion_de_Depot_MSG4="vun der Linux-cdgrab Applikatioun wann Dir verifizéiert datt et net an Ärer Linux Verdeelung existéiert"
+creacion_de_Depot_MSG5="den Verzeichnis"
+creacion_de_Depot_MSG6="Linux-cdgrab benotzt dëse Verzeichnis fir temporär Dateien an Apparatbilder ze schreiwen (iso, img etc..)"
+creacion_de_Depot_MSG8="Depot gëtt vum GoboLinux benotzt fir temporär Dateien ze späicheren"
+creacion_de_Depot_MSG9="Den Zweck vun dësem Fichier ass nëmme fir Informatiounszwecker, Dir kënnt en eemol gelies fräi läschen."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="OPGEPASST:"
+main_IDSISTEMA_MSG2="Betriebssystem net ënnerstëtzt."
+main_IDSISTEMA_MSG3="Wann et Problemer an der Operatioun vun der Applikatioun gëtt, benotzt GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="Et ass net e valabelt Argument"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="fonnt"
+main_cdkit_test_MSG2="Link op Wodim erstallt"
+main_cdkit_test_MSG3="Link op Genisoimage erstallt"
+main_cdkit_test_MSG4="Link op Icedax erstallt"
+
+# pgm principal
+
+pgm_principal_MSG1="FATAL: Keng korrekt Verzeechnesverdeelung fonnt."
+pgm_principal_MSG2="UNKNOWN"
+

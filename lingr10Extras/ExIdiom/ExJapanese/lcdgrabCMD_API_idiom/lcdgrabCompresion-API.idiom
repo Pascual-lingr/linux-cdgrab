@@ -1,0 +1,54 @@
+#########################################################
+# lcdgrabAPI_idiom/ExJapanese/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Japonés para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="ファイルまたはディレクトリのパスを入力します"
+empaquetar_MSG2="------- オプション -------"
+empaquetar_MSG3=".tar.gz ファイルを生成する"
+empaquetar_MSG4=".tar.bz2 ファイルを生成する"
+empaquetar_MSG5="オプションを入力してください: "
+empaquetar_MSG6="ランニング"
+empaquetar_MSG7="オプションが無効です"
+
+# desempaquetar
+
+desempaquetar_MSG1="ファイル パスを記述します。"
+desempaquetar_MSG2="デコンプレッサが見つかりません"
+desempaquetar_MSG3="まあまあ"
+desempaquetar_MSG4="存在しない"
+desempaquetar_MSG5="ランニング"
+desempaquetar_MSG6="開梱"
+desempaquetar_MSG7="解凍しようとしてエラーが発生しました"
+
+# comprime
+
+comprime_MSG1="画像の圧縮"
+comprime_MSG2="bzip2で圧縮"
+comprime_MSG3="gzipで圧縮"
+comprime_MSG4="xzで圧縮"
+comprime_MSG5="前のメニュー"
+comprime_MSG6="ランニング"
+comprime_MSG7="画像ファイル圧縮完了"
+comprime_MSG8="での圧縮エラー"
+comprime_MSG9="無効なコンプレッサー"
+
+# descomprime
+
+descomprime_MSG1="ファイル パスを入力します。"
+descomprime_MSG2="----------------------"
+descomprime_MSG3="デコンプレッサが見つかりません"
+descomprime_MSG4="まあまあ"
+descomprime_MSG5="存在しない"
+descomprime_MSG6="ランニング"
+descomprime_MSG7="解凍した"
+descomprime_MSG8="解凍しようとしてエラーが発生しました"
+

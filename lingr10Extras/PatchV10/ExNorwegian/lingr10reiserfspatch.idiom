@@ -1,0 +1,75 @@
+# Idioma Español para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Trykk ENTER for å fortsette..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="================================"
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 STØTTERESERFER."
+cabecera_interfaz_MSG3="================================"
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Monter kommandoutgang:"
+formatear_disco_reiserfs_MSG2="Spesifiser blokkeringsenheten som skal formateres: "
+formatear_disco_reiserfs_MSG3="Enhet formatert vellykket"
+formatear_disco_reiserfs_MSG4="Feil ved formatering av enheten"
+formatear_disco_reiserfs_MSG5="PROSESS FERDIG"
+formatear_disco_reiserfs_MSG6="Demonterer enhet..."
+formatear_disco_reiserfs_MSG7="Formaterer stasjon i ReiserFS..."
+formatear_disco_reiserfs_MSG8="Løper"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="FORMATERT SUKSESSFULLT"
+formatear_img_reiserfs_MSG2="FEIL VED FORMATERING AV TOM FIL"
+formatear_img_reiserfs_MSG3="Genererer tom fil..."
+formatear_img_reiserfs_MSG4="Kjører"
+formatear_img_reiserfs_MSG5="Formaterer tom fil i ReiserFS..."
+formatear_img_reiserfs_MSG6="GENERERING AV TOM FIL MED EGENDERLIG STØRRELSE"
+formatear_img_reiserfs_MSG7="Spesifiser størrelsen på den tomme filen som skal genereres (kun en numerisk verdi):"
+formatear_img_reiserfs_MSG8="Plassmålinger for å generere den tomme filen:"
+formatear_img_reiserfs_MSG9="Spesifiser plassmålet som skal brukes: "
+formatear_img_reiserfs_MSG10="FEIL VED ANGIVELSE AV STØRRELSESMÅLING"
+formatear_img_reiserfs_MSG11="Blokkstørrelsesverdi:"
+formatear_img_reiserfs_MSG12="Mengd plass for tom fil:"
+formatear_img_reiserfs_MSG13="Beregnet verdi i byte:"
+formatear_img_reiserfs_MSG14="Beregnet verdi for telling:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Lag bilde for en CD-R/RW (702 Mbyte)"
+m_img_CDDVDBD_reiserfs_MSG2="Lag bilde for en DVD+RW (4 Gbyte)"
+m_img_CDDVDBD_reiserfs_MSG3="Lag bilde for en DVD+RW/DL (8 Gbyte)"
+m_img_CDDVDBD_reiserfs_MSG4="Lag bilde for en BD-R/RE (25 Gbyte)"
+m_img_CDDVDBD_reiserfs_MSG5="Opprett bildefil med egendefinert størrelse"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Avslutt"
+imgr_tmp_MSG1="Slett alle reiserfs bildefiler"
+imgr_tmp_MSG2="Monter eller avmonter bildefil"
+imgr_tmp_MSG3="Bildefiler i"
+imgr_tmp_MSG4="Velg et alternativ"
+imgr_tmp_MSG5="Slettede bildefiler"
+imgr_tmp_MSG6="Monter bilde"
+imgr_tmp_MSG7="Demonter bilde"
+imgr_tmp_MSG8="Montert bilde"
+imgr_tmp_MSG9="Demontert bilde"
+imgr_tmp_MSG10="Ugyldig alternativ"
+imgr_tmp_MSG11="Spesifiser bildet som skal monteres eller avmonteres:"
+imgr_tmp_MSG12="Feil ved montering av bilde"
+imgr_tmp_MSG13="Feil ved avmontering av bilde"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Formater stasjon i ReiserFS"
+lingr10reiserfspatch_MSG2="Opprett ReiserFS-bilde for CD/DVD/BD"
+lingr10reiserfspatch_MSG3="Operasjoner på ReiserFS-bilder"
+lingr10reiserfspatch_MSG4="Ugyldig alternativ"
+lingr10reiserfspatch_MSG0="Avslutt"
+

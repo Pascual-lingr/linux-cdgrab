@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTigrinya/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en tigriña para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="ኣብዚ እዋን ኣብ ስርዓት ዝተሰቕሉ መሳርሒታት።"
+montar_dispositivos_MSG1B="ምትእኽኻብ/ምፍንጫል መሳርሒታት"
+montar_dispositivos_MSG2="ኣማራጺታት ሊኑክስ-ሲዲግራብ።"
+montar_dispositivos_MSG3="ዲስክ ካብ ሲዲ/ዲቪዲ/ቢዲ ኣንባቢ ኣውጽእ።"
+montar_dispositivos_MSG4="ዲስክ ካብ ሲዲ/ዲቪዲ/ቢዲ መቃጸሊ ኣውጽእ።"
+montar_dispositivos_MSG5="ኣንባቢ ሲዲ-ሮም/ዲቪዲ-ሮም/ቢዲ-ሮም ምትካል።"
+montar_dispositivos_MSG6="ሲዲ-ሮም/ዲቪዲ-ሮም/ቢዲ-ሮም ኣውጽእ።"
+montar_dispositivos_MSG7="መሳርሒ ብኢድ ምትካል ወይ ምፍራስ።"
+montar_dispositivos_MSG0="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+montar_dispositivos_MSG8="ሲዲ/ዲቪዲ/ቢዲ ተሰቒሉ።"
+montar_dispositivos_MSG9="ንኽትቅጽል ENTER ንጽቀጥ..."
+montar_dispositivos_MSG10="ሲዲ/ዲቪዲ/ቢዲ ኣብ ምውላዕ ጌጋ ኣጋጢሙ።"
+montar_dispositivos_MSG11="ሲዲ/ዲቪዲ/ቢዲ ተፈቲሑ።"
+montar_dispositivos_MSG12="ኣብ ምፍታሕ ሲዲ/ዲቪዲ/ቢዲ ጌጋ ኣጋጢሙ።"
+montar_dispositivos_MSG13="እቲ መሳርሒ ክስቀል/ክፈትሖ ጽሓፍ:"
+montar_dispositivos_MSG14="ነጥቢ ምትካል ኣእቱ:"
+montar_dispositivos_MSG15="ምስ ብሎክ መሳርሒ ኣይሰማማዕን።"
+montar_dispositivos_MSG16="ነጥቢ ምትካል ኣይተረኽበን።"
+montar_dispositivos_MSG17="ነባሪ ነጥቢ ምትካል።"
+montar_dispositivos_MSG18="ኣማራጺ ምረጽ:"
+montar_dispositivos_MSG19="እቲ"
+montar_dispositivos_MSG20="ትግርኛ"
+montar_dispositivos_MSG21="ምውጋድ።"
+montar_dispositivos_MSG22="ደ።"
+montar_dispositivos_MSG23="ኣብ ዝተሰቐለ:"
+montar_dispositivos_MSG24="ኣብ ዝስቀለሉ እዋን ጌጋ"
+montar_dispositivos_MSG25="ትግርኛ"
+montar_dispositivos_MSG26="ካብ ተሰቒሉ።"
+montar_dispositivos_MSG27="ኣብ ዘይተሰቕለሉ እዋን ጌጋ"
+montar_dispositivos_MSG28="ደ።"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="ውጽኢት ናይ ምትካል ትእዛዝ።"
+Montar_Imagenes_MSG1B="ምትእኽኻብ/ምፍንጫል ፋይላት ምስሊ"
+Montar_Imagenes_MSG2="ኣማራጺ ምረጽ።"
+Montar_Imagenes_MSG3="ምስሊ ሲዲ/ዲቪዲ/ቢዲ ምትካል።"
+Montar_Imagenes_MSG4="ምስሊ ሲዲ/ዲቪዲ/ቢዲ ኣውጽእ።"
+Montar_Imagenes_MSG5="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+

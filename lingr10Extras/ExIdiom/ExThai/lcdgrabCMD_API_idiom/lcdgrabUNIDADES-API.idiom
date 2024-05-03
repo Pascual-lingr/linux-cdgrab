@@ -1,0 +1,73 @@
+#########################################################
+# lcdgrabAPI_idiom/ExThai/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en tailandés para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translator
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="เส้นทางของภาพ .img หรือ .ext2 เพื่อที่จะย้ายไปยังดิสก์"
+volcar_imagen_MSG2="-----------------------สำคัญ----------------------------" 
+volcar_imagen_MSG3="+ ตัวเลือกนี้ใช้ไม่ได้กับออปติคอลดิสก์"
+volcar_imagen_MSG4="+ ใช้กับเพนไดรฟ์ ฟล็อปปี้ดิสก์ พาร์ติชันดิสก์ ฯลฯ "
+volcar_imagen_MSG5="+ ข้อควรพิจารณาเกี่ยวกับฮาร์ดไดรฟ์:"
+volcar_imagen_MSG6="+ รูปภาพถูกเขียนด้วย dd ตั้งแต่ต้น"
+volcar_imagen_MSG7=" จากดิสก์ที่ระบุ ไม่อนุญาตให้ใช้จำนวน"
+volcar_imagen_MSG8="เซกเตอร์เฉพาะเพื่อเริ่มกระบวนการเขียน"
+volcar_imagen_MSG9="+ ใช้ด้วยความระมัดระวัง ใช้โดยรับความเสี่ยงเอง"
+volcar_imagen_MSG10="+ พาร์ติชันของดิสก์อาจไม่สามารถใช้งานได้"
+volcar_imagen_MSG11="+ ไม่แนะนำให้ใช้ในระบบพาร์ติชันหลายระบบ"
+volcar_imagen_MSG12=" การคืนค่าอาจออกจากตารางพาร์ติชันและ"
+volcar_imagen_MSG13="พาร์ติชันที่ไม่มีประโยชน์"
+volcar_imagen_MSG14="------------------------------------------------------"
+volcar_imagen_MSG15="กดปุ่ม C เพื่อดำเนินการต่อไป (กระบวนการจะถูกยกเลิกในตัวเลือกอื่น)"
+volcar_imagen_MSG16="โปรดระบุเส้นทางของไฟล์ภาพเพื่อที่จะย้ายไปยังดิสก์ "
+volcar_imagen_MSG17="เอาต์พุตคำสั่งเมานต์:"
+volcar_imagen_MSG18="ระบุอุปกรณ์บล็อกที่จะทิ้งรูปภาพ:"
+volcar_imagen_MSG19="การทิ้งรูปภาพ"
+volcar_imagen_MSG20="บนอุปกรณ์"
+volcar_imagen_MSG21="กำลังดำเนินการ"
+volcar_imagen_MSG22="กระบวนการย้ายภาพเสร็จสิ้นแล้ว"
+
+# volcar_iso
+
+volcar_iso_MSG1="ระบุอุปกรณ์บล็อกที่จะเขียนอิมเมจ ISO ไปที่:"
+volcar_iso_MSG2="คำเตือน"
+volcar_iso_MSG2B="------"
+volcar_iso_MSG3="ระบุอุปกรณ์บล็อกที่จะเขียน"
+volcar_iso_MSG4="ตัวอย่าง: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="อย่าระบุพาร์ติชันที่เป็นของอุปกรณ์นี้"
+volcar_iso_MSG6="ตัวอย่าง: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="ระบุภาพ iso-9660 หรือ img ที่จะเขียน:"
+volcar_iso_MSG9="กระบวนการเสร็จสมบูรณ์"
+volcar_iso_MSG10="ข้อผิดพลาดในกระบวนการเขียน ISO"
+volcar_iso_MSG11="ระบุขนาดบล็อกที่จะเขียนรูปภาพ"
+volcar_iso_MSG12="เลือกตัวเลือกตามระบบปฏิบัติการที่จะเขียน:"
+volcar_iso_MSG13="ISO-9660 หรืออิมเมจ IMG ที่สามารถบูตได้เพื่อแฟลชบนอุปกรณ์:"
+volcar_iso_MSG14="ออก"
+volcar_iso_MSG15="ISO-9660 หรือไฟล์ภาพ IMG"
+volcar_ISO_MSG16="เลือกระบบปฏิบัติการที่จะถ่ายโอนข้อมูลเข้าสู่หน่วย"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="เลือกระบบไฟล์ด้วย"
+Formateador_linuxfs_MSG2="อุปกรณ์จะถูกฟอร์แมต:"
+Formateador_linuxfs_MSG3="ระบุอุปกรณ์บล็อกที่จะฟอร์แมต: "
+Formateador_linuxfs_MSG5="กระบวนการเสร็จสมบูรณ์"
+Formateador_linuxfs_MSG6="ฟอร์แมตดิสก์"
+Formateador_linuxfs_MSG7="ตั้งค่าป้ายกำกับโวลุ่ม"
+Formateador_linuxfs_MSG10="ระบุชื่อป้ายกำกับโวลุ่ม"
+Formateador_linuxfs_MSG11="ป้ายกำกับโวลุ่มใหม่"
+Formateador_linuxfs_MSG12="ระบุขนาดบล็อก"
+Formateador_linuxfs_MSG13="ขนาดบล็อกใหม่"
+
+# Traducción Chat GPT - INI
+Formateador_linuxfs_MSG14="เมนูก่อนหน้า"
+# Traducción Chat GPT - FIN
+

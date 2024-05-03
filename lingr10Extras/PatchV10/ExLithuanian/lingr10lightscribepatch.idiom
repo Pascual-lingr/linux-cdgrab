@@ -1,0 +1,32 @@
+# Idioma Lituano para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Norėdami tęsti, paspauskite ENTER..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="====================================="
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 LIGHTSCRIBE PAGALBA."
+cabecera_lightscribe_MSG3="====================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Įveskite vaizdo, kurį norite spausdinti į diską, kelią:"
+imprimir_disco_lightscribe_MSG2="Vaizdo formatas turi būti .bmp"
+imprimir_disco_lightscribe_MSG3="veikia"
+imprimir_disco_lightscribe_MSG4="Etiketė atspausdinta ant disko"
+imprimir_disco_lightscribe_MSG5="Klaida spausdinant etiketę į diską"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="LightScribe technologija yra tik kai kuriuose įrenginiuose"
+lingr10lightscribepatch_MSG2="Turėtumėte patikrinti, ar jūsų įrašymo įrenginys jį turi."
+lingr10lightscribepatch_MSG3="Panašiai, tik specialūs kompaktiniai arba DVD diskai gali būti pažymėti LightScribe"
+lingr10lightscribepatch_MSG4="Spausdinti LightScribe diską"
+lingr10lightscribepatch_MSG5="Ankstesnis meniu"
+lingr10lightscribepatch_MSG6="Netinkama parinktis"
+

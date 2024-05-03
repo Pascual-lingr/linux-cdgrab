@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExKorean/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Coreano para el Interfaz sobre dispositivo de bloque
+# Traducción experimental al Coreano, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="\t 디스크 드라이브 작업"
+MenuDispositivosBloque_KDE_MSG1="디스크 드라이브 작업"
+MenuDispositivosBloque_MSG2="------------------------ 중요 --------------------------- "
+MenuDispositivosBloque_MSG3="+ 하드 드라이브에 쓰기 작업을 수행하지 않습니다. "
+MenuDispositivosBloque_MSG4="+ 이미지가 포함된 디스크 파티션 정보"
+MenuDispositivosBloque_MSG5="+ 복구, 부팅 파티션 또는 자체"
+MenuDispositivosBloque_MSG6="+ 운영 체제 파티션."
+MenuDispositivosBloque_MSG7="+ 이 메뉴의 쓰기 옵션을 잘못 사용했습니다. "
+MenuDispositivosBloque_MSG8="+는 시스템에 재앙을 일으킬 수 있습니다."
+MenuDispositivosBloque_MSG9="+ 주의해서 사용하세요. 사용에 따른 책임은 본인에게 있습니다."
+MenuDispositivosBloque_MSG10="---------------------- 쓰기 ----------------------"
+MenuDispositivosBloque_MSG11="이미지 파일을 디스크 드라이브에 덤프"
+MenuDispositivosBloque_MSG11B="iso 또는 img 이미지(자체 부팅 가능)를 펜드라이브 또는 USB 디스크에 덤프"
+MenuDispositivosBloque_MSG11C="모든 설치 시스템이 지원되는 것은 아닙니다."
+MenuDispositivosBloque_MSG12="기본 Linux 또는 Windows 파일 시스템으로 드라이브 포맷"
+MenuDispositivosBloque_MSG13="--------------------- 읽는 중 --------------------"
+MenuDispositivosBloque_MSG14="디스크 드라이브에서 .img 이미지 생성"
+MenuDispositivosBloque_MSG15="이전 메뉴"
+MenuDispositivosBloque_MSG16="옵션을 입력하세요"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="------------------------------중요한------------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ 드라이브는 장치에서 사용되는 파일 시스템으로 포맷됩니다."
+UIFormatearUnidad_linuxfs_MSG2B="+ 또는 디스크 파티션."
+UIFormatearUnidad_linuxfs_MSG3="+ 이 옵션은 드라이브에 있는 기존 데이터를 모두 삭제합니다."
+UIFormatearUnidad_linuxfs_MSG4="+ 파일 시스템으로 포맷된 이동식 드라이브"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux 자체는 이 운영 체제에서만 액세스할 수 있습니다."
+UIFormatearUnidad_linuxfs_MSG6="+ 주의해서 사용하고 위험은 본인 부담으로 사용하세요."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="계속하려면 C 키를 누르세요. (다른 옵션에서 프로세스가 취소됩니다.)"
+

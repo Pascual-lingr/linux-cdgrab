@@ -1,0 +1,175 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSpanishEn/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Messages for DVD burn API.
+# 
+# Experimental Spanish translation from English, generate by Google Translate
+#
+# Traducción experimental al Español desde los archivos de Inglés,
+# generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribute under GPL v2
+# Part of Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Grabar dispositivo como"
+buscar_grabadora_MSG1B="Válido"
+buscar_grabadora_MSG2="Grabar dispositivo como"
+buscar_grabadora_MSG2B="Incorrecto"
+buscar_grabadora_MSG3="El dvd+-rw-tools no acepta que el dispositivo de grabación sea"
+buscar_grabadora_MSG4="Para poder grabar DVD usando dvd+-rw-tools debes especificar tu grabadora como dispositivo de bloqueo"
+buscar_grabadora_MSG5="Ejemplo"
+buscar_grabadora_MSG6="o"
+buscar_grabadora_MSG7="Mostrando dispositivos existentes del sistema en /dev"
+buscar_grabadora_MSG8="Escriba el dispositivo de bloqueo que corresponda con su unidad grabadora de DVD"
+buscar_grabadora_MSG9="No se ha especificado ningún tipo de unidad de quemador ni opción."
+buscar_grabadora_MSG10="DISPOSITIVO CONFIGURADO PARA EL QUEMADOR UNIDAD"
+buscar_grabadora_MSG11="El dispositivo de grabación ha sido exportado al entorno shell como"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Valor posible sólo válido para cdrecord"
+buscar_grabadoralb_MSG2="La configuración actual de la grabadora es"
+buscar_grabadoralb_MSG3="Compruebe que esta configuración coincida con el valor asignado por cdrskin"
+buscar_grabadoralb_MSG4="Escaneando puerto IDE/SCSI con cdrskin..."
+buscar_grabadoralb_MSG5="Especifique el nuevo valor que se utilizará con cdrskin:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Escriba un nombre para el futuro DVD:"
+datos_dvd_MSG2="GRABANDO DVD. . ."
+datos_dvd_MSG3="Usando"
+datos_dvd_MSG4="ejecutando"
+datos_dvd_MSG5="DVD GRABADO CON EXITO!!"
+datos_dvd_MSG6="No se puede encontrar mkisofs o genisoimage, instale cdrtools o cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Escriba un nombre para el futuro DVD:"
+datos_dvd_multi_MSG2="GRABANDO DVD. . ."
+datos_dvd_multi_MSG3="Usando"
+datos_dvd_multi_MSG4="ejecutando"
+datos_dvd_multi_MSG5="DVD GRABADO CON EXITO!!"
+datos_dvd_multi_MSG6="No se puede encontrar mkisofs o genisoimage, instale cdrtools o cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="GRABANDO ARCHIVO DE IMAGEN. . ."
+grabimg_dvd_MSG2="ejecutando"
+grabimg_dvd_MSG3="¡IMAGEN DE DVD GRABADA CON ÉXITO!"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="GRABANDO ARCHIVO DE IMAGEN EN DVD. . ."
+copia_bin_dvd_MSG2="ejecutando"
+copia_bin_dvd_MSG3=" ELIMINANDO ARCHIVO DE IMAGEN"
+copia_bin_dvd_MSG4="¡PROCESO DE GRABACIÓN TERMINADO!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Formato"
+formatear_dvd_MSG2="Forzar nuevo formato para"
+formatear_dvd_MSG3="Relocalizar el bloque de salida de un"
+formatear_dvd_MSG4="Formatear un DVD-RW incremental secuencial"
+formatear_dvd_MSG5="Formatear un DVD-RW para sobrescritura restringida"
+formatear_dvd_MSG6="Llenar un DVD con valor cero"
+formatear_dvd_MSG7="Muestra la información del DVD"
+formatear_dvd_MSG8="Menú Anterior"
+formatear_dvd_MSG9="Esta opción se utiliza para formatear el DVD por primera vez."
+formatear_dvd_MSG10="Si el DVD ya está formateado no borrará los datos."
+formatear_dvd_MSG11="Estos serán sobrescritos en una nueva grabación."
+formatear_dvd_MSG12="Para borrar el contenido del DVD utilice:"
+formatear_dvd_MSG13="Llenar un DVD con valor cero"
+formatear_dvd_MSG14="Esta opción elimina formato y datos del DVD tratado."
+formatear_dvd_MSG15="ejecutando"
+formatear_dvd_MSG16="DVD+RW/DVD-RW FORMATADO OK!"
+formatear_dvd_MSG17="ERROR AL FORMATEAR EL DVD"
+formatear_dvd_MSG18="Forzar formato DVD+RW..."
+formatear_dvd_MSG19="DVD+RW FORMATADO OK!"
+formatear_dvd_MSG20="ERROR AL FORMATEAR DVD+RW"
+formatear_dvd_MSG21="Esta opción no afecta los datos guardados en el DVD+RW"
+formatear_dvd_MSG22="Realizando el bloqueo de salida desde el DVD+RW ..."
+formatear_dvd_MSG23="Formateando disco DVD-RW para escritura secuencial..."
+formatear_dvd_MSG24="DVD-RW FORMATADO OK!"
+formatear_dvd_MSG25="ERROR AL FORMATEAR EL DVD-RW"
+formatear_dvd_MSG26="Formateando disco DVD-RW para sobrescritura restringida ..."
+formatear_dvd_MSG27="BORRADO DE DVD EXTRAÍBLE"
+
+# null_dvd
+
+null_dvd_MSG1="Escribiendo en el disco desde /dev/zero..."
+null_dvd_MSG2="ejecutando"
+null_dvd_MSG3="PROCESO COMPLETADO"
+null_dvd_MSG4="ERROR INESPERADO"
+
+# dvd_video
+
+dvd_video_MSG1="Ruta donde se encuentran los directorios VIDEO_TS y AUDIO_TS:"
+dvd_video_MSG2="Escriba la ruta donde se encuentran los directorios VIDEO_TS y AUDIO_TS:"
+dvd_video_MSG3="ejecutando"
+dvd_video_MSG4="--- DVD-VIDEO GRABADO CON ÉXITO ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="ejecutando"
+dvd_copia_bin_MSG2=" ELIMINANDO ARCHIVO DE IMAGEN"
+dvd_copia_bin_MSG3="SE HA PRODUCIDO UN ERROR EN LA GRABACIÓN"
+
+# dvd_datos
+
+dvd_datos_MSG1="Archivos y directorios para crear la imagen .iso"
+dvd_datos_MSG2="ETIQUETA DEL DVD"
+dvd_datos_MSG3="Escriba un nombre para el futuro DVD:"
+dvd_datos_MSG4="Iniciando el administrador de archivos :"
+dvd_datos_MSG5=" CREANDO ARCHIVO DE IMAGEN. . ."
+dvd_datos_MSG6="ejecutando"
+dvd_datos_MSG7="ARCHIVO DE IMAGEN ISO-9660 CREADO EN"
+dvd_datos_MSG8=" GRABANDO DVD"
+dvd_datos_MSG13="BORRANDO ARCHIVO DE IMAGEN..."
+
+# dvd_borra
+
+dvd_borra_MSG1="ejecutando"
+dvd_borra_MSG2="Disco óptico formateado con éxito"
+dvd_borra_MSG3="ERROR AL FORMATEAR EL DISCO ÓPTICO"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="ejecutando"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="Ejecutando"
+formatearCDDVDBD_MSG2="Disco óptico formateado exitosamente"
+formatearCDDVDBD_MSG3="ERROR FORMATANDO EL DISCO ÓPTICO"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="¡¡DVD-RW formateado exitosamente!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Error al formatear DVD-RW para sobrescritura restringida"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="¡¡DVD-RW formateado exitosamente!!"
+formatearDVDRW_incremental_secuencial_MSG2="Error al formatear DVD-RW a incremental secuencial"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Especifique la ruta de la imagen iso-9660 para grabar:"
+cdrskinisocddvd_MSG2="¡¡IMAGEN ISO GRABADA EXITOSAMENTE!!"
+cdrskinisocddvd_MSG3="ERROR AL GRABAR LA IMAGEN"
+

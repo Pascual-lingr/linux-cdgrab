@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExJapanese/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Japonés, utilizado google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="\t\tディスク画像の作成と条約"
+MenuImagen_MSG2="------------------ 画像の作成 ------------------"
+MenuImagen_MSG3="ISO-9660 イメージの作成"
+MenuImagen_MSG4="ネイティブ Linux ファイルシステムでイメージを作成する"
+MenuImagen_MSG5="任意のブロック デバイスの .img イメージを作成する"
+MenuImagen_MSG6="現在のデバイスから .bin .cue イメージを作成する"
+MenuImagen_MSG7="-------------- その他のオプション --------------"
+MenuImagen_MSG8=".bin イメージから .cue 記述ファイルを生成する"
+MenuImagen_MSG9=".nrg (Nero Burning ROM) イメージを .iso に変換する"
+MenuImagen_MSG10="gzip、bzip2、または xz で画像を圧縮する"
+MenuImagen_MSG11="zip、gz、bz2、または xz でイメージを解凍します"
+MenuImagen_MSG11B="iso イメージの md5 サムを確認する"
+MenuImagen_MSG12="アイソモードを変更"
+MenuImagen_MSG0="前のメニュー"
+MenuImagen_MSG13="圧縮する画像ファイル"
+MenuImagen_MSG14="画像ファイルを圧縮"
+MenuImagen_MSG15="圧縮するイメージがあるディレクトリ パスを入力します。"
+MenuImagen_MSG16="解凍する画像ファイル"
+MenuImagen_MSG17="現在のISOレベル"
+MenuImagen_MSG18="アイソレベル"
+MenuImagen_MSG19="ファイル名はセクションで構成されています"
+MenuImagen_MSG20="8.3 文字に制限されています。"
+MenuImagen_MSG21="名前の互換性が必要な場合は、このレベルを選択してください"
+MenuImagen_MSG21b="MS-DOS オペレーティング システムで"
+MenuImagen_MSG22="ファイル名はセクションで構成されています"
+MenuImagen_MSG23="レベル無制限。"
+MenuImagen_MSG24="ファイルとの互換性が必要な場合は、このレベルを使用してください"
+MenuImagen_MSG25="大、この場合は >= から 2 ギガバイト。"
+MenuImagen_MSG26="すべての iso レベルは、ファイル名を大文字と小文字に制限します。"
+MenuImagen_MSG27="_ などの文字。ファイル名は 31 文字に制限されています"
+MenuImagen_MSG28="最大 8 つのディレクトリ パスとパス名"
+MenuImagen_MSG29="ディレクトリは 255 文字までです"
+MenuImagen_MSG30="新しいアイソレベルを選択してください"
+MenuImagen_MSG31="ISOレベル4は公式ではありません"
+MenuImagen_MSG32="mkisofs の man ページを参照してください。"
+MenuImagen_MSG33="ISO レベルが無効です"
+MenuImagen_MSG34="デフォルトで ISO レベル 3 を設定"
+

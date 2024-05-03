@@ -1,0 +1,35 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Islandés para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Skrár í /tmp"
+dir_tmp_MSG2="Eyða öllum myndum og þjöppuðum skrám"
+dir_tmp_MSG3="Ræstu skráarstjórann fyrir aðrar aðgerðir"
+dir_tmp_MSG4="Tengdu eða aftengdu mynd"
+dir_tmp_MSG5="Sýna valmynd myndagerðar"
+dir_tmp_MSG6="Sýna myndupptökuvalkosti"
+dir_tmp_MSG7="Fyrri valmynd"
+dir_tmp_MSG8="LISTI YFIR NÚVERANDI skrár Í"
+dir_tmp_MSG9="VELDU VAL:"
+dir_tmp_MSG10="EYÐAR MYNDIR OG SKRÁR"
+dir_tmp_MSG11="Tengdu mynd."
+dir_tmp_MSG12="Aftengja mynd."
+dir_tmp_MSG13="Brenna mynd á geisladisk"
+dir_tmp_MSG14="Brenna mynd á DVD"
+dir_tmp_MSG14B="Brenna mynd á BD"
+dir_tmp_MSG15="Veldu valmöguleika í samræmi við upptökumiðilinn"
+dir_tmp_MSG16="SKRÁLIN FINNS EKKI STJÓRNARSKRÁIN"
+dir_tmp_MSG17="Hættir upptökuferlinu"
+dir_tmp_MSG18="Tilgreindu .iso skrána sem á að brenna"
+dir_tmp_MSG19="Sláðu inn myndslóðina: "
+
+

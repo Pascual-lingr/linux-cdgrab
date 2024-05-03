@@ -1,0 +1,184 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Islandés para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="hlaupandi"
+copia_bin_MSG2="--------------REYNIR aftur upptökuferlið---------------"
+copia_bin_MSG3="	EYÐIR MYNDASKÝLI"
+copia_bin_MSG4="VILLA KOMIÐ VIÐ UPPTAKA"
+copia_bin_MSG5="Diskamyndafritið .iso skrá fannst ekki. Hættir upptöku..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="hlaupandi"
+datos_al_vuelo_MSG2="Villa við upptökutilraun, reynir aftur án stuðnings við ofbrennslu"
+datos_al_vuelo_MSG3="Gakktu úr skugga um að upprunadiskurinn eða tækið"
+datos_al_vuelo_MSG4="er í góðu ástandi"
+datos_al_vuelo_MSG5="Að fá útrásarblokkarnúmer af upprunadisknum"
+datos_al_vuelo_MSG6="AFRIFTAR DISK..."
+
+# clonar_cd
+
+clonar_cd_MSG1="í gangi"
+clonar_cd_MSG2="Geisladiskur var klónaður með góðum árangri"
+clonar_cd_MSG3="VILLA ER KOMIÐ VIÐ KLÓNUN á geisladisknum"
+
+# datos
+
+datos_MSG1=" Skrár og möppur til að búa til .iso myndina"
+datos_MSG2="CD/DVD/BD MERKIÐ"
+datos_MSG3="Sláðu inn nafn fyrir framtíðar geisladisk/DVD/BD:"
+datos_MSG4="Ræsir skráastjórann:"
+datos_MSG5=" BÚI TIL MYND . . ."
+datos_MSG6="í gangi"
+datos_MSG7="ISO-9660 MYND BÚIN TIL"
+datos_MSG8="BRENNA CD/DVD/BD"
+datos_MSG9="FERLIÐ AÐ búa til MYNDASKRÁ HEFUR MILST"
+datos_MSG10="REEYNER AFTUR AÐ BÚA TIL NÝTT ÁN STUÐNINGS FYRIR HFS (Macintosh)"
+datos_MSG11="EYÐIR MYND . . ."
+datos_MSG12="BÚI TIL NÝJA MYND . . ."
+datos_MSG13="ÞAÐ ER EKKI HÆGT AÐ SKRÁ RÉTT"
+datos_MSG14="------------REYNAR AFTUR UPPtökuferlið-----"
+datos_MSG15="EYÐA MYND..."
+datos_MSG16="BRENNA ISO-9660 GAGNA CD/DVD/BD..."
+datos_MSG17="Finn ekki."
+datos_MSG18="Hættir upptöku á diski..."
+
+# datoslb
+
+datoslb_MSG1="Villa: Myndaskráin finnst ekki. Hættir..."
+datoslb_MSG2="Upptökuferlið í lagi"
+datoslb_MSG3="VILLA Í UPPTAKAFERLINUM"
+
+# borra
+
+borra_MSG0="Fyrri valmynd"
+borra_MSG1="Veldu stillingu til að eyða CD-RW"
+borra_MSG2="---------------------------------"
+borra_MSG3="Fljótleg eyðing (notaðu cdrecord)"
+borra_MSG4="Ljúka eyðingu (notaðu cdrecord)"
+borra_MSG5="Eyðing krafist (notaðu cdrskin)"
+borra_MSG6="í gangi"
+borra_MSG7="Nauðsynlegt snið eða eyðing er beitt eftir stöðu disksins"
+borra_MSG8="CD-RW EYÐIÐ Árangurslaust!!"
+borra_MSG9="VILLA VIÐ EYÐU CD-RW"
+borra_MSG10="ÞEYÐU AÐ EYÐA CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="VILLA VIÐ REYNDIR AÐ EYÐA CD-RW"
+err_borra_cdrw_MSG2="CD-RW ÓNOTAÐUR"
+err_borra_cdrw_MSG3="ÞAÐ ER EKKI HÆGT AÐ EYÐA ÞESSUM CD-RW"
+err_borra_cdrw_MSG4="SKOÐAÐU LEIKAMLEGA SKAÐA á CD-RW"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="í gangi"
+cerrar_cd_MSG2="ÞÁ ER HEFUR LOKAÐ RÉTT GELASKIPTI"
+cerrar_cd_MSG3="VILLA VIÐ LOKAÐ Á CD"
+cerrar_cd_MSG4="LOKAR LAGI Á gagnadiski . . ."
+
+# grabimg
+
+grabimg_MSG1=".iso eða .ext2 mynd til að brenna á geisladisk/DVD"
+grabimg_MSG2="Ræsir skráastjórann."
+grabimg_MSG3="Sláðu inn alla slóðina þar sem CD/DVD myndin sem þú vilt brenna er staðsett:"
+grabimg_MSG4="hlaupandi"
+grabimg_MSG5="-----------REYNAR AFTUR UPPtökuferlið-----"
+grabimg_MSG6="Upptöku LOKIÐ!!"
+grabimg_MSG7="MYND .EXT2 TEKKIÐ TEKKIÐ"
+
+# grabimglb
+
+grabimglb_MSG1="Sláðu inn alla slóðina þar sem CD/DVD myndin sem þú vilt brenna er staðsett:"
+grabimglb_MSG2="Brennir mynd á disk..."
+grabimglb_MSG3="ISO-9660 MYND TEKKIÐ TEKKIÐ"
+grabimglb_MSG4="VILLA VIÐ UPPTAKA ISO-9660 MYNDAR"
+grabimglb_MSG5="Villa: Myndskrá fannst ekki. Hættir..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin og .cue skrár til að taka upp myndina"
+grabimg_cue_MSG2="Til að taka upp bakkann/bendingamyndina verða báðar skrárnar"
+grabimg_cue_MSG3="vertu í virku skránni."
+grabimg_cue_MSG4="Núverandi virk skráasafn"
+grabimg_cue_MSG5="Sláðu inn nafnið á *.cue skránni sem vísar í *.bin myndskrána"
+grabimg_cue_MSG6=".cue skrá: "
+grabimg_cue_MSG7="hlaupandi"
+grabimg_cue_MSG8="Upptöku LOKIÐ!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Brenna Multisession CD af .iso mynd"
+cd_multi_MSG2="Brenna fyrstu lotu á geisladiskinn af .iso mynd"
+cd_multi_MSG3="Brenna Multisession CD af skrám á diski"
+cd_multi_MSG4="Taktu samfelldar lotur á geisladiskinn af skrám á harða disknum"
+cd_multi_MSG5="Þessi valkostur krefst fjöllota geisladisks, með áður upptekinni lotu."
+cd_multi_MSG6="Fyrri valmynd"
+cd_multi_MSG7=".iso mynd til að brenna á CD-Multi-session"
+cd_multi_MSG8="Tilgreindu slóð .iso myndarinnar"
+cd_multi_MSG9="í gangi"
+cd_multi_MSG10="MULTI-Session geisladiskur var tekinn upp!!"
+cd_multi_MSG11="Möppur til að hafa með í myndinni."
+cd_multi_MSG12="Tilgreindu hér fyrir neðan hvaða möppur á að hafa með"
+cd_multi_MSG13="Sláðu inn heiti fyrir geisladiskinn:"
+cd_multi_MSG14="BÚI TIL MYND..."
+cd_multi_MSG15="BÚIÐ TIL Árangursríkt"
+cd_multi_MSG16="VILLA VIÐ BÚIÐ TIL MYNDIN. HÆTUR UPPTAKAFERLIÐ..."
+cd_multi_MSG17="BRENNA GEisladisksmynd..."
+cd_multi_MSG18="Fjölgja-lotu geisladiskavalmynd"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="RIPPAR HJÓÐCD..."
+copia_cd_audio_MSG2="Í gangi"
+copia_cd_audio_MSG3="HLJÓÐSLÖK TAÐIÐ Árangurslaust!!"
+copia_cd_audio_MSG4="VILLA VIÐ ÞRÁÐUN HJÓÐSLÖK"
+copia_cd_audio_MSG5="BRENNA HJÓÐ CD..."
+copia_cd_audio_MSG6="Hljóðdiskur afritaður!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav skrár til að brenna á geisladisk"
+wav_a_cd_MSG2="Linux-cdgrab mun ekki athuga stærð möppu"
+wav_a_cd_MSG3="Gakktu úr skugga um að það sé ekki meira en 650 Mbæti ef"
+wav_a_cd_MSG4="ef þú ert að nota 80 mínútna geisladisk."
+wav_a_cd_MSG5="Sláðu inn möppuslóð .wav skránna"
+wav_a_cd_MSG6="hlaupandi"
+wav_a_cd_MSG7="FERLI LOKIÐ!"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Mixto sköpunarverkefni (Data Image .iso + Audio Files .wav)"
+cdmixto_MSG2="Linux-cdgrab mun ekki athuga stærð möppu"
+cdmixto_MSG3="hvar eru hljóðskrárnar."
+cdmixto_MSG4="Það mun heldur ekki gera það frá .iso myndinni sem þú ætlar að taka upp"
+cdmixto_MSG5="eftir."
+cdmixto_MSG6="Vertu í samræmi við stærðina sem þú hefur"
+cdmixto_MSG7="brenna á nýja geisladiskinn þinn."
+cdmixto_MSG8="Tilgreindu slóð hljóðskránna:"
+cdmixto_MSG9="Tilgreindu iso myndslóðina:"
+cdmixto_MSG10="#############################################"
+cdmixto_MSG11="TAKAR upp blönduðum geisladiski: GÖGN + HLJÓÐ"
+cdmixto_MSG12="hlaupandi"
+cdmixto_MSG13="----BLANDAÐUR-geisladiskur KOMIÐ TIL Árangursríkt-----!!"
+cdmixto_MSG14="------VILLA VIÐ BRENNI CD-BLANDI---------"
+
+# discoinfo
+
+discoinfo_MSG1="hlaupandi"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI tengi skannað"
+cdrecord_scan_MSG1="Villa við að skanna IDE/SCSI tengi"
+cdrecord_scan_MSG2="cdrecord fannst ekki"
+

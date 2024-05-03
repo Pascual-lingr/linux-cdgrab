@@ -1,0 +1,114 @@
+#########################################################
+# lcgdrabAPI_idiom/ExFrench/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Francés para la coleccion de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+
+m_cdrecord_sin_overburn_MSG1="Réessayer le processus d'enregistrement..."
+m_cdrecord_sin_overburn_MSG2="Exécuter cdrecord sans l'option -overburn"
+m_cdrecord_sin_overburn_MSG3="-overburn n'est pas pris en charge sur les anciens appareils d'enregistrement, ni sur les anciennes versions de cdrecord."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="OPTION INVALIDE"
+
+# img_error
+
+img_error_D_MSG1="ERREUR LORS DE LA CRÉATION DE L'IMAGE"
+
+# CD_error
+
+CD_error_D_MSG1="ERREUR LORS DE LA GRAVURE DU CD"
+
+# DVD_error
+
+DVD_error_D_MSG1="ERREUR LORS DE LA GRAVURE DU DVD"
+
+# DVD_error
+
+DVD_error_D_MSG1="ERREUR LORS DE LA GRAVURE DU DVD"
+
+# DO_error
+
+DO_error_D_MSG1="ERREUR LORS DE L'ENREGISTREMENT D'UN DISQUE OPTIQUE"
+
+
+# tecla
+
+tecla_D_MSG1="\nAppuyez sur ENTRÉE pour continuer. . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="CHEMINS DU RÉPERTOIRE À GRAVER SUR LE DISQUE"
+rutas_dir_D_MSG2="Tapez le nom du répertoire (f pour quitter):"
+rutas_dir_D_MSG3="RÉPERTOIRE"
+rutas_dir_D_MSG4="INVALIDE"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="MÊME UNITÉ OPTIQUE DANS LE SYSTÈME"
+una_sola_grabadora_D_MSG2="L'UNITÉ DE LECTURE ET D'ENREGISTREMENT SONT LES MÊMES. IL EST SUPPOSÉ QUE VOTRE SYSTÈME N'A QU'UNE SEULE UNITÉ PHYSIQUE. RETIREZ LE DISQUE SOURCE DE L'UNITÉ. INSÉREZ UN DISQUE OPTIQUE VIERGE POUR CONTINUER LE PROCESSUS D'ENREGISTREMENT"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="L'ENREGISTREMENT DU DISQUE EST TERMINÉ AVEC SUCCÈS"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="OPTION INVALIDE"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="L'ENREGISTREMENT DU DISQUE EST TERMINÉ AVEC SUCCÈS"
+
+# text_img_error
+
+text_img_error_MSG1="ERREUR LORS DE LA CRÉATION DE L'IMAGE"
+
+# text_CD_error
+
+text_CD_error_MSG1="ERREUR LORS DE LA GRAVURE DU CD"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="ERREUR LORS DE LA GRAVURE DU DVD"
+
+# text_DO_error
+
+text_DO_error_MSG1="ERREUR LORS DE L'ÉCRITURE D'UN DISQUE OPTIQUE"
+
+# teclash
+
+teclash_MSG1="Appuyez sur ENTER pour continuer..."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Tapez le nom du répertoire (f pour quitter):"
+text_rutas_dir_MSG2="RÉPERTOIRE"
+text_rutas_dir_MSG3=" INVALIDE"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="MÊME UNITÉ OPTIQUE DANS LE SYSTÈME"
+text_una_sola_grabadora_MSG2="L'UNITÉ DE LECTURE ET D'ENREGISTREMENT SONT LES MÊMES."
+text_una_sola_grabadora_MSG3="VOTRE SYSTÈME EST SUPPOSÉ N'EN AVOIR QU'UN"
+text_una_sola_grabadora_MSG4="UNITÉ PHYSIQUE"
+text_una_sola_grabadora_MSG5="RETIREZ LE DISQUE SOURCE DE L'UNITÉ."
+text_una_sola_grabadora_MSG6="INSÉRER UN DISQUE OPTIQUE VIERGE"
+text_una_sola_grabadora_MSG7="POUR CONTINUER LE PROCESSUS D'ENREGISTREMENT."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="En cours d'exécution"

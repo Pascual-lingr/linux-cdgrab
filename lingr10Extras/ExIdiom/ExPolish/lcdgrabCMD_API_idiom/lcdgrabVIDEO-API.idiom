@@ -1,0 +1,56 @@
+#########################################################
+# lcgdrabAPI_idiom/ExPolish/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en polaco para el API de video.
+# Traducción experimental, generado con Google Translator.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="ZGODNOŚĆ Z PŁYTĄ BLU-RAY KONWERSJI WIDEO"
+conv_video_BDVideo_MSG2="Określ ścieżkę pliku wideo do konwersji:"
+conv_video_BDVideo_MSG3="Określ nazwę pliku nowego wideo, które chcesz utworzyć:"
+conv_video_BDVideo_MSG4="Plik wideo został pomyślnie przekonwertowany!!"
+conv_video_BDVideo_MSG5="Błąd podczas konwersji pliku wideo"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="KONWERSJA PLIKÓW WIDEO"
+conv_VideoFich_MSG2="Określ plik wideo do konwersji:"
+conv_VideoFich_MSG3="Określ plik wideo do wygenerowania:"
+conv_VideoFich_MSG4="KONWERSJA PLIKU WIDEO ZAKOŃCZONA"
+conv_VideoFich_MSG5="BŁĄD PODCZAS KONWERTUCJI PLIKU WIDEO"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Określ plik wideo:"
+extrae_Audio_de_Video_MSG2="Określ plik dźwiękowy mp3 do wygenerowania:"
+extrae_Audio_de_Video_MSG3="EFEKTYWNA EKSTRAKCJA DŹWIĘKU"
+extrae_Audio_de_Video_MSG4="BŁĄD PODCZAS WYKRYWANIA DŹWIĘKU"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Określ plik wideo:"
+extrae_Fragmento_Video_MSG2="Określ plik wideo do wygenerowania:"
+extrae_Fragmento_Video_MSG3="Określ czas początkowy (podaj jako GG:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Określ godzinę zakończenia (podaj jako GG:MM:SS) :"
+extrae_Fragmento_Video_MSG5="WIDEO POMYŚLNIE PRZYCIĘTE"
+extrae_Fragmento_Video_MSG6="BŁĄD PODCZAS PRZYCINANIA WIDEO"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Określ plik dźwiękowy:"
+mezcla_Audio_Video_MSG2="Określ plik wideo:"
+mezcla_Audio_Video_MSG3="Określ plik wideo do wygenerowania:"
+mezcla_Audio_Video_MSG4="NOWY PLIK WIDEO WYGENEROWANO POMYŚLNIE"
+mezcla_Audio_Video_MSG5="BŁĄD GENEROWANIA PLIKU WIDEO"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="OPCJA NIEDOSTĘPNA DLA INTERFEJSU KONSOLI"
+graba_escritorio_MSG2="-- NAGRYWANIE SESJI KOMPUTEROWEJ -- NACIŚNIJ CTRL + C, ABY ANULUĆ I ZATRZYMAĆ NAGRYWANIE"
+graba_escritorio_MSG3="NAGRYWANIE WIDEO ZAKOŃCZONE"
+

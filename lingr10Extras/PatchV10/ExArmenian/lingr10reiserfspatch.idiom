@@ -1,0 +1,76 @@
+# Idioma Armenio para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Շարունակելու համար սեղմեք ENTER..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="======================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 ԱՋԱԿՑՈՒՄ Է REISERFS-ը:"
+cabecera_interfaz_MSG3="======================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Տեղադրեք հրամանի ելքը."
+formatear_disco_reiserfs_MSG2="Նշեք արգելափակման սարքը, որը պետք է ֆորմատավորվի."
+formatear_disco_reiserfs_MSG3="Սարքը հաջողությամբ ֆորմատավորվեց"
+formatear_disco_reiserfs_MSG4="Սարքի ձևաչափման սխալ"
+formatear_disco_reiserfs_MSG5="ԳՈՐԾԸՆԹԱՑԸ ԱՎԱՐՏՎԱԾ Է"
+formatear_disco_reiserfs_MSG6="Սարքի ապամոնտաժում..."
+formatear_disco_reiserfs_MSG7="Drive-ի ֆորմատավորում ReiserFS-ում..."
+formatear_disco_reiserfs_MSG8="Գործում է"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="ՁԵՎԱՎՈՐՎԵԼ Է ՀԱՋՈՂՈՎ"
+formatear_img_reiserfs_MSG2="ՍԽԱԼ ԴԱՏԱՐԿ Ֆայլը Ձևաչափելիս"
+formatear_img_reiserfs_MSG3="Ստեղծվում է դատարկ ֆայլ..."
+formatear_img_reiserfs_MSG4="Գործում է"
+formatear_img_reiserfs_MSG5="Դատարկ ֆայլի ֆորմատավորում ReiserFS-ում..."
+formatear_img_reiserfs_MSG6="ԴԱՏԱՐԿ ՖԱՅԼԻ ՍԵՐՈՒՆԴ ԱՍԱՀՄԱՆԱՉԱՓ ՉԱՓՈՎ"
+formatear_img_reiserfs_MSG7="Նշեք ստեղծվող դատարկ ֆայլի չափը միայն թվային արժեք."
+formatear_img_reiserfs_MSG8="Տիեզերական չափումներ դատարկ ֆայլը ստեղծելու համար."
+formatear_img_reiserfs_MSG9="Նշեք օգտագործվող տարածության չափումը."
+formatear_img_reiserfs_MSG10="ՍԽԱԼ ՉԱՓԻ ՉԱՓՈՒՄԸ Ճշգրտելիս"
+formatear_img_reiserfs_MSG11="Բլոկի չափի արժեքը."
+formatear_img_reiserfs_MSG12="Դատարկ ֆայլի համար տարածության քանակը."
+formatear_img_reiserfs_MSG13="Հաշվարկված արժեքը բայթերով."
+formatear_img_reiserfs_MSG14="Հաշվարկված արժեքը հաշվարկի համար."
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Ստեղծել պատկեր CD-R/RW-ի համար 702 Մբայթ"
+m_img_CDDVDBD_reiserfs_MSG2="Ստեղծել պատկեր DVD+RW-ի համար 4 Գբայթ"
+m_img_CDDVDBD_reiserfs_MSG3="Ստեղծել պատկեր DVD+RW/DL-ի համար 8 Գբայթ"
+m_img_CDDVDBD_reiserfs_MSG4="Ստեղծել պատկեր BD-R/RE-ի համար 25 Գբայթ"
+m_img_CDDVDBD_reiserfs_MSG5="Ստեղծել պատկերի ֆայլ հատուկ չափով"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Ելք"
+imgr_tmp_MSG1="Ջնջել բոլոր reiserfs պատկերային ֆայլերը"
+imgr_tmp_MSG2="Միացնել կամ ապամոնտաժել պատկերի ֆայլը"
+imgr_tmp_MSG3="Պատկերի ֆայլեր"
+imgr_tmp_MSG4="Ընտրեք տարբերակ"
+imgr_tmp_MSG5="Ջնջված պատկերի ֆայլեր"
+imgr_tmp_MSG6="Տեղադրեք պատկերը"
+imgr_tmp_MSG7="Անջատել պատկերը"
+imgr_tmp_MSG8="Միացված պատկեր"
+imgr_tmp_MSG9="Ապամոնտաժված պատկեր"
+imgr_tmp_MSG10="Անվավեր տարբերակ"
+imgr_tmp_MSG11="Նշեք պատկերը, որը պետք է տեղադրվի կամ ապամոնտաժվի:"
+imgr_tmp_MSG12="Պատկերը տեղադրելու սխալ"
+imgr_tmp_MSG13="Պատկերն ապամոնտաժելիս սխալ առաջացավ"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Ձևաչափել դրայվը ReiserFS-ում"
+lingr10reiserfspatch_MSG2="Ստեղծել ReiserFS պատկեր CD/DVD/BD-ի համար"
+lingr10reiserfspatch_MSG3="Գործողություններ ReiserFS պատկերների վրա"
+lingr10reiserfspatch_MSG4="Անվավեր տարբերակ"
+lingr10reiserfspatch_MSG0="Ելք"
+

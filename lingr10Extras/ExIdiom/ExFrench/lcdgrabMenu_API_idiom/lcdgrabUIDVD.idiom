@@ -1,0 +1,91 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFrench/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menu de Interfaz para la grabación de DVD.
+# Traducción experimental al francés, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Sélectionnez l'interface utilisateur qui sera utilisée :"
+SeleccionaIUDVD_MSG2="Utiliser l'interface pour dvd+-rw-tools"
+SeleccionaIUDVD_MSG3="Utiliser l'interface pour Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Utiliser l'interface pour libburnia"
+SeleccionaIUDVD_MSG5="Menu précédent"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="ENREGISTREMENT SUR DVD"
+menugrabar_dvd_MSG2="---------------- DVD - DONNÉES ----------------"
+menugrabar_dvd_MSG3="Copier un DVD de données ISO-9660"
+menugrabar_dvd_MSG4="Créer une image DVD précédente sur le disque dur"
+menugrabar_dvd_MSG5="Graver un nouveau DVD de données ISO-9660"
+menugrabar_dvd_MSG6="Ajouter une nouvelle session de données au DVD de données ISO-9660 (DVD multi-session)"
+menugrabar_dvd_MSG7="Nécessite un DVD préalablement enregistré avec la deuxième option"
+menugrabar_dvd_MSG8="Graver une image de données ISO-9660 sur DVD"
+menugrabar_dvd_MSG9="Graver une image .ext2 sur DVD"
+menugrabar_dvd_MSG10="----------------- DVD - VIDÉO -----------------"
+menugrabar_dvd_MSG11="Graver un nouveau DVD-Vidéo"
+menugrabar_dvd_MSG12="--------------- AUTRES OPTIONS ----------------"
+menugrabar_dvd_MSG13="Formater un DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Afficher les informations sur le disque DVD"
+menugrabar_dvd_MSG0="Menu précédent"
+menugrabar_dvd_MSGPRINCIPAL="Tapez une option"
+menugrabar_dvd_MSG15="Fichiers et répertoires à inclure sur le DVD"
+menugrabar_dvd_MSG16="Lancement du gestionnaire de fichiers..."
+menugrabar_dvd_MSG17="image .iso à graver sur DVD"
+menugrabar_dvd_MSG18="Tapez le chemin du répertoire où se trouve l'image .iso que vous souhaitez graver"
+menugrabar_dvd_MSG19="Nécessite une version de cdrecord avec support DVD."
+menugrabar_dvd_MSG20="L'enregistrement de l'image .ext2 sur DVD se fera avec cdrecord."
+menugrabar_dvd_MSG21="La version de cdrecord existant dans votre installation doit"
+menugrabar_dvd_MSG22="supporte l'enregistrement de DVD."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="CHOISISSEZ UNE OPTION"
+dvd_clonar_MSG2="---- COPIES DE DISQUE AVEC IMAGE D'APERÇU -----"
+dvd_clonar_MSG3="Copier un DVD de données"
+dvd_clonar_MSG4="Créer une image DVD précédente sur le disque dur"
+dvd_clonar_MSG5="--------- COPIES DE DISQUE À LA VOLÉE ---------"
+dvd_clonar_MSG6="Copier un DVD de données à la volée"
+dvd_clonar_MSG7="Cloner un DVD de données à la volée"
+dvd_clonar_MSG8="LES OPTIONS DE COPIE VOLANTE NÉCESSITENT DEUX LECTEURS OPTIQUES"
+dvd_clonar_MSG9="INSTALLÉ SUR VOTRE ORDINATEUR, CAR LES DONNÉES SONT ENREGISTRÉES PENDANT SON ORDINATEUR"
+dvd_clonar_MSG10="LISEZ DIRECTEMENT DEPUIS LE DISQUE SOURCE, SI VOUS L'AVEZ SEULEMENT"
+dvd_clonar_MSG11="ON NE PEUT PAS UTILISER LES COPIES À LA VOLÉE."
+dvd_clonar_MSG0="Menu précédent"
+dvd_clonar_MSG12="COPIE DE DONNÉES DVD"
+
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="ENREGISTREMENT SUR DVD"
+menugrabar_DVD_MSG2="----------------- DVD - DONNÉES -----------------"
+menugrabar_DVD_MSG3="Copier un DVD de données"
+menugrabar_DVD_MSG4="Graver un nouveau DVD de données"
+menugrabar_DVD_MSG5="Graver une image .iso ou .ext2 sur DVD"
+menugrabar_DVD_MSG6="Formater DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Afficher les informations sur le disque dans le lecteur"
+menugrabar_DVD_MSG0="Menu précédent"
+menugrabar_DVD_MSGPRINCIPAL="Tapez une option"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Graver l'image iso-9660 sur DVD"
+menugrabar_DVD_libburnia_MSG2="Graver les données du disque dur sur DVD"
+menugrabar_DVD_libburnia_MSG3="Formater DVD"
+menugrabar_DVD_libburnia_MSG4="Formater le DVD-RW en incrémentiel séquentiel"
+menugrabar_DVD_libburnia_MSG5="Formater un DVD-RW pour un écrasement restreint"
+menugrabar_DVD_libburnia_MSG6="Afficher les informations sur le lecteur"
+menugrabar_DVD_libburnia_MSG8="Liste des lecteurs installés dans le système"
+menugrabar_DVD_libburnia_MSG0="Quitter"
+menugrabar_DVD_libburnia_MSG7="Entrez une option"
+

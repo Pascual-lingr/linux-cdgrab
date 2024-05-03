@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Islandés para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 MYND RÉTT TEKIÐ Á BLU-RAY"
+grabar_ISO_BD_MSG2="VILLA VIÐ UPPTAKA MYND Á BLU-RAY DISK"
+grabar_ISO_BD_MSG3="ISO-9660 MYND Í BD"
+grabar_ISO_BD_MSG4="Tilgreindu slóð ISO-9660 myndarinnar sem á að brenna:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Skrár og möppur til að búa til .iso myndina"
+bd_datos_MSG2="DB MERKIÐ"
+bd_datos_MSG3="Sláðu inn nafn fyrir framtíðar BD:"
+bd_datos_MSG4="Opnar skráarstjórann:"
+bd_datos_MSG5=" BÚIÐ TIL MYND . . ."
+bd_datos_MSG6="í gangi"
+bd_datos_MSG7="ISO-9660 MYND BÚIN TIL"
+bd_datos_MSG8="	TAKAR upp BD"
+bd_datos_MSG13="EYÐA MYND..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Nauðsynlegt snið eða eyðing er beitt eftir stöðu disksins"
+borrar_BDRE_lb_MSG2="BD-RE EYÐIST!!"
+borrar_BDRE_lb_MSG3="VILLA VIÐ EYÐU BD-RE"
+

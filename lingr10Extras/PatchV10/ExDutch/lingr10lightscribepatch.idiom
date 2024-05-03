@@ -1,0 +1,32 @@
+# Idioma Holandés para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Druk op ENTER om door te gaan..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="==========================================="
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 LIGHTSCRIBE-ONDERSTEUNING."
+cabecera_lightscribe_MSG3="==========================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Typ het pad van de afbeelding die u naar schijf wilt afdrukken:"
+imprimir_disco_lightscribe_MSG2="Het afbeeldingsformaat moet .bmp zijn"
+imprimir_disco_lightscribe_MSG3="hardlopen"
+imprimir_disco_lightscribe_MSG4="Label afgedrukt op de schijf"
+imprimir_disco_lightscribe_MSG5="Fout bij afdrukken label naar schijf"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="LightScribe-technologie is slechts op sommige apparaten aanwezig"
+lingr10lightscribepatch_MSG2="Controleer of uw recorder dit heeft."
+lingr10lightscribepatch_MSG3="Evenzo kunnen alleen speciale cd's of dvd's worden gelabeld voor LightScribe"
+lingr10lightscribepatch_MSG4="Een LightScribe-schijf afdrukken"
+lingr10lightscribepatch_MSG5="Vorige menu"
+lingr10lightscribepatch_MSG6="Ongeldige optie"
+

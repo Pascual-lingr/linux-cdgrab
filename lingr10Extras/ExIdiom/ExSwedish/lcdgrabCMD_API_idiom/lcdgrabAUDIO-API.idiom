@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwedish/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en sueco para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3-FILER SOM SKALL KONVERTERAS"
+mp3awav_MSG0="Ange sökvägen till .mp3-filerna: "
+mp3awav_MSG1="INVITANDE"
+mp3awav_MSG1B=" TILL .wav-FORMAT"
+mp3awav_MSG2="löpar"
+mp3awav_MSG3="Sampling inställd på 44100 Mhz"
+mp3awav_MSG4="Fel vid bearbetning av sampling"
+mp3awav_MSG5="Det gick inte att konvertera"
+mp3awav_MSG6="Katalogen hittades inte"
+mp3awav_MSG7="SLUT PÅ LJUDKONVERING"
+mp3awav_MSG8="Normalisera ljudfil"
+mp3awav_MSG9="Fil"
+mp3awav_MSG10="Normaliserad"
+mp3awav_MSG11="Normaliseringsfel"
+
+# oggawav
+
+oggawav_MSG0="OGG-FILER SOM SKALL KONVERTERAS"
+oggawav_MSG1="Ange sökvägen till .ogg-filerna: "
+oggawav_MSG2="INVITANDE"
+oggawav_MSG2B="Ett .wav-FORMAT"
+oggawav_MSG3="löpar"
+oggawav_MSG4="Sampling inställd på 44100 Mhz"
+oggawav_MSG5="Fel vid bearbetning av provtagning"
+oggawav_MSG6="Det gick inte att konvertera"
+oggawav_MSG7="Katalog hittades inte"
+oggawav_MSG8="SLUT PÅ LJUDTÄCKNING"
+oggawav_MSG9="Normalisera ljudfil"
+oggawav_MSG10="Fil"
+oggawav_MSG11="Normaliserad"
+oggawav_MSG12="Normaliseringsfel"
+
+# cdawav
+
+cdawav_MSG1="RIPPAR LJUD-CD..."
+cdawav_MSG2="Kör:"
+cdawav_MSG3="FRAMGÅNGSRIKADE LJUDSPÅR!!"
+cdawav_MSG4="Innehåll i katalogen för ljudfiler"
+cdawav_MSG5="FEL NÄR LJUDSPÅR RIPAS"
+
+# cddawav
+
+cddawav_MSG1="Ange antalet spår som ska rippas:"
+cddawav_MSG2="Tryck på Crtl + c för att avbryta rippa ett spår"
+cddawav_MSG3="Kör:"
+cddawav_MSG4="LYCKAD RIPPAD"
+cddawav_MSG5="FEL RIPPNING"
+
+# wavamp3
+
+wavamp3_MSG0="WAV-FILER SOM SKALL KONVERTERAS"
+wavamp3_MSG1="Ange sökvägen till .wav-filerna: "
+wavamp3_MSG1B="KONVERTERING"
+wavamp3_MSG2="ETT FORMAT"
+wavamp3_MSG3="Kör:"
+wavamp3_MSG4="vid konvertering"
+wavamp3_MSG5="till .MP3-format"
+wavamp3_MSG6="Fel vid konvertering"
+wavamp3_MSG7="LJUDOMVANDLING AVSLUTAD"
+wavamp3_MSG8="LJUDKATALOG HITTER INTE"
+
+# cdamp3
+
+cdamp3_MSG1="RIPPAR LJUD-CD..."
+cdamp3_MSG2="Kör:"
+cdamp3_MSG3="FRAMGÅNGSRIKADE LJUDSPÅR!!"
+cdamp3_MSG4="FEL VID RIPNING AV LJUDSPÅR"
+cdamp3_MSG5="Ringfunktion:"
+
+# wavaogg
+
+wavaogg_MSG1="Ange sökvägen till .wav-filerna: "
+wavaogg_MSG2="INVITANDE"
+wavaogg_MSG3="Ett .ogg-FORMAT"
+wavaogg_MSG4="Kör:"
+wavaogg_MSG5="Fel vid konvertering"
+wavaogg_MSG6="till .ogg-format"
+
+# cdaogg
+
+cdaogg_MSG1="RIPPAR LJUD-CD-skivor..."
+cdaogg_MSG2="Kör:"
+cdaogg_MSG3="FRAMGÅNGSRIKADE LJUDSPÅR!!"
+cdaogg_MSG4="FEL VID RIPNING AV LJUDSPÅR"
+cdaogg_MSG5="Ringfunktion:"
+
+# corta_wav
+
+corta_wav_MSG0="Antal sekunder:"
+corta_wav_MSG1="Ange sökvägen till ljudfilen som ska konverteras:"
+corta_wav_MSG2="Ange tiden i antal sekunder för vilken"
+corta_wav_MSG3="klippning av filen börjar."
+corta_wav_MSG4="-OBS-"
+corta_wav_MSG5="För att ange början av ljudet, ange 0"
+corta_wav_MSG6="Värde i sekunder för att starta konvertering:"
+corta_wav_MSG7="Ange tiden i antal sekunder för vilken"
+corta_wav_MSG8="klippning av filen kommer att slutföras."
+corta_wav_MSG9="Värde i sekunder för slutet av konverteringen:"
+corta_wav_MSG10="Kör"
+corta_wav_MSG11="Trimmad ljudfil"
+corta_wav_MSG12="Fel vid trimning av fil"
+corta_wav_MSG13="Ljudfil att trimma:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1="Ange sökvägen till .flac-filerna:"
+flacawav_MSG2="INVITANDE"
+flacawav_MSG3=" TILL .wav FORMAT"
+flacawav_MSG4="Sampling inställd på 44100 Mhz"
+flacawav_MSG5="Fel vid bearbetning av provtagning"
+flacawav_MSG6="Normalisera ljudfil"
+flacawav_MSG7="Fil"
+flacawav_MSG8="Normaliserad"
+flacawav_MSG9="Normaliseringsfel"
+flacawav_MSG10="Det gick inte att konvertera"
+flacawav_MSG11="Katalog hittades inte"
+flacawav_MSG12="SLUT PÅ LJUDOMVANDLING"
+
+# wavaflac
+
+wavaflac_MSG0="WAV-FILER SOM SKALL KONVERTERAS"
+wavaflac_MSG1="Ange sökvägen till .wav-filerna: "
+wavaflac_MSG2="INVÄLJANDE"
+wavaflac_MSG3="Ett .flac-FORMAT"
+wavaflac_MSG4="konverterad till flac-format"
+wavaflac_MSG5="Fel vid konvertering"
+wavaflac_MSG6="till .flac-format"
+wavaflac_MSG7="FLAC FILKATOLOG HITTER INTE"
+

@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Lao para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="ໄຟລ໌ໃນ /tmp"
+dir_tmp_MSG2="ລຶບຮູບທັງໝົດ ແລະໄຟລ໌ທີ່ຖືກບີບອັດ"
+dir_tmp_MSG3="ເປີດຕົວຈັດການໄຟລ໌ເພື່ອດຳເນີນການອື່ນໆ"
+dir_tmp_MSG4="ຕິດ ຫຼື ຖອນການເຊື່ອມຕໍ່ຮູບພາບ"
+dir_tmp_MSG5="ສະແດງເມນູການສ້າງຮູບພາບ"
+dir_tmp_MSG6="ສະແດງຕົວເລືອກການບັນທຶກພາບ"
+dir_tmp_MSG7="ເມນູກ່ອນໜ້ານີ້"
+dir_tmp_MSG8="ລາຍຊື່ໄຟລ໌ທີ່ມີຢູ່ແລ້ວໃນ"
+dir_tmp_MSG9="ເລືອກຕົວເລືອກ:"
+dir_tmp_MSG10="ລຶບຮູບພາບ ແລະໄຟລ໌"
+dir_tmp_MSG11="ຕິດຮູບ."
+dir_tmp_MSG12="ຖອນການເຊື່ອມຕໍ່ຮູບພາບ."
+dir_tmp_MSG13="ເຜົາຮູບໃສ່ CD"
+dir_tmp_MSG14="ເຜົາຮູບໃສ່ DVD"
+dir_tmp_MSG14B="ເຜົາຮູບເປັນ BD"
+dir_tmp_MSG15="ເລືອກຕົວເລືອກຕາມສື່ບັນທຶກ"
+dir_tmp_MSG16="ໄຟລ໌ດັ່ງກ່າວບໍ່ພົບໄຟລ໌ການຕັ້ງຄ່າ"
+dir_tmp_MSG17="ການຍົກເລີກຂະບວນການບັນທຶກ"
+dir_tmp_MSG18="ລະບຸໄຟລ໌ .iso ທີ່ຈະໄຫມ້"
+dir_tmp_MSG19="ໃສ່ເສັ້ນທາງຮູບພາບ: "
+

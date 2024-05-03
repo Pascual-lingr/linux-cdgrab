@@ -1,0 +1,246 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAfrikaans/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en Afrikáans para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="BEELD LêER STELSEL"
+imagen_linux_fs_MSG2="Kies die lêerstelsel: "
+# Se omite 'n por evitar errores de funcionamiento
+imagen_linux_fs_MSG3="Skep beeld vir n CD-R/RW (702 Mgrepe)"
+imagen_linux_fs_MSG4="Skep beeld vir n DVD+RW (4 Ggrepe)"
+imagen_linux_fs_MSG5="Skep beeld vir n DVD+RW/DL (8 Ggrepe)"
+imagen_linux_fs_MSG5B="Skep beeld vir n BD-R/RE (25 Gbytes)"
+imagen_linux_fs_MSG5C="Skep prentlêer met persoonlike grootte"
+imagen_linux_fs_MSG6="Skep leë lêer met kapasiteit vir 702 Mgrepe"
+imagen_linux_fs_MSG7="Skep leë lêer met kapasiteit vir 4 Ggrepe"
+imagen_linux_fs_MSG8="Skep leë lêer met kapasiteit vir 8 Gbyte"
+imagen_linux_fs_MSG8B="Skep leë lêer met kapasiteit vir 25 Gbyte"
+imagen_linux_fs_MSG8C="Skep leë lêer met persoonlike grootte"
+imagen_linux_fs_MSG9="FOUT: BEELDGROOTTE IS NIE BEKEND NIE. ABORTEER..."
+imagen_linux_fs_MSG10="Lop"
+imagen_linux_fs_MSG11="Die program sal die leë lêer formateer."
+# Se omite 'n por evitar errores de funcionamiento
+imagen_linux_fs_MSG12="Die stelsel sal jou waarsku dat die voorheen geskepde lêer nie n bloktoestel is nie en sal vra of jy dit wil formateer"
+imagen_linux_fs_MSG13="Antwoord ja"
+imagen_linux_fs_MSG13="SUKSESVOL GEFORMEER"
+imagen_linux_fs_MSG14=" Monteer prent . . ."
+imagen_linux_fs_MSG15="FOUT BY FORMATERING VAN LEË LêER"
+imagen_linux_fs_MSG16="Die program het die lêer geformateer in"
+imagen_linux_fs_MSG17="Linux-cdgrab sal die lêerbestuurder begin sodat dit kan werk op die prent waarop gemonteer is"
+imagen_linux_fs_MSG18="Sodra die lêers gekopieer is, ontkoppel die geformateerde lêer"
+imagen_linux_fs_MSG19="Die linux-prent is in hierdie gids"
+imagen_linux_fs_MSG19B="FOUT WANNEER DIE BEELD LÊER BEVESTIG WORD"
+imagen_linux_fs_MSG20="Lêers om by die prent in te sluit. Gemonteer in /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Begin tans die lêerbestuurder..."
+imagen_linux_fs_MSG22="KENNISGEWING:"
+imagen_linux_fs_MSG23="-------------"
+imagen_linux_fs_MSG24="Die beeld"
+imagen_linux_fs_MSG25="steeds gemonteer"
+imagen_linux_fs_MSG26="FOUT BY DIE SKEPPING VAN LEË LêER MET dd"
+imagen_linux_fs_MSG27="Gaan seker dat jy vrye spasie het op die partisie gemonteer by /"
+imagen_linux_fs_MSG34="LÊERSTELSEL OM LÊER TE FORMATEER"
+imagen_linux_fs_MSG35="GENERERING VAN LEË LÊER MET GEPASTE GROOTTE"
+imagen_linux_fs_MSG36="Spesifiseer die blokgrootte van die nuwe leë lêer (slegs numeriese waarde):"
+# Se omite 'n por evitar errores de funcionamiento
+imagen_linux_fs_MSG37="n Voorbeeld van waardes vir die blokgrootte is: 1024, 2048 (slegs Ext2) of 4096 (Alle formate)"
+imagen_linux_fs_MSG38="Spesifiseer die grootte van die leë lêer om te genereer (slegs n numeriese waarde):"
+imagen_linux_fs_MSG39="Spasie metings om die leë lêer te genereer:"
+imagen_linux_fs_MSG40="Spesifiseer die spasie meting om te gebruik: "
+imagen_linux_fs_MSG41="FOUT BY DIE GROOTTE METING SPESIFISEER"
+imagen_linux_fs_MSG42="Blokgrootte waarde:"
+imagen_linux_fs_MSG43="Hoeveelheid spasie vir leë lêer:"
+imagen_linux_fs_MSG44="Berekende waarde in grepe:"
+imagen_linux_fs_MSG45="Berekende waarde vir telling:"
+
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Aktiveer md5-lees wanneer .iso-beelde gegenereer word"
+comprobar_lectura_md5_MSG2="Deaktiveer md5-lesing wanneer .iso-beelde gegenereer word"
+comprobar_lectura_md5_MSG3="Vorige spyskaart"
+comprobar_lectura_md5_MSG4="Huidige opstelling:"
+comprobar_lectura_md5_MSG5="Geaktiveer"
+comprobar_lectura_md5_MSG6="Gedeaktiveer"
+comprobar_lectura_md5_MSG7="Lees md5-som geaktiveer"
+comprobar_lectura_md5_MSG8="Lees md5-som gedeaktiveer"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Die naam van die ISO-beeld kon nie gelees word nie"
+leer_md5sum_MSG2="Lees md5sum van"
+leer_md5sum_MSG3="Wys tans md5-som van die prent"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="SKEP tans CD-BEELD"
+extraer_isoCD_dd_MSG2="BEELD INGESKEEP"
+extraer_isoCD_dd_MSG3="Nie gevind nie"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="SKEP DVD-BEELD"
+extraer_isoDVD_dd_MSG2="loop"
+extraer_isoDVD_dd_MSG3="BEELD INGESKEEP"
+extraer_isoDVD_dd_MSG4="Nie gevind nie"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="loop"
+extraer_iso_readcd_MSG2="BEELD SUKSESVOL GESKEP"
+extraer_iso_readcd_MSG3="Beeld geskep in"
+extraer_iso_readcd_MSG4="Stap tans die opnameproses af..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Gemonteerde CD"
+extraer_iso_mkisofs_MSG2="Skep tans prent..."
+extraer_iso_mkisofs_MSG3="Macintosh-versoenbaarheid geaktiveer"
+extraer_iso_mkisofs_MSG4="Gebruik"
+extraer_iso_mkisofs_MSG5="hardloop"
+extraer_iso_mkisofs_MSG6="Beeld geskep in gids"
+extraer_iso_mkisofs_MSG7="Probeer die proses weer sonder Macintosh-ondersteuning"
+extraer_iso_mkisofs_MSG8="Beeld geskep in gids"
+extraer_iso_mkisofs_MSG9="mkisofs gee onbekende foute terug wanneer dit geskep word"
+extraer_iso_mkisofs_MSG10="van"
+extraer_iso_mkisofs_MSG11="Gaan data-integriteit na"
+extraer_iso_mkisofs_MSG12="Bevestiging"
+extraer_iso_mkisofs_MSG12B="af"
+extraer_iso_mkisofs_MSG13="genisoimage gee onbekende foute terug wanneer dit geskep word"
+extraer_iso_mkisofs_MSG13B="van"
+extraer_iso_mkisofs_MSG14="Mkisofs en genisoimage nie gevind nie. Installeer asseblief cdrtools of cdrkit."
+extraer_iso_mkisofs_MSG15="Kon nie gemonteer word nie"
+extraer_iso_mkisofs_MSG16="Beeld suksesvol geskep in"
+
+# m_comp_img
+
+m_comp_img_MSG1="BEELD SUKSESVOL GEGENEREER IN"
+m_comp_img_MSG2="WIL JY DIE BEELD LêER KOMPRESSEER?"
+# Se omite 'n por evitar errores de funcionamiento
+m_comp_img_MSG3="(s/y) om saam te pers; Die proses word gekanselleer met n ander opsie."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Begin tans die lêerbestuurder..."
+# Se omite 'n por evitar errores de funcionamiento
+generar_iso_directorio_MSG2="Voer n naam vir die toekomstige CD/DVD/BD in"
+generar_iso_directorio_MSG3="SKEP tans prent..."
+generar_iso_directorio_MSG4="Macintosh-versoenbaarheid geaktiveer"
+generar_iso_directorio_MSG5="Gebruik"
+generar_iso_directorio_MSG6="loop"
+generar_iso_directorio_MSG7="BEELD GESKEEP IN DIE GIDS"
+generar_iso_directorio_MSG8="DIE BEELD SKEPPINGSPROSES HET MISLUUK"
+generar_iso_directorio_MSG9="SKEP BEELD SONDER MACINTOSH VERENIGBAARHEID"
+generar_iso_directorio_MSG10="mkisofs en genisoimage word nie gevind nie. Installeer asseblief cdrtools of cdrkit."
+
+# generar_bdv_udf_directorio
+
+# Se omite 'n por evitar errores de funcionamiento
+generar_bdv_udf_directorio_MSG1="Voer n naam vir die toekomstige DVD/BD in"
+generar_bdv_udf_directorio_MSG2="Spesifiseer die gids om die videobeeld te genereer:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Spesifiseer skyfetiket:"
+generar_iso_directorio_libburnia_MSG2="Spesifiseer die gids om die iso-9660 beeld te genereer:"
+generar_iso_directorio_libburnia_MSG3="ISO9660-prent suksesvol geskep!!"
+generar_iso_directorio_libburnia_MSG4="Fout met die generering van iso-9660-prent met xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="Lêers en gidse om in die .iso-beeld in te sluit"
+# Se omite 'N por evitar errores de funcionamiento
+imagenISO_MSG2="KIES N OPSIE"
+imagenISO_MSG2B="-------------"
+imagenISO_MSG3="Genereer ISO-9660 beeld vanaf CD (gebruik dd)"
+imagenISO_MSG4="Genereer ISO-9660 beeld vanaf DVD (gebruik dd)"
+imagenISO_MSG5="Genereer ISO-9660 beeld vanaf CD (gebruik readcd)"
+imagenISO_MSG6="Genereer ISO-9660 beeld vanaf CD of DVD skyf (gebruik mkisofs)"
+imagenISO_MSG7="Skep ISO-9660 beeld vanaf hardeskyf data (gebruik mkisofs)"
+imagenISO_MSG8="Vorige spyskaart"
+imagenISO_MSG9="SKEP BEELD"
+imagenISO_MSG10="Skep ISO-9660 beeld vanaf hardeskyfdata (gebruik xorriso)"
+# Se omite 'n por evitar errores de funcionamiento
+imagenISO_MSG11="Skep iso/udf beeld vanaf n CD/DVD/BD (gebruik mkisofs)"
+imagenISO_MSG12="Skep iso/udf-beeld vanaf hardeskyfdata (gebruik mkisofs)"
+imagenISO_MSG13="ISO-9660 FORMATER-SPYSKAART"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Skep UDF/ISO-beeld vanaf hardeskyfdata (gebruik mkisofs)"
+imagenISO_MSG15="Skep UDF/ISO-beeld met DVD-video-ondersteuning (gebruik mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Tik die bronbloktoestel waaruit die prent gemaak moet word"
+imagen_img_MSG2="----------------------------------------------------------"
+imagen_img_MSG3="Toestelle geregistreer in /etc/fstab en /etc/mtab"
+imagen_img_MSG4="Monteer opdrag uitvoer:"
+imagen_img_MSG5="Voer die toestelnaam in: "
+imagen_img_MSG6="Skep tans .img beeld van die blok toestel"
+imagen_img_MSG7="hardloop"
+imagen_img_MSG8="TOESTELBEELD INGESKEEP"
+
+# monta_img
+
+monta_img_MSG1="ISO of ext2 beeld om te monteer."
+monta_img_MSG2="Tik die gidspad waar die prent geleë is wat gemonteer moet word:"
+monta_img_MSG3="GEMONTEERDE CD-BEELD:"
+monta_img_MSG4="FOUT BY DIE BEELD LÊER MONTEER"
+monta_img_MSG5="NIE GEVIND NIE"
+monta_img_MSG6="MONTINGSPUNT BESTAAN NIE"
+monta_img_MSG7="ONVERWAGTE FOUT"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO of ext2 beeld om af te laai."
+desmonta_img_MSG2="UITGEMAAKELDE BEELD"
+desmonta_img_MSG3="Geen gemonteerde prent gevind nie"
+desmonta_img_MSG4="Bevestig afvoer:"
+# Se omite 'n por evitar errores de funcionamiento
+desmonta_img_MSG5="Jy kan die absolute gidspad van n prent direk spesifiseer."
+desmonta_img_MSG6="Soos /tmp/lcdgrabimg.iso of die monteergids vir die prent soos /mnt/lcdgrab"
+desmonta_img_MSG7="Indien nie gespesifiseer nie, kan dit deursoek word deur die lêerbestuurder te gebruik"
+desmonta_img_MSG8="Begin lêerbestuurder"
+desmonta_img_MSG9="Spesifiseer die prentpad."
+desmonta_img_MSG10="UITGEMAAKELDE BEELD"
+desmonta_img_MSG11="FOUT WANNEER DIE AFBEELDING DEMONTEER"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg-prent om na .iso om te skakel"
+nrg_a_iso_MSG2="Voer die pad in van die .nrg (Nero Burning ROM) prent om te omskep"
+nrg_a_iso_MSG3="Stel tans prent om..."
+nrg_a_iso_MSG4="Die pad van die bron .nrg beeld"
+# Se omite 'n por evitar errores de funcionamiento
+nrg_a_iso_MSG5="bestaan ​​nie of stem ooreen met n gids"
+nrg_a_iso_MSG6="Ongeldige pad."
+# Se omite 'n por evitar errores de funcionamiento
+nrg_a_iso_MSG7="dit is reeds n vorige ISO-9660 beeld, dit sal nie omgeskakel word nie."
+nrg_a_iso_MSG8="Kopieer tans met ander uitbreiding..."
+nrg_a_iso_MSG9="KOPIE VOLTOOI"
+nrg_a_iso_MSG10="hardloop"
+nrg_a_iso_MSG11="Beeld suksesvol omgeskakel"
+nrg_a_iso_MSG12="FOUT BY DIE SKEPPING VAN BEELD .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Genereer .cue beskrywing lêer vanaf .bin beeld"
+GenerarArchivocue_MSG2="Huidige aktiewe gids"
+GenerarArchivocue_MSG3="Skryf slegs die gidspad waar"
+GenerarArchivocue_MSG4="vind die prentlêer:"
+GenerarArchivocue_MSG5="Voer die naam van die .bin-prent in waarna"
+GenerarArchivocue_MSG6="het sy ooreenstemmende .cue-lêer gegenereer"
+GenerarArchivocue_MSG7="BESKRYWING LÊER .cue SUKSESVOL GEGENEREER"
+GenerarArchivocue_MSG8="FOUT WANNEER BESKRYWINGSLÊER .cue GEgenereer word"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="loop"
+ImagenbincueCDDVD_MSG2=".BIN .CUE SKYFBEELD SUKSESVOL GEGENEREER"
+

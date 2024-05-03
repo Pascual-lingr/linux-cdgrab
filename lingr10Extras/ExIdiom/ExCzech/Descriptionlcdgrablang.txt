@@ -1,0 +1,22 @@
+Czech.
+Experimental.
+
+Traducción al Checo.
+Contiene errores de significado en contexto o traducción propia.
+Por estudio del comportamiento de caracteres Checos en el shell.
+El shell debe tener soporte para ciertos caracteres checos, de 
+lo contrario partes de este idioma no serán funcionales en el shell.
+Generado con Google Translate.
+
+Translation into Czech.
+Contains meaning errors in context or own translation.
+By study of the behavior of Czech characters in the shell.
+The shell must have support for certain Czech characters, so
+Otherwise parts of this language will not be functional in the shell.
+Generated with Google Translate.
+
+Český jazyk pro linux-cdgrab.
+Experimentální, generované pomocí Google Translate
+
+Pascual Martínez Cruz; pascual@hotmail.com
+

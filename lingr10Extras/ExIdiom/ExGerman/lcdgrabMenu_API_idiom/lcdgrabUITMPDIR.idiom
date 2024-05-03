@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGerman/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Alemán para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con google translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Dateien in /tmp"
+dir_tmp_MSG2="Löschen Sie alle Bilder und komprimierten Dateien"
+dir_tmp_MSG3="Starten Sie den Dateimanager für andere Vorgänge"
+dir_tmp_MSG4="Mounten oder Unmounten eines Images"
+dir_tmp_MSG5="Zeigt das Bilderstellungsmenü an"
+dir_tmp_MSG6="Bildaufnahmeoptionen anzeigen"
+dir_tmp_MSG7="vorheriges Menü"
+dir_tmp_MSG8="LISTE DER VORHANDENEN DATEIEN IN"
+dir_tmp_MSG9="WÄHLE EINE OPTION:"
+dir_tmp_MSG10="GELÖSCHTE BILDER UND DATEIEN"
+dir_tmp_MSG11="Bild einbinden."
+dir_tmp_MSG12="Bild abmontieren."
+dir_tmp_MSG13="Image auf CD brennen"
+dir_tmp_MSG14="Bild auf DVD brennen"
+dir_tmp_MSG14B="Bild auf BD brennen"
+dir_tmp_MSG15="Wählen Sie die Option entsprechend der Aufnahmeunterstützung"
+dir_tmp_MSG16="DIE KONFIGURATIONSDATEI KANN NICHT GEFUNDEN WERDEN"
+dir_tmp_MSG17="Abbruch des Aufnahmevorgangs"
+dir_tmp_MSG18="Geben Sie die zu brennende ISO-Datei an"
+dir_tmp_MSG19="Schreiben Sie den Pfad des Bildes: "
+

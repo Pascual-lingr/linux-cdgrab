@@ -1,0 +1,283 @@
+#########################################################
+# lcdgrabAPI_idiom/ExChinese/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en chino simplificado para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="linux-cdgrab 配置"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="如果您不知道属于哪个 IDE 通道" 
+ayuda_IDE_MSG2="您的录音机可以通过按字母 t 来查找。"
+ayuda_IDE_MSG3="IDE 通道的示例可以是 0,0,0 或 0,1,0"
+ayuda_IDE_MSG4="也可以指定对应的设备"
+ayuda_IDE_MSG5="到您的录音机。如果您不确定它是哪一个，请按 d，"
+ayuda_IDE_MSG6="在 /etc/fstab 文件中查看已注册的设备"
+ayuda_IDE_MSG7="设备的示例可以是 /dev/hdd、/dev/hde 等。"
+ayuda_IDE_MSG8="如果您愿意，还可以列出包含的所有设备"
+ayuda_IDE_MSG9="在 /dev 目录中按字母 l。"
+ayuda_IDE_MSG10="必须指定IDE通道或录音设备"
+ayuda_IDE_MSG11="但不是两者。"
+
+# desinstalar
+
+desinstalar_MSG1="Linux - cdgrab 已从您的系统中卸载"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="录音速度"
+imprimir_variables_MSG2="IDE/SCSI 通道或记录设备"
+imprimir_variables_MSG3="CD-ROM、DVD-ROM 或 BD-ROM 驱动器"
+imprimir_variables_MSG4="ATAPI设备"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="录音速度"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI 通道或记录设备"
+imprimir_lcdgrabcfg_MSG3="CD-ROM、DVD-ROM 或 BD-ROM 驱动器"
+imprimir_lcdgrabcfg_MSG4="ATAPI设备"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="安装"
+chequeo_de_aplicaciones_MSG2="未安装"
+chequeo_de_aplicaciones_MSG3="安装"
+chequeo_de_aplicaciones_MSG4="重要的："
+chequeo_de_aplicaciones_MSG5="安装必要的工具 Linux-cdgrab 将完全运行"
+chequeo_de_aplicaciones_MSG6="linux-cdgrab 需要的所有程序都已安装在您的系统上。"
+chequeo_de_aplicaciones_MSG4B="警告："
+chequeo_de_aplicaciones_MSG5B="找到丢失的工具"
+chequeo_de_aplicaciones_MSG6B="系统安装的工具"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 默认分配给这个变量"
+msgdefCANALATAPI_MSG2="配置文件将写入 CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Linux-cdgrab 自动生成的配置文件"
+nuevo_lcdgrabcfg_MSG5="在系统中找不到 cdrecord"
+nuevo_lcdgrabcfg_MSG6="安装 cdrtools 包。"
+nuevo_lcdgrabcfg_MSG7="您可以通过指定值继续配置"
+nuevo_lcdgrabcfg_MSG8="如果您以前认识他们，请录音。"
+nuevo_lcdgrabcfg_MSG9="cdrecord 命令用于刻录 CD, DVD 和 BD。"
+nuevo_lcdgrabcfg_MSG10="在安装所述软件包之前，这些选项将不起作用。"
+nuevo_lcdgrabcfg_MSG11="单元扫描工具也将无法使用，目前"
+nuevo_lcdgrabcfg_MSG12="在此设置向导中。"
+nuevo_lcdgrabcfg_MSG13="linux-cdgrab需要通过以下四步进行配置"
+nuevo_lcdgrabcfg_MSG14="第一步。"
+nuevo_lcdgrabcfg_MSG15="录音速度："
+nuevo_lcdgrabcfg_MSG16="只有数字 2,4,8,16,32...等"
+nuevo_lcdgrabcfg_MSG17="第二步。"
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI 通道或录音设备："
+nuevo_lcdgrabcfg_MSG19="A -> 援助"
+nuevo_lcdgrabcfg_MSG20="扫描 ..."
+nuevo_lcdgrabcfg_MSG21="未能扫描 IDE/SCSI 端口"
+nuevo_lcdgrabcfg_MSG22="找不到光盘记录"
+nuevo_lcdgrabcfg_MSG23="第三步。"
+nuevo_lcdgrabcfg_MSG24="CD-ROM、DVD-ROM 或 BD-ROM 驱动器"
+nuevo_lcdgrabcfg_MSG25="L -> 列出可用设备"
+nuevo_lcdgrabcfg_MSG26="扫描 ..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI端口扫描"
+nuevo_lcdgrabcfg_MSG28="cdrecord 在多会话记录中通过 dev=ATAPI 使用的设备"
+nuevo_lcdgrabcfg_MSG30="该设备具有类似 0,0,0 或 1,0,0 等的命名法"
+nuevo_lcdgrabcfg_MSG31="指定在多区段 CD 上调用 cdrecord 的设备："
+nuevo_lcdgrabcfg_MSG32="CANALATAPI 的配置不正确"
+nuevo_lcdgrabcfg_MSG33="未能扫描 IDE/SCSI 端口"
+nuevo_lcdgrabcfg_MSG34="找不到光盘记录"
+nuevo_lcdgrabcfg_MSG36="Linux-cdgrab 自动生成的配置文件。"
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB 配置完成"
+
+# colores
+
+colores_MSG1="未找到颜色列表"
+colores_MSG2="加载默认颜色"
+colores_MSG3="为 LINUX-CDGRAB 界面选择新的配色方案"
+colores_MSG4="黑色字体"
+colores_MSG5="标准光面字体"
+colores_MSG6="背景颜色 黑色"
+colores_MSG7="红源"
+colores_MSG8="有光泽的黑色字体"
+colores_MSG9="背景颜色 红色"
+colores_MSG10="绿色资源"
+colores_MSG11="红色光面字体"
+colores_MSG12="绿色背景色"
+colores_MSG13="黄源"
+colores_MSG14="绿色光面字体"
+colores_MSG15="背景颜色橙色"
+colores_MSG16="蓝色字体"
+colores_MSG17="亮黄色字体"
+colores_MSG18="背景颜色 蓝色"
+colores_MSG19="洋红色字体"
+colores_MSG20="蓝色光泽字体"
+colores_MSG21="洋红色背景色"
+colores_MSG22="青色字体"
+colores_MSG23="有光泽的洋红色字体"
+colores_MSG24="青色背景色"
+colores_MSG25="灰源"
+colores_MSG26="青色背景色"
+colores_MSG27="青色光面字体"
+colores_MSG28="背景颜色 灰色"
+colores_MSG29="源默认"
+colores_MSG30="白色光泽字体"
+colores_MSG31="默认背景颜色"
+colores_MSG32="字体颜色编号： "
+colores_MSG33="背景色号： "
+colores_MSG34="警告信息的色号： "
+colores_MSG35="标签信息的颜色编号： "
+colores_MSG36="流程成功完成的颜色编号："
+colores_MSG37="因错误而终止的进程的颜色编号： "
+colores_MSG38="LINUX-CDGRAB 的新方案"
+colores_MSG39="整体源色彩"
+colores_MSG40="标签"
+colores_MSG41="注意事项"
+colores_MSG42="成功"
+colores_MSG43="错误"
+colores_MSG44="背景颜色"
+
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="可用颜色列表："
+cambiar_esquema_de_color_MSG2="#####配色方案#######"
+cambiar_esquema_de_color_MSG3="-------------------"
+cambiar_esquema_de_color_MSG4="颜色菜单"
+cambiar_esquema_de_color_MSG5="失败的"
+cambiar_esquema_de_color_MSG6="标签"
+cambiar_esquema_de_color_MSG6b="注意事项"
+cambiar_esquema_de_color_MSG7="颜色菜单成功失败通知标签"
+cambiar_esquema_de_color_MSG8="输入新颜色的编号："
+cambiar_esquema_de_color_MSG9="无效选项"
+cambiar_esquema_de_color_MSG10="设置默认颜色。"
+cambiar_esquema_de_color_MSG11="  背景 = 蓝色背景"
+cambiar_esquema_de_color_MSG12="  字体 = 亮白"
+cambiar_esquema_de_color_MSG13="  通知 = 亮黄色"
+cambiar_esquema_de_color_MSG14="  虫子 = 亮红色"
+cambiar_esquema_de_color_MSG15="  虫子 = 亮红色"
+cambiar_esquema_de_color_MSG16="  命中率 = 亮绿色"
+cambiar_esquema_de_color_MSG17="  标签 = 有光泽的青色"
+
+# cambia_lector
+
+cambia_lector_MSG1="光学单元的环境配置"
+cambia_lector_MSG2="当前与 CD-ROM, DVD-ROM 或 BD-ROM 关联的设备"
+cambia_lector_MSG3="与 CD/DVD/BD 刻录机关联的当前设备"
+cambia_lector_MSG4="与参数 dev=ATAPI 关联的当前设备"
+cambia_lector_MSG5="（对 cdrecord 的多会话支持）"
+cambia_lector_MSG6="选择要进行更改的设备。"
+cambia_lector_MSG7="输入选项："
+cambia_lector_MSG8="输入新设备的名称"
+cambia_lector_MSG9="不对应块设备"
+cambia_lector_MSG10="设备"
+cambia_lector_MSG11="默认分配"
+cambia_lector_MSG12="新设备是："
+cambia_lector_MSG13="并非所有版本的 cdrecord 都接受块设备作为记录参数。"
+cambia_lector_MSG14="输入新 ATAPI 设备的名称"
+cambia_lector_MSG15="CANALATAPI 的配置不正确"
+cambia_lector_MSG16="0,0,0 默认分配给这个变量"
+cambia_lector_MSG17="配置文件将写入 CANALATAPI = 0,0,0"
+cambia_lector_MSG18="新设备是："
+cambia_lector_MSG19="没有对设备进行任何更改"
+cambia_lector_MSG4B="从配置文件导出值"
+cambia_lector_MSG4C="这些值已报告给环境："
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="从此菜单中，您可以选择哪个实用程序"
+cambia_generador_isocd_MSG2="将用于生成 ISO-9660 图像"
+cambia_generador_isocd_MSG3="来自阅读器单元中现有的 CDS。"
+cambia_generador_isocd_MSG4="当前配置："
+cambia_generador_isocd_MSG5="使用 dd（GNU coreutils 组件）"
+cambia_generador_isocd_MSG6="使用 readcd（cdrtools 的组件）"
+cambia_generador_isocd_MSG7="上一个菜单"
+cambia_generador_isocd_MSG8="选择一个选项："
+cambia_generador_isocd_MSG9="使用 dd 作为 iso 生成器。"
+cambia_generador_isocd_MSG10="使用 readcd 作为 iso 生成器。"
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="与 Rock Ridge 和 Joliet 一起设置 HFS 元数据"
+establecer_hfs_iso_MSG2="仅使用 Rock Ridge 和 Joliet 元数据"
+establecer_hfs_iso_MSG3="上一个菜单"
+establecer_hfs_iso_MSG4="选择一个选项："
+establecer_hfs_iso_MSG5="使用 HFS、Rock Ridge 和 Joliet 元数据"
+establecer_hfs_iso_MSG6="使用 Rock Ridge 和 Joliet 元数据"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="当前通知系统"
+cambia_notificaciones_MSG2A="GNOME 图形界面"
+cambia_notificaciones_MSG2B="KDE 图形界面"
+cambia_notificaciones_MSG2="与 ncurses 的接口"
+cambia_notificaciones_MSG3="文本界面"
+cambia_notificaciones_MSG4="出去"
+cambia_notificaciones_MSG5="选择一个选项："
+cambia_notificaciones_MSG6="使用带对话框的界面"
+cambia_notidicaciones_MSG6B="将界面与 zenity 结合使用"
+cambia_notificaciones_MSG6C="使用 kdialog 界面"
+cambia_notificaciones_MSG7="找不到对话框命令"
+cambia_notificaciones_MSG8="使用文本界面"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="使用的语言"
+cambiar_idioma_UI_MSG1="当前可用的语言："
+cambiar_idioma_UI_MSG2="写下将要使用的语言名称"
+cambiar_idioma_UI_MSG3="在应用程序界面中："
+cambiar_idioma_UI_MSG4="使用的新语言是："
+cambiar_idioma_UI_MSG5="重启LINUX-CDGRAB"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="当前配置"
+seleccion_gestor_archivos_MSG2="使用 mc"
+seleccion_gestor_archivos_MSG3="使用集成文本管理器"
+seleccion_gestor_archivos_MSG4="找不到系统中安装的mc"
+seleccion_gestor_archivos_MSG5="默认使用内置文本管理器"
+seleccion_gestor_archivos_MSG6="mc 实用程序"
+seleccion_gestor_archivos_MSG7="集成文本"
+
+# centro_de_control
+
+centro_de_control_MSG1="控制中心"
+centro_de_control_MSG2="新配置"
+centro_de_control_MSG3="删除配置文件"
+centro_de_control_MSG4="显示文件和当前配置值"
+centro_de_control_MSG5="配置文件值："
+centro_de_control_MSG5B="环境中使用的当前配置："
+centro_de_control_MSG6="更改光学介质"
+centro_de_control_MSG7="检查安装的程序"
+centro_de_control_MSG8="使用 cdrecord 扫描 IDE/SCSI 端口"
+centro_de_control_MSG8C="使用 cdrskin 扫描 IDE/SCSI 端口"
+centro_de_control_MSG8B="使用 cdrskin 列出系统上安装的驱动器"
+centro_de_control_MSG9="从 CD 更改 iso 生成器实用程序"
+centro_de_control_MSG9B="为 iso-9660 设置 HFS 元数据"
+centro_de_control_MSG10="更改用户界面"
+centro_de_control_MSG10b="换颜色"
+centro_de_control_MSG10c="更改界面语言"
+centro_de_control_MSG11="更改文件管理器"
+centro_de_control_MSG11B="卸载程序"
+centro_de_control_MSG12="输入一个选项 "
+centro_de_control_MSG13="配置文件不存在"
+centro_de_control_MSG14="找不到配置文件"
+centro_de_control_MSG15="扫描"
+centro_de_control_MSG16="IDE/SCSI端口扫描"
+centro_de_control_MSG17="未能扫描 IDE/SCSI 端口"
+centro_de_control_MSG18="选择配色方案"
+centro_de_control_MSG19="任意选择颜色"
+centro_de_control_MSG20="上一个菜单"
+centro_de_control_MSG21="输入一个选项： "
+centro_de_control_MSG22="配置文件不存在"
+centro_de_control_MSG23="找不到配置文件"
+centro_de_control_MSG24="选择配色方案"
+centro_de_control_MSG25="任意选择颜色"
+centro_de_control_MSG26="无效选项"
+

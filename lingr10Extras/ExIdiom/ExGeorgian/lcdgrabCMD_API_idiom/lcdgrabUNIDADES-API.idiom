@@ -1,0 +1,71 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en georgiano para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1=".img ან .ext2 გამოსახულების გზა დისკზე გადასატანად."
+volcar_imagen_MSG2="-----------------------მნიშვნელოვანი----------------------------" 
+volcar_imagen_MSG3="+ ეს პარამეტრი არ მუშაობს ოპტიკურ დისკებზე."
+volcar_imagen_MSG4="+ გამოყენება pendrives-ზე, ფლოპი დისკებზე, დისკის დანაყოფებზე და ა.შ. "
+volcar_imagen_MSG5="+ განხილვა მყარ დისკებთან დაკავშირებით:"
+volcar_imagen_MSG6="+ სურათი თავიდანვე იწერება dd-ით"
+volcar_imagen_MSG7=" მითითებული დისკიდან, ნომრის გამოყენება დაუშვებელია"
+volcar_imagen_MSG8="სპეციფიკური სექტორი წერის პროცესის დასაწყებად"
+volcar_imagen_MSG9="+ გამოიყენეთ სიფრთხილით. გამოიყენეთ საკუთარი რისკის ქვეშ."
+volcar_imagen_MSG10="+ დისკის დანაყოფები შეიძლება გამოუსადეგარი გახდეს."
+volcar_imagen_MSG11="+ არ არის რეკომენდებული მისი გამოყენება მრავალ დანაყოფი სისტემებზე."
+volcar_imagen_MSG12="აღდგენა შეიძლება დატოვოს დანაყოფის ცხრილი და"
+volcar_imagen_MSG13="თვითონ უსარგებლო ტიხრები."
+volcar_imagen_MSG14="---------------------------------------------------------------"
+volcar_imagen_MSG15="დააჭირეთ C ღილაკს გასაგრძელებლად; (პროცესი გაუქმდება სხვა ვარიანტში)"
+volcar_imagen_MSG16="მიუთითეთ გამოსახულების ფაილის გზა დისკზე გადასატანად: "
+volcar_imagen_MSG17="დაამონტაჟეთ ბრძანების გამომავალი:"
+volcar_imagen_MSG18="მიუთითეთ ბლოკის მოწყობილობა, სადაც გამოსახულება უნდა იყოს გადაყრილი:"
+volcar_imagen_MSG19="სურათის გადაყრა"
+volcar_imagen_MSG20="მოწყობილობაზე"
+volcar_imagen_MSG21="გაშვებულია"
+volcar_imagen_MSG22="სურათის გადაყრის პროცესი დასრულებულია"
+
+# volcar_iso
+
+volcar_iso_MSG1="მიუთითეთ ბლოკის მოწყობილობა, რომ დაწეროთ iso სურათი:"
+volcar_iso_MSG2="გაფრთხილება"
+volcar_iso_MSG2B="-----------"
+volcar_iso_MSG3="მიუთითეთ დაბლოკვის მოწყობილობა, რომლითაც ჩაწერეთ."
+volcar_iso_MSG4="მაგალითები: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="არ მიუთითოთ ამ მოწყობილობის კუთვნილი დანაყოფი"
+volcar_iso_MSG6="მაგალითები: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="მიუთითეთ iso-9660 სურათი ან img დასაწერად:"
+volcar_iso_MSG9="პროცესი დასრულებულია"
+volcar_iso_MSG10="შეცდომა iso ჩაწერის პროცესში"
+volcar_iso_MSG11="მიუთითეთ ბლოკის ზომა სურათის დასაწერად"
+volcar_iso_MSG12="აირჩიეთ ვარიანტი ოპერაციული სისტემის მიხედვით ჩასაწერად:"
+volcar_iso_MSG13="ISO-9660 ან ჩამტვირთავი IMG გამოსახულება მოწყობილობაზე გასანათებლად:"
+volcar_iso_MSG14="გამოსვლა"
+# Resultado del traductor
+volcar_iso_MSG15="ISO-9660 ან IMG IMAGE ფაილი"
+volcar_ISO_MSG16="აირჩიეთ ოპერაციული სისტემა ერთეულში გადასატანად"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="აირჩიეთ ფაილური სისტემა"
+Formateador_linuxfs_MSG2="მოწყობილობა დაფორმატდება:"
+Formateador_linuxfs_MSG3="მიუთითეთ ბლოკის მოწყობილობა ფორმატირებისთვის: "
+Formateador_linuxfs_MSG5="პროცესი დასრულებულია"
+Formateador_linuxfs_MSG6="დისკის ფორმატი"
+Formateador_linuxfs_MSG7="მოცულობის ლეიბლის დაყენება"
+Formateador_linuxfs_MSG10="მიუთითეთ ტომის ლეიბლის სახელი"
+Formateador_linuxfs_MSG11="ახალი მოცულობის ლეიბლი"
+Formateador_linuxfs_MSG12="მიუთითეთ ბლოკის ზომა"
+Formateador_linuxfs_MSG13="ბლოკის ახალი ზომა"
+Formateador_linuxfs_MSG14="წინა მენიუ"
+

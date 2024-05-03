@@ -1,0 +1,184 @@
+#########################################################
+# lcdgrabAPI_idiom/ExCzech/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Checo para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="běh"
+copia_bin_MSG2="--------------OPAKOVÁNÍ ZÁZNAMU---------------"
+copia_bin_MSG3="	ODSTRANĚNÍ OBRÁZKOVÉHO SOUBORU"
+copia_bin_MSG4="V NAHRÁVÁNÍ SE VYSTALA CHYBA"
+copia_bin_MSG5="Soubor výpisu obrazu disku .iso nelze nalézt. Rušení nahrávání..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="běh"
+datos_al_vuelo_MSG2="Chyba při pokusu o záznam, opakování pokusu bez podpory přepalování"
+datos_al_vuelo_MSG3="Zkontrolujte, zda je zdrojový disk nebo zařízení"
+datos_al_vuelo_MSG4="je v dobrém stavu"
+datos_al_vuelo_MSG5="Získání čísla úvodního bloku ze zdrojového disku"
+datos_al_vuelo_MSG6="KOPÍROVÁNÍ DISKU..."
+
+# clonar_cd
+
+clonar_cd_MSG1="běh"
+clonar_cd_MSG2="CD ÚSPĚŠNĚ KLONOVÁNO"
+clonar_cd_MSG3="PŘI KLONOVÁNÍ CD SE VYSTALA CHYBA"
+
+# datos
+
+datos_MSG1="Soubory a adresáře pro vytvoření obrazu .iso"
+datos_MSG2="ŠTÍTEK CD/DVD/BD"
+datos_MSG3="Zadejte název budoucího CD/DVD/BD:"
+datos_MSG4="Spouštím správce souborů:"
+datos_MSG5=" VYTVÁŘENÍ OBRÁZKU ..."
+datos_MSG6="běh"
+datos_MSG7="OBRÁZEK ​​ISO-9660 VYTVOŘEN V"
+datos_MSG8="VYPALOVÁNÍ CD/DVD/BD"
+datos_MSG9="PROCES VYTVÁŘENÍ OBRÁZKOVÉHO SOUBORU SE NEZDAŘIL"
+datos_MSG10="OPAKOVANÝ POKUS O VYTVOŘENÍ NOVÉHO BEZ PODPORY HFS (Macintosh)"
+datos_MSG11="MAZÁNÍ OBRÁZKU ..."
+datos_MSG12="VYTVÁŘENÍ NOVÉHO OBRÁZKU ..."
+datos_MSG13="NEPODALO SE SPRÁVNĚ ZÁZNAMOVAT"
+datos_MSG14="------------OPAKOVÁNÍ ZÁZNAMU-----------"
+datos_MSG15="VYMAZAT OBRÁZEK..."
+datos_MSG16="VYPALOVÁNÍ DATOVÝCH CD/DVD/BD ISO-9660..."
+datos_MSG17="Nenalezeno."
+datos_MSG18="Přerušení nahrávání na disk..."
+
+# datoslb
+
+datoslb_MSG1="Chyba: Soubor s obrázkem nelze nalézt. Ruší se..."
+datoslb_MSG2="PROCES ZÁZNAMU OK"
+datoslb_MSG3="CHYBA V PROCESU ZÁZNAMU"
+
+# borra
+
+borra_MSG0="Předchozí nabídka"
+borra_MSG1="Vyberte režim pro vymazání CD-RW"
+borra_MSG2="--------------------------------"
+borra_MSG3="Rychlé smazání (použijte cdrecord)"
+borra_MSG4="Úplné smazání (použijte cdrecord)"
+borra_MSG5="Vyžadováno smazání (použijte cdrskin)"
+borra_MSG6="běh"
+borra_MSG7="Potřebné formátování nebo smazání je použito v závislosti na stavu disku"
+borra_MSG8="CD-RW SMAŽENO ÚSPĚŠNĚ!!"
+borra_MSG9="CHYBA PŘI ODSTRAŇOVÁNÍ CD-RW"
+borra_MSG10="NUCENÉ VYMAZÁNÍ CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="CHYBA PŘI POKUSU VYMAZAT CD-RW"
+err_borra_cdrw_MSG2="CD-RW NEPOUŽITELNÉ"
+err_borra_cdrw_MSG3="TENTO CD-RW NENÍ MOŽNÉ VYMAZAT"
+err_borra_cdrw_MSG4="ZKONTROLUJTE FYZICKÉ POŠKOZENÍ CD-RW"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="běh"
+cerrar_cd_MSG2="CD BYLO SPRÁVNĚ UZAVŘENO"
+cerrar_cd_MSG3="CHYBA PŘI ZAVÍRÁNÍ CD"
+cerrar_cd_MSG4="UZAVÍRÁNÍ SKLADBY NA DATOVÉM CD ..."
+
+# grabimg
+
+grabimg_MSG1="image .iso nebo .ext2 k vypálení na CD/DVD"
+grabimg_MSG2="Spouštím správce souborů."
+grabimg_MSG3="Zadejte úplnou cestu, kde se nachází obraz CD/DVD, který chcete vypálit:"
+grabimg_MSG4="běh"
+grabimg_MSG5="-----------OPAKOVÁNÍ ZÁZNAMU-----------"
+grabimg_MSG6="ZÁZNAM DOKONČENO!!"
+grabimg_MSG7="OBRÁZEK ​​.EXT2 ÚSPĚŠNĚ NAHRAZEN"
+
+# grabimglb
+
+grabimglb_MSG1="Zadejte úplnou cestu, kde se nachází obraz CD/DVD, který chcete vypálit:"
+grabimglb_MSG2="Vypaluji obraz na disk..."
+grabimglb_MSG3="ISO-9660 OBRÁZEK ​​ÚSPĚŠNĚ ZAZNAMEN"
+grabimglb_MSG4="CHYBA PŘI ZÁZNAMU OBRÁZKU ISO-9660"
+grabimglb_MSG5="Chyba: Soubor obrázku nebyl nalezen. Přerušuji..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1="Soubory .bin a .cue pro záznam obrázku"
+grabimg_cue_MSG2="Chcete-li zaznamenat obraz koše/cue, oba soubory musí"
+grabimg_cue_MSG3="být v aktivním adresáři."
+grabimg_cue_MSG4="Aktuální aktivní adresář"
+grabimg_cue_MSG5="Zadejte název souboru *.cue, který odkazuje na soubor obrázku *.bin"
+grabimg_cue_MSG6=".cue soubor: "
+grabimg_cue_MSG7="běh"
+grabimg_cue_MSG8="ZÁZNAM DOKONČENO!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Vypálit multisession CD z obrazu .iso"
+cd_multi_MSG2="Vypálit první relaci na CD z obrazu .iso"
+cd_multi_MSG3="Vypálit Multisession CD ze souborů na disku"
+cd_multi_MSG4="Nahrávání po sobě jdoucích relací na CD ze souborů na pevném disku"
+cd_multi_MSG5="Tato možnost vyžaduje CD s více sekcemi s dříve nahranou relací."
+cd_multi_MSG6="Předchozí nabídka"
+cd_multi_MSG7=".iso obraz k vypálení na CD-Multi-session"
+cd_multi_MSG8="Určete cestu k obrazu .iso"
+cd_multi_MSG9="běh"
+cd_multi_MSG10="MULTI-SESSION CD ÚSPĚŠNĚ NAHRAZENO!!"
+cd_multi_MSG11="Adresáře k zahrnutí do obrázku."
+cd_multi_MSG12="Uveďte níže, které adresáře chcete zahrnout"
+cd_multi_MSG13="Zadejte název štítku CD:"
+cd_multi_MSG14="VYTVÁŘENÍ OBRÁZKU..."
+cd_multi_MSG15="ÚSPĚŠNĚ VYTVOŘENO"
+cd_multi_MSG16="CHYBA PŘI VYTVÁŘENÍ OBRÁZKU. PŘERUŠENÍ PROCESU ZÁZNAMU..."
+cd_multi_MSG17="VYPALOVÁNÍ OBRAZU CD..."
+cd_multi_MSG18="CD MULTI-SESSION MENU"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="RIPOVÁNÍ AUDIO CD..."
+copia_cd_audio_MSG2="Spuštěno"
+copia_cd_audio_MSG3="AUDIO SKLADBY ÚSPĚŠNĚ ZPRACOVANÉ!!"
+copia_cd_audio_MSG4="CHYBA PŘI ripování ZVUKOVÝCH SKLADEB"
+copia_cd_audio_MSG5="VYPALOVÁNÍ AUDIO CD..."
+copia_cd_audio_MSG6="AUDIO CD ÚSPĚŠNĚ ZKOPÍROVÁNO!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1="Soubory .wav k vypálení na CD"
+wav_a_cd_MSG2="Linux-cdgrab nebude kontrolovat velikost adresáře"
+wav_a_cd_MSG3="Ujistěte se, že to není více než 650 Mbytů v případě"
+wav_a_cd_MSG4="pokud používáte 80minutové CD."
+wav_a_cd_MSG5="Zadejte cestu k adresáři souborů .wav"
+wav_a_cd_MSG6="běh"
+wav_a_cd_MSG7="PROCES DOKONČEN!"
+
+# cdmixto
+
+cdmixto_MSG1="Projekt vytvoření CD-Mixto (Datový obrázek .iso + zvukové soubory .wav)"
+cdmixto_MSG2="Linux-cdgrab nebude kontrolovat velikost adresáře"
+cdmixto_MSG3="kde jsou zvukové soubory."
+cdmixto_MSG4="Neudělá to ani z obrazu .iso, který se chystáte nahrát"
+cdmixto_MSG5="po."
+cdmixto_MSG6="Buďte konzistentní s velikostí, kterou máte"
+cdmixto_MSG7="vypálit na své nové CD."
+cdmixto_MSG8="Určete cestu ke zvukovým souborům:"
+cdmixto_MSG9="Určete cestu k iso obrazu:"
+cdmixto_MSG10="#################################"
+cdmixto_MSG11="NAHRÁVÁNÍ SMÍŠENÉHO CD: DATA + AUDIO"
+cdmixto_MSG12="běh"
+cdmixto_MSG13="----SMÍŠENÉ-CD ÚSPĚŠNĚ VYTVOŘENO-----!!"
+cdmixto_MSG14="------CHYBA PŘI VYPALOVÁNÍ SMÍŠENÉHO CD--------"
+
+# discoinfo
+
+discoinfo_MSG1="běh"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="port IDE/SCSI skenován"
+cdrecord_scan_MSG1="Chyba při skenování portu IDE/SCSI"
+cdrecord_scan_MSG2="cdrecord nenalezen"
+

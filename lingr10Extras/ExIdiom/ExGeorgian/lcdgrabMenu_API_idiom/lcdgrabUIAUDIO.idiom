@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en georgiano para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+# Reultado del traductor
+menu_conversion_audio_MSG1="AUDIO CONVERSION"
+menu_conversion_audio_MSG2="---------- კონვერტაცია ფორმატებს შორის ----------"
+menu_conversion_audio_MSG3=".mp3-ის გადაქცევა .wav-ზე"
+menu_conversion_audio_MSG4=".ogg გადაიყვანეთ .wav-ზე"
+menu_conversion_audio_MSG5=".wav-ის გადაქცევა .mp3-ზე"
+menu_conversion_audio_MSG6=".wav-ის .ogg-ზე გადაყვანა"
+menu_conversion_audio_MSG6C=".wav-ის .flac-ზე გადაყვანა"
+menu_conversion_audio_MSG6B=".flac-ის გადაქცევა .wav-ზე"
+menu_conversion_audio_MSG7="------------ აუდიო ტრეკების ამოღება -------------"
+menu_conversion_audio_MSG8="აუდიო CD-ის გადატვირთვა .wav-ზე"
+menu_conversion_audio_MSG9="აუდიო ჩანაწერების ნაკრების გადაღება .wav-ზე"
+menu_conversion_audio_MSG10="აუდიო CD-ის გადაღება .mp3-ზე"
+menu_conversion_audio_MSG11="აუდიო CD-ის გადაღება .ogg-ზე"
+menu_conversion_audio_MSG0="წინა მენიუ"
+menu_conversion_audio_MSG12="მოძებნეთ .mp3 ფაილები"
+menu_conversion_audio_MSG13="მოძებნეთ .ogg ფაილები"
+menu_conversion_audio_MSG14="მოძებნეთ .wav ფაილები"
+menu_conversion_audio_MSG15="--------------- სხვა ოპერაციები -----------------"
+menu_conversion_audio_MSG16="გაჭრა .wav აუდიო ფაილი"
+menu_conversion_audio_MSG17="აუდიო CD-ის გადაღება .flac-ზე"
+

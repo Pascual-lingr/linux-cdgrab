@@ -1,0 +1,32 @@
+#########################################################
+# lcdgrabAPI_idiom/ExJapanese/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Traducción experimental al japonés de los mensajes del
+# menú de conversión de audio. Generado con google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="オーディオ変換"
+menu_conversion_audio_MSG2="-------------- フォーマット間の変換 -------------"
+menu_conversion_audio_MSG3=".mp3 を .wav に変換"
+menu_conversion_audio_MSG4=".ogg を .wav に変換"
+menu_conversion_audio_MSG5=".wav を .mp3 に変換"
+menu_conversion_audio_MSG6=".wav を .ogg に変換"
+menu_conversion_audio_MSG6C=".wav を .flac に変換"
+menu_conversion_audio_MSG6B=".flac を .wav に変換"
+menu_conversion_audio_MSG7="------------- オーディオトラック抽出 ------------"
+menu_conversion_audio_MSG8="CD オーディオを .wav にリッピング"
+menu_conversion_audio_MSG9="一連のオーディオ トラックを .wav にリッピングする"
+menu_conversion_audio_MSG10="CD オーディオを .mp3 にリッピング"
+menu_conversion_audio_MSG11="CD オーディオを .ogg にリッピング"
+menu_conversion_audio_MSG0="前のメニュー"
+menu_conversion_audio_MSG12=".mp3 ファイルを検索する"
+menu_conversion_audio_MSG13=".ogg ファイルを検索する"
+menu_conversion_audio_MSG14=".wav ファイルを検索する"
+menu_conversion_audio_MSG15="----------------- その他の操作 ------------------"
+menu_conversion_audio_MSG16=".wav オーディオ ファイルのカット"
+menu_conversion_audio_MSG17="CD オーディオを .flac にリッピング"

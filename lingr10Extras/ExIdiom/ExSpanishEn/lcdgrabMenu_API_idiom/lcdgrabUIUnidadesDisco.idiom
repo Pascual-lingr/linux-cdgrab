@@ -1,0 +1,48 @@
+#########################################################
+# lcdgrabAPI_idion/ExSpanishEn/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Messages to Block Device Menu Interface
+#
+# Experimental Spanish translation from English, generate by Google Translate
+#
+# Traducción experimental al Español desde los archivos de Inglés,
+# generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribute under GPL v2
+# Part of Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="\tOPERACIONES DEL DISCO UNIDAD"
+MenuDispositivosBloque_KDE_MSG1="OPERACIONES DEL DISCO UNIDAD"
+MenuDispositivosBloque_MSG2="----------------------- ADVERTENCIA -------------------------"
+MenuDispositivosBloque_MSG3="+ No realizar operaciones de escritura en discos duros"
+MenuDispositivosBloque_MSG4="+ en particiones que contienen imágenes de recuperación, "
+MenuDispositivosBloque_MSG5="+ particiones de arranque, sistema EFI,"
+MenuDispositivosBloque_MSG6="+ o la propia partición del sistema operativo."
+MenuDispositivosBloque_MSG7="+ El mal uso de las opciones de escritura de este menú"
+MenuDispositivosBloque_MSG8="+ puede generar una catástrofe en el sistema."
+MenuDispositivosBloque_MSG9="+ Úselo con precaución. Úselo bajo su propia responsabilidad."
+MenuDispositivosBloque_MSG10="-------------------- ESCRIBIR -------------------"
+MenuDispositivosBloque_MSG11="Volcar un archivo de imagen en la unidad de disco"
+MenuDispositivosBloque_MSG11B="Volcar imagen iso o img (de arranque) en unidad flash o disco USB"
+MenuDispositivosBloque_MSG11C="No todos los sistemas de instalación son compatibles."
+MenuDispositivosBloque_MSG12="Formatear disco unitario en sistema de archivos nativo Linux o Windows"
+MenuDispositivosBloque_MSG13="--------------------- LECTURA -------------------"
+MenuDispositivosBloque_MSG14="Crear imagen .img desde una unidad de disco"
+MenuDispositivosBloque_MSG15="Menú Anterior"
+MenuDispositivosBloque_MSG16="Tipo de opción"
+
+# FormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="-------------------------ADVERTENCIA-----------------------------" 
+UIFormatearUnidad_linuxfs_MSG2="+ Se formatea una unidad con sistema de archivos utilizado en los dispositivos"
+UIFormatearUnidad_linuxfs_MSG2B="+ o particiones de disco."
+UIFormatearUnidad_linuxfs_MSG3="+ Esta opción borrará todos los datos existentes en la unidad"
+UIFormatearUnidad_linuxfs_MSG4="+ Unidades extraíbles formateadas con un sistema de archivos"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux propio sólo será accesible bajo este sistema operativo."
+UIFormatearUnidad_linuxfs_MSG6="+ Úselo con precaución, úselo bajo su propio riesgo."
+UIFormatearUnidad_linuxfs_MSG7="-----------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="TIPO C LLAVE PARA CONTINUAR; (El proceso será cancelado en otra opción)"
+

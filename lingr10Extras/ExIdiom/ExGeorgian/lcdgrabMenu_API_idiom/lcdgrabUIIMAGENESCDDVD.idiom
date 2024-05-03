@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al georgiano, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="დისკის სურათების შექმნა და მუშაობა"
+MenuImagen_MSG2="----------------- სურათის შექმნა --------------"
+MenuImagen_MSG3="შექმენით ISO-9660 სურათი"
+MenuImagen_MSG4="შექმენით სურათი მშობლიური Linux ფაილური სისტემით"
+MenuImagen_MSG5="შექმენით ნებისმიერი ბლოკის მოწყობილობის .img სურათი"
+MenuImagen_MSG6="შექმენით .bin .cue სურათი მიმდინარე მოწყობილობიდან"
+MenuImagen_MSG7="---------------- სხვა ვარიანტები --------------"
+MenuImagen_MSG8=".cue აღწერილობის ფაილის გენერირება .bin სურათიდან"
+MenuImagen_MSG9=".nrg (Nero Burning ROM) სურათის .iso-ში გადაქცევა"
+MenuImagen_MSG10="შეკუმშოს სურათი gzip, bzip2 ან xz"
+MenuImagen_MSG11="გამოიყვანეთ სურათი zip, gz, bz2 ან xz"
+MenuImagen_MSG11B="შეამოწმეთ iso სურათების md5 ჯამი"
+MenuImagen_MSG12="შეცვალეთ iso რეჟიმი"
+MenuImagen_MSG0="წინა მენიუ"
+MenuImagen_MSG13="გამოსახულების ფაილი შეკუმშული"
+MenuImagen_MSG14="შეკუმშოს სურათის ფაილი"
+MenuImagen_MSG15="აკრიფეთ დირექტორია გზა, სადაც მდებარეობს სურათი, რომლის შეკუმშვაც გსურთ:"
+MenuImagen_MSG16="სურათის ფაილი, რომლის დეკომპრესია გსურთ"
+MenuImagen_MSG17="მიმდინარე ISO დონე"
+MenuImagen_MSG18="iso დონე"
+MenuImagen_MSG19="ფაილის სახელები შედგება განყოფილებისგან"
+MenuImagen_MSG20="და შეზღუდულია 8.3 სიმბოლოთი."
+MenuImagen_MSG21="აირჩიეთ ეს დონე, თუ გსურთ დასახელების თავსებადობა"
+MenuImagen_MSG21b="MS-DOS ოპერაციული სისტემის ქვეშ"
+MenuImagen_MSG22="ფაილის სახელები შედგება განყოფილებისგან"
+MenuImagen_MSG23="შეუზღუდავი დონე."
+MenuImagen_MSG24="გამოიყენეთ ეს დონე, თუ გსურთ ფაილის თავსებადობა"
+MenuImagen_MSG25="დიდი, ამ შემთხვევაში >= 2 გიგაბაიტი."
+MenuImagen_MSG26="ყველა ISO დონე ზღუდავს ფაილის სახელებს დიდი, პატარა და"
+MenuImagen_MSG27="სიმბოლოები, როგორიცაა _ . ფაილის სახელები შეზღუდულია 31 სიმბოლოთი"
+MenuImagen_MSG28="მაქსიმუმ 8 დირექტორია ბილიკი და ბილიკის სახელი"
+MenuImagen_MSG29="საქაღალდეები 255 სიმბოლოზე."
+MenuImagen_MSG30="აირჩიეთ ახალი iso დონე"
+MenuImagen_MSG31="ISO დონე 4 არ არის ოფიციალური"
+MenuImagen_MSG32="გაეცანით mkisofs man page"
+MenuImagen_MSG33="არასწორი ISO დონე"
+MenuImagen_MSG34="ნაგულისხმევად დააყენეთ iso დონე 3"
+

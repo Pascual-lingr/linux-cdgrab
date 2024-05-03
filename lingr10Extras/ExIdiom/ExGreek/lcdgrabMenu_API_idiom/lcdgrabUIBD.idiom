@@ -1,0 +1,21 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGreek/lcgdrabMenu_API_idiom/lcdgrabUIBD.idiom
+# Menú de Interfaz para la grabación de BD.
+# Traducción experimental al griego, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_grabar_BD
+
+menu_grabar_BD_MSG0="Προηγούμενο μενού."
+menu_grabar_BD_MSG1="ΕΓΓΡΑΦΗ ΣΕ BLU-RAY DISC"
+menu_grabar_BD_MSG2="Εγγραφή νέου BD-R/BD-RE iso από δεδομένα σκληρού δίσκου"
+menu_grabar_BD_MSG4="Εικόνα ISO/UDF για εγγραφή στο δίσκο."
+menu_grabar_BD_MSG7="Εγγραφή εικόνας iso-9660/udf σε BD-R/BD-RE"
+menu_grabar_BD_MSG8="------------------- BD - DATA -------------------"
+menu_grabar_BD_MSG9="Εμφάνιση πληροφοριών δίσκου μονάδας"
+menu_grabar_BD_MSG10="Εφαρμόστε την απαραίτητη μορφοποίηση στο BD-RE"
+

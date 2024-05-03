@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLithuanian/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Lituano para el gestor de archivos
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="**************************** NAVIGACIJOS PARINKTYS ***********************"
+ayuda_gestor_de_archivos_MSG2="Naršykite failų sistemą."
+ayuda_gestor_de_archivos_MSG3="X --> Išeiti"
+ayuda_gestor_de_archivos_MSG4="A --> Ankstesnis katalogas"
+ayuda_gestor_de_archivos_MSG5="B --> Kitas katalogas"
+ayuda_gestor_de_archivos_MSG6="Veiksmai su failais ir katalogais."
+ayuda_gestor_de_archivos_MSG7="C --> Kopijuoti failą"
+ayuda_gestor_de_archivos_MSG8="M --> Perkelti failą"
+ayuda_gestor_de_archivos_MSG9="CD --> Kopijuoti katalogą"
+ayuda_gestor_de_archivos_MSG10="MD --> Perkelti katalogą"
+ayuda_gestor_de_archivos_MSG11="Suprasti veiksmus su failais ir katalogais."
+ayuda_gestor_de_archivos_MSG12="Z --> Suspausti failą"
+ayuda_gestor_de_archivos_MSG13="DZ --> Išskleisti failą"
+ayuda_gestor_de_archivos_MSG14="EZ --> Sukurkite .tar.gz arba .tar.bz2 paketą"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Išpakuokite .tar.gz arba .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Dabartinis aktyvus katalogas"
+gestor_de_archivos_MSG0B="Failai"
+gestor_de_archivos_MSG1="========================= NAVIGACIJOS PARINKTYS ==========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> PAGALBA="
+gestor_de_archivos_MSG3="==========================================================================="
+gestor_de_archivos_MSG4="Įveskite parinktį"
+gestor_de_archivos_MSG5="Įveskite katalogą"
+gestor_de_archivos_MSG6="Įveskite šaltinio failą"
+gestor_de_archivos_MSG7="Įveskite paskirties failą"
+gestor_de_archivos_MSG8="Failas sėkmingai nukopijuotas"
+gestor_de_archivos_MSG9="Klaida kopijuojant failą"
+gestor_de_archivos_MSG10="Įveskite šaltinio failą"
+gestor_de_archivos_MSG11="Įveskite paskirties failą"
+gestor_de_archivos_MSG12="Failas sėkmingai perkeltas"
+gestor_de_archivos_MSG13="Klaida perkeliant failą"
+gestor_de_archivos_MSG14="Įveskite šaltinio katalogą"
+gestor_de_archivos_MSG15="Įveskite paskirties katalogą"
+gestor_de_archivos_MSG16="Katalogas sėkmingai nukopijuotas"
+gestor_de_archivos_MSG17="Klaida kopijuojant katalogą"
+gestor_de_archivos_MSG18="Įveskite šaltinio katalogą"
+gestor_de_archivos_MSG19="Įveskite paskirties katalogą"
+gestor_de_archivos_MSG20="Katalogas sėkmingai perkeltas"
+gestor_de_archivos_MSG21="Klaida perkeliant katalogą"
+gestor_de_archivos_MSG22="FAILAS SUspausti"
+gestor_de_archivos_MSG23="Nurodykite failo kelią"
+

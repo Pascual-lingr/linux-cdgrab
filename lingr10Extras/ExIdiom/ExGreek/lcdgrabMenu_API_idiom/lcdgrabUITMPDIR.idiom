@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGreek/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en griego para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Αρχεία σε /tmp"
+dir_tmp_MSG2="Διαγραφή όλων των εικόνων και των συμπιεσμένων αρχείων"
+dir_tmp_MSG3="Εκκινήστε τη διαχείριση αρχείων για άλλες λειτουργίες"
+dir_tmp_MSG4="Τοποθέτηση ή αποπροσάρτηση μιας εικόνας"
+dir_tmp_MSG5="Εμφάνιση του μενού δημιουργίας εικόνας"
+dir_tmp_MSG6="Εμφάνιση επιλογών εγγραφής εικόνας"
+dir_tmp_MSG7="Προηγούμενο μενού"
+dir_tmp_MSG8="ΛΙΣΤΑ ΥΠΑΡΧΟΝΤΩΝ ΑΡΧΕΙΩΝ ΣΕ"
+dir_tmp_MSG9="ΕΠΙΛΟΓΗ ΕΠΙΛΟΓΗΣ:"
+dir_tmp_MSG10="ΔΙΑΓΡΑΜΜΕΝΕΣ ΕΙΚΟΝΕΣ ΚΑΙ ΑΡΧΕΙΑ"
+dir_tmp_MSG11="Τοποθέτηση εικόνας."
+dir_tmp_MSG12="Αποπροσάρτηση εικόνας."
+dir_tmp_MSG13="Εγγραφή εικόνας σε CD"
+dir_tmp_MSG14="Εγγραφή εικόνας σε DVD"
+dir_tmp_MSG14B="Εγγραφή εικόνας σε BD"
+dir_tmp_MSG15="Επιλέξτε επιλογή ανάλογα με το μέσο εγγραφής"
+dir_tmp_MSG16="ΤΟ ΑΡΧΕΙΟ ΔΕΝ ΒΡΕΘΗΚΕ ΤΟ ΑΡΧΕΙΟ ΔΙΑΜΟΡΦΩΣΗΣ"
+dir_tmp_MSG17="Ακύρωση της διαδικασίας εγγραφής"
+dir_tmp_MSG18="Καθορίστε το αρχείο .iso για εγγραφή"
+dir_tmp_MSG19="Εισαγάγετε τη διαδρομή της εικόνας: "

@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLithuanian/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en lituano para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="VAIZDO KONVERSIJOS BLU-RAY DISKO SUDERINAMUMAS"
+conv_video_BDVideo_MSG2="Nurodykite konvertuojamo vaizdo failo kelią:"
+conv_video_BDVideo_MSG3="Nurodykite naujo kuriamo vaizdo įrašo failo pavadinimą:"
+conv_video_BDVideo_MSG4="Vaizdo failas sėkmingai konvertuotas!!"
+conv_video_BDVideo_MSG5="Klaida konvertuojant vaizdo failą"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="KONVERSIJOS VAIZDO FAILAI"
+conv_VideoFich_MSG2="Nurodykite vaizdo failą, kurį norite konvertuoti:"
+conv_VideoFich_MSG3="Nurodykite vaizdo failą, kurį norite generuoti:"
+conv_VideoFich_MSG4="VAIZDO FAILŲ KONVERSIJA BAIGTA"
+conv_VideoFich_MSG5="KLAIDA KONVERTANT VAIZDO FAILĄ"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Nurodykite vaizdo failą:"
+extrae_Audio_de_Video_MSG2="Nurodykite generuojamą mp3 garso failą:"
+extrae_Audio_de_Video_MSG3="GARSO IŠGAVIMAS SĖKMINGAI"
+extrae_Audio_de_Video_MSG4="KLAIDA IŠGARANT GARSU"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Nurodykite vaizdo failą:"
+extrae_Fragmento_Video_MSG2="Nurodykite generuojamą vaizdo failą:"
+extrae_Fragmento_Video_MSG3="Nurodykite pradinį laiką (nurodykite kaip HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Nurodykite pabaigos laiką (nurodykite kaip HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="Vaizdo įrašas SĖKMINGAI APkarpytas"
+extrae_Fragmento_Video_MSG6="KLAIDA KREPIANT VAIZDO ĮRAŠĄ"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Nurodykite garso failą:"
+mezcla_Audio_Video_MSG2="Nurodykite vaizdo failą:"
+mezcla_Audio_Video_MSG3="Nurodykite vaizdo failą, kurį norite generuoti:"
+mezcla_Audio_Video_MSG4="NAUJAS VAIZDO FAILAS SĖKMINGAI SUgeneruotas"
+mezcla_Audio_Video_MSG5="KLAIDA GENERAANT VAIZDO FAILĄ"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="KONSOLĖS SĄSAJOJE NĖRA PASIRINKIMAS"
+graba_escritorio_MSG2="-- ĮRAŠYMAS DARBALINIO SESIJA -- PAspauskite CTRL + C, KAD ATŠAUKTI IR SUSTABDYTI ĮRAŠYMĄ"
+graba_escritorio_MSG3="VAIZDO ĮRAŠYMAS BAIGTAS"
+

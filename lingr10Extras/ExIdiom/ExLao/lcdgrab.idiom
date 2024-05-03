@@ -1,0 +1,48 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Lao para la aplicación principal     #
+# Traducción experimental.                         #
+# Generado con Google Translate.                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="ໄຟລ໌ທີ່ສ້າງຂຶ້ນໂດຍອັດຕະໂນມັດໂດຍ LINUX-CDGRAB 1.0"
+creacion_de_Depot_MSG2="ໄຟລ໌ນີ້ພ້ອມກັບໄດເລກະທໍລີ"
+creacion_de_Depot_MSG3="ໄດ້ຖືກສ້າງຂື້ນໂດຍອັດຕະໂນມັດ"
+creacion_de_Depot_MSG4="ໂດຍແອັບພລິເຄຊັນ Linux-cdgrab ເມື່ອກວດສອບວ່າມັນບໍ່ມີຢູ່ໃນການແຈກຢາຍ Linux ຂອງທ່ານ"
+creacion_de_Depot_MSG5="ໄດເລກະທໍລີ"
+creacion_de_Depot_MSG6="Linux-cdgrab ໃຊ້ໄດເລກະທໍລີນີ້ເພື່ອຂຽນໄຟລ໌ຊົ່ວຄາວ ແລະຮູບພາບອຸປະກອນ (iso, img ແລະອື່ນໆ)"
+creacion_de_Depot_MSG8="Depot ຖືກໃຊ້ໂດຍ GoboLinux ເພື່ອເກັບຮັກສາໄຟລ໌ຊົ່ວຄາວ"
+creacion_de_Depot_MSG9="ຈຸດ​ປະ​ສົງ​ຂອງ​ໄຟລ​໌​ນີ້​ແມ່ນ​ເພື່ອ​ຈຸດ​ປະ​ສົງ​ຂໍ້​ມູນ​ຂ່າວ​ສານ​ເທົ່າ​ນັ້ນ​, ທ່ານ​ສາ​ມາດ​ລຶບ​ມັນ​ໄດ້​ຢ່າງ​ເສລີ​ໃນ​ເວ​ລາ​ທີ່​ອ່ານ​."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="ແຈ້ງການ:"
+main_IDSISTEMA_MSG2="ບໍ່ຮອງຮັບລະບົບປະຕິບັດການ."
+main_IDSISTEMA_MSG3="ຖ້າມີບັນຫາໃນການເຮັດວຽກຂອງແອັບພລິເຄຊັນ, ໃຫ້ໃຊ້ GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="ມັນບໍ່ແມ່ນການໂຕ້ຖຽງທີ່ຖືກຕ້ອງ"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="ພົບ"
+main_cdkit_test_MSG2="ລິ້ງຫາ wodim ສ້າງແລ້ວ"
+main_cdkit_test_MSG3="ລິ້ງຫາ genisoimage ສ້າງ"
+main_cdkit_test_MSG4="ລິ້ງຫາ icedax ສ້າງແລ້ວ"
+
+# pgm principal
+
+# Resultado del traductor
+pgm_principal_MSG1="FATAL: ບໍ່ພົບການແຈກຢາຍໄດເລກະທໍລີທີ່ຖືກຕ້ອງ."
+pgm_principal_MSG2="UNKNOWN"
+
+
+

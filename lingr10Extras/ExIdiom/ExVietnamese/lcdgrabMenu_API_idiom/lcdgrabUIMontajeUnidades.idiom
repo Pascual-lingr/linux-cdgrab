@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en vietnamita para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="THIẾT BỊ HIỆN ĐƯỢC GẮN TRONG HỆ THỐNG"
+montar_dispositivos_MSG1B="LẮP RÁP/THÁO LẮP THIẾT BỊ"
+montar_dispositivos_MSG2="LINUX OPTIONS-CDGRAB"
+montar_dispositivos_MSG3="Đẩy đĩa ra khỏi đầu đọc CD/DVD/BD"
+montar_dispositivos_MSG4="Đẩy đĩa ra khỏi ổ ghi CD/DVD/BD"
+montar_dispositivos_MSG5="Gắn đầu đọc CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG6="Gỡ CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Gắn hoặc tháo thiết bị bằng tay"
+montar_dispositivos_MSG0="Menu trước"
+montar_dispositivos_MSG8="CD/DVD/BD được gắn vào"
+montar_dispositivos_MSG9="Nhấn ENTER ĐỂ TIẾP TỤC..."
+montar_dispositivos_MSG10="Lỗi khi gắn CD/DVD/BD vào"
+montar_dispositivos_MSG11="CD/DVD/BD đã được ngắt kết nối"
+montar_dispositivos_MSG12="Lỗi khi tháo CD/DVD/BD"
+montar_dispositivos_MSG13="Nhập thiết bị để gắn/gỡ kết nối:"
+montar_dispositivos_MSG14="Nhập điểm gắn kết:"
+montar_dispositivos_MSG15="không tương ứng với thiết bị khối"
+montar_dispositivos_MSG16="Không tìm thấy điểm gắn kết"
+montar_dispositivos_MSG17="Điểm gắn kết mặc định"
+montar_dispositivos_MSG18="Chọn tùy chọn:"
+montar_dispositivos_MSG19="Gắn kết"
+montar_dispositivos_MSG20="vi"
+montar_dispositivos_MSG21="Gỡ kết nối"
+montar_dispositivos_MSG22="de"
+montar_dispositivos_MSG23="được gắn trên:"
+montar_dispositivos_MSG24="LỖI KHI GẮN"
+montar_dispositivos_MSG25="VI"
+montar_dispositivos_MSG26="gỡ bỏ khỏi"
+montar_dispositivos_MSG27="LỖI KHI THÁO GẮN"
+montar_dispositivos_MSG28="của"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Đầu ra của lệnh mount"
+Montar_Imagenes_MSG1B="Lắp ráp/tháo rời tập tin hình ảnh"
+Montar_Imagenes_MSG2="Chọn một tùy chọn"
+Montar_Imagenes_MSG3="Gắn hình ảnh CD/DVD/BD"
+Montar_Imagenes_MSG4="Tháo hình ảnh CD/DVD/BD"
+Montar_Imagenes_MSG5="Menu trước"
+

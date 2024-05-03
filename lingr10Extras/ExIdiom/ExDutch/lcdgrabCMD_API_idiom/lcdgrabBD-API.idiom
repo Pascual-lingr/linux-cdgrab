@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDutch/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Neerlandés para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660-BEELD CORRECT OPGENOMEN OP BLU-RAY"
+grabar_ISO_BD_MSG2="FOUT BIJ HET OPNEMEN VAN BEELD OP BLU-RAY-SCHIJF"
+grabar_ISO_BD_MSG3="ISO-9660 AFBEELDING IN BD"
+grabar_ISO_BD_MSG4="Geef het pad op van de ISO-9660-image die u wilt branden:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Bestanden en mappen om de .iso-image te maken"
+bd_datos_MSG2="DB-LABEL"
+bd_datos_MSG3="Voer een naam in voor de toekomstige BD:"
+bd_datos_MSG4="Bestandsbeheer starten:"
+bd_datos_MSG5=" AFBEELDING MAKEN . ."
+bd_datos_MSG6="hardlopen"
+bd_datos_MSG7="ISO-9660 AFBEELDING GEMAAKT IN"
+bd_datos_MSG8="BD OPNEMEN"
+bd_datos_MSG13="WIS AFBEELDING..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="De noodzakelijke formattering of verwijdering wordt toegepast, afhankelijk van de schijfstatus"
+borrar_BDRE_lb_MSG2="BD-RE SUCCESVOL VERWIJDERD!!"
+borrar_BDRE_lb_MSG3="FOUT BIJ HET VERWIJDEREN VAN BD-RE"
+

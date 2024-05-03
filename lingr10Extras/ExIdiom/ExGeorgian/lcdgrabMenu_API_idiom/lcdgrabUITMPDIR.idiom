@@ -1,0 +1,35 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Georgiano para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="ფაილები /tmp-ში"
+dir_tmp_MSG2="წაშალე ყველა სურათი და შეკუმშული ფაილი"
+dir_tmp_MSG3="გაუშვით ფაილ მენეჯერი სხვა ოპერაციებისთვის"
+dir_tmp_MSG4="სურათის დამონტაჟება ან გამორთვა"
+dir_tmp_MSG5="სურათის შექმნის მენიუს ჩვენება"
+dir_tmp_MSG6="სურათის ჩაწერის ვარიანტების ჩვენება"
+dir_tmp_MSG7="წინა მენიუ"
+dir_tmp_MSG8=" არსებული ფაილების სია"
+dir_tmp_MSG9="აირჩიეთ ვარიანტი:"
+dir_tmp_MSG10="წაშლილი სურათები და ფაილები"
+dir_tmp_MSG11="სურათის დამონტაჟება."
+dir_tmp_MSG12="სურათის მოხსნა."
+dir_tmp_MSG13="სურათის ჩაწერა CD-ზე"
+dir_tmp_MSG14="სურათის ჩაწერა DVD-ზე"
+dir_tmp_MSG14B="სურათის ჩაწერა BD-ზე"
+dir_tmp_MSG15="აირჩიე ვარიანტი ჩამწერი საშუალების მიხედვით"
+dir_tmp_MSG16="ფაილი არ არის ნაპოვნი კონფიგურაციის ფაილი"
+dir_tmp_MSG17="ჩაწერის პროცესის შეწყვეტა"
+dir_tmp_MSG18="მიუთითეთ .iso ფაილი დასაწვავად"
+dir_tmp_MSG19="შეიყვანეთ სურათის ბილიკი: "
+
+

@@ -1,0 +1,142 @@
+#########################################################
+# lcgdrabAPI_idiom/ExKorean/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Coreano para el API de audio.
+# Traducción experimental al Coreano, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="변환할 MP3 파일"
+mp3awav_MSG0=".mp3 파일의 경로를 입력하세요: "
+mp3awav_MSG1="CONVITING"
+mp3awav_MSG1B=" .wav 형식으로"
+mp3awav_MSG2="실행 중"
+mp3awav_MSG3="샘플링이 44100Mhz로 설정되었습니다."
+mp3awav_MSG4="샘플링 처리 오류"
+mp3awav_MSG5="변환 실패"
+mp3awav_MSG6="디렉토리를 찾을 수 없습니다"
+mp3awav_MSG7="오디오 변환 종료"
+mp3awav_MSG8="오디오 파일 정규화 중"
+mp3awav_MSG9="파일"
+mp3awav_MSG10="정규화됨"
+mp3awav_MSG11="정규화 오류"
+
+# oggawav
+
+oggawav_MSG0="변환할 OGG 파일"
+oggawav_MSG1=".ogg 파일의 경로를 입력하세요: "
+oggawav_MSG2="CONVITING"
+oggawav_MSG2B=".wav 형식"
+oggawav_MSG3="실행 중"
+oggawav_MSG4="샘플링이 44100Mhz로 설정되었습니다."
+oggawav_MSG5="샘플링 처리 중 오류 발생"
+oggawav_MSG6="변환 실패"
+oggawav_MSG7="디렉토리를 찾을 수 없습니다"
+oggawav_MSG8="오디오 커버리지 종료"
+oggawav_MSG9="오디오 파일 정규화 중"
+oggawav_MSG10="파일"
+oggawav_MSG11="정규화됨"
+oggawav_MSG12="정규화 오류"
+
+# cdawav
+
+cdawav_MSG1="오디오 CD 추출 중..."
+cdawav_MSG2="실행 중:"
+cdawav_MSG3="성공적으로 오디오 트랙을 리핑했습니다!!"
+cdawav_MSG4="오디오 파일 디렉토리의 내용"
+cdawav_MSG5="오디오 트랙 추출 시 오류가 발생했습니다."
+
+# cddawav
+
+cddawav_MSG1="리핑할 트랙 수를 입력하세요:"
+cddawav_MSG2="트랙 추출을 취소하려면 Crtl + c를 누르세요."
+cddawav_MSG3="실행 중:"
+cddawav_MSG4="성공적으로 리핑됨"
+cddawav_MSG5="리핑 오류가 발생했습니다."
+
+# wavamp3
+
+wavamp3_MSG0="변환할 WAV 파일"
+wavamp3_MSG1=".wav 파일의 경로를 입력하세요: "
+wavamp3_MSG1B="변환 중"
+wavamp3_MSG2="형식"
+wavamp3_MSG3="실행 중:"
+wavamp3_MSG4="변환 시"
+wavamp3_MSG5=".MP3 형식으로"
+wavamp3_MSG6="변환 중 오류 발생"
+wavamp3_MSG7="오디오 변환이 완료되었습니다"
+wavamp3_MSG8="오디오 디렉토리를 찾을 수 없습니다"
+
+# cdamp3
+
+cdamp3_MSG1="오디오 CD 추출 중..."
+cdamp3_MSG2="실행 중:"
+cdamp3_MSG3="성공적으로 오디오 트랙을 리핑했습니다!!"
+cdamp3_MSG4="오디오 트랙 추출 시 오류 발생"
+cdamp3_MSG5="함수 호출 중:"
+
+# wavaogg
+
+wavaogg_MSG1=".wav 파일의 경로를 입력하세요: "
+wavaogg_MSG2="CONVITING"
+wavaogg_MSG3=".ogg 형식"
+wavaogg_MSG4="실행 중:"
+wavaogg_MSG5="변환 중 오류 발생"
+wavaogg_MSG6=".ogg 형식으로"
+
+# cdaogg
+
+cdaogg_MSG1="오디오 CD 추출 중..."
+cdaogg_MSG2="실행 중:"
+cdaogg_MSG3="성공적으로 오디오 트랙을 리핑했습니다!!"
+cdaogg_MSG4="오디오 트랙 추출 시 오류 발생"
+cdaogg_MSG5="함수 호출 중:"
+
+# corta_wav
+
+corta_wav_MSG0="초 수:"
+corta_wav_MSG1="변환할 오디오 파일의 경로를 지정하세요:"
+corta_wav_MSG2="초 단위로 시간을 지정하세요."
+corta_wav_MSG3="파일 자르기가 시작됩니다."
+corta_wav_MSG4="-참고-"
+corta_wav_MSG5="오디오의 시작 부분을 지정하려면 0을 입력하세요."
+corta_wav_MSG6="변환을 시작하기 위한 초 단위 값:"
+corta_wav_MSG7="초 단위로 시간을 지정하세요."
+corta_wav_MSG8="파일 자르기가 완료됩니다."
+corta_wav_MSG9="변환 종료를 위한 초 단위 값:"
+corta_wav_MSG10="실행 중"
+corta_wav_MSG11="잘라낸 오디오 파일"
+corta_wav_MSG12="파일을 다듬는 중 오류가 발생했습니다"
+corta_wav_MSG13="자르기할 오디오 파일:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV 오디오"
+flacawav_MSG1=".flac 파일의 경로를 지정하세요:"
+flacawav_MSG2="CONVITING"
+flacawav_MSG3=" .wav 형식으로"
+flacawav_MSG4="샘플링이 44100Mhz로 설정되었습니다."
+flacawav_MSG5="샘플링 처리 오류"
+flacawav_MSG6="오디오 파일 정규화 중"
+flacawav_MSG7="파일"
+flacawav_MSG8="정규화됨"
+flacawav_MSG9="정규화 오류"
+flacawav_MSG10="변환 실패"
+flacawav_MSG11="디렉토리를 찾을 수 없습니다"
+flacawav_MSG12="오디오 변환 종료"
+
+# wavaflac
+
+wavaflac_MSG0="변환할 WAV 파일"
+wavaflac_MSG1=".wav 파일의 경로를 입력하세요: "
+wavaflac_MSG2="CONVITING"
+wavaflac_MSG3=".flac 형식"
+wavaflac_MSG4="flac 형식으로 변환됨"
+wavaflac_MSG5="변환 중 오류 발생"
+wavaflac_MSG6=".flac 형식으로"
+wavaflac_MSG7="FLAC 파일 디렉토리를 찾을 수 없습니다"
+

@@ -1,0 +1,109 @@
+#########################################################
+# lcgdrabAPI_idiom/ExKorean/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Coreano para la coleccion de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+# Traducción experimetal, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="녹화 과정을 다시 시도하는 중..."
+m_cdrecord_sin_overburn_MSG2="-overburn 옵션 없이 cdrecord 실행"
+m_cdrecord_sin_overburn_MSG3="-overburn은 이전 녹음 장치나 이전 버전의 cdrecord에서는 지원되지 않습니다."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="잘못된 옵션"
+
+# img_error
+
+img_error_D_MSG1="이미지를 생성할 때 오류가 발생했습니다."
+
+# CD_error
+
+CD_error_D_MSG1="CD를 구울 때 오류가 발생했습니다."
+
+# DVD_error
+
+DVD_error_D_MSG1="DVD를 구울 때 오류가 발생했습니다."
+
+# DO_error
+
+DO_error_D_MSG1="광학 디스크 쓰기 중 오류 발생"
+
+
+# tecla
+
+tecla_D_MSG1="\n계속하려면 Enter 키를 누르세요. . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="디스크에 굽기 위한 디렉토리 경로"
+rutas_dir_D_MSG2="디렉터리 이름을 입력합니다(종료하려면 f)."
+rutas_dir_D_MSG3="잘못된 디렉토리"
+#  El mensaje 4 se incluye en el 3.
+rutas_dir_D_MSG4=""
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="시스템의 동일한 광학 장치"
+una_sola_grabadora_D_MSG2="읽기 및 기록 단위는 동일합니다. 귀하의 시스템에는 물리적 장치가 하나만 있다고 가정합니다. 장치에서 소스 디스크를 제거하십시오. 녹음 과정을 계속하려면 버진 광디스크를 삽입하세요"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="디스크 녹음이 성공적으로 완료되었습니다."
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="잘못된 옵션"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="디스크 녹음이 성공적으로 완료되었습니다."
+
+# text_img_error
+
+text_img_error_MSG1="이미지를 생성할 때 오류가 발생했습니다."
+
+# text_CD_error
+
+text_CD_error_MSG1="CD를 구울 때 오류가 발생했습니다."
+
+# text_DVD_error
+
+text_DVD_error_MSG1="DVD를 구울 때 오류가 발생했습니다."
+
+# text_DO_error
+
+text_DO_error_MSG1="광학 디스크 쓰기 중 오류 발생"
+
+# teclash
+
+teclash_MSG1="계속하려면 Enter 키를 누르세요. . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="디렉토리 이름을 입력하세요(종료하려면 f):"
+text_rutas_dir_MSG2="디렉토리"
+text_rutas_dir_MSG3="잘못됨"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="시스템의 동일한 광학 장치"
+text_una_sola_grabadora_MSG2="읽기 및 녹음 단위는 동일합니다."
+text_una_sola_grabadora_MSG3="귀하의 시스템에는 하나만 있다고 가정합니다."
+text_una_sola_grabadora_MSG4="물리적 단위."
+text_una_sola_grabadora_MSG5="장치에서 소스 디스크를 제거하십시오."
+text_una_sola_grabadora_MSG6="버진 광디스크 삽입"
+text_una_sola_grabadora_MSG7="녹화 과정을 계속합니다."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="달리기"

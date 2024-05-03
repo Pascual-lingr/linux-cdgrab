@@ -1,0 +1,74 @@
+# Traducció al catala per al suport ReiserFS a LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuire baix la mateixa licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Premeu INTRO per continuar..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 SUPORT REISERFS."
+cabecera_interfaz_MSG3="================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Eixida de l'ordre mount:"
+formatear_disco_reiserfs_MSG2="Especifiqueu el dispositiu de bloc a formatar:"
+formatear_disco_reiserfs_MSG3="Dispositiu Formatat amb Èxit"
+formatear_disco_reiserfs_MSG4="Error en formatar dispositiu"
+formatear_disco_reiserfs_MSG5="PROCÉS COMPLETAT"
+formatear_disco_reiserfs_MSG6="Desmuntant dispositiu..."
+formatear_disco_reiserfs_MSG7="Formatant unitat a ReiserFS..."
+formatear_disco_reiserfs_MSG8="Executant"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="FORMATAT AMB ÈXIT"
+formatear_img_reiserfs_MSG2="ERROR AL FORMATAR L'ARXIU BUIT"
+formatear_img_reiserfs_MSG3="Generant arxiu buit..."
+formatear_img_reiserfs_MSG4="Executant"
+formatear_img_reiserfs_MSG5="Formatejant arxiu buit a ReiserFS..."
+formatear_img_reiserfs_MSG6="GENERACIÓ D'ARXIU BUID AMB MIDA PERSONALITZADA"
+formatear_img_reiserfs_MSG7="Especifiqueu la mida del arxiu buid a generar (només un valor numèric):"
+formatear_img_reiserfs_MSG8="Mesures d'espai per generar el arxiu buid:"
+formatear_img_reiserfs_MSG9="Especifiqueu la mesura d'espai a utilitzar: "
+formatear_img_reiserfs_MSG10="ERROR EN ESPECIFICAR LA MESURA DE MIDA"
+formatear_img_reiserfs_MSG11="Valor de la mida de bloc:"
+formatear_img_reiserfs_MSG12="Quantitat d'espai per al arxiu buid:"
+formatear_img_reiserfs_MSG13="Valor en bytes calculat:"
+formatear_img_reiserfs_MSG14="Valor calculat per count:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Crear imatge per a un CD-R/RW (702 Mbytes)"
+m_img_CDDVDBD_reiserfs_MSG2="Crear imatge per a un DVD+RW (4 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG3="Crear imatge per a un DVD+RW/DL (8 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG4="Crear imatge per a un BD-R/RE (25 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG5="Crear arxiu d'imatge amb mida personalitzada"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Eixir"
+imgr_tmp_MSG1="Esborrar tots els fitxers d'imatge reiserfs"
+imgr_tmp_MSG2="Muntar o Desmuntar fitxer d'imatge"
+imgr_tmp_MSG3="Fitxers d'imatge a"
+imgr_tmp_MSG4="Seleccioneu una opció"
+imgr_tmp_MSG5="Fitxers d'imatge esborrats"
+imgr_tmp_MSG6="Muntar imatge"
+imgr_tmp_MSG7="Desmuntar imatge"
+imgr_tmp_MSG8="Imatge muntada"
+imgr_tmp_MSG9="Imatge Desmuntada"
+imgr_tmp_MSG10="Opció Invàlida"
+imgr_tmp_MSG11="Especifiqueu la imatge a muntar o desmuntar:"
+imgr_tmp_MSG12="Error en muntar la imatge"
+imgr_tmp_MSG13="Error en desmuntar la imatge"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Formatar unitat a ReiserFS"
+lingr10reiserfspatch_MSG2="Crear imatge ReiserFS per a CD/DVD/BD"
+lingr10reiserfspatch_MSG3="Operacions sobre imatges ReiserFS"
+lingr10reiserfspatch_MSG4="Opció invàlida"
+lingr10reiserfspatch_MSG0="Eixir"

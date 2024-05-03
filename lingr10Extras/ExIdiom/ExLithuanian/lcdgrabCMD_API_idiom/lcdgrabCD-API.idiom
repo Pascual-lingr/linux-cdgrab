@@ -1,0 +1,184 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLithuanian/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Lituano para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="bėgimas"
+copia_bin_MSG2="--------------IŠRAŠYMO PROCESAS PAKARTOTOJI BANDOMA---------------"
+copia_bin_MSG3="	IŠTRINAMAS VAIZDO FAILAS"
+copia_bin_MSG4="ĮRAŠYMO ĮVYKO KLAIDA"
+copia_bin_MSG5="Disko vaizdo iškrovimo .iso failas nerastas. Nutraukiamas įrašymas..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="bėgimas"
+datos_al_vuelo_MSG2="Klaida įrašyti bandymą, bandoma iš naujo be perdegimo palaikymo"
+datos_al_vuelo_MSG3="Patikrinkite, ar šaltinio diskas arba įrenginys"
+datos_al_vuelo_MSG4="yra geros būklės"
+datos_al_vuelo_MSG5="Gauti išvedimo bloko numerį iš šaltinio disko"
+datos_al_vuelo_MSG6="KOPIJOJAMAS DISKAS..."
+
+# clonar_cd
+
+clonar_cd_MSG1="bėgimas"
+clonar_cd_MSG2="CD SĖKMINGAI KLONUOTAS"
+clonar_cd_MSG3="KLONUOJANT kompaktinį diską Įvyko KLAIDA"
+
+# datos
+
+datos_MSG1="Failai ir katalogai .iso atvaizdui sukurti"
+datos_MSG2="CD/DVD/BD ETIKETĖ"
+datos_MSG3="Įveskite būsimo CD/DVD/BD pavadinimą:"
+datos_MSG4="Paleidžiama failų tvarkyklė:"
+datos_MSG5="	KURIAMAS VAIZDAS..."
+datos_MSG6="bėgimas"
+datos_MSG7="ISO-9660 VAIZDAS SUKURTAS"
+datos_MSG8="	ĮDEGANTIS CD/DVD/BD"
+datos_MSG9="VAIZDO FAILOS KŪRIMO PROCESAS NESĖKO"
+datos_MSG10="DAR BANDOMA KURTI NAUJĄ BE HFS (Macintosh) palaikymo"
+datos_MSG11="IŠTRINAMAS VAIZDAS..."
+datos_MSG12="KURIAMAS NAUJAS VAIZDAS..."
+datos_MSG13="NEBUVO GALIMA TEISINGAI ĮRAŠYTI"
+datos_MSG14="------------IŠRAŠYMO PROCESAS PAKARTOTOJI BANDOMA-----------"
+datos_MSG15="IŠTRINTI VAIZDĄ..."
+datos_MSG16="DEGINAMAS ISO-9660 DUOMENŲ CD/DVD/BD..."
+datos_MSG17="Nerasta."
+datos_MSG18="Nutraukiamas įrašymas į diską..."
+
+# datoslb
+
+datoslb_MSG1="Klaida: vaizdo failas nerastas. Atšaukiamas..."
+datoslb_MSG2="ĮRAŠYMO PROCESAS GERAI"
+datoslb_MSG3="KLAIDA ĮRAŠYMO PROCESE"
+
+# borra
+
+borra_MSG0="Ankstesnis meniu"
+borra_MSG1="Pasirinkite režimą, kad ištrintumėte CD-RW"
+borra_MSG2="------------------------------------------"
+borra_MSG3="Greitas ištrynimas (naudokite cdrecord)"
+borra_MSG4="Užbaigti trynimą (naudokite cdrecord)"
+borra_MSG5="Būtina ištrinti (naudokite cdrskin)"
+borra_MSG6="bėgimas"
+borra_MSG7="Būtinas formatavimas arba ištrynimas taikomas priklausomai nuo disko būsenos"
+borra_MSG8="CD-RW SĖKMINGAI IŠTINTAS!!"
+borra_MSG9="KLAIDA IŠTRINANT CD-RW"
+borra_MSG10="PRIVERTI IŠTRINTI CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="KLAIDA BANDANT IŠTRINTI CD-RW diską"
+err_borra_cdrw_MSG2="CD-RW NENAUDOJAMAS"
+err_borra_cdrw_MSG3="NEGALIMA IŠTRINTI ŠIO CD-RW"
+err_borra_cdrw_MSG4="PATIKRINKITE, AR CD-RW DYNE NEPAŽEIDĖTA FIZINĖ"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="bėgimas"
+cerrar_cd_MSG2="CD BUVO UŽDARYTAS TINKAMAI"
+cerrar_cd_MSG3="KLAIDA UŽDARIANT CD"
+cerrar_cd_MSG4="UŽDARIMAS TAKAS DUOMENŲ CD..."
+
+# grabimg
+
+grabimg_MSG1=".iso arba .ext2 vaizdas įrašyti į CD / DVD"
+grabimg_MSG2="Paleidžiama failų tvarkyklė."
+grabimg_MSG3="Įveskite visą kelią, kur yra CD/DVD vaizdas, kurį norite įrašyti:"
+grabimg_MSG4="bėgimas"
+grabimg_MSG5="-----------IŠRAŠYMO PROCESAS PAKARTOTOJI BANDOMA-----------"
+grabimg_MSG6="ĮRAŠYMAS BAIGTA!!"
+grabimg_MSG7="VAIZDAS .EXT2 SĖKMINGAI ĮRAŠYTAS"
+
+# grabimglb
+
+grabimglb_MSG1="Įveskite visą kelią, kur yra CD/DVD vaizdas, kurį norite įrašyti:"
+grabimglb_MSG2="Įrašymas vaizdas į diską..."
+grabimglb_MSG3="ISO-9660 VAIZDAS SĖKMINGAI ĮRAŠYTAS"
+grabimglb_MSG4="KLAIDA ĮRAŠANT ISO-9660 VAIZDĄ"
+grabimglb_MSG5="Klaida: Vaizdo failas nerastas. Nutraukiama..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin ir .cue failai vaizdui įrašyti"
+grabimg_cue_MSG2="Norint įrašyti bin/cue vaizdą, abu failai turi būti"
+grabimg_cue_MSG3="būti aktyviame kataloge."
+grabimg_cue_MSG4="Dabartinis aktyvus katalogas"
+grabimg_cue_MSG5="Įveskite *.cue failo, kuris nurodo *.bin vaizdo failą, pavadinimą"
+grabimg_cue_MSG6=".cue failas: "
+grabimg_cue_MSG7="bėgimas"
+grabimg_cue_MSG8="ĮRAŠYMAS BAIGTA!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Įrašyti kelių seansų kompaktinį diską iš .iso vaizdo"
+cd_multi_MSG2="Įrašyti pirmą sesiją į kompaktinį diską iš .iso vaizdo"
+cd_multi_MSG3="Įrašyti kelių seansų kompaktinį diską iš failų diske"
+cd_multi_MSG4="Įrašykite nuoseklias sesijas į kompaktinį diską iš failų standžiajame diske"
+cd_multi_MSG5="Šiai parinkčiai reikalingas kelių seansų kompaktinis diskas su anksčiau įrašyta sesija."
+cd_multi_MSG6="Ankstesnis meniu"
+cd_multi_MSG7=".iso vaizdas įrašyti į CD-Multi-session"
+cd_multi_MSG8="Nurodykite .iso vaizdo kelią"
+cd_multi_MSG9="bėgimas"
+cd_multi_MSG10="DAUGESESIJAS CD SĖKMINGAI ĮRAŠYTAS!!"
+cd_multi_MSG11="Katalogai, kuriuos reikia įtraukti į paveikslėlį."
+cd_multi_MSG12="Žemiau nurodykite, kuriuos katalogus įtraukti"
+cd_multi_MSG13="Įveskite kompaktinio disko etiketės pavadinimą:"
+cd_multi_MSG14="KURIAMAS VAIZDAS..."
+cd_multi_MSG15="SĖKMINGAI SUKURTA"
+cd_multi_MSG16="KLAIDA KURANT VAIZDĄ. ATLIEKANT ĮRAŠYMO PROCESĄ..."
+cd_multi_MSG17="DEGAMAS CD VAIZDAS..."
+cd_multi_MSG18="CD MULTI SESSION MENIU"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="GARSO CD PRAŠYMAS..."
+copia_cd_audio_MSG2="bėgimas"
+copia_cd_audio_MSG3="GARSO TAEKALAI SĖKMINGAI PAGRINDINTI!!"
+copia_cd_audio_MSG4="KLAIDA PRAŠYJANT GARSO TAKAS"
+copia_cd_audio_MSG5="DEGAMAS GARSO CD..."
+copia_cd_audio_MSG6="GARSO CD SĖKMINGAI KOPIJUOTAS!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav failus įrašyti į kompaktinį diską"
+wav_a_cd_MSG2="Linux-cdgrab netikrins katalogo dydžio"
+wav_a_cd_MSG3="Įsitikinkite, kad jis yra ne didesnis nei 650 Mbaitų"
+wav_a_cd_MSG4="jei naudojate 80 minučių kompaktinį diską."
+wav_a_cd_MSG5="Įveskite .wav failų katalogo kelią"
+wav_a_cd_MSG6="bėgimas"
+wav_a_cd_MSG7="PROCESAS BAIGTAS!"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Mixto kūrimo projektas (duomenų vaizdas .iso + garso failai .wav)"
+cdmixto_MSG2="Linux-cdgrab netikrins katalogo dydžio"
+cdmixto_MSG3="kur yra garso failai."
+cdmixto_MSG4="Taip nepadarys ir iš .iso vaizdo, kurį ketinate įrašyti"
+cdmixto_MSG5="po."
+cdmixto_MSG6="Būkite suderinti su turimu dydžiu"
+cdmixto_MSG7="įrašyti į naują kompaktinį diską."
+cdmixto_MSG8="Nurodykite garso failų kelią:"
+cdmixto_MSG9="Nurodykite iso vaizdo kelią:"
+cdmixto_MSG10="###################################"
+cdmixto_MSG11="MIXED CD ĮRAŠYMAS: DUOMENYS + GARSO"
+cdmixto_MSG12="bėgimas"
+cdmixto_MSG13="----SĖKMINGAI SUKURTAS MIXED CD-----!!"
+cdmixto_MSG14="------KLAIDA ĮRAŠANT MIŠRUSĮ CD--------"
+
+# discoinfo
+
+discoinfo_MSG1="bėgimas"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI prievadas nuskaitytas"
+cdrecord_scan_MSG1="Klaida nuskaitant IDE/SCSI prievadą"
+cdrecord_scan_MSG2="cdrecord nerastas"
+

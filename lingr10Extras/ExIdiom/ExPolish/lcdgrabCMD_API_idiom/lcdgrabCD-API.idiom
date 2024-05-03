@@ -1,0 +1,185 @@
+#########################################################
+# lcdgrabAPI_idiom/ExPolish/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Polaco para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="działanie"
+copia_bin_MSG2="--------------PONOWNA PRÓBA PROCESU NAGRYWANIA---------------"
+copia_bin_MSG3="	USUWANIE PLIKU OBRAZU"
+copia_bin_MSG4="WYSTĄPIŁ BŁĄD W NAGRANIU"
+copia_bin_MSG5="Nie można znaleźć pliku zrzutu obrazu dysku .iso. Przerywam nagrywanie..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="bieganie"
+datos_al_vuelo_MSG2="Błąd próby nagrania, ponowienie próby bez obsługi overburn"
+datos_al_vuelo_MSG3="Sprawdź, czy dysk lub urządzenie źródłowe"
+datos_al_vuelo_MSG4="jest w dobrym stanie"
+datos_al_vuelo_MSG5="Uzyskiwanie numeru bloku wyprowadzeń z dysku źródłowego"
+datos_al_vuelo_MSG6="KOPIOWANIE DYSKU..."
+
+# clonar_cd
+
+clonar_cd_MSG1="działa"
+clonar_cd_MSG2="Płyta CD została sklonowana pomyślnie"
+clonar_cd_MSG3="WYSTĄPIŁ BŁĄD PODCZAS KLONOWANIA PŁYTY CD"
+
+# datos
+
+datos_MSG1="Pliki i katalogi do utworzenia obrazu .iso"
+datos_MSG2="ETYKIETA CD/DVD/BD"
+datos_MSG3="Wprowadź nazwę przyszłej płyty CD/DVD/BD:"
+datos_MSG4="Uruchamianie menedżera plików:"
+datos_MSG5=" TWORZENIE OBRAZU . . "
+datos_MSG6="działa"
+datos_MSG7="OBRAZ ISO-9660 UTWORZONY W"
+datos_MSG8="NAGRYWANIE CD/DVD/BD"
+datos_MSG9="PROCES TWORZENIA PLIKU OBRAZU NIE POWIODŁ SIĘ"
+datos_MSG10="PONOWNA PRÓBA UTWORZENIA NOWEGO BEZ OBSŁUGI DLA HFS (Macintosh)"
+datos_MSG11="USUWANIE OBRAZU . . ."
+datos_MSG12="TWORZENIE NOWEGO OBRAZU . . . "
+datos_MSG13="NIE MOŻNA POPRAWNIE ZAPISAĆ"
+datos_MSG14="------------PONOWNA PRÓBA PROCESU NAGRYWANIA---------------"
+datos_MSG15="USUŃ OBRAZ..."
+datos_MSG16="NAGRYWANIE płyt CD/DVD/BD z danymi ISO-9660..."
+datos_MSG17="Nie znaleziono."
+datos_MSG18="Przerywam nagrywanie na dysku..."
+
+# datoslb
+
+datoslb_MSG1="Error: No se encuentra el fichero de imagen. Abortando..."
+datoslb_MSG2="PROCESO DE GRABACIÓN OK"
+datoslb_MSG3="ERROR EN EL PROCESO DE GRABACIÓN"
+
+# borra
+
+borra_MSG0="Poprzednie menu"
+borra_MSG1="Wybierz tryb kasowania płyty CD-RW"
+borra_MSG2="----------------------------------"
+borra_MSG3="Szybkie usuwanie (użyj płyty cdrecord)"
+borra_MSG4="Całkowicie usuń (użyj cdrecord)"
+borra_MSG5="Wymagane usunięcie (użyj cdrskin)"
+borra_MSG6="działa"
+borra_MSG7="W zależności od stanu dysku stosowane jest niezbędne formatowanie lub usuwanie"
+borra_MSG8="CD-RW USUNIĘTO POMYŚLNIE!!"
+borra_MSG9="BŁĄD PODCZAS USUWANIA CD-RW"
+borra_MSG10="WYMUŚ USUŃ CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="BŁĄD PRZY PRÓBIE KASOWANIA PŁYTY CD-RW"
+err_borra_cdrw_MSG2="CD-RW NIEUŻYWALNY"
+err_borra_cdrw_MSG3="NIE MOŻNA USUNĄĆ TEJ CD-RW"
+err_borra_cdrw_MSG4="SPRAWDŹ CD-RW POD KĄTEM USZKODZEŃ FIZYCZNYCH"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="działa"
+cerrar_cd_MSG2="PŁYTA CD ZOSTAŁA PRAWIDŁOWO ZAMKNIĘTA"
+cerrar_cd_MSG3="BŁĄD PODCZAS ZAMYKANIA PŁYTY CD"
+cerrar_cd_MSG4="ZAMYKANIE ŚCIEŻKI NA CD Z DANYMI . . ."
+
+# grabimg
+
+grabimg_MSG1="Obraz .iso lub .ext2 do nagrania na CD/DVD"
+grabimg_MSG2="Uruchamianie menedżera plików."
+grabimg_MSG3="Wpisz pełną ścieżkę, w której znajduje się obraz CD/DVD, który chcesz nagrać:"
+grabimg_MSG4="działa"
+grabimg_MSG5="------PONOWNA PRÓBA PROCESU NAGRYWANIA-----------"
+grabimg_MSG6="NAGRYWANIE ZAKOŃCZONE!!"
+grabimg_MSG7="OBRAZ .EXT2 POMYŚLNIE ZAPISANY"
+
+# grabimglb
+
+grabimglb_MSG1="Wpisz pełną ścieżkę, w której znajduje się obraz CD/DVD, który chcesz nagrać:"
+grabimglb_MSG2="Nagrywanie obrazu na dysk..."
+grabimglb_MSG3="OBRAZ ISO-9660 POMYŚLNIE ZAPISANY"
+grabimglb_MSG4="BŁĄD W ZAPISIE OBRAZU ISO-9660"
+grabimglb_MSG5="Błąd: nie znaleziono pliku obrazu. Przerywam..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1="Pliki .bin i .cue do nagrywania obrazu"
+grabimg_cue_MSG2="Aby nagrać obraz bin/cue, oba pliki muszą"
+grabimg_cue_MSG3="być w aktywnym katalogu."
+grabimg_cue_MSG4="Aktualny aktywny katalog"
+grabimg_cue_MSG5="Wprowadź nazwę pliku *.cue, który odwołuje się do pliku obrazu *.bin"
+grabimg_cue_MSG6=".plik cue: "
+grabimg_cue_MSG7="działa"
+grabimg_cue_MSG8="NAGRYWANIE ZAKOŃCZONE!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Nagraj wielosesyjną płytę CD z obrazu .iso"
+cd_multi_MSG2="Nagraj pierwszą sesję na płytę CD z obrazu .iso"
+cd_multi_MSG3="Nagraj wielosesyjną płytę CD z plików na dysku"
+cd_multi_MSG4="Nagrywaj kolejne sesje na płytę CD z plików znajdujących się na dysku twardym"
+cd_multi_MSG5="Ta opcja wymaga wielosesyjnej płyty CD z wcześniej nagraną sesją."
+cd_multi_MSG6="Poprzednie menu"
+cd_multi_MSG7="Obraz .iso do nagrania na płycie CD-Multi-session"
+cd_multi_MSG8="Określ ścieżkę obrazu .iso"
+cd_multi_MSG9="działa"
+cd_multi_MSG10="Wielosesyjna płyta CD została nagrana pomyślnie!!"
+cd_multi_MSG11="Katalogi do umieszczenia w obrazie."
+cd_multi_MSG12="Określ poniżej, które katalogi mają zostać uwzględnione"
+cd_multi_MSG13="Wprowadź nazwę etykiety płyty CD:"
+cd_multi_MSG14="TWORZENIE OBRAZU..."
+cd_multi_MSG15="UTWORZONO SUKCESEM"
+cd_multi_MSG16="BŁĄD PODCZAS TWORZENIA OBRAZU. PRZERWANIE PROCESU NAGRYWANIA..."
+cd_multi_MSG17="NAGRYWANIE OBRAZU CD..."
+cd_multi_MSG18="MENU WIELU SESJI CD"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="ZRYWANIE CD AUDIO..."
+copia_cd_audio_MSG2="Uruchamianie"
+copia_cd_audio_MSG3="Ścieżki audio zostały pomyślnie zgrane!!"
+copia_cd_audio_MSG4="BŁĄD PODCZAS ZGRYWANIA ŚCIEŻEK AUDIO"
+copia_cd_audio_MSG5="NAGRYWANIE CD AUDIO..."
+copia_cd_audio_MSG6="Płyta CD AUDIO POMYŚLNIE KOPIOWANA!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1="Pliki .wav do nagrania na płytę CD"
+wav_a_cd_MSG2="Linux-cdgrab nie sprawdzi rozmiaru katalogu"
+wav_a_cd_MSG3="Na wszelki wypadek upewnij się, że nie jest to więcej niż 650 MB"
+wav_a_cd_MSG4="jeśli używasz 80-minutowej płyty CD."
+wav_a_cd_MSG5="Wprowadź ścieżkę katalogu plików .wav"
+wav_a_cd_MSG6="działa"
+wav_a_cd_MSG7="PROCES ZAKOŃCZONY!"
+
+# cdmixto
+
+cdmixto_MSG1="Projekt tworzenia CD-Mixto (obraz danych .iso + pliki audio .wav)"
+cdmixto_MSG2="Linux-cdgrab nie sprawdzi rozmiaru katalogu"
+cdmixto_MSG3="gdzie są pliki audio."
+cdmixto_MSG4="Nie zrobi tego również z obrazu .iso, który zamierzasz nagrać"
+cdmixto_MSG5="po."
+cdmixto_MSG6="Bądź konsekwentny w swoim rozmiarze"
+cdmixto_MSG7="nagraj na swoją nową płytę CD."
+cdmixto_MSG8="Określ ścieżkę plików audio:"
+cdmixto_MSG9="Określ ścieżkę obrazu ISO:"
+cdmixto_MSG10="######################################"
+cdmixto_MSG11="NAGRYWANIE MIESZANYCH CD: DANE + AUDIO"
+cdmixto_MSG12="działanie"
+cdmixto_MSG13="----MIESZANA płyta CD POMYŚLNIE STWORZONA-----!!"
+cdmixto_MSG14="------BŁĄD PODCZAS WYPALANIA MIESZANYCH CD--------"
+
+# discoinfo
+
+discoinfo_MSG1="działanie"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="Przeskanowano port IDE/SCSI"
+cdrecord_scan_MSG1="Błąd podczas skanowania portu IDE/SCSI"
+cdrecord_scan_MSG2="Nie znaleziono płyty CD"
+
+

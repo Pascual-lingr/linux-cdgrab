@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Georgiano para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* ნავიგაციის ვარიანტები ************************"
+ayuda_gestor_de_archivos_MSG2="დაათვალიერეთ ფაილური სისტემა."
+ayuda_gestor_de_archivos_MSG3="X --> გარეთ გასვლა"
+ayuda_gestor_de_archivos_MSG4="A --> წინა დირექტორია"
+ayuda_gestor_de_archivos_MSG5="B --> შემდეგი დირექტორია"
+ayuda_gestor_de_archivos_MSG6="მოქმედებები ფაილებსა და დირექტორიებზე."
+ayuda_gestor_de_archivos_MSG7="C --> დააკოპირეთ ფაილი"
+ayuda_gestor_de_archivos_MSG8="M --> ფაილის გადატანა"
+ayuda_gestor_de_archivos_MSG9="CD --> დააკოპირეთ დირექტორია"
+ayuda_gestor_de_archivos_MSG10="MD --> დირექტორიას გადატანა"
+ayuda_gestor_de_archivos_MSG11="ფაილებსა და დირექტორიებზე მოქმედებების გაგება."
+ayuda_gestor_de_archivos_MSG12="Z --> შეკუმშოს ფაილი"
+ayuda_gestor_de_archivos_MSG13="DZ --> გახსენით ფაილი"
+ayuda_gestor_de_archivos_MSG14="EZ --> შექმენით .tar.gz ან .tar.bz2 პაკეტი"
+ayuda_gestor_de_archivos_MSG15="DEZ --> ამოალაგეთ .tar.gz ან .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="***********************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="მიმდინარე აქტიური დირექტორია"
+gestor_de_archivos_MSG0B="ფაილები"
+gestor_de_archivos_MSG1="============================ ნავიგაციის ვარიანტები =========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> დახმარება="
+gestor_de_archivos_MSG3="============================================================================="
+gestor_de_archivos_MSG4="აკრიფეთ ვარიანტი"
+gestor_de_archivos_MSG5="ჩაწერეთ დირექტორია"
+gestor_de_archivos_MSG6="აკრიფეთ საწყისი ფაილი"
+gestor_de_archivos_MSG7="აკრიფეთ დანიშნულების ფაილი"
+gestor_de_archivos_MSG8="ფაილი წარმატებით დაკოპირდა"
+gestor_de_archivos_MSG9="შეცდომა ფაილის კოპირებისას"
+gestor_de_archivos_MSG10="აკრიფეთ საწყისი ფაილი"
+gestor_de_archivos_MSG11="აკრიფეთ დანიშნულების ფაილი"
+gestor_de_archivos_MSG12="ფაილი წარმატებით გადავიდა"
+gestor_de_archivos_MSG13="შეცდომა ფაილის გადატანისას"
+gestor_de_archivos_MSG14="აკრიფეთ წყაროს დირექტორია"
+gestor_de_archivos_MSG15="აკრიფეთ დანიშნულების დირექტორია"
+gestor_de_archivos_MSG16="ცნობარი წარმატებით დაკოპირდა"
+gestor_de_archivos_MSG17="შეცდომა დირექტორია კოპირებისას"
+gestor_de_archivos_MSG18="აკრიფეთ წყაროს დირექტორია"
+gestor_de_archivos_MSG19="აკრიფეთ დანიშნულების დირექტორია"
+gestor_de_archivos_MSG20="ცნობარი წარმატებით გადავიდა"
+gestor_de_archivos_MSG21="შეცდომა დირექტორიას გადატანისას"
+gestor_de_archivos_MSG22="ფაილი შეკუმშვისთვის"
+gestor_de_archivos_MSG23="მიუთითეთ ფაილის გზა"
+

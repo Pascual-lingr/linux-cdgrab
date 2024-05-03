@@ -1,0 +1,281 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Islandés para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux-cdgrab stillingar"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Ef þú veist ekki hvaða IDE rás tilheyrir"
+ayuda_IDE_MSG2="Upptökutækið þitt getur komist að því með því að ýta á stafinn t."
+ayuda_IDE_MSG3="Dæmi um IDE rásina getur verið 0,0,0 eða 0,1,0"
+ayuda_IDE_MSG4="Þú getur líka tilgreint samsvarandi tæki"
+ayuda_IDE_MSG5="í upptökutækið þitt. Ef þú veist ekki hver það er örugglega ýttu á d,"
+ayuda_IDE_MSG6="til að skoða tækin sem eru skráð í /etc/fstab skránni"
+ayuda_IDE_MSG7="Dæmi um tæki gæti verið /dev/hdd, /dev/hde osfrv."
+ayuda_IDE_MSG8="Ef þú vilt geturðu líka skráð öll tæki sem eru í boði"
+ayuda_IDE_MSG9="í /dev skránni með því að ýta á bókstafinn l."
+ayuda_IDE_MSG10="Þú verður að tilgreina IDE rásina eða upptökutæki"
+ayuda_IDE_MSG11="en ekki bæði."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab hefur verið fjarlægt af vélinni þinni"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Upptökuhraði"
+imprimir_variables_MSG2="IDE/SCSI rás eða upptökutæki"
+imprimir_variables_MSG3="CD-ROM, DVD-ROM eða BD-ROM lesandi"
+imprimir_variables_MSG4="ATAPI tæki"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Upptökuhraði"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI rás eða upptökutæki"
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM eða BD-ROM lesandi"
+imprimir_lcdgrabcfg_MSG4="ATAPI tæki"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Uppsett"
+chequeo_de_aplicaciones_MSG2="EKKI UPPSETT"
+chequeo_de_aplicaciones_MSG3="Setja upp"
+chequeo_de_aplicaciones_MSG4="MIKILVÆGT:"
+chequeo_de_aplicaciones_MSG5="Að setja upp nauðsynleg verkfæri Linux-cdgrab virkar algjörlega"
+chequeo_de_aplicaciones_MSG6="Öll forritin sem Linux-cdgrab þarfnast eru uppsett á kerfinu þínu"
+chequeo_de_aplicaciones_MSG4B="ATKYNNING:"
+chequeo_de_aplicaciones_MSG5B="Tól sem vantar fannst"
+chequeo_de_aplicaciones_MSG6B="Tól uppsett á kerfinu"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 er sjálfgefið úthlutað þessari breytu"
+msgdefCANALATAPI_MSG2="Stillingarskráin verður skrifuð með CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Stillingarskrá búin til sjálfkrafa af Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG5="cdrecord hefur ekki fundist í kerfinu"
+nuevo_lcdgrabcfg_MSG6="Settu upp cdrtools pakkanum."
+nuevo_lcdgrabcfg_MSG7="Þú getur haldið áfram stillingunni með því að tilgreina gildin"
+nuevo_lcdgrabcfg_MSG8="upptaka ef þú þekkir þá áður."
+nuevo_lcdgrabcfg_MSG9="Cdrecord skipunin er notuð til að taka upp geisladiska, DVD og BD diska"
+nuevo_lcdgrabcfg_MSG10="Þessir valkostir munu ekki virka fyrr en þessi pakki er settur upp."
+nuevo_lcdgrabcfg_MSG11="Drifskannaverkfærið, sem er til staðar, mun heldur ekki virka"
+nuevo_lcdgrabcfg_MSG12="í þessari stillingarhjálp."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab þarf að stilla í eftirfarandi fjórum skrefum"
+nuevo_lcdgrabcfg_MSG14="Fyrsta skref."
+nuevo_lcdgrabcfg_MSG15="Upptökuhraði:"
+nuevo_lcdgrabcfg_MSG16="Aðeins ein tala 2,4,8,16,32... osfrv"
+nuevo_lcdgrabcfg_MSG17="Annað skref."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI rás eða upptökutæki:"
+nuevo_lcdgrabcfg_MSG19="A -> hjálp"
+nuevo_lcdgrabcfg_MSG20="Skanna..."
+nuevo_lcdgrabcfg_MSG21="Villa við að skanna IDE/SCSI tengi"
+nuevo_lcdgrabcfg_MSG22="Cdreskrá fannst ekki"
+nuevo_lcdgrabcfg_MSG23="Þriðja skref."
+nuevo_lcdgrabcfg_MSG24="CD-ROM, DVD-ROM eða BD-ROM tæki"
+nuevo_lcdgrabcfg_MSG25="L -> Listi yfir tiltæk tæki"
+nuevo_lcdgrabcfg_MSG26="Skanna..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI tengi skannað"
+nuevo_lcdgrabcfg_MSG28="Tæki til að nota af cdrecord í gegnum dev=ATAPI í fjöllota upptökum"
+nuevo_lcdgrabcfg_MSG30="Tækið er með flokkunarkerfi eins og 0,0,0 eða 1,0,0 osfrv"
+nuevo_lcdgrabcfg_MSG31="Tilgreindu tækið til að hringja í cdrecord á geisladiskum með mörgum lotum: "
+nuevo_lcdgrabcfg_MSG32="Stillingin er ekki rétt fyrir CANALATAPI"
+nuevo_lcdgrabcfg_MSG33="Villa við að skanna IDE/SCSI tengi"
+nuevo_lcdgrabcfg_MSG34="Cdreskrá fannst ekki"
+nuevo_lcdgrabcfg_MSG36="Stillingarskrá búin til sjálfkrafa af Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB UPPSETNINGU LOKIÐ"
+
+# colores
+
+colores_MSG1="Listi yfir liti finnst ekki"
+colores_MSG2="Hleður sjálfgefna litum"
+colores_MSG3="Veldu nýtt litasamsetningu fyrir LINUX-CDGRAB viðmótið"
+colores_MSG4="SVART leturgerð"
+colores_MSG5="STAÐAÐ BJÖRT leturgerð"
+colores_MSG6="SVARTUR BAKGRUNSLITUR"
+colores_MSG7="RAUTT letur"
+colores_MSG8="BRIGHT SVART leturgerð"
+colores_MSG9="RAUUR BAKGRUNSLITUR"
+colores_MSG10="FONT GREEN"
+colores_MSG11="BJARTRAAUÐUR GONNUR"
+colores_MSG12="GRÆNUR BAKGRUNSLITUR"
+colores_MSG13="GULT leturgerð"
+colores_MSG14="BRIGHT GREEN LETTER"
+colores_MSG15="appelsínugulur bakgrunnslitur"
+colores_MSG16="BLÁT leturgerð"
+colores_MSG17="BJART GULT leturgerð"
+colores_MSG18="BLÁR BAKGRUNSLITUR"
+colores_MSG19="MAGENTA leturgerð"
+colores_MSG20="BRIGHT BLUE LETTERTYR"
+colores_MSG21="MAGENTA BAKGRUNNLITUR"
+colores_MSG22="CYAN SOURCE"
+colores_MSG23="BRIGHT MAGENTA LETTERUR"
+colores_MSG24="BAKGRUNSLITUR"
+colores_MSG25="GRÁTT letur"
+colores_MSG26="BAKGRUNSLITUR"
+colores_MSG27="BRIGHT CYAN LETTERUR"
+colores_MSG28="GRÁR BAKGRUNSLITUR"
+colores_MSG29="sjálfgefin uppspretta"
+colores_MSG30="BRIGHT WHITE LETTER"
+colores_MSG31="sjálfgefinn bakgrunnslitur"
+colores_MSG32="Litanúmer fyrir leturgerðina: "
+colores_MSG33="Litanúmer fyrir bakgrunninn: "
+colores_MSG34="Litanúmer fyrir viðvörunarskilaboð: "
+colores_MSG35="Litanúmer fyrir merkiskilaboð: "
+colores_MSG36="Litanúmer fyrir vel lokið ferli"
+colores_MSG37="Litanúmer fyrir ferla sem hætt var með villu: "
+colores_MSG38="Nýtt kerfi fyrir LINUX-CDGRAB"
+colores_MSG39="ALMENN leturlitur"
+colores_MSG40="MERKIÐ"
+colores_MSG41="TILKYNNINGAR"
+colores_MSG42="Árangur"
+colores_MSG43="VILLA"
+colores_MSG44="BAKGRUNNLITUR"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="LISTI UM LITIR Í BOÐI:"
+cambiar_esquema_de_color_MSG2="#####LITASKEMA########"
+cambiar_esquema_de_color_MSG3="----------------------"
+cambiar_esquema_de_color_MSG4="Litavalmynd"
+cambiar_esquema_de_color_MSG5="Mistókst"
+cambiar_esquema_de_color_MSG6="Flokkar"
+cambiar_esquema_de_color_MSG6b="Tilkynningar"
+cambiar_esquema_de_color_MSG7="Litavalmynd OK Bilunarviðvörunarmerki"
+cambiar_esquema_de_color_MSG8="Sláðu inn númer nýja litarins:"
+cambiar_esquema_de_color_MSG9="ÓGILDUR VALKOSTUR"
+cambiar_esquema_de_color_MSG10="STELJA SJÁLFGELGNA LITI."
+cambiar_esquema_de_color_MSG11=" BACKGROUND = BLUE_BACKGROUND"
+cambiar_esquema_de_color_MSG12="FONT = BJÖRT HVÍT"
+cambiar_esquema_de_color_MSG13=" VIÐVÖRUN = BJART GULUR"
+cambiar_esquema_de_color_MSG14=" VILLUR = BJARTRAUÐ"
+cambiar_esquema_de_color_MSG15=" VILLUR = BJARTRAUÐ"
+cambiar_esquema_de_color_MSG16=" HITS = BJARTGRÆNT"
+cambiar_esquema_de_color_MSG17=" MERKIÐ = BJÖRT CYAN"
+
+# cambia_lector
+
+cambia_lector_MSG1="UMHVERFISSTILLINGAR FYRIR OPTÍSKAR EININGAR"
+cambia_lector_MSG2="Núverandi tæki sem tengist geisladiskinum, DVD-ROM eða BD-ROM"
+cambia_lector_MSG3="Núverandi tæki tengt geisladiska/DVD/BD brennaranum"
+cambia_lector_MSG4="Núverandi tæki sem tengist færibreytunni dev=ATAPI"
+cambia_lector_MSG5="(fjöllota stuðningur fyrir cdrecord)"
+cambia_lector_MSG6="Veldu tækið sem breytingin á að gera á."
+cambia_lector_MSG7="Sláðu inn valmöguleika:"
+cambia_lector_MSG8="Sláðu inn nafn nýja tækisins"
+cambia_lector_MSG9="svarar ekki til blokkunartækis"
+cambia_lector_MSG10="Tæki"
+cambia_lector_MSG11="úthlutað sjálfgefið"
+cambia_lector_MSG12="Nýja tækið er:"
+cambia_lector_MSG13="Ekki allar útgáfur af cdrecord samþykkja blokkunartæki sem upptökufæribreytu"
+cambia_lector_MSG14="Sláðu inn nafn nýja ATAPI tækisins"
+cambia_lector_MSG15="Stillingin er ekki rétt fyrir CANALATAPI"
+cambia_lector_MSG16="0,0,0 er sjálfgefið úthlutað þessari breytu"
+cambia_lector_MSG17="Stillingarskráin verður skrifuð með CANALATAPI = 0,0,0"
+cambia_lector_MSG18="Nýja tækið er:"
+cambia_lector_MSG19="ENGAR BREYTINGAR ERU GERÐAR Á TÆKJunum"
+cambia_lector_MSG4B="Flytja út gildi úr stillingarskránni"
+cambia_lector_MSG4C="Þessi gildi voru tilkynnt í umhverfið:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Í þessari valmynd geturðu valið hvaða tól"
+cambia_generador_isocd_MSG2="verður notað til að búa til ISO-9660 myndir"
+cambia_generador_isocd_MSG3="af geisladiskum sem fyrir eru á lestrareiningunni."
+cambia_generador_isocd_MSG4="Núverandi uppsetning:"
+cambia_generador_isocd_MSG5="Notaðu dd (GNU coreutils hluti)"
+cambia_generador_isocd_MSG6="Notaðu readcd (cdrtools hluti)"
+cambia_generador_isocd_MSG7="Fyrri valmynd."
+cambia_generador_isocd_MSG8="Veldu valkost:"
+cambia_generador_isocd_MSG9="Notið dd sem iso rafall."
+cambia_generador_isocd_MSG10="Notar readcd sem iso rafall."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Setja HFS lýsigögn ásamt Rock Ridge og Joliet"
+establecer_hfs_iso_MSG2="Notaðu aðeins Rock Ridge og Joliet lýsigögn"
+establecer_hfs_iso_MSG3="Fyrri valmynd."
+establecer_hfs_iso_MSG4="Veldu valkost:"
+establecer_hfs_iso_MSG5="Notkun HFS, Rock Ridge og Joliet lýsigögn"
+establecer_hfs_iso_MSG6="Notkun Rock Ridge og Joliet lýsigögn"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Núverandi tilkynningakerfi"
+cambia_notificaciones_MSG2A="GNOME grafískt viðmót"
+cambia_notificaciones_MSG2B="KDE grafískt viðmót"
+cambia_notificaciones_MSG2="Viðmót við ncurses"
+cambia_notificaciones_MSG3="Textaviðmót"
+cambia_notificaciones_MSG4="Hætta"
+cambia_notificaciones_MSG5="Veldu valkost:"
+cambia_notificaciones_MSG6="Notuð viðmót með glugga"
+cambia_notidicaciones_MSG6B="Notkun viðmóts með sensity"
+cambia_notidicaciones_MSG6C="Notkun viðmóts með kdialog"
+cambia_notificaciones_MSG7="Valurskipun fannst ekki"
+cambia_notificaciones_MSG8="Að nota textaviðmót"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Tungumál í notkun:"
+cambiar_idioma_UI_MSG1="Tungumál sem eru tiltæk eins og er:"
+cambiar_idioma_UI_MSG2="Sláðu inn nafn tungumálsins sem verður notað"
+cambiar_idioma_UI_MSG3="í viðmóti forritsins:"
+cambiar_idioma_UI_MSG4="Nýja tungumálið sem er notað er:"
+cambiar_idioma_UI_MSG5="Endurræstu LINUX-CDGRAB"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Núverandi uppsetning"
+seleccion_gestor_archivos_MSG2="Notaðu mc"
+seleccion_gestor_archivos_MSG3="Nota samþættan textastjóra"
+seleccion_gestor_archivos_MSG4="mc finnst ekki uppsett á kerfinu"
+seleccion_gestor_archivos_MSG5="Að nota samþættan textastjóra sjálfgefið"
+seleccion_gestor_archivos_MSG6="mc gagnsemi"
+seleccion_gestor_archivos_MSG7="Innbyggður texti"
+
+# centro_de_control
+
+centro_de_control_MSG1="STJÓRNARMIÐSTÖÐ"
+centro_de_control_MSG2="Ný stilling"
+centro_de_control_MSG3="Eyða stillingarskrá"
+centro_de_control_MSG4="Sýna núverandi stillingarskrá og gildi"
+centro_de_control_MSG5="STILLINGARSKRÁ:"
+centro_de_control_MSG5B="NÚVERANDI UPPSTILLINGAR NOTUÐ Í UMHVERFINUM:"
+centro_de_control_MSG6="Breyta optískum miðli"
+centro_de_control_MSG7="Athugaðu uppsett forrit"
+centro_de_control_MSG8="Skannaðu IDE/SCSI tengið með cdrecord"
+centro_de_control_MSG8C="Skannaðu IDE/SCSI tengið með cdrskin"
+centro_de_control_MSG8B="Skrá einingar uppsettar í kerfinu með cdrskin"
+centro_de_control_MSG9="Breyta iso vinnsluforriti af geisladiski"
+centro_de_control_MSG9B="Setja HFS lýsigögn fyrir iso-9660"
+centro_de_control_MSG10="Breyta notendaviðmóti"
+centro_de_control_MSG10b="Breyta lit"
+centro_de_control_MSG10c="Breyta tungumáli viðmóts"
+centro_de_control_MSG11="Breyta skráarstjóra"
+centro_de_control_MSG11B="Fjarlægja forrit"
+centro_de_control_MSG12="Sláðu inn valmöguleika: "
+centro_de_control_MSG13="STILLINGARSKRÁ ER EKKI TIL"
+centro_de_control_MSG14="STILLINGARSKRÁ FINNS EKKI"
+centro_de_control_MSG15="Skanna"
+centro_de_control_MSG16="IDE/SCSI tengi skannað"
+centro_de_control_MSG17="Villa við að skanna IDE/SCSI tengi"
+centro_de_control_MSG18="Veldu litasamsetningu"
+centro_de_control_MSG19="Veldu liti eftir geðþótta"
+centro_de_control_MSG20="Fyrri valmynd"
+centro_de_control_MSG21="Sláðu inn valmöguleika: "
+centro_de_control_MSG22="STILLINGARSKRÁ ER EKKI TIL"
+centro_de_control_MSG23="STILLINGARSKRÁ FINN EKKI"
+centro_de_control_MSG24="Veldu litasamsetningu"
+centro_de_control_MSG25="Veldu liti eftir geðþótta"
+centro_de_control_MSG26="Ógildur valkostur"

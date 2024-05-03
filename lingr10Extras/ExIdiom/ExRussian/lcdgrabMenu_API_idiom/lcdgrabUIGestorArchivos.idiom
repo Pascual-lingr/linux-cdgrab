@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRussian/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Ruso para el gestor de archivos
+# Traducción experimental, generada con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* ОПЦИИ НАВИГАЦИИ ************************"
+ayuda_gestor_de_archivos_MSG2="Просмотрите файловую систему."
+ayuda_gestor_de_archivos_MSG3="X --> Выход"
+ayuda_gestor_de_archivos_MSG4="A --> Предыдущий каталог"
+ayuda_gestor_de_archivos_MSG5="B --> Следующий каталог"
+ayuda_gestor_de_archivos_MSG6="Действия над файлами и каталогами."
+ayuda_gestor_de_archivos_MSG7="C --> Копировать файл"
+ayuda_gestor_de_archivos_MSG8="M --> Переместить файл"
+ayuda_gestor_de_archivos_MSG9="CD --> Копировать каталог"
+ayuda_gestor_de_archivos_MSG10="MD --> Переместить каталог"
+ayuda_gestor_de_archivos_MSG11="Понимание действий с файлами и каталогами."
+ayuda_gestor_de_archivos_MSG12="Z --> Сжать файл"
+ayuda_gestor_de_archivos_MSG13="DZ --> Распаковать файл"
+ayuda_gestor_de_archivos_MSG14="EZ --> Создайте пакет .tar.gz или .tar.bz2"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Распакуйте .tar.gz или .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*****************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Текущий активный каталог"
+gestor_de_archivos_MSG0B="Файлы в"
+gestor_de_archivos_MSG1="=============================== ОПЦИИ НАВИГАЦИИ ============================"
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> ПОМОГАТЬ="
+gestor_de_archivos_MSG3="============================================================================"
+gestor_de_archivos_MSG4="Введите параметр"
+gestor_de_archivos_MSG5="Тип каталога"
+gestor_de_archivos_MSG6="Введите исходный файл"
+gestor_de_archivos_MSG7="Введите файл назначения"
+gestor_de_archivos_MSG8="Файл успешно скопирован"
+gestor_de_archivos_MSG9="Ошибка копирования файла"
+gestor_de_archivos_MSG10="Введите исходный файл"
+gestor_de_archivos_MSG11="Введите файл назначения"
+gestor_de_archivos_MSG12="Файл успешно перемещен"
+gestor_de_archivos_MSG13="Ошибка перемещения файла"
+gestor_de_archivos_MSG14="Укажите исходный каталог"
+gestor_de_archivos_MSG15="Введите каталог назначения"
+gestor_de_archivos_MSG16="Каталог успешно скопирован"
+gestor_de_archivos_MSG17="Ошибка копирования каталога"
+gestor_de_archivos_MSG18="Укажите исходный каталог"
+gestor_de_archivos_MSG19="Введите каталог назначения"
+gestor_de_archivos_MSG20="Каталог успешно перемещен"
+gestor_de_archivos_MSG21="Ошибка перемещения каталога"
+gestor_de_archivos_MSG22="ФАЙЛ ДЛЯ СЖАТИЯ"
+gestor_de_archivos_MSG23="Укажите путь к файлу"

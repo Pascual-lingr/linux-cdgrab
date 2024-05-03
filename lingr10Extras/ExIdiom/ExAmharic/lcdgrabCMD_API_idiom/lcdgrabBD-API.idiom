@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAmharic/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Amárico para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 ምስል በብሉ-ሬይ ላይ በትክክል ተመዝግቧል"
+grabar_ISO_BD_MSG2="በብሉ-ሬይ ዲስክ ላይ ምስል ሲቀዳ ስህተት"
+grabar_ISO_BD_MSG3="ISO-9660 ምስል በBD"
+grabar_ISO_BD_MSG4="የሚቃጠልበትን የ ISO-9660 ምስል መንገድ ይግለጹ፡"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="ፋይሎች እና ማውጫዎች የ.iso ምስል ለመፍጠር"
+bd_datos_MSG2="ቢዲ መለያ"
+bd_datos_MSG3="ለወደፊቱ BD ስም አስገባ:"
+bd_datos_MSG4="ፋይል አቀናባሪውን በማስጀመር ላይ፡"
+bd_datos_MSG5="	ምስል መፍጠር። . ."
+bd_datos_MSG6="መሮጥ"
+bd_datos_MSG7="ISO-9660 ምስል ተፈጥሯል።"
+bd_datos_MSG8="		ቢዲ መቅዳት"
+bd_datos_MSG13="ምስልን በመሰረዝ ላይ..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="በዲስክ ሁኔታ ላይ በመመስረት አስፈላጊው ቅርጸት ወይም መሰረዝ ይተገበራል"
+borrar_BDRE_lb_MSG2="BD-RE በተሳካ ሁኔታ ተሰርዟል!!"
+borrar_BDRE_lb_MSG3="BD-RE ሲሰረዝ ስህተት"
+

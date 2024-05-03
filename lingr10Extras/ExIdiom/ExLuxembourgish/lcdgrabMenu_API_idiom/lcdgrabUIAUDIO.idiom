@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLuxembourgish/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en Luxembugués para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="AUDIOCONVERSION"
+menu_conversion_audio_MSG2="------------ CONVERSION ZËSCHT FORMAT ----------"
+menu_conversion_audio_MSG3="Konvertéieren .mp3 op .wav"
+menu_conversion_audio_MSG4="Konvertéieren .ogg op .wav"
+menu_conversion_audio_MSG5="Konvertéieren .wav op .mp3"
+menu_conversion_audio_MSG6="Konvertéieren .wav op .ogg"
+menu_conversion_audio_MSG6C="Convertéieren .wav op .flac"
+menu_conversion_audio_MSG6B="Konvertéieren .flac op .wav"
+menu_conversion_audio_MSG7="------------ AUDIO TRACKS EXTRAKTEREN ----------"
+menu_conversion_audio_MSG8="Ripp eng Audio CD op .wav"
+menu_conversion_audio_MSG9="Rippt eng Rei vun Audio Tracks op .wav"
+menu_conversion_audio_MSG10="Ripp eng Audio CD op .mp3"
+menu_conversion_audio_MSG11="Ripp eng Audio CD op .ogg"
+menu_conversion_audio_MSG0="Menü virdru"
+menu_conversion_audio_MSG12="Sich no .mp3 Dateien"
+menu_conversion_audio_MSG13="Sich no .ogg Dateien"
+menu_conversion_audio_MSG14="Sich no .wav Dateien"
+menu_conversion_audio_MSG15="-------------- ANER OPERATIOUNEN --------------"
+menu_conversion_audio_MSG16="Wav Audiodatei ausschneiden"
+menu_conversion_audio_MSG17="Ripp eng Audio CD op .flac"
+
+

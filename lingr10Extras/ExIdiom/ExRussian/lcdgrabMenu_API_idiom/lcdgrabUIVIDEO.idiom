@@ -1,0 +1,23 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRussian/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en Ruso para el menu de conversion de Video.
+# Traducción experimental, generada con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="ПРЕОБРАЗОВАНИЕ ВИДЕО"
+menu_conversion_video_MSG2="-------- ПРЕОБРАЗОВАНИЕ МЕЖДУ ФОРМАТАМИ ---------"
+menu_conversion_video_MSG3="Конвертировать видео в диски Blu-Ray, совместимые со Smart-TV"
+menu_conversion_video_MSG4="Видеофайл для конвертации:"
+menu_conversion_video_MSG0="Предыдущее меню"
+menu_conversion_video_MSG6="Запись сеанса рабочего стола"
+menu_conversion_video_MSG7="Конвертировать видеофайл в другой формат"
+menu_conversion_video_MSG8="---------------- ДРУГИЕ ВАРИАНТЫ ----------------"
+menu_conversion_video_MSG9="Смешать видеофайл с аудиофайлом"
+menu_conversion_video_MSG10="Извлечь аудио MP3 из видеофайла"
+menu_conversion_video_MSG11="Обрезать видеофайл"

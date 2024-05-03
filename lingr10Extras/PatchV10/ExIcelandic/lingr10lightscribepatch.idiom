@@ -1,0 +1,32 @@
+# Idioma Islandés para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Ýttu á ENTER til að halda áfram..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="========================================"
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 LIGHTSCRIBE STUÐNINGUR."
+cabecera_lightscribe_MSG3="========================================"
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Sláðu inn slóð myndarinnar sem þú vilt prenta á diskinn:"
+imprimir_disco_lightscribe_MSG2="Myndsniðið verður að vera .bmp"
+imprimir_disco_lightscribe_MSG3="í gangi"
+imprimir_disco_lightscribe_MSG4="Merki prentað á diskinn"
+imprimir_disco_lightscribe_MSG5="Villa við að prenta merkimiðann á diskinn"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="LightScribe tækni er aðeins til staðar á sumum einingum"
+lingr10lightscribepatch_MSG2="Þú ættir að athuga hvort upptökutækið þitt hafi það."
+lingr10lightscribepatch_MSG3="Sömuleiðis er aðeins hægt að merkja sérstaka geisladiska eða DVD diska fyrir LightScribe"
+lingr10lightscribepatch_MSG4="Prenta LightScribe disk"
+lingr10lightscribepatch_MSG5="Fyrri valmynd"
+lingr10lightscribepatch_MSG6="Ógildur valkostur"
+

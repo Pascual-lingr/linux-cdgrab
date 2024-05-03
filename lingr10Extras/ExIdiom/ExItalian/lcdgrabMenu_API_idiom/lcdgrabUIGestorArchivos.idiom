@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExItalian/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Italiano para el gestor de archivos
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* OPZIONI DI NAVIGAZIONE ************************"
+ayuda_gestor_de_archivos_MSG2="Sfoglia il file system."
+ayuda_gestor_de_archivos_MSG3="X --> Esci"
+ayuda_gestor_de_archivos_MSG4="A --> Directory precedente"
+ayuda_gestor_de_archivos_MSG5="B --> Directory successiva"
+ayuda_gestor_de_archivos_MSG6="Azioni su file e directory."
+ayuda_gestor_de_archivos_MSG7="C --> Copia il file"
+ayuda_gestor_de_archivos_MSG8="M --> Sposta file"
+ayuda_gestor_de_archivos_MSG9="CD --> Copia directory"
+ayuda_gestor_de_archivos_MSG10="MD --> Sposta directory"
+ayuda_gestor_de_archivos_MSG11="Comprendere le azioni su file e directory."
+ayuda_gestor_de_archivos_MSG12="Z --> Comprimere un file"
+ayuda_gestor_de_archivos_MSG13="DZ --> Decomprimere un file"
+ayuda_gestor_de_archivos_MSG14="EZ --> Crea un pacchetto .tar.gz o .tar.bz2"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Decomprimi un file .tar.gz o .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Directory attiva corrente"
+gestor_de_archivos_MSG0B="File dentro"
+gestor_de_archivos_MSG1="========================= OPZIONI DI NAVIGAZIONE ========================"
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> AIUTO="
+gestor_de_archivos_MSG3="========================================================================="
+gestor_de_archivos_MSG4="Digita un'opzione"
+gestor_de_archivos_MSG5="Digita directory"
+gestor_de_archivos_MSG6="Digita il file sorgente"
+gestor_de_archivos_MSG7="Digita il file di destinazione"
+gestor_de_archivos_MSG8="File copiato con successo"
+gestor_de_archivos_MSG9="Errore nella copiatura del file"
+gestor_de_archivos_MSG10="Digita il file sorgente"
+gestor_de_archivos_MSG11="Digita il file di destinazione"
+gestor_de_archivos_MSG12="File spostato con successo"
+gestor_de_archivos_MSG13="Errore nello spostamento del file"
+gestor_de_archivos_MSG14="Digita la directory di origine"
+gestor_de_archivos_MSG15="Digita la directory di destinazione"
+gestor_de_archivos_MSG16="Directory copiata con successo"
+gestor_de_archivos_MSG17="Errore durante la copia della directory"
+gestor_de_archivos_MSG18="Digita la directory di origine"
+gestor_de_archivos_MSG19="Digita la directory di destinazione"
+gestor_de_archivos_MSG20="Directory spostata con successo"
+gestor_de_archivos_MSG21="Errore nello spostamento della directory"
+gestor_de_archivos_MSG22="FILE DA COMPRIMERE"
+gestor_de_archivos_MSG23="Specificare il percorso del file"
+

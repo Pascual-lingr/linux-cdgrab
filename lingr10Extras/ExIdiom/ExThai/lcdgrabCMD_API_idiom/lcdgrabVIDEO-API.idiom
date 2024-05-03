@@ -1,0 +1,56 @@
+#########################################################
+# lcgdrabAPI_idiom/ExThai/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en tailandés para el API de video.
+# Traducción experimental, generado con Google Translator.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="ความเข้ากันได้ของดิสก์ BLU-RAY การแปลงวิดีโอ"
+conv_video_BDVideo_MSG2="ระบุเส้นทางของไฟล์วิดีโอที่จะแปลง:"
+conv_video_BDVideo_MSG3="ระบุชื่อไฟล์ของวิดีโอใหม่ที่จะสร้าง:"
+conv_video_BDVideo_MSG4="แปลงไฟล์วิดีโอเรียบร้อยแล้ว!!"
+conv_video_BDVideo_MSG5="เกิดข้อผิดพลาดในการแปลงไฟล์วิดีโอ"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="แปลงไฟล์วิดีโอ"
+conv_VideoFich_MSG2="ระบุไฟล์วิดีโอที่จะแปลง:"
+conv_VideoFich_MSG3="ระบุไฟล์วิดีโอที่จะสร้าง:"
+conv_VideoFich_MSG4="การแปลงไฟล์วิดีโอเสร็จสมบูรณ์"
+conv_VideoFich_MSG5="ข้อผิดพลาดเมื่อแปลงไฟล์วิดีโอ"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="ระบุไฟล์วิดีโอ:"
+extrae_Audio_de_Video_MSG2="ระบุไฟล์เสียง mp3 ที่จะสร้าง:"
+extrae_Audio_de_Video_MSG3="การแยกเสียงสำเร็จ"
+extrae_Audio_de_Video_MSG4="ข้อผิดพลาดเมื่อแยกเสียง"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="ระบุไฟล์วิดีโอ:"
+extrae_Fragmento_Video_MSG2="ระบุไฟล์วิดีโอที่จะสร้าง:"
+extrae_Fragmento_Video_MSG3="ระบุเวลาเริ่มต้น (ระบุเป็น HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="ระบุเวลาสิ้นสุด (ระบุเป็น HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="ตัดวิดีโอสำเร็จแล้ว"
+extrae_Fragmento_Video_MSG6="ข้อผิดพลาดเมื่อตัดวิดีโอ"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="ระบุไฟล์เสียง:"
+mezcla_Audio_Video_MSG2="ระบุไฟล์วิดีโอ:"
+mezcla_Audio_Video_MSG3="ระบุไฟล์วิดีโอที่จะสร้าง:"
+mezcla_Audio_Video_MSG4="สร้างไฟล์วิดีโอใหม่สำเร็จแล้ว"
+mezcla_Audio_Video_MSG5="ข้อผิดพลาดในการสร้างไฟล์วิดีโอ"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="ตัวเลือกไม่พร้อมใช้งานสำหรับอินเทอร์เฟซคอนโซล"
+graba_escritorio_MSG2="-- บันทึกเซสชันเดสก์ท็อป -- กด CTRL + C เพื่อยกเลิกและหยุดการบันทึก"
+graba_escritorio_MSG3="การบันทึกวิดีโอเสร็จสมบูรณ์"
+

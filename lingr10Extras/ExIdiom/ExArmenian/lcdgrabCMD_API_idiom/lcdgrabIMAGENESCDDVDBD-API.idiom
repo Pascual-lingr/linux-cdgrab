@@ -1,0 +1,236 @@
+#########################################################
+# lcdgrabAPI_idiom/ExArmenian/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en armenio para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="ՊԱՏԿԵՐԻ ՖԱՅԼ ՀԱՄԱԿԱՐԳ"
+imagen_linux_fs_MSG2="Ընտրեք ֆայլային համակարգը."
+imagen_linux_fs_MSG3="Ստեղծել պատկեր CD-R/RW-ի համար (702 Մբայթ)"
+imagen_linux_fs_MSG4="Ստեղծել պատկեր DVD+RW-ի համար (4 Գբայթ)"
+imagen_linux_fs_MSG5="Ստեղծել պատկեր DVD+RW/DL-ի համար (8 Գբայթ)"
+imagen_linux_fs_MSG5B="Ստեղծել պատկեր BD-R/RE-ի համար (25 Գբայթ)"
+imagen_linux_fs_MSG5C="Ստեղծել պատկերի ֆայլ հատուկ չափով"
+imagen_linux_fs_MSG6="702 Մբայթ հզորությամբ դատարկ ֆայլի ստեղծում"
+imagen_linux_fs_MSG7="4 Գբայթ հզորությամբ դատարկ ֆայլի ստեղծում"
+imagen_linux_fs_MSG8="8 Գբայթ հզորությամբ դատարկ ֆայլի ստեղծում"
+imagen_linux_fs_MSG8B="25 Գբայթ հզորությամբ դատարկ ֆայլի ստեղծում"
+imagen_linux_fs_MSG8C="Ստեղծում դատարկ ֆայլ հատուկ չափով"
+imagen_linux_fs_MSG9="ՍԽԱԼ. ՊԱՏԿԵՐԻ ՉԱՓԸ ՀԱՅՏԻ ՉԷ: ՎԻՃԱՌՈՒՄ Է..."
+imagen_linux_fs_MSG10="Գործում է"
+imagen_linux_fs_MSG11="Ծրագիրը կձևաչափի դատարկ ֆայլը։"
+imagen_linux_fs_MSG12="Համակարգը կզգուշացնի ձեզ, որ նախկինում ստեղծված ֆայլը բլոկ սարք չէ և կհարցնի, արդյոք ցանկանում եք այն ձևաչափել"
+imagen_linux_fs_MSG13="Պատասխանել այո"
+imagen_linux_fs_MSG13="ՁԵՎԱՎՈՐՎԵԼ Է ՀԱՋՈՂՈՎ"
+imagen_linux_fs_MSG14=" Պատկերի տեղադրում..."
+imagen_linux_fs_MSG15="ՍԽԱԼ ԴԱՏԱՐԿ Ֆայլը Ձևաչափելիս"
+imagen_linux_fs_MSG16="Ծրագիրը մոնտաժել է ֆորմատավորված ֆայլը"
+imagen_linux_fs_MSG17="Linux-cdgrab-ը կգործարկի ֆայլերի կառավարիչը, որպեսզի այն կարողանա աշխատել մոնտաժված պատկերի վրա"
+imagen_linux_fs_MSG18="Ֆայլերը պատճենելուց հետո ապամոնտաժեք ֆորմատավորված ֆայլը"
+imagen_linux_fs_MSG19="Linux պատկերն այս գրացուցակում է"
+imagen_linux_fs_MSG19B="ՍԽԱԼ ՊԱՏԿԵՐԻ ՖԱՅԼԸ ՄՈՏԱՑՆԵԼԻՑ"
+imagen_linux_fs_MSG20="Պատկերում ներառվող ֆայլեր: Տեղադրված է /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Ֆայլերի կառավարչի գործարկում..."
+imagen_linux_fs_MSG22="ԶԳՈՒՇԱՑՈՒՄ"
+imagen_linux_fs_MSG23="----------"
+imagen_linux_fs_MSG24="Պատկերը"
+imagen_linux_fs_MSG25="դեռ տեղադրված է"
+imagen_linux_fs_MSG26="ՍԽԱԼ ԴԱՏԱՐԿ ՖԱՅԼ dd-ով ստեղծելիս"
+imagen_linux_fs_MSG27="Ստուգեք, որ դուք ունեք ազատ տարածություն բաժանման վրա, որը տեղադրված է /"
+imagen_linux_fs_MSG34="ՖԱՅԼ ՀԱՄԱԿԱՐԳԸ Ֆայլը Ձևաչափելու համար"
+imagen_linux_fs_MSG35="ՀԱՏՈՒԿ ՉԱՓԵՐՈՎ ԴԱՏԱՐԿ ՖԱՅԼԻ ՍԵՐՈՒՆԴ"
+imagen_linux_fs_MSG36="Նշեք նոր դատարկ ֆայլի բլոկի չափը (միայն թվային արժեքը)."
+imagen_linux_fs_MSG37="Բլոկի չափի արժեքների օրինակ են՝ 1024, 2048 (միայն Ext2) կամ 4096 (Բոլոր ձևաչափերը)"
+imagen_linux_fs_MSG38="Նշեք ստեղծվող դատարկ ֆայլի չափը (միայն թվային արժեք)."
+imagen_linux_fs_MSG39="Տիեզերական չափումներ դատարկ ֆայլը ստեղծելու համար."
+imagen_linux_fs_MSG40="Նշեք օգտագործվող տարածության չափումը."
+imagen_linux_fs_MSG41="ՍԽԱԼ ՉԱՓԻ ՉԱՓՈՒՄԸ Ճշգրտելիս"
+imagen_linux_fs_MSG42="Արգելափակման չափի արժեքը."
+imagen_linux_fs_MSG43="Դատարկ ֆայլի համար տարածության քանակը."
+imagen_linux_fs_MSG44="Հաշվարկված արժեքը բայթերով."
+imagen_linux_fs_MSG45="Հաշվարկված արժեքը հաշվարկի համար."
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Միացնել md5 ընթերցումը .iso պատկերներ ստեղծելիս"
+comprobar_lectura_md5_MSG2="Անջատել md5 ընթերցումը .iso պատկերներ ստեղծելիս"
+comprobar_lectura_md5_MSG3="Նախորդ ընտրացանկ"
+comprobar_lectura_md5_MSG4="Ընթացիկ կոնֆիգուրացիա."
+comprobar_lectura_md5_MSG5="Միացված է"
+comprobar_lectura_md5_MSG6="Անջատված է"
+comprobar_lectura_md5_MSG7="Կարդացեք md5 գումարը ակտիվացված է"
+comprobar_lectura_md5_MSG8="Կարդալ md5 գումարը անջատված է"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Iso պատկերի անունը հնարավոր չէ կարդալ"
+# Resultado del traductor
+leer_md5sum_MSG2="Կարդում է md5sum of"
+leer_md5sum_MSG3="Ցուցադրվում է պատկերի md5 գումարը"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="ՍՏԵՂԾՈՒՄ CD պատկեր"
+extraer_isoCD_dd_MSG2="ՊԱՏԿԵՐԸ ՍՏԵՂԾՎԵԼ Է"
+extraer_isoCD_dd_MSG3="Չի գտնվել"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="DVD ՊԱՏԿԵՐԻ ՍՏԵՂԾՈՒՄ"
+extraer_isoDVD_dd_MSG2="վազում"
+extraer_isoDVD_dd_MSG3="ՊԱՏԿԵՐԸ ՍՏԵՂԾՎԵԼ Է"
+extraer_isoDVD_dd_MSG4="Չի գտնվել"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="վազում"
+extraer_iso_readcd_MSG2="ՊԱՏԿԵՐԸ ՀԱՋՈՂՈՎ ՍՏԵՂԾՎԵԼ Է"
+extraer_iso_readcd_MSG3="Պատկեր ստեղծվել է"
+extraer_iso_readcd_MSG4="Ձայնագրման գործընթացի ընդհատում..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Միացված CD"
+extraer_iso_mkisofs_MSG2="Պատկերի ստեղծում..."
+extraer_iso_mkisofs_MSG3="Macintosh-ի համատեղելիությունը միացված է"
+extraer_iso_mkisofs_MSG4="Օգտագործելով"
+extraer_iso_mkisofs_MSG5="վազում"
+extraer_iso_mkisofs_MSG6="Պատկեր ստեղծված գրացուցակում"
+extraer_iso_mkisofs_MSG7="Գործընթացը նորից փորձեք առանց Macintosh-ի աջակցության"
+extraer_iso_mkisofs_MSG8="Պատկեր ստեղծված գրացուցակում"
+extraer_iso_mkisofs_MSG9="mkisofs-ը ստեղծում է անհայտ սխալներ"
+extraer_iso_mkisofs_MSG10="-ից"
+extraer_iso_mkisofs_MSG11="Ստուգեք տվյալների ամբողջականությունը"
+extraer_iso_mkisofs_MSG12="Մոնտաժում"
+extraer_iso_mkisofs_MSG12B="մեջ"
+extraer_iso_mkisofs_MSG13="genisoimage-ը ստեղծում է անհայտ սխալներ"
+extraer_iso_mkisofs_MSG13B="-ից"
+extraer_iso_mkisofs_MSG14="mkisofs-ը և genisoimage-ը չեն գտնվել: Խնդրում ենք տեղադրել cdrtools կամ cdrkit:"
+extraer_iso_mkisofs_MSG15="Չհաջողվեց տեղադրվել"
+extraer_iso_mkisofs_MSG16="Պատկերը հաջողությամբ ստեղծվել է"
+
+# m_comp_img
+
+m_comp_img_MSG1="ՊԱՏԿԵՐԸ ՀԱՋՈՂՈՎ ՍՏԵՂԾՎԵԼ Է"
+m_comp_img_MSG2="ՑԱՆԿԱՆՈՒՄ Ե՞Ք ԿՈՄՊՐԵՍԵԼ ՊԱՏԿԵՐԻ ՖԱՅԼԸ։"
+m_comp_img_MSG3="(s/y) սեղմել; Գործընթացը չեղարկվել է մեկ այլ տարբերակով:"
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Ֆայլերի կառավարչի գործարկում..."
+generar_iso_directorio_MSG2="Մուտքագրեք անուն ապագա CD/DVD/BD-ի համար"
+generar_iso_directorio_MSG3="ՊԱՏԿԵՐ ՍՏԵՂԾՈՒՄ..."
+generar_iso_directorio_MSG4="Macintosh-ի համատեղելիությունը միացված է"
+generar_iso_directorio_MSG5="Օգտագործում"
+generar_iso_directorio_MSG6="վազում"
+generar_iso_directorio_MSG7="ՊԱՏԿԵՐԸ ՍՏԵՂԾՎԵԼ Է ՏԵՂԵԿԱՏՈՒՈՒՄ"
+generar_iso_directorio_MSG8="ՊԱՏԿԵՐԻ ՍՏԵՂԾՄԱՆ ԳՈՐԾԸՆԹԱՑԸ ՉԱՓԱԽՎԵԼ Է"
+generar_iso_directorio_MSG9="ՊԱՏԿ ՍՏԵՂԾՈՒՄ ԵՆ ԱՌԱՆՑ MACINTOSH-ի ՀԱՄԱՏԵՂԻՆԱԿՈՒԹՅԱՆ"
+generar_iso_directorio_MSG10="mkisofs-ը և genisoimage-ը չեն գտնվել: Խնդրում ենք տեղադրել cdrtools կամ cdrkit:"
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Մուտքագրեք անուն ապագա DVD/BD-ի համար"
+generar_bdv_udf_directorio_MSG2="Նշեք գրացուցակը տեսանյութի պատկերը ստեղծելու համար."
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Նշեք սկավառակի պիտակը."
+generar_iso_directorio_libburnia_MSG2="Նշեք գրացուցակը iso-9660 պատկերը ստեղծելու համար."
+generar_iso_directorio_libburnia_MSG3="ISO9660 պատկերը հաջողությամբ ստեղծվեց!!"
+generar_iso_directorio_libburnia_MSG4="Սխալ՝ iso-9660 պատկերը xorriso-ով ստեղծելիս"
+
+# imagenISO
+
+imagenISO_MSG1="Ֆայլեր և գրացուցակներ .iso պատկերում ներառելու համար"
+imagenISO_MSG2="ԸՆՏՐԵԼ ՏԱՐԲԵՐԱԿ"
+imagenISO_MSG2B="---------------"
+imagenISO_MSG3="Ստեղծեք ISO-9660 պատկեր CD-ից (օգտագործեք dd)"
+imagenISO_MSG4="Ստեղծեք ISO-9660 պատկեր DVD-ից (օգտագործեք dd)"
+imagenISO_MSG5="Ստեղծեք ISO-9660 պատկեր CD-ից (օգտագործեք readcd)"
+imagenISO_MSG6="Ստեղծեք ISO-9660 պատկեր CD կամ DVD սկավառակից (օգտագործեք mkisofs)"
+imagenISO_MSG7="Ստեղծեք ISO-9660 պատկեր կոշտ սկավառակի տվյալներից (օգտագործեք mkisofs)"
+imagenISO_MSG8="Նախորդ ընտրացանկ"
+imagenISO_MSG9="ՊԱՏԿԵՐԻ ՍՏԵՂԾՈՒՄ"
+imagenISO_MSG10="Ստեղծեք ISO-9660 պատկեր կոշտ սկավառակի տվյալներից (օգտագործեք xorriso)"
+imagenISO_MSG11="Ստեղծեք iso/udf պատկեր CD/DVD/BD-ից (օգտագործեք mkisofs)"
+imagenISO_MSG12="Ստեղծեք iso/udf պատկեր կոշտ սկավառակի տվյալներից (օգտագործեք mkisofs)"
+# Resultado del traductor
+imagenISO_MSG13="ISO-9660 FORMATTER MENU"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Ստեղծեք UDF/ISO պատկեր կոշտ սկավառակի տվյալներից (օգտագործեք mkisofs)"
+imagenISO_MSG15="Ստեղծեք UDF/ISO պատկեր DVD տեսանյութերի աջակցությամբ (օգտագործեք mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Մուտքագրեք աղբյուրի բլոկի սարքը, որից պետք է ստեղծվի պատկերը"
+imagen_img_MSG2="------------------------------------------------------------"
+imagen_img_MSG3="/etc/fstab և /etc/mtab-ում գրանցված սարքեր"
+imagen_img_MSG4="Միացնել հրամանի ելքը."
+imagen_img_MSG5="Մուտքագրեք սարքի անունը."
+imagen_img_MSG6="Բլոկի սարքի .img պատկերի ստեղծում"
+imagen_img_MSG7="վազում"
+imagen_img_MSG8="ՍԱՐՔԻ ՊԱՏԿԵՐԸ ՍՏԵՂԾՎԵԼ Է"
+
+# monta_img
+
+monta_img_MSG1="ISO կամ ext2 պատկերը տեղադրելու համար:"
+monta_img_MSG2="Մուտքագրեք գրացուցակի ուղին, որտեղ գտնվում է տեղադրվող պատկերը:"
+monta_img_MSG3="ՄՈՆՏՎԱԾ CD ՊԱՏԿԵՐ."
+monta_img_MSG4="ՍԽԱԼ ՊԱՏԿԵՐԻ ՖԱՅԼԸ ՄՈՏԱՑՐԵԼԻՑ"
+monta_img_MSG5="ՉԻ ԳՏՆՎԵԼ"
+monta_img_MSG6="MOUNT POINT ՉԿԱ"
+monta_img_MSG7="ԱՆՍՊԱՍԵԼԻ ՍԽԱԼ"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO կամ ext2 պատկեր՝ ապամոնտաժվելու համար։"
+desmonta_img_MSG2="ԱԶԱՏՎԱԾ ՊԱՏԿԵՐ"
+desmonta_img_MSG3="Միացված պատկեր չի գտնվել"
+desmonta_img_MSG4="Միացնել ելքը."
+desmonta_img_MSG5="Դուք կարող եք ուղղակիորեն նշել պատկերի բացարձակ գրացուցակի ուղին:"
+desmonta_img_MSG6="Օրինակ՝ /tmp/lcdgrabimg.iso կամ պատկերի մոնտաժող գրացուցակը, ինչպիսին է /mnt/lcdgrab"
+desmonta_img_MSG7="Եթե նշված չէ, այն կարելի է որոնել ֆայլերի կառավարչի միջոցով"
+desmonta_img_MSG8="Ֆայլերի կառավարչի գործարկում"
+desmonta_img_MSG9="Նշեք պատկերի ուղին։"
+desmonta_img_MSG10="ԱԶԱՏՎԱԾ ՊԱՏԿԵՐ"
+desmonta_img_MSG11="ՍԽԱԼ ՊԱՏԿԵՐԸ ԱՊԱՏԱՑՆԵԼՈՎ"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg պատկերը փոխարկելու համար .iso"
+nrg_a_iso_MSG2="Մուտքագրեք փոխարկելու համար .nrg (Nero Burning ROM) պատկերի ուղին"
+nrg_a_iso_MSG3="Պատկերի փոխակերպում..."
+nrg_a_iso_MSG4="Աղբյուրի .nrg պատկերի ուղին"
+nrg_a_iso_MSG5="չկա կամ համապատասխանում է գրացուցակի"
+nrg_a_iso_MSG6="Անվավեր ճանապարհ."
+nrg_a_iso_MSG7="դա արդեն նախկին ISO-9660 պատկերն է, այն չի փոխարկվի։"
+nrg_a_iso_MSG8="Պատճենվում է տարբեր ընդլայնմամբ..."
+nrg_a_iso_MSG9="ՊԱՏՃԱՌՆ ԱՎԱՐՏՎԱԾ Է"
+nrg_a_iso_MSG10="վազում"
+nrg_a_iso_MSG11="Պատկերը հաջողությամբ փոխարկվեց"
+nrg_a_iso_MSG12="ՍԽԱԼ ՊԱՏԿԵՐ ՍՏԵՂԾԵԼԻՑ .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Ստեղծեք .cue նկարագրության ֆայլ .bin պատկերից"
+GenerarArchivocue_MSG2="Ներկայիս ակտիվ գրացուցակը"
+GenerarArchivocue_MSG3="Գրեք միայն գրացուցակի ուղին, որտեղ"
+GenerarArchivocue_MSG4="գտեք պատկերի ֆայլը:"
+GenerarArchivocue_MSG5="Մուտքագրեք .bin պատկերի անունը, որին"
+GenerarArchivocue_MSG6="ստեղծել է իր համապատասխան .cue ֆայլը"
+GenerarArchivocue_MSG7="ՆԿԱՐԱԳՐԱԿԱՆ ՖԱՅԼԸ .cue ՀԱՋՈՂՈՎ ՍՏԵՂԾՎԱԾ Է"
+GenerarArchivocue_MSG8="ՍԽԱԼ, ԵՐԲ ՍՏԵՂԾՈՒՄ Է ՆԿԱՐԱԳՐԱԿԱՆ ՖԱՅԼ .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="վազում"
+ImagenbincueCDDVD_MSG2="ՍԿՍԿԻ ՊԱՏԿԵՐԸ .BIN .CUE-ը ՀԱՋՈՂՈՎ ՍՏԵՂԾՎԱԾ Է"
+

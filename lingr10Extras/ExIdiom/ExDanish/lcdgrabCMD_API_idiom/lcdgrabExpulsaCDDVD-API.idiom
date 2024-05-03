@@ -1,0 +1,16 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDanish/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Danés para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate,.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="OPTISK DISK UDSKUDET"
+expulsar_medio_MSG2="Fejl ved forsøg på at skubbe disken ud fra enheden"
+expulsar_medio_MSG3="Indtast navnet manuelt:"
+

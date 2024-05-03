@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGreek/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en griego para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Εισαγάγετε τη διαδρομή του αρχείου ή του καταλόγου:"
+empaquetar_MSG2="------- Επιλογές -------"
+empaquetar_MSG3="Δημιουργία αρχείου .tar.gz"
+empaquetar_MSG4="Δημιουργία αρχείου .tar.bz2"
+empaquetar_MSG5="Πληκτρολογήστε μια επιλογή: "
+empaquetar_MSG6="Εκτέλεση"
+empaquetar_MSG7="Μη έγκυρη επιλογή"
+
+# desempaquetar
+
+desempaquetar_MSG1="Εισαγάγετε τη διαδρομή του αρχείου:"
+desempaquetar_MSG2="ΔΕΝ ΒΡΕΘΗΚΕ ΑΠΟΣΥΜΠΙΕΣΤΗΣ ΓΙΑ"
+desempaquetar_MSG3="Ή"
+desempaquetar_MSG4="ΔΕΝ ΥΠΑΡΧΕΙ"
+desempaquetar_MSG5="Εκτέλεση"
+desempaquetar_MSG6="unpacked"
+desempaquetar_MSG7="Σφάλμα αποσυσκευασίας"
+
+# comprime
+
+comprime_MSG1="ΣΥΜΠΙΕΣΗ ΕΙΚΟΝΑΣ"
+comprime_MSG2="Συμπίεση με bzip2"
+comprime_MSG3="Συμπίεση με gzip"
+comprime_MSG4="Συμπίεση με xz"
+comprime_MSG5="Προηγούμενο μενού"
+comprime_MSG6="Εκτέλεση"
+comprime_MSG7="Η συμπίεση αρχείου εικόνας ολοκληρώθηκε"
+comprime_MSG8="Σφάλμα συμπίεσης με"
+comprime_MSG9="Μη έγκυρος συμπιεστής"
+
+# descomprime
+
+descomprime_MSG1="Πληκτρολογήστε τη διαδρομή αρχείου:"
+descomprime_MSG2="----------------------------"
+descomprime_MSG3="ΔΕΝ ΒΡΕΘΗΚΕ ΑΠΟΣΥΜΠΙΕΣΤΗΣ ΓΙΑ"
+descomprime_MSG4="Ή"
+descomprime_MSG5="ΔΕΝ ΥΠΑΡΧΕΙ"
+descomprime_MSG6="Εκτέλεση"
+descomprime_MSG7="ασυμπίεστο"
+descomprime_MSG8="Σφάλμα προσπάθειας αποσυμπίεσης"

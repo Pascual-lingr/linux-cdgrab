@@ -1,0 +1,69 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en Suajili para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Njia ya .img au .ext2 picha ya kutupa kwenye diski."
+volcar_imagen_MSG2="-----------------------MUHIMU----------------------------" 
+volcar_imagen_MSG3="+ Chaguo hili halifanyi kazi kwenye diski za macho."
+volcar_imagen_MSG4="+ Tumia kwenye pendrives, diski za floppy, partitions za diski, n.k. "
+volcar_imagen_MSG5="+ Kuzingatia na diski kuu:"
+volcar_imagen_MSG6="+ Picha imeandikwa na dd tangu mwanzo"
+volcar_imagen_MSG7=" kutoka kwa diski maalum, kutumia nambari hairuhusiwi"
+volcar_imagen_MSG8="sekta maalum ya kuanza mchakato wa kuandika"
+volcar_imagen_MSG9="+ Tumia kwa tahadhari. Tumia kwa hatari yako mwenyewe."
+volcar_imagen_MSG10="+ Vigawanyiko vya diski vinaweza kuwa visivyotumika."
+volcar_imagen_MSG11="+ Haipendekezwi kuitumia kwenye mifumo ya sehemu nyingi."
+volcar_imagen_MSG12="Urejeshaji unaweza kuondoka kwenye jedwali la kizigeu na"
+volcar_imagen_MSG13="vigawanyiko vyenyewe visivyo na maana."
+volcar_imagen_MSG14="---------------------------------------------------------"
+volcar_imagen_MSG15="BONYEZA UFUNGUO C ILI KUENDELEA; (Mchakato utaghairiwa kwa chaguo jingine)"
+volcar_imagen_MSG16="Bainisha njia ya faili ya picha kutupwa kwenye diski: "
+volcar_imagen_MSG17="Weka pato la amri:"
+volcar_imagen_MSG18="Bainisha kifaa cha kuzuia ambapo picha inapaswa kutupwa:"
+volcar_imagen_MSG19="KUTUPA PICHA"
+volcar_imagen_MSG20=" KWENYE KIFAA"
+volcar_imagen_MSG21="inaendesha"
+volcar_imagen_MSG22="MCHAKATO WA KUTUPIA PICHA UMEMEKAMILIKA"
+
+# volcar_iso
+
+volcar_iso_MSG1="Bainisha kifaa cha kuzuia ili kuandika picha ya iso kwa:"
+volcar_iso_MSG2="TANGAZO"
+volcar_iso_MSG2B="-------"
+volcar_iso_MSG3="Bainisha kuzuia kifaa cha kuandikia."
+volcar_iso_MSG4="Mifano: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Usibainishe kizigeu cha kifaa hiki"
+volcar_iso_MSG6="Mifano: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Bainisha picha ya iso-9660 au img kuandika:"
+volcar_iso_MSG9="Mchakato umekamilika"
+volcar_iso_MSG10="Kosa katika mchakato wa uandishi wa iso"
+volcar_iso_MSG11="Bainisha ukubwa wa Kizuizi ili kuandika picha"
+volcar_iso_MSG12="Chagua chaguo kulingana na mfumo wa uendeshaji kuandika:"
+volcar_iso_MSG13="ISO-9660 au picha ya IMG inayoweza kuwashwa ili kuwaka kwenye kifaa:"
+volcar_iso_MSG14="Toka"
+volcar_iso_MSG15="ISO-9660 AU FILI LA PICHA YA IMG"
+volcar_ISO_MSG16="CHAGUA MFUMO WA UENDESHAJI ILI UTUPUKE KATIKA KITENGO"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Chagua mfumo wa faili na"
+Formateador_linuxfs_MSG2="kifaa kitaumbizwa:"
+Formateador_linuxfs_MSG3="Bainisha kifaa cha kuzuia kufomati: "
+Formateador_linuxfs_MSG5="MCHAKATO UMEMILIKA"
+Formateador_linuxfs_MSG6="DISK FORMATTER"
+Formateador_linuxfs_MSG7="Weka lebo ya sauti"
+Formateador_linuxfs_MSG10="Bainisha jina la lebo ya sauti"
+Formateador_linuxfs_MSG11="Lebo ya Sauti Mpya"
+Formateador_linuxfs_MSG12="Bainisha ukubwa wa kizuizi"
+Formateador_linuxfs_MSG13="Ukubwa mpya wa kizuizi"
+Formateador_linuxfs_MSG14="Menyu Iliyotangulia"

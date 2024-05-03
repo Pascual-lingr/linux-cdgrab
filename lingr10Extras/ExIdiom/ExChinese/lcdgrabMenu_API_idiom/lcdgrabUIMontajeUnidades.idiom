@@ -1,0 +1,51 @@
+#########################################################
+# lcdgrabAPI_idiom/ExChinese/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en chino simplificado para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="当前安装在系统中的设备"
+montar_dispositivos_MSG1B="组装/拆卸设备"
+montar_dispositivos_MSG2="----LINUX-CDGRAB 选项---"
+montar_dispositivos_MSG3="从 CD/DVD/BD 驱动器中弹出光盘"
+montar_dispositivos_MSG4="从 CD/DVD/BD 刻录机中弹出光盘"
+montar_dispositivos_MSG5="挂载CD-ROM/DVD-ROM/BD-ROM光驱"
+montar_dispositivos_MSG6="卸载 CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="手动安装或卸载设备"
+montar_dispositivos_MSG0="上一个菜单"
+montar_dispositivos_MSG8="CD/DVD/BD 安装在"
+montar_dispositivos_MSG9="按回车键继续..."
+montar_dispositivos_MSG10="无法将 CD/DVD/BD 安装到"
+montar_dispositivos_MSG11="CD/DVD/BD 已卸载"
+montar_dispositivos_MSG12="卸载 CD/DVD/BD 时出错"
+montar_dispositivos_MSG13="键入要挂载/卸载的设备："
+montar_dispositivos_MSG14="输入挂载点："
+montar_dispositivos_MSG15="不对应块设备"
+montar_dispositivos_MSG16="找不到挂载点"
+montar_dispositivos_MSG17="默认挂载点"
+montar_dispositivos_MSG18="选择选项："
+montar_dispositivos_MSG19="骑"
+montar_dispositivos_MSG20="在"
+montar_dispositivos_MSG21="下马"
+montar_dispositivos_MSG22="的"
+montar_dispositivos_MSG23="镶嵌在 ："
+montar_dispositivos_MSG24="组装时出错"
+montar_dispositivos_MSG25="在"
+montar_dispositivos_MSG26="从"
+montar_dispositivos_MSG27="卸载错误"
+montar_dispositivos_MSG28="的"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="挂载命令的输出"
+Montar_Imagenes_MSG1B="安装/卸载图像文件"
+Montar_Imagenes_MSG2="选择一个选项"
+Montar_Imagenes_MSG3="挂载 CD/DVD/BD 镜像"
+Montar_Imagenes_MSG4="卸载 CD/DVD/BD 映像"
+Montar_Imagenes_MSG5="上一个菜单"

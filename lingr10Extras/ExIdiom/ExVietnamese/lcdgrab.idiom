@@ -1,0 +1,47 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Vitnamita para la aplicación principal
+# Traducción experimental.                         #
+# Generado con Google Translator.                  #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Tệp được tạo tự động bởi LINUX-CDGRAB 1.0"
+creacion_de_Depot_MSG2="Tệp này cùng với thư mục"
+creacion_de_Depot_MSG3="đã được tạo tự động"
+creacion_de_Depot_MSG4="bởi ứng dụng Linux-cdgrab khi xác minh rằng nó không tồn tại trong bản phân phối Linux của bạn"
+creacion_de_Depot_MSG5="thư mục"
+creacion_de_Depot_MSG6="Linux-cdgrab sử dụng thư mục này để ghi các tập tin tạm thời và hình ảnh thiết bị (iso, img, v.v.)"
+creacion_de_Depot_MSG8="Depot được GoboLinux sử dụng để lưu trữ các tập tin tạm thời"
+creacion_de_Depot_MSG9="Mục đích của tập tin này chỉ nhằm mục đích cung cấp thông tin, bạn có thể thoải mái xóa nó sau khi đọc."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="THÔNG BÁO:"
+main_IDSISTEMA_MSG2="Hệ điều hành không được hỗ trợ."
+main_IDSISTEMA_MSG3="Nếu có vấn đề trong quá trình vận hành ứng dụng, hãy sử dụng GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="Nó không phải là một đối số hợp lệ"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="đã tìm thấy"
+main_cdkit_test_MSG2="liên kết chưa được tạo"
+main_cdkit_test_MSG3="Đã tạo liên kết tới hình ảnh geniso"
+main_cdkit_test_MSG4="Đã tạo liên kết tới Icedax"
+
+# pgm principal
+
+pgm_principal_MSG1="FATAL: Không tìm thấy phân phối thư mục chính xác."
+pgm_principal_MSG2="MỘT NGƯỜI LẠ"
+
+
+

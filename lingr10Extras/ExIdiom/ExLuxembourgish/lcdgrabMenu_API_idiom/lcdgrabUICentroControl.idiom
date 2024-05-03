@@ -1,0 +1,282 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLuxembourgish/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Luxemburgués para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux-cdgrab Configuratioun"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Wann Dir net wësst wéi engem IDE Kanal gehéiert"
+ayuda_IDE_MSG2="Äre Recorder kann erausfannen andeems Dir de Buschtaf t dréckt."
+ayuda_IDE_MSG3="E Beispill vum IDE Kanal kann 0,0,0 oder 0,1,0 sinn"
+ayuda_IDE_MSG4="Dir kënnt och den entspriechende Gerät uginn"
+ayuda_IDE_MSG5="op Äre Rekorder. Wann Dir net wësst wat et ass, dréckt d,"
+ayuda_IDE_MSG6="fir d'Apparater ze gesinn, déi an der /etc/fstab Datei registréiert sinn"
+ayuda_IDE_MSG7="E Beispill vun Apparater kéint /dev/hdd, /dev/hde etc sinn."
+ayuda_IDE_MSG8="Wann Dir wëllt, kënnt Dir och all déi enthale Geräter oplëschten"
+ayuda_IDE_MSG9="am /dev Verzeichnis andeems Dir de Buschtaf l dréckt."
+ayuda_IDE_MSG10="Dir musst den IDE Kanal oder den Opnamapparat spezifizéieren"
+ayuda_IDE_MSG11="awer net béid."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab gouf vun Ärem System deinstalléiert"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Opnamgeschwindegkeet"
+imprimir_variables_MSG2="IDE/SCSI Kanal oder Opnamapparat"
+imprimir_variables_MSG3="CD-ROM, DVD-ROM oder BD-ROM Lieser"
+imprimir_variables_MSG4="ATAPI Apparat"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Opnamgeschwindegkeet"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI Kanal oder Opnamapparat"
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM oder BD-ROM Lieser"
+imprimir_lcdgrabcfg_MSG4="ATAPI Apparat"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Installéiert"
+chequeo_de_aplicaciones_MSG2="NET INSTALLÉIERT"
+chequeo_de_aplicaciones_MSG3="Installéieren"
+chequeo_de_aplicaciones_MSG4="WICHTEG:"
+chequeo_de_aplicaciones_MSG5="D'Installatioun vun den néidegen Tools Linux-cdgrab funktionnéiert komplett"
+chequeo_de_aplicaciones_MSG6="All Programmer déi Linux-cdgrab brauch sinn op Ärem System installéiert"
+chequeo_de_aplicaciones_MSG4B="OPGEPASST:"
+chequeo_de_aplicaciones_MSG5B="Vermësst Tools fonnt"
+chequeo_de_aplicaciones_MSG6B="Tools um System installéiert"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 gëtt als Standard un dës Variabel zougewisen"
+msgdefCANALATAPI_MSG2="D'Konfiguratiounsdatei gëtt mat CANALATAPI = 0,0,0 geschriwwe ginn"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Konfiguratiounsdatei automatesch vun Linux-cdgrab generéiert."
+nuevo_lcdgrabcfg_MSG5="cdrecord gouf net am System fonnt"
+nuevo_lcdgrabcfg_MSG6="De cdrtools Package installéieren."
+nuevo_lcdgrabcfg_MSG7="Dir kënnt d'Konfiguratioun weiderféieren andeems Dir d'Wäerter spezifizéiert"
+nuevo_lcdgrabcfg_MSG8="opnam wann Dir se virdru kennt."
+nuevo_lcdgrabcfg_MSG9="De Kommando cdrecord gëtt benotzt fir CDen, DVDen an BD Discs opzehuelen"
+nuevo_lcdgrabcfg_MSG10="Dës Optiounen wäerten net funktionell sinn bis de Package installéiert ass."
+nuevo_lcdgrabcfg_MSG11="Den Drive Scan Tool, präsent, wäert och net funktionell sinn"
+nuevo_lcdgrabcfg_MSG12="an dësem Konfiguratiounsassistent."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab muss an de folgende véier Schrëtt konfiguréiert ginn"
+nuevo_lcdgrabcfg_MSG14="Éischte Schrëtt."
+nuevo_lcdgrabcfg_MSG15="Opnamgeschwindegkeet"
+nuevo_lcdgrabcfg_MSG16="Nëmmen eng Nummer 2,4,8,16,32... etc"
+nuevo_lcdgrabcfg_MSG17="Zweete Schrëtt."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI Kanal oder Opnamapparat:"
+nuevo_lcdgrabcfg_MSG19="A -> Hëllef"
+nuevo_lcdgrabcfg_MSG20="Scannen..."
+nuevo_lcdgrabcfg_MSG21="Feeler beim Scannen vum IDE/SCSI Hafen"
+nuevo_lcdgrabcfg_MSG22="Cdrecord net fonnt"
+nuevo_lcdgrabcfg_MSG23="Drëtte Schrëtt."
+nuevo_lcdgrabcfg_MSG24="CD-ROM, DVD-ROM oder BD-ROM Apparat"
+nuevo_lcdgrabcfg_MSG25="L -> Lëscht verfügbare Geräter"
+nuevo_lcdgrabcfg_MSG26="Scannen..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI Port gescannt"
+nuevo_lcdgrabcfg_MSG28="Gerät fir vum cdrecord duerch dev=ATAPI a Multi-Session Opzeechnungen ze benotzen"
+nuevo_lcdgrabcfg_MSG30="Den Apparat huet eng Nomenclature wéi 0,0,0 oder 1,0,0 etc"
+nuevo_lcdgrabcfg_MSG31="Spezifizéiert den Apparat fir cdrecord op Multisession CDen ze ruffen: "
+nuevo_lcdgrabcfg_MSG32="D'Konfiguratioun ass net korrekt fir CANALATAPI"
+nuevo_lcdgrabcfg_MSG33="Feeler beim Scannen vum IDE/SCSI Hafen"
+nuevo_lcdgrabcfg_MSG34="Cdrecord net fonnt"
+nuevo_lcdgrabcfg_MSG36="Konfiguratiounsdatei automatesch vun Linux-cdgrab generéiert."
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB SETUP FËLLT"
+
+# colores
+
+colores_MSG1="D'Lëscht vun de Faarwen kann net fonnt ginn"
+colores_MSG2="Default Faarwen lueden"
+colores_MSG3="Wielt neit Faarfschema fir d'LINUX-CDGRAB Interface"
+colores_MSG4="SCHWARZ FONT"
+colores_MSG5="STANDARD BRIGHT FONT"
+colores_MSG6="SCHWARZEN HINNERFARW"
+colores_MSG7="RED FONT"
+colores_MSG8="HELLSCHWARZ SCHRËFT"
+colores_MSG9="ROT HINNERFARW"
+colores_MSG10="FONT GREEN"
+colores_MSG11="HELL ROTEN FOUNTAIN"
+colores_MSG12="GREEN HINNERFARW"
+colores_MSG13="GIEL SCHRËFT"
+colores_MSG14="HELL GREEN FONT"
+colores_MSG15="ORANGE BACKGROUND FARW"
+colores_MSG16="BLAU FONT"
+colores_MSG17="HELL GIEL SCHRËFT"
+colores_MSG18="BLAUER HINNERFARW"
+colores_MSG19="MAGENTA FONT"
+colores_MSG20="HELL BLAU FONT"
+colores_MSG21="MAGENTA BACKGROUND COLOR"
+colores_MSG22="CYAN SOURCE"
+colores_MSG23="HELL MAGENTA FONT"
+colores_MSG24="CYAN HACKGROUND COLOR"
+colores_MSG25="GRAY FONT"
+colores_MSG26="CYAN HACKGROUND COLOR"
+colores_MSG27="HELLER CYAN FONT"
+colores_MSG28="GRAY BACKGROUND COLOR"
+colores_MSG29="DEFAULT SOURCE"
+colores_MSG30="HELL WÄISS SCHRIFFT"
+colores_MSG31="DEFAULT BACKGROUND COLOR"
+colores_MSG32="Faarwnummer fir d'Schrëft: "
+colores_MSG33="Faarwnummer fir den Hannergrond: "
+colores_MSG34="Faarwnummer fir Warnungsmeldungen: "
+colores_MSG35="Faarwnummer fir Label Messagen: "
+colores_MSG36="Faarwnummer fir erfollegräich ofgeschloss Prozesser"
+colores_MSG37="Faarwnummer fir Prozesser déi mat Feeler ofgeschloss sinn: "
+colores_MSG38="Neit Schema fir LINUX-CDGRAB"
+colores_MSG39="GENERAL FONT COLOR"
+colores_MSG40="LABELS"
+colores_MSG41="NOTIES"
+colores_MSG42="SUCCESS"
+colores_MSG43="Feeler"
+colores_MSG44="BACKGROUND COLOR"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="LËSCHT VUN DISPONIBEL FARWE:"
+cambiar_esquema_de_color_MSG2="#####COLOR SCHEMES########"
+cambiar_esquema_de_color_MSG3="--------------------------"
+cambiar_esquema_de_color_MSG4="Faarwmenü"
+cambiar_esquema_de_color_MSG5="Ausgefall"
+cambiar_esquema_de_color_MSG6="Etiketten"
+cambiar_esquema_de_color_MSG6b="Notices"
+cambiar_esquema_de_color_MSG7="Faarwmenü OK Feeler Warnungsetiketten"
+cambiar_esquema_de_color_MSG8="Gitt d'Nummer vun der neier Faarf an:"
+cambiar_esquema_de_color_MSG9="INVALID OPTION"
+cambiar_esquema_de_color_MSG10="Standardfaarwen setzen."
+cambiar_esquema_de_color_MSG11="  BACKGROUND = BLUE_BACKGROUND"
+cambiar_esquema_de_color_MSG12="  FONT = BRIGHT WHITE"
+cambiar_esquema_de_color_MSG13="  WARNINGS = HELL GEL"
+cambiar_esquema_de_color_MSG14="  FEELER = HELL ROUT"
+cambiar_esquema_de_color_MSG15="  FEELER = HELL ROUT"
+cambiar_esquema_de_color_MSG16="  HITS = HELL GREEN"
+cambiar_esquema_de_color_MSG17="  LABELS = HELL ZYAN"
+
+
+# cambia_lector
+
+cambia_lector_MSG1="ËMWËSCHT Astellunge FIR OPTISK UNITEN"
+cambia_lector_MSG2="Aktuellen Apparat verbonne mat der CD-ROM, DVD-ROM oder BD-ROM"
+cambia_lector_MSG3="Aktuellen Apparat mat dem CD/DVD/BD Brenner assoziéiert"
+cambia_lector_MSG4="Aktuellen Apparat verbonne mam Parameter dev=ATAPI"
+cambia_lector_MSG5="(Multi-Session Ënnerstëtzung fir cdrecord)"
+cambia_lector_MSG6="Wielt den Apparat op deem d'Ännerung soll gemaach ginn."
+cambia_lector_MSG7="Optioun anzeginn:"
+cambia_lector_MSG8="Gitt den Numm vum neien Apparat an"
+cambia_lector_MSG9="entsprécht net engem Blockapparat"
+cambia_reader_MSG10="Gerät"
+cambia_lector_MSG11="Standard zougewisen"
+cambia_lector_MSG12="Den neien Apparat ass:"
+cambia_lector_MSG13="Net all Versioune vum cdrecord akzeptéieren e Blockapparat als Opnamparameter"
+cambia_lector_MSG14="Gitt den Numm vum neien ATAPI Apparat an"
+cambia_lector_MSG15="D'Konfiguratioun ass net korrekt fir CANALATAPI"
+cambia_lector_MSG16="0,0,0 gëtt als Standard un dës Variabel zougewisen"
+cambia_lector_MSG17="D'Konfiguratiounsdatei gëtt mat CANALATAPI = 0,0,0 geschriwwe ginn"
+cambia_lector_MSG18="Den neien Apparat ass:"
+cambia_lector_MSG19="KENG ÄNNER GINN OP DEN APPARATER GEMAACHT"
+cambia_lector_MSG4B="Wäerter exportéieren aus der Konfiguratiounsdatei"
+cambia_lector_MSG4C="DÉI WÄRTER GUNEN AN DER ËMWEIL RAPPORTERT:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Vun dësem Menü kënnt Dir wielen wéi eng Utility"
+cambia_generador_isocd_MSG2="gëtt benotzt fir ISO-9660 Biller ze generéieren"
+cambia_generador_isocd_MSG3="vu bestehend CDS op der liesen Eenheet."
+cambia_generador_isocd_MSG4="Aktuell Konfiguratioun:"
+cambia_generador_isocd_MSG5="Benotzt dd (GNU Coreutils Komponent)"
+cambia_generador_isocd_MSG6="Benotzt readcd (cdrtools Komponent)"
+cambia_generador_isocd_MSG7="Menü virdru."
+cambia_generador_isocd_MSG8="Wielt eng Optioun:"
+cambia_generador_isocd_MSG9="Benotzt dd als Iso Generator."
+cambia_generador_isocd_MSG10="Benotzt readcd als Iso Generator."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Set HFS Metadaten zesumme mam Rock Ridge a Joliet"
+establecer_hfs_iso_MSG2="Benotzt nëmme Rock Ridge a Joliet Metadaten"
+establecer_hfs_iso_MSG3="Menü virdru."
+establecer_hfs_iso_MSG4="Wielt eng Optioun:"
+establecer_hfs_iso_MSG5="HFS, Rock Ridge a Joliet Metadaten benotzen"
+establecer_hfs_iso_MSG6="Rock Ridge a Joliet Metadaten benotzen"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Aktuelle Notifikatiounssystem"
+cambia_notificaciones_MSG2A="GNOME grafesch Interface"
+cambia_notificaciones_MSG2B="KDE Graphical Interface"
+cambia_notificaciones_MSG2="Interface mat Ncurses"
+cambia_notificaciones_MSG3="Text Interface"
+cambia_notificaciones_MSG4="Ofgoen"
+cambia_notificaciones_MSG5="Wielt eng Optioun:"
+cambia_notificaciones_MSG6="Interface mat Dialog benotzen"
+cambia_notidicaciones_MSG6B="Benotzt Interface mat Zenity"
+cambia_notidicaciones_MSG6C="Interface mat kdialog benotzen"
+cambia_notificaciones_MSG7="Dialog Kommando net fonnt"
+cambia_notificaciones_MSG8="Benotzt Text Interface"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Sprooch am Gebrauch:"
+cambiar_idioma_UI_MSG1="Aktuell verfügbare Sproochen:"
+cambiar_idioma_UI_MSG2="Gitt den Numm vun der Sprooch an déi benotzt gëtt"
+cambiar_idioma_UI_MSG3="an der Applikatioun Interface:"
+cambiar_idioma_UI_MSG4="Déi nei Sprooch benotzt ass:"
+cambiar_idioma_UI_MSG5="LINUX-CDGRAB nei starten"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Aktuell Konfiguratioun"
+seleccion_gestor_archivos_MSG2="Mc benotzen"
+seleccion_gestor_archivos_MSG3="Benotzt den integréierten Textmanager"
+seleccion_gestor_archivos_MSG4="mc kann net um System installéiert ginn"
+seleccion_gestor_archivos_MSG5="Benotzt den integréierten Textmanager als Standard"
+seleccion_gestor_archivos_MSG6="mc Utility"
+seleccion_gestor_archivos_MSG7="Integréiert Text"
+
+# centro_de_control
+
+centro_de_control_MSG1="CONTROL CENTER"
+centro_de_control_MSG2="Nei Konfiguratioun"
+centro_de_control_MSG3="Konfiguratiounsdatei läschen"
+centro_de_control_MSG4="Aktuell Konfiguratiounsdatei a Wäerter weisen"
+centro_de_control_MSG5="CONFIGURATIOUN FICHE WÄRTER:"
+centro_de_control_MSG5B="AKTUELL KONFIGURATIOUN BENOTZT AN DER Ëmwelt:"
+centro_de_control_MSG6="Optesch Medien änneren"
+centro_de_control_MSG7="Kontrolléiert installéiert Programmer"
+centro_de_control_MSG8="Scan den IDE/SCSI Hafen mat cdrecord"
+centro_de_control_MSG8C="Scan den IDE/SCSI Hafen mat cdrskin"
+centro_de_control_MSG8B="Lëscht Unitéiten déi am System mat cdrskin installéiert sinn"
+centro_de_control_MSG9="Änneren Iso Generatioun Utility vun CD"
+centro_de_control_MSG9B="HFS Metadaten fir iso-9660 setzen"
+centro_de_control_MSG10="Benotzerinterface änneren"
+centro_de_control_MSG10b="Faarf änneren"
+centro_de_control_MSG10c="Interface Sprooch änneren"
+centro_de_control_MSG11="Dateimanager änneren"
+centro_de_control_MSG11B="Programm uninstalléieren"
+centro_de_control_MSG12="Gitt eng Optioun un:"
+centro_de_control_MSG13="Konfiguratiounsdatei GËTT NET"
+centro_de_control_MSG14="CONFIGURATIOUN FILE NET FOND"
+centro_de_control_MSG15="Scannen"
+centro_de_control_MSG16="IDE/SCSI Port gescannt"
+centro_de_control_MSG17="Feeler beim Scannen vum IDE/SCSI Hafen"
+centro_de_control_MSG18="Faarfschema wielen"
+centro_de_control_MSG19="Wielt Faarwen arbiträr"
+centro_de_control_MSG20="Menü virdru"
+centro_de_control_MSG21="Gitt eng Optioun un:"
+centro_de_control_MSG22="Konfiguratiounsdatei GËTT NET"
+centro_de_control_MSG23="CONFIGURATIOUN FILE NET FOND"
+centro_de_control_MSG24="Faarfschema wielen"
+centro_de_control_MSG25="Wielt Faarwen arbiträr"
+centro_de_control_MSG26="Invalid Optioun"

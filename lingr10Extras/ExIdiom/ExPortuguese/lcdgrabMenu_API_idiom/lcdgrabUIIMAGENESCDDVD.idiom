@@ -1,0 +1,51 @@
+#########################################################
+# lcdgrabAPI_idiom/ExPortuguese/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimetal al Portugués, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="CRIAÇÃO E TRATAMENTO DE IMAGENS DE DISCO"
+MenuImagen_MSG2="--------------- CRIAÇÃO DE IMAGEM -------------"
+MenuImagen_MSG3="Criar uma imagem ISO-9660"
+MenuImagen_MSG4="Criar uma imagem com um sistema de arquivos Linux nativo"
+MenuImagen_MSG5="Crie uma imagem .img de qualquer dispositivo de bloco"
+MenuImagen_MSG6="Crie uma imagem .bin .cue do dispositivo atual"
+MenuImagen_MSG7="----------------- OUTRAS OPÇÕES ---------------"
+MenuImagen_MSG8="Gerar arquivo de descrição .cue a partir da imagem .bin"
+MenuImagen_MSG9="Converter uma imagem .nrg (Nero Burning ROM) em .iso"
+MenuImagen_MSG10="Compactar uma imagem com gzip, bzip2 ou xz"
+MenuImagen_MSG11="Descompacte uma imagem em zip, gz, bz2 ou xz"
+MenuImagen_MSG11B="Verificar soma md5 de imagens iso"
+MenuImagen_MSG12="Alterar o modo iso"
+MenuImagen_MSG0="Menu anterior"
+MenuImagen_MSG13="Arquivo de imagem a ser compactado"
+MenuImagen_MSG14="COMPRESSAR ARQUIVO DE IMAGEM"
+MenuImagen_MSG15="Digite o caminho do diretório onde está localizada a imagem que deseja compactar:"
+MenuImagen_MSG16="Arquivo de imagem que deseja descompactar"
+MenuImagen_MSG17="NÍVEL ISO ATUAL"
+MenuImagen_MSG18="nível iso"
+MenuImagen_MSG19="Os nomes dos arquivos consistem em uma seção"
+MenuImagen_MSG20="e estão limitados a 8,3 caracteres."
+MenuImagen_MSG21="Escolha este nível se desejar compatibilidade de nomenclatura"
+MenuImagen_MSG21b="no sistema operacional MS-DOS"
+MenuImagen_MSG22="Os nomes dos arquivos consistem em uma seção"
+MenuImagen_MSG23="Nível irrestrito."
+MenuImagen_MSG24="Use este nível se desejar compatibilidade de arquivos"
+MenuImagen_MSG25="grande, neste caso >= 2 Gigabytes."
+MenuImagen_MSG26="Todos os níveis ISO limitam os nomes dos arquivos a letras maiúsculas, minúsculas e"
+MenuImagen_MSG27="caracteres como _. Os nomes dos arquivos são limitados a 31 caracteres"
+MenuImagen_MSG28="Máximo de 8 caminhos de diretório e nome de caminho"
+MenuImagen_MSG29="diretórios com até 255 caracteres."
+MenuImagen_MSG30="Escolha o novo nível iso"
+MenuImagen_MSG31="ISO nível 4 não é oficial"
+MenuImagen_MSG32="Consulte a página de manual do mkisofs"
+MenuImagen_MSG33="Nível ISO inválido"
+MenuImagen_MSG34="Definir ISO nível 3 por padrão"
+
+

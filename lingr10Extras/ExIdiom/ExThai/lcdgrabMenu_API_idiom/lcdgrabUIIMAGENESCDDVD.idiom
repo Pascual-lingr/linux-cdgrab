@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExThai/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Experimental, generado con Google Translate y Chat GPT
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="การสร้างและการจัดการรูปภาพบนดิสก์"
+MenuImagen_MSG2="------ การสร้างภาพ ------"
+MenuImagen_MSG3="สร้างอิมเมจ ISO-9660"
+MenuImagen_MSG4="สร้างภาพด้วยระบบไฟล์ Linux ดั้งเดิม"
+MenuImagen_MSG5="สร้างภาพ .img ของอุปกรณ์บล็อกใดๆ"
+MenuImagen_MSG6="สร้างอิมเมจ .bin .cue จากอุปกรณ์ปัจจุบัน"
+MenuImagen_MSG7="-------- ตัวเลือกอื่นๆ --------"
+MenuImagen_MSG8="สร้างไฟล์คำอธิบาย .cue จากอิมเมจ .bin"
+MenuImagen_MSG9="แปลงอิมเมจ .nrg (Nero Burning ROM) เป็น .iso"
+MenuImagen_MSG10="บีบอัดรูปภาพด้วย gzip, bzip2 หรือ xz"
+MenuImagen_MSG11="ขยายขนาดรูปภาพในรูปแบบ zip, gz, bz2 หรือ xz"
+MenuImagen_MSG11B="ตรวจสอบผลรวม md5 ของอิมเมจ ISO"
+MenuImagen_MSG12="เปลี่ยนโหมด ISO"
+# Traducción Chat GPT - INI
+MenuImagen_MSG0="เมนูก่อนหน้า"
+# Traducción Chat GPT - FIN
+MenuImagen_MSG13="ไฟล์ภาพที่จะบีบอัด"
+MenuImagen_MSG14="บีบอัดไฟล์ภาพ"
+MenuImagen_MSG15="พิมพ์เส้นทางไดเร็กทอรีที่มีรูปภาพที่คุณต้องการบีบอัด:"
+MenuImagen_MSG16="ไฟล์รูปภาพที่คุณต้องการขยายขนาด"
+MenuImagen_MSG17="ระดับ ISO ปัจจุบัน"
+MenuImagen_MSG18="ระดับ iso"
+MenuImagen_MSG19="ชื่อไฟล์ประกอบด้วยส่วน"
+MenuImagen_MSG20="และจำกัดความยาวไว้ที่ 8.3 ตัวอักษร"
+MenuImagen_MSG21="เลือกระดับนี้ถ้าคุณต้องการความเข้ากันได้ของการตั้งชื่อ"
+MenuImagen_MSG21b="ภายใต้ระบบปฏิบัติการ MS-DOS"
+MenuImagen_MSG22="ชื่อไฟล์ประกอบด้วยส่วน"
+MenuImagen_MSG23="ไม่จำกัดระดับ"
+MenuImagen_MSG24="ใช้ระดับนี้ถ้าคุณต้องการความเข้ากันได้ของไฟล์"
+MenuImagen_MSG25="ขนาดใหญ่ ในกรณีนี้ >= 2 กิกะไบต์"
+MenuImagen_MSG26="ระดับ ISO ทั้งหมดจำกัดชื่อไฟล์ให้เป็นตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก และ"
+MenuImagen_MSG27="อักขระเช่น _ .ชื่อไฟล์จำกัดอยู่ที่ 31 อักขระ"
+MenuImagen_MSG28="เส้นทางไดเรกทอรีและชื่อเส้นทางสูงสุด 8 เส้นทาง"
+MenuImagen_MSG29="ไดเรกทอรียาว 255 ตัวอักษร"
+MenuImagen_MSG30="เลือกระดับ ISO ใหม่"
+MenuImagen_MSG31="ISO ระดับ 4 ไม่เป็นทางการ"
+MenuImagen_MSG32="ปรึกษาหน้าคู่มือ mkisofs"
+MenuImagen_MSG33="ระดับ ISO ไม่ถูกต้อง"
+MenuImagen_MSG34="ตั้งค่า ISO ระดับ 3 เป็นค่าเริ่มต้น"
+

@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTigrinya/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en tigriña para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimetal, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="መንገዲ ናይቲ ፋይል ወይ ማህደር ኣእቱ:"
+empaquetar_MSG2="--------- ኣማራጺታት --------"
+empaquetar_MSG3=".tar.gz ፋይል ምፍጣር።"
+empaquetar_MSG4=".tar.bz2 ፋይል ምፍጣር።"
+empaquetar_MSG5="ኣማራጺ ጽሓፍ: "
+empaquetar_MSG6="ይሰርሕ ኣሎ።"
+empaquetar_MSG7="ዘይሕጋዊ ኣማራጺ።"
+
+# desempaquetar
+
+desempaquetar_MSG1="መንገዲ ፋይል ኣእቱ:"
+desempaquetar_MSG2="ዝኾነ ዲኮምፕረሰር ኣይተረኽበን።"
+desempaquetar_MSG3="ወይ።"
+desempaquetar_MSG4="ኣይህሉን።"
+desempaquetar_MSG5="ይሰርሕ ኣሎ።"
+desempaquetar_MSG6="ተፈቲሑ።"
+desempaquetar_MSG7="ኣብ ምፍታሕ ጌጋ።"
+
+# comprime
+
+comprime_MSG1="ምጽቃጥ ምስሊ"
+comprime_MSG2="ብ bzip2 ምጽቃጥ።"
+comprime_MSG3="ብ gzip ምጽቃጥ።"
+comprime_MSG4="ብ xz ምጽቃጥ።"
+comprime_MSG5="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+comprime_MSG6="ይሰርሕ ኣሎ።"
+comprime_MSG7="ምጽቃጥ ፋይል ምስሊ ተዛዚሙ።"
+comprime_MSG8="ጌጋ ምጽቃጥ ምስ።"
+comprime_MSG9="ዘይሕጋዊ ኮምፕረሰር።"
+
+# descomprime
+
+descomprime_MSG1="መንገዲ ፋይል ጽሓፍ:"
+descomprime_MSG2="-------------"
+descomprime_MSG3="ዝኾነ ዲኮምፕረሰር ኣይተረኽበን"
+descomprime_MSG4="ወይ።"
+descomprime_MSG5="ኣይህሉን።"
+descomprime_MSG6="ይሰርሕ ኣሎ።"
+descomprime_MSG7="ዘይተጸቕጠ።"
+descomprime_MSG8="ምጽቃጥ ኣብ ምፍታን ጌጋ።"
+

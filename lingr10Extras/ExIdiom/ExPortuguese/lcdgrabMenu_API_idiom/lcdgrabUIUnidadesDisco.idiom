@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExPortuguese/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Portugués para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="OPERAÇÕES DE UNIDADE DE DISCO"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- IMPORTANTE -----------------------"
+MenuDispositivosBloque_MSG3="+ Não realizar operações de escrita em discos rígidos"
+MenuDispositivosBloque_MSG4="+ sobre partições de disco que contêm imagens"
+MenuDispositivosBloque_MSG5="+ recuperação, partições de boot ou suas próprias"
+MenuDispositivosBloque_MSG6="+ partição do sistema operacional."
+MenuDispositivosBloque_MSG7="+ O uso indevido das opções de escrita deste menu "
+MenuDispositivosBloque_MSG8="+ pode gerar uma catástrofe no sistema."
+MenuDispositivosBloque_MSG9="+ Use com cautela. Use por sua conta e risco."
+MenuDispositivosBloque_MSG10="-------------------- ESCRITA --------------------"
+MenuDispositivosBloque_MSG11="Despejar um arquivo de imagem na unidade de disco"
+MenuDispositivosBloque_MSG11B="Despejar imagem iso ou img (auto-inicializável) em pendrive ou disco USB"
+MenuDispositivosBloque_MSG11C="Nem todos os sistemas de instalação são suportados."
+MenuDispositivosBloque_MSG12="Formatar unidade com sistema de arquivos nativo Linux ou Windows"
+MenuDispositivosBloque_MSG13="-------------------- LEITURA --------------------"
+MenuDispositivosBloque_MSG14="Criar imagem .img de uma unidade de disco"
+MenuDispositivosBloque_MSG15="Menu anterior"
+MenuDispositivosBloque_MSG16="Digite uma opção"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------IMPORTANTE------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Formatar unidade com sistema de arquivos usado em dispositivos"
+UIFormatearUnidad_linuxfs_MSG2B="+ ou partições de disco."
+UIFormatearUnidad_linuxfs_MSG3="+ Esta opção apagará todos os dados existentes na unidade"
+UIFormatearUnidad_linuxfs_MSG4="+ Unidades removíveis formatadas com um sistema de arquivos"
+UIFormatearUnidad_linuxfs_MSG5="+ O próprio Linux só estará acessível neste sistema operacional."
+UIFormatearUnidad_linuxfs_MSG6="+ Use com cuidado, use por sua própria conta e risco."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="PRESSIONE A TECLA C PARA CONTINUAR; (O processo será cancelado em outra opção)"
+

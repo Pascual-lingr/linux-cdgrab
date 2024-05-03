@@ -1,0 +1,44 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Georgiano para la aplicación principal
+# Experimental, generado con Google Translate      #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="ფაილი ავტომატურად გენერირებული LINUX-CDGRAB 1.0-ის მიერ"
+creacion_de_Depot_MSG2="ეს ფაილი დირექტორიასთან ერთად"
+creacion_de_Depot_MSG3="გამომუშავდა ავტომატურად"
+creacion_de_Depot_MSG4="Linux-cdgrab აპლიკაციის მიერ, როდესაც ადასტურებს, რომ ის არ არსებობდა თქვენს Linux დისტრიბუციაში"
+creacion_de_Depot_MSG5="საქაღალდე"
+creacion_de_Depot_MSG6="Linux-cdgrab იყენებს ამ დირექტორიას დროებითი ფაილების და მოწყობილობის სურათების დასაწერად (iso, img და ა.შ.)"
+creacion_de_Depot_MSG8="დეპოს იყენებს GoboLinux-ის მიერ დროებითი ფაილების შესანახად"
+creacion_de_Depot_MSG9="ამ ფაილის დანიშნულება მხოლოდ საინფორმაციო მიზნებისთვისაა, წაკითხვის შემდეგ შეგიძლიათ თავისუფლად წაშალოთ."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="შენიშვნა:"
+main_IDSISTEMA_MSG2="ოპერაციული სისტემა არ არის მხარდაჭერილი."
+main_IDSISTEMA_MSG3="თუ აპლიკაციის მუშაობაში პრობლემებია, გამოიყენეთ GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="ეს არ არის მართებული არგუმენტი"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="იპოვა"
+main_cdkit_test_MSG2="ბმული wodim-თან შექმნილი"
+main_cdkit_test_MSG3="ბმული genisoimage შექმნილია"
+main_cdkit_test_MSG4="ბმული icedax-თან შეიქმნა"
+
+# pgm principal
+
+pgm_principal_MSG1="FATAL: სწორი დირექტორია განაწილება ვერ მოიძებნა."
+pgm_principal_MSG2="უცნობი"
+

@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en islandés para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Slóð .img eða .ext2 myndar til að henda á diskinn."
+volcar_imagen_MSG2="-----------------------MIKILVÆGT----------------------------" 
+volcar_imagen_MSG3="+ Þessi valkostur er ekki virkur á sjónrænum diskum."
+volcar_imagen_MSG4="+ Nota á pennadrifum, disklingum, disksneiðum osfrv. "
+volcar_imagen_MSG5="+ Tilvitnun með harða diska:"
+volcar_imagen_MSG6="+ Myndin er skrifuð með dd frá upphafi"
+volcar_imagen_MSG7=" af tilgreindum diski, notkun númers er ekki leyfð"
+volcar_imagen_MSG8="sérstakur geiri til að hefja skrifferlið"
+volcar_imagen_MSG9="+ Notið með varúð. Notið á eigin ábyrgð."
+volcar_imagen_MSG10="+ Disksneið gæti orðið ónothæf."
+volcar_imagen_MSG11="+ Ekki er mælt með því að nota það á kerfi með mörgum skiptingum."
+volcar_imagen_MSG12="Endurheimtan gæti farið úr skiptingartöflunni og"
+volcar_imagen_MSG13="gagnslaus skipting sjálf."
+volcar_imagen_MSG14="------------------------------------------------------------"
+volcar_imagen_MSG15="ÝTTU Á C LYKILINN TIL AÐ HALDA ÁFRAM; (Ferlið verður hætt í öðrum valkosti)"
+volcar_imagen_MSG16="Tilgreindu slóð myndskrárinnar sem á að henda á diskinn: "
+volcar_imagen_MSG17="Fergja skipunarúttak:"
+volcar_imagen_MSG18="Tilgreindu blokkunartækið þar sem myndin á að henda:"
+volcar_imagen_MSG19="AÐ HORÐA MYND"
+volcar_imagen_MSG20="Í TÆKIÐ"
+volcar_imagen_MSG21="í gangi"
+volcar_imagen_MSG22="MYNDASKIPTI LOKIÐ"
+
+# volcar_iso
+
+volcar_iso_MSG1="Tilgreindu blokkartækið til að skrifa iso myndina á:"
+volcar_iso_MSG2="VIÐVÖRUN"
+volcar_iso_MSG2B="--------"
+volcar_iso_MSG3="Tilgreindu lokunartæki til að skrifa á."
+volcar_iso_MSG4="Dæmi: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Ekki tilgreina skipting sem tilheyrir þessu tæki"
+volcar_iso_MSG6="Dæmi: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Tilgreindu ISO-9660 myndina eða mynd sem á að skrifa:"
+volcar_iso_MSG9="Ferli lokið"
+volcar_iso_MSG10="Villa í iso skrifferli"
+volcar_iso_MSG11="Tilgreindu blokkastærð til að skrifa myndina"
+volcar_iso_MSG12="Veldu valkost í samræmi við stýrikerfi til að skrifa:"
+volcar_iso_MSG13="ISO-9660 eða ræsanleg IMG mynd til að blikka á tækinu:"
+volcar_iso_MSG14="Hætta"
+volcar_iso_MSG15="ISO-9660 EÐA IMG MYNDASKÁL"
+volcar_ISO_MSG16="VELJA STJÓRKERFI TIL AÐ HLAÐA Í EINING"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Veldu skráarkerfið með"
+Formateador_linuxfs_MSG2="Tækið verður sniðið:"
+Formateador_linuxfs_MSG3="Tilgreindu blokkunartækið sem á að forsníða: "
+Formateador_linuxfs_MSG5="FERLI LOKIÐ"
+Formateador_linuxfs_MSG6="DISKFORMAÐUR"
+Formateador_linuxfs_MSG7="Setja hljóðstyrksmerki"
+Formateador_linuxfs_MSG10="Tilgreindu nafn hljóðstyrksmerkisins"
+Formateador_linuxfs_MSG11="Nýtt bindimerki"
+Formateador_linuxfs_MSG12="Tilgreindu blokkastærð"
+Formateador_linuxfs_MSG13="Ný blokkastærð"
+Formateador_linuxfs_MSG14="Fyrri valmynd"
+

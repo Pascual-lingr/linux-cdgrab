@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKorean/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Coreano, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="사용할 사용자 인터페이스를 선택하십시오:"
+SeleccionaIUDVD_MSG2="dvd+-rw-tools용 인터페이스 사용"
+SeleccionaIUDVD_MSG3="Cdrecord-ProDVD용 인터페이스 사용"
+SeleccionaIUDVD_MSG4="libburnia용 인터페이스 사용"
+SeleccionaIUDVD_MSG5="이전 메뉴"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="DVD에 녹화 중"
+menugrabar_dvd_MSG2="----------------- DVD - 데이터 ----------------"
+menugrabar_dvd_MSG3="ISO-9660 데이터 DVD 복사"
+menugrabar_dvd_MSG4="하드 드라이브에 이전 DVD 이미지 생성"
+menugrabar_dvd_MSG5="새 ISO-9660 데이터 DVD 굽기"
+menugrabar_dvd_MSG6="ISO-9660 데이터 DVD 에 새 데이터 세션 추가(멀티 세션 DVD)"
+menugrabar_dvd_MSG7="두 번째 옵션을 사용하여 이전에 녹화한 DVD가 필요합니다."
+menugrabar_dvd_MSG8="ISO-9660 데이터 이미지를 DVD로 굽기"
+menugrabar_dvd_MSG9=".ext2 이미지를 DVD로 굽기"
+menugrabar_dvd_MSG10="---------------- DVD - 비디오 -----------------"
+menugrabar_dvd_MSG11="새 DVD-비디오 굽기"
+menugrabar_dvd_MSG12="------------------ 기타 옵션 ------------------"
+menugrabar_dvd_MSG13="DVD+RW/DVD-RW 포맷"
+menugrabar_dvd_MSG14="DVD 디스크 정보 표시"
+menugrabar_dvd_MSG0="이전 메뉴"
+menugrabar_dvd_MSGPRINCIPAL="옵션을 입력하세요"
+menugrabar_dvd_MSG15="DVD에 포함할 파일 및 디렉터리"
+menugrabar_dvd_MSG16="파일 관리자 실행 중..."
+menugrabar_dvd_MSG17="DVD 에 구울 .iso 이미지"
+menugrabar_dvd_MSG18="구우려는 .iso 이미지가 있는 디렉터리 경로를 입력하세요."
+menugrabar_dvd_MSG19="DVD 를 지원하는 cdrecord 버전이 필요합니다."
+menugrabar_dvd_MSG20="DVD 에 .ext2 이미지 기록은 cdrecord를 사용하여 수행됩니다."
+menugrabar_dvd_MSG21="설치에 존재하는 cdrecord 버전은 다음과 같아야 합니다."
+menugrabar_dvd_MSG22="DVD 녹화를 지원합니다."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="옵션을 선택하세요"
+dvd_clonar_MSG2="--- 미리보기 이미지가 포함된 디스크 사본 ---"
+dvd_clonar_MSG3="데이터 DVD 복사"
+dvd_clonar_MSG4="하드 드라이브에 이전 DVD 이미지 생성"
+dvd_clonar_MSG5="--- 비행 중 디스크 사본 ---"
+dvd_clonar_MSG6="즉시 데이터 DVD 복사"
+dvd_clonar_MSG7="즉시 데이터 DVD 복제"
+dvd_clonar_MSG8="플라이 카피 옵션에는 두 개의 광학 장치가 필요합니다."
+dvd_clonar_MSG9="데이터는 있는 동안 기록되므로 컴퓨터에 설치됩니다."
+dvd_clonar_MSG10="컴퓨터에만 있는 경우 원본 디스크에서 직접 읽기"
+dvd_clonar_MSG11="당신은 비행 중에 사본을 사용할 수 없습니다."
+dvd_clonar_MSG0="이전 메뉴"
+dvd_clonar_MSG12="DVD 데이터 복사"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD에 녹화 중"
+menugrabar_DVD_MSG2="-------------- DVD - 데이터 ---------------------"
+menugrabar_DVD_MSG3="데이터 DVD 추출"
+menugrabar_DVD_MSG4="새 데이터 DVD 굽기"
+menugrabar_DVD_MSG5=".iso 또는 .ext2 이미지를 DVD로 굽기"
+menugrabar_DVD_MSG6="DVD+RW/DVD-RW 포맷"
+menugrabar_DVD_MSG7="드라이브에 있는 디스크 정보 표시"
+menugrabar_DVD_MSG0="이전 메뉴"
+menugrabar_DVD_MSGPRINCIPAL="옵션을 입력하세요"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="iso-9660 이미지를 DVD 에 굽기"
+menugrabar_DVD_libburnia_MSG2="하드 드라이브의 데이터를 DVD 로 굽기"
+menugrabar_DVD_libburnia_MSG3="DVD 포맷"
+menugrabar_DVD_libburnia_MSG4="DVD-RW 를 순차 증분 형식으로 포맷"
+menugrabar_DVD_libburnia_MSG5="덮어쓰기 제한으로 DVD-RW 포맷"
+menugrabar_DVD_libburnia_MSG6="드라이브 정보 표시"
+menugrabar_DVD_libburnia_MSG8="시스템에 설치된 드라이브 목록"
+menugrabar_DVD_libburnia_MSG0="종료"
+menugrabar_DVD_libburnia_MSG7="옵션을 입력하세요"
+

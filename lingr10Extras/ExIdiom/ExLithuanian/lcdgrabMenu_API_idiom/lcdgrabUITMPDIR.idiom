@@ -1,0 +1,35 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLithuanian/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Lituano para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Failai /tmp"
+dir_tmp_MSG2="Ištrinti visus vaizdus ir suspaustus failus"
+dir_tmp_MSG3="Paleiskite failų tvarkyklę kitoms operacijoms"
+dir_tmp_MSG4="Sumontuokite arba atjunkite vaizdą"
+dir_tmp_MSG5="Rodyti vaizdo kūrimo meniu"
+dir_tmp_MSG6="Rodyti vaizdo įrašymo parinktis"
+dir_tmp_MSG7="Ankstesnis meniu"
+dir_tmp_MSG8="ESAMŲ FAILŲ SĄRAŠAS"
+dir_tmp_MSG9="PASIRINKITE PARINKTĮ:"
+dir_tmp_MSG10="IŠTRINTI VAIZDAI IR FAILAI"
+dir_tmp_MSG11="Sumontuoti vaizdą."
+dir_tmp_MSG12="Atjungti vaizdą."
+dir_tmp_MSG13="Įrašyti vaizdą į kompaktinį diską"
+dir_tmp_MSG14="Įrašyti vaizdą į DVD"
+dir_tmp_MSG14B="Įrašyti vaizdą į BD"
+dir_tmp_MSG15="Pasirinkite parinktį pagal įrašymo laikmeną"
+dir_tmp_MSG16="FAILAS NERASTAS KONFIGŪRACIJOS FAILAS"
+dir_tmp_MSG17="Įrašymo proceso nutraukimas"
+dir_tmp_MSG18="Nurodykite .iso failą, kurį norite įrašyti"
+dir_tmp_MSG19="Įveskite vaizdo kelią: "
+
+

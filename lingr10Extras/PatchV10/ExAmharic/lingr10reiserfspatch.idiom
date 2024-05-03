@@ -1,0 +1,76 @@
+# Idioma Amárico para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="ለመቀጠል ENTERን ይጫኑ..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="============================"
+cabecera_interfaz_MSG2="ሊኑክስ-ሲዲግራብ 1.0 ድጋፍ ሰጪ ሪሰርኤፍስ።"
+cabecera_interfaz_MSG3="============================"
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="የትእዛዝ ውፅዓት ተራራ"
+formatear_disco_reiserfs_MSG2=" ለመቅረጽ የማገጃ መሳሪያውን ይግለጹ፡"
+formatear_disco_reiserfs_MSG3="መሣሪያው በተሳካ ሁኔታ ተቀርጿል"
+formatear_disco_reiserfs_MSG4="መሣሪያን መቅረጽ ላይ ስህተት"
+formatear_disco_reiserfs_MSG5="ሂደት ተጠናቀቀ"
+formatear_disco_reiserfs_MSG6="መሣሪያን በማራገፍ ላይ..."
+formatear_disco_reiserfs_MSG7="በReiserFS ውስጥ ድራይቭን በመቅረጽ ላይ..."
+formatear_disco_reiserfs_MSG8="እየሮጠ"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="በተሳካ ሁኔታ ቀርጿል"
+formatear_img_reiserfs_MSG2="ባዶ ፋይል ሲቀረጽ ስህተት "
+formatear_img_reiserfs_MSG3="ባዶ ፋይል በማመንጨት ላይ..."
+formatear_img_reiserfs_MSG4="እየሮጠ"
+formatear_img_reiserfs_MSG5="በReiserFS ውስጥ ባዶ ፋይልን በመቅረጽ ላይ..."
+formatear_img_reiserfs_MSG6="የባዶ ፋይል ትውልድ በብጁ መጠን"
+formatear_img_reiserfs_MSG7="የሚፈጠረውን ባዶ ፋይል መጠን ይግለጹ (ቁጥር ብቻ)"
+formatear_img_reiserfs_MSG8="ባዶውን ፋይል ለማመንጨት የቦታ መለኪያዎች:"
+formatear_img_reiserfs_MSG9="ለመጠቀም የቦታ ልኬትን ይግለጹ፡"
+formatear_img_reiserfs_MSG10="መጠን ሲገለጽ ስህተት"
+formatear_img_reiserfs_MSG11="የመጠን እሴትን አግድ:"
+formatear_img_reiserfs_MSG12="የ ባዶ ፋይል የቦታ መጠን:"
+formatear_img_reiserfs_MSG13="የተሰላ እሴት በባይት:"
+formatear_img_reiserfs_MSG14="የተሰላ ዋጋ ለቆጠራ፡"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="ለሲዲ-R/RW (702 Mbytes) ምስል ፍጠር"
+m_img_CDDVDBD_reiserfs_MSG2="ለዲቪዲ+አርደብሊው(4Gbytes) ምስል ፍጠር"
+m_img_CDDVDBD_reiserfs_MSG3="ለዲቪዲ+RW/DL (8 Gbytes) ምስል ፍጠር"
+m_img_CDDVDBD_reiserfs_MSG4="ለ BD-R/RE (25 Gbytes) ምስል ፍጠር"
+m_img_CDDVDBD_reiserfs_MSG5="የምስል ፋይል በብጁ መጠን ፍጠር"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="ውጣ"
+imgr_tmp_MSG1="ሁሉንም reiserfs ምስል ፋይሎች ሰርዝ"
+imgr_tmp_MSG2="የምስል ፋይል ጫን ወይም ንቀል"
+imgr_tmp_MSG3="የምስል ፋይሎች ውስጥ"
+imgr_tmp_MSG4="አማራጭ ምረጥ"
+imgr_tmp_MSG5="የተሰረዙ የምስል ፋይሎች"
+imgr_tmp_MSG6="ምስል ጫን"
+imgr_tmp_MSG7="ምስሉን አውጣ"
+imgr_tmp_MSG8="የተሰቀለ ምስል"
+imgr_tmp_MSG9="የተሰነጠቀ ምስል"
+imgr_tmp_MSG10="ልክ ያልሆነ አማራጭ"
+imgr_tmp_MSG11="ለመሰካት ወይም ለመንቀል ምስሉን ይግለጹ:"
+imgr_tmp_MSG12="ምስልን መጫን ላይ ስህተት"
+imgr_tmp_MSG13="ምስልን መንቀል ላይ ስህተት"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="ReiserFS ውስጥ ድራይቭ ቅርጸት"
+lingr10reiserfspatch_MSG2="ለሲዲ/ዲቪዲ/BD ReiserFS ምስል ፍጠር"
+lingr10reiserfspatch_MSG3="በReiserFS ምስሎች ላይ ያሉ ተግባራት"
+lingr10reiserfspatch_MSG4="ልክ ያልሆነ አማራጭ"
+lingr10reiserfspatch_MSG0="ውጣ"
+

@@ -1,0 +1,73 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwedish/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al sueco, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="VÄLJ ETT ALTERNATIV"
+clonar_MSG2="------ SKIVKOPIOR MED FÖRHÅNDSBILD ------"
+clonar_MSG3="Kopiera en data-CD"
+clonar_MSG4="Skapa en tidigare CD-avbildning på hårddisken"
+clonar_MSG5="----------- SKIVKOPIOR I FLYGEN ----------"
+clonar_MSG6="Kopiera en data-CD i farten"
+clonar_MSG7="Klona en data-CD i farten"
+clonar_MSG7B="Rippa en ljud-CD i farten"
+clonar_MSG8="FLYGANDE KOPIERINGSALTERNATIV KRÄVER TVÅ OPTISKA ENHETER"
+clonar_MSG9="INSTALLERAT PÅ DIN DATOR, DÅ DATA ÄR INSPELAD MEDAN"
+clonar_MSG10="LÄS DIREKT FRÅN URSPRUNGSDISKEN, OM ENDAST DIN DATOR HAR"
+clonar_MSG11="MAN KOMMER INTE KUNNA ANVÄNDA KOPIORRNA PÅ FLYGET."
+clonar_MSG12B="KOPIERA CD-DATA"
+clonar_MSG0="Föregående meny"
+
+# mgrabacd
+
+mgrabacd_MSG1="CD-DATA FRÅN HÅRDDISK"
+mgrabacd_MSG2="Bränn en ny data-CD (använd cdrtools)"
+mgrabacd_MSG3="Bränn en ny data-CD (använd libburnia)"
+mgrabacd_MSG4="Föregående meny"
+mgrabacd_MSG5="Ange ett alternativ"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="DATABILDINSPELNING"
+mgrabaimg_MSG2="Bränn iso- eller ext2-bild till CD-R/RW (använd cdrtools)"
+mgrabaimg_MSG3="Bränn iso-bild till CD-R/RW (använd libburnia)"
+mgrabaimg_MSG4="Föregående meny"
+mgrabaimg_MSG5="Ange ett alternativ"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Bränn en ljud-cd från .wav-filer"
+mgrabararchivosaudio_MSG2="Bränn en ljud-cd från .mp3-filer"
+mgrabararchivosaudio_MSG3="Bränn en ljud-cd från .ogg-filer"
+mgrabararchivosaudio_MSG0="Föregående meny"
+mgrabararchivosaudio_MSG0B="Skriv ett alternativ"
+mgrabararchivosaudio_MSG4="Bränn en ljud-cd från .flac-filer"
+mgrabararchivosaudio_MSG5="CD-LJUDINSPELNING FRÅN FILER"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="INSPELNING PÅ CD"
+menugrabar_cd_MSG2="------------------- CD - DATA ------------------"
+menugrabar_cd_MSG3="Kopiera data-CD"
+menugrabar_cd_MSG4="Bränn en ny data-CD"
+menugrabar_cd_MSG5="Bränn en ny data-CD för flera sessioner"
+menugrabar_cd_MSG6="Bränn .iso- eller .ext2-bild till CD"
+menugrabar_cd_MSG7="Bränn .bin/.cue-bild till CD"
+menugrabar_cd_MSG8="------------------- CD - LJUD ------------------"
+menugrabar_cd_MSG9="Kopiera en ljud-CD"
+menugrabar_cd_MSG13="-------------- ANDRA ALTERNATIV ----------------"
+menugrabar_cd_MSG14="Bränn en blandad CD (data + ljud)"
+menugrabar_cd_MSG15="Ta bort en CD-RW"
+menugrabar_cd_MSG16="Stäng öppen CD"
+menugrabar_cd_MSG17="Visa diskinformation i enheten"
+menugrabar_cd_MSG18="Bränn en ljud-cd från diskfiler"
+menugrabar_cd_MSG0="Föregående meny"
+menugrabar_cd_MSGPRINCIPAL="Skriv ett alternativ"
+

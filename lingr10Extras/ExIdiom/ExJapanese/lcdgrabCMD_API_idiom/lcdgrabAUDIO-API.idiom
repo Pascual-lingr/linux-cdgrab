@@ -1,0 +1,145 @@
+#########################################################
+# lcgdrabAPI_idiom/ExJapanese/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Japonés para el API de audio.
+# Traducción experimental, utilizado google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="変換する MP3 ファイル"
+mp3awav_MSG0=".mp3 ファイルのパスを入力します。 "
+mp3awav_MSG1="説得する"
+# La traducción de google muestra literales en inglés
+mp3awav_MSG1B=" TO .wav フォーマット"
+mp3awav_MSG2="ランニング"
+mp3awav_MSG3="44100 Mhz に設定されたサンプリング"
+mp3awav_MSG4="サンプリング処理時のエラー"
+mp3awav_MSG5="変換できませんでした"
+mp3awav_MSG6="ディレクトリが見つかりません"
+mp3awav_MSG7="オーディオ変換の終了"
+mp3awav_MSG8="オーディオファイルのノーマライズ"
+mp3awav_MSG9="アーカイブ"
+mp3awav_MSG10="正規化された"
+mp3awav_MSG11="正規化エラー"
+
+# oggawav
+
+oggawav_MSG0="変換する OGG ファイル"
+oggawav_MSG1=".ogg ファイルのパスを入力します。 "
+oggawav_MSG2="説得する"
+# La traducción de google muestra literales en inglés
+oggawav_MSG2B="TO .wav フォーマット"
+oggawav_MSG3="ランニング"
+oggawav_MSG4="44100 Mhz に設定されたサンプリング"
+oggawav_MSG5="サンプリング処理時のエラー"
+oggawav_MSG6="変換できませんでした"
+oggawav_MSG7="ディレクトリが見つかりません"
+oggawav_MSG8="オーディオ カバーの終了"
+oggawav_MSG9="オーディオファイルのノーマライズ"
+oggawav_MSG10="アーカイブ"
+oggawav_MSG11="正規化された"
+oggawav_MSG12="正規化エラー"
+
+# cdawav
+
+cdawav_MSG1="オーディオ CD をリッピングしています..."
+cdawav_MSG2="ランニング："
+cdawav_MSG3="オーディオトラックのリッピングに成功!!"
+cdawav_MSG4="オーディオ ファイル ディレクトリの内容"
+cdawav_MSG5="オーディオトラックのリッピング時のエラー"
+
+# cddawav
+
+cddawav_MSG1="リッピングするトラック数を入力してください:"
+cddawav_MSG2="トラックのリッピングをキャンセルするには、Crtl + c を押します"
+cddawav_MSG3="ランニング："
+cddawav_MSG4="正常に熟しました"
+cddawav_MSG5="熟成中のエラー"
+
+# wavamp3
+
+wavamp3_MSG0="変換する WAV ファイル"
+wavamp3_MSG1=".wav ファイルのパスを入力します。 "
+wavamp3_MSG1B="変換中"
+wavamp3_MSG2="フォーマットする"
+wavamp3_MSG3="ランニング："
+wavamp3_MSG4="変換時"
+wavamp3_MSG5=".MP3形式へ"
+wavamp3_MSG6="変換に失敗しました"
+wavamp3_MSG7="オーディオ変換が完了しました"
+wavamp3_MSG8="オーディオディレクトリが見つかりません"
+
+# cdamp3
+
+cdamp3_MSG1="オーディオ CD をリッピングしています..."
+cdamp3_MSG2="ランニング："
+cdamp3_MSG3="オーディオトラックのリッピングに成功!!"
+cdamp3_MSG4="オーディオトラックのリッピング時のエラー"
+cdamp3_MSG5="関数の呼び出し:"
+
+# wavaogg
+
+wavaogg_MSG1=".wav ファイルのパスを入力します。 "
+wavaogg_MSG2="説得する"
+wavaogg_MSG3="TO .ogg フォーマット"
+wavaogg_MSG4="ランニング："
+wavaogg_MSG5="変換に失敗しました"
+wavaogg_MSG6=".ogg 形式に"
+
+# cdaogg
+
+cdaogg_MSG1="オーディオ CD をリッピングしています..."
+cdaogg_MSG2="ランニング："
+cdaogg_MSG3="オーディオトラックのリッピングに成功!!"
+cdaogg_MSG4="オーディオトラックのリッピング時のエラー"
+cdaogg_MSG5="関数の呼び出し:"
+
+# corta_wav
+
+corta_wav_MSG0="秒数:"
+corta_wav_MSG1="変換するオーディオ ファイルのパスを指定します"
+corta_wav_MSG2="時間を秒数で指定します。"
+corta_wav_MSG3="ファイルのカットが始まります。"
+corta_wav_MSG4="-ノート-"
+corta_wav_MSG5="オーディオの開始を指定するには、自分自身に通知する必要があります 0"
+corta_wav_MSG6="変換開始の秒単位の値:"
+corta_wav_MSG7="時間を秒数で指定します。"
+corta_wav_MSG8="ファイルのカットが終了します。"
+corta_wav_MSG9="変換終了の秒単位の値:"
+corta_wav_MSG10="ランニング"
+corta_wav_MSG11="トリミングされたオーディオ ファイル"
+corta_wav_MSG12="ファイルのトリミング中にエラーが発生しました"
+corta_wav_MSG13="トリミングするオーディオ ファイル:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV オーディオ"
+flacawav_MSG1=".flac ファイルのパスを指定します。"
+flacawav_MSG2="説得する"
+# El traductor de google muestra caracteres no orientales en la traducción
+flacawav_MSG3="TO .wav フォーマット"
+flacawav_MSG4="44100 Mhz に設定されたサンプリング"
+flacawav_MSG5="サンプリング処理時のエラー"
+flacawav_MSG6="オーディオファイルのノーマライズ"
+flacawav_MSG7="アーカイブ"
+flacawav_MSG8="正規化された"
+flacawav_MSG9="エラー正規化"
+flacawav_MSG10="変換できませんでした"
+flacawav_MSG11="ディレクトリが見つかりません"
+flacawav_MSG12="オーディオ変換の終了"
+
+# wavaflac
+
+wavaflac_MSG0="変換する WAV ファイル"
+wavaflac_MSG1=".wav ファイルのパスを入力します。"
+wavaflac_MSG2="変換中"
+# El traductor de google muestra caracteres tradicionales
+wavaflac_MSG3="TO .flacフォーマット"
+wavaflac_MSG4="flac形式に変換"
+wavaflac_MSG5="変換に失敗しました"
+wavaflac_MSG6=".flac形式へ"
+wavaflac_MSG7="FLAC ファイルのディレクトリが見つかりません"

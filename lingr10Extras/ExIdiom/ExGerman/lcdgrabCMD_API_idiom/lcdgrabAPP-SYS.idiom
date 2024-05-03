@@ -1,0 +1,110 @@
+#########################################################
+# lcgdrabAPI_idiom/ExGerman/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Alemán para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+# 
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+
+m_cdrecord_sin_overburn_MSG1="Aufnahmevorgang wird erneut versucht..."
+m_cdrecord_sin_overburn_MSG2="Ausführen von cdrecord ohne die Option -overburn"
+m_cdrecord_sin_overburn_MSG3="-overburn wird weder auf älteren Aufnahmegeräten noch auf älteren Versionen von cdrecord unterstützt."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="UNGÜLTIGE OPTION"
+
+# img_error
+
+img_error_D_MSG1="FEHLER BEIM ERSTELLEN DES BILDES"
+
+# CD_error
+
+CD_error_D_MSG1="FEHLER BEIM AUFNEHMEN DER CD"
+
+# DVD_error
+
+DVD_error_D_MSG1="FEHLER BEIM AUFNEHMEN DER DVD"
+
+# DO_error
+
+DO_error_D_MSG1="FEHLER BEIM AUFZEICHNEN EINER OPTISCHEN DISC"
+
+
+# tecla
+
+tecla_D_MSG1="\nDrücken Sie ENTER, um fortzufahren. . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="VERZEICHNISPFADE ZUR AUFZEICHNUNG AUF DISC"
+rutas_dir_D_MSG2="Geben Sie den Verzeichnisnamen ein (f zum Beenden):"
+rutas_dir_D_MSG3="VERZEICHNIS"
+rutas_dir_D_MSG4="UNGÜLTIG"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="GLEICHE OPTISCHE EINHEIT IM SYSTEM"
+una_sola_grabadora_D_MSG2="DIE LESE- UND AUFZEICHNUNGSEINHEIT SIND GLEICH. Es wird davon ausgegangen, dass Ihr System nur über ein physikalisches Laufwerk verfügt. ENTFERNEN SIE DIE QUELL-CD AUS DEM LAUFWERK. Legen Sie eine leere optische Disc ein, um mit dem Aufnahmevorgang fortzufahren"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="Die Aufnahme der Disc wurde erfolgreich abgeschlossen"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="UNGÜLTIGE OPTION"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="Die Aufnahme der Disc wurde erfolgreich abgeschlossen"
+
+# text_img_error
+
+text_img_error_MSG1="FEHLER BEIM ERSTELLEN DES BILDES"
+
+# text_CD_error
+
+text_CD_error_MSG1="FEHLER BEIM AUFNEHMEN DER CD"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="FEHLER BEIM AUFNEHMEN DER DVD"
+
+# text_DO_error
+
+text_DO_error_MSG1="FEHLER BEI DER AUFZEICHNUNG DER OPTISCHEN DISC"
+
+# teclash
+
+teclash_MSG1="Drücken Sie ENTER, um fortzufahren. . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Geben Sie den Namen des Verzeichnisses ein (f zum Beenden):"
+text_rutas_dir_MSG2="VERZEICHNIS"
+text_rutas_dir_MSG3=" UNGÜLTIG"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="GLEICHE OPTISCHE EINHEIT IM SYSTEM"
+text_una_sola_grabadora_MSG2="DIE LESE- UND AUFZEICHNUNGSEINHEIT SIND DIESELBEN."
+text_una_sola_grabadora_MSG3="Es wird davon ausgegangen, dass Ihr System nur über eines verfügt"
+text_una_sola_grabadora_MSG4="PHYSISCHER ANTRIEB."
+text_una_sola_grabadora_MSG5="ENTFERNEN SIE DIE QUELL-DISC AUS DEM LAUFWERK."
+text_una_sola_grabadora_MSG6="LEERE OPTISCHE DISC EINLEGEN"
+text_una_sola_grabadora_MSG7="Um mit dem Aufnahmevorgang fortzufahren."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="Betrieb"

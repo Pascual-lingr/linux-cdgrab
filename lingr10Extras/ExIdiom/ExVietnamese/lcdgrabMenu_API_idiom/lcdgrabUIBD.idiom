@@ -1,0 +1,22 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcgdrabMenu_API_idiom/lcdgrabUIBD.idiom
+# Menu de Interfaz para la grabación de BD.
+# Traducción experimental al vietnamita, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_grabar_BD
+
+menu_grabar_BD_MSG0="Menu trước."
+menu_grabar_BD_MSG1="GHI ĐĨA BLU-RAY"
+menu_grabar_BD_MSG2="Ghi iso BD-R/BD-RE mới từ dữ liệu ổ cứng"
+menu_grabar_BD_MSG4="Hình ảnh ISO/UDF để ghi vào đĩa."
+menu_grabar_BD_MSG7="Ghi hình ảnh iso-9660/udf vào BD-R/BD-RE"
+menu_grabar_BD_MSG8="------------------- BD - DỮ LIỆU -------------------"
+menu_grabar_BD_MSG9="Hiển thị thông tin ổ đĩa"
+menu_grabar_BD_MSG10="Áp dụng thao tác xóa cần thiết cho BD-RE"
+
+

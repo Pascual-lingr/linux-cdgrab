@@ -1,0 +1,92 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al vietnamita, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Chọn giao diện người dùng sẽ được sử dụng:"
+SeleccionaIUDVD_MSG2="Sử dụng Giao diện cho dvd+-rw-tools"
+SeleccionaIUDVD_MSG3="Sử dụng giao diện cho Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Sử dụng giao diện cho libburnia"
+SeleccionaIUDVD_MSG5="Menu trước"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="GHI DVD"
+menugrabar_dvd_MSG2="----------------- DVD - DỮ LIỆU ------------------"
+menugrabar_dvd_MSG3="Sao chép DVD dữ liệu ISO-9660"
+menugrabar_dvd_MSG4="Tạo ảnh DVD trước đó trên ổ cứng"
+menugrabar_dvd_MSG5="Ghi DVD dữ liệu ISO-9660 mới"
+menugrabar_dvd_MSG6="Thêm phiên dữ liệu mới vào DVD dữ liệu ISO-9660 (DVD nhiều phiên)"
+menugrabar_dvd_MSG7="Cần một đĩa DVD được ghi trước đó bằng tùy chọn thứ hai"
+menugrabar_dvd_MSG8="Ghi ảnh dữ liệu ISO-9660 vào DVD"
+menugrabar_dvd_MSG9="Ghi ảnh .ext2 vào DVD"
+menugrabar_dvd_MSG10="----------------- DVD - VIDEO ------------------"
+menugrabar_dvd_MSG11="Ghi một DVD-Video mới"
+menugrabar_dvd_MSG12="--------------- SỰ LỰA CHỌN KHÁC -----------------"
+menugrabar_dvd_MSG13="Định dạng DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Hiển thị thông tin đĩa DVD"
+menugrabar_dvd_MSG0="Menu trước"
+menugrabar_dvd_MSGPRINCIPAL="Gõ một tùy chọn"
+menugrabar_dvd_MSG15="Các tập tin và thư mục cần đưa vào DVD"
+menugrabar_dvd_MSG16="Khởi chạy trình quản lý tập tin..."
+menugrabar_dvd_MSG17=".hình ảnh iso để ghi vào DVD"
+menugrabar_dvd_MSG18="Nhập đường dẫn thư mục chứa hình ảnh .iso bạn muốn ghi"
+menugrabar_dvd_MSG19="Cần có phiên bản cdrecord có hỗ trợ DVD."
+menugrabar_dvd_MSG20="Việc ghi hình ảnh .ext2 trên DVD sẽ được thực hiện bằng cdrecord."
+menugrabar_dvd_MSG21="Phiên bản cdrecord hiện có trong cài đặt của bạn phải"
+menugrabar_dvd_MSG22="hỗ trợ ghi DVD."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="CHỌN MỘT SỰ LỰA CHỌN"
+dvd_clonar_MSG2="--- BẢN SAO ĐĨA HÌNH ẢNH TRƯỚC ---"
+dvd_clonar_MSG3="Sao chép DVD dữ liệu"
+dvd_clonar_MSG4="Tạo ảnh DVD trước đó trên ổ cứng"
+dvd_clonar_MSG5="--- BẢN SAO ĐĨA TRÊN CHUYẾN BAY ---"
+dvd_clonar_MSG6="Sao chép dữ liệu DVD một cách nhanh chóng"
+dvd_clonar_MSG7="Sao chép một đĩa DVD dữ liệu một cách nhanh chóng"
+dvd_clonar_MSG8="TÙY CHỌN SAO CHÉP BAY YÊU CẦU HAI ĐƠN VỊ QUANG HỌC"
+dvd_clonar_MSG9="ĐÃ CÀI ĐẶT TRÊN MÁY TÍNH CỦA BẠN, VÌ DỮ LIỆU ĐƯỢC GHI LẠI TRONG KHI"
+dvd_clonar_MSG10="ĐỌC TRỰC TIẾP TỪ ĐĨA GỐC, NẾU MÁY TÍNH CỦA BẠN CHỈ CÓ"
+dvd_clonar_MSG11="BẠN SẼ KHÔNG THỂ SỬ DỤNG BẢN SAO TRÊN CHUYẾN BAY."
+dvd_clonar_MSG0="Trình đơn trước"
+dvd_clonar_MSG12="SAO CHÉP DỮ LIỆU DVD"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="GHI DVD"
+menugrabar_DVD_MSG2="------------------ DVD - DỮ LIỆU -------------------"
+menugrabar_DVD_MSG3="Sao chép dữ liệu DVD"
+menugrabar_DVD_MSG4="Ghi DVD dữ liệu mới"
+menugrabar_DVD_MSG5="Ghi hình ảnh .iso hoặc .ext2 vào DVD"
+menugrabar_DVD_MSG6="Định dạng DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Hiển thị thông tin đĩa trong ổ đĩa"
+menugrabar_DVD_MSG0="Menu trước"
+menugrabar_DVD_MSGPRINCIPAL="Gõ một tùy chọn"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Ghi hình ảnh iso-9660 vào DVD"
+menugrabar_DVD_libburnia_MSG2="Ghi dữ liệu từ ổ cứng sang DVD"
+menugrabar_DVD_libburnia_MSG3="Định dạng DVD"
+menugrabar_DVD_libburnia_MSG4="Định dạng DVD-RW theo dạng tăng dần tuần tự"
+menugrabar_DVD_libburnia_MSG5="Định dạng DVD-RW ở chế độ ghi đè hạn chế"
+menugrabar_DVD_libburnia_MSG6="Hiển thị thông tin ổ đĩa"
+menugrabar_DVD_libburnia_MSG8="Liệt kê các ổ đĩa được cài đặt trong hệ thống"
+menugrabar_DVD_libburnia_MSG0="Thoát"
+menugrabar_DVD_libburnia_MSG7="Nhập một tùy chọn"
+
+
+

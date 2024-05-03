@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExSwedish/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Sueco para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="OPERACIONES EN UNIDAD DE DISCO"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- VIKTIG -----------------------"
+MenuDispositivosBloque_MSG3="+ Utför inte skrivoperationer på hårddiskar "
+MenuDispositivosBloque_MSG4="+ om diskpartitioner som innehåller bilder"
+MenuDispositivosBloque_MSG5="+ återställning, startpartitioner eller din egen"
+MenuDispositivosBloque_MSG6="+ operativsystempartition."
+MenuDispositivosBloque_MSG7="+ Missbruk av skrivalternativen i den här menyn "
+MenuDispositivosBloque_MSG8="+ kan generera en katastrof i systemet."
+MenuDispositivosBloque_MSG9="+ Använd med försiktighet. Använd på egen risk."
+MenuDispositivosBloque_MSG10="-------------------- SKRIFT ---------------------"
+MenuDispositivosBloque_MSG11="Dumpa en bildfil på hårddisken"
+MenuDispositivosBloque_MSG11B="Dumpa iso- eller img-bild (självstartbar) till pendrive eller USB-disk"
+MenuDispositivosBloque_MSG11C="Inte alla installationssystem stöds."
+MenuDispositivosBloque_MSG12="Formatera enhet med inbyggt Linux- eller Windows-filsystem"
+MenuDispositivosBloque_MSG13="-------------------- LÄSNING --------------------"
+MenuDispositivosBloque_MSG14="Skapa .img-bild från en hårddisk"
+MenuDispositivosBloque_MSG15="Föregående meny"
+MenuDispositivosBloque_MSG16="Skriv ett alternativ"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------VIKTIG------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Formatera enhet med filsystem som används i enheter"
+UIFormatearUnidad_linuxfs_MSG2B="+ eller diskpartitioner."
+UIFormatearUnidad_linuxfs_MSG3="+ Detta alternativ kommer att radera alla befintliga data på enheten"
+UIFormatearUnidad_linuxfs_MSG4="+ Flyttbara enheter formaterade med ett filsystem"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux i sig kommer endast att vara tillgängligt under detta operativsystem."
+UIFormatearUnidad_linuxfs_MSG6="+ Använd med försiktighet, använd på egen risk."
+UIFormatearUnidad_linuxfs_MSG7="--------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="TRYCK PÅ C-KNAPPEN FÖR ATT FORTSÄTTA; (Processen kommer att avbrytas i ett annat alternativ)"
+

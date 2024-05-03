@@ -1,0 +1,54 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAfrikaans/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Afrikáans para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="TOESTELLE WAT TANS IN DIE STELSEL GEMONTEER IS"
+montar_dispositivos_MSG1B="MONTERING/DEMONTERING VAN TOESTELLE"
+montar_dispositivos_MSG2="LINUX OPSIES-CDGRAB"
+montar_dispositivos_MSG3="Weg skyf uit CD/DVD/BD-leser uit"
+montar_dispositivos_MSG4="Weg skyf uit CD/DVD/BD-brander uit"
+montar_dispositivos_MSG5="Stel CD-ROM/DVD-ROM/BD-ROM-leser aan"
+montar_dispositivos_MSG6="Ontkoppel CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Monteer of demonteer toestel met die hand"
+montar_dispositivos_MSG0="Vorige spyskaart"
+montar_dispositivos_MSG8="CD/DVD/BD gemonteer"
+montar_dispositivos_MSG9="DRUK ENTER OM VOORT TE GAAN..."
+montar_dispositivos_MSG10="Fout tydens montering van die CD/DVD/BD op"
+montar_dispositivos_MSG11="Die CD/DVD/BD is ontkoppel"
+montar_dispositivos_MSG12="Fout met die ontkoppel van die CD/DVD/BD"
+montar_dispositivos_MSG13="Tik die toestel om te monteer/ontkoppel:"
+montar_dispositivos_MSG14="Voer die monteerpunt in:"
+# Se omite 'n por evitar errores de funcionamiento
+montar_dispositivos_MSG15="stem nie ooreen met 'n bloktoestel nie"
+montar_dispositivos_MSG16="Monteerpunt nie gevind nie"
+montar_dispositivos_MSG17="Verstek monteerpunt"
+montar_dispositivos_MSG18="Kies opsie:"
+montar_dispositivos_MSG19="Monteer die"
+montar_dispositivos_MSG20="af"
+montar_dispositivos_MSG21="Ontkoppel"
+montar_dispositivos_MSG22="van"
+montar_dispositivos_MSG23="gemonteer op:"
+montar_dispositivos_MSG24="FOUT BY MONTERING"
+montar_dispositivos_MSG25="IN"
+montar_dispositivos_MSG26="geklim van"
+montar_dispositivos_MSG27="FOUT BY DEMONTERING"
+montar_dispositivos_MSG28="van"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Uitvoer van die bergopdrag"
+Montar_Imagenes_MSG1B="MONTERING/DEMONTERING VAN BEELDLÊERS"
+# Se omite 'n por evitar errores de funcionamiento
+Montar_Imagenes_MSG2="Kies n opsie"
+Montar_Imagenes_MSG3="Stel CD/DVD/BD-beeld op"
+Montar_Imagenes_MSG4="Ontkoppel CD/DVD/BD-beeld"
+Montar_Imagenes_MSG5="Vorige spyskaart"
+

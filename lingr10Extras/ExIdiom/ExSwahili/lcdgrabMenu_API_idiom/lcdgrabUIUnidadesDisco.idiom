@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExSwahili/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Suajili para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="OPERESHENI ZA UENDESHAJI WA DISK"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- MUHIMU -----------------------"
+MenuDispositivosBloque_MSG3="+ Usifanye shughuli za uandishi kwenye diski kuu "
+MenuDispositivosBloque_MSG4="+ kuhusu sehemu za diski zilizo na picha"
+MenuDispositivosBloque_MSG5="+ recovery, partitions za boot au yako mwenyewe"
+MenuDispositivosBloque_MSG6="+ kizigeu cha mfumo wa uendeshaji."
+MenuDispositivosBloque_MSG7="+ Matumizi mabaya ya chaguo za uandishi za menyu hii "
+MenuDispositivosBloque_MSG8="+ inaweza kuzalisha janga katika mfumo."
+MenuDispositivosBloque_MSG9="+ Tumia kwa tahadhari. Tumia kwa hatari yako mwenyewe."
+MenuDispositivosBloque_MSG10="------------------- KUANDIKA --------------------"
+MenuDispositivosBloque_MSG11="Tupa faili ya picha kwenye hifadhi ya diski"
+MenuDispositivosBloque_MSG11B="Tupa picha ya iso au img (inayojiendesha yenyewe) kwenye pendrive au diski ya USB"
+MenuDispositivosBloque_MSG11C="Si mifumo yote ya usakinishaji inayotumika."
+MenuDispositivosBloque_MSG12="Badilisha kiendeshi na Linux asili au mfumo wa faili wa Windows"
+MenuDispositivosBloque_MSG13="-------------------- KUSOMA ---------------------"
+MenuDispositivosBloque_MSG14="Unda .img picha kutoka kwa kiendeshi cha diski"
+MenuDispositivosBloque_MSG15="Menyu iliyotangulia"
+MenuDispositivosBloque_MSG16="Chapa chaguo"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------MUHIMU------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Kitengo cha umbizo na mfumo wa faili unaotumika kwenye vifaa"
+UIFormatearUnidad_linuxfs_MSG2B="+ au sehemu za diski."
+UIFormatearUnidad_linuxfs_MSG3="+ Chaguo hili litafuta data yote iliyopo kwenye kitengo"
+UIFormatearUnidad_linuxfs_MSG4="+ Hifadhi zinazoweza kutolewa zilizoumbizwa na mfumo wa faili"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux yenyewe itafikiwa tu chini ya mfumo huu wa uendeshaji."
+UIFormatearUnidad_linuxfs_MSG6="+ Tumia kwa tahadhari, tumia kwa hatari yako mwenyewe."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="BONYEZA UFUNGUO C ILI KUENDELEA; (Mchakato utaghairiwa kwa chaguo jingine)"
+

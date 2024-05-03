@@ -1,0 +1,56 @@
+#########################################################
+# lcgdrabAPI_idiom/ExKorean/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en coreano para el API de video.
+# Traducción experimental, generado con google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="비디오 변환 블루레이 디스크 호환성"
+conv_video_BDVideo_MSG2="변환할 비디오 파일의 경로를 지정하십시오:"
+conv_video_BDVideo_MSG3="생성할 새 비디오의 파일 이름을 지정하십시오:"
+conv_video_BDVideo_MSG4="동영상 파일이 성공적으로 변환되었습니다!!"
+conv_video_BDVideo_MSG5="비디오 파일 변환 오류"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="변환 비디오 파일"
+conv_VideoFich_MSG2="변환할 비디오 파일을 지정하세요:"
+conv_VideoFich_MSG3="생성할 비디오 파일을 지정하십시오:"
+conv_VideoFich_MSG4="비디오 파일 변환이 완료되었습니다"
+conv_VideoFich_MSG5="비디오 파일을 변환하는 중 오류가 발생했습니다"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="비디오 파일 지정:"
+extrae_Audio_de_Video_MSG2="생성할 mp3 사운드 파일을 지정하세요:"
+extrae_Audio_de_Video_MSG3="사운드 추출 성공"
+extrae_Audio_de_Video_MSG4="사운드 추출 시 오류 발생"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="동영상 파일 지정:"
+extrae_Fragmento_Video_MSG2="생성할 비디오 파일을 지정하십시오:"
+extrae_Fragmento_Video_MSG3="초기 시간 지정(HH:MM:SS로 지정):"
+extrae_Fragmento_Video_MSG4="종료 시간을 지정하세요(HH:MM:SS로 지정하세요):"
+extrae_Fragmento_Video_MSG5="비디오가 성공적으로 잘렸습니다."
+extrae_Fragmento_Video_MSG6="비디오를 자를 때 오류가 발생했습니다."
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="사운드 파일 지정:"
+mezcla_Audio_Video_MSG2="비디오 파일 지정:"
+mezcla_Audio_Video_MSG3="생성할 비디오 파일을 지정하세요:"
+mezcla_Audio_Video_MSG4="새 비디오 파일이 성공적으로 생성되었습니다"
+mezcla_Audio_Video_MSG5="비디오 파일 생성 중 오류가 발생했습니다."
+
+# graba_escritorio
+
+graba_escritorio_MSG1="콘솔 인터페이스에는 옵션을 사용할 수 없습니다."
+graba_escritorio_MSG2="-- 데스크톱 세션 녹화 중 - 녹화를 취소하고 중지하려면 CTRL + C를 누르세요."
+graba_escritorio_MSG3="비디오 녹화가 완료되었습니다"
+

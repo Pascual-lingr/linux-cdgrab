@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGreek/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en griego para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="ΣΥΣΚΕΥΕΣ ΠΟΥ ΕΓΚΑΤΑΣΤΑΘΗΚΑΝ ΣΤΟ ΣΥΣΤΗΜΑ"
+montar_dispositivos_MSG1B="ΣΥΝΑΡΜΟΛΟΓΗΣΗ/ΑΠΟΣΥΝΑΡΜΟΛΟΓΗΣΗ ΣΥΣΚΕΥΩΝ"
+montar_dispositivos_MSG2="--Επιλογές LINUX-CDGRAB-"
+montar_dispositivos_MSG3="Εξαγωγή δίσκου από συσκευή ανάγνωσης CD/DVD/BD"
+montar_dispositivos_MSG4="Εξαγωγή δίσκου από συσκευή εγγραφής CD/DVD/BD"
+montar_dispositivos_MSG5="Τοποθέτηση CD-ROM/DVD-ROM/BD-ROM reader"
+montar_dispositivos_MSG6="Αποπροσάρτηση CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Τοποθέτηση ή αποσυναρμολόγηση συσκευής με το χέρι"
+montar_dispositivos_MSG0="Προηγούμενο μενού"
+montar_dispositivos_MSG8="Το CD/DVD/BD τοποθετήθηκε σε"
+montar_dispositivos_MSG9="ΠΑΤΗΣΤΕ ENTER ΓΙΑ ΣΥΝΕΧΕΙΑ..."
+montar_dispositivos_MSG10="Σφάλμα κατά την τοποθέτηση του CD/DVD/BD σε"
+montar_dispositivos_MSG11="Το CD/DVD/BD αποπροσαρτήθηκε"
+montar_dispositivos_MSG12="Σφάλμα κατά την αποπροσάρτηση του CD/DVD/BD"
+montar_dispositivos_MSG13="Πληκτρολογήστε τη συσκευή για προσάρτηση/αποπροσάρτηση:"
+montar_dispositivos_MSG14="Εισαγάγετε το σημείο προσάρτησης:"
+montar_dispositivos_MSG15="δεν αντιστοιχεί σε συσκευή μπλοκ"
+montar_dispositivos_MSG16="Το σημείο τοποθέτησης δεν βρέθηκε"
+montar_dispositivos_MSG17="Προεπιλεγμένο σημείο προσάρτησης"
+montar_dispositivos_MSG18="Επιλογή επιλογής:"
+montar_dispositivos_MSG19="Τοποθέτηση του"
+montar_dispositivos_MSG20="en"
+montar_dispositivos_MSG21="Αποπροσάρτηση"
+montar_dispositivos_MSG22="de"
+montar_dispositivos_MSG23="προσαρτήθηκε σε:"
+montar_dispositivos_MSG24="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΤΟΠΟΘΕΤΗΣΗ"
+montar_dispositivos_MSG25="EL"
+montar_dispositivos_MSG26="αποπροσαρτήθηκε από"
+montar_dispositivos_MSG27="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΑΠΟΠΡΟΣΑΡΜΟΓΗ"
+montar_dispositivos_MSG28="de"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Έξοδος της εντολής προσάρτησης"
+Montar_Imagenes_MSG1B="ΣΥΝΑΡΜΟΛΟΓΗΣΗ/ΑΠΟΣΥΝΑΡΜΟΛΟΓΗΣΗ ΑΡΧΕΙΩΝ ΕΙΚΟΝΑΣ"
+Montar_Imagenes_MSG2="Επιλέξτε μια επιλογή"
+Montar_Imagenes_MSG3="Τοποθέτηση εικόνας CD/DVD/BD"
+Montar_Imagenes_MSG4="Αποπροσάρτηση εικόνας CD/DVD/BD"
+Montar_Imagenes_MSG5="Προηγούμενο μενού"
+

@@ -1,0 +1,75 @@
+# English languaje to ReiserFS Support for LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Experimental translatión, generated in some parts by google translator.
+# Distribute under the same license of Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Press ENTER to continue..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 REISERFS SUPPORT."
+cabecera_interfaz_MSG3="=================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Exit mount command:"
+formatear_disco_reiserfs_MSG2="Specify block device to format: "
+formatear_disco_reiserfs_MSG3="Device Formatted Successfully"
+formatear_disco_reiserfs_MSG4="Error formatting device"
+formatear_disco_reiserfs_MSG5="PROCESS COMPLETED"
+formatear_disco_reiserfs_MSG6="Unmounting device..."
+formatear_disco_reiserfs_MSG7="Formatting unit in ReiserFS..."
+formatear_disco_reiserfs_MSG8="Executing"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="FORMATTED SUCCESSFULLY"
+formatear_img_reiserfs_MSG2="ERROR WHILE FORMATTING THE EMPTY FILE"
+formatear_img_reiserfs_MSG3="Generating empty file..."
+formatear_img_reiserfs_MSG4="Executing"
+formatear_img_reiserfs_MSG5="Formatting empty file in ReiserFS..."
+formatear_img_reiserfs_MSG6="GENERATION OF EMPTY FILE WITH CUSTOM SIZE"
+formatear_img_reiserfs_MSG7="Specify the size of the empty file to generate (only a numeric value):"
+formatear_img_reiserfs_MSG8="Space measurements to generate the empty file:"
+formatear_img_reiserfs_MSG9="Specify the space measurement to use: "
+formatear_img_reiserfs_MSG10="ERROR WHEN SPECIFYING THE SIZE MEASUREMENT"
+formatear_img_reiserfs_MSG11="Block size value:"
+formatear_img_reiserfs_MSG12="Amount of space for empty file:"
+formatear_img_reiserfs_MSG13="Calculated value in bytes:"
+formatear_img_reiserfs_MSG14="Calculated value for count:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Create image for a CD-R/RW (702 Mbytes)"
+m_img_CDDVDBD_reiserfs_MSG2="Create image for a DVD+RW (4 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG3="Create image for a DVD+RW/DL (8 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG4="Create image for a BD-R/RE (25 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG5="Create image file with custom size"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Exit"
+imgr_tmp_MSG1="Delete all reiserfs image files"
+imgr_tmp_MSG2="Mount or Unmount image file"
+imgr_tmp_MSG3="Image files in"
+imgr_tmp_MSG4="Select option"
+imgr_tmp_MSG5="Deleted image files"
+imgr_tmp_MSG6="Mount image file"
+imgr_tmp_MSG7="Umount image file"
+imgr_tmp_MSG8="Image file mounted"
+imgr_tmp_MSG9="Image file unmounted"
+imgr_tmp_MSG10="Invalid option"
+imgr_tmp_MSG11="Specify image file to mount or unmount:"
+imgr_tmp_MSG12="Error mounting image file"
+imgr_tmp_MSG13="Error unmounting image file"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Format drive in ReiserFS"
+lingr10reiserfspatch_MSG2="Create ReiserFS image for CD/DVD/BD"
+lingr10reiserfspatch_MSG3="Operations on ReiserFS images"
+lingr10reiserfspatch_MSG4="Invalid option"
+lingr10reiserfspatch_MSG0="Exit"

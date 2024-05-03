@@ -1,0 +1,76 @@
+# Idioma Sueco para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Tryck på ENTER för att fortsätta..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 SUPPORT REISERFS."
+cabecera_interfaz_MSG3="=================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Monteringskommandoutgång:"
+formatear_disco_reiserfs_MSG2="Ange blockeringsenheten som ska formateras: "
+formatear_disco_reiserfs_MSG3="Enheten har formaterats framgångsrikt"
+formatear_disco_reiserfs_MSG4="Fel vid formatering av enhet"
+formatear_disco_reiserfs_MSG5="PROCESSEN SLUTAD"
+formatear_disco_reiserfs_MSG6="Avmonterar enhet..."
+formatear_disco_reiserfs_MSG7="Formaterar enhet i ReiserFS..."
+formatear_disco_reiserfs_MSG8="Löper"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="FORMATERADES MED FRAMGÅNG"
+formatear_img_reiserfs_MSG2="FEL VID FORMATERING AV TOM FIL"
+formatear_img_reiserfs_MSG3="Genererar tom fil..."
+formatear_img_reiserfs_MSG4="Kör"
+formatear_img_reiserfs_MSG5="Formaterar tom fil i ReiserFS..."
+formatear_img_reiserfs_MSG6="GENERERING AV TOM FIL MED ANPASSAD STORLEK"
+formatear_img_reiserfs_MSG7="Ange storleken på den tomma filen som ska genereras (endast ett numeriskt värde):"
+formatear_img_reiserfs_MSG8="Utrymmesmått för att generera den tomma filen:"
+formatear_img_reiserfs_MSG9="Ange utrymmesmåttet som ska användas: "
+formatear_img_reiserfs_MSG10="FEL NÄR STORLEKSMÄTTET ANGES"
+formatear_img_reiserfs_MSG11="Blockstorleksvärde:"
+formatear_img_reiserfs_MSG12="Mängd utrymme för tom fil:"
+formatear_img_reiserfs_MSG13="Beräknat värde i byte:"
+formatear_img_reiserfs_MSG14="Beräknat värde för count:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Skapa bild för en CD-R/RW (702 Mbyte)"
+m_img_CDDVDBD_reiserfs_MSG2="Skapa bild för en DVD+RW (4 Gbyte)"
+m_img_CDDVDBD_reiserfs_MSG3="Skapa bild för en DVD+RW/DL (8 Gbyte)"
+m_img_CDDVDBD_reiserfs_MSG4="Skapa bild för en BD-R/RE (25 Gbyte)"
+m_img_CDDVDBD_reiserfs_MSG5="Skapa bildfil med anpassad storlek"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Avsluta"
+imgr_tmp_MSG1="Ta bort alla reiserfs bildfiler"
+imgr_tmp_MSG2="Montera eller avmontera bildfil"
+imgr_tmp_MSG3="Bildfiler i"
+imgr_tmp_MSG4="Välj ett alternativ"
+imgr_tmp_MSG5="Borttagna bildfiler"
+imgr_tmp_MSG6="Montera bild"
+imgr_tmp_MSG7="Demontera bild"
+imgr_tmp_MSG8="Monterad bild"
+imgr_tmp_MSG9="Demonterad bild"
+imgr_tmp_MSG10="Ogiltigt alternativ"
+imgr_tmp_MSG11="Ange bilden som ska monteras eller avmonteras:"
+imgr_tmp_MSG12="Fel vid montering av bild"
+imgr_tmp_MSG13="Fel vid avmontering av bild"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Formatera enhet i ReiserFS"
+lingr10reiserfspatch_MSG2="Skapa ReiserFS-avbildning för CD/DVD/BD"
+lingr10reiserfspatch_MSG3="Operationer på ReiserFS-bilder"
+lingr10reiserfspatch_MSG4="Ogiltigt alternativ"
+lingr10reiserfspatch_MSG0="Avsluta"
+

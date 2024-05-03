@@ -1,0 +1,43 @@
+#########################################################
+# lcdgrabAPI_idion/ExDanish/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Danés para el Interfaz sobre dispositivo de bloque
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="DISKDREV FUNKTIONER"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- VIGTIG -----------------------"
+MenuDispositivosBloque_MSG3="+ Udfør ikke skrivehandlinger på harddiske "
+MenuDispositivosBloque_MSG4="+ om diskpartitioner, der indeholder billeder"
+MenuDispositivosBloque_MSG5="+ gendannelse, opstartspartitioner eller din egen"
+MenuDispositivosBloque_MSG6="+ operativsystempartition."
+MenuDispositivosBloque_MSG7="+ Misbrug af skrivemulighederne i denne menu "
+MenuDispositivosBloque_MSG8="+ kan generere en katastrofe i systemet."
+MenuDispositivosBloque_MSG9="+ Brug med forsigtighed. Brug på egen risiko."
+MenuDispositivosBloque_MSG10="------------------- SKRIVNING -------------------"
+MenuDispositivosBloque_MSG11="Dump en billedfil på diskdrev"
+MenuDispositivosBloque_MSG11B="Dump iso- eller img-billede (selvstartbar) til pendrive eller USB-disk"
+MenuDispositivosBloque_MSG11C="Ikke alle installationssystemer understøttes."
+MenuDispositivosBloque_MSG12="Formater drev med indbygget Linux eller Windows filsystem"
+MenuDispositivosBloque_MSG13="-------------------- LÆSNING --------------------"
+MenuDispositivosBloque_MSG14="Opret .img-billede fra et diskdrev"
+MenuDispositivosBloque_MSG15="Forrige menu"
+MenuDispositivosBloque_MSG16="Skriv en indstilling"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="-----------------------------VIGTIG-------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Formater enhed med filsystem brugt i enheder"
+UIFormatearUnidad_linuxfs_MSG2B="+ eller diskpartitioner."
+UIFormatearUnidad_linuxfs_MSG3="+ Denne mulighed vil slette alle eksisterende data på enheden"
+UIFormatearUnidad_linuxfs_MSG4="+ Flytbare drev formateret med et filsystem"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux selv vil kun være tilgængelig under dette operativsystem."
+UIFormatearUnidad_linuxfs_MSG6="+ Brug med forsigtighed, brug på egen risiko."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="TRYK PÅ C-TASTEN FOR AT FORTSÆTTE; (Processen vil blive annulleret i en anden mulighed)"
+

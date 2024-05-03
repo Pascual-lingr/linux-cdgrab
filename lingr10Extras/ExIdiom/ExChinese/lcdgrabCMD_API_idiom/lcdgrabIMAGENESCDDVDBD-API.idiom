@@ -1,0 +1,234 @@
+#########################################################
+# lcgdrabAPI_idiom/ExChinese/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en chino simplificado para el API de creacion y tratamiento
+# de imágenes de CD, DVD y BD
+# Traducción experimental, generada con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="图像文件系统"
+imagen_linux_fs_MSG2="选择文件系统： "
+imagen_linux_fs_MSG3="为 CD-R/RW (702 MB) 创建图像"
+imagen_linux_fs_MSG4="为 DVD+RW (4 GB) 创建映像"
+imagen_linux_fs_MSG5="为 DVD+RW/DL（8 GB）创建映像"
+imagen_linux_fs_MSG5B="为 BD-RE 创建映像（25 GB）"
+imagen_linux_fs_MSG5C="创建具有自定义尺寸的图像文件"
+imagen_linux_fs_MSG6="创建容量为 702 MB 的空文件"
+imagen_linux_fs_MSG7="创建容量为 4 GB 的空文件"
+imagen_linux_fs_MSG8="创建容量为 8 GB 的空文件"
+imagen_linux_fs_MSG8B="创建容量为 25 GB 的空文件"
+imagen_linux_fs_MSG8C="创建具有自定义大小的空文件"
+imagen_linux_fs_MSG9="错误：图像大小未知。正在中止..."
+imagen_linux_fs_MSG10="跑步"
+imagen_linux_fs_MSG11="该程序将格式化空文件。"
+imagen_linux_fs_MSG12="系统会警告你之前创建的文件不是块设备，并询问你是否要格式化它。"
+imagen_linux_fs_MSG13="回答是"
+imagen_linux_fs_MSG13="格式化成功"
+imagen_linux_fs_MSG14="	安装图像 . . ."
+imagen_linux_fs_MSG15="格式化空文件时出错"
+imagen_linux_fs_MSG16="该程序已将格式化文件安装在"
+imagen_linux_fs_MSG17="linux-cdgrab 将启动文件管理器，以便您可以对挂载的图像进行操作"
+imagen_linux_fs_MSG18="复制文件后卸载格式化文件"
+imagen_linux_fs_MSG19="linux镜像在这个目录下"
+imagen_linux_fs_MSG19B="安装图像文件时出错"
+imagen_linux_fs_MSG20="要包含在图像中的文件。安装在 /mnt/lcdgrab"
+imagen_linux_fs_MSG21="启动文件管理器..."
+imagen_linux_fs_MSG22="警告："
+imagen_linux_fs_MSG23="-----"
+imagen_linux_fs_MSG24="图片"
+imagen_linux_fs_MSG25="仍然安装"
+imagen_linux_fs_MSG26="使用 dd 创建空文件时出错"
+imagen_linux_fs_MSG27="检查挂载在 / 上的分区上是否有可用空间"
+imagen_linux_fs_MSG34="文件系统格式化文件"
+imagen_linux_fs_MSG35="生成具有自定义大小的空文件"
+imagen_linux_fs_MSG36="指定新空文件的块大小（仅为数值）："
+imagen_linux_fs_MSG37="块大小值的示例为：1024、2048（仅限 Ext2）或 4096（所有格式）"
+imagen_linux_fs_MSG38="指定要生成的空文件的大小（仅一个数值）："
+imagen_linux_fs_MSG39="生成空文件的空间测量："
+imagen_linux_fs_MSG40="指定要使用的空间测量："
+imagen_linux_fs_MSG41="指定尺寸测量时出错"
+imagen_linux_fs_MSG42="块大小值："
+imagen_linux_fs_MSG43="空文件的空间量："
+imagen_linux_fs_MSG44="计算值（以字节为单位）："
+imagen_linux_fs_MSG45="计数的计算值："
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="生成.iso镜像时激活md5读取"
+comprobar_lectura_md5_MSG2="生成 .iso 图像时禁用 md5 读取"
+comprobar_lectura_md5_MSG3="上一个菜单"
+comprobar_lectura_md5_MSG4="当前配置："
+comprobar_lectura_md5_MSG5="活性"
+comprobar_lectura_md5_MSG6="禁用"
+comprobar_lectura_md5_MSG7="读取总和 md5 已启用"
+comprobar_lectura_md5_MSG8="读取和 md5 已禁用"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="无法读取 iso 映像名称"
+leer_md5sum_MSG2="读取和md5的"
+leer_md5sum_MSG3="显示图像的 md5 和"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="创建 CD 镜像"
+extraer_isoCD_dd_MSG2="图片创建于"
+extraer_isoCD_dd_MSG3="没有找到"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="创建 DVD 映像"
+extraer_isoDVD_dd_MSG2="跑步"
+extraer_isoDVD_dd_MSG3="图片创建于"
+extraer_isoDVD_dd_MSG4="没有找到"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="跑步"
+extraer_iso_readcd_MSG2="图片创建成功"
+extraer_iso_readcd_MSG3="图片创建于"
+extraer_iso_readcd_MSG4="中止录制过程..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="光盘装"
+extraer_iso_mkisofs_MSG2="创建图像 ... "
+extraer_iso_mkisofs_MSG3="启用 Macintosh 兼容性"
+extraer_iso_mkisofs_MSG4="穿着"
+extraer_iso_mkisofs_MSG5="跑步"
+extraer_iso_mkisofs_MSG6="图像是在目录中创建的"
+extraer_iso_mkisofs_MSG7="在没有 Macintosh 支持的情况下重试进程"
+extraer_iso_mkisofs_MSG8="图像是在目录中创建的"
+extraer_iso_mkisofs_MSG9="mkisofs 创建时返回未知错误"
+extraer_iso_mkisofs_MSG10="从"
+extraer_iso_mkisofs_MSG11="检查数据的完整性"
+extraer_iso_mkisofs_MSG12="骑术"
+extraer_iso_mkisofs_MSG12B="在"
+extraer_iso_mkisofs_MSG13="genisoimage 创建时返回未知错误"
+extraer_iso_mkisofs_MSG13B="从"
+extraer_iso_mkisofs_MSG14="找不到 mkisofs 或 genisoimage。请安装 cdrtools 或 cdrkit。"
+extraer_iso_mkisofs_MSG15="无法安装"
+extraer_iso_mkisofs_MSG16="图像创建成功于"
+
+# m_comp_img
+
+m_comp_img_MSG1="图像生成成功"
+m_comp_img_MSG2="您要压缩图像文件吗？"
+m_comp_img_MSG3="(s/y) 压缩；该过程被另一个选项取消。"
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="启动文件管理器..."
+generar_iso_directorio_MSG2="输入未来 CD/DVD/BD 的名称"
+generar_iso_directorio_MSG3="创造形象 ..."
+generar_iso_directorio_MSG4="启用 Macintosh 兼容性"
+generar_iso_directorio_MSG5="穿着"
+generar_iso_directorio_MSG6="跑步"
+generar_iso_directorio_MSG7="找不到目录"
+generar_iso_directorio_MSG8="图像创建过程失败"
+generar_iso_directorio_MSG9="在不兼容 MACINTOSH 的情况下创建图像"
+generar_iso_directorio_MSG10="找不到 mkisofs 或 genisoimage。请安装 cdrtools 或 cdrkit"
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="输入未来 DVD/BD 的名称"
+generar_bdv_udf_directorio_MSG2="指定生成视频图像的目录："
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="指定磁盘标签："
+generar_iso_directorio_libburnia_MSG2="指定生成iso-9660镜像的目录："
+generar_iso_directorio_libburnia_MSG3="iso9660 镜像创建成功！"
+generar_iso_directorio_libburnia_MSG4="使用 xorriso 生成 iso-9660 图像时出错"
+
+# imagenISO
+
+imagenISO_MSG1="要包含在 .iso 映像中的文件和目录"
+imagenISO_MSG2="选择一个选项"
+imagenISO_MSG2B="---------"
+imagenISO_MSG3="从 CD 生成 ISO-9660 映像（使用 dd）"
+imagenISO_MSG4="从 DVD 生成 ISO-9660 映像（使用 dd）"
+imagenISO_MSG5="从 CD 生成 ISO-9660 映像（使用 readcd）"
+imagenISO_MSG6="从 CD 或 DVD 光盘生成 ISO-9660 映像（使用 mkisofs）"
+imagenISO_MSG7="从硬盘驱动器数据创建 ISO-9660 映像（使用 mkisofs）"
+imagenISO_MSG8="上一个菜单"
+imagenISO_MSG9="创造形象"
+imagenISO_MSG10="从硬盘驱动器数据创建 ISO-9660 映像（使用 xorriso）"
+imagenISO_MSG11="从 CD/DVD/BD 创建 iso/udf 映像（使用 mkisofs）"
+imagenISO_MSG12="从硬盘数据创建 iso/udf 映像（使用 mkisofs）"
+imagenISO_MSG13="ISO-9660 格式化程序菜单"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="从硬盘驱动器数据创建 UDF/ISO 映像（使用 mkisofs）"
+imagenISO_MSG15="创建具有 DVD 视频支持的 UDF/ISO 映像（使用 mkisofs）"
+
+# imagen_img
+
+imagen_img_MSG1="键入要从中制作图像的源块设备"
+imagen_img_MSG2="-----------------------"
+imagen_img_MSG3="在 /etc/fstab 和 /etc/mtab 中注册的设备"
+imagen_img_MSG4="挂载命令的输出："
+imagen_img_MSG5="输入设备名称： "
+imagen_img_MSG6="创建块设备的 .img 图像"
+imagen_img_MSG7="跑步"
+imagen_img_MSG8="设备映像创建于"
+
+# monta_img
+
+monta_img_MSG1="要装载的 Iso 或 ext2 映像。"
+monta_img_MSG2="键入要挂载的图像所在的目录路径："
+monta_img_MSG3="已安装的 CD 映像："
+monta_img_MSG4="安装图像文件时出错"
+monta_img_MSG5="没有找到"
+monta_img_MSG6="没有安装点"
+monta_img_MSG7="意外的错误"
+
+# desmonta_img
+
+desmonta_img_MSG1="要卸载的 Iso 或 ext2 映像。"
+desmonta_img_MSG2="分解图"
+desmonta_img_MSG3="找不到已安装的映像"
+desmonta_img_MSG4="安装输出："
+desmonta_img_MSG5="可以直接指定图片的绝对目录路径。"
+desmonta_img_MSG6="比如/tmp/lcdgrabimg.iso或者镜像的挂载目录比如/mnt/lcdgrab"
+desmonta_img_MSG7="如果不指定，可以通过文件管理器搜索"
+desmonta_img_MSG8="启动文件管理器"
+desmonta_img_MSG9="指定图像路径。"
+desmonta_img_MSG10="分解图"
+desmonta_img_MSG11="卸载图像时出错"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1="要转换为 .iso 的 .nrg 图像"
+nrg_a_iso_MSG2="输入要转换的 .nrg (Nero Burning ROM) 映像的路径"
+nrg_a_iso_MSG3="转换图像..."
+nrg_a_iso_MSG4="源 .nrg 图像的路径"
+nrg_a_iso_MSG5="不存在或对应目录"
+nrg_a_iso_MSG6="路线无效。"
+nrg_a_iso_MSG7="它已经是以前的 ISO-9660 图像，不会被转换。"
+nrg_a_iso_MSG8="使用不同的扩展名复制..."
+nrg_a_iso_MSG9="完成复制"
+nrg_a_iso_MSG10="跑步"
+nrg_a_iso_MSG11="图片转换成功"
+nrg_a_iso_MSG12="创建 .iso 图像时出错"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="从 .bin 图像生成 .cue 描述文件"
+GenerarArchivocue_MSG2="当前活动目录"
+GenerarArchivocue_MSG3="仅键入目录路径，其中"
+GenerarArchivocue_MSG4="找到图像文件："
+GenerarArchivocue_MSG5="键入要转到的 .bin 图像的名称"
+GenerarArchivocue_MSG6="已经生成了对应的.cue文件"
+GenerarArchivocue_MSG7="说明文件 .cue 已成功生成"
+GenerarArchivocue_MSG8="生成描述文件 .cue 时出错"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="跑步"
+ImagenbincueCDDVD_MSG2="磁盘映像 .BIN .CUE 已成功生成"
+

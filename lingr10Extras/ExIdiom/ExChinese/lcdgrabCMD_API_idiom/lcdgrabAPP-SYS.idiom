@@ -1,0 +1,110 @@
+#########################################################
+# lcgdrabAPI_idiom/ExChinese/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma chino simplificado para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+
+m_cdrecord_sin_overburn_MSG1="重试录制过程..."
+m_cdrecord_sin_overburn_MSG2="在没有 -overburn 选项的情况下运行 cdrecord"
+m_cdrecord_sin_overburn_MSG3="-overburn 不支持旧的录音设备，也不支持旧版本的 cdrecord。"
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="无效选项"
+
+# img_error
+
+img_error_D_MSG1="创建图像时出错"
+
+# CD_error
+
+CD_error_D_MSG1="刻录 CD 时出错"
+
+# DVD_error
+
+DVD_error_D_MSG1="录制 DVD 时出错"
+
+# DO_error
+
+DO_error_D_MSG1="刻录光盘时出错"
+
+
+# tecla
+
+tecla_D_MSG1="\n按 ENTER 继续。 . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="记录在光盘上的目录路径"
+rutas_dir_D_MSG2="输入目录名称（f 退出）："
+rutas_dir_D_MSG3="目录"
+rutas_dir_D_MSG4="无效"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="系统中的相同光学单元"
+una_sola_grabadora_D_MSG2="读取和记录单元是相同的。假定您的系统只有一个物理驱动器。从驱动器中取出源光盘。插入空白光盘以继续刻录过程"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="光盘刻录成功"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="无效选项"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="光盘刻录成功"
+
+# text_img_error
+
+text_img_error_MSG1="创建图像时出错"
+
+# text_CD_error
+
+text_CD_error_MSG1="刻录 CD 时出错"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="录制 DVD 时出错"
+
+# text_DO_error
+
+text_DO_error_MSG1="刻录光盘时出错"
+
+# teclash
+
+teclash_MSG1="按 ENTER 继续。 . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="输入目录名称（ f 退出）："
+text_rutas_dir_MSG2="目录"
+text_rutas_dir_MSG3=" 无效"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="系统中的相同光学单元"
+text_una_sola_grabadora_MSG2="读取和记录单元是相同的。"
+text_una_sola_grabadora_MSG3="假定您的系统只有一个"
+text_una_sola_grabadora_MSG4="物理单位。"
+text_una_sola_grabadora_MSG5="从驱动器中取出源光盘。"
+text_una_sola_grabadora_MSG6="插入空白光盘"
+text_una_sola_grabadora_MSG7="继续录制过程。"
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="跑步"

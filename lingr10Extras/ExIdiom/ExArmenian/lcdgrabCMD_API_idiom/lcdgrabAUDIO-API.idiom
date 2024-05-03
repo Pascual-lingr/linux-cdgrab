@@ -1,0 +1,148 @@
+#########################################################
+# lcdgrabAPI_idiom/ExArmenian/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en armenio para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3 Ֆայլեր, որոնք պետք է փոխակերպվեն"
+mp3awav_MSG0="Մուտքագրեք .mp3 ֆայլերի ուղին."
+mp3awav_MSG1="ՀՐԱՎԻՐՈՒՄ"
+mp3awav_MSG1B=" .wav FORMAT"
+mp3awav_MSG2="վազում"
+mp3awav_MSG3="Նմուշառումը սահմանված է 44100 ՄՀց"
+mp3awav_MSG4="Նմուշառման սխալ մշակման ժամանակ"
+mp3awav_MSG5="Չհաջողվեց փոխարկել"
+mp3awav_MSG6="Տեղեկատուն չի գտնվել"
+mp3awav_MSG7="ԱՈՒԴԻՈՓՈԽԱՐԿՄԱՆ ԱՎԱՐՏ"
+mp3awav_MSG8="Աուդիո ֆայլի նորմալացում"
+mp3awav_MSG9="Ֆայլ"
+mp3awav_MSG10="Նորմալացված"
+mp3awav_MSG11="Նորմալացման սխալ"
+
+# oggawav
+
+oggawav_MSG0="OGG Ֆայլեր, որոնք պետք է փոխակերպվեն"
+oggawav_MSG1="Մուտքագրեք .ogg ֆայլերի ուղին."
+oggawav_MSG2="ՀՐԱՎԻՐՈՒՄ"
+oggawav_MSG2B="A .wav FORMAT"
+oggawav_MSG3="վազում"
+oggawav_MSG4="Նմուշառումը սահմանված է 44100 ՄՀց"
+oggawav_MSG5="Նմուշառման սխալ մշակման ժամանակ"
+oggawav_MSG6="Չհաջողվեց փոխարկել"
+oggawav_MSG7="Տեղեկատուն չի գտնվել"
+oggawav_MSG8="Ձայնային ծածկույթի ավարտը"
+oggawav_MSG9="Աուդիո ֆայլի նորմալացում"
+oggawav_MSG10="Ֆայլ"
+oggawav_MSG11="Նորմալացված"
+oggawav_MSG12="Նորմալացման սխալ"
+
+# cdawav
+
+cdawav_MSG1="ՁԵՌՆԱՐԿՈՒՄ ԱՈՒԴԻՈ CD..."
+cdawav_MSG2="Գործում է."
+cdawav_MSG3="ՀԱՋՈՂՈՎ ՀԱՍՆԱՑՎԱԾ ԱՈՒԴԻՈ ՏԵՂԵՐ!!"
+cdawav_MSG4="Աուդիո ֆայլերի գրացուցակի բովանդակություն"
+cdawav_MSG5="ՍԽԱԼ ԱՈՒԴԻՈ ՏԵՂԵՐԸ ՍԿՍԵԼՈՎ"
+
+# cddawav
+
+cddawav_MSG1="Մուտքագրեք ՀԵՂԵՐԻ ԹԻՎԸ ՊԱՏԿԵԼՈՒ ՀԱՄԱՐ."
+cddawav_MSG2="Սեղմեք Crtl + c երգի պատճենումը չեղարկելու համար"
+cddawav_MSG3="Գործում է."
+cddawav_MSG4="ՀԱՋՈՂՈՒԹՅԱՆ ՊԱՏԿԵՐԱՑՎԱԾ"
+cddawav_MSG5="ՍԽԱԼ ՍԽԱԼՈՒՄ"
+
+# wavamp3
+
+wavamp3_MSG0="WAV Ֆայլեր, որոնք պետք է փոխակերպվեն"
+wavamp3_MSG1="Մուտքագրեք .wav ֆայլերի ուղին."
+wavamp3_MSG1B="ՓՈԽԱՐՁԱԿՈՒՄ"
+wavamp3_MSG2="Ձևաչափ"
+wavamp3_MSG3="Կատարվում է."
+wavamp3_MSG4="վերափոխելիս"
+wavamp3_MSG5="մինչև .MP3 ձևաչափ"
+wavamp3_MSG6="Փոխակերպման սխալ"
+# Resultado del Traductor
+wavamp3_MSG7="AUDIO CONVERSION ԱՎԱՐՏՎԱԾ Է"
+wavamp3_MSG8="AUDIO տեղեկատու ՉԻ ԳՏՆՎԵԼ"
+
+# cdamp3
+
+cdamp3_MSG1="ՁԵՌՆԱՐԿՈՒՄ ԱՈՒԴԻՈ CD..."
+cdamp3_MSG2="Գործում է."
+cdamp3_MSG3="ՀԱՋՈՂՈՎ ՀԱՍՆԱՑՎԱԾ ԱՈՒԴԻՈ ՏԵՂԵՐ!!"
+cdamp3_MSG4="ՍԽԱԼ ԱՈՒԴԻՈ ՀԵՂԵՐԸ ՍԿՏԵԼԻՑ"
+cdamp3_MSG5="Կանչելու ֆունկցիա."
+
+# wavaogg
+
+wavaogg_MSG1="Մուտքագրեք .wav ֆայլերի ուղին."
+wavaogg_MSG2="ՀՐԱՎԻՐՈՒՄ"
+wavaogg_MSG3="A .ogg ՖՈՐՄԱՏ"
+wavaogg_MSG4="Վազում."
+wavaogg_MSG5="Փոխակերպման սխալ"
+# Resultado del traductor
+wavaogg_MSG6="to .ogg ձևաչափ"
+
+# cdaogg
+
+cdaogg_MSG1="ԱՈՒԴԻՈ ձայնասկավառակների ԱՐՏԱԴՐՈՒՄ..."
+cdaogg_MSG2="Կատարվում է."
+cdaogg_MSG3="ՀԱՋՈՂ ՀԱՍՆԱՑՎԱԾ ԱՈՒԴԻՈ ՀԵՂԵՐ!!"
+cdaogg_MSG4="ՍԽԱԼ ԱՈՒԴԻՈ ՏԵՂԵՐԸ ՀՈՂՈՎԵԼԻՑ"
+cdaogg_MSG5="Կանչելու ֆունկցիա."
+
+# corta_wav
+
+corta_wav_MSG0="Վայրկյանների քանակը."
+corta_wav_MSG1="Նշեք աուդիո ֆայլի փոխակերպման ուղին."
+corta_wav_MSG2="Նշեք ժամանակը վայրկյանների քանակով, որոնց համար"
+corta_wav_MSG3="Ֆայլի կտրումը կսկսվի։"
+corta_wav_MSG4="-ՆՇՈՒՄ-"
+corta_wav_MSG5="Ձայնի սկիզբը նշելու համար մուտքագրեք 0"
+corta_wav_MSG6="Արժեքը վայրկյանների ընթացքում փոխակերպումը սկսելու համար."
+corta_wav_MSG7="Նշեք ժամանակը վայրկյանների քանակով, որոնց համար"
+corta_wav_MSG8="Ֆայլի կտրումը կավարտվի:"
+corta_wav_MSG9="Արժեքը վայրկյաններով փոխակերպման ավարտի համար."
+corta_wav_MSG10="Վազում է"
+corta_wav_MSG11="Կտրված աուդիո ֆայլ"
+corta_wav_MSG12="Սխալ ֆայլը կտրելիս"
+corta_wav_MSG13="Աուդիո ֆայլը կտրելու համար."
+
+# flacawav
+
+# Resultado del traductor
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1="Նշեք .flac ֆայլերի ուղին."
+flacawav_MSG2="ՀՐԱՎԻՐՈՒՄ"
+# Resultado del traductor
+flacawav_MSG3=" TO .wav ՖՈՐՄԱՏ"
+flacawav_MSG4="Նմուշառումը սահմանված է 44100 ՄՀց"
+flacawav_MSG5="Նմուշառման սխալ մշակման ժամանակ"
+flacawav_MSG6="Աուդիո ֆայլի նորմալացում"
+flacawav_MSG7="Ֆայլ"
+flacawav_MSG8="Նորմալացված"
+flacawav_MSG9="Նորմալացման սխալ"
+flacawav_MSG10="Չհաջողվեց փոխարկել"
+flacawav_MSG11="Տեղեկատուն չի գտնվել"
+flacawav_MSG12="ԱՈՒԴԻՈՓՈԽԱՐԿՄԱՆ ՎԵՐՋ"
+
+# wavaflac
+
+wavaflac_MSG0="WAV Ֆայլեր, որոնք պետք է փոխակերպվեն"
+wavaflac_MSG1="Մուտքագրեք .wav ֆայլերի ուղին."
+wavaflac_MSG2="ՀՐԱՎԻՐՈՒՄ"
+# Resultado del traductor
+wavaflac_MSG3="A .flac ՖՈՐՄԱՏ"
+wavaflac_MSG4="փոխակերպվել է flac ձևաչափի"
+wavaflac_MSG5="Փոխակերպման սխալ"
+# Resultado del traductor
+wavaflac_MSG6="to .flac ձևաչափ"
+wavaflac_MSG7="FLAC Ֆայլի տեղեկատու ՉԻ ԳՏՆՎԵԼ"
+

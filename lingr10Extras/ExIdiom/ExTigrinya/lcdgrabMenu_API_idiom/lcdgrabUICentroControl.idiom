@@ -1,0 +1,278 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTigrinya/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Tigriña para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="LINUX-CDGRAB ሊኑክስ-ሲዲግራብ ውቅር"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="ናይ ኣየናይ IDE ቻነል ምዃኑ እንተዘይፈሊጥካ።"
+ayuda_IDE_MSG2="መቕረጺኻ ፊደል t ብምጽቃጥ ክፈልጥ ይኽእል።"
+ayuda_IDE_MSG3="ኣብነት ናይ IDE ቻነል 0,0,0 ወይ 0,1,0 ክኸውን ይኽእል።"
+ayuda_IDE_MSG4="ተዛማዲ መሳርሒ ክትገልጽ እውን ትኽእል ኢኻ።"
+ayuda_IDE_MSG5="ናብ መቕረጺኻ። ኣየናይ ምዃኑ ርግጸኛ እንተዘይፈሊጥካ d ጽቐጥ።"
+ayuda_IDE_MSG6="ኣብ /etc/fstab ፋይል ዝተመዝገቡ መሳርሒታት ንምርኣይ።"
+ayuda_IDE_MSG7="ኣብነት ናይ መሳርሒታት /dev/hdd, /dev/hde ወዘተ ክኸውን ይኽእል እዩ።"
+ayuda_IDE_MSG8="እንተደሊኹም ኩሎም ዝሓዙ መሳርሒታት እውን ክትዝርዝሩ ትኽእሉ ኢኹም።"
+ayuda_IDE_MSG9="ኣብ /dev ማህደር ፊደል l ብምጽቃጥ።"
+ayuda_IDE_MSG10="ናይ IDE ቻነል ወይ መቕረጺ መሳርሒ ክትገልጽ ኣለካ።"
+ayuda_IDE_MSG11="ግን ክልቲኡ ኣይኮነን።"
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab ካብ ስርዓትና ተኣልዩ ኣሎ።"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="ፍጥነት ምቕራጽ"
+imprimir_variables_MSG2="IDE/SCSI ቻነል ወይ መቕረጺ መሳርሒ"
+imprimir_variables_MSG3="ሲዲ-ሮም፡ ዲቪዲ-ሮም ወይ ቢዲ-ሮም ኣንባቢ"
+imprimir_variables_MSG4="መሳርሒ ኣታፒ"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="ፍጥነት ምቕራጽ"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI ቻነል ወይ መቕረጺ መሳርሒ"
+imprimir_lcdgrabcfg_MSG3="ሲዲ-ሮም፡ ዲቪዲ-ሮም ወይ ቢዲ-ሮም ኣንባቢ"
+imprimir_lcdgrabcfg_MSG4="መሳርሒ ኣታፒ"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="ተተኺሉ።"
+chequeo_de_aplicaciones_MSG2="ኣይተተኸለን።"
+chequeo_de_aplicaciones_MSG3="ምትካል።"
+chequeo_de_aplicaciones_MSG4="ኣገዳሲ:"
+chequeo_de_aplicaciones_MSG5="ኣድለይቲ መሳርሒታት ምትካል Linux-cdgrab ምሉእ ብምሉእ ክሰርሕ እዩ።"
+chequeo_de_aplicaciones_MSG6="ኩሎም Linux-cdgrab ዘድልዮም ፕሮግራማት ኣብ ስርዓትካ ይተኽሉ።"
+chequeo_de_aplicaciones_MSG4B="ምምዳንዳን:"
+chequeo_de_aplicaciones_MSG5B="ዝጎደሉ መሳርሒታት ተረኺቦም።"
+chequeo_de_aplicaciones_MSG6B="ኣብ ስርዓት ዝተተኽሉ መሳርሒታት።"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 ብነባሪ ነዚ ተለዋዋጢ ይምደብ"
+msgdefCANALATAPI_MSG2="እቲ ናይ ውቅር ፋይል ብ CANALATAPI = 0,0,0 ክጽሓፍ እዩ።"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="ናይ ውቅር ፋይል ብኣውቶማቲክ ብ Linux-cdgrab ዝፍጠር።"
+nuevo_lcdgrabcfg_MSG5="cdrecord ኣብቲ ስርዓት ኣይተረኽበን።"
+nuevo_lcdgrabcfg_MSG6="እቲ cdrtools ፓኬጅ ጽዓኖ።"
+nuevo_lcdgrabcfg_MSG7="ነቶም ክብርታት ብምግላጽ ነቲ ውቅር ክትቅጽሎ ትኽእል ኢኻ።"
+nuevo_lcdgrabcfg_MSG8="ቅድሚ ሕጂ እንተፈሊጥካዮም ምቕራጽ።"
+nuevo_lcdgrabcfg_MSG9="ትእዛዝ cdrecord ኣብ ምቕራጽ ዲስክ ሲዲ፡ ዲቪዲን ቢዲን ይጥቀም።"
+nuevo_lcdgrabcfg_MSG10="እዞም ኣማራጺታት ክሳብ እቲ ዝተባህለ ፓኬጅ ዝትከል ስራሕ ኣይክሰርሑን እዮም።"
+nuevo_lcdgrabcfg_MSG11="እቲ ናይ ድራይቭ ስካን መሳርሒ፣ ህሉው፣ እውን ስራሕ ኣይክኸውንን እዩ።"
+nuevo_lcdgrabcfg_MSG12="ኣብዚ ናይ ውቅር መርሓባ።"
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab ኣብዞም ዝስዕቡ ኣርባዕተ ስጉምትታት ክውነን ኣለዎ።"
+nuevo_lcdgrabcfg_MSG14="ቀዳማይ ስጉምቲ።"
+nuevo_lcdgrabcfg_MSG15="ፍጥነት ምቕራጽ:"
+nuevo_lcdgrabcfg_MSG16="ሓደ ቁጽሪ ጥራይ 2,4,8,16,32... ወዘተ።"
+nuevo_lcdgrabcfg_MSG17="ካልኣይ ስጉምቲ።"
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI ቻነል ወይ መቕረጺ መሳርሒ:"
+nuevo_lcdgrabcfg_MSG19="A -> ሓገዝ።"
+nuevo_lcdgrabcfg_MSG20="ስካን ይገብር ኣሎ..."
+nuevo_lcdgrabcfg_MSG21="ኣብ ምፍታሽ ወደብ IDE/SCSI ጌጋ ኣጋጢሙ።"
+nuevo_lcdgrabcfg_MSG22="Cdrecord ኣይተረኽበን።"
+nuevo_lcdgrabcfg_MSG23="ሳልሳይ ስጉምቲ።"
+nuevo_lcdgrabcfg_MSG24="መሳርሒ ሲዲ-ሮም፡ ዲቪዲ-ሮም ወይ ቢዲ-ሮም።"
+nuevo_lcdgrabcfg_MSG25="L -> ዝርከቡ መሳርሒታት ዝርዝር።"
+nuevo_lcdgrabcfg_MSG26="ስካን ይገብር ኣሎ..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI ወደብ ስካን ተገይሩ።"
+nuevo_lcdgrabcfg_MSG28="ብ cdrecord ብመንገዲ dev=ATAPI ኣብ ብዙሕ ክፍለ-ግዜ ቅዳሓት ዝጥቀመሉ መሳርሒ።"
+nuevo_lcdgrabcfg_MSG30="እቲ መሳርሒ ከም 0,0,0 ወይ 1,0,0 ወዘተ ዝኣመሰለ ኣጸዋውዓ ኣለዎ።"
+nuevo_lcdgrabcfg_MSG31="ኣብ ብዙሕ ክፍለ ግዜ ዘለዎም ሲዲታት cdrecord ዝጽውዕ መሳርሒ ግለጽ: "
+nuevo_lcdgrabcfg_MSG32="እቲ ውቅር ን CANALATAPI ቅኑዕ ኣይኮነን።"
+nuevo_lcdgrabcfg_MSG33="ኣብ ምፍታሽ ወደብ IDE/SCSI ጌጋ ኣጋጢሙ።"
+nuevo_lcdgrabcfg_MSG34="Cdrecord ኣይተረኽበን።"
+nuevo_lcdgrabcfg_MSG36="ናይ ውቅር ፋይል ብኣውቶማቲክ ብ Linux-cdgrab ዝፍጠር።"
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB ምድላው ተዛዚሙ።"
+
+# colores
+
+colores_MSG1="ዝርዝር ሕብርታት ኣይርከብን።"
+colores_MSG2="ነባሪ ሕብርታት ይጽዕን ኣሎ።"
+colores_MSG3="ንLINUX-CDGRAB መተሓላለፊ ሓድሽ ሕብሪ ስኬም ምረጽ።"
+colores_MSG4="ጸሊም ቅርጺ።"
+colores_MSG5="መደበኛ ድሙቕ ቅርጺ።"
+colores_MSG6="ጸሊም ሕብሪ ድሕረ ባይታ።"
+colores_MSG7="ቀይሕ ቅርጺ።"
+colores_MSG8="ብሩህ ጸሊም ቅርጺ።"
+colores_MSG9="ቀይሕ ሕብሪ ድሕረ ባይታ።"
+colores_MSG10="ቀጠልያ ቅርጺ።"
+colores_MSG11="ብሩህ ቀይሕ ፈልፋሊ ማይ"
+colores_MSG12="ቀጠልያ ሕብሪ ድሕረ ባይታ።"
+colores_MSG13="ብጫ ቅርጺ።"
+colores_MSG14="ብሩህ ቀጠልያ ቅርጺ።"
+colores_MSG15="ኣራንሺ ድሕረ ባይታ ሕብሪ"
+colores_MSG16="ሰማያዊ ቅርጺ።"
+colores_MSG17="ብሩህ ብጫ ቅርጺ።"
+colores_MSG18="ሰማያዊ ሕብሪ ድሕረ ባይታ።"
+colores_MSG19="ማጀንታ ቅርጺ።"
+colores_MSG20="ብሩህ ሰማያዊ ቅርጺ።"
+colores_MSG21="ማጀንታ ድሕረ ባይታ ሕብሪ"
+colores_MSG22="ፍልፍል ሳይን"
+colores_MSG23="ብሩህ ማጀንታ ቅርጺ።"
+colores_MSG24="ናይ ሳይን ድሕረ ባይታ ሕብሪ"
+colores_MSG25="ግራጭ ቅርጺ።"
+colores_MSG26="ናይ ሳይን ድሕረ ባይታ ሕብሪ"
+colores_MSG27="ብሩህ ሳይን ቅርጺ።"
+colores_MSG28="ግራጭ ድሕረ ባይታ ሕብሪ"
+colores_MSG29="ነባሪ ምንጪ።"
+colores_MSG30="ብሩህ ጻዕዳ ቅርጺ።"
+colores_MSG31="ነባሪ ሕብሪ ድሕረ ባይታ"
+colores_MSG32="ቁጽሪ ሕብሪ ናይቲ ቅርጺ: "
+colores_MSG33="ቁጽሪ ሕብሪ ንድሕረ ባይታ: "
+colores_MSG34="ቁጽሪ ሕብሪ ንመልእኽቲ መጠንቀቕታ: "
+colores_MSG35="ቁጽሪ ሕብሪ ንመልእኽቲ ስያመ: "
+colores_MSG36="ቁጽሪ ሕብሪ ንዕዉት ዝተዛዘሙ መስርሓት።"
+colores_MSG37="ብጌጋ ንዝተዛዘሙ መስርሓት ቁጽሪ ሕብሪ: "
+colores_MSG38="ሓድሽ ስኬም ንLINUX-CDGRAB።"
+colores_MSG39="ሓፈሻዊ ሕብሪ ቅርጺ።"
+colores_MSG40="ምልክታት"
+colores_MSG41="መተሓሳሰቢ።"
+colores_MSG42="ዓወት።"
+colores_MSG43="ጌጋ።"
+colores_MSG44="ሕብሪ ድሕረ ባይታ።"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="ዝርዝር ናይ ዝርከቡ ሕብርታት፤"
+cambiar_esquema_de_color_MSG2="#####ሕብራዊ ውጥናት#######"
+cambiar_esquema_de_color_MSG3="---------------------"
+cambiar_esquema_de_color_MSG4="ናይ ሕብሪ ምልክት።"
+cambiar_esquema_de_color_MSG5="ተዓዊቱ።"
+cambiar_esquema_de_color_MSG6="ስያመታት።"
+cambiar_esquema_de_color_MSG6b="መተሓሳሰቢታት።"
+cambiar_esquema_de_color_MSG7="ሕብራዊ ዝርዝር ጽቡቕ ናይ ውድቀት መጠንቀቕታታት መለለዪታት።"
+cambiar_esquema_de_color_MSG8="ቁጽሪ ናይቲ ሓድሽ ሕብሪ ኣእቱ:"
+cambiar_esquema_de_color_MSG9="ዘይሕጋዊ ኣማራጺ።"
+cambiar_esquema_de_color_MSG10="ነባሪ ሕብርታት ምቕማጥ።"
+cambiar_esquema_de_color_MSG11=" ድሕረ ባይታ = ሰማያዊ_ድሕረ ባይታ።"
+cambiar_esquema_de_color_MSG12="ፎንት = ድሙቕ ጻዕዳ።"
+cambiar_esquema_de_color_MSG13=" መጠንቀቕታታት = ድሙቕ ብጫ።"
+cambiar_esquema_de_color_MSG14=" ጌጋታት = ድሙቕ ቀይሕ።"
+cambiar_esquema_de_color_MSG15=" ጌጋታት = ድሙቕ ቀይሕ።"
+cambiar_esquema_de_color_MSG16=" HITS = ድሙቕ ቀጠልያ።"
+cambiar_esquema_de_color_MSG17=" መለለዪታት = ድሙቕ ሳይን።"
+
+# cambia_lector
+
+cambia_lector_MSG1="መሳርሒታትን ነጥብታት ምትካልን ብመሰረት /etc/fstab።"
+cambia_lector_MSG2="ምስ ሲዲ-ሮም፡ ዲቪዲ-ሮም ወይ ቢዲ-ሮም ዝተኣሳሰር ናይ ሕጂ መሳርሒ።"
+cambia_lector_MSG3="ምስ ሲዲ/ዲቪዲ/ቢዲ በርነር ዝተኣሳሰር ናይ ሕጂ መሳርሒ።"
+cambia_lector_MSG4="ምስ መለክዒ dev=ATAPI ዝተኣሳሰር ናይ ሕጂ መሳርሒ:"
+cambia_lector_MSG5="(ንcdrecord ናይ ብዙሕ ክፍለ ግዜ ደገፍ)"
+cambia_lector_MSG6="እቲ ለውጢ ክግበር ዘለዎ መሳርሒ ምረጽ።"
+cambia_lector_MSG7="ኣማራጺ ኣእቱ:"
+cambia_lector_MSG8="ስም ናይቲ ሓድሽ መሳርሒ ኣእቱ።"
+cambia_lector_MSG9="ምስ ብሎክ መሳርሒ ኣይሰማማዕን።"
+cambia_lector_MSG10="መሳርሒ።"
+cambia_lector_MSG11="ብነባሪ ዝተመደበ።"
+cambia_lector_MSG12="እቲ ሓድሽ መሳርሒ:"
+cambia_lector_MSG13="ኩሎም ስሪት cdrecord ንሓደ ብሎክ መሳርሒ ከም ናይ ምቕራጽ መለክዒ ኣይቅበልዎን።"
+cambia_lector_MSG14="ስም ናይቲ ሓድሽ መሳርሒ ATAPI ኣእቱ።"
+cambia_lector_MSG15="እቲ ውቅር ን CANALATAPI ቅኑዕ ኣይኮነን።"
+cambia_lector_MSG16="0,0,0 ብነባሪ ናብዚ ተለዋዋጢ ይምደብ።"
+cambia_lector_MSG17="እቲ ናይ ውቅር ፋይል ብ CANALATAPI = 0,0,0 ክጽሓፍ እዩ።"
+cambia_lector_MSG18="እቲ ሓድሽ መሳርሒ:"
+cambia_lector_MSG19="ኣብ መሳርሒታት ዝኾነ ለውጢ ኣይግበርን"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="ካብዚ ዝርዝር ኣየናይ ዩቲሊቲ ክትመርጽ ትኽእል።"
+cambia_generador_isocd_MSG2="ISO-9660 ምስልታት ንምፍራይ ክውዕል እዩ"
+cambia_generador_isocd_MSG3="ካብቲ ኣብ ኣሃዱ ንባብ ዘሎ ሲዲኤስ።"
+cambia_generador_isocd_MSG4="ናይ ሕጂ ውቅር:"
+cambia_generador_isocd_MSG5="dd (ናይ GNU coreutils ክፍሊ) ተጠቐም።"
+cambia_generador_isocd_MSG6="readcd (ክፋል cdrtools) ተጠቐም።"
+cambia_generador_isocd_MSG7="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+cambia_generador_isocd_MSG8="ሓደ ኣማራጺ ምረጽ:"
+cambia_generador_isocd_MSG9="dd ከም iso ጀነሬተር ምጥቃም።"
+cambia_generador_isocd_MSG10="readcd ከም iso ጀነሬተር ምጥቃም።"
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="ምስ ሮክ ሪጅን ጆሊየትን ናይ HFS ሜታዳታ ኣቐምጥ።"
+establecer_hfs_iso_MSG2="ሮክ ሪጅን ጆሊየትን ሜታዳታ ጥራይ ተጠቐም።"
+establecer_hfs_iso_MSG3="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+establecer_hfs_iso_MSG4="ሓደ ኣማራጺ ምረጽ:"
+establecer_hfs_iso_MSG5="ኤችኤፍኤስ፣ ሮክ ሪጅን ጆሊየትን ሜታዳታ ምጥቃም።"
+establecer_hfs_iso_MSG6="ሮክ ሪጅን ጆሊየትን ሜታዳታ ምጥቃም።"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="ናይ ሕጂ መፍለጢ ስርዓት።"
+cambia_notificaciones_MSG2A="GNOME ስእላዊ መተሓላለፊ።"
+cambia_notificaciones_MSG2B="KDE ስእላዊ መተሓላለፊ።"
+cambia_notificaciones_MSG2="ምስ ncurses መተሓላለፊ።"
+cambia_notificaciones_MSG3="ናይ ጽሑፍ መተሓላለፊ።"
+cambia_notificaciones_MSG4="ውጹ"
+cambia_notificaciones_MSG5="ሓደ ኣማራጺ ምረጽ:"
+cambia_notificaciones_MSG6="መተሓላለፊ ምስ ዝርርብ ምጥቃም።"
+cambia_notidicaciones_MSG6B="ምስ zenity መተሓላለፊ ምጥቃም።"
+cambia_notidicaciones_MSG6C="ምስ kdialog መተሓላለፊ ምጥቃም"
+cambia_notificaciones_MSG7="ትእዛዝ ዝርርብ ኣይተረኽበን።"
+cambia_notificaciones_MSG8="ናይ ጽሑፍ መተሓላለፊ ምጥቃም።"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="ኣብ ጥቕሚ ዘሎ ቋንቋ:"
+cambiar_idioma_UI_MSG1="ኣብዚ እዋን ዘሎ ቋንቋታት:"
+cambiar_idioma_UI_MSG2="ስም ናይቲ ዝጥቀመሉ ቋንቋ ኣእቱ።"
+cambiar_idioma_UI_MSG3="ኣብ መተግበሪ መተሓላለፊ:"
+cambiar_idioma_UI_MSG4="እቲ ዝጥቀመሉ ሓድሽ ቋንቋ:"
+cambiar_idioma_UI_MSG5="LINUX-CDGRAB ዳግማይ ጀምር።"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="ናይ ሕጂ ውቅር።"
+seleccion_gestor_archivos_MSG2="mc ተጠቐም።"
+seleccion_gestor_archivos_MSG3="ዝተዋሃሃደ ኣመሓዳሪ ጽሑፍ ተጠቐም።"
+seleccion_gestor_archivos_MSG4="mc ኣብቲ ስርዓት ተተኺሉ ክርከብ ኣይከኣለን።"
+seleccion_gestor_archivos_MSG5="ብነባሪ ነቲ ዝተዋሃሃደ ኣመሓዳሪ ጽሑፍ ምጥቃም።"
+
+# centro_de_control
+
+centro_de_control_MSG1="ማእከል ቁጽጽር።"
+centro_de_control_MSG2="ሓድሽ ውቅር።"
+centro_de_control_MSG3="ናይ ውቅር ፋይል ምድምሳስ።"
+centro_de_control_MSG4="ናይ ሕጂ ናይ ውቅር ፋይልን ክብርታትን ኣርኢ።"
+centro_de_control_MSG5="ናይ ውቅር ፋይል ክብርታት:"
+centro_de_control_MSG5B="ኣብ ከባቢ ዝጥቀመሉ ናይ ሕጂ ውቅር:"
+centro_de_control_MSG6="ናይ ብርሃን ሚድያ ምቕያር።"
+centro_de_control_MSG7="ዝተተኽሉ ፕሮግራማት ምፍታሽ።"
+centro_de_control_MSG8="ናይ IDE/SCSI ወደብ ብ cdrecord ስካን ግበር።"
+centro_de_control_MSG8C="ናይ IDE/SCSI ወደብ ብ cdrskin ስካን ግበር።"
+centro_de_control_MSG8B="ብ cdrskin ኣብ ስርዓት ዝተተኽሉ ኣሃዱታት ዘርዝር።"
+centro_de_control_MSG9="ካብ ሲዲ iso ዝፈጥር ዩቲሊቲ ምቕያር።"
+centro_de_control_MSG9B="ንiso-9660 ናይ HFS ሜታዳታ ኣቐምጥ።"
+centro_de_control_MSG10="መተሓላለፊ ተጠቃሚ ምቕያር።"
+centro_de_control_MSG10b="ሕብሪ ምቕያር።"
+centro_de_control_MSG10c="ቋንቋ መተሓላለፊ ምቕያር።"
+centro_de_control_MSG11="ኣካያዲ ፋይል ምቕያር።"
+centro_de_control_MSG11B="ፕሮግራም ምእላይ።"
+centro_de_control_MSG12="ኣማራጺ ኣእቱ: "
+centro_de_control_MSG13="ናይ ውቅር ፋይል የለን።"
+centro_de_control_MSG14="ናይ ውቅር ፋይል ኣይተረኽበን።"
+centro_de_control_MSG15="ስካን ምግባር።"
+centro_de_control_MSG16="IDE/SCSI ወደብ ስካን ተገይሩ።"
+centro_de_control_MSG17="ኣብ ምፍታሽ IDE/SCSI ወደብ ጌጋ።"
+centro_de_control_MSG18="ሕብራዊ ስኬም ምረጽ።"
+centro_de_control_MSG19="ብፍቓድካ ሕብርታት ምረጽ።"
+centro_de_control_MSG20="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+centro_de_control_MSG21="ኣማራጺ ኣእቱ: "
+centro_de_control_MSG22="ናይ ውቅር ፋይል የለን።"
+centro_de_control_MSG23="ናይ ውቅር ፋይል ኣይተረኽበን።"
+centro_de_control_MSG24="ሕብራዊ ስኬም ምረጽ።"
+centro_de_control_MSG25="ብፍቓድካ ሕብርታት ምረጽ።"
+centro_de_control_MSG26="ዘይሕጋዊ ኣማራጺ።"
+

@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwedish/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Sueco para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* NAVIGATIONSALTERNATIV ************************"
+ayuda_gestor_de_archivos_MSG2="Bläddra i filsystemet."
+ayuda_gestor_de_archivos_MSG3="X --> Gå ut"
+ayuda_gestor_de_archivos_MSG4="A --> Föregående katalog"
+ayuda_gestor_de_archivos_MSG5="B --> Nästa katalog"
+ayuda_gestor_de_archivos_MSG6="Åtgärder på filer och kataloger."
+ayuda_gestor_de_archivos_MSG7="C --> Kopiera fil"
+ayuda_gestor_de_archivos_MSG8="M --> Flytta fil"
+ayuda_gestor_de_archivos_MSG9="CD --> Kopiera katalog"
+ayuda_gestor_de_archivos_MSG10="MD --> Flytta katalog"
+ayuda_gestor_de_archivos_MSG11="Förstå åtgärder på filer och kataloger."
+ayuda_gestor_de_archivos_MSG12="Z --> Komprimera en fil"
+ayuda_gestor_de_archivos_MSG13="DZ --> Packa upp en fil"
+ayuda_gestor_de_archivos_MSG14="EZ --> Skapa ett .tar.gz- eller .tar.bz2-paket"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Packa upp en .tar.gz eller .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Aktuell aktiv katalog"
+gestor_de_archivos_MSG0B="Filer i"
+gestor_de_archivos_MSG1="========================== NAVIGATIONSALTERNATIV ========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> HJÄLPA="
+gestor_de_archivos_MSG3="=========================================================================="
+gestor_de_archivos_MSG4="Skriv ett alternativ"
+gestor_de_archivos_MSG5="Skriv katalog"
+gestor_de_archivos_MSG6="Skriv källfilen"
+gestor_de_archivos_MSG7="Skriv målfilen"
+gestor_de_archivos_MSG8="Fil kopierad framgångsrikt"
+gestor_de_archivos_MSG9="Fel vid kopiering av fil"
+gestor_de_archivos_MSG10="Skriv källfilen"
+gestor_de_archivos_MSG11="Skriv målfilen"
+gestor_de_archivos_MSG12="Fil flyttades framgångsrikt"
+gestor_de_archivos_MSG13="Fel vid flytt av filen"
+gestor_de_archivos_MSG14="Skriv källkatalogen"
+gestor_de_archivos_MSG15="Skriv in målkatalogen"
+gestor_de_archivos_MSG16="Katalog kopierad framgångsrikt"
+gestor_de_archivos_MSG17="Fel vid kopiering av katalog"
+gestor_de_archivos_MSG18="Skriv källkatalogen"
+gestor_de_archivos_MSG19="Skriv in målkatalogen"
+gestor_de_archivos_MSG20="Katalogen flyttades framgångsrikt"
+gestor_de_archivos_MSG21="Fel vid flytt av katalog"
+gestor_de_archivos_MSG22="FIL ATT KOMPRESSERA"
+gestor_de_archivos_MSG23="Ange filsökvägen"

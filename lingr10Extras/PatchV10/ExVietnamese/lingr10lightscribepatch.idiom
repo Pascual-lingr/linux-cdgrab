@@ -1,0 +1,33 @@
+# Idioma Vietnamita para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Nhấn Enter để tiếp tục..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="===================================="
+cabecera_lightscribe_MSG2="HỖ TRỢ LIGHTSCRIBE LINUX-CDGRAB 1.0."
+cabecera_lightscribe_MSG3="===================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Nhập đường dẫn của hình ảnh bạn muốn in ra đĩa:"
+imprimir_disco_lightscribe_MSG2="Định dạng hình ảnh phải là .bmp"
+imprimir_disco_lightscribe_MSG3="đang chạy"
+imprimir_disco_lightscribe_MSG4="Nhãn được in trên Đĩa"
+imprimir_disco_lightscribe_MSG5="Lỗi in nhãn vào đĩa"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="Công nghệ LightScribe chỉ có trên một số thiết bị"
+lingr10lightscribepatch_MSG2="Bạn nên kiểm tra xem máy ghi âm của mình có nó không."
+lingr10lightscribepatch_MSG3="Tương tự như vậy, chỉ những đĩa CD hoặc DVD đặc biệt mới có thể được gắn nhãn cho LightScribe"
+lingr10lightscribepatch_MSG4="In đĩa LightScribe"
+lingr10lightscribepatch_MSG5="Menu trước"
+lingr10lightscribepatch_MSG6="Tùy chọn không hợp lệ"
+
+

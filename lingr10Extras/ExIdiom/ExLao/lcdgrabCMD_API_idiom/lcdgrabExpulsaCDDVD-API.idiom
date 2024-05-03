@@ -1,0 +1,17 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Lao para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+# Resultado del traductor
+expulsar_medio_MSG1="ຖອດແຜ່ນ optical ອອກ"
+expulsar_medio_MSG2="ຜິດ​ພາດ​ໃນ​ເວ​ລາ​ທີ່​ພະ​ຍາ​ຍາມ​ທີ່​ຈະ​ເອົາ Disk ອອກ​ຈາກ​ອຸ​ປະ​ກອນ"
+expulsar_medio_MSG3="ໃສ່ຊື່ດ້ວຍຕົນເອງ:"
+

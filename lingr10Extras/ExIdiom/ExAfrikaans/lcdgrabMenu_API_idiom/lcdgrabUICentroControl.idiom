@@ -1,0 +1,292 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAfrikaans/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Afrikáans para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux-cdgrab konfigurasie"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="As jy nie weet aan watter IDE-kanaal behoort nie"
+ayuda_IDE_MSG2="jou opnemer kan uitvind deur die letter t te druk."
+# Se omite 'n por evitar errores de funcionamiento
+ayuda_IDE_MSG3="n Voorbeeld van die IDE-kanaal kan 0,0,0 of 0,1,0 wees"
+ayuda_IDE_MSG4="Jy kan ook die ooreenstemmende toestel spesifiseer"
+ayuda_IDE_MSG5="na jou opnemer. As jy nie weet watter een dit is nie druk d,"
+ayuda_IDE_MSG6="om die toestelle te sien wat in die /etc/fstab-lêer geregistreer is"
+# Se omite 'n por evitar errores de funcionamiento
+ayuda_IDE_MSG7="n Voorbeeld van toestelle kan /dev/hdd, /dev/hde ens wees."
+ayuda_IDE_MSG8="As jy wil, kan jy ook al die vervatte toestelle lys"
+ayuda_IDE_MSG9="in die /dev-gids deur die letter l te druk."
+ayuda_IDE_MSG10="Jy moet die IDE-kanaal of opname-toestel spesifiseer"
+ayuda_IDE_MSG11="maar nie albei nie."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab is van jou stelsel gedeïnstalleer"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Opnamespoed"
+imprimir_variables_MSG2="IDE/SCSI-kanaal of opname-toestel"
+imprimir_variables_MSG3="CD-ROM, DVD-ROM of BD-ROM-leser"
+imprimir_variables_MSG4="ATAPI-toestel"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Opnamespoed"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI-kanaal of opname-toestel"
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM of BD-ROM-leser"
+imprimir_lcdgrabcfg_MSG4="ATAPI-toestel"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Geïnstalleer"
+chequeo_de_aplicaciones_MSG2="NIE GEINSTALLEER NIE"
+chequeo_de_aplicaciones_MSG3="Installeer"
+chequeo_de_aplicaciones_MSG4="BELANGRIK:"
+chequeo_de_aplicaciones_MSG5="Die installering van die nodige gereedskap Linux-cdgrab sal heeltemal werk"
+chequeo_de_aplicaciones_MSG6="Al die programme wat Linux-cdgrab benodig is op jou stelsel geïnstalleer"
+chequeo_de_aplicaciones_MSG4B="KENNISGEWING:"
+chequeo_de_aplicaciones_MSG5B="Vermiste gereedskap gevind"
+chequeo_de_aplicaciones_MSG6B="Gereedskap op die stelsel geïnstalleer"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="Se asigna 0,0,0 por defecto a esta variable"
+msgdefCANALATAPI_MSG2="El fichero de configuración se escribirá con CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Konfigurasielêer outomaties gegenereer deur Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG5="cdrecord is nie in die stelsel gevind nie"
+nuevo_lcdgrabcfg_MSG6="Installeer die cdrtools-pakket."
+nuevo_lcdgrabcfg_MSG7="Jy kan voortgaan met die konfigurasie deur die waardes te spesifiseer"
+nuevo_lcdgrabcfg_MSG8="neem op as jy hulle voorheen ken."
+nuevo_lcdgrabcfg_MSG9="Die cdrecord-opdrag word gebruik om CD-, DVD- en BD-skywe op te neem"
+nuevo_lcdgrabcfg_MSG10="Hierdie opsies sal nie funksioneel wees totdat die pakket geïnstalleer is nie."
+nuevo_lcdgrabcfg_MSG11="Die skyfskanderingnutsding, teenwoordig, sal ook nie funksioneel wees nie"
+nuevo_lcdgrabcfg_MSG12="in hierdie konfigurasie-towenaar."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab moet in die volgende vier stappe gekonfigureer word"
+nuevo_lcdgrabcfg_MSG14="Eerste stap."
+nuevo_lcdgrabcfg_MSG15="Opnamespoed"
+nuevo_lcdgrabcfg_MSG16="Slegs een nommer 2,4,8,16,32... ens"
+nuevo_lcdgrabcfg_MSG17="Tweede stap."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI-kanaal of opname-toestel:"
+nuevo_lcdgrabcfg_MSG19="A -> hulp"
+nuevo_lcdgrabcfg_MSG20="Skandeer tans..."
+nuevo_lcdgrabcfg_MSG21="Fout met skandering van IDE/SCSI-poort"
+nuevo_lcdgrabcfg_MSG22="Cdrecord nie gevind nie"
+nuevo_lcdgrabcfg_MSG23="Derde stap."
+nuevo_lcdgrabcfg_MSG24="CD-ROM, DVD-ROM of BD-ROM toestel"
+nuevo_lcdgrabcfg_MSG25="L -> Lys beskikbare toestelle"
+nuevo_lcdgrabcfg_MSG26="Skandeer tans..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI-poort geskandeer"
+nuevo_lcdgrabcfg_MSG28="Toestel om deur cdrecord gebruik te word deur dev=ATAPI in multi-sessie opnames"
+# Se omite 'n por evitar errores de funcionamiento
+nuevo_lcdgrabcfg_MSG30="Die toestel het 'n nomenklatuur soos 0,0,0 of 1,0,0 ens"
+nuevo_lcdgrabcfg_MSG31="Spesifiseer die toestel om cdrecord op multisessie-CD's te bel: "
+nuevo_lcdgrabcfg_MSG32="Die konfigurasie is nie korrek vir CANALATAPI nie"
+nuevo_lcdgrabcfg_MSG33="Fout met skandering van IDE/SCSI-poort"
+nuevo_lcdgrabcfg_MSG34="Cdrecord nie gevind nie"
+nuevo_lcdgrabcfg_MSG36="Konfigurasielêer outomaties gegenereer deur Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB OPSTELLING VOLTOOI"
+
+# colores
+
+colores_MSG1="Die lys kleure kan nie gevind word nie"
+colores_MSG2="Laai tans verstekkleure"
+colores_MSG3="Kies nuwe kleurskema vir die LINUX-CDGRAB-koppelvlak"
+colores_MSG4="SWART FONT"
+colores_MSG5="STANDAARD HELDER FONT"
+colores_MSG6="SWART AGTERGRONDKLEUR"
+colores_MSG7="ROOI FONT"
+colores_MSG8="HELDER SWART FONT"
+colores_MSG9="ROOI AGTERGRONDKLEUR"
+colores_MSG10="FONT GREEN"
+colores_MSG11="HELDER ROOI FONTEIN"
+colores_MSG12="GROEN AGTERGRONDKLEUR"
+colores_MSG13="GEEL FONT"
+colores_MSG14="HELDERGROEN FONT"
+colores_MSG15="ORANJE AGTERGRONDKLEUR"
+colores_MSG16="BLOU FONT"
+colores_MSG17="HELDER GEEL FONT"
+colores_MSG18="BLOU AGTERGRONDKLEUR"
+colores_MSG19="MAGENTA FONT"
+colores_MSG20="HELDER BLOU FONT"
+colores_MSG21="MAGENTA AGTERGRONDKLEUR"
+colores_MSG22="SIAAN BRON"
+colores_MSG23="HELDER MAGENTA FONT"
+colores_MSG24="SIAAN AGTERGRONDKLEUR"
+colores_MSG25="GRYS FONT"
+colores_MSG26="SIAAN AGTERGRONDKLEUR"
+colores_MSG27="HELDER SIAAN FONT"
+colores_MSG28="GRYS AGTERGRONDKLEUR"
+colores_MSG29="VERSTANDBRON"
+colores_MSG30="HELDERWIT FONT"
+colores_MSG31="VERSTANDAGTERGRONDKLEUR"
+colores_MSG32="Kleurnommer vir die lettertipe: "
+colores_MSG33="Kleurnommer vir die agtergrond: "
+colores_MSG34="Kleurnommer vir waarskuwingsboodskappe: "
+colores_MSG35="Kleurnommer vir etiketboodskappe: "
+colores_MSG36="Kleurnommer vir suksesvolle voltooide prosesse"
+colores_MSG37="Kleurnommer vir prosesse beëindig met fout: "
+colores_MSG38="Nuwe skema vir LINUX-CDGRAB"
+colores_MSG39="ALGEMENE LETTERTYPKLEUR"
+colores_MSG40="ETIKETTE"
+colores_MSG41="KENNISGEWINGS"
+colores_MSG42="SUKSES"
+colores_MSG43="FOUT"
+colores_MSG44="AGTERGRONDKLEUR"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="LYS VAN BESKIKBARE KLEURE:"
+cambiar_esquema_de_color_MSG2="#####KLEURSKEMAS#######"
+cambiar_esquema_de_color_MSG3="-----------------------"
+cambiar_esquema_de_color_MSG4="Kleurkieslys"
+cambiar_esquema_de_color_MSG5="Misluk"
+cambiar_esquema_de_color_MSG6="Etikette"
+cambiar_esquema_de_color_MSG6b="Kennisgewings"
+cambiar_esquema_de_color_MSG7="Kleurkieslys OK Foutwaarskuwingsetikette"
+cambiar_esquema_de_color_MSG8="Voer die nommer van die nuwe kleur in:"
+cambiar_esquema_de_color_MSG9="ONGELDIGE OPSIE"
+cambiar_esquema_de_color_MSG10="STEL VERSTANDKLEURE IN."
+cambiar_esquema_de_color_MSG11="  AGTERGROND = BLOU_AGTERGROND"
+cambiar_esquema_de_color_MSG12="  FONT = HELDER WIT"
+cambiar_esquema_de_color_MSG13="  WAARSKUWINGS = HELDER GEEL"
+cambiar_esquema_de_color_MSG14="  FOUTE = HELDER ROOI"
+cambiar_esquema_de_color_MSG15="  FOUTE = HELDER ROOI"
+cambiar_esquema_de_color_MSG16="  TREFFERS = HELDERGROEN"
+cambiar_esquema_de_color_MSG17="  ETIKETTE = HELDER SIAAN"
+
+# cambia_lector
+
+cambia_lector_MSG1="OMGEWINGSINSTELLINGS VIR OPTIESE EENHEDE"
+cambia_lector_MSG2="Huidige toestel wat met die CD-ROM, DVD-ROM of BD-ROM geassosieer word"
+cambia_lector_MSG3="Huidige toestel wat met die CD/DVD/BD-brander geassosieer word"
+cambia_lector_MSG4="Huidige toestel geassosieer met die parameter dev=ATAPI"
+cambia_lector_MSG5="(multi-sessie ondersteuning vir cdrecord)"
+cambia_lector_MSG6="Kies die toestel waarop die verandering gemaak moet word."
+cambia_lector_MSG7="Voer opsie in:"
+cambia_lector_MSG8="Voer die naam van die nuwe toestel in"
+# Se omite 'n por evitar errores de funcionamiento
+cambia_lector_MSG9="stem nie ooreen met n bloktoestel nie"
+cambia_lector_MSG10="Toestel"
+cambia_lector_MSG11="by verstek toegewys"
+cambia_lector_MSG12="Die nuwe toestel is:"
+# Se omite 'n por evitar errores de funcionamiento
+cambia_lector_MSG13="Nie alle weergawes van cdrecord aanvaar n blok toestel as n opname parameter nie"
+cambia_lector_MSG14="Voer die naam van die nuwe ATAPI-toestel in"
+cambia_lector_MSG15="Die konfigurasie is nie korrek vir CANALATAPI nie"
+cambia_lector_MSG16="0,0,0 word by verstek aan hierdie veranderlike toegeken"
+cambia_lector_MSG17="Die konfigurasielêer sal geskryf word met CANALATAPI = 0,0,0"
+cambia_lector_MSG18="Die nuwe toestel is:"
+cambia_lector_MSG19="GEEN VERANDERINGE WORD AAN DIE TOESTELLE GEMAAK NIE"
+cambia_lector_MSG4B="Voer waardes uit die konfigurasielêer uit"
+cambia_lector_MSG4C="HIERDIE WAARDES IS AAN DIE OMGEWING GEREporteer:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Van hierdie kieslys kan jy kies watter nutsprogram"
+cambia_generador_isocd_MSG2="sal gebruik word om ISO-9660 beelde te genereer"
+cambia_generador_isocd_MSG3="van bestaande CD's op die leeseenheid."
+cambia_generador_isocd_MSG4="Huidige opstelling:"
+cambia_generador_isocd_MSG5="Gebruik dd (GNU coreutils-komponent)"
+cambia_generador_isocd_MSG6="Gebruik readcd (cdrtools-komponent)"
+cambia_generador_isocd_MSG7="Vorige spyskaart."
+# Se omite 'n por evitar errores de funcionamiento
+cambia_generador_isocd_MSG8="Kies n opsie:"
+cambia_generador_isocd_MSG9="Gebruik dd as iso-opwekker."
+cambia_generador_isocd_MSG10="Gebruik readcd as iso generator."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Stel HFS-metadata saam met Rock Ridge en Joliet"
+establecer_hfs_iso_MSG2="Gebruik slegs Rock Ridge en Joliet metadata"
+establecer_hfs_iso_MSG3="Vorige spyskaart."
+# Se omite 'n por evitar errores de funcionamiento
+establecer_hfs_iso_MSG4="Kies n opsie:"
+establecer_hfs_iso_MSG5="Gebruik HFS, Rock Ridge en Joliet metadata"
+establecer_hfs_iso_MSG6="Gebruik Rock Ridge en Joliet metadata"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Huidige kennisgewingstelsel"
+cambia_notificaciones_MSG2A="GNOME grafiese koppelvlak"
+cambia_notificaciones_MSG2B="KDE grafiese koppelvlak"
+cambia_notificaciones_MSG2="Interface met ncurses"
+cambia_notificaciones_MSG3="Tekskoppelvlak"
+cambia_notificaciones_MSG4="Verlaat"
+# Se omite 'n por evitar errores de funcionamiento
+cambia_notificaciones_MSG5="Kies n opsie:"
+cambia_notificaciones_MSG6="Gebruik koppelvlak met dialoog"
+cambia_notidicaciones_MSG6B="Gebruik koppelvlak met zenity"
+cambia_notidicaciones_MSG6C="Gebruik koppelvlak met kdialog"
+cambia_notificaciones_MSG7="Dialogopdrag nie gevind nie"
+cambia_notificaciones_MSG8="Gebruik tekskoppelvlak"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Taal in gebruik:"
+cambiar_idioma_UI_MSG1="Tans beskikbare tale:"
+cambiar_idioma_UI_MSG2="Voer die naam in van die taal wat gebruik gaan word"
+cambiar_idioma_UI_MSG3="in die toepassingskoppelvlak:"
+cambiar_idioma_UI_MSG4="Die nuwe taal wat gebruik word is:"
+cambiar_idioma_UI_MSG5="Herbegin LINUX-CDGRAB"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Huidige opstelling"
+seleccion_gestor_archivos_MSG2="Gebruik mc"
+seleccion_gestor_archivos_MSG3="Gebruik geïntegreerde teksbestuurder"
+seleccion_gestor_archivos_MSG4="mc kan nie op die stelsel geïnstalleer word gevind word nie"
+seleccion_gestor_archivos_MSG5="Gebruik die geïntegreerde teksbestuurder by verstek"
+seleccion_gestor_archivos_MSG6="mc nut"
+seleccion_gestor_archivos_MSG7="Geïntegreerde teks"
+
+# centro_de_control
+
+centro_de_control_MSG1="BEHEERSENTRUM"
+centro_de_control_MSG2="Nuwe konfigurasie"
+centro_de_control_MSG3="Vee konfigurasielêer uit"
+centro_de_control_MSG4="Wys huidige konfigurasielêer en waardes"
+centro_de_control_MSG5="KONFIGURASIE LêERWAARDES:"
+centro_de_control_MSG5B="HUIDIGE KONFIGURASIE GEBRUIK IN DIE OMGEWING:"
+centro_de_control_MSG6="Verander optiese media"
+centro_de_control_MSG7="Gaan geïnstalleerde programme na"
+centro_de_control_MSG8="Skandeer die IDE/SCSI-poort met cdrecord"
+centro_de_control_MSG8C="Skandeer die IDE/SCSI-poort met cdrskin"
+centro_de_control_MSG8B="Lys eenhede wat in die stelsel geïnstalleer is met cdrskin"
+centro_de_control_MSG9="Verander iso genererende nut vanaf CD"
+centro_de_control_MSG9B="Stel HFS-metadata vir iso-9660"
+centro_de_control_MSG10="Verander gebruikerskoppelvlak"
+centro_de_control_MSG10b="Verander kleur"
+centro_de_control_MSG10c="Verander koppelvlaktaal"
+centro_de_control_MSG11="Verander lêerbestuurder"
+centro_de_control_MSG11B="Verwyder program"
+# Se omite 'n por evitar errores de funcionamiento
+centro_de_control_MSG12="Voer n opsie in: "
+centro_de_control_MSG13="KONFIGURASIE LÊER BESTAAN NIE"
+centro_de_control_MSG14="KONFIGURASIE LÊER NIE GEVIND NIE"
+centro_de_control_MSG15="Skandering"
+centro_de_control_MSG16="IDE/SCSI-poort geskandeer"
+centro_de_control_MSG17="Fout met skandering van IDE/SCSI-poort"
+centro_de_control_MSG18="Kies kleurskema"
+centro_de_control_MSG19="Kies kleure arbitrêr"
+centro_de_control_MSG20="Vorige spyskaart"
+# Se omite 'n por evitar errores de funcionamiento
+centro_de_control_MSG21="Voer n opsie in: "
+centro_de_control_MSG22="KONFIGURASIE LÊER BESTAAN NIE"
+centro_de_control_MSG23="KONFIGURASIE LÊER NIE GEVIND NIE"
+centro_de_control_MSG24="Kies kleurskema"
+centro_de_control_MSG25="Kies kleure arbitrêr"
+centro_de_control_MSG26="Ongeldige opsie"
+

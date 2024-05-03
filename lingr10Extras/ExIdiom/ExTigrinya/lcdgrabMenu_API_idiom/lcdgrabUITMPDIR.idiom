@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTigrinya/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Tigriña para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="ፋይላት ኣብ /tmp።"
+dir_tmp_MSG2="ኩሎም ምስልታትን ዝተጸቕጡ ፋይላትን ደምስስ።"
+dir_tmp_MSG3="ንኻልእ ስርሒታት ዝኸውን ኣመሓዳሪ ፋይል ኣበግስ።"
+dir_tmp_MSG4="ምስሊ ምትካል ወይ ምፍታሕ።"
+dir_tmp_MSG5="ናይ ምስሊ ምፍጣር ዝርዝር ኣርኢ።"
+dir_tmp_MSG6="ኣማራጺታት ምቕራጽ ምስሊ ኣርእዩ።"
+dir_tmp_MSG7="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+dir_tmp_MSG8="ዝርዝር ናይቶም ዘለዉ ፋይላት ኣብ"
+dir_tmp_MSG9="ኣማራጺ ምረጽ:"
+dir_tmp_MSG10="ዝተደምሰሱ ምስልታትን ፋይላትን።"
+dir_tmp_MSG11="ስእሊ ምትካል።"
+dir_tmp_MSG12="ምስሊ ምፍታሕ።"
+dir_tmp_MSG13="ምስሊ ናብ ሲዲ ኣቃጽል።"
+dir_tmp_MSG14="ምስሊ ናብ ዲቪዲ ኣቃጽል።"
+dir_tmp_MSG14B="ምስሊ ናብ BD ኣቃጽል።"
+dir_tmp_MSG15="ብመሰረት መቕረጺ መሳርሒ ኣማራጺ ምረጽ።"
+dir_tmp_MSG16="እቲ ፋይል ናይ ውቅር ፋይል ኣይተረኽበን።"
+dir_tmp_MSG17="መስርሕ ምቕራጽ ምቁራጽ።"
+dir_tmp_MSG18="እቲ ዝቃጸል .iso ፋይል ግለጽ።"
+dir_tmp_MSG19="መንገዲ ምስሊ ኣእቱ: "
+

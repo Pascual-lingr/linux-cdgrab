@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExPolish/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en polaco para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="URZĄDZENIA AKTUALNIE MONTOWANE W SYSTEMIE"
+montar_dispositivos_MSG1B="MONTAŻ/DEMONTAŻ URZĄDZEŃ"
+montar_dispositivos_MSG2="OPCJE LINUX-CDGRAB"
+montar_dispositivos_MSG3="Wysuń dysk z czytnika CD/DVD/BD"
+montar_dispositivos_MSG4="Wysuń dysk z nagrywarki CD/DVD/BD"
+montar_dispositivos_MSG5="Zamontuj czytnik CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG6="Odmontuj CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Zamontuj lub zdemontuj urządzenie ręcznie"
+montar_dispositivos_MSG0="Poprzednie menu"
+montar_dispositivos_MSG8="CD/DVD/BD zamontowany na"
+montar_dispositivos_MSG9="NACIŚNIJ ENTER, ABY KONTYNUOWAĆ..."
+montar_dispositivos_MSG10="Błąd podczas montowania płyty CD/DVD/BD na"
+montar_dispositivos_MSG11="Płyta CD/DVD/BD została odmontowana"
+montar_dispositivos_MSG12="Błąd podczas odmontowywania płyty CD/DVD/BD"
+montar_dispositivos_MSG13="Wpisz urządzenie, które chcesz zamontować/odmontować:"
+montar_dispositivos_MSG14="Wprowadź punkt podłączenia:"
+montar_dispositivos_MSG15="nie odpowiada urządzeniu blokowemu"
+montar_dispositivos_MSG16="Nie znaleziono punktu montowania"
+montar_dispositivos_MSG17="Domyślny punkt montowania"
+montar_dispositivos_MSG18="Wybierz opcję:"
+montar_dispositivos_MSG19="Zamontuj"
+montar_dispositivos_MSG20="pl"
+montar_dispositivos_MSG21="Odmontuj"
+montar_dispositivos_MSG22="de"
+montar_dispositivos_MSG23="zamontowany na:"
+montar_dispositivos_MSG24="BŁĄD PODCZAS MONTAŻU"
+montar_dispositivos_MSG25="PL"
+montar_dispositivos_MSG26="zdemontowany z"
+montar_dispositivos_MSG27="BŁĄD PODCZAS ODMONTOWANIA"
+montar_dispositivos_MSG28="de"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Wyjście polecenia montowania"
+Montar_Imagenes_MSG1B="MONTAŻ/DEMONTAŻ PLIKÓW OBRAZÓW"
+Montar_Imagenes_MSG2="Wybierz opcję"
+Montar_Imagenes_MSG3="Zamontuj obraz CD/DVD/BD"
+Montar_Imagenes_MSG4="Odmontuj obraz CD/DVD/BD"
+Montar_Imagenes_MSG5="Poprzednie menu"
+

@@ -1,0 +1,234 @@
+#########################################################
+# lcgdrabAPI_idiom/ExTigrinya/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en tigriña para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="ስርዓት ፋይል ምስሊ።"
+imagen_linux_fs_MSG2="ስርዓት ፋይል ምረጽ: "
+imagen_linux_fs_MSG3="ንCD-R/RW (702 Mbytes) ምስሊ ምፍጣር።"
+imagen_linux_fs_MSG4="ንDVD+RW (4 Gbytes) ምስሊ ምፍጣር።"
+imagen_linux_fs_MSG5="ን DVD+RW/DL (8 Gbytes) ምስሊ ምፍጣር።"
+imagen_linux_fs_MSG5B="ንBD-R/RE (25 Gbytes) ምስሊ ምፍጣር።"
+imagen_linux_fs_MSG6="ን702 ሜባይት ዓቕሚ ዘለዎ ባዶ ፋይል ምፍጣር።"
+imagen_linux_fs_MSG7="ን4 Gbytes ዓቕሚ ዘለዎ ባዶ ፋይል ምፍጣር።"
+imagen_linux_fs_MSG8="ን8 Gbytes ዓቕሚ ዘለዎ ባዶ ፋይል ምፍጣር።"
+imagen_linux_fs_MSG8B="ን25 ጊባይት ዓቕሚ ዘለዎ ባዶ ፋይል ምፍጣር።"
+imagen_linux_fs_MSG9="ጌጋ: ዓቐን ምስሊ ኣይፍለጥን። ምቁራጽ..."
+imagen_linux_fs_MSG10="ይሰርሕ ኣሎ።"
+imagen_linux_fs_MSG11="እቲ ፕሮግራም ነቲ ባዶ ፋይል ቅርጺ ክህቦ እዩ።"
+imagen_linux_fs_MSG12="እቲ ስርዓት እቲ ኣቐዲሙ ዝተፈጥረ ፋይል ብሎክ መሳርሒ ከምዘይኮነ ከጠንቅቐካን ፎርማት ክትገብረሉ እንተደሊኻ ክሓተካን እዩ።"
+imagen_linux_fs_MSG13="እወ መልስ።"
+imagen_linux_fs_MSG13="ብዓወት ተቐሪጹ።"
+imagen_linux_fs_MSG14=" ምስሊ ምትካል . . ."
+imagen_linux_fs_MSG15="ባዶ ፋይል ፎርማት ኣብ ዝግበረሉ እዋን ጌጋ"
+imagen_linux_fs_MSG16="እቲ ፕሮግራም ነቲ ኣብ ዝተቐረጸ ፋይል ተሰቒሉ ኣሎ።"
+imagen_linux_fs_MSG17="Linux-cdgrab ነቲ ፋይል ማናጀር ከበግሶ እዩ ምእንቲ ኣብቲ ዝተሰቐለ ምስሊ ክሰርሕ።"
+imagen_linux_fs_MSG18="እቶም ፋይላት ምስ ተቐድሑ፡ ነቲ ፎርማት ዝገበረ ፋይል ኣውጽእዎ።"
+imagen_linux_fs_MSG19="እቲ ናይ ሊኑክስ ምስሊ ኣብዚ ማህደር ኣሎ።"
+imagen_linux_fs_MSG19B="ናይ ምስሊ ፋይል ኣብ ዝስቀለሉ እዋን ጌጋ"
+imagen_linux_fs_MSG20="ኣብቲ ምስሊ ክካተቱ ዘለዎም ፋይላት። ኣብ /mnt/lcdgrab ተሰቒሎም።"
+imagen_linux_fs_MSG21="ኣመሓዳሪ ፋይል ምጅማር..."
+imagen_linux_fs_MSG22="መተሓሳሰቢ:"
+imagen_linux_fs_MSG23="------"
+imagen_linux_fs_MSG24="እቲ ምስሊ።"
+imagen_linux_fs_MSG25="ገና ተሰቒሉ ኣሎ።"
+imagen_linux_fs_MSG26="ብdd ባዶ ፋይል ኣብ ምፍጣር ጌጋ።"
+imagen_linux_fs_MSG27="ኣብ / ዝተሰቐለ ክፍሊ ነጻ ቦታ ከምዘለካ ኣረጋግጽ።"
+imagen_linux_fs_MSG34="ስርዓት ፋይል ንፋይል ንምቕራጽ።"
+imagen_linux_fs_MSG35="ምፍጣር ባዶ ፋይል ምስ ብሕታዊ ዓቐን"
+imagen_linux_fs_MSG36="ናይቲ ሓድሽ ባዶ ፋይል መጠን ብሎክ ግለጽ (ቁጽራዊ ዋጋ ጥራይ)፤"
+imagen_linux_fs_MSG37="ኣብነት ናይ ክብርታት ንዓቐን ብሎክ እዞም ዝስዕቡ እዮም፡ 1024, 2048 (ext2 ጥራይ) ወይ 4096 (ኩሎም ቅርጽታት) ."
+imagen_linux_fs_MSG38="ዓቐን ናይቲ ክትፈጥሮ ዘለካ ባዶ ፋይል ግለጽ (ቁጽራዊ ዋጋ ጥራይ)፤"
+imagen_linux_fs_MSG39="ነቲ ባዶ ፋይል ንምፍጣር ዝግበር መለክዒታት ቦታ፤"
+imagen_linux_fs_MSG40="ክትጥቀመሉ እትደሊ መለክዒ ቦታ ግለጽ፤ "
+imagen_linux_fs_MSG41="መለክዒ ዓቐን ኣብ እትገልጸሉ እዋን ጌጋ"
+imagen_linux_fs_MSG42="ዋጋ ዓቐን ብሎክ፤"
+imagen_linux_fs_MSG43="መጠን ቦታ ንባዶ ፋይል፤"
+imagen_linux_fs_MSG44="ዝተቖፀረ ዋጋ ብባይት፤"
+imagen_linux_fs_MSG45="ንቁጽሪ ዝተቖጽረ ዋጋ፤"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1=".iso ምስልታት ክትፈጥር ከለኻ md5 ንባብ ኣኽእሎ።"
+comprobar_lectura_md5_MSG2=".iso ምስልታት ክትፈጥር ከለኻ ንባብ md5 ኣሰናኽል።"
+comprobar_lectura_md5_MSG3="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+comprobar_lectura_md5_MSG4="ናይ ሕጂ ውቅር:"
+comprobar_lectura_md5_MSG6="ተኸፊሉ።"
+comprobar_lectura_md5_MSG6="ተሰናኺሉ።"
+comprobar_lectura_md5_MSG7="ድምር md5 ኣንብብ ተነቒሉ።"
+comprobar_lectura_md5_MSG8="ንባብ md5 ድምር ተሰናኺሉ።"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="ስም ናይቲ iso ምስሊ ክነበብ ኣይከኣለን።"
+# Resultado del traductor
+leer_md5sum_MSG2="ንባብ md5sum of ።"
+leer_md5sum_MSG3="ድምር md5 ናይቲ ምስሊ የርኢ ኣሎ።"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="ምፍጣር ምስሊ ሲዲ"
+extraer_isoCD_dd_MSG2="ስእሊ ኣብ ተፈጢሩ።"
+extraer_isoCD_dd_MSG3="ኣይተረኽበን።"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="ምፍጣር ምስሊ ዲቪዲ"
+extraer_isoDVD_dd_MSG2="ይሰርሕ።"
+extraer_isoDVD_dd_MSG3="ስእሊ ኣብ ተፈጢሩ።"
+extraer_isoDVD_dd_MSG4="ኣይተረኽበን።"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="ይሰርሕ ኣሎ።"
+extraer_iso_readcd_MSG2="ስእሊ ብዓወት ተፈጢሩ።"
+extraer_iso_readcd_MSG3="ስእሊ ኣብ ዝተፈጥረ።"
+extraer_iso_readcd_MSG4="መስርሕ ምቕራጽ ምቁራጽ..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="ዝተሰቕለ ሲዲ።"
+extraer_iso_mkisofs_MSG2="ስእሊ ይፈጥር ኣሎ..."
+extraer_iso_mkisofs_MSG3="ምትእስሳር ማኪንቶሽ ተኸፊቱ።"
+extraer_iso_mkisofs_MSG4="ምጥቃም።"
+extraer_iso_mkisofs_MSG5="ዝጎዪ ዘሎ።"
+extraer_iso_mkisofs_MSG6="ስእሊ ኣብ ማህደር ተፈጢሩ።"
+extraer_iso_mkisofs_MSG7="ብዘይ ደገፍ ማኪንቶሽ ነቲ መስርሕ ዳግማይ ምፍታን።"
+extraer_iso_mkisofs_MSG8="ስእሊ ኣብ ማህደር ተፈጢሩ።"
+extraer_iso_mkisofs_MSG9="mkisofs ክፈጥር ከሎ ዘይፍለጥ ጌጋታት ይመልስ።"
+extraer_iso_mkisofs_MSG10="ካብ።"
+extraer_iso_mkisofs_MSG11="ናይ ዳታ ምሉእነት ምፍታሽ።"
+extraer_iso_mkisofs_MSG12="ምትካል።"
+extraer_iso_mkisofs_MSG12B="ትግርኛ።"
+extraer_iso_mkisofs_MSG13="genisoimage ክፈጥር ከሎ ዘይፍለጥ ጌጋታት ይመልስ።"
+extraer_iso_mkisofs_MSG13B="ካብ።"
+extraer_iso_mkisofs_MSG14="mkisofsን genisoimageን ኣይተረኽበን። በጃኹም cdrtools ወይ cdrkit ጽዓኑ።"
+extraer_iso_mkisofs_MSG15="ክስቀል ኣይከኣለን።"
+extraer_iso_mkisofs_MSG16="ስእሊ ብዓወት ኣብ"
+
+# m_comp_img
+
+m_comp_img_MSG1="ስእሊ ብዓወት ኣብ"
+m_comp_img_MSG2="እቲ ምስሊ ፋይል ክትጽቕጥዎ ትደልዩ ዶ?"
+m_comp_img_MSG3="s/y ንምጽቃጥ፤ እቲ መስርሕ ብኻልእ ኣማራጺ ይስረዝ።"
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="ኣመሓዳሪ ፋይል ምጅማር..."
+generar_iso_directorio_MSG2="ንመጻኢ ሲዲ/ዲቪዲ/ቢዲ ስም ኣእቱ።"
+generar_iso_directorio_MSG3="ስእሊ ምፍጣር..."
+generar_iso_directorio_MSG4="ምትእስሳር ማኪንቶሽ ተኸፊቱ።"
+generar_iso_directorio_MSG5="ምጥቃም።"
+generar_iso_directorio_MSG6="ይሰርሕ ኣሎ።"
+generar_iso_directorio_MSG7="ኣብ ማህደር ዝተፈጥረ ምስሊ።"
+generar_iso_directorio_MSG8="መስርሕ ምፍጣር ምስሊ ፈሺሉ።"
+generar_iso_directorio_MSG9="ብዘይ ምትእስሳር ማሲንቶሽ ምስሊ ምፍጣር"
+generar_iso_directorio_MSG10="mkisofsን genisoimageን ኣይተረኽበን። በጃኹም cdrtools ወይ cdrkit ጽዓኑ።"
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="ንመጻኢ ዲቪዲ/ቢዲ ስም ኣእቱ።"
+generar_bdv_udf_directorio_MSG2="እቲ ናይ ቪድዮ ምስሊ ንምፍጣር ዝሕግዝ ማህደር ግለጽ:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="ናይ ዲስክ ስያመ ግለጽ:"
+generar_iso_directorio_libburnia_MSG2="ናይ iso-9660 ምስሊ ንምፍጣር ዝሕግዝ ማህደር ግለጽ:"
+generar_iso_directorio_libburnia_MSG3="ISO9660 ምስሊ ብዓወት ተፈጢሩ!!"
+generar_iso_directorio_libburnia_MSG4="ብ xorriso ምስሊ iso-9660 ኣብ ምፍጣር ጌጋ።"
+
+# imagenISO
+
+imagenISO_MSG1="ኣብ .iso ምስሊ ክካተቱ ዘለዎም ፋይላትን ማህደርን።"
+imagenISO_MSG2="ኣማራጺ ምረጽ።"
+imagenISO_MSG2B="----------"
+imagenISO_MSG3="ካብ ሲዲ ISO-9660 ምስሊ ምፍጣር dd ተጠቐም"
+imagenISO_MSG4="ካብ ዲቪዲ ISO-9660 ምስሊ ምፍጣር dd ተጠቐም"
+imagenISO_MSG5="ካብ ሲዲ ISO-9660 ምስሊ ምፍጣር readcd ተጠቐም"
+imagenISO_MSG6="ካብ ሲዲ ወይ ዲቪዲ ዲስክ ISO-9660 ምስሊ ምፍጣር mkisofs ተጠቐም"
+imagenISO_MSG7="ካብ ዳታ ሃርድ ድራይቭ ISO-9660 ምስሊ ምፍጣር mkisofs ተጠቐም"
+imagenISO_MSG8="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+imagenISO_MSG9="ስእሊ ምፍጣር"
+imagenISO_MSG10="ካብ ዳታ ሃርድ ድራይቭ ISO-9660 ምስሊ ምፍጣር xorriso ተጠቐም"
+imagenISO_MSG11="ካብ ሲዲ/ዲቪዲ/ቢዲ iso/udf ምስሊ ምፍጣር mkisofs ተጠቐም"
+imagenISO_MSG12="ካብ ዳታ ሃርድ ድራይቭ iso/udf ምስሊ ምፍጣር mkisofs ተጠቐም"
+imagenISO_MSG13="ISO-9660 ፎርማተር ዝርዝር።"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="ካብ ዳታ ሃርድ ድራይቭ UDF/ISO ምስሊ ምፍጣር mkisofs ተጠቐም"
+imagenISO_MSG15="ንDVD ቪድዮ ዝድግፍ UDF/ISO ምስሊ ምፍጣር mkisofs ተጠቐም"
+
+# imagen_img
+
+imagen_img_MSG1="እቲ ምስሊ ዝስራሓሉ ምንጪ ብሎክ መሳርሒ ጽሓፍ።"
+imagen_img_MSG2="---------------------------------"
+imagen_img_MSG3="ኣብ /etc/fstabን /etc/mtabን ዝተመዝገቡ መሳርሒታት።"
+imagen_img_MSG4="ውጽኢት ትእዛዝ ምትካል:"
+imagen_img_MSG5="ስም መሳርሒ ኣእቱ: "
+imagen_img_MSG6="ናይ ብሎክ መሳርሒ .img ምስሊ ምፍጣር።"
+imagen_img_MSG7="ዝጎዪ ዘሎ።"
+imagen_img_MSG8="ናይ መሳርሒ ምስሊ ኣብ ተፈጢሩ።"
+
+# monta_img
+
+monta_img_MSG1="ISO ወይ ext2 ምስሊ ክትስቀል።"
+monta_img_MSG2="እቲ ክስቀል ዘለዎ ምስሊ ዝርከበሉ መንገዲ ማህደር ጽሓፍ:"
+monta_img_MSG3="ዝተሰቕለ ምስሊ ሲዲ:"
+monta_img_MSG4="ናይ ምስሊ ፋይል ኣብ ዝስቀለሉ እዋን ጌጋ"
+monta_img_MSG5="ኣይተረኽበን።"
+# El traductor muestra MOUNT POINT
+monta_img_MSG6="MOUNT POINT የለን።"
+monta_img_MSG7="ዘይተጸበናዮ ጌጋ።"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO ወይ ext2 ምስሊ ንምውራድ።"
+desmonta_img_MSG2="ዝተበታተነ ምስሊ"
+desmonta_img_MSG3="ዝተሰቐለ ምስሊ ኣይተረኽበን።"
+desmonta_img_MSG4="ውጽኢት ምትካል:"
+desmonta_img_MSG5="ፍጹም መንገዲ ማህደር ናይ ሓደ ምስሊ ብቐጥታ ክትገልጽ ትኽእል ኢኻ።"
+desmonta_img_MSG6="ከም /tmp/lcdgrabimg.iso ወይ ናይቲ ምስሊ ናይ ምትካል ማህደር ከም /mnt/lcdgrab።"
+desmonta_img_MSG7="እንተዘይተገሊጹ፡ ኣመሓዳሪ ፋይል ተጠቒምካ ክድለ ይከኣል።"
+desmonta_img_MSG8="ኣመሓዳሪ ፋይል ይጅምር ኣሎ።"
+desmonta_img_MSG9="መንገዲ ምስሊ ግለጽ።"
+desmonta_img_MSG10="ዝተበታተነ ምስሊ"
+desmonta_img_MSG11="እቲ ምስሊ ኣብ ምፍታሕ ጌጋ"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg ምስሊ ናብ .iso ንምቕያር።"
+nrg_a_iso_MSG2="ንኽትቅይሮ መንገዲ ናይቲ .nrg Nero Burning ROM ምስሊ ኣእቱ።"
+nrg_a_iso_MSG3="ምስሊ ይቕይር ኣሎ..."
+nrg_a_iso_MSG4="መንገዲ ምንጪ .nrg ምስሊ።"
+nrg_a_iso_MSG5="ዘየለ ወይ ምስ ማህደር ይሰማማዕ።"
+nrg_a_iso_MSG6="ዘይሕጋዊ መንገዲ።"
+nrg_a_iso_MSG7="ድሮ ናይ ISO-9660 ምስሊ እዩ፣ ኣይቅየርን እዩ።"
+nrg_a_iso_MSG8="ብዝተፈላለየ መቐጸልታ ምቕዳሕ..."
+nrg_a_iso_MSG9="ቅዳሕ ተዛዚሙ።"
+nrg_a_iso_MSG10="ምጉያይ።"
+nrg_a_iso_MSG11="ስእሊ ብዓወት ተቐይሩ።"
+nrg_a_iso_MSG12="ስእሊ ኣብ ምፍጣር ጌጋ .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="ካብ .bin ምስሊ .cue መግለጺ ፋይል ምፍጣር።"
+GenerarArchivocue_MSG2="ናይ ሕጂ ንጡፍ ማህደር።"
+GenerarArchivocue_MSG3="ኣበይ ዝብል መንገዲ ማህደር ጥራይ ጽሓፍ።"
+GenerarArchivocue_MSG4="ናይ ምስሊ ፋይል ርኸብ:"
+GenerarArchivocue_MSG5="ስም ናይቲ .bin ምስሊ ናብኡ ኣእቱ።"
+GenerarArchivocue_MSG6="ተዛማዲ .cue ፋይሉ ፈጢሩ ኣሎ።"
+GenerarArchivocue_MSG7="መግለጺ ፋይል .cue ብዓወት ተፈጢሩ።"
+GenerarArchivocue_MSG8="መግለጺ ፋይል ኣብ ምፍጣር ጌጋ .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="ዝጎዪ ዘሎ። "
+ImagenbincueCDDVD_MSG2=".BIN .CUE ዲስክ ምስሊ ብዓወት ተፈጢሩ"
+

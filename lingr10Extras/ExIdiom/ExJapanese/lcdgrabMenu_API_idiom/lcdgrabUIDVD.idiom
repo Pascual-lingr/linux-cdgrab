@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExJapanese/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Japonés, utilizado google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="使用するユーザー インターフェイスを選択します。"
+SeleccionaIUDVD_MSG2="dvd+-rw-tools のインターフェイスを使用する"
+SeleccionaIUDVD_MSG3="Cdrecord-ProDVD のインターフェイスの使用"
+SeleccionaIUDVD_MSG4="libburnia のインターフェイスの使用"
+SeleccionaIUDVD_MSG5="前のメニュー"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="DV D録画"
+menugrabar_dvd_MSG2="----------------- DVD - データ -----------------"
+menugrabar_dvd_MSG3="ISO-9660 データ DVD をコピーする"
+menugrabar_dvd_MSG4="ハード ドライブにプレ DVD イメージを作成する"
+menugrabar_dvd_MSG5="新しい ISO-9660 データ DVD の書き込み"
+menugrabar_dvd_MSG6="ISO-9660 データ DVD に新しいデータ セッションを追加する (DVD マルチセッション)"
+menugrabar_dvd_MSG7="2 番目のオプションを使用して以前に記録された DVD が必要です"
+menugrabar_dvd_MSG8="ISO-9660 データ イメージを DVD に書き込む"
+menugrabar_dvd_MSG9=".ext2 イメージを DVD に書き込む"
+menugrabar_dvd_MSG10="------------------ DVDビデオ -------------------"
+menugrabar_dvd_MSG11="新しい DVD ビデオを書き込む"
+menugrabar_dvd_MSG12="------------- その他のオプション ---------------"
+menugrabar_dvd_MSG13="DVD+RW/DVD-RW をフォーマットする"
+menugrabar_dvd_MSG14="DVD ディスク情報を表示する"
+menugrabar_dvd_MSG0="前のメニュー"
+menugrabar_dvd_MSGPRINCIPAL="オプションを入力してください"
+menugrabar_dvd_MSG15="DVD に含めるファイルとディレクトリ"
+menugrabar_dvd_MSG16="ファイルマネージャを起動しています..."
+menugrabar_dvd_MSG17="DVD に書き込む .iso イメージ"
+menugrabar_dvd_MSG18="書き込みたい .iso イメージがあるディレクトリ パスを入力します。"
+menugrabar_dvd_MSG19="DVD をサポートする cdrecord のバージョンが必要です。"
+menugrabar_dvd_MSG20=".ext2 イメージを DVD に書き込むには、cdrecord を使用します。"
+menugrabar_dvd_MSG21="インストールに存在する cdrecord のバージョンは、"
+menugrabar_dvd_MSG22="DVD録画に対応。"
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="オプションを選択"
+dvd_clonar_MSG2="--- プレビュー イメージ付きのディスク コピー ---"
+dvd_clonar_MSG3="データ DVD をコピーする"
+dvd_clonar_MSG4="ハード ドライブにプレ DVD イメージを作成する"
+dvd_clonar_MSG5="--- その場でディスクコピー ---"
+dvd_clonar_MSG6="オンザフライでデータ DVD をコピーする"
+dvd_clonar_MSG7="その場でデータ DVD をクローン"
+dvd_clonar_MSG8="フライング コピー オプションには 2 つの光学ユニットが必要"
+dvd_clonar_MSG9="データが記録されている間、コンピュータにインストールされます。"
+dvd_clonar_MSG10="お使いの機器で利用可能な場合のみ、ソース ディスクから直接読み取ります。"
+dvd_clonar_MSG11="フライング コピーを使用することはできません。"
+dvd_clonar_MSG0="前のメニュー"
+dvd_clonar_MSG12="データ DVD コピー"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD 録画"
+menugrabar_DVD_MSG2="------------------ DVD - データ -----------------"
+menugrabar_DVD_MSG3="データ DVD をコピー"
+menugrabar_DVD_MSG4="新しいデータ DVD を書き込む"
+menugrabar_DVD_MSG5=".iso または .ext2 イメージを DVD に書き込む"
+menugrabar_DVD_MSG6="DVD+RW/DVD-RW をフォーマット"
+menugrabar_DVD_MSG7="ドライブのディスク情報を表示する"
+menugrabar_DVD_MSG0="前のメニュー"
+menugrabar_DVD_MSGPRINCIPAL="オプションを入力してください"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="iso-9660 イメージを DVD に書き込む"
+menugrabar_DVD_libburnia_MSG2="ハード ドライブから DVD にデータを書き込む"
+menugrabar_DVD_libburnia_MSG3="DVD をフォーマット"
+menugrabar_DVD_libburnia_MSG4="DVD-RW をシーケンシャル インクリメンタルにフォーマットする"
+menugrabar_DVD_libburnia_MSG5="DVD-RW を制限付き上書きにフォーマットする"
+menugrabar_DVD_libburnia_MSG6="ユニット情報を表示"
+menugrabar_DVD_libburnia_MSG8="システムにインストールされているドライブを一覧表示する"
+menugrabar_DVD_libburnia_MSG0="外出"
+menugrabar_DVD_libburnia_MSG7="オプションを書く"
+

@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Suajili, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab haiwezi kupata kihariri maandishi"
+ayuda_MSG2="Ingiza jina la kihariri maandishi kilichosakinishwa kwenye mfumo wako"
+ayuda_MSG3="HAKUNA MHARIRI ALIYESAKIKIWA ALIYEPATIKANA"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Faili inayozalishwa kiotomatiki na LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="Faili hili pamoja na saraka"
+creacion_de_mnt_MSG3="zimetolewa kiotomatiki"
+creacion_de_mnt_MSG4="na programu ya Linux-cdgrab wakati wa kuthibitisha kwamba haikuwepo katika usambazaji wako wa Linux"
+creacion_de_mnt_MSG5="saraka"
+creacion_de_mnt_MSG6="Linux-cdgrab hutumia saraka hii kuweka kiendeshi chake cha CD-ROM/DVD-ROM/BD-ROM"
+creacion_de_mnt_MSG7="Sanara"
+creacion_de_mnt_MSG8="haitafutwa ikiwa Linux-cdgrab itatolewa kwa vile kawaida ni"
+creacion_de_mnt_MSG9="sehemu-msingi ya kupachika ya /dev/cdrom kwenye usambazaji mwingi wa Linux."
+creacion_de_mnt_MSG10="Ikiwa usambazaji wako unatumia saraka nyingine kuweka kifaa /dev/cdrom,"
+creacion_de_mnt_MSG11="haitaunda hali ya kutopatana wakati wa kujaribu kufikia data kwenye kitengo chako"
+creacion_de_mnt_MSG12="ingawa kama Linux-cdgrab imetolewa unaweza kufanya bila"
+creacion_de_mnt_MSG13="Madhumuni ya faili hii ni kwa madhumuni ya habari tu, unaweza kuifuta bila malipo mara tu ikisomwa."
+
+# creditos
+
+creditos_MSG1="Sambaza chini ya leseni ya GPL v2"
+creditos_MSG2="Maelezo zaidi katika www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, muundaji na mtunzaji"
+creditos_MSG4="Ripoti ya mdudu: pascual89@hotmail.com"
+creditos_MSG5="Tovuti ya programu: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Kulingana na LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Kuchaji"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SINTAKSIA"
+lcdgrab_sintaxis_MSG2="Chapisha msaada huu"
+lcdgrab_sintaxis_MSG3="Chapisha toleo la Linux-cdgrab"
+lcdgrab_sintaxis_MSG4="inabainisha kituo cha IDE au kifaa cha kurekodi"
+lcdgrab_sintaxis_MSG5="ama"
+lcdgrab_sintaxis_MSG6="inabainisha kasi ya kurekodi"
+lcdgrab_sintaxis_MSG7="inabainisha kiendeshi cha CD-ROM/DVD-ROM/BD-ROM"
+lcdgrab_sintaxis_MSG8="inabainisha chaneli ya IDE ATAPI ya kinasa sauti"
+lcdgrab_sintaxis_MSG9="Chaguo -G -V -L na -CA zinaashiria kila mmoja."
+lcdgrab_sintaxis_MSG9B="Chaguo -iut -ium -iug na -iuk ni huru kutoka kwa kila mmoja,"
+lcdgrab_sintaxis_MSG9C="kamilisho kwa -G -V -L na -CA, na huru kati ya -h na -v"
+lcdgrab_sintaxis_MSG10="Chaguo -h na -v ni huru kutoka kwa kila mmoja na zingine."
+lcdgrab_sintaxis_MSG11="Mifano:"
+lcdgrab_sintaxis_MSG12="kifaa"
+lcdgrab_sintaxis_MSG13="nambari"
+lcdgrab_sintaxis_MSG14="kiolesura cha maandishi"
+lcdgrab_sintaxis_MSG15="interface with ncurses"
+lcdgrab_sintaxis_MSG16="kiolesura cha picha na GTK"
+lcdgrab_sintaxis_MSG17="kiolesura cha picha na Qt"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Ingiza njia ya hati:"
+main_lcdgrabopdep_MSG2="Njia batili"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Viraka vilivyosakinishwa:"
+main_lcdgrabopdeppatch_MSG2="Ingiza njia ya kiraka:"
+main_lcdgrabopdeppatch_MSG3="Haijapatikana"
+
+# menu principal dialog
+main_lcdgrabop9uidia="PAKIA KIPINDI CHA ZIADA"
+
+# menu principal texto
+
+main_lcdgrabop1_text="KUREKODI KWA CD\t\t\t\t="
+main_lcdgrabop2_text="KUREKODI DVD\t\t\t\t="
+main_lcdgrabop3_text="KUREKODI KWENYE BD\t\t\t="
+main_lcdgrabop4_text="OPERESHENI ZA UENDESHAJI WA DISK\t\t="
+main_lcdgrabop5_text="UUMBAJI WA PICHA\t\t\t\t="
+main_lcdgrabop6_text="UONGOFU WA SAUTI\t\t\t\t="
+main_lcdgrabop6b_text="UONGOZI WA VIDEO\t\t\t\t="
+main_lcdgrabop7_text="WEKA AU ONDOA CD/DVD/BD\t\t\t="
+main_lcdgrabop8_text="WEKA AU ONDOA PICHA\t\t\t="
+main_lcdgrabop9_text="PAKIA KIPINDI CHA ZIADA\t\t\t="
+main_lcdgrabop10_text="KITUO CHA KUDHIBITI\t\t\t="
+main_lcdgrabop0_text="TOKA NJE\t\t\t\t\t="
+main_lcdgrabet1_text="CHAGUO NYINGINE ##\t\t="
+main_lcdgrabopEe_text="Ondoa diski kutoka kwa kiendeshi\t="
+main_lcdgrabopTD_text="Onyesha saraka"
+tabs="\t\t="
+main_lcdgrabopG_text="Kidhibiti faili\t\t\t="
+main_lcdgrabopH_text="Msaada\t\t\t\t="
+main_lcdgrabopA_text="Kuhusu\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="KUREKODI KWA CD"
+main_lcdgrabop2="KUREKODI DVD"
+main_lcdgrabop3="KUREKODI KWENYE BD"
+main_lcdgrabop4="OPERESHENI ZA UENDESHAJI WA DISK"
+main_lcdgrabop5="UUMBAJI WA PICHA"
+main_lcdgrabop6="UONGOFU WA SAUTI"
+main_lcdgrabop6b="UONGOZI WA VIDEO"
+main_lcdgrabop7="WEKA AU ONDOA CD/DVD/BD"
+main_lcdgrabop8="WEKA AU ONDOA PICHA"
+main_lcdgrabop9="PAKIA KIPINDI CHA ZIADA"
+main_lcdgrabop10="KITUO CHA KUDHIBITI"
+main_lcdgrabop0="TOKA NJE"
+main_lcdgrabet1="CHAGUO NYINGINE ##"
+main_lcdgrabopEe="Ondoa diski kutoka kwa kiendeshi"
+main_lcdgrabopTD="Onyesha saraka"
+main_lcdgrabopG="Kidhibiti faili"
+main_lcdgrabopH="Msaada"
+main_lcdgrabopA="Kuhusu"
+main_lcdgrabopPRINCIPAL="Ingiza chaguo:"
+MSG1_MAIN="Kuchagua H kunaonyesha matumizi ya chaguo."
+main_lcdgrabopA_MSG1="Inaendelea:"
+

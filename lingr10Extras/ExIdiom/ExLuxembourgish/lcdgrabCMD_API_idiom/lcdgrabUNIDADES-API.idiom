@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLuxembourgish/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en Luxemburgués para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Wee vum .img oder .ext2 Bild fir op Scheif ze dumpen."
+volcar_imagen_MSG2="-----------------------WICHTEG----------------------------" 
+volcar_imagen_MSG3="+ Dës Optioun ass net funktionell op opteschen Discs."
+volcar_imagen_MSG4="+ Benotzt op Pendrives, Disketten, Diskpartitionen, etc. "
+volcar_imagen_MSG5="+ Iwwerleeung mat Festplacken:"
+volcar_imagen_MSG6="+ D'Bild ass vun Ufank un mat dd geschriwwen"
+volcar_imagen_MSG7=" vun der spezifizéierter Disk, eng Nummer ze benotzen ass net erlaabt"
+volcar_imagen_MSG8="spezifesch Secteur fir de Schreifprozess unzefänken"
+volcar_imagen_MSG9="+ Mat Vorsicht benotzen. Benotzt op eegene Risiko."
+volcar_imagen_MSG10="+ Disk Partitionen kënnen onbrauchbar ginn."
+volcar_imagen_MSG11="+ Et ass net recommandéiert et op Multi-Partition Systemer ze benotzen."
+volcar_imagen_MSG12="D'Restauratioun kann d'Partitionstabel verloossen an"
+volcar_imagen_MSG13="nëtzlos Partitionen selwer."
+volcar_imagen_MSG14="---------------------------------------------------------"
+volcar_imagen_MSG15="Dréckt den C KEY FIR WEIDER; (De Prozess gëtt an enger anerer Optioun annuléiert)"
+volcar_imagen_MSG16="Spezifizéiert de Wee vun der Bilddatei fir op Disk ze dumpen: "
+volcar_imagen_MSG17="Mount Kommando Ausgang:"
+volcar_imagen_MSG18="Spezifizéiert de Blockapparat wou d'Bild gedumpt gëtt:"
+volcar_imagen_MSG19="BILD DUMPEN"
+volcar_imagen_MSG20="OP DEN Apparat"
+volcar_imagen_MSG21="laafen"
+volcar_imagen_MSG22="IMAGE DUMP PROCESS FÉLÉCHT"
+
+# volcar_iso
+
+volcar_iso_MSG1="Spezifizéiert de Blockapparat fir d'ISO-Bild ze schreiwen:"
+volcar_iso_MSG2="OPGEPASST"
+volcar_iso_MSG2B="---------"
+volcar_iso_MSG3="Spezifizéiere Spärapparat fir ze schreiwen."
+volcar_iso_MSG4="Beispiller: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Spezifizéiert keng Partition déi zu dësem Apparat gehéiert"
+volcar_iso_MSG6="Beispiller: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Spezifizéiert d'ISo-9660 Bild oder Img fir ze schreiwen:"
+volcar_iso_MSG9="Prozess fäerdeg"
+volcar_iso_MSG10="Feeler am ISO Schreifprozess"
+volcar_iso_MSG11="Spezifizéiere Blockgréisst fir d'Bild ze schreiwen"
+volcar_iso_MSG12="Wielt Optioun no Betribssystem fir ze schreiwen:"
+volcar_iso_MSG13="ISO-9660 oder bootbar IMG Bild fir um Apparat ze flashen:"
+volcar_iso_MSG14="Erausgoen"
+volcar_iso_MSG15="ISO-9660 ODER IMG BILDFILE"
+volcar_ISO_MSG16="WËLLT OPERATIOUNSSYSTEM FIR AN UNIT DUMPEN"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Wielt de Dateiesystem mat"
+Formateador_linuxfs_MSG2="den Apparat gëtt formatéiert:"
+Formateador_linuxfs_MSG3="Spezifizéiert de Blockapparat fir ze formatéieren: "
+Formateador_linuxfs_MSG5="PROCESS FËLLT"
+Formateador_linuxfs_MSG6="DISK FORMATTER"
+Formateador_linuxfs_MSG7="Volumenetikett setzen"
+Formateador_linuxfs_MSG10="De Volume Label Numm uginn"
+Formateador_linuxfs_MSG11="Neie Volume Label"
+Formateador_linuxfs_MSG12="Blockgréisst spezifizéieren"
+Formateador_linuxfs_MSG13="Nei Blockgréisst"
+Formateador_linuxfs_MSG14="Menu virdrun"
+

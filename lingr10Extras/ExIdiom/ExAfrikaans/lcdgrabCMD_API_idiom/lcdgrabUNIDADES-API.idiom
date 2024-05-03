@@ -1,0 +1,72 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAfrikaans/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en Afrikáans para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Pad van .img- of .ext2-beeld om na skyf te stort."
+volcar_imagen_MSG2="-----------------------BELANGRIK----------------------------" 
+volcar_imagen_MSG3="+ Hierdie opsie is nie funksioneel op optiese skywe nie."
+volcar_imagen_MSG4="+ Gebruik op pendrives, diskettes, skyfpartisies, ens. "
+volcar_imagen_MSG5="+ Oorweging met hardeskywe:"
+volcar_imagen_MSG6="+ Die prent is van die begin af met dd geskryf"
+# Se omite 'n por evitar errores de funcionamiento
+volcar_imagen_MSG7=" vanaf die gespesifiseerde skyf, die gebruik van n nommer word nie toegelaat nie"
+volcar_imagen_MSG8="spesifieke sektor om die skryfproses te begin"
+volcar_imagen_MSG9="+ Gebruik met omsigtigheid. Gebruik op eie risiko."
+volcar_imagen_MSG10="+ Skyfpartisies kan onbruikbaar word."
+volcar_imagen_MSG11="+ Dit word nie aanbeveel om dit op multi-partisie stelsels te gebruik nie."
+volcar_imagen_MSG12="Die herstel kan die partisietabel verlaat en"
+volcar_imagen_MSG13="nuttelose partisies self."
+volcar_imagen_MSG14="------------------------------------------------------------"
+# Se omite 'n por evitar errores de funcionamiento
+volcar_imagen_MSG15="DRUK DIE C SLEUTEL OM VOORT TE GAAN; (Die proses sal in n ander opsie gekanselleer word)"
+volcar_imagen_MSG16="Spesifiseer die pad van die prentlêer om na skyf te dump: "
+volcar_imagen_MSG17="Bevestig opdrag uitvoer:"
+volcar_imagen_MSG18="Spesifiseer die blok toestel waar die prent gestort moet word:"
+volcar_imagen_MSG19="GOOI BEELD"
+volcar_imagen_MSG20="OP DIE TOESTEL"
+volcar_imagen_MSG21="hardloop"
+volcar_imagen_MSG22="BEELDGROOTPROSES VOLTOOI"
+
+# volcar_iso
+
+volcar_iso_MSG1="Spesifiseer die bloktoestel om die ISO-beeld na te skryf:"
+volcar_iso_MSG2="WAARSKUWING"
+volcar_iso_MSG2B="-----------"
+volcar_iso_MSG3="Spesifiseer bloktoestel om na te skryf."
+volcar_iso_MSG4="Voorbeelde: /dev/sdb, /dev/sdc"
+# Se omite 'n por evitar errores de funcionamiento
+volcar_iso_MSG5="Moenie n partisie spesifiseer wat aan hierdie toestel behoort nie"
+volcar_iso_MSG6="Voorbeelde: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Spesifiseer die iso-9660 beeld of img om te skryf:"
+volcar_iso_MSG9="Proses voltooi"
+volcar_iso_MSG10="Fout in ISO-skryfproses"
+volcar_iso_MSG11="Spesifiseer blokgrootte om die prent te skryf"
+volcar_iso_MSG12="Kies opsie volgens bedryfstelsel om te skryf:"
+volcar_iso_MSG13="ISO-9660 of selflaaibare IMG-prent om op toestel te flits:"
+volcar_iso_MSG14="Verlaat"
+volcar_iso_MSG15="ISO-9660 OF IMG-BEELDLÊER"
+volcar_ISO_MSG16="KIES BEDRYFSTELSEL OM IN EENHEID TE GOOI"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Kies die lêerstelsel met"
+Formateador_linuxfs_MSG2="die toestel sal geformateer word:"
+Formateador_linuxfs_MSG3="Spesifiseer die blok toestel om te formateer: "
+Formateador_linuxfs_MSG5="PROSES VOLTOOI"
+Formateador_linuxfs_MSG6="SKYFFORMATER"
+Formateador_linuxfs_MSG7="Stel volume etiket"
+Formateador_linuxfs_MSG10="Spesifiseer die volume etiket naam"
+Formateador_linuxfs_MSG11="Nuwe volume-etiket"
+Formateador_linuxfs_MSG12="Spesifiseer blokgrootte"
+Formateador_linuxfs_MSG13="Nuwe blokgrootte"
+Formateador_linuxfs_MSG14="Vorige spyskaart"

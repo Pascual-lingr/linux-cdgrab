@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExUkrainian/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en ucraniano para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Введіть шлях до файлу або каталогу:"
+empaquetar_MSG2="------- Опції -------"
+empaquetar_MSG3="Створити файл .tar.gz"
+empaquetar_MSG4="Створити файл .tar.bz2"
+empaquetar_MSG5="Введіть параметр: "
+empaquetar_MSG6="Виконується"
+empaquetar_MSG7="Недійсний параметр"
+
+# desempaquetar
+
+desempaquetar_MSG1="Введіть шлях до файлу:"
+desempaquetar_MSG2="НЕ ЗНАЙДЕНО ДЕКОМПРЕСОР"
+desempaquetar_MSG3="АБО"
+desempaquetar_MSG4="НЕ ІСНУЄ"
+desempaquetar_MSG5="Виконується"
+desempaquetar_MSG6="розпаковано"
+desempaquetar_MSG7="Помилка під час розпакування"
+
+# comprime
+
+comprime_MSG1="СТИСНЕННЯ ЗОБРАЖЕННЯ"
+comprime_MSG2="Стиснути за допомогою bzip2"
+comprime_MSG3="Стиснути за допомогою gzip"
+comprime_MSG4="Стиснути за допомогою xz"
+comprime_MSG5="Попереднє меню"
+comprime_MSG6="Виконується"
+comprime_MSG7="Стиснення файлу зображення завершено"
+comprime_MSG8="Помилка стиснення за допомогою"
+comprime_MSG9="Недійсний компресор"
+
+# descomprime
+
+descomprime_MSG1="Введіть шлях до файлу:"
+descomprime_MSG2="----------------------"
+descomprime_MSG3="НЕ ЗНАЙДЕНО ДЕКОМПРЕСОР"
+descomprime_MSG4="АБО"
+descomprime_MSG5="НЕ ІСНУЄ"
+descomprime_MSG6="Запущено"
+descomprime_MSG7="нестиснений"
+descomprime_MSG8="Помилка при спробі розпакувати"

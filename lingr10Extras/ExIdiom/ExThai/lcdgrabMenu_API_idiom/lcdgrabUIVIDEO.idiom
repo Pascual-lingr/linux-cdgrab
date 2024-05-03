@@ -1,0 +1,25 @@
+#########################################################
+# lcdgrabAPI_idiom/ExThai/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en tailandés para el menu de conversion de Video.
+# Traducción experimental, generado con Chat GPT y Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+# Traducción Chat GPT - INI
+menu_conversion_video_MSG1="การแปลงวิดีโอ"
+menu_conversion_video_MSG2="-------- การแปลงระหว่างรูปแบบ --------"
+menu_conversion_video_MSG3="แปลงวิดีโอให้เข้ากับ Blu Ray Disc และ Smart-TV"
+menu_conversion_video_MSG4="ไฟล์วิดีโอที่ต้องการแปลง:"
+menu_conversion_video_MSG0="เมนูก่อนหน้า"
+menu_conversion_video_MSG6="บันทึกเซสชันของเดสก์ท็อป"
+# Traducción Chat GPT - FIN
+menu_conversion_video_MSG7="แปลงไฟล์วิดีโอเป็นรูปแบบอื่น"
+menu_conversion_video_MSG8="----------------- ตัวเลือกอื่นๆ ----------------"
+menu_conversion_video_MSG9="ผสมไฟล์วิดีโอกับไฟล์เสียง"
+menu_conversion_video_MSG10="แยกเสียง MP3 จากไฟล์วิดีโอ"
+menu_conversion_video_MSG11="ตัดแต่งไฟล์วิดีโอ"

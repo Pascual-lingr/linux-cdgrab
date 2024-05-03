@@ -1,0 +1,171 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Islandés para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Upptökutæki sem"
+buscar_grabadora_MSG1B="Gildt"
+buscar_grabadora_MSG2="Upptökutæki sem"
+buscar_grabadora_MSG2B="Villa"
+buscar_grabadora_MSG3="Dvd+-rw-tólin samþykkja ekki að upptökutækið sé"
+buscar_grabadora_MSG4="Til að geta brennt DVD diska með dvd+rw-tólunum verður þú að tilgreina upptökutækið þitt sem blokkartæki"
+buscar_grabadora_MSG5="Dæmi"
+buscar_grabadora_MSG6="eða"
+buscar_grabadora_MSG7="Sýnir núverandi kerfistæki í /dev"
+buscar_grabadora_MSG8="Sláðu inn blokkunartækið sem samsvarar DVD upptökutækinu þínu"
+buscar_grabadora_MSG9="Engin gerð eða valmöguleiki hefur verið tilgreindur."
+buscar_grabadora_MSG10="TÆKI UPPFÆRT FYRIR UPPTAKANUM"
+buscar_grabadora_MSG11="Upptökutækið hefur verið flutt út í skel umhverfið sem"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Mögulegt gildi gildir aðeins fyrir cdrecord"
+buscar_grabadoralb_MSG2="Núverandi uppsetning fyrir upptökutækið er"
+buscar_grabadoralb_MSG3="Gakktu úr skugga um að þessi stilling passi við gildið sem cdrskin úthlutar"
+buscar_grabadoralb_MSG4="Skanna IDE/SCSI tengi með cdrskin..."
+buscar_grabadoralb_MSG5="Tilgreindu nýja gildið sem verður notað með cdrskin:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Sláðu inn nafn fyrir framtíðar DVD:"
+datos_dvd_MSG2="UPPTAKA DVD . . ."
+datos_dvd_MSG3="Notandi"
+datos_dvd_MSG4="í gangi"
+datos_dvd_MSG5="DVD TEKKIÐ Árangursríkt!"
+datos_dvd_MSG6="Mkisofs eða genisoimage finnast ekki, settu upp cdrtools eða cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Sláðu inn nafn fyrir framtíðar DVD:"
+datos_dvd_multi_MSG2="Upptaka DVD . . ."
+datos_dvd_multi_MSG3="Notandi"
+datos_dvd_multi_MSG4="í gangi"
+datos_dvd_multi_MSG5="DVD TEKKI TEKKIÐ TIL! "
+datos_dvd_multi_MSG6="Mkisofs eða genisoimage finnast ekki, settu upp cdrtools eða cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="TAKAR MYND . . ."
+grabimg_dvd_MSG2="í gangi"
+grabimg_dvd_MSG3="! DVD MYND TÖKIN Árangursrík!"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="TAKAR MYND Á DVD . . ."
+copia_bin_dvd_MSG2="í gangi"
+copia_bin_dvd_MSG3=" EYÐIR MYNDARSKRI"
+copia_bin_dvd_MSG4="Upptöku LOKIÐ!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Snið a"
+formatear_dvd_MSG2="Þvinga fram nýtt snið fyrir a"
+formatear_dvd_MSG3="Flyttu úttaksblokk a"
+formatear_dvd_MSG4="Forsníða DVD-RW í röð stigvaxandi"
+formatear_dvd_MSG5="Forsníða DVD-RW í takmarkaða yfirskrift"
+formatear_dvd_MSG6="Fylltu DVD með núllum"
+formatear_dvd_MSG7="Sýna DVD upplýsingar"
+formatear_dvd_MSG8="Fyrri valmynd"
+formatear_dvd_MSG9="Þessi valkostur er notaður til að forsníða DVD-diskinn í fyrsta skipti."
+formatear_dvd_MSG10="Ef DVD-diskurinn er þegar sniðinn mun hann ekki eyða gögnunum."
+formatear_dvd_MSG11="Þessum verður skrifað yfir í nýrri upptöku."
+formatear_dvd_MSG12="Til að eyða innihaldi DVD-disksins skaltu nota:"
+formatear_dvd_MSG13="Fylltu DVD með núllum"
+formatear_dvd_MSG14="Þessi valkostur eyðir sniði og gögnum af meðhöndluðum DVD-diski."
+formatear_dvd_MSG15="í gangi"
+formatear_dvd_MSG16="DVD+RW/DVD-RW TEKKI FORSNIÐIÐ!"
+formatear_dvd_MSG17="VILLA VIÐ FORSNIÐA DVD"
+formatear_dvd_MSG18="Þvingar snið á DVD+RW disk..."
+formatear_dvd_MSG19="DVD+RW TEKKI FORSNIÐIÐ!"
+formatear_dvd_MSG20="VILLA VIÐ FORSNIÐ er DVD+RW"
+formatear_dvd_MSG21="Þessi valkostur hefur ekki áhrif á gögnin sem eru vistuð á DVD+RW"
+formatear_dvd_MSG22="Fjarlægir útrásarblokk af DVD+RW..."
+formatear_dvd_MSG23="Formsníða DVD-RW disk í raðskrif..."
+formatear_dvd_MSG24="DVD-RW TEKKI FORSNIÐIÐ!"
+formatear_dvd_MSG25="VILLA VIÐ FORSNIÐUN DVD-RW"
+formatear_dvd_MSG26="Formsníða DVD-RW disk í takmarkaða yfirskrift..."
+formatear_dvd_MSG27="EYÐA endurskrifanlegum DVD"
+
+# null_dvd
+
+null_dvd_MSG1="Að skrifa á disk frá /dev/núll . . ."
+null_dvd_MSG2="í gangi"
+null_dvd_MSG3="FERLI LOKIÐ"
+null_dvd_MSG4="ÓVÆNT VILLA"
+
+# dvd_video
+
+dvd_video_MSG1="Slóð þar sem VIDEO_TS og AUDIO_TS möppurnar eru staðsettar:"
+dvd_video_MSG2="Tilgreindu slóðina þar sem VIDEO_TS og AUDIO_TS möppurnar eru staðsettar:"
+dvd_video_MSG3="í gangi"
+dvd_video_MSG4="--- DVD-VIDEO TEKKIÐ Árangursríkt ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="í gangi"
+dvd_copia_bin_MSG2="	EYÐIR MYNDARSKRI"
+dvd_copia_bin_MSG3="Upptökuvilla hefur komið upp"
+
+# dvd_datos
+
+dvd_datos_MSG1="Skrár og möppur til að búa til .iso myndina"
+dvd_datos_MSG2="DVD MERKIÐ"
+dvd_datos_MSG3="Sláðu inn nafn fyrir framtíðar DVD:"
+dvd_datos_MSG4="Ræsir skráasafnið:"
+dvd_datos_MSG5="	BÚI TIL MYND . . ."
+dvd_datos_MSG6="í gangi"
+dvd_datos_MSG7="ISO-9660 MYND BÚIN TIL"
+dvd_datos_MSG8="	UPPTAKA DVD"
+dvd_datos_MSG13="EYÐA MYND..."
+
+# dvd_borra
+
+dvd_borra_MSG1="í gangi"
+dvd_borra_MSG2="OPTÍSKI DISKUR TEKKIÐ FORMATUR"
+dvd_borra_MSG3="VILLA VIÐ FORSNIÐA OPTÍSKA DISK"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="hlaupandi"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="Í gangi"
+formatearCDDVDBD_MSG2="OPTÍSKI DISKUR TEKKI FORSNIÐIÐ"
+formatearCDDVDBD_MSG3="VILLA VIÐ FORMATTA OPTÍSKA DISK"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW forsniðið tókst!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Villa við að forsníða DVD-RW í takmarkaða yfirskrift"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW forsniðið með góðum árangri!!"
+formatearDVDRW_incremental_secuencial_MSG2="Villa við að forsníða DVD-RW í röð stigvaxandi"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Tilgreindu slóð ISO-9660 myndarinnar sem á að brenna:"
+cdrskinisocddvd_MSG2="ISO MYND TAKAÐ Árangursrík!!"
+cdrskinisocddvd_MSG3="VILLA VIÐ UPPTAKA MYND"
+

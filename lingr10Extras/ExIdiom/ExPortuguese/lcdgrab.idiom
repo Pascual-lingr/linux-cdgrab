@@ -1,0 +1,46 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Portugués para la aplicación principal
+# Traducción experimental.                         #
+# Generado con Google Translate.                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Arquivo gerado automaticamente pelo LINUX-CDGRAB 1.0"
+Creation_de_Depot_MSG2="Este arquivo junto com o diretório"
+creacion_de_Depot_MSG3="foram gerados automaticamente"
+creacion_de_Depot_MSG4="pela aplicação Linux-cdgrab ao verificar se ela não existia em sua distribuição Linux"
+creacion_de_Depot_MSG5="o diretório"
+creacion_de_Depot_MSG6="Linux-cdgrab usa este diretório para gravar arquivos temporários e imagens de dispositivos (iso, img etc.)"
+creacion_de_Depot_MSG8="Depot é usado pelo GoboLinux para armazenar arquivos temporários"
+creacion_de_Depot_MSG9="O objetivo deste arquivo é apenas para fins informativos, você pode excluí-lo livremente depois de lido."
+
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="AVISO:"
+main_IDSISTEMA_MSG2="Sistema operacional não suportado."
+main_IDSISTEMA_MSG3="Se houver problemas no funcionamento da aplicação, utilize GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="Não é um argumento válido"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="encontrado"
+main_cdkit_test_MSG2="link para wodim criado"
+main_cdkit_test_MSG3="link para genisoimage criado"
+main_cdkit_test_MSG4="link para icedax criado"
+
+# pgm principal
+
+pgm_principal_MSG1="FATAL: Nenhuma distribuição de diretório correta encontrada."
+pgm_principal_MSG2="DESCONHECIDO"
+

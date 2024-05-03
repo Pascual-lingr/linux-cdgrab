@@ -1,0 +1,51 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLithuanian/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Lituano, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="DISKINIŲ VAIZDŲ KŪRIMAS IR NAUDOJIMAS"
+MenuImagen_MSG2="-------------- VAIZDO KŪRIMAS --------------"
+MenuImagen_MSG3="Sukurti ISO-9660 vaizdą"
+MenuImagen_MSG4="Sukurti vaizdą naudojant gimtąją Linux failų sistemą"
+MenuImagen_MSG5="Sukurti bet kurio blokuojamo įrenginio .img vaizdą"
+MenuImagen_MSG6="Sukurti .bin .cue vaizdą iš esamo įrenginio"
+MenuImagen_MSG7="-------------KITI PASIRINKIMAI--------------"
+MenuImagen_MSG8="Generuoti .cue aprašo failą iš .bin vaizdo"
+MenuImagen_MSG9="Konvertuoti .nrg (Nero Burning ROM) vaizdą į .iso"
+MenuImagen_MSG10="Suspausti vaizdą su gzip, bzip2 arba xz"
+MenuImagen_MSG11="Išskleisti vaizdą zip, gz, bz2 arba xz formatu"
+MenuImagen_MSG11B="Patikrinti md5 iso vaizdų sumą"
+MenuImagen_MSG12="Keisti iso režimą"
+MenuImagen_MSG0="Ankstesnis meniu"
+MenuImagen_MSG13="Vaizdo failas turi būti suspaustas"
+MenuImagen_MSG14="Suspausti vaizdo failą"
+MenuImagen_MSG15="Įveskite katalogo kelią, kuriame yra vaizdas, kurį norite suspausti:"
+MenuImagen_MSG16="Vaizdo failas, kurį norite išskleisti"
+MenuImagen_MSG17="DARBAS ISO LYGIS"
+MenuImagen_MSG18="iso lygis"
+MenuImagen_MSG19="Failų pavadinimai susideda iš skyriaus"
+MenuImagen_MSG20="ir yra apribotas iki 8,3 simbolių."
+MenuImagen_MSG21="Pasirinkite šį lygį, jei norite suderinamumo su pavadinimais"
+MenuImagen_MSG21b="naudojant MS-DOS operacinę sistemą"
+MenuImagen_MSG22="Failų pavadinimai susideda iš skyriaus"
+MenuImagen_MSG23="Neribotas lygis."
+MenuImagen_MSG24="Naudokite šį lygį, jei norite failų suderinamumo"
+MenuImagen_MSG25="didelis, šiuo atveju >= 2 gigabaitai."
+MenuImagen_MSG26="Visi ISO lygiai riboja failų pavadinimus didžiosiomis, mažosiomis raidėmis ir"
+MenuImagen_MSG27="simboliai, tokie kaip _ . Failų pavadinimai apriboti iki 31 simbolio"
+MenuImagen_MSG28="Daugiausia 8 katalogo keliai ir kelio pavadinimas"
+MenuImagen_MSG29="katalogai iki 255 simbolių."
+MenuImagen_MSG30="Pasirinkite naują iso lygį"
+MenuImagen_MSG31="4 ISO lygis nėra oficialus"
+MenuImagen_MSG32="Pasižiūrėkite į mkisofs vadovo puslapį"
+MenuImagen_MSG33="Netinkamas ISO lygis"
+MenuImagen_MSG34="Nustatyti 3 ISO lygį pagal numatytuosius nustatymus"
+
+

@@ -1,0 +1,76 @@
+# Idioma Vietnamita para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Nhấn Enter để tiếp tục..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="================================="
+cabecera_interfaz_MSG2="HỖ TRỢ LINUX-CDGRAB 1.0 REISERFS."
+cabecera_interfaz_MSG3="================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Đầu ra lệnh gắn kết:"
+formatear_disco_reiserfs_MSG2="Chỉ định thiết bị khối cần định dạng: "
+formatear_disco_reiserfs_MSG3="Thiết bị được định dạng thành công"
+formatear_disco_reiserfs_MSG4="Lỗi định dạng thiết bị"
+formatear_disco_reiserfs_MSG5="ĐÃ HOÀN THÀNH"
+formatear_disco_reiserfs_MSG6="Đang ngắt kết nối thiết bị..."
+formatear_disco_reiserfs_MSG7="Đang định dạng ổ đĩa trong ReiserFS..."
+formatear_disco_reiserfs_MSG8="Đang chạy"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="ĐÃ ĐƯỢC ĐỊNH DẠNG THÀNH CÔNG"
+formatear_img_reiserfs_MSG2="LỖI KHI ĐỊNH DẠNG TẬP TIN TRỐNG"
+formatear_img_reiserfs_MSG3="Đang tạo tập tin trống..."
+formatear_img_reiserfs_MSG4="Đang chạy"
+formatear_img_reiserfs_MSG5="Định dạng tệp trống trong ReiserFS..."
+formatear_img_reiserfs_MSG6="TẠO TẬP TIN TRỐNG VỚI KÍCH THƯỚC TÙY CHỈNH"
+formatear_img_reiserfs_MSG7="Chỉ định kích thước của tệp trống cần tạo (chỉ giá trị số):"
+formatear_img_reiserfs_MSG8="Đo không gian để tạo ra tập tin trống:"
+formatear_img_reiserfs_MSG9="Chỉ định phép đo không gian sẽ sử dụng: "
+formatear_img_reiserfs_MSG10="LỖI KHI XÁC ĐỊNH KÍCH THƯỚC ĐO LƯỜNG"
+formatear_img_reiserfs_MSG11="Giá trị kích thước khối:"
+formatear_img_reiserfs_MSG12="Dung lượng trống cho tập tin trống:"
+formatear_img_reiserfs_MSG13="Giá trị được tính theo byte:"
+formatear_img_reiserfs_MSG14="Giá trị tính toán cho số đếm:"
+
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Tạo hình ảnh cho CD-R/RW (702 Mbyte)"
+m_img_CDDVDBD_reiserfs_MSG2="Tạo hình ảnh cho DVD+RW (4 Gbyte)"
+m_img_CDDVDBD_reiserfs_MSG3="Tạo hình ảnh cho DVD+RW/DL (8 Gbyte)"
+m_img_CDDVDBD_reiserfs_MSG4="Tạo hình ảnh cho BD-R/RE (25 Gbyte)"
+m_img_CDDVDBD_reiserfs_MSG5="Tạo tập tin hình ảnh với kích thước tùy chỉnh"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Thoát"
+imgr_tmp_MSG1="Xóa tất cả các tập tin hình ảnh reiserfs"
+imgr_tmp_MSG2="Gắn hoặc tháo tập tin hình ảnh"
+imgr_tmp_MSG3="Tệp hình ảnh trong"
+imgr_tmp_MSG4="Chọn một tùy chọn"
+imgr_tmp_MSG5="Tệp hình ảnh đã bị xóa"
+imgr_tmp_MSG6="Gắn hình ảnh"
+imgr_tmp_MSG7="Tháo hình ảnh"
+imgr_tmp_MSG8="Hình ảnh được gắn"
+imgr_tmp_MSG9="Hình ảnh đã được gỡ bỏ"
+imgr_tmp_MSG10="Tùy chọn không hợp lệ"
+imgr_tmp_MSG11="Chỉ định hình ảnh để gắn hoặc ngắt kết nối:"
+imgr_tmp_MSG12="Lỗi khi gắn hình ảnh"
+imgr_tmp_MSG13="Lỗi khi ngắt kết nối hình ảnh"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Định dạng ổ đĩa trong ReiserFS"
+lingr10reiserfspatch_MSG2="Tạo ảnh ReiserFS cho CD/DVD/BD"
+lingr10reiserfspatch_MSG3="Thao tác trên ảnh ReiserFS"
+lingr10reiserfspatch_MSG4="Tùy chọn không hợp lệ"
+lingr10reiserfspatch_MSG0="Thoát"

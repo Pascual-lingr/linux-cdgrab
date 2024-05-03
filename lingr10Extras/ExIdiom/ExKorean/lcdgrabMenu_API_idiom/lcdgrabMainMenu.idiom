@@ -1,0 +1,135 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKorean/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Coreano, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab은 vi 텍스트 편집기를 찾을 수 없습니다"
+ayuda_MSG2="시스템에 설치된 텍스트 편집기의 이름을 입력하세요"
+ayuda_MSG3="설치된 편집기를 찾을 수 없습니다."
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="LINUX-CDGRAB 1.0에 의해 자동으로 생성된 파일"
+creacion_de_mnt_MSG2="디렉토리와 함께 이 파일"
+creacion_de_mnt_MSG3="자동으로 생성되었습니다"
+creacion_de_mnt_MSG4="Linux 배포판에 존재하지 않는지 확인할 때 Linux-cdgrab 응용 프로그램에 의해"
+creacion_de_mnt_MSG5="디렉토리"
+creacion_de_mnt_MSG6="Linux-cdgrab은 이 디렉터리를 사용하여 CD-ROM/DVD-ROM/BD-ROM 드라이브를 마운트합니다."
+creacion_de_mnt_MSG7="디렉토리"
+creacion_de_mnt_MSG8="Linux-cdgrab을 제거해도 일반적으로 삭제되지 않습니다."
+creacion_de_mnt_MSG9="대부분의 Linux 배포판에서 /dev/cdrom의 기본 마운트 지점입니다."
+creacion_de_mnt_MSG10="배포판이 /dev/cdrom 장치를 마운트하기 위해 다른 디렉터리를 사용하는 경우,"
+creacion_de_mnt_MSG11="장치의 데이터에 접근하려고 할 때 어떤 비호환성도 발생하지 않습니다."
+creacion_de_mnt_MSG12="Linux-cdgrab이 제거되었더라도 없이 할 수 있습니다."
+creacion_de_mnt_MSG13="이 파일의 목적은 정보 제공 목적으로만 사용되며, 읽은 후에는 자유롭게 삭제할 수 있습니다."
+
+# creditos
+
+creditos_MSG1="GPL v2 라이선스에 따라 배포"
+creditos_MSG2="자세한 내용은 www.gnu.org에서 확인하세요"
+creditos_MSG3="Pascual Martínez Cruz, 제작자 및 관리자"
+creditos_MSG4="버그 신고: pascual89@hotmail.com"
+creditos_MSG5="프로그램 웹사이트: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="LINUX-CDGRAB 1.0 기반 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="충전 중"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="통사론"
+lcdgrab_sintaxis_MSG2="이 도움말 인쇄"
+lcdgrab_sintaxis_MSG3="Linux 버전-cdgrab을 인쇄하세요."
+lcdgrab_sintaxis_MSG4="IDE 채널 또는 녹음 장치 지정"
+lcdgrab_sintaxis_MSG5="어느 하나"
+lcdgrab_sintaxis_MSG6="녹화 속도 지정"
+lcdgrab_sintaxis_MSG7="CD-ROM/DVD-ROM/BD-ROM 드라이브를 지정합니다."
+lcdgrab_sintaxis_MSG8="레코더의 IDE ATAPI 채널을 지정합니다."
+lcdgrab_sintaxis_MSG9="-G -V -L 및 -CA 옵션은 서로를 의미합니다."
+lcdgrab_sintaxis_MSG9B="-iut -ium -iug 및 -iuk 옵션은 서로 독립적입니다."
+lcdgrab_sintaxis_MSG9C="-G -V -L 및 -CA에 상보적이며 -h와 -v 간에는 독립적입니다."
+lcdgrab_sintaxis_MSG10="-h 및 -v 옵션은 서로 독립적이며 나머지 옵션도 독립적입니다."
+lcdgrab_sintaxis_MSG11="예:"
+lcdgrab_sintaxis_MSG12="장치"
+lcdgrab_sintaxis_MSG13="숫자"
+lcdgrab_sintaxis_MSG14="텍스트 인터페이스"
+lcdgrab_sintaxis_MSG15="ncurses와의 인터페이스"
+lcdgrab_sintaxis_MSG16="GTK를 사용한 그래픽 인터페이스"
+lcdgrab_sintaxis_MSG17="Qt를 사용한 그래픽 인터페이스"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="스크립트 경로를 입력하세요:"
+main_lcdgrabopdep_MSG2="잘못된 경로"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="설치된 패치:"
+main_lcdgrabopdeppatch_MSG2="패치 경로를 입력하세요:"
+main_lcdgrabopdeppatch_MSG3="찾을 수 없습니다"
+
+# menu principal dialog
+main_lcdgrabop9uidia="추가 패치 업로드"
+
+# menu principal texto
+
+main_lcdgrabop1_text="CD에 녹음하는 중\t\t\t\t="
+main_lcdgrabop2_text="DVD에 녹화 중\t\t\t\t="
+main_lcdgrabop3_text="BD에 녹화 중\t\t\t\t="
+main_lcdgrabop4_text="디스크 드라이브 작업\t\t\t="
+main_lcdgrabop5_text="이미지 생성\t\t\t\t="
+main_lcdgrabop6_text="오디오 변환\t\t\t\t="
+main_lcdgrabop6b_text="비디오 변환\t\t\t\t="
+main_lcdgrabop7_text="CD/DVD/BD 마운트 또는 마운트 해제\t="
+main_lcdgrabop8_text="이미지 마운트 또는 마운트 해제\t\t="
+main_lcdgrabop9_text="추가 패치 로드\t\t\t\t="
+main_lcdgrabop10_text="제어 센터\t\t\t\t="
+main_lcdgrabop0_text="종료\t\t\t\t\t="
+main_lcdgrabet1_text="기타 옵션 ##\t\t\t="
+main_lcdgrabopEe_text="드라이브에서 디스크 꺼내기\t="
+main_lcdgrabopTD_text="디렉토리 표시"
+tabs="\t\t\t="
+main_lcdgrabopG_text="파일 관리자\t\t\t\t="
+main_lcdgrabopH_text="도움말\t\t\t\t="
+main_lcdgrabopA_text="정보\t\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="CD에 녹음 중"
+main_lcdgrabop2="DVD 녹화 중"
+main_lcdgrabop3="BD에 녹화 중"
+main_lcdgrabop4="디스크 드라이브 작업"
+main_lcdgrabop5="이미지 생성"
+main_lcdgrabop6="오디오 변환"
+main_lcdgrabop6b="비디오 변환"
+main_lcdgrabop7="CD/DVD/BD 마운트 또는 마운트 해제"
+main_lcdgrabop8="이미지 마운트 또는 마운트 해제"
+main_lcdgrabop9="추가 패치 로드"
+main_lcdgrabop10="제어 센터"
+main_lcdgrabop0="종료"
+main_lcdgrabet1="기타 옵션 ##"
+main_lcdgrabopEe="드라이브에서 디스크 꺼내기"
+main_lcdgrabopTD="디렉토리 표시"
+main_lcdgrabopG="파일 관리자"
+main_lcdgrabopH="도움말"
+main_lcdgrabopA="정보"
+main_lcdgrabopPRINCIPAL="옵션을 입력하세요:"
+MSG1_MAIN="H를 선택하면 옵션 사용을 보여줍니다."
+main_lcdgrabopA_MSG1="실행 중:"

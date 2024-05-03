@@ -1,0 +1,47 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Amárico para la aplicación principal #
+# Parte de Linux-cdgrab 1.0                        #
+# Traducción experimental.                         #
+# Generado con Google Translate.                   #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="ፋይል በራስ-ሰር የሚመነጨው በ LINUX-CDGRAB 1.0"
+creacion_de_Depot_MSG2="ይህ ፋይል ከማውጫው ጋር "
+creacion_de_Depot_MSG3="በራስ ሰር የተፈጠረ "
+creacion_de_Depot_MSG4="በሊኑክስ-ሲዲግራብ አፕሊኬሽኑ በሊኑክስ ስርጭትህ ውስጥ አለመኖሩን ሲያረጋግጥ"
+creacion_de_Depot_MSG5="ማውጫ"
+creacion_de_Depot_MSG6="Linux-cdgrab ይህንን ማውጫ ተጠቅሞ ጊዜያዊ ፋይሎችን እና የመሳሪያ ምስሎችን (iso, img ወዘተ.)"
+creacion_de_Depot_MSG8="Depot ጊዜያዊ ፋይሎችን ለማከማቸት በጎቦ ሊኑክስ ይጠቅማል"
+creacion_de_Depot_MSG9="የዚህ ፋይል ዓላማ ለመረጃ አገልግሎት ብቻ ነው፣ አንዴ ካነበቡ በነፃነት መሰረዝ ይችላሉ። "
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="ማስጠንቀቂያ፡-"
+main_IDSISTEMA_MSG2="ስርዓተ ክወና አይደገፍም።"
+main_IDSISTEMA_MSG3="በመተግበሪያው አሠራር ላይ ችግሮች ካሉ GNU/Linux ይጠቀሙ"
+
+# argumentos
+
+main_arg_MSG1="ትክክለኛ ክርክር አይደለም።"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="ተገኝቷል"
+main_cdkit_test_MSG2="ከ wodim ጋር አገናኝ ተፈጠረ"
+main_cdkit_test_MSG3="ወደ genisoimage የተፈጠሩ"
+main_cdkit_test_MSG4="ወደ icedax ተፈጥሯል"
+
+# pgm principal
+
+pgm_principal_MSG1="ገዳይ: ምንም ትክክለኛ የማውጫ ስርጭት አልተገኘም።"
+pgm_principal_MSG2="እንግዳ"
+
+
+

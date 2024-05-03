@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLuxembourgish/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Luxemburgués, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Wielt d'Benotzerinterface déi benotzt gëtt:"
+SeleccionaIUDVD_MSG2="Benotzt den Interface fir dvd+-rw-Tools"
+SeleccionaIUDVD_MSG3="Benotzt den Interface fir Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Benotzt den Interface fir Libburnien"
+SeleccionaIUDVD_MSG5="Menü virdru"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="OPSCHREIWEN OP DVD"
+menugrabar_dvd_MSG2="----------------- DVD - DATA ------------------"
+menugrabar_dvd_MSG3="Kopieer eng ISO-9660 Daten DVD"
+menugrabar_dvd_MSG4="Erstellt e virdrun DVD Bild op der Festplack"
+menugrabar_dvd_MSG5="Eng nei ISO-9660 Daten DVD brennen"
+menugrabar_dvd_MSG6="Füügt nei Datesession op ISO-9660 Daten DVD (Multi-Session DVD)"
+menugrabar_dvd_MSG7="Verlaangt eng DVD déi virdru mat der zweeter Optioun opgeholl gouf"
+menugrabar_dvd_MSG8="En ISO-9660 Datebild op DVD brennen"
+menugrabar_dvd_MSG9="En .ext2 Bild op DVD brennen"
+menugrabar_dvd_MSG10="---------------- DVD - VIDEO ------------------"
+menugrabar_dvd_MSG11="Eng neien DVD-Video brennen"
+menugrabar_dvd_MSG12="--------------- ANER OPTIONEN -----------------"
+menugrabar_dvd_MSG13="Formatéieren eng DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="DVD Disc Informatioun weisen"
+menugrabar_dvd_MSG0="Menü virdru"
+menugrabar_dvd_MSGPRINCIPAL="Gitt eng Optioun"
+menugrabar_dvd_MSG15="Dateien an Verzeichnisser fir op der DVD opzehuelen"
+menugrabar_dvd_MSG16="Fichiermanager starten..."
+menugrabar_dvd_MSG17=".iso Bild fir op DVD ze brennen"
+menugrabar_dvd_MSG18="Schreift de Verzeichniswee an wou d'.iso Bild ass, dat Dir wëllt brennen"
+menugrabar_dvd_MSG19="Verlaangt Versioun vum cdrecord mat DVD Ënnerstëtzung."
+menugrabar_dvd_MSG20="Den Opnam vum .ext2 Bild op DVD gëtt mat cdrecord gemaach."
+menugrabar_dvd_MSG21="D'cdrecord Versioun déi an Ärer Installatioun existéiert soll"
+menugrabar_dvd_MSG22="DVD-Opname ënnerstëtzen."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="WËLLEN ENG OPTION"
+dvd_clonar_MSG2="--- DISC COPIES MAT PRÉVIEW IMAGE ---"
+dvd_clonar_MSG3="Kopieer eng Date-DVD"
+dvd_clonar_MSG4="Erstellt e virdrun DVD Bild op der Festplack"
+dvd_clonar_MSG5="--- DISC COPIES ON THE FLIGHT ---"
+dvd_clonar_MSG6="Kopieer eng Date-DVD op der Flucht"
+dvd_clonar_MSG7="Klonen eng Date-DVD op der Flucht"
+dvd_clonar_MSG8="FLÉIENDE KOPIOPTIONEN ERfuerderen ZWEE OPTISK UNITES"
+dvd_clonar_MSG9="OP ÄREM COMPUTER INSTALLÉIERT, ZËT DÉI Donnéeën OPSCHREIW sinn"
+dvd_clonar_MSG10="LIEST DIREKT VUN DER ORIGIN-DISK, WANN ÄR COMPUTER NËMMEN HAT"
+dvd_clonar_MSG11="DIR KËNNT NET D'KOPIEN UM FLUG BENOTZEN."
+dvd_clonar_MSG0="Menü virdru"
+dvd_clonar_MSG12="DVD DATA COPY"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD OPSCHREIWEN"
+menugrabar_DVD_MSG2="------------------ DVD - DATA -------------------"
+menugrabar_DVD_MSG3="Ripp Daten DVD"
+menugrabar_DVD_MSG4="Eng nei Daten DVD brennen"
+menugrabar_DVD_MSG5="Verbrennt .iso oder .ext2 Bild op DVD"
+menugrabar_DVD_MSG6="Format DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Diskinformatioun am Drive weisen"
+menugrabar_DVD_MSG0="Menü virdru"
+menugrabar_DVD_MSGPRINCIPAL="Gitt eng Optioun"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Iso-9660 Bild op DVD brennen"
+menugrabar_DVD_libburnia_MSG2="Date vun der Festplack op DVD brennen"
+menugrabar_DVD_libburnia_MSG3="Format DVD"
+menugrabar_DVD_libburnia_MSG4="Format DVD-RW op sequentiell inkrementell"
+menugrabar_DVD_libburnia_MSG5="Format DVD-RW fir limitéiert Iwwerschreiwe"
+menugrabar_DVD_libburnia_MSG6="Informatioun um Drive weisen"
+menugrabar_DVD_libburnia_MSG8="Lëscht Drive am System installéiert"
+menugrabar_DVD_libburnia_MSG0="Exit"
+menugrabar_DVD_libburnia_MSG7="Eng Optioun anzeginn"
+

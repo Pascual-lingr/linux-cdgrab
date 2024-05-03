@@ -1,0 +1,16 @@
+#########################################################
+# lcdgrabAPI_idiom/ExChinese/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en chino simplificado para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="弹出的光盘"
+expulsar_medio_MSG2="尝试从设备中弹出磁盘时出错"
+expulsar_medio_MSG3="手动输入名称："
+

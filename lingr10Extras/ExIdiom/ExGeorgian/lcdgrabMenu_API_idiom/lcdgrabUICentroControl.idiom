@@ -1,0 +1,282 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Georgiano para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux-cdgrab ის კონფიგურაცია"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="თუ არ იცით რომელ IDE არხს ეკუთვნის"
+ayuda_IDE_MSG2="თქვენს ჩამწერს შეუძლია გაიგოს ასო t დაჭერით."
+ayuda_IDE_MSG3="IDE არხის მაგალითი შეიძლება იყოს 0,0,0 ან 0,1,0"
+ayuda_IDE_MSG4="თქვენ ასევე შეგიძლიათ მიუთითოთ შესაბამისი მოწყობილობა"
+ayuda_IDE_MSG5="თქვენს ჩამწერს. თუ არ იცით რომელია, აუცილებლად დააჭირეთ d,"
+ayuda_IDE_MSG6="/etc/fstab ფაილში რეგისტრირებული მოწყობილობების სანახავად"
+ayuda_IDE_MSG7="მოწყობილობის მაგალითი შეიძლება იყოს /dev/hdd, /dev/hde და ა.შ."
+ayuda_IDE_MSG8="სურვილის შემთხვევაში, თქვენ ასევე შეგიძლიათ ჩამოთვალოთ ყველა შემავალი მოწყობილობა"
+ayuda_IDE_MSG9="/dev დირექტორიაში ასო l-ის დაჭერით."
+ayuda_IDE_MSG10="უნდა მიუთითოთ IDE არხი ან ჩამწერი მოწყობილობა"
+ayuda_IDE_MSG11="მაგრამ არა ორივე."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab წაიშალა თქვენი სისტემიდან"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="ჩაწერის სიჩქარე"
+imprimir_variables_MSG2="IDE/SCSI არხი ან ჩამწერი მოწყობილობა"
+imprimir_variables_MSG3="CD-ROM, DVD-ROM ან BD-ROM წამკითხველი"
+imprimir_variables_MSG4="ATAPI მოწყობილობა"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="ჩაწერის სიჩქარე"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI არხი ან ჩამწერი მოწყობილობა"
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM ან BD-ROM წამკითხველი"
+imprimir_lcdgrabcfg_MSG4="ATAPI მოწყობილობა"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="დაინსტალირებული"
+chequeo_de_aplicaciones_MSG2="არ არის დაინსტალირებული"
+chequeo_de_aplicaciones_MSG3="ინსტალაცია"
+chequeo_de_aplicaciones_MSG4="მნიშვნელოვანია:"
+chequeo_de_aplicaciones_MSG5="Linux-cdgrab საჭირო ინსტრუმენტების დაყენება სრულად იმუშავებს"
+chequeo_de_aplicaciones_MSG6="ყველა პროგრამა, რომელიც Linux-cdgrab-ს სჭირდება, დაინსტალირებულია თქვენს სისტემაში"
+chequeo_de_aplicaciones_MSG4B="შენიშვნა:"
+chequeo_de_aplicaciones_MSG5B="გამოტოვებული ხელსაწყოები ნაპოვნია"
+chequeo_de_aplicaciones_MSG6B="სისტემაზე დაინსტალირებული ხელსაწყოები"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 ნაგულისხმევად ენიჭება ამ ცვლადს"
+msgdefCANALATAPI_MSG2="კონფიგურაციის ფაილი დაიწერება CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="კონფიგურაციის ფაილი ავტომატურად გენერირებული Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG5="cdre ჩანაწერი არ მოიძებნა სისტემაში"
+nuevo_lcdgrabcfg_MSG6="დააინსტალირეთ cdrtools პაკეტი."
+nuevo_lcdgrabcfg_MSG7="შეგიძლიათ გააგრძელოთ კონფიგურაცია მნიშვნელობების მითითებით"
+nuevo_lcdgrabcfg_MSG8="ჩაწერა, თუ მათ ადრე იცნობთ."
+nuevo_lcdgrabcfg_MSG9="cdrecord ბრძანება გამოიყენება CD, DVD და BD დისკების ჩასაწერად"
+nuevo_lcdgrabcfg_MSG10="ეს ოფციები არ იქნება ფუნქციონალური, სანამ აღნიშნული პაკეტი არ დაინსტალირდება."
+nuevo_lcdgrabcfg_MSG11="ამჟამინდელი დისკის სკანირების ინსტრუმენტი ასევე არ იქნება ფუნქციონალური"
+nuevo_lcdgrabcfg_MSG12="ამ კონფიგურაციის ოსტატში."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab უნდა იყოს კონფიგურირებული შემდეგ ოთხ ეტაპზე"
+nuevo_lcdgrabcfg_MSG14="პირველი ნაბიჯი."
+nuevo_lcdgrabcfg_MSG15="ჩაწერის სიჩქარე:"
+nuevo_lcdgrabcfg_MSG16="მხოლოდ ერთი ნომერი 2,4,8,16,32... და ა.შ"
+nuevo_lcdgrabcfg_MSG17="მეორე ნაბიჯი."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI არხი ან ჩამწერი მოწყობილობა:"
+nuevo_lcdgrabcfg_MSG19="A -> დახმარება"
+nuevo_lcdgrabcfg_MSG20="სკანირება..."
+nuevo_lcdgrabcfg_MSG21="შეცდომა IDE/SCSI პორტის სკანირებისას"
+nuevo_lcdgrabcfg_MSG22="cdrecord ვერ მოიძებნა"
+nuevo_lcdgrabcfg_MSG23="მესამე ნაბიჯი."
+nuevo_lcdgrabcfg_MSG24="CD-ROM, DVD-ROM ან BD-ROM მოწყობილობა"
+nuevo_lcdgrabcfg_MSG25="L -> ხელმისაწვდომი მოწყობილობების სია"
+nuevo_lcdgrabcfg_MSG26="სკანირება..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI პორტი დასკანირებულია"
+nuevo_lcdgrabcfg_MSG28="მოწყობილობა გამოყენებული cdrecord-ის მიერ dev=ATAPI-ის მეშვეობით მრავალ სესიის ჩანაწერებში"
+nuevo_lcdgrabcfg_MSG30="მოწყობილობას აქვს ნომენკლატურა, როგორიცაა 0,0,0 ან 1,0,0 და ა.შ."
+nuevo_lcdgrabcfg_MSG31="მიუთითეთ მოწყობილობა cdrecord-ის გამოსაძახებლად მრავალსესიიან CD-ებზე: "
+nuevo_lcdgrabcfg_MSG32="CANALATAPI-სთვის კონფიგურაცია არასწორია"
+nuevo_lcdgrabcfg_MSG33="შეცდომა IDE/SCSI პორტის სკანირებისას"
+nuevo_lcdgrabcfg_MSG34="Cdrecord ვერ მოიძებნა"
+nuevo_lcdgrabcfg_MSG36="კონფიგურაციის ფაილი ავტომატურად გენერირებული Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB ის კონფიგურაცია დასრულდა"
+
+# colores
+
+colores_MSG1="ფერების სია ვერ მოიძებნა"
+colores_MSG2="ნაგულისხმევი ფერების ჩატვირთვა"
+colores_MSG3="აირჩიეთ ახალი ფერის სქემა LINUX-CDGRAB ინტერფეისისთვის"
+colores_MSG4="შავი შრიფტი"
+colores_MSG5="სტანდარტული ნათელი შრიფტი"
+colores_MSG6="შავი ფონის ფერი"
+colores_MSG7="წითელი შრიფტი"
+colores_MSG8="ნათელი შავი შრიფტი"
+colores_MSG9="წითელი ფონის ფერი"
+colores_MSG10="ფონტ მწვანე"
+colores_MSG11="ნათელი წითელი შადრევანი"
+colores_MSG12="მწვანე ფონის ფერი"
+colores_MSG13="ყვითელი შრიფტი"
+colores_MSG14="ნათელი მწვანე შრიფტი"
+colores_MSG15="ფორთოხლის ფონის ფერი"
+colores_MSG16="ლურჯი შრიფტი"
+colores_MSG17="ნათელი ყვითელი შრიფტი"
+colores_MSG18="ლურჯი ფონის ფერი"
+colores_MSG19="მაგენტას შრიფტი"
+colores_MSG20="ნათელი ლურჯი შრიფტი"
+colores_MSG21="მაგენტას ფონის ფერი"
+colores_MSG22="ცისფერი შრიფტი"
+colores_MSG23="ნათელი მაგენტა შრიფტი"
+colores_MSG24="ცისფერი ფონის ფერი"
+colores_MSG25="ნაცრისფერი შრიფტი"
+colores_MSG26="ცისფერი ფონის ფერი"
+colores_MSG27="ნათელი ცისფერი შრიფტი"
+colores_MSG28="ნაცრისფერი ფონის ფერი"
+colores_MSG29="ნაგულისხმევი წყარო"
+colores_MSG30="ნათელი თეთრი შრიფტი"
+colores_MSG31="ნაგულისხმევი ფონის ფერი"
+colores_MSG32="შრიფტის ფერის ნომერი: "
+colores_MSG33="ფონის ფერის ნომერი: "
+colores_MSG34="ფერადი ნომერი გამაფრთხილებელი შეტყობინებებისთვის: "
+colores_MSG35="ფერების ნომერი ლეიბლის შეტყობინებებისთვის: "
+colores_MSG36="ფერების ნომერი წარმატებით დასრულებული პროცესებისთვის"
+colores_MSG37="პროცესების ფერის ნომერი შეცდომით დასრულებულია: "
+colores_MSG38="LINUX-CDGRAB-ის ახალი სქემა"
+colores_MSG39="ზოგადი შრიფტის ფერი"
+colores_MSG40="ეტიკეტები"
+colores_MSG41="შეტყობინებები"
+colores_MSG42="წარმატება"
+colores_MSG43="შეცდომა"
+colores_MSG44="ფონის ფერი"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="ხელმისაწვდომი ფერების სია:"
+cambiar_esquema_de_color_MSG2="#####ფერადი სქემები#######"
+cambiar_esquema_de_color_MSG3="--------------------------"
+cambiar_esquema_de_color_MSG4="ფერების მენიუ"
+cambiar_esquema_de_color_MSG5="ვერ"
+cambiar_esquema_de_color_MSG6="ეტიკეტები"
+cambiar_esquema_de_color_MSG6b="შეტყობინებები"
+cambiar_esquema_de_color_MSG7="ფერთა მენიუ OK წარუმატებლობის გაფრთხილების ეტიკეტები"
+cambiar_esquema_de_color_MSG8="შეიყვანეთ ახალი ფერის ნომერი:"
+cambiar_esquema_de_color_MSG9="არასწორი ვარიანტი"
+cambiar_esquema_de_color_MSG10="ნაგულისხმევი ფერების დაყენება."
+cambiar_esquema_de_color_MSG11=" ფონი = ლურჯი ფონი"
+cambiar_esquema_de_color_MSG12="ფონტი = ნათელი თეთრი"
+cambiar_esquema_de_color_MSG13=" გაფრთხილებები = ნათელი ყვითელი"
+cambiar_esquema_de_color_MSG14=" შეცდომები = ნათელი წითელი"
+cambiar_esquema_de_color_MSG15=" შეცდომები = ნათელი წითელი"
+cambiar_esquema_de_color_MSG16=" წარმატებები = ნათელი მწვანე"
+cambiar_esquema_de_color_MSG17=" ეტიკეტები = ნათელი ციანი"
+
+# cambia_lector
+
+cambia_lector_MSG1="გარემოს პარამეტრები ოპტიკური ერთეულებისთვის"
+cambia_lector_MSG2="მიმდინარე მოწყობილობა, რომელიც დაკავშირებულია CD-ROM-თან, DVD-ROM-თან ან BD-ROM-თან"
+cambia_lector_MSG3="მიმდინარე მოწყობილობა დაკავშირებულია CD/DVD/BD Burner-თან"
+cambia_lector_MSG4="ამჟამინდელი მოწყობილობა დაკავშირებულია პარამეტრთან dev=ATAPI"
+cambia_lector_MSG5="(მრავალსესიის მხარდაჭერა cdrecord-ისთვის)"
+cambia_lector_MSG6="აირჩიეთ მოწყობილობა, რომელზეც უნდა განხორციელდეს ცვლილება."
+cambia_lector_MSG7="შეიყვანეთ ვარიანტი:"
+cambia_lector_MSG8="შეიყვანეთ ახალი მოწყობილობის სახელი"
+cambia_lector_MSG9="არ შეესაბამება ბლოკის მოწყობილობას"
+cambia_lector_MSG10="მოწყობილობა"
+cambia_lector_MSG11="ნაგულისხმევად მინიჭებული"
+cambia_lector_MSG12="ახალი მოწყობილობა არის:"
+cambia_lector_MSG13="cdrecord-ის ყველა ვერსია არ იღებს ბლოკის მოწყობილობას ჩაწერის პარამეტრად"
+cambia_lector_MSG14="შეიყვანეთ ახალი ATAPI მოწყობილობის სახელი"
+cambia_lector_MSG15="CANALATAPI-სთვის კონფიგურაცია არასწორია"
+cambia_lector_MSG16="0,0,0 ნაგულისხმევად ენიჭება ამ ცვლადს"
+cambia_lector_MSG17="კონფიგურაციის ფაილი დაიწერება CANALATAPI = 0,0,0"
+cambia_lector_MSG18="ახალი მოწყობილობა არის:"
+cambia_lector_MSG19="არ ხდება ცვლილებები მოწყობილობებზე"
+cambia_lector_MSG4B="მნიშვნელობების ექსპორტი კონფიგურაციის ფაილიდან"
+cambia_lector_MSG4C="ეს ღირებულებები მოხსენებული იყო გარემოში:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="ამ მენიუდან შეგიძლიათ აირჩიოთ რომელი პროგრამა"
+cambia_generador_isocd_MSG2="გამოიყენება ISO-9660 სურათების გენერირებისთვის"
+cambia_generador_isocd_MSG3="წაკითხვის ერთეულზე არსებული CDS-დან."
+cambia_generador_isocd_MSG4="მიმდინარე კონფიგურაცია:"
+cambia_generador_isocd_MSG5="გამოიყენე dd (GNU coreutils კომპონენტი)"
+cambia_generador_isocd_MSG6="გამოიყენეთ readcd (cdrtools კომპონენტი)"
+cambia_generador_isocd_MSG7="წინა მენიუ."
+cambia_generador_isocd_MSG8="აირჩიეთ ვარიანტი:"
+cambia_generador_isocd_MSG9="dd იზო გენერატორად გამოყენება."
+cambia_generador_isocd_MSG10="readcd-ის გამოყენება iso გენერატორად."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="HFS მეტამონაცემების დაყენება Rock Ridge-თან და Joliet-თან ერთად"
+establecer_hfs_iso_MSG2="გამოიყენეთ მხოლოდ Rock Ridge და Joliet მეტამონაცემები"
+establecer_hfs_iso_MSG3="წინა მენიუ."
+establecer_hfs_iso_MSG4="აირჩიეთ ვარიანტი:"
+establecer_hfs_iso_MSG5="HFS, Rock Ridge და Joliet მეტამონაცემების გამოყენება"
+establecer_hfs_iso_MSG6="Rock Ridge და Joliet მეტამონაცემების გამოყენება"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="მიმდინარე შეტყობინებების სისტემა"
+cambia_notificaciones_MSG2A="GNOME გრაფიკული ინტერფეისი"
+cambia_notificaciones_MSG2B="KDE გრაფიკული ინტერფეისი"
+cambia_notificaciones_MSG2="ინტერფეისი ncurses-თან"
+cambia_notificaciones_MSG3="ტექსტური ინტერფეისი"
+cambia_notificaciones_MSG4="გამოსვლა"
+cambia_notificaciones_MSG5="აირჩიეთ ვარიანტი:"
+cambia_notificaciones_MSG6="ინტერფეისის გამოყენება დიალოგთან"
+cambia_notidicaciones_MSG6B="ინტერფეისის გამოყენება zenity-თან"
+cambia_notidicaciones_MSG6C="ინტერფეისის გამოყენება kdialog-თან"
+cambia_notificaciones_MSG7="დიალოგის ბრძანება ვერ მოიძებნა"
+cambia_notificaciones_MSG8="ტექსტური ინტერფეისის გამოყენება"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="გამოყენებული ენა:"
+cambiar_idioma_UI_MSG1="ამჟამად ხელმისაწვდომი ენები:"
+cambiar_idioma_UI_MSG2="შეიყვანეთ ენის სახელი, რომელიც იქნება გამოყენებული"
+cambiar_idioma_UI_MSG3="აპლიკაციის ინტერფეისში:"
+cambiar_idioma_UI_MSG4="გამოყენებული ახალი ენაა:"
+cambiar_idioma_UI_MSG5="გადატვირთეთ LINUX-CDGRAB"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="მიმდინარე კონფიგურაცია"
+seleccion_gestor_archivos_MSG2="გამოიყენე mc"
+seleccion_gestor_archivos_MSG3="გამოიყენეთ ინტეგრირებული ტექსტის მენეჯერი"
+seleccion_gestor_archivos_MSG4="მკ ვერ მოიძებნა დაინსტალირებული სისტემაში"
+seleccion_gestor_archivos_MSG5="ინტეგრირებული ტექსტის მენეჯერის ნაგულისხმევად გამოყენება"
+seleccion_gestor_archivos_MSG6="mc უტილიტა"
+seleccion_gestor_archivos_MSG7="ინტეგრირებული ტექსტი"
+
+# centro_de_control
+
+centro_de_control_MSG1="კონტროლის ცენტრი"
+centro_de_control_MSG2="ახალი კონფიგურაცია"
+centro_de_control_MSG3="კონფიგურაციის ფაილის წაშლა"
+centro_de_control_MSG4="აჩვენეთ მიმდინარე კონფიგურაციის ფაილი და მნიშვნელობები"
+centro_de_control_MSG5="კონფიგურაციის ფაილის მნიშვნელობები:"
+centro_de_control_MSG5B="გარემოში გამოყენებული მიმდინარე კონფიგურაცია:"
+centro_de_control_MSG6="ოპტიკური მედიის შეცვლა"
+centro_de_control_MSG7="დაინსტალირებული პროგრამების შემოწმება"
+centro_de_control_MSG8="IDE/SCSI პორტის სკანირება cdrecord-ით"
+centro_de_control_MSG8C="IDE/SCSI პორტის სკანირება cdrskin-ით"
+centro_de_control_MSG8B="სისტემაში დაყენებული ერთეულების სია cdrskin-ით"
+centro_de_control_MSG9="ისო გენერირების პროგრამის შეცვლა CD-დან"
+centro_de_control_MSG9B="HFS მეტამონაცემების დაყენება iso-9660-ისთვის"
+centro_de_control_MSG10="შეცვალეთ მომხმარებლის ინტერფეისი"
+centro_de_control_MSG10b="ფერის შეცვლა"
+centro_de_control_MSG10c="ინტერფეისის ენის შეცვლა"
+centro_de_control_MSG11="შეცვალეთ ფაილების მენეჯერი"
+centro_de_control_MSG11B="პროგრამის დეინსტალაცია"
+centro_de_control_MSG12="შეიყვანეთ ვარიანტი: "
+centro_de_control_MSG13="კონფიგურაციის ფაილი არ არსებობს"
+centro_de_control_MSG14="კონფიგურაციის ფაილი ვერ მოიძებნა"
+centro_de_control_MSG15="სკანირება"
+centro_de_control_MSG16="IDE/SCSI პორტი დასკანირებულია"
+centro_de_control_MSG17="შეცდომა IDE/SCSI პორტის სკანირებისას"
+centro_de_control_MSG18="აირჩიე ფერების სქემა"
+centro_de_control_MSG19="აირჩიე ფერები თვითნებურად"
+centro_de_control_MSG20="წინა მენიუ"
+centro_de_control_MSG21="შეიყვანეთ ვარიანტი: "
+centro_de_control_MSG22="კონფიგურაციის ფაილი არ არსებობს"
+centro_de_control_MSG23="კონფიგურაციის ფაილი ვერ მოიძებნა"
+centro_de_control_MSG24="აირჩიე ფერების სქემა"
+centro_de_control_MSG25="აირჩიე ფერები თვითნებურად"
+centro_de_control_MSG26="არასწორი ვარიანტი"
+

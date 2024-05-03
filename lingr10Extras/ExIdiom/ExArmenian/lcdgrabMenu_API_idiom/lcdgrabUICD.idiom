@@ -1,0 +1,74 @@
+#########################################################
+# lcdgrabAPI_idiom/ExArmenian/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Armenio, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="ԸՆՏՐԵՔ ՏԱՐԲԵՐԱԿ"
+clonar_MSG2="------ ՆԱԽԱՊԱՏԿԵՐԻ ՍԿՍԱՎՈՐՆԵՐԸ ------"
+clonar_MSG3="Պատճենել տվյալների CD"
+clonar_MSG4="Ստեղծեք նախորդ CD պատկեր կոշտ սկավառակի վրա"
+clonar_MSG5="----------- ՍԿՍԱՎՈՐԱԿԱՆ ՊԱՏՃԱՌՆԵՐԸ ԹԵՌՔԻ ՄԵՋ ----------"
+clonar_MSG6="Պատճենել տվյալների ձայնասկավառակը անմիջապես"
+clonar_MSG7="Կլոնավորեք տվյալների CD-ն անմիջապես "
+clonar_MSG7B="Պատճենել աուդիո ձայնասկավառակը անմիջապես"
+clonar_MSG8="ԹՌՉԵԼՈՒ ՊԱՏՃԱՌԻ ՏԱՐԲԵՐԱԿՆԵՐԸ ՊԱՀԱՆՋՈՒՄ ԵՆ ԵՐԿՈՒ ՕՊՏԻԿԱԿԱՆ ՄԻԱՎՈՐՈՒՄ"
+clonar_MSG9="ՏԵՂԱԴՐՎԱԾ Է ՁԵՐ ՀԱՄԱԿԱՐԳԻՉԻ ՎՐԱ, ՈՐ ՏՎՅԱԼՆԵՐԸ ՁԵՌՆԱՐԿՎՈՒՄ ԵՆ ՄԻՆՉ ՈՐՈՎ"
+clonar_MSG10="ԿԱՐԴԱՑԵՔ ՈՒՂԻՂ ՍԿՍԱՎՈՐԻՑ, ԵԹԵ ՄԻԱՅՆ ՁԵՐ ՀԱՄԱԿԱՐԳԻՉՆ ՈՒՆԻ"
+clonar_MSG11="ՄԵԿԸ ՉԻ ԿԱՐՈՂԱՆԱ ՕԳՏԱԳՈՐԾԵԼ ՊԱՏՃԱՌՆԵՐԸ ԹԵՌՔՈՒՄ :"
+clonar_MSG12B="ՊԱՏՃԱՌՆԵԼ CD ՏՎՅԱԼՆԵՐԸ"
+clonar_MSG0="Նախորդ ընտրացանկ"
+
+# mgrabacd
+
+mgrabacd_MSG1="CD ՏՎՅԱԼՆԵՐԸ Կոշտ Սկավառակից"
+mgrabacd_MSG2="Վառել տվյալների նոր CD օգտագործել cdrtools"
+mgrabacd_MSG3="Վառել տվյալների նոր CD օգտագործել libburnia"
+mgrabacd_MSG4="Նախորդ ընտրացանկ"
+mgrabacd_MSG5="Մուտքագրեք տարբերակ"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="ՏՎՅԱԼՆԵՐԻ ՊԱՏԿԵՐԻ ՁԱՅՆԱԳՐՈՒՄ"
+mgrabaimg_MSG2="Վառել ISO կամ ext2 պատկերը CD-R/RW-ում օգտագործել cdrtools"
+mgrabaimg_MSG3="Վառել ISO պատկերը CD-R/RW-ում օգտագործել libburnia"
+mgrabaimg_MSG4="Նախորդ ընտրացանկ"
+mgrabaimg_MSG5="Մուտքագրեք տարբերակ"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Վառել աուդիո CD .wav ֆայլերից"
+mgrabararchivosaudio_MSG2="Վառել աուդիո CD .mp3 ֆայլերից"
+mgrabararchivosaudio_MSG3="Վառել աուդիո CD .ogg ֆայլերից"
+mgrabararchivosaudio_MSG0="Նախորդ ընտրացանկ"
+mgrabararchivosaudio_MSG0B="Մուտքագրեք տարբերակ"
+mgrabararchivosaudio_MSG4="Վառել աուդիո CD .flac ֆայլերից"
+mgrabararchivosaudio_MSG5="CD-AUDIO ՁԱՅՆԱԳՐՈՒՄ ՖԱՅԼԵՐԻՑ"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="ՁԱՅՆԱԳՐՈՒՄ CD-ի վրա"
+menugrabar_cd_MSG2="------------------- CD - ՏՎՅԱԼՆԵՐ ------------------"
+menugrabar_cd_MSG3="Պատճենել տվյալների CD"
+menugrabar_cd_MSG4="Վառել տվյալների նոր CD"
+menugrabar_cd_MSG5="Վառել նոր բազմասեսիա տվյալների CD"
+menugrabar_cd_MSG6="Վառել .iso կամ .ext2 պատկերը CD-ում"
+menugrabar_cd_MSG7="Վառել .bin/.cue պատկերը CD-ում"
+# Resultado del traductor
+menugrabar_cd_MSG8="------------------- CD - AUDIO ------------------"
+menugrabar_cd_MSG9="Պատճենել աուդիո CD"
+menugrabar_cd_MSG13="----------------- ԱՅԼ ՏԱՐԲԵՐԱԿՆԵՐ ----------------"
+menugrabar_cd_MSG14="Վառել խառը CD տվյալներ + աուդիո"
+menugrabar_cd_MSG15="Ջնջել CD-RW"
+menugrabar_cd_MSG16="Փակել բաց CD"
+menugrabar_cd_MSG17="Ցուցադրել սկավառակի տեղեկատվությունը սկավառակում"
+menugrabar_cd_MSG18="Վառել ձայնասկավառակը սկավառակի ֆայլերից"
+menugrabar_cd_MSG0="Նախորդ ընտրացանկ"
+menugrabar_cd_MSGPRINCIPAL="Մուտքագրեք տարբերակ"
+

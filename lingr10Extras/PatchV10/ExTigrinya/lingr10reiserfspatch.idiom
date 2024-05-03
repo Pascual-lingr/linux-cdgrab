@@ -1,0 +1,65 @@
+# Idioma Tigriña para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="ንምቕጻል ENTER ንጽቀጥ..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=============================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 ደገፍ ዳግመ-ሰራዊት."
+cabecera_interfaz_MSG3="=============================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="ውጽኢት ትእዛዝ ምትካል:"
+formatear_disco_reiserfs_MSG2="እቲ ክቐርጽ ዝኽእል ብሎክ መሳርሒ ግለጽ: "
+formatear_disco_reiserfs_MSG3="መሳርሒ ብዓወት ተቐሪጹ።"
+formatear_disco_reiserfs_MSG4="መሳርሒ ቅርጺ ጌጋ።"
+formatear_disco_reiserfs_MSG5="መስርሕ ተዛዚሙ"
+formatear_disco_reiserfs_MSG6="መሳርሒ ምፍታሕ..."
+formatear_disco_reiserfs_MSG7="ኣብ ReiserFS ድራይቭ ፎርማት ምግባር..."
+formatear_disco_reiserfs_MSG8="ይሰርሕ ኣሎ።"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="ብዓወት ተቐሪጹ።"
+formatear_img_reiserfs_MSG2="ባዶ ፋይል ኣብ ምቕራጽ ጌጋ"
+formatear_img_reiserfs_MSG3="ባዶ ፋይል ይፈጥር ኣሎ..."
+formatear_img_reiserfs_MSG4="ይሰርሕ ኣሎ።"
+formatear_img_reiserfs_MSG5="ባዶ ፋይል ኣብ ReiserFS ፎርማት ምግባር..."
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="ንCD-R/RW (702 Mbytes) ምስሊ ምፍጣር።"
+m_img_CDDVDBD_reiserfs_MSG2="ንDVD+RW (4 Gbytes) ምስሊ ምፍጣር።"
+m_img_CDDVDBD_reiserfs_MSG3="ንDVD+RW/DL (8 Gbytes) ምስሊ ምፍጣር።"
+m_img_CDDVDBD_reiserfs_MSG4="ንBD-R/RE (25 Gbytes) ምስሊ ምፍጣር።"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="ምውጻእ።"
+imgr_tmp_MSG1="ኩሎም ናይ reiserfs ምስሊ ፋይላት ደምስስ።"
+imgr_tmp_MSG2="ናይ ምስሊ ፋይል ምትካል ወይ ምፍታሕ።"
+imgr_tmp_MSG3="ፋይላት ምስሊ ኣብ።"
+imgr_tmp_MSG4="ኣማራጺ ምረጽ።"
+imgr_tmp_MSG5="ዝተደምሰሱ ናይ ምስሊ ፋይላት።"
+imgr_tmp_MSG6="ምስሊ ምትካል።"
+imgr_tmp_MSG7="ምስሊ ምውራድ"
+imgr_tmp_MSG8="ዝተሰቕለ ምስሊ።"
+imgr_tmp_MSG9="ዝተወረደ ምስሊ"
+imgr_tmp_MSG10="ዘይሕጋዊ ኣማራጺ።"
+imgr_tmp_MSG11="እቲ ክትስቀል ወይ ክትፈትሖ እትኽእል ምስሊ ግለጽ:"
+imgr_tmp_MSG12="ስእሊ ኣብ ምትካል ጌጋ።"
+imgr_tmp_MSG13="ስእሊ ኣብ ምፍታሕ ጌጋ።"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="ኣብ ReiserFS ድራይቭ ፎርማት ምግባር።"
+lingr10reiserfspatch_MSG2="ንሲዲ/ዲቪዲ/ቢዲ ዝኸውን ምስሊ ReiserFS ምፍጣር።"
+lingr10reiserfspatch_MSG3="ስርሓት ኣብ ምስልታት ReiserFS።"
+lingr10reiserfspatch_MSG4="ዘይሕጋዊ ኣማራጺ።"
+lingr10reiserfspatch_MSG0="ምውጻእ።"

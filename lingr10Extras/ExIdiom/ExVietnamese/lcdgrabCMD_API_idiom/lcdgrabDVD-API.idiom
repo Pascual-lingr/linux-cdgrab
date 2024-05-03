@@ -1,0 +1,171 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Vietnamita para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Thiết bị ghi dưới dạng"
+buscar_grabadora_MSG1B="Hợp lệ"
+buscar_grabadora_MSG2="Thiết bị ghi dưới dạng"
+buscar_grabadora_MSG2B="Lỗi"
+buscar_grabadora_MSG3="dvd+-rw-tools không chấp nhận rằng thiết bị ghi là"
+buscar_grabadora_MSG4="Để có thể ghi đĩa DVD bằng dvd+rw-tools bạn phải chỉ định máy ghi của mình làm thiết bị khối"
+buscar_grabadora_MSG5="Ví dụ"
+buscar_grabadora_MSG6="hoặc"
+buscar_grabadora_MSG7="Hiển thị các thiết bị hệ thống hiện có trong /dev"
+buscar_grabadora_MSG8="Nhập thiết bị khối tương ứng với đầu ghi DVD của bạn"
+buscar_grabadora_MSG9="Không có loại hoặc tùy chọn ghi âm nào được chỉ định."
+buscar_grabadora_MSG10="THIẾT BỊ ĐƯỢC CẤU HÌNH CHO MÁY GHI"
+buscar_grabadora_MSG11="Thiết bị ghi đã được xuất sang môi trường shell dưới dạng"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Giá trị có thể chỉ hợp lệ cho cdrecord"
+buscar_grabadoralb_MSG2="Cấu hình hiện tại cho máy ghi âm là"
+buscar_grabadoralb_MSG3="Kiểm tra xem cấu hình này có khớp với giá trị được chỉ định bởi cdrskin"
+buscar_grabadoralb_MSG4="Quét cổng IDE/SCSI bằng cdrskin..."
+buscar_grabadoralb_MSG5="Chỉ định giá trị mới sẽ được sử dụng với cdrskin:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Nhập tên cho DVD trong tương lai:"
+datos_dvd_MSG2="GHI DVD . . ."
+datos_dvd_MSG3="Sử dụng"
+datos_dvd_MSG4="đang chạy"
+datos_dvd_MSG5="DVD ĐƯỢC GHI THÀNH CÔNG!"
+datos_dvd_MSG6="Không thể tìm thấy Mkisofs hoặc genisoimage, hãy cài đặt cdrtools hoặc cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Nhập tên cho DVD trong tương lai:"
+datos_dvd_multi_MSG2="GHI DVD . . . "
+datos_dvd_multi_MSG3="Sử dụng"
+datos_dvd_multi_MSG4="đang chạy"
+datos_dvd_multi_MSG5="DVD ĐƯỢC GHI THÀNH CÔNG!"
+datos_dvd_multi_MSG6="Không thể tìm thấy Mkisofs hoặc genisoimage, hãy cài đặt cdrtools hoặc cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="GHI HÌNH ẢNH . . ."
+grabimg_dvd_MSG2="đang chạy"
+grabimg_dvd_MSG3="! HÌNH ẢNH DVD ĐƯỢC GHI THÀNH CÔNG !"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="GHI HÌNH ẢNH TRÊN DVD . . ."
+copia_bin_dvd_MSG2="đang chạy"
+copia_bin_dvd_MSG3=" XÓA TẬP TIN HÌNH ẢNH"
+copia_bin_dvd_MSG4="ĐANG GHI HOÀN THÀNH!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Định dạng a"
+formatear_dvd_MSG2="Bắt buộc định dạng mới cho"
+formatear_dvd_MSG3="Định vị lại khối đầu ra của a"
+formatear_dvd_MSG4="Định dạng DVD-RW thành tăng dần tuần tự"
+formatear_dvd_MSG5="Định dạng DVD-RW ở chế độ ghi đè hạn chế"
+formatear_dvd_MSG6="Điền số không vào DVD"
+formatear_dvd_MSG7="Hiển thị thông tin DVD"
+formatear_dvd_MSG8="Trình đơn trước"
+formatear_dvd_MSG9="Tùy chọn này được sử dụng để định dạng DVD lần đầu tiên."
+formatear_dvd_MSG10="Nếu DVD đã được định dạng, nó sẽ không xóa dữ liệu."
+formatear_dvd_MSG11="Những thứ này sẽ bị ghi đè trong bản ghi mới."
+formatear_dvd_MSG12="Để xóa nội dung của DVD, hãy sử dụng:"
+formatear_dvd_MSG13="Điền số 0 vào DVD"
+formatear_dvd_MSG14="Tùy chọn này xóa định dạng và dữ liệu khỏi DVD đã xử lý."
+formatear_dvd_MSG15="đang chạy"
+formatear_dvd_MSG16="DVD+RW/DVD-RW ĐƯỢC ĐỊNH DẠNG THÀNH CÔNG !"
+formatear_dvd_MSG17="LỖI KHI ĐỊNH DẠNG DVD"
+formatear_dvd_MSG18="Buộc định dạng trên đĩa DVD+RW..."
+formatear_dvd_MSG19="DVD+RW ĐƯỢC ĐỊNH DẠNG THÀNH CÔNG!"
+formatear_dvd_MSG20="LỖI KHI ĐỊNH DẠNG DVD+RW"
+formatear_dvd_MSG21="Tùy chọn này không ảnh hưởng đến dữ liệu được lưu trên DVD+RW"
+formatear_dvd_MSG22="Đang xóa khối đầu ra khỏi DVD+RW..."
+formatear_dvd_MSG23="Định dạng đĩa DVD-RW để ghi tuần tự..."
+formatear_dvd_MSG24="DVD-RW ĐƯỢC ĐỊNH DẠNG THÀNH CÔNG!"
+formatear_dvd_MSG25="LỖI KHI ĐỊNH DẠNG DVD-RW"
+formatear_dvd_MSG26="Định dạng đĩa DVD-RW để hạn chế ghi đè..."
+formatear_dvd_MSG27="XÓA DVD CÓ THỂ VIẾT LẠI"
+
+# null_dvd
+
+null_dvd_MSG1="Ghi vào đĩa từ /dev/zero . . ."
+null_dvd_MSG2="đang chạy"
+null_dvd_MSG3="QUY TRÌNH HOÀN THÀNH"
+null_dvd_MSG4="LỖI KHÔNG ĐƯỢC DỰ ĐOÁN"
+
+# dvd_video
+
+dvd_video_MSG1="Đường dẫn chứa thư mục VIDEO_TS và AUDIO_TS:"
+dvd_video_MSG2="Chỉ định đường dẫn chứa thư mục VIDEO_TS và AUDIO_TS:"
+dvd_video_MSG3="đang chạy"
+dvd_video_MSG4="--- GHI DVD-VIDEO THÀNH CÔNG ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="đang chạy"
+dvd_copia_bin_MSG2="	XÓA TẬP TIN HÌNH ẢNH"
+dvd_copia_bin_MSG3="LỖI GHI ĐÃ XUẤT HIỆN"
+
+# dvd_datos
+
+dvd_datos_MSG1="Các tập tin và thư mục để tạo hình ảnh .iso"
+dvd_datos_MSG2="NHÃN DVD"
+dvd_datos_MSG3="Nhập tên cho DVD trong tương lai:"
+dvd_datos_MSG4="Khởi chạy trình quản lý tập tin:"
+dvd_datos_MSG5="	TẠO HÌNH ẢNH . . ."
+dvd_datos_MSG6="đang chạy"
+dvd_datos_MSG7="Hình ảnh ISO-9660 ĐƯỢC TẠO TRONG"
+dvd_datos_MSG8="	GHI DVD"
+dvd_datos_MSG13="XÓA HÌNH ẢNH..."
+
+# dvd_borra
+
+dvd_borra_MSG1="đang chạy"
+dvd_borra_MSG2="ĐĨA QUANG ĐƯỢC ĐỊNH DẠNG THÀNH CÔNG"
+dvd_borra_MSG3="LỖI KHI ĐỊNH DẠNG ĐĨA QUANG"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="đang chạy"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="đang chạy"
+formatearCDDVDBD_MSG2="ĐĨA QUANG ĐƯỢC ĐỊNH DẠNG THÀNH CÔNG"
+formatearCDDVDBD_MSG3="LỖI KHI ĐỊNH DẠNG ĐĨA QUANG"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW được định dạng thành công!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Lỗi định dạng DVD-RW thành ghi đè hạn chế"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW được định dạng thành công!!"
+formatearDVDRW_incremental_secuencial_MSG2="Lỗi khi định dạng DVD-RW thành tăng dần tuần tự"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Chỉ định đường dẫn của hình ảnh iso-9660 cần ghi:"
+cdrskinisocddvd_MSG2="Hình ảnh ISO được ghi thành công!!"
+cdrskinisocddvd_MSG3="LỖI KHI GHI HÌNH ẢNH"
+

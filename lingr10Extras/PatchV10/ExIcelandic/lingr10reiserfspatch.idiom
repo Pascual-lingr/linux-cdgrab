@@ -1,0 +1,76 @@
+# Idioma Islandés para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Ýttu á ENTER til að halda áfram..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="====================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 STUÐNINGAR REISERFS."
+cabecera_interfaz_MSG3="====================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Fergja skipunarúttak:"
+formatear_disco_reiserfs_MSG2="Tilgreindu blokkunartækið sem á að forsníða: "
+formatear_disco_reiserfs_MSG3="Tæki sniðið tókst"
+formatear_disco_reiserfs_MSG4="Villa við að forsníða tæki"
+formatear_disco_reiserfs_MSG5="FERLI LOKIÐ"
+formatear_disco_reiserfs_MSG6="Tekur tækið af..."
+formatear_disco_reiserfs_MSG7="Formsníða drif í ReiserFS..."
+formatear_disco_reiserfs_MSG8="Í gangi"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="FORMAÐIÐ Árangursríkt"
+formatear_img_reiserfs_MSG2="VILLA VIÐ FORSNIÐAÐ TÓMA skrá"
+formatear_img_reiserfs_MSG3="Býr til tóma skrá..."
+formatear_img_reiserfs_MSG4="Í gangi"
+formatear_img_reiserfs_MSG5="Að forsníða tóma skrá í ReiserFS..."
+formatear_img_reiserfs_MSG6="KYNSTOÐ TÓMAR SKRÁAR MEÐ SÉRNARI STÆRÐ"
+formatear_img_reiserfs_MSG7="Tilgreindu stærð tómu skráar sem á að búa til (aðeins tölulegt gildi):"
+formatear_img_reiserfs_MSG8="Rýmismælingar til að búa til tómu skrána:"
+formatear_img_reiserfs_MSG9="Tilgreindu plássmælinguna sem á að nota: "
+formatear_img_reiserfs_MSG10="VILLA ÞEGAR STÆRÐARMÆLING er tilgreind"
+formatear_img_reiserfs_MSG11="Blokkastærðargildi:"
+formatear_img_reiserfs_MSG12="Magn pláss fyrir tóma skrá:"
+formatear_img_reiserfs_MSG13="Reiknað gildi í bætum:"
+formatear_img_reiserfs_MSG14="Reiknað gildi fyrir talningu:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Búa til mynd fyrir CD-R/RW (702 Mbæti)"
+m_img_CDDVDBD_reiserfs_MSG2="Búa til mynd fyrir DVD+RW (4 Gbæti)"
+m_img_CDDVDBD_reiserfs_MSG3="Búa til mynd fyrir DVD+RW/DL (8 Gbæti)"
+m_img_CDDVDBD_reiserfs_MSG4="Búa til mynd fyrir BD-R/RE (25 Gbæti)"
+m_img_CDDVDBD_reiserfs_MSG5="Búa til myndskrá með sérsniðinni stærð"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Hætta"
+imgr_tmp_MSG1="Eyða öllum reiserfs myndskrám"
+imgr_tmp_MSG2="Tengdu eða aftengja myndaskrá"
+imgr_tmp_MSG3="Myndaskrár í"
+imgr_tmp_MSG4="Veldu valkost"
+imgr_tmp_MSG5="Myndaskrám eytt"
+imgr_tmp_MSG6="Tengdu mynd"
+imgr_tmp_MSG7="Taka mynd"
+imgr_tmp_MSG8="Uppsett mynd"
+imgr_tmp_MSG9="Afsett mynd"
+imgr_tmp_MSG10="Ógildur valkostur"
+imgr_tmp_MSG11="Tilgreindu myndina sem á að tengja eða aftengja:"
+imgr_tmp_MSG12="Villa við að setja mynd upp"
+imgr_tmp_MSG13="Villa við að taka mynd af"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Sníða drif í ReiserFS"
+lingr10reiserfspatch_MSG2="Búa til ReiserFS mynd fyrir CD/DVD/BD"
+lingr10reiserfspatch_MSG3="Aðgerðir á ReiserFS myndum"
+lingr10reiserfspatch_MSG4="Ógildur valkostur"
+lingr10reiserfspatch_MSG0="Hætta"
+

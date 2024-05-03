@@ -1,0 +1,45 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Tigriña para la aplicación principal #
+# Parte de Linux-cdgrab 1.0                        #
+# Traducción experimental, generado 		   #
+# con Google Translate.				   #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="ፋይል ብኣውቶማቲክ ብ LINUX-CDGRAB 1.0 ዝፍጠር።"
+creacion_de_Depot_MSG2="እዚ ፋይል ምስቲ ማህደር።"
+creacion_de_Depot_MSG3="ብኣውቶማቲክ ተፈጢሮም።"
+creacion_de_Depot_MSG4="ብመተግበሪ ሊኑክስ-cdgrab ኣብ ዝርገሐ ሊኑክስካ ከምዘይነበረ ኣብ እተረጋግጽሉ እዋን።"
+creacion_de_Depot_MSG5="እቲ ማህደር።"
+creacion_de_Depot_MSG6="Linux-cdgrab ነዚ ማህደር ግዝያዊ ፋይላትን ምስልታት መሳርሒን (iso, img ወዘተ..) ንምጽሓፍ ይጥቀመሉ።"
+creacion_de_Depot_MSG8="ዲፖ ብጎቦሊኑክስ ግዝያዊ ፋይላት ንምዕቃብ ይጥቀመሉ።"
+creacion_de_Depot_MSG9="ዕላማ ናይዚ ፋይል ንሓበሬታ ጥራይ እዩ፣ ሓንሳብ ምስ ኣንበብካ ብናጽነት ክትድምስሶ ትኽእል ኢኻ።"
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="ምኸዳን:"
+main_IDSISTEMA_MSG2="ስርዓተ ምምሕዳር ኣይድገፍን እዩ።"
+main_IDSISTEMA_MSG3="ኣብ ኣሰራርሓ ናይቲ መተግበሪ ጸገማት እንተሃልዩ፡ GNU/Linux ተጠቐም"
+
+# argumentos
+
+main_arg_MSG1="ቅኑዕ ስነ-ሞጎት ኣይኮነን።"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="ተረኺቡ።"
+main_cdkit_test_MSG2="ሊንክ ናብ wodim ተፈጢሩ።"
+main_cdkit_test_MSG3="መላግቦ ናብ ጂንሶኢሜጅ ተፈጢሩ።"
+main_cdkit_test_MSG4="መላግቦ ናብ icedax ተፈጢሩ።"
+
+# pgm principal
+
+pgm_principal_MSG1="ቀታሊ: ቅኑዕ ዝርገሐ ማህደር ኣይተረኽበን።"
+pgm_principal_MSG2="ጓና ሰብ"
+

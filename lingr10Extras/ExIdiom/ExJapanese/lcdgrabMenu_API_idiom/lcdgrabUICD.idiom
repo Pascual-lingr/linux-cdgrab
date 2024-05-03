@@ -1,0 +1,77 @@
+#########################################################
+# lcgdrabAPI_idiom/ExJapanese/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabación en CD.
+# Traducción experimental al Japonés, usado google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="オプションを選択"
+clonar_MSG2="--- プレビュー イメージ付きのディスク コピー ---"
+clonar_MSG3="データ CD をコピーする"
+clonar_MSG4="ハード ドライブに以前の CD イメージを作成する"
+clonar_MSG5="------------ その場でディスクコピー ------------"
+clonar_MSG6="その場でデータ CD をコピーする"
+clonar_MSG7="その場でデータ CD をクローン"
+clonar_MSG7B="オーディオ CD をその場でコピー"
+clonar_MSG8="フライング コピー オプションには 2 つの光学ユニットが必要"
+clonar_MSG9="Iデータが記録されている間、コンピュータにインストールされます。"
+clonar_MSG10="お使いの機器で利用可能な場合のみ、ソース ディスクから直接読み取ります。"
+clonar_MSG11="フライング コピーを使用することはできません"
+clonar_MSG12B="CDデータのコピー"
+clonar_MSG0="前のメニュー"
+
+# mgrabacd
+
+mgrabacd_MSG1="ハードディスクからの CD データ"
+mgrabacd_MSG2="新しいデータ CD を作成します (cdrtools を使用)"
+mgrabacd_MSG3="新しいデータ CD の書き込み (libburnia を使用)"
+mgrabacd_MSG4="前のメニュー"
+mgrabacd_MSG5="オプションを入力してください"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="\tデータ画像記録"
+mgrabaimg_MSG2="iso または ext2 イメージを CD-R/RW に書き込む (cdrtools を使用)"
+mgrabaimg_MSG3="iso イメージを CD-R/RW に書き込む (libburnia を使用)"
+mgrabaimg_MSG4="前のメニュー"
+mgrabaimg_MSG5="オプションを入力してください"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1=".wav ファイルからオーディオ CD を作成する"
+mgrabararchivosaudio_MSG2=".mp3 ファイルからオーディオ CD を作成する"
+mgrabararchivosaudio_MSG3=".ogg ファイルからオーディオ CD を作成する"
+mgrabararchivosaudio_MSG0="前のメニュー"
+mgrabararchivosaudio_MSG0B="オプションを入力します"
+mgrabararchivosaudio_MSG4=".flac ファイルからオーディオ CD を作成する"
+mgrabararchivosaudio_MSG5="ファイルからの CD オーディオ録音"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="CD録音"
+menugrabar_cd_MSG2="------------------- CD-データ -------------------"
+menugrabar_cd_MSG3="データCDのコピー"
+menugrabar_cd_MSG4="新しいデータ CD を書き込む"
+menugrabar_cd_MSG5="新しいマルチセッション データ CD を作成する"
+menugrabar_cd_MSG6=".iso または .ext2 イメージを CD に書き込む"
+menugrabar_cd_MSG7=".bin/.cue イメージを CD に書き込む"
+menugrabar_cd_MSG8="------------------ CDオーディオ -----------------"
+menugrabar_cd_MSG9="オーディオ CD をリッピングする"
+menugrabar_cd_MSG10=".wav ファイルからオーディオ CD を作成"
+menugrabar_cd_MSG11=".mp3 ファイルからオーディオ CD を作成"
+menugrabar_cd_MSG12=".ogg ファイルからオーディオ CD を作成する"
+menugrabar_cd_MSG13="--------------- その他のオプション --------------"
+menugrabar_cd_MSG14="混合 CD (データ + オーディオ) を作成する"
+menugrabar_cd_MSG15="CD-RW を消去する"
+menugrabar_cd_MSG16="CDを閉じる 開く"
+menugrabar_cd_MSG17="ドライブのディスク情報を表示する"
+menugrabar_cd_MSG18="ディスク ファイルからオーディオ CD を作成する"
+menugrabar_cd_MSG0="前のメニュー"
+menugrabar_cd_MSGPRINCIPAL="オプションを入力してください"
+
+

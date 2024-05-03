@@ -1,0 +1,172 @@
+#########################################################
+# lcdgrabAPI_idiom/ExChinese/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en chino simplificado para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="录音设备如"
+buscar_grabadora_MSG1B="有效的"
+buscar_grabadora_MSG2="录音设备如"
+buscar_grabadora_MSG2B="错误的"
+buscar_grabadora_MSG3="dvd+-rw-tools 不接受刻录设备是"
+buscar_grabadora_MSG4="为了能够使用 dvd+rw-tools 刻录 DVD，您必须将刻录机指定为块设备"
+buscar_grabadora_MSG5="例子"
+buscar_grabadora_MSG6="好吧"
+buscar_grabadora_MSG7="在 /dev 中显示现有的系统设备"
+buscar_grabadora_MSG8="键入与您的 DVD 刻录机对应的块设备"
+buscar_grabadora_MSG9=" 没有指定记录器或选项的类型。"
+buscar_grabadora_MSG10="为录音机配置的设备"
+buscar_grabadora_MSG11="录音设备已经导出到shell环境为"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="可能的值仅对 cdrecord 有效"
+buscar_grabadoralb_MSG2="记录器的当前配置是"
+buscar_grabadoralb_MSG3="检查此设置是否与 cdrskin 分配的值匹配"
+buscar_grabadoralb_MSG4="使用 cdrskin 扫描 IDE/SCSI 端口..."
+buscar_grabadoralb_MSG5="指定将与 cdrskin 一起使用的新值："
+
+# datos_dvd
+
+datos_dvd_MSG1="输入未来 DVD 的名称："
+datos_dvd_MSG2="刻录DVD . . ."
+datos_dvd_MSG3="穿着"
+datos_dvd_MSG4="跑步"
+datos_dvd_MSG5=" DVD 录制成功！！ "
+datos_dvd_MSG6="或找到mkisofs或genisoimage，安装cdrtools或cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="输入未来 DVD 的名称："
+datos_dvd_multi_MSG2="刻录DVD . . ."
+datos_dvd_multi_MSG3="穿着"
+datos_dvd_multi_MSG4="跑步"
+datos_dvd_multi_MSG5=" DVD 录制成功！！ "
+datos_dvd_multi_MSG6="或找到mkisofs或genisoimage，安装cdrtools或cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="录制图像 . . ."
+grabimg_dvd_MSG2="跑步"
+grabimg_dvd_MSG3="！ DVD 图像已成功录制！"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="将图像录制到 DVD . . ."
+copia_bin_dvd_MSG2="跑步"
+copia_bin_dvd_MSG3="	删除图像文件"
+copia_bin_dvd_MSG4="录制完成！"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="格式化一个"
+formatear_dvd_MSG2="强制使用新格式"
+formatear_dvd_MSG3="重新定位一个的引出块"
+formatear_dvd_MSG4="将 DVD-RW 格式化为增量顺序"
+formatear_dvd_MSG5="将 DVD-RW 格式化为受限覆盖"
+formatear_dvd_MSG6="零填充 DVD"
+formatear_dvd_MSG7="显示 DVD 信息"
+formatear_dvd_MSG8="上一个菜单"
+formatear_dvd_MSG9="此选项用于首次格式化 DVD。"
+formatear_dvd_MSG10="如果 DVD 已经格式化，则不会擦除数据。"
+formatear_dvd_MSG11="这些将在新录音中被覆盖。"
+formatear_dvd_MSG12="要擦除 DVD 的内容，请使用："
+formatear_dvd_MSG13="零填充 DVD"
+formatear_dvd_MSG14="此选项会从经过处理的 DVD 中擦除格式和数据。"
+formatear_dvd_MSG15="跑步"
+formatear_dvd_MSG16="DVD+RW/DVD-RW 格式化成功！"
+formatear_dvd_MSG17="错误格式化 DVD"
+formatear_dvd_MSG18="强制格式化 DVD+RW 光盘 ..."
+formatear_dvd_MSG19="DVD+RW 格式化成功！"
+formatear_dvd_MSG20="错误格式化 DVD+RW"
+formatear_dvd_MSG21="此选项不影响保存在 DVD+RW 上的数据"
+formatear_dvd_MSG22="从 DVD+RW 中移除引出块 ..."
+formatear_dvd_MSG23="将 DVD-RW 光盘格式化为顺序写入 ..."
+formatear_dvd_MSG24="DVD-RW 格式化成功！"
+formatear_dvd_MSG25="错误格式化 DVD-RW"
+formatear_dvd_MSG26="格式化 DVD-RW 光盘以覆盖受限 ..."
+formatear_dvd_MSG27="擦除可刻录 DVD"
+
+# null_dvd
+
+null_dvd_MSG1="从 /dev/zero 写入磁盘。 . ."
+null_dvd_MSG2="跑步"
+null_dvd_MSG3="完成的过程"
+null_dvd_MSG4="意外的错误"
+
+# dvd_video
+# graba DVD-Video
+
+dvd_video_MSG1="VIDEO_TS和AUDIO_TS目录所在路径："
+dvd_video_MSG2="指定 VIDEO_TS 和 AUDIO_TS 目录所在的路径："
+dvd_video_MSG3="跑步"
+dvd_video_MSG4="--- DVD 视频录制成功 ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="跑步"
+dvd_copia_bin_MSG2="	删除图像文件"
+dvd_copia_bin_MSG3="发生录音错误"
+
+# dvd_datos
+
+dvd_datos_MSG1="用于创建 .iso 映像的文件和目录"
+dvd_datos_MSG2="DVD标签"
+dvd_datos_MSG3="输入未来 DVD 的名称："
+dvd_datos_MSG4="启动文件管理器："
+dvd_datos_MSG5="	创造形象 . . ."
+dvd_datos_MSG6="跑步"
+dvd_datos_MSG7="ISO-9660 图像创建于"
+dvd_datos_MSG8="		刻录DVD"
+dvd_datos_MSG13="擦除图像..."
+
+# dvd_borra
+
+dvd_borra_MSG1="跑步"
+dvd_borra_MSG2="光盘格式化成功"
+dvd_borra_MSG3="错误格式化光盘"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="跑步"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="跑步"
+formatearCDDVDBD_MSG2="光盘格式化成功"
+formatearCDDVDBD_MSG3="错误格式化光盘"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW 格式化成功！！"
+formatearDVDRW_sobreescritura_restringida_MSG2="格式化 DVD-RW 以覆盖受限时出错"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW 格式化成功！！"
+formatearDVDRW_incremental_secuencial_MSG2="将 DVD-RW 格式化为顺序增量时出错"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="指定要刻录的 iso-9660 镜像的路径："
+cdrskinisocddvd_MSG2="ISO 图像已成功记录！！"
+cdrskinisocddvd_MSG3="录制图像时出错"
+

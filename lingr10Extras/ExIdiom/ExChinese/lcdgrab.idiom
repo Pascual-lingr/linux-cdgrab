@@ -1,0 +1,46 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Traducción experimental a Chino Simplificado     #
+# Generado con google translator                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="LINUX-CDGRAB 1.0自动生成的文件"
+creacion_de_Depot_MSG2="这个文件连同目录"
+creacion_de_Depot_MSG3="已经自动生成"
+creacion_de_Depot_MSG4="通过 Linux-cdgrab 应用程序验证它不存在于您的 Linux 发行版中"
+creacion_de_Depot_MSG5="目录"
+creacion_de_Depot_MSG6="linux-cdgrab 使用此目录写入临时文件和设备映像（iso、img 等...）"
+creacion_de_Depot_MSG8="GoboLinux 使用 Depot 来存放临时文件"
+creacion_de_Depot_MSG9="此文件的目的仅供参考，您可以在阅读后随意删除它。"
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="警告："
+main_IDSISTEMA_MSG2="不支持的操作系统。"
+main_IDSISTEMA_MSG3="如果应用程序运行出现问题，请使用 GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="不是一个有效的论点"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="成立"
+main_cdkit_test_MSG2="已创建 wodim 链接"
+main_cdkit_test_MSG3="链接到已创建的 genisoimage"
+main_cdkit_test_MSG4="已创建 icedax 链接"
+
+# pgm principal
+
+pgm_principal_MSG1="致命：找不到正确的目录布局。"
+pgm_principal_MSG2="一个陌生人"
+
+
+

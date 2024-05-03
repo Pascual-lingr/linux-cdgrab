@@ -1,0 +1,21 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTigrinya/lcgdrabMenu_API_idiom/lcdgrabUIBD.idiom
+# Menu de Interfaz para la grabación de BD.
+# Traducción experimental al Tigriña, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_grabar_BD
+
+menu_grabar_BD_MSG0="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+menu_grabar_BD_MSG1="BLU-RAY ዲስክ ምቕራጽ።"
+menu_grabar_BD_MSG2="ካብ ዳታ ሃርድ ድራይቭ ሓድሽ BD-R/BD-RE iso ኣቃጽል።"
+menu_grabar_BD_MSG4="ISO/UDF ምስሊ ናብ ዲስክ ክቃጸል እዩ።"
+menu_grabar_BD_MSG7="iso-9660/udf ምስሊ ናብ BD-R/BD-RE ኣቃጽሎ።"
+menu_grabar_BD_MSG8="--------------------- ቢዲ - ዳታ -------------------"
+menu_grabar_BD_MSG9="ሓበሬታ ድራይቭ ዲስክ ኣርኢ።"
+menu_grabar_BD_MSG10="ኣብ BD-RE ኣድላዪ ምድምሳስ ተግባራዊ ግበር።"
+

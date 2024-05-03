@@ -1,0 +1,174 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRussian/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Ruso para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Записывающее устройство как"
+buscar_grabadora_MSG1B="Действительно"
+buscar_grabadora_MSG2="Записывающее устройство как"
+buscar_grabadora_MSG2B="Ошибка"
+buscar_grabadora_MSG3="Инструменты DVD+-rw-tools не принимают записывающее устройство"
+buscar_grabadora_MSG4="Чтобы иметь возможность записывать DVD с помощью dvd+rw-tools, вы должны указать свой рекордер как блочное устройство"
+buscar_grabadora_MSG5="Пример"
+buscar_grabadora_MSG6="или"
+buscar_grabadora_MSG7="Показ существующих системных устройств в /dev"
+buscar_grabadora_MSG8="Введите блочное устройство, соответствующее вашему DVD-рекордеру"
+buscar_grabadora_MSG9="Не указан тип рекордера или опция."
+buscar_grabadora_MSG10="УСТРОЙСТВО, НАСТРОЕННОЕ ДЛЯ РЕГИСТРАТОРА"
+buscar_grabadora_MSG11="Записывающее устройство было экспортировано в среду оболочки как"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Возможное значение действительно только для cdrecord"
+buscar_grabadoralb_MSG2="Текущая конфигурация рекордера"
+buscar_grabadoralb_MSG3="Убедитесь, что эта конфигурация соответствует значению, присвоенному cdrskin"
+buscar_grabadoralb_MSG4="Сканирование порта IDE/SCSI с помощью cdrskin..."
+buscar_grabadoralb_MSG5="Укажите новое значение, которое будет использоваться с cdrskin:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Введите имя будущего DVD:"
+datos_dvd_MSG2="ЗАПИСЬ DVD..."
+datos_dvd_MSG3="Использование"
+datos_dvd_MSG4="работает"
+datos_dvd_MSG5="DVD УСПЕШНО ЗАПИСАН!"
+datos_dvd_MSG6="mkisofs или genisoimage не найдены, установите cdrtools или cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Введите имя будущего DVD:"
+datos_dvd_multi_MSG2="ЗАПИСЬ DVD..."
+datos_dvd_multi_MSG3="Использование"
+datos_dvd_multi_MSG4="работает"
+datos_dvd_multi_MSG5="DVD ЗАПИСАН УСПЕШНО!"
+datos_dvd_multi_MSG6="Mkisofs или genisoimage не найдены, установите cdrtools или cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="ЗАПИСЬ ИЗОБРАЖЕНИЯ..."
+grabimg_dvd_MSG2="работает"
+grabimg_dvd_MSG3="! ОБРАЗ DVD ЗАПИСАН УСПЕШНО!"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="ЗАПИСЬ ИЗОБРАЖЕНИЯ НА DVD..."
+copia_bin_dvd_MSG2="работает"
+copia_bin_dvd_MSG3=" УДАЛЕНИЕ ФАЙЛА ИЗОБРАЖЕНИЯ"
+copia_bin_dvd_MSG4="ЗАПИСЬ ЗАВЕРШЕНА!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Форматировать"
+formatear_dvd_MSG2="Принудительно использовать новый формат для"
+formatear_dvd_MSG3="Переместить выводной блок"
+formatear_dvd_MSG4="Отформатируйте DVD-RW в последовательный инкрементный режим"
+formatear_dvd_MSG5="Отформатируйте DVD-RW с ограничением перезаписи"
+formatear_dvd_MSG6="Заполнить DVD нулями"
+formatear_dvd_MSG7="Показывает информацию о DVD"
+formatear_dvd_MSG8="Предыдущее меню"
+formatear_dvd_MSG9="Эта опция используется для первого форматирования DVD."
+formatear_dvd_MSG10="Если DVD уже отформатирован, данные не будут удалены."
+formatear_dvd_MSG11="Они будут перезаписаны при новой записи."
+formatear_dvd_MSG12="Чтобы удалить содержимое DVD, используйте:"
+formatear_dvd_MSG13="Заполнить DVD нулями"
+formatear_dvd_MSG14="Эта опция удаляет формат и данные с обработанного DVD."
+formatear_dvd_MSG15="работает"
+formatear_dvd_MSG16="DVD+RW/DVD-RW УСПЕШНО ФОРМАТИРОВАНО!"
+formatear_dvd_MSG17="ОШИБКА ПРИ ФОРМАТИРОВАНИИ DVD"
+formatear_dvd_MSG18="Принудительное форматирование диска DVD+RW..."
+formatear_dvd_MSG19="DVD+RW УСПЕШНО ФОРМАТИРОВАНО!"
+formatear_dvd_MSG20="ОШИБКА ПРИ ФОРМАТИРОВАНИИ DVD+RW"
+formatear_dvd_MSG21="Эта опция не влияет на данные, сохраненные на DVD+RW"
+formatear_dvd_MSG22="Удаление выводного блока с DVD+RW..."
+formatear_dvd_MSG23="Форматирование диска DVD-RW для последовательной записи..."
+formatear_dvd_MSG24="DVD-RW УСПЕШНО ОТФОРМАТИРОВАН!"
+formatear_dvd_MSG25="ОШИБКА ПРИ ФОРМАТИРОВАНИИ DVD-RW"
+formatear_dvd_MSG26="Форматирование диска DVD-RW с ограничением перезаписи..."
+formatear_dvd_MSG27="УДАЛЕНИЕ ПЕРЕЗАПИСЫВАЕМОГО DVD"
+
+
+# null_dvd
+
+null_dvd_MSG1="Запись на диск с /dev/zero..."
+null_dvd_MSG2="работает"
+null_dvd_MSG3="ПРОЦЕСС ЗАВЕРШЕН"
+null_dvd_MSG4="НЕОЖИДАННАЯ ОШИБКА"
+
+# dvd_video
+
+dvd_video_MSG1="Путь, в котором расположены каталоги VIDEO_TS и AUDIO_TS:"
+dvd_video_MSG2="Укажите путь, по которому расположены каталоги VIDEO_TS и AUDIO_TS:"
+dvd_video_MSG3="работает"
+dvd_video_MSG4="--- DVD-ВИДЕО ЗАПИСАНО ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="работает"
+dvd_copia_bin_MSG2=" УДАЛЕНИЕ ФАЙЛА ИЗОБРАЖЕНИЯ"
+dvd_copia_bin_MSG3="Произошла ошибка записи"
+
+# dvd_datos
+
+dvd_datos_MSG1="Файлы и каталоги для создания образа .iso"
+dvd_datos_MSG2="ЭТИКЕТКА DVD"
+dvd_datos_MSG3="Введите имя будущего DVD:"
+dvd_datos_MSG4="Запуск файлового менеджера:"
+dvd_datos_MSG5=" СОЗДАНИЕ ИЗОБРАЖЕНИЯ..."
+dvd_datos_MSG6="работает"
+dvd_datos_MSG7="ИЗОБРАЖЕНИЕ ISO-9660 СОЗДАНО В"
+dvd_datos_MSG8="ЗАПИСЬ DVD"
+dvd_datos_MSG13="УДАЛЕНИЕ ИЗОБРАЖЕНИЯ..."
+
+# dvd_borra
+
+dvd_borra_MSG1="бег"
+dvd_borra_MSG2="ОПТИЧЕСКИЙ ДИСК УСПЕШНО ОТФОРМАТИРОВАН"
+dvd_borra_MSG3="ОШИБКА ПРИ ФОРМАТИРОВАНИИ ОПТИЧЕСКОГО ДИСКА"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="бег"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="Выполняется"
+formatearCDDVDBD_MSG2="ОПТИЧЕСКИЙ ДИСК УСПЕШНО ОТформатирован"
+formatearCDDVDBD_MSG3="ОШИБКА ПРИ ФОРМАТИРОВАНИИ ОПТИЧЕСКОГО ДИСКА"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW успешно отформатирован!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Ошибка форматирования DVD-RW для ограничения перезаписи"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW успешно отформатирован!!"
+formatearDVDRW_incremental_secuencial_MSG2="Ошибка при форматировании DVD-RW в последовательный инкрементный формат"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Укажите путь к образу ISO-9660 для записи:"
+cdrskinisocddvd_MSG2="ИЗОБРАЖ ISO ЗАПИСАН УСПЕШНО!!"
+cdrskinisocddvd_MSG3="ОШИБКА ПРИ ЗАПИСИ ИЗОБРАЖЕНИЯ"
+
+
+

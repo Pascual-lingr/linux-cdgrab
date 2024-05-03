@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en suajili para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="UONGOFU WA SAUTI"
+menu_conversion_audio_MSG2="------------- UONGOFU KATI YA MIUNDO -----------"
+menu_conversion_audio_MSG3="Badilisha .mp3 kuwa .wav"
+menu_conversion_audio_MSG4="Badilisha .ogg kuwa .wav"
+menu_conversion_audio_MSG5="Badilisha .wav kuwa .mp3"
+menu_conversion_audio_MSG6="Badilisha .wav kuwa .ogg"
+menu_conversion_audio_MSG6C="Badilisha .wav kuwa .flac"
+menu_conversion_audio_MSG6B="Badilisha .flac kuwa .wav"
+menu_conversion_audio_MSG7="---------- KUNUKUA NYIMBO ZA SAUTI ---------"
+menu_conversion_audio_MSG8="Rip CD ya Sauti kuwa .wav"
+menu_conversion_audio_MSG9="Radisha seti ya nyimbo za sauti hadi .wav"
+menu_conversion_audio_MSG10="Chandua CD ya Sauti kuwa .mp3"
+menu_conversion_audio_MSG11="Chandua CD ya Sauti kuwa .ogg"
+menu_conversion_audio_MSG0="Menyu iliyotangulia"
+menu_conversion_audio_MSG12="Tafuta faili za .mp3"
+menu_conversion_audio_MSG13="Tafuta faili za .ogg"
+menu_conversion_audio_MSG14="Tafuta faili za .wav"
+menu_conversion_audio_MSG15="---------------- OPERESHENI NYINGINE ---------------"
+menu_conversion_audio_MSG16="Kata .wav faili ya sauti"
+menu_conversion_audio_MSG17="Chandua CD ya Sauti kuwa .flac"
+

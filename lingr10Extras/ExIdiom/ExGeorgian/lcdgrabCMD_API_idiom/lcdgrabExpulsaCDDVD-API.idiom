@@ -1,0 +1,17 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Georgiano para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+# Resultado del traductor
+expulsar_medio_MSG1="OPTICAL DISK EJECTAL"
+expulsar_medio_MSG2="შეცდომა მოწყობილობიდან დისკის ამოღების მცდელობისას"
+expulsar_medio_MSG3="შეიყვანეთ სახელი ხელით:"
+

@@ -1,0 +1,76 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="აირჩიე ვარიანტი"
+clonar_MSG2="------ დისკის ასლები წინასწარ გადახედვის სურათით ------"
+clonar_MSG3="დააკოპირეთ მონაცემთა CD"
+clonar_MSG4="შექმენით წინა CD სურათი მყარ დისკზე"
+clonar_MSG5="----------- დისკის ასლები ფრენის დროს ----------"
+clonar_MSG6="დააკოპირეთ მონაცემთა დისკი პირდაპირ ეთერში"
+clonar_MSG7="მონაცემთა CD-ის კლონირება ფრენისას"
+clonar_MSG7B="დააკოპირეთ აუდიო CD პირდაპირ ეთერში"
+clonar_MSG8="Flying Copy OPTIONS მოითხოვს ორ ოპტიკურ ერთეულს"
+clonar_MSG9="დაინსტალირებულია თქვენს კომპიუტერზე, ვინაიდან მონაცემები ჩაწერილია მანამდე"
+clonar_MSG10="წაიკითხეთ პირდაპირ საწყისი დისკიდან, თუ მხოლოდ თქვენს კომპიუტერს აქვს"
+clonar_MSG11="არავინ შეძლებს ასლების გამოყენებას ფრენისას."
+clonar_MSG12B="CD მონაცემების კოპირება"
+clonar_MSG0="წინა მენიუ"
+
+# mgrabacd
+
+mgrabacd_MSG1="CD მონაცემები მყარი დისკიდან"
+mgrabacd_MSG2="დაწერეთ ახალი მონაცემთა CD (გამოიყენეთ cdrtools)"
+mgrabacd_MSG3="დაწერეთ ახალი მონაცემთა CD (გამოიყენეთ libburnia)"
+mgrabacd_MSG4="წინა მენიუ"
+mgrabacd_MSG5="შეიყვანეთ ვარიანტი"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="მონაცემთა სურათის ჩაწერა"
+mgrabaimg_MSG2="დაწერეთ iso ან ext2 სურათი CD-R/RW-ზე (გამოიყენეთ cdrtools)"
+mgrabaimg_MSG3="ისო გამოსახულების ჩაწერა CD-R/RW-ზე (გამოიყენეთ libburnia)"
+mgrabaimg_MSG4="წინა მენიუ"
+mgrabaimg_MSG5="შეიყვანეთ ვარიანტი"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="ჩაწერეთ აუდიო CD .wav ფაილებიდან"
+mgrabararchivosaudio_MSG2="ჩაწერეთ აუდიო CD .mp3 ფაილებიდან"
+mgrabararchivosaudio_MSG3="ჩაწერეთ აუდიო CD .ogg ფაილებიდან"
+mgrabararchivosaudio_MSG0="წინა მენიუ"
+mgrabararchivosaudio_MSG0B="აკრიფეთ ვარიანტი"
+mgrabararchivosaudio_MSG4="ჩაწერეთ აუდიო CD .flac ფაილებიდან"
+mgrabararchivosaudio_MSG5="CD-AUDIO ჩანაწერი ფაილებიდან"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="ჩაწერა CD-ზე"
+# Resultado del traductor
+menugrabar_cd_MSG2="------------------- CD - DATA -------------------"
+menugrabar_cd_MSG3="დააკოპირეთ მონაცემთა CD"
+menugrabar_cd_MSG4="ახალი მონაცემთა დისკის ჩაწერა"
+menugrabar_cd_MSG5="ახალი მრავალსესიის მონაცემთა CD ჩაწერა"
+menugrabar_cd_MSG6="ჩაწერეთ .iso ან .ext2 სურათი CD-ზე"
+menugrabar_cd_MSG7=".bin/.cue სურათის ჩაწერა CD-ზე"
+# Resultado del traductor
+menugrabar_cd_MSG8="------------------- CD - AUDIO -------------------"
+menugrabar_cd_MSG9="აუდიო CD-ის ამოღება"
+menugrabar_cd_MSG13="---------------- სხვა ვარიანტები -----------------"
+menugrabar_cd_MSG14="შერეული დისკის ჩაწერა (მონაცემები + აუდიო)"
+menugrabar_cd_MSG15="წაშალე CD-RW"
+menugrabar_cd_MSG16="გახსნილი CD დახურვა"
+menugrabar_cd_MSG17="დისკის ინფორმაციის ჩვენება დისკზე"
+menugrabar_cd_MSG18="ჩაწერეთ აუდიო დისკი დისკის ფაილებიდან"
+menugrabar_cd_MSG0="წინა მენიუ"
+menugrabar_cd_MSGPRINCIPAL="აკრიფეთ ვარიანტი"
+
+

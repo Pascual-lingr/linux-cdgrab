@@ -1,0 +1,71 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en húngaro para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Az .img vagy .ext2 kép elérési útja a lemezre való kiírásához."
+volcar_imagen_MSG2="-----------------------FONTOS----------------------------" 
+volcar_imagen_MSG3="+ Ez az opció optikai lemezeken nem működik."
+volcar_imagen_MSG4="+ Használja pendrive-okon, hajlékonylemezeken, lemezpartíciókon stb."
+volcar_imagen_MSG5="+ Mérlegelés merevlemezekkel:"
+volcar_imagen_MSG6="+ A kép dd-vel van írva az elejétől"
+volcar_imagen_MSG7=" a megadott lemezről, szám használata nem megengedett"
+volcar_imagen_MSG8="specifikus szektor az írási folyamat elindításához"
+volcar_imagen_MSG9="+ Használja körültekintően. Használja saját felelősségére."
+volcar_imagen_MSG10="+ A lemezpartíciók használhatatlanná válhatnak."
+volcar_imagen_MSG11="+ Nem ajánlott többpartíciós rendszereken használni."
+volcar_imagen_MSG12="A visszaállítás elhagyhatja a partíciós táblát és"
+volcar_imagen_MSG13="maguk haszontalan partíciók."
+volcar_imagen_MSG14="--------------------------------------------------------"
+volcar_imagen_MSG15="Nyomja meg a C GOMBOT A FOLYTATÁSHOZ; (A folyamat egy másik opciónál megszakad)"
+volcar_imagen_MSG16="Adja meg a lemezre kiírandó képfájl elérési útját: "
+volcar_imagen_MSG17="Parancs kimenet csatlakoztatása:"
+volcar_imagen_MSG18="Adja meg a blokkeszközt, ahová a képet ki kell helyezni:"
+volcar_imagen_MSG19="KÉP DUMPING"
+volcar_imagen_MSG20="AZ ESZKÖZÖN"
+volcar_imagen_MSG21="fut"
+volcar_imagen_MSG22="KÉPLEÍRÁS FOLYAMAT BEFEJEZETT"
+
+# volcar_iso
+
+volcar_iso_MSG1="Adja meg azt a blokkeszközt, amelyre az iso-képet kell írni:"
+volcar_iso_MSG2="FIGYELMEZTETÉS"
+volcar_iso_MSG2B="--------------"
+volcar_iso_MSG3="Adja meg a blokkolóeszközt, amelyre írni szeretne."
+volcar_iso_MSG4="Példák: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Ne adjon meg ehhez az eszközhöz tartozó partíciót"
+volcar_iso_MSG6="Példák: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Adja meg az írandó ISO-9660 képet vagy img-t:"
+volcar_iso_MSG9="A folyamat befejeződött"
+volcar_iso_MSG10="Hiba az iso írási folyamatban"
+volcar_iso_MSG11="Adja meg a blokk méretét a kép írásához"
+volcar_iso_MSG12="Válassza ki az írási opciót az operációs rendszer szerint:"
+volcar_iso_MSG13="ISO-9660 vagy rendszerindító IMG kép az eszközön villogni:"
+volcar_iso_MSG14="Kilépés"
+volcar_iso_MSG15="ISO-9660 KÉPFÁJL VAGY KÉP"
+volcar_ISO_MSG16="KIVÁLASZTJA AZ OPERÁCIÓS RENDSZERT, HOGY AZ EGYSÉGBE TÖLTSE"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Válassza ki a fájlrendszert:"
+Formateador_linuxfs_MSG2="az eszköz formázva lesz:"
+Formateador_linuxfs_MSG3="Adja meg a formázni kívánt blokkeszközt: "
+Formateador_linuxfs_MSG5="FOLYAMAT VÉGZETT"
+Formateador_linuxfs_MSG6="LEMEZFORMÁZÁS"
+Formateador_linuxfs_MSG7="Kötetcímke beállítása"
+Formateador_linuxfs_MSG10="Adja meg a kötetcímke nevét"
+Formateador_linuxfs_MSG11="Új kötetcímke"
+Formateador_linuxfs_MSG12="Blokkméret megadása"
+Formateador_linuxfs_MSG13="Új blokkméret"
+Formateador_linuxfs_MSG14="Előző menü"
+
+

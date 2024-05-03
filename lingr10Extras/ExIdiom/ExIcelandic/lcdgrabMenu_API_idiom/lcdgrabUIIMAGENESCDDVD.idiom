@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Islandés, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="BÚA OG TAKA MEÐ DISKUMYNDIR"
+MenuImagen_MSG2="------------- MYNDAGERÐ --------------"
+MenuImagen_MSG3="Búa til ISO-9660 mynd"
+MenuImagen_MSG4="Búa til mynd með innfæddu Linux skráarkerfi"
+MenuImagen_MSG5="Búa til .img mynd af hvaða blokkartæki sem er"
+MenuImagen_MSG6="Búa til .bin .cue mynd úr núverandi tæki"
+MenuImagen_MSG7="---------------- AÐRIR VALKOSTIR ----------------"
+MenuImagen_MSG8="Búa til .cue lýsingarskrá úr .bin mynd"
+MenuImagen_MSG9="Breyta .nrg (Nero Burning ROM) mynd í .iso"
+MenuImagen_MSG10="Þjappa mynd með gzip, bzip2 eða xz"
+MenuImagen_MSG11="Þjappaðu mynd niður í zip, gz, bz2 eða xz"
+MenuImagen_MSG11B="Athugaðu md5 summan af iso myndum"
+MenuImagen_MSG12="Breyta iso ham"
+MenuImagen_MSG0="Fyrri valmynd"
+MenuImagen_MSG13="Myndskrá sem á að þjappa saman"
+MenuImagen_MSG14="ÞJAMAÐA MYNDASKÁL"
+MenuImagen_MSG15="Sláðu inn slóðina þar sem myndin sem þú vilt þjappa er staðsett:"
+MenuImagen_MSG16="Myndskrá sem þú vilt afþjappa"
+MenuImagen_MSG17="NÚVERANDI ISO STIG"
+MenuImagen_MSG18="ísó stig"
+MenuImagen_MSG19="Skráarnöfn samanstanda af hluta"
+MenuImagen_MSG20="og takmarkast við 8,3 stafi."
+MenuImagen_MSG21="Veldu þetta stig ef þú vilt nafnasamhæfni"
+MenuImagen_MSG21b="undir MS-DOS stýrikerfinu"
+MenuImagen_MSG22="Skráarnöfn samanstanda af hluta"
+MenuImagen_MSG23="Ótakmarkað stig."
+MenuImagen_MSG24="Notaðu þetta stig ef þú vilt skráarsamhæfni"
+MenuImagen_MSG25="stór, í þessu tilfelli >= 2 gígabæta."
+MenuImagen_MSG26="Öll ISO stig takmarka skráarnöfn við hástafi, lágstafi og"
+MenuImagen_MSG27="stafir eins og _ . Skráarnöfn eru takmörkuð við 31 staf"
+MenuImagen_MSG28="Hámarks 8 skráarslóðir og heiti slóðar"
+MenuImagen_MSG29="möppur í 255 stafi."
+MenuImagen_MSG30="Veldu nýja ISO-stigið"
+MenuImagen_MSG31="ISO stig 4 er ekki opinbert"
+MenuImagen_MSG32="Sjáðu mkisofs man síðuna"
+MenuImagen_MSG33="Ógilt ISO-stig"
+MenuImagen_MSG34="Stilltu iso stig 3 sjálfgefið"
+

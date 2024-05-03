@@ -1,0 +1,54 @@
+#########################################################
+# lcdgrabAPI_idiom/ExChinese/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en chino simplificado para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generada con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="输入文件或目录的路径："
+empaquetar_MSG2="------- 选项 -------"
+empaquetar_MSG3="生成 .tar.gz 文件"
+empaquetar_MSG4="生成 .tar.bz2 文件"
+empaquetar_MSG5="输入一个选项："
+empaquetar_MSG6="跑步"
+empaquetar_MSG7="选项无效"
+
+# desempaquetar
+
+desempaquetar_MSG1="写入文件路径："
+desempaquetar_MSG2="没有找到减压器"
+desempaquetar_MSG3="奥威尔"
+desempaquetar_MSG4="不存在"
+desempaquetar_MSG5="跑步"
+desempaquetar_MSG6="开箱"
+desempaquetar_MSG7="尝试解压时出错"
+
+# comprime
+
+comprime_MSG1="压缩图像"
+comprime_MSG2="用 bzip2 压缩"
+comprime_MSG3="用 gzip 压缩"
+comprime_MSG4="用 xz 压缩"
+comprime_MSG5="上一个菜单"
+comprime_MSG6="跑步"
+comprime_MSG7="图片文件压缩完成"
+comprime_MSG8="错误压缩"
+comprime_MSG9="无效的压缩机"
+
+# descomprime
+
+descomprime_MSG1="输入文件路径："
+descomprime_MSG2="-----------"
+descomprime_MSG3="没有找到减压器"
+descomprime_MSG4="奥威尔"
+descomprime_MSG5="不存在"
+descomprime_MSG6="跑步"
+descomprime_MSG7="解压缩"
+descomprime_MSG8="尝试解压缩时出错"
+

@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExUkrainian/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Ucraniano para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="**************************** ПАРАМЕТРИ НАВІГАЦІЇ ************************"
+ayuda_gestor_de_archivos_MSG2="Переглянути файлову систему."
+ayuda_gestor_de_archivos_MSG3="X --> Вихід"
+ayuda_gestor_de_archivos_MSG4="A --> Попередній каталог"
+ayuda_gestor_de_archivos_MSG5="B --> Наступний каталог"
+ayuda_gestor_de_archivos_MSG6="Дії з файлами та каталогами."
+ayuda_gestor_de_archivos_MSG7="C --> Копіювати файл"
+ayuda_gestor_de_archivos_MSG8="M --> Перемістити файл"
+ayuda_gestor_de_archivos_MSG9="CD --> Копіювати каталог"
+ayuda_gestor_de_archivos_MSG10="MD --> Перемістити каталог"
+ayuda_gestor_de_archivos_MSG11="Розуміння дій з файлами та каталогами."
+ayuda_gestor_de_archivos_MSG12="Z --> Стиснути файл"
+ayuda_gestor_de_archivos_MSG13="DZ --> Розпакуйте файл"
+ayuda_gestor_de_archivos_MSG14="EZ --> Створіть пакет .tar.gz або .tar.bz2"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Розпакуйте .tar.gz або .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Поточний активний каталог"
+gestor_de_archivos_MSG0B="Файли в"
+gestor_de_archivos_MSG1="============================ ПАРАМЕТРИ НАВІГАЦІЇ ==========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> ДОПОМОГА="
+gestor_de_archivos_MSG3="============================================================================"
+gestor_de_archivos_MSG4="Введіть параметр"
+gestor_de_archivos_MSG5="Введіть каталог"
+gestor_de_archivos_MSG6="Введіть вихідний файл"
+gestor_de_archivos_MSG7="Введіть файл призначення"
+gestor_de_archivos_MSG8="Файл успішно скопійовано"
+gestor_de_archivos_MSG9="Помилка копіювання файлу"
+gestor_de_archivos_MSG10="Введіть вихідний файл"
+gestor_de_archivos_MSG11="Введіть файл призначення"
+gestor_de_archivos_MSG12="Файл успішно переміщено"
+gestor_de_archivos_MSG13="Помилка переміщення файлу"
+gestor_de_archivos_MSG14="Введіть вихідний каталог"
+gestor_de_archivos_MSG15="Введіть каталог призначення"
+gestor_de_archivos_MSG16="Каталог успішно скопійовано"
+gestor_de_archivos_MSG17="Помилка копіювання каталогу"
+gestor_de_archivos_MSG18="Введіть вихідний каталог"
+gestor_de_archivos_MSG19="Введіть каталог призначення"
+gestor_de_archivos_MSG20="Каталог успішно переміщено"
+gestor_de_archivos_MSG21="Помилка переміщення каталогу"
+gestor_de_archivos_MSG22="ФАЙЛ ДЛЯ СТИСНУВАННЯ"
+gestor_de_archivos_MSG23="Вкажіть шлях до файлу"

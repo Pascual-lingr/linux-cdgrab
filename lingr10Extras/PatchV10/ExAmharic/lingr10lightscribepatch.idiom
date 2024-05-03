@@ -1,0 +1,32 @@
+# Idioma Amárico para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="ለመቀጠል ENTERን ይጫኑ..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="============================="
+cabecera_lightscribe_MSG2="ሊኑክስ-ሲዲግራብ 1.0 የመብራት ጽሑፍ ድጋፍ።"
+cabecera_lightscribe_MSG3="============================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="በዲስክ ላይ ማተም የሚፈልጉትን የምስሉን መንገድ ይተይቡ:"
+imprimir_disco_lightscribe_MSG2="የምስል ቅርጸቱ .bmp መሆን አለበት"
+imprimir_disco_lightscribe_MSG3="እየሮጠ"
+imprimir_disco_lightscribe_MSG4="መለያ በዲስኩ ላይ ታትሟል"
+imprimir_disco_lightscribe_MSG5="መለያውን ወደ ዲስክ ማተም ላይ ስህተት"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="LightScribe ቴክኖሎጂ በአንዳንድ ክፍሎች ላይ ብቻ ነው ያለው"
+lingr10lightscribepatch_MSG2="መቅረጫዎ እንዳለው ማረጋገጥ አለብዎት።"
+lingr10lightscribepatch_MSG3="በተመሳሳይ መልኩ ልዩ ሲዲዎች ወይም ዲቪዲዎች ለብርሃን ስክሪብ ሊሰየሙ ይችላሉ"
+lingr10lightscribepatch_MSG4="የላይትስክሪብ ዲስክ ያትሙ"
+lingr10lightscribepatch_MSG5="የቀድሞው ምናሌ"
+lingr10lightscribepatch_MSG6="ልክ ያልሆነ አማራጭ"
+

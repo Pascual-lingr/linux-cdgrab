@@ -1,0 +1,135 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLuxembourgish/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Luxemburgués, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab kann den vi Texteditor net fannen"
+ayuda_MSG2="Gitt den Numm vun engem Texteditor un deen op Ärem System installéiert ass"
+ayuda_MSG3="KENG INSTALLÉIERT EDITOR FOND"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Datei automatesch vun LINUX-CDGRAB 1.0 generéiert"
+creacion_de_mnt_MSG2="Dëse Fichier zesumme mam Verzeechnes"
+creacion_de_mnt_MSG3="automatesch generéiert ginn"
+creacion_de_mnt_MSG4="vun der Linux-cdgrab Applikatioun wann Dir verifizéiert datt et net an Ärer Linux Verdeelung existéiert"
+creacion_de_mnt_MSG5="den Verzeichnis"
+creacion_de_mnt_MSG6="Linux-cdgrab benotzt dëse Verzeichnis fir säin CD-ROM/DVD-ROM/BD-ROM Drive ze montéieren"
+creacion_de_mnt_MSG7="Den Dossier"
+creacion_de_mnt_MSG8="et gëtt net geläscht wann Linux-cdgrab deinstalléiert ass well et normalerweis de"
+creacion_de_mnt_MSG9="Standard Mountpunkt fir /dev/cdrom op de meeschte Linux Verdeelungen."
+creacion_de_mnt_MSG10="Wann Är Verdeelung en anere Verzeechnes benotzt fir den Apparat /dev/cdrom ze montéieren,"
+creacion_de_mnt_MSG11="et erstellt keng Inkompatibilitéit wann Dir probéiert op d'Donnéeën op Ärer Eenheet ze kommen"
+creacion_de_mnt_MSG12="obwuel wann Linux-cdgrab deinstalléiert gouf, kënnt Dir ouni"
+creacion_de_mnt_MSG13="Den Zweck vun dësem Fichier ass nëmme fir Informatiounszwecker, Dir kënnt en eemol gelies fräi läschen."
+
+# creditos
+
+creditos_MSG1="Verdeelen ënner GPL v2 Lizenz"
+creditos_MSG2="Méi Informatiounen op www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, Ersteller an Ënnerhalter"
+creditos_MSG4="Bug Bericht: pascual89@hotmail.com"
+creditos_MSG5="Programm Websäit: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Baséiert op LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Opluedstatiounen"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SYNTAX"
+lcdgrab_sintaxis_MSG2="Dës Hëllef drécken"
+lcdgrab_sintaxis_MSG3="Dréckt d'Linux Versioun-cdgrab"
+lcdgrab_sintaxis_MSG4="spezifizéiert den IDE Kanal oder den Opnamapparat"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="spezifizéiert d'Opnahmgeschwindegkeet"
+lcdgrab_sintaxis_MSG7="spezifizéiert CD-ROM/DVD-ROM/BD-ROM Drive"
+lcdgrab_sintaxis_MSG8="spezifizéiert den IDE ATAPI Kanal vum Recorder"
+lcdgrab_sintaxis_MSG9="D'Optiounen -G -V -L an -CA implizéieren géigesäiteg."
+lcdgrab_sintaxis_MSG9B="D'-iut -ium -iug an -iuk Optiounen sinn onofhängeg vuneneen,"
+lcdgrab_sintaxis_MSG9C="Ergänzung zu -G -V -L an -CA, an onofhängeg tëscht -h an -v"
+lcdgrab_sintaxis_MSG10="D'-h an -v Optiounen sinn onofhängeg vuneneen an de Rescht."
+lcdgrab_sintaxis_MSG11="Beispiller:"
+lcdgrab_sintaxis_MSG12="Apparat"
+lcdgrab_sintaxis_MSG13="Nummer"
+lcdgrab_sintaxis_MSG14="Text Interface"
+lcdgrab_sintaxis_MSG15="Interface mat Ncurses"
+lcdgrab_sintaxis_MSG16="Grafik Interface mat GTK"
+lcdgrab_sintaxis_MSG17="Grafik Interface mat Qt"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Gitt de Skriptwee an:"
+main_lcdgrabopdep_MSG2="Invalid Wee"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Installéiert Patches:"
+main_lcdgrabopdeppatch_MSG2="Gitt de Patch Wee an:"
+main_lcdgrabopdeppatch_MSG3="Net fonnt"
+
+# menu principal dialog
+main_lcdgrabop9uidia="EROPLUEDEN ENG ZOUSÄTZLECH PATCH"
+
+# menu principal texto
+
+main_lcdgrabop1_text="OPSCHREIWEN OP CD\t\t\t="
+main_lcdgrabop2_text="DVD OPSCHREIWEN\t\t\t\t="
+main_lcdgrabop3_text="OPSCHREIWEN OP BD\t\t\t="
+main_lcdgrabop4_text="DISK DRIVE OPERATIOUNEN\t\t\t="
+main_lcdgrabop5_text="BILD CREATIOUN\t\t\t\t="
+main_lcdgrabop6_text="AUDIO KONVERSIOUN\t\t\t="
+main_lcdgrabop6b_text="VIDEO KONVERSIOUN\t\t\t="
+main_lcdgrabop7_text="MOUNT ODER ONMOUNT CD/DVD/BD\t\t="
+main_lcdgrabop8_text="MOUNT ODER UNMOUNT BILD\t\t\t="
+main_lcdgrabop9_text="EROPLUEDEN ENG ZOUSÄTZLECH PATCH\t="
+main_lcdgrabop10_text="CONTROL CENTRE\t\t\t\t="
+main_lcdgrabop0_text="RAUS GOEN\t\t\t\t="
+main_lcdgrabet1_text="ANER OPTIONEN ##\t\t="
+main_lcdgrabopEe_text="Eject Disk from Drive\t\t="
+main_lcdgrabopTD_text="Verzeechnes weisen"
+tabs="\t\t="
+main_lcdgrabopG_text="Fichier Manager\t\t\t="
+main_lcdgrabopH_text="Hëllef\t\t\t\t="
+main_lcdgrabopA_text="Iwwer\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="OPSCHREIWEN OP CD"
+main_lcdgrabop2="DVD OPSCHREIWEN"
+main_lcdgrabop3="OPSCHREIWEN OP BD"
+main_lcdgrabop4="DISK DRIVE OPERATIOUNEN"
+main_lcdgrabop5="BILD CREATIOUN"
+main_lcdgrabop6="AUDIO KONVERSIOUN"
+main_lcdgrabop6b="VIDEO KONVERSIOUN"
+main_lcdgrabop7="MOUNT ODER ONMOUNT CD/DVD/BD"
+main_lcdgrabop8="MOUNT ODER UNMOUNT BILD"
+main_lcdgrabop9="EROPLUEDEN ENG ZOUSÄTZLECH PATCH"
+main_lcdgrabop10="CONTROL CENTRE"
+main_lcdgrabop0="RAUS GOEN"
+main_lcdgrabet1="ANER OPTIONEN ##"
+main_lcdgrabopEe="Eject Disk from Drive"
+main_lcdgrabopTD="Verzeechnes weisen"
+main_lcdgrabopG="Fichier Manager"
+main_lcdgrabopH="Hëllef"
+main_lcdgrabopA="Iwwer"
+main_lcdgrabopPRINCIPAL="Eng Optioun anzeginn:"
+MSG1_MAIN="Auswielen H weist d'Benotzung vun Optiounen."
+main_lcdgrabopA_MSG1="Lafen op:"

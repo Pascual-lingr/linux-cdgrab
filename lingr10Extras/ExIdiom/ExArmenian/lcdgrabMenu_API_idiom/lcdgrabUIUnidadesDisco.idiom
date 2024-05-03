@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExArmenian/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Armenio para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="ՍԿՍԱՎՈՐՎԱԾ ԳՈՐԾՈՂՈՒԹՅՈՒՆՆԵՐ"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- ԿԱՐԵՎՈՐ -----------------------"
+MenuDispositivosBloque_MSG3="+ Մի կատարեք գրելու գործողություններ կոշտ սկավառակների վրա"
+MenuDispositivosBloque_MSG4="+ պատկերներ պարունակող սկավառակի բաժանումների մասին"
+MenuDispositivosBloque_MSG5="+ վերականգնում, boot partitions կամ ձեր սեփականը"
+MenuDispositivosBloque_MSG6="+ օպերացիոն համակարգի բաժանում."
+MenuDispositivosBloque_MSG7="+ Այս ընտրացանկի գրելու ընտրանքների սխալ օգտագործումը"
+MenuDispositivosBloque_MSG8="+ կարող է աղետ առաջացնել համակարգում։"
+MenuDispositivosBloque_MSG9="+ Օգտագործեք զգուշությամբ: Օգտագործեք սեփական ռիսկով:"
+MenuDispositivosBloque_MSG10="---------------------- ԳՐԵԼՈՒ ---------------------"
+MenuDispositivosBloque_MSG11="Գցեք պատկերի ֆայլը սկավառակի վրա"
+MenuDispositivosBloque_MSG11B="Թափել iso կամ img պատկերը (ինքնաբեռնվող) pendrive կամ USB սկավառակի վրա"
+MenuDispositivosBloque_MSG11C="Ոչ բոլոր տեղադրման համակարգերն են աջակցվում:"
+MenuDispositivosBloque_MSG12="Ձևաչափեք սկավառակը բնիկ Linux կամ Windows ֆայլային համակարգով"
+MenuDispositivosBloque_MSG13="-------------------- ԸՆԹԵՐՑՈՒՄ --------------------"
+MenuDispositivosBloque_MSG14="Ստեղծեք .img պատկեր սկավառակի կրիչից"
+MenuDispositivosBloque_MSG15="Նախորդ ընտրացանկ"
+MenuDispositivosBloque_MSG16="Մուտքագրեք տարբերակ"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------ԿԱՐԵՎՈՐ------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Ձևաչափել միավորը սարքերում օգտագործվող ֆայլային համակարգով"
+UIFormatearUnidad_linuxfs_MSG2B="+ կամ սկավառակի բաժանումներ։"
+UIFormatearUnidad_linuxfs_MSG3="+ Այս տարբերակը կջնջի միավորի բոլոր առկա տվյալները"
+UIFormatearUnidad_linuxfs_MSG4="+ Ֆայլային համակարգով ֆորմատավորված շարժական կրիչներ"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux-ը հասանելի կլինի միայն այս օպերացիոն համակարգով։"
+UIFormatearUnidad_linuxfs_MSG6="+ Օգտագործեք զգուշությամբ, օգտագործեք սեփական ռիսկով։"
+UIFormatearUnidad_linuxfs_MSG7="---------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="ՍԵՂՄԵՔ C ՍՏԵՂՆԸ ՇԱՐՈՒՆԱԿԵԼՈՒ համար (գործընթացը կչեղարկվի մեկ այլ տարբերակում)"
+

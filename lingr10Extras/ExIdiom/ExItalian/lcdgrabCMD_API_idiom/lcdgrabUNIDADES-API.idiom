@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExItalian/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en italiano para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Percorso dell'immagine .img o .ext2 da eseguire sul disco."
+volcar_imagen_MSG2="-----------------------IMPORTANTE----------------------------" 
+volcar_imagen_MSG3="+ Questa opzione non funziona sui dischi ottici."
+volcar_imagen_MSG4="+ Utilizzare su pendrive, floppy disk, partizioni di dischi, ecc. "
+volcar_imagen_MSG5="+ Considerazione con i dischi rigidi:"
+volcar_imagen_MSG6="+ L'immagine è scritta con gg dall'inizio"
+volcar_imagen_MSG7=" dal disco specificato, l'utilizzo di un numero non è consentito"
+volcar_imagen_MSG8="settore specifico per avviare il processo di scrittura"
+volcar_imagen_MSG9="+ Usare con cautela. Usare a proprio rischio."
+volcar_imagen_MSG10="+ Le partizioni del disco potrebbero diventare inutilizzabili."
+volcar_imagen_MSG11="+ Non è consigliabile utilizzarlo su sistemi multi-partizione."
+volcar_imagen_MSG12="Il ripristino potrebbe lasciare la tabella delle partizioni e"
+volcar_imagen_MSG13="partizioni inutili stesse."
+volcar_imagen_MSG14="-------------------------------------------------------------"
+volcar_imagen_MSG15="PREMERE IL TASTO C PER CONTINUARE; (Il processo verrà annullato in un'altra opzione)"
+volcar_imagen_MSG16="Specificare il percorso del file immagine da scaricare su disco: "
+volcar_imagen_MSG17="Monta l'output del comando:"
+volcar_imagen_MSG18="Specifica il dispositivo a blocchi su cui verrà scaricata l'immagine:"
+volcar_imagen_MSG19="SCARICA IMMAGINE"
+volcar_imagen_MSG20="SUL DISPOSITIVO"
+volcar_imagen_MSG21="correre"
+volcar_imagen_MSG22="PROCESSO DI DUMP DELL'IMMAGINE COMPLETATO"
+
+# volcar_iso
+
+volcar_iso_MSG1="Specifica il dispositivo a blocchi su cui scrivere l'immagine ISO:"
+volcar_iso_MSG2="AVVISO"
+volcar_iso_MSG2B="-----"
+volcar_iso_MSG3="Specifica il dispositivo a blocchi su cui scrivere."
+volcar_iso_MSG4="Esempi: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Non specificare una partizione appartenente a questo dispositivo"
+volcar_iso_MSG6="Esempi: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Specificare l'immagine iso-9660 o img da scrivere:"
+volcar_iso_MSG9="Processo completato"
+volcar_iso_MSG10="Errore nel processo di scrittura ISO"
+volcar_iso_MSG11="Specifica la dimensione del blocco per scrivere l'immagine"
+volcar_iso_MSG12="Seleziona l'opzione in base al sistema operativo da scrivere:"
+volcar_iso_MSG13="ISO-9660 o immagine IMG avviabile da flashare sul dispositivo:"
+volcar_iso_MSG14="Esci"
+volcar_iso_MSG15="FILE IMMAGINE ISO-9660 O IMG"
+volcar_ISO_MSG16="SELEZIONA IL SISTEMA OPERATIVO DA DESCRITRE NELL'UNITÀ"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Seleziona il file system con"
+Formateador_linuxfs_MSG2="il dispositivo verrà formattato:"
+Formateador_linuxfs_MSG3="Specificare il dispositivo a blocchi da formattare: "
+Formateador_linuxfs_MSG5="PROCESSO COMPLETATO"
+Formateador_linuxfs_MSG6="FORMATTATORE DISCO"
+Formateador_linuxfs_MSG7="Imposta etichetta volume"
+Formateador_linuxfs_MSG10="Specificare il nome dell'etichetta del volume"
+Formateador_linuxfs_MSG11="Nuova etichetta del volume"
+Formateador_linuxfs_MSG12="Specifica la dimensione del blocco"
+Formateador_linuxfs_MSG13="Nuova dimensione del blocco"
+Formateador_linuxfs_MSG14="Menu precedente"
+

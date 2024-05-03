@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDutch/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en Neerlandés para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Pad van .img- of .ext2-afbeelding om naar schijf te dumpen."
+volcar_imagen_MSG2="-----------------------BELANGRIJK----------------------------" 
+volcar_imagen_MSG3="+ Deze optie is niet functioneel op optische schijven."
+volcar_imagen_MSG4="+ Gebruik op pendrives, diskettes, schijfpartities, enz. "
+volcar_imagen_MSG5="+ Overweging met harde schijven:"
+volcar_imagen_MSG6="+ De afbeelding is vanaf het begin met dd geschreven"
+volcar_imagen_MSG7=" vanaf de opgegeven schijf, het gebruik van een nummer is niet toegestaan"
+volcar_imagen_MSG8="specifieke sector om het schrijfproces te starten"
+volcar_imagen_MSG9="+ Wees voorzichtig. Gebruik op eigen risico."
+volcar_imagen_MSG10="+ Schijfpartities kunnen onbruikbaar worden."
+volcar_imagen_MSG11="+ Het wordt niet aanbevolen om het te gebruiken op systemen met meerdere partities."
+volcar_imagen_MSG12="Het herstel kan de partitietabel verlaten en"
+volcar_imagen_MSG13="nutteloze partities zelf."
+volcar_imagen_MSG14="-------------------------------------------------------------"
+volcar_imagen_MSG15="DRUK OP DE C-TOETS OM DOOR TE GAAN; (Het proces wordt geannuleerd in een andere optie)"
+volcar_imagen_MSG16="Geef het pad op van het afbeeldingsbestand dat u naar schijf wilt dumpen: "
+volcar_imagen_MSG17="Mount opdrachtuitvoer:"
+volcar_imagen_MSG18="Specificeer het blokapparaat waar de afbeelding moet worden gedumpt:"
+volcar_imagen_MSG19="DUMPING AFBEELDING"
+volcar_imagen_MSG20="OP HET APPARAAT"
+volcar_imagen_MSG21="actief"
+volcar_imagen_MSG22="IMAGE DUMP PROCES VOLTOOID"
+
+# volcar_iso
+
+volcar_iso_MSG1="Specificeer het blokapparaat waarnaar de ISO-image moet worden geschreven:"
+volcar_iso_MSG2="LET OP"
+volcar_iso_MSG2B="-----"
+volcar_iso_MSG3="Specificeer het blokapparaat waarnaar moet worden geschreven."
+volcar_iso_MSG4="Voorbeelden: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Geef geen partitie op die bij dit apparaat hoort"
+volcar_iso_MSG6="Voorbeelden: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Specificeer de ISO-9660 afbeelding of img die u wilt schrijven:"
+volcar_iso_MSG9="Proces voltooid"
+volcar_iso_MSG10="Fout in ISO-schrijfproces"
+volcar_iso_MSG11="Specificeer de blokgrootte om de afbeelding te schrijven"
+volcar_iso_MSG12="Selecteer de optie om te schrijven op basis van het besturingssysteem:"
+volcar_iso_MSG13="ISO-9660 of opstartbare IMG-image om op apparaat te flashen:"
+volcar_iso_MSG14="Afsluiten"
+volcar_iso_MSG15="ISO-9660 OF IMG-BEELDBESTAND"
+volcar_ISO_MSG16="SELECTEER HET BESTURINGSSYSTEEM OM IN EEN EENHEID TE dumpen"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Selecteer het bestandssysteem met"
+Formateador_linuxfs_MSG2="het apparaat zal worden geformatteerd:"
+Formateador_linuxfs_MSG3="Specificeer het blokapparaat dat moet worden geformatteerd: "
+Formateador_linuxfs_MSG5="PROCES VOLTOOID"
+Formateador_linuxfs_MSG6="SCHIJFFORMAATTER"
+Formateador_linuxfs_MSG7="Volumelabel instellen"
+Formateador_linuxfs_MSG10="Specificeer de naam van het volumelabel"
+Formateador_linuxfs_MSG11="Nieuw volumelabel"
+Formateador_linuxfs_MSG12="Specificeer blokgrootte"
+Formateador_linuxfs_MSG13="Nieuwe blokgrootte"
+Formateador_linuxfs_MSG14="Vorige menu"
+

@@ -1,0 +1,23 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en Lao para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="ແປງວິດີໂອ"
+menu_conversion_video_MSG2="------------ ການ​ປ່ຽນ​ແປງ​ລະ​ຫວ່າງ​ຮູບ​ແບບ -----------"
+menu_conversion_video_MSG3="ປ່ຽນວິດີໂອເປັນ Blu Ray Disc Smart-TV ທີ່ເຂົ້າກັນໄດ້"
+menu_conversion_video_MSG4="ໄຟລ໌ວິດີໂອເພື່ອແປງ:"
+menu_conversion_video_MSG0="ເມນູກ່ອນໜ້າ"
+menu_conversion_video_MSG6="ບັນທຶກເຊດຊັນເດັສທັອບ"
+menu_conversion_video_MSG7="ປ່ຽນໄຟລ໌ວິດີໂອເປັນຮູບແບບທີ່ແຕກຕ່າງກັນ"
+menu_conversion_video_MSG8="----------------- ທາງເລືອກອື່ນ -----------------"
+menu_conversion_video_MSG9="ປະສົມໄຟລ໌ວິດີໂອກັບໄຟລ໌ສຽງ"
+menu_conversion_video_MSG10="ສະກັດສຽງ MP3 ອອກຈາກໄຟລ໌ວິດີໂອ"
+menu_conversion_video_MSG11="ຕັດໄຟລ໌ວິດີໂອ"

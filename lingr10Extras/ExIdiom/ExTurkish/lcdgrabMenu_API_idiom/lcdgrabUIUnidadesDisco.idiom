@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExTurkish/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Turco para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="DİSK SÜRÜCÜ İŞLEMLERİ"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- ÖNEMLİ -----------------------"
+MenuDispositivosBloque_MSG3="+ Sabit disklere yazma işlemleri yapmayın "
+MenuDispositivosBloque_MSG4="+ görüntüleri içeren disk bölümleri hakkında"
+MenuDispositivosBloque_MSG5="+ kurtarma, önyükleme bölümleri veya kendinizinki"
+MenuDispositivosBloque_MSG6="+ işletim sistemi bölümü."
+MenuDispositivosBloque_MSG7="+ Bu menünün yazma seçeneklerinin yanlış kullanımı "
+MenuDispositivosBloque_MSG8="+ sistemde bir felakete neden olabilir."
+MenuDispositivosBloque_MSG9="+ Dikkatli kullanın. Riski size ait olmak üzere kullanın."
+MenuDispositivosBloque_MSG10="---------------------- YAZI ----------------------"
+MenuDispositivosBloque_MSG11="Bir görüntü dosyasını disk sürücüsüne aktar"
+MenuDispositivosBloque_MSG11B="Iso veya img görüntüsünü (kendi kendine önyüklenebilir) pendrive veya USB diske boşalt"
+MenuDispositivosBloque_MSG11C="Tüm kurulum sistemleri desteklenmiyor."
+MenuDispositivosBloque_MSG12="Sürücüyü yerel Linux veya Windows dosya sistemiyle biçimlendir"
+MenuDispositivosBloque_MSG13="--------------------- OKUMA ----------------------"
+MenuDispositivosBloque_MSG14="Disk sürücüsünden .img görüntüsü oluştur"
+MenuDispositivosBloque_MSG15="Önceki menü"
+MenuDispositivosBloque_MSG16="Bir seçenek yazın"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="----------------------------ÖNEMLİ--------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Cihazlarda kullanılan dosya sistemine sahip format birimi"
+UIFormatearUnidad_linuxfs_MSG2B="+ veya disk bölümleri."
+UIFormatearUnidad_linuxfs_MSG3="+ Bu seçenek ünitedeki tüm mevcut verileri silecektir"
+UIFormatearUnidad_linuxfs_MSG4="+ Dosya sistemiyle biçimlendirilmiş çıkarılabilir sürücüler"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux'a yalnızca bu işletim sistemi altında erişilebilecektir."
+UIFormatearUnidad_linuxfs_MSG6="+ Dikkatli kullanın, riski size ait olmak üzere kullanın."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="DEVAM ETMEK İÇİN C TUŞUNA BASIN (Başka bir seçenekte işlem iptal edilecektir)"
+

@@ -1,0 +1,32 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFrench/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en francés para el menu de conversion de Audio.
+# Traducción experimetal, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="CONVERSION AUDIO"
+menu_conversion_audio_MSG2="------------ CONVERSION ENTRE FORMATS -----------"
+menu_conversion_audio_MSG3="Convertir .mp3 en .wav"
+menu_conversion_audio_MSG4="Convertir .ogg en .wav"
+menu_conversion_audio_MSG5="Convertir .wav en .mp3"
+menu_conversion_audio_MSG6="Convertir .wav en .ogg"
+menu_conversion_audio_MSG6C="Convertir .wav en .flac"
+menu_conversion_audio_MSG6B="Convertir .flac en .wav"
+menu_conversion_audio_MSG7="----------- EXTRACTION DE PISTE AUDIO -----------"
+menu_conversion_audio_MSG8="Extraire un CD audio en .wav"
+menu_conversion_audio_MSG9="Extraire un ensemble de pistes audio en .wav"
+menu_conversion_audio_MSG10="Extraire un CD audio en .mp3"
+menu_conversion_audio_MSG11="Extraire un CD audio en .ogg"
+menu_conversion_audio_MSG0="Menu précédent"
+menu_conversion_audio_MSG12="Rechercher des fichiers .mp3"
+menu_conversion_audio_MSG13="Rechercher des fichiers .ogg"
+menu_conversion_audio_MSG14="Rechercher des fichiers .wav"
+menu_conversion_audio_MSG15="--------------- AUTRES OPÉRATIONS ---------------"
+menu_conversion_audio_MSG16="Couper le fichier audio .wav"
+menu_conversion_audio_MSG17="Extraire un CD audio en .flac"

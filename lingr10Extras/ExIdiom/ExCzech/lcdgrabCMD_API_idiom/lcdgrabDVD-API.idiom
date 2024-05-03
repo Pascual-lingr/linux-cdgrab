@@ -1,0 +1,171 @@
+#########################################################
+# lcdgrabAPI_idiom/ExCzech/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Checo para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Nahrávací zařízení jako"
+buscar_grabadora_MSG1B="Platné"
+buscar_grabadora_MSG2="Nahrávací zařízení jako"
+buscar_grabadora_MSG2B="Chyba"
+buscar_grabadora_MSG3="Nástroje dvd+-rw-tools nepřijímají, že záznamové zařízení je"
+buscar_grabadora_MSG4="Abyste mohli vypalovat DVD pomocí dvd+rw-tools, musíte zadat svůj vypalovač jako blokové zařízení"
+buscar_grabadora_MSG5="Příklad"
+buscar_grabadora_MSG6="nebo"
+buscar_grabadora_MSG7="Zobrazuje se existující systémová zařízení v /dev"
+buscar_grabadora_MSG8="Zadejte blokové zařízení, které odpovídá vašemu DVD rekordéru"
+buscar_grabadora_MSG9="Nebyl zadán žádný typ záznamníku ani možnost."
+buscar_grabadora_MSG10="ZAŘÍZENÍ NAKONFIGUROVANÉ PRO ZÁZNAMNÍK"
+buscar_grabadora_MSG11="Záznamové zařízení bylo exportováno do prostředí shellu jako"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Možná hodnota platná pouze pro cdrecord"
+buscar_grabadoralb_MSG2="Aktuální konfigurace pro záznamník je"
+buscar_grabadoralb_MSG3="Zkontrolujte, zda tato konfigurace odpovídá hodnotě přiřazené cdrskin"
+buscar_grabadoralb_MSG4="Skenování IDE/SCSI portu pomocí cdrskin..."
+buscar_grabadoralb_MSG5="Určete novou hodnotu, která bude použita s cdrskin:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Zadejte název budoucího DVD:"
+datos_dvd_MSG2="NAHRÁVÁNÍ DVD ..."
+datos_dvd_MSG3="Používám"
+datos_dvd_MSG4="běží"
+datos_dvd_MSG5="DVD ÚSPĚŠNĚ NAHRANO!"
+datos_dvd_MSG6="Mkisofs nebo genisoimage nelze nalézt, nainstalujte cdrtools nebo cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Zadejte název budoucího DVD:"
+datos_dvd_multi_MSG2="ZÁZNAM DVD ..."
+datos_dvd_multi_MSG3="Používám"
+datos_dvd_multi_MSG4="běh"
+datos_dvd_multi_MSG5="DVD ÚSPĚŠNĚ NAHRANO!"
+datos_dvd_multi_MSG6="Mkisofs nebo genisoimage nelze nalézt, nainstalujte cdrtools nebo cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="NAHRÁVÁNÍ OBRAZU . . ."
+grabimg_dvd_MSG2="Běh"
+grabimg_dvd_MSG3="! OBRÁZEK ​​DVD ÚSPĚŠNĚ NAHRAZEN!"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="NAHRÁVÁNÍ OBRAZU NA DVD . . ."
+copia_bin_dvd_MSG2="Běh"
+copia_bin_dvd_MSG3="	ODSTRANĚNÍ OBRÁZKOVÉHO SOUBORU"
+copia_bin_dvd_MSG4="NAHRÁVÁNÍ DOKONČENO!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Formátovat a"
+formatear_dvd_MSG2="Vynutit nový formát pro a"
+formatear_dvd_MSG3="Přemístit zaváděcí blok a"
+formatear_dvd_MSG4="Formátovat DVD-RW na sekvenční přírůstkové"
+formatear_dvd_MSG5="Formátovat DVD-RW na omezené přepisování"
+formatear_dvd_MSG6="Vyplňte DVD nulami"
+formatear_dvd_MSG7="Zobrazit informace o DVD"
+formatear_dvd_MSG8="Předchozí nabídka"
+formatear_dvd_MSG9="Tato volba se používá k prvnímu formátování DVD."
+formatear_dvd_MSG10="Pokud je DVD již naformátováno, nevymaže data."
+formatear_dvd_MSG11="Tyto budou přepsány v nové nahrávce."
+formatear_dvd_MSG12="Pro smazání obsahu DVD použijte:"
+formatear_dvd_MSG13="Vyplňte DVD nulami"
+formatear_dvd_MSG14="Tato volba odstraní formát a data z ošetřeného DVD."
+formatear_dvd_MSG15="běží"
+formatear_dvd_MSG16="DVD+RW/DVD-RW ÚSPĚŠNĚ Zformátováno!"
+formatear_dvd_MSG17="CHYBA PŘI FORMÁTOVÁNÍ DVD"
+formatear_dvd_MSG18="Vynucení formátu na disku DVD+RW..."
+formatear_dvd_MSG19="DVD+RW ÚSPĚŠNĚ Zformátováno!"
+formatear_dvd_MSG20="CHYBA PŘI FORMÁTOVÁNÍ DVD+RW"
+formatear_dvd_MSG21="Tato volba neovlivňuje data uložená na DVD+RW"
+formatear_dvd_MSG22="Odstranění zaváděcího bloku z DVD+RW..."
+formatear_dvd_MSG23="Formátování disku DVD-RW na sekvenční zápis..."
+formatear_dvd_MSG24="DVD-RW ÚSPĚŠNĚ Zformátováno!"
+formatear_dvd_MSG25="CHYBA PŘI FORMÁTOVÁNÍ DVD-RW"
+formatear_dvd_MSG26="Formátování disku DVD-RW na omezené přepisování..."
+formatear_dvd_MSG27="VYMAZAT PŘEPISOVATELNÉ DVD"
+
+# null_dvd
+
+null_dvd_MSG1="Zápis na disk z /dev/zero . . ."
+null_dvd_MSG2="Běh"
+null_dvd_MSG3="PROCES DOKONČEN"
+null_dvd_MSG4="NEOČEKÁVANÁ CHYBA"
+
+# dvd_video
+
+dvd_video_MSG1="Cesta, kde jsou umístěny adresáře VIDEO_TS a AUDIO_TS:"
+dvd_video_MSG2="Uveďte cestu, kde jsou umístěny adresáře VIDEO_TS a AUDIO_TS:"
+dvd_video_MSG3="Běh"
+dvd_video_MSG4="--- ÚSPĚŠNĚ NAHRANÉ DVD-VIDEO ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="Běh"
+dvd_copia_bin_MSG2=" SMAZÁNÍ SOUBORU OBRÁZKU"
+dvd_copia_bin_MSG3="VYSTALO SE CHYBA NAHRÁVÁNÍ"
+
+# dvd_datos
+
+dvd_datos_MSG1="Soubory a adresáře pro vytvoření obrazu .iso"
+dvd_datos_MSG2="ŠTÍTEK DVD"
+dvd_datos_MSG3="Zadejte název budoucího DVD:"
+dvd_datos_MSG4="Spouštím správce souborů:"
+dvd_datos_MSG5="	VYTVÁŘENÍ OBRÁZKU . . ."
+dvd_datos_MSG6="Běh"
+dvd_datos_MSG7="OBRÁZEK ​​ISO-9660 VYTVOŘEN V"
+dvd_datos_MSG8="		VYPALOVÁNÍ DVD"
+dvd_datos_MSG13="ODSTRANĚNÍ OBRÁZKU..."
+
+# dvd_borra
+
+dvd_borra_MSG1="Běh"
+dvd_borra_MSG2="OPTICKÝ DISK ÚSPĚŠNĚ FORMÁTOVÁN"
+dvd_borra_MSG3="CHYBA PŘI FORMÁTOVÁNÍ OPTICKÉHO DISKU"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="Běh"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="Běh"
+formatearCDDVDBD_MSG2="OPTICKÝ DISK ÚSPĚŠNĚ FORMÁTOVÁN"
+formatearCDDVDBD_MSG3="CHYBA PŘI FORMÁTOVÁNÍ OPTICKÉHO DISKU"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW úspěšně naformátováno!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Chyba při formátování DVD-RW na omezené přepisování"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW úspěšně zformátováno!!"
+formatearDVDRW_incremental_secuencial_MSG2="Chyba při formátování DVD-RW na sekvenční přírůstkové"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Určete cestu k obrazu iso-9660 k vypálení:"
+cdrskinisocddvd_MSG2="ISO OBRÁZEK ​​ÚSPĚŠNĚ NAHRAZEN!!"
+cdrskinisocddvd_MSG3="CHYBA PŘI NAHRÁVÁNÍ OBRÁZKU"
+

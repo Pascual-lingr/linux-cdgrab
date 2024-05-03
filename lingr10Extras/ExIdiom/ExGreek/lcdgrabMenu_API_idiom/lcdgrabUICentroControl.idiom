@@ -1,0 +1,281 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGreek/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Griego para el Interfaz del Centro de Control
+# Traducción experimetal, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Διαμόρφωση Linux-cdgrab"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Αν δεν ξέρετε σε ποιο κανάλι IDE ανήκει"
+ayuda_IDE_MSG2="η συσκευή εγγραφής σας μπορεί να το μάθει πατώντας το γράμμα t."
+ayuda_IDE_MSG3="Ένα παράδειγμα καναλιού IDE μπορεί να είναι 0,0,0 ή 0,1,0"
+ayuda_IDE_MSG4="Μπορείτε επίσης να καθορίσετε την αντίστοιχη συσκευή"
+ayuda_IDE_MSG5="στην συσκευή εγγραφής σας. Εάν δεν ξέρετε ποια είναι σίγουρα, πατήστε d,"
+ayuda_IDE_MSG6="για προβολή των συσκευών που είναι καταχωρημένες στο αρχείο /etc/fstab"
+ayuda_IDE_MSG7="Ένα παράδειγμα συσκευών θα μπορούσε να είναι οι /dev/hdd, /dev/hde κ.λπ."
+ayuda_IDE_MSG8="Εάν θέλετε, μπορείτε επίσης να παραθέσετε όλες τις συσκευές που περιέχονται"
+ayuda_IDE_MSG9="στον κατάλογο /dev πατώντας το γράμμα l."
+ayuda_IDE_MSG10="Πρέπει να καθορίσετε το κανάλι IDE ή τη συσκευή εγγραφής"
+ayuda_IDE_MSG11="αλλά όχι και τα δύο."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab έχει απεγκατασταθεί από το σύστημά σας"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="ταχύτητα εγγραφής"
+imprimir_variables_MSG2="Κανάλι IDE/SCSI ή συσκευή εγγραφής"
+imprimir_variables_MSG3="Συσκευή ανάγνωσης CD-ROM, DVD-ROM ή BD-ROM"
+imprimir_variables_MSG4="Συσκευή ATAPI"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="ταχύτητα εγγραφής"
+imprimir_lcdgrabcfg_MSG2="Κανάλι IDE/SCSI ή συσκευή εγγραφής"
+imprimir_lcdgrabcfg_MSG3="Συσκευή ανάγνωσης CD-ROM, DVD-ROM ή BD-ROM"
+imprimir_lcdgrabcfg_MSG4="Συσκευή ATAPI"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Εγκαταστάθηκε"
+chequeo_de_aplicaciones_MSG2="ΔΕΝ ΕΓΚΑΤΑΣΤΑΘΗΚΕ"
+chequeo_de_aplicaciones_MSG3="Εγκατάσταση"
+chequeo_de_aplicaciones_MSG4="ΣΗΜΑΝΤΙΚΟ:"
+chequeo_de_aplicaciones_MSG5="Η εγκατάσταση των απαραίτητων εργαλείων Linux-cdgrab θα λειτουργήσει πλήρως"
+chequeo_de_aplicaciones_MSG6="Όλα τα προγράμματα που χρειάζεται το Linux-cdgrab είναι εγκατεστημένα στο σύστημά σας"
+chequeo_de_aplicaciones_MSG4B="ΣΗΜΕΙΩΣΗ:"
+chequeo_de_aplicaciones_MSG5B="Βρέθηκαν εργαλεία που λείπουν"
+chequeo_de_aplicaciones_MSG6B="Εργαλεία εγκατεστημένα στο σύστημα"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="Se asigna 0,0,0 por defecto a esta variable"
+msgdefCANALATAPI_MSG2="El fichero de configuracion se escribira con CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Το αρχείο διαμόρφωσης δημιουργείται αυτόματα από το Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG5="δεν βρέθηκε η εγγραφή cdre στο σύστημα"
+nuevo_lcdgrabcfg_MSG6="Εγκαταστήστε το πακέτο cdrtools."
+nuevo_lcdgrabcfg_MSG7="Μπορείτε να συνεχίσετε τη διαμόρφωση καθορίζοντας τις τιμές"
+nuevo_lcdgrabcfg_MSG8="ηχογράφηση εάν τους γνωρίζετε προηγουμένως."
+nuevo_lcdgrabcfg_MSG9="Η εντολή cdrecord χρησιμοποιείται για την εγγραφή δίσκων CD, DVD και BD"
+nuevo_lcdgrabcfg_MSG10="Αυτές οι επιλογές δεν θα λειτουργούν μέχρι να εγκατασταθεί το εν λόγω πακέτο."
+nuevo_lcdgrabcfg_MSG11="Το εργαλείο σάρωσης μονάδας δίσκου, που υπάρχει, επίσης δεν θα είναι λειτουργικό"
+nuevo_lcdgrabcfg_MSG12="σε αυτόν τον οδηγό διαμόρφωσης."
+nuevo_lcdgrabcfg_MSG13="Το Linux-cdgrab πρέπει να ρυθμιστεί στα ακόλουθα τέσσερα βήματα"
+nuevo_lcdgrabcfg_MSG14="Πρώτο βήμα."
+nuevo_lcdgrabcfg_MSG15="Ταχύτητα εγγραφής:"
+nuevo_lcdgrabcfg_MSG16="Μόνο ένας αριθμός 2,4,8,16,32... κλπ"
+nuevo_lcdgrabcfg_MSG17="Δεύτερο βήμα."
+nuevo_lcdgrabcfg_MSG18="Κανάλι IDE/SCSI ή συσκευή εγγραφής:"
+nuevo_lcdgrabcfg_MSG19="A -> βοήθεια"
+nuevo_lcdgrabcfg_MSG20="Σάρωση..."
+nuevo_lcdgrabcfg_MSG21="Σφάλμα σάρωσης θύρας IDE/SCSI"
+nuevo_lcdgrabcfg_MSG22="Η εγγραφή δεν βρέθηκε"
+nuevo_lcdgrabcfg_MSG23="Τρίτο βήμα."
+nuevo_lcdgrabcfg_MSG24="Συσκευή CD-ROM, DVD-ROM ή BD-ROM"
+nuevo_lcdgrabcfg_MSG25="L -> Λίστα διαθέσιμων συσκευών"
+nuevo_lcdgrabcfg_MSG26="Σάρωση..."
+nuevo_lcdgrabcfg_MSG27="Η θύρα IDE/SCSI σαρώθηκε"
+nuevo_lcdgrabcfg_MSG28="Συσκευή που θα χρησιμοποιηθεί από το cdrecord μέσω dev=ATAPI σε εγγραφές πολλαπλών περιόδων σύνδεσης"
+nuevo_lcdgrabcfg_MSG30="Η συσκευή έχει μια ονοματολογία όπως 0,0,0 ή 1,0,0 κ.λπ."
+nuevo_lcdgrabcfg_MSG31="Καθορίστε τη συσκευή για κλήση cdrecord σε CD πολλαπλών συνεδριών: "
+nuevo_lcdgrabcfg_MSG32="Η διαμόρφωση δεν είναι σωστή για το CANALATAPI"
+nuevo_lcdgrabcfg_MSG33="Σφάλμα σάρωσης θύρας IDE/SCSI"
+nuevo_lcdgrabcfg_MSG34="Η εγγραφή δεν βρέθηκε"
+nuevo_lcdgrabcfg_MSG36="Το αρχείο διαμόρφωσης δημιουργείται αυτόματα από το Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG37="Η ΔΙΑΜΟΡΦΩΣΗ LINUX-CDGRAB ΟΛΟΚΛΗΡΩΘΗΚΕ"
+
+# colores
+
+colores_MSG1="Δεν είναι δυνατή η εύρεση της λίστας των χρωμάτων"
+colores_MSG2="Φόρτωση προεπιλεγμένων χρωμάτων"
+colores_MSG3="Επιλογή νέου συνδυασμού χρωμάτων για τη διεπαφή LINUX-CDGRAB"
+colores_MSG4="ΜΑΥΡΗ ΓΡΑΜΜΑΤΙΣΤΗ"
+colores_MSG5="ΚΑΝΟΝΙΚΗ ΦΩΤΕΙΝΗ γραμματοσειρά"
+colores_MSG6="ΧΡΩΜΑ ΜΑΥΡΟ ΦΟΝΤΟΣ"
+colores_MSG7="ΚΟΚΚΙΝΗ ΓΡΑΜΜΑΤΙΣΤΗ"
+colores_MSG8="ΦΩΤΕΙΝΗ ΜΑΥΡΗ ΓΡΑΜΜΑΤΙΣΤΗ"
+colores_MSG9="ΚΟΚΚΙΝΟ ΧΡΩΜΑ ΦΟΝΤΟΥ"
+colores_MSG10="ΠΡΑΣΙΝΗ ΓΡΑΜΜΗ"
+colores_MSG11="ΦΩΤΕΡΟ ΚΟΚΚΙΝΟ ΣΥΝΡΗΝΗ"
+colores_MSG12="ΠΡΑΣΙΝΟ ΧΡΩΜΑ ΦΟΝΤΟΥ"
+colores_MSG13="ΚΙΤΡΙΝΗ ΓΡΑΜΤΟΣΤΑΣΗ"
+colores_MSG14="ΦΩΤΕΙΝΗ ΠΡΑΣΙΝΗ ΓΡΑΜΜΑΤΟΣΕΙΡΑ"
+colores_MSG15="ΠΟΡΤΟΚΑΛΙ ΧΡΩΜΑ ΦΟΝΤΟΥ"
+colores_MSG16="ΜΠΛΕ ΓΡΑΜΜΑΤΙΣΤΗ"
+colores_MSG17="ΦΩΤΕΙΝΗ ΚΙΤΡΙΝΗ γραμματοσειρά"
+colores_MSG18="ΜΠΛΕ ΧΡΩΜΑ ΦΟΝΤΟΥ"
+colores_MSG19="MAGENTA FONT"
+colores_MSG20="ΦΩΤΕΙΝΗ ΜΠΛΕ ΓΡΑΜΜΑΤΙΣΤΗ"
+colores_MSG21="ΧΡΩΜΑ ΦΟΝΤΟΥ MAGENTA"
+colores_MSG22="CYAN SOURCE"
+colores_MSG23="ΦΩΤΕΙΝΗ ΜΑΓΕΝΤΑ γραμματοσειρά"
+colores_MSG24="ΚΥΑΝΟ ΧΡΩΜΑ ΦΟΝΤΟΥ"
+colores_MSG25="ΓΚΡΙΖΑ ΓΡΑΜΜΑΤΣΑ"
+colores_MSG26="ΚΥΑΝΟ ΧΡΩΜΑ ΦΟΝΤΟΥ"
+colores_MSG27="ΦΩΤΕΙΝΗ ΚΥΑΝΗ ΓΡΑΜΜΑΤΟΣΕΡΑ"
+colores_MSG28="ΓΚΡΙ ΧΡΩΜΑ ΦΟΝΤΟΥ"
+colores_MSG29="ΠΡΟΕΠΙΛΟΓΗ ΠΗΓΗ"
+colores_MSG30="ΦΩΤΕΙΝΗ ΛΕΥΚΗ ΓΡΑΜΜΑΤΟΣΕΙΡΑ"
+colores_MSG31="ΠΡΟΕΠΙΛΟΓΗΜΕΝΟ ΧΡΩΜΑ ΦΟΝΤΟΥ"
+colores_MSG32="Αριθμός χρώματος για τη γραμματοσειρά: "
+colores_MSG33="Αριθμός χρώματος για το φόντο: "
+colores_MSG34="Αριθμός χρώματος για προειδοποιητικά μηνύματα: "
+colores_MSG35="Αριθμός χρώματος για μηνύματα ετικέτας: "
+colores_MSG36="Αριθμός χρώματος για επιτυχώς ολοκληρωμένες διεργασίες"
+colores_MSG37="Αριθμός χρώματος για διεργασίες που τερματίστηκαν με σφάλμα: "
+colores_MSG38="Νέος συνδυασμός για LINUX-CDGRAB"
+colores_MSG39="ΓΕΝΙΚΟ ΧΡΩΜΑ ΓΡΑΜΜΑΤΣΩΝ"
+colores_MSG40="ΕΤΙΚΕΤΕΣ"
+colores_MSG41="ΕΙΔΟΠΟΙΗΣΕΙΣ"
+colores_MSG42="ΕΠΙΤΥΧΙΑ"
+colores_MSG43="ΣΦΑΛΜΑ"
+colores_MSG44="ΧΡΩΜΑ ΥΠΟΔΟΧΕΙΟΥ"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="ΛΙΣΤΑ ΔΙΑΘΕΣΙΜΩΝ ΧΡΩΜΑΤΩΝ:"
+cambiar_esquema_de_color_MSG2="#####ΧΡΩΜΑΤΙΚΑ ΣΧΗΜΑΤΑ#######"
+cambiar_esquema_de_color_MSG3="----------------------------------"
+cambiar_esquema_de_color_MSG4="Μενού χρώματος"
+cambiar_esquema_de_color_MSG5="Απέτυχε"
+cambiar_esquema_de_color_MSG6="Ετικέτες"
+cambiar_esquema_de_color_MSG6b="Ειδοποιήσεις"
+cambiar_esquema_de_color_MSG7="Έγχρωμο μενού ΟΚ Ετικέτες προειδοποιήσεων αποτυχίας"
+cambiar_esquema_de_color_MSG8="Εισαγάγετε τον αριθμό του νέου χρώματος:"
+cambiar_esquema_de_color_MSG9="ΜΗ ΕΓΚΥΡΗ ΕΠΙΛΟΓΗ"
+cambiar_esquema_de_color_MSG10="ΡΥΘΜΙΣΗ ΠΡΟΕΠΙΛΟΓΗΜΕΝΩΝ ΧΡΩΜΑΤΩΝ."
+cambiar_esquema_de_color_MSG11=" BACKGROUND = BLUE_BACKGROUND"
+cambiar_esquema_de_color_MSG12="FONT = ΛΑΜΠΡΟ ΛΕΥΚΟ"
+cambiar_esquema_de_color_MSG13=" ΠΡΟΕΙΔΟΠΟΙΗΣΕΙΣ = ΦΩΤΕΙΝΟ ΚΙΤΡΙΝΟ"
+cambiar_esquema_de_color_MSG14=" ΣΦΑΛΜΑΤΑ = ΦΩΤΕΡΟ ΚΟΚΚΙΝΟ"
+cambiar_esquema_de_color_MSG15=" ΣΦΑΛΜΑΤΑ = ΦΩΤΕΡΟ ΚΟΚΚΙΝΟ"
+cambiar_esquema_de_color_MSG16=" HITS = ΛΑΜΠΡΟ ΠΡΑΣΙΝΟ"
+cambiar_esquema_de_color_MSG17=" ΕΤΙΚΕΤΕΣ = ΦΩΤΕΙΝΟ ΚΥΑΝΟ"
+
+# cambia_lector
+
+cambia_lector_MSG1="ΔΙΑΜΟΡΦΩΣΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΓΙΑ ΟΠΤΙΚΕΣ ΜΟΝΑΔΕΣ"
+cambia_lector_MSG2="Τρέχουσα συσκευή που σχετίζεται με το CD-ROM, το DVD-ROM ή το BD-ROM"
+cambia_lector_MSG3="Τρέχουσα συσκευή που σχετίζεται με το CD/DVD/BD Burner"
+cambia_lector_MSG4="Τρέχουσα συσκευή που σχετίζεται με την παράμετρο dev=ATAPI"
+cambia_lector_MSG5="(υποστήριξη πολλαπλών περιόδων σύνδεσης για cdrecord)"
+cambia_lector_MSG6="Επιλέξτε τη συσκευή στην οποία θα γίνει η αλλαγή."
+cambia_lector_MSG7="Εισαγωγή επιλογής:"
+cambia_lector_MSG8="Εισαγάγετε το όνομα της νέας συσκευής"
+cambia_lector_MSG9="δεν αντιστοιχεί σε συσκευή μπλοκ"
+cambia_lector_MSG10="Συσκευή"
+cambia_lector_MSG11="ανατέθηκε από προεπιλογή"
+cambia_lector_MSG12="Η νέα συσκευή είναι:"
+cambia_lector_MSG13="Δεν δέχονται όλες οι εκδόσεις του cdrecord μια συσκευή μπλοκ ως παράμετρο εγγραφής"
+cambia_lector_MSG14="Εισαγάγετε το όνομα της νέας συσκευής ATAPI"
+cambia_lector_MSG15="Η διαμόρφωση δεν είναι σωστή για το CANALATAPI"
+cambia_lector_MSG16="0,0,0 εκχωρείται από προεπιλογή σε αυτήν τη μεταβλητή"
+cambia_lector_MSG17="Το αρχείο διαμόρφωσης θα γραφτεί με CANALATAPI = 0,0,0"
+cambia_lector_MSG18="Η νέα συσκευή είναι:"
+cambia_lector_MSG19="ΔΕΝ ΓΙΝΟΝΤΑΙ ΑΛΛΑΓΕΣ ΣΤΙΣ ΣΥΣΚΕΥΕΣ"
+cambia_lector_MSG4B="Εξαγωγή τιμών από το αρχείο διαμόρφωσης"
+cambia_lector_MSG4C="ΑΥΤΕΣ ΟΙ ΤΙΜΕΣ ΑΝΑΦΕΡΘΗΚΑΝ ΣΤΟ ΠΕΡΙΒΑΛΛΟΝ:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Από αυτό το μενού μπορείτε να επιλέξετε ποιο βοηθητικό πρόγραμμα"
+cambia_generador_isocd_MSG2="θα χρησιμοποιηθεί για τη δημιουργία εικόνων ISO-9660"
+cambia_generador_isocd_MSG3="από υπάρχοντα CD στη μονάδα ανάγνωσης."
+cambia_generador_isocd_MSG4="Τρέχουσα διαμόρφωση:"
+cambia_generador_isocd_MSG5="Χρήση dd (συστατικό GNU coreutils)"
+cambia_generador_isocd_MSG6="Χρήση readcd (συστατικό cdrtools)"
+cambia_generador_isocd_MSG7="Προηγούμενο μενού."
+cambia_generador_isocd_MSG8="Επιλέξτε μια επιλογή:"
+cambia_generador_isocd_MSG9="Χρήση dd ως γεννήτρια iso."
+cambia_generador_isocd_MSG10="Χρήση readcd ως γεννήτρια iso."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Ρύθμιση μεταδεδομένων HFS μαζί με Rock Ridge και Joliet"
+establecer_hfs_iso_MSG2="Χρησιμοποιήστε μόνο μεταδεδομένα Rock Ridge and Joliet"
+establecer_hfs_iso_MSG3="Προηγούμενο μενού."
+establecer_hfs_iso_MSG4="Επιλέξτε μια επιλογή:"
+establecer_hfs_iso_MSG5="Χρήση μεταδεδομένων HFS, Rock Ridge και Joliet"
+establecer_hfs_iso_MSG6="Χρήση μεταδεδομένων Rock Ridge και Joliet"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Τρέχον σύστημα ειδοποιήσεων"
+cambia_notificaciones_MSG2A="Γραφική διεπαφή GNOME"
+cambia_notificaciones_MSG2B="Γραφική διεπαφή KDE"
+cambia_notificaciones_MSG2="Διεπαφή με ncurses"
+cambia_notificaciones_MSG3="Διεπαφή κειμένου"
+cambia_notificaciones_MSG4="Έξοδος"
+cambia_notificaciones_MSG5="Επιλέξτε μια επιλογή:"
+cambia_notificaciones_MSG6="Χρήση διεπαφής με διάλογο"
+cambia_notidicaciones_MSG6B="Χρήση διεπαφής με zenity"
+cambia_notidicaciones_MSG6C="Χρήση διεπαφής με kdialog"
+cambia_notificaciones_MSG7="Η εντολή διαλόγου δεν βρέθηκε"
+cambia_notificaciones_MSG8="Χρήση διεπαφής κειμένου"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Γλώσσα σε χρήση:"
+cambiar_idioma_UI_MSG1="Διαθέσιμες γλώσσες:"
+cambiar_idioma_UI_MSG2="Εισαγάγετε το όνομα της γλώσσας που θα χρησιμοποιηθεί"
+cambiar_idioma_UI_MSG3="στη διεπαφή της εφαρμογής:"
+cambiar_idioma_UI_MSG4="Η νέα γλώσσα που χρησιμοποιείται είναι:"
+cambiar_idioma_UI_MSG5="Επανεκκίνηση LINUX-CDGRAB"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Τρέχουσα διαμόρφωση"
+seleccion_gestor_archivos_MSG2="Χρήση mc"
+seleccion_gestor_archivos_MSG3="Χρήση ενσωματωμένης διαχείρισης κειμένου"
+seleccion_gestor_archivos_MSG4="Δεν μπορεί να βρεθεί το mc εγκατεστημένο στο σύστημα"
+seleccion_gestor_archivos_MSG5="Χρήση της ενσωματωμένης διαχείρισης κειμένου από προεπιλογή"
+seleccion_gestor_archivos_MSG6="βοηθητικό πρόγραμμα mc"
+seleccion_gestor_archivos_MSG7="Ολοκληρωμένο κείμενο"
+
+# centro_de_control
+
+centro_de_control_MSG1="ΚΕΝΤΡΟ ΕΛΕΓΧΟΥ"
+centro_de_control_MSG2="Νέα διαμόρφωση"
+centro_de_control_MSG3="Διαγραφή αρχείου διαμόρφωσης"
+centro_de_control_MSG4="Εμφάνιση αρχείου και τρέχουσες τιμές διαμόρφωσης"
+centro_de_control_MSG5="ΤΙΜΕΣ ΑΡΧΕΙΟΥ ΔΙΑΜΟΡΦΩΣΗΣ:"
+centro_de_control_MSG5B="ΤΡΕΧΟΥΣΑ ΔΙΑΜΟΡΦΩΣΗ ΧΡΗΣΙΜΟΠΟΙΕΙΤΑΙ ΣΤΟ ΠΕΡΙΒΑΛΛΟΝ:"
+centro_de_control_MSG6="Αλλαγή οπτικού μέσου"
+centro_de_control_MSG7="Έλεγχος εγκατεστημένων προγραμμάτων"
+centro_de_control_MSG8="Σάρωση της θύρας IDE/SCSI με cdrecord"
+centro_de_control_MSG8C="Σάρωση της θύρας IDE/SCSI με cdrskin"
+centro_de_control_MSG8B="Κατάλογος μονάδων που είναι εγκατεστημένες στο σύστημα με cdrskin"
+centro_de_control_MSG9="Αλλαγή του βοηθητικού προγράμματος δημιουργίας iso από CD"
+centro_de_control_MSG9B="Ορισμός μεταδεδομένων HFS για iso-9660"
+centro_de_control_MSG10="Αλλαγή διεπαφής χρήστη"
+centro_de_control_MSG10b="Αλλαγή χρώματος"
+centro_de_control_MSG10c="Αλλαγή γλώσσας διεπαφής"
+centro_de_control_MSG11="Αλλαγή διαχείρισης αρχείων"
+centro_de_control_MSG11B="Κατάργηση εγκατάστασης προγράμματος"
+centro_de_control_MSG12="Πληκτρολογήστε μια επιλογή: "
+centro_de_control_MSG13="ΤΟ ΑΡΧΕΙΟ ΔΙΑΜΟΡΦΩΣΗΣ ΔΕΝ ΥΠΑΡΧΕΙ"
+centro_de_control_MSG14="ΔΕΝ ΒΡΕΘΗΚΕ ΤΟ ΑΡΧΕΙΟ ΔΙΑΜΟΡΦΩΣΗΣ"
+centro_de_control_MSG15="Σάρωση"
+centro_de_control_MSG16="Η θύρα IDE/SCSI σαρώθηκε"
+centro_de_control_MSG17="Σφάλμα σάρωσης θύρας IDE/SCSI"
+centro_de_control_MSG18="Επιλογή συνδυασμού χρωμάτων"
+centro_de_control_MSG19="Επιλογή χρωμάτων αυθαίρετα"
+centro_de_control_MSG20="Προηγούμενο μενού"
+centro_de_control_MSG21="Πληκτρολογήστε μια επιλογή: "
+centro_de_control_MSG22="ΤΟ ΑΡΧΕΙΟ ΔΙΑΜΟΡΦΩΣΗΣ ΔΕΝ ΥΠΑΡΧΕΙ"
+centro_de_control_MSG23="ΔΕΝ ΒΡΕΘΗΚΕ ΤΟ ΑΡΧΕΙΟ ΔΙΑΜΟΡΦΩΣΗΣ"
+centro_de_control_MSG24="Επιλογή συνδυασμού χρωμάτων"
+centro_de_control_MSG25="Επιλογή χρωμάτων αυθαίρετα"
+centro_de_control_MSG26="Μη έγκυρη επιλογή"

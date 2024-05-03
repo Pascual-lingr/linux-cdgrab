@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwedish/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en sueco para el menu de conversión de Audio.
+# Traducción experimental, generado con google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="LJUDKONVERING"
+menu_conversion_audio_MSG2="----------- KONVERTERING MELLAN FORMAT -----------"
+menu_conversion_audio_MSG3="Konvertera .mp3 till .wav"
+menu_conversion_audio_MSG4="Konvertera .ogg till .wav"
+menu_conversion_audio_MSG5="Konvertera .wav till .mp3"
+menu_conversion_audio_MSG6="Konvertera .wav till .ogg"
+menu_conversion_audio_MSG6C="Konvertera .wav till .flac"
+menu_conversion_audio_MSG6B="Konvertera .flac till .wav"
+menu_conversion_audio_MSG7="---------------- EXTRAHERA LJUDSPÅR --------------"
+menu_conversion_audio_MSG8="Rippa en ljud-CD till .wav"
+menu_conversion_audio_MSG9="Rippa en uppsättning ljudspår till .wav"
+menu_conversion_audio_MSG10="Rippa en ljud-CD till .mp3"
+menu_conversion_audio_MSG11="Rippa en ljud-cd till .ogg"
+menu_conversion_audio_MSG0="Föregående meny"
+menu_conversion_audio_MSG12="Sök efter .mp3-filer"
+menu_conversion_audio_MSG13="Sök efter .ogg-filer"
+menu_conversion_audio_MSG14="Sök efter .wav-filer"
+menu_conversion_audio_MSG15="--------------- ANDRA OPERATIONER ----------------"
+menu_conversion_audio_MSG16="Klipp ut .wav-ljudfil"
+menu_conversion_audio_MSG17="Rippa en ljud-cd till .flac"
+

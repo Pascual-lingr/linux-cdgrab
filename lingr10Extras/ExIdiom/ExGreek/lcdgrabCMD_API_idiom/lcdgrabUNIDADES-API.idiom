@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGreek/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en griego para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Διαδρομή της εικόνας .img ή .ext2 για απόθεση στο δίσκο."
+volcar_imagen_MSG2="-----------------------ΣΗΜΑΝΤΙΚΟ-----------------"
+volcar_imagen_MSG3="+ Αυτή η επιλογή δεν είναι λειτουργική σε οπτικούς δίσκους."
+volcar_imagen_MSG4="+ Χρήση σε pendrives, δισκέτες, διαμερίσματα δίσκων κ.λπ. "
+volcar_imagen_MSG5="+ Εξέταση με σκληρούς δίσκους:"
+volcar_imagen_MSG6="+ Η εικόνα είναι γραμμένη με dd από την αρχή"
+volcar_imagen_MSG7=" από τον καθορισμένο δίσκο, δεν επιτρέπεται η χρήση αριθμού"
+volcar_imagen_MSG8="συγκεκριμένος τομέας για την έναρξη της διαδικασίας γραφής"
+volcar_imagen_MSG9="+ Χρήση με προσοχή. Χρήση με δική σας ευθύνη."
+volcar_imagen_MSG10="+ Τα διαμερίσματα δίσκου ενδέχεται να μην μπορούν να χρησιμοποιηθούν."
+volcar_imagen_MSG11="+ Δεν συνιστάται η χρήση του σε συστήματα πολλαπλών διαμερισμάτων."
+volcar_imagen_MSG12=" Η επαναφορά μπορεί να φύγει από τον πίνακα διαμερισμάτων και"
+volcar_imagen_MSG13="άχρηστα διαμερίσματα."
+volcar_imagen_MSG14="-------------------------------------------------"
+volcar_imagen_MSG15="ΠΑΤΗΣΤΕ ΤΟ ΠΛΗΚΤΡΟ C ΓΙΑ ΣΥΝΕΧΕΙΑ; (Η διαδικασία θα ακυρωθεί σε άλλη επιλογή)"
+volcar_imagen_MSG16="Καθορίστε τη διαδρομή του αρχείου εικόνας για απόθεση στο δίσκο: "
+volcar_imagen_MSG17="Εξόδου εντολής προσάρτησης:"
+volcar_imagen_MSG18="Καθορίστε τη συσκευή μπλοκ όπου θα απορριφθεί η εικόνα:"
+volcar_imagen_MSG19="ΕΙΚΟΝΑ ΑΝΤΙΜΕΤΩΠΙΣΗ"
+volcar_imagen_MSG20="ΣΤΗ ΣΥΣΚΕΥΗ"
+volcar_imagen_MSG21="τρέχει"
+volcar_imagen_MSG22="ΟΛΟΚΛΗΡΩΘΗΚΕ Η ΔΙΑΔΙΚΑΣΙΑ ΑΠΟΡΡΙΨΗΣ ΕΙΚΟΝΩΝ"
+
+# volcar_iso
+
+volcar_iso_MSG1="Καθορίστε τη συσκευή μπλοκ στην οποία θα γράψετε την εικόνα iso:"
+volcar_iso_MSG2="ΕΙΔΟΠΟΙΗΣΗ"
+volcar_iso_MSG2B="----------"
+volcar_iso_MSG3="Καθορίστε τη συσκευή αποκλεισμού για εγγραφή."
+volcar_iso_MSG4="Παραδείγματα: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Μην καθορίσετε ένα διαμέρισμα που ανήκει σε αυτήν τη συσκευή"
+volcar_iso_MSG6="Παραδείγματα: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Καθορίστε την εικόνα iso-9660 ή την εικόνα img για εγγραφή:"
+volcar_iso_MSG9="Η διαδικασία ολοκληρώθηκε"
+volcar_iso_MSG10="Σφάλμα στη διαδικασία εγγραφής ISO"
+volcar_iso_MSG11="Καθορίστε μέγεθος μπλοκ για να γράψετε την εικόνα"
+volcar_iso_MSG12="Επιλέξτε την επιλογή σύμφωνα με το λειτουργικό σύστημα για εγγραφή:"
+volcar_iso_MSG13="ISO-9660 ή bootable εικόνα IMG για να αναβοσβήνει στη συσκευή:"
+volcar_iso_MSG14="Έξοδος"
+volcar_iso_MSG15="ΑΡΧΕΙΟ ΕΙΚΟΝΑΣ ISO-9660 Ή IMG"
+volcar_ISO_MSG16="ΕΠΙΛΕΞΤΕ ΤΟ ΛΕΙΤΟΥΡΓΙΚΟ ΣΥΣΤΗΜΑ ΓΙΑ ΑΠΟΡΡΙΨΗ ΣΤΗ ΜΟΝΑΔΑ"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Επιλέξτε το σύστημα αρχείων με"
+Formateador_linuxfs_MSG2="θα μορφοποιηθεί η συσκευή:"
+Formateador_linuxfs_MSG3="Καθορίστε τη συσκευή αποκλεισμού προς διαμόρφωση: "
+Formateador_linuxfs_MSG5="Η ΔΙΑΔΙΚΑΣΙΑ ΟΛΟΚΛΗΡΩΘΗΚΕ"
+Formateador_linuxfs_MSG6="ΜΟΡΦΗ ΔΙΣΚΟΥ"
+Formateador_linuxfs_MSG7="Ορισμός ετικέτας τόμου"
+Formateador_linuxfs_MSG10="Καθορίστε το όνομα της ετικέτας τόμου"
+Formateador_linuxfs_MSG11="Νέα ετικέτα τόμου"
+Formateador_linuxfs_MSG12="Καθορισμός μεγέθους μπλοκ"
+Formateador_linuxfs_MSG13="Νέο μέγεθος μπλοκ"
+Formateador_linuxfs_MSG14="Προηγούμενο μενού"
+

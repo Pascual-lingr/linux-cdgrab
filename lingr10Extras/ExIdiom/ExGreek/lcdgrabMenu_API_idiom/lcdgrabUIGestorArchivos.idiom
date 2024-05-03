@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGreek/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Griego para el gestor de archivos, experimental, generado con
+# Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* ΕΠΙΛΟΓΕΣ ΠΛΟΗΓΗΣΗΣ ************************"
+ayuda_gestor_de_archivos_MSG2="Περιηγηθείτε στο σύστημα αρχείων."
+ayuda_gestor_de_archivos_MSG3="X --> Πήγαινε έξω"
+ayuda_gestor_de_archivos_MSG4="A --> Προηγούμενος κατάλογος"
+ayuda_gestor_de_archivos_MSG5="B --> Επόμενος κατάλογος"
+ayuda_gestor_de_archivos_MSG6="Ενέργειες σε αρχεία και καταλόγους."
+ayuda_gestor_de_archivos_MSG7="C --> Αντιγραφή αρχείου"
+ayuda_gestor_de_archivos_MSG8="M --> Μετακίνηση αρχείου"
+ayuda_gestor_de_archivos_MSG9="CD --> Αντιγραφή καταλόγου"
+ayuda_gestor_de_archivos_MSG10="MD --> Μετακίνηση καταλόγου"
+ayuda_gestor_de_archivos_MSG11="Κατανόηση ενεργειών σε αρχεία και καταλόγους."
+ayuda_gestor_de_archivos_MSG12="Z --> Συμπίεση αρχείου"
+ayuda_gestor_de_archivos_MSG13="DZ --> Αποσυμπιέστε ένα αρχείο"
+ayuda_gestor_de_archivos_MSG14="EZ --> Δημιουργήστε ένα πακέτο .tar.gz ή .tar.bz2"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Αποσυσκευάστε ένα .tar.gz ή .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*********************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Τρέχων ενεργός κατάλογος"
+gestor_de_archivos_MSG0B="Αρχεία σε"
+gestor_de_archivos_MSG1="============================= ΕΠΙΛΟΓΕΣ ΠΛΟΗΓΗΣΗΣ =========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> ΒΟΗΘΕΙΑ="
+gestor_de_archivos_MSG3="==========================================================================="
+gestor_de_archivos_MSG4="Πληκτρολογήστε μια επιλογή"
+gestor_de_archivos_MSG5="Πληκτρολογήστε κατάλογο"
+gestor_de_archivos_MSG6="Πληκτρολογήστε το αρχείο προέλευσης"
+gestor_de_archivos_MSG7="Πληκτρολογήστε το αρχείο προορισμού"
+gestor_de_archivos_MSG8="Το αρχείο αντιγράφηκε με επιτυχία"
+gestor_de_archivos_MSG9="Σφάλμα αντιγραφής αρχείου"
+gestor_de_archivos_MSG10="Πληκτρολογήστε το αρχείο προέλευσης"
+gestor_de_archivos_MSG11="Πληκτρολογήστε το αρχείο προορισμού"
+gestor_de_archivos_MSG12="Το αρχείο μετακινήθηκε με επιτυχία"
+gestor_de_archivos_MSG13="Σφάλμα μετακίνησης αρχείου"
+gestor_de_archivos_MSG14="Πληκτρολογήστε τον κατάλογο πηγής"
+gestor_de_archivos_MSG15="Πληκτρολογήστε τον κατάλογο προορισμού"
+gestor_de_archivos_MSG16="Ο κατάλογος αντιγράφηκε με επιτυχία"
+gestor_de_archivos_MSG17="Σφάλμα αντιγραφής καταλόγου"
+gestor_de_archivos_MSG18="Πληκτρολογήστε τον κατάλογο προέλευσης"
+gestor_de_archivos_MSG19="Πληκτρολογήστε τον κατάλογο προορισμού"
+gestor_de_archivos_MSG20="Ο κατάλογος μετακινήθηκε με επιτυχία"
+gestor_de_archivos_MSG21="Σφάλμα μετακίνησης καταλόγου"
+gestor_de_archivos_MSG22="ΑΡΧΕΙΟ ΓΙΑ ΣΥΜΠΙΕΣΗ"
+gestor_de_archivos_MSG23="Καθορίστε τη διαδρομή αρχείου"

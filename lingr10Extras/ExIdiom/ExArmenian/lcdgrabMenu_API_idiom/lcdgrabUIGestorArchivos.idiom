@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExArmenian/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Armenio para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* ՆԱՎԻԳԱՑՄԱՆ ՏԱՐԲԵՐԱԿՆԵՐ ************************"
+ayuda_gestor_de_archivos_MSG2="Զննեք ֆայլային համակարգը:"
+ayuda_gestor_de_archivos_MSG3="X --> Դուրս գալ"
+ayuda_gestor_de_archivos_MSG4="A --> Նախորդ գրացուցակը"
+ayuda_gestor_de_archivos_MSG5="B --> Հաջորդ գրացուցակը"
+ayuda_gestor_de_archivos_MSG6="Գործողություններ ֆայլերի և գրացուցակների վրա:"
+ayuda_gestor_de_archivos_MSG7="C --> Պատճենել ֆայլը"
+ayuda_gestor_de_archivos_MSG8="M --> Տեղափոխել ֆայլը"
+ayuda_gestor_de_archivos_MSG9="CD --> Պատճենել գրացուցակը"
+ayuda_gestor_de_archivos_MSG10="MD --> Տեղափոխել գրացուցակը"
+ayuda_gestor_de_archivos_MSG11="Հասկանալով ֆայլերի և գրացուցակների գործողությունները:"
+ayuda_gestor_de_archivos_MSG12="Z --> Սեղմեք ֆայլը"
+# Resultado del traductor
+ayuda_gestor_de_archivos_MSG13="DZ --> Unzip ֆայլը"
+ayuda_gestor_de_archivos_MSG14="EZ --> Ստեղծեք .tar.gz կամ .tar.bz2 փաթեթ"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Բացեք փաթեթավորումը .tar.gz կամ .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Ներկայիս ակտիվ գրացուցակը"
+gestor_de_archivos_MSG0B="Ֆայլեր"
+gestor_de_archivos_MSG1="============================ ՆԱՎԻԳԱՑՄԱՆ ՏԱՐԲԵՐԱԿՆԵՐ =========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> ՕԳՆՈՒԹՅՈՒՆ="
+gestor_de_archivos_MSG3="=============================================================================="
+gestor_de_archivos_MSG4="Մուտքագրեք տարբերակ"
+gestor_de_archivos_MSG5="Տպել գրացուցակը"
+gestor_de_archivos_MSG6="Մուտքագրեք սկզբնաղբյուր ֆայլը"
+gestor_de_archivos_MSG7="Մուտքագրեք նպատակակետ ֆայլը"
+gestor_de_archivos_MSG8="Ֆայլը հաջողությամբ պատճենվեց"
+gestor_de_archivos_MSG9="Ֆայլը պատճենելիս սխալ"
+gestor_de_archivos_MSG10="Մուտքագրեք աղբյուրի ֆայլը"
+gestor_de_archivos_MSG11="Մուտքագրեք նպատակակետ ֆայլը"
+gestor_de_archivos_MSG12="Ֆայլը հաջողությամբ տեղափոխվեց"
+gestor_de_archivos_MSG13="Ֆայլի տեղափոխման սխալ"
+gestor_de_archivos_MSG14="Մուտքագրեք աղբյուրի գրացուցակը"
+gestor_de_archivos_MSG15="Մուտքագրեք նպատակակետը"
+gestor_de_archivos_MSG16="Տեղեկատուն հաջողությամբ պատճենվեց"
+gestor_de_archivos_MSG17="Սխալ պատճենել գրացուցակը"
+gestor_de_archivos_MSG18="Մուտքագրեք աղբյուրի գրացուցակը"
+gestor_de_archivos_MSG19="Մուտքագրեք նպատակակետը"
+gestor_de_archivos_MSG20="Գրացուցակը հաջողությամբ տեղափոխվեց"
+gestor_de_archivos_MSG21="Սխալ՝ գրացուցակը տեղափոխելու համար"
+gestor_de_archivos_MSG22="ՖԱՅԼԸ ԿՈՄՊՐԵՍԻ"
+gestor_de_archivos_MSG23="Նշեք ֆայլի ուղին"

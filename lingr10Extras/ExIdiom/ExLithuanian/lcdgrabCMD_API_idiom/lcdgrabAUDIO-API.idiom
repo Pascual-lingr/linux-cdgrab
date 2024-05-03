@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLithuanian/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Lituano para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3 FAILAI KONVERTINIAI"
+mp3awav_MSG0="Įveskite .mp3 failų kelią: "
+mp3awav_MSG1="KONVERTAVIMAS"
+mp3awav_MSG1B=" Į .wav FORMATĄ"
+mp3awav_MSG2="veikia"
+mp3awav_MSG3="Atranka nustatyta į 44100 Mhz"
+mp3awav_MSG4="Klaida apdorojant atranką"
+mp3awav_MSG5="Nepavyko konvertuoti"
+mp3awav_MSG6="Katalogas nerastas"
+mp3awav_MSG7="GARSO KONVERSIJOS PABAIGA"
+mp3awav_MSG8="Garso failo normalizavimas"
+mp3awav_MSG9="Failas"
+mp3awav_MSG10="Normalizuota"
+mp3awav_MSG11="Normalizavimo klaida"
+
+# oggawav
+
+oggawav_MSG0="OGG FAILAI, KETINTI KONVERTUOTI"
+oggawav_MSG1="Įveskite .ogg failų kelią: "
+oggawav_MSG2="KONVERTAVIMAS"
+oggawav_MSG2B="A .wav FORMATAS"
+oggawav_MSG3="veikia"
+oggawav_MSG4="Atranka nustatyta į 44100 Mhz"
+oggawav_MSG5="Klaida apdorojant atranką"
+oggawav_MSG6="Nepavyko konvertuoti"
+oggawav_MSG7="Katalogas nerastas"
+oggawav_MSG8="GARSO APDOROJIMO PABAIGA"
+oggawav_MSG9="Garso failo normalizavimas"
+oggawav_MSG10="Failas"
+oggawav_MSG11="Normalizuota"
+oggawav_MSG12="Normalizavimo klaida"
+
+# cdawav
+
+cdawav_MSG1="GARSO CD PRAŠYMAS..."
+cdawav_MSG2="Vykdoma:"
+cdawav_MSG3="SĖKMINGAI PAGRINDINTI GARSO TAKAS!!"
+cdawav_MSG4="Garso failų katalogo turinys"
+cdawav_MSG5="KLAIDA PRAŠYJANT GARSO TAKAS"
+
+# cddawav
+
+cddawav_MSG1="Įveskite NAUDOJIMŲ TAIKŲ SKAIČIŲ:"
+cddawav_MSG2="Paspauskite Crtl + c, kad atšauktumėte takelio kopijavimą"
+cddawav_MSG3="Vykdoma:"
+cddawav_MSG4="SĖKMINGAI NUTRAUKTA"
+cddawav_MSG5="KLAIDA PRAŠYTI"
+
+# wavamp3
+
+wavamp3_MSG0="WAV FAILAI, KELIAI KONVERTUOTI"
+wavamp3_MSG1="Įveskite .wav failų kelią: "
+wavamp3_MSG1B="KONVERTAVIMAS"
+wavamp3_MSG2="A FORMATAS"
+wavamp3_MSG3="Vykdoma:"
+wavamp3_MSG4="konvertuojant"
+wavamp3_MSG5="į .MP3 formatą"
+wavamp3_MSG6="Klaida konvertuojant"
+wavamp3_MSG7="GARSO KONVERSIJA BAIGTA"
+wavamp3_MSG8="GARSO KATALOGAS NErastas"
+
+# cdamp3
+
+cdamp3_MSG1="GARSO CD PRAŠYMAS..."
+cdamp3_MSG2="Vykdoma:"
+cdamp3_MSG3="SĖKMINGAI PAGRINDINTI GARSO TAKAS!!"
+cdamp3_MSG4="KLAIDA PRAŠYJANT GARSO TAKAS"
+cdamp3_MSG5="Skambinimo funkcija:"
+
+# wavaogg
+
+wavaogg_MSG1="Įveskite .wav failų kelią: "
+wavaogg_MSG2="KONVERTAVIMAS"
+wavaogg_MSG3="A .ogg FORMATAS"
+wavaogg_MSG4="Veikia:"
+wavaogg_MSG5="Klaida konvertuojant"
+wavaogg_MSG6="į .ogg formatą"
+
+# cdaogg
+
+cdaogg_MSG1="GARSO CD PRAŠYMAS..."
+cdaogg_MSG2="Vykdoma:"
+cdaogg_MSG3="SĖKMINGAI PAGRINDINTI GARSO TAKAS!!"
+cdaogg_MSG4="KLAIDA PRAŠYJANT GARSO TAKAS"
+cdaogg_MSG5="Skambinimo funkcija:"
+
+# corta_wav
+
+corta_wav_MSG0="Sekundžių skaičius:"
+corta_wav_MSG1="Nurodykite konvertuojamo garso failo kelią:"
+corta_wav_MSG2="Nurodykite laiką sekundžių skaičiumi, kuriam"
+corta_wav_MSG3="prasidės failo iškirpimas."
+corta_wav_MSG4="-PASTABA-"
+corta_wav_MSG5="Jei norite nurodyti garso pradžią, įveskite 0"
+corta_wav_MSG6="Vertė sekundėmis norint pradėti konversiją:"
+corta_wav_MSG7="Nurodykite laiką sekundžių skaičiumi, kuriam"
+corta_wav_MSG8="failo iškirpimas bus baigtas."
+corta_wav_MSG9="Konversijos pabaigos vertė sekundėmis:"
+corta_wav_MSG10="Veikia"
+corta_wav_MSG11="Apkarpytas garso failas"
+corta_wav_MSG12="Klaida apkarpant failą"
+corta_wav_MSG13="Garso failas, kurį reikia apkarpyti:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV GARSO"
+flacawav_MSG1="Nurodykite .flac failų kelią:"
+flacawav_MSG2="KONVERTAVIMAS"
+flacawav_MSG3=" Į .wav FORMATĄ"
+flacawav_MSG4="Atranka nustatyta į 44100 Mhz"
+flacawav_MSG5="Klaida apdorojant atranką"
+flacawav_MSG6="Garso failo normalizavimas"
+flacawav_MSG7="Failas"
+flacawav_MSG8="Normalizuota"
+flacawav_MSG9="Normalavimo klaida"
+flacawav_MSG10="Nepavyko konvertuoti"
+flacawav_MSG11="Katalogas nerastas"
+flacawav_MSG12="GARSO KONVERSIJOS PABAIGA"
+
+# wavaflac
+
+wavaflac_MSG0="WAV FAILAI, KETINTI KONVERTUOTI"
+wavaflac_MSG1="Įveskite .wav failų kelią: "
+wavaflac_MSG2="KONVERTAVIMAS"
+wavaflac_MSG3="A .flac FORMATAS"
+wavaflac_MSG4="konvertuotas į flac formatą"
+wavaflac_MSG5="Klaida konvertuojant"
+wavaflac_MSG6="į .flac formatą"
+wavaflac_MSG7="FLAC failų katalogas NErastas"
+

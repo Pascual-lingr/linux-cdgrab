@@ -1,0 +1,77 @@
+# Spanish languaje to ReiserFS Support for LINUX-CDGRAB 1.0
+# Experimental, generate by Google Translate from English file
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Experimental translatión, generated in some parts by google translator.
+# Distribute under the same license of Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Presione ENTER para continuar..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="========================================="
+cabecera_interfaz_MSG2="SOPORTE DE REISERFS PARA LINUX-CDGRAB 1.0"
+cabecera_interfaz_MSG3="========================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Salir del comando de montaje:"
+formatear_disco_reiserfs_MSG2="Especifique el dispositivo de bloque a formatear: "
+formatear_disco_reiserfs_MSG3="Dispositivo formateado correctamente"
+formatear_disco_reiserfs_MSG4="Error al formatear el dispositivo"
+formatear_disco_reiserfs_MSG5="PROCESO COMPLETADO"
+formatear_disco_reiserfs_MSG6="Desmontando dispositivo..."
+formatear_disco_reiserfs_MSG7="Formateando unidad en ReiserFS..."
+formatear_disco_reiserfs_MSG8="Ejecutando"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="FORMATEADO EXITOSAMENTE"
+formatear_img_reiserfs_MSG2="ERROR AL FORMATEAR EL ARCHIVO VACÍO"
+formatear_img_reiserfs_MSG3="Generando archivo vacío..."
+formatear_img_reiserfs_MSG4="Ejecutando"
+formatear_img_reiserfs_MSG5="Formateando archivo vacío en ReiserFS..."
+formatear_img_reiserfs_MSG6="GENERACIÓN DE ARCHIVO VACÍO CON TAMAÑO PERSONALIZADO"
+formatear_img_reiserfs_MSG7="Especifique el tamaño del archivo vacío a generar (solo un valor numérico):"
+formatear_img_reiserfs_MSG8="Medidas de espacio para generar el archivo vacío:"
+formatear_img_reiserfs_MSG9="Especifique la medida del espacio a utilizar: "
+formatear_img_reiserfs_MSG10="ERROR AL ESPECIFICAR LA MEDIDA DE TALLA"
+formatear_img_reiserfs_MSG11="Valor de tamaño de bloque:"
+formatear_img_reiserfs_MSG12="Cantidad de espacio para archivo vacío:"
+formatear_img_reiserfs_MSG13="Valor calculado en bytes:"
+formatear_img_reiserfs_MSG14="Valor calculado para el recuento:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Crear imagen para un CD-R/RW (702 Mbytes)"
+m_img_CDDVDBD_reiserfs_MSG2="Crear imagen para un DVD+RW (4 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG3="Crear imagen para un DVD+RW/DL (8 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG4="Crear imagen para un BD-R/RE (25 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG5="Crear archivo de imagen con tamaño personalizado"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Salir"
+imgr_tmp_MSG1="Eliminar todos los archivos de imagen reiserfs"
+imgr_tmp_MSG2="Montar o desmontar archivo de imagen"
+imgr_tmp_MSG3="Archivos de imagen en"
+imgr_tmp_MSG4="Seleccione opción"
+imgr_tmp_MSG5="Archivos de imagen eliminados"
+imgr_tmp_MSG6="Montar archivo de imagen"
+imgr_tmp_MSG7="Desmontar archivo de imagen"
+imgr_tmp_MSG8="Archivo de imagen montado"
+imgr_tmp_MSG9="Archivo de imagen desmontado"
+imgr_tmp_MSG10="Opción no válida"
+imgr_tmp_MSG11="Especifique el archivo de imagen para montar o desmontar:"
+imgr_tmp_MSG12="Error al montar el archivo de imagen"
+imgr_tmp_MSG13="Error al desmontar el archivo de imagen"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Format drive in ReiserFS"
+lingr10reiserfspatch_MSG2="Create ReiserFS image for CD/DVD/BD"
+lingr10reiserfspatch_MSG3="Operations on ReiserFS images"
+lingr10reiserfspatch_MSG4="Invalid option"
+lingr10reiserfspatch_MSG0="Exit"
+

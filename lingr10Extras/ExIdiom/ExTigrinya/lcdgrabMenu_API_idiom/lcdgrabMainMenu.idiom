@@ -1,0 +1,139 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTigrinya/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Tigriña, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab ነቲ vi ጽሑፍ ኣርታዒ ክረኽቦ ኣይከኣለን።"
+ayuda_MSG2="ኣብ ስርዓትካ ዝተተኽለ ናይ ጽሑፍ ኣርታዒ ስም ኣእቱ።"
+ayuda_MSG3="ዝተተኽለ ኣርታዒ ኣይተረኽበን"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="ፋይል ብኣውቶማቲክ ብ LINUX-CDGRAB 1.0 ዝፍጠር።"
+creacion_de_mnt_MSG2="እዚ ፋይል ምስቲ ማህደር።"
+creacion_de_mnt_MSG3="ብኣውቶማቲክ ተፈጢሮም።"
+creacion_de_mnt_MSG4="ብመተግበሪ ሊኑክስ-cdgrab ኣብ ዝርገሐ ሊኑክስካ ከምዘይነበረ ኣብ እተረጋግጽሉ እዋን።"
+creacion_de_mnt_MSG5="እቲ ማህደር።"
+creacion_de_mnt_MSG6="Linux-cdgrab ነዚ ማህደር እዚ CD-ROM/DVD-ROM/BD-ROM ድራይቭ ንምስቃል ይጥቀመሉ።"
+creacion_de_mnt_MSG7=" እቲ ማህደር። "
+creacion_de_mnt_MSG8="መብዛሕትኡ ግዜ እቲ ስለ ዝኾነ Linux-cdgrab እንተተኣልዩ ኣይድምሰስን እዩ ። "
+creacion_de_mnt_MSG9="ነባሪ ነጥቢ ምትካል ን /dev/cdrom ኣብ መብዛሕትኡ ዝርግሐታት ሊኑክስ።"
+creacion_de_mnt_MSG10="ዝርገሐኻ ነቲ መሳርሒ /dev/cdrom ንምስቃል ካልእ ማህደር እንተተጠቒሙ"
+creacion_de_mnt_MSG11="ኣብ ኣሃዱኻ ዘሎ ዳታ ክትረኽቦ ኣብ እትፍትነሉ እዋን ዝኾነ ዘይምስምማዕ ኣይፈጥርን እዩ።"
+creacion_de_mnt_MSG12="ዋላ እኳ Linux-cdgrab እንተተኣልዩ ብዘይ"
+creacion_de_mnt_MSG13="ዕላማ ናይዚ ፋይል ንሓበሬታ ጥራይ እዩ፣ ሓንሳብ ምስ ኣንበብካ ብናጽነት ክትድምስሶ ትኽእል ኢኻ።"
+
+# creditos
+
+creditos_MSG1="ብመሰረት GPL v2 ፍቓድ ምዝርጋሕ"
+creditos_MSG2="ተወሳኺ ሓበሬታ ኣብ www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, ፈጣርን ሓላዊን ምዃኑ’ዩ።"
+creditos_MSG4="ጸብጻብ ስሕተት: pascual89@hotmail.com"
+creditos_MSG5="መርበብ ሓበሬታ ፕሮግራም፡ www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="ኣብ መሰረት  LINUX-CDGRAB 1.0 - CopyRight: Pascual Martinez Cruz -"
+
+# cargar_parche
+
+cargar_parche_MSG1="ቻርጅ ምግባር"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="ስነ-ቓል።"
+lcdgrab_sintaxis_MSG2="እዚ ሓገዝ ኣሕተምዎ።"
+lcdgrab_sintaxis_MSG3="ናይ ሊኑክስ ስሪት-cdgrab ሕትመት።"
+lcdgrab_sintaxis_MSG4="ናይ IDE ቻነል ወይ መቕረጺ መሳርሒ ይገልጽ።"
+# Resultado de traductor
+lcdgrab_sintaxis_MSG5="o ዝብል ጽሑፍ ኣሎ።"
+lcdgrab_sintaxis_MSG6="ናይ ምቕራጽ ፍጥነት ይገልጽ።"
+lcdgrab_sintaxis_MSG7="ሲዲ-ሮም/ዲቪዲ-ሮም/ቢዲ-ሮም ድራይቭ ይገልጽ።"
+lcdgrab_sintaxis_MSG8="ናይ መቕረጺ IDE ATAPI ቻነል ይገልጽ።"
+lcdgrab_sintaxis_MSG9="እቶም -G -V -Lን -CAን ኣማራጺታት ነንሕድሕዶም ይሕብሩ።"
+lcdgrab_sintaxis_MSG9B="እቶም -iut -ium -iugን -iukን ኣማራጺታት ካብ ነንሕድሕዶም ነጻ እዮም።"
+lcdgrab_sintaxis_MSG9C="መመላእታ ን -G -V -Lን -CAን፡ ከምኡ ውን ኣብ መንጎ -hን -vን ነጻ።  "
+lcdgrab_sintaxis_MSG10="እቶም -hን -vን ኣማራጺታት ካብ ነንሕድሕዶምን ካብ ዝተረፉን ነጻ እዮም።"
+lcdgrab_sintaxis_MSG11="ኣብነታት:"
+lcdgrab_sintaxis_MSG12="መሳርሒ።"
+lcdgrab_sintaxis_MSG13="ቁጽሪ።"
+lcdgrab_sintaxis_MSG14="ናይ ጽሑፍ መተሓላለፊ።"
+lcdgrab_sintaxis_MSG15="መተሓላለፊ ምስ ncurses።"
+lcdgrab_sintaxis_MSG16="ስእላዊ መተሓላለፊ ምስ GTK።"
+lcdgrab_sintaxis_MSG17="ስእላዊ መተሓላለፊ ምስ Qt።"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="መንገዲ ስክሪፕት ኣእቱ:"
+main_lcdgrabopdep_MSG2="ዘይሕጋዊ መንገዲ"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="ዝተተኽሉ ፓችስ:"
+main_lcdgrabopdeppatch_MSG2="መንገዲ ፓች ኣእቱ:"
+main_lcdgrabopdeppatch_MSG3="ኣይተረኽበን።"
+
+# menu principal dialog
+
+main_lcdgrabop9uidia="ተወሳኺ ፓች ስቐል"
+
+# menu principal texto
+
+main_lcdgrabop1_text="ናብ ሲዲ ምቕራጽ\t\t\t\t="
+main_lcdgrabop2_text="ዲቪዲ ምቕራጽ\t\t\t\t\t="
+main_lcdgrabop3_text="ኣብ BD ምቕራጽ\t\t\t\t="
+main_lcdgrabop4_text="ስርሓት ዲስክ ድራይቭ\t\t\t\t="
+main_lcdgrabop5_text="ምስሊ ምፍጣር\t\t\t\t\t="
+main_lcdgrabop6_text="ምቕያር ድምጺ\t\t\t\t\t="
+main_lcdgrabop6b_text="ቪድዮ ምቕያር\t\t\t\t\t="
+# Resultado del traductor
+main_lcdgrabop7_text="MOUNT ወይ UNMOUNT ሲዲ/ዲቪዲ/ቢዲ\t\t="
+main_lcdgrabop8_text="MOUNT ወይ UNMOUNT ምስሊ\t\t\t="
+main_lcdgrabop9_text="ተወሳኺ ፓች ስቐል\t\t\t\t="
+main_lcdgrabop10_text="ማእከል ቁጽጽር\t\t\t\t="
+main_lcdgrabop0_text="ውጹ\t\t\t\t\t="
+main_lcdgrabet1_text="ካልኦት ኣማራጺታት ##\t\t= "
+main_lcdgrabopEe_text="ዲስክ ካብ ድራይቭ ኣውጽእ\t\t\t="
+main_lcdgrabopTD_text="ማህደር ኣርኢ።"
+tabs="\t\t\t="
+main_lcdgrabopG_text="ኣመሓዳሪ ፋይል\t\t\t\t="
+main_lcdgrabopH_text="ሓገዝ\t\t\t\t\t="
+main_lcdgrabopA_text="ብዛዕባ\t\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="ናይ ሲዲ ምቕራጽ።"
+main_lcdgrabop2="ምቕራጽ ዲቪዲ"
+main_lcdgrabop3="ናብ BD ምቕዳሕ።"
+main_lcdgrabop4="ስርሒታት ምዝዋር ዲስክ።"
+main_lcdgrabop5="ምፍጣር ምስሊ"
+main_lcdgrabop6="ምቕያር ድምጺ።"
+main_lcdgrabop6b="ምቕያር ቪድዮ"
+main_lcdgrabop7="MOUNT ወይ UNMOUNT ሲዲ/ዲቪዲ/ቢዲ"
+main_lcdgrabop8="ማውንት ወይ ዘይማውንት ምስሊ"
+main_lcdgrabop9="ተወሳኺ ፓች ጽዓን።"
+main_lcdgrabop10="ማእከል ቁጽጽር።"
+main_lcdgrabop0="ውጹ።"
+main_lcdgrabet1="ካልኦት ኣማራጺታት ##"
+main_lcdgrabopEe="ዲስክ ካብ ድራይቭ ኣውጽእ።"
+main_lcdgrabopTD="ማህደር ኣርኢ።"
+main_lcdgrabopG="ኣመሓዳሪ ፋይል።"
+main_lcdgrabopH="ሓገዝ።"
+main_lcdgrabopA="ብዛዕባ"
+main_lcdgrabopPRINCIPAL="ብዛዕባ"
+MSG1_MAIN="H ምምራጽ ኣጠቓቕማ ኣማራጺታት የርኢ።"
+main_lcdgrabopA_MSG1="ኣብ ዝሰርሕ ዘሎ:"
+

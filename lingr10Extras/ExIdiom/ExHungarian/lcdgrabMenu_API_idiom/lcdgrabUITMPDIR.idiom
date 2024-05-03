@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Húngaro para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Fájlok a /tmp mappában"
+dir_tmp_MSG2="Az összes kép és tömörített fájl törlése"
+dir_tmp_MSG3="A fájlkezelő indítása egyéb műveletekhez"
+dir_tmp_MSG4="Kép csatlakoztatása vagy leválasztása"
+dir_tmp_MSG5="A képkészítés menü megjelenítése"
+dir_tmp_MSG6="Képrögzítési beállítások megjelenítése"
+dir_tmp_MSG7="Előző menü"
+dir_tmp_MSG8="A MEGLÉVŐ FÁJLOK LISTÁJA"
+dir_tmp_MSG9="VÁLASSZON OPCIÓT:"
+dir_tmp_MSG10="TÖRÖLT KÉPEK ÉS FÁJLOK"
+dir_tmp_MSG11="Kép beillesztése."
+dir_tmp_MSG12="Kép leválasztása."
+dir_tmp_MSG13="Kép írása CD-re"
+dir_tmp_MSG14="Kép írása DVD-re"
+dir_tmp_MSG14B="Kép írása BD-re"
+dir_tmp_MSG15="Válasszon opciót a rögzítési médiának megfelelően"
+dir_tmp_MSG16="A FÁJL NEM TALÁLHATÓ A KONFIGURÁCIÓS FÁJL"
+dir_tmp_MSG17="A rögzítési folyamat megszakítása"
+dir_tmp_MSG18="Adja meg az írandó .iso fájlt"
+dir_tmp_MSG19="Adja meg a kép elérési útját: "
+

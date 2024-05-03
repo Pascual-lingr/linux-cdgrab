@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAmharic/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al amárico, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="በዲስክ ምስሎች ላይ መፍጠር እና ህክምና"
+MenuImagen_MSG2="------------- ምስል ፍጥረት -------------"
+MenuImagen_MSG3="ISO-9660 ምስል ፍጠር"
+MenuImagen_MSG4="በቤተኛው ሊኑክስ ፋይል ስርዓት ምስል ፍጠር"
+MenuImagen_MSG5="የማንኛውም የማገጃ መሳሪያ ምስል ፍጠር"
+MenuImagen_MSG6="ከአሁኑ መሣሪያ .bin .cue ምስል ፍጠር"
+MenuImagen_MSG7="---------------- ሌሎች አማራጮች ----------------"
+MenuImagen_MSG8=".cue መግለጫ ፋይል ከ.ቢን ምስል ፍጠር"
+MenuImagen_MSG9=".nrg (Nero Burning ROM) ምስል ወደ .iso ቀይር"
+MenuImagen_MSG10="ምስልን በ gzip፣ bzip2 ወይም xz ጨመቁ"
+MenuImagen_MSG11="ምስልን በዚፕ፣ gz፣ bz2 ወይም xz ቀንስ"
+MenuImagen_MSG11B="md5 የኢሶ ምስሎች ድምርን ፈትሽ"
+MenuImagen_MSG12="የ iso ሁነታን ቀይር"
+MenuImagen_MSG0="የቀድሞው ምናሌ"
+MenuImagen_MSG13="የምስል ፋይል ሊታመቅ"
+MenuImagen_MSG14="የምስል ፋይልን ጨመቅ"
+MenuImagen_MSG15="ማመቅ የሚፈልጉት ምስል የሚገኝበትን ማውጫ ዱካ ይተይቡ፡"
+MenuImagen_MSG16="ማፍረስ የሚፈልጉት የምስል ፋይል"
+MenuImagen_MSG17="የአሁኑ የ iso ደረጃ"
+MenuImagen_MSG18="የ iso ደረጃ"
+MenuImagen_MSG19="የፋይል ስሞች ክፍልን ያካትታሉ"
+MenuImagen_MSG20="እና በ8.3 ቁምፊዎች የተገደቡ ናቸው።"
+MenuImagen_MSG21="ተኳሃኝነትን መሰየም ከፈለጉ ይህን ደረጃ ይምረጡ"
+MenuImagen_MSG21b="በMS-DOS ኦፐሬቲንግ ሲስተም ስር "
+MenuImagen_MSG22="የፋይል ስሞች ክፍልን ያካትታሉ"
+MenuImagen_MSG23="ያልተገደበ ደረጃ።"
+MenuImagen_MSG24="የፋይል ተኳሃኝነት ከፈለጉ ይህን ደረጃ ይጠቀሙ"
+MenuImagen_MSG25="ትልቅ፣ በዚህ አጋጣሚ >= 2 ጊጋባይት። "
+MenuImagen_MSG26="ሁሉም የ ISO ደረጃዎች የፋይል ስሞችን ወደ አቢይ ሆሄያት፣ትንሽ ሆሄ እና ይገድባሉ። "
+MenuImagen_MSG27="እንደ _ ያሉ ቁምፊዎች። የፋይል ስሞች በ31 ቁምፊዎች የተገደቡ ናቸው"
+MenuImagen_MSG28="ከፍተኛው 8 ማውጫ ዱካዎች እና የዱካ ስም"
+MenuImagen_MSG29="የ255 ቁምፊዎች ማውጫ።"
+MenuImagen_MSG30="አዲሱን የ iso ደረጃ ምረጥ"
+MenuImagen_MSG31="ISO ደረጃ 4 ይፋዊ አይደለም"
+MenuImagen_MSG32="የ mkisofs man ገጽን ያማክሩ"
+MenuImagen_MSG33="ልክ ያልሆነ የ ISO ደረጃ"
+MenuImagen_MSG34="የ iso ደረጃ 3ን በነባሪ አዘጋጅ"
+

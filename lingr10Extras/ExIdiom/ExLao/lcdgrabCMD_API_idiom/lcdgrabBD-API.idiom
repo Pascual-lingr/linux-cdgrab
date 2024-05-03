@@ -1,0 +1,48 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Lao para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 ຮູບພາບທີ່ຖືກບັນທຶກຢ່າງຖືກຕ້ອງໃນ BLU-RAY"
+grabar_ISO_BD_MSG2="ຜິດພາດເມື່ອບັນທຶກຮູບພາບໃນ BLU-RAY DISK"
+# Resultado del traductor
+grabar_ISO_BD_MSG3="ISO-9660 IMAGE IN BD"
+grabar_ISO_BD_MSG4="ລະບຸເສັ້ນທາງຂອງຮູບພາບ ISO-9660 ທີ່ຈະໄຫມ້:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="ໄຟລ໌ ແລະໄດເລກະທໍລີເພື່ອສ້າງຮູບພາບ .iso"
+bd_datas_MSG2="DB LABEL"
+bd_datos_MSG3="ໃສ່ຊື່ສໍາລັບອະນາຄົດ BD:"
+bd_datos_MSG4="ເປີດຕົວຈັດການໄຟລ໌:"
+bd_datos_MSG5=" ການສ້າງຮູບພາບ ..."
+bd_datas_MSG6="ແລ່ນ"
+bd_datos_MSG7="ISO-9660 ສ້າງຮູບພາບໃນ"
+bd_datas_MSG8="ບັນທຶກ BD"
+bd_datas_MSG13="ລຶບຮູບ..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="ການ​ຈັດ​ຮູບ​ແບບ​ຫຼື​ການ​ລົບ​ທີ່​ຈໍາ​ເປັນ​ໄດ້​ຖືກ​ນໍາ​ໃຊ້​ຂຶ້ນ​ກັບ​ສະ​ຖາ​ນະ​ພາບ​ແຜ່ນ​"
+borrar_BDRE_lb_MSG2="BD-RE ຖືກລຶບສຳເລັດແລ້ວ!!"
+borrar_BDRE_lb_MSG3="ຜິດພາດເມື່ອລຶບ BD-RE"
+

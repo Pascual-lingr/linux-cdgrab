@@ -1,0 +1,55 @@
+#########################################################
+# lcdgrabAPI_idiom/ExUkrainian/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en Ucraniano para el API de video.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="СУМІСНІСТЬ З ПЕРЕТВОРЕННЯМ ВІДЕО ДИСКУ BLU-RAY"
+conv_video_BDVideo_MSG2="Вкажіть шлях до відеофайлу для конвертації:"
+conv_video_BDVideo_MSG3="Вкажіть ім я файлу нового відео для створення:"
+conv_video_BDVideo_MSG4="Відеофайл успішно перетворено!!"
+conv_video_BDVideo_MSG5="Помилка перетворення відеофайлу"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="ПЕРЕТВОРЕННЯ ВІДЕОФАЙЛОВ"
+conv_VideoFich_MSG2="Вкажіть відеофайл для конвертації:"
+conv_VideoFich_MSG3="Вкажіть відеофайл для створення:"
+conv_VideoFich_MSG4="ПЕРЕТВОРЕННЯ ВІДЕОФАЙЛУ ЗАВЕРШЕНО"
+conv_VideoFich_MSG5="ПОМИЛКА ПІД ЧАС ПЕРЕТВОРЕННЯ ВІДЕОФАЙЛУ"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Вкажіть відеофайл:"
+extrae_Audio_de_Video_MSG2="Вкажіть звуковий файл mp3 для створення:"
+extrae_Audio_de_Video_MSG3="УСПІШНО ВИЛУЧИТИ ЗВУК"
+extrae_Audio_de_Video_MSG4="ПОМИЛКА ПІД ЧАС ВИДОБУВАННЯ ЗВУКУ"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Вкажіть відеофайл:"
+extrae_Fragmento_Video_MSG2="Вкажіть відеофайл для створення:"
+extrae_Fragmento_Video_MSG3="Вкажіть початковий час (вкажіть як ГГ:ХХ:СС) :"
+extrae_Fragmento_Video_MSG4="Вкажіть час завершення (вкажіть як ГГ:ХХ:СС) :"
+extrae_Fragmento_Video_MSG5="ВІДЕО УСПІШНО ОБРІЗАНО"
+extrae_Fragmento_Video_MSG6="ПОМИЛКА ПІД ЧАС ОБРІЗАННЯ ВІДЕО"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Вкажіть звуковий файл:"
+mezcla_Audio_Video_MSG2="Вкажіть відеофайл:"
+mezcla_Audio_Video_MSG3="Вкажіть відеофайл для створення:"
+mezcla_Audio_Video_MSG4="НОВИЙ ВІДЕОФАЙЛ УСПІШНО СФЕРОВАНО"
+mezcla_Audio_Video_MSG5="ПОМИЛКА ГЕНЕРУВАННЯ ВІДЕОФАЙЛУ"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="ОПЦІЯ НЕ ДОСТУПНА ДЛЯ ІНТЕРФЕЙСУ КОНСОЛІ"
+graba_escritorio_MSG2="-- ЗАПИС СЕСІЇ ЗА НАСТОЛЬНИКОМ -- НАТИСНІТЬ CTRL + C, ЩОБ СКАСУВАТИ ТА ЗУПИНИТИ ЗАПИС"
+graba_escritorio_MSG3="ЗАПИС ВІДЕО ЗАВЕРШЕНО"
+

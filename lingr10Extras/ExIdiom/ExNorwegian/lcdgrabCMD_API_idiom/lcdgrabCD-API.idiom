@@ -1,0 +1,184 @@
+#########################################################
+# lcdgrabAPI_idiom/ExNorwegian/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Noruego para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="løper"
+copia_bin_MSG2="-------------PRØVER OPPTAKSPROSESSEN PÅ NYTT--------"
+copia_bin_MSG3="	SLETTER BILDEFIL"
+copia_bin_MSG4="EN FEIL HAR OPPSTÅTT UNDER INNSPILLING"
+copia_bin_MSG5="Iso-filen for diskbildedumpen ble ikke funnet. Avbryter opptak..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="løper"
+datos_al_vuelo_MSG2="Feil ved opptaksforsøk, prøver på nytt uten støtte for overbrenning"
+datos_al_vuelo_MSG3="Sjekk at kildedisken eller enheten"
+datos_al_vuelo_MSG4="er i god stand"
+datos_al_vuelo_MSG5="Henter leadout-blokknummer fra kildedisken"
+datos_al_vuelo_MSG6="KOPIERER DISK..."
+
+# clonar_cd
+
+clonar_cd_MSG1="løper"
+clonar_cd_MSG2="CD KLONET MED LYKKELIG"
+clonar_cd_MSG3="EN FEIL HAR OPPSTÅTT VED KLONEN AV CD-en"
+
+# datos
+
+datos_MSG1="Filer og kataloger for å lage .iso-bildet"
+datos_MSG2="CD/DVD/BD LABEL"
+datos_MSG3="Skriv inn et navn for den fremtidige CD/DVD/BD:"
+datos_MSG4="Starter filbehandleren:"
+datos_MSG5=" LAGER BILDE . . ."
+datos_MSG6="løper"
+datos_MSG7="ISO-9660 BILDE OPPRETTET I"
+datos_MSG8="BRENNER CD/DVD/BD"
+datos_MSG9="PROSESSEN FOR OPPRETTELSE AV BILDEFIL HAR MISLYKT"
+datos_MSG10="PRØVER PÅ NYTT Å LAGE EN NY UTEN STØTTE FOR HFS (Macintosh)"
+datos_MSG11="SLETTER BILDE . . ."
+datos_MSG12="LAGER NYTT BILDE . . ."
+datos_MSG13="DET HAR IKKE VÆRT MULIG Å REGISTRERE RIKTIG"
+datos_MSG14="------------PRØVER OPPTAKSPROSESSEN PÅ NYTT-----"
+datos_MSG15="SLETT BILDE..."
+datos_MSG16="BRENNER ISO-9660 DATA CD/DVD/BD..."
+datos_MSG17="Ikke funnet."
+datos_MSG18="Aborterer diskopptak..."
+
+# datoslb
+
+datoslb_MSG1="Feil: Bildefilen ble ikke funnet. Avbryter..."
+datoslb_MSG2="OPPTAKSPROSESS OK"
+datoslb_MSG3="FEIL I OPPTAKSPROSESSEN"
+
+# borra
+
+borra_MSG0="Forrige meny"
+borra_MSG1="Velg modus for å slette CD-RW"
+borra_MSG2="-----------------------------------------"
+borra_MSG3="Rask sletting (bruk cdrecord)"
+borra_MSG4="Fullfør sletting (bruk cdrecord)"
+borra_MSG5="Sletting kreves (bruk cdrskin)"
+borra_MSG6="kjører"
+borra_MSG7="Nødvendig formatering eller sletting brukes avhengig av diskstatusen"
+borra_MSG8="CD-RW SLETTET SUKSESSFULLT!!"
+borra_MSG9="FEIL VED SLETTING AV CD-RW"
+borra_MSG10="TVING Å SLETTE CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="FEIL NÅR DU PRØVER Å SLETTE CD-RW-en"
+err_borra_cdrw_MSG2="CD-RW UBRUKES"
+err_borra_cdrw_MSG3="DET ER IKKE MULIG Å SLETTE DENNE CD-RWEN"
+err_borra_cdrw_MSG4="SJEKK CD-RWEN FOR FYSISK SKADE"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="løper"
+cerrar_cd_MSG2="CDEN ER RIKTIG SLUKKET"
+cerrar_cd_MSG3="FEIL VED LUKKING AV CD-en"
+cerrar_cd_MSG4="SLUTTE SPOR PÅ DATA-CD . . ."
+
+# grabimg
+
+grabimg_MSG1=".iso eller .ext2-bilde for å brenne til CD/DVD"
+grabimg_MSG2="Starter filbehandlingen."
+grabimg_MSG3="Skriv inn hele banen der CD/DVD-bildet du vil brenne er plassert:"
+grabimg_MSG4="løper"
+grabimg_MSG5="-----------PRØVER OPPTAKELSESPROSESSEN PÅ NYTT-----"
+grabimg_MSG6="OPPTAKET FERDIG!!"
+grabimg_MSG7="BILDE .EXT2 SUKSESSFULLT OPPTATT"
+
+# grabimglb
+
+grabimglb_MSG1="Skriv inn hele banen der CD/DVD-bildet du vil brenne er plassert:"
+grabimglb_MSG2="Brenner bilde til disk..."
+grabimglb_MSG3="ISO-9660 BILDE SUKSESSFULLT OPPTATT"
+grabimglb_MSG4="FEIL I OPPTAK AV ISO-9660-BILDET"
+grabimglb_MSG5="Feil: Bildefilen ble ikke funnet. Avbryter..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin- og .cue-filer for å ta opp bildet"
+grabimg_cue_MSG2="For å ta opp bin/cue-bildet må begge filene"
+grabimg_cue_MSG3="være i den aktive katalogen."
+grabimg_cue_MSG4="Gjeldende aktive katalog"
+grabimg_cue_MSG5="Skriv inn navnet på *.cue-filen som refererer til *.bin-bildefilen"
+grabimg_cue_MSG6=".cue-fil: "
+grabimg_cue_MSG7="løper"
+grabimg_cue_MSG8="OPPTAKET FERDIG!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Brenn multisession CD fra et .iso-bilde"
+cd_multi_MSG2="Brenn en første økt til CD-en fra et .iso-bilde"
+cd_multi_MSG3="Brenn multisession CD fra filer på disk"
+cd_multi_MSG4="Ta opp påfølgende økter til CD-en fra filer på harddisken"
+cd_multi_MSG5="Dette alternativet krever en multi-sesjon CD, med en tidligere innspilt økt."
+cd_multi_MSG6="Forrige meny"
+cd_multi_MSG7=".iso-bilde for å brenne til CD-Multi-session"
+cd_multi_MSG8="Spesifiser banen til .iso-bildet"
+cd_multi_MSG9="løper"
+cd_multi_MSG10="MULTI-SESSION CD SUKSESSFULLT INNSPERT!!"
+cd_multi_MSG11="Kataloger som skal inkluderes i bildet."
+cd_multi_MSG12="Spesifiser under hvilke kataloger som skal inkluderes"
+cd_multi_MSG13="Skriv inn et navn for CD-etiketten:"
+cd_multi_MSG14="LAGER BILDE..."
+cd_multi_MSG15="SUKSESSFULLT OPPRETTET"
+cd_multi_MSG16="FEIL VED LAGER BILDET. AVBRYT OPPTAKSPROSESSEN..."
+cd_multi_MSG17="BRENNER CD-BILDE..."
+cd_multi_MSG18="CD MULTI-SESSION MENY"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="RIPPER LYD-CD..."
+copia_cd_audio_MSG2="Kjører"
+copia_cd_audio_MSG3="LYDSPOR LYKKES RIPTET!!"
+copia_cd_audio_MSG4="FEIL VED RIPPING AV LYDSPOR"
+copia_cd_audio_MSG5="BRENNER LYD-CD..."
+copia_cd_audio_MSG6="LYD-CD KOPIERT!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav-filer som skal brennes til CD"
+wav_a_cd_MSG2="Linux-cdgrab vil ikke sjekke katalogstørrelsen"
+wav_a_cd_MSG3="Pass på at det ikke er mer enn 650 Mbyte i tilfelle"
+wav_a_cd_MSG4="hvis du bruker en 80-minutters CD."
+wav_a_cd_MSG5="Skriv inn katalogbanen til .wav-filene"
+wav_a_cd_MSG6="løper"
+wav_a_cd_MSG7="PROSESS FULLFØRT!"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Mixto-opprettingsprosjekt (Data Image .iso + Audio Files .wav)"
+cdmixto_MSG2="Linux-cdgrab vil ikke sjekke katalogstørrelsen"
+cdmixto_MSG3="hvor er lydfilene."
+cdmixto_MSG4="Det vil den heller ikke gjøre fra .iso-bildet du skal ta opp"
+cdmixto_MSG5="etter."
+cdmixto_MSG6="Vær konsekvent med størrelsen du har"
+cdmixto_MSG7="brenn til din nye CD."
+cdmixto_MSG8="Spesifiser banen til lydfilene:"
+cdmixto_MSG9="Spesifiser iso-bildebanen:"
+cdmixto_MSG10="#################################"
+cdmixto_MSG11="OPPTAK AV BLANDET CD: DATA + LYD"
+cdmixto_MSG12="løper"
+cdmixto_MSG13="----MIXED-CD SUKSESSFULLT OPPRETTET-----!!"
+cdmixto_MSG14="------FEIL VED BRENNING AV CD-MIXED--------"
+
+# discoinfo
+
+discoinfo_MSG1="løping"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI-port skannet"
+cdrecord_scan_MSG1="Feil ved skanning av IDE/SCSI-port"
+cdrecord_scan_MSG2="cdrecord ikke funnet"
+

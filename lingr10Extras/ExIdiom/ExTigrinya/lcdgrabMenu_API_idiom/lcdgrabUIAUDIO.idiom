@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTigrinya/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en tigriña para el menu de conversion de Audio.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="ምቕያር ድምጺ።"
+menu_conversion_audio_MSG2="------------ ኣብ መንጎ ፎርማት ዝግበር ምቕያር -----------"
+menu_conversion_audio_MSG3=".mp3 ናብ .wav ምቕያር።"
+menu_conversion_audio_MSG4=".ogg ናብ .wav ምቕያር።"
+menu_conversion_audio_MSG5=".wav ናብ .mp3 ምቕያር"
+menu_conversion_audio_MSG6=".wav ናብ .ogg ምቕያር።"
+menu_conversion_audio_MSG6C=".wav ናብ .flac ምቕያር።"
+menu_conversion_audio_MSG6B=".flac ናብ .wav ምቕያር።"
+menu_conversion_audio_MSG7="--------- ምውጻእ ድምጺ ትራክ ---------"
+menu_conversion_audio_MSG8="ንሓንቲ ናይ ድምጺ ሲዲ ናብ .wav ሪፕ ግበሮ።"
+menu_conversion_audio_MSG9="ንሓደ ስብስብ ናይ ድምጺ ትራክ ናብ .wav ምቕዳድ።"
+menu_conversion_audio_MSG10="ንናይ ድምጺ ሲዲ ናብ .mp3 ሪፕ ግበሮ።"
+menu_conversion_audio_MSG11="ንናይ ድምጺ ሲዲ ናብ .ogg ምቕንጣጥ።"
+menu_conversion_audio_MSG0="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+menu_conversion_audio_MSG12=".mp3 ፋይላት ድለዩ።"
+menu_conversion_audio_MSG13="ን .ogg ፋይላት ድለዩ።"
+menu_conversion_audio_MSG14="ን .wav ፋይላት ድለ።"
+menu_conversion_audio_MSG15="--------------- ካልኦት ስርሓት -----------------"
+menu_conversion_audio_MSG16=".wav ድምጺ ፋይል ቆሪጽካ።"
+menu_conversion_audio_MSG17="ንናይ ድምጺ ሲዲ ናብ .flac ምቕዳድ።"
+

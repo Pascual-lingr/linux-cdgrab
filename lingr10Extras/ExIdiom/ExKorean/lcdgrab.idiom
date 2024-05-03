@@ -1,0 +1,46 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Coreano para la aplicación principal #
+# Traducción experimental.                         #
+# Generada con Google Traslator.                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="LINUX-CDGRAB 1.0에 의해 자동으로 생성된 파일"
+creacion_de_Depot_MSG2="디렉토리와 함께 이 파일"
+creacion_de_Depot_MSG3="자동으로 생성되었습니다"
+creacion_de_Depot_MSG4="Linux 배포판에 존재하지 않는지 확인할 때 Linux-cdgrab 응용 프로그램에 의해"
+creacion_de_Depot_MSG5="디렉토리"
+creacion_de_Depot_MSG6="Linux-cdgrab은 이 디렉토리를 사용하여 임시 파일과 장치 이미지(iso, img 등..)를 씁니다."
+creacion_de_Depot_MSG8="Depot은 GoboLinux에서 임시 파일을 저장하는 데 사용됩니다."
+creacion_de_Depot_MSG9="이 파일의 목적은 정보 제공의 목적일 뿐이며, 읽은 후에는 자유롭게 삭제할 수 있습니다."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="참고:"
+main_IDSISTEMA_MSG2="운영 체제가 지원되지 않습니다."
+main_IDSISTEMA_MSG3="애플리케이션 동작에 문제가 있으면 GNU/Linux를 사용하세요."
+
+# argumentos
+
+main_arg_MSG1="타당한 주장이 아닙니다"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="발견"
+main_cdkit_test_MSG2="wodim 링크가 생성되었습니다"
+main_cdkit_test_MSG3="genisoimage 링크가 생성되었습니다"
+main_cdkit_test_MSG4="icedax 링크가 생성되었습니다"
+
+# pgm principal
+
+pgm_principal_MSG1="치명적: 올바른 디렉토리 배포를 찾을 수 없습니다."
+pgm_principal_MSG2="알 수 없음"
+
+

@@ -1,0 +1,32 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKorean/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en coreano para el menu de conversion de Audio.
+# Traducción experimetal, generado con google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="오디오 변환"
+menu_conversion_audio_MSG2="----------------- 형식 간 변환 ------------------"
+menu_conversion_audio_MSG3=".mp3를 .wav로 변환"
+menu_conversion_audio_MSG4=".ogg를 .wav로 변환"
+menu_conversion_audio_MSG5=".wav를 .mp3로 변환"
+menu_conversion_audio_MSG6=".wav를 .ogg로 변환"
+menu_conversion_audio_MSG6C=".wav를 .flac로 변환"
+menu_conversion_audio_MSG6B=".flac를 .wav로 변환"
+menu_conversion_audio_MSG7="---------------- 오디오 트랙 추출 ---------------"
+menu_conversion_audio_MSG8="오디오 CD를 .wav로 추출"
+menu_conversion_audio_MSG9="오디오 트랙 세트를 .wav로 리핑"
+menu_conversion_audio_MSG10="오디오 CD를 .mp3로 추출"
+menu_conversion_audio_MSG11="오디오 CD를 .ogg로 추출"
+menu_conversion_audio_MSG0="이전 메뉴"
+menu_conversion_audio_MSG12=".mp3 파일 검색"
+menu_conversion_audio_MSG13=".ogg 파일 검색"
+menu_conversion_audio_MSG14=".wav 파일 검색"
+menu_conversion_audio_MSG15="------------------- 기타 작업 -------------------"
+menu_conversion_audio_MSG16=".wav 오디오 파일 잘라내기"
+menu_conversion_audio_MSG17="오디오 CD를 .flac로 추출"

@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Georgiano para el API de grabación en BD.
+# Traduccción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 სურათი სწორად არის ჩაწერილი BLU-RAY-ზე"
+grabar_ISO_BD_MSG2="შეცდომა BLU-RAY დისკზე სურათის ჩაწერისას"
+# Resultado del traductor
+grabar_ISO_BD_MSG3="ISO-9660 IMAGE BD-ში"
+grabar_ISO_BD_MSG4="მიუთითეთ ISO-9660 გამოსახულების ჩასაწერი გზა:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="ფაილები და დირექტორიები .iso გამოსახულების შესაქმნელად"
+# Resultado del traductor
+bd_datos_MSG2="DB LABEL"
+bd_datos_MSG3="შეიყვანეთ მომავალი BD სახელი:"
+bd_datos_MSG4="ფაილ მენეჯერის გაშვება:"
+bd_datos_MSG5=" სურათის შექმნა ...."
+bd_datos_MSG6="გაშვებულია"
+# Resultado del traductor
+bd_datos_MSG7="ISO-9660 IMAGE CREATED IN"
+bd_datos_MSG8="BD ჩაწერა"
+bd_datos_MSG13="წაშალე სურათი..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="აუცილებელი ფორმატირება ან წაშლა გამოიყენება დისკის სტატუსის მიხედვით"
+borrar_BDRE_lb_MSG2="BD-RE წარმატებით წაიშალა!!"
+borrar_BDRE_lb_MSG3="შეცდომა BD-RE წაშლისას"
+

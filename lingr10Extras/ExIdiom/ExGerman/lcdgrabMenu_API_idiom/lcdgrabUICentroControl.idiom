@@ -1,0 +1,282 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGerman/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Alemán para el Interfaz del Centro de Control
+# Traducción experimental, generada con google translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux-cdgrab-Konfiguration"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Wenn Sie nicht wissen, zu welchem ​​IDE-Kanal gehört"
+ayuda_IDE_MSG2="Ihr Rekorder kann dies herausfinden, indem er den Buchstaben t drückt."
+ayuda_IDE_MSG3="Ein Beispiel für den IDE-Kanal kann 0,0,0 oder 0,1,0 sein"
+ayuda_IDE_MSG4="Sie können auch das entsprechende Gerät angeben"
+ayuda_IDE_MSG5="zu Ihrem Rekorder. Wenn Sie nicht sicher wissen, um welchen es sich handelt, drücken Sie d,"
+ayuda_IDE_MSG6="um die in der Datei /etc/fstab registrierten Geräte anzuzeigen"
+ayuda_IDE_MSG7="Ein Beispiel für Geräte können /dev/hdd,/dev/hde usw. sein."
+ayuda_IDE_MSG8="Wenn Sie möchten, können Sie auch alle enthaltenen Geräte auflisten"
+ayuda_IDE_MSG9="in das /dev-Verzeichnis durch Drücken des Buchstabens l."
+ayuda_IDE_MSG10="Sie müssen den IDE-Kanal oder das Aufnahmegerät angeben"
+ayuda_IDE_MSG11="aber nicht beides."
+
+# desinstalar
+
+desinstalar_MSG1="Linux – cdgrab wurde von Ihrem System deinstalliert"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Velocidad de grabacion"
+imprimir_variables_MSG2="Canal IDE/SCSI o dispositivo de grabacion"
+imprimir_variables_MSG3="Lector de CD-ROM o DVD-ROM"
+imprimir_variables_MSG4="Dispositivo ATAPI"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Aufnahmegeschwindigkeit"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI-Kanal oder Aufnahmegerät"
+imprimir_lcdgrabcfg_MSG3="CD-ROM-, DVD-ROM- oder BD-ROM-Laufwerk"
+imprimir_lcdgrabcfg_MSG4="ATAPI-Gerät"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Eingerichtet"
+chequeo_de_aplicaciones_MSG2="NICHT INSTALLIERT"
+chequeo_de_aplicaciones_MSG3="Installieren"
+chequeo_de_aplicaciones_MSG4="WICHTIG:"
+chequeo_de_aplicaciones_MSG5="Die Installation der notwendigen Tools Linux-cdgrab wird vollständig funktionieren"
+chequeo_de_aplicaciones_MSG6="Alle Programme, die Linux-cdgrab benötigt, sind auf Ihrem System installiert."
+chequeo_de_aplicaciones_MSG4B="WARNUNG:"
+chequeo_de_aplicaciones_MSG5B="Fehlende Werkzeuge gefunden"
+chequeo_de_aplicaciones_MSG6B="Auf dem System installierte Tools"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="Dieser Variablen ist standardmäßig 0,0,0 zugewiesen"
+msgdefCANALATAPI_MSG2="Die Konfigurationsdatei wird mit CANALATAPI = 0,0,0 geschrieben"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Konfigurationsdatei automatisch von Linux-cdgrab generiert."
+nuevo_lcdgrabcfg_MSG5="cdrecord nicht im System gefunden"
+nuevo_lcdgrabcfg_MSG6="Installieren Sie das cdrtools-Paket."
+nuevo_lcdgrabcfg_MSG7="Sie können die Konfiguration fortsetzen, indem Sie die Werte angeben"
+nuevo_lcdgrabcfg_MSG8="der Aufnahme, wenn Sie sie vorher kennen."
+nuevo_lcdgrabcfg_MSG9="Der Befehl cdrecord wird zum Brennen von CDs, DVDs und BD-Discs verwendet"
+nuevo_lcdgrabcfg_MSG10="Diese Optionen sind erst funktionsfähig, wenn das Paket installiert ist."
+nuevo_lcdgrabcfg_MSG11="Das Laufwerk-Scan-Tool wird ebenfalls nicht funktionsfähig sein, vorhanden"
+nuevo_lcdgrabcfg_MSG12="in diesem Setup-Assistenten."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab muss in den folgenden vier Schritten konfiguriert werden"
+nuevo_lcdgrabcfg_MSG14="Erster Schritt."
+nuevo_lcdgrabcfg_MSG15="Rekordgeschwindigkeit:"
+nuevo_lcdgrabcfg_MSG16="Nur eine Zahl 2,4,8,16,32...etc"
+nuevo_lcdgrabcfg_MSG17="Zweiter Schritt."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI-Kanal oder Aufnahmegerät:"
+nuevo_lcdgrabcfg_MSG19="A -> Hilfe"
+nuevo_lcdgrabcfg_MSG20="Scannen..."
+nuevo_lcdgrabcfg_MSG21="Fehler beim Scannen des IDE/SCSI-Ports"
+nuevo_lcdgrabcfg_MSG22="Cdrecord nicht gefunden"
+nuevo_lcdgrabcfg_MSG23="Dritter Schritt."
+nuevo_lcdgrabcfg_MSG24="CD-ROM-, DVD-ROM- ODER BD-ROM-Gerät"
+nuevo_lcdgrabcfg_MSG25="L -> Verfügbare Geräte auflisten"
+nuevo_lcdgrabcfg_MSG26="Scannen..."
+nuevo_lcdgrabcfg_MSG27="Gescannter IDE/SCSI-Port"
+nuevo_lcdgrabcfg_MSG28="Gerät, das von cdrecord über dev=ATAPI in Multisession-Aufzeichnungen verwendet werden soll"
+nuevo_lcdgrabcfg_MSG30="Das Gerät hat eine Nomenklatur wie 0,0,0 oder 1,0,0 usw."
+nuevo_lcdgrabcfg_MSG31="Geben Sie das Gerät an, um cdrecord auf Multisession-CDs aufzurufen: "
+nuevo_lcdgrabcfg_MSG32="Die Konfiguration ist für CANALATAPI nicht korrekt"
+nuevo_lcdgrabcfg_MSG33="Fehler beim Scannen des IDE/SCSI-Ports"
+nuevo_lcdgrabcfg_MSG34="Cdrecord nicht gefunden"
+nuevo_lcdgrabcfg_MSG36="Konfigurationsdatei automatisch von Linux-cdgrab generiert."
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB-KONFIGURATION BEENDET"
+
+# colores
+
+colores_MSG1="Die Liste der Farben kann nicht gefunden werden"
+colores_MSG2="Standardfarben werden geladen"
+colores_MSG3="Wählen Sie ein neues Farbschema für die LINUX-CDGRAB-Schnittstelle"
+colores_MSG4="SCHWARZE SCHRIFTART"
+colores_MSG5="STANDARD GLÄNZENDE SCHRIFTART"
+colores_MSG6="HINTERGRUNDFARBE SCHWARZ"
+colores_MSG7="ROTE SCHRIFTART"
+colores_MSG8="SCHWARZ GLÄNZENDE SCHRIFTART"
+colores_MSG9="ROTE HINTERGRUNDFARBE"
+colores_MSG10="GRÜNE SCHRIFTART"
+colores_MSG11="HELLROTE SCHRIFTART"
+colores_MSG12="GRÜNE HINTERGRUNDFARBE"
+colores_MSG13="GELBE SCHRIFTART"
+colores_MSG14="GRÜNE GLÄNZENDE SCHRIFTART"
+colores_MSG15="ORANGE HINTERGRUNDFARBE"
+colores_MSG16="BLAUE SCHRIFTART"
+colores_MSG17="HELLGELBE SCHRIFTART"
+colores_MSG18="HINTERGRUNDFARBE BLAU"
+colores_MSG19="MAGENTA-SCHRIFTART"
+colores_MSG20="BLAUE GLÄNZENDE SCHRIFTART"
+colores_MSG21="MAGENTA HINTERGRUNDFARBE"
+colores_MSG22="CYAN-SCHRIFTART"
+colores_MSG23="HELLE MAGENTA-SCHRIFTART"
+colores_MSG24="CYAN HINTERGRUNDFARBE"
+colores_MSG25="GRAUE SCHRIFTART"
+colores_MSG26="CYAN HINTERGRUNDFARBE"
+colores_MSG27="GLÄNZENDE SCHRIFT CYAN"
+colores_MSG28="GRAUE HINTERGRUNDFARBE"
+colores_MSG29="STANDARDSCHRIFTART"
+colores_MSG30="GLÄNZENDE WEISSE SCHRIFTART"
+colores_MSG31="STANDARD-HINTERGRUNDFARBE"
+colores_MSG32="Farbnummer für die Schriftart: "
+colores_MSG33="Farbnummer für den Hintergrund: "
+colores_MSG34="Farbanzahl für Warnmeldungen: "
+colores_MSG35="Farbnummer für Etikettennachrichten: "
+colores_MSG36="Farbnummer für erfolgreich abgeschlossene Prozesse"
+colores_MSG37="Farbnummer für mit Fehler beendete Prozesse: "
+colores_MSG38="Neues Schema für LINUX-CDGRAB"
+colores_MSG39="ALLGEMEINE SCHRIFTFARBE"
+colores_MSG40="ETIKETTEN"
+colores_MSG41="HINWEISE"
+colores_MSG42="ERFOLGREICH"
+colores_MSG43="FEHLER"
+colores_MSG44="FARBE FÜR DEN HINTERGRUND"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="LISTE DER VERFÜGBAREN FARBEN:"
+cambiar_esquema_de_color_MSG2="#####FARBSCHEMA#######"
+cambiar_esquema_de_color_MSG3="----------------------"
+cambiar_esquema_de_color_MSG4="Farbmenü"
+cambiar_esquema_de_color_MSG5="Fehlgeschlagen"
+cambiar_esquema_de_color_MSG6="Beschriftungen"
+cambiar_esquema_de_color_MSG6b="Hinweise"
+cambiar_esquema_de_color_MSG7="Farbmenü OK Fehlerwarnungen Beschriftungen"
+cambiar_esquema_de_color_MSG8="Geben Sie die Nummer der neuen Farbe ein:"
+cambiar_esquema_de_color_MSG9="UNGÜLTIGE OPTION"
+cambiar_esquema_de_color_MSG10="STANDARDFARBEN FESTLEGEN."
+cambiar_esquema_de_color_MSG11=" HINTERGRUND = BLAUER_HINTERGRUND"
+cambiar_esquema_de_color_MSG12=" SCHRIFTART = GLÄNZEND WEISS"
+cambiar_esquema_de_color_MSG13=" NOTICES = HELLGELB"
+cambiar_esquema_de_color_MSG14=" FEHLER = HELLROT"
+cambiar_esquema_de_color_MSG15=" FEHLER = HELLROT"
+cambiar_esquema_de_color_MSG16=" HITS = BRILLANTES GRÜN"
+cambiar_esquema_de_color_MSG17=" ETIKETTEN = GLÄNZEND CYAN"
+
+# cambia_lector
+
+cambia_lector_MSG1="UMGEBUNGSKONFIGURATION FÜR OPTISCHE EINHEITEN"
+cambia_lector_MSG2="Aktuelles Gerät, das der CD-ROM oder DVD-ROM zugeordnet ist"
+cambia_lector_MSG3="Aktuelles Gerät, das dem CD-/DVD-Brenner zugeordnet ist"
+cambia_lector_MSG4="Aktuelles Gerät, das dem Parameter dev=ATAPI zugeordnet ist:"
+cambia_lector_MSG5="(Multisitzungsunterstützung für cdrecord)"
+cambia_lector_MSG6="Wählen Sie das Gerät aus, auf dem die Änderung vorgenommen werden soll."
+cambia_lector_MSG7="Option eingeben:"
+cambia_lector_MSG8="Geben Sie den Namen des neuen Geräts ein"
+cambia_lector_MSG9="entspricht keinem Blockgerät"
+cambia_lector_MSG10="Gerät"
+cambia_lector_MSG11="standardmäßig zugewiesen"
+cambia_lector_MSG12="Das neue Gerät ist:"
+cambia_lector_MSG13="Nicht alle Versionen von cdrecord akzeptieren ein Blockgerät als Aufnahmeparameter"
+cambia_lector_MSG14="Geben Sie den Namen des neuen ATAPI-Geräts ein"
+cambia_lector_MSG15="Die Konfiguration ist für CANALATAPI nicht korrekt"
+cambia_lector_MSG16="0,0,0 ist dieser Variablen standardmäßig zugewiesen"
+cambia_lector_MSG17="Die Konfigurationsdatei wird mit CANALATAPI = 0,0,0 geschrieben"
+cambia_lector_MSG18="Das neue Gerät ist:"
+cambia_lector_MSG19="ES WERDEN KEINE ÄNDERUNGEN AN DEN GERÄTEN VORGENOMMEN"
+cambia_lector_MSG4B="Werte aus der Konfigurationsdatei exportieren"
+cambia_lector_MSG4C="DIESE WERTE WURDEN DER UMWELT GEMELDET:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="In diesem Menü können Sie das Dienstprogramm auswählen"
+cambia_generador_isocd_MSG2="wird zum Generieren von ISO-9660-Bildern verwendet"
+cambia_generador_isocd_MSG3="aus vorhandenem CDS in der Leseeinheit."
+cambia_generador_isocd_MSG4="Aktuelle Konfiguration:"
+cambia_generador_isocd_MSG5="Verwende dd (GNU coreutils-Komponente)"
+cambia_generador_isocd_MSG6="readcd (cdrtools-Komponente) verwenden"
+cambia_generador_isocd_MSG7="Vorheriges Menü."
+cambia_generador_isocd_MSG8="Wählen Sie eine Option:"
+cambia_generador_isocd_MSG9="Verwende dd als ISO-Generator."
+cambia_generador_isocd_MSG10="readcd als ISO-Generator verwenden."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="HFS-Metadaten zusammen mit Rock Ridge und Joliet festlegen"
+establecer_hfs_iso_MSG2="Nur Rock Ridge- und Joliet-Metadaten verwenden"
+establecer_hfs_iso_MSG3="Vorheriges Menü."
+establecer_hfs_iso_MSG4="Wählen Sie eine Option:"
+establecer_hfs_iso_MSG5="Verwendung von HFS-, Rock Ridge- und Joliet-Metadaten"
+establecer_hfs_iso_MSG6="Verwendung von Rock Ridge- und Joliet-Metadaten"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Aktuelles Benachrichtigungssystem"
+cambia_notificaciones_MSG2A="Grafische GNOME-Oberfläche"
+cambia_notificaciones_MSG2B="KDE-Grafische Oberfläche"
+cambia_notificaciones_MSG2="Schnittstelle mit ncurses"
+cambia_notificaciones_MSG3="Schnittstelle im Text"
+cambia_notificaciones_MSG4="Beenden"
+cambia_notificaciones_MSG5="Wählen Sie eine Option:"
+cambia_notificaciones_MSG6="Schnittstelle mit Dialog verwenden"
+cambia_notidicaciones_MSG6B="Schnittstelle mit Zenity verwenden"
+cambia_notidicaciones_MSG6C="Schnittstelle mit kdialog verwenden"
+cambia_notificaciones_MSG7="Dialogbefehl nicht gefunden"
+cambia_notificaciones_MSG8="Textschnittstelle verwenden"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Verwendete Sprache:"
+cambiar_idioma_UI_MSG1="Derzeit verfügbare Sprachen:"
+cambiar_idioma_UI_MSG2="Geben Sie den Namen der Sprache ein, die verwendet werden soll"
+cambiar_idioma_UI_MSG3="in der Anwendungsoberfläche:"
+cambiar_idioma_UI_MSG4="Die neue verwendete Sprache ist:"
+cambiar_idioma_UI_MSG5="LINUX-CDGRAB neu starten"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Aktuelle Konfiguration"
+seleccion_gestor_archivos_MSG2="MC verwenden"
+seleccion_gestor_archivos_MSG3="Integrierten Textmanager verwenden"
+seleccion_gestor_archivos_MSG4="Kann MC nicht im System installiert finden"
+seleccion_gestor_archivos_MSG5="Standardmäßig den integrierten Textmanager verwenden"
+seleccion_gestor_archivos_MSG6="MC-Dienstprogramm"
+seleccion_gestor_archivos_MSG7="Integrierter Text"
+
+# centro_de_control
+
+centro_de_control_MSG1="KONTROLLZENTRUM"
+centro_de_control_MSG2="Neue Konfiguration"
+centro_de_control_MSG3="Konfigurationsdatei löschen"
+centro_de_control_MSG4="Datei und aktuelle Konfigurationswerte anzeigen"
+centro_de_control_MSG5="WERTE DER KONFIGURATIONSDATEI:"
+centro_de_control_MSG5B="AKTUELLE IN DER UMGEBUNG VERWENDETE KONFIGURATION:"
+centro_de_control_MSG6="Optische Medien ändern"
+centro_de_control_MSG7="Installierte Programme prüfen"
+centro_de_control_MSG8="IDE/SCSI-Port mit cdrecord scannen"
+centro_de_control_MSG8C="IDE/SCSI-Port mit cdrskin scannen"
+centro_de_control_MSG8B="Im System installierte Einheiten mit cdrskin auflisten"
+centro_de_control_MSG9="ISO-Generator-Dienstprogramm von CD ändern"
+centro_de_control_MSG9B="HFS-Metadaten für ISO-9660 festlegen"
+centro_de_control_MSG10="Benutzeroberfläche ändern"
+centro_de_control_MSG10b="Farbe ändern"
+centro_de_control_MSG10c="Schnittstellensprache ändern"
+centro_de_control_MSG11="Dateimanager ändern"
+centro_de_control_MSG11B="Programm deinstallieren"
+centro_de_control_MSG12="Geben Sie eine Option ein: "
+centro_de_control_MSG13="DIE KONFIGURATIONSDATEI EXISTIERT NICHT"
+centro_de_control_MSG14="KONFIGURATIONSDATEI NICHT GEFUNDEN"
+centro_de_control_MSG15="Scannen"
+centro_de_control_MSG16="Gescannter IDE/SCSI-Port"
+centro_de_control_MSG17="Fehler beim Scannen des IDE/SCSI-Ports"
+centro_de_control_MSG18="Farbschema wählen"
+centro_de_control_MSG19="Farben beliebig auswählen"
+centro_de_control_MSG20="Vorheriges Menü"
+centro_de_control_MSG21="Geben Sie eine Option ein: "
+centro_de_control_MSG22="DIE KONFIGURATIONSDATEI EXISTIERT NICHT"
+centro_de_control_MSG23="KONFIGURATIONSDATEI NICHT GEFUNDEN"
+centro_de_control_MSG24="Farbschema wählen"
+centro_de_control_MSG25="Farben beliebig auswählen"
+centro_de_control_MSG26="Option nicht gültig"
+

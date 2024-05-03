@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAfrikaans/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Afrikáans para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Voer die pad van die lêer of gids in:"
+empaquetar_MSG2="------- Opsies -------"
+empaquetar_MSG3="Genereer .tar.gz-lêer"
+empaquetar_MSG4="Genereer .tar.bz2-lêer"
+empaquetar_MSG5="Tik 'n opsie: "
+empaquetar_MSG6="Lop"
+empaquetar_MSG7="Ongeldige opsie"
+
+# desempaquetar
+
+desempaquetar_MSG1="Voer die lêerpad in:"
+desempaquetar_MSG2="GEEN DEKOMPRESSOR GEVIND VIR NIE"
+desempaquetar_MSG3="OF"
+desempaquetar_MSG4="BESIST NIE"
+desempaquetar_MSG5="Lop"
+desempaquetar_MSG6="uitgepak"
+desempaquetar_MSG7="Fout tydens probeer om uit te pak"
+
+# comprime
+
+comprime_MSG1="KOMPRESSEER BEELD"
+comprime_MSG2="Kompresseer met bzip2"
+comprime_MSG3="Kompresseer met gzip"
+comprime_MSG4="Kompresseer met xz"
+comprime_MSG5="Vorige spyskaart"
+comprime_MSG6="Lop"
+comprime_MSG7="Beeldlêer-kompressie voltooi"
+comprime_MSG8="Fout tydens saampersing met"
+comprime_MSG9="Ongeldige kompressor"
+
+# descomprime
+
+descomprime_MSG1="Tik die lêerpad in:"
+descomprime_MSG2="-------------------"
+descomprime_MSG3="GEEN DEKOMPRESSOR GEVIND VIR"
+descomprime_MSG4="OF"
+descomprime_MSG5="BESIST NIE"
+descomprime_MSG6="Lop"
+descomprime_MSG7="ongecomprimeerd"
+descomprime_MSG8="Fout tydens probeer om te dekomprimeer"
+

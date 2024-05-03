@@ -1,0 +1,17 @@
+#########################################################
+# lcdgrabAPI_idiom/ExItalian/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Italiano para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="DISCO OTTICO ESPULSO"
+expulsar_medio_MSG2="Errore durante il tentativo di espellere il disco dal dispositivo"
+expulsar_medio_MSG3="Inserisci il nome manualmente:"
+
+

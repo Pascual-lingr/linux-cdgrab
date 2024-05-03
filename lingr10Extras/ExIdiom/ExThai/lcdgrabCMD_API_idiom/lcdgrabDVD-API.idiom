@@ -1,0 +1,197 @@
+#########################################################
+# lcdgrabAPI_idiom/ExThai/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Tailandés para el API de grabación en DVD.
+# Traducción experimetal, generado con Chat GPT y Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="กำลังบันทึกอุปกรณ์เป็น"
+buscar_grabadora_MSG1B="ถูกต้อง"
+buscar_grabadora_MSG2="กำลังบันทึกอุปกรณ์เป็น"
+buscar_grabadora_MSG2B="ข้อผิดพลาด"
+buscar_grabadora_MSG3="dvd+-rw-tools ไม่ยอมรับว่าอุปกรณ์บันทึกเป็น"
+buscar_grabadora_MSG4="เพื่อให้สามารถเบิร์นดีวีดีโดยใช้ dvd+rw-tools คุณต้องระบุเครื่องบันทึกของคุณเป็นอุปกรณ์บล็อก"
+buscar_grabadora_MSG5="ตัวอย่าง"
+buscar_grabadora_MSG6="หรือ"
+buscar_grabadora_MSG7="กำลังแสดงอุปกรณ์ระบบที่มีอยู่ใน /dev"
+buscar_grabadora_MSG8="ป้อนอุปกรณ์บล็อกที่ตรงกับเครื่องบันทึกดีวีดีของคุณ"
+buscar_grabadora_MSG9="ไม่ได้ระบุประเภทของเครื่องบันทึกหรือตัวเลือก"
+buscar_grabadora_MSG10="อุปกรณ์ที่กำหนดค่าไว้สำหรับเครื่องบันทึก"
+buscar_grabadora_MSG11="อุปกรณ์บันทึกได้ถูกส่งออกไปยังสภาพแวดล้อมเชลล์เป็น"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="ค่าที่เป็นไปได้ใช้ได้กับ cdrecord เท่านั้น"
+buscar_grabadoralb_MSG2="การกำหนดค่าปัจจุบันของเครื่องบันทึกคือ"
+buscar_grabadoralb_MSG3="ตรวจสอบว่าการกำหนดค่านี้ตรงกับค่าที่กำหนดโดย cdrskin"
+buscar_grabadoralb_MSG4="กำลังสแกนพอร์ต IDE/SCSI ด้วย cdrskin..."
+buscar_grabadoralb_MSG5="ระบุค่าใหม่ที่จะใช้กับ cdrskin:"
+
+# datos_dvd
+
+datos_dvd_MSG1="ป้อนชื่อสำหรับดีวีดีในอนาคต:"
+datos_dvd_MSG2="กำลังบันทึกดีวีดี . . ."
+datos_dvd_MSG3="กำลังใช้งาน"
+# Traducción con Chat GPT - INI
+datos_dvd_MSG4="กำลังดำเนินการ"
+# Traducción con Chat GPT - FIN
+datos_dvd_MSG5="บันทึก DVD เรียบร้อยแล้ว! "
+datos_dvd_MSG6="ไม่พบ mkisofs หรือ genisoimage ให้ติดตั้ง cdrtools หรือ cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="ป้อนชื่อสำหรับดีวีดีในอนาคต:"
+datos_dvd_multi_MSG2="กำลังบันทึกดีวีดี . . ."
+datos_dvd_multi_MSG3="การใช้"
+# Traducción con Chat GPT - INI
+datos_dvd_multi_MSG4="กำลังดำเนินการ"
+# Traducción con Chat GPT - FIN
+datos_dvd_multi_MSG5="บันทึกดีวีดีสำเร็จแล้ว!"
+datos_dvd_multi_MSG6="ไม่พบ Mkisofs หรือ genisoimage ให้ติดตั้ง cdrtools หรือ cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="กำลังบันทึกภาพ . ."
+# Traducción con Chat GPT - INI
+grabimg_dvd_MSG2="กำลังดำเนินการ"
+# Traducción con Chat GPT - FIN
+grabimg_dvd_MSG3="บันทึกภาพ DVD สำเร็จแล้ว!"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="การบันทึกภาพบนดีวีดี . ."
+# Traducción con Chat GPT - INI
+copia_bin_dvd_MSG2="กำลังดำเนินการ"
+# Traducción con Chat GPT - FIN
+copia_bin_dvd_MSG3="	การลบไฟล์รูปภาพ"
+copia_bin_dvd_MSG4="การบันทึกเสร็จสมบูรณ์!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="จัดรูปแบบ"
+formatear_dvd_MSG2="บังคับรูปแบบใหม่สำหรับ"
+formatear_dvd_MSG3="ย้ายตำแหน่งบล็อกนำออกของ"
+formatear_dvd_MSG4="ฟอร์แมต DVD-RW เป็นส่วนเพิ่มตามลำดับ"
+formatear_dvd_MSG5="ฟอร์แมต DVD-RW เพื่อจำกัดการเขียนทับ"
+formatear_dvd_MSG6="เติม DVD ด้วยเลขศูนย์"
+formatear_dvd_MSG7="แสดงข้อมูลดีวีดี"
+# Traducción con Chat GPT - INI
+formatear_dvd_MSG8="เมนูก่อนหน้า"
+# Traducción con Chat GPT - FIN
+formatear_dvd_MSG9="ตัวเลือกนี้ใช้ในการฟอร์แมตดีวีดีเป็นครั้งแรก"
+formatear_dvd_MSG10="หาก DVD ได้รับการฟอร์แมตแล้ว จะไม่ลบข้อมูล"
+formatear_dvd_MSG11="สิ่งเหล่านี้จะถูกเขียนทับในการบันทึกใหม่"
+formatear_dvd_MSG12="หากต้องการลบเนื้อหาของดีวีดีให้ใช้:"
+formatear_dvd_MSG13="เติม DVD ด้วยเลขศูนย์"
+formatear_dvd_MSG14="ตัวเลือกนี้จะลบรูปแบบและข้อมูลออกจากดีวีดีที่ได้รับการปฏิบัติ"
+# Traducción con Chat GPT - INI
+formatear_dvd_MSG15="กำลังดำเนินการ"
+# Traducción con Chat GPT - FIN
+formatear_dvd_MSG16="จัดรูปแบบ DVD+RW/DVD-RW สำเร็จแล้ว!"
+formatear_dvd_MSG17="ข้อผิดพลาดเมื่อฟอร์แมตดีวีดี"
+formatear_dvd_MSG18="บังคับให้ฟอร์แมตบนแผ่น DVD+RW..."
+formatear_dvd_MSG19="ฟอร์แมต DVD+RW สำเร็จแล้ว!"
+formatear_dvd_MSG20="ข้อผิดพลาดเมื่อฟอร์แมต DVD+RW"
+formatear_dvd_MSG21="ตัวเลือกนี้ไม่ส่งผลต่อข้อมูลที่บันทึกไว้ในแผ่น DVD+RW"
+formatear_dvd_MSG22="กำลังลบบล็อกตะกั่วออกจาก DVD+RW..."
+formatear_dvd_MSG23="กำลังฟอร์แมตดิสก์ DVD-RW เพื่อเขียนตามลำดับ..."
+formatear_dvd_MSG24="จัดรูปแบบ DVD-RW สำเร็จแล้ว!"
+formatear_dvd_MSG25="ข้อผิดพลาดเมื่อทำการฟอร์แมต DVD-RW"
+formatear_dvd_MSG26="กำลังฟอร์แมตดิสก์ DVD-RW เพื่อจำกัดการเขียนทับ..."
+formatear_dvd_MSG27="ลบดีวีดีที่เขียนซ้ำได้"
+
+# null_dvd
+
+null_dvd_MSG1="เขียนลงดิสก์จาก /dev/zero . ."
+# Traducción con Chat GPT - INI
+null_dvd_MSG2="กำลังดำเนินการ"
+# Traducción con Chat GPT - FIN
+null_dvd_MSG3="กระบวนการที่เสร็จสมบูรณ์"
+null_dvd_MSG4="ข้อผิดพลาดที่ไม่คาดคิด"
+
+# dvd_video
+
+dvd_video_MSG1="เส้นทางที่มีไดเร็กทอรี VIDEO_TS และ AUDIO_TS:"
+dvd_video_MSG2="ระบุเส้นทางที่มีไดเร็กทอรี VIDEO_TS และ AUDIO_TS:"
+# Traducción con Chat GPT - INI
+dvd_video_MSG3="กำลังดำเนินการ"
+# Traducción con Chat GPT - FIN
+dvd_video_MSG4="--- DVD-VIDEO ที่บันทึกเรียบร้อยแล้ว ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+# Traducción con Chat GPT - INI
+dvd_copia_bin_MSG1="กำลังดำเนินการ"
+# Traducción con Chat GPT - FIN
+dvd_copia_bin_MSG2="	การลบไฟล์รูปภาพ"
+dvd_copia_bin_MSG3="มีข้อผิดพลาดเกิดขึ้นในการบันทึก"
+
+# dvd_datos
+
+dvd_datos_MSG1="ไฟล์และไดเร็กทอรีสำหรับสร้างอิมเมจ .iso"
+dvd_datos_MSG2="ฉลากดีวีดี"
+dvd_datos_MSG3="ป้อนชื่อสำหรับดีวีดีในอนาคต:"
+dvd_datos_MSG4="กำลังเรียกใช้ตัวจัดการไฟล์:"
+dvd_datos_MSG5="	การสร้างภาพ . ."
+# Traducción con Chat GPT - INI
+dvd_datos_MSG6="กำลังดำเนินการ"
+# Traducción con Chat GPT - FIN
+dvd_datos_MSG7="สร้างภาพ ISO-9660 ใน"
+dvd_datos_MSG8="		เบิร์นดีวีดี"
+dvd_datos_MSG13="กำลังลบภาพ..."
+
+# dvd_borra
+
+# Traducción con Chat GPT - INI
+dvd_borra_MSG1="กำลังดำเนินการ"
+# Traducción con Chat GPT - FIN
+dvd_borra_MSG2="ฟอร์แมตดิสก์ออปติคัลสำเร็จแล้ว"
+dvd_borra_MSG3="ข้อผิดพลาดเมื่อฟอร์แมตออปติคอลดิสก์"
+
+# dvd_discoinfo
+
+# Traducción con Chat GPT - INI
+dvd_discoinfo_MSG1="กำลังดำเนินการ"
+# Traducción con Chat GPT - FIN
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+# Traducción con Chat GPT - INI
+formatearCDDVDBD_MSG1="กำลังดำเนินการ"
+# Traducción con Chat GPT - FIN
+formatearCDDVDBD_MSG2="ฟอร์แมตดิสก์ออปติคัลสำเร็จแล้ว"
+formatearCDDVDBD_MSG3="ข้อผิดพลาดเมื่อฟอร์แมตออปติคอลดิสก์"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="ฟอร์แมต DVD-RW สำเร็จแล้ว!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="เกิดข้อผิดพลาดในการฟอร์แมต DVD-RW เพื่อจำกัดการเขียนทับ"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="ดีวีดี-RW ฟอร์แมตสำเร็จ!!"
+formatearDVDRW_incremental_secuencial_MSG2="เกิดข้อผิดพลาดเมื่อฟอร์แมต DVD-RW เป็นส่วนเพิ่มตามลำดับ"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="ระบุเส้นทางของอิมเมจ iso-9660 ที่จะเบิร์น:"
+cdrskinisocddvd_MSG2="บันทึกภาพ ISO สำเร็จแล้ว!!"
+cdrskinisocddvd_MSG3="ข้อผิดพลาดเมื่อบันทึกภาพ"
+

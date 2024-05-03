@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en islandés para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="TÆKI SEM UPPLÝST Í KERFIÐ"
+montar_dispositivos_MSG1B="SAMSETNING/SAMSETNING tækja"
+montar_dispositivos_MSG2="LINUX OPTIONS-CDGRAB"
+montar_dispositivos_MSG3="Hleypa diski út af geisladisk/dvd/bd lesanda"
+montar_dispositivos_MSG4="Hleyptu diski af CD/DVD/BD brennara"
+montar_dispositivos_MSG5="Tengdu CD-ROM/DVD-ROM/BD-ROM lesanda"
+montar_dispositivos_MSG6="Aftengja CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Settu upp eða taktu tæki í sundur með höndunum"
+montar_dispositivos_MSG0="Fyrri valmynd"
+montar_dispositivos_MSG8="CD/DVD/BD festur á"
+montar_dispositivos_MSG9="ÝTTU ENTER TIL AÐ HALDA ÁFRAM..."
+montar_dispositivos_MSG10="Villa við að tengja CD/DVD/BD á"
+montar_dispositivos_MSG11="Geisladiskurinn/DVD/BD hefur verið tekinn af"
+montar_dispositivos_MSG12="Villa við að aftengja geisladisk/DVD/BD"
+montar_dispositivos_MSG13="Sláðu inn tækið til að tengja/aftengja:"
+montar_dispositivos_MSG14="Sláðu inn tengipunktinn:"
+montar_dispositivos_MSG15="svarar ekki til blokkartækis"
+montar_dispositivos_MSG16="Fertingarpunktur fannst ekki"
+montar_dispositivos_MSG17="Sjálfgefinn tengipunktur"
+montar_dispositivos_MSG18="Veldu kost:"
+montar_dispositivos_MSG19="Tengdu"
+montar_dispositivos_MSG20="inn"
+montar_dispositivos_MSG21="Aftengja"
+montar_dispositivos_MSG22="af"
+montar_dispositivos_MSG23="tengt á:"
+montar_dispositivos_MSG24="VILLA VIÐ SETTINGU"
+montar_dispositivos_MSG25="INN"
+montar_dispositivos_MSG26="tekin af"
+montar_dispositivos_MSG27="VILLA VIÐ AFSETNINGU"
+montar_dispositivos_MSG28="af"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Úttak fjallsskipunar"
+Montar_Imagenes_MSG1B="SAMSETNING/SAMSETNING MYNDASKÝRA"
+Montar_Imagenes_MSG2="Veldu valkost"
+Montar_Imagenes_MSG3="Tengdu CD/DVD/BD mynd"
+Montar_Imagenes_MSG4="Aftengja CD/DVD/BD mynd"
+Montar_Imagenes_MSG5="Fyrri valmynd"
+

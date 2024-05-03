@@ -1,0 +1,102 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAfrikaans/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Afrikáans, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Kies die gebruikerskoppelvlak wat gebruik gaan word:"
+SeleccionaIUDVD_MSG2="Gebruik die koppelvlak vir dvd+-rw-gereedskap"
+SeleccionaIUDVD_MSG3="Gebruik die koppelvlak vir Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Gebruik die koppelvlak vir libburnia"
+SeleccionaIUDVD_MSG5="Vorige spyskaart"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="DVD-OPNAME"
+menugrabar_dvd_MSG2="----------------- DVD - DATA ------------------"
+# Se omite 'n por evitar errores de funcionamiento
+menugrabar_dvd_MSG3="Kopieer n ISO-9660 data-DVD"
+menugrabar_dvd_MSG4="Skep n vorige DVD-prent op die hardeskyf"
+menugrabar_dvd_MSG5="Verbrand n nuwe ISO-9660 data-DVD"
+menugrabar_dvd_MSG6="Voeg nuwe datasessie by ISO-9660 data DVD (multisessie DVD)"
+# Se omite 'n por evitar errores de funcionamiento
+menugrabar_dvd_MSG7="Vereis n DVD wat voorheen met die tweede opsie opgeneem is"
+menugrabar_dvd_MSG8="Brand n ISO-9660-databeeld na DVD"
+menugrabar_dvd_MSG9="Brand n .ext2 beeld na DVD"
+menugrabar_dvd_MSG10="---------------- DVD - VIDEO ------------------"
+# Se omite 'n por evitar errores de funcionamiento
+menugrabar_dvd_MSG11="Brand n nuwe DVD-video"
+menugrabar_dvd_MSG12="--------------- ANDER OPSIES ------------------"
+# Se omite 'n por evitar errores de funcionamiento
+menugrabar_dvd_MSG13="Formateer n DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Wys DVD-skyfinligting"
+menugrabar_dvd_MSG0="Vorige spyskaart"
+# Se omite 'n por evitar errores de funcionamiento
+menugrabar_dvd_MSGPRINCIPAL="Tik n opsie"
+menugrabar_dvd_MSG15="Lêers en gidse om op die DVD in te sluit"
+menugrabar_dvd_MSG16="Begin tans die lêerbestuurder..."
+menugrabar_dvd_MSG17=".iso-beeld om op DVD te brand"
+menugrabar_dvd_MSG18="Tik die gidspad waar die .iso-prent wat jy wil brand geleë is"
+menugrabar_dvd_MSG19="Vereis weergawe van cdrecord met DVD-ondersteuning."
+menugrabar_dvd_MSG20="Die opname van die .ext2-prent op DVD sal met cdrecord gedoen word."
+menugrabar_dvd_MSG21="Die cdrecord-weergawe wat in jou installasie bestaan, behoort"
+menugrabar_dvd_MSG22="ondersteun DVD-opname."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+# Se omite 'N por evitar errores de funcionamiento
+dvd_clonar_MSG1="KIES 'N OPSIE"
+dvd_clonar_MSG2="--- VOORBEELD-SKYFKOPIEë ---"
+# Se omite 'n por evitar errores de funcionamiento
+dvd_clonar_MSG3="Kopieer n data-DVD"
+dvd_clonar_MSG4="Skep n voorskou DVD-beeld op jou hardeskyf"
+dvd_clonar_MSG5="--- SKYFKOPIEë OP DIE VLUG ---"
+# Se omite 'n por evitar errores de funcionamiento
+dvd_clonar_MSG6="Kopieer n data-DVD dadelik"
+dvd_clonar_MSG7="Kloon n data-DVD op die vlug"
+dvd_clonar_MSG8="VLIEGENDE KOPIE-OPSIES VEREIS TWEE OPTIESE EENHEDE"
+dvd_clonar_MSG9="GEINSTALLEER OP JOU REKENAAR, AANGESIEN DIE DATA AANGESKEN WORD TERWYL"
+dvd_clonar_MSG10="LEES DIREK VANAF DIE OORSPRONKSKYF, AS JOU REKENAAR DIT NET HET"
+dvd_clonar_MSG11="JY SAL NIE DIE KOPIEë OP DIE VLUG KAN GEBRUIK NIE."
+dvd_clonar_MSG0="Vorige spyskaart"
+dvd_clonar_MSG12="DVD DATA KOPIE"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD-OPNAME"
+menugrabar_DVD_MSG2="------------------ DVD - DATA -------------------"
+menugrabar_DVD_MSG3="Rip data DVD"
+# Se omite 'n por evitar errores de funcionamiento
+menugrabar_DVD_MSG4="Verbrand n nuwe data-DVD"
+menugrabar_DVD_MSG5="Brand .iso of .ext2 beeld na DVD"
+menugrabar_DVD_MSG6="Formateer DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Wys skyfinligting in die aandrywer"
+menugrabar_DVD_MSG0="Vorige spyskaart"
+# Se omite 'n por evitar errores de funcionamiento
+menugrabar_DVD_MSGPRINCIPAL="Tik n opsie"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Brand iso-9660 beeld na DVD"
+menugrabar_DVD_libburnia_MSG2="Brand data van hardeskyf na DVD"
+menugrabar_DVD_libburnia_MSG3="Formateer DVD"
+menugrabar_DVD_libburnia_MSG4="Formateer DVD-RW na opeenvolgend inkrementeel"
+menugrabar_DVD_libburnia_MSG5="Formateer DVD-RW na beperkte oorskryf"
+menugrabar_DVD_libburnia_MSG6="Wys ry inligting"
+menugrabar_DVD_libburnia_MSG8="Lys dryf wat in die stelsel geïnstalleer is"
+menugrabar_DVD_libburnia_MSG0="Verlaat"
+# Se omite 'n por evitar errores de funcionamiento
+menugrabar_DVD_libburnia_MSG7="Voer n opsie in"
+
+

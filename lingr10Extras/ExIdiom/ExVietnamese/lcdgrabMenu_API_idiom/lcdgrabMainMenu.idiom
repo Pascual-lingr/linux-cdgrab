@@ -1,0 +1,139 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Vietnamita, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab không thể tìm thấy trình soạn thảo văn bản vi"
+ayuda_MSG2="Nhập tên trình soạn thảo văn bản được cài đặt trên hệ thống của bạn"
+ayuda_MSG3="KHÔNG TÌM THẤY BIÊN TẬP CÀI ĐẶT"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Tệp được tạo tự động bởi LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="Tệp này cùng với thư mục"
+creacion_de_mnt_MSG3="đã được tạo tự động"
+creacion_de_mnt_MSG4="bởi ứng dụng Linux-cdgrab khi xác minh rằng nó không tồn tại trong bản phân phối Linux của bạn"
+creacion_de_mnt_MSG5="thư mục"
+creacion_de_mnt_MSG6="Linux-cdgrab sử dụng thư mục này để gắn ổ đĩa CD-ROM/DVD-ROM/BD-ROM của nó"
+creacion_de_mnt_MSG7="Thư mục"
+creacion_de_mnt_MSG8="nó sẽ không bị xóa nếu Linux-cdgrab bị gỡ cài đặt vì nó thường là"
+creacion_de_mnt_MSG9="Điểm gắn kết mặc định cho /dev/cdrom trên hầu hết các bản phân phối Linux."
+creacion_de_mnt_MSG10="Nếu bản phân phối của bạn sử dụng thư mục khác để gắn thiết bị /dev/cdrom,"
+creacion_de_mnt_MSG11="nó sẽ không tạo ra bất kỳ sự không tương thích nào khi cố gắng truy cập dữ liệu trên thiết bị của bạn"
+creacion_de_mnt_MSG12="mặc dù nếu Linux-cdgrab đã được gỡ cài đặt thì bạn có thể thực hiện mà không cần"
+creacion_de_mnt_MSG13="Mục đích của tập tin này chỉ nhằm mục đích cung cấp thông tin, bạn có thể thoải mái xóa nó sau khi đọc."
+
+# creditos
+
+creditos_MSG1="Phân phối theo giấy phép GPL v2"
+creditos_MSG2="Thông tin thêm tại www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, người sáng tạo và người duy trì"
+creditos_MSG4="Báo cáo lỗi: pascual89@hotmail.com"
+creditos_MSG5="Trang web của chương trình: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Dựa trên LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Sạc"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SYNTAX"
+lcdgrab_sintaxis_MSG2="In trợ giúp này"
+lcdgrab_sintaxis_MSG3="In phiên bản Linux-cdgrab"
+lcdgrab_sintaxis_MSG4="chỉ định kênh IDE hoặc thiết bị ghi"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="chỉ định tốc độ ghi"
+lcdgrab_sintaxis_MSG7="chỉ định ổ đĩa CD-ROM/DVD-ROM/BD-ROM"
+lcdgrab_sintaxis_MSG8="chỉ định kênh IDE ATAPI của đầu ghi"
+lcdgrab_sintaxis_MSG9="Các tùy chọn -G -V -L và -CA ngụ ý lẫn nhau."
+lcdgrab_sintaxis_MSG9B="Các tùy chọn -iut -ium -iug và -iuk độc lập với nhau,"
+lcdgrab_sintaxis_MSG9C="bổ sung cho -G -V -L và -CA và độc lập giữa -h và -v"
+lcdgrab_sintaxis_MSG10="Các tùy chọn -h và -v độc lập với nhau và các tùy chọn còn lại."
+lcdgrab_sintaxis_MSG11="Ví dụ:"
+lcdgrab_sintaxis_MSG12="thiết bị"
+lcdgrab_sintaxis_MSG13="số"
+lcdgrab_sintaxis_MSG14="giao diện văn bản"
+lcdgrab_sintaxis_MSG15="Giao diện với ncurses"
+lcdgrab_sintaxis_MSG16="giao diện đồ họa với GTK"
+lcdgrab_sintaxis_MSG17="giao diện đồ họa với Qt"
+
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Nhập đường dẫn tập lệnh:"
+main_lcdgrabopdep_MSG2="Đường dẫn không hợp lệ"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Các bản vá đã được cài đặt:"
+main_lcdgrabopdeppatch_MSG2="Nhập đường dẫn bản vá:"
+main_lcdgrabopdeppatch_MSG3="Không tìm thấy"
+
+# menu principal dialog
+main_lcdgrabop9uidia="TẢI LÊN MỘT BẢN VÁCH BỔ SUNG"
+
+# menu principal texto
+
+main_lcdgrabop1_text="GHI CD\t\t\t\t\t="
+main_lcdgrabop2_text="GHI DVD\t\t\t\t\t="
+main_lcdgrabop3_text="GHI VÀO BD\t\t\t\t="
+main_lcdgrabop4_text="HOẠT ĐỘNG Ổ ĐĨA\t\t\t\t="
+main_lcdgrabop5_text="TẠO HÌNH ẢNH\t\t\t\t="
+main_lcdgrabop6_text="CHUYỂN ĐỔI ÂM THANH\t\t\t="
+main_lcdgrabop6b_text="CHUYỂN ĐỔI VIDEO\t\t\t\t="
+main_lcdgrabop7_text="MOUNT HOẶC UNMOUNT CD/DVD/BD\t\t="
+main_lcdgrabop8_text="MOUNT HOẶC UNMOUNT HÌNH ẢNH\t\t="
+main_lcdgrabop9_text="TẢI LÊN MỘT BẢN VÁCH BỔ SUNG\t\t="
+main_lcdgrabop10_text="TRUNG TÂM ĐIỀU KHIỂN\t\t\t="
+main_lcdgrabop0_text="ĐI RA NGOÀI\t\t\t\t="
+main_lcdgrabet1_text="SỰ LỰA CHỌN KHÁC ##\t\t="
+main_lcdgrabopEe_text="Đẩy đĩa ra khỏi ổ đĩa\t\t="
+main_lcdgrabopTD_text="Hiển thị thư mục"
+tabs="\t\t="
+main_lcdgrabopG_text="Quản lý tập tin\t\t\t="
+main_lcdgrabopH_text="Sự giúp đỡ\t\t\t\t="
+main_lcdgrabopA_text="Về\t\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="GHI CD"
+main_lcdgrabop2="GHI DVD"
+main_lcdgrabop3="GHI VÀO BD"
+main_lcdgrabop4="HOẠT ĐỘNG Ổ ĐĨA"
+main_lcdgrabop5="TẠO HÌNH ẢNH"
+main_lcdgrabop6="CHUYỂN ĐỔI ÂM THANH"
+main_lcdgrabop6b="CHUYỂN ĐỔI VIDEO"
+main_lcdgrabop7="MOUNT HOẶC UNMOUNT CD/DVD/BD"
+main_lcdgrabop8="MOUNT HOẶC UNMOUNT HÌNH ẢNH"
+main_lcdgrabop9="TẢI LÊN MỘT BẢN VÁCH BỔ SUNG"
+main_lcdgrabop10="TRUNG TÂM ĐIỀU KHIỂN"
+main_lcdgrabop0="ĐI RA NGOÀI"
+main_lcdgrabet1="SỰ LỰA CHỌN KHÁC ##"
+main_lcdgrabopEe="Đẩy đĩa ra khỏi ổ đĩa"
+main_lcdgrabopTD="Hiển thị thư mục"
+main_lcdgrabopG="Quản lý tập tin"
+main_lcdgrabopH="Sự giúp đỡ"
+main_lcdgrabopA="Về"
+main_lcdgrabopPRINCIPAL="Nhập một tùy chọn:"
+MSG1_MAIN="Việc chọn H hiển thị việc sử dụng các tùy chọn."
+main_lcdgrabopA_MSG1="Đang chạy:"
+
+
+

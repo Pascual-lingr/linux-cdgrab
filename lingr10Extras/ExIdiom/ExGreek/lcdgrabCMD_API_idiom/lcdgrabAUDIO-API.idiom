@@ -1,0 +1,142 @@
+#########################################################
+# lcgdrabAPI_idiom/ExGreek/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en griego para el API de audio.
+# Traducción epxerimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="ΑΡΧΕΙΑ MP3 ΓΙΑ ΜΕΤΑΤΡΟΠΗ"
+mp3awav_MSG0="Εισαγάγετε τη διαδρομή των αρχείων .mp3: "
+mp3awav_MSG1="ΠΡΟΣΚΛΗΣΗ"
+mp3awav_MSG1B=" ΣΕ ΜΟΡΦΗ .wav"
+mp3awav_MSG2="τρέχει"
+mp3awav_MSG3="Η δειγματοληψία ορίστηκε στα 44100 Mhz"
+mp3awav_MSG4="Σφάλμα επεξεργασίας δειγματοληψίας"
+mp3awav_MSG5="Απέτυχε η μετατροπή"
+mp3awav_MSG6="Δεν βρέθηκε ο κατάλογος"
+mp3awav_MSG7="ΤΕΛΟΣ ΜΕΤΑΤΡΟΠΗΣ ΗΧΟΥ"
+mp3awav_MSG8="Κανονοποίηση αρχείου ήχου"
+mp3awav_MSG9="Αρχείο"
+mp3awav_MSG10="Normalized"
+mp3awav_MSG11="Σφάλμα κανονικοποίησης"
+
+# oggawav
+
+oggawav_MSG0="OGG ΑΡΧΕΙΑ ΓΙΑ ΜΕΤΑΤΡΟΠΗ"
+oggawav_MSG1="Εισαγάγετε τη διαδρομή των αρχείων .ogg: "
+oggawav_MSG2="ΠΡΟΣΚΛΗΣΗ"
+oggawav_MSG2B="ΜΟΡΦΗ .wav"
+oggawav_MSG3="τρέχει"
+oggawav_MSG4="Η δειγματοληψία ορίστηκε στα 44100 Mhz"
+oggawav_MSG5="Σφάλμα επεξεργασίας δειγματοληψίας"
+oggawav_MSG6="Απέτυχε η μετατροπή"
+oggawav_MSG7="Δεν βρέθηκε ο κατάλογος"
+oggawav_MSG8="ΤΕΛΟΣ ΗΧΗΤΙΚΗΣ ΚΑΛΥΨΗΣ"
+oggawav_MSG9="Κανονοποίηση αρχείου ήχου"
+oggawav_MSG10="Αρχείο"
+oggawav_MSG11="Κανονικό"
+oggawav_MSG12="Σφάλμα κανονικοποίησης"
+
+# cdawav
+
+cdawav_MSG1="RIPPING AUDIO CD..."
+cdawav_MSG2="Εκτέλεση:"
+cdawav_MSG3="ΚΑΤΑ ΕΠΙΤΥΧΙΑ ΟΡΓΑΝΙΣΜΕΝΑ ΚΟΜΜΑΤΙΑ ΗΧΟΥ!!"
+cdawav_MSG4="Περιεχόμενα καταλόγου αρχείων ήχου"
+cdawav_MSG5="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΑΝΤΙΓΡΑΦΗ ΤΩΝ ΚΟΜΜΑΤΩΝ ΗΧΟΥ"
+
+# cddawav
+
+cddawav_MSG1="ΕΙΣΑΓΩΓΕ ΤΟΝ ΑΡΙΘΜΟ ΤΩΝ ΚΟΜΜΑΤΙΩΝ ΓΙΑ ΑΝΤΙΓΡΑΦΗ:"
+cddawav_MSG2="Πατήστε Crtl + c για να ακυρώσετε την αντιγραφή ενός κομματιού"
+cddawav_MSG3="Εκτέλεση:"
+cddawav_MSG4="ΕΞΕΓΡΑΦΗΚΕ ΕΠΙΤΥΧΙΑ"
+cddawav_MSG5="ΣΦΑΛΜΑ ΑΝΤΙΓΡΑΦΗΣ"
+
+# wavamp3
+
+wavamp3_MSG0="ΑΡΧΕΙΑ WAV ΓΙΑ ΜΕΤΑΤΡΟΠΗ"
+wavamp3_MSG1="Εισαγάγετε τη διαδρομή των αρχείων .wav: "
+wavamp3_MSG1B="ΜΕΤΑΤΡΟΠΗ"
+wavamp3_MSG2="ΜΙΑ ΜΟΡΦΗ"
+wavamp3_MSG3="Εκτέλεση:"
+wavamp3_MSG4="κατά τη μετατροπή"
+wavamp3_MSG5="σε μορφή .MP3"
+wavamp3_MSG6="Σφάλμα μετατροπής"
+wavamp3_MSG7="Η ΜΕΤΑΤΡΟΠΗ ΗΧΟΥ ΟΛΟΚΛΗΡΩΘΗΚΕ"
+wavamp3_MSG8="ΔΕΝ ΒΡΕΘΗΚΕ Ο ΚΑΤΑΛΟΓΟΣ AUDIO"
+
+# cdamp3
+
+cdamp3_MSG1="αντιγραφή cd ήχου..."
+cdamp3_MSG2="Εκτέλεση:"
+cdamp3_MSG3="ΚΑΤΑ ΕΠΙΤΥΧΙΑ ΟΡΙΣΜΕΝΑ ΚΟΜΜΑΤΙΑ ΗΧΟΥ!!"
+cdamp3_MSG4="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΑΝΤΙΓΡΑΦΗ ΤΩΝ ΚΟΜΜΑΤΩΝ ΗΧΟΥ"
+cdamp3_MSG5="Κλήση της συνάρτησης:"
+
+# wavaogg
+
+wavaogg_MSG1="Εισαγάγετε τη διαδρομή των αρχείων .wav: "
+wavaogg_MSG2="ΠΡΟΣΚΛΗΣΗ"
+wavaogg_MSG3="ΜΟΡΦΗ .ogg"
+wavaogg_MSG4="Εκτέλεση:"
+wavaogg_MSG5="Σφάλμα μετατροπής"
+wavaogg_MSG6="σε μορφή .ogg"
+
+# cdaogg
+
+cdaogg_MSG1="αντιγραφή cd ήχου..."
+cdaogg_MSG2="Εκτέλεση:"
+cdaogg_MSG3="ΚΑΤΑ ΕΠΙΤΥΧΙΑ ΟΡΙΣΜΕΝΑ ΚΟΜΜΑΤΙΑ ΗΧΟΥ!!"
+cdaogg_MSG4="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗΝ ΑΝΤΙΓΡΑΦΗ ΤΩΝ ΚΟΜΜΑΤΩΝ ΗΧΟΥ"
+cdaogg_MSG5="Κλήση της συνάρτησης:"
+
+# corta_wav
+
+corta_wav_MSG0="Αριθμός δευτερολέπτων:"
+corta_wav_MSG1="Καθορίστε τη διαδρομή του αρχείου ήχου προς μετατροπή:"
+corta_wav_MSG2="Καθορίστε την ώρα σε αριθμό δευτερολέπτων, για την οποία"
+corta_wav_MSG3="θα ξεκινήσει η αποκοπή του αρχείου."
+corta_wav_MSG4="-ΣΗΜΕΙΩΣΗ-"
+corta_wav_MSG5="Για να καθορίσετε την αρχή του ήχου, πληκτρολογήστε 0"
+corta_wav_MSG6="Τιμή σε δευτερόλεπτα για να ξεκινήσει η μετατροπή:"
+corta_wav_MSG7="Καθορίστε την ώρα σε αριθμό δευτερολέπτων, για την οποία"
+corta_wav_MSG8="Η αποκοπή του αρχείου θα ολοκληρωθεί."
+corta_wav_MSG9="Τιμή σε δευτερόλεπτα για το τέλος της μετατροπής:"
+corta_wav_MSG10="Εκτέλεση"
+corta_wav_MSG11="Περικομμένο αρχείο ήχου"
+corta_wav_MSG12="Σφάλμα κατά την περικοπή του αρχείου"
+corta_wav_MSG13="Αρχείο ήχου για περικοπή:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1="Καθορίστε τη διαδρομή των αρχείων .flac:"
+flacawav_MSG2="ΠΡΟΣΚΛΗΣΗ"
+flacawav_MSG3=" ΣΕ ΜΟΡΦΗ .wav"
+flacawav_MSG4="Η δειγματοληψία ορίστηκε στα 44100 Mhz"
+flacawav_MSG5="Σφάλμα επεξεργασίας δειγματοληψίας"
+flacawav_MSG6="Κανονοποίηση αρχείου ήχου"
+flacawav_MSG7="Αρχείο"
+flacawav_MSG8="Normalized"
+flacawav_MSG9="Σφάλμα κανονικοποίησης"
+flacawav_MSG10="Απέτυχε η μετατροπή"
+flacawav_MSG11="Δεν βρέθηκε ο κατάλογος"
+flacawav_MSG12="ΤΕΛΟΣ ΜΕΤΑΤΡΟΠΗΣ ΗΧΟΥ"
+
+# wavaflac
+
+wavaflac_MSG0="ΑΡΧΕΙΑ WAV ΓΙΑ ΜΕΤΑΤΡΟΠΗ"
+wavaflac_MSG1="Εισαγάγετε τη διαδρομή των αρχείων .wav: "
+wavaflac_MSG2="ΠΡΟΣΚΛΗΣΗ"
+wavaflac_MSG3="ΜΟΡΦΗ .flac"
+wavaflac_MSG4="μετατραπεί σε μορφή flac"
+wavaflac_MSG5="Σφάλμα μετατροπής"
+wavaflac_MSG6="σε μορφή .flac"
+wavaflac_MSG7="ΔΕΝ ΒΡΕΘΗΚΕ Ο ΚΑΤΑΛΟΓΟΣ ΑΡΧΕΙΩΝ FLAC"
+

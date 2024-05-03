@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLithuanian/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en Lituano para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="GARSO KONVERSIJA"
+menu_conversion_audio_MSG2="------------ FORMATŲ KONVERSIJA -----------"
+menu_conversion_audio_MSG3="Konvertuoti .mp3 į .wav"
+menu_conversion_audio_MSG4="Konvertuoti .ogg į .wav"
+menu_conversion_audio_MSG5="Konvertuoti .wav į .mp3"
+menu_conversion_audio_MSG6="Konvertuoti .wav į .ogg"
+menu_conversion_audio_MSG6C="Konvertuoti .wav į .flac"
+menu_conversion_audio_MSG6B="Konvertuoti .flac į .wav"
+menu_conversion_audio_MSG7="----------- GARSO TAKAS IŠGAVIMAS ---------"
+menu_conversion_audio_MSG8="Nukopijuokite garso kompaktinį diską į .wav"
+menu_conversion_audio_MSG9="Nukopijuokite garso takelių rinkinį į .wav"
+menu_conversion_audio_MSG10="Nukopijuokite garso kompaktinį diską į .mp3"
+menu_conversion_audio_MSG11="Nukopijuokite garso kompaktinį diską į .ogg"
+menu_conversion_audio_MSG0="Ankstesnis meniu"
+menu_conversion_audio_MSG12="Ieškoti .mp3 failų"
+menu_conversion_audio_MSG13="Ieškoti .ogg failų"
+menu_conversion_audio_MSG14="Ieškoti .wav failų"
+menu_conversion_audio_MSG15="------------- KITOS OPERACIJOS -----------"
+menu_conversion_audio_MSG16="Iškirpti .wav garso failą"
+menu_conversion_audio_MSG17="Nukopijuokite garso kompaktinį diską į .flac"
+

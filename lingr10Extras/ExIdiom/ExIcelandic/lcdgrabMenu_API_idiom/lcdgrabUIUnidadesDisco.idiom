@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExIcelandic/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Islandés para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="REKSTUR DISKRIFS"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- MIKILVÆGT -----------------------"
+MenuDispositivosBloque_MSG3="+ Ekki framkvæma skrifaðgerðir á hörðum diskum "
+MenuDispositivosBloque_MSG4="+ um disksneið sem inniheldur myndir"
+MenuDispositivosBloque_MSG5="+ endurheimt, ræstu skipting eða þín eigin"
+MenuDispositivosBloque_MSG6="+ skipting stýrikerfis."
+MenuDispositivosBloque_MSG7="+ Misnotkun á skrifvalkostum þessarar valmyndar "
+MenuDispositivosBloque_MSG8="+ getur framkallað stórslys í kerfinu."
+MenuDispositivosBloque_MSG9="+ Notið með varúð. Notið á eigin ábyrgð."
+MenuDispositivosBloque_MSG10="------------------- SKRIF --------------------"
+MenuDispositivosBloque_MSG11="Sendu myndskrá á diskadrif"
+MenuDispositivosBloque_MSG11B="Henttu iso eða img mynd (sjálfræsanlegur) á pendrive eða USB disk"
+MenuDispositivosBloque_MSG11C="Ekki öll uppsetningarkerfi studd."
+MenuDispositivosBloque_MSG12="Sníða drif með innfæddu Linux eða Windows skráarkerfi"
+MenuDispositivosBloque_MSG13="-------------------- LESTUR ---------------------"
+MenuDispositivosBloque_MSG14="Búa til .img mynd af diskadrifi"
+MenuDispositivosBloque_MSG15="Fyrri valmynd"
+MenuDispositivosBloque_MSG16="Sláðu inn valmöguleika"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------MIKILVÆGT------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Forsníða eining með skráarkerfi notað í tækjum"
+UIFormatearUnidad_linuxfs_MSG2B="+ eða disksneiðing."
+UIFormatearUnidad_linuxfs_MSG3="+ Þessi valkostur mun eyða öllum núverandi gögnum á einingunni"
+UIFormatearUnidad_linuxfs_MSG4="+ Færanlegir drif sniðnir með skráarkerfi"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux sjálft verður aðeins aðgengilegt undir þessu stýrikerfi."
+UIFormatearUnidad_linuxfs_MSG6="+ Notið með varúð, notað á eigin ábyrgð."
+UIFormatearUnidad_linuxfs_MSG7="-----------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="ÝTTU Á C LYKILINN TIL AÐ HALDA ÁFRAM; (Ferlið verður hætt í öðrum valkosti)"
+

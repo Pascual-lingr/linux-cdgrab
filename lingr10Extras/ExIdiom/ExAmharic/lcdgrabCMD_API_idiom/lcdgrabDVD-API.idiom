@@ -1,0 +1,172 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAmharic/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Amárico para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="መቅጃ መሳሪያ እንደ"
+buscar_grabadora_MSG1B="የሚሰራ"
+buscar_grabadora_MSG2="መቅጃ መሳሪያ እንደ"
+buscar_grabadora_MSG2B="ስህተት"
+buscar_grabadora_MSG3="dvd+-rw-tools የመቅጃ መሳሪያው መሆኑን አይቀበሉም"
+buscar_grabadora_MSG4="dvd+rw-tools ን በመጠቀም ዲቪዲዎችን ለማቃጠል መቅጃውን እንደ ማገጃ መሳሪያ መጥቀስ አለቦት"
+buscar_grabadora_MSG5="ምሳሌ"
+buscar_grabadora_MSG6="ወይም"
+buscar_grabadora_MSG7="ነባር የስርዓት መሳሪያዎችን በ/dev ውስጥ በማሳየት ላይ"
+buscar_grabadora_MSG8="ከዲቪዲ መቅረጫዎ ጋር የሚዛመደውን የማገጃ መሳሪያ ያስገቡ"
+buscar_grabadora_MSG9="ምንም የመቅጃ አይነት ወይም አማራጭ አልተገለጸም።"
+buscar_grabadora_MSG10="መሣሪያው ለመቅጃው ተዋቅሯል"
+buscar_grabadora_MSG11="የቀረጻ መሳሪያው ወደ ሼል አካባቢ ተልኳል እንደ"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="የሚቻል እሴት ለ cdrecord ብቻ የሚሰራ"
+buscar_grabadoralb_MSG2="የአሁኑ ውቅር መቅረጫ ነው"
+buscar_grabadoralb_MSG3="ይህ ውቅር በcdrskin ከተሰጠው እሴት ጋር እንደሚዛመድ ያረጋግጡ"
+buscar_grabadoralb_MSG4="IDE/SCSI ወደብ ከሲድርስኪን ጋር በመቃኘት ላይ..."
+buscar_grabadoralb_MSG5="ከcdrskin ጋር ጥቅም ላይ የሚውለውን አዲሱን እሴት ይግለጹ:"
+
+# datos_dvd
+
+datos_dvd_MSG1="ለወደፊቱ ዲቪዲ ስም አስገባ:"
+datos_dvd_MSG2="ዲቪዲ እየቀረጸ ..."
+datos_dvd_MSG3="መጠቀም"
+datos_dvd_MSG4="እየሮጠ"
+datos_dvd_MSG5="DVD በተሳካ ሁኔታ ተመዝግቧል!"
+datos_dvd_MSG6="mkisofs ወይም genisoimage ሊገኝ አይችልም፣ cdrtools ወይም cdrkit ጫን"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="ለወደፊቱ ዲቪዲ ስም አስገባ:"
+datos_dvd_multi_MSG2="ዲቪዲ እየቀረጸ ..."
+datos_dvd_multi_MSG3="መጠቀም"
+datos_dvd_multi_MSG4="እየሮጠ"
+datos_dvd_multi_MSG5="DVD በተሳካ ሁኔታ ተመዝግቧል!"
+datos_dvd_multi_MSG6="mkisofs ወይም genisoimage ሊገኝ አይችልም፣ cdrtools ወይም cdrkit ጫን"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="ምስል መቅረጽ። . ."
+grabimg_dvd_MSG2="መሮጥ"
+grabimg_dvd_MSG3="!የዲቪዲ ምስል በተሳካ ሁኔታ ተመዝግቧል!"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="በዲቪዲ ላይ ምስል መቅዳት። . ."
+copia_bin_dvd_MSG2="መሮጥ"
+copia_bin_dvd_MSG3="	የምስል ፋይልን በመሰረዝ ላይ"
+copia_bin_dvd_MSG4="ቀረጻ ተጠናቅቋል!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="ቅርጸት ሀ"
+formatear_dvd_MSG2="ለ አዲስ ቅርጸት አስገድድ"
+formatear_dvd_MSG3="የመሪ መውጫ እገዳን ወደ ሌላ ቦታ ቀይር"
+formatear_dvd_MSG4="DVD-RW ወደ ተከታታይ ጭማሪ ቅረጽ"
+formatear_dvd_MSG5="ዲቪዲ-አርደብሊው ወደተገደበ መፃፍ ይቅረጹ"
+formatear_dvd_MSG6="በዜሮዎች ዲቪዲ ሙላ"
+formatear_dvd_MSG7="የዲቪዲ መረጃ አሳይ"
+formatear_dvd_MSG8="የቀድሞው ምናሌ"
+formatear_dvd_MSG9="ይህ አማራጭ ዲቪዲውን ለመጀመሪያ ጊዜ ለመቅረጽ ይጠቅማል።"
+formatear_dvd_MSG10="ዲቪዲው አስቀድሞ ከተቀረጸ ውሂቡን አይሰርዘውም።"
+formatear_dvd_MSG11="እነዚህ በአዲስ ቅጂ ይገለበጣሉ።"
+formatear_dvd_MSG12="የዲቪዲ አጠቃቀምን ይዘቶች ለመሰረዝ፡"
+formatear_dvd_MSG13="በዜሮዎች ዲቪዲ ሙላ"
+formatear_dvd_MSG14="ይህ አማራጭ ከታከመው ዲቪዲ ቅርጸት እና ውሂብ ይሰርዛል።"
+formatear_dvd_MSG15="እየሮጠ"
+formatear_dvd_MSG16="DVD+RW/DVD-RW በተሳካ ሁኔታ ተቀርጿል!"
+formatear_dvd_MSG17="ዲቪዲ ሲቀረጽ ስህተት"
+formatear_dvd_MSG18="በዲቪዲ+አርደብሊው ዲስክ ላይ ማስገደድ..."
+formatear_dvd_MSG19="DVD+RW በተሳካ ሁኔታ ተቀርጿል!"
+formatear_dvd_MSG20="DVD+RW ሲቀርጽ ስህተት"
+formatear_dvd_MSG21="ይህ አማራጭ በዲቪዲ+አርደብሊው ላይ የተቀመጠውን ውሂብ አይጎዳውም"
+formatear_dvd_MSG22="የሊድ መውጫ እገዳን ከዲቪዲ+አርደብሊውድ በማስወገድ ላይ..."
+formatear_dvd_MSG23="DVD-RW ዲስክን ወደ ተከታታይ ጽሁፍ በመቅረጽ ላይ..."
+formatear_dvd_MSG24="DVD-RW በተሳካ ሁኔታ ተቀርጿል!"
+formatear_dvd_MSG25="ዲቪዲ-አርደብሊው ሲቀረጽ ስህተት"
+formatear_dvd_MSG26="ዲቪዲ-አርደብሊው ዲስኩን ወደ የተገደበ ጽሁፍ በመቅረጽ ላይ..."
+formatear_dvd_MSG27="ኢሬሴ በድጋሚ ሊጻፍ የሚችል ዲቪዲ"
+
+# null_dvd
+
+null_dvd_MSG1="ከ/dev/ዜሮ ወደ ዲስክ በመጻፍ ላይ። . ."
+null_dvd_MSG2="መሮጥ"
+null_dvd_MSG3="የተጠናቀቀ ሂደት"
+null_dvd_MSG4="ያልተጠበቀ ስህተት"
+
+# dvd_video
+
+dvd_video_MSG1="VIDEO_TS እና AUDIO_TS ማውጫዎች የሚገኙበት መንገድ፡-"
+dvd_video_MSG2="የVIDEO_TS እና AUDIO_TS ማውጫዎች የሚገኙበትን መንገድ ይግለጹ፡"
+dvd_video_MSG3="መሮጥ"
+dvd_video_MSG4="--- ዲቪዲ-ቪዲዮ በተሳካ ሁኔታ ተመዝግቧል ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="መሮጥ"
+dvd_copia_bin_MSG2="	የምስል ፋይልን በመሰረዝ ላይ"
+dvd_copia_bin_MSG3="በቀረጻው ላይ ስህተት ተከስቷል።"
+
+# dvd_datos
+
+dvd_datos_MSG1="የ iso ምስል ለመፍጠር ፋይሎች እና ማውጫዎች"
+dvd_datos_MSG2="ዲቪዲ መለያ"
+dvd_datos_MSG3="ለወደፊቱ ዲቪዲ ስም አስገባ:"
+dvd_datos_MSG4="ፋይል አቀናባሪውን በማስጀመር ላይ:"
+dvd_datos_MSG5="	ምስል መፍጠር። . ."
+dvd_datos_MSG6="መሮጥ"
+dvd_datos_MSG7="ISO-9660 ምስል ተፈጥሯል።"
+dvd_datos_MSG8="		የሚቃጠል ዲቪዲ"
+dvd_datos_MSG13="ምስልን በመሰረዝ ላይ..."
+
+# dvd_borra
+
+dvd_borra_MSG1="መሮጥ"
+dvd_borra_MSG2="ኦፕቲካል ዲስክ በተሳካ ሁኔታ ተቀርጿል"
+dvd_borra_MSG3="የጨረር ዲስክ ሲቀርጽ ስህተት"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="መሮጥ"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="መሮጥ"
+formatearCDDVDBD_MSG2="ኦፕቲካል ዲስክ በተሳካ ሁኔታ ተቀርጿል"
+formatearCDDVDBD_MSG3="ኦፕቲካል ዲስክ ሲቀረጽ ስህተት"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW በተሳካ ሁኔታ ተቀርጿል!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="DVD-RW ወደ የተገደበ መፃፍ መቅረጽ ላይ ስህተት"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW በተሳካ ሁኔታ ተቀርጿል!!"
+formatearDVDRW_incremental_secuencial_MSG2="DVD-RW ወደ ተከታታይ ጭማሪ ሲቀርጽ ስህተት"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="የሚቃጠልበትን የ iso-9660 ምስል መንገድ ይግለጹ፡"
+cdrskinisocddvd_MSG2="ISO ምስል በተሳካ ሁኔታ ተመዝግቧል!!"
+cdrskinisocddvd_MSG3="ምስል በሚቀረጽበት ጊዜ ስህተት"
+
+

@@ -1,0 +1,49 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental, generado con google translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="ການ​ສ້າງ​ແລະ​ການ​ຈັດ​ການ​ກັບ​ຮູບ​ພາບ​ແຜ່ນ​"
+MenuImagen_MSG2="------------- ການສ້າງຮູບພາບ -------------"
+MenuImagen_MSG3="ສ້າງຮູບພາບ ISO-9660"
+MenuImagen_MSG4="ສ້າງຮູບພາບດ້ວຍລະບົບໄຟລ໌ Linux ພື້ນເມືອງ"
+MenuImagen_MSG5="ສ້າງ .img ຮູບພາບຂອງອຸປະກອນບລັອກໃດນຶ່ງ"
+MenuImagen_MSG6="ສ້າງ .bin .cue ຮູບພາບຈາກອຸປະກອນປະຈຸບັນ"
+MenuImagen_MSG7="---------------- ທາງເລືອກອື່ນ ----------------"
+MenuImagen_MSG8="ສ້າງໄຟລ໌ລາຍລະອຽດ .cue ຈາກຮູບ .bin"
+MenuImagen_MSG9="ປ່ຽນຮູບ .nrg (Nero Burning ROM) ເປັນ .iso"
+MenuImagen_MSG10="ບີບອັດຮູບພາບດ້ວຍ gzip, bzip2 ຫຼື xz"
+MenuImagen_MSG11="ຫຍໍ້ຮູບໃນ zip, gz, bz2 ຫຼື xz"
+MenuImagen_MSG11B="ກວດເບິ່ງ md5 sum ຂອງຮູບ iso"
+MenuImagen_MSG12="ປ່ຽນໂໝດ iso"
+MenuImagen_MSG0="ເມນູກ່ອນໜ້າ"
+MenuImagen_MSG13="ໄຟລ໌ຮູບພາບທີ່ຈະຖືກບີບອັດ"
+MenuImagen_MSG14="ບີບອັດໄຟລ໌ຮູບພາບ"
+MenuImagen_MSG15="ພິມເສັ້ນທາງໄດເລກະທໍລີບ່ອນທີ່ຮູບພາບທີ່ທ່ານຕ້ອງການບີບອັດຕັ້ງຢູ່:"
+MenuImagen_MSG16="ໄຟລ໌ຮູບພາບທີ່ເຈົ້າຕ້ອງການບີບອັດ"
+MenuImagen_MSG17="ລະດັບ iso ໃນປັດຈຸບັນ"
+MenuImagen_MSG18="ລະດັບ iso"
+MenuImagen_MSG19="ຊື່ໄຟລ໌ປະກອບດ້ວຍພາກສ່ວນ"
+MenuImagen_MSG20="ແລະຖືກຈຳກັດໄວ້ທີ່ 8.3 ຕົວອັກສອນ."
+MenuImagen_MSG21="ເລືອກລະດັບນີ້ຖ້າທ່ານຕ້ອງການຄວາມເຂົ້າກັນໃນການຕັ້ງຊື່"
+MenuImagen_MSG21b="ພາຍໃຕ້ລະບົບປະຕິບັດການ MS-DOS"
+MenuImagen_MSG22="ຊື່ໄຟລ໌ປະກອບດ້ວຍພາກສ່ວນ"
+MenuImagen_MSG23="ລະດັບບໍ່ຈຳກັດ."
+MenuImagen_MSG24="ໃຊ້ລະດັບນີ້ຖ້າທ່ານຕ້ອງການຄວາມເຂົ້າກັນໄດ້ຂອງໄຟລ໌"
+MenuImagen_MSG25="ໃຫຍ່, ໃນກໍລະນີນີ້ >= 2 Gigabytes."
+MenuImagen_MSG26="ລະດັບ ISO ທັງໝົດຈຳກັດຊື່ໄຟລ໌ໃຫ້ເປັນຕົວພິມໃຫຍ່, ຕົວພິມນ້ອຍ ແລະ"
+MenuImagen_MSG27="ຕົວອັກສອນຄື _ . ຊື່ໄຟລ໌ຖືກຈຳກັດໄວ້ທີ່ 31 ຕົວອັກສອນ"
+MenuImagen_MSG28="ສູງສຸດ 8 ເສັ້ນທາງໄດເລກະທໍລີ ແລະຊື່ເສັ້ນທາງ"
+MenuImagen_MSG29="ໄດເລກະທໍລີເຖິງ 255 ຕົວອັກສອນ."
+MenuImagen_MSG30="ເລືອກລະດັບ iso ໃໝ່"
+MenuImagen_MSG31="ISO ລະດັບ 4 ບໍ່ແມ່ນທາງການ"
+MenuImagen_MSG32="ປຶກສາກັບໜ້າ mkisofs man"
+MenuImagen_MSG33="ລະດັບ ISO ບໍ່ຖືກຕ້ອງ"
+MenuImagen_MSG34="ISO ລະດັບ 3 ຖືກສ້າງຕັ້ງຂຶ້ນໂດຍຄ່າເລີ່ມຕົ້ນ"

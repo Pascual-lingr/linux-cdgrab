@@ -1,0 +1,21 @@
+ລາວ
+
+Lao.
+Experimental.
+
+Por estudio del comportamiento de los caracteres de Lao bajo el shell.
+Contiene errores de significado en contexto o traducción propia.
+El shell debe tener soporte para los caracteres de idioma Lao, de lo
+contrario este idioma no será funcional en el shell.
+Generado con Google Translate.
+
+By study of the behavior of Lao characters under the shell.
+Contains meaning errors in context or own translation.
+The shell must have support for Lao language characters, otherwise
+Otherwise this language will not be functional in the shell.
+Generated with Google Translate.
+
+ພາສາລາວສຳລັບ linux-cdgrab.
+ທົດລອງ, ສ້າງຂຶ້ນດ້ວຍ Google ແປພາສາ.
+Pascual Martínez Cruz; pascual@hotmail.com
+

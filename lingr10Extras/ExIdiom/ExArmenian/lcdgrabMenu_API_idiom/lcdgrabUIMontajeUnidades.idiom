@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExArmenian/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en armenio para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="ՀԱՄԱԿԱՐԳՈՒՄ ՆԵՐԿԱՅԱՑՎԱԾ ՍԱՐՔԵՐԸ"
+montar_dispositivos_MSG1B="ՍԱՐՔԵՐԻ ՀԱՎԱՔՈՒՄ/ԱԱՊԱՏԵՄՈՒՄ"
+montar_dispositivos_MSG2="ՏԱՐԲԵՐԱԿՆԵՐ LINUX-CDGRAB"
+montar_dispositivos_MSG3="Հեռացրեք սկավառակը CD/DVD/BD ընթերցողից"
+montar_dispositivos_MSG4="Հեռացրեք սկավառակը CD/DVD/BD այրիչից"
+montar_dispositivos_MSG5="Միացնել CD-ROM/DVD-ROM/BD-ROM ընթերցող"
+montar_dispositivos_MSG6="Ապամոնտաժել CD-ROM/DVD-ROM/BD-ROM-ը"
+montar_dispositivos_MSG7="Սարքը ձեռքով ամրացրեք կամ ապամոնտաժեք"
+montar_dispositivos_MSG0="Նախորդ ընտրացանկ"
+montar_dispositivos_MSG8="CD/DVD/BD տեղադրված է"
+montar_dispositivos_MSG9="ՍԵՂՄԵՔ ENTER ՇԱՐՈՒՆԱԿԵԼՈՒ ՀԱՄԱՐ..."
+montar_dispositivos_MSG10="Սխալ՝ CD/DVD/BD-ն միացնելիս"
+montar_dispositivos_MSG11="CD/DVD/BD-ն ապամոնտաժված է"
+montar_dispositivos_MSG12="Սխալ՝ CD/DVD/BD-ն ապամոնտաժելիս"
+montar_dispositivos_MSG13="Մուտքագրեք սարքը միացնելու/անջատելու համար."
+montar_dispositivos_MSG14="Մուտքագրեք ամրացման կետը."
+montar_dispositivos_MSG15="չի համապատասխանում արգելափակման սարքին"
+montar_dispositivos_MSG16="Մակացման կետը չի գտնվել"
+montar_dispositivos_MSG17="Լռելյայն ամրացման կետ"
+montar_dispositivos_MSG18="Ընտրել տարբերակ."
+montar_dispositivos_MSG19="Տեղադրեք"
+montar_dispositivos_MSG20="hy"
+montar_dispositivos_MSG21="Անջատել"
+montar_dispositivos_MSG22="de"
+montar_dispositivos_MSG23="մոնտաժված է."
+montar_dispositivos_MSG24="ՍԽԱԼ ՄՈՏԱՑՄԱՆԸ"
+montar_dispositivos_MSG25="EN"
+montar_dispositivos_MSG26="հանվել է"
+montar_dispositivos_MSG27="ՍԽԱԼ ՀԵՏԱԴՐՈՒՄ ԵՆ"
+montar_dispositivos_MSG28="-ից"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="mount հրամանի ելքը"
+Montar_Imagenes_MSG1B="ՊԱՏԿԵՐԻ ՖԱՅԼԵՐԻ ՀԱՎԱՔՈՒՄ/ԱՊԱՏՈՒՄ"
+Montar_Imagenes_MSG2="Ընտրեք տարբերակ"
+Montar_Imagenes_MSG3=" Տեղադրեք CD/DVD/BD պատկերը"
+Montar_Imagenes_MSG4="Անջատեք CD/DVD/BD պատկերը"
+Montar_Imagenes_MSG5="Նախորդ ընտրացանկ"
+

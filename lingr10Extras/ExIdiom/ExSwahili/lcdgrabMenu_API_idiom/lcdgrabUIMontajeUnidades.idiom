@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Suajili para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="VIFAA VILIVYOWEKWA KWENYE MFUMO"
+montar_dispositivos_MSG1B="KUSUNGA/KUVUNJA VIFAA"
+montar_dispositivos_MSG2="LINUX OPTIONS-CDGRAB"
+montar_dispositivos_MSG3="Ondoa diski kutoka kwa kisomaji cha CD/DVD/BD"
+montar_dispositivos_MSG4="Ondoa diski kutoka kwa CD/DVD/BD burner"
+montar_dispositivos_MSG5="Mount CD-ROM/DVD-ROM/BD-ROM reader"
+montar_dispositivos_MSG6="Ondoa CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Pandisha au vunja kifaa kwa mkono"
+montar_dispositivos_MSG0="Menyu iliyotangulia"
+montar_dispositivos_MSG8="CD/DVD/BD imewekwa"
+montar_dispositivos_MSG9="BONYEZA INGIA ILI KUENDELEA..."
+montar_dispositivos_MSG10="Hitilafu katika kupachika CD/DVD/BD kwenye"
+montar_dispositivos_MSG11="CD/DVD/BD imetolewa"
+montar_dispositivos_MSG12="Hitilafu katika kuteremsha CD/DVD/BD"
+montar_dispositivos_MSG13="Charaza kifaa ili kupachika/kuondoa:"
+montar_dispositivos_MSG14="Ingiza mahali pa kupachika:"
+montar_dispositivos_MSG15="hailingani na kifaa cha kuzuia"
+montar_dispositivos_MSG16="Eneo la mlima halijapatikana"
+montar_dispositivos_MSG17="Sehemu chaguo-msingi ya kupachika"
+montar_dispositivos_MSG18="Chagua chaguo:"
+montar_dispositivos_MSG19="Weka"
+montar_dispositivos_MSG20="katika"
+montar_dispositivos_MSG21="Ondoa"
+montar_dispositivos_MSG22="ya"
+montar_dispositivos_MSG23="imewekwa kwenye:"
+montar_dispositivos_MSG24="KOSA WAKATI UNAWEKA"
+montar_dispositivos_MSG25="KATIKA"
+montar_dispositivos_MSG26="imetolewa kutoka"
+montar_dispositivos_MSG27="HITILAFU UNAPOONDOA"
+montar_dispositivos_MSG28="ya"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Mtoto wa amri ya kupachika"
+Montar_Imagenes_MSG1B="KUSUNGA/KUTANUA FAILI ZA PICHA"
+Montar_Imagenes_MSG2="Chagua chaguo"
+Montar_Imagenes_MSG3="Mlima CD/DVD/BD picha"
+Montar_Imagenes_MSG4="Ondoa picha ya CD/DVD/BD"
+Montar_Imagenes_MSG5="Menyu Iliyotangulia"
+

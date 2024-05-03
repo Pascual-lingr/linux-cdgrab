@@ -1,0 +1,69 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDanish/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en danés para las acciones sobre dispositivos de bloque.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Sti til .img- eller .ext2-billede, der skal dumpes til disk."
+volcar_imagen_MSG2="-----------------------VIGTIG----------------------------" 
+volcar_imagen_MSG3="+ Denne indstilling er ikke funktionel på optiske diske."
+volcar_imagen_MSG4="+ Brug på pendrives, disketter, diskpartitioner osv. "
+volcar_imagen_MSG5="+ Overvejelse med harddiske:"
+volcar_imagen_MSG6="+ Billedet er skrevet med dd fra begyndelsen"
+volcar_imagen_MSG7=" fra den angivne disk, brug af et tal er ikke tilladt"
+volcar_imagen_MSG8="specifik sektor for at starte skriveprocessen"
+volcar_imagen_MSG9="+ Brug med forsigtighed. Brug på egen risiko."
+volcar_imagen_MSG10="+ Diskpartitioner kan blive ubrugelige."
+volcar_imagen_MSG11="+ Det anbefales ikke at bruge det på multi-partitionssystemer."
+volcar_imagen_MSG12="Gendannelsen kan forlade partitionstabellen og"
+volcar_imagen_MSG13="ubrugelige partitioner i sig selv."
+volcar_imagen_MSG14="--------------------------------------------------------"
+volcar_imagen_MSG15="TRYK PÅ C-TASTEN FOR AT FORTSÆTTE; (Processen vil blive annulleret i en anden mulighed)"
+volcar_imagen_MSG16="Angiv stien til billedfilen, der skal dumpes til disken: "
+volcar_imagen_MSG17="Monter kommando output:"
+volcar_imagen_MSG18="Angiv den blokerende enhed, hvor billedet skal dumpes:"
+volcar_imagen_MSG19="DUMPING BILLEDE"
+volcar_imagen_MSG20="PÅ ENHEDEN"
+volcar_imagen_MSG21="kører"
+volcar_imagen_MSG22="BILLEDDUMP-PROCES FULDFØRT"
+
+# volcar_iso
+
+volcar_iso_MSG1="Angiv den blokerende enhed, som ISO-billedet skal skrives til:"
+volcar_iso_MSG2="BEMÆRKNING"
+volcar_iso_MSG2B="----------"
+volcar_iso_MSG3="Angiv blokeringsenhed at skrive til."
+volcar_iso_MSG4="Eksempler: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Angiv ikke en partition, der tilhører denne enhed"
+volcar_iso_MSG6="Eksempler: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Specificer iso-9660-billedet eller img'et for at skrive:"
+volcar_iso_MSG9="Process afsluttet"
+volcar_iso_MSG10="Fejl i iso skriveproces"
+volcar_iso_MSG11="Angiv blokstørrelse for at skrive billedet"
+volcar_iso_MSG12="Vælg mulighed i henhold til operativsystemet for at skrive:"
+volcar_iso_MSG13="ISO-9660 eller bootbart IMG-billede til at blinke på enheden:"
+volcar_iso_MSG14="Afslut"
+volcar_iso_MSG15="ISO-9660 ELLER IMG-BILLEDFIL"
+volcar_ISO_MSG16="VÆLG OPERATIVSYSTEM TIL AT dumpe I ENHED"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Vælg filsystemet med"
+Formateador_linuxfs_MSG2="enheden vil blive formateret:"
+Formateador_linuxfs_MSG3="Angiv blokeringsenheden, der skal formateres: "
+Formateador_linuxfs_MSG5="PROCESS FULDFØRT"
+Formateador_linuxfs_MSG6="DISKFORMATER"
+Formateador_linuxfs_MSG7="Indstil lydstyrketiket"
+Formateador_linuxfs_MSG10="Angiv volumenetikettens navn"
+Formateador_linuxfs_MSG11="Ny volumetiket"
+Formateador_linuxfs_MSG12="Angiv blokstørrelse"
+Formateador_linuxfs_MSG13="Ny blokstørrelse"
+Formateador_linuxfs_MSG14="Forrige menu"
+

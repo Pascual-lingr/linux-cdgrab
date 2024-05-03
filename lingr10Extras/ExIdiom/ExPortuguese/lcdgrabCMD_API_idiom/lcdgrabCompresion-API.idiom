@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExPortuguese/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en portugués para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Digite o caminho do arquivo ou diretório:"
+empaquetar_MSG2="------- Opções -------"
+empaquetar_MSG3="Gerar arquivo .tar.gz"
+empaquetar_MSG4="Gerar arquivo .tar.bz2"
+empaquetar_MSG5="Digite uma opção: "
+empaquetar_MSG6="Em execução"
+empaquetar_MSG7="Opção inválida"
+
+# desempaquetar
+
+desempaquetar_MSG1="Digite o caminho do arquivo:"
+desempaquetar_MSG2="NÃO DESCOMPRESSOR ENCONTRADO PARA"
+desempaquetar_MSG3="OU"
+desempaquetar_MSG4="NÃO EXISTE"
+desempaquetar_MSG5="Em execução"
+desempaquetar_MSG6="descompactado"
+desempaquetar_MSG7="Erro ao tentar descompactar"
+
+# comprime
+
+comprime_MSG1="COMPRESSANDO IMAGEM"
+comprime_MSG2="Compactar com bzip2"
+comprime_MSG3="Compactar com gzip"
+comprime_MSG4="Compactar com xz"
+comprime_MSG5="Menu anterior"
+comprime_MSG6="Em execução"
+comprime_MSG7="Compactação do arquivo de imagem concluída"
+comprime_MSG8="Erro ao compactar com"
+comprime_MSG9="Compressor inválido"
+
+# descomprime
+
+descomprime_MSG1="Digite o caminho do arquivo:"
+descomprime_MSG2="---------------------------"
+descomprime_MSG3="NÃO DESCOMPRESSOR ENCONTRADO PARA"
+descomprime_MSG4="OU"
+descomprime_MSG5="NÃO EXISTE"
+descomprime_MSG6="Em execução"
+descomprime_MSG7="descompactado"
+descomprime_MSG8="Erro ao tentar descompactar"
+

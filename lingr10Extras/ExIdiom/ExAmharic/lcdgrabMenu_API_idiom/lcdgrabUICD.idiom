@@ -1,0 +1,73 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAmharic/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al amárico, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="አንድ አማራጭ ይምረጡ"
+clonar_MSG2="------ ቅድመ-ምስል የዲስክ ቅጂዎች -------"
+clonar_MSG3="የውሂብ ሲዲ ይቅዱ"
+clonar_MSG4="በሃርድ ድራይቭዎ ላይ የቅድመ-ሲዲ ምስል ይፍጠሩ"
+clonar_MSG5="----------- በበረራ ላይ የዲስክ ቅጂዎች -----------"
+clonar_MSG6="በበረራ ላይ የውሂብ ሲዲ ቅዳ"
+clonar_MSG7="በበረራ ላይ የውሂብ ሲዲ ዝጋ"
+clonar_MSG7B="በበረራ ላይ የኦዲዮ ሲዲ ቅዳ"
+clonar_MSG8="የበራሪ ቅጅ አማራጮች ሁለት ኦፕቲካል አሃዶችን ይፈልጋሉ"
+clonar_MSG9="በኮምፒዩተርዎ ላይ ተጭኗል፣ ምክንያቱም መረጃው የሚቀዳው እያለ"
+clonar_MSG10="ኮምፒዩተርህ ብቻ ካለው ከኦሪጅኑ ዲስክ በቀጥታ አንብብ"
+clonar_MSG11="አንድ ሰው ቅጂዎቹን በበረራው ላይ መጠቀም አይችልም።"
+clonar_MSG12B="የሲዲ ውሂብ ቅጂ"
+clonar_MSG0="የቀድሞው ምናሌ"
+
+# mgrabacd
+
+mgrabacd_MSG1="የሲዲ ውሂብ ከሃርድ ዲስክ"
+mgrabacd_MSG2="አዲስ ዳታ ሲዲ ያቃጥሉ (cdrtools ይጠቀሙ)"
+mgrabacd_MSG3="አዲስ ዳታ ሲዲ ያቃጥሉ (ሊበርኒያ ይጠቀሙ)"
+mgrabacd_MSG4="የቀድሞው ምናሌ"
+mgrabacd_MSG5="አማራጭ አስገባ"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="የመረጃ ምስል መቅጃ"
+mgrabaimg_MSG2="የ iso ወይም ext2 ምስልን ወደ ሲዲ-አር/አርደብሊው ያቃጥሉ (cdrtools ይጠቀሙ)"
+mgrabaimg_MSG3="የአይሶ ምስልን ወደ ሲዲ-አር/አርደብሊው ያቃጥሉ (libburnia ይጠቀሙ)"
+mgrabaimg_MSG4="የቀድሞው ምናሌ"
+mgrabaimg_MSG5="አማራጭ አስገባ"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="የድምጽ ሲዲ ከ.wav ፋይሎች ያቃጥሉ"
+mgrabararchivosaudio_MSG2="የድምጽ ሲዲ ከ.mp3 ፋይሎች ያቃጥሉ"
+mgrabararchivosaudio_MSG3="የድምጽ ሲዲ ከ.ኦግ ፋይሎች ያቃጥሉ"
+mgrabararchivosaudio_MSG0="የቀድሞው ምናሌ"
+mgrabararchivosaudio_MSG0B="አማራጭ ተይብ"
+mgrabararchivosaudio_MSG4="የድምጽ ሲዲ ከ.flac ፋይሎች ያቃጥሉ"
+mgrabararchivosaudio_MSG5="CD-ድምጽ ቀረጻ ከፋይሎች"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="ወደ ሲዲ መቅዳት"
+menugrabar_cd_MSG2="------------------- ሲዲ - ዳታ -------------------"
+menugrabar_cd_MSG3="የውሂብ ሲዲ ቅዳ"
+menugrabar_cd_MSG4="አዲስ ዳታ ሲዲ ያቃጥሉ"
+menugrabar_cd_MSG5="አዲስ ባለ ብዙ ክፍለ ጊዜ ውሂብ ሲዲ ያቃጥሉ"
+menugrabar_cd_MSG6=".iso ወይም .ext2 ምስልን ወደ ሲዲ ማቃጠል"
+menugrabar_cd_MSG7=".bin/.cue ምስል ወደ ሲዲ ማቃጠል"
+menugrabar_cd_MSG8="-------------------- ሲዲ - ኦዲዮ ------------------"
+menugrabar_cd_MSG9="የድምጽ ሲዲ ቅዳ"
+menugrabar_cd_MSG13="----------------- ሌሎች አማራጮች -----------------"
+menugrabar_cd_MSG14="የተደባለቀ ሲዲ (ዳታ + ኦዲዮ) ያቃጥሉ"
+menugrabar_cd_MSG15="ሲዲ-RW ሰርዝ"
+menugrabar_cd_MSG16="ክፍት ሲዲ ዝጋ"
+menugrabar_cd_MSG17="የዲስክ መረጃን በድራይቭ ውስጥ አሳይ"
+menugrabar_cd_MSG18="ኦዲዮ ሲዲ ከዲስክ ፋይሎች ያቃጥሉ"
+menugrabar_cd_MSG0="የቀድሞው ምናሌ"
+menugrabar_cd_MSGPRINCIPAL="አማራጭ ተይብ"
+

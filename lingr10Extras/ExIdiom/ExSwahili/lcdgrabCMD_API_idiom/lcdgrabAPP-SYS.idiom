@@ -1,0 +1,110 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Suajili para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="Inajaribu tena mchakato wa kurekodi..."
+m_cdrecord_sin_overburn_MSG2="Kuendesha cdrecord bila chaguo la -overburn"
+m_cdrecord_sin_overburn_MSG3="-overburn haitumiki kwenye vifaa vya zamani vya kurekodi, wala matoleo ya zamani ya cdrecord."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="CHAGUO BATILI"
+
+# img_error
+
+img_error_D_MSG1="HITILAFU ILIPOTENGENEZA PICHA"
+
+# CD_error
+
+CD_error_D_MSG1="KOSA WAKATI WA KUCHOMA CD"
+
+# DVD_error
+
+DVD_error_D_MSG1="KOSA WAKATI WA KUCHOMA DVD"
+
+# DO_error
+
+DO_error_D_MSG1="KOSA WAKATI WA KUANDIKA DISC YA MAONI"
+
+
+# tecla
+
+tecla_D_MSG1="\nBonyeza ENTER ili kuendelea . . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="NJIA ZA DIRECTORIE KUCHOMA KWENYE DISC"
+rutas_dir_D_MSG2="Ingiza jina la saraka (f ili kutoka):"
+rutas_dir_D_MSG3="DIRECTORY"
+rutas_dir_D_MSG4="INVALID"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="KITENGO SAWA CHA MAONI KATIKA MFUMO"
+una_sola_grabadora_D_MSG2="KITENGO CHA KUSOMA NA KUREKODI NI SAWA. INADHANIWA KWAMBA MFUMO WAKO UNA KITENGO KIMOJA TU CHA MWILI. ONDOA diski ya CHANZO KUTOKA KWENYE KITENGO. WEKA DISC YA MAONI YA BIKIRA ILI KUENDELEA NA MCHAKATO WA KUREKODI"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="KUREKODI KWA DISC IMEKIKAMILIKA KWA MAFANIKIO"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="CHAGUO BATILI"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="KUREKODI KWA DISC IMEKIKAMILIKA KWA MAFANIKIO"
+
+# text_img_error
+
+text_img_error_MSG1="HITILAFU ILIPOTENGENEZA PICHA"
+
+# text_CD_error
+
+text_CD_error_MSG1="KOSA WAKATI WA KUCHOMA CD"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="KOSA WAKATI WA KUCHOMA DVD"
+
+# text_DO_error
+
+text_DO_error_MSG1="KOSA WAKATI WA KUANDIKA DISC YA MAONI"
+
+# teclash
+
+teclash_MSG1="Bonyeza ENTER ili kuendelea . . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Ingiza jina la saraka ( f ili kutoka ):"
+text_rutas_dir_MSG2="SARAKA"
+text_rutas_dir_MSG3=" SI HALALI"
+
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="KITENGO SAWA CHA MAONI KATIKA MFUMO"
+text_una_sola_grabadora_MSG2="KITENGO CHA KUSOMA NA KUREKODI NI SAWA."
+text_una_sola_grabadora_MSG3="INADHANIWA KWAMBA MFUMO WAKO UNA MMOJA TU"
+text_una_sola_grabadora_MSG4="KITENGO CHA MWILI."
+text_una_sola_grabadora_MSG5="ONDOA diski ya CHANZO KWENYE KITENGO."
+text_una_sola_grabadora_MSG6="WEKA DISC YA MAONI YA BIKIRA"
+text_una_sola_grabadora_MSG7="KUENDELEA NA MCHAKATO WA KUREKODI."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="Kimbia"

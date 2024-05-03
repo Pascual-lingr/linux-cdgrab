@@ -1,0 +1,109 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Vietnamita para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="Đang thử lại quá trình ghi..."
+m_cdrecord_sin_overburn_MSG2="Thực thi cdrecord mà không có tùy chọn -overburn"
+m_cdrecord_sin_overburn_MSG3="-overburn không tương thích trên các thiết bị ghi cũ hơn cũng như trên các phiên bản cdrecord cũ hơn."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="TÙY CHỌN KHÔNG HỢP LỆ"
+
+# img_error
+
+img_error_D_MSG1="LỖI KHI TẠO HÌNH ẢNH"
+
+# CD_error
+
+CD_error_D_MSG1="LỖI KHI GHI CD"
+
+# DVD_error
+
+DVD_error_D_MSG1="LỖI KHI GHI DVD"
+
+# DO_error
+
+DO_error_D_MSG1="LỖI KHI GHI ĐĨA QUANG"
+
+
+# tecla
+
+tecla_D_MSG1="\nNhấn Enter để tiếp tục. . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="ĐƯỜNG DẪN THƯ MỤC CẦN GHI VÀO ĐĨA"
+rutas_dir_D_MSG2="Nhập tên thư mục (f để thoát):"
+rutas_dir_D_MSG3="THƯ MỤC"
+rutas_dir_D_MSG4="không hợp lệ"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="CÙNG ĐƠN VỊ QUANG TRONG HỆ THỐNG"
+una_sola_grabadora_D_MSG2="ĐƠN VỊ ĐỌC VÀ GHI NHƯ VẬY. ĐƯỢC GIẢI QUYẾT RẰNG HỆ THỐNG CỦA BẠN CHỈ CÓ MỘT ĐƠN VỊ VẬT LÝ. THÁO ĐĨA NGUỒN Khỏi THIẾT BỊ. LẮP ĐĨA QUANG VIRGIN ĐỂ TIẾP TỤC QUÁ TRÌNH GHI"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="QUAY ĐĨA ĐÃ HOÀN THÀNH THÀNH CÔNG"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="TÙY CHỌN KHÔNG HỢP LỆ"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="QUAY ĐĨA ĐÃ HOÀN THÀNH THÀNH CÔNG"
+
+# text_img_error
+
+text_img_error_MSG1="LỖI KHI TẠO HÌNH ẢNH"
+
+# text_CD_error
+
+text_CD_error_MSG1="LỖI KHI GHI CD"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="LỖI KHI GHI DVD"
+
+# text_DO_error
+
+text_DO_error_MSG1="LỖI KHI GHI ĐĨA QUANG"
+
+# teclash
+
+teclash_MSG1="Nhấn Enter để tiếp tục. . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Nhập tên thư mục ( f để thoát):"
+text_rutas_dir_MSG2="THƯ MỤC"
+text_rutas_dir_MSG3="không hợp lệ"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="CÙNG ĐƠN VỊ QUANG TRONG HỆ THỐNG"
+text_una_sola_grabadora_MSG2="ĐƠN VỊ ĐỌC VÀ GHI NHƯ VẬY."
+text_una_sola_grabadora_MSG3="HỆ THỐNG CỦA BẠN CHỈ CÓ MỘT"
+text_una_sola_grabadora_MSG4="ĐƠN VỊ VẬT LÝ."
+text_una_sola_grabadora_MSG5="XÓA ĐĨA NGUỒN TỪ THIẾT BỊ."
+text_una_sola_grabadora_MSG6="CHÈN ĐĨA QUANG VIRGIN"
+text_una_sola_grabadora_MSG7="ĐỂ TIẾP TỤC QUÁ TRÌNH GHI."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="Đang chạy"

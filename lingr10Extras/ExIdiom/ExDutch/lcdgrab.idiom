@@ -1,0 +1,45 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Neerlandés para la aplicación principal
+# Traducción experimental.                         #
+# Generado con Google Translate.                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Bestand automatisch gegenereerd door LINUX-CDGRAB 1.0"
+creacion_de_Depot_MSG2="Dit bestand samen met de directory"
+creacion_de_Depot_MSG3="zijn automatisch gegenereerd"
+creacion_de_Depot_MSG4="door de Linux-cdgrab applicatie bij het verifiëren dat deze niet bestond in uw Linux-distributie"
+creacion_de_Depot_MSG5="de map"
+creacion_de_Depot_MSG6="Linux-cdgrab gebruikt deze map om tijdelijke bestanden en apparaatimages (iso, img etc..) te schrijven"
+creacion_de_Depot_MSG8="Depot wordt door GoboLinux gebruikt om tijdelijke bestanden op te slaan"
+creacion_de_Depot_MSG9="Het doel van dit bestand is alleen voor informatieve doeleinden, u kunt het na lezen vrijelijk verwijderen."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="LET OP:"
+main_IDSISTEMA_MSG2="Besturingssysteem niet ondersteund."
+main_IDSISTEMA_MSG3="Als er problemen zijn met de werking van de applicatie, gebruik dan GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="Het is geen geldig argument"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="gevonden"
+main_cdkit_test_MSG2="link naar wodim aangemaakt"
+main_cdkit_test_MSG3="link naar genisoimage aangemaakt"
+main_cdkit_test_MSG4="link naar icedax aangemaakt"
+
+# pgm principal
+
+pgm_principal_MSG1="FATAL: Geen correcte mapdistributie gevonden."
+pgm_principal_MSG2="ONBEKEND"
+

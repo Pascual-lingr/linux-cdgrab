@@ -1,0 +1,35 @@
+#########################################################
+# lcdgrabAPI_idiom/ExUkrainian/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Ucraniano para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Файли в /tmp"
+dir_tmp_MSG2="Видалити всі зображення та стислі файли"
+dir_tmp_MSG3="Запустити файловий менеджер для інших операцій"
+dir_tmp_MSG4="Монтувати або демонтувати образ"
+dir_tmp_MSG5="Показати меню створення зображення"
+dir_tmp_MSG6="Показати параметри запису зображення"
+dir_tmp_MSG7="Попереднє меню"
+dir_tmp_MSG8="СПИСОК ІСНУЮЧИХ ФАЙЛОВ В"
+dir_tmp_MSG9="ВИБЕРІТЬ ВАРІАНТ:"
+dir_tmp_MSG10="ВИДАЛЕНІ ЗОБРАЖЕННЯ ТА ФАЙЛИ"
+dir_tmp_MSG11="Підключити образ."
+dir_tmp_MSG12="Відключити образ."
+dir_tmp_MSG13="Записати образ на компакт-диск"
+dir_tmp_MSG14="Записати зображення на DVD"
+dir_tmp_MSG14B="Записати зображення на BD"
+dir_tmp_MSG15="Виберіть параметр відповідно до носія запису"
+dir_tmp_MSG16="ФАЙЛ НЕ ЗНАЙДЕНО ФАЙЛ КОНФІГУРАЦІЇ"
+dir_tmp_MSG17="Припинення процесу запису"
+dir_tmp_MSG18="Вкажіть файл .iso для запису"
+dir_tmp_MSG19="Введіть шлях до зображення: "
+
+

@@ -1,0 +1,148 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en georgian para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3 ფაილები კონვერტაციისთვის"
+mp3awav_MSG0="შეიყვანეთ .mp3 ფაილების გზა: "
+mp3awav_MSG1="მოწვევა"
+# Resultado del traductor
+mp3awav_MSG1B=" .wav FORMAT-ზე"
+mp3awav_MSG2="გაშვებულია"
+mp3awav_MSG3="ნიმუში დაყენებულია 44100 Mhz-ზე"
+mp3awav_MSG4="შეცდომა სინჯის დამუშავებისას"
+mp3awav_MSG5="კონვერტაცია ვერ მოხერხდა"
+mp3awav_MSG6="ცნობარი ვერ მოიძებნა"
+mp3awav_MSG7="აუდიო კონვერტაციის დასასრული"
+mp3awav_MSG8="აუდიო ფაილის ნორმალიზება"
+mp3awav_MSG9="ფაილი"
+mp3awav_MSG10="ნორმალიზებული"
+mp3awav_MSG11="ნორმალიზების შეცდომა"
+
+# oggawav
+
+oggawav_MSG0="OGG ფაილები კონვერტაციისთვის"
+oggawav_MSG1="შეიყვანეთ .ogg ფაილების გზა: "
+oggawav_MSG2="მოწვევა"
+# Resultado del traductor
+oggawav_MSG2B="A .wav FORMAT"
+oggawav_MSG3="გაშვებულია"
+oggawav_MSG4="ნიმუში დაყენებულია 44100 Mhz-ზე"
+oggawav_MSG5="შეცდომა შერჩევის დამუშავებისას"
+oggawav_MSG6="კონვერტაცია ვერ მოხერხდა"
+oggawav_MSG7="ცნობარი ვერ მოიძებნა"
+oggawav_MSG8="აუდიო დაფარვის ბოლო"
+oggawav_MSG9="აუდიო ფაილის ნორმალიზება"
+oggawav_MSG10="ფაილი"
+oggawav_MSG11="ნორმალიზებული"
+oggawav_MSG12="ნორმალიზების შეცდომა"
+
+# cdawav
+
+cdawav_MSG1="AUDIO CD-ის ამოღება..."
+cdawav_MSG2="შესრულებულია:"
+cdawav_MSG3="წარმატებულად დამწიფებული აუდიო ტრეკები!!"
+cdawav_MSG4="აუდიო ფაილების დირექტორიაში შიგთავსი"
+cdawav_MSG5="შეცდომა აუდიო ჩანაწერების დაბეჭდვისას"
+
+# cddawav
+
+cddawav_MSG1="შეიყვანეთ ჩასაწერი ტრეკების რაოდენობა:"
+cddawav_MSG2="დააჭირეთ Crtl + c, რათა გააუქმოთ ჩანაწერის ამოღება"
+cddawav_MSG3="შესრულებულია:"
+cddawav_MSG4="წარმატებით ამოღებული"
+cddawav_MSG5="შეცდომა ამოღებისას"
+
+# wavamp3
+
+wavamp3_MSG0="WAV ფაილები კონვერტაციისთვის"
+wavamp3_MSG1="შეიყვანეთ .wav ფაილების გზა: "
+wavamp3_MSG1B="კონვერტაცია"
+wavamp3_MSG2="ფორმატი"
+wavamp3_MSG3="შესრულებულია:"
+wavamp3_MSG4="კონვერტაციისას"
+wavamp3_MSG5=".MP3 ფორმატში"
+wavamp3_MSG6="კონვერტაციის შეცდომა"
+wavamp3_MSG7="აუდიო კონვერტაცია დასრულებულია"
+wavamp3_MSG8="აუდიო დირექტორია ვერ მოიძებნა"
+
+# cdamp3
+
+cdamp3_MSG1="AUDIO CD-ის ამოღება..."
+cdamp3_MSG2="შესრულებულია:"
+cdamp3_MSG3="წარმატებით დამწიფებული აუდიო ტრეკები!!"
+cdamp3_MSG4="შეცდომა აუდიო ჩანაწერების ამოღებისას"
+cdamp3_MSG5="გამოძახების ფუნქცია:"
+
+# wavaogg
+
+wavaogg_MSG1="შეიყვანეთ .wav ფაილების გზა: "
+wavaogg_MSG2="მოწვევა"
+# Resultado del traductor
+wavaogg_MSG3="A .ogg FORMAT"
+wavaogg_MSG4="გაშვება:"
+wavaogg_MSG5="კონვერტაციის შეცდომა"
+wavaogg_MSG6=".ogg ფორმატში"
+
+# cdaogg
+
+cdaogg_MSG1="აუდიო დისკების ამოღება..."
+cdaogg_MSG2="შესრულებულია:"
+cdaogg_MSG3="აუდიო ჩანაწერები წარმატებით დამწიფდა!!"
+cdaogg_MSG4="შეცდომა აუდიო ჩანაწერების დაბეჭდვისას"
+cdaogg_MSG5="გამოძახების ფუნქცია:"
+
+# corta_wav
+
+corta_wav_MSG0="წამების რაოდენობა:"
+corta_wav_MSG1="მიუთითეთ აუდიო ფაილის კონვერტაციის გზა:"
+corta_wav_MSG2="მიუთითეთ დრო წამებში, რისთვისაც"
+corta_wav_MSG3="დაიწყება ფაილის ამოჭრა."
+corta_wav_MSG4="-შენიშვნა-"
+corta_wav_MSG5="ხმის დასაწყისის დასაზუსტებლად შეიყვანეთ 0"
+corta_wav_MSG6="მნიშვნელობა წამებში კონვერტაციის დასაწყებად:"
+corta_wav_MSG7="მიუთითეთ დრო წამებში, რისთვისაც"
+corta_wav_MSG8="ფაილის ამოჭრა დასრულდება."
+corta_wav_MSG9="მნიშვნელობა წამებში კონვერტაციის დასასრულისთვის:"
+corta_wav_MSG10="გაშვება"
+corta_wav_MSG11="მოჭრილი აუდიო ფაილი"
+corta_wav_MSG12="შეცდომა ფაილის ამოჭრისას"
+corta_wav_MSG13="აუდიო ფაილი ამოსაჭრელად:"
+
+# flacawav
+
+# Resultado del traductor
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1="მიუთითეთ .flac ფაილების ბილიკი:"
+flacawav_MSG2="მოწვევა"
+# Resultado del traductor
+flacawav_MSG3=" TO .wav FORMAT"
+flacawav_MSG4="ნიმუში დაყენებულია 44100 Mhz-ზე"
+flacawav_MSG5="შეცდომა სინჯის დამუშავებისას"
+flacawav_MSG6="აუდიო ფაილის ნორმალიზება"
+flacawav_MSG7="ფაილი"
+flacawav_MSG8="ნორმალიზებული"
+flacawav_MSG9="ნორმალიზების შეცდომა"
+flacawav_MSG10="კონვერტაცია ვერ მოხერხდა"
+flacawav_MSG11="ცნობარი ვერ მოიძებნა"
+flacawav_MSG12="აუდიო კონვერტაციის დასასრული"
+
+# wavaflac
+
+wavaflac_MSG0="WAV ფაილები კონვერტაციისთვის"
+wavaflac_MSG1="შეიყვანეთ .wav ფაილების გზა: "
+wavaflac_MSG2="მოწვევა"
+# Resultado del traductor
+wavaflac_MSG3="A .flac FORMAT"
+wavaflac_MSG4="კონვერტირებულია flac ფორმატში"
+wavaflac_MSG5="კონვერტაციის შეცდომა"
+wavaflac_MSG6=".flac ფორმატში"
+wavaflac_MSG7="FLAC ფაილების დირექტორია ვერ მოიძებნა"
+

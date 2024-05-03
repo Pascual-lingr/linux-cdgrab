@@ -1,0 +1,51 @@
+#########################################################
+# lcdgrabAPI_idiom/ExItalian/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al italiano, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="Creazione e gestione delle immagini del disco"
+MenuImagen_MSG2="-------------- CREAZIONE IMMAGINE ------------"
+MenuImagen_MSG3="Crea un'immagine ISO-9660"
+MenuImagen_MSG4="Crea un'immagine con un file system Linux nativo"
+MenuImagen_MSG5="Crea un'immagine .img di qualsiasi dispositivo a blocchi"
+MenuImagen_MSG6="Crea un'immagine .bin .cue dal dispositivo corrente"
+MenuImagen_MSG7="---------------- ALTRE OPZIONI ---------------"
+MenuImagen_MSG8="Genera il file di descrizione .cue dall'immagine .bin"
+MenuImagen_MSG9="Converti un'immagine .nrg (Nero Burning ROM) in .iso"
+MenuImagen_MSG10="Comprimi un'immagine con gzip, bzip2 o xz"
+MenuImagen_MSG11="Decomprimi un'immagine in zip, gz, bz2 o xz"
+MenuImagen_MSG11B="Controlla la somma md5 delle immagini ISO"
+MenuImagen_MSG12="Cambia la modalità ISO"
+MenuImagen_MSG0="Menu precedente"
+MenuImagen_MSG13="File immagine da comprimere"
+MenuImagen_MSG14="COMPRESSO FILE IMMAGINE"
+MenuImagen_MSG15="Digita il percorso della directory in cui si trova l'immagine che desideri comprimere:"
+MenuImagen_MSG16="File immagine che vuoi decomprimere"
+MenuImagen_MSG17="LIVELLO ISO ATTUALE"
+MenuImagen_MSG18="livello iso"
+MenuImagen_MSG19="I nomi dei file sono costituiti da una sezione"
+MenuImagen_MSG20="e sono limitati a 8,3 caratteri."
+MenuImagen_MSG21="Scegli questo livello se desideri la compatibilità dei nomi"
+MenuImagen_MSG21b="sotto il sistema operativo MS-DOS"
+MenuImagen_MSG22="I nomi dei file sono costituiti da una sezione"
+MenuImagen_MSG23="Livello illimitato."
+MenuImagen_MSG24="Utilizza questo livello se desideri la compatibilità dei file"
+MenuImagen_MSG25="grande, in questo caso >= 2 Gigabyte."
+MenuImagen_MSG26="Tutti i livelli ISO limitano i nomi dei file a maiuscole, minuscole e"
+MenuImagen_MSG27="caratteri come _. I nomi dei file sono limitati a 31 caratteri"
+MenuImagen_MSG28="Massimo 8 percorsi di directory e nomi di percorso"
+MenuImagen_MSG29="directory fino a 255 caratteri."
+MenuImagen_MSG30="Scegli il nuovo livello ISO"
+MenuImagen_MSG31="Il livello ISO 4 non è ufficiale"
+MenuImagen_MSG32="Consulta la pagina man di mkisofs"
+MenuImagen_MSG33="Livello ISO non valido"
+MenuImagen_MSG34="Imposta il livello ISO 3 come predefinito"
+
+

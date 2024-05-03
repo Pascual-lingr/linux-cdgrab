@@ -1,0 +1,21 @@
+ትግሪኛ
+Experimental.
+
+Idioma Tigriña para linux-cdgrab.
+Por estudio del comportamiento de caracteres de este idioma en shell.
+Contiene errores de significado en contexto u ortográficos.
+El shell debe tener soporte para los caracteres del Tigriña, de lo
+contrario este idioma no será funcional en el shell.
+Generado con Google Translate.
+
+Tigrinya language for linux-cdgrab.
+By studying the behavior of characters of this language in shell.
+Contains errors in meaning in context or spelling.
+The shell must have support for Tigrinya characters, otherwise
+this language will not be functional in the shell.
+Generated with Google Translate.
+
+ቋንቋ ትግርኛ ን linux-cdgrab.
+ፈተነ፡ ብጉግል ትራንስሌት ዝተፈጥረ።
+Pascual Martínez Cruz; pascual@hotmail.com
+

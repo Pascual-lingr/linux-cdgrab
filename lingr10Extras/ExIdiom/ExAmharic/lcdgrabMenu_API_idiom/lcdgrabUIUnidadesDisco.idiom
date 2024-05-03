@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExAmharic/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Amárico para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="የዲስክ ድራይቭ ኦፕሬሽን"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- አስፈላጊ -----------------------"
+MenuDispositivosBloque_MSG3="+ በደረቅ አንጻፊዎች ላይ የመጻፍ ስራዎችን አትስሩ"
+MenuDispositivosBloque_MSG4="+ ምስሎችን ስለያዙ የዲስክ ክፍልፋዮች"
+MenuDispositivosBloque_MSG5="+ ማግኛ፣ የቡት ክፍልፍሎች ወይም የራስዎ"
+MenuDispositivosBloque_MSG6="+ የስርዓተ ክወና ክፍልፍል።"
+MenuDispositivosBloque_MSG7="+ የዚህን ምናሌ የመፃፍ አማራጮችን አላግባብ መጠቀም"
+MenuDispositivosBloque_MSG8="+ በስርዓቱ ውስጥ ጥፋት ሊያመጣ ይችላል።"
+MenuDispositivosBloque_MSG9="+ በጥንቃቄ ተጠቀም። በራስህ ኃላፊነት ተጠቀም።"
+MenuDispositivosBloque_MSG10="------------------- መፃፍ --------------------"
+MenuDispositivosBloque_MSG11="የምስል ፋይልን ወደ ዲስክ አንፃፊ ያውርዱ"
+MenuDispositivosBloque_MSG11B="የ iso ወይም img ምስል (በራስ የሚነሳ) ወደ pendrive ወይም USB ዲስክ ጣል ያድርጉ"
+MenuDispositivosBloque_MSG11C="ሁሉም የመጫኛ ስርዓቶች አይደገፉም."
+MenuDispositivosBloque_MSG12="ድራይቭን ከሊኑክስ ወይም ከዊንዶውስ ፋይል ስርዓት ጋር ይቅረጹ"
+MenuDispositivosBloque_MSG13="-------------------- ማንበብ ---------------------"
+MenuDispositivosBloque_MSG14="ከዲስክ አንፃፊ .img ምስል ይፍጠሩ"
+MenuDispositivosBloque_MSG15="ቀዳሚ ምናሌ"
+MenuDispositivosBloque_MSG16="አማራጭ ይተይቡ"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------አስፈላጊ------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ በመሣሪያዎች ውስጥ ጥቅም ላይ የሚውል የፋይል ስርዓት ያለው ክፍል ቅርጸት"
+UIFormatearUnidad_linuxfs_MSG2B="+ ወይም የዲስክ ክፍልፋዮች።"
+UIFormatearUnidad_linuxfs_MSG3="+ ይህ አማራጭ በዩኒቱ ላይ ያለውን ሁሉንም ውሂብ ይሰርዛል"
+UIFormatearUnidad_linuxfs_MSG4="+ ተነቃይ ድራይቮች በፋይል ስርዓት የተቀረጹ"
+UIFormatearUnidad_linuxfs_MSG5="+ ሊኑክስ ራሱ በዚህ ስርዓተ ክወና ስር ብቻ ነው ተደራሽ የሚሆነው።"
+UIFormatearUnidad_linuxfs_MSG6="+ በጥንቃቄ ተጠቀም፣ በራስህ ኃላፊነት ተጠቀም።"
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="ለመቀጠል የ C ቁልፍን ይጫኑ (ሂደቱ በሌላ አማራጭ ይሰረዛል)"
+

@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGreek/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al griego, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Το Linux-cdgrab δεν μπορεί να βρει το πρόγραμμα επεξεργασίας κειμένου vi"
+ayuda_MSG2="Εισαγάγετε το όνομα ενός προγράμματος επεξεργασίας κειμένου που είναι εγκατεστημένο στο σύστημά σας"
+ayuda_MSG3="ΔΕΝ ΒΡΕΘΗΚΕ ΕΓΚΑΤΑΣΤΗΜΕΝΟΣ ΣΥΝΤΑΚΤΗΣ"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Το αρχείο δημιουργείται αυτόματα από το LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="Αυτό το αρχείο μαζί με τον κατάλογο"
+creacion_de_mnt_MSG3="δημιουργήθηκαν αυτόματα"
+creacion_de_mnt_MSG4="από την εφαρμογή Linux-cdgrab κατά την επαλήθευση ότι δεν υπήρχε στη διανομή Linux σας"
+creacion_de_mnt_MSG5="ο κατάλογος"
+creacion_de_mnt_MSG6="Το Linux-cdgrab χρησιμοποιεί αυτόν τον κατάλογο για να προσαρτήσει τη μονάδα CD-ROM/DVD-ROM/BD-ROM"
+creacion_de_mnt_MSG7="Ο κατάλογος"
+creacion_de_mnt_MSG8="δεν θα διαγραφεί εάν απεγκατασταθεί το Linux-cdgrab αφού συνήθως είναι το"
+creacion_de_mnt_MSG9="προεπιλεγμένο σημείο προσάρτησης για /dev/cdrom στις περισσότερες διανομές Linux."
+creacion_de_mnt_MSG10="Εάν η διανομή σας χρησιμοποιεί άλλον κατάλογο για την προσάρτηση της συσκευής /dev/cdrom,"
+creacion_de_mnt_MSG11="δεν θα δημιουργήσει καμία ασυμβατότητα όταν προσπαθείτε να αποκτήσετε πρόσβαση στα δεδομένα της μονάδας σας"
+creacion_de_mnt_MSG12="αν και αν το Linux-cdgrab έχει απεγκατασταθεί, μπορείτε να το κάνετε χωρίς"
+creacion_de_mnt_MSG13="Ο σκοπός αυτού του αρχείου είναι μόνο για ενημερωτικούς σκοπούς, μπορείτε ελεύθερα να το διαγράψετε μόλις το διαβάσετε."
+
+# creditos
+
+creditos_MSG1="Διανομή με άδεια GPL v2"
+creditos_MSG2="Περισσότερες πληροφορίες στο www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, δημιουργός και συντηρητής"
+creditos_MSG4="Αναφορά σφάλματος: pascual89@hotmail.com"
+creditos_MSG5="Ιστότοπος προγράμματος: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Βασισμένο στο LINUX-CDGRAB 1.0 Πνευματικά δικαιώματα: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Φόρτιση"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="ΣΥΝΤΑΞΗ"
+lcdgrab_sintaxis_MSG2="Εκτύπωση αυτής της βοήθειας"
+lcdgrab_sintaxis_MSG3="Εκτύπωση της έκδοσης Linux-cdgrab"
+lcdgrab_sintaxis_MSG4="καθορίζει το κανάλι IDE ή τη συσκευή εγγραφής"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="καθορίζει την ταχύτητα εγγραφής"
+lcdgrab_sintaxis_MSG7="καθορίζει τη μονάδα CD-ROM/DVD-ROM/BD-ROM"
+lcdgrab_sintaxis_MSG8="καθορίζει το κανάλι IDE ATAPI της συσκευής εγγραφής"
+lcdgrab_sintaxis_MSG9="Οι επιλογές -G -V -L και -CA υπονοούν η μία την άλλη."
+lcdgrab_sintaxis_MSG9B="Οι επιλογές -iut -ium -iug και -iuk είναι ανεξάρτητες η μία από την άλλη,"
+lcdgrab_sintaxis_MSG9C="συμπληρωματικό προς -G -V -L και -CA, και ανεξάρτητο μεταξύ -h και -v"
+lcdgrab_sintaxis_MSG10="Οι επιλογές -h και -v είναι ανεξάρτητες μεταξύ τους και από τις υπόλοιπες."
+lcdgrab_sintaxis_MSG11="Παραδείγματα:"
+lcdgrab_sintaxis_MSG12="συσκευή"
+lcdgrab_sintaxis_MSG13="αριθμός"
+lcdgrab_sintaxis_MSG14="διασύνδεση κειμένου"
+lcdgrab_sintaxis_MSG15="διεπαφή με ncurses"
+lcdgrab_sintaxis_MSG16="γραφική διεπαφή με GTK"
+lcdgrab_sintaxis_MSG17="γραφική διεπαφή με Qt"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Εισαγάγετε τη διαδρομή του σεναρίου:"
+main_lcdgrabopdep_MSG2="Μη έγκυρη διαδρομή"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Εγκατεστημένα patches:"
+main_lcdgrabopdeppatch_MSG2="Εισαγάγετε τη διαδρομή ενημέρωσης κώδικα:"
+main_lcdgrabopdeppatch_MSG3="Δεν βρέθηκε"
+
+# menu principal dialog
+main_lcdgrabop9uidia="ΑΝΕΒΑΣΤΕ ΜΙΑ ΕΠΙΠΛΕΟΝ ΠΑΡΑΣΚΕΥΗ ΕΝΗΜΕΡΩΣΗΣ"
+
+# menu principal texto
+
+main_lcdgrabop1_text="ΕΓΓΡΑΦΗ ΣΕ CD\t\t\t\t="
+main_lcdgrabop2_text="ΕΓΓΡΑΦΗ DVD\t\t\t\t="
+main_lcdgrabop3_text="ΕΓΓΡΑΦΗ ΣΕ BD\t\t\t\t="
+main_lcdgrabop4_text="ΛΕΙΤΟΥΡΓΙΕΣ ΜΟΝΑΔΑΣ ΔΙΣΚΟΥ\t\t="
+main_lcdgrabop5_text="ΔΗΜΙΟΥΡΓΙΑ ΕΙΚΟΝΑΣ\t\t\t="
+main_lcdgrabop6_text="ΜΕΤΑΤΡΟΠΗ ΗΧΟΥ\t\t\t\t="
+main_lcdgrabop6b_text="ΜΕΤΑΤΡΟΠΗ ΒΙΝΤΕΟ\t\t\t\t="
+main_lcdgrabop7_text="ΤΟΠΟΘΕΤΗΣΗ Ή ΑΠΟΠΡΟΣΑΡΜΟΓΗ CD/DVD/BD\t="
+main_lcdgrabop8_text="ΤΟΠΟΘΕΤΗΣΗ Ή ΑΠΟΠΡΟΣΑΡΜΟΓΗ ΕΙΚΟΝΑΣ\t="
+main_lcdgrabop9_text="ΑΝΕΒΑΣΤΕ ΜΙΑ ΕΠΙΠΛΕΟΝ ΠΑΡΑΣΚΕΥΗ ΕΝΗΜΕΡΩΣΗΣ"
+main_lcdgrabop10_text="ΚΕΝΤΡΟ ΕΛΕΓΧΟΥ\t\t\t\t="
+main_lcdgrabop0_text="ΠΗΓΑΙΝΕ ΕΞΩ\t\t\t\t="
+main_lcdgrabet1_text="ΑΛΛΕΣ ΕΠΙΛΟΓΕΣ ##\t\t="
+main_lcdgrabopEe_text="Εξαγωγή δίσκου από τη μονάδα δίσκου"
+main_lcdgrabopTD_text="Εμφάνιση καταλόγου"
+tabs="\t\t="
+main_lcdgrabopG_text="Διαχείριση αρχείων\t\t\t="
+main_lcdgrabopH_text="Βοήθεια\t\t\t\t="
+main_lcdgrabopA_text="Σχετικά με\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="ΕΓΓΡΑΦΗ ΣΕ CD"
+main_lcdgrabop2="ΕΓΓΡΑΦΗ DVD"
+main_lcdgrabop3="ΕΓΓΡΑΦΗ ΣΕ BD"
+main_lcdgrabop4="ΛΕΙΤΟΥΡΓΙΕΣ ΜΟΝΑΔΑΣ ΔΙΣΚΟΥ"
+main_lcdgrabop5="ΔΗΜΙΟΥΡΓΙΑ ΕΙΚΟΝΑΣ"
+main_lcdgrabop6="ΜΕΤΑΤΡΟΠΗ ΗΧΟΥ"
+main_lcdgrabop6b="ΜΕΤΑΤΡΟΠΗ ΒΙΝΤΕΟ"
+main_lcdgrabop7="ΤΟΠΟΘΕΤΗΣΗ Ή ΑΠΟΠΡΟΣΑΡΜΟΓΗ CD/DVD/BD"
+main_lcdgrabop8="ΤΟΠΟΘΕΤΗΣΗ Ή ΑΠΟΠΡΟΣΑΡΜΟΓΗ ΕΙΚΟΝΑΣ"
+main_lcdgrabop9="ΑΝΕΒΑΣΤΕ ΜΙΑ ΕΠΙΠΛΕΟΝ ΠΑΡΑΣΚΕΥΗ ΕΝΗΜΕΡΩΣΗΣ"
+main_lcdgrabop10="ΚΕΝΤΡΟ ΕΛΕΓΧΟΥ"
+main_lcdgrabop0="ΠΗΓΑΙΝΕ ΕΞΩ"
+main_lcdgrabet1="ΑΛΛΕΣ ΕΠΙΛΟΓΕΣ ##"
+main_lcdgrabopEe="Εξαγωγή δίσκου από τη μονάδα δίσκου"
+main_lcdgrabopTD="Εμφάνιση καταλόγου"
+main_lcdgrabopG="Διαχείριση αρχείων"
+main_lcdgrabopH="Βοήθεια"
+main_lcdgrabopA="Σχετικά με"
+main_lcdgrabopPRINCIPAL="Πληκτρολογήστε μια επιλογή:"
+MSG1_MAIN="Επιλέγοντας H εμφανίζεται η χρήση των επιλογών."
+main_lcdgrabopA_MSG1="Τρέχει σε:"
+

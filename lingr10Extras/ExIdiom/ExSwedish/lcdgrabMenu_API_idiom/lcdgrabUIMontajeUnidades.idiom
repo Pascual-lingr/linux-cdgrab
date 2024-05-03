@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwedish/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en sueco para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="ENHETER SOM FÖR NU ÄR MONTERADE I SYSTEMET"
+montar_dispositivos_MSG1B="MONTERING/DEMONTERING AV ENHETER"
+montar_dispositivos_MSG2="LINUX OPTIONS-CDGRAB"
+montar_dispositivos_MSG3="Mata ut disk från CD/DVD/BD-läsare"
+montar_dispositivos_MSG4="Mata ut disk från CD/DVD/BD-brännare"
+montar_dispositivos_MSG5="Montera CD-ROM/DVD-ROM/BD-ROM-läsare"
+montar_dispositivos_MSG6="Avmontera CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Montera eller demontera enheten för hand"
+montar_dispositivos_MSG0="Föregående meny"
+montar_dispositivos_MSG8="CD/DVD/BD monterad på"
+montar_dispositivos_MSG9="TRYCK ENTER FÖR ATT FORTSÄTTA..."
+montar_dispositivos_MSG10="Fel vid montering av CD/DVD/BD på"
+montar_dispositivos_MSG11="CD/DVD/BD har avmonterats"
+montar_dispositivos_MSG12="Fel vid avmontering av CD/DVD/BD"
+montar_dispositivos_MSG13="Skriv enheten för att montera/avmontera:"
+montar_dispositivos_MSG14="Ange monteringspunkten:"
+montar_dispositivos_MSG15="motsvarar inte en blockeringsenhet"
+montar_dispositivos_MSG16="Monteringspunkt hittades inte"
+montar_dispositivos_MSG17="Standardmonteringspunkt"
+montar_dispositivos_MSG18="Välj alternativ:"
+montar_dispositivos_MSG19="Montera"
+montar_dispositivos_MSG20="sv"
+montar_dispositivos_MSG21="Avmontera"
+montar_dispositivos_MSG22="de"
+montar_dispositivos_MSG23="monterad på:"
+montar_dispositivos_MSG24="FEL VID MONTERING"
+montar_dispositivos_MSG25="SV"
+montar_dispositivos_MSG26="demonterad från"
+montar_dispositivos_MSG27="FEL VID AVMONTERING"
+montar_dispositivos_MSG28="de"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Utdata från monteringskommandot"
+Montar_Imagenes_MSG1B="MONTERA/MONTERA BILDFILER"
+Montar_Imagenes_MSG2="Välj ett alternativ"
+Montar_Imagenes_MSG3="Montera CD/DVD/BD-bild"
+Montar_Imagenes_MSG4="Avmontera CD/DVD/BD-bild"
+Montar_Imagenes_MSG5="Föregående meny"
+

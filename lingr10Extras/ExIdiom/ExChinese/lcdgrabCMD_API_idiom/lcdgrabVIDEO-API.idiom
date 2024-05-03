@@ -1,0 +1,56 @@
+#########################################################
+# lcgdrabAPI_idiom/ExChinese/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Traducción experimental al Chino simplificado de los mensajes
+# para la conversión de archivos de video.
+# Generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="视频转换蓝光光盘兼容性"
+conv_video_BDVideo_MSG2="指定要转换的视频文件路径："
+conv_video_BDVideo_MSG3="指定要创建的新视频的文件名："
+conv_video_BDVideo_MSG4="视频文件转换成功！！"
+conv_video_BDVideo_MSG5="转换视频文件时出错"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="转换视频文件"
+conv_VideoFich_MSG2="指定要转换的视频文件："
+conv_VideoFich_MSG3="指定要生成的视频文件："
+conv_VideoFich_MSG4="视频文件转换完成"
+conv_VideoFich_MSG5="转换视频文件时出错"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="指定视频文件："
+extrae_Audio_de_Video_MSG2="指定要生成的 mp3 声音文件："
+extrae_Audio_de_Video_MSG3="声音提取成功"
+extrae_Audio_de_Video_MSG4="提取声音时出错"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="指定视频文件："
+extrae_Fragmento_Video_MSG2="指定要生成的视频文件："
+extrae_Fragmento_Video_MSG3="指定初始时间（指定为 HH:MM:SS）:"
+extrae_Fragmento_Video_MSG4="指定结束时间（指定为 HH:MM:SS）:"
+extrae_Fragmento_Video_MSG5="视频已成功修剪"
+extrae_Fragmento_Video_MSG6="修剪视频时出错"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="指定声音文件："
+mezcla_Audio_Video_MSG2="指定视频文件："
+mezcla_Audio_Video_MSG3="指定要生成的视频文件："
+mezcla_Audio_Video_MSG4="新视频文件已成功生成"
+mezcla_Audio_Video_MSG5="生成视频文件时出错"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="选项不适用于控制台界面"
+graba_escritorio_MSG2="-- 正在录制桌面会话 -- 按 CTRL + C 取消并停止录制"
+graba_escritorio_MSG3="视频录制完成"

@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRussian/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al idioma Ruso, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab не может найти текстовый редактор vi"
+ayuda_MSG2="Введите имя текстового редактора, установленного в вашей системе"
+ayuda_MSG3="УСТАНОВЛЕННЫЙ РЕДАКТОР НЕ НАЙДЕН"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Файл, автоматически созданный LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="Этот файл вместе с каталогом"
+creacion_de_mnt_MSG3="сгенерированы автоматически"
+creacion_de_mnt_MSG4="приложением Linux-cdgrab при проверке его отсутствия в вашем дистрибутиве Linux"
+creacion_de_mnt_MSG5="каталог"
+creacion_de_mnt_MSG6="Linux-cdgrab использует этот каталог для монтирования своего привода CD-ROM/DVD-ROM/BD-ROM"
+creacion_de_mnt_MSG7="Каталог"
+creacion_de_mnt_MSG8="он не будет удален, если Linux-cdgrab будет удален, поскольку обычно это"
+creacion_de_mnt_MSG9="точка монтирования по умолчанию для /dev/cdrom в большинстве дистрибутивов Linux."
+creacion_de_mnt_MSG10="Если ваш дистрибутив использует другой каталог для монтирования устройства /dev/cdrom,"
+creacion_de_mnt_MSG11="это не приведет к несовместимости при попытке доступа к данным на вашем устройстве"
+creacion_de_mnt_MSG12="хотя, если Linux-cdgrab был удален, можно обойтись и без него"
+creacion_de_mnt_MSG13="Этот файл предназначен только для информационных целей, вы можете свободно удалить его после прочтения."
+
+# creditos
+
+creditos_MSG1="Распространять по лицензии GPL v2"
+creditos_MSG2="Более подробная информация на www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, создатель и хранитель"
+creditos_MSG4="Отчет об ошибке: pascual89@hotmail.com"
+creditos_MSG5="Веб-сайт программы: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+### No se traduce a Ruso, el traductor no conserva el nombre de autor.
+
+creditosno_MSGVSRC="Based in LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Зарядка"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="СИНТАКСИС"
+lcdgrab_sintaxis_MSG2="Распечатать эту справку"
+lcdgrab_sintaxis_MSG3="Распечатать версию Linux-cdgrab"
+lcdgrab_sintaxis_MSG4="указывает канал IDE или записывающее устройство"
+lcdgrab_sintaxis_MSG5="о"
+lcdgrab_sintaxis_MSG6="указывает скорость записи"
+lcdgrab_sintaxis_MSG7="указывает привод CD-ROM/DVD-ROM/BD-ROM"
+lcdgrab_sintaxis_MSG8="указывает канал IDE ATAPI устройства записи"
+lcdgrab_sintaxis_MSG9="Опции -G -V -L и -CA подразумевают друг друга."
+lcdgrab_sintaxis_MSG9B="Параметры -iut -ium -iug и -iuk независимы друг от друга,"
+lcdgrab_sintaxis_MSG9C="дополняет -G -V -L и -CA и не зависит от -h и -v"
+lcdgrab_sintaxis_MSG10="Параметры -h и -v независимы друг от друга и остальных."
+lcdgrab_sintaxis_MSG11="Примеры:"
+lcdgrab_sintaxis_MSG12="устройство"
+lcdgrab_sintaxis_MSG13="число"
+lcdgrab_sintaxis_MSG14="текстовый интерфейс"
+lcdgrab_sintaxis_MSG15="интерфейс с ncurses"
+lcdgrab_sintaxis_MSG16="графический интерфейс"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Введите путь к скрипту:"
+main_lcdgrabopdep_MSG2="Неверный путь"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Установленные патчи:"
+main_lcdgrabopdeppatch_MSG2="Введите путь к патчу:"
+main_lcdgrabopdeppatch_MSG3="Не найден"
+
+# menu principal dialog
+main_lcdgrabop9uidia="ЗАГРУЗИТЬ ДОПОЛНИТЕЛЬНЫЙ ПАТЧ"
+
+# menu principal texto
+
+main_lcdgrabop1_text="ЗАПИСЬ НА CD\t\t\t\t="
+main_lcdgrabop2_text="ЗАПИСЬ НА DVD\t\t\t\t="
+main_lcdgrabop3_text="ЗАПИСЬ НА BD\t\t\t\t="
+main_lcdgrabop4_text="ОПЕРАЦИИ С ДИСКОВЫМ ДИСКОМ\t\t="
+main_lcdgrabop5_text="СОЗДАНИЕ ИЗОБРАЖЕНИЯ\t\t\t="
+main_lcdgrabop6_text="ПРЕОБРАЗОВАНИЕ АУДИО\t\t\t="
+main_lcdgrabop6b_text="ПРЕОБРАЗОВАНИЕ ВИДЕО\t\t\t="
+main_lcdgrabop7_text="МОНТАЖИРОВАТЬ ИЛИ ОТКЛЮЧАТЬ CD/DVD/BD\t="
+main_lcdgrabop8_text="МОНТИРОВАТЬ ИЛИ ОТКЛЮЧИТЬ ИЗОБРАЖЕНИЕ\t="
+main_lcdgrabop9_text="ЗАГРУЗИТЬ ДОПОЛНИТЕЛЬНЫЙ ПАТЧ\t\t="
+main_lcdgrabop10_text="ЦЕНТР УПРАВЛЕНИЯ\t\t\t="
+main_lcdgrabop0_text="ВЫХОД\t\t\t\t\t="
+main_lcdgrabet1_text="ДРУГИЕ ОПЦИИ ##\t\t="
+main_lcdgrabopEe_text="Извлечь диск из привода\t\t="
+main_lcdgrabopTD_text="Показать каталог"
+tabs="\t\t="
+main_lcdgrabopG_text="Файловый менеджер\t\t\t="
+main_lcdgrabopH_text="Справка\t\t\t\t="
+main_lcdgrabopA_text="О программе\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="ЗАПИСЬ НА CD"
+main_lcdgrabop2="ЗАПИСЬ DVD"
+main_lcdgrabop3="ЗАПИСЬ НА BD"
+main_lcdgrabop4="ОПЕРАЦИИ С ДИСКОВЫМ ДИСКОМ"
+main_lcdgrabop5="СОЗДАНИЕ ИЗОБРАЖЕНИЯ"
+main_lcdgrabop6="ПРЕОБРАЗОВАНИЕ АУДИО"
+main_lcdgrabop6b="ПРЕОБРАЗОВАНИЕ ВИДЕО"
+main_lcdgrabop7="МОНТАЖИРОВАТЬ ИЛИ ОТКЛЮЧИТЬ CD/DVD/BD"
+main_lcdgrabop8="МОНТАЖИРОВАТЬ ИЛИ ОТКЛЮЧИТЬ ИЗОБРАЖЕНИЕ"
+main_lcdgrabop9="ЗАГРУЗИТЬ ДОПОЛНИТЕЛЬНЫЙ ПАТЧ"
+main_lcdgrabop10="ЦЕНТР УПРАВЛЕНИЯ"
+main_lcdgrabop0="ВЫХОД"
+main_lcdgrabet1="ДРУГИЕ ОПЦИИ ##"
+main_lcdgrabopEe="Извлечь диск из привода"
+main_lcdgrabopTD="Показать каталог"
+main_lcdgrabopG="Файловый менеджер"
+main_lcdgrabopH="Помощь"
+main_lcdgrabopA="О программе"
+main_lcdgrabopPRINCIPAL="Введите параметр:"
+MSG1_MAIN="Выбор H показывает использование опций."
+main_lcdgrabopA_MSG1="Выполняется:"
+

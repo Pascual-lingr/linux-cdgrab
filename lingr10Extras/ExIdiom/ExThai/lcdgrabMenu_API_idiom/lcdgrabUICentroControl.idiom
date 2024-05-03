@@ -1,0 +1,305 @@
+#########################################################
+# lcdgrabAPI_idiom/ExThai/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Tailandés para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Traslate y Chat GPT.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="การตั้งค่า Linux-cdgrab"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="หากคุณไม่ทราบว่าช่อง IDE ใดเป็นของ"
+ayuda_IDE_MSG2="เครื่องบันทึกของคุณสามารถค้นหาได้โดยการกดตัวอักษร t"
+# Traducción de Chat GPT - INI
+ayuda_IDE_MSG3="ตัวอย่างของช่อง IDE อาจเป็น 0,0,0 หรือ 0,1,0"
+# Traducción de Chat GPT - FIN
+ayuda_IDE_MSG4="คุณยังสามารถระบุอุปกรณ์ที่เกี่ยวข้องได้"
+ayuda_IDE_MSG5="ไปยังเครื่องบันทึกของคุณ หากคุณไม่รู้ว่าอันไหนแน่นอน ให้กด d"
+ayuda_IDE_MSG6="เพื่อดูอุปกรณ์ที่ลงทะเบียนในไฟล์ /etc/fstab"
+# Traducción de Chat GPT - INI
+ayuda_IDE_MSG7="ตัวอย่างของอุปกรณ์ที่เป็นไปได้คือ /dev/hdd, /dev/hde และอื่น ๆ"
+ayuda_IDE_MSG8="Si lo desea tambien puede listar todos los dispositivos contenidos"
+# Traducción de Chat GPT - FIN
+ayuda_IDE_MSG9="ในไดเร็กทอรี /dev โดยการกดตัวอักษร l"
+ayuda_IDE_MSG10="คุณต้องระบุช่อง IDE หรืออุปกรณ์บันทึก"
+ayuda_IDE_MSG11="แต่ไม่ใช่ทั้งสองอย่าง"
+
+# Traducción de Chat GPT - INI
+
+# desinstalar
+
+desinstalar_MSG1="Linux - cdgrab ถูกถอดการติดตั้งออกจากระบบของคุณแล้ว"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="ความเร็วในการบันทึก"
+imprimir_variables_MSG2="ช่อง IDE/SCSI หรืออุปกรณ์บันทึก"
+imprimir_variables_MSG3="เครื่องอ่านแผ่น CD-ROM, DVD-ROM หรือ BD-ROM"
+imprimir_variables_MSG4="อุปกรณ์ ATAPI"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="ความเร็วในการบันทึก"
+imprimir_lcdgrabcfg_MSG2="ช่อง IDE/SCSI หรืออุปกรณ์บันทึก"
+imprimir_lcdgrabcfg_MSG3="เครื่องอ่านแผ่น CD-ROM, DVD-ROM หรือ BD-ROM"
+imprimir_lcdgrabcfg_MSG4="อุปกรณ์ ATAPI"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="ติดตั้งแล้ว"
+# Traducción de Chat GPT - FIN
+chequeo_de_aplicaciones_MSG2="ไม่ได้ติดตั้ง"
+# Traducción de Chat GPT - INI
+chequeo_de_aplicaciones_MSG3="ติดตั้ง"
+chequeo_de_aplicaciones_MSG4="สำคัญ:"
+chequeo_de_aplicaciones_MSG5="ติดตั้งเครื่องมือที่จำเป็น Linux-cdgrab จะทำงานอย่างเต็มรูปแบบ"
+chequeo_de_aplicaciones_MSG6="โปรแกรมทั้งหมดที่คุณต้องการ Linux-cdgrab ได้ถูกติดตั้งในระบบของคุณแล้ว"
+chequeo_de_aplicaciones_MSG4B="ประกาศ:"
+chequeo_de_aplicaciones_MSG5B="พบเครื่องมือที่ขาดหายไป"
+# Traducción de Chat GPT - FIN
+chequeo_de_aplicaciones_MSG6B="เครื่องมือที่ติดตั้งบนระบบ"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 ถูกกำหนดเป็นค่าเริ่มต้นให้กับตัวแปรนี้"
+msgdefCANALATAPI_MSG2="ไฟล์การกำหนดค่าจะถูกเขียนด้วย CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="ไฟล์การกำหนดค่าที่สร้างขึ้นโดยอัตโนมัติโดย Linux-cdgrab"
+nuevo_lcdgrabcfg_MSG5="ไม่พบ cdrecord ในระบบ"
+nuevo_lcdgrabcfg_MSG6="ติดตั้งแพ็คเกจ cdrtools"
+nuevo_lcdgrabcfg_MSG7="คุณสามารถดำเนินการกำหนดค่าต่อไปได้โดยการระบุค่า"
+nuevo_lcdgrabcfg_MSG8="กำลังบันทึกหากคุณรู้จักมาก่อน"
+nuevo_lcdgrabcfg_MSG9="คำสั่ง cdrecord ใช้ในการบันทึกแผ่น CD, DVD และ BD"
+nuevo_lcdgrabcfg_MSG10="ตัวเลือกเหล่านี้จะไม่ทำงานจนกว่าจะติดตั้งแพ็คเกจดังกล่าว"
+nuevo_lcdgrabcfg_MSG11="เครื่องมือสแกนไดรฟ์ที่มีอยู่จะไม่สามารถใช้งานได้เช่นกัน"
+nuevo_lcdgrabcfg_MSG12="ในตัวช่วยสร้างการกำหนดค่านี้"
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab จำเป็นต้องได้รับการกำหนดค่าในสี่ขั้นตอนต่อไปนี้"
+nuevo_lcdgrabcfg_MSG14="ขั้นตอนแรก"
+nuevo_lcdgrabcfg_MSG15="ความเร็วในการบันทึก:"
+nuevo_lcdgrabcfg_MSG16="หมายเลขเดียวเท่านั้น 2,4,8,16,32... ฯลฯ"
+nuevo_lcdgrabcfg_MSG17="ขั้นตอนที่สอง"
+nuevo_lcdgrabcfg_MSG18="ช่อง IDE/SCSI หรืออุปกรณ์บันทึก:"
+nuevo_lcdgrabcfg_MSG19="A -> ความช่วยเหลือ"
+nuevo_lcdgrabcfg_MSG20="กำลังสแกน..."
+nuevo_lcdgrabcfg_MSG21="เกิดข้อผิดพลาดในการสแกนพอร์ต IDE/SCSI"
+nuevo_lcdgrabcfg_MSG22="ไม่พบ Cdrecord"
+nuevo_lcdgrabcfg_MSG23="ขั้นตอนที่สาม"
+nuevo_lcdgrabcfg_MSG24="อุปกรณ์ซีดีรอม ดีวีดีรอม หรือ BD-ROM"
+nuevo_lcdgrabcfg_MSG25="L -> แสดงรายการอุปกรณ์ที่มีอยู่"
+nuevo_lcdgrabcfg_MSG26="กำลังสแกน..."
+nuevo_lcdgrabcfg_MSG27="สแกนพอร์ต IDE/SCSI แล้ว"
+nuevo_lcdgrabcfg_MSG28="อุปกรณ์ที่จะใช้โดย cdrecord ผ่าน dev=ATAPI ในการบันทึกแบบหลายเซสชัน"
+nuevo_lcdgrabcfg_MSG30="อุปกรณ์มีระบบการตั้งชื่อเช่น 0,0,0 หรือ 1,0,0 ฯลฯ"
+nuevo_lcdgrabcfg_MSG31="ระบุอุปกรณ์ที่จะเรียก cdrecord บนซีดีหลายเซสชัน: "
+nuevo_lcdgrabcfg_MSG32="การกำหนดค่าไม่ถูกต้องสำหรับ CANALATAPI"
+nuevo_lcdgrabcfg_MSG33="เกิดข้อผิดพลาดในการสแกนพอร์ต IDE/SCSI"
+nuevo_lcdgrabcfg_MSG34="ไม่พบ Cdrecord"
+nuevo_lcdgrabcfg_MSG36="ไฟล์การกำหนดค่าที่สร้างขึ้นโดยอัตโนมัติโดย Linux-cdgrab"
+nuevo_lcdgrabcfg_MSG37="การกำหนดค่า LINUX-CDGRAB เสร็จสมบูรณ์"
+
+# colores
+
+colores_MSG1="ไม่พบรายการสี"
+colores_MSG2="กำลังโหลดสีเริ่มต้น"
+colores_MSG3="เลือกโทนสีใหม่สำหรับอินเทอร์เฟซ LINUX-CDGRAB"
+colores_MSG4="ตัวอักษรสีดำ"
+colores_MSG5="ตัวอักษรสว่างมาตรฐาน"
+colores_MSG6="สีพื้นหลังสีดำ"
+colores_MSG7="ตัวอักษรสีแดง"
+colores_MSG8="ตัวอักษรสีดำสว่าง"
+colores_MSG9="สีพื้นหลังสีแดง"
+colores_MSG10="แบบอักษรสีเขียว"
+colores_MSG11="น้ำพุสีแดงสดใส"
+colores_MSG12="สีพื้นหลังสีเขียว"
+colores_MSG13="ตัวอักษรสีเหลือง"
+colores_MSG14="ตัวอักษรสีเขียวสดใส"
+colores_MSG15="สีพื้นหลังสีส้ม"
+colores_MSG16="ตัวอักษรสีน้ำเงิน"
+colores_MSG17="ตัวอักษรสีเหลืองสดใส"
+colores_MSG18="สีพื้นหลังสีน้ำเงิน"
+colores_MSG19="ตัวอักษรสีม่วงแดง"
+colores_MSG20="ตัวอักษรสีน้ำเงินสดใส"
+colores_MSG21="สีพื้นหลังสีม่วงแดง"
+colores_MSG22="แหล่งสีฟ้า"
+colores_MSG23="แบบอักษรสีม่วงแดงสดใส"
+colores_MSG24="สีพื้นหลังสีฟ้า"
+colores_MSG25="ตัวอักษรสีเทา"
+colores_MSG26="สีพื้นหลังสีฟ้า"
+colores_MSG27="แบบอักษรสีฟ้าสดใส"
+colores_MSG28="สีพื้นหลังสีเทา"
+colores_MSG29="แหล่งที่มาเริ่มต้น"
+colores_MSG30="ตัวอักษรสีขาวสว่าง"
+colores_MSG31="สีพื้นหลังเริ่มต้น"
+colores_MSG32="หมายเลขสีสำหรับแบบอักษร: "
+colores_MSG33="หมายเลขสีสำหรับพื้นหลัง: "
+colores_MSG34="หมายเลขสีสำหรับข้อความเตือน: "
+colores_MSG35="หมายเลขสีสำหรับข้อความป้ายกำกับ: "
+colores_MSG36="หมายเลขสีสำหรับกระบวนการที่เสร็จสมบูรณ์"
+colores_MSG37="หมายเลขสีสำหรับกระบวนการสิ้นสุดด้วยข้อผิดพลาด: "
+colores_MSG38="รูปแบบใหม่สำหรับ LINUX-CDGRAB"
+colores_MSG39="สีตัวอักษรทั่วไป"
+colores_MSG40="ฉลาก"
+colores_MSG41="ประกาศ"
+colores_MSG42="ความสำเร็จ"
+colores_MSG43="ข้อผิดพลาด"
+colores_MSG44="สีพื้นหลัง"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="รายการสีที่มี:"
+cambiar_esquema_de_color_MSG2="#####แบบแผนสี#######"
+cambiar_esquema_de_color_MSG3="----------------------------------"
+cambiar_esquema_de_color_MSG4="เมนูสี"
+cambiar_esquema_de_color_MSG5="ล้มเหลว"
+cambiar_esquema_de_color_MSG6="ป้ายกำกับ"
+cambiar_esquema_de_color_MSG6b="ประกาศ"
+cambiar_esquema_de_color_MSG7="เมนูสี ตกลง ป้ายกำกับคำเตือนความล้มเหลว"
+cambiar_esquema_de_color_MSG8="ป้อนหมายเลขของสีใหม่:"
+# Traducción de Chat GPT - INI
+cambiar_esquema_de_color_MSG9="ตัวเลือกไม่ถูกต้อง"
+# Traducción de Chat GPT - FIN
+cambiar_esquema_de_color_MSG10="การตั้งค่าสีเริ่มต้น"
+# Texto en inglés, resultado del traductor.
+cambiar_esquema_de_color_MSG11=" พื้นหลัง = BLUE_BACKGROUND"
+cambiar_esquema_de_color_MSG12="FONT = สีขาวสว่าง"
+cambiar_esquema_de_color_MSG13=" คำเตือน = สีเหลืองสดใส"
+cambiar_esquema_de_color_MSG14=" ข้อผิดพลาด = สีแดงสด"
+cambiar_esquema_de_color_MSG15=" ข้อผิดพลาด = สีแดงสด"
+cambiar_esquema_de_color_MSG16=" ฮิต = สีเขียวสดใส"
+cambiar_esquema_de_color_MSG17=" LABELS = สีฟ้าสดใส"
+
+# cambia_lector
+
+cambia_lector_MSG1="การกำหนดค่าสภาพแวดล้อมสำหรับหน่วยออปติคอล"
+cambia_lector_MSG2="อุปกรณ์ปัจจุบันที่เกี่ยวข้องกับซีดีรอม ดีวีดีรอม หรือ BD-ROM"
+cambia_lector_MSG3="อุปกรณ์ปัจจุบันที่เกี่ยวข้องกับเครื่องเขียนซีดี/ดีวีดี/BD"
+cambia_lector_MSG4="อุปกรณ์ปัจจุบันที่เกี่ยวข้องกับพารามิเตอร์ dev=ATAPI"
+cambia_lector_MSG5="(รองรับหลายเซสชันสำหรับ cdrecord)"
+cambia_lector_MSG6="เลือกอุปกรณ์ที่จะทำการเปลี่ยนแปลง"
+cambia_lector_MSG7="ป้อนตัวเลือก:"
+cambia_lector_MSG8="ป้อนชื่ออุปกรณ์ใหม่"
+cambia_lector_MSG9="ไม่สอดคล้องกับอุปกรณ์บล็อก"
+cambia_lector_MSG10="อุปกรณ์"
+cambia_lector_MSG11="กำหนดโดยค่าเริ่มต้น"
+cambia_lector_MSG12="อุปกรณ์ใหม่คือ:"
+cambia_lector_MSG13="cdrecord บางเวอร์ชันไม่ยอมรับอุปกรณ์บล็อกเป็นพารามิเตอร์การบันทึก"
+cambia_lector_MSG14="ป้อนชื่ออุปกรณ์ ATAPI ใหม่"
+cambia_lector_MSG15="การกำหนดค่าไม่ถูกต้องสำหรับ CANALATAPI"
+cambia_lector_MSG16="0,0,0 ถูกกำหนดโดยค่าเริ่มต้นให้กับตัวแปรนี้"
+cambia_lector_MSG17="ไฟล์การกำหนดค่าจะถูกเขียนด้วย CANALATAPI = 0,0,0"
+cambia_lector_MSG18="อุปกรณ์ใหม่คือ:"
+cambia_lector_MSG19="ไม่มีการเปลี่ยนแปลงใดๆ บนอุปกรณ์"
+cambia_lector_MSG4B="ส่งออกค่าจากไฟล์กำหนดค่า"
+cambia_lector_MSG4C="ค่าเหล่านี้ถูกรายงานต่อสิ่งแวดล้อม:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="จากเมนูนี้คุณสามารถเลือกยูทิลิตี้ใดได้"
+cambia_generador_isocd_MSG2="จะถูกใช้เพื่อสร้างภาพ ISO-9660"
+cambia_generador_isocd_MSG3="จาก CDS ที่มีอยู่ในหน่วยการอ่าน"
+cambia_generador_isocd_MSG4="การกำหนดค่าปัจจุบัน:"
+cambia_generador_isocd_MSG5="ใช้ dd (คอมโพเนนต์ GNU coreutils)"
+cambia_generador_isocd_MSG6="ใช้ readcd (ส่วนประกอบ cdrtools)"
+# Traducción de Chat GPT - INI
+cambia_generador_isocd_MSG7="เมนูก่อนหน้า"
+cambia_generador_isocd_MSG8="กรุณาพิมพ์ตัวเลือก:"
+# Traducción de Chat GPT - FIN
+cambia_generador_isocd_MSG9="การใช้ dd เป็นตัวสร้าง iso"
+cambia_generador_isocd_MSG10="การใช้ readcd เป็นตัวสร้าง iso"
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="ตั้งค่าข้อมูลเมตา HFS พร้อมกับ Rock Ridge และ Joliet"
+establecer_hfs_iso_MSG2="ใช้เฉพาะข้อมูลเมตาของ Rock Ridge และ Joliet"
+# Traducción de Chat GPT - INI
+establecer_hfs_iso_MSG3="เมนูก่อนหน้า"
+establecer_hfs_iso_MSG4="กรุณาพิมพ์ตัวเลือก:"
+# Traducción de Chat GPT - FIN
+establecer_hfs_iso_MSG5="การใช้ข้อมูลเมตา HFS, Rock Ridge และ Joliet"
+establecer_hfs_iso_MSG6="การใช้ข้อมูลเมตาของ Rock Ridge และ Joliet"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="ระบบการแจ้งเตือนปัจจุบัน"
+cambia_notificaciones_MSG2A="ส่วนติดต่อแบบกราฟิกของ GNOME"
+cambia_notificaciones_MSG2B="ส่วนต่อประสานกราฟิกของ KDE"
+cambia_notificaciones_MSG2="เชื่อมต่อกับ ncurses"
+cambia_notificaciones_MSG3="อินเทอร์เฟซข้อความ"
+cambia_notificaciones_MSG4="ออก"
+# Traducción de Chat GPT - INI
+cambia_notificaciones_MSG5="กรุณาพิมพ์ตัวเลือก:"
+# Traducción de Chat GPT - FIN
+cambia_notificaciones_MSG6="การใช้อินเทอร์เฟซพร้อมกล่องโต้ตอบ"
+cambia_notidicaciones_MSG6B="การใช้ส่วนต่อประสานกับ zenity"
+cambia_notidicaciones_MSG6C="การใช้อินเทอร์เฟซกับ kdialog"
+cambia_notificaciones_MSG7="ไม่พบคำสั่งโต้ตอบ"
+cambia_notificaciones_MSG8="การใช้ส่วนต่อประสานข้อความ"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="ภาษาที่ใช้งาน:"
+cambiar_idioma_UI_MSG1="ภาษาที่ใช้ได้ในปัจจุบัน:"
+cambiar_idioma_UI_MSG2="ป้อนชื่อภาษาที่จะใช้"
+cambiar_idioma_UI_MSG3="ในส่วนต่อประสานแอปพลิเคชัน:"
+cambiar_idioma_UI_MSG4="ภาษาใหม่ที่ใช้คือ:"
+cambiar_idioma_UI_MSG5="รีสตาร์ท LINUX-CDGRAB"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="การกำหนดค่าปัจจุบัน"
+seleccion_gestor_archivos_MSG2="ใช้ mc"
+seleccion_gestor_archivos_MSG3="ใช้ตัวจัดการข้อความแบบรวม"
+seleccion_gestor_archivos_MSG4="ไม่พบ mc ติดตั้งอยู่บนระบบ"
+seleccion_gestor_archivos_MSG5="การใช้ตัวจัดการข้อความแบบรวมเป็นค่าเริ่มต้น"
+seleccion_gestor_archivos_MSG6="ยูทิลิตี้ mc"
+seleccion_gestor_archivos_MSG7="ข้อความรวม"
+
+# centro_de_control
+
+centro_de_control_MSG1="ศูนย์ควบคุม"
+centro_de_control_MSG2="การกำหนดค่าใหม่"
+centro_de_control_MSG3="ลบไฟล์การกำหนดค่า"
+centro_de_control_MSG4="แสดงไฟล์และค่าการกำหนดค่าปัจจุบัน"
+centro_de_control_MSG5="ค่าการกำหนดค่าไฟล์:"
+centro_de_control_MSG5B="การกำหนดค่าปัจจุบันที่ใช้ในสภาพแวดล้อม:"
+centro_de_control_MSG6="เปลี่ยนสื่อออปติคอล"
+centro_de_control_MSG7="ตรวจสอบโปรแกรมที่ติดตั้ง"
+centro_de_control_MSG8="สแกนพอร์ต IDE/SCSI ด้วย cdrecord"
+centro_de_control_MSG8C="สแกนพอร์ต IDE/SCSI ด้วย cdrskin"
+centro_de_control_MSG8B="รายการหน่วยที่ติดตั้งในระบบด้วย cdrskin"
+centro_de_control_MSG9="เปลี่ยนยูทิลิตี้การสร้าง iso จากซีดี"
+centro_de_control_MSG9B="ตั้งค่าข้อมูลเมตา HFS สำหรับ iso-9660"
+centro_de_control_MSG10="เปลี่ยนอินเทอร์เฟซผู้ใช้"
+centro_de_control_MSG10b="เปลี่ยนสี"
+centro_de_control_MSG10c="เปลี่ยนภาษาอินเทอร์เฟซ"
+centro_de_control_MSG11="เปลี่ยนตัวจัดการไฟล์"
+centro_de_control_MSG11B="ถอนการติดตั้งโปรแกรม"
+centro_de_control_MSG12="พิมพ์ตัวเลือก: "
+centro_de_control_MSG13="ไฟล์การกำหนดค่าไม่มีอยู่"
+centro_de_control_MSG14="ไม่พบไฟล์การกำหนดค่า"
+centro_de_control_MSG15="กำลังสแกน"
+centro_de_control_MSG16="พอร์ต IDE/SCSI สแกนแล้ว"
+centro_de_control_MSG17="เกิดข้อผิดพลาดในการสแกนพอร์ต IDE/SCSI"
+centro_de_control_MSG18="เลือกรูปแบบสี"
+centro_de_control_MSG19="เลือกสีได้ตามต้องการ"
+# Traducción de Chat GPT - INI
+centro_de_control_MSG20="เมนูก่อนหน้า"
+centro_de_control_MSG21="กรุณาพิมพ์ตัวเลือก : "
+centro_de_control_MSG22="ไม่มีไฟล์การกำหนดค่า"
+centro_de_control_MSG23="ไม่พบไฟล์การกำหนดค่า"
+# Traducción de Chat GPT - FIN
+centro_de_control_MSG24="เลือกรูปแบบสี"
+centro_de_control_MSG25="เลือกสีได้ตามต้องการ"
+# Traducción de Chat GPT - INI
+centro_de_control_MSG26="ตัวเลือกไม่ถูกต้อง"
+# Traducción de Chat GPT - FIN
+
+

@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExGeorgian/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Georgiano para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="დისკის დისკის ოპერაციები"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="-------------------- მნიშვნელოვანი ----------------------"
+MenuDispositivosBloque_MSG3="+ არ შეასრულოთ ჩაწერის ოპერაციები მყარ დისკებზე"
+MenuDispositivosBloque_MSG4="+ დისკის დანაყოფების შესახებ, რომლებიც შეიცავს სურათებს"
+MenuDispositivosBloque_MSG5="+ აღდგენა, ჩატვირთვის ტიხრები ან საკუთარი"
+MenuDispositivosBloque_MSG6="+ ოპერაციული სისტემის დანაყოფი."
+MenuDispositivosBloque_MSG7="+ ამ მენიუს წერის ვარიანტების არასწორად გამოყენება "
+MenuDispositivosBloque_MSG8="+ შეუძლია კატასტროფის გენერირება სისტემაში."
+MenuDispositivosBloque_MSG9="+ გამოიყენეთ სიფრთხილით. გამოიყენეთ საკუთარი რისკის ქვეშ."
+MenuDispositivosBloque_MSG10="---------------------- წერა --------------------"
+MenuDispositivosBloque_MSG11="გადაყარეთ გამოსახულების ფაილი დისკზე"
+MenuDispositivosBloque_MSG11B="გადაყარეთ iso ან img სურათი (თვითჩამტვირთველი) pendrive-ზე ან USB დისკზე"
+MenuDispositivosBloque_MSG11C="ყველა ინსტალაციის სისტემა არ არის მხარდაჭერილი."
+MenuDispositivosBloque_MSG12="დისკის დაფორმატება მშობლიური Linux ან Windows ფაილური სისტემით"
+MenuDispositivosBloque_MSG13="--------------------- კითხვა -------------------"
+MenuDispositivosBloque_MSG14="შექმენით .img სურათი დისკის დისკიდან"
+MenuDispositivosBloque_MSG15="წინა მენიუ"
+MenuDispositivosBloque_MSG16="აკრიფეთ ვარიანტი"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------მნიშვნელოვანი------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ დაფორმატება ერთეული ფაილური სისტემით, რომელიც გამოიყენება მოწყობილობებში"
+UIFormatearUnidad_linuxfs_MSG2B="+ ან დისკის დანაყოფები."
+UIFormatearUnidad_linuxfs_MSG3="+ ეს პარამეტრი წაშლის ყველა არსებულ მონაცემს ერთეულზე"
+UIFormatearUnidad_linuxfs_MSG4="+ ფაილური სისტემით ფორმატირებული მოსახსნელი დისკები"
+UIFormatearUnidad_linuxfs_MSG5="+ თავად Linux ხელმისაწვდომი იქნება მხოლოდ ამ ოპერაციული სისტემით."
+UIFormatearUnidad_linuxfs_MSG6="+ გამოიყენეთ სიფრთხილით, გამოიყენეთ საკუთარი რისკის ქვეშ."
+UIFormatearUnidad_linuxfs_MSG7="---------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="დააჭირეთ C ღილაკს გასაგრძელებლად; (პროცესი გაუქმდება სხვა ვარიანტში)"
+

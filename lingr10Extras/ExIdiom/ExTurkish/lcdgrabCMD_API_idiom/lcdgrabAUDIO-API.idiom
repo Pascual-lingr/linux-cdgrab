@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTurkish/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Turco para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="DÖNÜŞTÜRÜLECEK MP3 DOSYALARI"
+mp3awav_MSG0=".mp3 dosyalarının yolunu girin: "
+mp3awav_MSG1="DÖNÜŞTÜRÜLÜYOR"
+mp3awav_MSG1B=".wav FORMATINA"
+mp3awav_MSG2="çalışıyor"
+mp3awav_MSG3="Örnekleme 44100 MHz'e ayarlandı"
+mp3awav_MSG4="Örnekleme işleminde hata"
+mp3awav_MSG5="Dönüştürme başarısız oldu"
+mp3awav_MSG6="Dizin bulunamadı"
+mp3awav_MSG7="SES DÖNÜŞÜMÜNÜN SONU"
+mp3awav_MSG8="Ses dosyası normalleştiriliyor"
+mp3awav_MSG9="Dosya"
+mp3awav_MSG10="Normalleştirildi"
+mp3awav_MSG11="Normalleştirme Hatası"
+
+# oggawav
+
+oggawav_MSG0="DÖNÜŞTÜRÜLECEK OGG DOSYALARI"
+oggawav_MSG1=".ogg dosyalarının yolunu girin: "
+oggawav_MSG2="DÖNÜŞTÜRÜLÜYOR"
+oggawav_MSG2B="Bir .wav FORMATI"
+oggawav_MSG3="çalışıyor"
+oggawav_MSG4="Örnekleme 44100 MHz'e ayarlandı"
+oggawav_MSG5="Örnekleme işleminde hata"
+oggawav_MSG6="Dönüştürme başarısız oldu"
+oggawav_MSG7="Dizin bulunamadı"
+oggawav_MSG8="SES KAPSAMININ SONU"
+oggawav_MSG9="Ses dosyası normalleştiriliyor"
+oggawav_MSG10="Dosya"
+oggawav_MSG11="Normalleştirildi"
+oggawav_MSG12="Normalleştirme Hatası"
+
+# cdawav
+
+cdawav_MSG1="SES CD'Sİ KOPYALANIYOR..."
+cdawav_MSG2="Çalıştırılıyor:"
+cdawav_MSG3="SES PARÇALARI BAŞARIYLA OLAŞTIRILDI!!"
+cdawav_MSG4="Ses dosyaları dizininin içeriği"
+cdawav_MSG5="SES PARÇALARINI KOPYALANIRKEN HATA"
+
+# cddawav
+
+cddawav_MSG1="KAYITLANACAK PARÇA SAYISINI GİRİN:"
+cddawav_MSG2="Parçayı kopyalamayı iptal etmek için Crtl + c tuşlarına basın"
+cddawav_MSG3="Çalıştırılıyor:"
+cddawav_MSG4="BAŞARILI BİR ŞEKİLDE SÖKÜLDÜ"
+cddawav_MSG5="KAYITLAMA HATASI"
+
+# wavamp3
+
+wavamp3_MSG0="DÖNÜŞTÜRÜLECEK WAV DOSYALARI"
+wavamp3_MSG1=".wav dosyalarının yolunu girin: "
+wavamp3_MSG1B="DÖNÜŞTÜRÜLÜYOR"
+wavamp3_MSG2="BİR FORMAT"
+wavamp3_MSG3="Çalıştırılıyor:"
+wavamp3_MSG4="dönüştürürken"
+wavamp3_MSG5=".MP3 biçimine"
+wavamp3_MSG6="Dönüştürmede hata"
+wavamp3_MSG7="SES DÖNÜŞÜMÜ TAMAMLANDI"
+wavamp3_MSG8="SES DİZİNİ BULUNAMADI"
+
+# cdamp3
+
+cdamp3_MSG1="SES CD'Sİ KOPYALANIYOR..."
+cdamp3_MSG2="Çalıştırılıyor:"
+cdamp3_MSG3="SES PARÇALARI BAŞARILI BİR ŞEKİLDE KAYIT EDİLDİ!!"
+cdamp3_MSG4="SES PARÇALARINI KOPYALANIRKEN HATA"
+cdamp3_MSG5="Çağrı işlevi:"
+
+# wavaogg
+
+wavaogg_MSG1=".wav dosyalarının yolunu girin: "
+wavaogg_MSG2="DÖNÜŞTÜRÜLÜYOR"
+wavaogg_MSG3="Bir .ogg FORMATI"
+wavaogg_MSG4="Çalışıyor:"
+wavaogg_MSG5="Dönüştürmede hata"
+wavaogg_MSG6=".ogg formatına"
+
+# cdaogg
+
+cdaogg_MSG1="SES CD'LERİ KOPYALANIYOR..."
+cdaogg_MSG2="Çalıştırılıyor:"
+cdaogg_MSG3="SES PARÇALARI BAŞARIYLA OLAŞTIRILDI!!"
+cdaogg_MSG4="SES PARÇALARINI KOPYALANIRKEN HATA"
+cdaogg_MSG5="Çağrı işlevi:"
+
+# corta_wav
+
+corta_wav_MSG0="Saniye sayısı:"
+corta_wav_MSG1="Dönüştürülecek ses dosyasının yolunu belirtin:"
+corta_wav_MSG2="Süreyi saniye cinsinden belirtin, bunun için"
+corta_wav_MSG3="dosyanın kesilmesi başlayacak."
+corta_wav_MSG4="-NOTE-"
+corta_wav_MSG5="Sesin başlangıcını belirtmek için 0 girin"
+corta_wav_MSG6="Dönüşümü başlatmak için saniye cinsinden değer:"
+corta_wav_MSG7="Süreyi saniye olarak belirtin, bunun için"
+corta_wav_MSG8="Dosyanın kesilmesi tamamlanacak."
+corta_wav_MSG9="Dönüştürmenin sonundaki saniye cinsinden değer:"
+corta_wav_MSG10="Çalışıyor"
+corta_wav_MSG11="Kırpılmış Ses Dosyası"
+corta_wav_MSG12="Dosya kırpılırken hata oluştu"
+corta_wav_MSG13="Kesilecek ses dosyası:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV SES"
+flacawav_MSG1=".flac dosyalarının yolunu belirtin:"
+flacawav_MSG2="DÖNÜŞTÜRÜLÜYOR"
+flacawav_MSG3=".wav FORMATINA"
+flacawav_MSG4="Örnekleme 44100 MHz'e ayarlandı"
+flacawav_MSG5="Örnekleme işleminde hata"
+flacawav_MSG6="Ses dosyası normalleştiriliyor"
+flacawav_MSG7="Dosya"
+flacawav_MSG8="Normalleştirildi"
+flacawav_MSG9="Normalleştirme Hatası"
+flacawav_MSG10="Dönüştürme başarısız oldu"
+flacawav_MSG11="Dizin bulunamadı"
+flacawav_MSG12="SES DÖNÜŞÜMÜNÜN SONU"
+
+# wavaflac
+
+wavaflac_MSG0="DÖNÜŞTÜRÜLECEK WAV DOSYALARI"
+wavaflac_MSG1=".wav dosyalarının yolunu girin: "
+wavaflac_MSG2="DÖNÜŞTÜRÜLÜYOR"
+wavaflac_MSG3="Bir .flac FORMATI"
+wavaflac_MSG4="flac formatına dönüştürüldü"
+wavaflac_MSG5="Dönüştürmede hata"
+wavaflac_MSG6=".flac biçimine dönüştür"
+wavaflac_MSG7="FLAC DOSYA DİZİNİ BULUNAMADI"
+

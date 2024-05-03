@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExArmenian/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Ընտրեք օգտագործողի միջերեսը, որը կօգտագործվի."
+SeleccionaIUDVD_MSG2="Օգտագործեք միջերեսը dvd+-rw-tools-ի համար"
+SeleccionaIUDVD_MSG3="Օգտագործեք միջերեսը Cdrecord-ProDVD-ի համար"
+SeleccionaIUDVD_MSG4="Օգտագործեք միջերեսը լիբբուրնիայի համար"
+SeleccionaIUDVD_MSG5="Նախորդ ընտրացանկ"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="Ձայնագրում DVD-ում"
+menugrabar_dvd_MSG2="----------------- DVD - ՏՎՅԱԼՆԵՐ ------------------"
+menugrabar_dvd_MSG3="Պատճենել ISO-9660 տվյալների DVD-ը"
+menugrabar_dvd_MSG4="Ստեղծեք նախկին DVD պատկեր կոշտ սկավառակի վրա"
+menugrabar_dvd_MSG5="Վառել նոր ISO-9660 տվյալների DVD"
+menugrabar_dvd_MSG6="Ավելացնել նոր տվյալների աշխատաշրջան ISO-9660 տվյալների DVD-ին բազմասեսիա DVD"
+menugrabar_dvd_MSG7="Պահանջվում է DVD, որը նախկինում ձայնագրվել է երկրորդ տարբերակով"
+menugrabar_dvd_MSG8="Վառել ISO-9660 տվյալների պատկերը DVD-ի վրա"
+menugrabar_dvd_MSG9="Վառել .ext2 պատկերը DVD-ում"
+menugrabar_dvd_MSG10="----------------- DVD - ՏԵՍԱՆՅՈՒԹ -----------------"
+menugrabar_dvd_MSG11="Վառել նոր DVD-տեսանյութ"
+menugrabar_dvd_MSG12="----------------- ԱՅԼ ՏԱՐԲԵՐԱԿՆԵՐ -----------------"
+menugrabar_dvd_MSG13="Ձևաչափեք DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Ցուցադրել DVD սկավառակի տվյալները"
+menugrabar_dvd_MSG0="Նախորդ ընտրացանկ"
+menugrabar_dvd_MSGPRINCIPAL="Մուտքագրեք տարբերակ"
+menugrabar_dvd_MSG15="Ֆայլեր և գրացուցակներ, որոնք պետք է ներառվեն DVD-ում"
+menugrabar_dvd_MSG16="Ֆայլերի կառավարչի գործարկում..."
+menugrabar_dvd_MSG17=".iso պատկերը DVD-ի վրա գրելու համար"
+menugrabar_dvd_MSG18="Մուտքագրեք գրացուցակի ուղին, որտեղ գտնվում է .iso պատկերը, որը ցանկանում եք գրել"
+menugrabar_dvd_MSG19="Պահանջում է cdrecord-ի տարբերակ DVD աջակցությամբ։"
+menugrabar_dvd_MSG20=".ext2 պատկերի ձայնագրումը DVD-ում կկատարվի cdrecord-ի միջոցով:"
+menugrabar_dvd_MSG21="Ձեր տեղադրման մեջ գոյություն ունեցող cdrecord տարբերակը պետք է"
+menugrabar_dvd_MSG22="Աջակցում է DVD ձայնագրմանը:"
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="ԸՆՏՐԵՔ ՏԱՐԲԵՐԱԿԸ"
+dvd_clonar_MSG2="--- Սկավառակի պատճենները ՆԱԽԱԴԻՏՄԱՆ ՊԱՏԿԵՐՈՎ ---"
+dvd_clonar_MSG3="Պատճենել տվյալների DVD-ը"
+dvd_clonar_MSG4="Ստեղծեք նախկին DVD պատկեր կոշտ սկավառակի վրա"
+dvd_clonar_MSG5="--- Սկավառակի պատճենները Թռիչքում ---"
+dvd_clonar_MSG6="Պատճենել տվյալների DVD-ն անմիջապես"
+dvd_clonar_MSG7="Կլոնավորեք տվյալների DVD-ն անմիջապես"
+dvd_clonar_MSG8="ԹՌՉԵԼՈՎ ՊԱՏՃԱՌԻ ՏԱՐԲԵՐԱԿՆԵՐԸ ՊԱՀԱՆՋՈՒՄ ԵՆ ԵՐԿՈՒ ՕՊՏԻԿԱԿԱՆ ՄԻԱՎՈՐՈՒՄ"
+dvd_clonar_MSG9="ՏԵՂԱԴՐՎԱԾ Է ՁԵՐ ՀԱՄԱԿԱՐԳԻՉԻ ՎՐԱ, ՔԱՆԻ ՔԱՆԻ ՏՎՅԱԼՆԵՐԸ ԳՐԱՆՑՎՈՒՄ ԵՆ"
+dvd_clonar_MSG10="ԿԱՐԴԱՑԵՔ ՈՒՂԻՂ ՍԿՍԱՎՈՐԻՑ, ԵԹԵ ՁԵՐ ՀԱՄԱԿԱՐԳԻՉԸ ՄԻԱՅՆ ԱՅՆ ՈՒՆԻ"
+dvd_clonar_MSG11="ԴՈՒՔ ՉԵՔ ԿԱՐՈՂԱՆԱ ՕԳՏԱԳՈՐԾԵԼ ՊԱՏՃԱՌՆԵՐԸ ԹԵՌՔՈՒՄ :"
+dvd_clonar_MSG0="Նախորդ ընտրացանկ"
+dvd_clonar_MSG12="DVD ՏՎՅԱԼՆԵՐԻ ՊԱՏՃԱՌՈՒՄ"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="Ձայնագրում DVD-ում"
+menugrabar_DVD_MSG2="---------------- DVD - ՏՎՅԱԼՆԵՐ -----------------"
+menugrabar_DVD_MSG3="Պատճենել տվյալների DVD"
+menugrabar_DVD_MSG4="Վառել նոր տվյալների DVD"
+menugrabar_DVD_MSG5="Վառել .iso կամ .ext2 պատկերը DVD-ում"
+menugrabar_DVD_MSG6="Ձևաչափել DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Ցուցադրել սկավառակի մասին տեղեկությունները սկավառակում"
+menugrabar_DVD_MSG0="Նախորդ ընտրացանկ"
+menugrabar_DVD_MSGPRINCIPAL="Մուտքագրեք տարբերակ"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Վառել ISO-9660 պատկերը DVD-ի վրա"
+menugrabar_DVD_libburnia_MSG2="Վառել տվյալները կոշտ սկավառակից DVD-ի վրա"
+menugrabar_DVD_libburnia_MSG3="Ձևաչափել DVD"
+menugrabar_DVD_libburnia_MSG4="Ձևաչափել DVD-RW-ն հաջորդական աստիճանի"
+menugrabar_DVD_libburnia_MSG5="Ձևաչափել DVD-RW-ն սահմանափակ վերագրանցման համար"
+menugrabar_DVD_libburnia_MSG6="Ցուցադրել սկավառակի տվյալները"
+menugrabar_DVD_libburnia_MSG8="Ցուցակել համակարգում տեղադրված կրիչներ"
+menugrabar_DVD_libburnia_MSG0="Ելք"
+menugrabar_DVD_libburnia_MSG7="Մուտքագրեք տարբերակ"
+

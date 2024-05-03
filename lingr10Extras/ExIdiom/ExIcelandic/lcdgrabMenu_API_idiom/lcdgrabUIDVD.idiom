@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Veldu notendaviðmótið sem verður notað:"
+SeleccionaIUDVD_MSG2="Notaðu viðmótið fyrir dvd+-rw-tól"
+SeleccionaIUDVD_MSG3="Notaðu viðmótið fyrir Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Notaðu viðmótið fyrir libburnia"
+SeleccionaIUDVD_MSG5="Fyrri valmynd"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="DVD UPPTAKA"
+menugrabar_dvd_MSG2="----------------- DVD - DATA ------------------"
+menugrabar_dvd_MSG3="Afrita ISO-9660 gagna DVD"
+menugrabar_dvd_MSG4="Búa til fyrri DVD mynd á harða disknum"
+menugrabar_dvd_MSG5="Brenna nýjan ISO-9660 gagna DVD"
+menugrabar_dvd_MSG6="Bæta nýrri gagnalotu við ISO-9660 gagna-DVD (Multi-Session DVD)"
+menugrabar_dvd_MSG7="Krefst DVD sem áður var tekin upp með seinni valkostinum"
+menugrabar_dvd_MSG8="Brenna ISO-9660 gagnamynd á DVD"
+menugrabar_dvd_MSG9="Brenna .ext2 mynd á DVD"
+menugrabar_dvd_MSG10="----------------- DVD - VIDEO ------------------"
+menugrabar_dvd_MSG11="Brenndu nýtt DVD-myndband"
+menugrabar_dvd_MSG12="--------------- AÐRIR VALKOSTIR -----------------"
+menugrabar_dvd_MSG13="Forsníða DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Sýna upplýsingar um DVD disk"
+menugrabar_dvd_MSG0="Fyrri valmynd"
+menugrabar_dvd_MSGPRINCIPAL="Sláðu inn valmöguleika"
+menugrabar_dvd_MSG15="Skrár og möppur til að hafa á DVD disknum"
+menugrabar_dvd_MSG16="Ræsir skráasafnið..."
+menugrabar_dvd_MSG17=".iso mynd til að brenna á DVD"
+menugrabar_dvd_MSG18="Sláðu inn slóðina þar sem .iso myndin sem þú vilt brenna er staðsett"
+menugrabar_dvd_MSG19="Krefst útgáfu af cdrecord með DVD stuðningi."
+menugrabar_dvd_MSG20="Upptaka .ext2 myndarinnar á DVD verður gerð með cdrecord."
+menugrabar_dvd_MSG21="Cdrecord útgáfan sem er til í uppsetningunni þinni ætti"
+menugrabar_dvd_MSG22="styður DVD upptöku."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="VELDU VALKOST"
+dvd_clonar_MSG2="--- DISC AFRIFT MEÐ FORSKJÓÐARMYND ---"
+dvd_clonar_MSG3="Afrita gagna-DVD"
+dvd_clonar_MSG4="Búa til fyrri DVD mynd á harða disknum"
+dvd_clonar_MSG5="--- DISKAFRIFT Á FLUGInu ---"
+dvd_clonar_MSG6="Afrita gagna-DVD á flugu"
+dvd_clonar_MSG7="Klóna gagna-DVD á flugu"
+dvd_clonar_MSG8="FLUGAFRIFTARVALKOSTIR ÞURFA TVÆR OPTÍSKAR EININGAR"
+dvd_clonar_MSG9="UPSETT Á TÖLVUNNI ÞÍN, ÞAR SEM GÖGN ER SKRÁÐ Á MEÐAN"
+dvd_clonar_MSG10="LESTU BEINT AF UPPRUNADISKINUM, EF TÖLVAN ÞÍN ER AÐEINS MEÐ ÞAÐ"
+dvd_clonar_MSG11="ÞÚ VERÐUR EKKI FÆR AÐ NOTA AFRITIN Í FLUGInu."
+dvd_clonar_MSG0="Fyrri valmynd"
+dvd_clonar_MSG12="DVD GAGNAAFRIFT"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD UPPTAKA"
+menugrabar_DVD_MSG2="------------------ DVD - DATA -------------------"
+menugrabar_DVD_MSG3="Rippa gagna DVD"
+menugrabar_DVD_MSG4="Brenna nýjan gagna-DVD"
+menugrabar_DVD_MSG5="Brenna .iso eða .ext2 mynd á DVD"
+menugrabar_DVD_MSG6="Snið DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Sýna upplýsingar um disk í drifinu"
+menugrabar_DVD_MSG0="Fyrri valmynd"
+menugrabar_DVD_MSGPRINCIPAL="Sláðu inn valmöguleika"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Brenna iso-9660 mynd á DVD"
+menugrabar_DVD_libburnia_MSG2="Brenna gögn af harða diskinum á DVD"
+menugrabar_DVD_libburnia_MSG3="Sníða DVD"
+menugrabar_DVD_libburnia_MSG4="Sníða DVD-RW í röð stigvaxandi"
+menugrabar_DVD_libburnia_MSG5="Snið DVD-RW í takmarkaða yfirskrift"
+menugrabar_DVD_libburnia_MSG6="Sýna upplýsingar um drif"
+menugrabar_DVD_libburnia_MSG8="Skráðu drif uppsett í kerfinu"
+menugrabar_DVD_libburnia_MSG0="Hætta"
+menugrabar_DVD_libburnia_MSG7="Sláðu inn valmöguleika"
+

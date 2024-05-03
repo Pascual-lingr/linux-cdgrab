@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en Suajili para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="VIDEO CONVERSION BLU-RAY DISC COMPATIBILITY"
+conv_video_BDVideo_MSG2="Bainisha njia ya faili ya video kugeuza:"
+conv_video_BDVideo_MSG3="Bainisha jina la faili la video mpya ili kuunda:"
+conv_video_BDVideo_MSG4="Faili ya video imebadilishwa kwa mafanikio!!"
+conv_video_BDVideo_MSG5="Hitilafu katika kubadilisha faili ya video"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="FILI ZA VIDEO ZA UONGOZI"
+conv_VideoFich_MSG2="Bainisha faili ya video ya kubadilisha:"
+conv_VideoFich_MSG3="Bainisha faili ya video ya kutengeneza:"
+conv_VideoFich_MSG4="UONGOZI WA FAILI LA VIDEO UMEMEKAMILIKA"
+conv_VideoFich_MSG5="HITILAFU UNAPOGEUZA FAILI LA VIDEO"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Bainisha faili ya video:"
+extrae_Audio_de_Video_MSG2="Bainisha faili ya sauti ya mp3 kutengeneza:"
+extrae_Audio_de_Video_MSG3="UCHUNGUZI WA SAUTI UMEFANIKIWA"
+extrae_Audio_de_Video_MSG4="KOSA WAKATI WA KUNYOA SAUTI"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Bainisha faili ya video:"
+extrae_Fragmento_Video_MSG2="Bainisha faili ya video ya kutengeneza:"
+extrae_Fragmento_Video_MSG3="Bainisha muda wa mwanzo (Bainisha kama HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Bainisha muda wa mwisho (Bainisha kama HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="VIDEO IMEFANIKIWA KUPANGA"
+extrae_Fragmento_Video_MSG6="KOSA WAKATI WA KUPUNGUA VIDEO"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Bainisha faili ya sauti:"
+mezcla_Audio_Video_MSG2="Bainisha faili ya video:"
+mezcla_Audio_Video_MSG3="Bainisha faili ya video ya kutengeneza:"
+mezcla_Audio_Video_MSG4="FILI MPYA YA VIDEO IMEFANIKIWA KUZALISHA"
+mezcla_Audio_Video_MSG5="HItilafu KUTOA FILI YA VIDEO"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="CHAGUO HAIPATIkani KWA INTERFACE YA CONSOLE"
+graba_escritorio_MSG2="-- KIKAO CHA MAZINGIRA YA KUREKODI -- BONYEZA CTRL + C ILI KUGHAIRI NA KUACHA KUREKODI"
+graba_escritorio_MSG3="KUREKODI VIDEO IMEMEKAMILIKA"
+

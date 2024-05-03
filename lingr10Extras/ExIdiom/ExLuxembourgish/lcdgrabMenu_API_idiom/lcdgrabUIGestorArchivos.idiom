@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLuxembourgish/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Luxemburgués para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* NAVIGATIOUN OPTIOUNEN ************************"
+ayuda_gestor_de_archivos_MSG2="Den Dateiesystem duerchsichen."
+ayuda_gestor_de_archivos_MSG3="X --> Ausfahrt"
+ayuda_gestor_de_archivos_MSG4="A --> Virdrun Verzeechnes"
+ayuda_gestor_de_archivos_MSG5="B --> Nächst Verzeechnes"
+ayuda_gestor_de_archivos_MSG6="Aktiounen op Dateien an Verzeichnisser."
+ayuda_gestor_de_archivos_MSG7="C --> Datei kopéieren"
+ayuda_gestor_de_archivos_MSG8="M --> Datei réckelen"
+ayuda_gestor_de_archivos_MSG9="CD --> Verzeechnes kopéieren"
+ayuda_gestor_de_archivos_MSG10="MD --> Verzeechnes réckelen"
+ayuda_gestor_de_archivos_MSG11="Aktiounen op Dateien an Verzeichnisser verstoen."
+ayuda_gestor_de_archivos_MSG12="Z --> Eng Datei kompriméieren"
+ayuda_gestor_de_archivos_MSG13="DZ --> Eng Datei dekompriméieren"
+ayuda_gestor_de_archivos_MSG14="EZ --> Erstellt e .tar.gz oder .tar.bz2 Package"
+ayuda_gestor_de_archivos_MSG15="DEZ --> En .tar.gz oder .tar.bz2 auspacken"
+ayuda_gestor_de_archivos_MSG16="************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Aktuellen aktive Verzeichnis"
+gestor_de_archivos_MSG0B="Dateien an"
+gestor_de_archivos_MSG1="========================= NAVIGATIOUN OPTIOUNEN ======================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> AID="
+gestor_de_archivos_MSG3="======================================================================="
+gestor_de_archivos_MSG4="Gitt eng Optioun"
+gestor_de_archivos_MSG5="Typ Verzeechnes"
+gestor_de_archivos_MSG6="Gitt d'Quelldatei"
+gestor_de_archivos_MSG7="Gitt den Destinatiounsdatei"
+gestor_de_archivos_MSG8="Fichier erfollegräich kopéiert"
+gestor_de_archivos_MSG9="Feeler beim kopéieren vum Fichier"
+gestor_de_archivos_MSG10="Gitt d'Quelldatei"
+gestor_de_archivos_MSG11="Gitt den Destinatiounsdatei"
+gestor_de_archivos_MSG12="Fichier erfollegräich geplënnert"
+gestor_de_archivos_MSG13="Feeler beim Beweegen vum Fichier"
+gestor_de_archivos_MSG14="Gitt de Quellverzeechnes"
+gestor_de_archivos_MSG15="Gitt den Destinatiounsverzeechnes"
+gestor_de_archivos_MSG16="Verzeichnis erfollegräich kopéiert"
+gestor_de_archivos_MSG17="Feeler beim Kopéieren vum Verzeichnis"
+gestor_de_archivos_MSG18="Gitt de Quellverzeechnes"
+gestor_de_archivos_MSG19="Gitt den Destinatiounsverzeechnes"
+gestor_de_archivos_MSG20="Verzeichnis erfollegräich geplënnert"
+gestor_de_archivos_MSG21="Feeler beim Beweegen vum Verzeichnis"
+gestor_de_archivos_MSG22="FILE ZE KOMPRESSEREN"
+gestor_de_archivos_MSG23="De Dateiwee spezifizéieren"

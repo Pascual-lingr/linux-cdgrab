@@ -1,0 +1,55 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAfrikaans/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Afrikáans, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="SKEPPING EN HANTERING VAN SKYFBEELDE"
+MenuImagen_MSG2="--------------- BEELD SKEPPING ---------------"
+# Se omite 'n por evitar errores de funcionamiento
+MenuImagen_MSG3="Skep n ISO-9660-prent"
+MenuImagen_MSG4="Skep n prent met 'n inheemse Linux-lêerstelsel"
+MenuImagen_MSG5="Skep n .img-prent van enige bloktoestel"
+MenuImagen_MSG6="Skep n .bin .cue-beeld vanaf die huidige toestel"
+MenuImagen_MSG7="---------------- ANDER OPSIES ----------------"
+MenuImagen_MSG8="Genereer .cue beskrywing lêer vanaf .bin beeld"
+# Se omite 'n por evitar errores de funcionamiento
+MenuImagen_MSG9="Omskep n .nrg (Nero Burning ROM) prent na .iso"
+MenuImagen_MSG10="Kompress n prent saam met gzip, bzip2 of xz"
+MenuImagen_MSG11="Dekomprimeer n prent in zip, gz, bz2 of xz"
+MenuImagen_MSG11B="Gaan md5-som van iso-beelde na"
+MenuImagen_MSG12="Verander die iso-modus"
+MenuImagen_MSG0="Vorige spyskaart"
+MenuImagen_MSG13="Beeldlêer om saamgepers te word"
+MenuImagen_MSG14="KOMPRESSEER BEELDLÊER"
+MenuImagen_MSG15="Tik die gidspad waar die prent geleë is wat jy wil saampers:"
+MenuImagen_MSG16="Beeldlêer wat jy wil dekomprimeer"
+MenuImagen_MSG17="HUIDIGE ISO-VLAK"
+MenuImagen_MSG18="iso-vlak"
+# Se omite 'n por evitar errores de funcionamiento
+MenuImagen_MSG19="Lêername bestaan ​​uit n afdeling"
+MenuImagen_MSG20="en is beperk tot 8.3 karakters."
+MenuImagen_MSG21="Kies hierdie vlak as jy naamversoenbaarheid wil hê"
+MenuImagen_MSG21b="onder die MS-DOS-bedryfstelsel"
+# Se omite 'n por evitar errores de funcionamiento
+MenuImagen_MSG22="Lêername bestaan ​​uit n afdeling"
+MenuImagen_MSG23="Onbeperkte vlak."
+MenuImagen_MSG24="Gebruik hierdie vlak as jy lêerversoenbaarheid wil hê"
+MenuImagen_MSG25="groot, in hierdie geval >= 2 Gigagrepe."
+MenuImagen_MSG26="Alle ISO-vlakke beperk lêername tot hoofletters, kleinletters en"
+MenuImagen_MSG27="karakters soos _ . Lêername is beperk tot 31 karakters"
+MenuImagen_MSG28="Maksimum 8 gidspaaie en padnaam"
+MenuImagen_MSG29="gidse tot 255 karakters."
+MenuImagen_MSG30="Kies die nuwe iso-vlak"
+MenuImagen_MSG31="ISO vlak 4 is nie amptelik nie"
+MenuImagen_MSG32="Raadpleeg die mkisofs-manbladsy"
+MenuImagen_MSG33="Ongeldige ISO-vlak"
+MenuImagen_MSG34="Stel iso-vlak 3 by verstek"
+
+

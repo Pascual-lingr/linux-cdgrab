@@ -1,0 +1,45 @@
+#########################################################
+# lcdgrabAPI_idion/ExJapanese/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Japoéns para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, utilizado google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="\tディスクドライブの操作"
+MenuDispositivosBloque_KDE_MSG1="ディスクドライブの操作"
+MenuDispositivosBloque_MSG2="------------------------- 重要 --------------------------"
+MenuDispositivosBloque_MSG3="+ ハードドライブで書き込み操作を実行しないでください "
+MenuDispositivosBloque_MSG4="+ イメージを含むディスク パーティション上 "
+MenuDispositivosBloque_MSG5="+ リカバリ、ブート パーティション、または独自の"
+MenuDispositivosBloque_MSG6="+ オペレーティング システム パーティション。"
+MenuDispositivosBloque_MSG7="+ このメニューの書き込みオプションの誤用 "
+MenuDispositivosBloque_MSG8="+ システムに大惨事を引き起こす可能性があります"
+MenuDispositivosBloque_MSG9="+ 注意して使用してください。 自己責任で使用してください。"
+MenuDispositivosBloque_MSG10="------------------- 書き込み -------------------"
+MenuDispositivosBloque_MSG11="イメージ ファイルをドライブにダンプする"
+MenuDispositivosBloque_MSG11B="ISO または IMG イメージ (ブート可能) をフラッシュ ドライブまたは USB ディスクにダンプします"
+MenuDispositivosBloque_MSG11C="すべてのインストール システムがサポートされているわけではありません。"
+MenuDispositivosBloque_MSG12="ネイティブの Linux または Windows ファイル システムでドライブをフォーマットする"
+MenuDispositivosBloque_MSG13="--------------------- 読む ---------------------"
+MenuDispositivosBloque_MSG14="ドライブから .img イメージを作成する"
+MenuDispositivosBloque_MSG15="前のメニュー"
+MenuDispositivosBloque_MSG16="オプションを入力してください"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------重要------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ ドライブは、デバイスで使用されるファイル システムでフォーマットされています"
+UIFormatearUnidad_linuxfs_MSG2B="+ またはディスク パーティション。"
+UIFormatearUnidad_linuxfs_MSG3="+ このオプションは、ドライブ上の既存のデータをすべて消去します。"
+UIFormatearUnidad_linuxfs_MSG4="+ ファイル システムでフォーマットされたリムーバブル ドライブ"
+UIFormatearUnidad_linuxfs_MSG5="+ 自分の Linux は、このオペレーティング システムでのみアクセスできます。"
+UIFormatearUnidad_linuxfs_MSG6="+ 注意して使用してください。 自己責任で使用してください。"
+UIFormatearUnidad_linuxfs_MSG7="-----------------------------------------------------------"
+# La traducción de google muestra texto en inglés.
+UIFormatearUnidad_linuxfs_MSG8="PRESS THE C KEY TO CONTINUE; (プロセスは別のオプションでキャンセルされます)"
+

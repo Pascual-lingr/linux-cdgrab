@@ -1,0 +1,46 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Lituano para la aplicación principal #
+# Traducción experimental.                         #
+# Generado con Google Translate.                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Failas automatiškai sugeneruotas LINUX-CDGRAB 1.0"
+creacion_de_Depot_MSG2="Šis failas kartu su katalogu"
+creacion_de_Depot_MSG3="buvo sugeneruoti automatiškai"
+creacion_de_Depot_MSG4="Linux-cdgrab programa, kai patikrinama, ar jos nėra jūsų Linux platinime"
+creacion_de_Depot_MSG5="katalogas"
+creacion_de_Depot_MSG6="Linux-cdgrab naudoja šį katalogą laikiniems failams ir įrenginio vaizdams (iso, img ir tt) rašyti"
+creacion_de_Depot_MSG8="GoboLinux naudoja saugyklą laikiniesiems failams saugoti"
+creacion_de_Depot_MSG9="Šis failas skirtas tik informaciniams tikslams, perskaitę galite jį laisvai ištrinti."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="PASTABA:"
+main_IDSISTEMA_MSG2="Operacinė sistema nepalaikoma."
+main_IDSISTEMA_MSG3="Jei kyla problemų dėl programos veikimo, naudokite GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="Tai nėra tinkamas argumentas"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="rasta"
+main_cdkit_test_MSG2="sukurta nuoroda į wodim"
+main_cdkit_test_MSG3="sukurta nuoroda į genisoimage"
+main_cdkit_test_MSG4="sukurta nuoroda į icedax"
+
+# pgm principal
+
+pgm_principal_MSG1="FATAL: Nerastas teisingas katalogų paskirstymas."
+pgm_principal_MSG2="NEŽINOMA"
+
+

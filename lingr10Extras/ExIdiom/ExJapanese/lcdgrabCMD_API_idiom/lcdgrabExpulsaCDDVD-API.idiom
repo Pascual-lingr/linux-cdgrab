@@ -1,0 +1,16 @@
+#########################################################
+# lcdgrabAPI_idiom/ExJapanese/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Japonés para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental al Japonés, usado google translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="イジェクトされた光ディスク"
+expulsar_medio_MSG2="デバイスからディスクをイジェクトしようとしたときのエラー"
+expulsar_medio_MSG3="名前を手動で入力してください:"
+

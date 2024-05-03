@@ -1,0 +1,51 @@
+#########################################################
+# lcdgrabAPI_idiom/ExChinese/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al chino simplificado, generado con 
+# Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="\t\t光盘映像的创建和条约"
+MenuImagen_MSG2="------------------- 影像创作 ------------------"
+MenuImagen_MSG3="创建 ISO-9660 图像"
+MenuImagen_MSG4="使用本机 Linux 文件系统创建映像"
+MenuImagen_MSG5="创建任何块设备的 .img 图像"
+MenuImagen_MSG6="从当前设备创建一个 .bin .cue 图像"
+MenuImagen_MSG7="------------------- 其他选项 ------------------"
+MenuImagen_MSG8="从 .bin 图片生成 .cue 描述文件"
+MenuImagen_MSG9="将 .nrg (Nero Burning ROM) 映像转换为 .iso"
+MenuImagen_MSG10="使用 gzip、bzip2 或 xz 压缩图像"
+MenuImagen_MSG11="以 zip、gz、bz2 或 xz 格式解压缩图像"
+MenuImagen_MSG11B="检查iso镜像的md5和"
+MenuImagen_MSG12="更改 iso 模式"
+MenuImagen_MSG0="上一个菜单"
+MenuImagen_MSG13="要压缩的图像文件"
+MenuImagen_MSG14="压缩图像文件"
+MenuImagen_MSG15="键入要压缩的图像所在的目录路径："
+MenuImagen_MSG16="需要解压的图片文件"
+MenuImagen_MSG17="当前 ISO 级别"
+MenuImagen_MSG18="等高线"
+MenuImagen_MSG19="文件名由一个部分组成"
+MenuImagen_MSG20="并且限制为 8.3 个字符。"
+MenuImagen_MSG21="如果您想要名称兼容性，请选择此级别"
+MenuImagen_MSG21b="在MS-DOS操作系统下"
+MenuImagen_MSG22="文件名由一个部分组成"
+MenuImagen_MSG23="水平不限。"
+MenuImagen_MSG24="如果您想要与文件兼容，请使用此级别"
+MenuImagen_MSG25="大，在本例中 >= 到 2 GB。"
+MenuImagen_MSG26="所有 iso 级别都将文件名限制为大写和小写。"
+MenuImagen_MSG27="_ 之类的字符。文件名限制为 31 个字符"
+MenuImagen_MSG28="目录路径最多8个，路径名为"
+MenuImagen_MSG29="目录到 255 个字符。"
+MenuImagen_MSG30="选择新的 iso 级别"
+MenuImagen_MSG31="iso level 4 不是官方的"
+MenuImagen_MSG32="请参阅 mkisofs 手册页"
+MenuImagen_MSG33="ISO 级别无效"
+MenuImagen_MSG34="默认设置 iso 级别 3"
+

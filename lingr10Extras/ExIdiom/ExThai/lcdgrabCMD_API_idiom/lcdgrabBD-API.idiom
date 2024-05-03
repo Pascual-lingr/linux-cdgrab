@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExThai/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Tailandés para el API de grabación en BD.
+# Traducción experimental, generado con Chat GPT
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="รูปภาพ ISO-9660 ถูกบันทึกในแผ่น Blu-ray อย่างถูกต้อง"
+grabar_ISO_BD_MSG2="ข้อผิดพลาดในการบันทึกภาพในแผ่นบลูเรย์"
+grabar_ISO_BD_MSG3="ภาพ ISO-9660 ใน BD"
+grabar_ISO_BD_MSG4="โปรดระบุเส้นทางของภาพ ISO-9660 ที่จะบันทึก"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="ไฟล์และไดเรกทอรีสำหรับสร้างภาพ .iso"
+bd_datos_MSG2="ป้ายกำกับ BD"
+bd_datos_MSG3="กรุณาเขียนชื่อสำหรับ BD ในอนาคต:"
+bd_datos_MSG4="เปิดตัวจัดการไฟล์ :"
+bd_datos_MSG5="กำลังสร้างภาพ . . ."
+bd_datos_MSG6="กำลังดำเนินการ"
+bd_datos_MSG7="รูปภาพ ISO-9660 ถูกสร้างใน"
+bd_datos_MSG8="		กำลังเขียน BD"
+bd_datos_MSG13="กำลังลบรูปภาพ..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="ใช้รูปแบบหรือลบตามความจำเป็นของดิสก์"
+borrar_BDRE_lb_MSG2="ลบ BD-RE เรียบร้อยแล้ว !!"
+borrar_BDRE_lb_MSG3="เกิดข้อผิดพลาดในการลบ BD-RE"
+

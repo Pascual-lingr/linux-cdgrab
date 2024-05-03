@@ -1,0 +1,282 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKorean/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Coreano para el Interfaz del Centro de Control
+# Tradciión experimental, generada con google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux 구성-cdgrab"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="어느 IDE 채널이 속하는지 모르는 경우" 
+ayuda_IDE_MSG2="녹음기는 문자 t를 눌러 알아낼 수 있습니다."
+ayuda_IDE_MSG3="IDE 채널의 예는 0,0,0 또는 0,1,0 일 수 있습니다."
+ayuda_IDE_MSG4="해당 장치를 지정할 수도 있습니다"
+ayuda_IDE_MSG5="당신의 녹음기에.어느 것인지 확실하지 않다면 d를 누르세요."
+ayuda_IDE_MSG6="/etc/fstab 파일에 등록된 장치를 보려면"
+ayuda_IDE_MSG7="장치의 예로는 /dev/hdd, /dev/hde 등이 있습니다."
+ayuda_IDE_MSG8="원하는 경우 포함된 모든 장치를 나열할 수도 있습니다."
+ayuda_IDE_MSG9="문자 l을 눌러 /dev 디렉토리에 있습니다."
+ayuda_IDE_MSG10="IDE 채널이나 녹음 장치를 지정해야 합니다."
+ayuda_IDE_MSG11="하지만 둘 다는 아니다"
+
+# desinstalar
+
+desinstalar_MSG1="Linux - cdgrab이 시스템에서 제거되었습니다."
+
+# imprimir_variables
+
+imprimir_variables_MSG1="녹화 속도"
+imprimir_variables_MSG2="IDE/SCSI 채널 또는 녹음 장치"
+imprimir_variables_MSG3="CD-ROM, DVD-ROM 또는 BD-ROM 리더"
+imprimir_variables_MSG4="ATAPI 장치"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="녹화 속도"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI 채널 또는 녹음 장치"
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM 또는 BD-ROM 리더"
+imprimir_lcdgrabcfg_MSG4="ATAPI 장치"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="설치됨"
+chequeo_de_aplicaciones_MSG2="설치되지 않음"
+chequeo_de_aplicaciones_MSG3="설치하다"
+chequeo_de_aplicaciones_MSG4="중요한:"
+chequeo_de_aplicaciones_MSG5="필요한 도구를 설치하면 Linux-cdgrab이 완벽하게 작동합니다."
+chequeo_de_aplicaciones_MSG6="Linux-cdgrab에 필요한 모든 프로그램이 시스템에 설치되어 있습니다."
+chequeo_de_aplicaciones_MSG4B="경고:"
+chequeo_de_aplicaciones_MSG5B="누락된 도구가 발견되었습니다."
+chequeo_de_aplicaciones_MSG6B="시스템에 설치된 도구"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0은 기본적으로 이 변수에 할당됩니다."
+msgdefCANALATAPI_MSG2="구성 파일은 CANALATAPI = 0,0,0으로 작성됩니다"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Linux-cdgrab에 의해 자동으로 생성된 구성 파일입니다."
+nuevo_lcdgrabcfg_MSG5="시스템에서 cdrecord를 찾을 수 없습니다"
+nuevo_lcdgrabcfg_MSG6="cdrtools 패키지를 설치합니다."
+nuevo_lcdgrabcfg_MSG7="값을 지정하여 구성을 계속할 수 있습니다."
+nuevo_lcdgrabcfg_MSG8="이전에 알고 있다면 녹음하세요."
+nuevo_lcdgrabcfg_MSG9="cdrecord 명령은 CD, DVD 및 BD 디스크를 기록하는 데 사용됩니다."
+nuevo_lcdgrabcfg_MSG10="이러한 옵션은 해당 패키지가 설치될 때까지 작동하지 않습니다."
+nuevo_lcdgrabcfg_MSG11="현재 드라이브 검사 도구도 작동하지 않습니다."
+nuevo_lcdgrabcfg_MSG12="이 설정 마법사에서."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab은 다음 4단계로 구성해야 합니다."
+nuevo_lcdgrabcfg_MSG14="첫 번째 단계."
+nuevo_lcdgrabcfg_MSG15="녹음 속도:"
+nuevo_lcdgrabcfg_MSG16="단 하나의 숫자 2,4,8,16,32...etc"
+nuevo_lcdgrabcfg_MSG17="두번째 단계."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI 채널 또는 기록 장치:"
+nuevo_lcdgrabcfg_MSG19="A -> 지원"
+nuevo_lcdgrabcfg_MSG20="스캐닝 ..."
+nuevo_lcdgrabcfg_MSG21="IDE/SCSI 포트 검색 중 오류 발생"
+nuevo_lcdgrabcfg_MSG22="CD 레코드를 찾을 수 없습니다"
+nuevo_lcdgrabcfg_MSG23="세 번째 단계."
+nuevo_lcdgrabcfg_MSG24="CD-ROM, DVD-ROM 또는 BD-ROM 장치"
+nuevo_lcdgrabcfg_MSG25="L -> 사용 가능한 장치 나열"
+nuevo_lcdgrabcfg_MSG26="스캐닝 ..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI 포트가 검색되었습니다."
+nuevo_lcdgrabcfg_MSG28="다중 세션 기록에서 dev=ATAPI를 통해 cdrecord에서 사용할 장치"
+nuevo_lcdgrabcfg_MSG30="장치에는 0,0,0 또는 1,0,0 등과 같은 명명법이 있습니다."
+nuevo_lcdgrabcfg_MSG31="멀티세션 CD에서 cdrecord를 호출할 장치를 지정하십시오:"
+nuevo_lcdgrabcfg_MSG32="CANALATAPI에 대한 구성이 올바르지 않습니다."
+nuevo_lcdgrabcfg_MSG33="IDE/SCSI 포트 검색 중 오류 발생"
+nuevo_lcdgrabcfg_MSG34="CD 레코드를 찾을 수 없습니다"
+nuevo_lcdgrabcfg_MSG36="Linux-cdgrab에 의해 자동으로 생성된 구성 파일입니다."
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB 구성이 완료되었습니다."
+
+# colores
+
+colores_MSG1="색상 목록을 찾을 수 없습니다."
+colores_MSG2="기본 색상 불러오기"
+colores_MSG3="LINUX-CDGRAB 인터페이스에 대한 새로운 색상 구성표를 선택하십시오"
+colores_MSG4="검은색 글꼴"
+colores_MSG5="표준 밝은 글꼴"
+colores_MSG6="검은색 배경색"
+colores_MSG7="빨간색 글꼴"
+colores_MSG8="밝은 검정색 글꼴"
+colores_MSG9="빨간색 배경색"
+colores_MSG10="글꼴 녹색"
+colores_MSG11="밝은 빨간색 분수"
+colores_MSG12="녹색 배경 색상"
+colores_MSG13="노란색 글꼴"
+colores_MSG14="밝은 녹색 글꼴"
+colores_MSG15="주황색 배경색"
+colores_MSG16="파란색 글꼴"
+colores_MSG17="밝은 노란색 글꼴"
+colores_MSG18="파란색 배경색"
+colores_MSG19="마젠타 글꼴"
+colores_MSG20="밝은 파란색 글꼴"
+colores_MSG21="자홍색 배경색"
+colores_MSG22="청록색 소스"
+colores_MSG23="밝은 마젠타 글꼴"
+colores_MSG24="청록색 배경색"
+colores_MSG25="회색 글꼴"
+colores_MSG26="청록색 배경색"
+colores_MSG27="밝은 청록색 글꼴"
+colores_MSG28="회색 배경색"
+colores_MSG29="기본 소스"
+colores_MSG30="밝은 흰색 글꼴"
+colores_MSG31="기본 배경색"
+colores_MSG32="글꼴 색상 번호: "
+colores_MSG33="배경 색상 번호: "
+colores_MSG34="경고 메시지의 색상 번호: "
+colores_MSG35="라벨 메시지의 색상 번호: "
+colores_MSG36="성공적으로 완료된 프로세스의 색상 번호"
+colores_MSG37="오류로 인해 프로세스가 종료된 색상 번호: "
+colores_MSG38="LINUX-CDGRAB의 새로운 구성표"
+colores_MSG39="일반 글꼴 색상"
+colores_MSG40="레이블"
+colores_MSG41="공지사항"
+colores_MSG42="성공"
+colores_MSG43="오류"
+colores_MSG44="배경색상"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="사용 가능한 색상 목록:"
+cambiar_esquema_de_color_MSG2="#####색상 구성#######"
+cambiar_esquema_de_color_MSG3="----------------------"
+cambiar_esquema_de_color_MSG4="색상 메뉴"
+cambiar_esquema_de_color_MSG5="실패"
+cambiar_esquema_de_color_MSG6="라벨"
+cambiar_esquema_de_color_MSG6b="공지사항"
+cambiar_esquema_de_color_MSG7="색상 메뉴 확인 실패 경고 라벨"
+cambiar_esquema_de_color_MSG8="새 색상의 번호를 입력하세요:"
+cambiar_esquema_de_color_MSG9="잘못된 옵션"
+cambiar_esquema_de_color_MSG10="기본 색상 설정."
+cambiar_esquema_de_color_MSG11=" 배경 = 파란색_BACKGROUND"
+cambiar_esquema_de_color_MSG12="FONT = 밝은 흰색"
+cambiar_esquema_de_color_MSG13=" 경고 = 밝은 노란색"
+cambiar_esquema_de_color_MSG14=" 오류 = 밝은 빨간색"
+cambiar_esquema_de_color_MSG15=" 오류 = 밝은 빨간색"
+cambiar_esquema_de_color_MSG16=" 히트 = 밝은 녹색"
+cambiar_esquema_de_color_MSG17="레이블 = 밝은 청록색"
+
+# cambia_lector
+
+cambia_lector_MSG1="광학 장치의 환경 구성"
+cambia_lector_MSG2="CD-ROM, DVD-ROM 또는 BD-ROM과 연결된 현재 장치"
+cambia_lector_MSG3="CD/DVD/BD 버너와 연결된 현재 장치"
+cambia_lector_MSG4="매개변수 dev=ATAPI와 연결된 현재 장치"
+cambia_lector_MSG5="(cdrecord에 대한 다중 세션 지원)"
+cambia_lector_MSG6="변경할 장치를 선택하세요."
+cambia_lector_MSG7="옵션 입력:"
+cambia_lector_MSG8="새 장치의 이름을 입력하세요"
+cambia_lector_MSG9="블록 장치에 해당하지 않습니다"
+cambia_lector_MSG10="장치"
+cambia_lector_MSG11="기본적으로 할당됨"
+cambia_lector_MSG12="새 장치는:"
+cambia_lector_MSG13="모든 버전의 cdrecord가 블록 장치를 녹화 매개변수로 허용하는 것은 아닙니다."
+cambia_lector_MSG14="새 ATAPI 장치의 이름을 입력하세요"
+cambia_lector_MSG15="CANALATAPI에 대한 구성이 올바르지 않습니다."
+cambia_lector_MSG16="0,0,0은 기본적으로 이 변수에 할당됩니다."
+cambia_lector_MSG17="구성 파일은 CANALATAPI = 0,0,0으로 작성됩니다."
+cambia_lector_MSG18="새 장치는:"
+cambia_lector_MSG19="장치에 변경 사항이 적용되지 않습니다."
+cambia_lector_MSG4B="구성 파일에서 값 내보내기"
+cambia_lector_MSG4C="이 값은 환경에 보고되었습니다:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="이 메뉴에서 어떤 유틸리티를 선택할 수 있습니다."
+cambia_generador_isocd_MSG2="ISO-9660 이미지를 생성하는 데 사용됩니다."
+cambia_generador_isocd_MSG3="읽기 장치의 기존 CDS에서."
+cambia_generador_isocd_MSG4="현재 구성:"
+cambia_generador_isocd_MSG5="dd 사용(GNU coreutils 구성 요소)"
+cambia_generador_isocd_MSG6="readcd 사용(cdrtools 구성요소)"
+cambia_generador_isocd_MSG7="이전 메뉴입니다."
+cambia_generador_isocd_MSG8="옵션을 선택하세요:"
+cambia_generador_isocd_MSG9="dd를 iso 생성기로 사용 중입니다."
+cambia_generador_isocd_MSG10="readcd를 iso 생성기로 사용합니다."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Rock Ridge 및 Joliet과 함께 HFS 메타데이터 설정"
+establecer_hfs_iso_MSG2="Rock Ridge 및 Joliet 메타데이터만 사용"
+establecer_hfs_iso_MSG3="이전 메뉴입니다."
+establecer_hfs_iso_MSG4="옵션을 선택하세요:"
+establecer_hfs_iso_MSG5="HFS, Rock Ridge 및 Joliet 메타데이터 사용"
+establecer_hfs_iso_MSG6="Rock Ridge 및 Joliet 메타데이터 사용"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="현재 알림 시스템"
+cambia_notificaciones_MSG2A="그놈 그래픽 인터페이스"
+cambia_notificaciones_MSG2B="KDE 그래픽 인터페이스"
+cambia_notificaciones_MSG2="ncurses와의 인터페이스"
+cambia_notificaciones_MSG3="텍스트 인터페이스"
+cambia_notificaciones_MSG4="종료"
+cambia_notificaciones_MSG5="옵션을 선택하세요:"
+cambia_notificaciones_MSG6="대화상자와 인터페이스 사용"
+cambia_notidicaciones_MSG6B="zenity와 인터페이스 사용"
+cambia_notidicaciones_MSG6C="kdialog와 인터페이스 사용"
+cambia_notificaciones_MSG7="대화상자 명령을 찾을 수 없습니다"
+cambia_notificaciones_MSG8="텍스트 인터페이스 사용 중"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="사용 언어:"
+cambiar_idioma_UI_MSG1="현재 사용 가능한 언어:"
+cambiar_idioma_UI_MSG2="사용할 언어 이름을 입력하세요"
+cambiar_idioma_UI_MSG3="응용프로그램 인터페이스에서:"
+cambiar_idioma_UI_MSG4="사용된 새 언어는:"
+cambiar_idioma_UI_MSG5="LINUX-CDGRAB을 다시 시작하세요"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="현재 구성"
+seleccion_gestor_archivos_MSG2="MC 사용"
+seleccion_gestor_archivos_MSG3="통합 텍스트 관리자 사용"
+seleccion_gestor_archivos_MSG4="시스템에 설치된 mc를 찾을 수 없습니다."
+seleccion_gestor_archivos_MSG5="기본적으로 통합 텍스트 관리자 사용"
+seleccion_gestor_archivos_MSG6="mc 유틸리티"
+seleccion_gestor_archivos_MSG7="통합 텍스트"
+
+# centro_de_control
+
+centro_de_control_MSG1="제어 센터"
+centro_de_control_MSG2="새 구성"
+centro_de_control_MSG3="구성 파일 삭제"
+centro_de_control_MSG4="파일 및 현재 구성 값 표시"
+centro_de_control_MSG5="구성 파일 값:"
+centro_de_control_MSG5B="환경에서 사용되는 현재 구성:"
+centro_de_control_MSG6="광 미디어 변경"
+centro_de_control_MSG7="설치된 프로그램 확인"
+centro_de_control_MSG8="cdrecord로 IDE/SCSI 포트 스캔"
+centro_de_control_MSG8C="cdrskin으로 IDE/SCSI 포트 스캔"
+centro_de_control_MSG8B="cdrskin을 사용하여 시스템에 설치된 장치 목록"
+centro_de_control_MSG9="CD에서 ISO 생성 유틸리티 변경"
+centro_de_control_MSG9B="iso-9660에 대한 HFS 메타데이터 설정"
+centro_de_control_MSG10="사용자 인터페이스 변경"
+centro_de_control_MSG10b="색상 변경"
+centro_de_control_MSG10c="인터페이스 언어 변경"
+centro_de_control_MSG11="파일 관리자 변경"
+centro_de_control_MSG11B="프로그램 제거"
+centro_de_control_MSG12="옵션을 입력하세요: "
+centro_de_control_MSG13="구성 파일이 존재하지 않습니다."
+centro_de_control_MSG14="구성 파일을 찾을 수 없습니다"
+centro_de_control_MSG15="스캔 중"
+centro_de_control_MSG16="IDE/SCSI 포트 검사됨"
+centro_de_control_MSG17="IDE/SCSI 포트 검색 오류"
+centro_de_control_MSG18="색 구성표 선택"
+centro_de_control_MSG19="색상을 임의로 선택하세요"
+centro_de_control_MSG20="이전 메뉴"
+centro_de_control_MSG21="옵션을 입력하세요: "
+centro_de_control_MSG22="구성 파일이 존재하지 않습니다."
+centro_de_control_MSG23="구성 파일을 찾을 수 없습니다"
+centro_de_control_MSG24="색 구성표 선택"
+centro_de_control_MSG25="색상을 임의로 선택하세요"
+centro_de_control_MSG26="잘못된 옵션"
+

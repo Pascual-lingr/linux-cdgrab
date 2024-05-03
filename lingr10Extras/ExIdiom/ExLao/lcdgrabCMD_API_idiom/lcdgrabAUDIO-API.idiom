@@ -1,0 +1,144 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Lao para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="ໄຟລ໌ MP3 ທີ່ຈະປ່ຽນ"
+mp3awav_MSG0="ໃສ່ເສັ້ນທາງຂອງໄຟລ໌ .mp3: "
+mp3awav_MSG1="ການປ່ຽນແປງ"
+mp3awav_MSG1B=" ຮູບແບບ .wav"
+mp3awav_MSG2="ແລ່ນ"
+mp3awav_MSG3="ຕັ້ງຕົວຢ່າງເປັນ 44100 Mhz"
+mp3awav_MSG4="ການປະມວນຜົນການເກັບຕົວຢ່າງຜິດພາດ"
+mp3awav_MSG5="ແປງບໍ່ສຳເລັດ"
+mp3awav_MSG6="ບໍ່ພົບໄດເລກະທໍລີ"
+mp3awav_MSG7="END ຂອງການປ່ຽນສຽງ"
+mp3awav_MSG8="ການເຮັດໃຫ້ໄຟລ໌ສຽງປົກກະຕິ"
+mp3awav_MSG9="ໄຟລ໌"
+mp3awav_MSG10="ປົກກະຕິ"
+mp3awav_MSG11="ການປັບຄວາມຜິດພາດປົກກະຕິ"
+
+# oggawav
+
+oggawav_MSG0="OGG ໄຟລ໌ທີ່ຈະປ່ຽນ"
+oggawav_MSG1="ໃສ່ເສັ້ນທາງຂອງໄຟລ໌ .ogg: "
+oggawav_MSG2="ແປງ"
+oggawav_MSG2B="ຮູບແບບ .wav"
+oggawav_MSG3="ແລ່ນ"
+oggawav_MSG4="ຕັ້ງຕົວຢ່າງເປັນ 44100 Mhz"
+oggawav_MSG5="ການປະມວນຜົນການເກັບຕົວຢ່າງຜິດພາດ"
+oggawav_MSG6="ແປງບໍ່ສຳເລັດ"
+oggawav_MSG7="ບໍ່ພົບໄດເລກະທໍລີ"
+oggawav_MSG8="ສິ້ນສຸດການປົກຫຸ້ມຂອງສຽງ"
+oggawav_MSG9="ການເຮັດໃຫ້ໄຟລ໌ສຽງປົກກະຕິ"
+oggawav_MSG10="ໄຟລ໌"
+oggawav_MSG11="ປົກກະຕິ"
+oggawav_MSG12="ການປັບຄວາມຜິດພາດປົກກະຕິ"
+
+# cdawav
+
+cdawav_MSG1="RIP ສຽງ CDs..."
+cdawav_MSG2="ປະຕິບັດ:"
+cdawav_MSG3="ຕິດຕາມສຽງທີ່ສຳເລັດແລ້ວ!!"
+cdawav_MSG4="ເນື້ອໃນຂອງໄດເລກະທໍລີໄຟລ໌ສຽງ"
+cdawav_MSG5="ຄວາມຜິດພາດເມື່ອກຳລັງຕັດສຽງເພງ"
+
+# cddawav
+
+cddawav_MSG1="ໃສ່ຈຳນວນຂອງການຕິດຕາມເພື່ອ RIP:"
+cddawav_MSG2="ກົດ Crtl + c ເພື່ອຍົກເລີກການລອກເພງ"
+cddawav_MSG3="ກຳລັງປະຕິບັດ:"
+cddawav_MSG4="ສຳເລັດຜົນ"
+cddawav_MSG5="ເກີດຄວາມຜິດພາດເມື່ອລີບ"
+
+# wavamp3
+
+wavamp3_MSG0="ໄຟລ໌ WAV ທີ່ຈະປ່ຽນ"
+wavamp3_MSG1="ໃສ່ເສັ້ນທາງຂອງໄຟລ໌ .wav: "
+wavamp3_MSG1B="ແປງ"
+wavamp3_MSG2="ເພື່ອຈັດຮູບແບບ"
+wavamp3_MSG3="ກຳລັງປະຕິບັດ:"
+wavamp3_MSG4="ເມື່ອປ່ຽນ"
+wavamp3_MSG5="ເປັນຮູບແບບ .MP3"
+wavamp3_MSG6="ການແປງຜິດພາດ"
+wavamp3_MSG7="ການແປງສຽງທີ່ສຳເລັດແລ້ວ"
+wavamp3_MSG8="ບໍ່ພົບລະບົບສຽງ"
+
+# cdamp3
+
+# Resultado del traductor
+cdamp3_MSG1="RIP ສຽງ CDs..."
+cdamp3_MSG2="ກຳລັງປະຕິບັດ:"
+cdamp3_MSG3="ຕິດຕາມສຽງທີ່ສຳເລັດແລ້ວ!!"
+cdamp3_MSG4="ເກີດຄວາມຜິດພາດເມື່ອສົ່ງສຽງເພງ"
+cdamp3_MSG5="ຟັງຊັນການໂທ:"
+
+# wavaogg
+
+wavaogg_MSG1="ໃສ່ເສັ້ນທາງຂອງໄຟລ໌ .wav: "
+wavaogg_MSG2="ແປງ"
+wavaogg_MSG3="ເປັນຮູບແບບ .ogg"
+wavaogg_MSG4="ກຳລັງແລ່ນ:"
+wavaogg_MSG5="ການແປງຜິດພາດ"
+wavaogg_MSG6="ເປັນຮູບແບບ .ogg"
+
+# cdaogg
+
+# Resultado del traductor
+cdaogg_MSG1="RIP ສຽງ CDs..."
+cdaogg_MSG2="ກຳລັງປະຕິບັດ:"
+cdaogg_MSG3="ຕິດຕາມສຽງທີ່ສຳເລັດແລ້ວ!!"
+cdaogg_MSG4="ຜິດພາດເມື່ອກຳລັງຕັດສຽງເພງ"
+cdaogg_MSG5="ຟັງຊັນການໂທ:"
+
+# corta_wav
+
+corta_wav_MSG0="ຈໍານວນວິນາທີ:"
+corta_wav_MSG1="ລະບຸເສັ້ນທາງຂອງໄຟລ໌ສຽງທີ່ຈະປ່ຽນ:"
+corta_wav_MSG2="ລະບຸເວລາເປັນຈຳນວນວິນາທີ, ເຊິ່ງ"
+corta_wav_MSG3="ການຕັດໄຟລ໌ຈະເລີ່ມຕົ້ນ."
+corta_wav_MSG4="-ຫມາຍ​ເຫດ​-"
+corta_wav_MSG5="ເພື່ອລະບຸຈຸດເລີ່ມຕົ້ນຂອງສຽງ, ໃສ່ 0"
+corta_wav_MSG6="ຄ່າໃນວິນາທີເພື່ອເລີ່ມການແປງ:"
+corta_wav_MSG7="ລະບຸເວລາເປັນຈຳນວນວິນາທີ, ເຊິ່ງ"
+corta_wav_MSG8="ການຕັດໄຟລ໌ຈະສຳເລັດ."
+corta_wav_MSG9="ຄ່າໃນວິນາທີສຳລັບການສິ້ນສຸດຂອງການປ່ຽນໃຈເຫລື້ອມໃສ:"
+corta_wav_MSG10="ແລ່ນ"
+corta_wav_MSG11="ໄຟລ໌ສຽງຖືກຕັດອອກ"
+corta_wav_MSG12="ຜິດພາດໃນຂະນະທີ່ກຳລັງຕັດໄຟລ໌"
+corta_wav_MSG13="ໄຟລ໌ສຽງເພື່ອຕັດ:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV ສຽງ"
+flacawav_MSG1="ລະບຸເສັ້ນທາງຂອງໄຟລ໌ .flac:"
+flacawav_MSG2="ແປງ"
+flacawav_MSG3=" ຮູບແບບ .wav"
+flacawav_MSG4="ຕັ້ງຕົວຢ່າງເປັນ 44100 Mhz"
+flacawav_MSG5="ການປະມວນຜົນການເກັບຕົວຢ່າງຜິດພາດ"
+flacawav_MSG6="ການເຮັດໃຫ້ໄຟລ໌ສຽງປົກກະຕິ"
+flacawav_MSG7="ໄຟລ໌"
+flacawav_MSG8="ປົກກະຕິ"
+flacawav_MSG9="ການ​ເຮັດ​ໃຫ້​ຜິດ​ພາດ​ປົກ​ກະ​ຕິ"
+flacawav_MSG10="ແປງບໍ່ສຳເລັດ"
+flacawav_MSG11="ບໍ່ພົບໄດເລກະທໍລີ"
+flacawav_MSG12="ສິ້ນສຸດການແປງສຽງ"
+
+# wavaflac
+
+wavaflac_MSG0="ໄຟລ໌ WAV ທີ່ຈະປ່ຽນ"
+wavaflac_MSG1="ໃສ່ເສັ້ນທາງຂອງໄຟລ໌ .wav: "
+wavaflac_MSG2="ແປງ"
+wavaflac_MSG3="ຮູບແບບ .wav"
+wavaflac_MSG4="ປ່ຽນເປັນຮູບແບບ flac"
+wavaflac_MSG5="ການແປງຜິດພາດ"
+wavaflac_MSG6="ເປັນຮູບແບບ .flac"
+wavaflac_MSG7="ບໍ່ພົບເອກະສານ FLAC"
+

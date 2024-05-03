@@ -1,0 +1,36 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Vietnamita para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Các tập tin trong /tmp"
+dir_tmp_MSG2="Xóa tất cả hình ảnh và tập tin nén"
+dir_tmp_MSG3="Khởi chạy trình quản lý tập tin cho các hoạt động khác"
+dir_tmp_MSG4="Gắn hoặc tháo hình ảnh"
+dir_tmp_MSG5="Hiển thị menu tạo hình ảnh"
+dir_tmp_MSG6="Hiển thị các tùy chọn ghi ảnh"
+dir_tmp_MSG7="Trình đơn trước"
+dir_tmp_MSG8=" DANH SÁCH TỆP HIỆN CÓ TRONG"
+dir_tmp_MSG9="CHỌN MỘT TÙY CHỌN:"
+dir_tmp_MSG10="Hình ảnh và tập tin đã bị xóa"
+dir_tmp_MSG11="Gắn hình ảnh."
+dir_tmp_MSG12="Gỡ hình ảnh."
+dir_tmp_MSG13="Ghi ảnh vào CD"
+dir_tmp_MSG14="Ghi ảnh vào DVD"
+dir_tmp_MSG14B="Ghi hình ảnh vào BD"
+dir_tmp_MSG15="Chọn tùy chọn theo phương tiện ghi"
+dir_tmp_MSG16="KHÔNG TÌM THẤY TẬP TIN CẤU HÌNH"
+dir_tmp_MSG17="Hủy bỏ quá trình ghi"
+dir_tmp_MSG18="Chỉ định tệp .iso cần ghi"
+dir_tmp_MSG19="Nhập đường dẫn hình ảnh: "
+
+
+

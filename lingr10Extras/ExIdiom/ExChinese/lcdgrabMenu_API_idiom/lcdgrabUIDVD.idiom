@@ -1,0 +1,91 @@
+#########################################################
+# lcdgrabAPI_idiom/ExChinese/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menu de Interfaz para la grabación de DVD.
+# Traducción experimental al chino simplificado,
+# generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="选择将使用的用户界面："
+SeleccionaIUDVD_MSG2="使用 dvd+-rw-tools 的界面"
+SeleccionaIUDVD_MSG3="使用 Cdrecord-ProDVD 的界面"
+SeleccionaIUDVD_MSG4="使用 libburnia 的界面"
+SeleccionaIUDVD_MSG5="上一个菜单"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="DVD 录制"
+menugrabar_dvd_MSG2="------------------- DVD-数据 ------------------"
+menugrabar_dvd_MSG3="复制 ISO-9660 数据 DVD"
+menugrabar_dvd_MSG4="在硬盘驱动器上创建 DVD 前映像"
+menugrabar_dvd_MSG5="刻录新的 ISO-9660 数据 DVD"
+menugrabar_dvd_MSG6="将新数据会话添加到 ISO-9660 数据 DVD（DVD 多会话）"
+menugrabar_dvd_MSG7="使用第二个选项需要以前录制的 DVD"
+menugrabar_dvd_MSG8="将 ISO-9660 数据映像刻录到 DVD"
+menugrabar_dvd_MSG9="将 .ext2 映像刻录到 DVD"
+menugrabar_dvd_MSG10="------------------- DVD 视频 ------------------"
+menugrabar_dvd_MSG11="刻录新的 DVD 视频"
+menugrabar_dvd_MSG12="------------------ 其他选项 -------------------"
+menugrabar_dvd_MSG13="格式化 DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="显示 DVD 光盘信息"
+menugrabar_dvd_MSG0="上一个菜单"
+menugrabar_dvd_MSGPRINCIPAL="输入一个选项"
+menugrabar_dvd_MSG15="要包含在 DVD 上的文件和目录"
+menugrabar_dvd_MSG16="启动文件管理器..."
+menugrabar_dvd_MSG17="要刻录到 DVD 的 .iso 映像"
+menugrabar_dvd_MSG18="键入要刻录的 .iso 映像所在的目录路径"
+menugrabar_dvd_MSG19="需要支持 DVD 的 cdrecord 版本。"
+menugrabar_dvd_MSG20="将 .ext2 映像刻录到 DVD 将使用 cdrecord 完成。"
+menugrabar_dvd_MSG21="安装中存在的 cdrecord 版本应该"
+menugrabar_dvd_MSG22="支持DVD刻录。"
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="选择一个选项"
+dvd_clonar_MSG2="--- 带有预览图像的光盘副本 ---"
+dvd_clonar_MSG3="复制数据 DVD"
+dvd_clonar_MSG4="在硬盘驱动器上创建 DVD 前映像"
+dvd_clonar_MSG5="--- 即时光盘复制 ---"
+dvd_clonar_MSG6="即时复制数据 DVD"
+dvd_clonar_MSG7="即时克隆数据 DVD"
+dvd_clonar_MSG8="飞行复制选项需要两个光学单元"
+dvd_clonar_MSG9="安装在您的计算机上，因为数据是在"
+dvd_clonar_MSG10="他们直接从源光盘读取，如果您的设备上有可用的话"
+dvd_clonar_MSG11="您将无法使用临时副本。"
+dvd_clonar_MSG0="上一个菜单"
+dvd_clonar_MSG12="数据 DVD 复制"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD 录制"
+menugrabar_DVD_MSG2="------------------- DVD-数据 --------------------"
+menugrabar_DVD_MSG3="复制数据 DVD"
+menugrabar_DVD_MSG4="刻录新的数据 DVD"
+menugrabar_DVD_MSG5="将 .iso 或 .ext2 映像刻录到 DVD"
+menugrabar_DVD_MSG6="格式化 DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="显示驱动器中的磁盘信息"
+menugrabar_DVD_MSG0="上一个菜单"
+menugrabar_DVD_MSGPRINCIPAL="输入一个选项"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="将 iso-9660 映像刻录到 DVD"
+menugrabar_DVD_libburnia_MSG2="将数据从硬盘驱动器刻录到 DVD"
+menugrabar_DVD_libburnia_MSG3="格式化 DVD"
+menugrabar_DVD_libburnia_MSG4="将 DVD-RW 格式化为顺序增量"
+menugrabar_DVD_libburnia_MSG5="格式化 DVD-RW 以限制覆盖"
+menugrabar_DVD_libburnia_MSG6="显示单元信息"
+menugrabar_DVD_libburnia_MSG8="列出系统上安装的驱动器"
+menugrabar_DVD_libburnia_MSG0="出去"
+menugrabar_DVD_libburnia_MSG7="写一个选项"
+

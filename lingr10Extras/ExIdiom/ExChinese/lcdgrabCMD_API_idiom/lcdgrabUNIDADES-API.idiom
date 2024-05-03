@@ -1,0 +1,69 @@
+#########################################################
+# lcdgrabAPI_idiom/ExChinese/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en chino simplificado para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generada con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="要转储到磁盘的 .img 或 .ext2 图像的路径。"
+volcar_imagen_MSG2="-----------------------重要的--------------------------" 
+volcar_imagen_MSG3="+ 此选项在光盘上不起作用。"
+volcar_imagen_MSG4="+ 在闪存驱动器、软盘、磁盘分区等上使用。"
+volcar_imagen_MSG5="+ 考虑硬盘驱动器："
+volcar_imagen_MSG6="+ 图片的写入是一开始用dd完成的"
+volcar_imagen_MSG7="  指定磁盘的，不允许使用多个"
+volcar_imagen_MSG8="  部门特别是开始写作过程"
+volcar_imagen_MSG9="+ 谨慎使用。使用风险自负。"
+volcar_imagen_MSG10="+ 磁盘分区可能变得不可用。"
+volcar_imagen_MSG11="+ 不建议在多分区系统中使用。"
+volcar_imagen_MSG12="  还原可能会留下分区表和"
+volcar_imagen_MSG13="  分区本身没用。"
+volcar_imagen_MSG14="-------------------------------------------------------"
+volcar_imagen_MSG15="PRESS THE C KEY TO CONTINUE;（该过程将在另一个选项中取消"
+volcar_imagen_MSG16="指定要转储到磁盘的图像文件的路径："
+volcar_imagen_MSG17="挂载命令的输出："
+volcar_imagen_MSG18="指定要转储镜像的块设备："
+volcar_imagen_MSG19="上传图片"
+volcar_imagen_MSG20="在设备上"
+volcar_imagen_MSG21="跑步"
+volcar_imagen_MSG22="图像转储过程已完成"
+
+# volcar_iso
+
+volcar_iso_MSG1="指定写入iso镜像的块设备："
+volcar_iso_MSG2="警告"
+volcar_iso_MSG2B="----"
+volcar_iso_MSG3="指定要写入的块设备。"
+volcar_iso_MSG4="示例：/dev/sdb、/dev/sdc"
+volcar_iso_MSG5="不要指定属于该设备的分区"
+volcar_iso_MSG6="示例：/dev/sdb1、/dev/sdc2"
+volcar_iso_MSG7="指定要写入的iso-9660图片或img："
+volcar_iso_MSG9="完成的过程"
+volcar_iso_MSG10="iso写入过程出错"
+volcar_iso_MSG11="指定块大小以写入图像"
+volcar_iso_MSG12="根据操作系统选择选项写入："
+volcar_iso_MSG13="ISO-9660 或可引导 IMG 映像以在设备上闪存："
+volcar_iso_MSG14="出去"
+volcar_iso_MSG15="图像文件 ISO-9660 或 IMG"
+volcar_ISO_MSG16="选择要转储到驱动器中的操作系统"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="选择文件系统与"
+Formateador_linuxfs_MSG2="该设备将被格式化："
+Formateador_linuxfs_MSG3="指定要格式化的块设备："
+Formateador_linuxfs_MSG5="完成过程"
+Formateador_linuxfs_MSG6="磁盘格式化程序"
+Formateador_linuxfs_MSG7="设置卷标"
+Formateador_linuxfs_MSG10="指定卷标名称"
+Formateador_linuxfs_MSG11="新卷标"
+Formateador_linuxfs_MSG12="指定块大小"
+Formateador_linuxfs_MSG13="新块大小"
+Formateador_linuxfs_MSG14="上一个菜单"

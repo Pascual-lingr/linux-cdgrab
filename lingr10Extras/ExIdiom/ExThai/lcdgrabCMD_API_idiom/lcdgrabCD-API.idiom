@@ -1,0 +1,211 @@
+#########################################################
+# lcdgrabAPI_idiom/ExThai/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Tailandés para el API de grabación en CD.
+# Traducción experimental, generado con Chat GPT y Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+# Traducción Chat GPT - INI
+copia_bin_MSG1="กำลังดำเนินการ"
+# Traducción Chat GPT - FIN
+copia_bin_MSG2="--------------กำลังลองกระบวนการบันทึกอีกครั้ง---------------"
+copia_bin_MSG3="	การลบไฟล์รูปภาพ"
+copia_bin_MSG4="มีข้อผิดพลาดในการบันทึกเกิดขึ้น"
+copia_bin_MSG5="ไม่พบไฟล์ .iso ของดิสก์อิมเมจดัมพ์ กำลังยกเลิกการบันทึก..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="กำลังดำเนินการ"
+datos_al_vuelo_MSG2="พยายามบันทึกข้อผิดพลาด กำลังลองใหม่โดยไม่มีการสนับสนุนโอเวอร์เบิร์น"
+datos_al_vuelo_MSG3="ตรวจสอบว่าดิสก์ต้นทางหรืออุปกรณ์"
+datos_al_vuelo_MSG4="อยู่ในสภาพดี"
+datos_al_vuelo_MSG5="การรับหมายเลขบล็อก leadout จากดิสก์ต้นทาง"
+datos_al_vuelo_MSG6="กำลังคัดลอกดิสก์..."
+
+# clonar_cd
+
+clonar_cd_MSG1="กำลังดำเนินการ"
+clonar_cd_MSG2="โคลนซีดีสำเร็จ"
+clonar_cd_MSG3="มีข้อผิดพลาดเกิดขึ้นเมื่อทำการโคลนซีดี"
+
+# datos
+
+datos_MSG1="ไฟล์และไดเร็กทอรีสำหรับสร้างอิมเมจ .iso"
+datos_MSG2="ฉลากซีดี/ดีวีดี/BD"
+datos_MSG3="ป้อนชื่อสำหรับซีดี/ดีวีดี/BD ในอนาคต:"
+datos_MSG4="การเปิดตัวจัดการไฟล์:"
+datos_MSG5="	การสร้างภาพ . ."
+# Traducción Chat GPT - INI
+datos_MSG6="กำลังดำเนินการ"
+# Traducción Chat GPT - FIN
+datos_MSG7="สร้างภาพ ISO-9660 ใน"
+datos_MSG8="		การเบิร์นซีดี/ดีวีดี/BD"
+datos_MSG9="กระบวนการสร้างไฟล์รูปภาพล้มเหลว"
+datos_MSG10="กำลังพยายามสร้างใหม่โดยไม่มีการสนับสนุน HFS (Macintosh)"
+datos_MSG11="กำลังลบภาพ . . . "
+datos_MSG12="กำลังสร้างภาพใหม่ . . ."
+datos_MSG13="ไม่สามารถบันทึกได้อย่างถูกต้อง"
+datos_MSG14="------------ กำลังลองกระบวนการบันทึกซ้ำ -----------"
+datos_MSG15="ลบภาพ..."
+datos_MSG16="การเผาไหม้ซีดี/ดีวีดี/BD ข้อมูล ISO-9660..."
+datos_MSG17="ไม่พบ"
+datos_MSG18="กำลังยกเลิกการบันทึกดิสก์..."
+
+# datoslb
+
+datoslb_MSG1="ข้อผิดพลาด: ไม่พบไฟล์รูปภาพ กำลังยกเลิก..."
+datoslb_MSG2="กระบวนการบันทึกตกลง"
+datoslb_MSG3="ข้อผิดพลาดในกระบวนการบันทึก"
+
+# borra
+
+# Traducción Chat GPT - INI
+borra_MSG0="เมนูก่อนหน้า"
+# Traducción Chat GPT - FIN
+borra_MSG1="เลือกโหมดที่จะลบ CD-RW"
+borra_MSG2="-------------------"
+borra_MSG3="ลบด่วน (ใช้ cdrecord)"
+borra_MSG4="ลบให้เสร็จสิ้น (ใช้ cdrecord)"
+borra_MSG5="จำเป็นต้องลบ (ใช้ cdrskin)"
+# Traducción Chat GPT - INI
+borra_MSG6="กำลังดำเนินการ"
+# Traducción Chat GPT - FIN
+borra_MSG7="การจัดรูปแบบหรือการลบที่จำเป็นจะถูกใช้ขึ้นอยู่กับสถานะของดิสก์"
+borra_MSG8="ลบ CD-RW สำเร็จแล้ว!!"
+borra_MSG9="ข้อผิดพลาดเมื่อลบซีดี-RW"
+borra_MSG10="บังคับให้ลบซีดี-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="ข้อผิดพลาดเมื่อพยายามลบ CD-RW"
+err_borra_cdrw_MSG2="ซีดี-RW ใช้งานไม่ได้"
+err_borra_cdrw_MSG3="ไม่สามารถลบ CD-RW นี้"
+err_borra_cdrw_MSG4="ตรวจสอบว่า CD-RW ไม่ใช่ความเสียหายทางกายภาพ"
+
+# cerrar_cd
+
+# Traducción Chat GPT - INI
+cerrar_cd_MSG1="กำลังดำเนินการ"
+# Traducción Chat GPT - FIN
+cerrar_cd_MSG2="ซีดีถูกปิดอย่างถูกต้อง"
+cerrar_cd_MSG3="ข้อผิดพลาดเมื่อปิดซีดี"
+cerrar_cd_MSG4="การปิดแทร็กบนซีดีข้อมูล . . ."
+
+# grabimg
+
+grabimg_MSG1=".iso หรือ .ext2 อิมเมจที่จะเบิร์นลงซีดี/ดีวีดี"
+grabimg_MSG2="กำลังเปิดตัวจัดการไฟล์"
+grabimg_MSG3="พิมพ์เส้นทางแบบเต็มซึ่งมีอิมเมจซีดี/ดีวีดีที่คุณต้องการเบิร์น:"
+# Traducción Chat GPT - INI
+grabimg_MSG4="กำลังดำเนินการ"
+# Traducción Chat GPT - FIN
+grabimg_MSG5="----------- กำลังลองกระบวนการบันทึกอีกครั้ง -----------"
+grabimg_MSG6="บันทึกเสร็จแล้ว!!"
+grabimg_MSG7="ภาพ .EXT2 บันทึกเรียบร้อยแล้ว"
+
+# grabimglb
+
+grabimglb_MSG1="พิมพ์เส้นทางแบบเต็มซึ่งมีอิมเมจซีดี/ดีวีดีที่คุณต้องการเบิร์น:"
+grabimglb_MSG2="กำลังเบิร์นอิมเมจลงดิสก์..."
+grabimglb_MSG3="ภาพ ISO-9660 บันทึกสำเร็จแล้ว"
+grabimglb_MSG4="ข้อผิดพลาดในการบันทึกภาพ ISO-9660"
+grabimglb_MSG5="ข้อผิดพลาด: ไม่พบไฟล์รูปภาพ กำลังยกเลิก..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1="ไฟล์ .bin และ .cue เพื่อบันทึกภาพ"
+grabimg_cue_MSG2="หากต้องการบันทึกอิมเมจ bin/cue จะต้องเป็นทั้งสองไฟล์"
+grabimg_cue_MSG3="อยู่ในไดเรกทอรีที่ใช้งานอยู่"
+grabimg_cue_MSG4="ไดเร็กทอรีปัจจุบันที่ใช้งานอยู่"
+grabimg_cue_MSG5="ป้อนชื่อของไฟล์ *.cue ที่อ้างอิงถึงไฟล์รูปภาพ *.bin"
+grabimg_cue_MSG6=".cue ไฟล์: "
+
+# Traducción Chat GPT - INI
+grabimg_cue_MSG7="กำลังดำเนินการ"
+# Traducción Chat GPT - FIN
+grabimg_cue_MSG8="การบันทึกเสร็จสมบูรณ์!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="เบิร์น CD-Multisesion จากอิมเมจ .iso"
+cd_multi_MSG2="เขียนเซสชันแรกลงซีดีจากอิมเมจ .iso"
+cd_multi_MSG3="เบิร์น CD-Multisesion จากไฟล์บนดิสก์"
+cd_multi_MSG4="บันทึกเซสชันต่อเนื่องไปยังซีดีจากไฟล์ในฮาร์ดไดรฟ์"
+cd_multi_MSG5="ตัวเลือกนี้ต้องใช้ซีดีหลายเซสชันซึ่งมีเซสชันที่บันทึกไว้ก่อนหน้านี้"
+# Traducción Chat GPT - INI
+cd_multi_MSG6="เมนูก่อนหน้า"
+# Traducción Chat GPT - FIN
+cd_multi_MSG7=".iso อิมเมจที่จะเบิร์นลง CD-Multisesion"
+cd_multi_MSG8="ระบุเส้นทางของอิมเมจ .iso"
+# Traducción Chat GPT - INI
+cd_multi_MSG9="กำลังดำเนินการ"
+# Traducción Chat GPT - FIN
+cd_multi_MSG10="บันทึกซีดีหลายรายการสำเร็จแล้ว!!"
+cd_multi_MSG11="ไดเร็กทอรีที่จะรวมไว้ในรูปภาพ"
+cd_multi_MSG12="ระบุด้านล่างว่าจะรวมไดเร็กทอรีใดบ้าง"
+cd_multi_MSG13="ป้อนชื่อสำหรับฉลากซีดี:"
+cd_multi_MSG14="กำลังสร้างภาพ..."
+cd_multi_MSG15="สร้างสำเร็จแล้ว"
+cd_multi_MSG16="ข้อผิดพลาดเมื่อสร้างภาพ ยกเลิกกระบวนการบันทึก..."
+cd_multi_MSG17="กำลังเบิร์นอิมเมจซีดี..."
+cd_multi_MSG18="เมนูซีดีหลายรายการ"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="กำลังริพซีดีเพลง..."
+# Traducción Chat GPT - INI
+copia_cd_audio_MSG2="กำลังดำเนินการ"
+# Traducción Chat GPT - FIN
+copia_cd_audio_MSG3="คัดลอกแทร็กเสียงสำเร็จแล้ว!!"
+copia_cd_audio_MSG4="ข้อผิดพลาดเมื่อทำการริพแทร็กเสียง"
+copia_cd_audio_MSG5="การเบิร์นซีดีเพลง..."
+copia_cd_audio_MSG6="คัดลอกซีดีเสียงเรียบร้อยแล้ว!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav ไฟล์ที่จะเขียนลงซีดี"
+wav_a_cd_MSG2="Linux-cdgrab จะไม่ตรวจสอบขนาดไดเรกทอรี"
+wav_a_cd_MSG3="ตรวจสอบให้แน่ใจว่ามีขนาดไม่เกิน 650 Mbytes"
+wav_a_cd_MSG4="หากคุณใช้ซีดีความยาว 80 นาที"
+wav_a_cd_MSG5="ป้อนเส้นทางไดเรกทอรีของไฟล์ .wav"
+# Traducción Chat GPT - INI
+wav_a_cd_MSG6="กำลังดำเนินการ"
+# Traducción Chat GPT - FIN
+wav_a_cd_MSG7="เสร็จสิ้นกระบวนการ!"
+
+# cdmixto
+
+cdmixto_MSG1="โครงการสร้าง CD-Mixto (ข้อมูลภาพ .iso + ไฟล์เสียง .wav)"
+cdmixto_MSG2="Linux-cdgrab จะไม่ตรวจสอบขนาดไดเรกทอรี"
+cdmixto_MSG3="ไฟล์เสียงอยู่ที่ไหน"
+cdmixto_MSG4="และจะไม่ทำเช่นนั้นจากอิมเมจ .iso ที่คุณกำลังจะบันทึก"
+cdmixto_MSG5="หลัง"
+cdmixto_MSG6="สอดคล้องกับขนาดที่คุณมี"
+cdmixto_MSG7="เบิร์นลงซีดีใหม่ของคุณ"
+cdmixto_MSG8="ระบุเส้นทางของไฟล์เสียง:"
+cdmixto_MSG9="ระบุเส้นทางรูปภาพ ISO:"
+cdmixto_MSG10="############################"
+cdmixto_MSG11="การบันทึกซีดีแบบมิกซ์: ข้อมูล + เสียง"
+# Traducción Chat GPT - INI
+cdmixto_MSG12="กำลังดำเนินการ"
+# Traducción Chat GPT - FIN
+cdmixto_MSG13="¡¡----สร้างซีดีผสมสำเร็จ-----!!"
+cdmixto_MSG14="------ข้อผิดพลาดเมื่อเขียนซีดีแบบผสม--------"
+
+# discoinfo
+
+# Traducción Chat GPT - INI
+discoinfo_MSG1="กำลังดำเนินการ"
+# Traducción Chat GPT - FIN
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="พอร์ต IDE/SCSI สแกนแล้ว"
+cdrecord_scan_MSG1="เกิดข้อผิดพลาดในการสแกนพอร์ต IDE/SCSI"
+cdrecord_scan_MSG2="ไม่พบ Cdrecord"
+

@@ -1,0 +1,281 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLithuanian/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Lituano para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux-cdgrab Configuration"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Jei nežinote, kuriam IDE kanalui priklauso"
+ayuda_IDE_MSG2="Jūsų įrašymo įrenginys gali tai sužinoti paspausdamas raidę t."
+ayuda_IDE_MSG3="IDE kanalo pavyzdys gali būti 0,0,0 arba 0,1,0"
+ayuda_IDE_MSG4="Taip pat galite nurodyti atitinkamą įrenginį"
+ayuda_IDE_MSG5="į savo įrašymo įrenginį. Jei tiksliai nežinote, kuris jis yra, paspauskite d,"
+ayuda_IDE_MSG6="peržiūrėti įrenginius, užregistruotus /etc/fstab faile"
+ayuda_IDE_MSG7="Įrenginių pavyzdys galėtų būti /dev/hdd, /dev/hde ir tt."
+ayuda_IDE_MSG8="Jei norite, taip pat galite išvardyti visus turimus įrenginius"
+ayuda_IDE_MSG9="į /dev katalogą paspausdami raidę l."
+ayuda_IDE_MSG10="Turite nurodyti IDE kanalą arba įrašymo įrenginį"
+ayuda_IDE_MSG11="bet ne abu."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab buvo pašalintas iš jūsų sistemos"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Įrašymo greitis"
+imprimir_variables_MSG2="IDE/SCSI kanalas arba įrašymo įrenginys"
+imprimir_variables_MSG3="CD-ROM, DVD-ROM arba BD-ROM skaitytuvas"
+imprimir_variables_MSG4="ATAPI įrenginys"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Įrašymo greitis"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI kanalas arba įrašymo įrenginys"
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM arba BD-ROM skaitytuvas"
+imprimir_lcdgrabcfg_MSG4="ATAPI įrenginys"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Įdiegta"
+chequeo_de_aplicaciones_MSG2="NEĮDIEGTA"
+chequeo_de_aplicaciones_MSG3="Įdiegti"
+chequeo_de_aplicaciones_MSG4="SVARBU:"
+chequeo_de_aplicaciones_MSG5="Reikalingų įrankių įdiegimas Linux-cdgrab veiks visiškai"
+chequeo_de_aplicaciones_MSG6="Visos programos, kurių reikia Linux-cdgrab, yra įdiegtos jūsų sistemoje"
+chequeo_de_aplicaciones_MSG4B="PASTABA:"
+chequeo_de_aplicaciones_MSG5B="Rasta trūkstamų įrankių"
+chequeo_de_aplicaciones_MSG6B="Sistemoje įdiegti įrankiai"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 pagal numatytuosius nustatymus priskirtas šiam kintamajam"
+msgdefCANALATAPI_MSG2="Konfigūracijos failas bus parašytas CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Konfigūracijos failas automatiškai sugeneruotas Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG5="cdrecord sistemoje nerastas"
+nuevo_lcdgrabcfg_MSG6="Įdiekite cdrtools paketą."
+nuevo_lcdgrabcfg_MSG7="Galite tęsti konfigūraciją nurodydami reikšmes"
+nuevo_lcdgrabcfg_MSG8="įrašyti, jei žinojote juos anksčiau."
+nuevo_lcdgrabcfg_MSG9="Komanda cdrecord naudojama įrašant CD, DVD ir BD diskus"
+nuevo_lcdgrabcfg_MSG10="Šios parinktys neveiks, kol nebus įdiegtas minėtas paketas."
+nuevo_lcdgrabcfg_MSG11="Esamas disko nuskaitymo įrankis taip pat neveiks"
+nuevo_lcdgrabcfg_MSG12="šiame konfigūracijos vedlyje."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab reikia sukonfigūruoti atliekant šiuos keturis veiksmus"
+nuevo_lcdgrabcfg_MSG14="Pirmas žingsnis."
+nuevo_lcdgrabcfg_MSG15="Įrašymo greitis"
+nuevo_lcdgrabcfg_MSG16="Tik vienas skaičius 2,4,8,16,32... ir tt"
+nuevo_lcdgrabcfg_MSG17="Antras žingsnis."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI kanalas arba įrašymo įrenginys:"
+nuevo_lcdgrabcfg_MSG19="A -> pagalba"
+nuevo_lcdgrabcfg_MSG20="Nuskaitoma..."
+nuevo_lcdgrabcfg_MSG21="Klaida nuskaitant IDE/SCSI prievadą"
+nuevo_lcdgrabcfg_MSG22="Cdrecord nerastas"
+nuevo_lcdgrabcfg_MSG23="Trečias žingsnis."
+nuevo_lcdgrabcfg_MSG24="CD-ROM, DVD-ROM arba BD-ROM įrenginys"
+nuevo_lcdgrabcfg_MSG25="L -> Galimų įrenginių sąrašas"
+nuevo_lcdgrabcfg_MSG26="Nuskaitoma..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI prievadas nuskaitytas"
+nuevo_lcdgrabcfg_MSG28="Įrenginys, kurį naudos cdrecord per dev=ATAPI kelių seansų įrašuose"
+nuevo_lcdgrabcfg_MSG30="Įrenginys turi nomenklatūrą, pvz., 0,0,0 arba 1,0,0 ir tt"
+nuevo_lcdgrabcfg_MSG31="Nurodykite įrenginį, kuris iškviestų cdrecord kelių seansų kompaktiniuose diskuose: "
+nuevo_lcdgrabcfg_MSG32="CANALATAPI konfigūracija netinkama"
+nuevo_lcdgrabcfg_MSG33="Klaida nuskaitant IDE/SCSI prievadą"
+nuevo_lcdgrabcfg_MSG34="Cdrecord nerastas"
+nuevo_lcdgrabcfg_MSG36="Konfigūracijos failas automatiškai sugeneruotas Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB SĄRANKA BAIGTA"
+
+# colores
+
+colores_MSG1="Spalvų sąrašo nepavyko rasti"
+colores_MSG2="Įkeliamos numatytosios spalvos"
+colores_MSG3="Pasirinkite naują spalvų schemą LINUX-CDGRAB sąsajai"
+colores_MSG4="JUODAS ŠRIFTAS"
+colores_MSG5="STANDARTINIS RYŠKUUS ŠRIFIS"
+colores_MSG6="JUODOS FONO SPALVOS"
+colores_MSG7="raudonas Šriftas"
+colores_MSG8="RYŠKIUS JUODAS ŠRIFTAS"
+colores_MSG9="RAUDONO FONO SPALVA"
+colores_MSG10="FONT GREEN"
+colores_MSG11="RAUDONAS FONTANAS"
+colores_MSG12="ŽALIA FONO SPALVA"
+colores_MSG13="Geltonas Šriftas"
+colores_MSG14="RYŠKIAI ŽALIAS ŠRIFTAS"
+colores_MSG15="ORANŽINĖ FONO SPALVA"
+colores_MSG16="BLUE FONT"
+colores_MSG17="RYŠKIUS GELTONAS ŠRIFTAS"
+colores_MSG18="MĖLYNA FONO SPALVA"
+colores_MSG19="MAGENTA FONT"
+colores_MSG20="RYŠKIAI MĖLYNAS ŠRIFtas"
+colores_MSG21="RAIDINĖ FONO SPALVA"
+colores_MSG22="CYAN SOURCE"
+colores_MSG23="RYSČIUS RUSINUS ŠRIFIS"
+colores_MSG24="CYAN FONO SPALVA"
+colores_MSG25="PILKAS ŠRIFTAS"
+colores_MSG26="CYAN FONO SPALVA"
+colores_MSG27="RYSČIUS CIANŠIOS ŠRIFTAS"
+colores_MSG28="PILKA FONO SPALVA"
+colores_MSG29="Numatytasis šaltinis"
+colores_MSG30="RYŠČIUS BALTAS ŠRIFTAS"
+colores_MSG31="NUMATYTOJI FONO SPALVA"
+colores_MSG32="Šrifto spalvos numeris: "
+colores_MSG33="Fono spalvos numeris: "
+colores_MSG34="Spalvos numeris įspėjimams: "
+colores_MSG35="Spalvos numeris etikečių pranešimams: "
+colores_MSG36="Sėkmingai užbaigtų procesų spalvos numeris"
+colores_MSG37="Spalvos numeris procesams, baigtiems su klaida: "
+colores_MSG38="Nauja schema skirta LINUX-CDGRAB"
+colores_MSG39="BENDRA ŠRIFTO SPALVA"
+colores_MSG40="LABELS"
+colores_MSG41="PRANEŠIMAI"
+colores_MSG42="SĖKMĖS"
+colores_MSG43="KLAIDA"
+colores_MSG44="FONO SPALVA"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="GALIMI SPALVŲ SĄRAŠAS:"
+cambiar_esquema_de_color_MSG2="#####COLOR SCHEMES#######"
+cambiar_esquema_de_color_MSG3="-------------------------"
+cambiar_esquema_de_color_MSG4="Spalvų meniu"
+cambiar_esquema_de_color_MSG5="Nepavyko"
+cambiar_esquema_de_color_MSG6="Etiketės"
+cambiar_esquema_de_color_MSG6b="Pastabos"
+cambiar_esquema_de_color_MSG7="Spalvų meniu Gerai Gedimų įspėjimų etiketės"
+cambiar_esquema_de_color_MSG8="Įveskite naujos spalvos numerį:"
+cambiar_esquema_de_color_MSG9="NETIKTA PASIRINKTI"
+cambiar_esquema_de_color_MSG10="Numatytųjų spalvų NUSTATYMAS."
+cambiar_esquema_de_color_MSG11=" BACKGROUND = BLUE_BACKGROUND"
+cambiar_esquema_de_color_MSG12="Šriftas = RYŠKIAI BALTAS"
+cambiar_esquema_de_color_MSG13=" ĮSPĖJIMAI = RYŠKIAI GELTONA"
+cambiar_esquema_de_color_MSG14=" KLAIDOS = RYŠKIAI RAUDONA"
+cambiar_esquema_de_color_MSG15=" KLAIDOS = RYŠKIAI RAUDONA"
+cambiar_esquema_de_color_MSG16=" HITS = RYŠKIAI ŽALIA"
+cambiar_esquema_de_color_MSG17=" ETIKETĖS = RYŠČIUS ŽALSVASIS"
+
+# cambia_lector
+
+cambia_lector_MSG1="OPTINIŲ ĮRENGINIŲ APLINKOS NUSTATYMAI"
+cambia_lector_MSG2="Dabartinis įrenginys, susietas su CD-ROM, DVD-ROM arba BD-ROM"
+cambia_lector_MSG3="Dabartinis įrenginys, susietas su CD/DVD/BD įrašymo įrenginiu"
+cambia_lector_MSG4="Dabartinis įrenginys susietas su parametru dev=ATAPI"
+cambia_lector_MSG5="(kelių seansų palaikymas cdrecord)"
+cambia_lector_MSG6="Pasirinkite įrenginį, kuriame bus atlikti pakeitimai."
+cambia_lector_MSG7="Įveskite parinktį:"
+cambia_lector_MSG8="Įveskite naujo įrenginio pavadinimą"
+cambia_lector_MSG9="neatitinka blokuojamo įrenginio"
+cambia_reader_MSG10="Įrenginys"
+cambia_lector_MSG11="priskirta pagal numatytuosius nustatymus"
+cambia_lector_MSG12="Naujas įrenginys yra:"
+cambia_lector_MSG13="Ne visos cdrecord versijos priima blokavimo įrenginį kaip įrašymo parametrą"
+cambia_lector_MSG14="Įveskite naujo ATAPI įrenginio pavadinimą"
+cambia_lector_MSG15="Konfigūracija netinkama CANALATAPI"
+cambia_lector_MSG16="0,0,0 pagal numatytuosius nustatymus priskirtas šiam kintamajam"
+cambia_lector_MSG17="Konfigūracijos failas bus parašytas su CANALATAPI = 0,0,0"
+cambia_lector_MSG18="Naujas įrenginys yra:"
+cambia_lector_MSG19="PRIETAISŲ PAKEITIMAI NĖRA"
+cambia_lector_MSG4B="Eksportuoti reikšmes iš konfigūracijos failo"
+cambia_lector_MSG4C="ŠIOS VERTYBĖS BUVO PRANEŠĖS APLINKAI:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Šiame meniu galite pasirinkti, kuri programa"
+cambia_generador_isocd_MSG2="bus naudojamas ISO-9660 vaizdams generuoti"
+cambia_generador_isocd_MSG3="iš esamų CDS skaitymo bloke."
+cambia_generador_isocd_MSG4="Dabartinė konfigūracija:"
+cambia_generador_isocd_MSG5="Naudoti dd (GNU coreutils komponentas)"
+cambia_generador_isocd_MSG6="Naudoti readcd (cdrtools komponentą)"
+cambia_generador_isocd_MSG7="Ankstesnis meniu."
+cambia_generador_isocd_MSG8="Pasirinkite parinktį:"
+cambia_generador_isocd_MSG9="Naudojame dd kaip iso generatorių."
+cambia_generador_isocd_MSG10="Readcd naudojimas kaip iso generatorius."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Nustatyti HFS metaduomenis kartu su Rock Ridge ir Joliet"
+establecer_hfs_iso_MSG2="Naudoti tik Rock Ridge ir Joliet metaduomenis"
+establecer_hfs_iso_MSG3="Ankstesnis meniu."
+establecer_hfs_iso_MSG4="Pasirinkite parinktį:"
+establecer_hfs_iso_MSG5="Naudojant HFS, Rock Ridge ir Joliet metaduomenis"
+establecer_hfs_iso_MSG6="Rock Ridge ir Joliet metaduomenų naudojimas"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Dabartinė pranešimų sistema"
+cambia_notificaciones_MSG2A="GNOME grafinė sąsaja"
+cambia_notificaciones_MSG2B="KDE grafinė sąsaja"
+cambia_notificaciones_MSG2="Sąsaja su ncurses"
+cambia_notificaciones_MSG3="Teksto sąsaja"
+cambia_notificaciones_MSG4="Išeiti"
+cambia_notificaciones_MSG5="Pasirinkite parinktį:"
+cambia_notificaciones_MSG6="Sąsajos su dialogo naudojimas"
+cambia_notidicaciones_MSG6B="Sąsajos su zenity naudojimas"
+cambia_notidicaciones_MSG6C="Sąsajos su kdialog naudojimas"
+cambia_notificaciones_MSG7="Dialogo komanda nerasta"
+cambia_notificaciones_MSG8="Teksto sąsajos naudojimas"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Naudojama kalba:"
+cambiar_idioma_UI_MSG1="Šiuo metu galimos kalbos:"
+cambiar_idioma_UI_MSG2="Įveskite kalbos, kuri bus naudojama, pavadinimą"
+cambiar_idioma_UI_MSG3="programos sąsajoje:"
+cambiar_idioma_UI_MSG4="Naudojama nauja kalba:"
+cambiar_idioma_UI_MSG5="Iš naujo paleisti LINUX-CDGRAB"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Dabartinė konfigūracija"
+seleccion_gestor_archivos_MSG2="Naudoti mc"
+seleccion_gestor_archivos_MSG3="Naudoti integruotą teksto tvarkyklę"
+seleccion_gestor_archivos_MSG4="sistemoje nerasta įdiegto mc"
+seleccion_gestor_archivos_MSG5="Naudojama integruota teksto tvarkyklė pagal numatytuosius nustatymus"
+seleccion_gestor_archivos_MSG6="MC priemonė"
+seleccion_gestor_archivos_MSG7="Integruotas tekstas"
+
+# centro_de_control
+
+centro_de_control_MSG1="VALDYMO CENTRAS"
+centro_de_control_MSG2="Nauja konfigūracija"
+centro_de_control_MSG3="Ištrinti konfigūracijos failą"
+centro_de_control_MSG4="Rodyti esamą konfigūracijos failą ir reikšmes"
+centro_de_control_MSG5="KONFIGŪRACIJOS FAILŲ VERTĖS:"
+centro_de_control_MSG5B="DARBINĖ KONFIGŪRACIJA NAUDOJAMA APLINKOJE:"
+centro_de_control_MSG6="Keisti optinę laikmeną"
+centro_de_control_MSG7="Patikrinkite įdiegtas programas"
+centro_de_control_MSG8="Nuskaityti IDE/SCSI prievadą su cdrecord"
+centro_de_control_MSG8C="Nuskaityti IDE/SCSI prievadą su cdrskin"
+centro_de_control_MSG8B="Sistemoje įdiegtų vienetų sąrašas su cdrskin"
+centro_de_control_MSG9="Pakeisti iso generavimo priemonę iš kompaktinio disko"
+centro_de_control_MSG9B="Nustatyti ISO-9660 HFS metaduomenis"
+centro_de_control_MSG10="Keisti vartotojo sąsają"
+centro_de_control_MSG10b="Keisti spalvą"
+centro_de_control_MSG10c="Keisti sąsajos kalbą"
+centro_de_control_MSG11="Keisti failų tvarkyklę"
+centro_de_control_MSG11B="Pašalinti programą"
+centro_de_control_MSG12="Įveskite parinktį: "
+centro_de_control_MSG13="KONFIGŪRACIJOS FAILAS NĖRA"
+centro_de_control_MSG14="KONFIGŪRACIJOS FAILAS NErastas"
+centro_de_control_MSG15="Nuskaitymas"
+centro_de_control_MSG16="IDE/SCSI prievadas nuskaitytas"
+centro_de_control_MSG17="Klaida nuskaitant IDE/SCSI prievadą"
+centro_de_control_MSG18="Pasirinkite spalvų schemą"
+centro_de_control_MSG19="Savavališkai pasirinkti spalvas"
+centro_de_control_MSG20="Ankstesnis meniu"
+centro_de_control_MSG21="Įveskite parinktį: "
+centro_de_control_MSG22="KONFIGŪRACIJOS FAILAS NĖRA"
+centro_de_control_MSG23="KONFIGŪRACIJOS FAILAS NErastas"
+centro_de_control_MSG24="Pasirinkite spalvų schemą"
+centro_de_control_MSG25="Savavališkai pasirinkti spalvas"
+centro_de_control_MSG26="Netinkama parinktis"
+

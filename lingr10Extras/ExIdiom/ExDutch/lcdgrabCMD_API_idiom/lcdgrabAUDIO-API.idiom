@@ -1,0 +1,142 @@
+#########################################################
+# lcgdrabAPI_idiom/ExDutch/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Neerlandés para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3-BESTANDEN OM TE CONVERTEREN"
+mp3awav_MSG0="Voer het pad van de .mp3-bestanden in: "
+mp3awav_MSG1="CONVITING"
+mp3awav_MSG1B=" NAAR .wav-FORMAAT"
+mp3awav_MSG2="actief"
+mp3awav_MSG3="Bemonstering ingesteld op 44100 MHz"
+mp3awav_MSG4="Fout bij verwerken van monsters"
+mp3awav_MSG5="Kan niet converteren"
+mp3awav_MSG6="Map niet gevonden"
+mp3awav_MSG7="EINDE VAN AUDIOCONVERSIE"
+mp3awav_MSG8="Normaliseren van audiobestand"
+mp3awav_MSG9="Bestand"
+mp3awav_MSG10="Genormaliseerd"
+mp3awav_MSG11="Normalisatiefout"
+
+# oggawav
+
+oggawav_MSG0="OGG-BESTANDEN OM TE CONVERTEREN"
+oggawav_MSG1="Voer het pad van de .ogg-bestanden in: "
+oggawav_MSG2="CONVITING"
+oggawav_MSG2B="Een .wav-FORMAAT"
+oggawav_MSG3="hardlopen"
+oggawav_MSG4="Bemonstering ingesteld op 44100 MHz"
+oggawav_MSG5="Fout bij verwerken monstername"
+oggawav_MSG6="Kan niet converteren"
+oggawav_MSG7="Map niet gevonden"
+oggawav_MSG8="EINDE VAN AUDIOBEDKKING"
+oggawav_MSG9="Normaliseren van audiobestand"
+oggawav_MSG10="Bestand"
+oggawav_MSG11="Genormaliseerd"
+oggawav_MSG12="Normalisatiefout"
+
+# cdawav
+
+cdawav_MSG1="RIPPEREN VAN AUDIO-CD..."
+cdawav_MSG2="Uitvoeren:"
+cdawav_MSG3="SUCCESVOL GERIPTE AUDIOTRACKS!!"
+cdawav_MSG4="Inhoud van map met audiobestanden"
+cdawav_MSG5="FOUT BIJ HET RIPPEN VAN AUDIOTRACKS"
+
+# cddawav
+
+cddawav_MSG1="VOER HET AANTAL TRACKS IN OM TE RIPPEN:"
+cddawav_MSG2="Druk op Ctrl + c om het rippen van een nummer te annuleren"
+cddawav_MSG3="Uitvoeren:"
+cddawav_MSG4="SUCCESVOL GERIPT"
+cddawav_MSG5="FOUT RIPPEREN"
+
+# wavamp3
+
+wavamp3_MSG0="WAV-BESTANDEN OM TE CONVERTEREN"
+wavamp3_MSG1="Voer het pad van de .wav-bestanden in: "
+wavamp3_MSG1B="CONVERTEREN"
+wavamp3_MSG2="EEN FORMAAT"
+wavamp3_MSG3="Bezig met uitvoeren:"
+wavamp3_MSG4="bij converteren"
+wavamp3_MSG5="naar .MP3-formaat"
+wavamp3_MSG6="Fout bij converteren"
+wavamp3_MSG7="AUDIOCONVERSIE VOLTOOID"
+wavamp3_MSG8="AUDIOMAP NIET GEVONDEN"
+
+# cdamp3
+
+cdamp3_MSG1="AUDIO-CD RIPPEREN..."
+cdamp3_MSG2="Bezig met uitvoeren:"
+cdamp3_MSG3="SUCCESVOL GERIPTE AUDIOTRACKS!!"
+cdamp3_MSG4="FOUT BIJ HET RIPPEN VAN AUDIOTRACKS"
+cdamp3_MSG5="Oproepfunctie:"
+
+# wavaogg
+
+wavaogg_MSG1="Voer het pad van de .wav-bestanden in: "
+wavaogg_MSG2="VERBINDEN"
+wavaogg_MSG3="Een .ogg-FORMAAT"
+wavaogg_MSG4="Bezig met lopen:"
+wavaogg_MSG5="Fout bij converteren"
+wavaogg_MSG6="naar .ogg-formaat"
+
+# cdaogg
+
+cdaogg_MSG1="AUDIO-CD's RIPPEREN..."
+cdaogg_MSG2="Uitvoeren:"
+cdaogg_MSG3="SUCCESVOL GERIPTE AUDIOTRACKS!!"
+cdaogg_MSG4="FOUT BIJ HET RIPPEN VAN AUDIOTRACKS"
+cdaogg_MSG5="Oproepfunctie:"
+
+# corta_wav
+
+corta_wav_MSG0="Aantal seconden:"
+corta_wav_MSG1="Specificeer het pad van het audiobestand dat u wilt converteren:"
+corta_wav_MSG2="Specificeer de tijd in aantal seconden waarvoor"
+corta_wav_MSG3="Het knippen van het bestand zal beginnen."
+corta_wav_MSG4="-NOTE-"
+corta_wav_MSG5="Om het begin van de audio te specificeren, voer 0 in"
+corta_wav_MSG6="Waarde in seconden om conversie te starten:"
+corta_wav_MSG7="Geef de tijd op in aantal seconden waarvoor"
+corta_wav_MSG8="het knippen van het bestand zal worden voltooid."
+corta_wav_MSG9="Waarde in seconden voor het einde van de conversie:"
+corta_wav_MSG10="Hardlopen"
+corta_wav_MSG11="Bijgesneden audiobestand"
+corta_wav_MSG12="Fout tijdens het bijsnijden van bestand"
+corta_wav_MSG13="Audiobestand om in te korten:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV-AUDIO"
+flacawav_MSG1="Specificeer het pad van de .flac-bestanden:"
+flacawav_MSG2="CONVITING"
+flacawav_MSG3=" NAAR .wav-FORMAAT"
+flacawav_MSG4="Bemonstering ingesteld op 44100 MHz"
+flacawav_MSG5="Fout bij verwerken monstername"
+flacawav_MSG6="Normaliseren van audiobestand"
+flacawav_MSG7="Bestand"
+flacawav_MSG8="Genormaliseerd"
+flacawav_MSG9="Normalisatiefout"
+flacawav_MSG10="Kan niet converteren"
+flacawav_MSG11="Map niet gevonden"
+flacawav_MSG12="EINDE VAN AUDIOCONVERSIE"
+
+# wavaflac
+
+wavaflac_MSG0="WAV-BESTANDEN OM TE CONVERTEREN"
+wavaflac_MSG1="Voer het pad van de .wav-bestanden in: "
+wavaflac_MSG2="CONVITING"
+wavaflac_MSG3="Een .flac-FORMAAT"
+wavaflac_MSG4="geconverteerd naar flac-formaat"
+wavaflac_MSG5="Fout bij converteren"
+wavaflac_MSG6="naar .flac-formaat"
+wavaflac_MSG7="FLAC-BESTANDSDIRECTORY NIET GEVONDEN"
+

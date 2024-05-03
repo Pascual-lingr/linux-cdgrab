@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExNorwegian/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Noruego para el gestor de archivos.
+# traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* NAVIGASJONSALTERNATIVER ************************"
+ayuda_gestor_de_archivos_MSG2="Bla gjennom filsystemet."
+ayuda_gestor_de_archivos_MSG3="X --> Salir"
+ayuda_gestor_de_archivos_MSG4="A --> Forrige katalog"
+ayuda_gestor_de_archivos_MSG5="B --> Neste katalog"
+ayuda_gestor_de_archivos_MSG6="Handlinger på filer og kataloger."
+ayuda_gestor_de_archivos_MSG7="C --> Kopier fil"
+ayuda_gestor_de_archivos_MSG8="M --> Flytt fil"
+ayuda_gestor_de_archivos_MSG9="CD --> Kopier katalogen"
+ayuda_gestor_de_archivos_MSG10="MD --> Flytt katalog"
+ayuda_gestor_de_archivos_MSG11="Forstå handlinger på filer og kataloger."
+ayuda_gestor_de_archivos_MSG12="Z --> Komprimer en fil"
+ayuda_gestor_de_archivos_MSG13="DZ --> Pakk ut en fil"
+ayuda_gestor_de_archivos_MSG14="EZ --> Opprett en .tar.gz- eller .tar.bz2-pakke"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Pakk ut en .tar.gz eller .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Gjeldende aktive katalog"
+gestor_de_archivos_MSG0B="Filer inn"
+gestor_de_archivos_MSG1="========================= NAVIGASJONSALTERNATIVER ========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> BISTAND="
+gestor_de_archivos_MSG3="==========================================================================="
+gestor_de_archivos_MSG4="Skriv inn et alternativ"
+gestor_de_archivos_MSG5="Skriv inn katalog"
+gestor_de_archivos_MSG6="Skriv inn kildefilen"
+gestor_de_archivos_MSG7="Skriv inn målfilen"
+gestor_de_archivos_MSG8="Filen ble kopiert"
+gestor_de_archivos_MSG9="Feil ved kopiering av fil"
+gestor_de_archivos_MSG10="Skriv inn kildefilen"
+gestor_de_archivos_MSG11="Skriv inn målfilen"
+gestor_de_archivos_MSG12="Fil flyttet vellykket"
+gestor_de_archivos_MSG13="Feil ved flytting av fil"
+gestor_de_archivos_MSG14="Skriv inn kildekatalogen"
+gestor_de_archivos_MSG15="Skriv inn målkatalogen"
+gestor_de_archivos_MSG16="Katalog ble kopiert"
+gestor_de_archivos_MSG17="Feil ved kopiering av katalog"
+gestor_de_archivos_MSG18="Skriv inn kildekatalogen"
+gestor_de_archivos_MSG19="Skriv inn målkatalogen"
+gestor_de_archivos_MSG20="Katalog flyttet vellykket"
+gestor_de_archivos_MSG21="Feil ved flytting av katalog"
+gestor_de_archivos_MSG22="FIL Å KOMPRESSERE"
+gestor_de_archivos_MSG23="Spesifiser filbanen"
+

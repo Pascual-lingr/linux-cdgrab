@@ -1,0 +1,15 @@
+lëtzebuergesch
+
+Luxenburgués. Luxembourgish.
+Experimental.
+
+Contiene errores de significado en contexto o traducción propia.
+Generado con Google Translate.
+
+Contains meaning errors in context or own translation.
+Generated with Google Translate.
+
+Lëtzebuergesch fir linux-cdgrab.
+Experimentell, generéiert mat Google Translate.
+Pascual Martínez Cruz; pascual@hotmail.com
+

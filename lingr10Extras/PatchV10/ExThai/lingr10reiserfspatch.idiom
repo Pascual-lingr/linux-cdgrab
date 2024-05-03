@@ -1,0 +1,77 @@
+# Idioma Tailandés para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+# Experimental, generado con Google Translate.
+
+# presskey
+
+# Traducción con Chat GPT - INI
+presskey_MSG1="กดปุ่ม ENTER เพื่อดำเนินการต่อไป..."
+# Traducción con Chat GPT - FIN
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="===================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 สนับสนุนเซิร์ฟเวอร์สำรอง"
+cabecera_interfaz_MSG3="===================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="เอาต์พุตคำสั่งเมานต์:"
+formatear_disco_reiserfs_MSG2="ระบุอุปกรณ์บล็อกที่จะฟอร์แมต: "
+formatear_disco_reiserfs_MSG3="อุปกรณ์ฟอร์แมตสำเร็จ"
+formatear_disco_reiserfs_MSG4="เกิดข้อผิดพลาดในการฟอร์แมตอุปกรณ์"
+formatear_disco_reiserfs_MSG5="กระบวนการเสร็จสมบูรณ์"
+formatear_disco_reiserfs_MSG6="กำลังถอดอุปกรณ์..."
+formatear_disco_reiserfs_MSG7="กำลังฟอร์แมตไดรฟ์ใน ReiserFS..."
+formatear_disco_reiserfs_MSG8="กำลังทำงาน"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="จัดรูปแบบสำเร็จแล้ว"
+formatear_img_reiserfs_MSG2="ข้อผิดพลาดเมื่อจัดรูปแบบไฟล์ว่าง"
+formatear_img_reiserfs_MSG3="กำลังสร้างไฟล์ว่าง..."
+formatear_img_reiserfs_MSG4="กำลังทำงาน"
+formatear_img_reiserfs_MSG5="กำลังจัดรูปแบบไฟล์ว่างใน ReiserFS..."
+formatear_img_reiserfs_MSG6="การสร้างไฟล์เปล่าด้วยขนาดที่กำหนดเอง"
+formatear_img_reiserfs_MSG7="ระบุขนาดของไฟล์ว่างที่จะสร้าง (เฉพาะค่าตัวเลข):"
+formatear_img_reiserfs_MSG8="การวัดพื้นที่เพื่อสร้างไฟล์ว่าง:"
+formatear_img_reiserfs_MSG9="ระบุการวัดพื้นที่ที่จะใช้: "
+formatear_img_reiserfs_MSG10="ข้อผิดพลาดเมื่อระบุการวัดขนาด"
+formatear_img_reiserfs_MSG11="ค่าขนาดบล็อก:"
+formatear_img_reiserfs_MSG12="จำนวนพื้นที่สำหรับไฟล์ว่าง:"
+formatear_img_reiserfs_MSG13="ค่าที่คำนวณเป็นไบต์:"
+formatear_img_reiserfs_MSG14="ค่าที่คำนวณได้สำหรับการนับ:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="สร้างอิมเมจสำหรับ CD-R/RW (702 Mbytes)"
+m_img_CDDVDBD_reiserfs_MSG2="สร้างภาพสำหรับ DVD+RW (4 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG3="สร้างภาพสำหรับ DVD+RW/DL (8 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG4="สร้างภาพสำหรับ BD-R/RE (25 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG5="สร้างไฟล์รูปภาพด้วยขนาดที่กำหนดเอง"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="ออก"
+imgr_tmp_MSG1="ลบไฟล์รูปภาพ reiserfs ทั้งหมด"
+imgr_tmp_MSG2="เมานต์หรือถอนเมานท์ไฟล์รูปภาพ"
+imgr_tmp_MSG3="ไฟล์รูปภาพใน"
+imgr_tmp_MSG4="เลือกตัวเลือก"
+imgr_tmp_MSG5="ไฟล์รูปภาพที่ถูกลบ"
+imgr_tmp_MSG6="เมานท์อิมเมจ"
+imgr_tmp_MSG7="ถอดรูปภาพออก"
+imgr_tmp_MSG8="ภาพที่เมานต์"
+imgr_tmp_MSG9="ภาพที่ถอดออก"
+imgr_tmp_MSG10="ตัวเลือกไม่ถูกต้อง"
+imgr_tmp_MSG11="ระบุภาพที่จะเมานท์หรือถอนเมานท์:"
+imgr_tmp_MSG12="เกิดข้อผิดพลาดในการติดตั้งรูปภาพ"
+imgr_tmp_MSG13="เกิดข้อผิดพลาดในการถอดอิมเมจ"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="ฟอร์แมตไดรฟ์ใน ReiserFS"
+lingr10reiserfspatch_MSG2="สร้างอิมเมจ ReiserFS สำหรับซีดี/ดีวีดี/BD"
+lingr10reiserfspatch_MSG3="การดำเนินการกับอิมเมจ ReiserFS"
+lingr10reiserfspatch_MSG4="ตัวเลือกไม่ถูกต้อง"
+lingr10reiserfspatch_MSG0="ออก"

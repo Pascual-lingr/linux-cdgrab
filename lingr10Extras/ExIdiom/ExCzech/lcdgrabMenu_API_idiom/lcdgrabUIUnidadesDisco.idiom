@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExCzech/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Checo para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="OVLÁDÁNÍ DISKOVÉ JEDNOTKY"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- DŮLEŽITÉ -----------------------"
+MenuDispositivosBloque_MSG3="+ Neprovádět operace zápisu na pevné disky "
+MenuDispositivosBloque_MSG4="+ o diskových oddílech, které obsahují obrazy"
+MenuDispositivosBloque_MSG5="+ obnovení, spouštěcí oddíly nebo vlastní"
+MenuDispositivosBloque_MSG6="+ oddíl operačního systému."
+MenuDispositivosBloque_MSG7="+ Zneužití možností zápisu tohoto menu "
+MenuDispositivosBloque_MSG8="+ může způsobit katastrofu v systému."
+MenuDispositivosBloque_MSG9="+ Používejte opatrně. Používejte na vlastní nebezpečí."
+MenuDispositivosBloque_MSG10="------------------- PSANÍ -------------------"
+MenuDispositivosBloque_MSG11="Uložit obrazový soubor na disk"
+MenuDispositivosBloque_MSG11B="Uložte obraz iso nebo img (samo-bootovací) na flash disk nebo USB disk"
+MenuDispositivosBloque_MSG11C="Ne všechny instalační systémy podporovány."
+MenuDispositivosBloque_MSG12="Formátovat disk pomocí nativního systému souborů Linux nebo Windows"
+MenuDispositivosBloque_MSG13="-------------------- ČTENÍ --------------------"
+MenuDispositivosBloque_MSG14="Vytvořte obraz .img z diskové jednotky"
+MenuDispositivosBloque_MSG15="Předchozí menu"
+MenuDispositivosBloque_MSG16="Zadejte možnost"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="---------------------------DŮLEŽITÉ-------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Formátovat jednotku se systémem souborů používaným v zařízeních"
+UIFormatearUnidad_linuxfs_MSG2B="+ nebo diskové oddíly."
+UIFormatearUnidad_linuxfs_MSG3="+ Tato volba vymaže všechna existující data na jednotce"
+UIFormatearUnidad_linuxfs_MSG4="+ Vyměnitelné jednotky naformátované systémem souborů"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux samotný bude přístupný pouze pod tímto operačním systémem."
+UIFormatearUnidad_linuxfs_MSG6="+ Používejte opatrně, používejte na vlastní riziko."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="STISKNĚTE KLÁVESU C PRO POKRAČOVÁNÍ; (Proces bude zrušen v jiné možnosti)"
+

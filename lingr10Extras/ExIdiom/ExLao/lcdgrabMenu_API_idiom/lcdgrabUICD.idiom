@@ -1,0 +1,83 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Lao, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="ເລືອກຕົວເລືອກ"
+clonar_MSG2="------ DISK ສຳເນົາດ້ວຍຮູບຕົວຢ່າງ -------"
+clonar_MSG3="ສຳເນົາ CD ຂໍ້ມູນ"
+clonar_MSG4="ສ້າງຮູບ CD ທີ່ຜ່ານມາໃນຮາດໄດ"
+clonar_MSG5="----------- ແຜ່ນດິສກັອບປີ້ເມື່ອບິນ -----------"
+clonar_MSG6="ສຳເນົາ CD ຂໍ້ມູນໄດ້ທັນທີ"
+# Resultado del traductor
+clonar_MSG7="Clone a data CD ໃນ​ການ​ບິນ"
+clonar_MSG7B="ສຳເນົາ CD ສຽງໄດ້ທັນທີ"
+clonar_MSG8="ຕົວເລືອກການສຳເນົາການບິນຕ້ອງໃຊ້ສອງໜ່ວຍ optical"
+clonar_MSG9="ຕິດຕັ້ງຢູ່ໃນຄອມພິວເຕີຂອງເຈົ້າ, ນັບຕັ້ງແຕ່ຂໍ້ມູນຖືກບັນທຶກໃນຂະນະທີ່"
+# Resultado del traductor
+clonar_MSG10="ອ່ານໂດຍກົງຈາກ ORIGIN DISK, ຖ້າມີພຽງຄອມພິວເຕີຂອງເຈົ້າເທົ່ານັ້ນ"
+# Resultado del traductor
+clonar_MSG11="ONE ຈະບໍ່ສາມາດໃຊ້ສຳເນົາໃນຖ້ຽວບິນໄດ້."
+# Resultado del traductor
+clonar_MSG12B="COPY CD DATA"
+clonar_MSG0="ເມນູກ່ອນໜ້າ"
+
+# mgrabacd
+
+# Resultado del traductor
+mgrabacd_MSG1="CD ຂໍ້ມູນຈາກ HARD DISK"
+# Resultado del traductor
+mgrabacd_MSG2="Burn a new CD (ໃຊ້ cdrtools)"
+# Resultado del traductor
+mgrabacd_MSG3="Burn a new data CD (ໃຊ້ libburnia)"
+mgrabacd_MSG4="ເມນູກ່ອນໜ້າ"
+mgrabacd_MSG5="ໃສ່ຕົວເລືອກ"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="ການ​ບັນ​ທຶກ​ຮູບ​ພາບ​ຂໍ້​ມູນ"
+mgrabaimg_MSG2="ເຜົາຮູບ iso ຫຼື ext2 ເປັນ CD-R/RW (ໃຊ້ cdrtools)"
+mgrabaimg_MSG3="ເຜົາຮູບ iso ເປັນ CD-R/RW (ໃຊ້ libburnia)"
+mgrabaimg_MSG4="ເມນູກ່ອນໜ້າ"
+mgrabaimg_MSG5="ໃສ່ຕົວເລືອກ"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="ເຜົາ CD ສຽງຈາກໄຟລ໌ .wav"
+mgrabararchivosaudio_MSG2="ເຜົາ CD ສຽງຈາກໄຟລ໌ .mp3"
+mgrabararchivosaudio_MSG3="ເຜົາ CD ສຽງຈາກໄຟລ໌ .ogg"
+mgrabararchivosaudio_MSG0="ເມນູກ່ອນໜ້າ"
+mgrabararchivosaudio_MSG0B="ພິມທາງເລືອກ"
+mgrabararchivosaudio_MSG4="ເຜົາ CD ສຽງຈາກໄຟລ໌ .flac"
+mgrabararchivosaudio_MSG5="CD-AUDIO ການບັນທຶກຈາກໄຟລ໌"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="ບັນທຶກໃສ່ CD"
+# Resultado del traductor
+menugrabar_cd_MSG2="-------------------- CD - DATA -------------------"
+menugrabar_cd_MSG3="ສຳເນົາຂໍ້ມູນ CD"
+menugrabar_cd_MSG4="ຂຽນ CD ຂໍ້ມູນໃໝ່"
+# Resultado del traductor
+menugrabar_cd_MSG5="Burn a new multi-session data CD"
+menugrabar_cd_MSG6="ເຜົາຮູບ .iso ຫຼື .ext2 ໃສ່ CD"
+menugrabar_cd_MSG7="ເຜົາຮູບ .bin/.cue ໃສ່ CD"
+# Resultado del traductor
+menugrabar_cd_MSG8="-------------------- CD - AUDIO ------------------"
+menugrabar_cd_MSG9="ຖອດ CD ສຽງ"
+menugrabar_cd_MSG13="----------------- ທາງເລືອກອື່ນ -----------------"
+menugrabar_cd_MSG14="ເຜົາ CD ປະສົມ (ຂໍ້ມູນ + ສຽງ)"
+menugrabar_cd_MSG15="ລຶບ CD-RW"
+menugrabar_cd_MSG16="ປິດ CD ເປີດ"
+menugrabar_cd_MSG17="ສະແດງຂໍ້ມູນແຜ່ນໃນໄດ"
+menugrabar_cd_MSG18="ເຜົາ CD ສຽງຈາກໄຟລ໌ແຜ່ນ"
+menugrabar_cd_MSG0="ເມນູກ່ອນໜ້າ"
+menugrabar_cd_MSGPRINCIPAL="ພິມທາງເລືອກ"
+

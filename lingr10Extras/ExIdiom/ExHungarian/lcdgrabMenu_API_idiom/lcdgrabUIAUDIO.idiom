@@ -1,0 +1,32 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en húngaro para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="AUDIÓKONVERZIÓ"
+menu_conversion_audio_MSG2="---------- FORMÁTUMOK KÖZÖTTI KONVERZIÓ ----------"
+menu_conversion_audio_MSG3=".mp3 konvertálása .wav formátumba"
+menu_conversion_audio_MSG4=".ogg konvertálása .wav-ba"
+menu_conversion_audio_MSG5=".wav konvertálása .mp3-ba"
+menu_conversion_audio_MSG6="A .wav átalakítása .ogg formátumba"
+menu_conversion_audio_MSG6C=".wav konvertálása .flac formátumba"
+menu_conversion_audio_MSG6B=".flac átalakítása .wav formátumba"
+menu_conversion_audio_MSG7="--------------- HANGSZÁMOK KIVONÁSA --------------"
+menu_conversion_audio_MSG8="Audio CD bemásolása .wav fájlba"
+menu_conversion_audio_MSG9="A hangsávok másolása .wav formátumba"
+menu_conversion_audio_MSG10="Audio CD bemásolása .mp3 formátumba"
+menu_conversion_audio_MSG11="Audio CD bemásolása .ogg fájlba"
+menu_conversion_audio_MSG0="Előző menü"
+menu_conversion_audio_MSG12=".mp3 fájlok keresése"
+menu_conversion_audio_MSG13=".ogg fájlok keresése"
+menu_conversion_audio_MSG14=".wav fájlok keresése"
+menu_conversion_audio_MSG15="---------------- EGYÉB MŰVELETEK ----------------"
+menu_conversion_audio_MSG16=".wav hangfájl kivágása"
+menu_conversion_audio_MSG17="Audio CD bemásolása .flac formátumba"

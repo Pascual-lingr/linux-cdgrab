@@ -1,0 +1,32 @@
+# Idioma Noruego para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Trykk ENTER for å fortsette..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="===================================="
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 LIGHTSCRIBE-STØTTE."
+cabecera_lightscribe_MSG3="===================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Skriv inn banen til bildet du vil skrive ut til disken:"
+imprimir_disco_lightscribe_MSG2="Bildeformatet må være .bmp"
+imprimir_disco_lightscribe_MSG3="løper"
+imprimir_disco_lightscribe_MSG4="Etikett skrevet ut på disken"
+imprimir_disco_lightscribe_MSG5="Feil ved utskrift av etikett til disk"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="LightScribe-teknologi er bare til stede på enkelte enheter"
+lingr10lightscribepatch_MSG2="Du bør sjekke om opptakeren din har det."
+lingr10lightscribepatch_MSG3="På samme måte kan bare spesielle CDer eller DVDer merkes for LightScribe"
+lingr10lightscribepatch_MSG4="Skriv ut en LightScribe-disk"
+lingr10lightscribepatch_MSG5="Forrige meny"
+lingr10lightscribepatch_MSG6="Ugyldig alternativ"
+

@@ -1,0 +1,32 @@
+# Idioma Portugués para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Pressione ENTER para continuar..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="====================================="
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 SUPORTE LIGHTSCRIBE."
+cabecera_lightscribe_MSG3="====================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Digite o caminho da imagem que deseja imprimir no disco:"
+imprimir_disco_lightscribe_MSG2="O formato da imagem deve ser .bmp"
+imprimir_disco_lightscribe_MSG3="em execução"
+imprimir_disco_lightscribe_MSG4="Etiqueta impressa no disco"
+imprimir_disco_lightscribe_MSG5="Erro ao imprimir etiqueta no disco"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="A tecnologia LightScribe está presente apenas em algumas unidades"
+lingr10lightscribepatch_MSG2="Você deve verificar se o seu gravador possui."
+lingr10lightscribepatch_MSG3="Da mesma forma, apenas CDs ou DVDs especiais podem ser etiquetados para LightScribe"
+lingr10lightscribepatch_MSG4="Imprimir um disco LightScribe"
+lingr10lightscribepatch_MSG5="Menu anterior"
+lingr10lightscribepatch_MSG6="Opção inválida"
+

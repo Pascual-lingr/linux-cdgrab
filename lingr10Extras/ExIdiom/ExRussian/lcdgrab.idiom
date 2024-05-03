@@ -1,0 +1,47 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Traducción experimental al Ruso                  #
+# para el programa principal.                      #
+# Generado con Google Translate.                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Файл, автоматически созданный LINUX-CDGRAB 1.0"
+creacion_de_Depot_MSG2="Этот файл вместе с каталогом"
+creacion_de_Depot_MSG3="сгенерированы автоматически"
+creacion_de_Depot_MSG4="приложением Linux-cdgrab при проверке его отсутствия в вашем дистрибутиве Linux"
+creacion_de_Depot_MSG5="каталог"
+creacion_de_Depot_MSG6="Linux-cdgrab использует этот каталог для записи временных файлов и образов устройств (iso, img и т. д.)"
+creacion_de_Depot_MSG8="Depot используется GoboLinux для хранения временных файлов"
+creacion_de_Depot_MSG9="Этот файл предназначен только для информационных целей, вы можете свободно удалить его после прочтения."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="ВНИМАНИЕ:"
+main_IDSISTEMA_MSG2="Неподдерживаемая операционная система."
+main_IDSISTEMA_MSG3="Если есть проблемы в работе приложения, используйте GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="Недопустимый аргумент"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="найдено"
+main_cdkit_test_MSG2="ссылка на созданный водим"
+main_cdkit_test_MSG3="ссылка на созданный genisoimage"
+main_cdkit_test_MSG4="ссылка на Icedax создана"
+
+# pgm principal
+
+pgm_principal_MSG1="FATAL: не найден правильный макет каталога."
+pgm_principal_MSG2="НЕИЗВЕСТНО"
+
+
+

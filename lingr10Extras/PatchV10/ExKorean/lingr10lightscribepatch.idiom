@@ -1,0 +1,32 @@
+# Idioma Coreano para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Pascual Martinez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+# Traducción experimental al Coreano, generado con Google Translator
+
+# presskey
+
+presskey_MSG1="계속하려면 Enter 키를 누르세요..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="================================="
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 LIGHTSCRIBE 지원."
+cabecera_lightscribe_MSG3="================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="디스크에 인쇄하려는 이미지의 경로를 입력하세요:"
+imprimir_disco_lightscribe_MSG2="이미지 형식은 .bmp여야 합니다."
+imprimir_disco_lightscribe_MSG3="실행 중"
+imprimir_disco_lightscribe_MSG4="디스크에 라벨이 인쇄되었습니다"
+imprimir_disco_lightscribe_MSG5="디스크에 라벨 인쇄 오류"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="LightScribe 기술은 일부 장치에만 존재합니다."
+lingr10lightscribepatch_MSG2="녹음기에 해당 기능이 있는지 확인해야 합니다."
+lingr10lightscribepatch_MSG3="마찬가지로 특수 CD나 DVD에만 LightScribe 라벨을 붙일 수 있습니다."
+lingr10lightscribepatch_MSG4="LightScribe 디스크 인쇄"
+lingr10lightscribepatch_MSG5="이전 메뉴"
+lingr10lightscribepatch_MSG6="잘못된 옵션"
+

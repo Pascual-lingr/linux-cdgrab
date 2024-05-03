@@ -1,0 +1,22 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLithuanian/lcgdrabMenu_API_idiom/lcdgrabUIBD.idiom
+# Menu de Interfaz para la grabación de BD.
+# Traducción experimental al Lituano, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_grabar_BD
+
+menu_grabar_BD_MSG0="Ankstesnis meniu."
+menu_grabar_BD_MSG1="BLU-RAY DISKO ĮRAŠYMAS"
+menu_grabar_BD_MSG2="Įrašykite naują BD-R/BD-RE iso iš standžiojo disko duomenų"
+menu_grabar_BD_MSG4="ISO/UDF vaizdas įrašyti į diską."
+menu_grabar_BD_MSG7="Įrašyti iso-9660/udf vaizdą į BD-R/BD-RE"
+menu_grabar_BD_MSG8="-------------------- BD - DUOMENYS --------------------"
+menu_grabar_BD_MSG9="Rodyti disko informaciją"
+menu_grabar_BD_MSG10="Taikyti būtiną ištrynimą BD-RE"
+
+

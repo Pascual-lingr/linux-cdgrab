@@ -1,0 +1,36 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAfrikaans/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en Afrikáans para el menú de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="AUDIO-OMSKEIDING"
+menu_conversion_audio_MSG2="------------ OMSKEIDING TUSSEN FORMATE -----------"
+menu_conversion_audio_MSG3="Skakel .mp3 om na .wav"
+menu_conversion_audio_MSG4="Skakel .ogg om na .wav"
+menu_conversion_audio_MSG5="Skakel .wav om na .mp3"
+menu_conversion_audio_MSG6="Skakel .wav om na .ogg"
+menu_conversion_audio_MSG6C="Skakel .wav om na .flac"
+menu_conversion_audio_MSG6B="Skakel .flac om na .wav"
+menu_conversion_audio_MSG7="-------------- UITTREKSEL OUDIOSNELLE ------------"
+# Se omite 'n por evitar errores de fucionamiento.
+menu_conversion_audio_MSG8="Rip n oudio-CD na .wav"
+menu_conversion_audio_MSG9="Ruk n stel oudiosnitte na .wav"
+menu_conversion_audio_MSG10="Rip n oudio-CD na .mp3"
+menu_conversion_audio_MSG11="Rip n oudio-CD na .ogg"
+menu_conversion_audio_MSG0="Vorige spyskaart"
+menu_conversion_audio_MSG12="Soek vir .mp3-lêers"
+menu_conversion_audio_MSG13="Soek vir .ogg-lêers"
+menu_conversion_audio_MSG14="Soek vir .wav-lêers"
+menu_conversion_audio_MSG15="---------------- ANDER BEDRYWIGHEDE --------------"
+menu_conversion_audio_MSG16="Sny .wav oudiolêer"
+# Se omite 'n por evitar errores de fucionamiento.
+menu_conversion_audio_MSG17="Rip n oudio-CD na .flac"
+
+

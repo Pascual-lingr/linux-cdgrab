@@ -1,0 +1,15 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRussian/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Ruso para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="ОПТИЧЕСКИЙ ДИСК ИЗВЛЕЧЕН"
+expulsar_medio_MSG2="Ошибка при попытке извлечь Диск из устройства"
+expulsar_medio_MSG3="Введите имя вручную:"

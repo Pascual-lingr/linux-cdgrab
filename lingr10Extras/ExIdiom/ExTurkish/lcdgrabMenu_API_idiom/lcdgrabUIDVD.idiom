@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTurkish/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Turco, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Kullanılacak kullanıcı arayüzünü seçin:"
+SeleccionaIUDVD_MSG2="DVD+-rw-tools için Arayüzü Kullan"
+SeleccionaIUDVD_MSG3="Cdrecord-ProDVD Arayüzünü Kullan"
+SeleccionaIUDVD_MSG4="Libburnia için Arayüzü Kullan"
+SeleccionaIUDVD_MSG5="Önceki menü"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="DVD'YE KAYIT"
+menugrabar_dvd_MSG2="------------------ DVD - VERİ -------------------"
+menugrabar_dvd_MSG3="ISO-9660 veri DVD'sini kopyalayın"
+menugrabar_dvd_MSG4="Sabit sürücüde önceki bir DVD görüntüsünü oluştur"
+menugrabar_dvd_MSG5="Yeni bir ISO-9660 veri DVD'si yazın"
+menugrabar_dvd_MSG6="ISO-9660 veri DVD'sine (çok oturumlu DVD) yeni veri oturumu ekle"
+menugrabar_dvd_MSG7="İkinci seçenek kullanılarak önceden kaydedilmiş bir DVD gerekir"
+menugrabar_dvd_MSG8="ISO-9660 veri görüntüsünü DVD'ye yazın"
+menugrabar_dvd_MSG9="Bir .ext2 görüntüsünü DVD'ye yazın"
+menugrabar_dvd_MSG10="----------------- DVD - VİDEO ------------------"
+menugrabar_dvd_MSG11="Yeni bir DVD-Video yazdır"
+menugrabar_dvd_MSG12="--------------- DİĞER SEÇENEKLER ----------------"
+menugrabar_dvd_MSG13="DVD+RW/DVD-RW'yi biçimlendir"
+menugrabar_dvd_MSG14="DVD disk bilgilerini göster"
+menugrabar_dvd_MSG0="Önceki menü"
+menugrabar_dvd_MSGPRINCIPAL="Bir seçenek yazın"
+menugrabar_dvd_MSG15="DVD'ye eklenecek dosyalar ve dizinler"
+menugrabar_dvd_MSG16="Dosya yöneticisi başlatılıyor..."
+menugrabar_dvd_MSG17=".iso görüntüsü DVD'ye yazılacak"
+menugrabar_dvd_MSG18="Yazmak istediğiniz .iso görüntüsünün bulunduğu dizin yolunu yazın"
+menugrabar_dvd_MSG19="DVD destekli cdrecord sürümünü gerektirir."
+menugrabar_dvd_MSG20=".ext2 görüntüsünün DVD'ye kaydı cdrecord ile yapılacaktır."
+menugrabar_dvd_MSG21="Kurulumunuzda mevcut olan cdrecord sürümü şu şekilde olmalıdır"
+menugrabar_dvd_MSG22="DVD kaydını destekler."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="BİR SEÇENEK SEÇİN"
+dvd_clonar_MSG2="--- ÖNİZLEME GÖRÜNTÜSÜ İLE DİSK KOPYALARI ---"
+dvd_clonar_MSG3="Veri DVD'sini kopyala"
+dvd_clonar_MSG4="Sabit sürücüde önceki bir DVD görüntüsünü oluştur"
+dvd_clonar_MSG5="--- UÇUŞTA DİSK KOPYALARI ---"
+dvd_clonar_MSG6="Bir veri DVD'sini anında kopyalayın"
+dvd_clonar_MSG7="Bir veri DVD'sini anında kopyalayın"
+dvd_clonar_MSG8="UÇAN KOPYALAMA SEÇENEKLERİ İKİ OPTİK BİRİM GEREKTİRİR"
+dvd_clonar_MSG9="VERİLER KAYIT EDİLDİĞİ İÇİN BİLGİSAYARINIZA YÜKLENDİ"
+dvd_clonar_MSG10="YALNIZCA BİLGİSAYARINIZDA VARSA KAYNAK DİSKTEN DOĞRUDAN OKUYUN"
+dvd_clonar_MSG11="KOPYALARI UÇUŞTA KULLANAMAYACAKSINIZ."
+dvd_clonar_MSG0="Önceki menü"
+dvd_clonar_MSG12="DVD VERİ KOPYALAMA"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD KAYDI"
+menugrabar_DVD_MSG2="------------------ DVD - VERİ --------------------"
+menugrabar_DVD_MSG3="Veri DVD'sini kopyala"
+menugrabar_DVD_MSG4="Yeni bir veri DVD'si yazın"
+menugrabar_DVD_MSG5=".iso veya .ext2 görüntüsünü DVD'ye yaz"
+menugrabar_DVD_MSG6="DVD+RW/DVD-RW'yi biçimlendir"
+menugrabar_DVD_MSG7="Sürücüdeki disk bilgilerini göster"
+menugrabar_DVD_MSG0="Önceki menü"
+menugrabar_DVD_MSGPRINCIPAL="Bir seçenek yazın"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="ISO-9660 görüntüsünü DVD'ye yaz"
+menugrabar_DVD_libburnia_MSG2="Verileri sabit diskten DVD'ye yaz"
+menugrabar_DVD_libburnia_MSG3="DVD'yi Biçimlendir"
+menugrabar_DVD_libburnia_MSG4="DVD-RW'yi sıralı artımlı olarak biçimlendir"
+menugrabar_DVD_libburnia_MSG5="DVD-RW'yi Kısıtlı Üzerine Yazmaya Biçimlendir"
+menugrabar_DVD_libburnia_MSG6="Sürücü bilgilerini göster"
+menugrabar_DVD_libburnia_MSG8="Sistemde kurulu sürücüleri listele"
+menugrabar_DVD_libburnia_MSG0="Çıkış"
+menugrabar_DVD_libburnia_MSG7="Bir seçenek girin"
+

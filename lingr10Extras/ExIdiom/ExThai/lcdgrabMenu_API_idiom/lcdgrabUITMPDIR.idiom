@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExThai/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Tailandés para el menú de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="ไฟล์ใน /tmp"
+dir_tmp_MSG2="ลบรูปภาพและไฟล์บีบอัดทั้งหมด"
+dir_tmp_MSG3="เปิดตัวจัดการไฟล์สำหรับการดำเนินการอื่นๆ"
+dir_tmp_MSG4="ติดตั้งหรือถอดการติดตั้งภาพ"
+dir_tmp_MSG5="แสดงเมนูสร้างภาพ"
+dir_tmp_MSG6="แสดงตัวเลือกการบันทึกภาพ"
+dir_tmp_MSG7="เมนูก่อนหน้า"
+dir_tmp_MSG8="รายการไฟล์ที่มีอยู่ใน"
+dir_tmp_MSG9="เลือกตัวเลือก:"
+dir_tmp_MSG10="รูปภาพและไฟล์ที่ถูกลบ"
+dir_tmp_MSG11="เมานต์อิมเมจ"
+dir_tmp_MSG12="ถอนติดตั้งอิมเมจ"
+dir_tmp_MSG13="เบิร์นอิมเมจลงซีดี"
+dir_tmp_MSG14="เบิร์นอิมเมจลงดีวีดี"
+dir_tmp_MSG14B="เบิร์นอิมเมจไปที่ BD"
+dir_tmp_MSG15="เลือกตัวเลือกตามสื่อบันทึก"
+dir_tmp_MSG16="ไม่พบไฟล์การกำหนดค่า"
+dir_tmp_MSG17="กำลังยกเลิกกระบวนการบันทึก"
+dir_tmp_MSG18="ระบุไฟล์ .iso ที่จะเบิร์น"
+dir_tmp_MSG19="ป้อนเส้นทางรูปภาพ: "
+

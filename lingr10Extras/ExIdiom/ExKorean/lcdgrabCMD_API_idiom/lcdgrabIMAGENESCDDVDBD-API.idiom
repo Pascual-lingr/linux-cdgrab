@@ -1,0 +1,234 @@
+#########################################################
+# lcgdrabAPI_idiom/ExKorean/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en coreano para el API de creacion y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="이미지 파일 시스템"
+imagen_linux_fs_MSG2="파일 시스템 선택: "
+imagen_linux_fs_MSG3="CD-R/RW용 이미지 생성(702MB)"
+imagen_linux_fs_MSG4="DVD+RW용 이미지 생성(4GB)"
+imagen_linux_fs_MSG5="DVD+RW/DL용 이미지 생성(8GB)"
+imagen_linux_fs_MSG5B="BD-R/RE용 이미지 생성(25GB)"
+imagen_linux_fs_MSG5C="사용자 정의 크기로 이미지 파일 만들기"
+imagen_linux_fs_MSG6="702MB 용량의 빈 파일 생성 중"
+imagen_linux_fs_MSG7="4GB 용량의 빈 파일 생성 중"
+imagen_linux_fs_MSG8="8GB 용량의 빈 파일 생성 중"
+imagen_linux_fs_MSG8B="25GB 용량의 빈 파일 생성 중"
+imagen_linux_fs_MSG8C="사용자 정의 크기로 빈 파일 만들기"
+imagen_linux_fs_MSG9="오류: 이미지 크기를 알 수 없습니다. 중단 중..."
+imagen_linux_fs_MSG10="실행 중"
+imagen_linux_fs_MSG11="프로그램이 빈 파일을 포맷합니다."
+imagen_linux_fs_MSG12="시스템은 이전에 생성된 파일이 블록 장치가 아니라는 경고를 표시하고 포맷할 것인지 묻습니다."
+imagen_linux_fs_MSG13="예라고 대답하세요"
+imagen_linux_fs_MSG13="성공적으로 포맷되었습니다."
+imagen_linux_fs_MSG14="이미지 마운트 중 . . ."
+imagen_linux_fs_MSG15="빈 파일을 포맷할 때 오류가 발생했습니다."
+imagen_linux_fs_MSG16="프로그램이 다음 형식의 파일을 마운트했습니다."
+imagen_linux_fs_MSG17="Linux-cdgrab은 마운트된 이미지에서 작동할 수 있도록 파일 관리자를 시작합니다."
+imagen_linux_fs_MSG18="파일 복사가 완료되면 포맷된 파일을 마운트 해제하세요."
+imagen_linux_fs_MSG19="리눅스 이미지는 이 디렉토리에 있습니다"
+imagen_linux_fs_MSG19B="이미지 파일을 마운트할 때 오류가 발생했습니다."
+imagen_linux_fs_MSG20="이미지에 포함할 파일. /mnt/lcdgrab에 마운트됨"
+imagen_linux_fs_MSG21="파일 관리자를 시작하는 중..."
+imagen_linux_fs_MSG22="주의사항:"
+imagen_linux_fs_MSG23="------"
+imagen_linux_fs_MSG24="이미지"
+imagen_linux_fs_MSG25="아직 마운트되어 있습니다"
+imagen_linux_fs_MSG26="dd로 빈 파일을 생성할 때 오류가 발생했습니다."
+imagen_linux_fs_MSG27="/에 마운트된 파티션에 여유 공간이 있는지 확인하세요."
+imagen_linux_fs_MSG34="파일 포맷을 위한 파일 시스템"
+imagen_linux_fs_MSG35="사용자 정의 크기의 빈 파일 생성"
+imagen_linux_fs_MSG36="새 빈 파일의 블록 크기를 지정하십시오(숫자 값만):"
+imagen_linux_fs_MSG37="블록 크기 값의 예: 1024, 2048(Ext2만 해당) 또는 4096(모든 형식)"
+imagen_linux_fs_MSG38="생성할 빈 파일의 크기를 지정하십시오(숫자 값만):"
+imagen_linux_fs_MSG39="빈 파일을 생성하기 위한 공간 측정:"
+imagen_linux_fs_MSG40="사용할 공간 측정을 지정하십시오: "
+imagen_linux_fs_MSG41="크기 측정을 지정할 때 오류가 발생했습니다."
+imagen_linux_fs_MSG42="블록 크기 값:"
+imagen_linux_fs_MSG43="빈 파일을 위한 공간:"
+imagen_linux_fs_MSG44="계산된 값(바이트):"
+imagen_linux_fs_MSG45="계산된 개수 값:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1=".iso 이미지 생성 시 md5 읽기 활성화"
+comprobar_lectura_md5_MSG2=".iso 이미지 생성 시 md5 읽기 비활성화"
+comprobar_lectura_md5_MSG3="이전 메뉴"
+comprobar_lectura_md5_MSG4="현재 구성:"
+comprobar_lectura_md5_MSG5="활성화됨"
+comprobar_lectura_md5_MSG6="비활성화됨"
+comprobar_lectura_md5_MSG7="md5 합계 읽기 활성화됨"
+comprobar_lectura_md5_MSG8="md5 합계 읽기 비활성화됨"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="ISO 이미지 이름을 읽을 수 없습니다."
+leer_md5sum_MSG2="md5sum 읽는 중"
+leer_md5sum_MSG3="이미지의 md5 합계 표시"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="CD 이미지 생성 중"
+extraer_isoCD_dd_MSG2="이미지 생성 위치"
+extraer_isoCD_dd_MSG3="찾을 수 없습니다"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="DVD 이미지 생성 중"
+extraer_isoDVD_dd_MSG2="달리기"
+extraer_isoDVD_dd_MSG3="이미지 생성 위치"
+extraer_isoDVD_dd_MSG4="찾을 수 없습니다"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="실행 중"
+extraer_iso_readcd_MSG2="이미지가 성공적으로 생성되었습니다"
+extraer_iso_readcd_MSG3="이미지 생성 위치"
+extraer_iso_readcd_MSG4="녹화 프로세스를 중단하는 중..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="마운트된 CD"
+extraer_iso_mkisofs_MSG2="이미지 생성 중..."
+extraer_iso_mkisofs_MSG3="매킨토시 호환 가능"
+extraer_iso_mkisofs_MSG4="사용 중"
+extraer_iso_mkisofs_MSG5="실행 중"
+extraer_iso_mkisofs_MSG6="디렉토리에 이미지가 생성되었습니다"
+extraer_iso_mkisofs_MSG7="매킨토시 지원 없이 프로세스를 다시 시도하는 중"
+extraer_iso_mkisofs_MSG8="디렉터리에 생성된 이미지"
+extraer_iso_mkisofs_MSG9="mkisofs는 생성 시 알 수 없는 오류를 반환합니다."
+extraer_iso_mkisofs_MSG10="에서"
+extraer_iso_mkisofs_MSG11="데이터 무결성 확인"
+extraer_iso_mkisofs_MSG12="마운팅"
+extraer_iso_mkisofs_MSG13B="ko"
+extraer_iso_mkisofs_MSG13="genisoimage를 생성할 때 알 수 없는 오류가 발생했습니다."
+extraer_iso_mkisofs_MSG13B="에서"
+extraer_iso_mkisofs_MSG14="Mkisofs 및 genisoimage를 찾을 수 없습니다. cdrtools 또는 cdrkit을 설치하십시오."
+extraer_iso_mkisofs_MSG15="마운트할 수 없습니다."
+extraer_iso_mkisofs_MSG16="이미지가 성공적으로 생성되었습니다."
+
+# m_comp_img
+
+m_comp_img_MSG1="이미지가 성공적으로 생성되었습니다."
+m_comp_img_MSG2="이미지 파일을 압축하시겠습니까?"
+m_comp_img_MSG3="(s/y) 압축; 다른 옵션을 사용하면 프로세스가 취소됩니다."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="파일 관리자를 시작하는 중..."
+generar_iso_directorio_MSG2="향후 CD/DVD/BD의 이름을 입력하세요"
+generar_iso_directorio_MSG3="이미지 생성 중..."
+generar_iso_directorio_MSG4="매킨토시 호환성 활성화"
+generar_iso_directorio_MSG5="사용 중"
+generar_iso_directorio_MSG6="실행 중"
+generar_iso_directorio_MSG7="디렉토리에 이미지가 생성되었습니다."
+generar_iso_directorio_MSG8="이미지 생성 프로세스가 실패했습니다"
+generar_iso_directorio_MSG9="매킨토시 호환성 없이 이미지 생성 중"
+generar_iso_directorio_MSG10="Mkisofs 및 genisoimage를 찾을 수 없습니다. cdrtools 또는 cdrkit을 설치하십시오."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="향후 DVD/BD의 이름을 입력하세요."
+generar_bdv_udf_directorio_MSG2="비디오 이미지를 생성할 디렉터리를 지정합니다."
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="디스크 레이블 지정:"
+generar_iso_directorio_libburnia_MSG2="iso-9660 이미지를 생성할 디렉터리를 지정하세요:"
+generar_iso_directorio_libburnia_MSG3="ISO9660 이미지가 성공적으로 생성되었습니다!!"
+generar_iso_directorio_libburnia_MSG4="xorriso로 iso-9660 이미지 생성 오류"
+
+# imagenISO
+
+imagenISO_MSG1=".iso 이미지에 포함할 파일 및 디렉터리"
+imagenISO_MSG2="옵션 선택"
+imagenISO_MSG2B="---------"
+imagenISO_MSG3="CD에서 ISO-9660 이미지 생성 (dd 사용)"
+imagenISO_MSG4="DVD에서 ISO-9660 이미지 생성 (dd 사용)"
+imagenISO_MSG5="CD에서 ISO-9660 이미지 생성(readcd 사용)"
+imagenISO_MSG6="CD 또는 DVD 디스크에서 ISO-9660 이미지 생성(mkisofs 사용)"
+imagenISO_MSG7="하드 드라이브 데이터에서 ISO-9660 이미지 생성(mkisofs 사용)"
+imagenISO_MSG8="이전 메뉴"
+imagenISO_MSG9="이미지 생성 중"
+imagenISO_MSG10="하드 드라이브 데이터에서 ISO-9660 이미지 생성(xorriso 사용)"
+imagenISO_MSG11="CD/DVD/BD에서 iso/udf 이미지 생성 (mkisofs 사용)"
+imagenISO_MSG12="하드 드라이브 데이터에서 iso/udf 이미지 생성(mkisofs 사용)"
+imagenISO_MSG13="ISO-9660 포맷터 메뉴"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="하드 드라이브 데이터에서 UDF/ISO 이미지 생성(mkisofs 사용)"
+imagenISO_MSG15="DVD 비디오를 지원하는 UDF/ISO 이미지 생성(mkisofs 사용)"
+
+# imagen_img
+
+imagen_img_MSG1="이미지를 만들 소스 블록 장치를 입력하세요."
+imagen_img_MSG2="--------------------------------"
+imagen_img_MSG3="/etc/fstab 및 /etc/mtab에 등록된 장치"
+imagen_img_MSG4="마운트 명령 출력:"
+imagen_img_MSG5="장치 이름을 입력하세요: "
+imagen_img_MSG6="블록 장치의 .img 이미지 생성 중"
+imagen_img_MSG7="실행 중"
+imagen_img_MSG8="장치 이미지 생성 위치"
+
+# monta_img
+
+monta_img_MSG1="마운트할 ISO 또는 ext2 이미지."
+monta_img_MSG2="마운트할 이미지가 있는 디렉터리 경로를 입력하세요:"
+monta_img_MSG3="마운트된 CD 이미지:"
+monta_img_MSG4="이미지 파일을 마운트할 때 오류가 발생했습니다."
+monta_img_MSG5="찾을 수 없음"
+monta_img_MSG6="마운트 포인트가 존재하지 않습니다."
+monta_img_MSG7="예기치 않은 오류"
+
+# desmonta_img
+
+desmonta_img_MSG1="마운트 해제할 ISO 또는 ext2 이미지입니다."
+desmonta_img_MSG2="삭제된 이미지"
+desmonta_img_MSG3="마운트된 이미지를 찾을 수 없습니다."
+desmonta_img_MSG4="출력 마운트:"
+desmonta_img_MSG5="이미지의 절대 디렉터리 경로를 직접 지정할 수 있습니다."
+desmonta_img_MSG6="예: /tmp/lcdgrabimg.iso 또는 /mnt/lcdgrab과 같은 이미지 마운트 디렉터리"
+desmonta_img_MSG7="지정하지 않으면 파일 관리자를 사용하여 검색할 수 있습니다."
+desmonta_img_MSG8="파일 관리자 시작 중"
+desmonta_img_MSG9="이미지 경로를 지정하세요."
+desmonta_img_MSG10="해제된 이미지"
+desmonta_img_MSG11="이미지를 마운트 해제할 때 오류가 발생했습니다."
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".iso로 변환할 .nrg 이미지"
+nrg_a_iso_MSG2="변환할 .nrg(Nero Burning ROM) 이미지의 경로를 입력하세요."
+nrg_a_iso_MSG3="이미지 변환 중..."
+nrg_a_iso_MSG4="소스 .nrg 이미지의 경로"
+nrg_a_iso_MSG5="존재하지 않거나 디렉터리에 해당합니다."
+nrg_a_iso_MSG6="경로가 잘못되었습니다."
+nrg_a_iso_MSG7="이미 이전 ISO-9660 이미지이므로 변환되지 않습니다."
+nrg_a_iso_MSG8="다른 확장자로 복사 중..."
+nrg_a_iso_MSG9="복사 완료"
+nrg_a_iso_MSG10="실행 중"
+nrg_a_iso_MSG11="이미지가 성공적으로 변환되었습니다."
+nrg_a_iso_MSG12="이미지 .iso 생성 시 오류가 발생했습니다."
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1=".bin 이미지에서 .cue 설명 파일 생성"
+GenerarArchivocue_MSG2="현재 활성 디렉터리"
+GenerarArchivocue_MSG3="디렉터리 경로만 쓰세요."
+GenerarArchivocue_MSG4="이미지 파일 찾기:"
+GenerarArchivocue_MSG5="저장할 .bin 이미지의 이름을 입력하세요."
+GenerarArchivocue_MSG6="해당 .cue 파일을 생성했습니다."
+GenerarArchivocue_MSG7="설명 파일 .cue가 성공적으로 생성되었습니다."
+GenerarArchivocue_MSG8="설명 파일 .cue 생성 시 오류가 발생했습니다."
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="달리기"
+ImagenbincueCDDVD_MSG2=".BIN .CUE 디스크 이미지가 성공적으로 생성되었습니다."
+

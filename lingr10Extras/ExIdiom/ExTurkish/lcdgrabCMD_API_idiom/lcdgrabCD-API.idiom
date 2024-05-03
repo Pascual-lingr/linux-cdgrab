@@ -1,0 +1,184 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTurkish/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Turco para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="çalışıyor"
+copia_bin_MSG2="-------------KAYIT İŞLEMİ YENİDEN DENEYİLİYOR---------------"
+copia_bin_MSG3="	GÖRÜNTÜ DOSYASI SİLİNİYOR"
+copia_bin_MSG4="BİR KAYIT HATASI OLUŞTU"
+copia_bin_MSG5="Disk .iso görüntü dökümü dosyası bulunamadı. Kayıt iptal ediliyor..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="çalışıyor"
+datos_al_vuelo_MSG2="Kayıt girişiminde hata oluştu, aşırı yazma desteği olmadan yeniden deneniyor"
+datos_al_vuelo_MSG3="Kaynak diskin veya aygıtın olup olmadığını kontrol edin"
+datos_al_vuelo_MSG4="iyi durumda"
+datos_al_vuelo_MSG5="Kaynak diskten çıkış blok numarası alınıyor"
+datos_al_vuelo_MSG6="DİSK KOPYALANIYOR..."
+
+# clonar_cd
+
+clonar_cd_MSG1="çalışıyor"
+clonar_cd_MSG2="CD BAŞARIYLA KLONLANDI"
+clonar_cd_MSG3="CD KLONLANIRKEN BİR HATA OLUŞTU"
+
+# datos
+
+datos_MSG1=".iso görüntüsünü oluşturmak için dosyalar ve dizinler"
+datos_MSG2="CD/DVD/BD ETİKETİ"
+datos_MSG3="Gelecekteki CD/DVD/BD için bir ad girin:"
+datos_MSG4="Dosya yöneticisi başlatılıyor:"
+datos_MSG5="	GÖRÜNTÜ OLUŞTURUYORUZ..."
+datos_MSG6="çalışıyor"
+datos_MSG7="ISO-9660 GÖRÜNTÜSÜ OLUŞTURULDU"
+datos_MSG8="	CD/DVD/BD YAZILIYOR"
+datos_MSG9="GÖRÜNTÜ DOSYASI OLUŞTURMA İŞLEMİ BAŞARISIZ OLDU"
+datos_MSG10="HFS DESTEĞİ OLMADAN YENİ BİR BİRİNİ OLUŞTURMAYA YENİDEN ÇALIŞIYORUZ (Macintosh)"
+datos_MSG11="GÖRÜNTÜ SİLİNİYOR ..."
+datos_MSG12="YENİ GÖRÜNTÜ OLUŞTURUYORUZ..."
+datos_MSG13="DOĞRU KAYIT YAPILMASI MÜMKÜN DEĞİL"
+datos_MSG14="--------------- KAYIT İŞLEMİ YENİDEN DENEYİLİYOR-----------"
+datos_MSG15="RESMİ SİLİN..."
+datos_MSG16="ISO-9660 VERİ CD/DVD/BD'Sİ YANIYOR..."
+datos_MSG17="Bulunamadı."
+datos_MSG18="Disk kaydı iptal ediliyor..."
+
+# datoslb
+
+datoslb_MSG1="Hata: Resim dosyası bulunamıyor. İptal ediliyor..."
+datoslb_MSG2="KAYIT İŞLEMİ TAMAM"
+datoslb_MSG3="KAYIT İŞLEMİNDE HATA"
+
+# borra
+
+borra_MSG0="Önceki Menü"
+borra_MSG1="CD-RW'yi silmek için modu seçin"
+borra_MSG2="-------------------------------"
+borra_MSG3="Hızlı sil (cdrecord'u kullan)"
+borra_MSG4="Silme işlemini tamamla (cdrecord'u kullan)"
+borra_MSG5="Silme gerekli (cdrskin kullanın)"
+borra_MSG6="çalışıyor"
+borra_MSG7="Diskin durumuna göre gerekli biçimlendirme veya silme işlemi uygulanır"
+borra_MSG8="CD-RW BAŞARIYLA SİLİNDİ!!"
+borra_MSG9="CD-RW'Yİ SİLİRKEN HATA"
+borra_MSG10="CD-RW'Yİ SİLMEYE ZORLA"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="CD-RW'Yİ SİLMEYE ÇALIŞIRKEN HATA"
+err_borra_cdrw_MSG2="CD-RW KULLANILAMAZ"
+err_borra_cdrw_MSG3="BU CD-RW'Yİ SİLMEK MÜMKÜN DEĞİL"
+err_borra_cdrw_MSG4="CD-RW'DE FİZİKSEL HASAR VARSA KONTROL EDİN"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="çalışıyor"
+cerrar_cd_MSG2="CD DOĞRU BİR ŞEKİLDE KAPATILDI"
+cerrar_cd_MSG3="CD'Yİ KAPATIRKEN HATA"
+cerrar_cd_MSG4="VERİ CD'SİNDEKİ PARÇA KAPANIYOR..."
+
+# grabimg
+
+grabimg_MSG1="CD/DVD'ye yazılacak.iso veya .ext2 görüntüsü"
+grabimg_MSG2="Dosya yöneticisi başlatılıyor."
+grabimg_MSG3="Yazdırmak istediğiniz CD/DVD görüntüsünün bulunduğu tam yolu yazın:"
+grabimg_MSG4="çalışıyor"
+grabimg_MSG5="-----------KAYIT İŞLEMİNİ YENİDEN DENEYİYORUZ-----------"
+grabimg_MSG6="KAYIT TAMAMLANDI!!"
+grabimg_MSG7="GÖRÜNTÜ .EXT2 BAŞARIYLA KAYDEDİLMİŞ"
+
+# grabimglb
+
+grabimglb_MSG1="Yazdırmak istediğiniz CD/DVD görüntüsünün bulunduğu tam yolu yazın:"
+grabimglb_MSG2="Resim diske yazılıyor..."
+grabimglb_MSG3="ISO-9660 GÖRÜNTÜ BAŞARIYLA KAYDEDİLMİŞ"
+grabimglb_MSG4="ISO-9660 GÖRÜNTÜSÜNÜN KAYDEDİLMESİNDE HATA"
+grabimglb_MSG5="Hata: Resim dosyası bulunamadı. İptal ediliyor..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1="Görüntüyü kaydetmek için .bin ve .cue dosyaları"
+grabimg_cue_MSG2="Bölme/işaret görüntüsünü kaydetmek için her iki dosyanın da olması gerekir"
+grabimg_cue_MSG3="aktif dizinde bulun."
+grabimg_cue_MSG4="Geçerli aktif dizin"
+grabimg_cue_MSG5="*.bin resim dosyasına başvuran *.cue dosyasının adını girin"
+grabimg_cue_MSG6=".cue dosyası: "
+grabimg_cue_MSG7="çalışıyor"
+grabimg_cue_MSG8="KAYIT TAMAMLANDI!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Bir .iso görüntüsünden Çok Oturumlu CD'ye yazın"
+cd_multi_MSG2="Bir .iso görüntüsünden CD'ye ilk oturumu yazın"
+cd_multi_MSG3="Diskteki dosyalardan Çoklu Oturum CD'sine yaz"
+cd_multi_MSG4="Sabit sürücüdeki dosyalardan CD'ye ardışık oturumları kaydedin"
+cd_multi_MSG5="Bu seçenek, önceden kaydedilmiş bir oturuma sahip, çok oturumlu bir CD gerektirir."
+cd_multi_MSG6="Önceki menü"
+cd_multi_MSG7=".CD-Çoklu oturuma yazılacak iso görüntüsü"
+cd_multi_MSG8=".iso görüntüsünün yolunu belirtin"
+cd_multi_MSG9="çalışıyor"
+cd_multi_MSG10="ÇOK OTURUMLU CD BAŞARIYLA KAYDEDİLDİ!!"
+cd_multi_MSG11="Resme eklenecek dizinler."
+cd_multi_MSG12="Hangi dizinlerin dahil edileceğini aşağıda belirtin"
+cd_multi_MSG13="CD etiketi için bir ad girin:"
+cd_multi_MSG14="GÖRÜNTÜ OLUŞTURUYOR..."
+cd_multi_MSG15="BAŞARIYLA OLUŞTURULDU"
+cd_multi_MSG16="GÖRÜNTÜ OLUŞTURURKEN HATA. KAYIT İŞLEMİ İPTAL EDİLİYOR..."
+cd_multi_MSG17="CD GÖRÜNTÜSÜ YANIYOR..."
+cd_multi_MSG18="CD ÇOK OTURUMLU MENÜ"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="SES CD'Sİ KOPYALANIYOR..."
+copia_cd_audio_MSG2="Çalışıyor"
+copia_cd_audio_MSG3="SES PARÇALARI BAŞARIYLA OLGULANDI!!"
+copia_cd_audio_MSG4="SES PARÇALARINI KOPYALANIRKEN HATA"
+copia_cd_audio_MSG5="SES CD'Sİ YANIYOR..."
+copia_cd_audio_MSG6="SES CD'Sİ BAŞARIYLA KOPYALANDI!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav dosyaları CD'ye yazılacak"
+wav_a_cd_MSG2="Linux-cdgrab dizin boyutunu kontrol etmeyecek"
+wav_a_cd_MSG3="Bu durumda 650 Mbyte'tan fazla olmadığından emin olun"
+wav_a_cd_MSG4="eğer 80 dakikalık bir CD kullanıyorsanız."
+wav_a_cd_MSG5=".wav dosyalarının dizin yolunu girin"
+wav_a_cd_MSG6="çalışıyor"
+wav_a_cd_MSG7="İŞLEM TAMAMLANDI!"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Mixto oluşturma projesi (Veri Görüntüsü .iso + Ses Dosyaları .wav)"
+cdmixto_MSG2="Linux-cdgrab dizin boyutunu kontrol etmeyecek"
+cdmixto_MSG3="ses dosyaları nerede?"
+cdmixto_MSG4="Kaydeteceğiniz .iso görüntüsünden de bunu yapmayacak"
+cdmixto_MSG5="sonra."
+cdmixto_MSG6="Sahip olduğunuz boyutla tutarlı olun"
+cdmixto_MSG7="Yeni CD'nize yazın."
+cdmixto_MSG8="Ses dosyalarının yolunu belirtin:"
+cdmixto_MSG9="Iso görüntü yolunu belirtin:"
+cdmixto_MSG10="#########################################"
+cdmixto_MSG11="KARIŞIK CD'YE KAYIT YAPILIYOR: VERİ + SES"
+cdmixto_MSG12="çalışıyor"
+cdmixto_MSG13="----KARIŞIK-CD BAŞARIYLA OLUŞTURULDU-----!!"
+cdmixto_MSG14="------- KARIŞIK CD'YE YAZARKEN HATA--------"
+
+# discoinfo
+
+discoinfo_MSG1="koşma"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI bağlantı noktası tarandı"
+cdrecord_scan_MSG1="IDE/SCSI bağlantı noktası taranırken hata oluştu"
+cdrecord_scan_MSG2="cdrecord bulunamadı"
+

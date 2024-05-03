@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExPolish/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en polaco para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Ścieżka obrazu .img lub .ext2 do zrzucenia na dysk."
+volcar_imagen_MSG2="-----------------------WAŻNY----------------------------" 
+volcar_imagen_MSG3="+ Ta opcja nie działa w przypadku dysków optycznych."
+volcar_imagen_MSG4="+ Używaj na pendrive'ach, dyskietkach, partycjach dysku itp. "
+volcar_imagen_MSG5="+ Uwaga dotycząca dysków twardych:"
+volcar_imagen_MSG6="+ Obraz jest zapisywany od początku za pomocą dd"
+volcar_imagen_MSG7="  z określonego dysku, użycie numeru nie jest dozwolone"
+volcar_imagen_MSG8="  konkretny sektor, aby rozpocząć proces pisania"
+volcar_imagen_MSG9="+ Używaj ostrożnie. Używaj na własne ryzyko."
+volcar_imagen_MSG10="+ Partycje dysku mogą stać się bezużyteczne."
+volcar_imagen_MSG11="+ Nie zaleca się używania go w systemach z wieloma partycjami."
+volcar_imagen_MSG12="  Przywracanie może opuścić tablicę partycji i"
+volcar_imagen_MSG13="  same bezużyteczne partycje."
+volcar_imagen_MSG14="-------------------------------------------------------"
+volcar_imagen_MSG15="NACIŚNIJ KLAWISZ C, ABY KONTYNUOWAĆ; (Proces zostanie anulowany w innej opcji)"
+volcar_imagen_MSG16="Określ ścieżkę pliku obrazu do zrzucenia na dysk: "
+volcar_imagen_MSG17="Zamontuj dane wyjściowe polecenia:"
+volcar_imagen_MSG18="Określ urządzenie blokowe, na które obraz ma zostać zrzucony:"
+volcar_imagen_MSG19="DUMPING OBRAZU"
+volcar_imagen_MSG20="NA URZĄDZENIU"
+volcar_imagen_MSG21="działa"
+volcar_imagen_MSG22="PROCES ZRZUTU OBRAZU ZAKOŃCZONY"
+
+# volcar_iso
+
+volcar_iso_MSG1="Określ urządzenie blokowe, na które chcesz zapisać obraz ISO:"
+volcar_iso_MSG2="UWAGA"
+volcar_iso_MSG2B="-----"
+volcar_iso_MSG3="Określ urządzenie blokowe, na którym chcesz pisać."
+volcar_iso_MSG4="Przykłady: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Nie określaj partycji należącej do tego urządzenia"
+volcar_iso_MSG6="Przykłady: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Określ obraz ISO-9660 lub img do zapisania:"
+volcar_iso_MSG9="Proces zakończony"
+volcar_iso_MSG10="Błąd w procesie zapisu ISO"
+volcar_iso_MSG11="Określ rozmiar bloku, aby zapisać obraz"
+volcar_iso_MSG12="Wybierz opcję w zależności od systemu operacyjnego, aby zapisać:"
+volcar_iso_MSG13="ISO-9660 lub startowy obraz IMG do flashowania na urządzeniu:"
+volcar_iso_MSG14="Wyjdź"
+volcar_iso_MSG15="ISO-9660 LUB PLIK OBRAZU IMG"
+volcar_ISO_MSG16="WYBIERZ SYSTEM OPERACYJNY, ABY Zrzucić DO JEDNOSTKI"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Wybierz system plików za pomocą"
+Formateador_linuxfs_MSG2="urządzenie zostanie sformatowane:"
+Formateador_linuxfs_MSG3="Określ urządzenie blokowe do sformatowania: "
+Formateador_linuxfs_MSG5="PROCES ZAKOŃCZONY"
+Formateador_linuxfs_MSG6="FORMATOWANIE DYSKU"
+Formateador_linuxfs_MSG7="Ustaw etykietę woluminu"
+Formateador_linuxfs_MSG10="Określ nazwę etykiety woluminu"
+Formateador_linuxfs_MSG11="Nowa etykieta woluminu"
+Formateador_linuxfs_MSG12="Określ rozmiar bloku"
+Formateador_linuxfs_MSG13="Nowy rozmiar bloku"
+Formateador_linuxfs_MSG14="Poprzednie menu"
+

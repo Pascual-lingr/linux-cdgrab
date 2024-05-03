@@ -1,0 +1,73 @@
+#########################################################
+# lcgdrabAPI_idiom/ExTigrinya/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Tigriña, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="ኣማራጺ ምረጹ።"
+clonar_MSG2="------ ዲስክ ቅዳሓት ምስ ቅድመ ምስሊ ------"
+clonar_MSG3="ናይ ዳታ ሲዲ ቅዳሕ።"
+clonar_MSG4="ኣብ ሃርድ ድራይቭ ዝነበረ ናይ ሲዲ ምስሊ ፍጠር።"
+clonar_MSG5="------------ ዲስክ ቅዳሓት ኣብ በረራ -----------"
+clonar_MSG6="ናይ ዳታ ሲዲ ኣብ በረራ ምቕዳሕ።"
+clonar_MSG7="ናይ ዳታ ሲዲ ኣብ በረራ ክሎን።"
+clonar_MSG7B="ናይ ድምጺ ሲዲ ኣብ በረራ ምቕዳሕ።"
+clonar_MSG8="ናይ በረራ ቅዳሕ ኣማራጺታት ክልተ ብርሃናዊ ኣሃዱታት የድልዮም።"
+clonar_MSG9="ኣብ ኮምፒተርካ ተተኺሉ፣ እቲ ዳታ ኣብ እዋን ስለዝምዝገብ።"
+clonar_MSG10="ካብ መበገሲ ዲስክ ብቐጥታ ኣንብብ፣ ኮምፒተርካ ጥራይ እንተሃልይዋ"
+clonar_MSG11="ሓደ ሰብ ኣብ በረራ ነቶም ቅዳሓት ክጥቀመሎም ኣይክእልን እዩ።"
+clonar_MSG12B="ሲዲ ዳታ ምቕዳሕ"
+clonar_MSG0="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+
+# mgrabacd
+
+mgrabacd_MSG1="ሲዲ ዳታ ካብ ሃርድ ዲስክ"
+mgrabacd_MSG2="ሓድሽ ዳታ ሲዲ ኣቃጽል (cdrtools ተጠቐም)።"
+mgrabacd_MSG3="ሓድሽ ዳታ ሲዲ ኣቃጽል (libburnia ተጠቐም)።"
+mgrabacd_MSG4="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+mgrabacd_MSG5="ሓደ ኣማራጺ ጽሓፍ"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="ምምዝጋብ ምስሊ መረዳእታ።"
+mgrabaimg_MSG2="iso ወይ ext2 ምስሊ ናብ CD-R/RW ኣቃጽሎ (cdrtools ተጠቐም)።"
+mgrabaimg_MSG3="ናይ iso ምስሊ ናብ CD-R/RW ኣቃጽሎ (libburnia ተጠቐም)"
+mgrabaimg_MSG4="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+mgrabaimg_MSG5="ሓደ ኣማራጺ ጽሓፍ"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="ካብ .wav ፋይላት ድምጺ ሲዲ ኣቃጽል።"
+mgrabararchivosaudio_MSG2="ካብ .mp3 ፋይላት ድምጺ ሲዲ ኣቃጽል።"
+mgrabararchivosaudio_MSG3="ካብ .ogg ፋይላት ድምጺ ሲዲ ኣቃጽል።"
+mgrabararchivosaudio_MSG0="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+mgrabararchivosaudio_MSG0B="ሓደ ኣማራጺ ጽሓፍ"
+mgrabararchivosaudio_MSG4="ካብ .flac ፋይላት ድምጺ ሲዲ ኣቃጽል።"
+mgrabararchivosaudio_MSG5="ካብ ፋይላት ምቕራጽ ሲዲ-ድምጺ።"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="ናብ ሲዲ ምቕራጽ"
+menugrabar_cd_MSG2="------------------- ሲዲ - ዳታ ------------------"
+menugrabar_cd_MSG3="ሲዲ ዳታ ቅዳሕ።"
+menugrabar_cd_MSG4="ሓድሽ ዳታ ሲዲ ኣቃጽል።"
+menugrabar_cd_MSG5="ሓድሽ ናይ ብዙሕ ክፍለ ግዜ ዳታ ሲዲ ኣቃጽል።"
+menugrabar_cd_MSG6=".iso ወይ .ext2 ምስሊ ናብ ሲዲ ኣቃጽል።"
+menugrabar_cd_MSG7=".bin/.cue ምስሊ ናብ ሲዲ ኣቃጽል።"
+menugrabar_cd_MSG8="------------------- ሲዲ - ድምጺ ------------------"
+menugrabar_cd_MSG9="ናይ ድምጺ ሲዲ ቅዳሕ"
+menugrabar_cd_MSG13="----------------- ካልኦት ኣማራጺታት ----------------"
+menugrabar_cd_MSG14="ዝተሓዋወሰ ሲዲ (ዳታ + ድምጺ) ኣቃጽል።"
+menugrabar_cd_MSG15="ሲዲ-RW ምድምሳስ።"
+menugrabar_cd_MSG16="ክፉት ሲዲ ዕጸዎ።"
+menugrabar_cd_MSG17="ኣብ ድራይቭ ሓበሬታ ዲስክ ኣርኢ።"
+menugrabar_cd_MSG18="ካብ ዲስክ ፋይላት ድምጺ ሲዲ ኣቃጽል።"
+menugrabar_cd_MSG0="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+menugrabar_cd_MSGPRINCIPAL="ሓደ ኣማራጺ ጽሓፍ"
+

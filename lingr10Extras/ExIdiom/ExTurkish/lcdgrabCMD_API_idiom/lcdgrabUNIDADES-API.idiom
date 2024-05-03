@@ -1,0 +1,69 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTurkish/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en Turco para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Diske dökülecek .img veya .ext2 görüntüsünün yolu."
+volcar_imagen_MSG2="-----------------------ÖNEMLİ----------------------------" 
+volcar_imagen_MSG3="+ Bu seçenek optik disklerde işlevsel değildir."
+volcar_imagen_MSG4="+ Pendrive'larda, disketlerde, disk bölümlerinde vb. kullanın."
+volcar_imagen_MSG5="+ Sabit sürücülerle ilgili dikkat edilmesi gerekenler:"
+volcar_imagen_MSG6="+ Resmin yazımı baştan itibaren dd ile yapılıyor"
+volcar_imagen_MSG7="belirtilen diskten sayı kullanılmasına izin verilmiyor"
+volcar_imagen_MSG8="yazma işlemini başlatmak için belirli bir sektör"
+volcar_imagen_MSG9="+ Dikkatli kullanın. Riski size ait olmak üzere kullanın."
+volcar_imagen_MSG10="+ Disk bölümleri kullanılamaz hale gelebilir."
+volcar_imagen_MSG11="+ Çoklu bölümleme sistemlerinde kullanılması önerilmez."
+volcar_imagen_MSG12="Geri yükleme bölüm tablosundan çıkabilir ve"
+volcar_imagen_MSG13="işe yaramaz bölümlerin kendisi."
+volcar_imagen_MSG14="---------------------------------------------------------"
+volcar_imagen_MSG15="DEVAM ETMEK İÇİN C TUŞUNA BASIN; (Başka bir seçenekte işlem iptal edilecektir)"
+volcar_imagen_MSG16="Diske dökülecek görüntü dosyasının yolunu belirtin: "
+volcar_imagen_MSG17="Komut çıktısını bağla:"
+volcar_imagen_MSG18="Görüntünün boşaltılacağı blok cihazını belirtin:"
+volcar_imagen_MSG19="RESİM DÖKÜLMÜŞ"
+volcar_imagen_MSG20="CİHAZDA"
+volcar_imagen_MSG21="çalışıyor"
+volcar_imagen_MSG22="GÖRÜNTÜ DÖKÜMÜ İŞLEMİ TAMAMLANDI"
+
+# volcar_iso
+
+volcar_iso_MSG1="Iso görüntüsünün yazılacağı blok cihazını belirtin:"
+volcar_iso_MSG2="BİLDİRİM"
+volcar_iso_MSG2B="--------"
+volcar_iso_MSG3="Yazılacak blok cihazını belirtin."
+volcar_iso_MSG4="Örnekler: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Bu aygıta ait bir bölümü belirtme"
+volcar_iso_MSG6="Örnekler: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Yazılacak iso-9660 görüntüsünü veya img'yi belirtin:"
+volcar_iso_MSG9="İşlem tamamlandı"
+volcar_iso_MSG10="Iso yazma işleminde hata"
+volcar_iso_MSG11="Resmi yazmak için Blok boyutunu belirtin"
+volcar_iso_MSG12="Yazılacak işletim sistemine göre seçeneği seçin:"
+volcar_iso_MSG13="Cihazda yanıp sönecek ISO-9660 veya önyüklenebilir IMG görüntüsü:"
+volcar_iso_MSG14="Çıkış"
+volcar_iso_MSG15="ISO-9660 GÖRÜNTÜ DOSYASI VEYA IMG"
+volcar_ISO_MSG16="Birime Aktarılacak İŞLETİM SİSTEMİNİ SEÇİN"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Dosya sistemini şununla seçin"
+Formateador_linuxfs_MSG2="cihaz formatlanacak:"
+Formateador_linuxfs_MSG3="Biçimlendirilecek blok cihazını belirtin: "
+Formateador_linuxfs_MSG5="İŞLEM TAMAMLANDI"
+Formateador_linuxfs_MSG6="DİSK BİÇİMLENDİRİCİ"
+Formateador_linuxfs_MSG7="Birim etiketini ayarla"
+Formateador_linuxfs_MSG10="Birim etiketi adını belirtin"
+Formateador_linuxfs_MSG11="Yeni Birim etiketi"
+Formateador_linuxfs_MSG12="Blok boyutunu belirtin"
+Formateador_linuxfs_MSG13="Yeni blok boyutu"
+Formateador_linuxfs_MSG14="Önceki Menü"

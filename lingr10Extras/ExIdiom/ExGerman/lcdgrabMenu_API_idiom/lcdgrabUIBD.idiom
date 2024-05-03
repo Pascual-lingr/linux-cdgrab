@@ -1,0 +1,20 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGerman/lcgdrabMenu_API_idiom/lcdgrabUIBD.idiom
+# Menú de Interfaz para la grabación de BD.
+# Traducción experimental al Alemán, generado con google translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_grabar_BD
+
+menu_grabar_BD_MSG0="Vorheriges Menü."
+menu_grabar_BD_MSG1="AUFNAHME AUF BLU-RAY DISC"
+menu_grabar_BD_MSG2="Brennen Sie eine neue BD-R/BD-RE-ISO aus Festplattendaten"
+menu_grabar_BD_MSG4="ISO/UDF-Image zum Brennen auf Disc."
+menu_grabar_BD_MSG7="ISO-9660/UDF-Image auf BD-R/BD-RE brennen"
+menu_grabar_BD_MSG8="------------------ DB – DATEN -------------------"
+menu_grabar_BD_MSG9="Informationen zur Festplatte anzeigen"
+menu_grabar_BD_MSG10="Wenden Sie die erforderliche Formatierung auf BD-RE an"

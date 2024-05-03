@@ -1,0 +1,32 @@
+# Idioma Georgiano para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="დააჭირეთ ENTER გასაგრძელებლად..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="========================================"
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 LIGHTSCRIBE მხარდაჭერა."
+cabecera_lightscribe_MSG3="========================================"
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="აკრიფეთ გამოსახულების გზა, რომლის დაბეჭდვაც გსურთ დისკზე:"
+imprimir_disco_lightscribe_MSG2="სურათის ფორმატი უნდა იყოს .bmp"
+imprimir_disco_lightscribe_MSG3="გაშვებულია"
+imprimir_disco_lightscribe_MSG4="ლეიბლი დაბეჭდილია დისკზე"
+imprimir_disco_lightscribe_MSG5="შეცდომა დისკზე ლეიბლის ბეჭდვისას"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="LightScribe ტექნოლოგია მხოლოდ ზოგიერთ ერთეულზეა წარმოდგენილი"
+lingr10lightscribepatch_MSG2="თქვენ უნდა შეამოწმოთ აქვს თუ არა ის თქვენს ჩამწერს."
+lingr10lightscribepatch_MSG3="ასევე, მხოლოდ სპეციალური CD ან DVD დისკები შეიძლება დაინიშნოს LightScribe-ისთვის"
+lingr10lightscribepatch_MSG4="LightScribe დისკის ამობეჭდვა"
+lingr10lightscribepatch_MSG5="წინა მენიუ"
+lingr10lightscribepatch_MSG6="არასწორი ვარიანტი"
+

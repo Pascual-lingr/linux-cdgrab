@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExRussian/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Ruso para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="ОПЕРАЦИИ С ДИСКОВЫМ ДИСКОМ"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="------------------------- ВАЖНО -------------------------"
+MenuDispositivosBloque_MSG3="+ Не выполнять операции записи на жесткие диски "
+MenuDispositivosBloque_MSG4="+ о разделах диска, содержащих изображения"
+MenuDispositivosBloque_MSG5="+восстановление, загрузочные разделы или свой"
+MenuDispositivosBloque_MSG6="+ раздел операционной системы."
+MenuDispositivosBloque_MSG7="+ Неправильное использование параметров написания этого меню "
+MenuDispositivosBloque_MSG8="+ может вызвать катастрофу в системе."
+MenuDispositivosBloque_MSG9="+ Используйте с осторожностью. Используйте на свой страх и риск."
+MenuDispositivosBloque_MSG10="------------------- ЗАПИСАТЬ -------------------"
+MenuDispositivosBloque_MSG11="Скопировать файл изображения на диск"
+MenuDispositivosBloque_MSG11B="Скачать образ iso или img (самозагружающийся) на флэш-накопитель или USB-диск"
+MenuDispositivosBloque_MSG11C="Поддерживаются не все системы установки."
+MenuDispositivosBloque_MSG12="Форматировать диск с использованием собственной файловой системы Linux или Windows"
+MenuDispositivosBloque_MSG13="-------------------- ЧТЕНИЕ --------------------"
+MenuDispositivosBloque_MSG14="Создать образ .img с жесткого диска"
+MenuDispositivosBloque_MSG15="Предыдущее меню"
+MenuDispositivosBloque_MSG16="Введите параметр"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------ВАЖНЫЙ------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Форматировать модуль с файловой системой, используемой в устройствах"
+UIFormatearUnidad_linuxfs_MSG2B="+ или разделы диска."
+UIFormatearUnidad_linuxfs_MSG3="+ Эта опция удалит все существующие данные на устройстве"
+UIFormatearUnidad_linuxfs_MSG4="+ Съемные диски, отформатированные с использованием файловой системы"
+UIFormatearUnidad_linuxfs_MSG5="+ Сам Linux будет доступен только в этой операционной системе."
+UIFormatearUnidad_linuxfs_MSG6="+ Используйте с осторожностью, используйте на свой страх и риск."
+UIFormatearUnidad_linuxfs_MSG7="--------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="НАЖМИТЕ КЛАВИШУ C, ЧТОБЫ ПРОДОЛЖИТЬ; (При другом варианте процесс будет отменен)"
+

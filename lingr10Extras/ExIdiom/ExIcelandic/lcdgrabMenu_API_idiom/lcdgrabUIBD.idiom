@@ -1,0 +1,22 @@
+#########################################################
+# lcdgrabAPI_idiom/ExIcelandic/lcgdrabMenu_API_idiom/lcdgrabUIBD.idiom
+# Menu de Interfaz para la grabación de BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_grabar_BD
+
+menu_grabar_BD_MSG0="Fyrri valmynd."
+menu_grabar_BD_MSG1="BLU-RAY DISC UPPTAKA"
+menu_grabar_BD_MSG2="Brenna nýjan BD-R/BD-RE iso af harða disknum"
+menu_grabar_BD_MSG4="ISO/UDF mynd til að brenna á disk."
+menu_grabar_BD_MSG7="Brenna iso-9660/udf mynd á BD-R/BD-RE"
+menu_grabar_BD_MSG8="------------------------ BD - GÖGN --------------------"
+menu_grabar_BD_MSG9="Sýna upplýsingar um drifsdisk"
+menu_grabar_BD_MSG10="Beita nauðsynlegri eyðingu á BD-RE"
+
+

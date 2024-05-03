@@ -1,0 +1,21 @@
+українська
+
+Ucraniano, Ukrainian.
+Experimental.
+
+Por estudio del comportamiento de caracteres Ucranianos en el shell.
+Contiene errores de significado en contexto u ortográficos.
+Generado con Google Translate.
+El shell debe tener configurado el soporte para caracteres Ucranianos
+de lo contrario esta traducción no será funcional en el shell.
+
+By study of the behavior of Ukrainian characters in the shell.
+Contains errors in meaning in context or spelling.
+Generated with Google Translate.
+The shell must have support for Ukrainian characters configured
+otherwise this translation will not be functional in the shell.
+
+Українська мова для linux-cdgrab.
+Експериментальний, створений за допомогою Google Translate.
+Pascual Martínez Cruz; pascual@hotmail.com
+

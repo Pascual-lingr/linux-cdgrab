@@ -1,0 +1,234 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en húngaro para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="KÉPFÁJL RENDSZER"
+imagen_linux_fs_MSG2="Válassza ki a fájlrendszert: "
+imagen_linux_fs_MSG3="Kép létrehozása CD-R/RW lemezhez (702 Mbyte)"
+imagen_linux_fs_MSG4="Kép létrehozása DVD+RW lemezhez (4 Gbyte)"
+imagen_linux_fs_MSG5="Kép létrehozása DVD+RW/DL lemezhez (8 Gbyte)"
+imagen_linux_fs_MSG5B="Kép létrehozása BD-R/RE-hez (25 Gbyte)"
+imagen_linux_fs_MSG5C="Egyedi méretű képfájl létrehozása"
+imagen_linux_fs_MSG6="Üres fájl létrehozása 702 Mbyte kapacitással"
+imagen_linux_fs_MSG7="Üres fájl létrehozása 4 Gbyte kapacitással"
+imagen_linux_fs_MSG8="Üres fájl létrehozása 8 Gbyte kapacitással"
+imagen_linux_fs_MSG8B="Üres fájl létrehozása 25 Gbyte kapacitással"
+imagen_linux_fs_MSG8C="Üres fájl létrehozása egyéni mérettel"
+imagen_linux_fs_MSG9="HIBA: A KÉP MÉRETE NEM ISMERT. MEGSZAKÍTÁS..."
+imagen_linux_fs_MSG10="Futás"
+imagen_linux_fs_MSG11="A program formázza az üres fájlt."
+imagen_linux_fs_MSG12="A rendszer figyelmezteti, hogy a korábban létrehozott fájl nem blokkeszköz, és megkérdezi, hogy szeretné-e formázni"
+imagen_linux_fs_MSG13="Igen a válasz"
+imagen_linux_fs_MSG13="SIKERES FORMÁZÁS"
+imagen_linux_fs_MSG14=" Szerelési kép..."
+imagen_linux_fs_MSG15="HIBA ÜRES FÁJL FORMÁZÁSÁNAK"
+imagen_linux_fs_MSG16="A program felcsatolta a következőre formázott fájlt"
+imagen_linux_fs_MSG17="A Linux-cdgrab elindítja a fájlkezelőt, hogy működni tudjon a rácsatolt képen"
+imagen_linux_fs_MSG18="A fájlok másolása után válassza le a formázott fájlt"
+imagen_linux_fs_MSG19="A linux kép ebben a könyvtárban van"
+imagen_linux_fs_MSG19B="HIBA A KÉPFÁJL CSATLAKOZTATÁSÁN"
+imagen_linux_fs_MSG20="A képbe belefoglalandó fájlok. A /mnt/lcdgrab könyvtárba csatolva"
+imagen_linux_fs_MSG21="A fájlkezelő indítása..."
+imagen_linux_fs_MSG22="FIGYELMEZTETÉS:"
+imagen_linux_fs_MSG23="---------------"
+imagen_linux_fs_MSG24="A kép"
+imagen_linux_fs_MSG25="még fel van szerelve"
+imagen_linux_fs_MSG26="HIBA AZ ÜRES FÁJL LÉTREHOZÁSÁNAK dd-vel"
+imagen_linux_fs_MSG27="Ellenőrizze, hogy van-e szabad hely a / ide csatolt partíción"
+imagen_linux_fs_MSG34="FÁJLRENDSZER FÁJLFORMÁZÁSHOZ"
+imagen_linux_fs_MSG35="ÜRES FÁJL LÉTREHOZÁSA EGYEDI MÉRETTEL"
+imagen_linux_fs_MSG36="Adja meg az új üres fájl blokkméretét (csak numerikus érték):"
+imagen_linux_fs_MSG37="Példa a blokkméret értékeire: 1024, 2048 (csak Ext2) vagy 4096 (minden formátum)"
+imagen_linux_fs_MSG38="Adja meg a generálandó üres fájl méretét (csak numerikus érték):"
+imagen_linux_fs_MSG39="Térmérések az üres fájl létrehozásához:"
+imagen_linux_fs_MSG40="Adja meg a használandó térméretet: "
+imagen_linux_fs_MSG41="HIBA A MÉRET MÉRÉSÉNEK MEGHATÁROZÁSÁVAL"
+imagen_linux_fs_MSG42="Blokkméret értéke:"
+imagen_linux_fs_MSG43="Üres fájl helyének mennyisége:"
+imagen_linux_fs_MSG44="Számított érték bájtban:"
+imagen_linux_fs_MSG45="A számlálás számított értéke:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="md5 olvasás engedélyezése .iso képek generálásakor"
+comprobar_lectura_md5_MSG2="md5 olvasás letiltása .iso képek generálásakor"
+comprobar_lectura_md5_MSG3="Előző menü"
+comprobar_lectura_md5_MSG4="Jelenlegi konfiguráció:"
+comprobar_lectura_md5_MSG5="Engedélyezve"
+comprobar_lectura_md5_MSG6="Letiltva"
+comprobar_lectura_md5_MSG7="Md5 összeg olvasása aktiválva"
+comprobar_lectura_md5_MSG8="Md5 összeg olvasása letiltva"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Az iso kép neve nem olvasható"
+leer_md5sum_MSG2="Md5sum olvasása"
+leer_md5sum_MSG3="A kép md5 összegének megjelenítése"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="CD KÉP LÉTREHOZÁSA"
+extraer_isoCD_dd_MSG2="KÉP LÉTREHOZOTT"
+extraer_isoCD_dd_MSG3="Nem található"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="DVD-KÉP LÉTREHOZÁSA"
+extraer_isoDVD_dd_MSG2="fut"
+extraer_isoDVD_dd_MSG3="KÉP LÉTREHOZOTT"
+extraer_isoDVD_dd_MSG4="Nem található"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="futás"
+extraer_iso_readcd_MSG2="A KÉP SIKERTELEN LÉTREHOZOTT"
+extraer_iso_readcd_MSG3="A kép létrehozása itt:"
+extraer_iso_readcd_MSG4="A rögzítési folyamat megszakítása..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Megcsatolt CD"
+extraer_iso_mkisofs_MSG2="Kép létrehozása..."
+extraer_iso_mkisofs_MSG3="Macintosh-kompatibilitás engedélyezve"
+extraer_iso_mkisofs_MSG4="Használat"
+extraer_iso_mkisofs_MSG5="futás"
+extraer_iso_mkisofs_MSG6="Kép létrehozva a könyvtárban"
+extraer_iso_mkisofs_MSG7="A folyamat újrapróbálása Macintosh támogatás nélkül"
+extraer_iso_mkisofs_MSG8="Kép létrehozva a könyvtárban"
+extraer_iso_mkisofs_MSG9="mkisofs ismeretlen hibákat ad vissza létrehozáskor"
+extraer_iso_mkisofs_MSG10="from"
+extraer_iso_mkisofs_MSG11="Adatok integritásának ellenőrzése"
+extraer_iso_mkisofs_MSG12="Felszerelés"
+extraer_iso_mkisofs_MSG12B="hu"
+extraer_iso_mkisofs_MSG13="a genisoimage ismeretlen hibákat ad vissza létrehozáskor"
+extraer_iso_mkisofs_MSG13B="from"
+extraer_iso_mkisofs_MSG14="Mkisofs és genisoimage nem található. Kérjük, telepítse a cdrtools-t vagy a cdrkit-et."
+extraer_iso_mkisofs_MSG15="Nem sikerült csatlakoztatni"
+extraer_iso_mkisofs_MSG16="A kép sikeresen létrehozva itt:"
+
+# m_comp_img
+
+m_comp_img_MSG1="A KÉP SIKERESEN LÉTREHOZOTT"
+m_comp_img_MSG2="SZERESZ TÖMÖRNI A KÉPFÁJLOT?"
+m_comp_img_MSG3="(s/y) a tömörítéshez; A folyamat egy másik opcióval megszakad."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="A fájlkezelő indítása..."
+generar_iso_directorio_MSG2="Adja meg a jövőbeli CD/DVD/BD nevét"
+generar_iso_directorio_MSG3="KÉP LÉTREHOZÁSA..."
+generar_iso_directorio_MSG4="Macintosh-kompatibilitás engedélyezve"
+generar_iso_directorio_MSG5="Használat"
+generar_iso_directorio_MSG6="fut"
+generar_iso_directorio_MSG7="A KÖNYVTÁRBAN LÉTREHOZOTT KÉP"
+generar_iso_directorio_MSG8="A KÉP LÉTREHOZÁSI FOLYAMAT SIKERTELEN"
+generar_iso_directorio_MSG9="KÉP LÉTREHOZÁSA MACINTOSH KOMPATIBILITÁS NÉLKÜL"
+generar_iso_directorio_MSG10="mkisofs és genisoimage nem található. Kérjük, telepítse a cdrtools-t vagy a cdrkit-et."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Adja meg a jövőbeli DVD/BD nevét"
+generar_bdv_udf_directorio_MSG2="Adja meg a könyvtárat a videokép létrehozásához:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Adja meg a lemezcímkét:"
+generar_iso_directorio_libburnia_MSG2="Adja meg a könyvtárat az iso-9660 kép létrehozásához:"
+generar_iso_directorio_libburnia_MSG3="Az ISO9660 kép sikeresen létrehozva!!"
+generar_iso_directorio_libburnia_MSG4="Hiba az iso-9660 kép generálásakor xorrisóval"
+
+# imagenISO
+
+imagenISO_MSG1="Fájlok és könyvtárak, amelyeket bele kell foglalni az .iso képbe"
+imagenISO_MSG2="KIVÁLASZTÁS EGY OPCIÓT"
+imagenISO_MSG2B="----------------------"
+imagenISO_MSG3="ISO-9660 kép létrehozása CD-ről (dd használata)"
+imagenISO_MSG4="ISO-9660 kép létrehozása DVD-ről (dd használata)"
+imagenISO_MSG5="ISO-9660 kép létrehozása CD-ről (readcd használata)"
+imagenISO_MSG6="ISO-9660 kép létrehozása CD-ről vagy DVD-lemezről (mkisofs használata)"
+imagenISO_MSG7="ISO-9660 kép létrehozása merevlemez adataiból (mkisofs használata)"
+imagenISO_MSG8="Előző menü"
+imagenISO_MSG9="KÉP LÉTREHOZÁSA"
+imagenISO_MSG10="ISO-9660 kép létrehozása merevlemez adataiból (xorriso használata)"
+imagenISO_MSG11="Iso/udf kép létrehozása CD-ről/DVD-ről/BD-ről (mkisofs használata)"
+imagenISO_MSG12="Iso/udf kép létrehozása merevlemez adataiból (mkisofs használata)"
+imagenISO_MSG13="ISO-9660 FORMÁZÁSI MENÜ"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="UDF/ISO kép létrehozása merevlemez adataiból (mkisofs használata)"
+imagenISO_MSG15="UDF/ISO kép létrehozása DVD Video támogatással (mkisofs használata)"
+
+# imagen_img
+
+imagen_img_MSG1="Írja be azt a forrásblokk-eszközt, amelyről a képet el szeretné készíteni"
+imagen_img_MSG2="-------------------------------------------------------------------------"
+imagen_img_MSG3="Az /etc/fstab és /etc/mtab könyvtárban regisztrált eszközök"
+imagen_img_MSG4="Parancs kimenet csatlakoztatása:"
+imagen_img_MSG5="Írja be az eszköz nevét: "
+imagen_img_MSG6=".img kép létrehozása a blokkeszközről"
+imagen_img_MSG7="futás"
+imagen_img_MSG8="KÉSZÜLÉK KÉPE LÉTREHOZOTT"
+
+# monta_img
+
+monta_img_MSG1="ISO vagy ext2 kép a csatlakoztatáshoz."
+monta_img_MSG2="Írja be a könyvtár elérési útját, ahol a beillesztendő kép található:"
+monta_img_MSG3="FELSZERELT CD KÉP:"
+monta_img_MSG4="HIBA A KÉPFÁJL CSATLAKOZTATAKOR"
+monta_img_MSG5="NEM TALÁLHATÓ"
+monta_img_MSG6="A MOUNT PONT NEM LÉTEZIK"
+monta_img_MSG7="VÁRATLAN HIBA"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO vagy ext2 kép a leválasztáshoz."
+desmonta_img_MSG2="SZOLGÁLT KÉP"
+desmonta_img_MSG3="Nem található csatolt kép"
+desmonta_img_MSG4="Kimenet csatlakoztatása:"
+desmonta_img_MSG5="Közvetlenül megadhatja egy kép abszolút könyvtárútvonalát."
+desmonta_img_MSG6="Például /tmp/lcdgrabimg.iso vagy a kép beillesztési könyvtára, például /mnt/lcdgrab"
+desmonta_img_MSG7="Ha nincs megadva, akkor a fájlkezelővel lehet keresni"
+desmonta_img_MSG8="Fájlkezelő indítása"
+desmonta_img_MSG9="Adja meg a kép elérési útját."
+desmonta_img_MSG10="SZEDTETT KÉP"
+desmonta_img_MSG11="HIBA A KÉP KISZERELÉSE ESETÉN"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg kép .iso formátumba konvertálandó"
+nrg_a_iso_MSG2="Adja meg a konvertálandó .nrg (Nero Burning ROM) kép elérési útját"
+nrg_a_iso_MSG3="Kép konvertálása..."
+nrg_a_iso_MSG4="A forrás .nrg kép elérési útja"
+nrg_a_iso_MSG5="nem létezik vagy egy könyvtárnak felel meg"
+nrg_a_iso_MSG6="Érvénytelen elérési út."
+nrg_a_iso_MSG7="ez már egy korábbi ISO-9660 kép, nem lesz konvertálva."
+nrg_a_iso_MSG8="Másolás más kiterjesztéssel..."
+nrg_a_iso_MSG9="MÁSOLÁS KÉSZ"
+nrg_a_iso_MSG10="futás"
+nrg_a_iso_MSG11="A kép sikeresen konvertálva"
+nrg_a_iso_MSG12="HIBA KÉP LÉTREHOZÁSÁNAK .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1=".cue leíró fájl létrehozása .bin képből"
+GenerarArchivocue_MSG2="Jelenlegi aktív könyvtár"
+GenerarArchivocue_MSG3="Csak a könyvtár elérési útját írja be, ahol"
+GenerarArchivocue_MSG4="keresse meg a képfájlt:"
+GenerarArchivocue_MSG5="Írja be a .bin kép nevét, amelyhez"
+GenerarArchivocue_MSG6="létrehozta a megfelelő .cue fájlt"
+GenerarArchivocue_MSG7="LEÍRÁS FÁJL .cue SIKERTELEN LÉTREHOZOTT"
+GenerarArchivocue_MSG8="HIBA A .cue LEÍRÁSI FÁJL LÉTREHOZÁSAkor"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="futás"
+ImagenbincueCDDVD_MSG2=".BIN .CUE LEMEZ KÉP SIKERESEN LÉTREHOZOTT"
+

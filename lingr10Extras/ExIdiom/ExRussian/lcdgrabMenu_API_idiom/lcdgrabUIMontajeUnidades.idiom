@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRussian/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Ruso para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generada con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="УСТРОЙСТВА, УСТАНОВЛЕННЫЕ В СЕЙЧАС В СИСТЕМЕ"
+montar_dispositivos_MSG1B="СБОРКА/РАЗБОРКА УСТРОЙСТВ"
+montar_dispositivos_MSG2="---ОПЦИИ LINUX-CDGRAB---"
+montar_dispositivos_MSG3="Извлечь диск из устройства чтения CD/DVD/BD"
+montar_dispositivos_MSG4="Извлечь диск из устройства записи CD/DVD/BD"
+montar_dispositivos_MSG5="Подключить устройство чтения CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG6="Отключить CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Установить или демонтировать устройство вручную"
+montar_dispositivos_MSG0="Предыдущее меню"
+montar_dispositivos_MSG8="CD/DVD/BD установлен"
+montar_dispositivos_MSG9="НАЖМИТЕ ВВОД, ЧТОБЫ ПРОДОЛЖИТЬ..."
+montar_dispositivos_MSG10="Ошибка монтирования CD/DVD/BD"
+montar_dispositivos_MSG11="CD/DVD/BD отключен"
+montar_dispositivos_MSG12="Ошибка при отключении CD/DVD/BD"
+montar_dispositivos_MSG13="Введите устройство для монтирования/отключения:"
+montar_dispositivos_MSG14="Введите точку монтирования:"
+montar_dispositivos_MSG15="не соответствует блочному устройству"
+montar_dispositivos_MSG16="Точка монтирования не найдена"
+montar_dispositivos_MSG17="Точка монтирования по умолчанию"
+montar_dispositivos_MSG18="Выберите вариант:"
+montar_dispositivos_MSG19="Смонтировать"
+montar_dispositivos_MSG20="ru"
+montar_dispositivos_MSG21="Отключить"
+montar_dispositivos_MSG22="де"
+montar_dispositivos_MSG23="установлен на:"
+montar_dispositivos_MSG24="ОШИБКА ПРИ МОНТАЖЕ"
+montar_dispositivos_MSG25="RU"
+montar_dispositivos_MSG26="отключено от"
+montar_dispositivos_MSG27="ОШИБКА ПРИ ОТСОЕДИНЕНИИ"
+montar_dispositivos_MSG28="де"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Вывод команды монтирования"
+Montar_Imagenes_MSG1B="СБОРКА/РАЗБОРКА ФАЙЛОВ ИЗОБРАЖЕНИЙ"
+Montar_Imagenes_MSG2="Выберите вариант"
+Montar_Imagenes_MSG3="Монтировать образ CD/DVD/BD"
+Montar_Imagenes_MSG4="Отключить образ CD/DVD/BD"
+Montar_Imagenes_MSG5="Предыдущее меню"
+

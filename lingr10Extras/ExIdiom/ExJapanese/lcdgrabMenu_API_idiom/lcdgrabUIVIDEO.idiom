@@ -1,0 +1,23 @@
+#########################################################
+# lcdgrabAPI_idiom/ExJapanese/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Traducción experimental al japonés del menú de conversión de video.
+# Generado con google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="ビデオ変換"
+menu_conversion_video_MSG2="------------ フォーマット間の変換 ---------------"
+menu_conversion_video_MSG3=".mp3 を .wav に変換"
+menu_conversion_video_MSG4="変換するビデオ ファイル:"
+menu_conversion_video_MSG0="前のメニュー"
+menu_conversion_video_MSG6="デスクトップセッションを記録する"
+menu_conversion_video_MSG7="ビデオ ファイルを別の形式に変換する"
+menu_conversion_video_MSG8="----------------- その他のオプション ----------------"
+menu_conversion_video_MSG9="ビデオ ファイルとオーディオ ファイルをミックスする"
+menu_conversion_video_MSG10="ビデオ ファイルから MP3 オーディオを抽出"
+menu_conversion_video_MSG11="ビデオ ファイルをトリミング"

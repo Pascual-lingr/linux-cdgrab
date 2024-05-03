@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en vietnamita para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="CHUYỂN ĐỔI ÂM THANH"
+menu_conversion_audio_MSG2="----------- CHUYỂN ĐỔI GIỮA CÁC ĐỊNH DẠNG -----------"
+menu_conversion_audio_MSG3="Chuyển đổi .mp3 sang .wav"
+menu_conversion_audio_MSG4="Chuyển đổi .ogg sang .wav"
+menu_conversion_audio_MSG5="Chuyển đổi .wav sang .mp3"
+menu_conversion_audio_MSG6="Chuyển đổi .wav sang .ogg"
+menu_conversion_audio_MSG6C="Chuyển đổi .wav sang .flac"
+menu_conversion_audio_MSG6B="Chuyển đổi .flac sang .wav"
+menu_conversion_audio_MSG7="---------- TRÍCH DẪN ÂM THANH ---------"
+menu_conversion_audio_MSG8="Rip CD âm thanh sang .wav"
+menu_conversion_audio_MSG9="Rip một tập hợp các bản âm thanh sang .wav"
+menu_conversion_audio_MSG10="Rip CD âm thanh sang .mp3"
+menu_conversion_audio_MSG11="Rip CD âm thanh sang .ogg"
+menu_conversion_audio_MSG0="Trình đơn trước"
+menu_conversion_audio_MSG12="Tìm kiếm tệp .mp3"
+menu_conversion_audio_MSG13="Tìm kiếm tệp .ogg"
+menu_conversion_audio_MSG14="Tìm kiếm tập tin .wav"
+menu_conversion_audio_MSG15="---------------- CÁC HOẠT ĐỘNG KHÁC ---------------"
+menu_conversion_audio_MSG16="Cắt tệp âm thanh .wav"
+menu_conversion_audio_MSG17="Rip CD âm thanh sang .flac"
+
+

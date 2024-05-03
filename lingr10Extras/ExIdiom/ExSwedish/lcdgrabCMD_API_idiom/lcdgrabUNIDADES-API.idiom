@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwedish/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en sueco para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Sökväg för .img- eller .ext2-avbildning som ska dumpas till disk."
+volcar_imagen_MSG2="-----------------------VIKTIG----------------------------" 
+volcar_imagen_MSG3="+ Det här alternativet fungerar inte på optiska skivor."
+volcar_imagen_MSG4="+ Använd på pennenheter, disketter, diskpartitioner, etc."
+volcar_imagen_MSG5="+ Hänsyn med hårddiskar:"
+volcar_imagen_MSG6="+ Bilden är skriven med dd från början"
+volcar_imagen_MSG7=" från den angivna disken, användning av ett nummer är inte tillåtet"
+volcar_imagen_MSG8="specifik sektor för att starta skrivprocessen"
+volcar_imagen_MSG9="+ Använd med försiktighet. Använd på egen risk."
+volcar_imagen_MSG10="+ Diskpartitioner kan bli oanvändbara."
+volcar_imagen_MSG11="+ Det rekommenderas inte att använda det på system med flera partitioner."
+volcar_imagen_MSG12="Återställningen kan lämna partitionstabellen och"
+volcar_imagen_MSG13="onyttiga partitioner i sig."
+volcar_imagen_MSG14="--------------------------------------------------------"
+volcar_imagen_MSG15="TRYCK PÅ C-KNAPPEN FÖR ATT FORTSÄTTA; (Processen kommer att avbrytas i ett annat alternativ)"
+volcar_imagen_MSG16="Ange sökvägen till bildfilen som ska dumpas till disk: "
+volcar_imagen_MSG17="Monteringskommandoutgång:"
+volcar_imagen_MSG18="Ange blockeringsenheten där bilden ska dumpas:"
+volcar_imagen_MSG19="DUMPAR BILD"
+volcar_imagen_MSG20="PÅ ENHETEN"
+volcar_imagen_MSG21="kör"
+volcar_imagen_MSG22="BILDDUMPPROCESS SLUTAD"
+
+# volcar_iso
+
+volcar_iso_MSG1="Ange blockeringsenheten att skriva iso-bilden till:"
+volcar_iso_MSG2="VARNING"
+volcar_iso_MSG2B="-------"
+volcar_iso_MSG3="Ange blockeringsenhet att skriva till."
+volcar_iso_MSG4="Exempel: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Ange inte en partition som tillhör den här enheten"
+volcar_iso_MSG6="Exempel: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Ange ISO-9660-bilden eller img att skriva:"
+volcar_iso_MSG9="Processen slutförd"
+volcar_iso_MSG10="Fel i iso-skrivprocessen"
+volcar_iso_MSG11="Ange blockstorlek för att skriva bilden"
+volcar_iso_MSG12="Välj alternativ enligt operativsystem för att skriva:"
+volcar_iso_MSG13="ISO-9660 eller startbar IMG-bild att blinka på enheten:"
+volcar_iso_MSG14="Avsluta"
+volcar_iso_MSG15="ISO-9660 ELLER IMG-BILDFIL"
+volcar_ISO_MSG16="VÄLJ OPERATIVSYSTEM FÖR ATT dumpa I ENHET"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Välj filsystemet med"
+Formateador_linuxfs_MSG2="enheten kommer att formateras:"
+Formateador_linuxfs_MSG3="Ange blockeringsenheten som ska formateras: "
+Formateador_linuxfs_MSG5="PROCESSEN SLUTAD"
+Formateador_linuxfs_MSG6="DISKFORMATERARE"
+Formateador_linuxfs_MSG7="Ställ in volymetikett"
+Formateador_linuxfs_MSG10="Ange volymetikettens namn"
+Formateador_linuxfs_MSG11="Ny volymetikett"
+Formateador_linuxfs_MSG12="Ange blockstorlek"
+Formateador_linuxfs_MSG13="Ny blockstorlek"
+Formateador_linuxfs_MSG14="Föregående meny"
+

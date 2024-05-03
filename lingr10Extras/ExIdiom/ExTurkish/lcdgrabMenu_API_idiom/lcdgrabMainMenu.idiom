@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTurkish/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Turco, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab vi metin düzenleyicisini bulamıyor"
+ayuda_MSG2="Sisteminizde yüklü olan metin düzenleyicinin adını girin"
+ayuda_MSG3="YÜKLÜ DÜZENLEYİCİ BULUNAMADI"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="LINUX-CDGRAB 1.0 tarafından otomatik olarak oluşturulan dosya"
+creacion_de_mnt_MSG2="Bu dosya dizinle birlikte"
+creacion_de_mnt_MSG3="otomatik olarak oluşturuldu"
+creacion_de_mnt_MSG4="Linux-cdgrab uygulaması tarafından Linux dağıtımınızda bulunmadığı doğrulanırken"
+creacion_de_mnt_MSG5="dizin"
+creacion_de_mnt_MSG6="Linux-cdgrab, CD-ROM/DVD-ROM/BD-ROM sürücüsünü bağlamak için bu dizini kullanır"
+creacion_de_mnt_MSG7="Dizin"
+creacion_de_mnt_MSG8="Linux-cdgrab genellikle kaldırıldığı için silinmeyecektir"
+creacion_de_mnt_MSG9="Çoğu Linux dağıtımında /dev/cdrom için varsayılan bağlama noktası."
+creacion_de_mnt_MSG10="Dağıtımınız /dev/cdrom aygıtını bağlamak için başka bir dizin kullanıyorsa,"
+creacion_de_mnt_MSG11="Cihazınızdaki verilere erişmeye çalışırken herhangi bir uyumsuzluk yaratmayacaktır"
+creacion_de_mnt_MSG12="Linux-cdgrab kaldırılmış olsa da, onsuz da yapabilirsiniz"
+creacion_de_mnt_MSG13="Bu dosyanın amacı yalnızca bilgilendirme amaçlıdır, dosyayı okuduktan sonra dilediğinizce silebilirsiniz."
+
+# creditos
+
+creditos_MSG1="GPL v2 lisansı altında dağıtın"
+creditos_MSG2="Daha fazla bilgi www.gnu.org'da"
+creditos_MSG3="Pascual Martínez Cruz, yaratıcı ve bakımcı"
+creditos_MSG4="Hata raporu: pascual89@hotmail.com"
+creditos_MSG5="Program web sitesi: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Dayalı LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Doluyor"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SÖZ DİZİMİ"
+lcdgrab_sintaxis_MSG2="Bu yardımı yazdır"
+lcdgrab_sintaxis_MSG3="Linux sürümünü yazdır-cdgrab"
+lcdgrab_sintaxis_MSG4="IDE kanalını veya kayıt cihazını belirtir"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="kayıt hızını belirtir"
+lcdgrab_sintaxis_MSG7="CD-ROM/DVD-ROM/BD-ROM sürücüsünü belirtir"
+lcdgrab_sintaxis_MSG8="kaydedicinin IDE ATAPI kanalını belirtir"
+lcdgrab_sintaxis_MSG9="-G -V -L ve -CA seçenekleri birbirini ifade eder."
+lcdgrab_sintaxis_MSG9B="-iut -ium -iug ve -iuk seçenekleri birbirinden bağımsızdır"
+lcdgrab_sintaxis_MSG9C="-G -V -L ve -CA'yı tamamlar ve -h ile -v arasında bağımsızdır"
+lcdgrab_sintaxis_MSG10="-h ve -v seçenekleri birbirinden ve diğerlerinden bağımsızdır."
+lcdgrab_sintaxis_MSG11="Örnekler:"
+lcdgrab_sintaxis_MSG12="aygıt"
+lcdgrab_sintaxis_MSG13="sayı"
+lcdgrab_sintaxis_MSG14="metin arayüzü"
+lcdgrab_sintaxis_MSG15="ncurses ile arayüz"
+lcdgrab_sintaxis_MSG16="GTK ile grafiksel arayüz"
+lcdgrab_sintaxis_MSG17="Qt ile grafiksel arayüz"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Komut dosyasının yolunu girin:"
+main_lcdgrabopdep_MSG2="Geçersiz yol"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Yüklü yamalar:"
+main_lcdgrabopdeppatch_MSG2="Yama yolunu girin:"
+main_lcdgrabopdeppatch_MSG3="Bulunamadı"
+
+# menu principal dialog
+main_lcdgrabop9uidia="EK BİR YAMA YÜKLEYİN"
+
+# menu principal texto
+
+main_lcdgrabop1_text="CD'YE KAYIT\t\t\t\t="
+main_lcdgrabop2_text="DVD KAYDI\t\t\t\t="
+main_lcdgrabop3_text="BD'YE KAYIT\t\t\t\t="
+main_lcdgrabop4_text="DİSK SÜRÜCÜ İŞLEMLERİ\t\t\t="
+main_lcdgrabop5_text="GÖRÜNTÜ OLUŞTURMA\t\t\t="
+main_lcdgrabop6_text="SES DÖNÜŞÜMÜ\t\t\t\t="
+main_lcdgrabop6b_text="VİDEO DÖNÜŞTÜRME\t\t\t\t="
+main_lcdgrabop7_text="CD/DVD/BD'Yİ TAKIN VEYA ÇIKARIN\t\t="
+main_lcdgrabop8_text="GÖRÜNTÜYÜ TAK VEYA ÇIKAR\t\t\t="
+main_lcdgrabop9_text="EK BİR YAMA YÜKLEYİN\t\t\t="
+main_lcdgrabop10_text="KONTROL MERKEZİ\t\t\t\t="
+main_lcdgrabop0_text="DIŞARI ÇIKMAK\t\t\t\t="
+main_lcdgrabet1_text="DİĞER SEÇENEKLER ##\t\t="
+main_lcdgrabopEe_text="Diski sürücüden çıkar\t\t="
+main_lcdgrabopTD_text="Dizini göster"
+tabs="\t\t\t="
+main_lcdgrabopG_text="Dosya yöneticisi\t\t\t="
+main_lcdgrabopH_text="Yardım\t\t\t\t="
+main_lcdgrabopA_text="Hakkında\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="CD'YE KAYIT"
+main_lcdgrabop2="DVD KAYDI"
+main_lcdgrabop3="BD'YE KAYIT"
+main_lcdgrabop4="DİSK SÜRÜCÜ İŞLEMLERİ"
+main_lcdgrabop5="GÖRÜNTÜ OLUŞTURMA"
+main_lcdgrabop6="SES DÖNÜŞÜMÜ"
+main_lcdgrabop6b="VİDEO DÖNÜŞTÜRME"
+main_lcdgrabop7="CD/DVD/BD'Yİ TAKIN VEYA ÇIKARIN"
+main_lcdgrabop8="GÖRÜNTÜYÜ TAK VEYA ÇIKAR"
+main_lcdgrabop9="EK BİR YAMA YÜKLEYİN"
+main_lcdgrabop10="KONTROL MERKEZİ"
+main_lcdgrabop0="DIŞARI ÇIKMAK"
+main_lcdgrabet1="DİĞER SEÇENEKLER ##"
+main_lcdgrabopEe="Diski sürücüden çıkar"
+main_lcdgrabopTD="Dizini göster"
+main_lcdgrabopG="Dosya yöneticisi"
+main_lcdgrabopH="Yardım"
+main_lcdgrabopA="Hakkında"
+main_lcdgrabopPRINCIPAL="Bir seçenek girin:"
+MSG1_MAIN="H'nin seçilmesi seçeneklerin kullanımını gösterir."
+main_lcdgrabopA_MSG1="Çalışıyor:"
+

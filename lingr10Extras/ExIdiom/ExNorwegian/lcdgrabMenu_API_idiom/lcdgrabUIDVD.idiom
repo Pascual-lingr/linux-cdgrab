@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExNorwegian/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Velg brukergrensesnittet som skal brukes:"
+SeleccionaIUDVD_MSG2="Bruk grensesnittet for dvd+-rw-verktøy"
+SeleccionaIUDVD_MSG3="Bruk grensesnittet for Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Bruk grensesnittet for libburnia"
+SeleccionaIUDVD_MSG5="Forrige meny"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="OPPTAK TIL DVD"
+menugrabar_dvd_MSG2="----------------- DVD - DATA ------------------"
+menugrabar_dvd_MSG3="Kopier en ISO-9660 data-DVD"
+menugrabar_dvd_MSG4="Opprett et tidligere DVD-bilde på harddisken"
+menugrabar_dvd_MSG5="Brenn en ny ISO-9660 data-DVD"
+menugrabar_dvd_MSG6="Legg til ny dataøkt til ISO-9660 data-DVD (flerøkts-DVD)"
+menugrabar_dvd_MSG7="Krever en DVD som er spilt inn tidligere med det andre alternativet"
+menugrabar_dvd_MSG8="Brenn et ISO-9660 databilde til DVD"
+menugrabar_dvd_MSG9="Brenn et .ext2-bilde til DVD"
+menugrabar_dvd_MSG10="---------------- DVD - VIDEO ------------------"
+menugrabar_dvd_MSG11="Brenn en ny DVD-video"
+menugrabar_dvd_MSG12="------------ ANDRE ALTERNATIVER ---------------"
+menugrabar_dvd_MSG13="Formater en DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Vis DVD-plateinformasjon"
+menugrabar_dvd_MSG0="Forrige meny"
+menugrabar_dvd_MSGPRINCIPAL="Skriv inn et alternativ"
+menugrabar_dvd_MSG15="Filer og kataloger som skal inkluderes på DVDen"
+menugrabar_dvd_MSG16="Starter filbehandleren..."
+menugrabar_dvd_MSG17=".iso-bilde for å brenne til DVD"
+menugrabar_dvd_MSG18="Skriv inn katalogbanen der .iso-bildet du vil brenne er plassert"
+menugrabar_dvd_MSG19="Krever versjon av cdrecord med DVD-støtte."
+menugrabar_dvd_MSG20="Opptaket av .ext2-bildet på DVD vil gjøres med cdrecord."
+menugrabar_dvd_MSG21="Cdrecord-versjonen som finnes i installasjonen din skal"
+menugrabar_dvd_MSG22="støtte DVD-opptak."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="VELG ET ALTERNATIV"
+dvd_clonar_MSG2="-------- PLATEKOPIER MED FORHÅNDSBILDE --------"
+dvd_clonar_MSG3="Kopier en data-DVD"
+dvd_clonar_MSG4="Opprett et tidligere DVD-bilde på harddisken"
+dvd_clonar_MSG5="------------- PLATEKOPIER PÅ FLYTET -----------"
+dvd_clonar_MSG6="Kopier en data-DVD på farten"
+dvd_clonar_MSG7="Klon en data-DVD på farten"
+dvd_clonar_MSG8="FLYGENDE KOPIALTERNATIVER KREVER TO OPTISKE ENHETER"
+dvd_clonar_MSG9="INSTALLERT PÅ DIN DATAMASKIN, SIDEN DATAENE ER REGISTRERT MENS"
+dvd_clonar_MSG10="LES DIREKTE FRA ORIGIN-DISKEN, HVIS DET BARE DIN DATAMASKIN HAR DET"
+dvd_clonar_MSG11="DU VIL IKKE KUNNE BRUKE KOPIENE PÅ FLYET."
+dvd_clonar_MSG0="Forrige meny"
+dvd_clonar_MSG12="DVD DATAKOPI"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="OPPTAK TIL DVD"
+menugrabar_DVD_MSG2="------------------ DVD - DATA -------------------"
+menugrabar_DVD_MSG3="Rip data-DVD"
+menugrabar_DVD_MSG4="Brenn en ny data-DVD"
+menugrabar_DVD_MSG5="Brenn .iso- eller .ext2-bilde til DVD"
+menugrabar_DVD_MSG6="Formater DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Vis plateinformasjon i stasjonen"
+menugrabar_DVD_MSG0="Forrige meny"
+menugrabar_DVD_MSGPRINCIPAL="Skriv inn et alternativ"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Brenn iso-9660-bilde til DVD"
+menugrabar_DVD_libburnia_MSG2="Brenn data fra harddisk til DVD"
+menugrabar_DVD_libburnia_MSG3="Formater DVD"
+menugrabar_DVD_libburnia_MSG4="Formater DVD-RW til sekvensiell inkrementell"
+menugrabar_DVD_libburnia_MSG5="Formater DVD-RW til begrenset overskriving"
+menugrabar_DVD_libburnia_MSG6="Vis stasjonsinformasjon"
+menugrabar_DVD_libburnia_MSG8="Vis stasjoner installert i systemet"
+menugrabar_DVD_libburnia_MSG0="Avslutt"
+menugrabar_DVD_libburnia_MSG7="Skriv inn et alternativ"
+

@@ -1,0 +1,16 @@
+#########################################################
+# lcdgrabAPI_idiom/ExThai/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Tailandés para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Chat GPT
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="แผ่นดีวีดีถูกดีแสดงออก"
+expulsar_medio_MSG2="ข้อผิดพลาดในการพยายามดีแสดงออกแผ่นดิสก์จากอุปกรณ์"
+expulsar_medio_MSG3="ใส่ชื่อด้วยตนเอง :"
+

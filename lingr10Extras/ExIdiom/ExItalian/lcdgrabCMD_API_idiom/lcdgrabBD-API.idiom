@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExItalian/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Italiano para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="IMMAGINE ISO-9660 REGISTRATA CORRETTAMENTE SU BLU-RAY"
+grabar_ISO_BD_MSG2="ERRORE DURANTE LA REGISTRAZIONE DELL'IMMAGINE SU DISCO BLU-RAY"
+grabar_ISO_BD_MSG3="IMMAGINE ISO-9660 IN BD"
+grabar_ISO_BD_MSG4="Specifica il percorso dell'immagine ISO-9660 da masterizzare:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="File e directory per creare l'immagine .iso"
+bd_datos_MSG2="ETICHETTA DB"
+bd_datos_MSG3="Inserisci un nome per il futuro BD:"
+bd_datos_MSG4="Avvio del file manager:"
+bd_datos_MSG5=" CREAZIONE IMMAGINE . . ."
+bd_datos_MSG6="correre"
+bd_datos_MSG7="IMMAGINE ISO-9660 CREATA IN"
+bd_datos_MSG8="REGISTRAZIONE BD"
+bd_datos_MSG13="CANCELLA IMMAGINE..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="La formattazione o l'eliminazione necessaria viene applicata a seconda dello stato del disco"
+borrar_BDRE_lb_MSG2="BD-RE ELIMINATO CON SUCCESSO!!"
+borrar_BDRE_lb_MSG3="ERRORE DURANTE L'ELIMINAZIONE DI BD-RE"
+

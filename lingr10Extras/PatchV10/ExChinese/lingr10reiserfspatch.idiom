@@ -1,0 +1,75 @@
+# Idioma Chino simplificado para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+# Traducción experimental, generada con google translator
+
+# presskey
+
+presskey_MSG1="按 ENTER 继续..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=============================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 REISERFS 支持。"
+cabecera_interfaz_MSG3="=============================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="挂载命令的输出："
+formatear_disco_reiserfs_MSG2="指定要格式化的块设备："
+formatear_disco_reiserfs_MSG3="设备格式化成功"
+formatear_disco_reiserfs_MSG4="格式化设备失败"
+formatear_disco_reiserfs_MSG5="完成的过程"
+formatear_disco_reiserfs_MSG6="正在卸载设备..."
+formatear_disco_reiserfs_MSG7="在 ReiserFS 中格式化驱动器..."
+formatear_disco_reiserfs_MSG8="跑步"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="格式化成功"
+formatear_img_reiserfs_MSG2="格式化空文件时出错"
+formatear_img_reiserfs_MSG3="正在生成空文件..."
+formatear_img_reiserfs_MSG4="跑步"
+formatear_img_reiserfs_MSG5="正在 ReiserFS 中格式化空文件..."
+formatear_img_reiserfs_MSG6="生成自定义大小的空文件"
+formatear_img_reiserfs_MSG7="指定要生成的空文件的大小（仅限数字值）："
+formatear_img_reiserfs_MSG8="生成空文件的空间测量："
+formatear_img_reiserfs_MSG9="指定要使用的空间测量："
+formatear_img_reiserfs_MSG10="指定尺寸测量时出错"
+formatear_img_reiserfs_MSG11="块大小值："
+formatear_img_reiserfs_MSG12="空文件的空间量："
+formatear_img_reiserfs_MSG13="计算值（以字节为单位）："
+formatear_img_reiserfs_MSG14="计数的计算值："
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="为 CD-R/RW 创建映像（702 MB）"
+m_img_CDDVDBD_reiserfs_MSG2="创建 DVD+RW 映像（4 GB）"
+m_img_CDDVDBD_reiserfs_MSG3="为 DVD+RW/DL 创建映像（8 GB）"
+m_img_CDDVDBD_reiserfs_MSG4="为 BD-R/RE 创建映像（25 GB）"
+m_img_CDDVDBD_reiserfs_MSG5="创建自定义大小的图像文件"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="退出"
+imgr_tmp_MSG1="删除所有reiserfs镜像文件"
+imgr_tmp_MSG2="挂载或卸载映像文件"
+imgr_tmp_MSG3="图像文件位于"
+imgr_tmp_MSG4="选择一个选项"
+imgr_tmp_MSG5="已删除的图像文件"
+imgr_tmp_MSG6="安装图像"
+imgr_tmp_MSG7="卸载映像"
+imgr_tmp_MSG8="图像已安装"
+imgr_tmp_MSG9="未安装的图像"
+imgr_tmp_MSG10="无效选项"
+imgr_tmp_MSG11="指定要挂载或卸载的映像："
+imgr_tmp_MSG12="安装映像时出错"
+imgr_tmp_MSG13="卸载映像时出错"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="在 ReiserFS 中格式化驱动器"
+lingr10reiserfspatch_MSG2="为 CD/DVD/BD 创建 ReiserFS 映像"
+lingr10reiserfspatch_MSG3="对 ReiserFS 映像的操作"
+lingr10reiserfspatch_MSG4="选项无效"
+lingr10reiserfspatch_MSG0="退出"

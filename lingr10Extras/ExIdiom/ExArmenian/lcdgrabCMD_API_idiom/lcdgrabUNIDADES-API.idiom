@@ -1,0 +1,71 @@
+#########################################################
+# lcdgrabAPI_idiom/ExArmenian/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en armenio para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1=".img կամ .ext2 պատկերի ուղին սկավառակի վրա դնելու համար:"
+volcar_imagen_MSG2="-----------------------ԿԱՐԵՎՈՐ----------------------------" 
+volcar_imagen_MSG3="+ Այս տարբերակը չի գործում օպտիկական սկավառակների վրա։"
+volcar_imagen_MSG4="+ Օգտագործեք կախովի դրայվների, անգործունյա սկավառակների, "
+volcar_imagen_MSG5="+ սկավառակի բաժանման և այլնի վրա: Կոշտ սկավառակների "
+volcar_imagen_MSG6="+ հետ կապված դիտարկում. Պատկերը սկզբից գրված է dd ով"
+volcar_imagen_MSG7=" նշված սկավառակից, համարի օգտագործումը չի թույլատրվում"
+volcar_imagen_MSG8=" գրելու գործընթացը սկսելու հատուկ հատված "
+volcar_imagen_MSG9="+ Օգտագործեք զգուշությամբ: Օգտագործեք սեփական ռիսկով :"
+volcar_imagen_MSG10="+ Սկավառակի միջնորմները կարող են անօգտագործելի դառնալ :"
+volcar_imagen_MSG11="+ Խորհուրդ չի տրվում օգտագործել այն բազմաբնույթ համակարգերում :"
+volcar_imagen_MSG12="Վերականգնումը կարող է դուրս գալ բաժանման աղյուսակից և"
+volcar_imagen_MSG13="անպետք բաժանմունքներն իրենք են:"
+volcar_imagen_MSG14="---------------------------------------------------------"
+volcar_imagen_MSG15="ՍԵՂՄԵՔ C ՍՏԵՂՆԸ ՇԱՐՈՒՆԱԿԵԼՈՒ համար; գործընթացը կչեղարկվի մեկ այլ տարբերակում"
+volcar_imagen_MSG16="Նշեք պատկերի ֆայլի ուղին սկավառակի վրա թափելու համար."
+volcar_imagen_MSG17="Տեղադրել հրամանի ելքը."
+volcar_imagen_MSG18="Նշեք արգելափակման սարքը, որտեղ պատկերը պետք է թափվի."
+volcar_imagen_MSG19="ՊԱՏԿԵՐԻ ՇՐՋԱՆՈՒՄ"
+volcar_imagen_MSG20="ՍԱՐՔՈՒՄ"
+volcar_imagen_MSG21="վազում"
+volcar_imagen_MSG22="ՊԱՏԿԵՐԻ ԱՇԽԱՏԱՆՔԻ ԳՈՐԾԸՆԹԱՑԸ ԱՎԱՐՏՎԱԾ Է"
+
+# volcar_iso
+
+volcar_iso_MSG1="Նշեք արգելափակող սարքը, որտեղ գրելու է iso պատկերը."
+volcar_iso_MSG2="ԾԱՆՈՒՑՈՒՄ"
+volcar_iso_MSG2B="---------"
+volcar_iso_MSG3="Նշեք արգելափակման սարքը, որին պետք է գրել:"
+volcar_iso_MSG4="Օրինակներ. /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Մի նշեք այս սարքին պատկանող բաժանումը"
+volcar_iso_MSG6="Օրինակներ. /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Նշեք iso-9660 պատկերը կամ img գրելու համար."
+volcar_iso_MSG9="Գործընթացն ավարտված է"
+volcar_iso_MSG10="Սխալ iso գրելու գործընթացում"
+volcar_iso_MSG11="Նկարը գրելու համար նշեք բլոկի չափը"
+volcar_iso_MSG12="Ընտրեք տարբերակ ըստ օպերացիոն համակարգի գրելու համար."
+volcar_iso_MSG13="ISO-9660 կամ bootable IMG պատկեր սարքի վրա փայլելու համար."
+volcar_iso_MSG14="Ելք"
+volcar_iso_MSG15="ISO-9660 ԿԱՄ IMG պատկերի ֆայլ"
+volcar_ISO_MSG16="ԸՆՏՐԵՔ Օպերացիոն ՀԱՄԱԿԱՐԳԸ ՄԻԱՎՈՐ ՄԻԱՎՈՐ Լցնելու համար"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Ընտրեք ֆայլային համակարգը"
+Formateador_linuxfs_MSG2="սարքը կձևաչափվի."
+Formateador_linuxfs_MSG3="Նշեք արգելափակման սարքը, որը պետք է ֆորմատավորվի."
+Formateador_linuxfs_MSG5="ԳՈՐԾԸՆԹԱՑՆ ԱՎԱՐՏՎԱԾ Է"
+# Resultado del traductor
+Formateador_linuxfs_MSG6="DISK FORMATTER"
+Formateador_linuxfs_MSG7="Սահմանել ձայնի պիտակը"
+Formateador_linuxfs_MSG10="Նշեք ծավալի պիտակի անունը"
+Formateador_linuxfs_MSG11="Նոր ծավալի պիտակ"
+Formateador_linuxfs_MSG12="Նշեք բլոկի չափը"
+Formateador_linuxfs_MSG13="Նոր բլոկի չափս"
+Formateador_linuxfs_MSG14="Նախորդ ընտրացանկ"
+

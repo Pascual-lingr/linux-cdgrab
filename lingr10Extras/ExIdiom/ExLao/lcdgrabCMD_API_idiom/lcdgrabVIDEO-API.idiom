@@ -1,0 +1,59 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en Lao para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+# Resultado del traductor
+conv_video_BDVideo_MSG1="ວິ​ດີ​ໂອ CONVERSION BLU-RAY DISC ເຂົ້າ​ກັນ​ໄດ້"
+conv_video_BDVideo_MSG2="ລະບຸເສັ້ນທາງຂອງໄຟລ໌ວິດີໂອເພື່ອແປງ:"
+conv_video_BDVideo_MSG3="ລະບຸຊື່ໄຟລ໌ຂອງວິດີໂອໃໝ່ເພື່ອສ້າງ:"
+conv_video_BDVideo_MSG4="ປ່ຽນໄຟລ໌ວິດີໂອສຳເລັດແລ້ວ!!"
+conv_video_BDVideo_MSG5="ການປ່ຽນໄຟລ໌ວິດີໂອຜິດພາດ"
+
+# conv_VideoFich
+
+# Resultado del traductor
+conv_VideoFich_MSG1="ໄຟລ໌ວິດີໂອ CONVERSION"
+conv_VideoFich_MSG2="ລະບຸໄຟລ໌ວິດີໂອເພື່ອແປງ:"
+conv_VideoFich_MSG3="ລະບຸໄຟລ໌ວິດີໂອເພື່ອສ້າງ:"
+conv_VideoFich_MSG4="ການແປງໄຟລ໌ວິດີໂອສຳເລັດແລ້ວ"
+conv_VideoFich_MSG5="ຜິດພາດເມື່ອປ່ຽນໄຟລ໌ວິດີໂອ"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="ລະບຸໄຟລ໌ວິດີໂອ:"
+extrae_Audio_de_Video_MSG2="ລະບຸໄຟລ໌ສຽງ mp3 ເພື່ອສ້າງ:"
+extrae_Audio_de_Video_MSG3="ການສະກັດສຽງສຳເລັດຜົນ"
+extrae_Audio_de_Video_MSG4="ຜິດພາດເມື່ອມີການສະກັດສຽງ"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="ລະບຸໄຟລ໌ວິດີໂອ:"
+extrae_Fragmento_Video_MSG2="ລະບຸໄຟລ໌ວິດີໂອເພື່ອສ້າງ:"
+extrae_Fragmento_Video_MSG3="ລະບຸເວລາເບື້ອງຕົ້ນ (ລະບຸເປັນ HH:MM:SS):"
+extrae_Fragmento_Video_MSG4="ລະບຸເວລາສິ້ນສຸດ (ລະບຸເປັນ HH:MM:SS):"
+extrae_Fragmento_Video_MSG5="VIDEO ສຳເລັດການຕັດຂອບ"
+extrae_Fragmento_Video_MSG6="ຜິດພາດເມື່ອກຳລັງຕັດວິດີໂອ"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="ລະບຸໄຟລ໌ສຽງ:"
+mezcla_Audio_Video_MSG2="ລະບຸໄຟລ໌ວິດີໂອ:"
+mezcla_Audio_Video_MSG3="ລະບຸໄຟລ໌ວິດີໂອເພື່ອສ້າງ:"
+mezcla_Audio_Video_MSG4="ໄຟລ໌ວິດີໂອໃໝ່ສ້າງສຳເລັດແລ້ວ"
+mezcla_Audio_Video_MSG5="ເກີດຄວາມຜິດພາດໃນການສ້າງໄຟລ໌ວິດີໂອ"
+
+# graba_escritorio
+
+# Resultado del traductor
+graba_escritorio_MSG1="ຕົວເລືອກບໍ່ສາມາດໃຊ້ໄດ້ກັບ CONSOLE INTERFACE"
+# Resultado del traductor
+graba_escritorio_MSG2="-- ການ​ບັນ​ທຶກ Session desktop -- ກົດ CTRL + C ເພື່ອ​ຍົກ​ເລີກ​ແລະ​ຢຸດ​ການ​ບັນ​ທຶກ"
+graba_escritorio_MSG3="ການບັນທຶກວິດີໂອສຳເລັດແລ້ວ"

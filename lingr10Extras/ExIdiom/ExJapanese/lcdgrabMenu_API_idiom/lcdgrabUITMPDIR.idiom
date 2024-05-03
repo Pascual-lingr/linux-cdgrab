@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExJapanese/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Japonés para el menú de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, utilizado google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="/tmp 内のファイル"
+dir_tmp_MSG2="すべての画像と圧縮ファイルを削除する"
+dir_tmp_MSG3="他の操作のためにファイルマネージャーを起動します"
+dir_tmp_MSG4="イメージのマウントまたはアンマウント"
+dir_tmp_MSG5="画像作成メニューを表示"
+dir_tmp_MSG6="画像記録オプションを表示"
+dir_tmp_MSG7="前のメニュー"
+dir_tmp_MSG8="の既存ファイルのリスト"
+dir_tmp_MSG9="選択肢一つを選択してください："
+dir_tmp_MSG10="削除された画像とファイル"
+dir_tmp_MSG11="イメージをマウントします。"
+dir_tmp_MSG12="脱着イメージ"
+dir_tmp_MSG13="イメージを CD に書き込む"
+dir_tmp_MSG14="イメージを DVD に書き込む"
+dir_tmp_MSG14B="イメージを BD に書き込む"
+dir_tmp_MSG15="録画サポートに応じてオプションを選択"
+dir_tmp_MSG16="構成ファイルが見つかりません"
+dir_tmp_MSG17="記録プロセスの中止"
+dir_tmp_MSG18="書き込む .iso ファイルを指定します"
+dir_tmp_MSG19="画像のパスを書きます: "
+

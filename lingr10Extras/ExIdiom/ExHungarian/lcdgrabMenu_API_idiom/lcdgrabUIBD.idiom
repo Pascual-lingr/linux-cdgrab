@@ -1,0 +1,22 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcgdrabMenu_API_idiom/lcdgrabUIBD.idiom
+# Menu de Interfaz para la grabación de BD.
+# Traducción experimental al Húngaro, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_grabar_BD
+
+menu_grabar_BD_MSG0="Előző menü."
+menu_grabar_BD_MSG1="BLU-RAY LEMEZ FELVÉTEL"
+menu_grabar_BD_MSG2="Új BD-R/BD-RE iso írása a merevlemez adataiból"
+menu_grabar_BD_MSG4="ISO/UDF kép a lemezre írandó."
+menu_grabar_BD_MSG7="Iso-9660/udf kép írása BD-R/BD-RE-re"
+menu_grabar_BD_MSG8="------------------- BD - ADATOK ------------------"
+menu_grabar_BD_MSG9="Meghajtó lemez információinak megjelenítése"
+menu_grabar_BD_MSG10="Szükséges törlés alkalmazása BD-RE re"
+
+

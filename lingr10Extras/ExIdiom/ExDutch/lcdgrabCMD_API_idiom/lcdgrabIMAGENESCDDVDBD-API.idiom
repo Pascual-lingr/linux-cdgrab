@@ -1,0 +1,234 @@
+#########################################################
+# lcgdrabAPI_idiom/ExDutch/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en Neerlandés para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="BEELDBESTANDSYSTEEM"
+imagen_linux_fs_MSG2="Selecteer het bestandssysteem: "
+imagen_linux_fs_MSG3="Maak een image voor een CD-R/RW (702 Mbytes)"
+imagen_linux_fs_MSG4="Maak een image voor een DVD+RW (4 Gbytes)"
+imagen_linux_fs_MSG5="Maak een image voor een DVD+RW/DL (8 Gbytes)"
+imagen_linux_fs_MSG5B="Maak een image voor een BD-R/RE (25 Gbytes)"
+imagen_linux_fs_MSG5C="Maak een afbeeldingsbestand met aangepast formaat"
+imagen_linux_fs_MSG6="Leeg bestand maken met een capaciteit van 702 Mbytes"
+imagen_linux_fs_MSG7="Leeg bestand maken met een capaciteit van 4 Gbytes"
+imagen_linux_fs_MSG8="Leeg bestand maken met een capaciteit van 8 Gbytes"
+imagen_linux_fs_MSG8B="Leeg bestand maken met een capaciteit van 25 Gbytes"
+imagen_linux_fs_MSG8C="Een leeg bestand met aangepast formaat maken"
+imagen_linux_fs_MSG9="FOUT: BEELDGROOTTE IS NIET BEKEND. AFBREKEN..."
+imagen_linux_fs_MSG10="Bezig met uitvoeren"
+imagen_linux_fs_MSG11="Het programma zal het lege bestand formatteren."
+imagen_linux_fs_MSG12="Het systeem zal u waarschuwen dat het eerder gemaakte bestand geen blokapparaat is en zal vragen of u het wilt formatteren"
+imagen_linux_fs_MSG13="Antwoord ja"
+imagen_linux_fs_MSG13="SUCCESVOL GEFORMATEERD"
+imagen_linux_fs_MSG14="Afbeelding monteren . ."
+imagen_linux_fs_MSG15="FOUT BIJ HET FORMATTEREN VAN EEN LEEG BESTAND"
+imagen_linux_fs_MSG16="Het programma heeft het bestand gemount in de vorm van"
+imagen_linux_fs_MSG17="Linux-cdgrab zal de bestandsbeheerder starten zodat deze kan werken met de image waarop de afbeelding is gemonteerd"
+imagen_linux_fs_MSG18="Zodra de bestanden zijn gekopieerd, ontkoppelt u het geformatteerde bestand"
+imagen_linux_fs_MSG19="De Linux-image bevindt zich in deze map"
+imagen_linux_fs_MSG19B="FOUT BIJ HET mounten van het afbeeldingsbestand"
+imagen_linux_fs_MSG20="Bestanden die in de image moeten worden opgenomen. Gemount in /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Bestandsbeheer starten..."
+imagen_linux_fs_MSG22="LET OP:"
+imagen_linux_fs_MSG23="------"
+imagen_linux_fs_MSG24="De afbeelding"
+imagen_linux_fs_MSG25="nog steeds aangekoppeld"
+imagen_linux_fs_MSG26="FOUT BIJ HET AANMAKEN VAN EEN LEEG BESTAND MET dd"
+imagen_linux_fs_MSG27="Controleer of er vrije ruimte is op de partitie die is aangekoppeld op /"
+imagen_linux_fs_MSG34="BESTANDSYSTEEM OM BESTAND TE FORMATTEREN"
+imagen_linux_fs_MSG35="GENERATIE VAN LEEG BESTAND MET AANGEPASTE GROOTTE"
+imagen_linux_fs_MSG36="Specificeer de blokgrootte van het nieuwe lege bestand (alleen een numerieke waarde):"
+imagen_linux_fs_MSG37="Een voorbeeld van waarden voor de blokgrootte zijn: 1024, 2048 (alleen Ext2) of 4096 (alle formaten)"
+imagen_linux_fs_MSG38="Specificeer de grootte van het lege bestand dat moet worden gegenereerd (alleen een numerieke waarde):"
+imagen_linux_fs_MSG39="Ruimtemetingen om het lege bestand te genereren:"
+imagen_linux_fs_MSG40="Specificeer de te gebruiken ruimtemeting: "
+imagen_linux_fs_MSG41="FOUT BIJ HET SPECIFICEREN VAN DE GROOTTEMETING"
+imagen_linux_fs_MSG42="Blokgrootte waarde:"
+imagen_linux_fs_MSG43="Hoeveelheid ruimte voor leeg bestand:"
+imagen_linux_fs_MSG44="Berekende waarde in bytes:"
+imagen_linux_fs_MSG45="Berekende waarde voor telling:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Md5-lezen inschakelen bij genereren van .iso-images"
+comprobar_lectura_md5_MSG2="Md5-lezen uitschakelen bij genereren van .iso-images"
+comprobar_lectura_md5_MSG3="Vorige menu"
+comprobar_lectura_md5_MSG4="Huidige configuratie:"
+comprobar_lectura_md5_MSG5="Ingeschakeld"
+comprobar_lectura_md5_MSG6="Uitgeschakeld"
+comprobar_lectura_md5_MSG7="Lees md5-som geactiveerd"
+comprobar_lectura_md5_MSG8="Lees md5-som uitgeschakeld"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="De naam van de ISO-image kon niet worden gelezen"
+leer_md5sum_MSG2="Lezen md5sum van"
+leer_md5sum_MSG3="Toon de md5-som van de afbeelding"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="CD-AFBEELDING MAKEN"
+extraer_isoCD_dd_MSG2="AFBEELDING GEMAAKT IN"
+extraer_isoCD_dd_MSG3="Niet gevonden"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="DVD-BEELD MAKEN"
+extraer_isoDVD_dd_MSG2="actief"
+extraer_isoDVD_dd_MSG3="AFBEELDING GEMAAKT IN"
+extraer_isoDVD_dd_MSG4="Niet gevonden"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="actief"
+extraer_iso_readcd_MSG2="AFBEELDING SUCCESVOL GEMAAKT"
+extraer_iso_readcd_MSG3="Afbeelding gemaakt in"
+extraer_iso_readcd_MSG4="Het opnameproces afbreken..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Gekoppelde CD"
+extraer_iso_mkisofs_MSG2="Afbeelding maken..."
+extraer_iso_mkisofs_MSG3="Macintosh-compatibiliteit ingeschakeld"
+extraer_iso_mkisofs_MSG4="Gebruik"
+extraer_iso_mkisofs_MSG5="actief"
+extraer_iso_mkisofs_MSG6="Afbeelding gemaakt in map"
+extraer_iso_mkisofs_MSG7="Het proces opnieuw proberen zonder Macintosh-ondersteuning"
+extraer_iso_mkisofs_MSG8="Afbeelding gemaakt in map"
+extraer_iso_mkisofs_MSG9="mkisofs retourneert onbekende fouten bij het maken"
+extraer_iso_mkisofs_MSG10="van"
+extraer_iso_mkisofs_MSG11="Controleer de gegevensintegriteit"
+extraer_iso_mkisofs_MSG12="Montage"
+extraer_iso_mkisofs_MSG12B="nl"
+extraer_iso_mkisofs_MSG13="genisoimage retourneert onbekende fouten bij het maken"
+extraer_iso_mkisofs_MSG13B="van"
+extraer_iso_mkisofs_MSG14="Mkisofs en genisoimage niet gevonden. Installeer cdrtools of cdrkit."
+extraer_iso_mkisofs_MSG15="Kan niet worden aangekoppeld"
+extraer_iso_mkisofs_MSG16="Afbeelding succesvol aangemaakt in"
+
+# m_comp_img
+
+m_comp_img_MSG1="AFBEELDING SUCCESVOL GEGENEREERD IN"
+m_comp_img_MSG2="WILT U HET AFBEELDINGSBESTAND COMPRESSEREN?"
+m_comp_img_MSG3="(s/y) om te comprimeren; Het proces wordt geannuleerd met een andere optie."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Bestandsbeheer starten..."
+generar_iso_directorio_MSG2="Voer een naam in voor de toekomstige CD/DVD/BD"
+generar_iso_directorio_MSG3="AFBEELDING MAKEN..."
+generar_iso_directorio_MSG4="Macintosh-compatibiliteit ingeschakeld"
+generar_iso_directorio_MSG5="Gebruik"
+generar_iso_directorio_MSG6="actief"
+generar_iso_directorio_MSG7="AFBEELDING GEMAAKT IN DE MAP"
+generar_iso_directorio_MSG8="HET AFBEELDINGSCREATIEPROCES IS MISLUKT"
+generar_iso_directorio_MSG9="AFBEELDING MAKEN ZONDER MACINTOSH-COMPATIBILITEIT"
+generar_iso_directorio_MSG10="Mkisofs en genisoimage zijn niet gevonden. Installeer cdrtools of cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Voer een naam in voor de toekomstige DVD/BD"
+generar_bdv_udf_directorio_MSG2="Geef de map op om het videobeeld te genereren:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Specificeer schijflabel:"
+generar_iso_directorio_libburnia_MSG2="Specificeer de map om de ISO-9660-image te genereren:"
+generar_iso_directorio_libburnia_MSG3="ISO9660-afbeelding succesvol gemaakt!!"
+generar_iso_directorio_libburnia_MSG4="Fout bij genereren van ISO-9660-afbeelding met xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="Bestanden en mappen die in de .iso-image moeten worden opgenomen"
+imagenISO_MSG2="SELECTEER EEN OPTIE"
+imagenISO_MSG2B="---------------------"
+imagenISO_MSG3="Genereer ISO-9660-image vanaf CD (gebruik dd)"
+imagenISO_MSG4="Genereer ISO-9660-image van dvd (gebruik dd)"
+imagenISO_MSG5="Genereer ISO-9660-image vanaf CD (gebruik readcd)"
+imagenISO_MSG6="Genereer ISO-9660-image van CD- of DVD-schijf (gebruik mkisofs)"
+imagenISO_MSG7="Maak een ISO-9660-image van gegevens op de harde schijf (gebruik mkisofs)"
+imagenISO_MSG8="Vorige menu"
+imagenISO_MSG9="AFBEELDING MAKEN"
+imagenISO_MSG10="Maak een ISO-9660-image van gegevens op de harde schijf (gebruik xorriso)"
+imagenISO_MSG11="Maak een iso/udf-image van een CD/DVD/BD (gebruik mkisofs)"
+imagenISO_MSG12="Maak een iso/udf-image van gegevens op de harde schijf (gebruik mkisofs)"
+imagenISO_MSG13="ISO-9660 FORMATTEERMENU"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Maak een UDF/ISO-image van gegevens op de harde schijf (gebruik mkisofs)"
+imagenISO_MSG15="Maak UDF/ISO-image met ondersteuning voor DVD Video (gebruik mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Typ het bronblokapparaat waarvan de afbeelding moet worden gemaakt"
+imagen_img_MSG2="------------------------------------------------------------------"
+imagen_img_MSG3="Apparaten geregistreerd in /etc/fstab en /etc/mtab"
+imagen_img_MSG4="Commando-uitvoer koppelen:"
+imagen_img_MSG5="Voer de apparaatnaam in: "
+imagen_img_MSG6="Een .img-afbeelding van het blokapparaat maken"
+imagen_img_MSG7="hardlopen"
+imagen_img_MSG8="APPARAATAFBEELDING GEMAAKT IN"
+
+# monta_img
+
+monta_img_MSG1="ISO- of ext2-afbeelding om te koppelen."
+monta_img_MSG2="Typ het mappad waar de afbeelding die moet worden gemount zich bevindt:"
+monta_img_MSG3="GEMONTEERDE CD-AFBEELDING:"
+monta_img_MSG4="FOUT BIJ HET MONTEREN VAN HET BEELDBESTAND"
+monta_img_MSG5="NIET GEVONDEN"
+monta_img_MSG6="MOUNT PUNT BESTAAT NIET"
+monta_img_MSG7="ONVERWACHTE FOUT"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO of ext2 afbeelding om te ontkoppelen."
+desmonta_img_MSG2="GEDEMONTEERDE AFBEELDING"
+desmonta_img_MSG3="Geen gekoppelde afbeelding gevonden"
+desmonta_img_MSG4="Mount uitvoer:"
+desmonta_img_MSG5="U kunt het absolute mappad van een afbeelding direct opgeven."
+desmonta_img_MSG6="Zoals /tmp/lcdgrabimg.iso of de montagemap voor de afbeelding, zoals /mnt/lcdgrab"
+desmonta_img_MSG7="Als het niet is opgegeven, kan het worden doorzocht met behulp van bestandsbeheer"
+desmonta_img_MSG8="Bestandsbeheer starten"
+desmonta_img_MSG9="Specificeer het afbeeldingspad."
+desmonta_img_MSG10="GEDEMONTEERDE AFBEELDING"
+desmonta_img_MSG11="FOUT BIJ HET ONTKOPPELEN VAN DE AFBEELDING"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg afbeelding om te converteren naar .iso"
+nrg_a_iso_MSG2="Voer het pad in van de .nrg (Nero Burning ROM) afbeelding die u wilt converteren"
+nrg_a_iso_MSG3="Bezig met converteren van afbeelding..."
+nrg_a_iso_MSG4="Het pad van de bron-.nrg-afbeelding"
+nrg_a_iso_MSG5="bestaat niet of komt overeen met een directory"
+nrg_a_iso_MSG6="Ongeldig pad."
+nrg_a_iso_MSG7="het is al een eerder ISO-9660-image, het wordt niet geconverteerd."
+nrg_a_iso_MSG8="Kopiëren met andere extensie..."
+nrg_a_iso_MSG9="KOPIËREN VOLTOOID"
+nrg_a_iso_MSG10="actief"
+nrg_a_iso_MSG11="Afbeelding succesvol geconverteerd"
+nrg_a_iso_MSG12="FOUT BIJ HET AANMAKEN VAN AFBEELDING .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Genereer een .cue-beschrijvingsbestand uit een .bin-afbeelding"
+GenerarArchivocue_MSG2="Huidige actieve map"
+GenerarArchivocue_MSG3="Schrijf alleen het mappad waar"
+GenerarArchivocue_MSG4="vind het afbeeldingsbestand:"
+GenerarArchivocue_MSG5="Vul de naam in van de .bin-afbeelding waarnaar"
+GenerarArchivocue_MSG6="heeft het bijbehorende .cue-bestand gegenereerd"
+GenerarArchivocue_MSG7="BESCHRIJVINGSBESTAND .cue SUCCESVOL GEGENEREERD"
+GenerarArchivocue_MSG8="FOUT BIJ HET GENEREREN VAN BESCHRIJVINGSBESTAND .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="actief"
+ImagenbincueCDDVD_MSG2="SCHIJFBEELD .BIN .CUE SUCCESVOL GEGENEREERD"
+

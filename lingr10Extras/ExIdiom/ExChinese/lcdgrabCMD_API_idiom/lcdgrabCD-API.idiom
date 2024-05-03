@@ -1,0 +1,186 @@
+#########################################################
+# lcdgrabAPI_idiom/ExChinese/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en chino simplificado para el API de grabación en CD.
+# Traducción experimental, generada con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="跑步"
+copia_bin_MSG2="--------------重试记录过程---------------"
+copia_bin_MSG3="	删除图像文件"
+copia_bin_MSG4="发生录音错误"
+copia_bin_MSG5="找不到 .iso 磁盘映像转储文件。正在中止录制..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="跑步"
+datos_al_vuelo_MSG2="刻录尝试失败，在没有超刻支持的情况下重试"
+datos_al_vuelo_MSG3="检查源磁盘或设备"
+datos_al_vuelo_MSG4="状况良好"
+datos_al_vuelo_MSG5="从源盘获取导出块号"
+datos_al_vuelo_MSG6="正在复制磁盘..."
+
+# clonar_cd
+
+clonar_cd_MSG1="跑步"
+clonar_cd_MSG2="CD 克隆成功"
+clonar_cd_MSG3="克隆 CD 时出错"
+
+# datos
+
+datos_MSG1="用于创建 .iso 映像的文件和目录"
+datos_MSG2="唱片标签"
+datos_MSG3="输入未来 CD/DVD/BD 的名称："
+datos_MSG4="启动文件管理器："
+datos_MSG5="	创造形象 . . ."
+datos_MSG6="跑步"
+datos_MSG7="ISO-9660 图像创建于"
+datos_MSG8="		录音光盘"
+datos_MSG9="图像文件创建过程失败"
+datos_MSG10="重试创建一个不支持 HFS 的新文件 (Macintosh)"
+datos_MSG11="擦除图像 . . ."
+datos_MSG12="创造新形象 . . ."
+datos_MSG13="无法正确记录"
+datos_MSG14="------------重试记录过程-----------"
+datos_MSG15="擦除图像..."
+datos_MSG16="刻录 ISO-9660 数据 CD/DVD/BD..."
+datos_MSG17="未找到。"
+datos_MSG18="中止磁盘记录..."
+
+# datoslb
+
+datoslb_MSG1="错误：找不到图像文件。中止..."
+datoslb_MSG2="录制过程正常"
+datoslb_MSG3="记录过程中的错误"
+
+# borra
+
+borra_MSG0="上一个菜单"
+borra_MSG1="选择擦除 CD-RW 的模式"
+borra_MSG2="-------------------"
+borra_MSG3="快速删除（使用 cdrecord）"
+borra_MSG4="完全删除（使用 cdrecord）"
+borra_MSG5="需要删除（使用 cdrskin）"
+borra_MSG6="跑步"
+borra_MSG7="根据磁盘状态应用必要的格式或擦除"
+borra_MSG8="CD-RW 擦除成功！！"
+borra_MSG9="擦除 CD-RW 时出错"
+borra_MSG10="强制擦除 CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="尝试擦除 CD-RW 时出错"
+err_borra_cdrw_MSG2="无法使用的 CD-RW"
+err_borra_cdrw_MSG3="无法擦除此 CD-RW"
+err_borra_cdrw_MSG4="确保 CD-RW 没有物理损坏"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="跑步"
+cerrar_cd_MSG2="CD 已正确关闭"
+cerrar_cd_MSG3="关闭 CD 时出错"
+cerrar_cd_MSG4="在数据 CD 上关闭轨道 . . ."
+
+# grabimg
+
+grabimg_MSG1="要刻录到 CD/DVD 的 .iso 或 .ext2 映像"
+grabimg_MSG2="启动文件管理器。"
+grabimg_MSG3="键入要刻录的 CD/DVD 映像所在的完整路径："
+grabimg_MSG4="跑步"
+grabimg_MSG5="-----------重试记录过程-----------"
+grabimg_MSG6="录制完成！！"
+grabimg_MSG7="图像 .EXT2 已成功记录"
+
+# grabimglb
+
+grabimglb_MSG1="键入要刻录的 CD/DVD 映像所在的完整路径："
+grabimglb_MSG2="将图像刻录到磁盘..."
+grabimglb_MSG3="ISO-9660 图像记录成功"
+grabimglb_MSG4="ISO-9660 图像记录错误"
+grabimglb_MSG5="错误：找不到图像文件。中止..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin 和 .cue 文件来刻录图像"
+grabimg_cue_MSG2="要记录 bin/cue 图像，两个文件都必须"
+grabimg_cue_MSG3="在活动目录中。"
+grabimg_cue_MSG4="当前活动目录"
+grabimg_cue_MSG5="输入引用 *.bin 图像文件的 *.cue 文件的名称"
+grabimg_cue_MSG6=".cue 文件： "
+grabimg_cue_MSG7="跑步"
+grabimg_cue_MSG8="录制完成！！"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="从 .iso 映像刻录 CD-Multisesion"
+cd_multi_MSG2="从 .iso 映像将第一个会话刻录到 CD"
+cd_multi_MSG3="从光盘文件刻录 CD-Multisesion"
+cd_multi_MSG4="从硬盘驱动器上的文件将连续的会话刻录到 CD"
+cd_multi_MSG5="此选项需要一张多区段 CD，其中包含以前录制的区段。"
+cd_multi_MSG6="上一个菜单"
+cd_multi_MSG7="要刻录到 CD-Multisesion 的 .iso 映像"
+cd_multi_MSG8="指定 .iso 镜像的路径"
+cd_multi_MSG9="跑步"
+cd_multi_MSG10="成功录制多会话 CD！！"
+cd_multi_MSG11="要包含在图像中的目录。"
+cd_multi_MSG12="在下面指定要包含的目录"
+cd_multi_MSG13="为 CD 标签提供名称："
+cd_multi_MSG14="创造形象..."
+cd_multi_MSG15="创建成功"
+cd_multi_MSG16="创建图像时出错。正在录制过程中..."
+cd_multi_MSG17="录制 CD 镜像..."
+cd_multi_MSG18="多段 CD 菜单"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="翻录音频 CD ..."
+copia_cd_audio_MSG2="跑步"
+copia_cd_audio_MSG3="成功成熟的音轨！！"
+copia_cd_audio_MSG4="翻录音轨时出错"
+copia_cd_audio_MSG5="录制音频 CD ..."
+copia_cd_audio_MSG6="音频 CD 复制成功！！"
+
+# wav_a_cd
+
+wav_a_cd_MSG1="用于刻录到 CD 的 .wav 文件"
+wav_a_cd_MSG2="linux-cdgrab 不会检查目录大小"
+wav_a_cd_MSG3="确保它不超过 650 MB，以防万一"
+wav_a_cd_MSG4="使用 80 分钟的 CD。"
+wav_a_cd_MSG5="输入 .wav 文件的目录路径"
+wav_a_cd_MSG6="跑步"
+wav_a_cd_MSG7="完成的过程！"
+
+
+# cdmixto
+
+cdmixto_MSG1="混合 CD 创建项目（.iso 数据图像 + .wav 音频文件）"
+cdmixto_MSG2="linux-cdgrab 不会检查目录大小"
+cdmixto_MSG3="音频文件在哪里"
+cdmixto_MSG4="它也不会为您要刻录的 .iso 映像执行此操作。"
+cdmixto_MSG5="后。"
+cdmixto_MSG6="无论你走到哪里，都要与你拥有的尺寸保持一致"
+cdmixto_MSG7="刻录到您的新 CD 上。"
+cdmixto_MSG8="指定音频文件的路径："
+cdmixto_MSG9="指定iso镜像的路径："
+cdmixto_MSG10="#####################"
+cdmixto_MSG11="录制混合 CD：数据 + 音频"
+cdmixto_MSG12="跑步"
+cdmixto_MSG13="----混合 CD 创建成功-----!!"
+cdmixto_MSG14="------录制混合 CD 时出错--------"
+
+# discoinfo
+
+discoinfo_MSG1="跑步"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI端口扫描"
+cdrecord_scan_MSG1="扫描 IDE/SCSI 端口失败"
+cdrecord_scan_MSG2="找不到光盘记录"
+
+

@@ -1,0 +1,142 @@
+#########################################################
+# lcgdrabAPI_idiom/ExFrench/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en francés para el API de audio.
+# Traducción experimental, generada con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="FICHIERS MP3 À CONVERTIR"
+mp3awav_MSG0="Entrez le chemin des fichiers .mp3 : "
+mp3awav_MSG1="CONVITATION"
+mp3awav_MSG1B=" AU FORMAT .wav"
+mp3awav_MSG2="en cours d'exécution"
+mp3awav_MSG3="Echantillonnage réglé sur 44100 Mhz"
+mp3awav_MSG4="Erreur de traitement de l'échantillonnage"
+mp3awav_MSG5="Échec de la conversion"
+mp3awav_MSG6="Répertoire introuvable"
+mp3awav_MSG7="FIN DE LA CONVERSION AUDIO"
+mp3awav_MSG8="Normalisation du fichier audio"
+mp3awav_MSG9="Fichier"
+mp3awav_MSG10="Normalisé"
+mp3awav_MSG11="Erreur de normalisation"
+
+# oggawav
+
+oggawav_MSG0="FICHIERS OGG À CONVERTIR"
+oggawav_MSG1="Entrez le chemin des fichiers .ogg : "
+oggawav_MSG2="CONVITATION"
+oggawav_MSG2B="Un FORMAT .wav"
+oggawav_MSG3="en cours d'exécution"
+oggawav_MSG4="Échantillonnage réglé sur 44 100 Mhz"
+oggawav_MSG5="Erreur de traitement de l'échantillonnage"
+oggawav_MSG6="Échec de la conversion"
+oggawav_MSG7="Répertoire introuvable"
+oggawav_MSG8="FIN DE LA COUVERTURE AUDIO"
+oggawav_MSG9="Normalisation du fichier audio"
+oggawav_MSG10="Fichier"
+oggawav_MSG11="Normalisé"
+oggawav_MSG12="Erreur de normalisation"
+
+# cdawav
+
+cdawav_MSG1="RIPPAGE DU CD AUDIO..."
+cdawav_MSG2="Exécution :"
+cdawav_MSG3="PISTES AUDIO RIPÉES AVEC SUCCÈS !!"
+cdawav_MSG4="Contenu du répertoire des fichiers audio"
+cdawav_MSG5="ERREUR LORS DE L'EXTRACTION DES PISTES AUDIO"
+
+# cddawav
+
+cddawav_MSG1="ENTREZ LE NOMBRE DE PISTES À RIP :"
+cddawav_MSG2="Appuyez sur Crtl + c pour annuler l'extraction d'une piste"
+cddawav_MSG3="En cours d'exécution :"
+cddawav_MSG4="RIPER AVEC SUCCÈS"
+cddawav_MSG5="ERREUR D'EXTRACTION"
+
+# wavamp3
+
+wavamp3_MSG0="FICHIERS WAV À CONVERTIR"
+wavamp3_MSG1="Entrez le chemin des fichiers .wav : "
+wavamp3_MSG1B="CONVERSION"
+wavamp3_MSG2="UN FORMAT"
+wavamp3_MSG3="Exécution :"
+wavamp3_MSG4="lors de la conversion"
+wavamp3_MSG5="au format .MP3"
+wavamp3_MSG6="Erreur de conversion"
+wavamp3_MSG7="CONVERSION AUDIO TERMINÉE"
+wavamp3_MSG8="RÉPERTOIRE AUDIO INTROUVABLE"
+
+# cdamp3
+
+cdamp3_MSG1="RIPPAGE DU CD AUDIO..."
+cdamp3_MSG2="Exécution :"
+cdamp3_MSG3="PISTES AUDIO RIPÉES AVEC SUCCÈS !!"
+cdamp3_MSG4="ERREUR LORS DE L'EXTRACTION DES PISTES AUDIO"
+cdamp3_MSG5="Appel de la fonction :"
+
+# wavaogg
+
+wavaogg_MSG1="Entrez le chemin des fichiers .wav : "
+wavaogg_MSG2="CONVITATION"
+wavaogg_MSG3="Un FORMAT .ogg"
+wavaogg_MSG4="En cours d'exécution :"
+wavaogg_MSG5="Erreur de conversion"
+wavaogg_MSG6="au format .ogg"
+
+# cdaogg
+
+cdaogg_MSG1="RIPPING DE CD AUDIO..."
+cdaogg_MSG2="Exécution :"
+cdaogg_MSG3="PISTES AUDIO RIPÉES AVEC SUCCÈS !!"
+cdaogg_MSG4="ERREUR LORS DE L'EXPIRATION DES PISTES AUDIO"
+cdaogg_MSG5="Appel de la fonction :"
+
+# corta_wav
+
+corta_wav_MSG0="Nombre de secondes :"
+corta_wav_MSG1="Spécifiez le chemin du fichier audio à convertir :"
+corta_wav_MSG2="Spécifiez le temps en nombre de secondes pour lequel"
+corta_wav_MSG3="la découpe du fichier va commencer."
+corta_wav_MSG4="-REMARQUE-"
+corta_wav_MSG5="Pour spécifier le début de l'audio, entrez 0"
+corta_wav_MSG6="Valeur en secondes pour démarrer la conversion :"
+corta_wav_MSG7="Spécifiez le temps en nombre de secondes pour lequel"
+corta_wav_MSG8="la découpe du fichier sera terminée."
+corta_wav_MSG9="Valeur en secondes pour la fin de la conversion :"
+corta_wav_MSG10="Exécution"
+corta_wav_MSG11="Fichier audio découpé"
+corta_wav_MSG12="Erreur lors du découpage du fichier"
+corta_wav_MSG13="Fichier audio à découper :"
+
+# flacawav
+
+flacawav_MSG0="AUDIO FLAC/WAV"
+flacawav_MSG1="Spécifiez le chemin des fichiers .flac :"
+flacawav_MSG2="CONVITATION"
+flacawav_MSG3=" AU FORMAT .wav"
+flacawav_MSG4="Echantillonnage réglé sur 44100 Mhz"
+flacawav_MSG5="Erreur de traitement de l'échantillonnage"
+flacawav_MSG6="Normalisation du fichier audio"
+flacawav_MSG7="Fichier"
+flacawav_MSG8="Normalisé"
+flacawav_MSG9="Erreur de normalisation"
+flacawav_MSG10="Échec de la conversion"
+flacawav_MSG11="Répertoire introuvable"
+flacawav_MSG12="FIN DE LA CONVERSION AUDIO"
+
+# wavaflac
+
+wavaflac_MSG0="FICHIERS WAV À CONVERTIR"
+wavaflac_MSG1="Entrez le chemin des fichiers .wav : "
+wavaflac_MSG2="CONVITATION"
+wavaflac_MSG3="Un FORMAT .flac"
+wavaflac_MSG4="converti au format flac"
+wavaflac_MSG5="Erreur de conversion"
+wavaflac_MSG6="au format .flac"
+wavaflac_MSG7="RÉPERTOIRE DE FICHIER FLAC INTROUVABLE"
+

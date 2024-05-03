@@ -1,0 +1,57 @@
+#########################################################
+# lcgdrabAPI_idiom/ExJapanese/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Traducción experimental al Japonés de los mensajes sobre
+# la conversion de video. Generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="ビデオ変換 Blu-ray ディスクの互換性"
+conv_video_BDVideo_MSG2="変換するビデオ ファイルのパスを指定してください:"
+conv_video_BDVideo_MSG3="作成する新しいビデオのファイル名を指定してください:"
+conv_video_BDVideo_MSG4="ビデオ ファイルが正常に変換されました!!"
+conv_video_BDVideo_MSG5="ビデオ ファイルの変換中にエラーが発生しました"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="ビデオ ファイルの変換"
+conv_VideoFich_MSG2="変換するビデオ ファイルを指定してください:"
+conv_VideoFich_MSG3="生成するビデオ ファイルを指定してください:"
+conv_VideoFich_MSG4="ビデオ ファイルの変換が完了しました"
+conv_VideoFich_MSG5="ビデオ ファイルの変換中にエラーが発生しました"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="ビデオ ファイルを指定してください:"
+extrae_Audio_de_Video_MSG2="生成する MP3 サウンド ファイルを指定します:"
+extrae_Audio_de_Video_MSG3="サウンドが正常に抽出されました"
+extrae_Audio_de_Video_MSG4="サウンド抽出時のエラー"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="ビデオ ファイルを指定してください:"
+extrae_Fragmento_Video_MSG2="生成するビデオ ファイルを指定してください:"
+extrae_Fragmento_Video_MSG3="初期時刻を指定します (HH:MM:SS として指定します):"
+extrae_Fragmento_Video_MSG4="終了時刻を指定します (HH:MM:SS で指定します):"
+extrae_Fragmento_Video_MSG5="ビデオが正常にトリミングされました"
+extrae_Fragmento_Video_MSG6="ビデオのトリミング時のエラー"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="サウンド ファイルを指定してください:"
+mezcla_Audio_Video_MSG2="ビデオ ファイルを指定してください:"
+mezcla_Audio_Video_MSG3="生成するビデオ ファイルを指定してください:"
+mezcla_Audio_Video_MSG4="新しいビデオ ファイルが正常に生成されました"
+mezcla_Audio_Video_MSG5="ビデオ ファイル生成中にエラーが発生しました"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="コンソール インターフェイスではオプションを使用できません"
+graba_escritorio_MSG2="-- デスクトップ セッションを録画中 -- 録画をキャンセルして停止するには、CTRL + C を押してください"
+graba_escritorio_MSG3="ビデオ録画が完了しました"
+
+

@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTurkish/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en Turco para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="VİDEO DÖNÜŞTÜRME BLU-RAY DİSK UYUMLULUĞU"
+conv_video_BDVideo_MSG2="Dönüştürülecek video dosyasının yolunu belirtin:"
+conv_video_BDVideo_MSG3="Oluşturulacak yeni videonun dosya adını belirtin:"
+conv_video_BDVideo_MSG4="Video dosyası başarıyla dönüştürüldü!!"
+conv_video_BDVideo_MSG5="Video dosyası dönüştürülürken hata oluştu"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="VİDEO DOSYALARINI DÖNÜŞTÜRÜN"
+conv_VideoFich_MSG2="Dönüştürülecek video dosyasını belirtin:"
+conv_VideoFich_MSG3="Oluşturulacak video dosyasını belirtin:"
+conv_VideoFich_MSG4="VİDEO DOSYASI DÖNÜŞTÜRME TAMAMLANDI"
+conv_VideoFich_MSG5="VİDEO DOSYASINI DÖNÜŞTÜRÜRKEN HATA"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Video dosyasını belirtin:"
+extrae_Audio_de_Video_MSG2="Oluşturulacak mp3 ses dosyasını belirtin:"
+extrae_Audio_de_Video_MSG3="SES ÇIKARMA BAŞARIYLA"
+extrae_Audio_de_Video_MSG4="SES ÇIKARILIRKEN HATA"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Video dosyasını belirtin:"
+extrae_Fragmento_Video_MSG2="Oluşturulacak video dosyasını belirtin:"
+extrae_Fragmento_Video_MSG3="Başlangıç ​​saatini belirtin (SS:DD:SS olarak belirtin) :"
+extrae_Fragmento_Video_MSG4="Bitiş zamanını belirtin (SS:DD:SS olarak belirtin) :"
+extrae_Fragmento_Video_MSG5="VİDEO BAŞARIYLA KESİLDİ"
+extrae_Fragmento_Video_MSG6="VİDEO KESİLİRKEN HATA"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Ses dosyasını belirtin:"
+mezcla_Audio_Video_MSG2="Video dosyasını belirtin:"
+mezcla_Audio_Video_MSG3="Oluşturulacak video dosyasını belirtin:"
+mezcla_Audio_Video_MSG4="YENİ VİDEO DOSYASI BAŞARIYLA OLUŞTURULDU"
+mezcla_Audio_Video_MSG5="VİDEO DOSYASI OLUŞTURULURKEN HATA"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="KONSOL ARAYÜZÜ İÇİN SEÇENEK MEVCUT DEĞİL"
+graba_escritorio_MSG2="-- MASAÜSTÜ OTURUMUNU KAYIT -- KAYDI İPTAL ETMEK VE DURDURMAK İÇİN CTRL + C BASIN"
+graba_escritorio_MSG3="VİDEO KAYDI TAMAMLANDI"
+

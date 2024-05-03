@@ -1,0 +1,58 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDanish/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Danés para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* NAVIGATIONSMULIGHEDER ************************"
+ayuda_gestor_de_archivos_MSG2="Gennemse filsystemet."
+ayuda_gestor_de_archivos_MSG3="X --> Gå ud"
+ayuda_gestor_de_archivos_MSG4="A --> Forrige bibliotek"
+ayuda_gestor_de_archivos_MSG5="B --> Næste mappe"
+ayuda_gestor_de_archivos_MSG6="Handlinger på filer og mapper."
+ayuda_gestor_de_archivos_MSG7="C --> Kopiér fil"
+ayuda_gestor_de_archivos_MSG8="M --> Flyt fil"
+ayuda_gestor_de_archivos_MSG9="CD --> Kopier mappe"
+ayuda_gestor_de_archivos_MSG10="MD --> Flyt mappe"
+ayuda_gestor_de_archivos_MSG11="Forstå handlinger på filer og mapper."
+ayuda_gestor_de_archivos_MSG12="Z --> Komprimer en fil"
+ayuda_gestor_de_archivos_MSG13="DZ --> Udpak en fil"
+ayuda_gestor_de_archivos_MSG14="EZ --> Opret en .tar.gz- eller .tar.bz2-pakke"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Pak en .tar.gz eller .tar.bz2 ud"
+ayuda_gestor_de_archivos_MSG16="***********************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Aktuelt aktivt bibliotek"
+gestor_de_archivos_MSG0B="Filer i"
+gestor_de_archivos_MSG1="=========================== NAVIGATIONSMULIGHEDER ========================"
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> HJÆLPE="
+gestor_de_archivos_MSG3="=========================================================================="
+gestor_de_archivos_MSG4="Skriv en indstilling"
+gestor_de_archivos_MSG5="Skriv mappe"
+gestor_de_archivos_MSG6="Skriv kildefilen"
+gestor_de_archivos_MSG7="Skriv destinationsfilen"
+gestor_de_archivos_MSG8="Fil blev kopieret"
+gestor_de_archivos_MSG9="Fejl ved kopiering af fil"
+gestor_de_archivos_MSG10="Skriv kildefilen"
+gestor_de_archivos_MSG11="Skriv destinationsfilen"
+gestor_de_archivos_MSG12="Fil flyttet med succes"
+gestor_de_archivos_MSG13="Fejl ved flytning af fil"
+gestor_de_archivos_MSG14="Skriv kildebiblioteket"
+gestor_de_archivos_MSG15="Skriv destinationsmappen"
+gestor_de_archivos_MSG16="Mappen blev kopieret"
+gestor_de_archivos_MSG17="Fejl ved kopiering af mappe"
+gestor_de_archivos_MSG18="Skriv kildebiblioteket"
+gestor_de_archivos_MSG19="Skriv destinationsmappen"
+gestor_de_archivos_MSG20="Mappen blev flyttet"
+gestor_de_archivos_MSG21="Fejl ved flytning af mappe"
+gestor_de_archivos_MSG22="FIL TIL KOMPRESSERING"
+gestor_de_archivos_MSG23="Angiv filstien"
+
+

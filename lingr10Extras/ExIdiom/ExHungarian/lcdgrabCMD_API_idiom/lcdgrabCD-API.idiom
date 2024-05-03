@@ -1,0 +1,184 @@
+#########################################################
+# lcdgrabAPI_idiom/ExHungarian/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Húngaro para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="fut"
+copia_bin_MSG2="--------------A FELVÉTELI FOLYAMAT ÚJRAPRÓBÁLÁSA--------------"
+copia_bin_MSG3="	KÉPFÁJL TÖRLÉSE"
+copia_bin_MSG4="HIBA TÖRTÉNT FELVÉTEL KÖZBEN"
+copia_bin_MSG5="A lemezkép dump .iso fájl nem található. Felvétel megszakítása..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="futás"
+datos_al_vuelo_MSG2="Hiba a rögzítési kísérlet, újrapróbálkozás túlírás támogatása nélkül"
+datos_al_vuelo_MSG3="Ellenőrizze, hogy a forráslemez vagy eszköz"
+datos_al_vuelo_MSG4="jó állapotban van"
+datos_al_vuelo_MSG5="A kivezető blokk számának lekérése a forráslemezről"
+datos_al_vuelo_MSG6="LEMEZ MÁSOLÁSA..."
+
+# clonar_cd
+
+clonar_cd_MSG1="futás"
+clonar_cd_MSG2="A CD SIKERTELEN KLÓNOZVA"
+clonar_cd_MSG3="HIBA TÖRTÉNT A CD KLÓNOZÁSÁN"
+
+# datos
+
+datos_MSG1="Fájlok és könyvtárak az .iso kép létrehozásához"
+datos_MSG2="CD/DVD/BD LABEL"
+datos_MSG3="Adja meg a jövőbeli CD/DVD/BD nevét:"
+datos_MSG4="A fájlkezelő indítása:"
+datos_MSG5="	KÉP LÉTREHOZÁSA..."
+datos_MSG6="fut"
+datos_MSG7="ISO-9660 KÉP LÉTREHOZOTT"
+datos_MSG8="		ÉGETŐ CD/DVD/BD"
+datos_MSG9="A KÉPFÁJL LÉTREHOZÁSI FOLYAMAT SIKERTELEN"
+datos_MSG10="ÚJ LÉTREHOZÁSA A HFS TÁMOGATÁSA NÉLKÜL (Macintosh)"
+datos_MSG11="KÉP TÖRLÉSE..."
+datos_MSG12="ÚJ KÉP LÉTREHOZÁSA...."
+datos_MSG13="NEM VOLT HELYES FELVÉTELEZÉS"
+datos_MSG14="-------------A FELVÉTELI FOLYAMAT ÚJRAPRÓBÁLÁSA -----------"
+datos_MSG15="KÉP TÖRLÉSE..."
+datos_MSG16="ISO-9660 ADATOK CD/DVD/BD ÉGÉSE..."
+datos_MSG17="Nem található."
+datos_MSG18="A lemezrögzítés megszakítása..."
+
+# datoslb
+
+datoslb_MSG1="Hiba: A képfájl nem található. Megszakítás..."
+datoslb_MSG2="FELVÉTELI FOLYAMAT OK"
+datoslb_MSG3="HIBA A FELVÉTELI FOLYAMATBAN"
+
+# borra
+
+borra_MSG0="Előző menü"
+borra_MSG1="Válassza ki a módot a CD-RW törléséhez"
+borra_MSG2="--------------------------------------"
+borra_MSG3="Gyors törlés (cdrecord használata)"
+borra_MSG4="Törlés befejezése (cdrecord használata)"
+borra_MSG5="Törlés szükséges (cdrskin használata)"
+borra_MSG6="fut"
+borra_MSG7="A szükséges formázás vagy törlés a lemez állapotától függően megtörténik"
+borra_MSG8="A CD-RW SIKERESEN TÖRÖLVE!!"
+borra_MSG9="HIBA CD-RW TÖRLÉSE ESETÉN"
+borra_MSG10="CD-RW TÖRLÉS FORCE"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="HIBA A CD-RW TÖRLÉSÉNEK"
+err_borra_cdrw_MSG2="CD-RW NEM HASZNÁLHATÓ"
+err_borra_cdrw_MSG3="NEM LEHETSÉGES A CD-RW TÖRLÉSE"
+err_borra_cdrw_MSG4="ELLENŐRIZZE A CD-RW-T FIZIKAI SÉRÜLÉSRE"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="futás"
+cerca_cd_MSG2="A CD MEGFELELŐEN LEZÁRVA VAN"
+cerca_cd_MSG3="HIBA A CD ZÁRÁSÁNÁL"
+cerca_cd_MSG4="AZ ADAT-CD-N VONATKOZÓ SZÁM ZÁRÁSA..."
+
+# grabimg
+
+grabimg_MSG1=".iso vagy .ext2 kép CD-re/DVD-re írandó"
+grabimg_MSG2="A fájlkezelő indítása."
+grabimg_MSG3="Írja be a teljes elérési utat, ahol az égetni kívánt CD/DVD kép található:"
+grabimg_MSG4="futás"
+grabimg_MSG5="------------A FELVÉTELI FOLYAMAT ÚJRAPRÓBÁLÁSA ------------"
+grabimg_MSG6="FELVÉTEL KÉSZ!!"
+grabimg_MSG7="A .EXT2 KÉP SIKERESEN RÖGZÍVE"
+
+# grabimglb
+
+grabimglb_MSG1="Írja be a teljes elérési utat, ahol az égetni kívánt CD/DVD kép található:"
+grabimglb_MSG2="Kép írása a lemezre..."
+grabimglb_MSG3="ISO-9660 KÉP SIKERESEN RÖGZÍTETT"
+grabimglb_MSG4="HIBA AZ ISO-9660 KÉP RÖGZÍTÉSÉBEN"
+grabimglb_MSG5="Hiba: A képfájl nem található. Megszakítás..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin és .cue fájlok a kép rögzítéséhez"
+grabimg_cue_MSG2="A bin/cue kép rögzítéséhez mindkét fájlnak kell"
+grabimg_cue_MSG3="az aktív könyvtárban legyen."
+grabimg_cue_MSG4="Jelenlegi aktív könyvtár"
+grabimg_cue_MSG5="Írja be a *.cue fájl nevét, amely a *.bin képfájlra hivatkozik"
+grabimg_cue_MSG6=".cue fájl: "
+grabimg_cue_MSG7="futás"
+grabimg_cue_MSG8="FELVÉTEL KÉSZ!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Többmenetes CD írása .iso képfájlból"
+cd_multi_MSG2="Első munkamenet írása a CD-re .iso képfájlból"
+cd_multi_MSG3="Többmenetes CD írása a lemezen lévő fájlokból"
+cd_multi_MSG4="Az egymást követő munkamenetek rögzítése a CD-re a merevlemezen lévő fájlokból"
+cd_multi_MSG5="Ehhez az opcióhoz több munkamenetes CD-re van szükség, korábban rögzített munkamenettel."
+cd_multi_MSG6="Előző menü"
+cd_multi_MSG7=".iso kép a CD-Multi-sessionra írandó"
+cd_multi_MSG8="Adja meg az .iso kép elérési útját"
+cd_multi_MSG9="futás"
+cd_multi_MSG10="MULTI SESSION CD SIKERESEN RÖGZÍTETT!!"
+cd_multi_MSG11="A képbe belefoglalandó könyvtárak."
+cd_multi_MSG12="Adja meg lent, hogy mely könyvtárakat vegye fel"
+cd_multi_MSG13="Adjon meg egy nevet a CD címkéjének:"
+cd_multi_MSG14="KÉP LÉTREHOZÁSA..."
+cd_multi_MSG15="SIKERTELEN LÉTREHOZOTT"
+cd_multi_MSG16="HIBA A KÉP LÉTREHOZÁSAKOR. A FELVÉTELI FOLYAMAT MEGTÖRÍTÉSE..."
+cd_multi_MSG17="ÉGETŐ CD-KÉP..."
+cd_multi_MSG18="CD MULTI-SESSION MENÜ"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="HANG-CD RIPPELÉSE..."
+copia_cd_audio_MSG2="Futás"
+copia_cd_audio_MSG3="A AUDIO SZÁMOK SIKERESEN ELÉRTEK!!"
+copia_cd_audio_MSG4="HIBA HANGSZÁMOK RIPELÉSÉN"
+copia_cd_audio_MSG5="AZ AUDIO CD ÉGÉSE..."
+copia_cd_audio_MSG6="AUDIO CD SIKERESEN MÁSOLVA!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav fájlok CD-re írandó"
+wav_a_cd_MSG2="A Linux-cdgrab nem ellenőrzi a könyvtár méretét"
+wav_a_cd_MSG3="Győződjön meg róla, hogy nem több 650 Mbyte-nál abban az esetben"
+wav_a_cd_MSG4="ha 80 perces CD-t használ."
+wav_a_cd_MSG5="Adja meg a .wav fájlok könyvtárútvonalát"
+wav_a_cd_MSG6="futás"
+wav_a_cd_MSG7="FOLYAMAT VÉGEZVE!"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Mixto létrehozási projekt (Data Image .iso + Audio Files .wav)"
+cdmixto_MSG2="A Linux-cdgrab nem ellenőrzi a könyvtár méretét"
+cdmixto_MSG3="hol vannak az audiofájlok."
+cdmixto_MSG4="A rögzíteni kívánt .iso képből sem fogja ezt megtenni"
+cdmixto_MSG5="után."
+cdmixto_MSG6="Legyen összhangban a méretével"
+cdmixto_MSG7="írás az új CD-re."
+cdmixto_MSG8="Adja meg az audiofájlok elérési útját:"
+cdmixto_MSG9="Adja meg az iso kép elérési útját:"
+cdmixto_MSG10="#################################"
+cdmixto_MSG11="VEGYES CD FELVÉTEL: ADAT + AUDIO"
+cdmixto_MSG12="fut"
+cdmixto_MSG13="----VEGYES-CD SIKERTELEN LÉTREHOZÁSA -----!!"
+cdmixto_MSG14="------HIBA A CD-MIXED ÉGÉSE ESETÉN--------"
+
+# discoinfo
+
+discoinfo_MSG1="futás"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI port vizsgálata"
+cdrecord_scan_MSG1="Hiba az IDE/SCSI port vizsgálatakor"
+cdrecord_scan_MSG2="cdrecord nem található"
+

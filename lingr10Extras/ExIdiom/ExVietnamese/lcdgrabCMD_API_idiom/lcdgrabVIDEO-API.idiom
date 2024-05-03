@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en Vietnamita para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="TƯƠNG THÍCH CHUYỂN ĐỔI VIDEO ĐĨA BLU-RAY"
+conv_video_BDVideo_MSG2="Chỉ định đường dẫn của tệp video cần chuyển đổi:"
+conv_video_BDVideo_MSG3="Chỉ định tên tệp của video mới để tạo:"
+conv_video_BDVideo_MSG4="Tệp video được chuyển đổi thành công!!"
+conv_video_BDVideo_MSG5="Lỗi chuyển đổi tập tin video"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="TẬP TIN CHUYỂN ĐỔI VIDEO"
+conv_VideoFich_MSG2="Chỉ định tệp video cần chuyển đổi:"
+conv_VideoFich_MSG3="Chỉ định tệp video cần tạo:"
+conv_VideoFich_MSG4="ĐÃ HOÀN THÀNH CHUYỂN ĐỔI TẬP TIN VIDEO"
+conv_VideoFich_MSG5="LỖI KHI CHUYỂN ĐỔI TẬP TIN VIDEO"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Chỉ định tệp video:"
+extrae_Audio_de_Video_MSG2="Chỉ định tệp âm thanh mp3 để tạo:"
+extrae_Audio_de_Video_MSG3="TRÍCH XUẤT ÂM THANH THÀNH CÔNG"
+extrae_Audio_de_Video_MSG4="LỖI KHI CHIẾT XUẤT ÂM THANH"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Chỉ định tệp video:"
+extrae_Fragmento_Video_MSG2="Chỉ định tệp video cần tạo:"
+extrae_Fragmento_Video_MSG3="Chỉ định thời gian ban đầu (Chỉ định là HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="Chỉ định thời gian kết thúc (Chỉ định là HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="VIDEO ĐƯỢC CẮT THÀNH CÔNG"
+extrae_Fragmento_Video_MSG6="LỖI KHI CẮT VIDEO"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Chỉ định tệp âm thanh:"
+mezcla_Audio_Video_MSG2="Chỉ định tệp video:"
+mezcla_Audio_Video_MSG3="Chỉ định tệp video cần tạo:"
+mezcla_Audio_Video_MSG4="TẬP TIN VIDEO MỚI ĐƯỢC TẠO THÀNH CÔNG"
+mezcla_Audio_Video_MSG5="LỖI TẠO TẬP TIN VIDEO"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="TÙY CHỌN KHÔNG CÓ SẴN CHO GIAO DIỆN CONSOLE"
+graba_escritorio_MSG2="-- GHI PHẦN MÁY TÍNH -- NHẤN CTRL + C ĐỂ HỦY VÀ DỪNG GHI"
+graba_escritorio_MSG3="ĐÃ QUAY VIDEO HOÀN THÀNH"
+

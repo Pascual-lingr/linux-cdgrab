@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTigrinya/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al tigriña. Generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="ምፍጣርን ምትሕሓዝን ምስ ዲስክ ምስልታት"
+MenuImagen_MSG2="------------- ምስሊ ምፍጣር ------------"
+MenuImagen_MSG3="ISO-9660 ምስሊ ምፍጣር።"
+MenuImagen_MSG4="ብመበቆላዊ ስርዓተ ፋይል ሊኑክስ ምስሊ ምፍጣር።"
+MenuImagen_MSG5="ናይ ዝኾነ ብሎክ መሳርሒ .img ምስሊ ፍጠር።"
+MenuImagen_MSG6="ካብቲ ሕጂ ዘሎ መሳርሒ .bin .cue ምስሊ ፍጠር።"
+MenuImagen_MSG7="------------------ ካልኦት ኣማራጺታት -----------------"
+MenuImagen_MSG8="ካብ .bin ምስሊ .cue መግለጺ ፋይል ምፍጣር።"
+MenuImagen_MSG9="ንሓደ .nrg (ኒሮ በርኒንግ ሮም) ምስሊ ናብ .iso ምቕያር።"
+MenuImagen_MSG10="ንሓደ ምስሊ ብ gzip, bzip2 ወይ xz ምጽቃጥ።"
+MenuImagen_MSG11="ንሓደ ምስሊ ብ zip, gz, bz2 ወይ xz ምውጋድ።"
+MenuImagen_MSG11B="ድምር md5 ናይ iso ምስልታት ምፍታሽ።"
+MenuImagen_MSG12="ናይ iso ሞድ ቀይር።"
+MenuImagen_MSG0="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+MenuImagen_MSG13="ክጽቀጥ ዘለዎ ፋይል ምስሊ።"
+MenuImagen_MSG14="ፋይል ምስሊ ምጽቃጥ።"
+MenuImagen_MSG15="እቲ ክትጽቕጦ እትደሊ ምስሊ ዝርከበሉ መንገዲ ማህደር ጽሓፍ:"
+MenuImagen_MSG16="ክትጽቅጥዎ እትደልዩ ፋይል ምስሊ።"
+MenuImagen_MSG17="ናይ ሕጂ ደረጃ ISO።"
+MenuImagen_MSG18="ደረጃ ኣይሶ።"
+MenuImagen_MSG19="ኣስማት ፋይላት ብሓደ ክፍሊ ዝቖሙ እዮም።"
+MenuImagen_MSG20="ኣብ 8.3 ፊደላት ድማ ዝተሓጽሩ እዮም።"
+MenuImagen_MSG21="ምስምማዕ ምትእስሳር እንተደሊኻ ነዚ ደረጃ ምረጽ።"
+MenuImagen_MSG21b="ኣብ ትሕቲ ስርዓተ ምምሕዳር MS-DOS።"
+MenuImagen_MSG22="ኣስማት ፋይላት ብሓደ ክፍሊ ዝቖሙ እዮም።"
+MenuImagen_MSG23="ዘይተገደበ ደረጃ።"
+MenuImagen_MSG24="ናይ ፋይል ምትእስሳር እንተደሊኻ ነዚ ደረጃ ተጠቐመሉ።"
+MenuImagen_MSG25="ዓቢ፡ ኣብዚ ጉዳይ >= 2 ጊጋባይት።"
+MenuImagen_MSG26="ኩሎም ደረጃታት ISO ኣስማት ፋይላት ብዓበይቲ ፊደላት፣ ብንኣሽቱ ፊደላትን ይድርቱ። "
+MenuImagen_MSG27="ከም _ ዝኣመሰሉ ፊደላት . ኣስማት ፋይላት ኣብ 31 ፊደላት ዝተሓጽሩ እዮም።"
+MenuImagen_MSG28="ዝለዓለ 8 መንገድታት ማህደርን ስም መንገድን።"
+MenuImagen_MSG29="ማህደርታት ናብ 255 ፊደላት።"
+MenuImagen_MSG30="ሓድሽ ደረጃ iso ምረጽ።"
+MenuImagen_MSG31="ISO ደረጃ 4 ወግዓዊ ኣይኮነን።"
+MenuImagen_MSG32="ንገጽ mkisofs man ተወከስ።"
+MenuImagen_MSG33="ዘይሕጋዊ ደረጃ ISO።"
+MenuImagen_MSG34="ብነባሪ iso level 3 ኣቐምጥ "
+

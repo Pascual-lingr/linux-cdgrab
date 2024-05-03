@@ -1,0 +1,77 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSpanishEn/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Messajes for burn CD interface.
+#
+# Experimental Spanish translation from English, generate by Google Translate
+#
+# Traducción experimental al Español desde los archivos de Inglés,
+# generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribute under GPL v2
+# Part of Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="ELIGE UNA OPCIÓN"
+clonar_MSG2="----- COPIAS DE DISCO CON IMAGEN ANTERIOR ------"
+clonar_MSG3="Copiar CD de datos"
+clonar_MSG4="Crear una imagen de CD anterior en el disco duro"
+clonar_MSG5="------------ COPIA DE DISCO SOBRE LA MARCHA -------------"
+clonar_MSG6="Copiar un CD de datos sobre la marcha"
+clonar_MSG7="Clonar un CD de datos sobre la marcha"
+clonar_MSG7B="Copiar un CD de audio sobre la marcha"
+clonar_MSG8="LAS OPCIONES DE COPIA SOBRE LA VUELA REQUIEREN DOS UNIDADES ÓPTICAS INSTALADAS EN TU"
+clonar_MSG9="COMPUTADORA, YA QUE LOS DATOS SE ESCRIBEN MIENTRAS SE LEEN DIRECTAMENTE DESDE EL"
+clonar_MSG10="DISCO FUENTE. SI TU ORDENADOR SOLO TIENE UNO, NO PODRÁS"
+clonar_MSG11="PARA UTILIZAR LA COPIA SOBRE LA MARCHA"
+clonar_MSG12B="COPIAR CD DE DATOS"
+clonar_MSG0="Menú anterior"
+
+# mgrabacd
+
+mgrabacd_MSG1=" DATOS DEL CD DESDE HDD"
+mgrabacd_MSG2="Grabar nuevo CD de datos. (use cdrtools)"
+mgrabacd_MSG3="Grabar nuevo CD de datos. (use libburnia)"
+mgrabacd_MSG4="Menú anterior"
+mgrabacd_MSG5="Escribir opción"
+
+# mgrabaimg
+
+mgrabaimg_MSG1=" QUEMANDO IMAGEN DE DATOS"
+mgrabaimg_MSG2="Grabar archivo de imagen iso o ext2 en CD-R/RW (use cdrtools)"
+mgrabaimg_MSG3="Grabar archivo de imagen ISO en CD-R/RW (use libburnia)"
+mgrabaimg_MSG4="Menú anterior"
+mgrabaimg_MSG5="Escribir opción"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Grabar CD de audio desde archivos .wav"
+mgrabararchivosaudio_MSG2="Grabar CD de audio desde archivos .mp3"
+mgrabararchivosaudio_MSG3="Grabar CD de audio desde archivos .ogg"
+mgrabararchivosaudio_MSG0="Menú anterior"
+mgrabararchivosaudio_MSG0B="Tipo de opción"
+mgrabararchivosaudio_MSG4="Grabar CD de audio desde archivos .flac"
+mgrabararchivosaudio_MSG5="GRABACIÓN DE CD-AUDIO DESDE ARCHIVOS"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="     QUEMAR CD"
+menugrabar_cd_MSG2="------------------- CD - DATOS -------------------"
+menugrabar_cd_MSG3="Copiar datos del CD."
+menugrabar_cd_MSG4="Grabar nuevo CD de datos."
+menugrabar_cd_MSG5="Grabar nuevo CD de datos (multisesión)"
+menugrabar_cd_MSG6="Grabar archivo de imagen .iso o .ext2 en CD"
+menugrabar_cd_MSG7="Grabar archivo de imagen .bin/.cue en CD"
+menugrabar_cd_MSG8="------------------- CD - AUDIO ------------------"
+menugrabar_cd_MSG9="Copiar CD de audio"
+menugrabar_cd_MSG13="----------------- REST OPTIONS -----------------"
+menugrabar_cd_MSG14="Grabar un CD mixto (datos + audio)"
+menugrabar_cd_MSG15="Borrar CD-RW"
+menugrabar_cd_MSG16="Cerrar CD abierto"
+menugrabar_cd_MSG17="Mostrar información del disco en la unidad"
+menugrabar_cd_MSG18="Grabar CD de audio desde archivos de disco"
+menugrabar_cd_MSG0="Menú anterior"
+menugrabar_cd_MSGPRINCIPAL="Tipo de opción"
+

@@ -1,0 +1,55 @@
+#########################################################
+# lcdgrabAPI_idion/ExAfrikaans/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Afrikáans para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="SKYFDRYF BEDRYWIGHEDE"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- BELANGRIK -----------------------"
+MenuDispositivosBloque_MSG3="+ Moenie skryfbewerkings op hardeskywe uitvoer nie "
+MenuDispositivosBloque_MSG4="+ oor skyfpartisies wat beelde bevat"
+MenuDispositivosBloque_MSG5="+ herstel, selflaai partisies of jou eie"
+MenuDispositivosBloque_MSG6="+ bedryfstelsel partisie."
+MenuDispositivosBloque_MSG7="+ Die misbruik van die skryfopsies van hierdie spyskaart "
+# Se omite 'n por evitar errores de funcionamiento
+MenuDispositivosBloque_MSG8="+ kan n katastrofe in die stelsel genereer."
+MenuDispositivosBloque_MSG9="+ Gebruik met omsigtigheid. Gebruik op eie risiko."
+MenuDispositivosBloque_MSG10="------------------- SKRYF --------------------"
+# Se omite 'n por evitar errores de funcionamiento
+MenuDispositivosBloque_MSG11="Gooi n beeldlêer op skyfstasie"
+MenuDispositivosBloque_MSG11B="Stop iso- of img-beeld (selflaaibaar) na pendrive of USB-skyf"
+MenuDispositivosBloque_MSG11C="Nie alle installasiestelsels word ondersteun nie."
+MenuDispositivosBloque_MSG12="Formateer skyf met inheemse Linux- of Windows-lêerstelsel"
+# Se omite 'n por evitar errores de funcionamiento
+MenuDispositivosBloque_MSG11="Gooi n beeldlêer op skyfstasie"
+MenuDispositivesBloque_MSG11B="Stop iso- of img-beeld (selflaaibaar) na pendrive of USB-skyf"
+MenuDispositivosBloque_MSG11C="Nie alle installasiestelsels word ondersteun nie."
+MenuDispositivosBloque_MSG12="Formateer skyf met inheemse Linux- of Windows-lêerstelsel"
+MenuDispositivosBloque_MSG13="------------------- LEES ---------------------"
+# Se omite 'n por evitar errores de funcionamiento
+MenuDispositivosBloque_MSG14="Skep .img-prent vanaf n skyfstasie"
+MenuDispositivosBloque_MSG15="Vorige spyskaart"
+# Se omite 'n por evitar errores de funcionamiento
+MenuDispositivosBloque_MSG16="Tik n opsie"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------BELANGRIK------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Formateer eenheid met lêerstelsel wat in toestelle gebruik word"
+UIFormatearUnidad_linuxfs_MSG2B="+ of skyfpartisies."
+UIFormatearUnidad_linuxfs_MSG3="+ Hierdie opsie sal alle bestaande data op die eenheid uitvee"
+# Se omite 'n por evitar errores de funcionamiento
+UIFormatearUnidad_linuxfs_MSG4="+ Verwyderbare aandrywers geformateer met n lêerstelsel"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux self sal slegs onder hierdie bedryfstelsel toeganklik wees."
+UIFormatearUnidad_linuxfs_MSG6="+ Gebruik met omsigtigheid, gebruik op eie risiko."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+# Se omite 'n por evitar errores de funcionamiento
+UIFormatearUnidad_linuxfs_MSG8="DRUK DIE C SLEUTEL OM VOORT TE GAAN (Die proses sal in n ander opsie gekanselleer word;"
+

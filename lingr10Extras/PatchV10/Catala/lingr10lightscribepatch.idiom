@@ -1,0 +1,30 @@
+# Idioma Catala per el path LightScribe de LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuire baix la mateixa licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Premeu INTRO per continuar..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="===================================="
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 SUPORT LIGHTSCRIBE."
+cabecera_lightscribe_MSG3="===================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Escriu la ruta de l'imatge que vols imprimir al disc:"
+imprimir_disco_lightscribe_MSG2="El format de l'imatge ha de ser .bmp"
+imprimir_disco_lightscribe_MSG3="executant"
+imprimir_disco_lightscribe_MSG4="Etiqueta impresa al Disc"
+imprimir_disco_lightscribe_MSG5="Error en imprimir l'etiqueta al disc"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="La tecnologia LightScribe només és present en algunes unitats"
+lingr10lightscribepatch_MSG2="Ha de comprovar si la seva gravadora la incorpora."
+lingr10lightscribepatch_MSG3="Així mateix només poden etiquetar CD o DVD especials per LightScribe"
+lingr10lightscribepatch_MSG4="Imprimir un Disc LightScribe"
+lingr10lightscribepatch_MSG5="Menu anterior"
+lingr10lightscribepatch_MSG6="Opció Invàlida"

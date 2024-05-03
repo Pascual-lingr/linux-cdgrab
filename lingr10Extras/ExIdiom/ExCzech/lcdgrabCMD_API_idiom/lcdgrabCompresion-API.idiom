@@ -1,0 +1,55 @@
+#########################################################
+# lcdgrabAPI_idiom/ExCzech/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en checo para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Zadejte cestu k souboru nebo adresáři:"
+empaquetar_MSG2="------- Možnosti -------"
+empaquetar_MSG3="Vygenerovat soubor .tar.gz"
+empaquetar_MSG4="Vygenerovat soubor .tar.bz2"
+empaquetar_MSG5="Zadejte možnost: "
+empaquetar_MSG6="Spuštěno"
+empaquetar_MSG7="Neplatná volba"
+
+# desempaquetar
+
+desempaquetar_MSG1="Zadejte cestu k souboru:"
+desempaquetar_MSG2="ŽÁDNÝ DEKOMPRESOR NALEZEN"
+desempaquetar_MSG3="NEBO"
+desempaquetar_MSG4="NEEXISTUJE"
+desempaquetar_MSG5="Běží"
+desempaquetar_MSG6="rozbaleno"
+desempaquetar_MSG7="Chyba při pokusu o rozbalení"
+
+# comprime
+
+comprime_MSG1="KOMPRESOVÁNÍ OBRÁZKU"
+comprime_MSG2="Komprimovat pomocí bzip2"
+comprime_MSG3="Komprimovat pomocí gzip"
+comprime_MSG4="Komprimovat pomocí xz"
+comprime_MSG5="Předchozí nabídka"
+comprime_MSG6="Spuštěno"
+comprime_MSG7="Komprese obrazového souboru dokončena"
+comprime_MSG8="Chyba při komprimaci s"
+comprime_MSG9="Neplatný kompresor"
+
+# descomprime
+
+descomprime_MSG1="Zadejte cestu k souboru:"
+descomprime_MSG2="------------------------"
+descomprime_MSG3="ŽÁDNÝ DEKOMPRESOR NALEZEN PRO"
+descomprime_MSG4="NEBO"
+descomprime_MSG5="NEEXISTUJE"
+descomprime_MSG6="Běží"
+descomprime_MSG7="nekomprimováno"
+descomprime_MSG8="Chyba při pokusu o dekomprimaci"
+
+

@@ -1,0 +1,184 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAmharic/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Amárico para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="መሮጥ"
+copia_bin_MSG2="--------------የመቅዳት ሂደትን እንደገና በመሞከር ላይ---------------"
+copia_bin_MSG3="	የምስል ፋይልን በመሰረዝ ላይ"
+copia_bin_MSG4="በቀረጻው ላይ ስህተት ተከስቷል።"
+copia_bin_MSG5="የዲስክ .iso ምስል መጣያ ፋይል ሊገኝ አይችልም። ቀረጻን በማስወገድ ላይ..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="መሮጥ"
+datos_al_vuelo_MSG2="የቀረጻ ሙከራ ስህተት፣ ያለተቃጠለ ድጋፍ እንደገና በመሞከር ላይ"
+datos_al_vuelo_MSG3="ምንጩ ዲስክ ወይም መሳሪያ መሆኑን ያረጋግጡ"
+datos_al_vuelo_MSG4="በጥሩ ሁኔታ ላይ ነው"
+datos_al_vuelo_MSG5="የምንጩ ዲስክ የሊድ መውጫ ቁጥር ማግኘት"
+datos_al_vuelo_MSG6="መቅዳት ዲስክ..."
+
+# clonar_cd
+
+clonar_cd_MSG1="መሮጥ"
+clonar_cd_MSG2="ሲዲ በተሳካ ሁኔታ ተዘግቷል"
+clonar_cd_MSG3="ሲዲውን ሲዘጉ ስህተት ተፈጥሯል"
+
+# datos
+
+datos_MSG1="ፋይሎች እና ማውጫዎች የ.iso ምስል ለመፍጠር"
+datos_MSG2="ሲዲ/ዲቪዲ/ቢዲ መለያ"
+datos_MSG3="ለወደፊቱ ሲዲ/ዲቪዲ/ቢዲ ስም አስገባ::"
+datos_MSG4="ፋይል አቀናባሪውን በማስጀመር ላይ፡"
+datos_MSG5="	ምስል መፍጠር። . ."
+datos_MSG6="መሮጥ"
+datos_MSG7="ISO-9660 ምስል ተፈጥሯል።"
+datos_MSG8="		ሲዲ/ዲቪዲ/ቢዲ ማቃጠል"
+datos_MSG9="የምስል ፋይል የመፍጠር ሂደት አልተሳካም"
+datos_MSG10="የHFS (ማኪንቶሽ) ድጋፍ ከሌለ አዲስ ለመፍጠር እንደገና በመሞከር ላይ"
+datos_MSG11="ምስልን በመሰረዝ ላይ ..."
+datos_MSG12="አዲስ ምስል በመፍጠር ላይ ..."
+datos_MSG13="በትክክል ለመቅዳት አልተቻለም"
+datos_MSG14="------------የመቅዳት ሂደትን እንደገና በመሞከር ላይ-----------"
+datos_MSG15="ምስል አጥፋ..."
+datos_MSG16="ISO-9660 ውሂብ ሲዲ/ዲቪዲ/ቢዲ ማቃጠል..."
+datos_MSG17="አልተገኘም።"
+datos_MSG18="የዲስክ ቀረጻን በማስወገድ ላይ..."
+
+# datoslb
+
+datoslb_MSG1="ስህተት፡ የምስል ፋይሉ ሊገኝ አልቻለም። በማስወረድ ላይ..."
+datoslb_MSG2="የመቅዳት ሂደት እሺ"
+datoslb_MSG3="በቀረጻው ሂደት ውስጥ ስህተት"
+
+# borra
+
+borra_MSG0="ቀዳሚ ምናሌ"
+borra_MSG1="ሲዲ-አርደብሊውሱን ለማጥፋት ሁነታን ይምረጡ"
+borra_MSG2="------------------------------"
+borra_MSG3="ፈጣን ሰርዝ (cdrecord ተጠቀም)"
+borra_MSG4="ሙሉ ሰርዝ (cdrecord ተጠቀም)"
+borra_MSG5="መሰረዝ ያስፈልጋል (cdrskin ተጠቀም)"
+borra_MSG6="መሮጥ"
+borra_MSG7="በዲስክ ሁኔታ ላይ በመመስረት አስፈላጊው ቅርጸት ወይም ስረዛ ይተገበራል"
+borra_MSG8="CD-RW በተሳካ ሁኔታ ተሰርዟል!!"
+borra_MSG9="ሲዲ-አርደብሊው ሲሰረዝ ስህተት"
+borra_MSG10="CD-RWን በግድ መሰረዝ"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="ሲዲ-አርደብሊውሱን ለማጥፋት ሲሞክሩ ስህተት"
+err_borra_cdrw_MSG2="CD-RW ጥቅም ላይ ሊውል አይችልም"
+err_borra_cdrw_MSG3="ይህን ሲዲ-አርደብሊው መሰረዝ አይቻልም"
+err_borra_cdrw_MSG4="ለአካል ጉዳት ሲዲ-አርደብሊው ፈትሽ"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="መሮጥ"
+cerrar_cd_MSG2="ሲዲው በትክክል ተዘግቷል"
+cerrar_cd_MSG3="ሲዲውን ሲዘጋ ስህተት"
+cerrar_cd_MSG4="በመረጃ ሲዲ ላይ መዝጋት..."
+
+# grabimg
+
+grabimg_MSG1=".iso ወይም .ext2 ምስል ወደ ሲዲ/ዲቪዲ ለማቃጠል"
+grabimg_MSG2="ፋይል አቀናባሪውን በማስጀመር ላይ።"
+grabimg_MSG3="ማቃጠል የሚፈልጉትን የሲዲ/ዲቪዲ ምስል የሚገኝበትን ሙሉ መንገድ ይተይቡ፡"
+grabimg_MSG4="መሮጥ"
+grabimg_MSG5="-----------የመቅዳት ሂደትን እንደገና በመሞከር ላይ-----------"
+grabimg_MSG6="ቀረጻ ተጠናቀቀ!!"
+grabimg_MSG7=".EXT2 ምስል በተሳካ ሁኔታ ተመዝግቧል"
+
+# grabimglb
+
+grabimglb_MSG1="ማቃጠል የሚፈልጉት የሲዲ/ዲቪዲ ምስል የሚገኝበትን ሙሉ መንገድ ይተይቡ፡"
+grabimglb_MSG2="ምስል ወደ ዲስክ በማቃጠል ላይ..."
+grabimglb_MSG3="ISO-9660 ምስል በተሳካ ሁኔታ ተመዝግቧል"
+grabimglb_MSG4="ISO-9660 ምስልን በመቅዳት ላይ ስህተት"
+grabimglb_MSG5="ስህተት: የምስል ፋይል አልተገኘም። በማስወረድ ላይ..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin እና .cue ፋይሎች ምስሉን ለመቅዳት"
+grabimg_cue_MSG2="የቢን/cue ምስልን ለመቅዳት ሁለቱም ፋይሎች የግድ መሆን አለባቸው"
+grabimg_cue_MSG3="በገቢር ማውጫ ውስጥ ይሁኑ።"
+grabimg_cue_MSG4="የአሁኑ ንቁ ማውጫ"
+grabimg_cue_MSG5="የ*.ቢን ምስል ፋይልን የሚያመለክት የ*.cue ፋይል ስም አስገባ"
+grabimg_cue_MSG6=".cue ፋይል:"
+grabimg_cue_MSG7="መሮጥ"
+grabimg_cue_MSG8="ቀረጻ ተጠናቀቀ!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="ባለብዙ ክፍለ ጊዜ ሲዲ ከ .iso ምስል ያቃጥሉ"
+cd_multi_MSG2="የመጀመሪያውን ክፍለ ጊዜ ከ.iso ምስል ወደ ሲዲ ያቃጥሉ"
+cd_multi_MSG3="ባለብዙ ክፍለ ጊዜ ሲዲ ከዲስክ ላይ ካሉ ፋይሎች ያቃጥሉ"
+cd_multi_MSG4="የተከታታይ ክፍለ ጊዜዎችን በሃርድ ድራይቭ ላይ ካሉ ፋይሎች ወደ ሲዲው ይቅረጹ"
+cd_multi_MSG5="ይህ አማራጭ ከዚህ ቀደም የተቀዳ ክፍለ ጊዜ ያለው ባለብዙ ክፍለ ጊዜ ሲዲ ይፈልጋል።"
+cd_multi_MSG6="የቀድሞው ምናሌ"
+cd_multi_MSG7=".iso ምስል ወደ ሲዲ-ብዙ ክፍለ ጊዜ የሚቃጠል"
+cd_multi_MSG8="የ iso ምስሉን መንገድ ይግለጹ"
+cd_multi_MSG9="መሮጥ"
+cd_multi_MSG10="ባለብዙ ክፍለ ጊዜ ሲዲ በተሳካ ሁኔታ ተመዝግቧል!!"
+cd_multi_MSG11="በምስሉ ውስጥ የሚካተቱ ማውጫዎች።"
+cd_multi_MSG12="የትኞቹ ማውጫዎች እንደሚካተቱ ከዚህ በታች ይግለጹ"
+cd_multi_MSG13="ለሲዲ መለያ ስም አስገባ:"
+cd_multi_MSG14="ምስል በመፍጠር ላይ..."
+cd_multi_MSG15="በተሳካ ሁኔታ ተፈጠረ"
+cd_multi_MSG16="ምስሉን ሲፈጥሩ ስህተት። የቀረጻውን ሂደት መጸየፍ..."
+cd_multi_MSG17="ሲዲ ምስል እያቃጠለ..."
+cd_multi_MSG18="ሲዲ ባለብዙ ክፍለ ጊዜ ምናሌ"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="ኦዲዮ ሲዲዎችን በመቅደድ ላይ..."
+copia_cd_audio_MSG2="መሮጥ"
+copia_cd_audio_MSG3="ኦዲዮ ትራኮች በተሳካ ሁኔታ የበሰለ!!"
+copia_cd_audio_MSG4="የድምጽ ትራኮችን በሚቀዳ ጊዜ ስህተት"
+copia_cd_audio_MSG5="የሚቃጠል ኦዲዮ ሲዲ..."
+copia_cd_audio_MSG6="ኦዲዮ ሲዲ በተሳካ ሁኔታ ተቀድቷል!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav ፋይሎች ወደ ሲዲ ይቃጠላሉ"
+wav_a_cd_MSG2="Linux-cdgrab የማውጫውን መጠን አያረጋግጥም"
+wav_a_cd_MSG3="ከ650Mbytes የማይበልጥ መሆኑን ያረጋግጡ"
+wav_a_cd_MSG4="የ80 ደቂቃ ሲዲ እየተጠቀሙ ከሆነ።"
+wav_a_cd_MSG5="የ.wav ፋይሎችን ማውጫ መንገድ አስገባ"
+wav_a_cd_MSG6="መሮጥ"
+wav_a_cd_MSG7="የተጠናቀቀ ሂደት!"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Mixto ፍጥረት ፕሮጀክት (የውሂብ ምስል .iso + የድምጽ ፋይሎች .wav)"
+cdmixto_MSG2="Linux-cdgrab የማውጫውን መጠን አያረጋግጥም"
+cdmixto_MSG3="የድምጽ ፋይሎች የት አሉ።"
+cdmixto_MSG4="እንዲሁም ከምትቀዳው የ.iso ምስል ላይ አይሰራም"
+cdmixto_MSG5="በኋላ"
+cdmixto_MSG6="ያለህ መጠን ወጥ ሁን"
+cdmixto_MSG7="ለአዲሱ ሲዲህ ይቃጠል።"
+cdmixto_MSG8="የድምጽ ፋይሎችን ዱካ ይግለጹ:"
+cdmixto_MSG9="የ iso ምስል ዱካውን ይግለጹ:"
+cdmixto_MSG10="#######################"
+cdmixto_MSG11="የተቀላቀለ ሲዲ መቅዳት፡ ዳታ + ኦዲዮ"
+cdmixto_MSG12="መሮጥ"
+cdmixto_MSG13="¡¡----በተሳካ ሁኔታ የተፈጠረ ድብልቅ ሲዲ-----!!"
+cdmixto_MSG14="------የተቀላቀለ ሲዲ ሲቃጠል ስህተት--------"
+
+# discoinfo
+
+discoinfo_MSG1="መሮጥ"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI ወደብ ተቃኘ"
+cdrecord_scan_MSG1="IDE/SCSI ወደብ መቃኘት ላይ ስህተት"
+cdrecord_scan_MSG2="ሲድሪኮርድ አልተገኘም"
+

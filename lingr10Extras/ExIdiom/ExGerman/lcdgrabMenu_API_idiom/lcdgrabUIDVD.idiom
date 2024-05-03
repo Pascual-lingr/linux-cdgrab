@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGerman/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menu de Interfaz para la grabación de DVD.
+# Traducción experimental al Alemán, generado con google translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Wählen Sie die Benutzeroberfläche aus, die verwendet werden soll:"
+SeleccionaIUDVD_MSG2="Schnittstelle für dvd+-rw-tools verwenden"
+SeleccionaIUDVD_MSG3="Schnittstelle für Cdrecord-ProDVD verwenden"
+SeleccionaIUDVD_MSG4="Schnittstelle für libburnia verwenden"
+SeleccionaIUDVD_MSG5="Vorheriges Menü"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="DVD-AUFNAHME"
+menugrabar_dvd_MSG2="----------------- DVD - DATEN -----------------"
+menugrabar_dvd_MSG3="Eine ISO-9660-Daten-DVD rippen"
+menugrabar_dvd_MSG4="Ein vorheriges DVD-Image auf der Festplatte erstellen"
+menugrabar_dvd_MSG5="Eine neue ISO-9660-Daten-DVD brennen"
+menugrabar_dvd_MSG6="Neue Datensitzung zur ISO-9660-Daten-DVD hinzufügen (DVD-Multisession)"
+menugrabar_dvd_MSG7="Erfordert eine zuvor mit der zweiten Option aufgenommene DVD"
+menugrabar_dvd_MSG8="Ein ISO-9660-Datenimage auf DVD brennen"
+menugrabar_dvd_MSG9="Ein .ext2-Image auf DVD brennen"
+menugrabar_dvd_MSG10="----------------- DVD - VIDEO -----------------"
+menugrabar_dvd_MSG11="Neues DVD-Video brennen"
+menugrabar_dvd_MSG12="--------------- ANDERE OPTIONEN ---------------"
+menugrabar_dvd_MSG13="Eine DVD+RW/DVD-RW formatieren"
+menugrabar_dvd_MSG14="DVD-Disc-Informationen anzeigen"
+menugrabar_dvd_MSG0="Vorheriges Menü"
+menugrabar_dvd_MSGPRINCIPAL="Geben Sie eine Option ein"
+menugrabar_dvd_MSG15="Dateien und Verzeichnisse, die auf der DVD enthalten sein sollen"
+menugrabar_dvd_MSG16="Dateimanager starten..."
+menugrabar_dvd_MSG17=".iso-Image zum Brennen auf DVD"
+menugrabar_dvd_MSG18="Geben Sie den Verzeichnispfad ein, in dem sich das .iso-Image befindet, das Sie brennen möchten"
+menugrabar_dvd_MSG19="Erfordert eine Version von cdrecord mit DVD-Unterstützung."
+menugrabar_dvd_MSG20="Das Brennen des .ext2-Images auf DVD erfolgt mit cdrecord."
+menugrabar_dvd_MSG21="Die vorhandene Version von cdrecord in Ihrer Installation sollte"
+menugrabar_dvd_MSG22="Unterstützt DVD-Aufnahme."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="OPTION WÄHLEN"
+dvd_clonar_MSG2="--------- DISC-KOPIEN MIT VORSCHAUBILD --------"
+dvd_clonar_MSG3="Eine Daten-DVD kopieren"
+dvd_clonar_MSG4="Ein vorheriges DVD-Image auf der Festplatte erstellen"
+dvd_clonar_MSG5="------------- DISC-KOPIEN IM FLUG -------------"
+dvd_clonar_MSG6="Eine Daten-DVD im Handumdrehen kopieren"
+dvd_clonar_MSG7="Eine Daten-DVD im Handumdrehen klonen"
+dvd_clonar_MSG8="DIE FLYING COPY-OPTIONEN ERFORDERN ZWEI OPTISCHE LAUFWERKE"
+dvd_clonar_MSG9="Auf Ihrem Computer installiert, da die Daten dabei aufgezeichnet werden"
+dvd_clonar_MSG10="Direkt von der Quelldisc lesen, wenn Sie sie nur haben"
+dvd_clonar_MSG11="Man darf die Kopien nicht spontan verwenden."
+dvd_clonar_MSG0="Vorheriges Menü"
+dvd_clonar_MSG12="DVD-KOPIERDATEN"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD-AUFNAHME"
+menugrabar_DVD_MSG2="------------------ DVD - DATEN ------------------"
+menugrabar_DVD_MSG3="Daten-DVD rippen"
+menugrabar_DVD_MSG4="Neue Daten-DVD brennen"
+menugrabar_DVD_MSG5="ISO- oder .ext2-Image auf DVD brennen"
+menugrabar_DVD_MSG6="DVD+RW/DVD-RW formatieren"
+menugrabar_DVD_MSG7="Informationen über die Disc im Laufwerk anzeigen"
+menugrabar_DVD_MSG0="Vorheriges Menü"
+menugrabar_DVD_MSGPRINCIPAL="Geben Sie eine Option ein"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="ISO-9660-Image auf DVD brennen"
+menugrabar_DVD_libburnia_MSG2="Daten von der Festplatte auf DVD brennen"
+menugrabar_DVD_libburnia_MSG3="DVD formatieren"
+menugrabar_DVD_libburnia_MSG4="DVD-RW in sequenzielles inkrementelles Format formatieren"
+menugrabar_DVD_libburnia_MSG5="DVD-RW für eingeschränktes Überschreiben formatieren"
+menugrabar_DVD_libburnia_MSG6="Laufwerksinformationen anzeigen"
+menugrabar_DVD_libburnia_MSG8="Auf dem System installierte Laufwerke auflisten"
+menugrabar_DVD_libburnia_MSG0="Beenden"
+menugrabar_DVD_libburnia_MSG7="Geben Sie eine Option ein"
+

@@ -1,0 +1,26 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en suajili para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="UONGOFU WA VIDEO"
+menu_conversion_video_MSG2="------------- UONGOFU KATI YA MIUNDO -----------"
+menu_conversion_video_MSG3="Badilisha video iwe Blu Ray Disc Smart-TV inayoendana"
+menu_conversion_video_MSG4="Faili ya video ya kubadilisha:"
+menu_conversion_video_MSG0="Menyu iliyotangulia"
+menu_conversion_video_MSG6="Rekodi kipindi cha eneo-kazi"
+menu_conversion_video_MSG7="Badilisha faili ya video kuwa umbizo tofauti"
+menu_conversion_video_MSG8="----------------- CHAGUO NYINGINE -----------------"
+menu_conversion_video_MSG9="Changanya faili ya Video na faili ya Sikizi"
+menu_conversion_video_MSG10="Toa Sauti ya MP3 kutoka kwenye Faili ya Video"
+menu_conversion_video_MSG11="Punguza Faili ya Video"
+
+
+

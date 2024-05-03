@@ -1,0 +1,185 @@
+#########################################################
+# lcdgrabAPI_idiom/ExJapanese/lcdgrabCMD_API_idiom/lcdgrabCD-API.idiom
+# Mensajes en Japonés para el API de grabación en CD.
+# Traducción experimental, generado con google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="ランニング"
+copia_bin_MSG2="--------------記録処理を再試行しています---------------"
+copia_bin_MSG3="	画像ファイルの削除"
+copia_bin_MSG4="記録エラーが発生しました"
+copia_bin_MSG5=".iso ディスク イメージ ダンプ ファイルが見つかりません。記録を中止しています..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="ランニング"
+datos_al_vuelo_MSG2="書き込みに失敗しました。オーバーバーンのサポートなしで再試行しています"
+datos_al_vuelo_MSG3="ソース ディスクまたはデバイスが"
+datos_al_vuelo_MSG4="それは良い状態です"
+datos_al_vuelo_MSG5="ソース ディスクからリードアウト ブロック番号を取得しています"
+datos_al_vuelo_MSG6="ディスクをコピー中..."
+
+# clonar_cd
+
+clonar_cd_MSG1="ランニング"
+clonar_cd_MSG2="CD のクローンが正常に作成されました"
+clonar_cd_MSG3="CD のクローン作成中にエラーが発生しました"
+
+# datos
+
+datos_MSG1=".iso イメージを作成するためのファイルとディレクトリ"
+datos_MSG2="CD/DVD/BDレーベル"
+datos_MSG3="今後の CD/DVD/BD の名前を入力してください:"
+datos_MSG4="ファイル マネージャーの起動:"
+datos_MSG5="	画像を作成しています。 . ."
+datos_MSG6="ランニング"
+datos_MSG7="で作成された ISO-9660 イメージ"
+datos_MSG8="		録音CD/DVD/BD"
+datos_MSG9="画像ファイルの作成プロセスが失敗しました"
+datos_MSG10="HFS をサポートしない新しいファイルの作成を再試行する (Macintosh)"
+datos_MSG11="画像を削除しています。 . ."
+datos_MSG12="新しいイメージの作成。 . ."
+datos_MSG13="正しく記録できませんでした"
+datos_MSG14="------------記録処理を再試行しています-----------"
+datos_MSG15="画像を削除しています..."
+datos_MSG16="ISO-9660 データ CD/DVD/BD を記録しています..."
+datos_MSG17="見つかりません。"
+datos_MSG18="ディスクの記録を中止しています..."
+
+# datoslb
+
+datoslb_MSG1="エラー: 画像ファイルが見つかりません。中止しています..."
+datoslb_MSG2="記録処理 OK"
+datoslb_MSG3="記録プロセスのエラー"
+
+# borra
+
+borra_MSG0="前のメニュー"
+borra_MSG1="CD-RW を消去するモードを選択します"
+borra_MSG2="-----------------------------"
+borra_MSG3="クイック削除 (cdrecord を使用)"
+borra_MSG4="完全削除 (cdrecord を使用)"
+borra_MSG5="削除が必要です (cdrskin を使用)"
+borra_MSG6="ランニング"
+borra_MSG7="ディスクの状態に応じて必要なフォーマットや消去を適用"
+borra_MSG8="CD-RW が正常に消去されました!!"
+borra_MSG9="CD-RW の消去中にエラーが発生しました"
+borra_MSG10="CD-RWの強制消去"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="CD-RW を消去しようとするとエラーが発生する"
+err_borra_cdrw_MSG2="使用できない CD-RW"
+err_borra_cdrw_MSG3="この CD-RW を消去することはできません"
+err_borra_cdrw_MSG4="CD-RW が物理的に損傷していないことを確認してください"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="ランニング"
+cerrar_cd_MSG2="CD は正しく閉じられています"
+cerrar_cd_MSG3="CD を閉じる際のエラー"
+cerrar_cd_MSG4="データ CD のトラックを閉じます。 . ."
+
+# grabimg
+
+grabimg_MSG1="CD/DVD に書き込む .iso または .ext2 イメージ"
+grabimg_MSG2="ファイルマネージャーを起動します。"
+grabimg_MSG3="書き込みたい CD/DVD イメージのフル パスを入力します。"
+grabimg_MSG4="ランニング"
+grabimg_MSG5="-----------記録処理を再試行しています-----------"
+grabimg_MSG6="レコーディング終了!!"
+grabimg_MSG7="イメージ .EXT2 が正常に記録されました"
+
+# grabimglb
+
+grabimglb_MSG1="書き込みたい CD/DVD イメージのフル パスを入力します。"
+grabimglb_MSG2="イメージをディスクに書き込み中..."
+grabimglb_MSG3="ISO-9660 画像が正常に記録されました"
+grabimglb_MSG4="ISO-9660 画像の記録エラー"
+grabimglb_MSG5="エラー: 画像ファイルが見つかりません。中止しています..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1="イメージを書き込むための .bin および .cue ファイル"
+grabimg_cue_MSG2="ビン/キュー イメージを記録するには、両方のファイルが必要です。"
+# La traducción de google muestra literales en inglés.
+grabimg_cue_MSG3="Active Directory にある必要があります"
+grabimg_cue_MSG4="現在のアクティブ ディレクトリ"
+grabimg_cue_MSG5="*.bin イメージ ファイルを参照する *.cue ファイルの名前を入力します"
+grabimg_cue_MSG6=".cue ファイル:"
+grabimg_cue_MSG7="ランニング"
+grabimg_cue_MSG8="レコーディング終了!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1=".iso イメージから CD-Multisession を書き込む"
+cd_multi_MSG2="最初のセッションを .iso イメージから CD に書き込みます"
+cd_multi_MSG3="ディスク ファイルから CD-Multisession を書き込む"
+cd_multi_MSG4="ハード ドライブ上のファイルから連続したセッションを CD に書き込みます"
+cd_multi_MSG5="このオプションには、以前に記録されたセッションを含むマルチセッション CD が必要です。"
+cd_multi_MSG6="前のメニュー"
+cd_multi_MSG7="CD-Multisession に書き込む .iso イメージ"
+cd_multi_MSG8=".iso イメージのパスを指定します"
+cd_multi_MSG9="ランニング"
+cd_multi_MSG10="マルチセッションCDのレコーディングに成功!!"
+cd_multi_MSG11="イメージに含めるディレクトリ。"
+cd_multi_MSG12="含めるディレクトリを以下に指定します"
+cd_multi_MSG13="CD ラベルの名前を入力してください:"
+cd_multi_MSG14="イメージを作成しています..."
+cd_multi_MSG15="正常に作成されました"
+cd_multi_MSG16="イメージ作成中のエラー。録音プロセスを中止しています..."
+cd_multi_MSG17="CD イメージを記録しています..."
+cd_multi_MSG18="マルチセッション CD メニュー"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="オーディオ CD をリッピングしています..."
+copia_cd_audio_MSG2="ランニング"
+copia_cd_audio_MSG3="オーディオトラックのリッピングに成功!!"
+copia_cd_audio_MSG4="オーディオトラックのリッピング時のエラー"
+copia_cd_audio_MSG5="オーディオ CD の録音。 . ."
+copia_cd_audio_MSG6="オーディオ CD が正常にコピーされました!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1="CD に書き込むための .wav ファイル"
+wav_a_cd_MSG2="linux-cdgrab はディレクトリ サイズをチェックしません"
+wav_a_cd_MSG3="650M バイトを超えないようにしてください。"
+wav_a_cd_MSG4="80分のCDを使用すること"
+wav_a_cd_MSG5=".wav ファイルのディレクトリ パスを入力します。"
+wav_a_cd_MSG6="ランニング"
+wav_a_cd_MSG7="プロセス完了！"
+
+
+# cdmixto
+
+cdmixto_MSG1="混合 CD 作成プロジェクト (.iso データ イメージ + .wav オーディオ ファイル)"
+cdmixto_MSG2="linux-cdgrab はディレクトリ サイズをチェックしません"
+cdmixto_MSG3="オーディオファイルはどこにありますか"
+cdmixto_MSG4="後で書き込む .iso イメージも同様です"
+cdmixto_MSG5=""
+cdmixto_MSG6="何をするにしても、持っているサイズに一貫性を持たせる"
+cdmixto_MSG7="新しい CD に書き込みます。"
+cdmixto_MSG8="オーディオ ファイルのパスを指定します。"
+cdmixto_MSG9="iso イメージのパスを指定します。"
+cdmixto_MSG10="##############################"
+cdmixto_MSG11="混合 CD の録音: データ + オーディオ"
+cdmixto_MSG12="ランニング"
+cdmixto_MSG13="¡¡----混合 CD が正常に作成されました-----!!"
+cdmixto_MSG14="------混合 CD の録音中にエラーが発生しました--------"
+
+# discoinfo
+
+discoinfo_MSG1="ランニング"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI ポートスキャン"
+cdrecord_scan_MSG1="IDE/SCSI ポートのスキャンに失敗しました"
+cdrecord_scan_MSG2="CDレコードが見つかりません"

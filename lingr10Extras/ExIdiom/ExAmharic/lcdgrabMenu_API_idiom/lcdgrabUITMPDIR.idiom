@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAmharic/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Amárico para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="ፋይሎች በ / tmp"
+dir_tmp_MSG2="ሁሉንም ምስሎች እና የተጨመቁ ፋይሎችን ሰርዝ"
+dir_tmp_MSG3="ለሌሎች ስራዎች የፋይል አቀናባሪውን ያስጀምሩ"
+dir_tmp_MSG4="ምስል ጫን ወይም ንቀል"
+dir_tmp_MSG5="የምስል መፍጠሪያ ምናሌውን አሳይ"
+dir_tmp_MSG6="የምስል ቀረጻ አማራጮችን አሳይ"
+dir_tmp_MSG7="የቀድሞው ምናሌ"
+dir_tmp_MSG8=" ውስጥ ያሉ ነባር ፋይሎች ዝርዝር"
+dir_tmp_MSG9="አማራጭ ምረጥ:"
+dir_tmp_MSG10="የተሰረዙ ምስሎች እና ፋይሎች"
+dir_tmp_MSG11="ምስል ጫን።"
+dir_tmp_MSG12="ምስል ንቀል።"
+dir_tmp_MSG13="ምስሉን ወደ ሲዲ ያቃጥሉ"
+dir_tmp_MSG14="ምስሉን ወደ ዲቪዲ ያቃጥሉ"
+dir_tmp_MSG14B="ምስል ወደ ቢዲ አቃጥለው"
+dir_tmp_MSG15="በቀረጻ ሚዲያው መሰረት አማራጭ ምረጥ"
+dir_tmp_MSG16="ፋይሉ የማዋቀሪያው ፋይል አልተገኘም"
+dir_tmp_MSG17="የቀረጻውን ሂደት በማስወገድ ላይ"
+dir_tmp_MSG18="የሚቃጠል የ.iso ፋይልን ይግለጹ"
+dir_tmp_MSG19="የምስል ዱካውን አስገባ:"
+

@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExGerman/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Alemán para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="BETRIEB DES FESTPLATTENLAUFWERKS"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="------------------------ WICHTIG ------------------------"
+MenuDispositivosBloque_MSG3="+ Keine Schreibvorgänge auf Festplatten durchführen "
+MenuDispositivosBloque_MSG4="+ auf Festplattenpartitionen, die Bilder enthalten"
+MenuDispositivosBloque_MSG5="+ Wiederherstellung, Bootpartitionen oder Ihre eigenen"
+MenuDispositivosBloque_MSG6="+ Betriebssystempartition."
+MenuDispositivosBloque_MSG7="+ Missbrauch der Schreiboptionen dieses Menüs"
+MenuDispositivosBloque_MSG8="+ kann eine Katastrophe im System erzeugen."
+MenuDispositivosBloque_MSG9="+ Mit Vorsicht verwenden. Verwendung auf eigene Gefahr."
+MenuDispositivosBloque_MSG10="------------------- SCHREIBEN -------------------"
+MenuDispositivosBloque_MSG11="Speichern Sie eine Bilddatei auf einem Laufwerk"
+MenuDispositivosBloque_MSG11B="Kopieren Sie das ISO- oder IMG-Image (bootfähig) auf ein Flash-Laufwerk oder eine USB-Festplatte"
+MenuDispositivosBloque_MSG11C="Nicht alle Installationssysteme werden unterstützt."
+MenuDispositivosBloque_MSG12="Formatieren Sie das Laufwerk mit dem nativen Linux- oder Windows-Dateisystem"
+MenuDispositivosBloque_MSG13="-------------------- LEKTÜRE --------------------"
+MenuDispositivosBloque_MSG14="Erstellen Sie ein IMG-Image von einem Laufwerk"
+MenuDispositivosBloque_MSG15="vorheriges Menü"
+MenuDispositivosBloque_MSG16="Geben Sie eine Option ein"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------WICHTIG------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Laufwerk ist mit dem in Geräten verwendeten Dateisystem formatiert"
+UIFormatearUnidad_linuxfs_MSG2B="+ oder Festplattenpartitionen."
+UIFormatearUnidad_linuxfs_MSG3="+ Diese Option löscht alle vorhandenen Daten auf dem Laufwerk"
+UIFormatearUnidad_linuxfs_MSG4="+ Mit einem Dateisystem formatierte Wechseldatenträger"
+UIFormatearUnidad_linuxfs_MSG5="+ eigenes Linux wird nur unter diesem Betriebssystem zugänglich sein."
+UIFormatearUnidad_linuxfs_MSG6="+ Mit Vorsicht verwenden, Verwendung auf eigene Gefahr."
+UIFormatearUnidad_linuxfs_MSG7="---------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="DRÜCKEN SIE DIE C-TASTE, UM FORTFAHREN; (Der Vorgang wird in einer anderen Option abgebrochen)"
+

@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExArmenian/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Armenio para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Ֆայլեր /tmp-ում"
+dir_tmp_MSG2="Ջնջել բոլոր պատկերները և սեղմված ֆայլերը"
+dir_tmp_MSG3="Գործարկել ֆայլերի կառավարիչը այլ գործողությունների համար"
+dir_tmp_MSG4="Տեղադրեք կամ ապամոնտաժեք պատկերը"
+dir_tmp_MSG5="Ցուցադրել պատկերների ստեղծման ընտրացանկը"
+dir_tmp_MSG6="Ցույց տալ պատկերների ձայնագրման ընտրանքները"
+dir_tmp_MSG7="Նախորդ ընտրացանկ"
+dir_tmp_MSG8="ԳՈՐԾՈՂ ՖԱՅԼԵՐԻ ՑԱՆԿԸ"
+dir_tmp_MSG9="ԸՆՏՐԵԼ ՏԱՐԲԵՐԱԿ."
+dir_tmp_MSG10="Ջնջված պատկերներ և ֆայլեր"
+dir_tmp_MSG11="Տեղադրեք պատկերը:"
+dir_tmp_MSG12="Անջատել պատկերը:"
+dir_tmp_MSG13="Վառել պատկերը CD-ի վրա"
+dir_tmp_MSG14="Վառել պատկերը DVD-ի վրա"
+dir_tmp_MSG14B="Վառել պատկերը BD-ում"
+dir_tmp_MSG15="Ընտրեք տարբերակ՝ ըստ ձայնագրման միջոցի"
+dir_tmp_MSG16="ՖԱՅԼԸ ՉԻ ԳՏՆՎԵԼ ԿՈՆՖԻԳՈՒՐԱՑՄԱՆ ՖԱՅԼԸ"
+dir_tmp_MSG17="Ձայնագրման գործընթացի ընդհատում"
+dir_tmp_MSG18="Նշեք այրվող .iso ֆայլը"
+dir_tmp_MSG19="Մուտքագրեք պատկերի ուղին."
+

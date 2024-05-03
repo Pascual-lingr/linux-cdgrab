@@ -1,0 +1,88 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwedish/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Välj användargränssnittet som ska användas:"
+SeleccionaIUDVD_MSG2="Använd gränssnittet för dvd+-rw-verktyg"
+SeleccionaIUDVD_MSG3="Använd gränssnittet för Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Använd gränssnittet för libburnia"
+SeleccionaIUDVD_MSG5="Föregående meny"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="INSPELNING PÅ DVD"
+menugrabar_dvd_MSG2="---------------- DVD - DATA ------------------"
+menugrabar_dvd_MSG3="Kopiera en ISO-9660 data-DVD"
+menugrabar_dvd_MSG4="Skapa en tidigare DVD-bild på hårddisken"
+menugrabar_dvd_MSG5="Bränn en ny ISO-9660 data-DVD"
+menugrabar_dvd_MSG6="Lägg till ny datasession till ISO-9660 data-DVD (multisessions-DVD)"
+menugrabar_dvd_MSG7="Kräver en DVD som tidigare spelats in med det andra alternativet"
+menugrabar_dvd_MSG8="Bränn en ISO-9660-databild till DVD"
+menugrabar_dvd_MSG9="Bränn en .ext2-bild till DVD"
+menugrabar_dvd_MSG10="---------------- DVD - VIDEO -----------------"
+menugrabar_dvd_MSG11="Bränn en ny DVD-video"
+menugrabar_dvd_MSG12="------------- ANDRA ALTERNATIV ---------------"
+menugrabar_dvd_MSG13="Formatera en DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Visa information om DVD-skivor"
+menugrabar_dvd_MSG0="Föregående meny"
+menugrabar_dvd_MSGPRINCIPAL="Skriv ett alternativ"
+menugrabar_dvd_MSG15="Filer och kataloger som ska inkluderas på DVD:n"
+menugrabar_dvd_MSG16="Startar filhanteraren..."
+menugrabar_dvd_MSG17=".iso-bild att bränna till DVD"
+menugrabar_dvd_MSG18="Skriv in katalogsökvägen där .iso-bilden du vill bränna finns"
+menugrabar_dvd_MSG19="Kräver version av cdrecord med DVD-stöd."
+menugrabar_dvd_MSG20="Inspelningen av .ext2-bilden på DVD kommer att göras med cdrecord."
+menugrabar_dvd_MSG21="Cdrecord-versionen som finns i din installation bör"
+menugrabar_dvd_MSG22="stöder DVD-inspelning."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="VÄLJ ETT ALTERNATIV"
+dvd_clonar_MSG2="--- SKIVKOPIOR MED FÖRHÅNDSGIVNING ---"
+dvd_clonar_MSG3="Kopiera en data-DVD"
+dvd_clonar_MSG4="Skapa en tidigare DVD-bild på hårddisken"
+dvd_clonar_MSG5="--- SKIVKOPIOR PÅ FLYGET ---"
+dvd_clonar_MSG6="Kopiera en data-DVD i farten"
+dvd_clonar_MSG7="Klona en data-DVD i farten"
+dvd_clonar_MSG8="ALTERNATIV FÖR FLYGANDE KOPIERING KRÄVER TVÅ OPTISKA ENHETER"
+dvd_clonar_MSG9="INSTALLERAT PÅ DIN DATOR, EFTERSOM DATA INSPELAS MEDAN"
+dvd_clonar_MSG10="LÄS DIREKT FRÅN URSPRUNGSDISKEN, OM DIN DATOR BARA HAR DET"
+dvd_clonar_MSG11="DU KOMMER INTE KUNNA ANVÄNDA KOPIORA PÅ FLYGET."
+dvd_clonar_MSG0="Föregående meny"
+dvd_clonar_MSG12="DVD DATAKOPIERING"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG3="Kopiera data-DVD"
+menugrabar_DVD_MSG4="Bränn en ny data-DVD"
+menugrabar_DVD_MSG5="Bränn .iso- eller .ext2-bild till DVD"
+menugrabar_DVD_MSG6="Formatera DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Visa skivinformation i enheten"
+menugrabar_DVD_MSG0="Föregående meny"
+menugrabar_DVD_MSGPRINCIPAL="Skriv ett alternativ"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Bränn iso-9660-bild till DVD"
+menugrabar_DVD_libburnia_MSG2="Bränn data från hårddisken till DVD"
+menugrabar_DVD_libburnia_MSG3="Formatera DVD"
+menugrabar_DVD_libburnia_MSG4="Formatera DVD-RW till sekventiell inkrementell"
+menugrabar_DVD_libburnia_MSG5="Formatera DVD-RW till begränsad överskrivning"
+menugrabar_DVD_libburnia_MSG6="Visa enhetsinformation"
+menugrabar_DVD_libburnia_MSG8="Lista enheter installerade i systemet"
+menugrabar_DVD_libburnia_MSG0="Avsluta"
+menugrabar_DVD_libburnia_MSG7="Ange ett alternativ"
+

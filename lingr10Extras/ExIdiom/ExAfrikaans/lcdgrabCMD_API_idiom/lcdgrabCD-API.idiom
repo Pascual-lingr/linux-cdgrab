@@ -1,0 +1,191 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAfrikaans/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Afrikáans para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="hardloop"
+copia_bin_MSG2="--------------PROBEER WEER OPNAMEPROSES---------------"
+copia_bin_MSG3="	SKEE BEELD LêER uit"
+# Se omite 'N por evitar errores de funcionamiento
+copia_bin_MSG4="N FOUT HET IN DIE OPNAME VOORKOM"
+copia_bin_MSG5="Die skyf .iso beeldstortinglêer kan nie gevind word nie. Staak tans opname ..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="hardloop"
+datos_al_vuelo_MSG2="Fout opname poging, herprobeer sonder oorbrand ondersteuning"
+datos_al_vuelo_MSG3="Kontroleer dat die bronskyf of toestel"
+datos_al_vuelo_MSG4="is in goeie toestand"
+datos_al_vuelo_MSG5="Verkry leibloknommer vanaf die bronskyf"
+datos_al_vuelo_MSG6="KOPIEER SKYF..."
+
+# clonar_cd
+
+clonar_cd_MSG1="hardloop"
+clonar_cd_MSG2="CD SUKSESVOL GEKLONE"
+# Se omite 'N por evitar errores de funcionamiento
+clonar_cd_MSG3="N FOUT HET VOORKOM TOE DIE CD gekloon is"
+
+# datos
+
+datos_MSG1="Lêers en gidse om die .iso-beeld te skep"
+datos_MSG2="CD/DVD/BD ETIKET"
+# Se omite 'n por evitar errores de funcionamiento
+datos_MSG3="Voer n naam vir die toekomstige CD/DVD/BD in:"
+datos_MSG4="Begin tans die lêerbestuurder:"
+datos_MSG5=" SKEP tans BEELD . . ."
+datos_MSG6="hardloop"
+datos_MSG7="ISO-9660 BEELD IN GESKEEP"
+datos_MSG8="BRAND CD/DVD/BD"
+datos_MSG9="DIE BEELD LÊER SKEPPING PROSES HET MISLUUK"
+# Se omite 'N por evitar errores de funcionamiento
+datos_MSG10="PROBEER WEER OM N NUWE EEN TE SKEP SONDER ONDERSTEUNING VIR HFS (Macintosh)"
+datos_MSG11="VEE BEELD UIT . . ."
+datos_MSG12="SKEP NUWE BEELD . . ."
+datos_MSG13="DIT IS NIE MOONTLIK OM KORREK OP TE NEEM NIE"
+datos_MSG14="------------PROBEER WEER OPNAMEPROSES-----------"
+datos_MSG15="VEE BEELD..."
+datos_MSG16="BRAND ISO-9660 DATA CD/DVD/BD..."
+datos_MSG17="Nie gevind nie."
+datos_MSG18="Staak tans skyfopname..."
+
+# datoslb
+
+datoslb_MSG1="Fout: Die prentlêer kan nie gevind word nie. Stop tans..."
+datoslb_MSG2="OPNAMEPROSES OK"
+datoslb_MSG3="FOUT IN DIE OPNAMEPROSES"
+
+# borra
+
+borra_MSG0="Vorige spyskaart"
+borra_MSG1="Kies die modus om die CD-RW uit te vee"
+borra_MSG2="--------------------------------------"
+borra_MSG3="Vinnige verwydering (gebruik cdrecord)"
+borra_MSG4="Voltooi uitvee (gebruik cdrecord)"
+borra_MSG5="Uitvee vereis (gebruik cdrskin)"
+borra_MSG6="hardloop"
+borra_MSG7="Die nodige formatering of uitvee word toegepas afhangende van die skyfstatus"
+borra_MSG8="CD-RW SUKSESVOL GESKEE!!"
+borra_MSG9="FOUT WANNEER CD-RW uitgevee word"
+borra_MSG10="DWING OM TE SKEE CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="FOUT WANNEER OM DIE CD-RW TE PROBEER VEE UIT"
+err_borra_cdrw_MSG2="CD-RW ONBRUIKBAAR"
+err_borra_cdrw_MSG3="DIT IS NIE MOONTLIK OM HIERDIE CD-RW TE SKEE NIE"
+err_borra_cdrw_MSG4="GAAN DIE CD-RW VIR FISIESE SKADE"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="hardloop"
+cerrar_cd_MSG2="DIE CD IS KORREK GESLUIT"
+cerrar_cd_MSG3="FOUT BY DIE SLUITING VAN DIE CD"
+cerrar_cd_MSG4="SLUIT SNIET OP DATA CD . . ."
+
+# grabimg
+
+grabimg_MSG1=".iso of .ext2 beeld om op CD/DVD te brand"
+grabimg_MSG2="Begin tans die lêerbestuurder."
+grabimg_MSG3="Tik die volledige pad waar die CD/DVD-prent geleë is wat jy wil brand:"
+grabimg_MSG4="hardloop"
+grabimg_MSG5="-----------PROBEER WEER OPNAMEPROSES-----------"
+grabimg_MSG6="OPNAME VOLTOOI!!"
+grabimg_MSG7=".EXT2-BEELD SUKSESVOL AANGENEEM"
+
+# grabimglb
+
+grabimglb_MSG1="Tik die volledige pad waar die CD/DVD-prent geleë is wat jy wil brand:"
+grabimglb_MSG2="Brand tans prent na skyf..."
+grabimglb_MSG3="ISO-9660-BEELD SUKSESVOL AANGENEEM"
+grabimglb_MSG4="FOUT MET OPNAME VAN DIE ISO-9660-BEELD"
+grabimglb_MSG5="Fout: Prentlêer nie gevind nie. Stop tans..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin- en .cue-lêers om die prent op te neem"
+grabimg_cue_MSG2="Om die bin/cue beeld op te neem, moet beide lêers"
+grabimg_cue_MSG3="wees in die aktiewe gids."
+grabimg_cue_MSG4="Huidige aktiewe gids"
+grabimg_cue_MSG5="Voer die naam van die *.cue-lêer in wat na die *.bin-beeldlêer verwys"
+grabimg_cue_MSG6=".cue lêer: "
+grabimg_cue_MSG7="hardloop"
+grabimg_cue_MSG8="OPNAME VOLTOOI!!"
+
+# graba un CD multisesion
+
+# Se omite 'n por evitar errores de funcionamiento
+cd_multi_MSG1="Brand multisessie-CD vanaf n .iso-beeld"
+cd_multi_MSG2="Brand n eerste sessie na die CD vanaf 'n .iso-beeld"
+cd_multi_MSG3="Brand multisessie-CD vanaf lêers op skyf"
+cd_multi_MSG4="Neem opeenvolgende sessies op die CD op vanaf lêers op die hardeskyf"
+# Se omite 'n por evitar errores de funcionamiento
+cd_multi_MSG5="Hierdie opsie vereis n multi-sessie CD, met n voorheen opgeneemde sessie."
+cd_multi_MSG6="Vorige spyskaart"
+cd_multi_MSG7=".iso-beeld om na CD-Multi-sessie te brand"
+cd_multi_MSG8="Spesifiseer die pad van die .iso-beeld"
+cd_multi_MSG9="hardloop"
+cd_multi_MSG10="MULTI-SESSIE CD SUKSESVOL AANGENEEM!!"
+cd_multi_MSG11="Gidse om by die prent in te sluit."
+cd_multi_MSG12="Spesifiseer hieronder watter gidse om in te sluit"
+# Se omite 'n por evitar errores de funcionamiento
+cd_multi_MSG13="Voer n naam vir die CD-etiket in:"
+cd_multi_MSG14="SKEP tans prent..."
+cd_multi_MSG15="SUKSESVOL GESKEP"
+cd_multi_MSG16="FOUT BY DIE SKEPPING VAN DIE BEELD. OM DIE OPNAMEPROSES TE VERLAAG..."
+cd_multi_MSG17="BRAND CD-BEELD..."
+cd_multi_MSG18="CD MULTI-SESSIE SPYSKAART"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="RIP tans oudio-CD..."
+copia_cd_audio_MSG2="hardloop"
+copia_cd_audio_MSG3="AUDIO-SNELLE SUKSESVOL GERYP!!"
+copia_cd_audio_MSG4="FOUT BY RYP VAN KLUISSNELE"
+copia_cd_audio_MSG5="BRANDENDE oudio-CD..."
+copia_cd_audio_MSG6="AUDIO CD SUKSESVOL GEKOPIEER!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav-lêers om op CD te brand"
+wav_a_cd_MSG2="Linux-cdgrab sal nie gidsgrootte nagaan nie"
+wav_a_cd_MSG3="Maak seker dit is nie meer as 650 Mgrepe in geval nie"
+# Se omite 'n para evitar errores de funcionamiento
+wav_a_cd_MSG4="as jy n 80 minute CD gebruik."
+wav_a_cd_MSG5="Voer die gidspad van die .wav-lêers in"
+wav_a_cd_MSG6="hardloop"
+wav_a_cd_MSG7="PROSES VOLTOOI!"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Mixto-skeppingsprojek (databeeld .iso + oudiolêers .wav)"
+cdmixto_MSG2="Linux-cdgrab sal nie gidsgrootte nagaan nie"
+cdmixto_MSG3="waar is die oudiolêers."
+cdmixto_MSG4="Dit sal dit ook nie doen vanaf die .iso-beeld wat jy gaan opneem nie"
+cdmixto_MSG5="na."
+cdmixto_MSG6="Wees konsekwent met die grootte wat jy het"
+cdmixto_MSG7="brand na jou nuwe CD."
+cdmixto_MSG8="Spesifiseer die pad van die oudiolêers:"
+cdmixto_MSG9="Spesifiseer die ISO-beeldpad:"
+cdmixto_MSG10="####################################"
+cdmixto_MSG11="OPNEEM VAN GEMENGDE CD: DATA + AUDIO"
+cdmixto_MSG12="hardloop"
+cdmixto_MSG13="----SUKSESVOL GESKEEP GEMENGDE CD-----!!"
+cdmixto_MSG14="------FOUT BY DIE BRAND VAN GEMENGDE CD--------"
+
+# discoinfo
+
+discoinfo_MSG1="hardloop"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI-poort geskandeer"
+cdrecord_scan_MSG1="Fout met skandering van IDE/SCSI-poort"
+cdrecord_scan_MSG2="cdrecord nie gevind nie"

@@ -1,0 +1,51 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Suajili, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="UUMBAJI NA KUKABILIANA NA PICHA ZA DISK"
+MenuImagen_MSG2="------------- UUNDAJI WA PICHA -------------"
+MenuImagen_MSG3="Unda Picha ya ISO-9660"
+MenuImagen_MSG4="Unda Picha na mfumo asili wa faili wa Linux"
+MenuImagen_MSG5="Unda Picha ya .img ya kifaa chochote cha kuzuia"
+MenuImagen_MSG6="Unda .bin .cue Picha kutoka kwa kifaa cha sasa"
+MenuImagen_MSG7="---------------- CHAGUO NYINGINE ----------------"
+MenuImagen_MSG8="Tengeneza faili ya maelezo ya .cue kutoka kwa picha ya .bin"
+MenuImagen_MSG9="Badilisha picha ya .nrg (Nero Burning ROM) kuwa .iso"
+MenuImagen_MSG10="Bonyeza Picha kwa gzip, bzip2 au xz"
+MenuImagen_MSG11="Bonyeza Picha katika zip, gz, bz2 au xz"
+MenuImagen_MSG11B="Angalia md5 jumla ya picha za iso"
+MenuImagen_MSG12="Badilisha hali ya iso"
+MenuImagen_MSG0="Menyu iliyotangulia"
+MenuImagen_MSG13="Faili ya picha itabanwa"
+MenuImagen_MSG14="COMPRESS IMAGE FILE"
+MenuImagen_MSG15="Chapa njia ya saraka ambapo picha unayotaka kubana iko:"
+MenuImagen_MSG16="Faili ya picha unayotaka kubana"
+MenuImagen_MSG17="KIWANGO CHA SASA CHA ISO"
+MenuImagen_MSG18="kiwango cha iso"
+MenuImagen_MSG19="Majina ya faili yana sehemu"
+MenuImagen_MSG20="na ina vibambo 8.3."
+MenuImagen_MSG21="Chagua kiwango hiki ikiwa unataka utangamano wa majina"
+MenuImagen_MSG21b="chini ya mfumo wa uendeshaji wa MS-DOS"
+MenuImagen_MSG22="Majina ya faili yana sehemu"
+MenuImagen_MSG23="Kiwango kisicho na kikomo."
+MenuImagen_MSG24="Tumia kiwango hiki ikiwa unataka uoanifu wa faili"
+MenuImagen_MSG25="kubwa, katika hali hii >= Gigabaiti 2."
+MenuImagen_MSG26="Ngazi zote za ISO huweka mipaka ya majina ya faili kuwa herufi kubwa, ndogo na"
+MenuImagen_MSG27="herufi kama _ . Majina ya faili yana vibambo 31 tu"
+MenuImagen_MSG28="Upeo wa njia 8 za saraka na jina la njia"
+MenuImagen_MSG29="saraka kwa herufi 255."
+MenuImagen_MSG30="Chagua kiwango kipya cha iso"
+MenuImagen_MSG31="kiwango cha 4 cha ISO si rasmi"
+MenuImagen_MSG32="Ona ukurasa wa mtu wa mkisofs"
+MenuImagen_MSG33="Kiwango batili cha ISO"
+MenuImagen_MSG34="Weka kiwango cha 3 cha iso kwa chaguo-msingi"
+
+

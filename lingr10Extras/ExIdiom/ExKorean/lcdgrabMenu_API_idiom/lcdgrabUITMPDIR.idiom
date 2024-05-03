@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKorean/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Coreano para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="/tmp에 있는 파일"
+dir_tmp_MSG2="모든 이미지 및 압축 파일 삭제"
+dir_tmp_MSG3="다른 작업을 위해 파일 관리자 실행"
+dir_tmp_MSG4="이미지 마운트 또는 마운트 해제"
+dir_tmp_MSG5="이미지 생성 메뉴 표시"
+dir_tmp_MSG6="이미지 녹화 옵션 표시"
+dir_tmp_MSG7="이전 메뉴"
+dir_tmp_MSG8="기존 파일 목록"
+dir_tmp_MSG9="옵션을 선택하세요:"
+dir_tmp_MSG10="삭제된 이미지 및 파일"
+dir_tmp_MSG11="이미지를 마운트합니다."
+dir_tmp_MSG12="이미지 마운트를 해제합니다."
+dir_tmp_MSG13="이미지를 CD로 굽기"
+dir_tmp_MSG14="이미지를 DVD로 굽기"
+dir_tmp_MSG14B="이미지를 BD에 굽기"
+dir_tmp_MSG15="녹화 매체에 따라 옵션을 선택하세요"
+dir_tmp_MSG16="구성 파일에서 파일을 찾을 수 없습니다."
+dir_tmp_MSG17="녹화 과정을 중단하는 중"
+dir_tmp_MSG18="구울 .iso 파일을 지정하세요"
+dir_tmp_MSG19="이미지 경로를 입력하세요: "

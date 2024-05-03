@@ -1,0 +1,55 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDanish/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en danés para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Indtast stien til filen eller mappen:"
+empaquetar_MSG2="------- Muligheder -------"
+empaquetar_MSG3="Generer .tar.gz-fil"
+empaquetar_MSG4="Generer .tar.bz2-fil"
+empaquetar_MSG5="Skriv en indstilling: "
+empaquetar_MSG6="Kører"
+empaquetar_MSG7="Ugyldig mulighed"
+
+# desempaquetar
+
+desempaquetar_MSG1="Indtast filstien:"
+desempaquetar_MSG2="INGEN DEKOMPRESSOR FUNDET TIL"
+desempaquetar_MSG3="ELLER"
+desempaquetar_MSG4="FINDER IKKE"
+desempaquetar_MSG5="Kører"
+desempaquetar_MSG6="udpakket"
+desempaquetar_MSG7="Fejl ved forsøg på at pakke ud"
+
+# comprime
+
+comprime_MSG1="KOMPRESSERING AF BILLEDE"
+comprime_MSG2="Komprimer med bzip2"
+comprime_MSG3="Komprimer med gzip"
+comprime_MSG4="Komprimer med xz"
+comprime_MSG5="Forrige menu"
+comprime_MSG6="Kører"
+comprime_MSG7="Billedfilkomprimering fuldført"
+comprime_MSG8="Fejl ved komprimering med"
+comprime_MSG9="Ugyldig kompressor"
+
+# descomprime
+
+descomprime_MSG1="Indtast filstien:"
+descomprime_MSG2="-----------------"
+descomprime_MSG3="INGEN DEKOMPRESSOR FUNDET TIL"
+descomprime_MSG4="ELLER"
+descomprime_MSG5="FINDER IKKE"
+descomprime_MSG6="Kører"
+descomprime_MSG7="ukomprimeret"
+descomprime_MSG8="Fejl ved forsøg på at dekomprimere"
+
+

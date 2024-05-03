@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExVietnamese/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Vietnamita para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="HOẠT ĐỘNG Ổ ĐĨA"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- QUAN TRỌNG -----------------------"
+MenuDispositivosBloque_MSG3="+ Không thực hiện thao tác ghi trên ổ cứng "
+MenuDispositivosBloque_MSG4="+ về phân vùng đĩa chứa hình ảnh"
+MenuDispositivosBloque_MSG5="+ khôi phục, phân vùng khởi động hoặc của riêng bạn"
+MenuDispositivosBloque_MSG6="+ phân vùng hệ điều hành."
+MenuDispositivosBloque_MSG7="+ Việc lạm dụng các tùy chọn viết của menu này "
+MenuDispositivosBloque_MSG8="+ có thể tạo ra thảm họa trong hệ thống."
+MenuDispositivosBloque_MSG9="+ Sử dụng thận trọng. Sử dụng có nguy cơ."
+MenuDispositivosBloque_MSG10="------------------- VIẾT --------------------"
+MenuDispositivosBloque_MSG11="Kết xuất tập tin ảnh vào ổ đĩa"
+MenuDispositivosBloque_MSG11B="Kết xuất hình ảnh iso hoặc img (tự khởi động) vào ổ đĩa USB hoặc ổ đĩa USB"
+MenuDispositivosBloque_MSG11C="Không phải tất cả các hệ thống cài đặt đều được hỗ trợ."
+MenuDispositivosBloque_MSG12="Định dạng ổ đĩa bằng hệ thống tệp Linux hoặc Windows gốc"
+MenuDispositivosBloque_MSG13="-------------------- ĐỌC ---------------------"
+MenuDispositivosBloque_MSG14="Tạo hình ảnh .img từ ổ đĩa"
+MenuDispositivosBloque_MSG15="Menu trước"
+MenuDispositivosBloque_MSG16="Nhập tùy chọn"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------QUAN TRỌNG------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Định dạng đơn vị với hệ thống tệp được sử dụng trong thiết bị"
+UIFormatearUnidad_linuxfs_MSG2B="+ hoặc phân vùng đĩa."
+UIFormatearUnidad_linuxfs_MSG3="+ Tùy chọn này sẽ xóa tất cả dữ liệu hiện có trên thiết bị"
+UIFormatearUnidad_linuxfs_MSG4="+ Ổ đĩa di động được định dạng bằng hệ thống tệp"
+UIFormatearUnidad_linuxfs_MSG5="+ Bản thân Linux sẽ chỉ có thể truy cập được trong hệ điều hành này."
+UIFormatearUnidad_linuxfs_MSG6="+ Sử dụng thận trọng, tự chịu rủi ro khi sử dụng."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="NHẤN PHÍM C ĐỂ TIẾP TỤC; (Quá trình này sẽ bị hủy trong tùy chọn khác)"
+

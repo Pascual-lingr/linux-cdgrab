@@ -1,0 +1,73 @@
+#########################################################
+# lcgdrabAPI_idiom/ExKorean/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Coreano, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="옵션을 선택하세요"
+clonar_MSG2="---- 미리보기 이미지가 포함된 디스크 사본 -----"
+clonar_MSG3="데이터 CD 복사"
+clonar_MSG4="하드 드라이브에 이전 CD 이미지 생성"
+clonar_MSG5="-------------- 즉시 디스크 복사본 -------------"
+clonar_MSG6="즉시 데이터 CD 복사"
+clonar_MSG7="즉시 데이터 CD 복제"
+clonar_MSG7B="즉시 오디오 CD 복사"
+clonar_MSG8="플라잉 카피 옵션에는 두 개의 광학 장치가 필요합니다."
+clonar_MSG9="데이터가 기록되는 동안 컴퓨터에 설치되었습니다."
+clonar_MSG10="컴퓨터에만 있는 경우 원본 디스크에서 직접 읽습니다."
+clonar_MSG11="비행기에서 사본을 사용할 수 없습니다."
+clonar_MSG12B="CD 데이터 복사"
+clonar_MSG0="이전 메뉴"
+
+# mgrabacd
+
+mgrabacd_MSG1="하드 디스크의 CD 데이터"
+mgrabacd_MSG2="새 데이터 CD 굽기(cdrtools 사용)"
+mgrabacd_MSG3="새 데이터 CD 굽기(libburnia 사용)"
+mgrabacd_MSG4="이전 메뉴"
+mgrabacd_MSG5="옵션을 입력하세요"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="	데이터 이미지 기록"
+mgrabaimg_MSG2="iso 또는 ext2 이미지를 CD-R/RW에 굽기 (cdrtools 사용)"
+mgrabaimg_MSG3="ISO 이미지를 CD-R/RW에 굽기 (libburnia 사용)"
+mgrabaimg_MSG4="이전 메뉴"
+mgrabaimg_MSG5="옵션을 입력하세요"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1=".wav 파일에서 오디오 CD 굽기"
+mgrabararchivosaudio_MSG2=".mp3 파일에서 오디오 CD 굽기"
+mgrabararchivosaudio_MSG3=".ogg 파일에서 오디오 CD 굽기"
+mgrabararchivosaudio_MSG0="이전 메뉴"
+mgrabararchivosaudio_MSG0B="옵션을 입력하세요"
+mgrabararchivosaudio_MSG4=".flac 파일에서 오디오 CD 굽기"
+mgrabararchivosaudio_MSG5="파일에서 CD-오디오 녹음 중"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="CD에 녹음 중"
+menugrabar_cd_MSG2="------------------ CD - 데이터 ------------------"
+menugrabar_cd_MSG3="데이터 CD 복사"
+menugrabar_cd_MSG4="새 데이터 CD 굽기"
+menugrabar_cd_MSG5="새 멀티 세션 데이터 CD 굽기"
+menugrabar_cd_MSG6=".iso 또는 .ext2 이미지를 CD에 굽기"
+menugrabar_cd_MSG7=".bin/.cue 이미지를 CD에 굽기"
+menugrabar_cd_MSG8="------------------ CD - 오디오 ------------------"
+menugrabar_cd_MSG9="오디오 CD 추출"
+menugrabar_cd_MSG13="------------------- 기타 옵션 -------------------"
+menugrabar_cd_MSG14="혼합 CD 굽기(데이터 + 오디오)"
+menugrabar_cd_MSG15="CD-RW 삭제"
+menugrabar_cd_MSG16="열린 CD 닫기"
+menugrabar_cd_MSG17="드라이브의 디스크 정보 표시"
+menugrabar_cd_MSG18="디스크 파일에서 오디오 CD 굽기"
+menugrabar_cd_MSG0="이전 메뉴"
+menugrabar_cd_MSGPRINCIPAL="옵션을 입력하세요"
+

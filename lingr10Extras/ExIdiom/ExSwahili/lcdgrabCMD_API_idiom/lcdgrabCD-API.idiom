@@ -1,0 +1,185 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Suajili para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="inaendesha"
+copia_bin_MSG2="--------------KUJARIBU UPYA MCHAKATO WA KUREKODI---------------"
+copia_bin_MSG3="	KUFUTA FAILI LA PICHA"
+copia_bin_MSG4="KOSA IMETOKEA WAKATI WA KUREKODI"
+copia_bin_MSG5="Faili ya diski ya kutupa picha .iso haiwezi kupatikana. Inaacha kurekodi..."
+
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="inaendesha"
+datos_al_vuelo_MSG2="Hitilafu katika jaribio la kurekodi, kujaribu tena bila usaidizi wa kuchoma kupita kiasi"
+datos_al_vuelo_MSG3="Angalia kama diski chanzo au kifaa"
+datos_al_vuelo_MSG4="iko katika hali nzuri"
+datos_al_vuelo_MSG5="Kupata nambari ya kuzuia kutoka kwa diski chanzo"
+datos_al_vuelo_MSG6="INAKINA DISK..."
+
+# clonar_cd
+
+clonar_cd_MSG1="inaendesha"
+clonar_cd_MSG2="CD IMEFUNGWA KWA MAFANIKIO"
+clonar_cd_MSG3="KOSA IMETOKEA WAKATI WA KUFUNGA CD"
+
+# datos
+
+datos_MSG1="Faili na saraka za kuunda picha ya .iso"
+datos_MSG2="CD/DVD/BD LABEL"
+datos_MSG3="Ingiza jina la CD/DVD/BD ya baadaye:"
+datos_MSG4="Kuzindua kidhibiti faili:"
+datos_MSG5=" KUUNDA PICHA . . . ."
+datos_MSG6="inaendesha"
+datos_MSG7="ISO-9660 PICHA IMEUNDWA NDANI"
+datos_MSG8="KUCHOMA CD/DVD/BD"
+datos_MSG9="MCHAKATO WA KUUNDA FAILI LA PICHA UMESHINDWA"
+datos_MSG10="INAJARIBU TENA KUUNDA MPYA BILA MSAADA WA HFS (Macintosh)"
+datos_MSG11="INAFUTA PICHA . . . ."
+datos_MSG12="KUUNDA PICHA MPYA . . . ."
+datos_MSG13="HAIJAWEZEKANA KUREKODI KWA USAHIHI"
+datos_MSG14="------------KUJARIBU TENA MCHAKATO WA KUREKODI-----------"
+datos_MSG15="FUTA PICHA..."
+datos_MSG16="BURNING ISO-9660 DATA CD/DVD/BD..."
+datos_MSG17="Haijapatikana."
+datos_MSG18="Inakomesha kurekodi kwa diski..."
+
+# datoslb
+
+datoslb_MSG1="Hitilafu: Faili ya picha haiwezi kupatikana. Inaahirisha..."
+datoslb_MSG2="MCHAKATO WA KUREKODI SAWA"
+datoslb_MSG3="KOSA KATIKA MCHAKATO WA KUREKODI"
+
+# borra
+
+borra_MSG0="Menyu Iliyotangulia"
+borra_MSG1="Chagua modi ya kufuta CD-RW"
+borra_MSG2="---------------------------"
+borra_MSG3="Futa haraka (tumia cdrecord)"
+borra_MSG4="Kamilisha kufuta (tumia cdrecord)"
+borra_MSG5="Ufutaji unahitajika (tumia cdrskin)"
+borra_MSG6="inaendesha"
+borra_MSG7="Uumbizaji au ufutaji unaohitajika unatumika kulingana na hali ya diski"
+borra_MSG8="CD-RW IMEFUTWA KWA MAFANIKIO!!"
+borra_MSG9="KOSA WAKATI WA KUFUTA CD-RW"
+borra_MSG10="LAZIMI KUFUTA CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="KOSA WAKATI UNAJARIBU KUFUTA CD-RW"
+err_borra_cdrw_MSG2="CD-RW UNUSEABLE"
+err_borra_cdrw_MSG3="HAIWEZEKANI KUFUTA HII CD-RW"
+err_borra_cdrw_MSG4="ANGALIA CD-RW KWA UHARIBIFU WA MWILI"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="inaendesha"
+cerrar_cd_MSG2="CD IMEFUNGWA KWA USAHIHI"
+cerrar_cd_MSG3="KOSA WAKATI WA KUFUNGA CD"
+cerrar_cd_MSG4="NYIMBO YA KUFUNGA KWENYE CD YA DATA . . ."
+
+# grabimg
+
+grabimg_MSG1=".iso au picha ya .ext2 ili kuchoma hadi CD/DVD"
+grabimg_MSG2="Kuzindua kidhibiti faili."
+grabimg_MSG3="Chapa njia kamili ambapo picha ya CD/DVD unayotaka kuchoma iko:"
+grabimg_MSG4="inaendesha"
+grabimg_MSG5="-----------KUJARIBU TENA UTARATIBU WA KUREKODI-----------"
+grabimg_MSG6="KUREKODI IMEKWISHA!!"
+grabimg_MSG7="PICHA .EXT2 IMEFANIKIWA KUREKODIWA"
+
+# grabimglb
+
+grabimglb_MSG1="Chapa njia kamili ambapo picha ya CD/DVD unayotaka kuchoma iko:"
+grabimglb_MSG2="Kuchoma picha kwenye diski..."
+grabimglb_MSG3="ISO-9660 PICHA IMEREKODIWA KWA MAFANIKIO"
+grabimglb_MSG4="KOSA KATIKA KUREKODI PICHA YA ISO-9660"
+grabimglb_MSG5="Hitilafu: Faili ya picha haijapatikana. Inaahirisha..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin na .cue faili ili kurekodi picha"
+grabimg_cue_MSG2="Ili kurekodi picha ya pipa/cue, faili zote mbili lazima"
+grabimg_cue_MSG3="kuwa katika saraka amilifu."
+grabimg_cue_MSG4="Saraka amilifu ya sasa"
+grabimg_cue_MSG5="Weka jina la *.cue faili inayorejelea *.bin faili ya picha"
+grabimg_cue_MSG6=".cue faili: "
+grabimg_cue_MSG7="running"
+grabimg_cue_MSG8="KUREKODI IMEKWISHA!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Choma CD ya Multisession kutoka kwa picha ya .iso"
+cd_multi_MSG2="Choma kipindi cha kwanza kwa CD kutoka kwa picha ya .iso"
+cd_multi_MSG3="Choma CD ya Multisession kutoka kwa faili kwenye diski"
+cd_multi_MSG4="Rekodi vipindi vinavyofuatana kwa CD kutoka kwa faili kwenye diski kuu"
+cd_multi_MSG5="Chaguo hili linahitaji CD ya vipindi vingi, na kipindi kilichorekodiwa hapo awali."
+cd_multi_MSG6="Menyu iliyotangulia"
+cd_multi_MSG7=".iso picha ya kuchoma hadi CD-Multi-session"
+cd_multi_MSG8="Bainisha njia ya picha ya .iso"
+cd_multi_MSG9="inaendesha"
+cd_multi_MSG10="MULTI-SESSION CD IMEFANIKIWA KUREKODIWA!!"
+cd_multi_MSG11="Saraka za kujumuisha kwenye picha."
+cd_multi_MSG12="Bainisha hapa chini ni saraka zipi zitajumuisha"
+cd_multi_MSG13="Ingiza jina la lebo ya CD:"
+cd_multi_MSG14="KUUNDA PICHA..."
+cd_multi_MSG15="IMEFANIKIWA KUUNDA"
+cd_multi_MSG16="KOSA WAKATI WA KUUNDA PICHA. KUTOA UCHAKATO WA KUREKODI..."
+cd_multi_MSG17="KUCHOMA PICHA YA CD..."
+cd_multi_MSG18="CD MULTI-SESSION MENU"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="RIPPING AUDIO CD..."
+copia_cd_audio_MSG2="Inaendesha"
+copia_cd_audio_MSG3="NYIMBO ZA SAUTI ZIMEFANIKIWA KUPANDA!!"
+copia_cd_audio_MSG4="KOSA LINAPOKARIBU NYIMBO ZA SAUTI"
+copia_cd_audio_MSG5="BURNING AUDIO CD..."
+copia_cd_audio_MSG6="AUDIO CD IMEFANIKIWA KUNAKULIWA!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav faili za kuchoma hadi CD"
+wav_a_cd_MSG2="Linux-cdgrab haitaangalia saizi ya saraka"
+wav_a_cd_MSG3="Hakikisha haizidi Mbytes 650 endapo"
+wav_a_cd_MSG4="ikiwa unatumia CD ya dakika 80."
+wav_a_cd_MSG5="Ingiza njia ya saraka ya faili za .wav"
+wav_a_cd_MSG6="inaendesha"
+wav_a_cd_MSG7="MCHAKATO UMEMEKAMILIKA!"
+
+# cdmixto
+
+cdmixto_MSG1="Mradi wa kuunda CD-Mixto (Picha ya Data .iso + Faili za Sauti .wav)"
+cdmixto_MSG2="Linux-cdgrab haitaangalia saizi ya saraka"
+cdmixto_MSG3="faili za sauti ziko wapi."
+cdmixto_MSG4="Wala haitafanya hivyo kutoka kwa picha ya .iso ambayo utarekodi"
+cdmixto_MSG5="baada ya."
+cdmixto_MSG6="Kuwa sawa na saizi uliyo nayo"
+cdmixto_MSG7="choma kwenye CD yako mpya."
+cdmixto_MSG8="Bainisha njia ya faili za sauti:"
+cdmixto_MSG9="Bainisha njia ya picha ya iso:"
+cdmixto_MSG10="######################################"
+cdmixto_MSG11="KUREKODI CD MCHANGANYIKO: DATA + AUDIO"
+cdmixto_MSG12="inaendesha"
+cdmixto_MSG13="----CD-MCHANGANYIKO IMEFANIKIWA KUUNDA-----!!"
+cdmixto_MSG14="--------KOSA WAKATI UNACHOMA CD-MCHANGANYIKO--------"
+
+# discoinfo
+
+discoinfo_MSG1="Kimbia"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI mlango imechanganuliwa"
+cdrecord_scan_MSG1="Hitilafu katika kuchanganua bandari ya IDE/SCSI"
+cdrecord_scan_MSG2="Cdrecord haijapatikana"
+

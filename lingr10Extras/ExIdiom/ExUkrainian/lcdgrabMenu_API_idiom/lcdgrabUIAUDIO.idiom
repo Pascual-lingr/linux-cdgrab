@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExUkrainian/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en ucraniano para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="ПЕРЕТВОРЕННЯ АУДІО"
+menu_conversion_audio_MSG2="------------ ПЕРЕТВОРЕННЯ МІЖ ФОРМАТАМИ -----------"
+menu_conversion_audio_MSG3="Конвертувати .mp3 у .wav"
+menu_conversion_audio_MSG4="Конвертувати .ogg у .wav"
+menu_conversion_audio_MSG5="Конвертувати .wav у .mp3"
+menu_conversion_audio_MSG6="Перетворити .wav на .ogg"
+menu_conversion_audio_MSG6C="Конвертувати .wav у .flac"
+menu_conversion_audio_MSG6B="Конвертувати .flac у .wav"
+menu_conversion_audio_MSG7="-------------- ВИЯВЛЕННЯ АУДІО ДОРІЖОК ------------"
+menu_conversion_audio_MSG8="Копіювати аудіо компакт-диск у .wav"
+menu_conversion_audio_MSG9="Копіювати набір звукових доріжок у .wav"
+menu_conversion_audio_MSG10="Копіювати аудіо компакт-диск у .mp3"
+menu_conversion_audio_MSG11="Копіювати аудіо компакт-диск у .ogg"
+menu_conversion_audio_MSG0="Попереднє меню"
+menu_conversion_audio_MSG12="Пошук файлів .mp3"
+menu_conversion_audio_MSG13="Пошук файлів .ogg"
+menu_conversion_audio_MSG14="Пошук файлів .wav"
+menu_conversion_audio_MSG15="----------------- ІНШІ ОПЕРАЦІЇ ------------------"
+menu_conversion_audio_MSG16="Вирізати аудіофайл .wav"
+menu_conversion_audio_MSG17="Копіювати аудіо компакт-диск у .flac"
+

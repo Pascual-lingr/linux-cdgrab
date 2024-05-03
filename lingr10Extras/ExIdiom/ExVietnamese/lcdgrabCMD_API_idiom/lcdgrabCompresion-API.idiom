@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExVietnamese/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Vietnamita para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Nhập đường dẫn của file hoặc thư mục:"
+empaquetar_MSG2="------- Tùy chọn -------"
+empaquetar_MSG33="Tạo tệp .tar.gz"
+empaquetar_MSG4="Tạo tệp .tar.bz2"
+empaquetar_MSG5="Nhập một tùy chọn: "
+empaquetar_MSG6="Đang chạy"
+empaquetar_MSG7="Tùy chọn không hợp lệ"
+
+# desempaquetar
+
+desempaquetar_MSG1="Nhập đường dẫn tệp:"
+desempaquetar_MSG2="KHÔNG TÌM THẤY BỘ GIẢI NÉN CHO"
+desempaquetar_MSG3="HOẶC"
+desempaquetar_MSG4="KHÔNG TỒN TẠI"
+desempaquetar_MSG5="Đang chạy"
+desempaquetar_MSG6="đã giải nén"
+desempaquetar_MSG7="Lỗi khi giải nén"
+
+# comprime
+
+comprime_MSG1="NÉN HÌNH ẢNH"
+comprime_MSG2="Nén bằng bzip2"
+comprime_MSG3="Nén bằng gzip"
+comprime_MSG4="Nén bằng xz"
+comprime_MSG5="Menu trước"
+comprime_MSG6="Đang chạy"
+comprime_MSG7="Nén tập tin hình ảnh đã hoàn tất"
+comprime_MSG8="Lỗi nén bằng"
+comprime_MSG9="Máy nén không hợp lệ"
+
+# descomprime
+
+descomprime_MSG1="Nhập đường dẫn tệp:"
+descomprime_MSG2="---------------------------"
+descomprime_MSG3="KHÔNG TÌM THẤY BỘ GIẢI NÉN CHO"
+descomprime_MSG4="HOẶC"
+descomprime_MSG5="KHÔNG TỒN TẠI"
+descomprime_MSG6="Đang chạy"
+descomprime_MSG7="không nén"
+descomprime_MSG8="Lỗi khi giải nén"
+

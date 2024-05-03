@@ -1,0 +1,72 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en Lao para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+# Resultado del traductor
+volcar_imagen_MSG1="ເສັ້ນທາງຂອງ .img ຫຼື .ext2 ຮູບພາບເພື່ອ dump ໃສ່ແຜ່ນ."
+volcar_imagen_MSG2="-----------------------ສຳຄັນ----------------------------" 
+volcar_imagen_MSG3="+ ຕົວເລືອກນີ້ບໍ່ສາມາດໃຊ້ໄດ້ໃນແຜ່ນ optical."
+# Resultado del traductor
+volcar_imagen_MSG4="+ ໃຊ້ໃນ pendrives, floppy disks, disk partitions, ແລະອື່ນໆ."
+volcar_imagen_MSG5="+ ພິຈາລະນາກັບຮາດໄດຣຟ໌:"
+volcar_imagen_MSG6="+ ຮູບພາບຖືກຂຽນດ້ວຍ dd ຕັ້ງແຕ່ຕົ້ນ"
+volcar_imagen_MSG7=" ຈາກ​ແຜ່ນ​ທີ່​ລະ​ບຸ​ໄວ້​, ບໍ່​ອະ​ນຸ​ຍາດ​ໃຫ້​ໃຊ້​ຕົວ​ເລກ​"
+volcar_imagen_MSG8="ພາກສ່ວນສະເພາະເພື່ອເລີ່ມຕົ້ນຂະບວນການຂຽນ"
+volcar_imagen_MSG9="+ ໃຊ້ດ້ວຍຄວາມລະມັດລະວັງ. ໃຊ້ຄວາມສ່ຽງຂອງຕົນເອງ."
+volcar_imagen_MSG10="+ ການແບ່ງປັນແຜ່ນອາດຈະໃຊ້ບໍ່ໄດ້."
+volcar_imagen_MSG11="+ ມັນບໍ່ໄດ້ແນະນໍາໃຫ້ໃຊ້ມັນຢູ່ໃນລະບົບຫຼາຍພາທິຊັນ."
+volcar_imagen_MSG12="ການ​ຟື້ນ​ຟູ​ອາດ​ຈະ​ອອກ​ຈາກ​ຕາ​ຕະ​ລາງ​ການ​ແບ່ງ​ປັນ​ແລະ"
+volcar_imagen_MSG13="ການແບ່ງສ່ວນທີ່ບໍ່ມີປະໂຫຍດດ້ວຍຕົນເອງ."
+volcar_imagen_MSG14="-------------------------------------------------------------"
+volcar_imagen_MSG15="ກົດປຸ່ມ C ເພື່ອສືບຕໍ່; (ຂະບວນການຈະຖືກຍົກເລີກໃນທາງເລືອກອື່ນ)"
+volcar_imagen_MSG16="ລະບຸເສັ້ນທາງຂອງໄຟລ໌ຮູບພາບທີ່ຈະ dump ເຂົ້າໄປໃນແຜ່ນ: "
+volcar_imagen_MSG17="mount ຄໍາ​ສັ່ງ​ອອກ​:"
+volcar_imagen_MSG18="ລະບຸອຸປະກອນບລັອກບ່ອນທີ່ຮູບພາບຈະຖືກຖິ້ມ:"
+volcar_imagen_MSG19="ຮູບພາບການຖິ້ມຂີ້ເຫຍື້ອ"
+volcar_imagen_MSG20="ຢູ່ໃນອຸປະກອນ"
+volcar_imagen_MSG21="ແລ່ນ"
+volcar_imagen_MSG22="ຂະບວນການ dump ຮູບພາບສໍາເລັດ"
+
+# volcar_iso
+
+volcar_iso_MSG1="ລະບຸອຸປະກອນບລັອກເພື່ອຂຽນຮູບພາບ iso ເປັນ:"
+volcar_iso_MSG2="ແຈ້ງການ"
+volcar_iso_MSG2B="------"
+volcar_iso_MSG3="ລະບຸອຸປະກອນບລັອກເພື່ອຂຽນໃສ່."
+volcar_iso_MSG4="ຕົວຢ່າງ: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="ບໍ່ລະບຸພາທິຊັນທີ່ເປັນຂອງອຸປະກອນນີ້"
+volcar_iso_MSG6="ຕົວຢ່າງ: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="ລະບຸຮູບພາບ iso-9660 ຫຼື img ທີ່ຈະຂຽນ:"
+volcar_iso_MSG9="ຂະບວນການສຳເລັດ"
+volcar_iso_MSG10="ຄວາມຜິດພາດໃນຂະບວນການຂຽນ iso"
+volcar_iso_MSG11="ລະບຸຂະໜາດບລັອກເພື່ອຂຽນຮູບ"
+volcar_iso_MSG12="ເລືອກທາງເລືອກຕາມລະບົບປະຕິບັດການທີ່ຈະຂຽນ:"
+volcar_iso_MSG13="ISO-9660 ຫຼືຮູບ IMG bootable ເພື່ອ flash ໃນອຸປະກອນ:"
+volcar_iso_MSG14="ອອກ"
+volcar_iso_MSG15="ISO-9660 ຫຼື ໄຟລ໌ຮູບ IMG"
+volcar_ISO_MSG16="ເລືອກລະບົບການດຳເນີນການເພື່ອຖິ້ມໃສ່ເຄື່ອງ"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="ເລືອກລະບົບໄຟລ໌ດ້ວຍ"
+Formateador_linuxfs_MSG2="ອຸປະກອນຈະຖືກຈັດຮູບແບບ:"
+Formateador_linuxfs_MSG3="ລະບຸອຸປະກອນບລັອກເພື່ອຈັດຮູບແບບ: "
+Formateador_linuxfs_MSG5="ຂະ​ບວນ​ການ​ສໍາ​ເລັດ​"
+Formateador_linuxfs_MSG6="ເຄື່ອງຟໍແມັດແຜ່ນ"
+Formateador_linuxfs_MSG7="ຕັ້ງປ້າຍລະດັບສຽງ"
+Formateador_linuxfs_MSG10="ລະບຸຊື່ປ້າຍກຳກັບປະລິມານ"
+Formateador_linuxfs_MSG11="ປ້າຍກຳກັບປະລິມານໃໝ່"
+Formateador_linuxfs_MSG12="ລະບຸຂະໜາດບລັອກ"
+Formateador_linuxfs_MSG13="ຂະໜາດບລັອກໃໝ່"
+Formateador_linuxfs_MSG14="ເມນູກ່ອນໜ້າ"
+

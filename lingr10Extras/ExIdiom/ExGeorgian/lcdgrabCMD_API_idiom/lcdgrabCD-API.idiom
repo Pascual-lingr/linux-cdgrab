@@ -1,0 +1,192 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGeorgian/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Georgiano para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="სირბილი"
+copia_bin_MSG2="--------------ჩაწერის პროცესის ხელახლა მცდელობა---------------"
+# Resultado del traductor
+copia_bin_MSG3="	IMAGE ფაილის წაშლა"
+copia_bin_MSG4="ჩანაწერში მოხდა შეცდომა"
+copia_bin_MSG5="დისკის .iso გამოსახულების ნაგავსაყრელი ფაილი ვერ მოიძებნა. ჩაწერის შეწყვეტა..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="გარბენი"
+datos_al_vuelo_MSG2="შეცდომა ჩაწერის მცდელობისას, ხელახლა ცდა გადამწვრობის გარეშე"
+datos_al_vuelo_MSG3="შეამოწმეთ წყაროს დისკი ან მოწყობილობა"
+datos_al_vuelo_MSG4="კარგ მდგომარეობაშია"
+datos_al_vuelo_MSG5="მიმდინარე ბლოკის ნომრის მიღება საწყისი დისკიდან"
+datos_al_vuelo_MSG6="დისკის კოპირება..."
+
+# clonar_cd
+
+clonar_cd_MSG1="გაშვებულია"
+clonar_cd_MSG2="CD წარმატებით კლონირდა"
+clonar_cd_MSG3="CD-ის კლონირებისას მოხდა შეცდომა"
+
+# datos
+
+datos_MSG1="ფაილები და დირექტორიები .iso გამოსახულების შესაქმნელად"
+# Resultado del traductor
+datos_MSG2="CD/DVD/BD LABEL"
+datos_MSG3="შეიყვანეთ მომავალი CD/DVD/BD სახელი:"
+datos_MSG4="ფაილ მენეჯერის გაშვება:"
+datos_MSG5="	სურათის შექმნა..."
+datos_MSG6="გაშვებულია"
+datos_MSG7="ISO-9660 IMAGE CREATED IN"
+datos_MSG8="	CD/DVD/BD ჩაწერა"
+datos_MSG9="სურათის ფაილის შექმნის პროცესი ვერ მოხერხდა"
+datos_MSG10="ვცდილობთ ახალის შექმნას HFS (Macintosh) მხარდაჭერის გარეშე"
+datos_MSG11="მიმდინარეობს სურათის წაშლა ...."
+datos_MSG12="ახალი სურათის შექმნა..."
+datos_MSG13="შეუძლებელი იყო სწორად ჩაწერა"
+datos_MSG14="------------ჩაწერის პროცესის ხელახლა მცდელობა-----------"
+datos_MSG15="სურათის წაშლა..."
+datos_MSG16="ISO-9660 მონაცემთა CD/DVD/BD ჩაწერა..."
+datos_MSG17="ვერ მოიძებნა."
+datos_MSG18="დისკის ჩაწერის შეწყვეტა..."
+
+# datoslb
+
+datoslb_MSG1="შეცდომა: სურათის ფაილი ვერ მოიძებნა. შეწყვეტა..."
+datoslb_MSG2="ჩაწერის პროცესი კარგია"
+datoslb_MSG3="შეცდომა ჩაწერის პროცესში"
+
+# borra
+
+borra_MSG0="წინა მენიუ"
+borra_MSG1="აირჩიეთ რეჟიმი CD-RW-ის წასაშლელად"
+borra_MSG2="----------------------------------"
+borra_MSG3="სწრაფი წაშლა (გამოიყენეთ cdrecord)"
+borra_MSG4="დასრულდეს წაშლა (გამოიყენე cdrecord)"
+borra_MSG5="საჭიროა წაშლა (გამოიყენეთ cdrskin)"
+borra_MSG6="გაშვებულია"
+borra_MSG7="აუცილებელი ფორმატირება ან წაშლა გამოიყენება დისკის სტატუსის მიხედვით"
+borra_MSG8="CD-RW წაიშალა წარმატებით!!"
+borra_MSG9="შეცდომა CD-RW წაშლისას"
+borra_MSG10="CD-RW იძულებითი წაშლა"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="შეცდომა CD-RW წაშლის მცდელობისას"
+err_borra_cdrw_MSG2="CD-RW გამოუყენებელი"
+err_borra_cdrw_MSG3="შეუძლებელია ამ CD-RW წაშლა"
+err_borra_cdrw_MSG4="შეამოწმეთ CD-RW ფიზიკურ დაზიანებაზე"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="გაშვებულია"
+cerrar_cd_MSG2="დისკი სწორად დაიხურა"
+cerrar_cd_MSG3="შეცდომა CD-ის დახურვისას"
+cerrar_cd_MSG4="სიმღერის დახურვა მონაცემთა CD-ზე...."
+
+# grabimg
+
+grabimg_MSG1=".iso ან .ext2 სურათი ჩასაწერად CD/DVD-ზე"
+grabimg_MSG2="ფაილ მენეჯერის გაშვება."
+grabimg_MSG3="აკრიფეთ სრული გზა, სადაც მდებარეობს CD/DVD სურათი, რომლის ჩაწერაც გსურთ:"
+grabimg_MSG4="გარბენი"
+grabimg_MSG5="-----------ჩაწერის პროცესის ხელახლა მცდელობა-----------"
+grabimg_MSG6="ჩაწერა დასრულებულია!!"
+# Resultado del traductor
+grabimg_MSG7="IMAGE .EXT2 წარმატებით ჩაიწერა"
+
+# grabimglb
+
+grabimglb_MSG1="აკრიფეთ სრული გზა, სადაც მდებარეობს CD/DVD სურათი, რომლის ჩაწერაც გსურთ:"
+grabimglb_MSG2="სურათის ჩაწერა დისკზე..."
+grabimglb_MSG3="ISO-9660 სურათი წარმატებით ჩაიწერა"
+grabimglb_MSG4="შეცდომა ISO-9660 სურათის ჩაწერაში"
+grabimglb_MSG5="შეცდომა: სურათის ფაილი ვერ მოიძებნა. შეწყვეტა..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin და .cue ფაილები სურათის ჩასაწერად"
+grabimg_cue_MSG2="bin/cue სურათის ჩასაწერად ორივე ფაილი უნდა"
+grabimg_cue_MSG3="იყავით აქტიურ დირექტორიაში."
+grabimg_cue_MSG4="მიმდინარე აქტიური დირექტორია"
+grabimg_cue_MSG5="შეიყვანეთ *.cue ფაილის სახელი, რომელიც მიუთითებს *.bin გამოსახულების ფაილზე"
+grabimg_cue_MSG6=".cue ფაილი: "
+grabimg_cue_MSG7="გარბენი"
+grabimg_cue_MSG8="ჩაწერა დასრულებულია!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="მრავალსესიის CD ჩაწერა .iso სურათიდან"
+cd_multi_MSG2="პირველი სესიის ჩაწერა CD-ზე .iso სურათიდან"
+cd_multi_MSG3="მრავალსესიის CD ჩაწერა დისკზე ფაილებიდან"
+cd_multi_MSG4="ჩაწერეთ თანმიმდევრული სესიები CD-ზე მყარ დისკზე არსებული ფაილებიდან"
+cd_multi_MSG5="ამ პარამეტრს ესაჭიროება მრავალ სესიის CD, ადრე ჩაწერილი სესიით."
+cd_multi_MSG6="წინა მენიუ"
+cd_multi_MSG7=".iso სურათი ჩასაწერად CD-Multi-session-ზე"
+cd_multi_MSG8="მიუთითეთ .iso გამოსახულების გზა"
+cd_multi_MSG9="გაშვებულია"
+# Resultado del traductor
+cd_multi_MSG10="MULTI-SESSION CD წარმატებით ჩაწერილი!!"
+cd_multi_MSG11="გამოსახულებაში ჩასართავი დირექტორია."
+cd_multi_MSG12="მიუთითეთ ქვემოთ რომელი დირექტორიები უნდა შეიცავდეს"
+cd_multi_MSG13="შეიყვანეთ CD ეტიკეტის სახელი:"
+cd_multi_MSG14="სურათის შექმნა..."
+cd_multi_MSG15="წარმატებით შეიქმნა"
+cd_multi_MSG16="შეცდომა სურათის შექმნისას. ჩაწერის პროცესის შეწყვეტა..."
+cd_multi_MSG17="CD სურათის ჩაწერა..."
+# Resultado del traductor
+cd_multi_MSG18="CD MULTI-SESSION MENU"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="AUDIO CD-ის ამოღება..."
+copia_cd_audio_MSG2="გაშვებულია"
+copia_cd_audio_MSG3="აუდიო ტრეკები წარმატებით დამწიფდა!!"
+copia_cd_audio_MSG4="შეცდომა აუდიო ჩანაწერების დაბეჭდვისას"
+copia_cd_audio_MSG5="აუდიო დისკის ჩაწერა..."
+copia_cd_audio_MSG6="AUDIO CD წარმატებით დაკოპირებულია!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav ფაილები ჩასაწერად CD-ზე"
+wav_a_cd_MSG2="Linux-cdgrab არ შეამოწმებს დირექტორიას ზომას"
+wav_a_cd_MSG3="დარწმუნდით, რომ ეს არ არის 650 მბაიტზე მეტი იმ შემთხვევაში"
+wav_a_cd_MSG4="თუ იყენებთ 80 წუთიან CD-ს."
+wav_a_cd_MSG5="შეიყვანეთ .wav ფაილების დირექტორიაში ბილიკი"
+wav_a_cd_MSG6="გაშვებულია"
+wav_a_cd_MSG7="პროცესი დასრულებულია!"
+
+# cdmixto
+
+# Resultado del traductor
+cdmixto_MSG1="CD-Mixto შექმნის პროექტი (მონაცემთა სურათი .iso + აუდიო ფაილები .wav)"
+cdmixto_MSG2="Linux-cdgrab არ შეამოწმებს დირექტორიას ზომას"
+cdmixto_MSG3="სად არის აუდიო ფაილები."
+cdmixto_MSG4="არც ამას გააკეთებს .iso სურათიდან, რომლის ჩაწერასაც აპირებთ"
+cdmixto_MSG5="შემდეგ."
+cdmixto_MSG6="შეესაბამეთ თქვენს ზომას"
+cdmixto_MSG7="ჩაწერე ახალ CD-ზე."
+cdmixto_MSG8="მიუთითეთ აუდიო ფაილების ბილიკი:"
+cdmixto_MSG9="მიუთითეთ iso გამოსახულების გზა:"
+cdmixto_MSG10="###############################"
+# Resultado del traductor
+cdmixto_MSG11="შერეული CD ჩაწერა: DATA + AUDIO"
+cdmixto_MSG12="გაშვებულია"
+# Resultado del traductor
+cdmixto_MSG13="----MIXED-CD წარმატებით შეიქმნა-----!!"
+cdmixto_MSG14="------ შეცდომა CD-MIXED ჩაწერისას--------"
+
+# discoinfo
+
+discoinfo_MSG1="სირბილი"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI პორტი დასკანირებულია"
+cdrecord_scan_MSG1="შეცდომა IDE/SCSI პორტის სკანირებისას"
+cdrecord_scan_MSG2="cdrecord ვერ მოიძებნა"
+

@@ -1,0 +1,46 @@
+#########################################################
+# lcdgrabAPI_idion/ExLao/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Lao para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+# Resultado del traductor
+MenuDispositivosBloque_MSG1="ການດໍາເນີນງານ DISK DRIVE"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- ສຳຄັນ -----------------------"
+MenuDispositivosBloque_MSG3="+ ຫ້າມຂຽນຄຳສັ່ງໃນຮາດດິດ"
+MenuDispositivosBloque_MSG4="+ ກ່ຽວກັບການແບ່ງປັນແຜ່ນທີ່ມີຮູບພາບ"
+MenuDispositivosBloque_MSG5="+ ການຟື້ນຕົວ, boot partitions ຫຼືຂອງທ່ານເອງ"
+MenuDispositivosBloque_MSG6="+ ການແບ່ງສ່ວນລະບົບປະຕິບັດການ."
+MenuDispositivosBloque_MSG7="+ ການໃຊ້ທາງເລືອກການຂຽນຂອງເມນູນີ້ໃນທາງທີ່ຜິດ"
+MenuDispositivosBloque_MSG8="+ ສາມາດສ້າງໄພພິບັດໃນລະບົບ."
+MenuDispositivosBloque_MSG9="+ ໃຊ້ດ້ວຍຄວາມລະມັດລະວັງ. ໃຊ້ຄວາມສ່ຽງຂອງຕົນເອງ."
+MenuDispositivosBloque_MSG10="--------------------- ການ​ຂຽນ --------------------"
+MenuDispositivosBloque_MSG11="ຖິ້ມໄຟລ໌ຮູບພາບໃສ່ແຜ່ນດິດ"
+# Resultado del traductor
+MenuDispositivosBloque_MSG11B="Dump iso ຫຼື img image (ສາມາດບູດໄດ້ເອງ) ໃສ່ pendrive ຫຼື USB disk"
+MenuDispositivosBloque_MSG11C="ບໍ່ຮອງຮັບລະບົບການຕິດຕັ້ງທັງໝົດ."
+MenuDispositivosBloque_MSG12="ຟໍແມັດໄດດ້ວຍລະບົບໄຟລ໌ Linux ຫຼື Windows ເດີມ"
+MenuDispositivosBloque_MSG13="-------------------- ກຳລັງອ່ານ ---------------------"
+MenuDispositivosBloque_MSG14="ສ້າງຮູບພາບ .img ຈາກແຜ່ນດິດ"
+MenuDispositivosBloque_MSG15="ເມນູກ່ອນໜ້ານີ້"
+MenuDispositivosBloque_MSG16="ພິມຕົວເລືອກ"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------ສຳຄັນ------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ ໜ່ວຍຮູບແບບທີ່ມີລະບົບໄຟລ໌ທີ່ໃຊ້ໃນອຸປະກອນ"
+UIFormatearUnidad_linuxfs_MSG2B="+ ຫຼືການແບ່ງປັນແຜ່ນ."
+UIFormatearUnidad_linuxfs_MSG3="+ ຕົວເລືອກນີ້ຈະລຶບຂໍ້ມູນທີ່ມີຢູ່ທັງໝົດຢູ່ໃນໜ່ວຍ"
+UIFormatearUnidad_linuxfs_MSG4="+ ໄດຣຟ໌ທີ່ຖອດອອກໄດ້ທີ່ຈັດຮູບແບບດ້ວຍລະບົບໄຟລ໌"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux ຕົວມັນເອງຈະສາມາດເຂົ້າເຖິງໄດ້ພາຍໃຕ້ລະບົບປະຕິບັດການນີ້ເທົ່ານັ້ນ."
+UIFormatearUnidad_linuxfs_MSG6="+ ໃຊ້ດ້ວຍຄວາມລະມັດລະວັງ, ໃຊ້ຄວາມສ່ຽງຂອງຕົນເອງ."
+UIFormatearUnidad_linuxfs_MSG7="-----------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="ກົດປຸ່ມ C ເພື່ອສືບຕໍ່; (ຂະບວນການຈະຖືກຍົກເລີກໃນທາງເລືອກອື່ນ)"
+

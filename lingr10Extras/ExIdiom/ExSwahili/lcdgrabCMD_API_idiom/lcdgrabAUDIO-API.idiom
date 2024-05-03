@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSwahili/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Suajili para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="FILI ZA MP3 ZA KUGEUZA"
+mp3awav_MSG0="Ingiza njia ya faili za .mp3: "
+mp3awav_MSG1="KUBADILISHA"
+mp3awav_MSG1B=" KWA MUUNDO WA .WAV"
+mp3awav_MSG2="inaendesha"
+mp3awav_MSG3="Sampuli imewekwa kuwa 44100 Mhz"
+mp3awav_MSG4="Hitilafu katika kuchakata sampuli"
+mp3awav_MSG5="Imeshindwa kugeuza"
+mp3awav_MSG6="Directory haipatikani"
+mp3awav_MSG7="MWISHO WA KUGEUZA SAUTI"
+mp3awav_MSG8="Kurekebisha faili ya sauti"
+mp3awav_MSG9="Faili"
+mp3awav_MSG10="Kawaida"
+mp3awav_MSG11="Hitilafu ya Kurekebisha"
+
+# oggawav
+
+oggawav_MSG0="FILI ZA OGG ZA KUGEUZA"
+oggawav_MSG1="Ingiza njia ya faili za .ogg: "
+oggawav_MSG2="KUBADILISHA"
+oggawav_MSG2B=" KWA MUUNDO WA .WAV"
+oggawav_MSG3="kukimbia"
+oggawav_MSG4="Sampuli imewekwa kuwa 44100 Mhz"
+oggawav_MSG5="Hitilafu katika kuchakata sampuli"
+oggawav_MSG6="Imeshindwa kugeuza"
+oggawav_MSG7="Directory haipatikani"
+oggawav_MSG8="MWISHO WA HUDUMA YA SAUTI"
+oggawav_MSG9="Kurekebisha faili ya sauti"
+oggawav_MSG10="Faili"
+oggawav_MSG11="Kawaida"
+oggawav_MSG12="Hitilafu ya Kurekebisha"
+
+# cdawav
+
+cdawav_MSG1="KUPASUA CD YA SAUTI..."
+cdawav_MSG2="Kutekeleza:"
+cdawav_MSG3="NYIMBO ZA SAUTI ZILIZOFANIKIWA ILIYOFANIKIWA!!"
+cdawav_MSG4="Yaliyomo kwenye saraka ya faili za sauti"
+cdawav_MSG5="KOSA WAKATI WA KURUKA NYIMBO ZA SAUTI"
+
+# cddawav
+
+cddawav_MSG1="WEKA IDADI YA NYIMBO ILI KURIPU:"
+cddawav_MSG2="Bonyeza Crtl + c ili kughairi kurarua wimbo"
+cddawav_MSG3="Kutekeleza:"
+cddawav_MSG4="IMERUKA KWA MAFANIKIO"
+cddawav_MSG5="KURIPUKA KWA KOSA"
+
+# wavamp3
+
+wavamp3_MSG0="FILI ZA WAV ZA KUGEUZA"
+wavamp3_MSG1="Ingiza njia ya faili za .wav: "
+wavamp3_MSG1B="CONVERTING"
+wavamp3_MSG2="A FORMAT"
+wavamp3_MSG3="Kutekeleza:"
+wavamp3_MSG4="wakati wa kubadilisha"
+wavamp3_MSG5="hadi umbizo la .MP3"
+wavamp3_MSG6="Hitilafu katika kubadilisha"
+wavamp3_MSG7="UONGOZI WA SAUTI UMEMEKA"
+wavamp3_MSG8="AUDIO DIRECTORY HAIJAPATIKANA"
+
+# cdamp3
+
+cdamp3_MSG1="KUPASUA CD YA SAUTI..."
+cdamp3_MSG2="Kutekeleza:"
+cdamp3_MSG3="NYIMBO ZA SAUTI ZILIZOFANIKIWA ILIYOFANIKIWA!!"
+cdamp3_MSG4="KOSA WAKATI WA KURUKA NYIMBO ZA SAUTI"
+cdamp3_MSG5="Kazi ya kupiga simu:"
+
+# wavaogg
+
+wavaogg_MSG1="Ingiza njia ya faili za .wav: "
+wavaogg_MSG2="KUGEUZA"
+wavaogg_MSG3="KWA .ogg UMBIZO"
+wavaogg_MSG4="Inaendesha:"
+wavaogg_MSG5="Hitilafu katika kubadilisha"
+wavaogg_MSG6="to .ogg umbizo"
+
+# cdaogg
+
+cdaogg_MSG1="KUPASUA CD YA SAUTI..."
+cdaogg_MSG2="Kutekeleza:"
+cdaogg_MSG3="NYIMBO ZA SAUTI ZILIZOFANIKIWA ILIVYOFANIKIWA!!"
+cdaogg_MSG4="KOSA WAKATI WA KURUKA NYIMBO ZA SAUTI"
+cdaogg_MSG5="Kazi ya kupiga simu:"
+
+# corta_wav
+
+corta_wav_MSG0="Idadi ya sekunde:"
+corta_wav_MSG1="Bainisha njia ya faili ya sauti kubadilisha:"
+corta_wav_MSG2="Bainisha muda katika idadi ya sekunde, ambazo"
+corta_wav_MSG3="kukatwa kwa faili kutaanza."
+corta_wav_MSG4="-KUMBUKA-"
+corta_wav_MSG5="Ili kubainisha mwanzo wa sauti, weka 0"
+corta_wav_MSG6="Thamani katika sekunde kuanza uongofu:"
+corta_wav_MSG7="Bainisha muda katika idadi ya sekunde, ambazo"
+corta_wav_MSG8="kukatwa kwa faili kutakamilika."
+corta_wav_MSG9="Thamani katika sekunde mwisho wa ubadilishaji:"
+corta_wav_MSG10="Kukimbia"
+corta_wav_MSG11="Faili ya Sauti Iliyopunguzwa"
+corta_wav_MSG12="Hitilafu wakati wa kupunguza faili"
+corta_wav_MSG13="Faili ya sauti ya kupunguza:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV SAUTI"
+flacawav_MSG1="Bainisha njia ya faili za .flac:"
+flacawav_MSG2="KUBADILISHA"
+flacawav_MSG3=" KWA MUUNDO WA .wav"
+flacawav_MSG4="Sampuli imewekwa kuwa 44100 Mhz"
+flacawav_MSG5="Hitilafu katika kuchakata sampuli"
+flacawav_MSG6="Kurekebisha faili ya sauti"
+flacawav_MSG7="Faili"
+flacawav_MSG8="Kawaida"
+flacawav_MSG9="Kosa la Kurekebisha"
+flacawav_MSG10="Imeshindwa kugeuza"
+flacawav_MSG11="Directory haipatikani"
+flacawav_MSG12="MWISHO WA KUGEUZA SAUTI"
+
+# wavaflac
+
+wavaflac_MSG0="FILI ZA WAV ZA KUGEUZA"
+wavaflac_MSG1="Ingiza njia ya faili za .wav: "
+wavaflac_MSG2="KUBADILISHA"
+wavaflac_MSG3="KWA MUUNDO WA .flac"
+wavaflac_MSG4="imegeuzwa umbizo la flac"
+wavaflac_MSG5="Hitilafu katika kubadilisha"
+wavaflac_MSG6="kwa muundo wa .flac"
+wavaflac_MSG7="SARAKA YA FAILI YA FLAC HAIPATIKANI"
+

@@ -1,0 +1,74 @@
+#########################################################
+# lcgdrabAPI_idiom/ExGerman/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabación en CD.
+# Traducción experimental al Alemán, generada con google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="OPTION WÄHLEN"
+clonar_MSG2="--------- DISC-KOPIEN MIT VORSCHAUBILD --------"
+clonar_MSG3="Eine Daten-CD kopieren"
+clonar_MSG4="Ein vorheriges CD-Image auf der Festplatte erstellen"
+clonar_MSG5="------------- FLIEGENDE DISC-KOPIEN -----------"
+clonar_MSG6="Eine Daten-CD im Handumdrehen kopieren"
+clonar_MSG7="Eine Daten-CD im Handumdrehen klonen"
+clonar_MSG7B="Eine Audio-CD im Handumdrehen kopieren"
+clonar_MSG8="DIE FLYING COPY-OPTIONEN ERFORDERN ZWEI OPTISCHE LAUFWERKE"
+clonar_MSG9="Wird auf Ihrem Computer installiert, da die Daten dabei aufgezeichnet werden"
+clonar_MSG10="DIREKT VON DER QUELL-DISC LESEN, WENN SIE NUR AUF IHREM COMPUTER VERFÜGT"
+clonar_MSG11="DE MAN KANN DIE KOPIEN NICHT SOFORT VERWENDEN."
+clonar_MSG12B="CD-DATEN KOPIEREN"
+clonar_MSG0="Vorheriges Menü"
+
+# mgrabacd
+
+mgrabacd_MSG1="CD-DATEN VON DER FESTPLATTE"
+mgrabacd_MSG2="Eine neue Daten-CD brennen (cdrtools verwenden)"
+mgrabacd_MSG3="Eine neue Daten-CD brennen (verwendet libburnia)"
+mgrabacd_MSG4="Vorheriges Menü"
+mgrabacd_MSG5="Geben Sie eine Option ein"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="DATENBILD AUFZEICHNEN"
+mgrabaimg_MSG2="ISO- oder Ext2-Image auf CD-R/RW brennen (cdrtools verwenden)"
+mgrabaimg_MSG3="ISO-Image auf CD-R/RW brennen (verwendet libburnia)"
+mgrabaimg_MSG4="Vorheriges Menü"
+mgrabaimg_MSG5="Geben Sie eine Option ein"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Eine Audio-CD aus WAV-Dateien brennen"
+mgrabararchivosaudio_MSG2="Eine Audio-CD aus MP3-Dateien brennen"
+mgrabararchivosaudio_MSG3="Eine Audio-CD aus .ogg-Dateien brennen"
+mgrabararchivosaudio_MSG0="Vorheriges Menü"
+mgrabararchivosaudio_MSG0B="Geben Sie eine Option ein"
+mgrabararchivosaudio_MSG4="Eine Audio-CD aus .flac-Dateien brennen"
+mgrabararchivosaudio_MSG5="AUDIO-CD AUS DATEIEN AUFNEHMEN"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="AUFNAHME AUF CD"
+menugrabar_cd_MSG2="------------------ CD - DATEN -------------------"
+menugrabar_cd_MSG3="Daten-CD rippen"
+menugrabar_cd_MSG4="Eine neue Daten-CD brennen"
+menugrabar_cd_MSG5="Neue Multisession-Daten-CD brennen"
+menugrabar_cd_MSG6="ISO- oder .ext2-Image auf CD brennen"
+menugrabar_cd_MSG7="Bin/.cue-Image auf CD brennen"
+menugrabar_cd_MSG8="------------------ CD - AUDIO -------------------"
+menugrabar_cd_MSG9="Eine Audio-CD rippen"
+menugrabar_cd_MSG13="--------------- ANDERE OPTIONEN -----------------"
+menugrabar_cd_MSG14="Eine gemischte CD brennen (Daten + Audio)"
+menugrabar_cd_MSG15="Eine CD-RW löschen"
+menugrabar_cd_MSG16="Schließen und Öffnen der CD"
+menugrabar_cd_MSG17="Informationen über die Disc im Laufwerk anzeigen"
+menugrabar_cd_MSG18="Eine Audio-CD aus Disc-Dateien brennen"
+menugrabar_cd_MSG0="Vorheriges Menü"
+menugrabar_cd_MSGPRINCIPAL="Geben Sie eine Option ein"
+
+

@@ -1,0 +1,75 @@
+#########################################################
+# lcgdrabAPI_idiom/ExGreek/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al griego, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="ΔΙΑΛΕΞΤΕ ΜΙΑ ΕΠΙΛΟΓΗ"
+clonar_MSG2="-- ΑΝΤΙΓΡΑΦΑ ΔΙΣΚΟΥ ΜΕ ΕΙΚΟΝΑ ΠΡΟΕΠΙΣΚΟΠΗΣΗΣ --"
+clonar_MSG3="Αντιγραφή CD δεδομένων"
+clonar_MSG4="Δημιουργία προηγούμενης εικόνας CD στον σκληρό δίσκο"
+clonar_MSG5="--------- ΑΝΤΙΓΡΑΦΑ ΔΙΣΚΟΥ ΣΤΗΝ ΠΤΥΧΗ ---------"
+clonar_MSG6="Αντιγραφή ενός CD δεδομένων εν κινήσει"
+clonar_MSG7="Κλωνοποίηση CD δεδομένων εν κινήσει"
+clonar_MSG7B="Αντιγράψτε ένα CD ήχου εν κινήσει"
+clonar_MSG8="ΟΙ ΕΠΙΛΟΓΕΣ ΑΝΤΙΓΡΑΦΟΥ ΠΤΥΧΟΥ ΑΠΑΙΤΟΥΝ ΔΥΟ ΟΠΤΙΚΕΣ ΜΟΝΑΔΕΣ"
+clonar_MSG9="ΕΓΚΑΤΑΣΤΑΘΗΚΕ ΣΤΟΝ ΥΠΟΛΟΓΙΣΤΗ ΣΑΣ, ΑΦΟΥ ΤΑ ΔΕΔΟΜΕΝΑ ΚΑΤΑΓΡΑΦΟΝΤΑΙ ΕΝΩ"
+clonar_MSG10="ΔΙΑΒΑΣΤΕ ΑΠΕΥΘΕΙΑΣ ΑΠΟ ΤΟΝ ΔΙΣΚΟ ΠΡΟΕΛΕΥΣΗΣ, ΕΑΝ ΕΧΕΙ ΜΟΝΟ Ο ΥΠΟΛΟΓΙΣΤΗΣ ΣΑΣ"
+clonar_MSG11="ΔΕΝ ΘΑ ΜΠΟΡΕΙ ΝΑ ΧΡΗΣΙΜΟΠΟΙΗΣΕΙ ΤΑ ΑΝΤΙΓΡΑΦΑ ΣΤΗΝ ΠΤΗΣΗ."
+clonar_MSG12B="ΑΝΤΙΓΡΑΦΗ ΔΕΔΟΜΕΝΩΝ CD"
+clonar_MSG0="Προηγούμενο μενού"
+
+# mgrabacd
+
+mgrabacd_MSG1="ΔΕΔΟΜΕΝΑ CD ΑΠΟ ΣΚΛΗΡΟ ΔΙΣΚΟ"
+mgrabacd_MSG2="Εγγραφή νέου CD δεδομένων (χρησιμοποιήστε cdrtools)"
+mgrabacd_MSG3="Εγγραφή νέου CD δεδομένων (χρησιμοποιήστε το Libburnia)"
+mgrabacd_MSG4="Προηγούμενο μενού"
+mgrabacd_MSG5="Εισαγάγετε μια επιλογή"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="ΕΓΓΡΑΦΗ ΕΙΚΟΝΑΣ ΔΕΔΟΜΕΝΩΝ"
+mgrabaimg_MSG2="Εγγραφή εικόνας iso ή ext2 σε CD-R/RW (χρησιμοποιήστε cdrtools)"
+mgrabaimg_MSG3="Εγγραφή εικόνας iso σε CD-R/RW (χρησιμοποιήστε το libburnia)"
+mgrabaimg_MSG4="Προηγούμενο μενού"
+mgrabaimg_MSG5="Εισαγάγετε μια επιλογή"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Εγγραφή CD ήχου από αρχεία .wav"
+mgrabararchivosaudio_MSG2="Εγγραφή CD ήχου από αρχεία .mp3"
+mgrabararchivosaudio_MSG3="Εγγραφή CD ήχου από αρχεία .ogg"
+mgrabararchivosaudio_MSG0="Προηγούμενο μενού"
+mgrabararchivosaudio_MSG0B="Πληκτρολογήστε μια επιλογή"
+mgrabararchivosaudio_MSG4="Εγγραφή CD ήχου από αρχεία .flac"
+mgrabararchivosaudio_MSG5="ΕΓΓΡΑΦΗ CD-AUDIO ΑΠΟ ΑΡΧΕΙΑ"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="ΕΓΓΡΑΦΗ ΣΕ CD"
+# El traductor muestra este resultado con CD DATOS
+menugrabar_cd_MSG2="------------------- DATA - CD -------------------"
+menugrabar_cd_MSG3="Αντιγραφή CD δεδομένων"
+menugrabar_cd_MSG4="Εγγραφή νέου CD δεδομένων"
+menugrabar_cd_MSG5="Εγγραφή ενός νέου CD δεδομένων πολλών περιόδων σύνδεσης"
+menugrabar_cd_MSG6="Εγγραφή εικόνας .iso ή .ext2 σε CD"
+menugrabar_cd_MSG7="Εγγραφή εικόνας .bin/.cue σε CD"
+# El traductor muestra este resultado con CD AUDIO
+menugrabar_cd_MSG8="------------------ CD - AUDIO -------------------"
+menugrabar_cd_MSG9="Αποκοπή ενός CD ήχου"
+menugrabar_cd_MSG13="---------------- ΑΛΛΕΣ ΕΠΙΛΟΓΕΣ -----------------"
+menugrabar_cd_MSG14="Εγγραφή μεικτού CD (Δεδομένα + Ήχος)"
+menugrabar_cd_MSG15="Διαγραφή CD-RW"
+menugrabar_cd_MSG16="Κλείσιμο ανοιχτού CD"
+menugrabar_cd_MSG17="Εμφάνιση πληροφοριών δίσκου στη μονάδα δίσκου"
+menugrabar_cd_MSG18="Εγγραφή CD ήχου από αρχεία δίσκου"
+menugrabar_cd_MSG0="Προηγούμενο μενού"
+menugrabar_cd_MSGPRINCIPAL="Πληκτρολογήστε μια επιλογή"
+

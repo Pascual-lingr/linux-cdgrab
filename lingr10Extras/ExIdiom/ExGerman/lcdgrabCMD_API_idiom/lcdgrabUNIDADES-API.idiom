@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExGerman/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en Alemán para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generada con google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Pfad des .img- oder .ext2-Images, das auf der Festplatte gespeichert werden soll."
+volcar_imagen_MSG2="----------------------WICHTIG--------------------"
+volcar_imagen_MSG3="+ Diese Option funktioniert nicht auf optischen Datenträgern."
+volcar_imagen_MSG6="+ Verwendung auf Flash-Laufwerken, Disketten, Festplattenpartitionen usw. "
+volcar_imagen_MSG5="+ Überlegungen zu Festplatten:"
+volcar_imagen_MSG6="+ Das Schreiben des Bildes erfolgt mit dd von Anfang an"
+volcar_imagen_MSG7=" der angegebenen Festplatte, es ist nicht erlaubt, mehrere davon zu verwenden"
+volcar_imagen_MSG8=" spezifischer Sektor zum Starten des Schreibvorgangs"
+volcar_imagen_MSG9="+ Mit Vorsicht verwenden. Verwendung auf eigene Gefahr."
+volcar_imagen_MSG10="+ Festplattenpartitionen können unbrauchbar werden."
+volcar_imagen_MSG11="+ Nicht für die Verwendung auf Systemen mit mehreren Partitionen empfohlen."
+volcar_imagen_MSG12=" Die Wiederherstellung kann die Partitionstabelle verlassen und"
+volcar_imagen_MSG13=" Partitionen selbst sind unbrauchbar."
+volcar_imagen_MSG14="-------------------------------------------------"
+volcar_imagen_MSG15="Drücken Sie die C-Taste, um fortzufahren; (Der Vorgang wird in einer anderen Option abgebrochen)"
+volcar_imagen_MSG16="Geben Sie den Pfad der Bilddatei an, die auf der Festplatte gespeichert werden soll: "
+volcar_imagen_MSG17="Ausgabe des Mount-Befehls:"
+volcar_imagen_MSG18="Geben Sie das Blockgerät an, auf dem das Bild gespeichert werden soll:"
+volcar_imagen_MSG19="BILD DUMPING"
+volcar_imagen_MSG20="AUF DEM GERÄT"
+volcar_imagen_MSG21="läuft"
+volcar_imagen_MSG22="BILD-DUMP-PROZESS BEENDET"
+
+# volcar_iso
+
+volcar_iso_MSG1="Geben Sie das Blockgerät an, auf das das ISO-Image geschrieben werden soll:"
+volcar_iso_MSG2="HINWEIS"
+volcar_iso_MSG2B="-------"
+volcar_iso_MSG3="Geben Sie das Blockgerät an, auf das geschrieben werden soll."
+volcar_iso_MSG4="Beispiele: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Geben Sie keine Partition an, die zu diesem Gerät gehört"
+volcar_iso_MSG6="Beispiele: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Geben Sie das zu schreibende ISO-9660-Image oder IMG an:"
+volcar_iso_MSG9="Prozess abgeschlossen"
+volcar_iso_MSG10="Fehler beim ISO-Schreibvorgang"
+volcar_iso_MSG11="Blockgröße zum Schreiben des Bildes angeben"
+volcar_iso_MSG12="Wählen Sie die Option entsprechend dem zu schreibenden Betriebssystem aus:"
+volcar_iso_MSG13="ISO-9660 oder bootfähiges IMG-Image zum Flashen auf dem Gerät:"
+volcar_iso_MSG14="Beenden"
+volcar_iso_MSG15="ISO-9660 ODER IMG-BILDDATEI"
+volcar_iso_MSG16="Betriebssystem auswählen, um es auf das Laufwerk zu kopieren"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Wählen Sie das Dateisystem mit"
+Formateador_linuxfs_MSG2="dass das Gerät formatiert wird:"
+Formateador_linuxfs_MSG3="Geben Sie das zu formatierende Blockgerät an: "
+Formateador_linuxfs_MSG5="PROZESS ABGESCHLOSSEN"
+Formateador_linuxfs_MSG6="Festplattenformatierer"
+Formateador_linuxfs_MSG7="Volumenbezeichnung festlegen"
+Formateador_linuxfs_MSG10="Geben Sie den Datenträgerbezeichnungsnamen an"
+Formateador_linuxfs_MSG11="Neue Datenträgerbezeichnung"
+Formateador_linuxfs_MSG12="Blockgröße angeben"
+Formateador_linuxfs_MSG13="Neue Blockgröße"
+Formateador_linuxfs_MSG14="Vorheriges Menü"
+

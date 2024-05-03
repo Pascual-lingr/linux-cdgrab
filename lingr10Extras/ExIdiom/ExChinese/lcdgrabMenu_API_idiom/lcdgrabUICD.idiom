@@ -1,0 +1,74 @@
+#########################################################
+# lcgdrabAPI_idiom/ExChinese/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="选择一个选项"
+clonar_MSG2="------------ 带有预览图像的光盘副本 -----------"
+clonar_MSG3="复制数据 CD"
+clonar_MSG4="在硬盘驱动器上创建以前的 CD 映像"
+clonar_MSG5="----------------- 即时光盘复制 ----------------"
+clonar_MSG6="即时复制数据 CD"
+clonar_MSG7="即时克隆数据 CD"
+clonar_MSG7B="即时复制音频 CD"
+clonar_MSG8="飞行复制选项需要两个光学单元"
+clonar_MSG9="安装在您的计算机上，因为数据是在"
+clonar_MSG10="他们直接从源光盘读取，如果您的设备上有可用的话"
+clonar_MSG11="您将无法使用临时副本。"
+clonar_MSG12B="复制 CD 数据"
+clonar_MSG0="上一个菜单"
+
+# mgrabacd
+
+mgrabacd_MSG1="\t来自硬盘的 CD 数据"
+mgrabacd_MSG2="刻录一张新的数据 CD（使用 cdrtools）"
+mgrabacd_MSG3="刻录新数据 CD（使用 libburnia）"
+mgrabacd_MSG4="上一个菜单"
+mgrabacd_MSG5="输入一个选项"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="\t数据图像记录"
+mgrabaimg_MSG2="将 iso 或 ext2 映像刻录到 CD-R/RW（使用 cdrtools）"
+mgrabaimg_MSG3="将 iso 映像刻录到 CD-R/RW（使用 libburnia）"
+mgrabaimg_MSG4="上一个菜单"
+mgrabaimg_MSG5="输入一个选项"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="从 .wav 文件刻录音频 CD"
+mgrabararchivosaudio_MSG2="从 .mp3 文件刻录音频 CD"
+mgrabararchivosaudio_MSG3="从 .ogg 文件刻录音频 CD"
+mgrabararchivosaudio_MSG0="上一个菜单"
+mgrabararchivosaudio_MSG0B="输入一个选项"
+mgrabararchivosaudio_MSG4="从 .flac 文件刻录音频 CD"
+mgrabararchivosaudio_MSG5="从文件中录制 CD 音频"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="CD录音"
+menugrabar_cd_MSG2="-------------------- CD-数据 --------------------"
+menugrabar_cd_MSG3="复制数据光盘"
+menugrabar_cd_MSG4="刻录一张新的数据 CD"
+menugrabar_cd_MSG5="刻录新的多区段数据 CD"
+menugrabar_cd_MSG6="将 .iso 或 .ext2 映像刻录到 CD"
+menugrabar_cd_MSG7="将 .bin/.cue 图像刻录到 CD"
+menugrabar_cd_MSG8="-------------------- CD-音频 --------------------"
+menugrabar_cd_MSG9="翻录音频 CD"
+menugrabar_cd_MSG13="------------------- 其他选项 --------------------"
+menugrabar_cd_MSG14="刻录混合 CD（数据 + 音频）"
+menugrabar_cd_MSG15="擦除 CD-RW"
+menugrabar_cd_MSG16="关闭 CD 打开"
+menugrabar_cd_MSG17="显示驱动器中的磁盘信息"
+menugrabar_cd_MSG18="从光盘文件刻录音频 CD"
+menugrabar_cd_MSG0="上一个菜单"
+menugrabar_cd_MSGPRINCIPAL="输入一个选项"
+
+

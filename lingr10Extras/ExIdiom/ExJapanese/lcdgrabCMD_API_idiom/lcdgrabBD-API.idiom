@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExJapanese/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en japonés para el API de grabacion en BD.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ブルーレイに正しく記録された ISO-9660 画像"
+grabar_ISO_BD_MSG2="ブルーレイディスクに画像を記録する際のエラー"
+grabar_ISO_BD_MSG3="BDのISO-9660画像"
+grabar_ISO_BD_MSG4="書き込む iso-9660 イメージのパスを指定します。"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1=".iso イメージを作成するためのファイルとディレクトリ"
+bd_datos_MSG2="BDレーベル"
+bd_datos_MSG3="今後の BD の名前を入力してください:"
+bd_datos_MSG4="ファイル マネージャーの起動:"
+bd_datos_MSG5="	画像を作成しています。 . ."
+bd_datos_MSG6="ランニング"
+bd_datos_MSG7="で作成された ISO-9660 イメージ"
+bd_datos_MSG8="		BDの記録"
+bd_datos_MSG13="画像を削除しています..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="ディスクの状態に応じて必要なフォーマットや消去を適用"
+borrar_BDRE_lb_MSG2="BD-RE が正常に消去されました!!"
+borrar_BDRE_lb_MSG3="BD-RE の消去中にエラーが発生しました"
+

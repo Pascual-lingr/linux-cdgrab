@@ -1,0 +1,76 @@
+# Idioma Georgiano para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="დააჭირეთ ENTER გასაგრძელებლად..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="====================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 მხარდაჭერა REISERFS."
+cabecera_interfaz_MSG3="====================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="დაამონტაჟეთ ბრძანების გამომავალი:"
+formatear_disco_reiserfs_MSG2="მიუთითეთ ბლოკის მოწყობილობა ფორმატირებისთვის: "
+formatear_disco_reiserfs_MSG3="მოწყობილობა წარმატებით დაფორმატდა"
+formatear_disco_reiserfs_MSG4="მოწყობილობის ფორმატირების შეცდომა"
+formatear_disco_reiserfs_MSG5="პროცესი დასრულებულია"
+formatear_disco_reiserfs_MSG6="მოწყობილობის დემონტაჟი..."
+formatear_disco_reiserfs_MSG7="დისკის ფორმატირება ReiserFS-ში..."
+formatear_disco_reiserfs_MSG8="გაშვება"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="ფორმარდება წარმატებით"
+formatear_img_reiserfs_MSG2="შეცდომა ცარიელი ფაილის ფორმატირებისას"
+formatear_img_reiserfs_MSG3="ცარიელი ფაილის გენერირება..."
+formatear_img_reiserfs_MSG4="გაშვება"
+formatear_img_reiserfs_MSG5="ცარიელი ფაილის ფორმატირება ReiserFS-ში..."
+formatear_img_reiserfs_MSG6="ცარიელი ფაილის თაობა მორგებული ზომით"
+formatear_img_reiserfs_MSG7="მიუთითეთ გენერირებისთვის ცარიელი ფაილის ზომა (მხოლოდ რიცხვითი მნიშვნელობა):"
+formatear_img_reiserfs_MSG8="სივრცის გაზომვები ცარიელი ფაილის გენერირებისთვის:"
+formatear_img_reiserfs_MSG9="მიუთითეთ გამოსაყენებელი სივრცის გაზომვა: "
+formatear_img_reiserfs_MSG10="შეცდომა ზომის გაზომვის დაზუსტებისას"
+formatear_img_reiserfs_MSG11="ბლოკის ზომის მნიშვნელობა:"
+formatear_img_reiserfs_MSG12="სივრცის რაოდენობა ცარიელი ფაილისთვის:"
+formatear_img_reiserfs_MSG13="გამოთვლილი მნიშვნელობა ბაიტებში:"
+formatear_img_reiserfs_MSG14="გამოთვლილი მნიშვნელობა დათვლისთვის:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="შექმენით სურათი CD-R/RW (702 Mbytes)"
+m_img_CDDVDBD_reiserfs_MSG2="შექმენით სურათი DVD+RW (4 გბაიტი)"
+m_img_CDDVDBD_reiserfs_MSG3="შექმენით სურათი DVD+RW/DL-ისთვის (8 გბაიტი)"
+m_img_CDDVDBD_reiserfs_MSG4="შექმენით სურათი BD-R/RE-სთვის (25 გბაიტი)"
+m_img_CDDVDBD_reiserfs_MSG5="შექმენით სურათის ფაილი მორგებული ზომით"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="გასვლა"
+imgr_tmp_MSG1="წაშალე ყველა reiserfs სურათი"
+imgr_tmp_MSG2="სურათის ფაილის დამაგრება ან გამორთვა"
+imgr_tmp_MSG3="სურათების ფაილები"
+imgr_tmp_MSG4="აირჩიე ვარიანტი"
+imgr_tmp_MSG5="წაშლილი გამოსახულების ფაილები"
+imgr_tmp_MSG6="სურათის დამონტაჟება"
+imgr_tmp_MSG7="სურათის დემონტაჟი"
+imgr_tmp_MSG8="დამონტაჟებული სურათი"
+imgr_tmp_MSG9="მოშლილი სურათი"
+imgr_tmp_MSG10="არასწორი ვარიანტი"
+imgr_tmp_MSG11="მიუთითეთ გამოსახულება დასამონტაჟებლად ან მოსახსნელად:"
+imgr_tmp_MSG12="შეცდომა სურათის დამონტაჟებისას"
+imgr_tmp_MSG13="შეცდომა სურათის დემონტაჟისას"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="დისკის დაფორმატება ReiserFS-ში"
+lingr10reiserfspatch_MSG2="ReiserFS სურათის შექმნა CD/DVD/BD-ისთვის"
+lingr10reiserfspatch_MSG3="ოპერაციები ReiserFS სურათებზე"
+lingr10reiserfspatch_MSG4="არასწორი ვარიანტი"
+lingr10reiserfspatch_MSG0="გამოსვლა"
+

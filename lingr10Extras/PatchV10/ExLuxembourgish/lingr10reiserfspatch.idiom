@@ -1,0 +1,76 @@
+# Idioma Luxemburgués para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con google translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Press ENTER fir weiderzemaachen ..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 SUPPORT REISERFS."
+cabecera_interfaz_MSG3="=================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Mount Kommando Ausgang:"
+formatear_disco_reiserfs_MSG2="Spezifizéiert de Blockapparat fir ze formatéieren: "
+formatear_disco_reiserfs_MSG3="Apparat erfollegräich formatéiert"
+formatear_disco_reiserfs_MSG4="Feeler beim Formatéieren vum Apparat"
+formatear_disco_reiserfs_MSG5="PROCESS KOMPLETT"
+formatear_disco_reiserfs_MSG6="Apparat demontéieren..."
+formatear_disco_reiserfs_MSG7="Formatéiere vum Drive am ReiserFS..."
+formatear_disco_reiserfs_MSG8="Lafen"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="SUCCESSFULL FORMATÉIERT"
+formatear_img_reiserfs_MSG2="Feeler WANN EIEREN FICHE FORMATEREN"
+formatear_img_reiserfs_MSG3="Leiden Datei generéieren..."
+formatear_img_reiserfs_MSG4="Lafen"
+formatear_img_reiserfs_MSG5="Formatéieren eidel Datei am ReiserFS..."
+formatear_img_reiserfs_MSG6="GENERATIOUN VUN EIEREN FISHIOUN MAT CUSTOM SIZE"
+formatear_img_reiserfs_MSG7="Spezifizéiert d'Gréisst vun der eidel Datei fir ze generéieren (nëmmen en numeresche Wäert):"
+formatear_img_reiserfs_MSG8="Raummiessungen fir déi eidel Datei ze generéieren:"
+formatear_img_reiserfs_MSG9="Spezifizéiert d'Raummessung fir ze benotzen: "
+formatear_img_reiserfs_MSG10="Feeler WANN DER GRÉISST MOS SPEZIFISÉIERT"
+formatear_img_reiserfs_MSG11="Blockgréisst Wäert:"
+formatear_img_reiserfs_MSG12="Plazbetrag fir eidel Datei:"
+formatear_img_reiserfs_MSG13="Berechent Wäert an Bytes:"
+formatear_img_reiserfs_MSG14="Berechnte Wäert fir d'Zuel:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Bild erstellen fir eng CD-R/RW (702 Mbytes)"
+m_img_CDDVDBD_reiserfs_MSG2="Bild erstellen fir eng DVD+RW (4 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG3="Bild erstellen fir eng DVD+RW/DL (8 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG4="Bild erstellen fir e BD-R/RE (25 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG5="Bilddatei mat personaliséierter Gréisst erstellen"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Exit"
+imgr_tmp_MSG1="All Reiserfs Bilddateien läschen"
+imgr_tmp_MSG2="Bilddatei montéieren oder unmounten"
+imgr_tmp_MSG3="Bilddateien an"
+imgr_tmp_MSG4="Wielt eng Optioun"
+imgr_tmp_MSG5="Geläscht Bilddateien"
+imgr_tmp_MSG6="Mount Bild"
+imgr_tmp_MSG7="Bild erofhuelen"
+imgr_tmp_MSG8="Mountéiert Bild"
+imgr_tmp_MSG9="Demontéiert Bild"
+imgr_tmp_MSG10="Invalid Optioun"
+imgr_tmp_MSG11="Spezifizéiert d'Bild fir ze montéieren oder ze montéieren:"
+imgr_tmp_MSG12="Feeler beim Montéierung vum Bild"
+imgr_tmp_MSG13="Feeler beim Ofbau vum Bild"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Format Drive in ReiserFS"
+lingr10reiserfspatch_MSG2="ReiserFS Bild fir CD/DVD/BD erstellen"
+lingr10reiserfspatch_MSG3="Operatiounen op ReiserFS Biller"
+lingr10reiserfspatch_MSG4="Invalid Optioun"
+lingr10reiserfspatch_MSG0="Raus goen"
+

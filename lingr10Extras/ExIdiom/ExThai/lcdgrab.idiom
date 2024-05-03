@@ -1,0 +1,36 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Tailandés para la aplicacion principal
+# Parte de Linux-cdgrab 1.0                        #
+# Traducción experimental, generado con Chat GPT   #
+#                                                  #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="การแจ้งเตือน:"
+main_IDSISTEMA_MSG2="ระบบปฏิบัติการไม่รองรับ"
+main_IDSISTEMA_MSG3="หากพบปัญหาในการทำงานของแอปพลิเคชัน ให้ใช้ GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="ไม่ใช่อาร์กิวเมนต์ที่ถูกต้อง"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="พบ"
+main_cdkit_test_MSG2="สร้างการเชื่อมโยงไปยัง wodim"
+main_cdkit_test_MSG3="สร้างการเชื่อมโยงไปยัง genisoimage"
+main_cdkit_test_MSG4="สร้างการเชื่อมโยงไปยัง icedax"
+
+# pgm principal
+
+pgm_principal_MSG1="ถึงแก่ความตาย: ไม่พบการกระจายไดเร็กทอรีที่ถูกต้อง"
+pgm_principal_MSG2="ไม่รู้จัก"
+
+
+

@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDutch/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Neerlandés para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Voer het pad van het bestand of de map in:"
+empaquetar_MSG2="------- Opties -------"
+empaquetar_MSG3="Genereer .tar.gz bestand"
+empaquetar_MSG4="Genereer .tar.bz2 bestand"
+empaquetar_MSG5="Typ een optie: "
+empaquetar_MSG6="Wordt uitgevoerd"
+empaquetar_MSG7="Ongeldige optie"
+
+# desempaquetar
+
+desempaquetar_MSG1="Voer het bestandspad in:"
+desempaquetar_MSG2="GEEN DECOMPRESSOR GEVONDEN"
+desempaquetar_MSG3="OF"
+desempaquetar_MSG4="BESTAAT NIET"
+desempaquetar_MSG5="Bezig met uitvoeren"
+desempaquetar_MSG6="uitgepakt"
+desempaquetar_MSG7="Fout bij proberen uit te pakken"
+
+# comprime
+
+comprime_MSG1="COMPRESSIE VAN BEELD"
+comprime_MSG2="Comprimeren met bzip2"
+comprime_MSG3="Comprimeren met gzip"
+comprime_MSG4="Comprimeren met xz"
+comprime_MSG5="Vorige menu"
+comprime_MSG6="Werkt"
+comprime_MSG7="Compressie van beeldbestanden voltooid"
+comprime_MSG8="Fout bij comprimeren met"
+comprime_MSG9="Ongeldige compressor"
+
+# descomprime
+
+descomprime_MSG1="Typ het bestandspad:"
+descomprime_MSG2="--------------------"
+descomprime_MSG3="GEEN DECOMPRESSOR GEVONDEN"
+descomprime_MSG4="OF"
+descomprime_MSG5="BESTAAT NIET"
+descomprime_MSG6="Bezig met uitvoeren"
+descomprime_MSG7="ongecomprimeerd"
+descomprime_MSG8="Fout bij proberen te decomprimeren"
+

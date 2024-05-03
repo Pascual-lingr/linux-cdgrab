@@ -1,0 +1,135 @@
+#########################################################
+# lcdgrabAPI_idiom/ExJapanese/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Japonés, usado google translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="linux-cdgrab で vi テキスト エディタが見つからない"
+ayuda_MSG2="システムにインストールされているテキスト エディタの名前を入力します"
+ayuda_MSG3="インストールされているエディタが見つかりません"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="LINUX-CDGRAB 1.0 で自動生成されたファイル"
+creacion_de_mnt_MSG2="このファイルとディレクトリ"
+creacion_de_mnt_MSG3="自動的に生成された"
+creacion_de_mnt_MSG4="Linux ディストリビューションに存在しないことを確認するときに、Linux-cdgrab アプリケーションによって"
+creacion_de_mnt_MSG5="ディレクトリ"
+creacion_de_mnt_MSG6="Linux-cdgrab は、このディレクトリを使用して CD-ROM/DVD-ROM/BD-ROM ドライブをマウントします。"
+creacion_de_mnt_MSG7="ディレクトリ"
+creacion_de_mnt_MSG8="linux-cdgrab をアンインストールしても削除されません。"
+creacion_de_mnt_MSG9="ほとんどの Linux ディストリビューションでの /dev/cdrom のデフォルトのマウント ポイント"
+creacion_de_mnt_MSG10="ディストリビューションが別のディレクトリを使用してデバイス /dev/cdrom をマウントしている場合、"
+creacion_de_mnt_MSG11="ドライブ上のデータにアクセスしたいときに非互換性を作成しません"
+creacion_de_mnt_MSG12="ただし、linux-cdgrab がアンインストールされている場合は、なくてもかまいません。"
+creacion_de_mnt_MSG13="このファイルは情報提供のみを目的としており、一度読んだ後は自由に削除できます。"
+
+# creditos
+
+creditos_MSG1="GPL v2 ライセンスの下で配布する"
+creditos_MSG2="詳細については、www.gnu.org をご覧ください。"
+creditos_MSG3="Pascual Martínez Cruz、作成者およびメンテナ"
+creditos_MSG4="バグレポート: pascual89@hotmail.com"
+creditos_MSG5="プログラムのウェブサイト: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="LINUX-CDGRAB 1.0 に基づく 著作権: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="充電"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="構文"
+lcdgrab_sintaxis_MSG2="このヘルプを印刷する"
+lcdgrab_sintaxis_MSG3="linux-cdgrab のバージョンを表示"
+lcdgrab_sintaxis_MSG4="IDE チャネルまたは録音デバイスを指定します"
+lcdgrab_sintaxis_MSG5="また"
+lcdgrab_sintaxis_MSG6="録音速度を指定する"
+lcdgrab_sintaxis_MSG7="CD-ROM/DVD-ROM/BD-ROM ドライブを指定します"
+lcdgrab_sintaxis_MSG8="レコーダーの IDE ATAPI チャネルを指定します"
+lcdgrab_sintaxis_MSG9="-G -V -L および -CA オプションは相互に影響します。"
+lcdgrab_sintaxis_MSG9B="-iut -ium -iug および -iuk オプションは互いに独立しています。"
+lcdgrab_sintaxis_MSG9C="-G -V -L および -CA を補完し、-h と -v の間で独立"
+lcdgrab_sintaxis_MSG10="-h オプションと -v オプションは、互いに独立しており、その他のオプションからも独立しています。"
+lcdgrab_sintaxis_MSG11="例:"
+lcdgrab_sintaxis_MSG12="デバイス"
+lcdgrab_sintaxis_MSG13="番号"
+lcdgrab_sintaxis_MSG14="テキスト インターフェイス"
+lcdgrab_sintaxis_MSG15="ncurses とのインターフェース"
+lcdgrab_sintaxis_MSG16="グラフィックインターフェース"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="スクリプト パスを入力します。"
+main_lcdgrabopdep_MSG2="無効なルート"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="インストールされたパッチ:"
+main_lcdgrabopdeppatch_MSG2="パッチ パスを入力します。"
+main_lcdgrabopdeppatch_MSG3="見つかりません"
+
+# menu principal dialog
+main_lcdgrabop9uidia="追加のパッチをアップロードする"
+
+# menu principal texto
+
+main_lcdgrabop1_text="CD録音\t\t\t\t\t="
+main_lcdgrabop2_text="DVD録画\t\t\t\t\t="
+main_lcdgrabop3_text="BD録画\t\t\t\t\t="
+main_lcdgrabop4_text="ディスクドライブの操作\t\t\t="
+main_lcdgrabop5_text="画像の作成\t\t\t\t="
+main_lcdgrabop6_text="オーディオ変換\t\t\t\t="
+main_lcdgrabop6b_text="ビデオ変換\t\t\t\t="
+main_lcdgrabop7_text="CD/DVD/BD のマウントまたはアンマウント\t="
+main_lcdgrabop8_text="イメージのマウントまたはアンマウント\t="
+main_lcdgrabop9_text="追加のパッチをアップロードする\t\t="
+main_lcdgrabop10_text="コントロールセンター\t\t\t="
+main_lcdgrabop0_text="外出\t\t\t\t\t="
+main_lcdgrabet1_text="その他のオプション ##\t="
+main_lcdgrabopEe_text="ドライブからディスクを取り出す\t="
+main_lcdgrabopTD_text="ディレクトリを表示"
+tabs="\t\t="
+main_lcdgrabopG_text="ファイルマネージャー\t\t\t="
+main_lcdgrabopH_text="援助\t\t\t\t\t="
+main_lcdgrabopA_text="だいたい\t\t\t\t="
+
+# menu principal
+main_lcdgrabop1="CD録音"
+main_lcdgrabop2="DVD録画"
+main_lcdgrabop3="BD録画"
+main_lcdgrabop4="ディスクドライブの操作"
+main_lcdgrabop5="画像の作成"
+main_lcdgrabop6="オーディオ変換"
+main_lcdgrabop6b="ビデオ変換"
+main_lcdgrabop7="CD/DVD/BD のマウントまたはアンマウント"
+main_lcdgrabop8="イメージのマウントまたはアンマウント"
+main_lcdgrabop9="追加のパッチをアップロードする"
+main_lcdgrabop10="コントロールセンター"
+main_lcdgrabop0="外出"
+main_lcdgrabet1="その他のオプション ##"
+main_lcdgrabopEe="ドライブからディスクを取り出す"
+main_lcdgrabopTD="ディレクトリを表示"
+tabs="\t\t="
+main_lcdgrabopG="ファイルマネージャー"
+main_lcdgrabopH="援助"
+main_lcdgrabopA="だいたい"
+main_lcdgrabopPRINCIPAL="オプションを入力してください:"
+MSG1_MAIN="H を選択すると、オプションの使用が表示されます。"
+main_lcdgrabopA_MSG1="実行中:"
+

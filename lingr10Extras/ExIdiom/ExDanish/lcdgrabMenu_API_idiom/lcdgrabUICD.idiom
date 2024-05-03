@@ -1,0 +1,73 @@
+#########################################################
+# lcdgrabAPI_idiom/ExDanish/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Danés, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="VÆLG EN MULIGHED"
+clonar_MSG2="------ DISC KOPIER MED PREVIEW-BILLEDE ------"
+clonar_MSG3="Kopier en data-cd"
+clonar_MSG4="Opret et tidligere cd-billede på harddisken"
+clonar_MSG5="----------- DISKEKOPIER I FLYVEN ----------"
+clonar_MSG6="Kopier en data-cd med det samme"
+clonar_MSG7="Klon en data-cd med det samme"
+clonar_MSG7B="Rip en lyd-cd på farten"
+clonar_MSG8="FLYVENDE KOPIINDSTILLINGER KRÆVER TO OPTISKE ENHEDER"
+clonar_MSG9="INSTALLERET PÅ DIN COMPUTER, DA DATANE ER OPTAGET MENS"
+clonar_MSG10="LÆS DIREKTE FRA ORIGIN-DISKEN, HVIS KUN DIN COMPUTER HAR"
+clonar_MSG11="MAN VIL IKKE KUN BRUGE KOPIERNE PÅ FLYVET."
+clonar_MSG12B="KOPIERING CD-DATA"
+clonar_MSG0="Forrige menu"
+
+# mgrabacd
+
+mgrabacd_MSG1="CD-DATA FRA HARDDISK"
+mgrabacd_MSG2="Brænd en ny data-cd (brug cdrtools)"
+mgrabacd_MSG3="Brænd en ny data-cd (brug libburnia)"
+mgrabacd_MSG4="Forrige menu"
+mgrabacd_MSG5="Angiv en indstilling"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="DATA BILLEDEOPTAGELSE"
+mgrabaimg_MSG2="Brænd iso- eller ext2-billede til CD-R/RW (brug cdrtools)"
+mgrabaimg_MSG3="Brænd iso-billede til CD-R/RW (brug libburnia)"
+mgrabaimg_MSG4="Forrige menu"
+mgrabaimg_MSG5="Angiv en indstilling"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Brænd en lyd-cd fra .wav-filer"
+mgrabararchivosaudio_MSG2="Brænd en lyd-cd fra .mp3-filer"
+mgrabararchivosaudio_MSG3="Brænd en lyd-cd fra .ogg-filer"
+mgrabararchivosaudio_MSG0="Forrige menu"
+mgrabararchivosaudio_MSG0B="Skriv en indstilling"
+mgrabararchivosaudio_MSG4="Brænd en lyd-cd fra .flac-filer"
+mgrabararchivosaudio_MSG5="CD-LYDOPTAGELSE FRA FILER"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="OPTAGELSE TIL CD"
+menugrabar_cd_MSG2="------------------- CD - DATA ------------------"
+menugrabar_cd_MSG3="Kopier data-cd"
+menugrabar_cd_MSG4="Brænd en ny data-cd"
+menugrabar_cd_MSG5="Brænd en ny multi-session data-cd"
+menugrabar_cd_MSG6="Brænd .iso- eller .ext2-billede til cd"
+menugrabar_cd_MSG7="Brænd .bin/.cue-billede til cd"
+menugrabar_cd_MSG8="-------------------- CD - LYD ------------------"
+menugrabar_cd_MSG9="Kopier en lyd-cd"
+menugrabar_cd_MSG13="----------------- ANDRE MULIGHEDER ----------------"
+menugrabar_cd_MSG14="Brænd en blandet cd (data + lyd)"
+menugrabar_cd_MSG15="Slet en CD-RW"
+menugrabar_cd_MSG16="Luk åben CD"
+menugrabar_cd_MSG17="Vis diskinformation i drevet"
+menugrabar_cd_MSG18="Brænd en lyd-cd fra diskfiler"
+menugrabar_cd_MSG0="Forrige menu"
+menugrabar_cd_MSGPRINCIPAL="Skriv en indstilling"
+

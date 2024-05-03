@@ -1,0 +1,75 @@
+# Idioma Español para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Nyomja meg az ENTER-t a folytatáshoz..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="======================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 TÁMOGATÁS ÚJRAISERFEK."
+cabecera_interfaz_MSG3="======================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Parancs kimenet csatlakoztatása:"
+formatear_disco_reiserfs_MSG2="Adja meg a formázni kívánt blokkeszközt: "
+formatear_disco_reiserfs_MSG3="Az eszköz formázása sikeresen megtörtént"
+formatear_disco_reiserfs_MSG4="Hiba az eszköz formázásakor"
+formatear_disco_reiserfs_MSG5="FOLYAMAT VÉGZETT"
+formatear_disco_reiserfs_MSG6="Eszköz leválasztása..."
+formatear_disco_reiserfs_MSG7="Meghajtó formázása a ReiserFS-ben..."
+formatear_disco_reiserfs_MSG8="Futás"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="SIKERES FORMÁZÁS"
+formatear_img_reiserfs_MSG2="HIBA ÜRES FÁJL FORMÁZÁSÁNAK"
+formatear_img_reiserfs_MSG3="Üres fájl generálása..."
+formatear_img_reiserfs_MSG4="Futás"
+formatter_img_reiserfs_MSG5="Üres fájl formázása a ReiserFS-ben..."
+formatear_img_reiserfs_MSG6="ÜRES FÁJL LÉTREHOZÁSA EGYEDI MÉRETTEL"
+formatear_img_reiserfs_MSG7="Adja meg a generálandó üres fájl méretét (csak numerikus érték):"
+formatear_img_reiserfs_MSG8="Térmérések az üres fájl létrehozásához:"
+formatear_img_reiserfs_MSG9="Adja meg a használandó térméretet: "
+formatear_img_reiserfs_MSG10="HIBA A MÉRET MÉRÉSÉNEK MEGHATÁROZÁSÁVAL"
+formatear_img_reiserfs_MSG11="Blokkméret értéke:"
+formatear_img_reiserfs_MSG12="Üres fájl helyének mennyisége:"
+formatear_img_reiserfs_MSG13="Számított érték bájtban:"
+formatear_img_reiserfs_MSG14="A számlálás számított értéke:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Kép létrehozása CD-R/RW lemezhez (702 Mbyte)"
+m_img_CDDVDBD_reiserfs_MSG2="Kép létrehozása DVD+RW lemezhez (4 Gbyte)"
+m_img_CDDVDBD_reiserfs_MSG3="Kép létrehozása DVD+RW/DL lemezhez (8 Gbyte)"
+m_img_CDDVDBD_reiserfs_MSG4="Kép létrehozása BD-R/RE-hez (25 Gbyte)"
+m_img_CDDVDBD_reiserfs_MSG5="Egyedi méretű képfájl létrehozása"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Kilépés"
+imgr_tmp_MSG1="Az összes reiserfs képfájl törlése"
+imgr_tmp_MSG2="Képfájl csatlakoztatása vagy leválasztása"
+imgr_tmp_MSG3="Képfájlok itt"
+imgr_tmp_MSG4="Válasszon opciót"
+imgr_tmp_MSG5="Törölt képfájlok"
+imgr_tmp_MSG6="Kép beillesztése"
+imgr_tmp_MSG7="Kép leválasztása"
+imgr_tmp_MSG8="Rögzített kép"
+imgr_tmp_MSG9="Leszerelt kép"
+imgr_tmp_MSG10="Érvénytelen opció"
+imgr_tmp_MSG11="Adja meg a fel- vagy leválasztandó képet:"
+imgr_tmp_MSG12="Hiba a kép rögzítésekor"
+imgr_tmp_MSG13="Hiba a kép leválasztásakor"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Meghajtó formázása ReiserFS-ben"
+lingr10reiserfspatch_MSG2="ReiserFS kép létrehozása CD/DVD/BD számára"
+lingr10reiserfspatch_MSG3="Műveletek ReiserFS képeken"
+lingr10reiserfspatch_MSG4="Érvénytelen beállítás"
+lingr10reiserfspatch_MSG0="Kilépés"
+

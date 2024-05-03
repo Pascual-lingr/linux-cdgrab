@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAmharic/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al amárico, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab የቪ ጽሑፍ አርታዒውን ማግኘት አልቻለም"
+ayuda_MSG2="በስርዓትህ ላይ የተጫነውን የጽሑፍ አርታኢ ስም አስገባ"
+ayuda_MSG3="ምንም የተጫነ አርታዒ አልተገኘም"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="ፋይል በራስ-ሰር የሚመነጨው በ LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="ይህ ፋይል ከማውጫው ጋር"
+creacion_de_mnt_MSG3="በራስ ሰር የተፈጠረ"
+creacion_de_mnt_MSG4="በሊኑክስ-ሲዲግራብ አፕሊኬሽኑ በእርስዎ ሊኑክስ ስርጭት ውስጥ እንደሌለ ሲያረጋግጥ"
+creacion_de_mnt_MSG5="ማውጫው"
+creacion_de_mnt_MSG6="Linux-cdgrab የሲዲ-ሮም/ዲቪዲ-ሮም/BD-ROM ድራይቭን ለመጫን ይህንን ማውጫ ይጠቀማል። "
+creacion_de_mnt_MSG7="ማውጫው"
+creacion_de_mnt_MSG8="Linux-cdgrab ከተራገፈ አይሰረዝም ምክንያቱም ብዙውን ጊዜ"
+creacion_de_mnt_MSG9="ነባሪ የማፈናጠጫ ነጥብ ለ/dev/cdrom በአብዛኛዎቹ የሊኑክስ ስርጭቶች።"
+creacion_de_mnt_MSG10="ስርጭትዎ መሣሪያውን /dev/cdrom ለመጫን ሌላ ማውጫ ከተጠቀመ"
+creacion_de_mnt_MSG11="በእርስዎ ክፍል ላይ ያለውን ውሂብ ለመድረስ ሲሞክሩ ምንም አይነት ተኳሃኝነት አይፈጥርም"
+creacion_de_mnt_MSG12="ሊኑክስ-ሲዲግራብ ተራግፎ ከሆነ ያለሱ ማድረግ ይችላሉ"
+creacion_de_mnt_MSG13="የዚህ ፋይል ዓላማ ለመረጃ አገልግሎት ብቻ ነው፣ አንዴ ካነበቡ በነጻነት መሰረዝ ይችላሉ።"
+
+# creditos
+
+creditos_MSG1="በGPL v2 ፍቃድ ያሰራጩ"
+creditos_MSG2="ተጨማሪ መረጃ በ www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, ፈጣሪ እና ጠባቂ"
+creditos_MSG4="የሳንካ ሪፖርት: pascual89@hotmail.com"
+creditos_MSG5="የፕሮግራም ድር ጣቢያ : www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="በዛላይ ተመስርቶ LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="በመሙላት ላይ"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="አገባብ"
+lcdgrab_sintaxis_MSG2="ይህን እገዛ ያትሙ"
+lcdgrab_sintaxis_MSG3="የሊኑክስ ስሪት-cdgrab ያትሙ"
+lcdgrab_sintaxis_MSG4="አይዲኢ ቻናል ወይም መቅረጫ መሳሪያውን ይገልጻል"
+lcdgrab_sintaxis_MSG5="ወይ"
+lcdgrab_sintaxis_MSG6="የቀረጻውን ፍጥነት ይገልጻል"
+lcdgrab_sintaxis_MSG7="ሲዲ-ሮም/ዲቪዲ-ሮም/BD-ROM ድራይቭን ይገልጻል"
+lcdgrab_sintaxis_MSG8="የቀረጻውን IDE ATAPI ቻናል ይገልጻል"
+lcdgrab_sintaxis_MSG9="አማራጮቹ -G -V -L እና -CA እርስ በርስ ያመለክታሉ።"
+lcdgrab_sintaxis_MSG9B="የ-iut -ium -iug እና -iuk አማራጮች አንዳቸው ከሌላው ነፃ ናቸው"
+lcdgrab_sintaxis_MSG9C="ከ -G -V -L እና -CA ጋር የሚሞላ፣ እና በ -h እና -v መካከል ገለልተኛ"
+lcdgrab_sintaxis_MSG10="የ -h እና -v አማራጮች አንዳቸው ከሌላው እና ከቀሪው ነጻ ናቸው።"
+lcdgrab_sintaxis_MSG11="ምሳሌዎች"
+lcdgrab_sintaxis_MSG12="መሣሪያ"
+lcdgrab_sintaxis_MSG13="ቁጥር"
+lcdgrab_sintaxis_MSG14="የጽሑፍ በይነገጽ"
+lcdgrab_sintaxis_MSG15="በይነገጽ ከእርግማኖች ጋር"
+lcdgrab_sintaxis_MSG16="ግራፊክ በይነገጽ ከ GTK ጋር"
+lcdgrab_sintaxis_MSG17="ግራፊክ በይነገጽ ከQt"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="የስክሪፕት መንገድ አስገባ፡"
+main_lcdgrabopdep_MSG2="ልክ ያልሆነ መንገድ"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="የተጫኑ ማሰሪያዎች:"
+main_lcdgrabopdeppatch_MSG2="የ patch ዱካውን ያስገቡ፡-"
+main_lcdgrabopdeppatch_MSG3="አልተገኘም።"
+
+# menu principal dialog
+main_lcdgrabop9uidia="ተጨማሪ ጠጋኝ ይስቀሉ።"
+
+# menu principal texto
+
+main_lcdgrabop1_text="ወደ ሲዲ መቅዳት\t\t\t\t="
+main_lcdgrabop2_text="ዲቪዲ መቅዳት\t\t\t\t\t="
+main_lcdgrabop3_text="በBD ላይ መቅዳት\t\t\t\t="
+main_lcdgrabop4_text="የዲስክ ድራይቭ ኦፕሬሽን\t\t\t\t="
+main_lcdgrabop5_text="ምስል ፍጥረት\t\t\t\t\t="
+main_lcdgrabop6_text="የኦዲዮ ልወጣ\t\t\t\t\t="
+main_lcdgrabop6b_text="የቪዲዮ ለውጥ\t\t\t\t\t="
+main_lcdgrabop7_text="ሲዲ/ዲቪዲ/ቢዲ መጫን ወይም መጫን\t\t\t="
+main_lcdgrabop8_text="ምስልን ጫን ወይም አንሳ\t\t\t\t="
+main_lcdgrabop9_text="ተጨማሪ ጠጋኝ ይስቀሉ።\t\t\t\t="
+main_lcdgrabop10_text="የመቆጣጠሪያ ማዕከል\t\t\t\t="
+main_lcdgrabop0_text="ወጣበል\t\t\t\t\t="
+main_lcdgrabet1_text="ሌሎች አማራጮች ##\t\t\t="
+main_lcdgrabopEe_text="ዲስክን ከድራይቭ አውጡ\t\t\t="
+main_lcdgrabopTD_text="ማውጫ አሳይ"
+tabs="\t\t\t="
+main_lcdgrabopG_text="የፋይል አስተዳዳሪ\t\t\t\t="
+main_lcdgrabopH_text="እርዳታ\t\t\t\t\t="
+main_lcdgrabopA_text="ስለ\t\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="ወደ ሲዲ መቅዳት"
+main_lcdgrabop2="ዲቪዲ መቅዳት"
+main_lcdgrabop3="በBD ላይ መቅዳት"
+main_lcdgrabop4="የዲስክ ድራይቭ ኦፕሬሽን"
+main_lcdgrabop5="ምስል ፍጥረት"
+main_lcdgrabop6="የኦዲዮ ልወጣ"
+main_lcdgrabop6b="የቪዲዮ ለውጥ"
+main_lcdgrabop7="ሲዲ/ዲቪዲ/ቢዲ መጫን ወይም መጫን"
+main_lcdgrabop8="ምስልን ጫን ወይም አንሳ"
+main_lcdgrabop9="ተጨማሪ ጠጋኝ ይስቀሉ።"
+main_lcdgrabop10="የመቆጣጠሪያ ማዕከል"
+main_lcdgrabop0="ወጣበል"
+main_lcdgrabet1="ሌሎች አማራጮች ##"
+main_lcdgrabopEe="ዲስክን ከድራይቭ አውጡ"
+main_lcdgrabopTD="ማውጫ አሳይ"
+main_lcdgrabopG="የፋይል አስተዳዳሪ"
+main_lcdgrabopH="እርዳታ"
+main_lcdgrabopA="ስለ"
+main_lcdgrabopPRINCIPAL="አማራጭ ይተይቡ፡"
+MSG1_MAIN="H መምረጥ የአማራጮች አጠቃቀምን ያሳያል."
+main_lcdgrabopA_MSG1="በመሮጥ ላይ፡"
+

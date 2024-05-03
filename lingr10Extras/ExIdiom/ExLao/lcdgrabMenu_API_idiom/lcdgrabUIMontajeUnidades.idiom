@@ -1,0 +1,54 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLao/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Lao para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="ອຸປະກອນທີ່ຕິດຕັ້ງຢູ່ໃນລະບົບໃນຂະນະນີ້"
+# Resultado del traductor
+montar_dispositivos_MSG1B="ASSEMBLY/ການປິດອຸປະກອນ"
+montar_dispositivos_MSG2="ທາງເລືອກ LINUX-CDGRAB"
+montar_dispositivos_MSG3="ຖອດແຜ່ນອອກຈາກເຄື່ອງອ່ານ CD/DVD/BD"
+montar_dispositivos_MSG4="ຖອດແຜ່ນອອກຈາກເຄື່ອງຂຽນ CD/DVD/BD"
+montar_dispositivos_MSG5="ຕິດຕັ້ງເຄື່ອງອ່ານ CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG6="ຖອນການເຊື່ອມຕໍ່ CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="ຕິດ ຫຼື ຖອດອຸປະກອນດ້ວຍມື"
+montar_dispositivos_MSG0="ເມນູກ່ອນໜ້າ"
+montar_dispositivos_MSG8="CD/DVD/BD ຕິດຕັ້ງຢູ່"
+montar_dispositivos_MSG9="ກົດ ENTER ເພື່ອສືບຕໍ່..."
+montar_dispositivos_MSG10="ເກີດຄວາມຜິດພາດໃນການຕິດຕັ້ງ CD/DVD/BD on"
+montar_dispositivos_MSG11="CD/DVD/BD ໄດ້ຖືກຖອນການເຊື່ອມຕໍ່"
+montar_dispositivos_MSG12="ເກີດຄວາມຜິດພາດໃນການຖອນການເຊື່ອມຕໍ່ CD/DVD/BD"
+montar_dispositivos_MSG13="ພິມອຸປະກອນເພື່ອເຊື່ອມຕໍ່/ຖອນການເຊື່ອມຕໍ່:"
+montar_dispositivos_MSG14="ໃສ່ຈຸດເຊື່ອມຕໍ່:"
+montar_dispositivos_MSG15="ບໍ່ກົງກັບອຸປະກອນບລັອກ"
+montar_dispositivos_MSG16="ບໍ່ພົບຈຸດເຊື່ອມຕໍ່"
+montar_dispositivos_MSG17="ຈຸດເຊື່ອມຕໍ່ເລີ່ມຕົ້ນ"
+montar_dispositivos_MSG18="ເລືອກທາງເລືອກ:"
+montar_dispositivos_MSG19="ຕິດຕັ້ງ"
+montar_dispositivos_MSG20="ໃນ"
+montar_dispositivos_MSG21="ຖອນການເຊື່ອມຕໍ່"
+montar_dispositivos_MSG22="ຂອງ"
+montar_dispositivos_MSG23="ຕິດຢູ່:"
+montar_dispositivos_MSG24="ຜິດ​ພາດ​ເມື່ອ​ຕິດ​ຕັ້ງ"
+montar_dispositivos_MSG25="ໃນ"
+montar_dispositivos_MSG26="ຍົກຈາກ"
+montar_dispositivos_MSG27="ຜິດພາດເມື່ອຖອນຕົວອອກ"
+montar_dispositivos_MSG28="ຂອງ"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="ຜົນຂອງຄຳສັ່ງ mount"
+# Resultado del traductor
+Montar_Imagenes_MSG1B="ASSEMBLING/DISASSEMBING ໄຟລ໌ຮູບພາບ"
+Montar_Imagenes_MSG2="ເລືອກທາງເລືອກ"
+Montar_Imagenes_MSG3="ຕິດ​ຮູບ CD/DVD/BD"
+Montar_Imagenes_MSG4="ຖອນການເຊື່ອມຕໍ່ຮູບພາບ CD/DVD/BD"
+Montar_Imagenes_MSG5="ເມນູກ່ອນໜ້າ"
+

@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExChinese/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Traducción experimental al Chino simplificado del API de grabación en BD.
+# Generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 图像在蓝光光盘上正确记录"
+grabar_ISO_BD_MSG2="将图像刻录到蓝光光盘时出错"
+grabar_ISO_BD_MSG3="BD 上的 ISO-9660 图像"
+grabar_ISO_BD_MSG4="指定要刻录的 iso-9660 镜像的路径："
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="用于创建 .iso 映像的文件和目录"
+bd_datos_MSG2="BD标签"
+bd_datos_MSG3="输入未来 BD 的名称："
+bd_datos_MSG4="启动文件管理器："
+bd_datos_MSG5="	创造形象 . . ."
+bd_datos_MSG6="跑步"
+bd_datos_MSG7="ISO-9660 图像创建于"
+bd_datos_MSG8="		刻录BD"
+bd_datos_MSG13="擦除图像..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="根据磁盘状态应用必要的格式或擦除"
+borrar_BDRE_lb_MSG2="BD-RE 擦除成功！！"
+borrar_BDRE_lb_MSG3="擦除 BD-RE 时出错"
+
