@@ -1,7 +1,7 @@
 ﻿			
 			
-LINUX - CDGRAB
-=================
+LINUX - CDGRAB 1.0
+==================
 
 LINUX-CDGRAB es un front-end para grabar discos ópticos (CD, DVD y BD)
 
