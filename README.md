@@ -40,8 +40,6 @@ Dentro del directorio de archivos de linux-cdgrab tecleé ./instalar
 
 Licencia:
 ----------
-Distribuir la aplicación bajo licencia GPL v2 (www.gnu.org).
+Distribuir bajo licencia GPL v2.
+
 Escrito por Pascual Martínez Cruz (pascual89@hotmail.com).
-Gracias por usar linux-cdgrab
-
-
