@@ -1,7 +1,7 @@
 ﻿			
 			
-LINUX - CDGRAB ver 1.0
-=================
+LINUX - CDGRAB 1.0
+==================
 
 LINUX-CDGRAB es un front-end para grabar discos ópticos (CD, DVD y BD)
 
@@ -13,6 +13,82 @@ La aplicación es un conjunto de scripts de shell que actúan como un interfaz d
 
 Diseñado únicamente para el sistema operativo GNU/Linux y shell Bash.
 Puede ejecutarse en otras versiones de UNIX e incluso en implementaciones como Cygwin o WSL de Windows, pero no se ha tenido en cuenta la compatibilidad con otro UNIX que no sea Linux. V_1.0 final -> 04/05/2024
+
+Linux-cdgrab realiza las siguientes operaciones:
+
+ -Copia de CD o DVD de datos ISO-9660.
+ 
+ -Grabación de CD, DVD y BD de datos ISO-9660 o UDF 
+  desde archivos del disco duro.
+  
+ -Grabación de CD de datos ISO-9660 Multisesión.
+ 
+ -Grabación de imagenes .ext2 en CD y DVD.
+ 
+ -Grabación de imagenes ISO-9660 en CD, DVD y BD.
+ 
+ -Grabación de imagenes bin cue en CD.
+ 
+ -Copia de CD-Audio.
+ 
+ -Grabación de CD-Audio desde ficheros wav, mp3, ogg y flac.
+ 
+ -Borrado de CD-RW.
+ 
+ -Cierre de CDs de datos abiertos.
+ 
+ -Diversos formatos sobre discos DVD+RW y DVD-RW.
+ 
+ -Grabación de DVD-Video (DVD 9).
+ 
+ -Crea imágenes de datos ISO-9660, UDF, ext2 y bin cue.
+ 
+ -Crea imágenes de datos ext3, ext4, XFS, JFS y Btrfs.
+  Grabación no funcional en discos ópticos.
+  
+ -Genera archivos de descripción .cue desde imagen .bin .
+ 
+ -Monta unidades de disco e imágenes ISO-9660, UDF, ext2,
+  ext3, ext4, XFS, JFS, Btrfs.
+  
+  -Genera y escribe imagenes .img, usar sobre dispositivos
+   de bloque. No funcional en discos ópticos.
+   
+  -Convierte imágenes .nrg de Nero Burning ROM en ISO-9660.
+  
+  -Muestra información de discos CD y DVD existentes en la unidad.
+  
+  -Formatea dispositivos de bloque en ext2, ext3, ext4,
+   XFS, JFS, Btrfs, NTFS, vfat (FAT32) y exFAT.
+   
+  -Tratamiento sobre archivos comprimidos, formatos zip, gzip, bz2 y xz.
+  
+  -Extracción de CD-Audio a diferentes formatos. Soportados .wav, .mp3, .ogg y .flac .
+  
+  -Convierte archivos de audio. Soportados .wav, .mp3, .ogg y .flac .
+  
+  -Convierte archivos de video. Soportados mpeg, mkv, flv, mp4, etc.
+  
+  -Mezcla archivos de video con archivos de audio.
+  
+  -Extrae audio mp3 de un archivo de video.
+  
+  -Recorta fragmentos de video.
+  
+  -Graba una sesión de escritorio de usuario en video.
+  
+  -Vuelca imagenes .iso/.img autoarrancables (bootable) sobre pendrive o disco.
+
+La aplicación soporta los siguientes tipos de CD:
+ - CD-Audio (Libro Rojo)
+ - CD-ROM CD-ROM XA (Libro Amarillo)
+ - CD-R CD-RW (Libro Naranja)
+
+Tipos de discos DVD soportados:
+ - DVD+R/RW DVD-R/RW DVD+RW DL
+
+Tipos de discos BD soportados:
+ - BD-R/RE
 
 Requisitos:
 -------------
@@ -40,8 +116,10 @@ Dentro del directorio de archivos de linux-cdgrab tecleé ./instalar
 
 Licencia:
 ----------
-Distribuir la aplicación bajo licencia GPL v2 (www.gnu.org).
-Escrito por Pascual Martínez Cruz (pascual89@hotmail.com).
-Gracias por usar linux-cdgrab
+Distribuir bajo licencia GPL v2.
 
+Desarrollo:
+-----------
+Pascual Martínez Cruz.
+pascual89@hotmail.com
 
