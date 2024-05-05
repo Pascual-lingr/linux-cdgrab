@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBelarusian/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en bieloruso para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Увядзіце шлях да файла або каталога:"
+empaquetar_MSG2="------- Параметры -------"
+empaquetar_MSG3="Стварыць файл .tar.gz"
+empaquetar_MSG4="Стварыць файл .tar.bz2"
+empaquetar_MSG5="Увядзіце варыянт: "
+empaquetar_MSG6="Запускаецца"
+empaquetar_MSG7="Няправільны параметр"
+
+# desempaquetar
+
+desempaquetar_MSG1="Увядзіце шлях да файла:"
+desempaquetar_MSG2="ДЭКАМПРЭСАР НЕ ЗНОЙДЗЕН"
+desempaquetar_MSG3="АБО"
+desempaquetar_MSG4="НЕ ІСНУЕ"
+desempaquetar_MSG5="Запускаецца"
+desempaquetar_MSG6="распакаваны"
+desempaquetar_MSG7="Памылка пры распакаванні"
+
+# comprime
+
+comprime_MSG1="СЦІСКАННЕ ВЫЯВУ"
+comprime_MSG2="Сціснуць з дапамогай bzip2"
+comprime_MSG3="Сціснуць з дапамогай gzip"
+comprime_MSG4="Сціснуць з дапамогай xz"
+comprime_MSG5="Папярэдняе меню"
+comprime_MSG6="Запускаецца"
+comprime_MSG7="Сціск файла выявы завершаны"
+comprime_MSG8="Памылка сціску з дапамогай"
+comprime_MSG9="Няправільны кампрэсар"
+
+# descomprime
+
+descomprime_MSG1="Увядзіце шлях да файла:"
+descomprime_MSG2="-----------------------"
+descomprime_MSG3="ДЭКАМПРЭСАР НЕ ЗНОЙДЗЕН"
+descomprime_MSG4="АБО"
+descomprime_MSG5="НЕ ІСНУЕ"
+descomprime_MSG6="Працуе"
+descomprime_MSG7="несціснуты"
+descomprime_MSG8="Памылка пры распакаванні"
+

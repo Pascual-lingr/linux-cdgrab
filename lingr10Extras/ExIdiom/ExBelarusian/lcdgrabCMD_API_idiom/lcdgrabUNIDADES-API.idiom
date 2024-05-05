@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBelarusian/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en bieloruso para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Шлях да відарыса .img або .ext2 для запісу на дыск."
+volcar_imagen_MSG2="-----------------------ВАЖНА----------------------------" 
+volcar_imagen_MSG3="+ Гэтая опцыя не працуе на аптычных дысках."
+volcar_imagen_MSG4="+ Выкарыстоўваць на флешках, дыскетах, раздзелах дыскаў і г.д. "
+volcar_imagen_MSG5="+ Разгляд жорсткіх дыскаў:"
+volcar_imagen_MSG6="+ Запіс выявы выконваецца з дапамогай dd з самага пачатку"
+volcar_imagen_MSG7="з названага дыска, выкарыстанне нумара недапушчальна"
+volcar_imagen_MSG8="канкрэтны сектар для пачатку працэсу запісу"
+volcar_imagen_MSG9="+ Карыстайцеся асцярожна. Карыстайцеся на свой страх і рызыку."
+volcar_imagen_MSG10="+ Падзелы дыска могуць стаць непрыдатнымі."
+volcar_imagen_MSG11="+ Не рэкамендуецца выкарыстоўваць яго ў сістэмах з некалькімі раздзеламі."
+volcar_imagen_MSG12="Аднаўленне можа пакінуць табліцу падзелаў і"
+volcar_imagen_MSG13="самі бескарысныя раздзелы."
+volcar_imagen_MSG14="-------------------------------------------------------"
+volcar_imagen_MSG15="НАЦІСНІЦЕ КЛАВІШУ C, КАБ ПРАЦЯГНУЦЬ; (працэс будзе адменены ў іншай опцыі)"
+volcar_imagen_MSG16="Пазначце шлях да файла выявы, які трэба зрабіць на дыск: "
+volcar_imagen_MSG17="Вывад каманды мантавання:"
+volcar_imagen_MSG18="Пазначце блакавую прыладу, на якую будзе зроблены дамп выявы:"
+volcar_imagen_MSG19="ВЫЯЎКА ДАМПА"
+volcar_imagen_MSG20="НА ПРЫЛАДЗЕ"
+volcar_imagen_MSG21="працуе"
+volcar_imagen_MSG22="ПРАЦЭС ДЫМПА ВЫЯВЫ ЗАВЕРШЭНЫ"
+
+# volcar_iso
+
+volcar_iso_MSG1="Пазначце блочную прыладу для запісу выявы ISO:"
+volcar_iso_MSG2="УВАГА"
+volcar_iso_MSG2B="-----"
+volcar_iso_MSG3="Пазначце блакавальную прыладу для запісу."
+volcar_iso_MSG4="Прыклады: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Не вызначаць падзел, які належыць гэтай прыладзе"
+volcar_iso_MSG6="Прыклады: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Вызначце выяву або выяву ISO-9660 для запісу:"
+volcar_iso_MSG9="Працэс завершаны"
+volcar_iso_MSG10="Памылка ў працэсе запісу ISO"
+volcar_iso_MSG11="Пазначце памер блока для запісу выявы"
+volcar_iso_MSG12="Абярыце опцыю ў адпаведнасці з аперацыйнай сістэмай для запісу:"
+volcar_iso_MSG13="ISO-9660 або загрузны вобраз IMG для прашыўкі на прыладзе:"
+volcar_iso_MSG14="Выхад"
+volcar_iso_MSG15="ФАЙЛ ВЫЯВУ АБО IMG ISO-9660"
+volcar_ISO_MSG16="ВЫБРАЦЬ АПЕРАЦЫЙНУЮ СІСТЭМУ ДЛЯ СКІДУ Ў БЛОК"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Выберыце файлавую сістэму з"
+Formateador_linuxfs_MSG2="прылада будзе адфарматавана:"
+Formateador_linuxfs_MSG3="Вызначце блочную прыладу для фарматавання: "
+Formateador_linuxfs_MSG5="ПРАЦЭС ЗАВЕРШЭНЫ"
+Formateador_linuxfs_MSG6="ФАРМАТАР ДЫСКА"
+Formateador_linuxfs_MSG7="Усталяваць метку тома"
+Formateador_linuxfs_MSG10="Пазначце назву меткі тома"
+Formateador_linuxfs_MSG11="Новая пазнака тома"
+Formateador_linuxfs_MSG12="Пазначце памер блока"
+Formateador_linuxfs_MSG13="Новы памер блока"
+Formateador_linuxfs_MSG14="Папярэдняе меню"
+

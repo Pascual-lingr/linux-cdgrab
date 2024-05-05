@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBelarusian/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Bieloruso para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="ФАЙЛЫ MP3 ДЛЯ ПЕРАВЕРТАВАННЯ"
+mp3awav_MSG0="Увядзіце шлях да файлаў .mp3: "
+mp3awav_MSG1="ПЕРАТВОРЭННЕ"
+mp3awav_MSG1B=" У ФАРМАТ .wav"
+mp3awav_MSG2="працуе"
+mp3awav_MSG3="Частата выбаркі ўстаноўлена на 44100 МГц"
+mp3awav_MSG4="Памылка апрацоўкі выбаркі"
+mp3awav_MSG5="Не ўдалося пераўтварыць"
+mp3awav_MSG6="Каталог не знойдзены"
+mp3awav_MSG7="КАНЕЦ ПЕРАТВОРЭННЯ АЎДЫЯ"
+mp3awav_MSG8="Нармалізацыя аўдыяфайла"
+mp3awav_MSG9="Файл"
+mp3awav_MSG10="Нармалізаваны"
+mp3awav_MSG11="Памылка нармалізацыі"
+
+# oggawav
+
+oggawav_MSG0="ФАЙЛЫ OGG ДЛЯ ПЕРАВЕРТАВАННЯ"
+oggawav_MSG1="Увядзіце шлях да файлаў .ogg: "
+oggawav_MSG2="ПЕРАТВОРЭННЕ"
+oggawav_MSG2B="ФАРМАТ .wav"
+oggawav_MSG3="працуе"
+oggawav_MSG4="Частата выбаркі ўстаноўлена на 44100 МГц"
+oggawav_MSG5="Памылка апрацоўкі выбаркі"
+oggawav_MSG6="Не ўдалося пераўтварыць"
+oggawav_MSG7="Каталог не знойдзены"
+oggawav_MSG8="КАНЕЦ АЎДЫЯПАХВАТУ"
+oggawav_MSG9="Нармалізацыя аўдыяфайла"
+oggawav_MSG10="Файл"
+oggawav_MSG11="Нармалізавана"
+oggawav_MSG12="Памылка нармалізацыі"
+
+# cdawav
+
+cdawav_MSG1="КАПІРАВАННЕ АЎДЫЁКАД-дыска..."
+cdawav_MSG2="Выкананне:"
+cdawav_MSG3="ПАСПЯХОВА АДЗІРАНЫЯ АЎДЫЁДАРЫКІ!!"
+cdawav_MSG4="Змесціва каталога аўдыяфайлаў"
+cdawav_MSG5="ПАМЫЛКА ПРЫ КАПІРАВАННІ АЎДЫЁДРАЖЫК"
+
+# cddawav
+
+cddawav_MSG1="УВЯДЗІЦЕ КОЛЬКАСЦЬ ТРЭКІЎ ДЛЯ КАПІРАВАННЯ:"
+cddawav_MSG2="Націсніце Ctrl + c, каб адмяніць капіраванне трэка"
+cddawav_MSG3="Выкананне:"
+cddawav_MSG4="ПАСПЯХОВА КАПАВАНА"
+cddawav_MSG5="ПАМЫЛКА КАПІРАВАННЯ"
+
+# wavamp3
+
+wavamp3_MSG0="ФАЙЛЫ WAV ДЛЯ ПЕРАВЕРТАВАННЯ"
+wavamp3_MSG1="Увядзіце шлях да файлаў .wav: "
+wavamp3_MSG1B="ПЕРАТВОРЭННЕ"
+wavamp3_MSG2="ФАРМАТ"
+wavamp3_MSG3="Выкананне:"
+wavamp3_MSG4="пры пераўтварэнні"
+wavamp3_MSG5="у фармат .MP3"
+wavamp3_MSG6="Памылка пераўтварэння"
+wavamp3_MSG7="ПЕРАТВОРЭННЕ АЎДЫЯ ЗАВЕРШАНА"
+wavamp3_MSG8="АЎДЫЯКАТАЛОГ НЕ ЗНОЙДЗЕНЫ"
+
+# cdamp3
+
+cdamp3_MSG1="КАПІРАВАННЕ АЎДЫЁКАД-дыска..."
+cdamp3_MSG2="Выкананне:"
+cdamp3_MSG3="ПАСПЯХОВА АДЗІРАНЫЯ АЎДЫЯДРОЖКІ!!"
+cdamp3_MSG4="ПАМЫЛКА ПРЫ КАПІРАВАННІ АЎДЫЁДАРОК"
+cdamp3_MSG5="Выклік функцыі:"
+
+# wavaogg
+
+wavaogg_MSG1="Увядзіце шлях да файлаў .wav: "
+wavaogg_MSG2="ПЕРАТВОРЭННЕ"
+wavaogg_MSG3="ФАРМАТ .ogg"
+wavaogg_MSG4="Працуе:"
+wavaogg_MSG5="Памылка пераўтварэння"
+wavaogg_MSG6="у фармат .ogg"
+
+# cdaogg
+
+cdaogg_MSG1="КАПІРАВАННЕ АЎДЫЁКАД-дыскаў..."
+cdaogg_MSG2="Выкананне:"
+cdaogg_MSG3="ПАСПЯХОВА АДЗІРАНЫЯ АЎДЫЁДАРЫКІ!!"
+cdaogg_MSG4="ПАМЫЛКА ПРЫ КАПІРАВАННІ АЎДЫЁДРАЖЫК"
+cdaogg_MSG5="Выклік функцыі:"
+
+# corta_wav
+
+corta_wav_MSG0="Колькасць секунд:"
+corta_wav_MSG1="Пазначце шлях да аўдыяфайла для пераўтварэння:"
+corta_wav_MSG2="Пазначце час у секундах, за які"
+corta_wav_MSG3="пачнецца рэзка файла."
+corta_wav_MSG4="-ЗАЎВАГА-"
+corta_wav_MSG5="Каб вызначыць пачатак гуку, увядзіце 0"
+corta_wav_MSG6="Значэнне ў секундах для пачатку пераўтварэння:"
+corta_wav_MSG7="Пазначце час у секундах, за які"
+corta_wav_MSG8="разразанне файла будзе завершана."
+corta_wav_MSG9="Значэнне ў секундах для канца пераўтварэння:"
+corta_wav_MSG10="Працуе"
+corta_wav_MSG11="Абрэзаны аўдыяфайл"
+corta_wav_MSG12="Памылка падчас абрэзкі файла"
+corta_wav_MSG13="Аўдыяфайл для абрэзкі:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1="Пазначце шлях да файлаў .flac:"
+flacawav_MSG2="ПЕРАТВОРЭННЕ"
+flacawav_MSG3="У ФАРМАТ .wav"
+flacawav_MSG4="Частата выбаркі ўстаноўлена на 44100 МГц"
+flacawav_MSG5="Памылка апрацоўкі выбаркі"
+flacawav_MSG6="Нармалізацыя аўдыяфайла"
+flacawav_MSG7="Файл"
+flacawav_MSG8="Нармалізаваны"
+flacawav_MSG9="Памылка нармалізацыі"
+flacawav_MSG10="Не ўдалося пераўтварыць"
+flacawav_MSG11="Каталог не знойдзены"
+flacawav_MSG12="КАНЕЦ ПЕРАТВОРЭННЯ АЎДЫЯ"
+
+# wavaflac
+
+wavaflac_MSG0="ФАЙЛЫ WAV ДЛЯ ПЕРАВЕРТАВАННЯ"
+wavaflac_MSG1="Увядзіце шлях да файлаў .wav: "
+wavaflac_MSG2="ПЕРАТВОРЭННЕ"
+wavaflac_MSG3="ФАРМАТ .flac"
+wavaflac_MSG4="пераўтвораны ў фармат flac"
+wavaflac_MSG5="Памылка пераўтварэння"
+wavaflac_MSG6="у фармат .flac"
+wavaflac_MSG7="КАТАЛОГ ФАЙЛОЎ FLAC НЕ ЗНОЙДЗЕНЫ"
+

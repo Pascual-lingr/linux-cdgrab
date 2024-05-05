@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBelarusian/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Bieloruso para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="ПРЫЛАДЫ, ЯКІЯ Ў ЦЯПЕР УСТАНАВАНЫ Ў СІСТЭМУ"
+montar_dispositivos_MSG1B="ЗБОРКА/РАЗБОРКА ПРЫЛАД"
+montar_dispositivos_MSG2="ПАРАМЕТРЫ LINUX-CDGRAB"
+montar_dispositivos_MSG3="Выняць дыск з прылады чытання CD/DVD/BD"
+montar_dispositivos_MSG4="Выняць дыск з прылады запісу CD/DVD/BD"
+montar_dispositivos_MSG5="Устанавіць чытальнік CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG6="Адключыць CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Мантаж або дэмантаж прылады ўручную"
+montar_dispositivos_MSG0="Папярэдняе меню"
+montar_dispositivos_MSG8="CD/DVD/BD усталяваны"
+montar_dispositivos_MSG9="НАЦІСНІЦЕ УВОД, КАБ ПРАЦЯГНУЦЬ..."
+montar_dispositivos_MSG10="Памылка падключэння CD/DVD/BD"
+montar_dispositivos_MSG11="CD/DVD/BD быў дэмантаваны"
+montar_dispositivos_MSG12="Памылка адключэння CD/DVD/BD"
+montar_dispositivos_MSG13="Увядзіце прыладу для падключэння/адключэння:"
+montar_dispositivos_MSG14="Увядзіце пункт падключэння:"
+montar_dispositivos_MSG15="не адпавядае блокавай прыладзе"
+montar_dispositivos_MSG16="Пункт мантавання не знойдзены"
+montar_dispositivos_MSG17="Кропка мантавання па змаўчанні"
+montar_dispositivos_MSG18="Абярыце варыянт:"
+montar_dispositivos_MSG19="Змантаваць"
+montar_dispositivos_MSG20="ст"
+montar_dispositivos_MSG21="Размантаваць"
+montar_dispositivos_MSG22="з"
+montar_dispositivos_MSG23="усталяваны на:"
+montar_dispositivos_MSG24="ПАМЫЛКА ПРЫ МАНТАВАННІ"
+montar_dispositivos_MSG25="У"
+montar_dispositivos_MSG26="знята з"
+montar_dispositivos_MSG27="ПАМЫЛКА ПРЫ АДМАНТАВАННІ"
+montar_dispositivos_MSG28="з"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Вывад каманды мантавання"
+Montar_Imagenes_MSG1B="ЗБОРКА/РАЗБОРКА ФАЙЛОЎ ВІДАРАЎ"
+Montar_Imagenes_MSG2="Выберыце варыянт"
+Montar_Imagenes_MSG3="Змантаваць вобраз CD/DVD/BD"
+Montar_Imagenes_MSG4="Адключыць вобраз CD/DVD/BD"
+Montar_Imagenes_MSG5="Папярэдняе меню"
+

@@ -1,0 +1,45 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Bieloruso para la aplicación principal
+# Traducción experimental.                         #
+# Generado con Google Translate.                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Файл, аўтаматычна створаны LINUX-CDGRAB 1.0"
+creacion_de_Depot_MSG2="Гэты файл разам з каталогам"
+creacion_de_Depot_MSG3="было створана аўтаматычна"
+creacion_de_Depot_MSG4="праграмай Linux-cdgrab падчас праверкі, што яна не існуе ў вашым дыстрыбутыве Linux"
+creacion_de_Depot_MSG5="каталог"
+creacion_de_Depot_MSG6="Linux-cdgrab выкарыстоўвае гэты каталог для запісу часовых файлаў і вобразаў прылад (iso, img і г.д.)"
+creacion_de_Depot_MSG8="Depot выкарыстоўваецца GoboLinux для захоўвання часовых файлаў"
+creacion_de_Depot_MSG9="Гэты файл прызначаны толькі для інфармацыйных мэтаў, вы можаце свабодна выдаліць яго пасля прачытання."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="УВАГА:"
+main_IDSISTEMA_MSG2="Аперацыйная сістэма не падтрымліваецца."
+main_IDSISTEMA_MSG3="Калі ёсць праблемы ў працы прыкладання, выкарыстоўвайце GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="Гэта не слушны аргумент"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="знойдзены"
+main_cdkit_test_MSG2="спасылка на wodim створана"
+main_cdkit_test_MSG3="спасылка на genisoimage створана"
+main_cdkit_test_MSG4="спасылка на icedax створана"
+
+# pgm principal
+
+pgm_principal_MSG1="ФАТАЛЬНА: не знойдзена карэктнага размеркавання каталогаў."
+pgm_principal_MSG2="НЕВЯДОМА"
+

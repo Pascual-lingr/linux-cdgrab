@@ -70,6 +70,7 @@ cp -f ./ExAfrikaans/lingr10lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgra
 cp -f ./ExUkrainian/lingr10lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExUkrainian/lcdgrabparches_idiom
 cp -f ./ExTurkish/lingr10lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExTurkish/lcdgrabparches_idiom
 cp -f ./ExHungarian/lingr10lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExHungarian/lcdgrabparches_idiom
+cp -f ./ExBelarusian/lingr10lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExBelarusian/lcdgrabparches_idiom
 
 cp -f ./Español/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/Español/lcdgrabparches_idiom
 cp -f ./EspDefNA/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/EspDefNA/lcdgrabparches_idiom
@@ -108,9 +109,10 @@ cp -f ./ExAfrikaans/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAP
 cp -f ./ExUkrainian/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExUkrainian/lcdgrabparches_idiom
 cp -f ./ExTurkish/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExTurkish/lcdgrabparches_idiom
 cp -f ./ExHungarian/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExHungarian/lcdgrabparches_idiom
+cp -f ./ExBelarusian/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExBelarusian/lcdgrabparches_idiom
 
 echo "Parches instalados"
-echo " "
+echo "------- INSTALACION DE COMPLEMENTOS EXTRA FINALIZADA --------"
 cd ..
 
 ;;
@@ -177,6 +179,7 @@ cp -f ./ExAfrikaans/lingr10lightscribepatch.idiom /Programs/linux-cdgrab-1.0/lcd
 cp -f ./ExUkrainian/lingr10lightscribepatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExUkrainian/lcdgrabparches_idiom
 cp -f ./ExTurkish/lingr10lightscribepatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExTurkish/lcdgrabparches_idiom
 cp -f ./ExHungarian/lingr10lightscribepatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExHungarian/lcdgrabparches_idiom
+cp -f ./ExBelarusian/lingr10lightscribepatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExBelarusian/lcdgrabparches_idiom
 
 cp -f ./Español/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/Español/lcdgrabparches_idiom
 cp -f ./EspDefNA/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/EspDefNA/lcdgrabparches_idiom
@@ -214,9 +217,10 @@ cp -f ./ExAfrikaans/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgra
 cp -f ./ExUkrainian/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExUkrainian/lcdgrabparches_idiom
 cp -f ./ExTurkish/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExTurkish/lcdgrabparches_idiom
 cp -f ./ExHungarian/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExHungarian/lcdgrabparches_idiom
+cp -f ./ExBelarusian/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExBelarusian/lcdgrabparches_idiom
 
 echo "Parches instalados"
-echo " "
+echo "------- INSTALACION DE COMPLEMENTOS EXTRA FINALIZADA --------"
 
 cd ..
 

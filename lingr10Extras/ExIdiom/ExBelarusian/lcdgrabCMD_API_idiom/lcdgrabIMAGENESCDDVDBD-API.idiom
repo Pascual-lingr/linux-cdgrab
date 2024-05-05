@@ -1,0 +1,233 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBelarusian/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en bieloruso para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="ФАЙЛАВАЯ СІСТЭМА ВЫЯВУ"
+imagen_linux_fs_MSG2="Выберыце файлавую сістэму: "
+imagen_linux_fs_MSG3="Стварыць вобраз для CD-R/RW (702 Мбайт)"
+imagen_linux_fs_MSG4="Стварыць вобраз для DVD+RW (4 Гбайт)"
+imagen_linux_fs_MSG5="Стварыць вобраз для DVD+RW/DL (8 Гбайт)"
+imagen_linux_fs_MSG5B="Стварыць вобраз для BD-R/RE (25 Гбайт)"
+imagen_linux_fs_MSG5C="Стварыць файл выявы нестандартнага памеру"
+imagen_linux_fs_MSG6="Стварэнне пустога файла ёмістасцю 702 Мбайт"
+imagen_linux_fs_MSG7="Стварэнне пустога файла ёмістасцю 4 Гбайт"
+imagen_linux_fs_MSG8="Стварэнне пустога файла аб ёмам 8 Гбайт"
+imagen_linux_fs_MSG8B="Стварэнне пустога файла ёмістасцю 25 Гбайт"
+imagen_linux_fs_MSG8C="Стварэнне пустога файла нестандартнага памеру"
+imagen_linux_fs_MSG9="ПАМЫЛКА: ПАМЕР ВІДЫРАКУ НЕВЯДОМЫ. СПРЫШЭННЕ..."
+imagen_linux_fs_MSG10="Запускаецца"
+imagen_linux_fs_MSG11="Праграма адфарматуе пусты файл."
+imagen_linux_fs_MSG12="Сістэма папярэдзіць вас, што створаны раней файл не з яўляецца блочнай прыладай, і спытае, ці хочаце вы яго адфарматаваць"
+imagen_linux_fs_MSG13="Адкажы так"
+imagen_linux_fs_MSG13="ПАСПЯХОВА ФАРМІРАВАНА"
+imagen_linux_fs_MSG14="Вобраз мантавання..."
+imagen_linux_fs_MSG15="ПАМЫЛКА ПРЫ ФАРМАТАВАННІ ПУСТЫ ФАЙЛ"
+imagen_linux_fs_MSG16="Праграма змантавала файл, адфарматаваны ў"
+imagen_linux_fs_MSG17="Linux-cdgrab запусціць файлавы менеджэр, каб ён мог працаваць з выявай, усталяванай на"
+imagen_linux_fs_MSG18="Пасля таго, як файлы будуць скапіяваныя, разманціруйце адфарматаваны файл"
+imagen_linux_fs_MSG19="Вобраз Linux знаходзіцца ў гэтым каталогу"
+imagen_linux_fs_MSG19B="ПАМЫЛКА ПРЫ МАНТАВАННІ ФАЙЛА ВЫЯРА"
+imagen_linux_fs_MSG20="Файлы для ўключэння ў вобраз. Усталяваны ў /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Запуск файлавага менеджара..."
+imagen_linux_fs_MSG22="УВАГА:"
+imagen_linux_fs_MSG23="------"
+imagen_linux_fs_MSG24="Відарыс"
+imagen_linux_fs_MSG25="яшчэ змантаваны"
+imagen_linux_fs_MSG26="ПАМЫЛКА ПРЫ СТВАРЭННІ ПУСТАГА ФАЙЛА З DD"
+imagen_linux_fs_MSG27="Праверце, што ў вас ёсць вольнае месца на раздзеле, усталяваным у /"
+imagen_linux_fs_MSG34="ФАЙЛАВАЯ СІСТЭМА ДЛЯ ФАРМАТАВАННЯ ФАЙЛА"
+imagen_linux_fs_MSG35="ГЕНЕРАЦЫЯ ПУСТЫХ ФАЙЛОЎ З КАРЫСТАЛЬНІЦКІМ ПАМЕРАМ"
+imagen_linux_fs_MSG36="Пазначце памер блока новага пустога файла (толькі лікавае значэнне):"
+imagen_linux_fs_MSG37="Прыклады значэнняў памеру блока: 1024, 2048 (толькі Ext2) або 4096 (усе фарматы)"
+imagen_linux_fs_MSG38="Пазначце памер пустога файла для стварэння (толькі лікавае значэнне):"
+imagen_linux_fs_MSG39="Вымярэнні прасторы для стварэння пустога файла:"
+imagen_linux_fs_MSG40="Вызначце памер прасторы для выкарыстання: "
+imagen_linux_fs_MSG41="ПАМЫЛКА ПРЫ ЎКАЗАННІ ПАМЕРУ"
+imagen_linux_fs_MSG42="Значэнне памеру блока:"
+imagen_linux_fs_MSG43="Колькасць месца для пустога файла:"
+imagen_linux_fs_MSG44="Разлічанае значэнне ў байтах:"
+imagen_linux_fs_MSG45="Разлічанае значэнне для падліку:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Уключыць чытанне md5 пры стварэнні выяваў .iso"
+comprobar_lectura_md5_MSG2="Адключыць чытанне md5 пры стварэнні выяваў .iso"
+comprobar_lectura_md5_MSG3="Папярэдняе меню"
+comprobar_lectura_md5_MSG4="Бягучая канфігурацыя:"
+comprobar_lectura_md5_MSG5="Уключана"
+comprobar_lectura_md5_MSG6="Адключана"
+comprobar_lectura_md5_MSG7="Чытанне сумы md5 актывавана"
+comprobar_lectura_md5_MSG8="Чытанне сумы md5 адключана"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Немагчыма прачытаць назву выявы ISO"
+leer_md5sum_MSG2="Чытанне md5sum з"
+leer_md5sum_MSG3="Паказвае суму md5 выявы"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="СТВАРЭННЕ ВЫЯРА CD"
+extraer_isoCD_dd_MSG2="ВЫЯВУК СТВОРАНЫ Ў"
+extraer_isoCD_dd_MSG3="Не знойдзена"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="СТВАРЭННЕ ВЫЯРА DVD"
+extraer_isoDVD_dd_MSG2="працуе"
+extraer_isoDVD_dd_MSG3="ВЫЯВУК СТВОРАНЫ Ў"
+extraer_isoDVD_dd_MSG4="Не знойдзена"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="працуе"
+extraer_iso_readcd_MSG2="ВЫЯВУК ПАСПЯХОВА СТВОРАНЫ"
+extraer_iso_readcd_MSG3="Вобраз створаны ў"
+extraer_iso_readcd_MSG4="Спыненне працэсу запісу..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Змантаваны CD"
+extraer_iso_mkisofs_MSG2="Стварэнне выявы..."
+extraer_iso_mkisofs_MSG3="Сумяшчальнасць з Macintosh уключана"
+extraer_iso_mkisofs_MSG4="Выкарыстанне"
+extraer_iso_mkisofs_MSG5="працуе"
+extraer_iso_mkisofs_MSG6="Вобраз створаны ў каталогу"
+extraer_iso_mkisofs_MSG7="Паўторная спроба працэсу без падтрымкі Macintosh"
+extraer_iso_mkisofs_MSG8="Вобраз створаны ў каталогу"
+extraer_iso_mkisofs_MSG9="mkisofs вяртае невядомыя памылкі пры стварэнні"
+extraer_iso_mkisofs_MSG10="ад"
+extraer_iso_mkisofs_MSG11="Праверце цэласнасць дадзеных"
+extraer_iso_mkisofs_MSG12="Мантаж"
+extraer_iso_mkisofs_MSG12B="en"
+extraer_iso_mkisofs_MSG13="genisoimage вяртае невядомыя памылкі пры стварэнні"
+extraer_iso_mkisofs_MSG13B="ад"
+extraer_iso_mkisofs_MSG14="Mkisofs і genisoimage не знойдзены. Усталюйце cdrtools або cdrkit."
+extraer_iso_mkisofs_MSG15="Немагчыма падключыць"
+extraer_iso_mkisofs_MSG16="Выява паспяхова створана ў"
+
+# m_comp_img
+
+m_comp_img_MSG1="ВЫЯЎКА ПАСПЯХОВА СТВАРЫЛА Ў"
+m_comp_img_MSG2="ВЫ ЖАДАЕЦЕ СЦІСНУЦЬ ФАЙЛ ВЫЯВЫ?"
+m_comp_img_MSG3="(s/y) для сціску; працэс адмяняецца іншым параметрам."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Запуск файлавага менеджэра..."
+generar_iso_directorio_MSG2="Увядзіце імя для будучага CD/DVD/BD"
+generar_iso_directorio_MSG3="СТВАРЭННЕ ВЫЯВУ..."
+generar_iso_directorio_MSG4="Сумяшчальнасць з Macintosh уключана"
+generar_iso_directorio_MSG5="Выкарыстоўваючы"
+generar_iso_directorio_MSG6="працуе"
+generar_iso_directorio_MSG7="ВЫЯВА, СТВОРАНАЯ Ў КАТАЛОГЕ"
+generar_iso_directorio_MSG8="ПРАЦЭС СТВАРЭННЯ ВЫЯВУ АДБЫЎСЯ ЗМАЛ"
+generar_iso_directorio_MSG9="СТВАРЭННЕ ВЫЯВУ БЕЗ СУМЕШЧАЛЬНАСЦІ З MACINTOSH"
+generar_iso_directorio_MSG10="Mkisofs і genisoimage не знойдзены. Усталюйце cdrtools або cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Увядзіце імя для будучага DVD/BD"
+generar_bdv_udf_directorio_MSG2="Пазначце каталог для генерацыі відэамалюнка:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Пазначце метку дыска:"
+generar_iso_directorio_libburnia_MSG2="Пазначце каталог для генерацыі выявы ISO-9660:"
+generar_iso_directorio_libburnia_MSG3="Вобраз ISO9660 створаны паспяхова!!"
+generar_iso_directorio_libburnia_MSG4="Памылка пры стварэнні выявы iso-9660 з дапамогай xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="Файлы і каталогі для ўключэння ў вобраз .iso"
+imagenISO_MSG2="ВЫБРАЦЬ ВАРИАНТ"
+imagenISO_MSG2B="---------------"
+imagenISO_MSG3="Стварыць вобраз ISO-9660 з CD (выкарыстоўвайце dd)"
+imagenISO_MSG4="Стварыць выяву ISO-9660 з DVD (выкарыстоўвайце dd)"
+imagenISO_MSG5="Стварыць выяву ISO-9660 з CD (выкарыстоўваць readcd)"
+imagenISO_MSG6="Стварэнне выявы ISO-9660 з CD або DVD дыска (выкарыстоўвайце mkisofs)"
+imagenISO_MSG7="Стварыць вобраз ISO-9660 з дадзеных жорсткага дыска (выкарыстоўвайце mkisofs)"
+imagenISO_MSG8="Папярэдняе меню"
+imagenISO_MSG9="СТВАРЭННЕ ВЫЯВУ"
+imagenISO_MSG10="Стварыць вобраз ISO-9660 з дадзеных жорсткага дыска (выкарыстоўвайце xorriso)"
+imagenISO_MSG11="Стварыць вобраз iso/udf з CD/DVD/BD (выкарыстоўвайце mkisofs)"
+imagenISO_MSG12="Стварыць вобраз iso/udf з дадзеных жорсткага дыска (выкарыстоўвайце mkisofs)"
+imagenISO_MSG13="МЕНЮ ФАРМАТЫРАВАЧА ISO-9660"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Стварыць вобраз UDF/ISO з дадзеных жорсткага дыска (выкарыстоўвайце mkisofs)"
+imagenISO_MSG15="Стварыць вобраз UDF/ISO з падтрымкай DVD Video (выкарыстоўвайце mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Увядзіце зыходную блочную прыладу, з якой будзе зроблены малюнак"
+imagen_img_MSG2="----------------------------------------------------------------"
+imagen_img_MSG3="Прылады, зарэгістраваныя ў /etc/fstab і /etc/mtab"
+imagen_img_MSG4="Вывад каманды мантавання:"
+imagen_img_MSG5="Увядзіце назву прылады: "
+imagen_img_MSG6="Стварэнне выявы .img блокавай прылады"
+imagen_img_MSG7="працуе"
+imagen_img_MSG8="ВЫЯВАР ПРЫЛАДЫ СТВОРАНЫ Ў"
+
+# monta_img
+
+monta_img_MSG1="Вобраз ISO або ext2 для мантавання."
+monta_img_MSG2="Увядзіце шлях да каталога, у якім знаходзіцца вобраз, які будзе змантаваны:"
+monta_img_MSG3="ЗМАНТАВАНЫ ВЫЯВОК CD:"
+monta_img_MSG4="ПАМЫЛКА ПРЫ МАНТАВАННІ ФАЙЛА ВЫЯВУ"
+monta_img_MSG5="НЕ ЗНОЙДЗЕНЫ"
+monta_img_MSG6="ПУНКТ МАНТУВАННЯ НЕ ІСНУЕ"
+monta_img_MSG7="НЕЧАКАНАЯ ПАМЫЛКА"
+
+# desmonta_img
+
+desmonta_img_MSG1="Вобраз ISO або ext2 для адключэння."
+desmonta_img_MSG2="ВЫЯЎКА Ў РАЗБРАНЫМ"
+desmonta_img_MSG3="Змантаваны вобраз не знойдзены"
+desmonta_img_MSG4="Вывад мантавання:"
+desmonta_img_MSG5="Вы можаце пазначыць абсалютны шлях да выявы непасрэдна."
+desmonta_img_MSG6="Такія як /tmp/lcdgrabimg.iso або каталог мантавання выявы, напрыклад /mnt/lcdgrab"
+desmonta_img_MSG7="Калі не пазначана, можна шукаць з дапамогай файлавага менеджэра"
+desmonta_img_MSG8="Запуск дыспетчара файлаў"
+desmonta_img_MSG9="Пазначце шлях выявы."
+desmonta_img_MSG10="ВЫЯЎКА Ў РАЗАБРАНЫМ"
+desmonta_img_MSG11="ПАМЫЛКА ПРЫ АДМАНТАВАННІ ВЫЯРА"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg выява для пераўтварэння ў .iso"
+nrg_a_iso_MSG2="Увядзіце шлях да выявы .nrg (Nero Burning ROM) для пераўтварэння"
+nrg_a_iso_MSG3="Пераўтварэнне выявы..."
+nrg_a_iso_MSG4="Шлях да зыходнага відарыса .nrg"
+nrg_a_iso_MSG5="не існуе або адпавядае каталогу"
+nrg_a_iso_MSG6="Няправільны шлях."
+nrg_a_iso_MSG7="гэта ўжо папярэдні вобраз ISO-9660, ён не будзе пераўтвораны."
+nrg_a_iso_MSG8="Капіраванне з іншым пашырэннем..."
+nrg_a_iso_MSG9="КАПІРАВАННЕ ЗАВЕРШАНА"
+nrg_a_iso_MSG10="працуе"
+nrg_a_iso_MSG11="Відарыс ператвораны паспяхова"
+nrg_a_iso_MSG12="ПАМЫЛКА ПРЫ СТВАРЭННІ ВЫЯРА .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Стварыць файл апісання .cue з выявы .bin"
+GenerarArchivocue_MSG2="Бягучы актыўны каталог"
+GenerarArchivocue_MSG3="Запішыце толькі шлях да каталога, дзе"
+GenerarArchivocue_MSG4="знайсці файл выявы:"
+GenerarArchivocue_MSG5="Увядзіце назву выявы .bin, да якой"
+GenerarArchivocue_MSG6="стварыў адпаведны файл .cue"
+GenerarArchivocue_MSG7="ФАЙЛ АПІСАННЯ .cue ПАСПЯХОВА СТВОРАНЫ"
+GenerarArchivocue_MSG8="ПАМЫЛКА ПРЫ СТВАРЭННІ ФАЙЛА АПІСАННЯ .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="працуе"
+ImagenbincueCDDVD_MSG2="ВЫЯВАР ДЫСКА .BIN .CUE ПАСПЯХОВА СТВОРАНЫ"

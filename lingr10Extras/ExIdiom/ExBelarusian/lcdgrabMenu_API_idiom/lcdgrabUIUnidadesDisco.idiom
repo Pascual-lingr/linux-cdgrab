@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExBelarusian/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Bieloruso para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="АПЕРАЦЫІ ДЫСКАВОДА"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- ВАЖНА -----------------------"
+MenuDispositivosBloque_MSG3="+ Не выконваць аперацыі запісу на жорсткія дыскі "
+MenuDispositivosBloque_MSG4="+ аб раздзелах дыска, якія змяшчаюць выявы"
+MenuDispositivosBloque_MSG5="+ аднаўленне, загрузачныя раздзелы або ўласныя"
+MenuDispositivosBloque_MSG6="+ раздзел аперацыйнай сістэмы."
+MenuDispositivosBloque_MSG7="+ Няправільнае выкарыстанне параметраў напісання гэтага меню "
+MenuDispositivosBloque_MSG8="+ можа выклікаць катастрофу ў сістэме."
+MenuDispositivosBloque_MSG9="+ Выкарыстоўвайце з асцярожнасцю. Карыстайцеся на свой страх і рызыку."
+MenuDispositivosBloque_MSG10="-------------------- ПІСАННЕ --------------------"
+MenuDispositivosBloque_MSG11="Скампаваць файл выявы на дыскавод"
+MenuDispositivosBloque_MSG11B="Скід выявы iso або img (самазагружаны) на флешку або USB-дыск"
+MenuDispositivosBloque_MSG11C="Падтрымліваюцца не ўсе сістэмы ўстаноўкі."
+MenuDispositivosBloque_MSG12="Фарматаваць дыск у роднай файлавай сістэме Linux або Windows"
+MenuDispositivosBloque_MSG13="-------------------- ЧЫТАННЕ --------------------"
+MenuDispositivosBloque_MSG14="Стварыць вобраз .img з дыскавода"
+MenuDispositivosBloque_MSG15="Папярэдняе меню"
+MenuDispositivosBloque_MSG16="Увядзіце параметр"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="-----------------------------ВАЖНА--------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Фармат блока з файлавай сістэмай, якая выкарыстоўваецца ў прыладах"
+UIFormatearUnidad_linuxfs_MSG2B="+ або раздзелы дыска."
+UIFormatearUnidad_linuxfs_MSG3="+ Гэтая опцыя сатрэ ўсе існуючыя дадзеныя на прыладзе"
+UIFormatearUnidad_linuxfs_MSG4="+ Здымныя дыскі, адфарматаваныя з файлавай сістэмай"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux будзе даступны толькі ў гэтай аперацыйнай сістэме."
+UIFormatearUnidad_linuxfs_MSG6="+ Карыстайцеся асцярожна, выкарыстоўвайце на свой страх і рызыку."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="НАЦІСНІЦЕ КЛАВІШУ C, КАБ ПРАЦЯГНУЦЬ (Працэс будзе адменены ў іншым варыянце)"
+

@@ -21,7 +21,7 @@ Complementos implementados:
    Italiano, Holandés, Noruego, Polaco, Checo, Sueco, Armenio,
    Georgiano, Danés, Amárico, Tigriña, Vietnamita, Islandés,
    Suajili, Lao, Luxemburgués, Lituano, Afrikáans, Ucraniano,
-   Turco y Húngaro desde los archivos de Español.
+   Turco, Húngaro y Bieloruso desde los archivos de Español.
    Traducción experimental al Español desde idioma Inglés.
    Por soporte al desarrollo. 
    (usado Google Translate, usado Chat GPT).

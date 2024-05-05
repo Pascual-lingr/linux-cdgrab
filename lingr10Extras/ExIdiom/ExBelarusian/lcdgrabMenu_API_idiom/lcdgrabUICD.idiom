@@ -1,0 +1,73 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBelarusian/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al bieloruso, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="ВЫБРАЦЬ ВАРИАНТ"
+clonar_MSG2="-------- КОПІІ ДЫСКА З ПРАГЛЯДАМ ВЫЯВУ ---------"
+clonar_MSG3="Капіяваць CD з дадзенымі"
+clonar_MSG4="Стварыць папярэдні вобраз CD на жорсткім дыску"
+clonar_MSG5="------------ КОПІІ ДЫСКА НА ЛЁТУ ---------------"
+clonar_MSG6="Капіраванне кампакт-дыска з дадзенымі на лета"
+clonar_MSG7="Кланаваць кампакт-дыск з дадзенымі на лета"
+clonar_MSG7B="Капіраваць аўдыядыск на лета"
+clonar_MSG8="ВАРЫЯНТЫ ЛЯТУЧАГА КОПІЯ ПАТРАБУЮЦЦА ДВА АПТЫЧНЫХ БЛОКА"
+clonar_MSG9="УСТАНОВЛЕНА НА ВАШЫ КАМП ЮТАР, ТАК ПАКУЛЬКУ ДАНЫЯ ЗАПІСУЮЦЦА"
+clonar_MSG10="ЧЫТАЙЦЕ НАПРАМУ З ПАХОДНАГА ДИСКА, КАЛІ ЁСЦЬ ТОЛЬКІ НА ВАШЫМ КАМП ЮТЭРЫ"
+clonar_MSG11="ХОДЗІН НЕ ЗМОЖА ВЫКАРЫСТАЦЦА КОПІЯМІ Ў ПАЛЁТ."
+clonar_MSG12B="КАПІРАВАЦЬ кампакт-дыск з дадзенымі"
+clonar_MSG0="Папярэдняе меню"
+
+# mgrabacd
+
+mgrabacd_MSG1="ДАНЫЯ CD З ЖОЎСТРАГА ДЫСКА"
+mgrabacd_MSG2="Запісаць новы кампакт-дыск з дадзенымі (выкарыстоўвайце cdrtools)"
+mgrabacd_MSG3="Запісаць новы кампакт-дыск з дадзенымі (выкарыстоўваць libburnia)"
+mgrabacd_MSG4="Папярэдняе меню"
+mgrabacd_MSG5="Увядзіце параметр"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="ЗАПІС ВЫЯВУ ДАДЗЕНЫХ"
+mgrabaimg_MSG2="Запісаць вобраз iso або ext2 на CD-R/RW (выкарыстоўвайце cdrtools)"
+mgrabaimg_MSG3="Запісаць вобраз ISO на CD-R/RW (выкарыстоўвайце libburnia)"
+mgrabaimg_MSG4="Папярэдняе меню"
+mgrabaimg_MSG5="Увядзіце варыянт"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Запісаць аўдыядыск з файлаў .wav"
+mgrabararchivosaudio_MSG2="Запісаць аўдыядыск з файлаў .mp3"
+mgrabararchivosaudio_MSG3="Запісаць аўдыядыск з файлаў .ogg"
+mgrabararchivosaudio_MSG0="Папярэдняе меню"
+mgrabararchivosaudio_MSG0B="Увядзіце варыянт"
+mgrabararchivosaudio_MSG4="Запісаць аўдыядыск з файлаў .flac"
+mgrabararchivosaudio_MSG5="CD-AUDIO ЗАПІС З ФАЙЛОЎ"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="ЗАПІС НА CD"
+menugrabar_cd_MSG2="-------------------- CD - DATA -------------------"
+menugrabar_cd_MSG3="Капіраваць CD з дадзенымі"
+menugrabar_cd_MSG4="Запісаць новы кампакт-дыск з дадзенымі"
+menugrabar_cd_MSG5="Запісаць новы шматсесійны CD з дадзенымі"
+menugrabar_cd_MSG6="Запісаць вобраз .iso або .ext2 на кампакт-дыск"
+menugrabar_cd_MSG7="Запісаць выяву .bin/.cue на кампакт-дыск"
+menugrabar_cd_MSG8="-------------------- CD - АЎДЫЁ ------------------"
+menugrabar_cd_MSG9="Капіяваць аўдыядыск"
+menugrabar_cd_MSG13="----------------- ІНШЫЯ ВАРЫЯНТЫ -----------------"
+menugrabar_cd_MSG14="Запісаць змешаны кампакт-дыск (дадзеныя + аўдыё)"
+menugrabar_cd_MSG15="Выдаліць CD-RW"
+menugrabar_cd_MSG16="Зачыніць адкрыты CD"
+menugrabar_cd_MSG17="Паказаць інфармацыю пра дыск у прывадзе"
+menugrabar_cd_MSG18="Запісаць аўдыядыск з файлаў дыска"
+menugrabar_cd_MSG0="Папярэдняе меню"
+menugrabar_cd_MSGPRINCIPAL="Увядзіце варыянт"
+

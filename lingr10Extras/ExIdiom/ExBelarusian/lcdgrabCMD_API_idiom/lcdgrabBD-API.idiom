@@ -1,0 +1,46 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBelarusian/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Bieloruso para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ВЫЯЎКА ISO-9660 ПРАВІЛЬНА ЗАПІСАНА НА BLU-RAY"
+grabar_ISO_BD_MSG2="ПАМЫЛКА ПРЫ ЗАПІСЫ ВІДАРАЎ НА BLU-RAY ДИСК"
+grabar_ISO_BD_MSG3="ВЫЯВУК ISO-9660 НА BD"
+grabar_ISO_BD_MSG4="Пазначце шлях да выявы ISO-9660 для запісу:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Файлы і каталогі для стварэння выявы .iso"
+bd_datos_MSG2="МЕТКА БД"
+bd_datos_MSG3="Увядзіце імя для будучага BD:"
+bd_datos_MSG4="Запуск файлавага менеджара:"
+bd_datos_MSG5="СТВАРЭННЕ ВЫЯВУ..."
+bd_datos_MSG6="працуе"
+bd_datos_MSG7="ВЫЯВАР ISO-9660 СТВОРАНЫ Ў"
+bd_datos_MSG8="ЗАПІС BD"
+bd_datos_MSG13="СЦІРАЦЬ ВЫЯВКУ..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Неабходнае фарматаванне або выдаленне прымяняецца ў залежнасці ад стану дыска"
+borrar_BDRE_lb_MSG2="BD-RE ПАСПЯХОВА ВЫДАЛЕНЫ!!"
+borrar_BDRE_lb_MSG3="ПАМЫЛКА ПРЫ ВЫДАЛЕННІ BD-RE"

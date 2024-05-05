@@ -1,0 +1,183 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBelarusian/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Bieloruso para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="працуе"
+copia_bin_MSG2="---------------Паўторная спроба працэсу запісу----------------"
+copia_bin_MSG3="	ВЫДАЛЕННЕ ФАЙЛА ВЫЯВУ"
+copia_bin_MSG4="АДЗЫЛАСЯ ПАМЫЛКА ЗАПИСУ"
+copia_bin_MSG5="Файл выявы дампа дыска .iso не знойдзены. Перапыненне запісу..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="працуе"
+datos_al_vuelo_MSG2="Памылка пры спробе запісу, паўторная спроба без падтрымкі перазапісу"
+datos_al_vuelo_MSG3="Праверце, што зыходны дыск або прылада"
+datos_al_vuelo_MSG4="у добрым стане"
+datos_al_vuelo_MSG5="Атрыманне нумара выхаднога блока з зыходнага дыска"
+datos_al_vuelo_MSG6="КАПІРАВАННЕ ДЫСКА..."
+
+# clonar_cd
+
+clonar_cd_MSG1="працуе"
+clonar_cd_MSG2="CD ПАСПЯХОВА КЛАНІРАВАНЫ"
+clonar_cd_MSG3="ПРЫ КЛАНІРАВАННІ КЛАНІРАВАННЯ КЛАНІРАВАННЯ АДЗЫЛА ПАМЫЛКА"
+
+# datos
+
+datos_MSG1="Файлы і каталогі для стварэння выявы .iso"
+datos_MSG2="ЦЫТКА CD/DVD/BD"
+datos_MSG3="Увядзіце назву для будучага CD/DVD/BD:"
+datos_MSG4="Запуск дыспетчара файлаў:"
+datos_MSG5="	СТВАРЭННЕ ВЫЯВУ..."
+datos_MSG6="працуе"
+datos_MSG7="ВЫЯВАР ISO-9660 СТВОРАНЫ Ў"
+datos_MSG8="		ЗАПІС CD/DVD/BD"
+datos_MSG9="ПРАЦЭС СТВАРЭННЯ ФАЙЛА ВЫЯВКА АДБЫЎСЯ ЗМАЛЁК"
+datos_MSG10="ПАВТОРНАЯ СПРОБА СТВАРЫЦЬ НОВЫ БЕЗ ПАДТРЫМКІ HFS (Macintosh)"
+datos_MSG11="ВЫДАЛЕННЕ ВЫЯВУ ..."
+datos_MSG12="СТВАРЭННЕ НОВАЙ ВЫЯВЫ ..."
+datos_MSG13="НЕ ЎДАЛОСЯ ПРАВІЛЬНА ЗАПІСАЦЬ"
+datos_MSG14="------------ПАЎТАР ПРАЦЭСУ ЗАПІСУ-----------"
+datos_MSG15="СЦІРАЦЬ ВЫЯВКУ..."
+datos_MSG16="ЗАПІС ISO-9660 DATA CD/DVD/BD..."
+datos_MSG17="Не знойдзена."
+datos_MSG18="Спыненне запісу дыска..."
+
+# datoslb
+
+datoslb_MSG1="Памылка: файл малюнка не знойдзены. Перапыненне..."
+datoslb_MSG2="ПРАЦЭС ЗАПІСУ ОК"
+datoslb_MSG3="ПАМЫЛКА Ў ПРАЦЭСЕ ЗАПІСУ"
+
+# borra
+
+borra_MSG0="Папярэдняе меню"
+borra_MSG1="Выберыце рэжым сцірання CD-RW"
+borra_MSG2="-----------------------------"
+borra_MSG3="Хуткае выдаленне (выкарыстоўвайце cdrecord)"
+borra_MSG4="Поўнае выдаленне (выкарыстоўвайце cdrecord)"
+borra_MSG5="Патрабуецца выдаленне (выкарыстоўвайце cdrskin)"
+borra_MSG6="працуе"
+borra_MSG7="Неабходнае фарматаванне або выдаленне прымяняецца ў залежнасці ад стану дыска"
+borra_MSG8="CD-RW ВЫДАЛЕНЫ ПАСПЯХОВА!!"
+borra_MSG9="ПАМЫЛКА ПРЫ ВЫДАЛЕННІ CD-RW"
+borra_MSG10="ПРЫМУСОВА ВЫДАЛЕННЕ CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="ПАМЫЛКА ПРЫ СПРОБАХ СЦІРАЦЬ CD-RW"
+err_borra_cdrw_MSG2="CD-RW НЕПРЫГОДНЫ"
+err_borra_cdrw_MSG3="ВЫДАЛІЦЬ ГЭТЫ CD-RW НЕМАГЧЫМА"
+err_borra_cdrw_MSG4="Праверце CD-RW на наяўнасць фізічных пашкоджанняў"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="працуе"
+cerrar_cd_MSG2="Кампакт-дыск БЫЎ ЗАКРЫТЫ ПРАВІЛЬНА"
+cerrar_cd_MSG3="ПАМЫЛКА ПРЫ ЗАКРЫЦЦІ CD"
+cerrar_cd_MSG4="ЗАКРЫЦЦЁ ТРАКА НА DATA CD..."
+
+# grabimg
+
+grabimg_MSG1="Вобраз .iso або .ext2 для запісу на CD/DVD"
+grabimg_MSG2="Запуск файлавага менеджара."
+grabimg_MSG3="Увядзіце поўны шлях да выявы CD/DVD, якую вы хочаце запісаць:"
+grabimg_MSG4="працуе"
+grabimg_MSG5="-----------ПАЎТАР ПРАЦЭСУ ЗАПІСУ-----------"
+grabimg_MSG6="ЗАПІС ЗАВЕРШЭНЫ!!"
+grabimg_MSG7="ВЫЯВУК .EXT2 ПАСПЯХОВА ЗАПІСАН"
+
+# grabimglb
+
+grabimglb_MSG1="Увядзіце поўны шлях да выявы CD/DVD, якую вы хочаце запісаць:"
+grabimglb_MSG2="Запіс выявы на дыск..."
+grabimglb_MSG3="ВЫЯВУК ISO-9660 ПАСПЯХОВА ЗАПІСАН"
+grabimglb_MSG4="ПАМЫЛКА ПРЫ ЗАПІСЕ ВЫЯВУ ISO-9660"
+grabimglb_MSG5="Памылка: файл выявы не знойдзены. Перапыненне..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1="файлы .bin і .cue для запісу выявы"
+grabimg_cue_MSG2="Для запісу выявы bin/cue абодва файлы павінны быць"
+grabimg_cue_MSG3="знаходзіцца ў актыўным каталогу."
+grabimg_cue_MSG4="Бягучы актыўны каталог"
+grabimg_cue_MSG5="Увядзіце назву файла *.cue, які спасылаецца на файл выявы *.bin"
+grabimg_cue_MSG6=".cue файл: "
+grabimg_cue_MSG7="запускаецца"
+grabimg_cue_MSG8="ЗАПІС ЗАВЕРШЭНЫ!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Запісаць мультысесійны кампакт-дыск з выявы .iso"
+cd_multi_MSG2="Запісаць першы сеанс на кампакт-дыск з выявы .iso"
+cd_multi_MSG3="Запісаць шматсесійны кампакт-дыск з файлаў на дыску"
+cd_multi_MSG4="Запіс паслядоўных сеансаў на кампакт-дыск з файлаў на жорсткім дыску"
+cd_multi_MSG5="Гэтая опцыя патрабуе шматсесійнага кампакт-дыска з папярэдняй запісанай сесіяй."
+cd_multi_MSG6="Папярэдняе меню"
+cd_multi_MSG7="Вобраз .iso для запісу на шматсесійны CD"
+cd_multi_MSG8="Пазначце шлях да выявы .iso"
+cd_multi_MSG9="працуе"
+cd_multi_MSG10="ШМАТСЕСІЙНЫ КОМПАКТ-дыск ПАСПЯХОВА ЗАПІСАН!!"
+cd_multi_MSG11="Каталогі для ўключэння ў выяву."
+cd_multi_MSG12="Укажыце ніжэй, якія дырэкторыі ўключыць"
+cd_multi_MSG13="Увядзіце назву для этыкеткі CD:"
+cd_multi_MSG14="СТВАРЭННЕ ВЫЯВУ..."
+cd_multi_MSG15="ПАСПЯХОВА СТВОРАНА"
+cd_multi_MSG16="ПАМЫЛКА ПРЫ СТВАРЭННІ ВЫЯВУ. СПЫНЕННЕ ПРАЦЭСУ ЗАПІСУ..."
+cd_multi_MSG17="ЗАПІС ВЫЯВКА CD..."
+cd_multi_MSG18="МУЛЬТСЕСІЙНАЕ МЕНЮ CD"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="КАПІРАВАННЕ АЎДЫЁКАД-дыска..."
+copia_cd_audio_MSG2="Запускаецца"
+copia_cd_audio_MSG3="АЎДЫЁ ТРЭКІ ПАСПЯХОВА АДЗІРАНЫ!!"
+copia_cd_audio_MSG4="ПАМЫЛКА ПРЫ КАПІРАВАННІ АЎДЫЁДАРОК"
+copia_cd_audio_MSG5="ЗАПІС АЎДЫЯКАД-дыска..."
+copia_cd_audio_MSG6="АЎДЫЁ-CD ПАСПЯХОВА СКАПІРАВАНЫ!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav файлы для запісу на CD"
+wav_a_cd_MSG2="Linux-cdgrab не будзе правяраць памер каталога"
+wav_a_cd_MSG3="Упэўніцеся, што ён не перавышае 650 Мбайт у выпадку"
+wav_a_cd_MSG4="калі вы выкарыстоўваеце 80-хвілінны CD."
+wav_a_cd_MSG5="Увядзіце шлях да каталога файлаў .wav"
+wav_a_cd_MSG6="працуе"
+wav_a_cd_MSG7="ПРАЦЭС ЗАВЕРШЭНЫ!"
+
+# cdmixto
+
+cdmixto_MSG1="Праект стварэння CD-Mixto (выява даных .iso + аўдыяфайлы .wav)"
+cdmixto_MSG2="Linux-cdgrab не будзе правяраць памер каталога"
+cdmixto_MSG3="дзе знаходзяцца аўдыяфайлы."
+cdmixto_MSG4="Гэта таксама не будзе зроблена з выявы .iso, якую вы збіраецеся запісаць"
+cdmixto_MSG5="пасля."
+cdmixto_MSG6="Будзьце ў адпаведнасці з вашым памерам"
+cdmixto_MSG7="запісаць на новы кампакт-дыск."
+cdmixto_MSG8="Пазначце шлях да аўдыяфайлаў:"
+cdmixto_MSG9="Пазначце шлях да выявы ISO:"
+cdmixto_MSG10="######################################"
+cdmixto_MSG11="ЗАПІС МІКСАВАНАГА CD: ДАДЗЕНЫЯ + АЎДЫЁ"
+cdmixto_MSG12="працуе"
+cdmixto_MSG13="----MIXED-CD ПАСПЯХОВА СТВОРАНЫ-----!!"
+cdmixto_MSG14="----ПАМЫЛКА ПРЫ ЗАПІСЫ CD-МІКСА-------"
+
+# discoinfo
+
+discoinfo_MSG1="бег"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="Прасканаваны порт IDE/SCSI"
+cdrecord_scan_MSG1="Памылка сканавання порта IDE/SCSI"
+cdrecord_scan_MSG2="Cdrecord не знойдзены"

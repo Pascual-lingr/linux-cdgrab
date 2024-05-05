@@ -1,0 +1,21 @@
+беларускі
+
+Bieloruso. Belarusian.
+Experimental.
+
+Por estudio del comportamiento de los caracteres bielorusos en el shell.
+Contiene errores de significado en contexto o traducción propia.
+El shell debe tener soporte para los caracteres bielorusos, de los contrario
+este idioma no será funcional en el shell.
+Generado con Google Translate.
+
+By studying the behavior of Belarusian characters in the shell.
+Contains meaning errors in context or own translation.
+The shell must have support for Belarusian characters, otherwise
+this language will not be functional in the shell.
+Generated with Google Translate.
+
+Беларуская мова для linux-cdgrab.
+Эксперыментальны, створаны з дапамогай Google Translate.
+Pascual Martínez Cruz; pascual@hotmail.com
+

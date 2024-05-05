@@ -1,0 +1,15 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBelarusian/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Bieloruso para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="АПТЫЧНЫ ДЫСК ВЫКЛЮЧАН"
+expulsar_medio_MSG2="Памылка пры спробе выцягнуць дыск з прылады"
+expulsar_medio_MSG3="Увядзіце назву ўручную:"

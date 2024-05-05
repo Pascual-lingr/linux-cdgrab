@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBelarusian/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en bieloruso para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="СУМЕСЦІЛЬНАСЦЬ ВІДЭАПАВЕРТАЦЫІ BLU-RAY DISC"
+conv_video_BDVideo_MSG2="Пазначце шлях да відэафайла для пераўтварэння:"
+conv_video_BDVideo_MSG3="Пазначце імя файла новага відэа для стварэння:"
+conv_video_BDVideo_MSG4="Відэафайл ператвораны паспяхова!!"
+conv_video_BDVideo_MSG5="Памылка пераўтварэння відэафайла"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="ПЕРАТВОРЭННЕ ВІДЭАФАЙЛОЎ"
+conv_VideoFich_MSG2="Вызначце відэафайл для пераўтварэння:"
+conv_VideoFich_MSG3="Вызначце відэафайл для стварэння:"
+conv_VideoFich_MSG4="ПЕРАТВОРЭННЕ ВІДЭАФАЙЛА ЗАВЕРШЭНА"
+conv_VideoFich_MSG5="ПАМЫЛКА ПРЫ ПЕРАТВАРЭННІ ВІДЭАФАЙЛА"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Пазначце відэафайл:"
+extrae_Audio_de_Video_MSG2="Вызначце гукавы файл mp3 для стварэння:"
+extrae_Audio_de_Video_MSG3="ПАСПЯХОВАЕ ВЫЯВЛЕННЕ ГУКУ"
+extrae_Audio_de_Video_MSG4="ПАМЫЛКА ПРЫ ВЫДАВАННІ ГУКУ"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Пазначце відэафайл:"
+extrae_Fragmento_Video_MSG2="Вызначце відэафайл для стварэння:"
+extrae_Fragmento_Video_MSG3="Пазначце пачатковы час (Пазначце як ГГ:ХМ:СС) :"
+extrae_Fragmento_Video_MSG4="Пазначце час заканчэння (Пазначце як ГГ:ХХ:СС) :"
+extrae_Fragmento_Video_MSG5="ВІДЭА ПАСПЯХОВА АБРОЗАНА"
+extrae_Fragmento_Video_MSG6="ПАМЫЛКА ПРЫ АБРАЗАННІ ВІДЭА"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Пазначце гукавы файл:"
+mezcla_Audio_Video_MSG2="Пазначце відэафайл:"
+mezcla_Audio_Video_MSG3="Вызначце відэафайл для стварэння:"
+mezcla_Audio_Video_MSG4="НОВЫ ВІДЭАФАЙЛ ПАСПЯХОВА СТВОРАНЫ"
+mezcla_Audio_Video_MSG5="ПАМЫЛКА СТВАРЫВАННЯ ВІДЭАФАЙЛА"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="ВАРЫЯНТ НЕДАСТУПНЫ ДЛЯ ІНТЕРФЭЙСУ КАНСОЛІ"
+graba_escritorio_MSG2="-- ЗАПІС СЕАНСА НА НАСТОЛЬНЫМ ПАСТОРЫ - НАЦІСНІЦЕ CTRL + C, КАБ АДМЕНІЦЬ І СПЫНІЦЬ ЗАПІС"
+graba_escritorio_MSG3="ЗАПІС ВІДЭА ЗАВЕРШАНА"
+

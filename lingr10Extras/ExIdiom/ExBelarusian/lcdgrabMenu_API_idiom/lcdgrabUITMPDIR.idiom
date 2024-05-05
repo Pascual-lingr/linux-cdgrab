@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBelarusian/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Bieloruso para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Файлы ў /tmp"
+dir_tmp_MSG2="Выдаліць усе выявы і сціснутыя файлы"
+dir_tmp_MSG3="Запусціць файлавы менеджэр для іншых аперацый"
+dir_tmp_MSG4="Устанавіць або размантаваць выяву"
+dir_tmp_MSG5="Паказаць меню стварэння выявы"
+dir_tmp_MSG6="Паказаць параметры запісу выявы"
+dir_tmp_MSG7="Папярэдняе меню"
+dir_tmp_MSG8="СПІС ІСНАЮЧЫХ ФАЙЛОЎ У"
+dir_tmp_MSG9="ВЫБРАЦЬ ВАРЫЯНТ:"
+dir_tmp_MSG10="ВЫДАЛЕНЫЯ ВЫЯВЫ І ФАЙЛЫ"
+dir_tmp_MSG11="Змантаваць вобраз."
+dir_tmp_MSG12="Размантаваць вобраз."
+dir_tmp_MSG13="Запісаць вобраз на CD"
+dir_tmp_MSG14="Запісаць выяву на DVD"
+dir_tmp_MSG14B="Запісаць выяву на BD"
+dir_tmp_MSG15="Абярыце варыянт у адпаведнасці з носьбітам запісу"
+dir_tmp_MSG16="ФАЙЛ НЕ ЗНОЙДЗЕНЫ ФАЙЛ КАНФІГУРАЦЫІ"
+dir_tmp_MSG17="Спыненне працэсу запісу"
+dir_tmp_MSG18="Пазначце файл .iso для запісу"
+dir_tmp_MSG19="Увядзіце шлях да выявы: "
+

@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBelarusian/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en bieloruso para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="ПЕРАТВОРЭННЕ АЎДЫЯ"
+menu_conversion_audio_MSG2="---------- ПЕРАТВОРЭННЕ ПАМІЖ ФАРМАТАМІ -----------"
+menu_conversion_audio_MSG3="Пераўтварыць .mp3 у .wav"
+menu_conversion_audio_MSG4="Пераўтварыць .ogg у .wav"
+menu_conversion_audio_MSG5="Пераўтварыць .wav у .mp3"
+menu_conversion_audio_MSG6="Пераўтварыць .wav у .ogg"
+menu_conversion_audio_MSG6C="Пераўтварыць .wav у .flac"
+menu_conversion_audio_MSG6B="Пераўтварыць .flac у .wav"
+menu_conversion_audio_MSG7="------------- ВЫЯВЛЕННЕ АЎДЫЯДРОЖКАЎ --------------"
+menu_conversion_audio_MSG8="Капіяваць аўдыядыск у .wav"
+menu_conversion_audio_MSG9="Капіяваць набор гукавых дарожак у .wav"
+menu_conversion_audio_MSG10="Капіяваць аўдыядыск у .mp3"
+menu_conversion_audio_MSG11="Капіяваць аўдыядыск у .ogg"
+menu_conversion_audio_MSG0="Папярэдняе меню"
+menu_conversion_audio_MSG12="Пошук файлаў .mp3"
+menu_conversion_audio_MSG13="Пошук файлаў .ogg"
+menu_conversion_audio_MSG14="Пошук файлаў .wav"
+menu_conversion_audio_MSG15="---------------- ІНШЫЯ АПЕРАЦЫІ -------------------"
+menu_conversion_audio_MSG16="Выразаць гукавы файл .wav"
+menu_conversion_audio_MSG17="Капіяваць аўдыядыск у .flac"
+
