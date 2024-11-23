@@ -1,0 +1,25 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKazakh/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en Kazajo para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="ВИДЕО КОНВЕРСИЯСЫ"
+menu_conversion_video_MSG2="------------ ФОРМАТТАР АРАСЫНДА ТҰРЫЛУ -----------"
+menu_conversion_video_MSG3="Бейнені Smart-TV үйлесімді Blu Ray дискісіне түрлендіру"
+menu_conversion_video_MSG4="Түрлендіруге арналған бейне файл:"
+menu_conversion_video_MSG0="Алдыңғы мәзір"
+menu_conversion_video_MSG6="Жұмыс үстелінің сеансын жазу"
+menu_conversion_video_MSG7="Бейне файлды басқа форматқа түрлендіру"
+menu_conversion_video_MSG8="----------------- БАСҚА ОПЦИЯЛАР -----------------"
+menu_conversion_video_MSG9="Бейне файлды аудио файлмен араластыру"
+menu_conversion_video_MSG10="Бейне файлынан MP3 дыбысын шығару"
+menu_conversion_video_MSG11="Бейне файлын кесу"
+
+

@@ -1,0 +1,234 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en Tibetano para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="པར་རིས་ཡིག་ཆའི་མ་ལག"
+imagen_linux_fs_MSG2="ཡིག་ཆའི་མ་ལག་འདེམས།"
+imagen_linux_fs_MSG3="CD-R/RW (702 Mbytes) ཞིག་གི་ཆེད་དུ་པར་རིས་གསར་བཟོ།"
+imagen_linux_fs_MSG4="DVD+RW (4 Gbytes) ཞིག་གི་ཆེད་དུ་པར་རིས་གསར་བཟོ།"
+imagen_linux_fs_MSG5="DVD+RW/DL (Gbytes 8) ཞིག་གི་ཆེད་དུ་པར་རིས་གསར་བཟོ།"
+imagen_linux_fs_MSG5B="BD-R/RE (Gbytes 25) ཞིག་གི་ཆེད་དུ་པར་རིས་གསར་བཟོ།"
+imagen_linux_fs_MSG5C="རང་མོས་ཆེ་ཆུང་ལྡན་པའི་པར་རིས་ཡིག་ཆ་གསར་བཟོ།"
+imagen_linux_fs_MSG6="ཤོང་ཚད་702Mbytesཡོད་པའི་ཡིག་ཆ་སྟོང་པ་གསར་བཟོ་བྱེད་བཞིན་པ།"
+imagen_linux_fs_MSG7="Gbytes ༤ ཤོང་ཚད་ཡོད་པའི་ཡིག་ཆ་སྟོང་པ་གསར་བཟོ་བྱེད་བཞིན་པ།"
+imagen_linux_fs_MSG8="Gbytes ༨ ཤོང་ཚད་ཡོད་པའི་ཡིག་ཆ་སྟོང་པ་གསར་བཟོ་བྱེད་བཞིན་པ།"
+imagen_linux_fs_MSG8B="Gbytes 25 ཤོང་ཚད་ཡོད་པའི་ཡིག་ཆ་སྟོང་པ་གསར་བཟོ་བྱེད་པ།"
+imagen_linux_fs_MSG8C="སྒྲིག་བཀོད་ཀྱི་ཚད་གཞི་ཡོད་པའི་ཡིག་ཆ་སྟོང་པ་གསར་བཟོ་བྱེད་པ།"
+imagen_linux_fs_MSG9="ནོར་འཁྲུལ། པར་རིས་ཀྱི་ཆེ་ཆུང་མི་ཤེས། མཚམས་འཇོག་བྱེད་བཞིན་ཡོད།"
+imagen_linux_fs_MSG10="གཡོག་བཞིན་ཡོད།"
+imagen_linux_fs_MSG11="ལས་རིམ་གྱིས་ཡིག་ཆ་སྟོང་པ་རྩ་སྒྲིག་བྱེད།"
+imagen_linux_fs_MSG12="མ་ལག་གིས་ཁྱེད་ལ་སྔོན་ལ་བཟོས་ཟིན་པའི་ཡིག་ཚགས་དེ་བཀག་སྡོམ་སྒྲིག་ཆས་མིན་པའི་ཉེན་བརྡ་བཏང་ནས་དེ་རྩ་སྒྲིག་བྱེད་དགོས་མིན་འདྲི་རྒྱུ་ཡིན།"
+imagen_linux_fs_MSG13="ལན་ཡོད་རེད།"
+imagen_linux_fs_MSG13="མཐར་ཕྱིན་ངང་གྲུབ་ཡོད།"
+imagen_linux_fs_MSG14=" པར་རིས་སྒྲིག་འཇུག་བྱེད་པ། . . ."
+imagen_linux_fs_MSG15="ཡིག་ཆ་སྟོང་པ་རྩ་སྒྲིག་བྱེད་སྐབས་ནོར་འཁྲུལ།"
+imagen_linux_fs_MSG16="ལས་རིམ་གྱིས་ནང་དུ་རྩ་སྒྲིག་བྱས་པའི་ཡིག་ཆ་སྒྲིག་འཇུག་བྱས་ཟིན།"
+imagen_linux_fs_MSG17="Linux-cdgrab ཡིས་ཡིག་ཆ་འཛིན་སྐྱོང་པ་འགོ་འཛུགས་བྱས་ཏེ་དེས་སྒྲིག་སྦྱོར་བྱས་པའི་པར་རིས་ཐོག་བཀོལ་སྤྱོད་བྱེད་ཐུབ།"
+imagen_linux_fs_MSG18="ཡིག་ཆ་རྣམས་འདྲ་བཤུས་བྱས་ཚར་རྗེས་རྩ་སྒྲིག་བྱས་པའི་ཡིག་ཆ་དེ་སྒྲིག་འཇུག་མེད་པར་བཟོས།"
+imagen_linux_fs_MSG19="ལི་ནགསི་གཟུགས་བརྙན་དེ་སྣོད་ཐོ་འདིའི་ནང་ཡོད།"
+imagen_linux_fs_MSG19B="པར་རིས་ཡིག་ཆ་སྒྲིག་སྦྱོར་བྱེད་སྐབས་ནོར་འཁྲུལ།"
+imagen_linux_fs_MSG20="པར་རིས་ནང་ཚུད་པའི་ཡིག་ཆ། /mnt/lcdgrab ནང་སྒྲིག་འཇུག་བྱས་ཡོད།"
+imagen_linux_fs_MSG21="ཡིག་ཆའི་དོ་དམ་འགོ་འཛུགས་བྱེད་བཞིན་པ།"
+imagen_linux_fs_MSG22="བརྡ་ཐོ།"
+imagen_linux_fs_MSG23="------"
+imagen_linux_fs_MSG24="གཟུགས་བརྙན་དེ།"
+imagen_linux_fs_MSG25="ད་དུང་སྒྲིག་སྦྱོར་བྱས་ཡོད།"
+imagen_linux_fs_MSG26="dd དང་མཉམ་དུ་ཡིག་ཆ་སྟོང་པ་གསར་བཟོ་བྱེད་སྐབས་ནོར་འཁྲུལ།"
+imagen_linux_fs_MSG27="ཁྱེད་རང་ལ་ / ལ་སྒྲིག་འཇུག་བྱས་པའི་བར་བཅད་ཐོག་བར་སྟོང་སྟོང་པ་ཡོད་མེད་ཞིབ་བཤེར་བྱོས།"
+imagen_linux_fs_MSG34="ཡིག་ཆའི་མ་ལག་ལ་ཡིག་ཆའི་རྣམ་གཞག"
+imagen_linux_fs_MSG35="རང་སྒྲིག་ཚད་དང་བཅས་པའི་ཡིག་ཆ་སྟོང་པ་གསར་བཟོ།"
+imagen_linux_fs_MSG36="ཡིག་ཆ་སྟོང་པ་གསར་པའི་སྡེབ་ཚད་གཏན་འཁེལ་བྱེད་(ཨང་གྲངས་ཀྱི་རིན་ཐང་ཁོ་ན)།"
+imagen_linux_fs_MSG37="སྡེབ་ཚན་གྱི་ཚད་ཀྱི་རིན་ཐང་གི་དཔེ་ནི་: 1024, 2048 (Ext2 ཁོ་ན) ཡང་ན་ 4096 (རྩ་སྒྲིག་ཚང་མ) ཡིན།"
+imagen_linux_fs_MSG38="བཟོ་བསྐྲུན་བྱེད་པའི་ཡིག་ཆ་སྟོང་པའི་ཆེ་ཆུང་གཏན་འཁེལ་བྱེད་ (ཨང་གྲངས་ཀྱི་རིན་ཐང་ཁོ་ན)།"
+imagen_linux_fs_MSG39="ཡིག་ཆ་སྟོང་པ་བཟོ་བའི་བར་སྟོང་གི་ཚད་གཞི།"
+imagen_linux_fs_MSG40="བེད་སྤྱོད་གཏོང་རྒྱུའི་བར་སྟོང་ཚད་གཞི་གཏན་འཁེལ་བྱོས།"
+imagen_linux_fs_MSG41="ཆེ་ཆུང་ཚད་འཇལ་བྱེད་སྐབས་ནོར་འཁྲུལ།"
+imagen_linux_fs_MSG42="སྡེབ་ཚད་ཀྱི་རིན་ཐང་།"
+imagen_linux_fs_MSG43="ཡིག་ཆ་སྟོང་པའི་བར་སྟོང་གི་ཚད་གཞི།"
+imagen_linux_fs_MSG44="བའིཊི་ནང་རྩིས་རྒྱག་པའི་རིན་ཐང་།"
+imagen_linux_fs_MSG45="གྲངས་འབོར་གྱི་རྩིས་རྒྱག་རིན་ཐང་།"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1=".iso གཟུགས་བརྙན་བཟོ་སྐབས་ md5 ཀློག་ནུས་ཅན་བཟོས།"
+comprobar_lectura_md5_MSG2=".iso གཟུགས་བརྙན་བཟོ་སྐབས་ md5 ཀློག་ཐབས་མེད་པར་བཟོས།"
+comprobar_lectura_md5_MSG3="དཀར་ཆག་སྔོན་མ།"
+comprobar_lectura_md5_MSG4="ད་ལྟའི་སྒྲིག་བཀོད།"
+comprobar_lectura_md5_MSG5="ལྕོགས་ཅན་བཟོས་ཡོད།"
+comprobar_lectura_md5_MSG6="ལྕོགས་མིན་བཟོས་ཡོད།"
+comprobar_lectura_md5_MSG7="ཀློག་པའི་md5བསྡོམས་རྩིས་ཤུགས་ལྡན་བཟོས་ཡོད།"
+comprobar_lectura_md5_MSG8="ཀློག་གྲངས་ md5 ལྕོགས་མིན་བཟོས་ཡོད།"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="iso གཟུགས་བརྙན་གྱི་མིང་ཀློག་ཐུབ་མ་སོང་།"
+leer_md5sum_MSG2="དེའི་ md5sum ཀློག་བཞིན་པ།"
+leer_md5sum_MSG3="པར་རིས་ཀྱི་md5བསྡོམས་རྩིས་སྟོན་བཞིན་ཡོད།"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="སི་ཌི་གཟུགས་བརྙན་གསར་བཟོ།"
+extraer_isoCD_dd_MSG2="པར་རིས་ནང་དུ་བཟོས་ཡོད།"
+extraer_isoCD_dd_MSG3="མ་རྙེད།"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="DVD པར་རིས་གསར་བཟོ།"
+extraer_isoDVD_dd_MSG2="གཡོག་བཞིན་ཡོད།"
+extraer_isoDVD_dd_MSG3="པར་རིས་ནང་དུ་བཟོས་ཡོད།"
+extraer_isoDVD_dd_MSG4="མ་རྙེད།"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="གཡོག་བཞིན་ཡོད།"
+extraer_iso_readcd_MSG2="པར་རིས་ལེགས་འགྲུབ་ངང་གསར་བཟོ་བྱས།"
+extraer_iso_readcd_MSG3="པར་རིས་ནང་བཟོས་ཡོད།"
+extraer_iso_readcd_MSG4="སྒྲ་འཇུག་བྱ་རིམ་མཚམས་འཇོག་བྱེད་པ།"
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="སྒྲིག་འཇུག་བྱས་པའི་སི་ཌི།"
+extraer_iso_mkisofs_MSG2="པར་རིས་གསར་བཟོ་བྱེད་བཞིན་ཡོད།"
+extraer_iso_mkisofs_MSG3="མེ་ཀིན་ཊོཤ་མཉམ་མཐུན་ལྕོགས་ཅན་བཟོས།"
+extraer_iso_mkisofs_MSG4="བེད་སྤྱོད།"
+extraer_iso_mkisofs_MSG5="གཡོག་བཞིན་ཡོད།"
+extraer_iso_mkisofs_MSG6="སྣོད་ཐོའི་ནང་བཟོས་པའི་གཟུགས་བརྙན།"
+extraer_iso_mkisofs_MSG7="མེ་ཀིན་ཊོཤ་རྒྱབ་སྐྱོར་མེད་པའི་བརྒྱུད་རིམ་བསྐྱར་དུ་ཚོད་ལྟ་བྱེད་བཞིན་པ།"
+extraer_iso_mkisofs_MSG8="སྣོད་ཐོའི་ནང་བཟོས་པའི་པར་རིས།"
+extraer_iso_mkisofs_MSG9="mkisofs གིས་གསར་བཟོ་བྱེད་སྐབས་མི་ཤེས་པའི་ནོར་འཁྲུལ་སླར་ལོག་བྱེད།"
+extraer_iso_mkisofs_MSG10="ནས"
+extraer_iso_mkisofs_MSG11=གཞི་གྲངས་ཆ་ཚང་ལ་ཞིབ་བཤེར་བྱེད་པ།
+extraer_iso_mkisofs_MSG12="བསྒྲིགས་བཞིན་པ།"
+extraer_iso_mkisofs_MSG12B="ནང་"
+extraer_iso_mkisofs_MSG13="ཇེ་ནིས་གཟུགས་བརྙན་གསར་བཟོ་བྱེད་སྐབས་མི་ཤེས་པའི་ནོར་འཁྲུལ་སླར་ལོག་བྱེད།"
+extraer_iso_mkisofs_MSG13B="ནས"
+extraer_iso_mkisofs_MSG14="mkisofs དང་ genisoimage མ་རྙེད། cdrtools ཡང་ན་ cdrkit སྒྲིག་འཇུག་བྱེད་རོགས།"
+extraer_iso_mkisofs_MSG15="སྒྲིག་འཇུག་བྱེད་མ་ཐུབ།"
+extraer_iso_mkisofs_MSG16="པར་རིས་འདི་ལེགས་འགྲུབ་ངང་གསར་བཟོ་བྱས་ཡོད།"
+
+# m_comp_img
+
+m_comp_img_MSG1="པར་རིས་ལེགས་འགྲུབ་བྱུང་བའི་ནང་།"
+m_comp_img_MSG2="ཁྱོད་ཀྱིས་གཟུགས་བརྙན་ཡིག་ཆ་དེ་གནོན་འཇུག་བྱེད་འདོད་དམ།"
+m_comp_img_MSG3="(s/y) བསྡམས་པར་; བྱ་རིམ་དེ་གདམ་ཁ་གཞན་ཞིག་དང་མཉམ་དུ་ཆ་མེད་དུ་བཏང་ཡོད།"
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="ཡིག་ཆའི་དོ་དམ་འགོ་འཛུགས་བྱེད་བཞིན་པ།"
+generar_iso_directorio_MSG2="མ་འོངས་པའི་CD/DVD/BD ལ་མིང་བླུགས།"
+generar_iso_directorio_MSG3="པར་རིས་གསར་བཟོ།"
+generar_iso_directorio_MSG4="མེ་ཀིན་ཊོཤ་མཐུན་འགྱུར་ལྕོགས་ཅན་བཟོས་ཡོད།"
+generar_iso_directorio_MSG5="བེད་སྤྱོད།"
+generar_iso_directorio_MSG6="གཡོག་བཞིན་ཡོད།"
+generar_iso_directorio_MSG7="དཀར་ཆག་ནང་བཟོས་པའི་པར་རིས།"
+generar_iso_directorio_MSG8="པར་རིས་གསར་བཟོའི་བརྒྱུད་རིམ་འཐུས་ཤོར་ཕྱིན་འདུག"
+generar_iso_directorio_MSG9="MACINTOSH མཉམ་མཐུན་མེད་པའི་པར་རིས་གསར་བཟོ།"
+generar_iso_directorio_MSG10="Mkisofs དང་ genisoimage མ་རྙེད། སྐུ་མཁྱེན། cdrtools ཡང་ན་ cdrkit སྒྲིག་འཇུག་བྱེད་རོགས།"
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="མ་འོངས་པའི་DVD/BD ལ་མིང་བླུགས།"
+generar_bdv_udf_directorio_MSG2="བརྙན་རིས་ཀྱི་གཟུགས་བརྙན་གསར་སྐྲུན་བྱེད་པའི་སྣོད་ཐོ་གཏན་འཁེལ་བྱོས།"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="ཌིསིཀ་མིང་བྱང་གཏན་འཁེལ་བྱོས།"
+generar_iso_directorio_libburnia_MSG2="iso-9660 གཟུགས་བརྙན་བཟོ་བསྐྲུན་བྱེད་པའི་སྣོད་ཐོ་གཏན་འཁེལ་བྱོས།"
+generar_iso_directorio_libburnia_MSG3="ISO9660 པར་རིས་ལེགས་འགྲུབ་བྱུང་ནས་གསར་བཟོ་བྱས།"
+generar_iso_directorio_libburnia_MSG4="xorriso དང་མཉམ་དུ་ iso-9660 པར་རིས་གསར་བཟོ་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+# imagenISO
+
+imagenISO_MSG1="ཡིག་ཚགས་དང་སྣོད་ཐོ། .iso གཟུགས་བརྙན་ནང་འཇུག་དགོས།"
+imagenISO_MSG2="གདམ་ག་ཞིག་འདེམས།"
+imagenISO_MSG2B="----------"
+imagenISO_MSG3="སི་ཌི་ནས་ISO-9660པར་རིས་གསར་བཟོ་བྱེད་པ།(ddབེད་སྤྱོད་བྱེད་པ།)"
+imagenISO_MSG4="DVD ནང་ནས་ ISO-9660 འདྲ་པར་བསྐྲུན་(dd བེད་སྤྱོད་བྱེད་པ)"
+imagenISO_MSG5="སི་ཌི་ནས་ISO-9660འདྲ་པར་བསྐྲུན་(readcdབེད་སྤྱོད་)"
+imagenISO_MSG6="CD ཡང་ན་DVD སྡེབ་སྡེར་ནས་ ISO-9660 གཟུགས་བརྙན་བསྐྲུན་(mkisofs བེད་སྤྱོད་བྱེད་)"
+imagenISO_MSG7="སྲ་སྡེར་གཞི་གྲངས་ལས་ISO-9660པར་རིས་གསར་བཟོ་བྱེད་(mkisofsབེད་སྤྱོད་བྱེད་པ)"
+imagenISO_MSG8="སྔོན་གྱི་དཀར་ཆག"།
+imagenISO_MSG9="གཟུགས་བརྙན་གསར་བཟོ།"
+imagenISO_MSG10="སྲ་སྡེར་གཞི་གྲངས་ལས་ISO-9660པར་རིས་གསར་བཟོ་བྱེད་(xorrisoབེད་སྤྱོད་བྱེད་པ)"
+imagenISO_MSG11="སི་ཌི་/ཌི་ཝི་ཌི་/བི་ཌི་(mkisofs བེད་སྤྱོད་)ནས་ iso/udf པར་རིས་གསར་བཟོ་བྱེད།"
+imagenISO_MSG12="སྲ་སྡེར་གཞི་གྲངས་ལས་ iso/udf པར་རིས་གསར་བཟོ་བྱེད་པ། (mkisofs བེད་སྤྱོད་བྱེད་པ།)"
+imagenISO_MSG13="ISO-9660རྩ་སྒྲིག་དཀར་ཆག"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="སྲ་སྡེར་གཞི་གྲངས་ལས་UDF/ISOཔར་རིས་གསར་བཟོ་བྱེད་(mkisofsབེད་སྤྱོད་)"
+imagenISO_MSG15="DVD བརྙན་རིས་རྒྱབ་སྐྱོར་ཡོད་པའི་ UDF/ISO པར་རིས་གསར་བཟོ(mkisofsབེད་སྤྱོད་)"
+
+# imagen_img
+
+imagen_img_MSG1="པར་རིས་དེ་བཟོ་དགོས་པའི་འབྱུང་ཁུངས་བཀག་སྡོམ་གྱི་ཡོ་ཆས་ཡིག་དཔར་རྐྱབས།"
+imagen_img_MSG2="---------------------------------"
+imagen_img_MSG3="/etc/fstab དང་ /etc/mtab ནང་ཐོ་འགོད་བྱས་པའི་ཡོ་ཆས།"
+imagen_img_MSG4="སྦྱར་བརྩེགས་བཀའ་ཚིག་འཐོན་འབྲས།"
+imagen_img_MSG5="སྒྲིག་ཆས་ཀྱི་མིང་བླུགས། "
+imagen_img_MSG6="བཀག་སྡོམ་སྒྲིག་ཆས་ཀྱི་ .img པར་རིས་གསར་བཟོ་བྱེད་བཞིན་པ།"
+imagen_img_MSG7="རྒྱུག་བཞིན་ཡོད།"
+imagen_img_MSG8="ཡོ་བྱད་ཀྱི་པར་རིས་ནང་དུ་བཟོས་ཡོད།"
+
+# monta_img
+
+monta_img_MSG1="ISO ཡང་ན་ ext2 བརྙན་རིས་སྒྲིག་འཇུག་བྱ་དགོས།"
+monta_img_MSG2="བརྙན་རིས་སྒྲིག་འཇུག་བྱ་སའི་སྣོད་ཐོའི་འགྲོ་ལམ་ཡིག་དཔར་རྐྱབས།"
+monta_img_MSG3="བསྒྲིགས་ཟིན་པའི་སི་ཌི་པར་རིས།"
+monta_img_MSG4="པར་རིས་ཡིག་ཆ་སྒྲིག་སྦྱོར་བྱེད་སྐབས་ནོར་འཁྲུལ།"
+monta_img_MSG5="མ་རྙེད།"
+monta_img_MSG6="སྦྱར་ས་གནས་མེད།"
+monta_img_MSG7="བསམ་ཡུལ་ལས་འདས་པའི་ནོར་འཁྲུལ།"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO ཡང་ན་ ext2 གཟུགས་བརྙན་བཤོལ་དགོས།"
+desmonta_img_MSG2="བསྒྲིགས་པའི་པར་རིས།"
+desmonta_img_MSG3="བསྒྲིགས་ཡོད་པའི་པར་རིས་མ་རྙེད།"
+desmonta_img_MSG4="ཐོན་འབྲས་སྦྱར་བརྩེགས།"
+desmonta_img_MSG5="ཁྱེད་ཀྱིས་ཐད་ཀར་པར་རིས་ཤིག་གི་ངེས་གཏན་སྣོད་ཐོའི་འགྲོ་ལམ་གཏན་འཁེལ་བྱེད་ཐུབ།"
+desmonta_img_MSG6="དཔེར་ན། /tmp/lcdgrabimg.iso ཡང་ན་ /mnt/lcdgrab ལྟ་བུའི་པར་རིས་ཀྱི་སྒྲིག་འཇུག་སྣོད་ཐོ།"
+desmonta_img_MSG7="གཏན་འཁེལ་བྱས་མེད་ན་ཡིག་ཚགས་འཛིན་སྐྱོང་སྤྱད་ནས་འཚོལ་བཤེར་བྱེད་ཐུབ།"
+desmonta_img_MSG8="ཡིག་ཆ་འཛིན་སྐྱོང་འགོ་འཛུགས་བྱེད་བཞིན་པ།"
+desmonta_img_MSG9="པར་རིས་ཀྱི་འགྲོ་ལམ་གཏན་འཁེལ་བྱེད།"
+desmonta_img_MSG10="བསྒྲིགས་པའི་པར་རིས།"
+desmonta_img_MSG11="གཟུགས་བརྙན་བསྒྲིགས་བཤོལ་བྱེད་སྐབས་ནོར་འཁྲུལ།"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg གཟུགས་བརྙན་དེ་ .iso ལ་བསྒྱུར།"
+nrg_a_iso_MSG2="བརྗེ་སྒྱུར་བྱ་བའི་ .nrg (Nero Burning ROM) གཟུགས་བརྙན་གྱི་འགྲོ་ལམ་བླུགས།"
+nrg_a_iso_MSG3="གཟུགས་བརྙན་བརྗེ་སྒྱུར།"
+nrg_a_iso_MSG4="ཁུངས་ .nrg གཟུགས་བརྙན་གྱི་འགྲོ་ལམ།"
+nrg_a_iso_MSG5="གནས་མེད་པའམ་སྣོད་ཐོ་ཞིག་དང་མཐུན།"
+nrg_a_iso_MSG6="འགྲོ་ལམ་ནུས་མེད་ཡིན།"
+nrg_a_iso_MSG7="དེ་ནི་སྔོན་གྱི་ ISO-9660 པར་རིས་ཤིག་ཡིན་པས་དེ་བསྒྱུར་མི་སྲིད།"
+nrg_a_iso_MSG8="རྒྱ་བསྐྱེད་མི་འདྲ་བའི་འདྲ་བཤུས་བྱེད་པ།"
+nrg_a_iso_MSG9="འདྲ་བཤུས་མཇུག་སྒྲིལ་ཟིན།"
+nrg_a_iso_MSG10="རྒྱུག་བཞིན་ཡོད།"
+nrg_a_iso_MSG11="གཟུགས་བརྙན་བདེ་བླག་ངང་བསྒྱུར་ཐུབ་པ་བྱུང་།"
+nrg_a_iso_MSG12="པར་རིས་ .iso གསར་བཟོ་བྱེད་སྐབས་ནོར་འཁྲུལ།"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1=".bin གཟུགས་བརྙན་ལས་ .cue གསལ་བཤད་ཡིག་ཆ་གསར་སྐྲུན་བྱེད།"
+GenerarArchivocue_MSG2="མིག་སྔའི་ཤུགས་ལྡན་སྣོད་ཐོ།"
+GenerarArchivocue_MSG3="སྣོད་ཐོའི་འགྲོ་ལམ་ཁོ་ན་གང་དུ་བྲིས།"
+GenerarArchivocue_MSG4="པར་རིས་ཡིག་ཆ་འཚོལ་བ།"
+GenerarArchivocue_MSG5="གང་ལ་ .bin གཟུགས་བརྙན་གྱི་མིང་བླུགས།"
+GenerarArchivocue_MSG6="དེ་དང་བསྟུན་པའི་.cueཡིག་ཆ་བཟོས་ཡོད།"
+GenerarArchivocue_MSG7="འགྲེལ་བརྗོད་ཡིག་ཆ་ .cue ལེགས་འགྲུབ་བྱུང་།"
+GenerarArchivocue_MSG8="འགྲེལ་བརྗོད་ཡིག་ཆ་ .cue བསྐྲུན་སྐབས་ནོར་འཁྲུལ།"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="གཡོག་བཞིན་པ།"
+ImagenbincueCDDVD_MSG2="ཌིསིཀ་པར་རིས། BIN .CUE ལེགས་འགྲུབ་བྱུང་།"
+

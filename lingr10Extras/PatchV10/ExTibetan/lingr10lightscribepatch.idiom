@@ -1,0 +1,31 @@
+# Idioma Tibetano para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="མུ་མཐུད་དུ་འགྲོ་བར། ENTER མནན་དགོས།"
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="=============================="
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 འོད་ཡིག་འབྲི་མཁན་གྱི་རྒྱབ་སྐྱོར།"
+cabecera_lightscribe_MSG3="=============================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="ཁྱེད་ཀྱིས་ཌིསིཀ་ལ་པར་སྐྲུན་བྱེད་འདོད་པའི་པར་རིས་ཀྱི་འགྲོ་ལམ་ཡིག་དཔར་རྐྱབས།"
+imprimir_disco_lightscribe_MSG2="པར་རིས་ཀྱི་རྣམ་གཞག་དེ་ .bmp ཡིན་དགོས།"
+imprimir_disco_lightscribe_MSG3="གཡོག་བཞིན་ཡོད།"
+imprimir_disco_lightscribe_MSG4="དཀར་ཆག་སྟེང་དཔར་བའི་མིང་བྱང་།"
+imprimir_disco_lightscribe_MSG5="ཌིསིཀ་ལ་མཚོན་རྟགས་པར་སྐྲུན་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="ལའེ་ཊི་སི་ཀྲིབ་ལག་རྩལ་དེ་ཆ་ཤས་ཁ་ཤས་ལ་མ་གཏོགས་མེད།"
+lingr10lightscribepatch_MSG2="ཁྱེད་རང་གི་སྒྲ་ཕབ་འཕྲུལ་ཆས་ལ་དེ་ཡོད་མེད་བརྟག་དཔྱད་བྱེད་དགོས།"
+lingr10lightscribepatch_MSG3="དེ་དང་འདྲ་བར། ལའེ་ཊི་སི་ཀྲིབ་ལ་དམིགས་བསལ་གྱི་སི་ཌི་ཡང་ན་ཌི་ཝི་ཌི་ཁོ་ནར་མཚོན་རྟགས་བཀོད་ཆོག"
+lingr10lightscribepatch_MSG4="ལའེ་ཊི་སི་ཀྲིབ་སྡེར་མ་ཞིག་པར་སྐྲུན་བྱེད།"
+lingr10lightscribepatch_MSG5="དཀར་ཆག་སྔོན་མ།"
+lingr10lightscribepatch_MSG6="ནུས་མེད་གདམ་ག།"

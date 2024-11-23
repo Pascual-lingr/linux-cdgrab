@@ -1,0 +1,233 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovak/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en eslovaco para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="SYSTÉM OBRÁZKOVÝCH SÚBOROV"
+imagen_linux_fs_MSG2="Vyberte súborový systém: "
+imagen_linux_fs_MSG3="Vytvoriť obraz pre CD-R/RW (702 Mbytes)"
+imagen_linux_fs_MSG4="Vytvoriť obraz pre DVD+RW (4 GB)"
+imagen_linux_fs_MSG5="Vytvoriť obraz pre DVD+RW/DL (8 GB)"
+imagen_linux_fs_MSG5B="Vytvoriť obrázok pre BD-R/RE (25 Gbajtov)"
+imagen_linux_fs_MSG5C="Vytvoriť obrazový súbor s vlastnou veľkosťou"
+imagen_linux_fs_MSG6="Vytváram prázdny súbor s kapacitou 702 MB"
+imagen_linux_fs_MSG7="Vytváram prázdny súbor s kapacitou 4 GB"
+imagen_linux_fs_MSG8="Vytváram prázdny súbor s kapacitou 8 GB"
+imagen_linux_fs_MSG8B="Vytváram prázdny súbor s kapacitou 25 GB"
+imagen_linux_fs_MSG8C="Vytváram prázdny súbor s vlastnou veľkosťou"
+imagen_linux_fs_MSG9="CHYBA: VEĽKOSŤ OBRÁZKA NIE JE ZNÁMA. PRERUŠÍ SA..."
+imagen_linux_fs_MSG10="Spustený"
+imagen_linux_fs_MSG11="Program naformátuje prázdny súbor."
+imagen_linux_fs_MSG12="Systém vás upozorní, že predtým vytvorený súbor nie je blokové zariadenie a spýta sa vás, či ho chcete naformátovať"
+imagen_linux_fs_MSG13="Odpoveď áno"
+imagen_linux_fs_MSG13="FORMÁTOVANIE ÚSPEŠNE"
+imagen_linux_fs_MSG14=" Pripája sa obraz . . ."
+imagen_linux_fs_MSG15="CHYBA PRI FORMÁTOVANÍ PRÁZDNÉHO SÚBORU"
+imagen_linux_fs_MSG16="Program pripojil súbor naformátovaný v"
+imagen_linux_fs_MSG17="Linux-cdgrab spustí správcu súborov, aby mohol pracovať s pripojeným obrazom"
+imagen_linux_fs_MSG18="Po skopírovaní súborov odpojte naformátovaný súbor"
+imagen_linux_fs_MSG19="Obrázok linuxu je v tomto adresári"
+imagen_linux_fs_MSG19B="CHYBA PRI PRIPOJOVANÍ OBRÁZKOVÉHO SÚBORU"
+imagen_linux_fs_MSG20="Súbory, ktoré sa majú zahrnúť do obrazu. Pripojené v /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Spúšťam správcu súborov..."
+imagen_linux_fs_MSG22="POZNÁMKA:"
+imagen_linux_fs_MSG23="---------"
+imagen_linux_fs_MSG24="Obrázok"
+imagen_linux_fs_MSG25="stále pripojené"
+imagen_linux_fs_MSG26="CHYBA PRI VYTVÁRANÍ PRÁZDNÉHO SÚBORU S dd"
+imagen_linux_fs_MSG27="Skontrolujte, či máte voľné miesto na oddiele pripojenom na /"
+imagen_linux_fs_MSG34="SÚBOROVÝ SYSTÉM NA FORMÁTOVANIE SÚBORU"
+imagen_linux_fs_MSG35="GENEROVANIE PRÁZDNÉHO SÚBORU S VLASTNOU VEĽKOSŤOU"
+imagen_linux_fs_MSG36="Určite veľkosť bloku nového prázdneho súboru (len číselná hodnota):"
+imagen_linux_fs_MSG37="Príklady hodnôt pre veľkosť bloku sú: 1024, 2048 (iba Ext2) alebo 4096 (všetky formáty)"
+imagen_linux_fs_MSG38="Určite veľkosť prázdneho súboru, ktorý sa má vygenerovať (iba číselná hodnota):"
+imagen_linux_fs_MSG39="Meranie priestoru na vygenerovanie prázdneho súboru:"
+imagen_linux_fs_MSG40="Určite mieru priestoru, ktorý sa má použiť: "
+imagen_linux_fs_MSG41="CHYBA PRI URČOVANÍ VEĽKOSTI"
+imagen_linux_fs_MSG42="Hodnota veľkosti bloku:"
+imagen_linux_fs_MSG43="Množstvo miesta pre prázdny súbor:"
+imagen_linux_fs_MSG44="Vypočítaná hodnota v bajtoch:"
+imagen_linux_fs_MSG45="Vypočítaná hodnota pre počet:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Povoliť čítanie md5 pri generovaní .iso obrázkov"
+comprobar_lectura_md5_MSG2="Zakázať čítanie md5 pri generovaní .iso obrázkov"
+comprobar_lectura_md5_MSG3="Predchádzajúca ponuka"
+comprobar_lectura_md5_MSG4="Aktuálna konfigurácia:"
+comprobar_lectura_md5_MSG5="Povolené"
+comprobar_lectura_md5_MSG6="Zakázané"
+comprobar_lectura_md5_MSG7="Čítanie sumy md5 aktivované"
+comprobar_lectura_md5_MSG8="Čítanie sumy md5 je zakázané"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Názov obrazu iso sa nepodarilo prečítať"
+leer_md5sum_MSG2="Čítam md5sum"
+leer_md5sum_MSG3="Zobrazuje sa súčet md5 obrázku"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="VYTVORÍ SA OBRAZ CD"
+extraer_isoCD_dd_MSG2="OBRÁZOK VYTVORENÝ V"
+extraer_isoCD_dd_MSG3="Nenájdené"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="VYTVORÍ SA OBRAZ DVD"
+extraer_isoDVD_dd_MSG2="beží"
+extraer_isoDVD_dd_MSG3="OBRÁZOK VYTVORENÝ V"
+extraer_isoDVD_dd_MSG4="Nenájdené"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="beží"
+extraer_iso_readcd_MSG2="OBRÁZOK ÚSPEŠNE VYTVORený"
+extraer_iso_readcd_MSG3="Obrázok vytvorený v"
+extraer_iso_readcd_MSG4="Prerušuje sa proces nahrávania..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Pripojené CD"
+extraer_iso_mkisofs_MSG2="Vytváram obrázok..."
+extraer_iso_mkisofs_MSG3="Povolená kompatibilita so systémom Macintosh"
+extraer_iso_mkisofs_MSG4="Používam"
+extraer_iso_mkisofs_MSG5="beh"
+extraer_iso_mkisofs_MSG6="Obrázok vytvorený v adresári"
+extraer_iso_mkisofs_MSG7="Opakovanie procesu bez podpory Macintosh"
+extraer_iso_mkisofs_MSG8="Obrázok vytvorený v adresári"
+extraer_iso_mkisofs_MSG9="mkisofs vracia neznáme chyby pri vytváraní"
+extraer_iso_mkisofs_MSG10="from"
+extraer_iso_mkisofs_MSG11="Skontrolovať integritu údajov"
+extraer_iso_mkisofs_MSG12="Montáž"
+extraer_iso_mkisofs_MSG12B="sk"
+extraer_iso_mkisofs_MSG13="genisoimage vracia pri vytváraní neznáme chyby"
+extraer_iso_mkisofs_MSG13B="from"
+extraer_iso_mkisofs_MSG14="Mkisof a genisoimage sa nenašli. Nainštalujte si prosím cdrtools alebo cdrkit."
+extraer_iso_mkisofs_MSG15="Nepodarilo sa pripojiť"
+extraer_iso_mkisofs_MSG16="Obrázok bol úspešne vytvorený v"
+
+# m_comp_img
+
+m_comp_img_MSG1="OBRÁZOK ÚSPEŠNE VYGENEROVANÝ V"
+m_comp_img_MSG2="CHCETE KOMPRESOVAŤ OBRÁZKOVÝ SÚBOR?"
+m_comp_img_MSG3="(s/y) komprimovať; Proces je zrušený s inou možnosťou."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Spúšťam správcu súborov..."
+generar_iso_directorio_MSG2="Zadajte názov pre budúce CD/DVD/BD"
+generar_iso_directorio_MSG3="VYTVORÍ SA OBRÁZOK..."
+generar_iso_directorio_MSG4="kompatibilita so systémom Macintosh povolená"
+generar_iso_directorio_MSG5="Používa sa"
+generar_iso_directorio_MSG6="beží"
+generar_iso_directorio_MSG7="OBRÁZOK VYTVORENÝ V ADRESÁRE"
+generar_iso_directorio_MSG8="PROCES VYTVORENIA OBRÁZKU ZLYHAL"
+generar_iso_directorio_MSG9="VYTVORENIE OBRÁZKU BEZ KOMPATIBILITY MACINTOSH"
+generar_iso_directorio_MSG10="Mkisofs a genisoimage sa nenašli. Nainštalujte si prosím cdrtools alebo cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Zadajte názov pre budúce DVD/BD"
+generar_bdv_udf_directorio_MSG2="Určite adresár pre generovanie obrazu videa:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Určite označenie disku:"
+generar_iso_directorio_libburnia_MSG2="Určite adresár na generovanie obrazu iso-9660:"
+generar_iso_directorio_libburnia_MSG3="Obrázok ISO9660 bol úspešne vytvorený!!"
+generar_iso_directorio_libburnia_MSG4="Chyba pri generovaní obrazu iso-9660 pomocou xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="Súbory a adresáre, ktoré sa majú zahrnúť do obrazu .iso"
+imagenISO_MSG2="VYBERTE MOŽNOSŤ"
+imagenISO_MSG2B="---------------"
+imagenISO_MSG3="Vygenerovať obraz ISO-9660 z CD (použite dd)"
+imagenISO_MSG4="Vygenerovať obraz ISO-9660 z DVD (použite dd)"
+imagenISO_MSG5="Generovať ISO-9660 obraz z CD (použite readcd)"
+imagenISO_MSG6="Vygenerovať obraz ISO-9660 z disku CD alebo DVD (použite mkisofs)"
+imagenISO_MSG7="Vytvoriť obraz ISO-9660 z údajov pevného disku (použite mkisofs)"
+imagenISO_MSG8="Predchádzajúca ponuka"
+imagenISO_MSG9="VYTVORÍ SA OBRÁZOK"
+imagenISO_MSG10="Vytvoriť obraz ISO-9660 z údajov pevného disku (použite xorriso)"
+imagenISO_MSG11="Vytvoriť obraz iso/udf z CD/DVD/BD (použite mkisofs)"
+imagenISO_MSG12="Vytvoriť obraz iso/udf z údajov pevného disku (použite mkisofs)"
+imagenISO_MSG13="PONUKA FORMÁTORA ISO-9660"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Vytvorte obraz UDF/ISO z údajov pevného disku (použite mkisofs)"
+imagenISO_MSG15="Vytvorte obraz UDF/ISO s podporou DVD Video (použite mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Zadajte zdrojové blokové zariadenie, z ktorého sa má vytvoriť obrázok"
+imagen_img_MSG2="---------------------------------------------------------------------"
+imagen_img_MSG3="Zariadenia registrované v /etc/fstab a /etc/mtab"
+imagen_img_MSG4="Pripojiť výstup príkazu:"
+imagen_img_MSG5="Zadajte názov zariadenia: "
+imagen_img_MSG6="Vytváram .img obraz blokového zariadenia"
+imagen_img_MSG7="beží"
+imagen_img_MSG8="OBRAZ ZARIADENIA VYTVORený"
+
+# monta_img
+
+monta_img_MSG1="ISO alebo ext2 obraz na pripojenie."
+monta_img_MSG2="Zadajte cestu k adresáru, kde sa nachádza obraz, ktorý sa má pripojiť:"
+monta_img_MSG3="PRIPOJENÝ OBRÁZOK CD:"
+monta_img_MSG4="CHYBA PRI PRIPOJOVANÍ OBRÁZKOVÉHO SÚBORU"
+monta_img_MSG5="NENÁJDENÉ"
+monta_img_MSG6="BOD NEEXISTUJE"
+monta_img_MSG7="NEOČAKÁVANÁ CHYBA"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO alebo ext2 obraz na odpojenie."
+desmonta_img_MSG2="DEMONTOVANÝ OBRÁZOK"
+desmonta_img_MSG3="Nenašiel sa žiadny pripojený obraz"
+desmonta_img_MSG4="Pripojiť výstup:"
+desmonta_img_MSG5="Môžete zadať absolútnu cestu k adresáru obrázku priamo."
+desmonta_img_MSG6="Napríklad /tmp/lcdgrabimg.iso alebo pripájací adresár pre obraz ako /mnt/lcdgrab"
+desmonta_img_MSG7="Ak nie je zadané, možno ho vyhľadať pomocou správcu súborov"
+desmonta_img_MSG8="Spúšťam správcu súborov"
+desmonta_img_MSG9="Určite cestu k obrázku."
+desmonta_img_MSG10="DEMONTOVANÝ OBRÁZOK"
+desmonta_img_MSG11="CHYBA PRI ODPOJOVANÍ OBRAZU"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1="Obrázok .nrg na konverziu na .iso"
+nrg_a_iso_MSG2="Zadajte cestu k obrázku .nrg (Nero Burning ROM) na konverziu"
+nrg_a_iso_MSG3="Konvertujem obrázok..."
+nrg_a_iso_MSG4="Cesta zdrojového .nrg obrázku"
+nrg_a_iso_MSG5="neexistuje alebo zodpovedá adresáru"
+nrg_a_iso_MSG6="Neplatná cesta."
+nrg_a_iso_MSG7="je to už predchádzajúci obraz ISO-9660, nebude konvertovaný."
+nrg_a_iso_MSG8="Kopírujem s inou príponou..."
+nrg_a_iso_MSG9="KOPÍROVANIE DOKONČENÉ"
+nrg_a_iso_MSG10="beží"
+nrg_a_iso_MSG11="Obrázok úspešne skonvertovaný"
+nrg_a_iso_MSG12="CHYBA PRI VYTVÁRANÍ OBRÁZKU .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Vygenerovať súbor s popisom .cue z obrázku .bin"
+GenerarArchivocue_MSG2="Aktuálny aktívny adresár"
+GenerarArchivocue_MSG3="Zapíšte iba cestu k adresáru, kde"
+GenerarArchivocue_MSG4="nájsť súbor s obrázkom:"
+GenerarArchivocue_MSG5="Zadajte názov .bin obrázku, do ktorého"
+GenerarArchivocue_MSG6="vygeneroval zodpovedajúci súbor .cue"
+GenerarArchivocue_MSG7="SÚBOR POPISU .cue ÚSPEŠNE VYGENEROVANÝ"
+GenerarArchivocue_MSG8="CHYBA PRI GENEROVANÍ SÚBORU POPISU .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="beží"
+ImagenbincueCDDVD_MSG2="OBRÁZOK DISKU .BIN .CUE ÚSPEŠNE VYGENEROVANÝ"

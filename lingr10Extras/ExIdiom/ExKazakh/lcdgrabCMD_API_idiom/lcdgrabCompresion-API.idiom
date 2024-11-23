@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKazakh/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en kazajo para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Файлдың немесе каталогтың жолын енгізіңіз:"
+empaquetar_MSG2="------- Опциялар -------"
+empaquetar_MSG3=".tar.gz файлын жасау"
+empaquetar_MSG4=".tar.bz2 файлын жасау"
+empaquetar_MSG5="Опцияны теріңіз: "
+empaquetar_MSG6="Орындалуда"
+empaquetar_MSG7="Жарамсыз опция"
+
+# desempaquetar
+
+desempaquetar_MSG1="Файл жолын енгізіңіз:"
+desempaquetar_MSG2="ҚАРАЙ ДЕКОПРЕССОР ТАБАДЫ"
+desempaquetar_MSG3="НЕМЕСЕ"
+desempaquetar_MSG4="ЖОҚ"
+desempaquetar_MSG5="Орындалуда"
+desempaquetar_MSG6="бумадан шығарылған"
+desempaquetar_MSG7="Орамадан шығару қатесі"
+
+# comprime
+
+comprime_MSG1="СУРЕТ ҚЫСУДА"
+comprime_MSG2="bzip2 арқылы қысу"
+comprime_MSG3="Gzip арқылы қысу"
+comprime_MSG4="Xz арқылы қысу"
+comprime_MSG5="Алдыңғы мәзір"
+comprime_MSG6="Орындалуда"
+comprime_MSG7="Сурет файлын сығу аяқталды"
+comprime_MSG8="Қысу қатесі"
+comprime_MSG9="Жарамсыз компрессор"
+
+# descomprime
+
+descomprime_MSG1="Файл жолын теріңіз:"
+descomprime_MSG2="-------------------"
+descomprime_MSG3="ДЕКОМПРЕССОР ТАБАДЫ"
+descomprime_MSG4="НЕМЕСЕ"
+descomprime_MSG5="ЖОҚ"
+descomprime_MSG6="Орындалуда"
+descomprime_MSG7="қысылмаған"
+descomprime_MSG8="Қысымды ашу қатесі"

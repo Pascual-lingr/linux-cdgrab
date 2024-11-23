@@ -1,0 +1,234 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongolian/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en Mongol para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="ЗУРГИЙН ФАЙЛ СИСТЕМ"
+imagen_linux_fs_MSG2="Файлын системийг сонгоно уу: "
+imagen_linux_fs_MSG3="CD-R/RW (702 Мбайт)-д зориулж зураг үүсгэх"
+imagen_linux_fs_MSG4="DVD+RW (4 Гбайт)-д зориулсан зураг үүсгэх"
+imagen_linux_fs_MSG5="DVD+RW/DL (8 Гбайт)-д зориулж зураг үүсгэх"
+imagen_linux_fs_MSG5B="BD-R/RE (25 Гбайт)-д зориулсан зураг үүсгэх"
+imagen_linux_fs_MSG5C="Захиалгат хэмжээтэй зургийн файл үүсгэх"
+imagen_linux_fs_MSG6="702 Мбайт багтаамжтай хоосон файл үүсгэж байна"
+imagen_linux_fs_MSG7="4 Гбайт багтаамжтай хоосон файл үүсгэж байна"
+imagen_linux_fs_MSG8="8 Гбайт багтаамжтай хоосон файл үүсгэж байна"
+imagen_linux_fs_MSG8B="25 Гбайт багтаамжтай хоосон файл үүсгэж байна"
+imagen_linux_fs_MSG8C="Захиалгат хэмжээтэй хоосон файл үүсгэх"
+imagen_linux_fs_MSG9="АЛДАА: ЗУРГИЙН ХЭМЖЭЭ МЭДЭХГҮЙ БАЙНА. ЗОГСОЖ БАЙНА..."
+imagen_linux_fs_MSG10="Ажиллаж байна"
+imagen_linux_fs_MSG11="Програм нь хоосон файлыг форматлах болно."
+imagen_linux_fs_MSG12="Өмнө нь үүсгэсэн файл блок төхөөрөмж биш гэдгийг систем танд сануулж, форматлах эсэхийг асуух болно"
+imagen_linux_fs_MSG13="Тийм гэж хариул"
+imagen_linux_fs_MSG13="АМЖИЛТТАЙ ХИЙСЭН"
+imagen_linux_fs_MSG14=" Суулгах зураг..."
+imagen_linux_fs_MSG15="ХООСОН ФАЙЛ ХЭЛБЭРШҮҮЛЭХ ҮЕД АЛДАА"
+imagen_linux_fs_MSG16="Програм нь форматлагдсан файлыг суулгасан"
+imagen_linux_fs_MSG17="Linux-cdgrab нь файлын менежерийг ажиллуулж, суулгасан зураг дээр ажиллах боломжтой"
+imagen_linux_fs_MSG18="Файлуудыг хуулж дуусмагц форматлагдсан файлыг салга."
+imagen_linux_fs_MSG19="Linux зураг энэ директорт байна"
+imagen_linux_fs_MSG19B="ЗУРГИЙН ФАЙЛ СУУЛГАХ ҮЕД АЛДАА"
+imagen_linux_fs_MSG20="Зурагт оруулах файлууд. /mnt/lcdgrab дотор суулгасан"
+imagen_linux_fs_MSG21="Файлын менежерийг ажиллуулж байна..."
+imagen_linux_fs_MSG22="МЭДЭГДЭЛ:"
+imagen_linux_fs_MSG23="---------"
+imagen_linux_fs_MSG24="Зураг"
+imagen_linux_fs_MSG25="холбогдсон хэвээр байна"
+imagen_linux_fs_MSG26="dd-ээр ХООСОН ФАЙЛ үүсгэхэд гарсан алдаа"
+imagen_linux_fs_MSG27="/-д суулгасан хуваалт дээр сул зай байгаа эсэхийг шалгана уу."
+imagen_linux_fs_MSG34="ФАЙЛЫГ Форматлах ФАЙЛ СИСТЕМ"
+imagen_linux_fs_MSG35="ЗАХИАЛТЫН ХЭМЖЭЭТЭЙ ХООСОН ФАЙЛ ҮЗҮҮЛЭХ"
+imagen_linux_fs_MSG36="Шинэ хоосон файлын блокийн хэмжээг зааж өгөх (зөвхөн тоон утга):"
+imagen_linux_fs_MSG37="Блокийн хэмжээний утгуудын жишээ нь: 1024, 2048 (зөвхөн Ext2) эсвэл 4096 (Бүх формат)"
+imagen_linux_fs_MSG38="Үйлдвэрлэх хоосон файлын хэмжээг зааж өгөх (зөвхөн тоон утга):"
+imagen_linux_fs_MSG39="Хоосон файл үүсгэх зайны хэмжилт:"
+imagen_linux_fs_MSG40="Ашиглах зайны хэмжилтийг зааж өгнө үү: "
+imagen_linux_fs_MSG41="ХЭМЖЭЭНИЙ ХЭМЖЭЭГ ЗАСАХ ҮЕД АЛДАА"
+imagen_linux_fs_MSG42="Блокны хэмжээ:"
+imagen_linux_fs_MSG43="Хоосон файлын зайны хэмжээ:"
+imagen_linux_fs_MSG44="Байтаар тооцсон утга:"
+imagen_linux_fs_MSG45="Тооцооны тооцоолсон утга:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1=".iso зураг үүсгэх үед md5 уншихыг идэвхжүүлэх"
+comprobar_lectura_md5_MSG2=".iso зураг үүсгэх үед md5 уншихыг идэвхгүй болгох"
+comprobar_lectura_md5_MSG3="Өмнөх цэс"
+comprobar_lectura_md5_MSG4="Одоогийн тохиргоо:"
+comprobar_lectura_md5_MSG5="Идэвхжүүлсэн"
+comprobar_lectura_md5_MSG6="Идэвхгүй"
+comprobar_lectura_md5_MSG7="Унших md5 нийлбэр идэвхжсэн"
+comprobar_lectura_md5_MSG8="Унших md5 нийлбэр идэвхгүй"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Iso зургийн нэрийг уншиж чадсангүй"
+leer_md5sum_MSG2="md5 нийлбэрийг уншиж байна"
+leer_md5sum_MSG3="Зургийн md5 нийлбэрийг харуулж байна"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="CD ЗУРАГ ҮҮСГЭХ"
+extraer_isoCD_dd_MSG2="ЗУРАГ ҮҮСГЭЭД"
+extraer_isoCD_dd_MSG3="Одоогүй"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="DVD ЗУРАГ ҮҮСГЭХ"
+extraer_isoDVD_dd_MSG2="ажиллаж байна"
+extraer_isoDVD_dd_MSG3="ЗУРАГ ҮҮСГЭЭД"
+extraer_isoDVD_dd_MSG4="Одоогүй"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="ажиллаж байна"
+extraer_iso_readcd_MSG2="ЗУРГИЙГ АМЖИЛТТАЙ ҮЗСЭН"
+extraer_iso_readcd_MSG3="Зургийг үүсгэсэн"
+extraer_iso_readcd_MSG4="Бичлэг хийх үйл явцыг зогсоож байна..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Суурилагдсан CD"
+extraer_iso_mkisofs_MSG2="Зураг үүсгэж байна..."
+extraer_iso_mkisofs_MSG3="Macintosh нийцтэй байдлыг идэвхжүүлсэн"
+extraer_iso_mkisofs_MSG4="Ашиглах"
+extraer_iso_mkisofs_MSG5="ажиллаж байна"
+extraer_iso_mkisofs_MSG6="Зургийг лавлахад үүсгэсэн"
+extraer_iso_mkisofs_MSG7="Macintosh-ийн дэмжлэггүйгээр процессыг дахин оролдож байна"
+extraer_iso_mkisofs_MSG8="Лавлах дотор үүсгэсэн зураг"
+extraer_iso_mkisofs_MSG9="mkisofs үүсгэх үед үл мэдэгдэх алдааг буцаана"
+extraer_iso_mkisofs_MSG10="-аас"
+extraer_iso_mkisofs_MSG11="Өгөгдлийн бүрэн бүтэн байдлыг шалгах"
+extraer_iso_mkisofs_MSG12="Буулгах"
+extraer_iso_mkisofs_MSG12B="en"
+extraer_iso_mkisofs_MSG13="genisoimage үүсгэх үед үл мэдэгдэх алдааг буцаана"
+extraer_iso_mkisofs_MSG13B="-аас"
+extraer_iso_mkisofs_MSG14="Mkisofs болон genisoimage олдсонгүй. cdrtools эсвэл cdrkit суулгана уу."
+extraer_iso_mkisofs_MSG15="Суулгаж чадсангүй"
+extraer_iso_mkisofs_MSG16="Зургийг амжилттай үүсгэсэн"
+
+# m_comp_img
+
+m_comp_img_MSG1="ЗУРАГ АМЖИЛТТАЙ БҮТЭЭСЭН"
+m_comp_img_MSG2="ТА ЗУРГИЙН ФАЙЛЫГ ШАХАХЫГ ХҮССЭН БАЙНА УУ?"
+m_comp_img_MSG3="(s/y) шахах; Процессыг өөр сонголтоор цуцалсан."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Файлын менежерийг ажиллуулж байна..."
+generar_iso_directorio_MSG2="Ирээдүйн CD/DVD/BD-ийн нэрийг оруулна уу"
+generar_iso_directorio_MSG3="ЗУРАГ ҮҮСГЭЖ БАЙНА..."
+generar_iso_directorio_MSG4="Macintosh нийцтэй байдлыг идэвхжүүлсэн"
+generar_iso_directorio_MSG5="Ашиглах"
+generar_iso_directorio_MSG6="ажиллаж байна"
+generar_iso_directorio_MSG7="ЛАВЛАХ ДЭЭР ҮҮСГЭДСЭН ЗУРАГ"
+generar_iso_directorio_MSG8="ЗУРАГ ҮҮСГЭХ үйл явц бүтэлгүйтсэн"
+generar_iso_directorio_MSG9="MACINTOSH ТОХИРЦОХГҮЙ ЗУРГИЙГ ҮҮСГЭХ"
+generar_iso_directorio_MSG10="Mkisofs болон genisoimage олдсонгүй. cdrtools эсвэл cdrkit суулгана уу."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Ирээдүйн DVD/BD-ийн нэрийг оруулна уу"
+generar_bdv_udf_directorio_MSG2="Видео зураг үүсгэх лавлахыг зааж өгнө үү:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Дискний шошгыг зааж өгөх:"
+generar_iso_directorio_libburnia_MSG2="ISo-9660 дүрсийг үүсгэх лавлахыг зааж өгнө үү:"
+generar_iso_directorio_libburnia_MSG3="ISO9660 зураг амжилттай үүсгэгдсэн!!"
+generar_iso_directorio_libburnia_MSG4="Xorriso ашиглан iso-9660 дүрс үүсгэх үед гарсан алдаа"
+
+# imagenISO
+
+imagenISO_MSG1=".iso зурагт оруулах файлууд болон лавлахууд"
+imagenISO_MSG2="СОНГОЛТ СОНГОХ"
+imagenISO_MSG2B="--------------"
+imagenISO_MSG3="CD-ээс ISO-9660 дүрс үүсгэх (dd ашиглах)"
+imagenISO_MSG4="DVD-ээс ISO-9660 дүрс үүсгэх (dd ашиглах)"
+imagenISO_MSG5="CD-ээс ISO-9660 дүрс үүсгэх (readcd ашиглах)"
+imagenISO_MSG6="CD эсвэл DVD дискнээс ISO-9660 дүрс үүсгэх (mkisofs ашиглах)"
+imagenISO_MSG7="Хатуу дискний өгөгдлөөс ISO-9660 дүрс үүсгэх (mkisofs ашиглах)"
+imagenISO_MSG8="Өмнөх цэс"
+imagenISO_MSG9="ЗУРАГ ҮҮСГЭХ"
+imagenISO_MSG10="Хатуу дискний өгөгдлөөс ISO-9660 дүрс үүсгэх (xorriso ашиглах)"
+imagenISO_MSG11="CD/DVD/BD-ээс iso/udf дүрс үүсгэх (mkisofs ашиглах)"
+imagenISO_MSG12="Хатуу дискний өгөгдлөөс iso/udf дүрс үүсгэх (mkisofs ашиглах)"
+imagenISO_MSG13="ISO-9660 FORMATTER ЦЭС"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Хатуу дискний өгөгдлөөс UDF/ISO дүрс үүсгэх (mkisofs ашиглах)"
+imagenISO_MSG15="DVD видео дэмжлэгтэйгээр UDF/ISO дүрс үүсгэх (mkisofs ашиглах)"
+
+# imagen_img
+
+imagen_img_MSG1="Зургийг хийх эх блок төхөөрөмжийг бичнэ үү"
+imagen_img_MSG2="------------------------------------------"
+imagen_img_MSG3="/etc/fstab болон /etc/mtab-д бүртгэлтэй төхөөрөмжүүд"
+imagen_img_MSG4="Буулгах командын гаралт:"
+imagen_img_MSG5="Төхөөрөмжийн нэрийг оруулна уу: "
+imagen_img_MSG6="Блок төхөөрөмжийн .img дүрсийг үүсгэж байна"
+imagen_img_MSG7="ажиллаж байна"
+imagen_img_MSG8="ТӨХӨӨРӨМЖИЙН ЗУРГИЙГ ҮҮСГЭВ"
+
+# monta_img
+
+monta_img_MSG1="Суулгах ISO эсвэл ext2 зураг."
+monta_img_MSG2="Суулгах зураг байгаа лавлах замыг бичнэ үү:"
+monta_img_MSG3="СУУРУУЛСАН CD ЗУРАГ:"
+monta_img_MSG4="ЗУРГИЙН ФАЙЛЫГ СУУЛГАХ ҮЕД АЛДАА"
+monta_img_MSG5="ОЛдсонгүй"
+monta_img_MSG6="БААСАХ ЦЭГ БАЙДАГГҮЙ"
+monta_img_MSG7="Гэнэтийн алдаа"
+
+# desmonta_img
+
+desmonta_img_MSG1="Буулгах ISO эсвэл ext2 дүрс."
+desmonta_img_MSG2="БУДСАН ЗУРАГ"
+desmonta_img_MSG3="Суулгасан зураг олдсонгүй"
+desmonta_img_MSG4="Гаралтыг холбох:"
+desmonta_img_MSG5="Та зургийн үнэмлэхүй лавлах замыг шууд зааж өгч болно."
+desmonta_img_MSG6="/tmp/lcdgrabimg.iso эсвэл /mnt/lcdgrab гэх мэт зургийн холбох лавлах"
+desmonta_img_MSG7="Хэрэв заагаагүй бол файлын менежер ашиглан хайх боломжтой"
+desmonta_img_MSG8="Файлын менежерийг эхлүүлж байна"
+desmonta_img_MSG9="Зургийн замыг зааж өгнө үү."
+desmonta_img_MSG10="ЗАГССАН ЗУРАГ"
+desmonta_img_MSG11="ЗУРГИЙГ БУДУУЛАХ АЛДАА"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg зургийг .iso болгон хөрвүүлэх"
+nrg_a_iso_MSG2="Хөрвүүлэх .nrg (Nero Burning ROM) зургийн замыг оруулна уу"
+nrg_a_iso_MSG3="Зургийг хөрвүүлж байна..."
+nrg_a_iso_MSG4="Эх сурвалж .nrg зургийн зам"
+nrg_a_iso_MSG5="байгаагүй эсвэл лавлахтай тохирч байна"
+nrg_a_iso_MSG6="Буруу зам."
+nrg_a_iso_MSG7="энэ нь аль хэдийн өмнөх ISO-9660 зураг тул хөрвүүлэхгүй."
+nrg_a_iso_MSG8="Өөр өргөтгөлөөр хуулж байна..."
+nrg_a_iso_MSG9="ХУВЛАЛТ ДУУССАН"
+nrg_a_iso_MSG10="ажиллаж байна"
+nrg_a_iso_MSG11="Зургийг амжилттай хөрвүүлэв"
+nrg_a_iso_MSG12="ЗУРАГ .iso үүсгэх үед гарсан алдаа"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1=".bin зургаас .cue тайлбар файл үүсгэх"
+GenerarArchivocue_MSG2="Одоогийн идэвхтэй лавлах"
+GenerarArchivocue_MSG3="Зөвхөн лавлах замыг бичих"
+GenerarArchivocue_MSG4="зургийн файлыг олох:"
+GenerarArchivocue_MSG5="Хэрэглэх .bin зургийн нэрийг оруулна уу"
+GenerarArchivocue_MSG6="харгалзах .cue файлыг үүсгэсэн"
+GenerarArchivocue_MSG7="ТОДОРХОЙЛОЛТ ФАЙЛ .cue АМЖИЛТТАЙ ҮЗҮҮЛСЭН"
+GenerarArchivocue_MSG8="ТОДОРХОЙЛОЛТЫН ФАЙЛ .cue үүсгэх үед гарсан алдаа"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="гүйж байна"
+ImagenbincueCDDVD_MSG2=".BIN .CUE DISK ЗУРАГИЙГ АМЖИЛТТАЙ ҮҮСГЭЖ БАЙНА"
+

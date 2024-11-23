@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en estonio para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3 FAILID TEISEENDAMISEKS"
+mp3awav_MSG0="Sisestage .mp3 failide tee: "
+mp3awav_MSG1="KONVERTEERIMINE"
+mp3awav_MSG1B=" KUNI .wav FORMAAT"
+mp3awav_MSG2="jooksb"
+mp3awav_MSG3="Sämpling on seatud 44100 Mhz"
+mp3awav_MSG4="Viga proovivõtu töötlemisel"
+mp3awav_MSG5="Teisendamine ebaõnnestus"
+mp3awav_MSG6="Kataloogi ei leitud"
+mp3awav_MSG7="HELI KONVERSIOONI LÕPP"
+mp3awav_MSG8="Helifaili normaliseerimine"
+mp3awav_MSG9="Fail"
+mp3awav_MSG10="Normaliseeritud"
+mp3awav_MSG11="Viga normaliseerimisel"
+
+# oggawav
+
+oggawav_MSG0="OGG-FAILID TEISEENDAMISEKS"
+oggawav_MSG1="Sisestage .ogg-failide tee: "
+oggawav_MSG2="KONVERTEERIMINE"
+oggawav_MSG2B="A .wav FORMAT"
+oggawav_MSG3="jooksb"
+oggawav_MSG4="Sämpling on seatud 44100 Mhz"
+oggawav_MSG5="Viga proovivõtu töötlemisel"
+oggawav_MSG6="Teisendamine ebaõnnestus"
+oggawav_MSG7="Kataloogi ei leitud"
+oggawav_MSG8="HELILEJA LÕPP"
+oggawav_MSG9="Helifaili normaliseerimine"
+oggawav_MSG10="Fail"
+oggawav_MSG11="Normaliseeritud"
+oggawav_MSG12="Viga normaliseerimisel"
+
+# cdawav
+
+cdawav_MSG1="HELI CD RIPIMINE..."
+cdawav_MSG2="Käivitab:"
+cdawav_MSG3="EDULIKULT VALMISTATUD AUDIORAJAD!!"
+cdawav_MSG4="Helifailide kataloogi sisu"
+cdawav_MSG5="VIGA HELIRADADE RÕPITAMISEL"
+
+# cddawav
+
+cddawav_MSG1="SISESTAGE RIPITAMISE LUGUDE ARV:"
+cddawav_MSG2="Raja rippimise tühistamiseks vajutage klahvikombinatsiooni Crtl + c"
+cddawav_MSG3="Käivitab:"
+cddawav_MSG4="EDULIKULT RIPITUD"
+cddawav_MSG5="VEA RIPPIMINE"
+
+# wavamp3
+
+wavamp3_MSG0="WAV FAILID TEISEENDAMISEKS"
+wavamp3_MSG1="Sisesta .wav failide tee: "
+wavamp3_MSG1B="KONVERTEERIMINE"
+wavamp3_MSG2="VORming"
+wavamp3_MSG3="Käivitab:"
+wavamp3_MSG4="konverteerimisel"
+wavamp3_MSG5=".MP3 vormingusse"
+wavamp3_MSG6="Viga teisendamisel"
+wavamp3_MSG7="AUDIO KONVERSIOON LÕPPENUD"
+wavamp3_MSG8="AUDIO kataloogi EI LEITUD"
+
+# cdamp3
+
+cdamp3_MSG1="HELI CD RIPIMINE..."
+cdamp3_MSG2="Käivitab:"
+cdamp3_MSG3="EDULIKULT VALMISTATUD AUDIORAJAD!!"
+cdamp3_MSG4="VIGA HELIRADADE RIPIMISEL"
+cdamp3_MSG5="Kutsumisfunktsioon:"
+
+# wavaogg
+
+wavaogg_MSG1="Sisesta .wav failide tee: "
+wavaogg_MSG2="KONVERTEERIMINE"
+wavaogg_MSG3=".ogg FORMAT"
+wavaogg_MSG4="Töötab:"
+wavaogg_MSG5="Viga teisendamisel"
+wavaogg_MSG6=".ogg vormingusse"
+
+# cdaogg
+
+cdaogg_MSG1="AUDIO CD de RIPIMINE..."
+cdaogg_MSG2="Käivitab:"
+cdaogg_MSG3="EDULIKULT LÕPETUD AUDIORAJAD!!"
+cdaogg_MSG4="VIGA HELIRADADE RÕPITAMISEL"
+cdaogg_MSG5="Kutsumisfunktsioon:"
+
+# corta_wav
+
+corta_wav_MSG0="Sekundite arv:"
+corta_wav_MSG1="Määrake teisendatava helifaili tee:"
+corta_wav_MSG2="Määrake aeg sekundites, mille jaoks"
+corta_wav_MSG3="algab faili lõikamine."
+corta_wav_MSG4="-MÄRKUS-"
+corta_wav_MSG5="Heli alguse määramiseks sisestage 0"
+corta_wav_MSG6="Väärtus sekundites teisenduse alustamiseks:"
+corta_wav_MSG7="Määrake aeg sekundites, mille jaoks"
+corta_wav_MSG8="faili lõikamine lõpetatakse."
+corta_wav_MSG9="Konversiooni lõpu väärtus sekundites:"
+corta_wav_MSG10="Töötab"
+corta_wav_MSG11="Kärbitud helifail"
+corta_wav_MSG12="Viga faili kärpimisel"
+corta_wav_MSG13="Kärpitav helifail:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV HELI"
+flacawav_MSG1="Määrake .flac failide tee:"
+flacawav_MSG2="KONVERTEERIMINE"
+flacawav_MSG3=" KUNI .wav FORMAT"
+flacawav_MSG4="Sämpling on seatud 44100 Mhz"
+flacawav_MSG5="Viga proovivõtu töötlemisel"
+flacawav_MSG6="Helifaili normaliseerimine"
+flacawav_MSG7="Fail"
+flacawav_MSG8="Normaliseeritud"
+flacawav_MSG9="Viga normaliseerimisel"
+flacawav_MSG10="Teisendamine ebaõnnestus"
+flacawav_MSG11="Kataloogi ei leitud"
+flacawav_MSG12="HELI KONVERSIOONI LÕPP"
+
+# wavaflac
+
+wavaflac_MSG0="WAV FAILID TEISEENDAMISEKS"
+wavaflac_MSG1="Sisesta .wav failide tee: "
+wavaflac_MSG2="KONVERTEERIMINE"
+wavaflac_MSG3="A .flac FORMAT"
+wavaflac_MSG4="konverteeritud flac vormingusse"
+wavaflac_MSG5="Viga teisendamisel"
+wavaflac_MSG6=".flac vormingusse"
+wavaflac_MSG7="FLAC FAILIDE kataloogi EI LEITUD"
+

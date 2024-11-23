@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Tayiko para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="ДАСТГОҲҲОҲО ДАР СИСТЕМА ХОҲОНАНД"
+montar_dispositivos_MSG1B="МОНТАЖ/ТАРК КАРДАНИ ДАСТГОҲҲО"
+montar_dispositivos_MSG2="ИМКОНИЯТҲОИ LINUX-CDGRAB"
+montar_dispositivos_MSG3="Дискро аз CD/DVD/BD хонанда хориҷ кунед"
+montar_dispositivos_MSG4="Дискро аз CD/DVD/BD burner хориҷ кунед"
+montar_dispositivos_MSG5="Васл кардани CD-ROM/DVD-ROM/BD-ROM хонанда"
+montar_dispositivos_MSG6="Ҷудо кардани CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Дастгоҳро дастӣ насб кунед ё демонтаж кунед"
+montar_dispositivos_MSG0="Менюи қаблӣ"
+montar_dispositivos_MSG8="CD/DVD/BD насб шудааст"
+montar_dispositivos_MSG9=" БАРОИ ДАВОМ ДОРАД ENTER-ро пахш кунед..."
+montar_dispositivos_MSG10="Хато ҳангоми насб кардани CD/DVD/BD дар фаъол"
+montar_dispositivos_MSG11="CD/DVD/BD васл карда шуд"
+montar_dispositivos_MSG12="Хато ҳангоми ҷудо кардани CD/DVD/BD"
+montar_dispositivos_MSG13="Таҷҳизотро барои васл кардан/баровардан нависед:"
+montar_dispositivos_MSG14="Нуқтаи васлкуниро ворид кунед:"
+montar_dispositivos_MSG15="ба дастгоҳи блок мувофиқат намекунад"
+montar_dispositivos_MSG16="Нуқтаи васлкунӣ ёфт нашуд"
+montar_dispositivos_MSG17="Нуқтаи насби пешфарз"
+montar_dispositivos_MSG18="Интихоб кунед:"
+montar_dispositivos_MSG19="Васл кардан"
+montar_dispositivos_MSG20="дар"
+montar_dispositivos_MSG21="Нест кардан"
+montar_dispositivos_MSG22="аз"
+montar_dispositivos_MSG23="васл карда шудааст:"
+montar_dispositivos_MSG24="ХАТО ҲАНГОТИ МОНДАН"
+montar_dispositivos_MSG25="дар"
+montar_dispositivos_MSG26="аз кандашуда"
+montar_dispositivos_MSG27="ХАТО ВАҚТИ БАРОМАД"
+montar_dispositivos_MSG28="аз"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Баромади фармони васлкунӣ"
+Montar_Imagenes_MSG1B="ҶАМГУЗАРОНДАН/БОЗОР КАРДАНИ ФАЙЛҲОИ ТАСМИР"
+Montar_Imagenes_MSG2="Интихоб кунед"
+Montar_Imagenes_MSG3="Тасвири васлкунии CD/DVD/BD"
+Montar_Imagenes_MSG4="Тасвири CD/DVD/BDро ҷудо кунед"
+Montar_Imagenes_MSG5="Менюи қаблӣ"
+

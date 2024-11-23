@@ -1,0 +1,184 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongolian/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Mongol para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="гүйж байна"
+copia_bin_MSG2="--------------БИЧЛЭГИЙН ҮЙЛ ЯВЦЫГ ДАХИН ОРОЛДОЖ БАЙНА---------------"
+copia_bin_MSG3="	ЗУРГИЙН ФАЙЛЫГ УСТГАХ"
+copia_bin_MSG4="БИЧЛЭГТ АЛДАА ГАРСАН"
+copia_bin_MSG5="Дискийн .iso дүрсийг буулгах файл олдохгүй байна. Бичлэгийг цуцалж байна..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="гүйж байна"
+datos_al_vuelo_MSG2="Бичлэг хийх оролдлогод алдаа гарлаа, хэт шатаах дэмжлэггүйгээр дахин оролдож байна"
+datos_al_vuelo_MSG3="Эх диск эсвэл төхөөрөмж байгаа эсэхийг шалгах"
+datos_al_vuelo_MSG4="сайн нөхцөлд байна"
+datos_al_vuelo_MSG5="Эх дискнээс гарах блокийн дугаарыг авч байна"
+datos_al_vuelo_MSG6="ДИСК ХУУЛЖ БАЙНА..."
+
+# clonar_cd
+
+clonar_cd_MSG1="гүйж байна"
+clonar_cd_MSG2="CD г АМЖИЛТТАЙ КЛОН"
+clonar_cd_MSG3="CD Г КЛОНОХ ҮЕД АЛДАА ГАРСАН"
+
+# datos
+
+datos_MSG1=".iso дүрс үүсгэх файлууд болон лавлахууд"
+datos_MSG2="CD/DVD/BD ШОШГО"
+datos_MSG3="Ирээдүйн CD/DVD/BD-ийн нэрийг оруулна уу:"
+datos_MSG4="Файлын менежерийг ажиллуулж байна:"
+datos_MSG5="	ЗУРАГ ҮҮСГЭЖ БАЙНА ..."
+datos_MSG6="гүйж байна"
+datos_MSG7="ISO-9660 ЗУРАГ ҮСГЭСЭН"
+datos_MSG8="		CD/DVD/BD шатаах"
+datos_MSG9="ЗУРГИЙН ФАЙЛ ҮҮСГЭХ ПРОЦЕСС амжилтгүй болсон"
+datos_MSG10="HFS (Macintosh)-н ДЭМЖЛЭГГҮЙГЭЭР ШИНЭЭР ҮҮСГЭХИЙГ ДАХИН ОРЖ БАЙНА"
+datos_MSG11="ЗУРГИЙГ УСТГАХ .."
+datos_MSG12="ШИНЭ ЗУРАГ ҮҮСГЭЖ БАЙНА ..."
+datos_MSG13="ЗӨВ БИЧЛЭХ БОЛОМЖГҮЙ БАЙСАН"
+datos_MSG14="------------БИЧЛЭГИЙН ҮЙЛ ЯВЦЫГ ДАХИН ОРОЛДОЖ БАЙНА-----------"
+datos_MSG15="ЗУРГИЙГ УСТГАХ..."
+datos_MSG16="ISO-9660 өгөгдлийн CD/DVD/BD ШАТАЖ БАЙНА..."
+datos_MSG17="Одоогүй."
+datos_MSG18="Дискний бичлэгийг зогсоож байна..."
+
+# datoslb
+
+datoslb_MSG1="Алдаа: Зургийн файл олдсонгүй. Цуцалж байна..."
+datoslb_MSG2="БИЧЛЭГИЙН ПРОЦЕСС ЗА"
+datoslb_MSG3="БИЧЛЭГИЙН ҮЙЛЧИЛГЭЭНИЙ АЛДАА"
+
+# borra
+
+borra_MSG0="Өмнөх цэс"
+borra_MSG1="CD-RW г устгах горимыг сонгох"
+borra_MSG2="-----------------------------"
+borra_MSG3="Түргэн устгах (cdrecord ашиглах)"
+borra_MSG4="Бүрэн устгах (cdrecord ашиглах)"
+borra_MSG5="Устгах шаардлагатай (cdrskin ашиглах)"
+borra_MSG6="гүйж байна"
+borra_MSG7="Дискний төлөвөөс хамааран шаардлагатай форматлах эсвэл устгах үйлдлийг хийнэ"
+borra_MSG8="CD-RW АМЖИЛТТАЙ УСТГАСАН!!!"
+borra_MSG9="CD-RW Г УСТГАХ ҮЕД АЛДАА"
+borra_MSG10="CD-RW г ХҮЧ УСТГАХ"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="CD-RW г УСТГАХ ГЭДЭГ ҮЕД АЛДАА"
+err_borra_cdrw_MSG2="ХЭРЭГЛЭХ БОЛОМЖТОЙ CD-RW"
+err_borra_cdrw_MSG3="ЭНЭ CD-RW Г УСТГАХ БОЛОМЖГҮЙ"
+err_borra_cdrw_MSG4="CD-RW Д ХЭМЖЭЭНИЙ ГЭМТ ХӨРӨНГИЙГ ШАЛГАХ"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="гүйж байна"
+cerrar_cd_MSG2="CD Г ЗӨВ ХАСАН"
+cerrar_cd_MSG3="CD г ХААХ АЛДАА"
+cerrar_cd_MSG4="ӨГӨГДЛИЙН CD ДЭЭР ХААГДАХ МӨНГӨ..."
+
+# grabimg
+
+grabimg_MSG1=".iso эсвэл .ext2 дүрсийг CD/DVD дээр бичих"
+grabimg_MSG2="Файлын менежерийг ажиллуулж байна."
+grabimg_MSG3="Шатаахыг хүсэж буй CD/DVD дүрсний бүрэн замыг бичнэ үү:"
+grabimg_MSG4="гүйж байна"
+grabimg_MSG5="-----------БИЧЛЭГИЙН ҮЙЛ ЯВЦЫГ ДАХИН ОРОЛДОЖ БАЙНА-----------"
+grabimg_MSG6="БИЧЛЭГИЙГ ДУУССАН!!"
+grabimg_MSG7=".EXT2 ЗУРГИЙГ АМЖИЛТТАЙ БИЧЛЭГДЭЭ"
+
+# grabimglb
+
+grabimglb_MSG1="Шатаахыг хүсэж буй CD/DVD дүрсний бүрэн замыг бичнэ үү:"
+grabimglb_MSG2="Зургийг диск рүү шатааж байна..."
+grabimglb_MSG3="ISO-9660 ЗУРГИЙГ АМЖИЛТТАЙ БИЧЛЭГДҮҮЛСЭН"
+grabimglb_MSG4="ISO-9660 ЗУРГИЙГ БИЧГЭХ АЛДАА"
+grabimglb_MSG5="Алдаа: Зургийн файл олдсонгүй. Цуцалж байна..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin болон .cue файлууд нь зургийг бичих"
+grabimg_cue_MSG2="Хогийн савны зургийг бичихийн тулд хоёр файл заавал байх ёстой"
+grabimg_cue_MSG3="идэвхтэй лавлахад байгаарай."
+grabimg_cue_MSG4="Одоогийн идэвхтэй лавлах"
+grabimg_cue_MSG5="*.bin зургийн файлд хамаарах *.cue файлын нэрийг оруулна уу"
+grabimg_cue_MSG6=".cue файл: "
+grabimg_cue_MSG7="гүйж байна"
+grabimg_cue_MSG8="БИЧЛЭГИЙГ ДУУССАН!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1=".iso дүрсээс олон сесс CD бичих"
+cd_multi_MSG2=".iso дүрсээс эхний сессийг CD рүү бичих"
+cd_multi_MSG3="Диск дээрх файлуудаас олон сесс CD бичих"
+cd_multi_MSG4="Хатуу диск дээрх файлуудаас дараалсан сессүүдийг CD рүү бичих"
+cd_multi_MSG5="Энэ сонголт нь өмнө нь бичигдсэн сесс бүхий олон сессийн CD г шаарддаг."
+cd_multi_MSG6="Өмнөх цэс"
+cd_multi_MSG7=".iso дүрсийг CD-Multi-session дээр бичих"
+cd_multi_MSG8=".iso зургийн замыг зааж өгөх"
+cd_multi_MSG9="гүйж байна"
+cd_multi_MSG10="Олон хуралдааны CD г АМЖИЛТТАЙ БИЧЛЭГДЭЭ!!"
+cd_multi_MSG11="Зурагт оруулах лавлахууд."
+cd_multi_MSG12="Аль лавлахыг оруулахыг доор зааж өгнө үү"
+cd_multi_MSG13="CD шошгоны нэрийг оруулна уу:"
+cd_multi_MSG14="ЗУРАГ ҮҮСГЭЖ БАЙНА..."
+cd_multi_MSG15="АМЖИЛТТАЙ БҮТЭЭГДСЭН"
+cd_multi_MSG16="ЗУРАГ ҮҮСГЭХ ҮЕД АЛДАА. БИЧЛЭГИЙН ҮЙЛДВЭРИЙГ АВАХ..."
+cd_multi_MSG17="CD ЗУРАГ ШАТАЖ БАЙНА..."
+cd_multi_MSG18="CD ОЛОН СЕССИЙН ЦЭС"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="АУДИО СДИЙГ ХУУЛЖ БАЙНА..."
+copia_cd_audio_MSG2="гүйж байна"
+copia_cd_audio_MSG3="АУДИО ТРЕКҮҮДИЙГ АМЖИЛТТАЙ ОРУУЛЛАА!!"
+copia_cd_audio_MSG4="АУДИО ТРЕКИЙГ ХУУРАХ ҮЕД АЛДАА"
+copia_cd_audio_MSG5="АУДИО CD ШАТАЖ БАЙНА..."
+copia_cd_audio_MSG6="АУДИО CD АМЖИЛТТАЙ ХУУРЛАА!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav файлуудыг CD рүү бичих"
+wav_a_cd_MSG2="Linux-cdgrab директорийн хэмжээг шалгахгүй"
+wav_a_cd_MSG3="Энэ нь 650 Мбайтаас ихгүй байгаа эсэхийг шалгаарай"
+wav_a_cd_MSG4="хэрэв та 80 минутын CD ашиглаж байгаа бол."
+wav_a_cd_MSG5=".wav файлуудын лавлах замыг оруулна уу"
+wav_a_cd_MSG6="гүйж байна"
+wav_a_cd_MSG7="ПРОЦЕСС ДУУССАН!"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Mixto үүсгэх төсөл (Өгөгдлийн зураг .iso + Аудио файлууд .wav)"
+cdmixto_MSG2="Linux-cdgrab директорийн хэмжээг шалгахгүй"
+cdmixto_MSG3="Аудио файлууд хаана байна."
+cdmixto_MSG4="Таны бичих гэж буй .iso дүрсээс ч тэгэхгүй"
+cdmixto_MSG5="дараа."
+cdmixto_MSG6="Өөрт байгаа хэмжээтэй тохирч байгаарай"
+cdmixto_MSG7="шинэ CD дээрээ бичнэ үү."
+cdmixto_MSG8="Аудио файлуудын замыг зааж өгөх:"
+cdmixto_MSG9="Исо зургийн замыг зааж өгөх:"
+cdmixto_MSG10="################################"
+cdmixto_MSG11="Холимог CD БИЧЛЭГ: ӨГӨГДӨЛ+АУДИО"
+cdmixto_MSG12="гүйж байна"
+cdmixto_MSG13="¡¡----Холимог CD АМЖИЛТТАЙ БОЛЛОО-----!!"
+cdmixto_MSG14="------Холимог CD ШАТАХ ҮЕД АЛДАА--------"
+
+# discoinfo
+
+discoinfo_MSG1="гүйж байна"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI порт сканнердсан"
+cdrecord_scan_MSG1="IDE/SCSI портыг скан хийхэд алдаа гарлаа"
+cdrecord_scan_MSG2="cdrecord олдсонгүй"
+

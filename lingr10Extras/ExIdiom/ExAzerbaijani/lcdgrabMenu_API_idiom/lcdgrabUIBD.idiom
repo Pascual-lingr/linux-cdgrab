@@ -1,0 +1,21 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAzerbaijani/lcgdrabMenu_API_idiom/lcdgrabUIBD.idiom
+# Menu de Interfaz para la grabación de BD.
+# Traducción experimental al Azerbaiyano, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_grabar_BD
+
+menu_grabar_BD_MSG0="Əvvəlki menyu."
+menu_grabar_BD_MSG1="BLU-RAY DİSK QEYDİ"
+menu_grabar_BD_MSG2="Sərt disk məlumatından yeni BD-R/BD-RE iso-nu yandırın"
+menu_grabar_BD_MSG4="Diskə yazmaq üçün ISO/UDF şəkli."
+menu_grabar_BD_MSG7="ISo-9660/udf şəklini BD-R/BD-RE-də yandır"
+menu_grabar_BD_MSG8="------------------- BD - DATA --------------------"
+menu_grabar_BD_MSG9="Sürücü disk məlumatını göstər"
+menu_grabar_BD_MSG10="BD-RE-yə lazımi silməni tətbiq et"
+

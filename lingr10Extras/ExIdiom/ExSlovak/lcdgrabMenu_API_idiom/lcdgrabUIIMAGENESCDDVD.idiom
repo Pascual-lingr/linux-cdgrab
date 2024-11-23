@@ -1,0 +1,51 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovak/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes en Eslovaco para el intefaz de creación de imágenes
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="VYTVORENIE A NAKLADANIE S OBRAZMI DISKOV"
+MenuImagen_MSG2="-------------- VYTVORENIE OBRÁZKU --------------"
+MenuImagen_MSG3="Vytvoriť obrázok ISO-9660"
+MenuImagen_MSG4="Vytvoriť obrázok s natívnym súborovým systémom Linux"
+MenuImagen_MSG5="Vytvoriť .img obrázok akéhokoľvek blokového zariadenia"
+MenuImagen_MSG6="Vytvoriť obrázok .bin .cue z aktuálneho zariadenia"
+MenuImagen_MSG7="---------------- ĎALŠIE MOŽNOSTI ---------------"
+MenuImagen_MSG8="Vygenerovať súbor s popisom .cue z obrázku .bin"
+MenuImagen_MSG9="Konvertovať obrázok .nrg (Nero Burning ROM) na .iso"
+MenuImagen_MSG10="Komprimujte obrázok pomocou gzip, bzip2 alebo xz"
+MenuImagen_MSG11="Dekomprimovať obrázok v zip, gz, bz2 alebo xz"
+MenuImagen_MSG11B="Skontrolovať md5 súčet iso obrázkov"
+MenuImagen_MSG12="Zmeniť režim iso"
+MenuImagen_MSG0="Predchádzajúce menu"
+MenuImagen_MSG13="Súbor obrázku na komprimáciu"
+MenuImagen_MSG14="KOMPRESOVAŤ OBRÁZKOVÝ SÚBOR"
+MenuImagen_MSG15="Zadajte cestu k adresáru, kde sa nachádza obrázok, ktorý chcete komprimovať:"
+MenuImagen_MSG16="Súbor obrázku, ktorý chcete dekomprimovať"
+MenuImagen_MSG17="AKTUÁLNA ÚROVEŇ ISO"
+MenuImagen_MSG18="úroveň iso"
+MenuImagen_MSG19="Názvy súborov pozostávajú z sekcie"
+MenuImagen_MSG20="a sú obmedzené na 8,3 znakov."
+MenuImagen_MSG21="Vyberte túto úroveň, ak chcete kompatibilitu mien"
+MenuImagen_MSG21b="pod operačným systémom MS-DOS"
+MenuImagen_MSG22="Názvy súborov pozostávajú z sekcie"
+MenuImagen_MSG23="Neobmedzená úroveň."
+MenuImagen_MSG24="Použite túto úroveň, ak chcete kompatibilitu so súbormi"
+MenuImagen_MSG25="veľké, v tomto prípade >= 2 gigabajty."
+MenuImagen_MSG26="Všetky úrovne ISO obmedzujú názvy súborov na veľké, malé a"
+MenuImagen_MSG27="znaky ako _ . Názvy súborov sú obmedzené na 31 znakov"
+MenuImagen_MSG28="Maximálne 8 ciest k adresáru a názov cesty"
+MenuImagen_MSG29="adresáre do 255 znakov."
+MenuImagen_MSG30="Vyberte novú úroveň iso"
+MenuImagen_MSG31="ISO úroveň 4 nie je oficiálna"
+MenuImagen_MSG32="Pozrite si manuálovú stránku mkisofs"
+MenuImagen_MSG33="Neplatná úroveň ISO"
+MenuImagen_MSG34="Štandardne nastaviť úroveň iso 3"
+
+

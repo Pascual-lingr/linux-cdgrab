@@ -1,0 +1,73 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Tayiko, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="ИНТИХОБ КУНЕД"
+clonar_MSG2="------- Нусхаҳои дискҳои пешакии тасвир --------"
+clonar_MSG3="Нусхабардории CD-и маълумот"
+clonar_MSG4="Эҷоди тасвири қаблии CD дар диски сахт"
+clonar_MSG5="---------- НУСКАХОИ ДИСКИ ДАР ПАРВОЗ -----------"
+clonar_MSG6="CD-и маълумотро дар парвоз нусхабардорӣ кунед"
+clonar_MSG7="Клон кардани CD-и маълумот дар парвоз"
+clonar_MSG7B="Нусхабардории CD-и аудио дар парвоз"
+clonar_MSG8="ИАРҲАНТҲОИ НУСҲАИ ПАРВАРДИ ДУ Воҳиди оптикиро талаб мекунанд"
+clonar_MSG9="ДАР КОМПЮТЕРИ ШУМО НАСБ ШУДААСТ, АЗ БАРОИ АЗ ВАҚТИ САБТИ МАЪЛУМОТ"
+clonar_MSG10="Агар ТАНҲО КОММЮТЕРИ ШУМО ДОШТА БОШАД, АЗ ДИСКИ АСОСӢ ХОНЕД"
+clonar_MSG11="ЯГОН НАМЕТАВОНАД ИСТИФОДА ШУДАНИ НУСҲАҲО ДАР ПАРВОЗ."
+clonar_MSG12B="НУСҲАИ МАЪЛУМОТИ CD"
+clonar_MSG0="Менюи қаблӣ"
+
+# mgrabacd
+
+mgrabacd_MSG1="МАЪЛУМОТИ CD АЗ ДИКИ САХТ"
+mgrabacd_MSG2="Станки нави маълумотро нависед (истифодаи cdrtools)"
+mgrabacd_MSG3="Станки нави маълумотро сабт кунед (истифодаи libburnia)"
+mgrabacd_MSG4="Менюи қаблӣ"
+mgrabacd_MSG5="Интихоб ворид кунед"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="Сабти ТАВСИФИ МАЪЛУМОТ"
+mgrabaimg_MSG2="Тасвири iso ё ext2 ро дар CD-R/RW сабт кунед (истифодаи cdrtools)"
+mgrabaimg_MSG3="Тасвири iso ро дар CD-R/RW сабт кунед (истифодаи libburnia)"
+mgrabaimg_MSG4="Менюи қаблӣ"
+mgrabaimg_MSG5="Интихоб ворид кунед"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Сиди аудиоиро аз файлҳои .wav сабт кунед"
+mgrabararchivosaudio_MSG2="Сиди аудиоиро аз файлҳои .mp3 сабт кунед"
+mgrabararchivosaudio_MSG3="Сиди аудиоиро аз файлҳои .ogg сабт кунед"
+mgrabararchivosaudio_MSG0="Менюи қаблӣ"
+mgrabararchivosaudio_MSG0B="Интихобро нависед"
+mgrabararchivosaudio_MSG4="Сиди аудиоиро аз файлҳои .flac сабт кунед"
+mgrabararchivosaudio_MSG5="Сабти CD-АУДИО АЗ ФАЙЛХО"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="Сабт ба CD"
+menugrabar_cd_MSG2="------------------- CD - DATA --------------------"
+menugrabar_cd_MSG3="Нусхабардории CD маълумот"
+menugrabar_cd_MSG4="Станки маълумоти навро сабт кунед"
+menugrabar_cd_MSG5="Станки нави маълумоти бисёрҷаласаро сабт кунед"
+menugrabar_cd_MSG6="Тасвири .iso ё .ext2 ро дар CD сабт кунед"
+menugrabar_cd_MSG7="Тасвири .bin/.cue ро дар CD сабт кунед"
+menugrabar_cd_MSG8="-------------------- CD - AUDIO ------------------"
+menugrabar_cd_MSG9="CD-и аудиоиро нусхабардорӣ кунед"
+menugrabar_cd_MSG13="----------------- ДИГАР вариантхо ----------------"
+menugrabar_cd_MSG14="Сиди омехтаро сабт кунед (маълумот + аудио)"
+menugrabar_cd_MSG15="Нест кардани CD-RW"
+menugrabar_cd_MSG16="Пӯшидани CD и кушода"
+menugrabar_cd_MSG17="Намоиш додани маълумоти диск дар диск"
+menugrabar_cd_MSG18="Аз файлҳои диск CD и аудиоиро нависед"
+menugrabar_cd_MSG0="Менюи қаблӣ"
+menugrabar_cd_MSGPRINCIPAL="Ихтиёрро ворид кунед"
+

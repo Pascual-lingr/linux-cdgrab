@@ -1,0 +1,73 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFinnish/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabación en CD.
+# Traducción experimental al Finés, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="VALITSE VAIHTOEHTO"
+clonar_MSG2="------------- ESIKUVA-LEVYKOPIOITA -------------"
+clonar_MSG3="Kopioi data-CD"
+clonar_MSG4="Luo edellinen CD-kuva kiintolevylle"
+clonar_MSG5="------------- LEVYKOPIOITA LENTOLLA ------------"
+clonar_MSG6="Kopioi data-CD lennossa"
+clonar_MSG7="Kloonaa data-CD lennossa"
+clonar_MSG7B="Kopioi ääni-CD lennossa"
+clonar_MSG8="LENTÄVÄT KOPIOINTIVAIHTOEHDOT VAATIVAVAT KAKSI OPTIISTA YKSIKKÖÄ"
+clonar_MSG9="ASENNETTU TIETOKONEESEEN, KOSKA TIEDOT TALLENNAAN AIKANA"
+clonar_MSG10="LUE SUORAAN ALKUPERÄLEVYLTÄ, JOS VAIN TIETOKONEELLASI ON"
+clonar_MSG11="YKSI EI VOI KÄYTTÄÄ KOPIOITA LENTOLLA."
+clonar_MSG12B="KOPIOI DATA-CD"
+clonar_MSG0="Edellinen valikko"
+
+# mgrabacd
+
+mgrabacd_MSG1="CD-TIEDOT KIINTOLEVYLTÄ"
+mgrabacd_MSG2="Polta uusi data-CD (käytä cdrtoolsia)"
+mgrabacd_MSG3="Polta uusi data-CD (käytä libburniaa)"
+mgrabacd_MSG4="Edellinen valikko"
+mgrabacd_MSG5="Anna vaihtoehto"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="TIETOKUVAN TALLENNUS"
+mgrabaimg_MSG2="Pota iso- tai ext2-kuva CD-R/RW-levylle (käytä cdrtoolsia)"
+mgrabaimg_MSG3="Pota iso-kuva CD-R/RW-levylle (käytä libburniaa)"
+mgrabaimg_MSG4="Edellinen valikko"
+mgrabaimg_MSG5="Anna vaihtoehto"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Pota ääni-CD .wav-tiedostoista"
+mgrabararchivosaudio_MSG2="Pota ääni-CD .mp3-tiedostoista"
+mgrabararchivosaudio_MSG3="Pota ääni-CD .ogg-tiedostoista"
+mgrabararchivosaudio_MSG0="Edellinen valikko"
+mgrabararchivosaudio_MSG0B="Kirjoita vaihtoehto"
+mgrabararchivosaudio_MSG4="Pota ääni-CD .flac-tiedostoista"
+mgrabararchivosaudio_MSG5="CD-AUDIO TALLENNUS TIEDOSTOISTA"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="TALLENNUS CD:LLE"
+menugrabar_cd_MSG2="-------------------- CD - DATA -------------------"
+menugrabar_cd_MSG3="Kopioi data-CD"
+menugrabar_cd_MSG4="Pota uusi data-CD"
+menugrabar_cd_MSG5="Polta uusi usean istunnon data-CD"
+menugrabar_cd_MSG6="Pota .iso- tai .ext2-kuva CD-levylle"
+menugrabar_cd_MSG7="Pota .bin/.cue-kuva CD-levylle"
+menugrabar_cd_MSG8="-------------------- CD - AUDIO ------------------"
+menugrabar_cd_MSG9="Kopioi CD-äänilevy"
+menugrabar_cd_MSG13="---------------- MUITA VAIHTOEHTOJA --------------"
+menugrabar_cd_MSG14="Pota seka-CD (data + ääni)"
+menugrabar_cd_MSG15="Poista CD-RW"
+menugrabar_cd_MSG16="Sulje avoin CD"
+menugrabar_cd_MSG17="Näytä levyn tiedot asemassa"
+menugrabar_cd_MSG18="Pota ääni-CD levytiedostoista"
+menugrabar_cd_MSG0="Edellinen valikko"
+menugrabar_cd_MSGPRINCIPAL="Kirjoita vaihtoehto"
+

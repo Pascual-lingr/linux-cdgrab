@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAzerbaijani/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en Azerbaiyano para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="AUDIO CONVERSION"
+menu_conversion_audio_MSG2="---------- FORMATLAR ARASINDA KONVERSİYA ---------"
+menu_conversion_audio_MSG3=".mp3-ü .wav-a çevir"
+menu_conversion_audio_MSG4=".ogg-u .wav-a çevir"
+menu_conversion_audio_MSG5=".wav-ı .mp3-ə çevir"
+menu_conversion_audio_MSG6=".wav-ı .ogg-a çevir"
+menu_conversion_audio_MSG6C=".wav-ı .flac-a çevir"
+menu_conversion_audio_MSG6B=".flac-ı .wav-a çevir"
+menu_conversion_audio_MSG7="----------- AUDİO TREKLƏRİN ÇIXARILMASI ----------"
+menu_conversion_audio_MSG8="Audio CD-ni .wav-a köçürün"
+menu_conversion_audio_MSG9="Audio treklər dəstini .wav-a köçürün"
+menu_conversion_audio_MSG10="Audio CD-ni .mp3-ə köçürün"
+menu_conversion_audio_MSG11="Audio CD-ni .ogg-a köçürün"
+menu_conversion_audio_MSG0="Əvvəlki menyu"
+menu_conversion_audio_MSG12=".mp3 faylları axtarın"
+menu_conversion_audio_MSG13=".ogg fayllarını axtarın"
+menu_conversion_audio_MSG14=".wav fayllarını axtarın"
+menu_conversion_audio_MSG15="---------------- DİGƏR ƏMƏLİYYATLAR --------------"
+menu_conversion_audio_MSG16=".wav audio faylını kəs"
+menu_conversion_audio_MSG17="Audio CD-ni .flac-a köçürün"
+

@@ -1,0 +1,69 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en Tayiko para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Роҳи тасвири .img ё .ext2 барои партофтан ба диск."
+volcar_imagen_MSG2="--------------------------МУҲИМ------------------------------" 
+volcar_imagen_MSG3="+ Ин хосият дар дискҳои оптикӣ кор намекунад."
+volcar_imagen_MSG4="+ Дар дискҳо, дискетҳо, қисмҳои дискҳо ва ғайра истифода баред. "
+volcar_imagen_MSG5="+ Баррасии дискҳои сахт:"
+volcar_imagen_MSG6="+ Тасвир аз аввал бо dd навишта шудааст"
+volcar_imagen_MSG7=" аз диски муайяншуда, истифодаи рақам иҷозат дода намешавад"
+volcar_imagen_MSG8="бахши мушаххас барои оғози раванди навиштан"
+volcar_imagen_MSG9="+ Бо эҳтиёт истифода баред. Бо хатари худ истифода баред."
+volcar_imagen_MSG10="+ Қисмҳои диск метавонанд корношоям шаванд."
+volcar_imagen_MSG11="+ Истифодаи он дар системаҳои тақсимоти сершумор тавсия дода намешавад."
+volcar_imagen_MSG12="Барқароркунӣ метавонад ҷадвали тақсимотро тарк кунад ва"
+volcar_imagen_MSG13="худ қисмҳои бефоида."
+volcar_imagen_MSG14="-------------------------------------------------------------"
+volcar_imagen_MSG15="БАРОИ ДАВОМ ДОДАН ТУГАИ C ро пахш кунед; (Раванд дар варианти дигар бекор карда мешавад)"
+volcar_imagen_MSG16="Роҳи файли тасвирро барои партофтан ба диск муайян кунед: "
+volcar_imagen_MSG17="Баромади фармони насб:"
+volcar_imagen_MSG18="Дастгоҳи блокро, ки тасвир бояд партофта шавад, муайян кунед:"
+volcar_imagen_MSG19="ТАСВОРИ ДАМПИНГ"
+volcar_imagen_MSG20="ДАР ДАСТГОҲ"
+volcar_imagen_MSG21="иҷрошаванда"
+volcar_imagen_MSG22="РАВАНДИ ДАМПИ ТАСМИР ба охир расид"
+
+# volcar_iso
+
+volcar_iso_MSG1="Дастгоҳи блокро барои навиштани тасвири iso ба:"
+volcar_iso_MSG2="ОГОҲ"
+volcar_iso_MSG2B="----"
+volcar_iso_MSG3="Муайян кардани дастгоҳи блок барои навиштан."
+volcar_iso_MSG4="Намунаҳо: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Қисмҳои марбут ба ин дастгоҳро муайян накунед"
+volcar_iso_MSG6="Намунаҳо: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Тасвири iso-9660 ё img ро барои навиштан муайян кунед:"
+volcar_iso_MSG9="Раванд анҷом ёфт"
+volcar_iso_MSG10="Хато дар раванди навиштани iso"
+volcar_iso_MSG11="Андозаи блокро барои навиштани тасвир муайян кунед"
+volcar_iso_MSG12="Интихоби мувофиқи системаи оператсионӣ барои навиштан:"
+volcar_iso_MSG13="ISO-9660 ё тасвири пурборшавандаи IMG барои дурахш дар дастгоҳ:"
+volcar_iso_MSG14="Баромадан"
+volcar_iso_MSG15="ISO-9660 Ё ФАЙЛИ IMAGE IMG"
+volcar_ISO_MSG16="ИНТИХОБ КАРДАНИ СИСТЕМАИ ОПЕРАЦИЯИ БАРОИ ДАМП БА ВОХАТ"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Системаи файлиро бо он интихоб кунед"
+Formateador_linuxfs_MSG2="дастгоҳ формат карда мешавад:"
+Formateador_linuxfs_MSG3="Муайян кардани дастгоҳи блок барои формат кардан: "
+Formateador_linuxfs_MSG5="РАВАНДИ АНҶОМ ШУДА"
+Formateador_linuxfs_MSG6="FORMATTER DISK"
+Formateador_linuxfs_MSG7="Танзим кардани тамғаи ҳаҷм"
+Formateador_linuxfs_MSG10="Номи тамғаи ҳаҷмро муайян кунед"
+Formateador_linuxfs_MSG11="Тасвири ҳаҷми нав"
+Formateador_linuxfs_MSG12="Андозаи блокро муайян кунед"
+Formateador_linuxfs_MSG13="Андозаи блоки нав"
+Formateador_linuxfs_MSG14="Менюи қаблӣ"

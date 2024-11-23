@@ -1,0 +1,234 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAzerbaijani/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en azerbaiyano para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="ŞƏKİL FAYL SİSTEMİ"
+imagen_linux_fs_MSG2="Fayl sistemini seçin: "
+imagen_linux_fs_MSG3="CD-R/RW (702 Mbayt) üçün şəkil yaradın"
+imagen_linux_fs_MSG4="DVD+RW (4 Gbayt) üçün şəkil yaradın"
+imagen_linux_fs_MSG5="DVD+RW/DL (8 Gbayt) üçün şəkil yaradın"
+imagen_linux_fs_MSG5B="BD-R/RE (25 Gbayt) üçün şəkil yaradın"
+imagen_linux_fs_MSG5C="Xüsusi ölçüdə şəkil faylı yaradın"
+imagen_linux_fs_MSG6="702 Mbayt tutumlu boş fayl yaradılır"
+imagen_linux_fs_MSG7="4 Gbayt tutumlu boş fayl yaradılır"
+imagen_linux_fs_MSG8="8 Gbayt tutumlu boş fayl yaradılır"
+imagen_linux_fs_MSG8B="25 Gbayt tutumlu boş fayl yaradılması"
+imagen_linux_fs_MSG8C="Xüsusi ölçüdə boş fayl yaradılması"
+imagen_linux_fs_MSG9="SƏHV: ​​ŞƏKİL ÖLÇÜSÜ MƏLUM OLUNMUŞDUR. LƏĞDİR..."
+imagen_linux_fs_MSG10="İşləyir"
+imagen_linux_fs_MSG11="Proqram boş faylı formatlayacaq."
+imagen_linux_fs_MSG12="Sistem əvvəllər yaradılmış faylın bloklanma qurğusu olmadığı barədə xəbərdarlıq edəcək və onu formatlaşdırmaq istəyib-istəmədiyinizi soruşacaq"
+imagen_linux_fs_MSG13="Bəli cavab verin"
+imagen_linux_fs_MSG13="UĞURLU FORMALANDI"
+imagen_linux_fs_MSG14=" Montaj Şəkili..."
+imagen_linux_fs_MSG15="BOŞ FAYL FORMATLANAN ZAMAN XƏTA"
+imagen_linux_fs_MSG16="Proqram formatlanmış faylı quraşdırıb"
+imagen_linux_fs_MSG17="Linux-cdgrab fayl menecerini işə salacaq ki, o, quraşdırılmış şəkil üzərində işləyə bilsin"
+imagen_linux_fs_MSG18="Fayllar kopyalandıqdan sonra formatlanmış faylı ayırın"
+imagen_linux_fs_MSG19="Linux şəkli bu kataloqdadır"
+imagen_linux_fs_MSG19B="ŞƏKİL FAYLININ QURAŞDIRILMASI zamanı XƏTƏ"
+imagen_linux_fs_MSG20="Şəkilə daxil ediləcək fayllar. /mnt/lcdgrab-da quraşdırılıb"
+imagen_linux_fs_MSG21="Fayl meneceri işə salınır..."
+imagen_linux_fs_MSG22="DİQQƏT:"
+imagen_linux_fs_MSG23="------"
+imagen_linux_fs_MSG24="Şəkil"
+imagen_linux_fs_MSG25="hələ də quraşdırılıb"
+imagen_linux_fs_MSG26="dd İLƏ BOŞ FAYL YARADAN HƏTƏ"
+imagen_linux_fs_MSG27="da quraşdırılmış bölmədə boş yerin olub olmadığını yoxlayın."
+imagen_linux_fs_MSG34="FAYI FORMATLAMAQ ÜÇÜN FAYL SİSTEMİ"
+imagen_linux_fs_MSG35="XÜSUSİ ÖLÇÜLƏ BOŞ FAYIN YARALMASI"
+imagen_linux_fs_MSG36="Yeni boş faylın blok ölçüsünü təyin edin (yalnız rəqəmli dəyər):"
+imagen_linux_fs_MSG37="Blok ölçüsü üçün dəyər nümunələri bunlardır: 1024, 2048 (yalnız Ext2) və ya 4096 (Bütün formatlar)"
+imagen_linux_fs_MSG38="Yaradılacaq boş faylın ölçüsünü təyin edin (yalnız rəqəmli dəyər):"
+imagen_linux_fs_MSG39="Boş faylı yaratmaq üçün yer ölçüləri:"
+imagen_linux_fs_MSG40="İstifadə ediləcək boşluq ölçüsünü təyin edin: "
+imagen_linux_fs_MSG41="ÖLÇÜSÜNÜN ÖLÇÜLMƏSİNİ DEYİL EDƏN XƏTƏ"
+imagen_linux_fs_MSG42="Blok ölçüsü dəyəri:"
+imagen_linux_fs_MSG43="Boş fayl üçün yerin miqdarı:"
+imagen_linux_fs_MSG44="Baytla hesablanmış dəyər:"
+imagen_linux_fs_MSG45="Hesab üçün hesablanmış dəyər:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1=".iso şəkilləri yaradan zaman md5 oxunmasını aktivləşdir"
+comprobar_lectura_md5_MSG2=".iso şəkilləri yaradan zaman md5 oxunmasını deaktiv edin"
+comprobar_lectura_md5_MSG3="Əvvəlki menyu"
+comprobar_lectura_md5_MSG4="Cari konfiqurasiya:"
+comprobar_lectura_md5_MSG5="Aktivdir"
+comprobar_lectura_md5_MSG6="Əlil"
+comprobar_lectura_md5_MSG7="Oxu md5 məbləği aktivləşdirildi"
+comprobar_lectura_md5_MSG8="Md5 məbləğini oxumaq qeyri-aktiv edilib"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="İso şəklinin adını oxumaq mümkün olmadı"
+leer_md5sum_MSG2="Md5sum oxunur"
+leer_md5sum_MSG3="Şəklin md5 cəmi göstərilir"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="CD ŞƏKİLİNİN YARADILMASI"
+extraer_isoCD_dd_MSG2="ŞƏKİL YARADILDI"
+extraer_isoCD_dd_MSG3="Tapılmadı"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="DVD ŞƏKİLİ YARADIRMA"
+extraer_isoDVD_dd_MSG2="çalışır"
+extraer_isoDVD_dd_MSG3="ŞƏKİL YARADILDI"
+extraer_isoDVD_dd_MSG4="Tapılmadı"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="işləyir"
+extraer_iso_readcd_MSG2="ŞƏKİL UĞURLA YARADILDI"
+extraer_iso_readcd_MSG3="Şəkil yaradılmışdır"
+extraer_iso_readcd_MSG4="Qeydiyyat prosesi dayandırılır..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Quraşdırılmış CD"
+extraer_iso_mkisofs_MSG2="Şəkil yaradılır..."
+extraer_iso_mkisofs_MSG3="Macintosh uyğunluğu aktivdir"
+extraer_iso_mkisofs_MSG4="İstifadə etmək"
+extraer_iso_mkisofs_MSG5="çalışır"
+extraer_iso_mkisofs_MSG6="Şəkil kataloqda yaradılmışdır"
+extraer_iso_mkisofs_MSG7="Prosesi Macintosh dəstəyi olmadan yenidən sınamaq"
+extraer_iso_mkisofs_MSG8="Şəkil kataloqda yaradılmışdır"
+extraer_iso_mkisofs_MSG9="mkisofs yaratarkən naməlum xətaları qaytarır"
+extraer_iso_mkisofs_MSG10="dan"
+extraer_iso_mkisofs_MSG11="Məlumat bütövlüyünü yoxlayın"
+extraer_iso_mkisofs_MSG12="Quraşdırma"
+extraer_iso_mkisofs_MSG12B="en"
+extraer_iso_mkisofs_MSG13="genisoimage yaratarkən naməlum xətaları qaytarır"
+extraer_iso_mkisofs_MSG13B="dan"
+extraer_iso_mkisofs_MSG14="Mkisofs və genisoimage tapılmadı. Lütfən, cdrtools və ya cdrkit quraşdırın."
+extraer_iso_mkisofs_MSG15="Quraşdırmaq mümkün olmadı"
+extraer_iso_mkisofs_MSG16="Şəkil uğurla yaradıldı"
+
+# m_comp_img
+
+m_comp_img_MSG1="ŞƏKİL UĞURLU YARATILDI"
+m_comp_img_MSG2="SİZ ŞƏKİL FAYLINI SIKMAK İSTƏYİRSİNİZ?"
+m_comp_img_MSG3="(s/y) sıxışdırmaq; Proses başqa seçimlə ləğv edilir."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Fayl meneceri işə salınır..."
+generar_iso_directorio_MSG2="Gələcək CD/DVD/BD üçün ad daxil edin"
+generar_iso_directorio_MSG3="ŞƏKİL YARADIR..."
+generar_iso_directorio_MSG4="Macintosh uyğunluğu aktivdir"
+generar_iso_directorio_MSG5="İstifadə etmək"
+generar_iso_directorio_MSG6="çalışır"
+generar_iso_directorio_MSG7="QAYRAQDA YARADAN ŞƏKİL"
+generar_iso_directorio_MSG8="ŞƏKİL YARADILMASI PROSESİ UĞURSUZDUR"
+generar_iso_directorio_MSG9="MACINTOSH UYĞUNLUĞU OLMADAN ŞƏKİL YARATMAQ"
+generar_iso_directorio_MSG10="Mkisofs və genisoimage tapılmadı. Lütfən, cdrtools və ya cdrkit quraşdırın."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Gələcək DVD/BD üçün ad daxil edin"
+generar_bdv_udf_directorio_MSG2="Video şəklini yaratmaq üçün kataloqu göstərin:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Disk etiketini göstərin:"
+generar_iso_directorio_libburnia_MSG2="iso-9660 şəklini yaratmaq üçün kataloqu təyin edin:"
+generar_iso_directorio_libburnia_MSG3="ISO9660 təsviri uğurla yaradıldı!!"
+generar_iso_directorio_libburnia_MSG4="Xorriso ilə iso-9660 şəklini yaradan zaman xəta"
+
+# imagenISO
+
+imagenISO_MSG1=".iso şəklinə daxil ediləcək fayl və qovluqlar"
+imagenISO_MSG2="BİR SEÇİM SEÇİN"
+imagenISO_MSG2B="---------------"
+imagenISO_MSG3="CD-dən ISO-9660 şəkli yaradın (dd istifadə edin)"
+imagenISO_MSG4="DVD-dən ISO-9660 şəkli yaradın (dd istifadə edin)"
+imagenISO_MSG5="CD-dən ISO-9660 təsviri yaradın (readcd istifadə edin)"
+imagenISO_MSG6="CD və ya DVD diskindən ISO-9660 şəkli yaradın (mkisofs istifadə edin)"
+imagenISO_MSG7="Sərt disk məlumatlarından ISO-9660 şəkli yaradın (mkisofs istifadə edin)"
+imagenISO_MSG8="Əvvəlki menyu"
+imagenISO_MSG9="Şəkil YARADIRMA"
+imagenISO_MSG10="Sərt disk məlumatından ISO-9660 şəkli yaradın (xorriso istifadə edin)"
+imagenISO_MSG11="CD/DVD/BD-dən iso/udf şəkli yaradın (mkisofs istifadə edin)"
+imagenISO_MSG12="Sərt disk məlumatından iso/udf şəkli yaradın (mkisofs istifadə edin)"
+imagenISO_MSG13="ISO-9660 FORMATTER MENYUSU"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Sərt disk məlumatından UDF/ISO şəkli yaradın (mkisofs istifadə edin)"
+imagenISO_MSG15="DVD Video dəstəyi ilə UDF/ISO şəkli yaradın (mkisofs istifadə edin)"
+
+# imagen_img
+
+imagen_img_MSG1="Şəklin hazırlanacağı mənbə blok cihazını yazın"
+imagen_img_MSG2="----------------------------------------------"
+imagen_img_MSG3="/etc/fstab və /etc/mtab-da qeydiyyatdan keçmiş cihazlar"
+imagen_img_MSG4="Bağlantı əmrinin çıxışı:"
+imagen_img_MSG5="Cihazın adını daxil edin: "
+imagen_img_MSG6="Blok cihazının .img şəklinin yaradılması"
+imagen_img_MSG7="çalışır"
+imagen_img_MSG8="CİHAZ ŞƏKİLİ YARADILDI"
+
+# monta_img
+
+monta_img_MSG1="Quraşdırmaq üçün ISO və ya ext2 şəkli."
+monta_img_MSG2="Quraşdırılacaq şəklin yerləşdiyi kataloq yolunu yazın:"
+monta_img_MSG3="QURULMUŞ CD ŞƏKİLİ:"
+monta_img_MSG4="ŞƏKİL FAYLINI QURAŞDIRAN XƏTƏ"
+monta_img_MSG5="TAPILMADI"
+monta_img_MSG6="QURMA NÖQTƏSİ YOXDUR"
+monta_img_MSG7="Gözlənilməyən XƏta"
+
+# desmonta_img
+
+desmonta_img_MSG1="Sökmək üçün ISO və ya ext2 şəkli."
+desmonta_img_MSG2="SÖKÜLMÜŞ ŞƏKİL"
+desmonta_img_MSG3="Qurulmuş şəkil tapılmadı"
+desmonta_img_MSG4="Çıxışın quraşdırılması:"
+desmonta_img_MSG5="Şəklin mütləq kataloq yolunu birbaşa təyin edə bilərsiniz."
+desmonta_img_MSG6="/tmp/lcdgrabimg.iso kimi və ya /mnt/lcdgrab kimi şəkil üçün montaj kataloqu"
+desmonta_img_MSG7="Əgər qeyd olunmayıbsa, onu fayl menecerindən istifadə etməklə axtarmaq olar"
+desmonta_img_MSG8="Fayl meneceri işə salınır"
+desmonta_img_MSG9="Şəklin yolunu göstərin."
+desmonta_img_MSG10="SÖKÜLMÜŞ ŞƏKİL"
+desmonta_img_MSG11="ŞƏKİLİ SÖNDÜRƏN XƏTA"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".iso ya çevirmək üçün nrg şəkli"
+nrg_a_iso_MSG2="Çevrmək üçün .nrg (Nero Burning ROM) şəklinin yolunu daxil edin"
+nrg_a_iso_MSG3="Şəkil çevrilir..."
+nrg_a_iso_MSG4="Mənbə .nrg şəklinin yolu"
+nrg_a_iso_MSG5="mövcud deyil və ya kataloqa uyğundur"
+nrg_a_iso_MSG6="Yanlış yol."
+nrg_a_iso_MSG7="bu, artıq əvvəlki ISO-9660 şəklidir, çevrilməyəcək."
+nrg_a_iso_MSG8="Fərqli artırma ilə kopyalanır..."
+nrg_a_iso_MSG9="KOPYALAMA TAMAMLANDI"
+nrg_a_iso_MSG10="çalışır"
+nrg_a_iso_MSG11="Şəkil uğurla çevrildi"
+nrg_a_iso_MSG12="Şəkil .iso YARADAN XƏTA"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1=".bin təsvirindən .cue təsvir faylı yaradın"
+GenerarArchivocue_MSG2="Cari aktiv kataloq"
+GenerarArchivocue_MSG3="Yalnız kataloq yolunu yazın."
+GenerarArchivocue_MSG4="şəkil faylını tap:"
+GenerarArchivocue_MSG5=".bin şəklinin adını daxil edin"
+GenerarArchivocue_MSG6="müvafiq .cue faylını yaratdı"
+GenerarArchivocue_MSG7="TƏSVİRİ FAYI .cue UĞURLA YARADILDI"
+GenerarArchivocue_MSG8="TƏSVİRİ FAYI YARATDAN ZAMAN XƏTA .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="çalışır"
+ImagenbincueCDDVD_MSG2="DİSK ŞƏKİSİ .BIN .CUE UĞURLU YARATILDI"
+

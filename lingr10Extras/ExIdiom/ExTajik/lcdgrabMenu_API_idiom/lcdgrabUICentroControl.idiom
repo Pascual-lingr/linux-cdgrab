@@ -1,0 +1,282 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Tayiko para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Танзимоти Linux-cdgrab"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Агар шумо намедонед, ки ба кадом канали IDE тааллуқ дорад" 
+ayuda_IDE_MSG2="магнитофони шумо метавонад тавассути пахш кардани ҳарфи t маълумот пайдо кунад."
+ayuda_IDE_MSG3="Намунаи канали IDE метавонад 0,0,0 ё 0,1,0 бошад"
+ayuda_IDE_MSG4="Шумо инчунин метавонед дастгоҳи мувофиқро муайян кунед"
+ayuda_IDE_MSG5="ба сабткунандаи худ. Агар шумо намедонед, ки кадоме аз он аст, d-ро пахш кунед,"
+ayuda_IDE_MSG6="барои дидани дастгоҳҳои дар файли /etc/fstab сабтшуда"
+ayuda_IDE_MSG7="Намунаи дастгоҳҳо метавонад /dev/hdd, /dev/hde ва ғайра бошад."
+ayuda_IDE_MSG8="Агар шумо хоҳед, шумо инчунин метавонед ҳамаи дастгоҳҳои мавҷударо номбар кунед"
+ayuda_IDE_MSG9="дар директорияи /dev бо пахш кардани ҳарфи l."
+ayuda_IDE_MSG10="Шумо бояд канали IDE ё дастгоҳи сабтро муайян кунед"
+ayuda_IDE_MSG11="вале на ҳарду."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab аз системаи шумо нест карда шуд"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Суръати сабт"
+imprimir_variables_MSG2="Канал ё дастгоҳи сабти IDE/SCSI"
+imprimir_variables_MSG3="CD-ROM, DVD-ROM ё хонандаи BD-ROM"
+imprimir_variables_MSG4="Дастгоҳи ATAPI"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Суръати сабт"
+imprimir_lcdgrabcfg_MSG2="Канал ё дастгоҳи сабти IDE/SCSI"
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM ё хонандаи BD-ROM"
+imprimir_lcdgrabcfg_MSG4="Дастгоҳи ATAPI"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Насбшуда"
+chequeo_de_aplicaciones_MSG2="НАСБ НАШУДА"
+chequeo_de_aplicaciones_MSG3="Насб кардан"
+chequeo_de_aplicaciones_MSG4="МУҲИМ:"
+chequeo_de_aplicaciones_MSG5="Насб кардани асбобҳои зарурии Linux-cdgrab комилан кор мекунад"
+chequeo_de_aplicaciones_MSG6="Ҳамаи барномаҳое, ки ба Linux-cdgrab ниёз доранд, дар системаи шумо насб карда шудаанд"
+chequeo_de_aplicaciones_MSG4B="Огоҳӣ:"
+chequeo_de_aplicaciones_MSG5B="Асбобҳои гумшуда ёфт шуданд"
+chequeo_de_aplicaciones_MSG6B="Асбобҳое, ки дар система насб шудаанд"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 ба таври пешфарз ба ин тағирёбанда таъин шудааст"
+msgdefCANALATAPI_MSG2="Файли конфигуратсия бо CANALATAPI = 0,0,0 навишта мешавад"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Файли конфигуратсия ба таври худкор аз ҷониби Linux-cdgrab тавлид шудааст."
+nuevo_lcdgrabcfg_MSG5="cdrecord дар система ёфт нашуд"
+nuevo_lcdgrabcfg_MSG6="Бастаи cdrtools-ро насб кунед."
+nuevo_lcdgrabcfg_MSG7="Шумо метавонед конфигуратсияро бо нишон додани арзишҳо идома диҳед"
+nuevo_lcdgrabcfg_MSG8="сабти агар шумо онҳоро қаблан медонистед."
+nuevo_lcdgrabcfg_MSG9="Фармони cdrecord барои сабти дискҳои CD, DVD ва BD истифода мешавад"
+nuevo_lcdgrabcfg_MSG10="Ин хосиятҳо то насб нашудани бастаи зикршуда кор намекунанд."
+nuevo_lcdgrabcfg_MSG11="Асбоби сканкунии диски мавҷуда низ кор намекунад"
+nuevo_lcdgrabcfg_MSG12="дар ин устоди конфигуратсия."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab бояд дар чор қадами зерин танзим карда шавад"
+nuevo_lcdgrabcfg_MSG14="Қадами аввал."
+nuevo_lcdgrabcfg_MSG15="Суръати сабт"
+nuevo_lcdgrabcfg_MSG16="Танҳо як адад 2,4,8,16,32... ва ғайра"
+nuevo_lcdgrabcfg_MSG17="Қадами дуюм."
+nuevo_lcdgrabcfg_MSG18="Канал ё дастгоҳи сабти IDE/SCSI:"
+nuevo_lcdgrabcfg_MSG19="A -> кӯмак"
+nuevo_lcdgrabcfg_MSG20="Сканкунӣ..."
+nuevo_lcdgrabcfg_MSG21="Хатои сканкунии порти IDE/SCSI"
+nuevo_lcdgrabcfg_MSG22="Cdrecord ёфт нашуд"
+nuevo_lcdgrabcfg_MSG23="Қадами сеюм."
+nuevo_lcdgrabcfg_MSG24="CD-ROM, DVD-ROM ё дастгоҳи BD-ROM"
+nuevo_lcdgrabcfg_MSG25="L -> Рӯйхати дастгоҳҳои дастрас"
+nuevo_lcdgrabcfg_MSG26="Сканкунӣ..."
+nuevo_lcdgrabcfg_MSG27="Боргоҳи IDE/SCSI скан карда шуд"
+nuevo_lcdgrabcfg_MSG28="Дистемае, ки аз ҷониби cdrecord тавассути dev=ATAPI дар сабтҳои бисёрсессия истифода мешавад"
+nuevo_lcdgrabcfg_MSG30="Дастгоҳ дорои номенклатура ба монанди 0,0,0 ё 1,0,0 ва ғайра"
+nuevo_lcdgrabcfg_MSG31="Таҷҳизотеро барои занг задани cdrecord дар CD-ҳои бисёрсессия муайян кунед: "
+nuevo_lcdgrabcfg_MSG32="Конфигуратсия барои CANALATAPI дуруст нест"
+nuevo_lcdgrabcfg_MSG33="Хатои сканкунии порти IDE/SCSI"
+nuevo_lcdgrabcfg_MSG34="Cdrecord ёфт нашуд"
+nuevo_lcdgrabcfg_MSG36="Файли конфигуратсия ба таври худкор аз ҷониби Linux-cdgrab тавлид шудааст."
+nuevo_lcdgrabcfg_MSG37="НАЗБАТИ LINUX-CDGRAB ба охир расид"
+
+# colores
+
+colores_MSG1="Рӯйхати рангҳоро ёфтан ғайриимкон аст"
+colores_MSG2="Рангҳои пешфарз бор карда мешавад"
+colores_MSG3="Барои интерфейси LINUX-CDGRAB схемаи рангҳои навро интихоб кунед"
+colores_MSG4="Шрифти сиёҳ"
+colores_MSG5="Шрифти равшани СТАНДАРТ"
+colores_MSG6="РАНГИ СИЁҲ"
+colores_MSG7="Шрифти сурх"
+colores_MSG8="Шрифти сиёҳ дурахшон"
+colores_MSG9="РАНГИ ЗАҲФОНА СУРХ"
+colores_MSG10="FONT САБЗ"
+colores_MSG11="ФАВОНТАНИ СУРХИ ДУРОҲ"
+colores_MSG12="РАНГИ ЗАҲФОНА САБЗ"
+colores_MSG13="Шрифти ЗАРД"
+colores_MSG14="Шрифти САБЗИ ДУРОҲ"
+colores_MSG15="РАНГИ ЗАҲФОНА НОРУНҶӢ"
+colores_MSG16="Шрифти кабуд"
+colores_MSG17="Шрифти ЗАРДИ ДУРОҲ"
+colores_MSG18="РАНГИ ЗАҲФОНА КАБУД"
+colores_MSG19="Шрифти MAGENTA"
+colores_MSG20="Шрифти кабуди дурахшон"
+colores_MSG21="РАНГИ ЗАҲФОНА МАГЕНТА"
+colores_MSG22="МАНЧАИ КАБИБ"
+colores_MSG23="Шрифти МАГЕНТА ДУРА"
+colores_MSG24="РАНГИ ЗААВБОНА"
+colores_MSG25="Шрифти хокистарӣ"
+colores_MSG26="РАНГИ ЗААВБАНГОР"
+colores_MSG27="Шрифти РАҲФИ САВГАРИ"
+colores_MSG28="РАНГИ ЗАҲФОНА"
+colores_MSG29="МАНЧАИ ПАСФАРЗ"
+colores_MSG30="Шрифти РАХОНИ САФЕД"
+colores_MSG31="РАНГИ ЗАҲФАУНДА"
+colores_MSG32="Рақами ранг барои шрифт: "
+colores_MSG33="Рақами ранг барои замина: "
+colores_MSG34="Рақами ранг барои паёмҳои огоҳкунанда: "
+colores_MSG35="Рақами ранг барои паёмҳои барчасп: "
+colores_MSG36="Рақами ранг барои равандҳои бомуваффақият анҷомёфта"
+colores_MSG37="Рақами ранг барои равандҳои бо хато қатъшуда: "
+colores_MSG38="Схемаи нав барои LINUX-CDGRAB"
+colores_MSG39="РАНГИ Шрифтҳои УМУМӢ"
+colores_MSG40="LABELS"
+colores_MSG41="Огоҳӣ"
+colores_MSG42="МУВАФФАКИЯТ"
+colores_MSG43="ХАТО"
+colores_MSG44="РАНГИ ЗАҲФОН"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="Рӯйхати рангҳои дастрас:"
+cambiar_esquema_de_color_MSG2="#####Схемаи ранга#######"
+cambiar_esquema_de_color_MSG3="------------------------"
+cambiar_esquema_de_color_MSG4="Менюи ранг"
+cambiar_esquema_de_color_MSG5="Муваффақ шуд"
+cambiar_esquema_de_color_MSG6="Табликҳо"
+cambiar_esquema_de_color_MSG6b="Огоҳҳо"
+cambiar_esquema_de_color_MSG7="Менюи ранга Хуб Нишонҳои огоҳӣ дар бораи хатогӣ"
+cambiar_esquema_de_color_MSG8="Рақами ранги навро ворид кунед:"
+cambiar_esquema_de_color_MSG9="ИАРХИ НАДОРАД"
+cambiar_esquema_de_color_MSG10="ТАЗОБ ГИРИФТАНИ РАНГҲОИ САФАР."
+cambiar_esquema_de_color_MSG11="  ЗАҲАҲО = КАБУД_ЗАҲОН"
+cambiar_esquema_de_color_MSG12="  FONT = РАНГИ САФЕД"
+cambiar_esquema_de_color_MSG13="  ОГОҲӢ = ЗАРДИ РӮҲ"
+cambiar_esquema_de_color_MSG14="  ХАТОҲО = СУРХИ ДУРАХШ"
+cambiar_esquema_de_color_MSG15="  ХАТОҲО = СУРХИ ДУРАХШ"
+cambiar_esquema_de_color_MSG16="  HITS = САБЗИ ДУРАХШ"
+cambiar_esquema_de_color_MSG17="  ТАБИБҲО = СЯНИ ДУРАХШ"
+
+# cambia_lector
+
+cambia_lector_MSG1="ПАРЗИШҲОИ муҳит БАРОИ ВОДИҲОИ ОПТИКӢ"
+cambia_lector_MSG2="Дастгоҳи ҷории бо CD-ROM, DVD-ROM ё BD-ROM алоқаманд"
+cambia_lector_MSG3="Дастгоҳи ҷории бо CD/DVD/BD Burner алоқаманд"
+cambia_lector_MSG4="Дастгоҳи ҷорӣ бо параметри dev=ATAPI алоқаманд"
+cambia_lector_MSG5="(дастгирии бисёрҷаласаи сабти CD)"
+cambia_lector_MSG6="Таҷҳизотеро интихоб кунед, ки дар он тағирот бояд анҷом дода шавад."
+cambia_lector_MSG7="Варианти ворид кунед:"
+cambia_lector_MSG8="Номи дастгоҳи навро ворид кунед"
+cambia_lector_MSG9="ба дастгоҳи блок мувофиқат намекунад"
+cambia_lector_MSG10="Дастгоҳ"
+cambia_lector_MSG11="бо нобаёнӣ таъин шудааст"
+cambia_lector_MSG12="Дастгоҳи нав ин аст:"
+cambia_lector_MSG13="На ҳама версияҳои cdrecord дастгоҳи блокро ҳамчун параметри сабт қабул мекунанд"
+cambia_lector_MSG14="Номи дастгоҳи нави ATAPI-ро ворид кунед"
+cambia_lector_MSG15="Конфигуратсия барои CANALATAPI дуруст нест"
+cambia_lector_MSG16="0,0,0 ба таври пешфарз ба ин тағирёбанда таъин шудааст"
+cambia_lector_MSG17="Файли конфигуратсия бо CANALATAPI = 0,0,0 навишта мешавад"
+cambia_lector_MSG18="Дастгоҳи нав ин аст:"
+cambia_lector_MSG19="ДАР ДАСТГОҲҲО ҲЕҶ ТАҒЙИР НАМЕШАВАД"
+cambia_lector_MSG4B="Экспорти арзишҳо аз файли конфигуратсия"
+cambia_lector_MSG4C="ИН АРЗИШҲО БА муҳит хабар дода шудаанд:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Аз ин меню шумо метавонед кадом утилитаро интихоб кунед"
+cambia_generador_isocd_MSG2="барои тавлиди тасвирҳои ISO-9660 истифода мешавад"
+cambia_generador_isocd_MSG3="аз CDS мавҷуда дар воҳиди хониш."
+cambia_generador_isocd_MSG4="Танзимоти ҷорӣ:"
+cambia_generador_isocd_MSG5="Истифода dd (компоненти GNU coreutils)"
+cambia_generador_isocd_MSG6="Истифодаи readcd (компоненти cdrtools)"
+cambia_generador_isocd_MSG7="Менюи қаблӣ."
+cambia_generador_isocd_MSG8="Интихоб интихоб кунед:"
+cambia_generador_isocd_MSG9="Истифодаи dd ҳамчун генератори изофӣ."
+cambia_generador_isocd_MSG10="Истифодаи readcd ҳамчун генератори изофӣ."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Танзим кардани метамаълумоти HFS дар якҷоягӣ бо Рок Риҷ ва Ҷолиет"
+establecer_hfs_iso_MSG2="Танҳо метамаълумоти Rock Ridge ва Joliet ро истифода баред"
+establecer_hfs_iso_MSG3="Менюи қаблӣ."
+establecer_hfs_iso_MSG4="Интихоби интихоб:"
+establecer_hfs_iso_MSG5="Истифодаи метамаълумоти HFS, Rock Ridge ва Joliet"
+establecer_hfs_iso_MSG6="Истифодаи метамаълумоти Rock Ridge ва Joliet"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Системаи огоҳии ҷорӣ"
+cambia_notificaciones_MSG2A="Интерфейси графикии GNOME"
+cambia_notificaciones_MSG2B="Интерфейси графикии KDE"
+cambia_notificaciones_MSG2="Интерфейс бо ncurses"
+cambia_notificaciones_MSG3="Интерфейси матн"
+cambia_notificaciones_MSG4="Баромадан"
+cambia_notificaciones_MSG5="Интихоб интихоб кунед:"
+cambia_notificaciones_MSG6="Истифодаи интерфейс бо муколама"
+cambia_notidicaciones_MSG6B="Истифодаи интерфейс бо zenity"
+cambia_notidicaciones_MSG6C="Истифодаи интерфейс бо kdialog"
+cambia_notificaciones_MSG7="Фармони муколама ёфт нашуд"
+cambia_notificaciones_MSG8="Истифодаи интерфейси матнӣ"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Забони истифодашаванда:"
+cambiar_idioma_UI_MSG1="Забонҳои ҳозира дастрас:"
+cambiar_idioma_UI_MSG2="Номи забоне, ки истифода мешавад, ворид кунед"
+cambiar_idioma_UI_MSG3="дар интерфейси барнома:"
+cambiar_idioma_UI_MSG4="Забони нави истифодашуда ин аст:"
+cambiar_idioma_UI_MSG5="LINUX-CDGRAB ро аз нав оғоз кунед"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Танзимоти ҷорӣ"
+seleccion_gestor_archivos_MSG2="Истифодаи mc"
+seleccion_gestor_archivos_MSG3="Истифода аз менеҷери матнии ҳамгирошуда"
+seleccion_gestor_archivos_MSG4="mc-ро дар система ёфтан мумкин нест"
+seleccion_gestor_archivos_MSG5="Истифода аз рӯи нобаёнӣ менеҷери матнии ҳамгирошуда"
+seleccion_gestor_archivos_MSG6="mc utility"
+seleccion_gestor_archivos_MSG7="Матни ҳамгирошуда"
+
+# centro_de_control
+
+centro_de_control_MSG1="МАРКАЗИ НАЗОРАТ"
+centro_de_control_MSG2="Танзимоти нав"
+centro_de_control_MSG3="Нест кардани файли конфигуратсия"
+centro_de_control_MSG4="Намоиш додани файли конфигуратсияи ҷорӣ ва арзишҳо"
+centro_de_control_MSG5="АРЗИШҲОИ ФАЙЛИ КОНФИГУРАЦИЯ:"
+centro_de_control_MSG5B="КОНФИГУРАЦИЯИ ҲОЗИРӢ ДАР муҳит истифодашаванда:"
+centro_de_control_MSG6="Тағйир додани медиаи оптикӣ"
+centro_de_control_MSG7="Барномаҳои насбшударо санҷед"
+centro_de_control_MSG8="Скан кардани порти IDE/SCSI бо сабти CD"
+centro_de_control_MSG8C="Скан кардани порти IDE/SCSI бо cdrskin"
+centro_de_control_MSG8B="Рӯйхати воҳидҳои дар система бо cdrskin насбшуда"
+centro_de_control_MSG9="Тағйир додани утилитаи тавлидкунандаи iso аз CD"
+centro_de_control_MSG9B="Танзим кардани метамаълумоти HFS барои iso-9660"
+centro_de_control_MSG10="Иваз кардани интерфейси корбар"
+centro_de_control_MSG10b="Тағйир додани ранг"
+centro_de_control_MSG10c="Тағйир додани забони интерфейс"
+centro_de_control_MSG11="Тағйир додани менеҷери файл"
+centro_de_control_MSG11B="Нест кардани барнома"
+centro_de_control_MSG12="Интихоб ворид кунед: "
+centro_de_control_MSG13="ФАЙЛИ КОНФИГУРАЦИЯ вуҷуд надорад"
+centro_de_control_MSG14="ФАЙЛИ КОНФИГУРАЦИЯ НАЁФТ"
+centro_de_control_MSG15="Сканкунӣ"
+centro_de_control_MSG16="Боргоҳи IDE/SCSI скан карда шуд"
+centro_de_control_MSG17="Хатои сканкунии порти IDE/SCSI"
+centro_de_control_MSG18="Схемаи рангро интихоб кунед"
+centro_de_control_MSG19="Рангҳоро худсарона интихоб кунед"
+centro_de_control_MSG20="Менюи қаблӣ"
+centro_de_control_MSG21="Интихоб ворид кунед: "
+centro_de_control_MSG22="ФАЙЛИ КОНФИГУРАЦИЯ вуҷуд надорад"
+centro_de_control_MSG23="ФАЙЛИ КОНФИГУРАЦИЯ НАЁФТ"
+centro_de_control_MSG24="Схемаи рангро интихоб кунед"
+centro_de_control_MSG25="Рангҳоро худсарона интихоб кунед"
+centro_de_control_MSG26="Интихоби нодуруст"
+

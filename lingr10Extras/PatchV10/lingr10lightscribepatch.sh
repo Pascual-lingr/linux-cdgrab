@@ -18,6 +18,7 @@ read xcxcxcx
 
 cabecera_lightscribe(){
 
+clear
 echo $cabecera_lightscribe_MSG1
 echo $cabecera_lightscribe_MSG2
 echo $cabecera_lightscribe_MSG3
@@ -55,7 +56,6 @@ case $UD in
     foto=$(kdialog --title "$cabecera_lightscribe_MSG2" --inputbox "$imprimir_disco_lightscribe_MSG1" " " --geometry=400x250)
 ;;
 esac
-	clear
 	echo -e "${COLOR_DEL_INTERFAZ}${FONDO_INTERFAZ}"
 	cabecera_lightscribe
 
@@ -70,7 +70,7 @@ esac
 		;;
 
 		1)
-			echo $imprimir_disco_lightscribe_MSG4
+			echo -e "${C_OK}$imprimir_disco_lightscribe_MSG4${COLOR_DEL_INTERFAZ}${FONDO_INTERFAZ}"
 			presskey
 
 		;;
@@ -93,7 +93,7 @@ esac
 		;;
 
 		1)
-			echo $imprimir_disco_lightscribe_MSG5
+			echo -e "${C_FA}$imprimir_disco_lightscribe_MSG5${COLOR_DEL_INTERFAZ}${FONDO_INTERFAZ}"
 			presskey
 
 		;;
@@ -157,7 +157,6 @@ case $UD in
 	echo -e ${COLOR_DEL_INTERFAZ}
 	echo -e ${FONDO_INTERFAZ}
 
-	clear
 	cabecera_lightscribe
 	echo -e "${C_AV}"
 	echo $lingr10lightscribepatch_MSG1
@@ -206,7 +205,7 @@ esac
 		;;
 
 		*)
-			echo $lingr10lightscribepatch_MSG6
+			echo -e "${C_FA}$lingr10lightscribepatch_MSG6${COLOR_DEL_INTERFAZ}${FONDO_INTERFAZ}"
 			sleep 1
 			continue
 		;;

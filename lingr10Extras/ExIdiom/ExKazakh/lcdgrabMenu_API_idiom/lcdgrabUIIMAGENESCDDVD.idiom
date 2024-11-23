@@ -1,0 +1,49 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKazakh/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Kazajo, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="ДИСК БЕЙНЕЛЕРІН ЖАСАУ ЖӘНЕ ЖАСАУ"
+MenuImagen_MSG2="----------------- БЕЙНЕТ ЖАСАУ -----------------"
+MenuImagen_MSG3="ISO-9660 кескінін жасау"
+MenuImagen_MSG4="Туған Linux файлдық жүйесімен кескін жасау"
+MenuImagen_MSG5="Кез келген блок құрылғысының .img кескінін жасау"
+MenuImagen_MSG6="Ағымдағы құрылғыдан .bin .cue кескінін жасау"
+MenuImagen_MSG7="---------------- БАСҚА ОПЦИЯЛАР ----------------"
+MenuImagen_MSG8=".bin суретінен .cue сипаттама файлын жасау"
+MenuImagen_MSG9=".nrg (Nero Burning ROM) кескінін .iso түріне түрлендіру"
+MenuImagen_MSG10="Gzip, bzip2 немесе xz көмегімен кескінді сығу"
+MenuImagen_MSG11="Zip, gz, bz2 немесе xz форматындағы кескінді ашу"
+MenuImagen_MSG11B="iso кескіндердің md5 сомасын тексеру"
+MenuImagen_MSG12="Изо режимін өзгерту"
+MenuImagen_MSG0="Алдыңғы мәзір"
+MenuImagen_MSG13="Сығылатын кескін файлы"
+MenuImagen_MSG14="СУРЕТ ФАЙЛЫН ҚЫСУ"
+MenuImagen_MSG15="Қысқыңыз келетін кескін орналасқан каталог жолын теріңіз:"
+MenuImagen_MSG16="Сіз ашқыңыз келетін кескін файлы"
+MenuImagen_MSG17="ҚАЗІРГІ ISO ДЕҢГЕЙІ"
+MenuImagen_MSG18="iso деңгейі"
+MenuImagen_MSG19="Файл атаулары бөлімнен тұрады"
+MenuImagen_MSG20="және 8,3 таңбамен шектелген."
+MenuImagen_MSG21="Егер аттың үйлесімділігін қаласаңыз, осы деңгейді таңдаңыз"
+MenuImagen_MSG21b="MS-DOS операциялық жүйесі бойынша"
+MenuImagen_MSG22="Файл атаулары бөлімнен тұрады"
+MenuImagen_MSG23="Шектеусіз деңгей."
+MenuImagen_MSG24="Файлдармен үйлесімділікті қаласаңыз, осы деңгейді пайдаланыңыз"
+MenuImagen_MSG25="үлкен, бұл жағдайда >= 2 гигабайт."
+MenuImagen_MSG26="Барлық ISO деңгейлері файл атауларын бас, кіші әріптермен шектейді және"
+MenuImagen_MSG27="_ сияқты таңбалар. Файл атаулары 31 таңбамен шектелген"
+MenuImagen_MSG28="Ең көп 8 каталог жолы және жол атауы"
+MenuImagen_MSG29="255 таңбаға дейінгі каталогтар."
+MenuImagen_MSG30="Жаңа iso деңгейін таңдау"
+MenuImagen_MSG31="ISO 4 деңгейі ресми емес"
+MenuImagen_MSG32="mkisofs адам бетімен кеңесу"
+MenuImagen_MSG33="Жарамсыз ISO деңгейі"
+MenuImagen_MSG34="Әдепкі бойынша iso 3 деңгейін орнату"

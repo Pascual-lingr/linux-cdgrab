@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFinnish/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en finés para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="VIDEON MUUNNON BLU-RAY-LEVYN YHTEENSOPIVUUS"
+conv_video_BDVideo_MSG2="Määritä muunnettavan videotiedoston polku:"
+conv_video_BDVideo_MSG3="Määritä uuden luotavan videon tiedostonimi:"
+conv_video_BDVideo_MSG4="Videotiedosto muutettu onnistuneesti!!"
+conv_video_BDVideo_MSG5="Virhe videotiedoston muuntamisessa"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="KONVERSIOVIDEOTIEDOSTOT"
+conv_VideoFich_MSG2="Määritä muunnettava videotiedosto:"
+conv_VideoFich_MSG3="Määritä luotava videotiedosto:"
+conv_VideoFich_MSG4="VIDEOTIEDOSTON MUUNNOS VALMIS"
+conv_VideoFich_MSG5="VIRHE VIDEOTIEDOSTOA MUUNNETTAESSA"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Määritä videotiedosto:"
+extrae_Audio_de_Video_MSG2="Määritä luotava mp3-äänitiedosto:"
+extrae_Audio_de_Video_MSG3="ÄÄNEN POISTAMINEN ONNISTUSTI"
+extrae_Audio_de_Video_MSG4="VIRHE ÄÄNTÄ POISTAMISESSA"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Määritä videotiedosto:"
+extrae_Fragmento_Video_MSG2="Määritä luotava videotiedosto:"
+extrae_Fragmento_Video_MSG3="Määritä aloitusaika (Määritä muodossa HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Määritä lopetusaika (Määritä muodossa HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="VIDEO ON ONNISTUSTI LEIKKAUS"
+extrae_Fragmento_Video_MSG6="VIRHE VIDEOTA TRIMMATAESSA"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Määritä äänitiedosto:"
+mezcla_Audio_Video_MSG2="Määritä videotiedosto:"
+mezcla_Audio_Video_MSG3="Määritä luotava videotiedosto:"
+mezcla_Audio_Video_MSG4="UUSI VIDEOTIEDOSTO ON LUOTETTU"
+mezcla_Audio_Video_MSG5="VIRHE VIDEOTIEDOSTON LUODAMISESSA"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="VAIHTOEHTO EI OLE SAATAVILLA KONSOLILIITTYMÄLLE"
+graba_escritorio_MSG2="-- TALLENNUS TYÖPÖYTÄISTUNTO -- PERUUTA JA LOPETA TALLENNUS PAINA CTRL + C"
+graba_escritorio_MSG3="VIDEON TALLENNUS VALMIS"
+

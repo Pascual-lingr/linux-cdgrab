@@ -1,0 +1,49 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongolian/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Mongol, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="ДИСКИЙН ЗУРГИЙГ ҮҮСГЭХ БА ХАРИЛЦАХ"
+MenuImagen_MSG2="----------------- ЗУРАГ ҮҮСГЭХ -----------------"
+MenuImagen_MSG3="ISO-9660 зураг үүсгэх"
+MenuImagen_MSG4="Уугуул Линукс файлын системээр зураг үүсгэх"
+MenuImagen_MSG5="Ямар ч блок төхөөрөмжийн .img дүрс үүсгэх"
+MenuImagen_MSG6="Одоогийн төхөөрөмжөөс .bin .cue зураг үүсгэх"
+MenuImagen_MSG7="----------------- БУСАД СОНГОЛТ ----------------"
+MenuImagen_MSG8=".bin зургаас .cue тайлбар файл үүсгэх"
+MenuImagen_MSG9=".nrg (Nero Burning ROM) дүрсийг .iso болгон хөрвүүлэх"
+MenuImagen_MSG10="Gzip, bzip2 эсвэл xz ашиглан зургийг шахах"
+MenuImagen_MSG11="Zip, gz, bz2 эсвэл xz доторх зургийг задлах"
+MenuImagen_MSG11B="Iso зургийн md5 нийлбэрийг шалгах"
+MenuImagen_MSG12="Iso горимыг өөрчлөх"
+MenuImagen_MSG0="Өмнөх цэс"
+MenuImagen_MSG13="Шахах зургийн файл"
+MenuImagen_MSG14="ЗУРГИЙН ФАЙЛ ХАХАХ"
+MenuImagen_MSG15="Шахахыг хүсэж буй зургийнхаа лавлах замыг бичнэ үү:"
+MenuImagen_MSG16="Таны задлахыг хүссэн зургийн файл"
+MenuImagen_MSG17="Одоогийн ISO түвшин"
+MenuImagen_MSG18="iso түвшин"
+MenuImagen_MSG19="Файлын нэр нь хэсгээс бүрдэнэ"
+MenuImagen_MSG20="ба 8.3 тэмдэгтээр хязгаарлагдана."
+MenuImagen_MSG21="Хэрэв та нэр тохирохыг хүсвэл энэ түвшинг сонгоно уу"
+MenuImagen_MSG21b="MS-DOS үйлдлийн системийн дор"
+MenuImagen_MSG22="Файлын нэр нь хэсгээс бүрдэнэ"
+MenuImagen_MSG23="Хязгааргүй түвшин."
+MenuImagen_MSG24="Хэрэв та файлуудтай нийцтэй байхыг хүсвэл энэ түвшинг ашиглана уу"
+MenuImagen_MSG25="том, энэ тохиолдолд >= 2 Гигабайт."
+MenuImagen_MSG26="Бүх ISO түвшин файлын нэрийг том, жижиг үсгээр хязгаарладаг."
+MenuImagen_MSG27="_ гэх мэт тэмдэгтүүд. Файлын нэр 31 тэмдэгтээр хязгаарлагдана"
+MenuImagen_MSG28="Хамгийн ихдээ 8 лавлах зам ба замын нэр"
+MenuImagen_MSG29="255 тэмдэгт хүртэлх лавлахууд."
+MenuImagen_MSG30="Шинэ iso түвшинг сонгох"
+MenuImagen_MSG31="ISO түвшин 4 албан ёсны биш"
+MenuImagen_MSG32="mkisofs хүний ​​хуудаснаас лавлана уу"
+MenuImagen_MSG33="Хүчингүй ISO түвшин"
+MenuImagen_MSG34="Өгөгдмөлөөр iso 3 түвшнийг тохируулах"

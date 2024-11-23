@@ -1,0 +1,37 @@
+# Idioma Armenio para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Շարունակելու համար սեղմեք ENTER..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="========================================"
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 փոխակերպում .NRG .ISO ի"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="Մուտքագրեք .nrg պատկերի ուղին, որը ցանկանում եք փոխարկել."
+convertir_imagen_nrg_MSG1B="Մուտքագրեք .iso պատկերի ուղին, որը ցանկանում եք ստեղծել."
+convertir_imagen_nrg_MSG2="վազում"
+convertir_imagen_nrg_MSG3=".nrg պատկերի փոխարկումը .iso-ի հաջողությամբ ավարտվեց"
+convertir_imagen_nrg_MSG4="Պատկերը փոխարկելու սխալ .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Աջակցություն պատկերների փոխակերպմանը linux-cdgrab ում"
+creditospatchnrgaiso_MSG2=".nrg պատկերների փոխակերպում .iso ի օգտագործելով nrg2iso"
+creditospatchnrgaiso_MSG3="Տարածել GPL v2 լիցենզիայի ներքո"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="Հրամանի տարբերակ."
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="Փոխարկել .nrg պատկերը .iso"
+lingr10ConversionNRG_2_ISO_MSG2="Մոտ"
+lingr10ConversionNRG_2_ISO_MSG3="Նախորդ ընտրացանկ"
+lingr10ConversionNRG_2_ISO_MSG4="Անվավեր տարբերակ"
+

@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExTibetan/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Tibetano para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="ཌིསིཀ་སྒུལ་བྱེད་བཀོལ་སྤྱོད།"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- གཙིགས་ཆེན -----------------------"
+MenuDispositivosBloque_MSG3="+ སྲ་སྡེར་སྟེང་འབྲི་བའི་བཀོལ་སྤྱོད་མི་བྱེད། "
+MenuDispositivosBloque_MSG4="+ པར་རིས་ཡོད་པའི་ཌིསིཀ་བར་གཅོད་ཀྱི་སྐོར།"
+MenuDispositivosBloque_MSG5="+ སླར་གསོ། འགོ་འཛུགས་བར་གཅོད་ཡང་ན་རང་གི།"
+MenuDispositivosBloque_MSG6="+ བཀོལ་སྤྱོད་མ་ལག་གི་བགོད་སྒྲིག།"
+MenuDispositivosBloque_MSG7="+ དཀར་ཆག་འདིའི་འབྲི་སྟངས་ཀྱི་གདམ་གསེས་ལོག་སྤྱོད་བྱས་པ། "
+MenuDispositivosBloque_MSG8="+ གིས་མ་ལག་ནང་ལ་གོད་ཆག་བཟོ་ཐུབ།"
+MenuDispositivosBloque_MSG9="+ དོགས་ཟོན་དང་བཅས་བེད་སྤྱོད་གཏོང་། རང་ཉིད་ཀྱི་ཉེན་ཁ་ལ་བརྟེན་ནས་བེད་སྤྱོད་གཏོང་།"
+MenuDispositivosBloque_MSG10="------------------- རྩོམ་བྲིས --------------------"
+MenuDispositivosBloque_MSG11="པར་རིས་ཡིག་ཆ་ཞིག་ཌིསིཀ་སྒུལ་ཆས་སྟེང་དུ་བླུགས།"
+MenuDispositivosBloque_MSG11B="iso ཡང་ན་ img པར་རིས་ (རང་འགུལ་གྱིས་འགོ་འཛུགས་ཐུབ་པ) པེན་ཌི་རའིབ་ཡང་ན་ USB སྲབ་འཁོར་ལ་གཡུག་རོགས།"
+MenuDispositivosBloque_MSG11C="སྒྲིག་འཇུག་མ་ལག་ཚང་མར་རྒྱབ་སྐྱོར་བྱེད་ཀྱི་མེད།"
+MenuDispositivosBloque_MSG12="རང་བྱུང་ལི་ནགསི་ཡང་ན་ཝིན་ཌོ་ཡིག་ཆའི་མ་ལག་དང་མཉམ་དུ་སྒུལ་གཏོང་རྩ་སྒྲིག་བྱེད།"
+MenuDispositivosBloque_MSG13="-------------------- ཀློག་འདོན ---------------------"
+MenuDispositivosBloque_MSG14="ཌིསིཀ་སྒུལ་ཆས་ནས་ .img པར་རིས་གསར་བཟོ།"
+MenuDispositivosBloque_MSG15="དཀར་ཆག་སྔོན་མ།"
+MenuDispositivosBloque_MSG16="གདམ་ག་ཅིག་ཡིག་དཔར་རྐྱབས།"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------གཙིགས་ཆེན------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ སྒྲིག་ཆས་ནང་བེད་སྤྱོད་བྱེད་པའི་ཡིག་ཆའི་མ་ལག་ཡོད་པའི་རྩ་སྒྲིག་ཆ་ཚན།"
+UIFormatearUnidad_linuxfs_MSG2B="+ ཡང་ན་ཌིསིཀ་བགོད་སྒྲིག།"
+UIFormatearUnidad_linuxfs_MSG3="+ གདམ་ག་འདིས་ཆ་ལག་སྟེང་གི་ད་ཡོད་ཀྱི་གཞི་གྲངས་ཡོད་ཚད་སུབ་སྲིད།"
+UIFormatearUnidad_linuxfs_MSG4="+ ཡིག་ཆའི་མ་ལག་གིས་རྩ་སྒྲིག་བྱས་པའི་ཕྱིར་འཐེན་བྱེད་ཆོག་པའི་སྒུལ་ཆས་རྩ་སྒྲིག་བྱས་ཡོད།"
+UIFormatearUnidad_linuxfs_MSG5="+ ལི་ནགསི་རང་ཉིད་བཀོལ་སྤྱོད་མ་ལག་འདིའི་འོག་མ་གཏོགས་འཛུལ་སྤྱོད་བྱེད་མི་ཐུབ།"
+UIFormatearUnidad_linuxfs_MSG6="+ དོགས་ཟོན་ཆེན་པོས་བེད་སྤྱོད་བྱེད་དགོས། རང་ཉིད་ཀྱི་ཉེན་ཁ་ལ་བརྟེན་ནས་བེད་སྤྱོད་བྱེད་དགོས།"
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="མུ་མཐུད་དུ་འགྲོ་བའི་ཆེད་དུ་Cམཐེབ་ལ་མནན་དགོས། (བྱ་རིམ་དེ་གདམ་ག་གཞན་ཞིག་གི་ནང་དུ་མེད་པར་བཟོ་རྒྱུ་ཡིན།)"
+

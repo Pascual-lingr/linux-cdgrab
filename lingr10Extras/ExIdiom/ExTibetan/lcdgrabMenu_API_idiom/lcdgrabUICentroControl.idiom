@@ -1,0 +1,284 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Tibetano para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="སྒྲིག་སྟངས། Linux-cdgrab"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="IDE རྒྱུ་ལམ་གང་ལ་གཏོགས་མིན་མི་ཤེས་ན།" 
+ayuda_IDE_MSG2="ཁྱེད་ཀྱི་སྒྲ་ཕབ་འཕྲུལ་ཆས་ཀྱིས་ཡི་གེ་ t མནན་ནས་ཤེས་ཐུབ།"
+ayuda_IDE_MSG3="IDE རྒྱུ་ལམ་གྱི་དཔེ་མཚོན་ནི་ 0,0,0 ཡང་ན་ 0,1,0 ཡིན་ཆོག"
+ayuda_IDE_MSG4="ཁྱེད་ཀྱིས་འབྲེལ་ཡོད་སྒྲིག་ཆས་ཀྱང་གཏན་འཁེལ་བྱེད་ཆོག"
+ayuda_IDE_MSG5="རང་གི་སྒྲ་ཕབ་འཕྲུལ་ཆས་ལ། གལ་སྲིད་ཁྱེད་རང་གིས་དེ་གང་ཡིན་ངེས་གཏན་མ་ཤེས་ན་ d མནན་དགོས།"
+ayuda_IDE_MSG6="/etc/fstab ཡིག་ཆའི་ནང་ཐོ་འགོད་བྱས་པའི་ཡོ་ཆས་ལ་ལྟ་བ།"
+ayuda_IDE_MSG7="ཡོ་བྱད་ཀྱི་དཔེ་མཚོན་ནི་/dev/hdd, /dev/hde སོགས་ཡིན་སྲིད།"
+ayuda_IDE_MSG8="གལ་ཏེ་འདོད་ན། དེའི་ནང་དུ་ཡོད་པའི་སྒྲིག་ཆས་ཚང་མ་ཐོ་འགོད་བྱེད་ཆོག"
+ayuda_IDE_MSG9="ཡི་གེ་ l མནན་ནས་ /dev སྣོད་ཐོའི་ནང་།"
+ayuda_IDE_MSG10="ཁྱེད་ཀྱིས་ IDE རྒྱུ་ལམ་ཡང་ན་སྒྲ་ཕབ་སྒྲིག་ཆས་གཏན་འཁེལ་བྱེད་དགོས།"
+ayuda_IDE_MSG11="འོན་ཀྱང་གཉིས་ཀ་མིན།"
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab ཁྱེད་ཀྱི་མ་ལག་ནས་མེད་པར་བཟོས་ཟིན།"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="ཐོ་འགོད་ཀྱི་མགྱོགས་ཚད།"
+imprimir_variables_MSG2="IDE/SCSI རྒྱུ་ལམ་ཡང་ན་སྒྲ་ཕབ་སྒྲིག་ཆས།"
+imprimir_variables_MSG3="སི་ཌི་རོམ། ཌི་ཝི་ཌི་རོམ་ཡང་ན་བི་ཌི་རོམ་ཀློག་ཆས།"
+imprimir_variables_MSG4="ATAPI ཡོ་ཆས།"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="ཐོ་འགོད་ཀྱི་མགྱོགས་ཚད།"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI རྒྱུ་ལམ་ཡང་ན་སྒྲ་ཕབ་སྒྲིག་ཆས།"
+imprimir_lcdgrabcfg_MSG3="སི་ཌི་རོམ། ཌི་ཝི་ཌི་རོམ་ཡང་ན་བི་ཌི་རོམ་ཀློག་ཆས།"
+imprimir_lcdgrabcfg_MSG4="ATAPI ཡོ་ཆས།"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="སྒྲིག་འཇུག་བྱས་ཟིན།"
+chequeo_de_aplicaciones_MSG2="སྒྲིག་འཇུག་བྱས་མེད།"
+chequeo_de_aplicaciones_MSG3="བཙུགས་པ།"
+chequeo_de_aplicaciones_MSG4="གལ་ཆེ།"
+chequeo_de_aplicaciones_MSG5="དགོས་མཁོའི་ལག་ཆ་ Linux-cdgrab སྒྲིག་འཇུག་བྱས་ན་ཆ་ཚང་ལས་ཀ་བྱེད་ཐུབ།"
+chequeo_de_aplicaciones_MSG6="Linux-cdgrab ལ་མཁོ་བའི་ལས་རིམ་ཚང་མ་ཁྱེད་ཀྱི་མ་ལག་ནང་སྒྲིག་འཇུག་བྱས་ཟིན།"
+chequeo_de_aplicaciones_MSG4B="བརྡ་ཐོ།"
+chequeo_de_aplicaciones_MSG5B="བརླག་པའི་ལག་ཆ་རྙེད།"
+chequeo_de_aplicaciones_MSG6B="མ་ལག་ནང་སྒྲིག་འཇུག་བྱས་པའི་ལག་ཆ།"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 ནི་འགྱུར་ཅན་འདི་ལ་སྔོན་སྒྲིག་ལྟར་འགན་སྤྲོད་བྱས་ཡོད།"
+msgdefCANALATAPI_MSG2="རིམ་སྒྲིག་ཡིག་ཚགས་དེ་CANALATAPI = 0,0,0 ཡི་ཐོག་ནས་འབྲི་རྒྱུ་ཡིན།"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Linux-cdgrab གིས་རང་འགུལ་གྱིས་སྒྲིག་བཀོད་ཡིག་ཆ།"
+nuevo_lcdgrabcfg_MSG5="མ་ལག་ནང་cdrecord མ་རྙེད།"
+nuevo_lcdgrabcfg_MSG6="cdrtoolsཐུམ་སྒྲིལ་སྒྲིག་འཇུག་བྱོས།"
+nuevo_lcdgrabcfg_MSG7="ཁྱེད་ཀྱིས་གནས་ཐང་གཏན་འཁེལ་བྱས་ནས་རིམ་སྒྲིག་མུ་མཐུད་དུ་བྱེད་ཐུབ།"
+nuevo_lcdgrabcfg_MSG8="གལ་ཏེ་ཁྱེད་ཀྱིས་དེ་དག་སྔོན་ནས་ཤེས་ཡོད་ན་སྒྲ་ཕབ།"
+nuevo_lcdgrabcfg_MSG9="cdrecord བརྡ་བཀོད་དེ་སི་ཌི་དང་ཌི་ཝི་ཌི་དང་བི་ཌི་འོད་སྡེར་སྒྲ་ཕབ་བྱེད་སྐབས་བེད་སྤྱོད་བྱེད་ཀྱི་ཡོད།"
+nuevo_lcdgrabcfg_MSG10="ཐུམ་སྒྲིལ་དེ་སྒྲིག་འཇུག་མ་བྱས་བར་དུ་འདེམས་གཞི་འདི་དག་གིས་ནུས་པ་ཐོན་མི་ཐུབ།"
+nuevo_lcdgrabcfg_MSG11="སྒུལ་ཆས་བཤེར་ལེན་ལག་ཆ་དེ་ཡང་བེད་སྤྱོད་གཏོང་མི་ཐུབ།"
+nuevo_lcdgrabcfg_MSG12="སྒྲིག་བཀོད་མཛུབ་སྟོན་འཕྲུལ་ཆས་འདིའི་ནང་དུ།"
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab གཤམ་གྱི་གོ་རིམ་བཞིའི་ནང་རིམ་སྒྲིག་བྱ་དགོས།"
+nuevo_lcdgrabcfg_MSG14="གོམ་པ་དང་པོ།"
+nuevo_lcdgrabcfg_MSG15="ཐོ་འགོད་ཀྱི་མྱུར་ཚད།"
+nuevo_lcdgrabcfg_MSG16="ཨང་གྲངས་ ༢,༤,༨,༡༦,༣༢... སོགསགཅིག་ཁོ་ན་ཡིན།"
+nuevo_lcdgrabcfg_MSG17="གོམ་པ་གཉིས་པ།"
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI རྒྱུད་ལམ་ཡང་ན་སྒྲ་ཕབ་སྒྲིག་ཆས།"
+nuevo_lcdgrabcfg_MSG19="A -> རོགས་རམ།"
+nuevo_lcdgrabcfg_MSG20="པར་ལེན་བྱེད་བཞིན་པ།"
+nuevo_lcdgrabcfg_MSG21=" IDE/SCSI འདྲེན་ལམ་བཤེར་ལེན་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+nuevo_lcdgrabcfg_MSG22="སི་ཌི་རེ་ཐོ་རྙེད་མ་སོང་།"
+nuevo_lcdgrabcfg_MSG23="གོམ་པ་གསུམ་པ།"
+nuevo_lcdgrabcfg_MSG24="སི་ཌི་རོམ། ཌི་ཝི་ཌི་རོམ། ཡང་ན་བི་ཌི་རོམ་སྒྲིག་ཆས།"
+nuevo_lcdgrabcfg_MSG25="L -> ཡོད་པའི་སྒྲིག་ཆས་ཐོ་འགོད།"
+nuevo_lcdgrabcfg_MSG26="པར་ལེན་བྱེད་བཞིན་པ།"
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI འདྲེན་ལམ་བཤེར་འཇལ་བྱས་ཟིན།"
+nuevo_lcdgrabcfg_MSG28="དུས་ཚོད་མང་པོའི་སྒྲ་ཕབ་ནང་ dev=ATAPI བརྒྱུད་ cdrecord གིས་བེད་སྤྱོད་གཏོང་རྒྱུའི་སྒྲིག་ཆས།"
+nuevo_lcdgrabcfg_MSG30="ཡོ་བྱད་འདི་ལ་ 0,0,0 ཡང་ན་ 1,0,0 ལ་སོགས་པ་ལྟ་བུའི་མིང་བྱང་ཡོད།"
+nuevo_lcdgrabcfg_MSG31="དུས་ཚོད་མང་པོའི་སི་ཌི་ཐོག་ cdrecord འབོད་པའི་སྒྲིག་ཆས་གཏན་འཁེལ་བྱོས།: "
+nuevo_lcdgrabcfg_MSG32="CANALATAPI ལ་སྒྲིག་བཀོད་འགྲིག་མེད།"
+nuevo_lcdgrabcfg_MSG33="IDE/SCSI འདྲེན་ལམ་བཤེར་འཚོལ་ནོར་འཁྲུལ།"
+nuevo_lcdgrabcfg_MSG34="སི་ཌི་རི་ཐོ་རྙེད་མ་སོང་།"
+nuevo_lcdgrabcfg_MSG36="Linux-cdgrab གིས་རང་འགུལ་གྱིས་སྒྲིག་བཀོད་ཡིག་ཆ།"
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB གཞི་སྒྲིག་མཇུག་སྒྲིལ་ཟིན།"
+
+# colores
+
+colores_MSG1="ཚོས་གཞིའི་རེའུ་མིག་རྙེད་མི་ཐུབ།"
+colores_MSG2="སྔོན་སྒྲིག་ཚོས་གཞི་མངོན་འཆར་བྱེད་བཞིན་ཡོད།"
+colores_MSG3="LINUX-CDGRAB མཐུད་ཁའི་ཆེད་དུ་ཚོན་མདོག་གསར་པ་འདེམས།"
+colores_MSG4="ཡིག་གཟུགས་ནག་པོ།"
+colores_MSG5="ཚད་ལྡན་འོད་མདངས་ཅན་གྱི་ཡིག་གཟུགས།"
+colores_MSG6="རྒྱབ་ལྗོངས་ཀྱི་ཚོས་གཞི་ནག་པོ།"
+colores_MSG7="ཡིག་གཟུགས་དམར་པོ།"
+colores_MSG8="འོད་མདངས་ནག་པོའི་ཡིག་གཟུགས།"
+colores_MSG9="རྒྱབ་ལྗོངས་དམར་པོ།"
+colores_MSG10="ཡིག་གཟུགས་ལྗང་ཁུ།"
+colores_MSG11="བཀྲག་མདངས་འཚེར་བའི་ཆུ་མིག་དམར་པོ།"
+colores_MSG12="ལྗང་ཁུའི་རྒྱབ་ལྗོངས་ཀྱི་ཚོས་གཞི།"
+colores_MSG13="ཡིག་གཟུགས་སེར་པོ།"
+colores_MSG14="འོད་མདངས་ལྗང་ཁུའི་ཡིག་གཟུགས།"
+colores_MSG15="ལྗང་མདོག་གི་རྒྱབ་ལྗོངས་ཚོན་མདོག།"
+colores_MSG16="ཡིག་གཟུགས་སྔོན་པོ།"
+colores_MSG17="བཀྲག་མདངས་སེར་པོའི་ཡིག་གཟུགས།"
+colores_MSG18="རྒྱབ་ལྗོངས་ཀྱི་ཚོས་གཞི་སྔོན་པོ།"
+colores_MSG19="མདོག་དམར་པོའི་ཡིག་གཟུགས།"
+colores_MSG20="འོད་མདངས་སྔོན་པོའི་ཡིག་གཟུགས།"
+colores_MSG21="མེ་ཇེན་ཊ་རྒྱབ་ལྗོངས་ཀྱི་ཚོས་གཞི།"
+# Resultado del traductor
+colores_MSG22="CYAN འབྱུང་ཁུངས།"
+colores_MSG23="བཀྲག་མདངས་འཚེར་བའི་མེ་ཇེན་ཊ་ཡིག་གཟུགས།"
+colores_MSG24="སི་ཡཱན་རྒྱབ་ལྗོངས་ཀྱི་ཚོས་གཞི།"
+colores_MSG25="ཡིག་གཟུགས་སྐྱ་བོ།"
+colores_MSG26="སི་ཡཱན་རྒྱབ་ལྗོངས་ཀྱི་ཚོས་གཞི།"
+colores_MSG27="བཀྲག་མདངས་འཚེར་བའི་སེར་སྐྱ་ཡིག་གཟུགས།"
+colores_MSG28="རྒྱབ་ལྗོངས་སྐྱ་བོ།"
+colores_MSG29="སྔོན་སྒྲིག་འབྱུང་ཁུངས།"
+colores_MSG30="ཡིག་གཟུགས་དཀར་པོ།"
+colores_MSG31="སྔོན་སྒྲིག་རྒྱབ་ལྗོངས་ཀྱི་ཚོས་གཞི།"
+colores_MSG32="ཡིག་གཟུགས་ཀྱི་ཚོས་གཞིའི་ཨང་གྲངས།: "
+colores_MSG33="རྒྱབ་ལྗོངས་ཀྱི་ཚོས་གཞིའི་ཨང་གྲངས།: "
+colores_MSG34="ཉེན་བརྡའི་བརྡ་འཕྲིན་གྱི་ཚོས་གཞིའི་ཨང་གྲངས།: "
+colores_MSG35="མིང་རྟགས་འཕྲིན་ཡིག་གི་ཚོས་གཞིའི་ཨང་གྲངས།: "
+colores_MSG36="ལེགས་འགྲུབ་བྱུང་བའི་བྱ་རིམ་གྱི་ཚོས་གཞིའི་ཨང་གྲངས།"
+colores_MSG37="ནོར་འཁྲུལ་གྱིས་མཚམས་འཇོག་བྱས་པའི་བྱ་རིམ་གྱི་ཚོས་གཞིའི་ཨང་གྲངས།: "
+colores_MSG38="LINUX-CDGRAB ཡི་འཆར་གཞི་གསར་བ།"
+colores_MSG39="སྤྱིར་བཏང་གི་ཡིག་གཟུགས་ཀྱི་ཚོས་གཞི།"
+colores_MSG40="མིང་བྱང་།"
+colores_MSG41="གསལ་བསྒྲགས།"
+colores_MSG42="ལེགས་འགྲུབ་བྱུང་བ།"
+colores_MSG43="ནོར་འཁྲུལ།"
+colores_MSG44="རྒྱབ་ལྗོངས་ཀྱི་ཚོས་གཞི།"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="ཐོབ་ཐུབ་པའི་ཚོན་མདོག་གི་ཐོ་གཞུང་།"
+cambiar_esquema_de_color_MSG2="#####ཚོན་མདོག་བཀོད་སྒྲིག།#######"
+cambiar_esquema_de_color_MSG3="---------------------"
+cambiar_esquema_de_color_MSG4="ཚོས་གཞིའི་དཀར་ཆག"
+cambiar_esquema_de_color_MSG5="འཐུས་ཤོར་བྱུང་ཡོད།"
+cambiar_esquema_de_color_MSG6="མིང་བྱང་།"
+cambiar_esquema_de_color_MSG6b="བརྡ་ཐོ།"
+cambiar_esquema_de_color_MSG7="ཚོན་མདོག་དཀར་ཆག་འགྲིག འཐུས་ཤོར་ཉེན་བརྡའི་མིང་བྱང་།"
+cambiar_esquema_de_color_MSG8="ཚོན་མདོག་གསར་པའི་ཨང་གྲངས་བླུགས།"
+cambiar_esquema_de_color_MSG9="ནུས་མེད་གདམ་ག།"
+cambiar_esquema_de_color_MSG10="སྔོན་སྒྲིག་ཚོས་གཞི་སྒྲིག་འཇུག་བྱེད་པ།"
+cambiar_esquema_de_color_MSG11=" རྒྱབ་ལྗོངས་ = སྔོན་པོ_རྒྱབ་ལྗོངས་"
+cambiar_esquema_de_color_MSG12=" ཡིག་གཟུགས་ = འོད་མདངས་དཀར་པོ།"
+cambiar_esquema_de_color_MSG13=" ཉེན་བརྡ་ = འོད་མདངས་སེར་པོ།"
+cambiar_esquema_de_color_MSG14=" ནོར་འཁྲུལ་ = འོད་མདངས་དམར་པོ།"
+cambiar_esquema_de_color_MSG15=" ནོར་འཁྲུལ་ = འོད་མདངས་དམར་པོ།"
+# Resultado del traductor
+cambiar_esquema_de_color_MSG16=" HITS = འོད་མདངས་ལྗང་ཁུ།"
+cambiar_esquema_de_color_MSG17=" མིང་བྱང་། = འོད་མདངས་ཆེ་བའི་སེ་ཡན།"
+
+# cambia_lector
+
+cambia_lector_MSG1="འོད་ཀྱི་ཆ་ཚད་ཀྱི་ཁོར་ཡུག་སྒྲིག་སྟངས།"
+cambia_lector_MSG2="CD-ROM དང་ DVD-ROM ཡང་ན་BD-ROM དང་འབྲེལ་བའི་ད་ལྟའི་སྒྲིག་ཆས།"
+cambia_lector_MSG3="CD/DVD/BD འབར་ཆས་དང་འབྲེལ་བའི་ད་ལྟའི་སྒྲིག་ཆས།"
+cambia_lector_MSG4="ཚད་གཞིའི་ dev=ATAPI དང་འབྲེལ་བའི་མིག་སྔའི་སྒྲིག་ཆས།"
+cambia_lector_MSG5="(cdrecord ལ་དུས་ཚོད་མང་པོའི་རྒྱབ་སྐྱོར།)"
+cambia_lector_MSG6="བསྒྱུར་བཅོས་གཏོང་དགོས་པའི་ཡོ་ཆས་འདེམས།"
+cambia_lector_MSG7="གདམ་ཁ་ནང་འཇུག་བྱེད་པ།"
+cambia_lector_MSG8="སྒྲིག་ཆས་གསར་པའི་མིང་བླུགས།"
+cambia_lector_MSG9="བཀག་སྡོམ་སྒྲིག་ཆས་དང་མི་མཐུན།"
+cambia_lector_MSG10="འཕྲུལ་ཆས།"
+cambia_lector_MSG11="སྔོན་སྒྲིག་ལྟར་འགན་སྤྲོད་བྱས།"
+cambia_lector_MSG12="ཡོ་བྱད་གསར་པ་ནི།"
+cambia_lector_MSG13="cdrecord ཡི་ཐོན་རིམ་ཚང་མས་བཀག་སྡོམ་སྒྲིག་ཆས་ཤིག་སྒྲ་ཕབ་ཚད་གཞི་ལྟར་དང་ལེན་བྱེད་ཀྱི་མེད།"
+cambia_lector_MSG14="ATAPI སྒྲིག་ཆས་གསར་པའི་མིང་བླུགས།"
+cambia_lector_MSG15="CANALATAPI ལ་སྒྲིག་བཀོད་ནོར་མེད།"
+cambia_lector_MSG16="0,0,0 ནི་འགྱུར་ཅན་འདི་ལ་སྔོན་སྒྲིག་ལྟར་འགན་སྤྲོད་བྱས་ཡོད།"
+cambia_lector_MSG17="རིམ་སྒྲིག་ཡིག་ཚགས་དེ་ CANALATAPI = 0,0,0 ཡི་ཐོག་ནས་འབྲི་རྒྱུ་ཡིན།"
+cambia_lector_MSG18="ཡོ་བྱད་གསར་བ་ནི།"
+cambia_lector_MSG19="སྒྲིག་ཆས་ལ་འགྱུར་བ་གང་ཡང་བཏང་མེད།"
+cambia_lector_MSG4B="རིམ་སྒྲིག་ཡིག་ཆ་ནས་རིན་ཐང་ཕྱིར་འདྲེན་བྱེད།"
+cambia_lector_MSG4C="རིན་ཐང་འདི་དག་ཁོར་ཡུག་ལ་སྙན་སེང་ཞུས་འདུག:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="དཀར་ཆག་འདི་ནས་ཁྱེད་ཀྱིས་བེད་སྤྱོད་གང་ཞིག་འདེམས་ཆོག"
+cambia_generador_isocd_MSG2="ISO-9660 པར་རིས་བཟོ་བསྐྲུན་བྱེད་པར་བེད་སྤྱོད་གཏོང་རྒྱུ་ཡིན།"
+cambia_generador_isocd_MSG3="ཀློག་ཆས་སྟེང་གི་ད་ཡོད་ཀྱི་ CDS ལས།"
+cambia_generador_isocd_MSG4="ད་ལྟའི་སྒྲིག་བཀོད།"
+cambia_generador_isocd_MSG5="dd (ཇི་ཨེན་ཡུ་ཀོར་ཡུ་ཊིལ་ཆ་ཤས་) བེད་སྤྱོད་བྱེད།"
+cambia_generador_isocd_MSG6="readcd (cdrtools ཆ་ཤས་) བེད་སྤྱོད་བྱེད།"
+cambia_generador_isocd_MSG7="དཀར་ཆག་སྔོན་མ།"
+cambia_generador_isocd_MSG8="གདམ་ག་ཞིག་འདེམས།"
+cambia_generador_isocd_MSG9="dd iso འཕྲུལ་འཁོར་དུ་བེད་སྤྱོད་བྱེད་པ།"
+cambia_generador_isocd_MSG10="readcd དེ་ཨའི་སོ་འཕྲུལ་འཁོར་དུ་བེད་སྤྱོད་བྱེད་པ།"
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="རོཀ་རི་ཇི་དང་ཇོ་ལི་ཡེ་ཊི་དང་མཉམ་དུ་HFS མེ་ཊ་ཌེ་ཊ་སྒྲིག་དགོས།"
+establecer_hfs_iso_MSG2="རོཀ་རི་ཇི་དང་ཇོ་ལི་ཡེ་ཊི་མེ་ཊ་ཌེ་ཊ་ཁོ་ན་བེད་སྤྱོད་བྱེད།"
+establecer_hfs_iso_MSG3="དཀར་ཆག་སྔོན་མ།"
+establecer_hfs_iso_MSG4="གདམ་ག་ཞིག་འདེམས།"
+establecer_hfs_iso_MSG5="HFS དང་རོཀ་རི་ཇི་དང་ཇོ་ལི་ཡེ་ཊི་མེ་ཊ་ཌེ་ཊ་བེད་སྤྱོད་བྱེད་པ།"
+establecer_hfs_iso_MSG6="རོཀ་རི་ཇི་དང་ཇོ་ལི་ཡེ་ཊི་མེ་ཊ་ཌེ་ཊ་བེད་སྤྱོད་བྱེད་པ།"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="མིག་སྔའི་བརྡ་ཐོའི་མ་ལག།"
+cambia_notificaciones_MSG2A="ཇི་ནོམ་རི་མོའི་ངོས་འཛིན།"
+cambia_notificaciones_MSG2B="KDE རི་མོའི་ངོས་འཛིན།"
+cambia_notificaciones_MSG2="ncurses དང་མཉམ་དུ་ངོས་འདྲ་བ།"
+cambia_notificaciones_MSG3="ཡི་གེའི་ངོས་འཛིན།"
+cambia_notificaciones_MSG4="ཕྱིར་ཐོན།"
+cambia_notificaciones_MSG5="གདམ་ག་ཞིག་འདེམས།"
+cambia_notificaciones_MSG6="གླེང་སྒྲོམ་དང་མཉམ་དུ་ངོས་འདྲ་བ་བེད་སྤྱོད་བྱེད་པ།"
+cambia_notidicaciones_MSG6B="ཟེ་ནི་ཊི་དང་མཉམ་དུ་ཨིན་ཊར་ཕེས་བེད་སྤྱོད་བྱེད་པ།"
+cambia_notidicaciones_MSG6C="kdialog དང་མཉམ་དུ་ངོས་འདྲ་བ་བེད་སྤྱོད་བྱེད་པ།"
+cambia_notificaciones_MSG7="གླེང་མོལ་བཀའ་ཚིག་རྙེད་མ་སོང་།"
+cambia_notificaciones_MSG8="ཡི་གེའི་ངོས་འདྲ་བ་བེད་སྤྱོད་བྱེད་པ།"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="བེད་སྤྱོད་བྱེད་བཞིན་པའི་སྐད་ཡིག:"
+cambiar_idioma_UI_MSG1="ད་ལྟ་སྤྱོད་ཆོག་པའི་སྐད་ཡིག:"
+cambiar_idioma_UI_MSG2="བེད་སྤྱོད་བྱ་རྒྱུའི་སྐད་ཡིག་གི་མིང་བླུགས།"
+cambiar_idioma_UI_MSG3="ཉེར་སྤྱོད་ངོས་འདྲ་བའི་ནང་དུ།"
+cambiar_idioma_UI_MSG4="བེད་སྤྱོད་བྱས་པའི་སྐད་ཡིག་གསར་པ་ནི།"
+cambiar_idioma_UI_MSG5="LINUX-CDGRAB བསྐྱར་དུ་འགོ་འཛུགས།"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="མིག་སྔའི་སྒྲིག་བཀོད།"
+seleccion_gestor_archivos_MSG2="mcབེད་སྤྱོད་བྱེད།"
+seleccion_gestor_archivos_MSG3="མཉམ་བསྲེས་ཡི་གེ་འཛིན་སྐྱོང་པ་སྤྱོད།"
+seleccion_gestor_archivos_MSG4="མ་ལག་སྟེང་སྒྲིག་འཇུག་བྱས་པའི་mcརྙེད་མ་ཐུབ།"
+seleccion_gestor_archivos_MSG5="སྔོན་སྒྲིག་ལྟར་མཉམ་བསྲེས་ཡི་གེ་དོ་དམ་པ་བེད་སྤྱོད་བྱེད་པ།"
+seleccion_gestor_archivos_MSG6="ཨེམ་སི་བེད་སྤྱོད།"
+seleccion_gestor_archivos_MSG7="མཉམ་བསྲེས་ཡིག་ཆ།"
+
+# centro_de_control
+
+centro_de_control_MSG1="ཚོད་འཛིན་ལྟེ་གནས།"
+centro_de_control_MSG2="སྒྲིག་བཀོད་གསར་པ།"
+centro_de_control_MSG3="སྒྲིག་བཀོད་ཡིག་ཆ་སུབ་པ།"
+centro_de_control_MSG4="མིག་སྔའི་སྒྲིག་བཀོད་ཡིག་ཆ་དང་རིན་ཐང་སྟོན་པ།"
+centro_de_control_MSG5="རིམ་སྒྲིག་ཡིག་ཆའི་རིན་ཐང་།"
+centro_de_control_MSG5B="ཁོར་ཡུག་ནང་བེད་སྤྱོད་བྱེད་བཞིན་པའི་ད་ལྟའི་སྒྲིག་བཀོད།"
+centro_de_control_MSG6="འོད་ཀྱི་བརྒྱུད་ལམ་བརྗེ་སྒྱུར།"
+centro_de_control_MSG7="སྒྲིག་འཇུག་བྱས་པའི་ལས་རིམ་ལ་ཞིབ་བཤེར་བྱེད།"
+centro_de_control_MSG8="cdrecord དང་མཉམ་དུ་ IDE/SCSI འདྲེན་ལམ་ལ་ཞིབ་བཤེར་བྱེད།"
+centro_de_control_MSG8C="cdrskin སྤྱད་དེ་ IDE/SCSI འདྲེན་ལམ་ལ་ཞིབ་བཤེར་བྱེད།"
+centro_de_control_MSG8B="cdrskin དང་མཉམ་དུ་མ་ལག་ནང་སྒྲིག་འཇུག་བྱས་པའི་ཆ་ཤས་ཐོ་འགོད།"
+centro_de_control_MSG9="སི་ཌི་ནས་ཨི་སོ་བཟོ་བའི་སྤྱོད་ཆས་བསྒྱུར་དགོས།"
+centro_de_control_MSG9B="iso-9660 ཆེད་དུ་HFS མེ་ཊ་ཌེ་ཊ་སྒྲིག་དགོས།"
+centro_de_control_MSG10="སྤྱོད་མཁན་ངོས་འདྲ་བ་བསྒྱུར་བ།"
+centro_de_control_MSG10b="ཚོས་གཞི་བསྒྱུར།"
+centro_de_control_MSG10c="མཐུད་ཁའི་སྐད་ཡིག་བསྒྱུར་བ།"
+centro_de_control_MSG11="ཡིག་ཆའི་དོ་དམ་པ་བསྒྱུར།"
+centro_de_control_MSG11B="ལས་རིམ་རྩ་མེད་གཏོང་བ།"
+centro_de_control_MSG12="གདམ་ག་ཞིག་ནང་འཇུག་བྱེད་པ།: "
+centro_de_control_MSG13="རིམ་སྒྲིག་ཡིག་ཆ་མེད་པ།"
+centro_de_control_MSG14="རིམ་སྒྲིག་ཡིག་ཆ་མ་རྙེད།"
+centro_de_control_MSG15="བཤེར་བཤེར་བྱེད་པ།"
+centro_de_control_MSG16="IDE/SCSI འདྲེན་ལམ་བཤེར་འབེབས་བྱས།"
+centro_de_control_MSG17="IDE/SCSI འདྲེན་ལམ་བཤེར་འཚོལ་ནོར་འཁྲུལ།"
+centro_de_control_MSG18="ཚོས་གཞི་འདེམས་པ།"
+centro_de_control_MSG19="ཚོན་མདོག་གང་འདོད་དུ་འདེམས།"
+centro_de_control_MSG20="སྔོན་གྱི་དཀར་ཆག"།
+centro_de_control_MSG21="གདམ་ག་ཞིག་ནང་འཇུག་བྱེད་པ།: "
+centro_de_control_MSG22="རིམ་སྒྲིག་ཡིག་ཆ་མི་འདུག"
+centro_de_control_MSG23="རིམ་སྒྲིག་ཡིག་ཆ་མ་རྙེད།"
+centro_de_control_MSG24="ཚོན་མདོག་འདེམས།"
+centro_de_control_MSG25="ཚོན་མདོག་གང་འདོད་དུ་འདེམས།"
+centro_de_control_MSG26="གདམ་ག་ནུས་མེད་ཡིན།"
+

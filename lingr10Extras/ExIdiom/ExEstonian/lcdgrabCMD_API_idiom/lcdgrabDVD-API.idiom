@@ -1,0 +1,171 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Estonio para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Salvestusseade kui"
+buscar_grabadora_MSG1B="Kehtiv"
+buscar_grabadora_MSG2="Salvestusseade kui"
+buscar_grabadora_MSG2B="Viga"
+buscar_grabadora_MSG3="dvd+-rw-tools ei aktsepteeri, et salvestusseade on"
+buscar_grabadora_MSG4="DVD-de kirjutamiseks dvd+-rw-tools abil peate määrama oma salvesti blokeerimisseadmena"
+buscar_grabadora_MSG5="Näide"
+buscar_grabadora_MSG6="või"
+buscar_grabadora_MSG7="Olemasolevate süsteemiseadmete kuvamine /dev"
+buscar_grabadora_MSG8="Sisestage blokeerimisseade, mis vastab teie DVD salvestajale"
+buscar_grabadora_MSG9="Ühtegi salvesti tüüpi ega valikut pole määratud."
+buscar_grabadora_MSG10="SEADME SALVESTAJA jaoks konfigureeritud"
+buscar_grabadora_MSG11="Salvestusseade on eksporditud shellkeskkonda kui"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Võimalik väärtus kehtib ainult cdrecordi jaoks"
+buscar_grabadoralb_MSG2="Praegune salvesti konfiguratsioon on"
+buscar_grabadoralb_MSG3="Kontrolli, et see konfiguratsioon ühtiks cdrskini määratud väärtusega"
+buscar_grabadoralb_MSG4="IDE/SCSI pordi skannimine cdrskiniga..."
+buscar_grabadoralb_MSG5="Määrake uus väärtus, mida kasutatakse koos cdrskiniga:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Sisesta tulevase DVD nimi:"
+datos_dvd_MSG2="DVD SALVESTAMINE..."
+datos_dvd_MSG3="Kasutamine"
+datos_dvd_MSG4="töötab"
+datos_dvd_MSG5="DVD ON EDUNELT SALVESTATUD!"
+datos_dvd_MSG6="mkisofs või genisoimage i ei leitud, installige cdrtools või cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Sisesta tulevase DVD nimi:"
+datos_dvd_multi_MSG2="DVD SALVESTAMINE..."
+datos_dvd_multi_MSG3="Kasutatakse"
+datos_dvd_multi_MSG4="töötab"
+datos_dvd_multi_MSG5=" DVD ON EDUNELT SALVESTATUD!"
+datos_dvd_multi_MSG6="mkisofs või genisoimage i ei leitud, installige cdrtools või cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="PILTI SALVESTAMINE..."
+grabimg_dvd_MSG2="jooksb"
+grabimg_dvd_MSG3="DVD PILT ON EDUKALT SALVESTATUD!"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="PILDI SALVESTAMINE DVD-LE..."
+copia_bin_dvd_MSG2="töötab"
+copia_bin_dvd_MSG3="	PILDIFAILI KUSTUTAMINE"
+copia_bin_dvd_MSG4="SALVESTAMINE LÕPPENUD!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Vorminda"
+formatear_dvd_MSG2="Sundi uus vorming"
+formatear_dvd_MSG3="Asetage ümber väljundplokk"
+formatear_dvd_MSG4="Vorminda DVD-RW järjestikuseks inkrementaalseks"
+formatear_dvd_MSG5="Vorminda DVD-RW piiratud ülekirjutamiseks"
+formatear_dvd_MSG6="Täitke DVD nullidega"
+formatear_dvd_MSG7="Näita DVD teavet"
+formatear_dvd_MSG8="Eelmine menüü"
+formatear_dvd_MSG9="Seda valikut kasutatakse DVD esmakordseks vormindamiseks."
+formatear_dvd_MSG10="Kui DVD on juba vormindatud, siis see andmeid ei kustuta."
+formatear_dvd_MSG11="Need kirjutatakse uuel salvestisel üle."
+formatear_dvd_MSG12="DVD sisu kustutamiseks kasutage:"
+formatear_dvd_MSG13="Täitke DVD nullidega"
+formatear_dvd_MSG14="See valik kustutab vormingu ja andmed töödeldud DVD lt."
+formatear_dvd_MSG15="töötab"
+formatear_dvd_MSG16="DVD+RW/DVD-RW EDUKALT VORMINDATUD!"
+formatear_dvd_MSG17="VIGA DVD VORMIMISEL"
+formatear_dvd_MSG18="DVD+RW plaadi vormingu sunnimine..."
+formatear_dvd_MSG19="DVD+RW EDUKULT VORMISTATUD!"
+formatear_dvd_MSG20="VIGA DVD+RW vormindamisel"
+formatear_dvd_MSG21="See valik ei mõjuta DVD+RW le salvestatud andmeid"
+formatear_dvd_MSG22="DVD+RW lt väljundploki eemaldamine..."
+formatear_dvd_MSG23="DVD-RW ketta vormindamine järjestikuseks kirjutamiseks..."
+formatear_dvd_MSG24="DVD-RW EDUKULT FORMAATSIOONI!"
+formatear_dvd_MSG25="VIGA DVD-RW VORMIMISEL"
+formatear_dvd_MSG26="DVD-RW ketta vormindamine piiratud ülekirjutamiseks..."
+formatear_dvd_MSG27="KUSUTA SALVESTAV DVD"
+
+# null_dvd
+
+null_dvd_MSG1="Kirjutamine kettale /dev/zero..."
+null_dvd_MSG2="töötab"
+null_dvd_MSG3="PROTSESS LÕPPENUD"
+null_dvd_MSG4="OOTAMATU VIGA"
+
+# dvd_video
+
+dvd_video_MSG1="Tee, kus asuvad kataloogid VIDEO_TS ja AUDIO_TS:"
+dvd_video_MSG2="Määrake tee, kus VIDEO_TS ja AUDIO_TS kataloogid asuvad:"
+dvd_video_MSG3="töötav"
+dvd_video_MSG4="--- EDUNELT SALVESTATUD DVD-VIDEO ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="töötav"
+dvd_copia_bin_MSG2="	PILDIFAILI KUSTUTAMINE"
+dvd_copia_bin_MSG3="SALVESTAMISEL ON ESINUD VIGA"
+
+# dvd_datos
+
+dvd_datos_MSG1="Failid ja kataloogid .iso kujutise loomiseks"
+dvd_datos_MSG2="DVD LABEL"
+dvd_datos_MSG3="Sisesta tulevase DVD nimi:"
+dvd_datos_MSG4="Failihalduri käivitamine:"
+dvd_datos_MSG5="	PILDI LOOMINE. . ."
+dvd_datos_MSG6="töötav"
+dvd_datos_MSG7="ISO-9660 PILT LOODI SISSE"
+dvd_datos_MSG8="		PÕLEV DVD"
+dvd_datos_MSG13="PILDI KUSTUTAMINE..."
+
+# dvd_borra
+
+dvd_borra_MSG1="töötav"
+dvd_borra_MSG2="OPTILINE KETT ON VORMINDATUD"
+dvd_borra_MSG3="VIGA OPTILISE KETTA VORMINDAMISEL"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="töötav"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="Töötab"
+formatearCDDVDBD_MSG2="OPTILINE KETT ON EDUKULT VORMINDATUD"
+formatearCDDVDBD_MSG3="VIGA OPTILISE KETA VORMINDAMISEL"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW vormindamine õnnestus!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Viga DVD-RW vormindamisel piiratud ülekirjutamiseks"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW vormindamine õnnestus!!"
+formatearDVDRW_incremental_secuencial_MSG2="Viga DVD-RW vormindamisel järjestikuseks inkrementaalseks"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Määrake põletatava iso-9660 pildi tee:"
+cdrskinisocddvd_MSG2="ISO PILT SALVESTATUD EDUKALT!!"
+cdrskinisocddvd_MSG3="VIGA PILDI SALVEStamisel"
+

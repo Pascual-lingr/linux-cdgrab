@@ -1,0 +1,26 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovak/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en eslovaco para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="KONVERZIA VIDEA"
+menu_conversion_video_MSG2="------------- KONVERZIA MEDZI FORMÁTMI ------------"
+menu_conversion_video_MSG3="Konvertovať video na Blu Ray Disc kompatibilné so Smart-TV"
+menu_conversion_video_MSG4="Video súbor na konverziu:"
+menu_conversion_video_MSG0="Predchádzajúca ponuka"
+menu_conversion_video_MSG6="Nahrať reláciu pracovnej plochy"
+menu_conversion_video_MSG7="Konvertovať video súbor do iného formátu"
+menu_conversion_video_MSG8="----------------- ĎALŠIE MOŽNOSTI -----------------"
+menu_conversion_video_MSG9="Zmiešajte video súbor so zvukovým súborom"
+menu_conversion_video_MSG10="Extrahovať zvuk MP3 z video súboru"
+menu_conversion_video_MSG11="Orezať súbor videa"
+
+
+

@@ -1,0 +1,37 @@
+# Idioma Tigriña para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="ንምቕጻል ENTER ብምጥዋቕ..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="================================="
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 ምቕያር .NRG ናብ .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="መንገዲ ናይቲ ክትቅይሮ እትደሊ .nrg ምስሊ ኣእቱ:"
+convertir_imagen_nrg_MSG1B="መንገዲ ናይቲ ክትፈጥሮ እትደሊ .iso ምስሊ ኣእቱ:"
+convertir_imagen_nrg_MSG2="ዝጎዪ ዘሎ።"
+convertir_imagen_nrg_MSG3="ምቕያር ምስሊ .nrg ናብ .iso ብዓወት ተዛዚሙ"
+convertir_imagen_nrg_MSG4="ስእሊ ምቕያር ስሕተት .nrg።"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="ኣብ linux-cdgrab ንዝግበር ምቕያር ምስሊ ዝድግፍ"።
+creditospatchnrgaiso_MSG2="nrg2iso ብምጥቃም .nrg ምስልታት ናብ .iso ምቕያር"።
+creditospatchnrgaiso_MSG3="ብመሰረት GPL v2 ፍቓድ ምዝርጋሕ"።
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="ናይ ትእዛዝ ስሪት፤"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1=".nrg ምስሊ ናብ .iso ምቕያር።"
+lingr10ConversionNRG_2_ISO_MSG2="ብዛዕባ።"
+lingr10ConversionNRG_2_ISO_MSG3="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
+lingr10ConversionNRG_2_ISO_MSG4="ዘይሕጋዊ ኣማራጺ።"
+

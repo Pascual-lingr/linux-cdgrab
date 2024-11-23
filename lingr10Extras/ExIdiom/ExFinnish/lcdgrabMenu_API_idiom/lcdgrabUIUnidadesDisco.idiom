@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExFinnish/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Finés para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="LEVYASEMAN TOIMINNOT"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="------------------------- TÄRKEÄ ------------------------"
+MenuDispositivosBloque_MSG3="+ Älä suorita kirjoitustoimintoja kiintolevyille "
+MenuDispositivosBloque_MSG4="+ kuvia sisältävistä levyosioista"
+MenuDispositivosBloque_MSG5="+ palautus, käynnistysosio tai oma"
+MenuDispositivosBloque_MSG6="+ käyttöjärjestelmäosio."
+MenuDispositivosBloque_MSG7="+ Tämän valikon kirjoitusvaihtoehtojen väärinkäyttö "
+MenuDispositivosBloque_MSG8="+ voi aiheuttaa katastrofin järjestelmään."
+MenuDispositivosBloque_MSG9="+ Käytä varoen. Käytä omalla vastuulla."
+MenuDispositivosBloque_MSG10="----------------- KIRJOITTAMINEN -----------------"
+MenuDispositivosBloque_MSG11="Pidä kuvatiedosto levyasemaan"
+MenuDispositivosBloque_MSG11B="Poista iso- tai img-kuva (itsekäynnistävä) pendrive- tai USB-levylle"
+MenuDispositivosBloque_MSG11C="Kaikkia asennusjärjestelmiä ei tueta."
+MenuDispositivosBloque_MSG12="Alusta asema alkuperäisellä Linux- tai Windows-tiedostojärjestelmällä"
+MenuDispositivosBloque_MSG13="------------------- LUKEMINEN --------------------"
+MenuDispositivosBloque_MSG14="Luo .img kuva levyasemasta"
+MenuDispositivosBloque_MSG15="Edellinen valikko"
+MenuDispositivosBloque_MSG16="Kirjoita vaihtoehto"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="----------------------------TÄRKEÄ--------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Laitteissa käytetyn tiedostojärjestelmän muotoyksikkö"
+UIFormatearUnidad_linuxfs_MSG2B="+ tai levyosiot."
+UIFormatearUnidad_linuxfs_MSG3="+ Tämä vaihtoehto poistaa kaikki yksikössä olevat tiedot"
+UIFormatearUnidad_linuxfs_MSG4="+ Irrotettavat asemat, jotka on alustettu tiedostojärjestelmällä"
+UIFormatearUnidad_linuxfs_MSG5="+ Itse Linux on käytettävissä vain tässä käyttöjärjestelmässä."
+UIFormatearUnidad_linuxfs_MSG6="+ Käytä varoen, käytä omalla vastuulla."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="PAINA C-NÄPPÄINTÄ JATKAksesi (prosessi peruutetaan toisessa vaihtoehdossa)"
+

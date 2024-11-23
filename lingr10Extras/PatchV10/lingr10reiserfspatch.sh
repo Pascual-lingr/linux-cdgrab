@@ -528,7 +528,7 @@ while $verdadero;do
 		;;
 
 		*)
-			echo $lingr10reiserfspatch_MSG4
+			echo -e "${C_FA}$lingr10reiserfspatch_MSG4${COLOR_DEL_INTERFAZ}${FONDO_INTERFAZ}"
 			sleep 1
 			continue
 		;;

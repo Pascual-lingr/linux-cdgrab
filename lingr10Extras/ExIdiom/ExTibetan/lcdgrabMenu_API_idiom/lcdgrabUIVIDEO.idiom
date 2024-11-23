@@ -1,0 +1,24 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en Tibetano para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="བརྙན་འཕྲིན་བསྒྱུར།"
+menu_conversion_video_MSG2="-------------- རྣམ་གཞག་བར་གྱི་བརྗེ་སྒྱུར། ---------------"
+menu_conversion_video_MSG3="བརྙན་ཐུང་དེ་Blu Ray Disc Smart-TV མཐུན་སྒྲིལ་ཅན་དུ་བསྒྱུར།"
+menu_conversion_video_MSG4="བརྙན་ཡིག་ཡིག་ཆར་བསྒྱུར།:"
+menu_conversion_video_MSG0="དཀར་ཆག་སྔོན་མ།"
+menu_conversion_video_MSG6="ཡིག་ཆའི་ལས་རིམ་ཐོ་འགོད།"
+menu_conversion_video_MSG7="བརྙན་རིས་ཡིག་ཚགས་རྣམ་པ་མི་འདྲ་བར་བསྒྱུར།"
+menu_conversion_video_MSG8="----------------- གདམ་ག་གཞན། -----------------"
+menu_conversion_video_MSG9="བརྙན་ཕབ་ཡིག་ཆ་དང་སྒྲ་སྒམ་མཉམ་བསྲེས།"
+menu_conversion_video_MSG10="བརྙན་ཡིག་ཡིག་ཆའི་ནང་ནས་MP3སྒྲ་གདངས་འཐེན་པ།"
+menu_conversion_video_MSG11="བརྙན་ཐུང་ཡིག་ཚགས་གཅོད་པ།"
+

@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAzerbaijani/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en azerbaiyano para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="CİHAZLAR HAZIRDA SİSTEMƏ QURAŞILMIŞDIR"
+montar_dispositivos_MSG1B="CİHAZLARIN YIKILMASI/SÖNDÜLMƏSİ"
+montar_dispositivos_MSG2="LINUX-CDGRAB OPSİYONLARI"
+montar_dispositivos_MSG3="Diski CD/DVD/BD oxuyucudan çıxarın"
+montar_dispositivos_MSG4="Diski CD/DVD/BD yazıcısından çıxarın"
+montar_dispositivos_MSG5="CD-ROM/DVD-ROM/BD-ROM oxuyucunu quraşdırın"
+montar_dispositivos_MSG6="CD-ROM/DVD-ROM/BD-ROM-u ayırın"
+montar_dispositivos_MSG7="Cihazı əl ilə quraşdırın və ya sökün"
+montar_dispositivos_MSG0="Əvvəlki menyu"
+montar_dispositivos_MSG8="CD/DVD/BD quraşdırılıb"
+montar_dispositivos_MSG9="DAVAM ETMƏK ÜÇÜN ENTER düyməsini BASIN..."
+montar_dispositivos_MSG10="CD/DVD/BD-ni işə salarkən xəta baş verdi"
+montar_dispositivos_MSG11="CD/DVD/BD çıxarılıb"
+montar_dispositivos_MSG12="CD/DVD/BD-nin çıxarılması xətası"
+montar_dispositivos_MSG13="Quraşdırmaq/çıxarmaq üçün cihazı yazın:"
+montar_dispositivos_MSG14="Bağlama nöqtəsini daxil edin:"
+montar_dispositivos_MSG15="blok cihazına uyğun gəlmir"
+montar_dispositivos_MSG16="Bağlanma nöqtəsi tapılmadı"
+montar_dispositivos_MSG17="Defolt quraşdırma nöqtəsi"
+montar_dispositivos_MSG18="Seçim seçin:"
+montar_dispositivos_MSG19="Quraşdırın"
+montar_dispositivos_MSG20="in"
+montar_dispositivos_MSG21="Ağır"
+montar_dispositivos_MSG22="of"
+montar_dispositivos_MSG23="quraşdırılıb:"
+montar_dispositivos_MSG24="QURAŞDIRMA HATASI"
+montar_dispositivos_MSG25="IN"
+montar_dispositivos_MSG26="söküldü"
+montar_dispositivos_MSG27="SÖNDÜRƏN HƏTƏ"
+montar_dispositivos_MSG28="of"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Bağlama əmrinin çıxışı"
+Montar_Imagenes_MSG1B="ŞƏKİL FAYLLARININ YIKILMASI/SÖKÜLMƏSİ"
+Montar_Imagenes_MSG2="Seçim seçin"
+Montar_Imagenes_MSG3="CD/DVD/BD şəklini quraşdırın"
+Montar_Imagenes_MSG4="CD/DVD/BD şəklini ayırın"
+Montar_Imagenes_MSG5="Əvvəlki Menyu"
+

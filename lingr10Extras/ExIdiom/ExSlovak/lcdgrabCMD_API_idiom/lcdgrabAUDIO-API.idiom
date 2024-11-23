@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovak/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en eslovaco para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3 SÚBORY NA KONVERZIU"
+mp3awav_MSG0="Zadajte cestu k súborom .mp3: "
+mp3awav_MSG1="KONVERZIA"
+mp3awav_MSG1B=" DO FORMÁTU .wav"
+mp3awav_MSG2="beh"
+mp3awav_MSG3="Vzorkovanie nastavené na 44100 Mhz"
+mp3awav_MSG4="Chyba pri spracovaní vzorkovania"
+mp3awav_MSG5="Nepodarilo sa konvertovať"
+mp3awav_MSG6="Adresár nenájdený"
+mp3awav_MSG7="KONIEC KONVERZIE ZVUKU"
+mp3awav_MSG8="Normalizácia zvukového súboru"
+mp3awav_MSG9="Súbor"
+mp3awav_MSG10="Normalizované"
+mp3awav_MSG11="Chyba pri normalizácii"
+
+# oggawav
+
+oggawav_MSG0="SÚBORY OGG NA KONVERTOVANIE"
+oggawav_MSG1="Zadajte cestu k súborom .ogg: "
+oggawav_MSG2="KONVERZIA"
+oggawav_MSG2B="FORMÁT .wav"
+oggawav_MSG3="beh"
+oggawav_MSG4="Vzorkovanie nastavené na 44100 Mhz"
+oggawav_MSG5="Chyba pri spracovaní vzorkovania"
+oggawav_MSG6="Nepodarilo sa konvertovať"
+oggawav_MSG7="Adresár nenájdený"
+oggawav_MSG8="KONIEC ZVUKOVÉHO POKRYTIA"
+oggawav_MSG9="Normalizácia zvukového súboru"
+oggawav_MSG10="Súbor"
+oggawav_MSG11="Normalizované"
+oggawav_MSG12="Chyba pri normalizácii"
+
+# cdawav
+
+cdawav_MSG1="RIPOVANIE AUDIO CD..."
+cdawav_MSG2="Prebieha:"
+cdawav_MSG3="ÚSPEŠNE SPRACOVANÉ AUDIO SKLADBY!!"
+cdawav_MSG4="Obsah adresára audio súborov"
+cdawav_MSG5="CHYBA PRI RIPOVANÍ ZVUKOVÝCH SKLADIEB"
+
+# cddawav
+
+cddawav_MSG1="ZADAJ POČET STOPY NA RIP:"
+cddawav_MSG2="Stlačte Ctrl + c pre zrušenie kopírovania stopy"
+cddawav_MSG3="Prebieha:"
+cddawav_MSG4="ÚSPEŠNE ROZTRHNUTÉ"
+cddawav_MSG5="CHYBA RIPPANIA"
+
+# wavamp3
+
+wavamp3_MSG0="WAV SÚBORY NA KONVERTOVANIE"
+wavamp3_MSG1="Zadajte cestu k súborom .wav: "
+wavamp3_MSG1B="CONVERTING"
+wavamp3_MSG2="FORMÁT"
+wavamp3_MSG3="Prebieha:"
+wavamp3_MSG4="pri konverzii"
+wavamp3_MSG5="do formátu .MP3"
+wavamp3_MSG6="Chyba pri konverzii"
+wavamp3_MSG7="KONVERZIA ZVUKU DOKONČENÁ"
+wavamp3_MSG8="AUDIO ADRESÁR NENÁJDENÝ"
+
+# cdamp3
+
+cdamp3_MSG1="RIPOVANIE AUDIO CD..."
+cdamp3_MSG2="Prebieha:"
+cdamp3_MSG3="ÚSPEŠNE SPRACOVANÉ AUDIO SKLADBY!!"
+cdamp3_MSG4="CHYBA PRI ripovaní ZVUKOVÝCH SKLADEB"
+cdamp3_MSG5="Volanie funkcie:"
+
+# wavaogg
+
+wavaogg_MSG1="Zadajte cestu k súborom .wav: "
+wavaogg_MSG2="KONVERCIA"
+wavaogg_MSG3="FORMÁT .ogg"
+wavaogg_MSG4="Beží:"
+wavaogg_MSG5="Chyba pri konverzii"
+wavaogg_MSG6="do formátu .ogg"
+
+# cdaogg
+
+cdaogg_MSG1="RIPOVANIE AUDIO CD..."
+cdaogg_MSG2="Prebieha:"
+cdaogg_MSG3="ÚSPEŠNE SPRACOVANÉ AUDIO SKLADBY!!"
+cdaogg_MSG4="CHYBA PRI RIPOVANÍ ZVUKOVÝCH SKLADIEB"
+cdaogg_MSG5="Volanie funkcie:"
+
+# corta_wav
+
+corta_wav_MSG0="Počet sekúnd:"
+corta_wav_MSG1="Určite cestu k audio súboru na konverziu:"
+corta_wav_MSG2="Uveďte čas v počte sekúnd, pre ktorý"
+corta_wav_MSG3="začne sa orezávanie súboru."
+corta_wav_MSG4="-POZNÁMKA-"
+corta_wav_MSG5="Ak chcete určiť začiatok zvuku, zadajte 0"
+corta_wav_MSG6="Hodnota v sekundách na spustenie konverzie:"
+corta_wav_MSG7="Uveďte čas v počte sekúnd, pre ktorý"
+corta_wav_MSG8="vyrezanie súboru bude dokončené."
+corta_wav_MSG9="Hodnota v sekundách pre koniec konverzie:"
+corta_wav_MSG10="Beží"
+corta_wav_MSG11="Orezaný zvukový súbor"
+corta_wav_MSG12="Chyba pri orezávaní súboru"
+corta_wav_MSG13="Zvukový súbor na orezanie:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1="Uveďte cestu k súborom .flac:"
+flacawav_MSG2="KONVERZIA"
+flacawav_MSG3=" DO FORMÁTU .wav"
+flacawav_MSG4="Vzorkovanie nastavené na 44100 Mhz"
+flacawav_MSG5="Chyba pri spracovaní vzorkovania"
+flacawav_MSG6="Normalizácia zvukového súboru"
+flacawav_MSG7="Súbor"
+flacawav_MSG8="Normalizované"
+flacawav_MSG9="Chyba pri normalizácii"
+flacawav_MSG10="Nepodarilo sa konvertovať"
+flacawav_MSG11="Adresár nenájdený"
+flacawav_MSG12="KONIEC KONVERZIE ZVUKU"
+
+# wavaflac
+
+wavaflac_MSG0="WAV SÚBORY NA KONVERTOVANIE"
+wavaflac_MSG1="Zadajte cestu k súborom .wav: "
+wavaflac_MSG2="KONVERZIA"
+wavaflac_MSG3="FORMÁT .flac"
+wavaflac_MSG4="konvertované do formátu flac"
+wavaflac_MSG5="Chyba pri konverzii"
+wavaflac_MSG6="do formátu .flac"
+wavaflac_MSG7="ADRESÁR SÚBOROV FLAC NENÁJDENÝ"
+

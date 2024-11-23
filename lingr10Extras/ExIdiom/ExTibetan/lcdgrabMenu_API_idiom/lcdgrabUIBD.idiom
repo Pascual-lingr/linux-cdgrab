@@ -1,0 +1,20 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcgdrabMenu_API_idiom/lcdgrabUIBD.idiom
+# Menú de Interfaz para la grabación de BD.
+# Traducción experimental al Tibetano, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_grabar_BD
+
+menu_grabar_BD_MSG0="དཀར་ཆག་སྔོན་མ།"
+menu_grabar_BD_MSG1="BLU-RAY འོད་སྡེར་སྒྲ་ཕབ།"
+menu_grabar_BD_MSG2="སྲ་སྡེར་གྱི་གཞི་གྲངས་ནས་BD-R/BD-RE iso གསར་བ་འབར་སྲུང།"
+menu_grabar_BD_MSG4="ཌིསིཀ་ལ་སྲེག་དགོས་པའི་ ISO/UDF པར་རིས།"
+menu_grabar_BD_MSG7="iso-9660/udf པར་རིས་ BD-R/BD-RE ལ་འཚིག་རོགས།"
+menu_grabar_BD_MSG8="------------------- DB - གཞི་གྲངས། -------------------"
+menu_grabar_BD_MSG9="སྒུལ་ཆས་སྲབ་འཁོར་ཆ་འཕྲིན་སྟོན།"
+menu_grabar_BD_MSG10="དགོས་མཁོའི་སུབ་པ་BD-RE འཇུག་སྤྱོད་བྱེད།"

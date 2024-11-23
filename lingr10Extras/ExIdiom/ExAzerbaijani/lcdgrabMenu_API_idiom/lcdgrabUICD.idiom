@@ -1,0 +1,72 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAzerbaijani/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al azerbaiyano, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="OPSİYON SEÇİN"
+clonar_MSG2="------ ƏVVƏL ŞƏKİLDƏN DİSK NÜSTƏLƏRİ --------"
+clonar_MSG3="Məlumat CD-sini kopyalayın"
+clonar_MSG4="Sərt diskinizdə əvvəlcədən CD şəkli yaradın"
+clonar_MSG5="----------- UÇUŞDA DİSK NÜSTƏLƏRİ -----------"
+clonar_MSG6="Məlumat CD-ni tez surətdə kopyalayın"
+clonar_MSG7="Məlumat CD-ni tez klonlayın"
+clonar_MSG7B="Audio CD-ni tez surətdə kopyalayın"
+clonar_MSG8="UÇAN KOPYA OPSİYONLARI İKİ OPTİK BÖLÜM TƏLƏB EDİR"
+clonar_MSG9="MƏLUMATLAR QEYD EDİLDİYİNDƏN KOMPYUTERİNİZƏ QURULMUŞDUR"
+clonar_MSG10="YALNIZ KOMPÜTERİNİZDƏ VARSA, İLK DİSKDƏN BİRBAŞA OXUYUN"
+clonar_MSG11="BİRİ Uçuşda NÜSTƏLƏRDƏN İSTİFADƏ ETMƏ BİLMƏYƏCƏK."
+clonar_MSG12B="CD MƏLUMATLARINI KOPYALA"
+clonar_MSG0="Əvvəlki menyu"
+
+# mgrabacd
+
+mgrabacd_MSG1="HARD DİSKDƏN CD MƏLUMATI"
+mgrabacd_MSG2="Yeni məlumat CD-ni yandırın (cdrtools istifadə edin)"
+mgrabacd_MSG3="Yeni məlumat CD-ni yandırın (libburnia istifadə edin)"
+mgrabacd_MSG4="Əvvəlki menyu"
+mgrabacd_MSG5="Seçim daxil edin"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="MƏLUMAT ŞƏKİLİ QEYDİ"
+mgrabaimg_MSG2="İso və ya ext2 şəklini CD-R/RW-yə yazın (cdrtools istifadə edin)"
+mgrabaimg_MSG3="İzo şəkli CD-R/RW-yə yazdırın (libburnia istifadə edin)"
+mgrabaimg_MSG4="Əvvəlki menyu"
+mgrabaimg_MSG5="Seçim daxil edin"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1=".wav fayllarından Audio CD yazmaq"
+mgrabararchivosaudio_MSG2=".mp3 fayllarından Audio CD yazmaq"
+mgrabararchivosaudio_MSG3=".ogg fayllarından Audio CD yazmaq"
+mgrabararchivosaudio_MSG0="Əvvəlki menyu"
+mgrabararchivosaudio_MSG0B="Seçim yazın"
+mgrabararchivosaudio_MSG4=".flac fayllarından Audio CD yazdırın"
+mgrabararchivosaudio_MSG5="Fayllardan CD-AUDIO YAZILIŞ"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="CD-YƏ YAZILAN"
+menugrabar_cd_MSG2="-------------------- CD - DATA -------------------"
+menugrabar_cd_MSG3="Məlumat CD-ni kopyalayın"
+menugrabar_cd_MSG4="Yeni məlumat CD-sini yandırın"
+menugrabar_cd_MSG5="Yeni çox seanslı məlumat CD-sini yandırın"
+menugrabar_cd_MSG6=".iso və ya .ext2 şəklini CD-yə yazın"
+menugrabar_cd_MSG7=".bin/.cue şəklini CD-yə yaz"
+menugrabar_cd_MSG8="-------------------- CD - AUDİO ------------------"
+menugrabar_cd_MSG9="Audio CD-ni kopyalayın"
+menugrabar_cd_MSG13="---------------- DİGƏR OPSİYONLAR ----------------"
+menugrabar_cd_MSG14="Qarışıq CD yazmaq (Məlumat + Audio)"
+menugrabar_cd_MSG15="CD-RW-ni silin"
+menugrabar_cd_MSG16="Açıq CD-ni bağlayın"
+menugrabar_cd_MSG17="Sürücüdə disk məlumatını göstər"
+menugrabar_cd_MSG18="Disk fayllarından Audio CD yazmaq"
+menugrabar_cd_MSG0="Əvvəlki menyu"
+menugrabar_cd_MSGPRINCIPAL="Seçim yazın"

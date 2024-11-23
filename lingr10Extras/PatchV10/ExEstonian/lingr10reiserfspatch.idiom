@@ -1,0 +1,76 @@
+# Idioma Estonio para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Jätkamiseks vajutage ENTER..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="============================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 TOETUS TAAS."
+cabecera_interfaz_MSG3="============================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Ühenda käsu väljund:"
+formatear_disco_reiserfs_MSG2="Määrake vormindatav blokeerimisseade: "
+formatear_disco_reiserfs_MSG3="Seade on edukalt vormindatud"
+formatear_disco_reiserfs_MSG4="Viga seadme vormindamisel"
+formatear_disco_reiserfs_MSG5="PROTSESS LÕPPENUD"
+formatear_disco_reiserfs_MSG6="Seadme lahtiühendamine..."
+formatear_disco_reiserfs_MSG7="Draivi vormindamine ReiserFS-is..."
+formatear_disco_reiserfs_MSG8="Töötab"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="Vormindati edukalt"
+formatear_img_reiserfs_MSG2="VIGA TÜHJA FAILI VORMIMISEL"
+formatear_img_reiserfs_MSG3="Tühja faili genereerimine..."
+formatear_img_reiserfs_MSG4="Töötab"
+formatear_img_reiserfs_MSG5="Tühja faili vormindamine ReiserFS-is..."
+formatear_img_reiserfs_MSG6="KOHALDATUD SUURUSEGA TÜHJA FAILI GENEREERIMINE"
+formatear_img_reiserfs_MSG7="Määra genereeritava tühja faili suurus (ainult arvväärtus):"
+formatear_img_reiserfs_MSG8="Ruumi mõõtmised tühja faili genereerimiseks:"
+formatear_img_reiserfs_MSG9="Määrake kasutatav ruumi mõõt: "
+formatear_img_reiserfs_MSG10="VIGA SUURUSE MÕÕTMISE MÄRKUSEL"
+formatear_img_reiserfs_MSG11="Ploki suuruse väärtus:"
+formatear_img_reiserfs_MSG12="Tühja faili ruumi hulk:"
+formatear_img_reiserfs_MSG13="Arvutatud väärtus baitides:"
+formatear_img_reiserfs_MSG14="Arvutatud väärtus loenduse jaoks:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Loo pilt CD-R/RW jaoks (702 Mbytes)"
+m_img_CDDVDBD_reiserfs_MSG2="Loo pilt DVD+RW jaoks (4 Gbaiti)"
+m_img_CDDVDBD_reiserfs_MSG3="Loo pilt DVD+RW/DL jaoks (8 GB)"
+m_img_CDDVDBD_reiserfs_MSG4="Loo pilt BD-R/RE jaoks (25 GB)"
+m_img_CDDVDBD_reiserfs_MSG5="Loo kohandatud suurusega pildifail"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Välju"
+imgr_tmp_MSG1="Kustuta kõik reiserfi pildifailid"
+imgr_tmp_MSG2="Pildifaili ühendamine või lahtiühendamine"
+imgr_tmp_MSG3="Pildifailid"
+imgr_tmp_MSG4="Valige valik"
+imgr_tmp_MSG5="Kustutatud pildifailid"
+imgr_tmp_MSG6="Paigalda pilt"
+imgr_tmp_MSG7="Demalda pilt"
+imgr_tmp_MSG8="Paigaldatud pilt"
+imgr_tmp_MSG9="eemaldatud pilt"
+imgr_tmp_MSG10="Vigane valik"
+imgr_tmp_MSG11="Määra ühendatav või lahtiühendatav pilt:"
+imgr_tmp_MSG12="Viga pildi paigaldamisel"
+imgr_tmp_MSG13="Viga pildi lahtiühendamisel"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Vorminda draiv ReiserFS is"
+lingr10reiserfspatch_MSG2="Loo ReiserFS i kujutis CD/DVD/BD jaoks"
+lingr10reiserfspatch_MSG3="Toimingud ReiserFS i piltidega"
+lingr10reiserfspatch_MSG4="Vigane valik"
+lingr10reiserfspatch_MSG0="Välju"
+

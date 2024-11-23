@@ -1,0 +1,32 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongolian/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en Mongol para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="АУДИО ХӨРВҮҮЛЭХ"
+menu_conversion_audio_MSG2="---------------- ФОРМАТЫН ХОРВУУЛАЛТ -------------"
+menu_conversion_audio_MSG3=".mp3 г .wav болгон хөрвүүлэх"
+menu_conversion_audio_MSG4=".ogg г .wav болгон хөрвүүлэх"
+menu_conversion_audio_MSG5=".wav г .mp3 болгон хөрвүүлэх"
+menu_conversion_audio_MSG6=".wav г .ogg болгон хөрвүүлэх"
+menu_conversion_audio_MSG6C=".wav г .flac руу хөрвүүлэх"
+menu_conversion_audio_MSG6B=".flac г .wav болгон хөрвүүлэх"
+menu_conversion_audio_MSG7="---------------- АУДИО ТРЕКИЙГ АВАХ --------------"
+menu_conversion_audio_MSG8="Аудио CD г .wav руу буулгах"
+menu_conversion_audio_MSG9="Аудио дууны багцыг .wav руу хуулах"
+menu_conversion_audio_MSG10="Аудио CD г .mp3 болгон буулгах"
+menu_conversion_audio_MSG11="Аудио CD г .ogg руу буулгах"
+menu_conversion_audio_MSG0="Өмнөх цэс"
+menu_conversion_audio_MSG12=".mp3 файл хайх"
+menu_conversion_audio_MSG13=".ogg файл хайх"
+menu_conversion_audio_MSG14=".wav файл хайх"
+menu_conversion_audio_MSG15="---------------- БУСАД ҮЙЛ АЖИЛЛАГАА -------------"
+menu_conversion_audio_MSG16=".wav аудио файлыг таслах"
+menu_conversion_audio_MSG17="Аудио CD г .flac руу буулгах"

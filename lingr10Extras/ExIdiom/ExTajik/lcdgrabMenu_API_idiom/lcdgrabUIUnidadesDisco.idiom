@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExTajik/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Tayiko para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="АМАЛИЁТИ ДИККАТ"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="------------------------ МУҲИМ --------------------------"
+MenuDispositivosBloque_MSG3="+ Амалиёти навиштанро дар дискҳои сахт иҷро накунед "
+MenuDispositivosBloque_MSG4="+ дар бораи қисмҳои диск, ки дорои тасвирҳо мебошанд"
+MenuDispositivosBloque_MSG5="+ барқарорсозӣ, қисмҳои пурборкунӣ ё худ"
+MenuDispositivosBloque_MSG6="+ қисмати системаи амалиётӣ."
+MenuDispositivosBloque_MSG7="+ Истифодаи нодурусти имконоти навиштани ин меню "
+MenuDispositivosBloque_MSG8="+ метавонад дар система фалокат эҷод кунад."
+MenuDispositivosBloque_MSG9="+ Бо эҳтиёт истифода баред. Бо хатари худ истифода баред."
+MenuDispositivosBloque_MSG10="-------------------- НАВИШТ ----------------------"
+MenuDispositivosBloque_MSG11="Файли тасвирро ба диск партоед"
+MenuDispositivosBloque_MSG11B="Тасвири iso ё img партов (худборшаванда) ба диски диск ё USB"
+MenuDispositivosBloque_MSG11C="На ҳама системаҳои насбкунӣ дастгирӣ карда мешаванд."
+MenuDispositivosBloque_MSG12="Формат кардани диск бо системаи файлии аслии Linux ё Windows"
+MenuDispositivosBloque_MSG13="-------------------- ХОНДАН ----------------------"
+MenuDispositivosBloque_MSG14="Эҷоди тасвири .img аз диски диск"
+MenuDispositivosBloque_MSG15="Менюи қаблӣ"
+MenuDispositivosBloque_MSG16="Ихтиёрро ворид кунед"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="------------------------------МУҲИМ------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Воҳиди формат бо системаи файлии дар дастгоҳҳо истифодашаванда"
+UIFormatearUnidad_linuxfs_MSG2B="+ ё қисмҳои диск."
+UIFormatearUnidad_linuxfs_MSG3="+ Ин хосият тамоми маълумоти мавҷуда дар дастгоҳро нест мекунад"
+UIFormatearUnidad_linuxfs_MSG4="+ Дискҳои ҷудошаванда бо системаи файлӣ формат карда шудаанд"
+UIFormatearUnidad_linuxfs_MSG5="+ Худи Linux танҳо дар зери ин системаи оператсионӣ дастрас хоҳад буд."
+UIFormatearUnidad_linuxfs_MSG6="+ Бо эҳтиёт истифода баред, бо хатари худ истифода баред."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="БАРОИ ДАВОМ ДОДАН ТУГАИ C ро пахш кунед (раванд дар дигар вариант бекор карда мешавад)"
+

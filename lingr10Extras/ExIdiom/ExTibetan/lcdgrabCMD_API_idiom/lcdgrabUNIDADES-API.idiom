@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en Tibetano para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1=".img ཡང་ན་ .ext2 པར་རིས་དེ་སྲབ་འཁོར་ལ་གཡུག་པའི་འགྲོ་ལམ།"
+volcar_imagen_MSG2="-----------------------གཙིགས་ཆེན----------------------------" 
+volcar_imagen_MSG3="+ གདམ་ཁ་འདི་འོད་ཀྱི་འོད་སྡེར་ཐོག་ལ་ལས་ཀ་བྱེད་ཀྱི་མེད།"
+volcar_imagen_MSG4="+ པེན་ཌི་རའིབ་དང་།"
+volcar_imagen_MSG5="+ སྲ་སྡེར་དང་ལྷན་དུ་བསམ་གཞིགས།"
+volcar_imagen_MSG6="+ རི་མོ་དེ་མགོ་ནས་ dd དང་མཉམ་དུ་བྲིས་ཡོད།"
+volcar_imagen_MSG7=" གཏན་འཁེལ་བྱས་པའི་ཌིསིཀ་ནང་ནས་ཨང་གྲངས་བཀོལ་སྤྱོད་བྱེད་མི་ཆོག"
+volcar_imagen_MSG8="བྱེ་བྲག་གི་སྡེ་ཁག་འབྲི་བའི་བྱ་རིམ་འགོ་འཛུགས།"
+volcar_imagen_MSG9="+ དོགས་ཟོན་ཆེན་པོས་བེད་སྤྱོད་གཏོང་། རང་ཉིད་ཀྱི་ཉེན་ཁ་ལ་བརྟེན་ནས་བེད་སྤྱོད་གཏོང་།"
+volcar_imagen_MSG10="+ སྲབ་སྡེར་གྱི་བར་གཅོད་རྣམས་བེད་སྤྱོད་གཏོང་མི་ཐུབ་པ་ཆགས་སྲིད།"
+volcar_imagen_MSG11="+ བགོད་སྒྲིག་མ་ལག་སྣ་ཚོགས་ཐོག་བེད་སྤྱོད་གཏོང་རྒྱུར་འོས་འཚམས་མེད།"
+volcar_imagen_MSG12="སླར་གསོ་དེས་བར་གཅོད་རེའུ་མིག་ལས་ཕྱིར་ཐོན་སྲིད་པ་དང་།"
+volcar_imagen_MSG13="བེད་མེད་ཀྱི་བར་གཅོད་ཁོ་རང།"
+volcar_imagen_MSG14="------------------------------------------------"
+volcar_imagen_MSG15="མུ་མཐུད་དུ་འགྲོ་བའི་ཆེད་དུ་Cམཐེབ་གནོན་དང་། (གདམ་ག་གཞན་ཞིག་གི་ནང་དུ་བྱ་རིམ་དེ་མེད་པར་བཟོ་སྲིད།)"
+volcar_imagen_MSG16="ཌིཀསི་ནང་འདྲེན་པའི་པར་རིས་ཡིག་ཆའི་འགྲོ་ལམ་གཏན་འཁེལ་བྱེད།: "
+volcar_imagen_MSG17="བརྩེགས་བརྩེགས་བཀའ་ཚིག་ཐོན་འབྲས།"
+volcar_imagen_MSG18="པར་རིས་གང་དུ་གཡུག་དགོས་པའི་བཀག་སྡོམ་སྒྲིག་ཆས་གཏན་འཁེལ་བྱོས།"
+volcar_imagen_MSG19="གཟུགས་བརྙན་དོར་བ།"
+volcar_imagen_MSG20="ཡོ་བྱད་སྟེང་།"
+volcar_imagen_MSG21="གཡོག་བཞིན་ཡོད།"
+volcar_imagen_MSG22="འདྲ་པར་བླུགས་པའི་བྱ་རིམ་མཇུག་སྒྲིལ་ཟིན།"
+
+# volcar_iso
+
+volcar_iso_MSG1="iso པར་རིས་འབྲི་བའི་བཀག་སྡོམ་འཕྲུལ་ཆས་གཏན་འཁེལ་བྱོས།"
+volcar_iso_MSG2="ཉེན་བརྡ"
+volcar_iso_MSG2B="-----"
+volcar_iso_MSG3="འབྲི་དགོས་པའི་བཀག་སྡོམ་སྒྲིག་ཆས་གཏན་འཁེལ་བྱེད།"
+volcar_iso_MSG4="དཔེར་ན། /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="སྒྲིག་ཆས་འདི་ལ་གཏོགས་པའི་བར་གཅོད་གཏན་འཁེལ་མི་བྱེད།"
+volcar_iso_MSG6="དཔེར་ན། /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="འབྲི་རྒྱུའི་ iso-9660 གཟུགས་བརྙན་ཡང་ན་ img གསལ་བཀོད་བྱོས།"
+volcar_iso_MSG9="བརྒྱུད་རིམ་མཇུག་སྒྲིལ་ཟིན།"
+volcar_iso_MSG10="iso འབྲི་བའི་བརྒྱུད་རིམ་ནང་ནོར་འཁྲུལ་བྱུང་བ།"
+volcar_iso_MSG11="པར་རིས་འབྲི་བར་སྡེབ་ཚད་གཏན་འཁེལ་བྱེད།"
+volcar_iso_MSG12="འབྲི་བར་བཀོལ་སྤྱོད་མ་ལག་ལྟར་གདམ་ག་འདེམས།"
+volcar_iso_MSG13="ISO-9660 ཡང་ན་འགོ་འཛུགས་ཐུབ་པའི་ IMG པར་རིས ཡོ་ཆས་སྟེང་འོད་འཕྲོ་དགོས།"
+volcar_iso_MSG14="ཕྱིར་ཐོན།"
+volcar_iso_MSG15="ISO-9660 པར་རིས་ཡིག་ཆ་ཡང་ན་IMG"
+volcar_ISO_MSG16="བཀོལ་སྤྱོད་མ་ལག་འདེམས།"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="དང་མཉམ་དུ་ཡིག་ཆའི་མ་ལག་འདེམས།"
+Formateador_linuxfs_MSG2="ཡོ་བྱད་དེ་རྩ་སྒྲིག་བྱེད་ངེས་ཡིན།"
+Formateador_linuxfs_MSG3="རྩ་སྒྲིག་བྱེད་པའི་བཀག་སྡོམ་སྒྲིག་ཆས་གཏན་འཁེལ་བྱེད།: "
+Formateador_linuxfs_MSG5="བྱ་རིམ་མཇུག་སྒྲིལ་ཟིན།"
+Formateador_linuxfs_MSG6="ཌིསིཀ་རྩ་སྒྲིག་བྱེད་མཁན།"
+Formateador_linuxfs_MSG7="སྐད་ཤུགས་མཚོན་རྟགས་སྒྲིག་དགོས།"
+Formateador_linuxfs_MSG10="གླེགས་བམ་གྱི་མིང་རྟགས་མིང་གཏན་འཁེལ་བྱེད།"
+Formateador_linuxfs_MSG11="བང་རིམ་གསར་པའི་མིང་བྱང་།"
+Formateador_linuxfs_MSG12="སྡེབ་ཚད་གཏན་འཁེལ་བྱོས།"
+Formateador_linuxfs_MSG13="སྡེབ་ཚད་གསར་པ།"
+Formateador_linuxfs_MSG14="དཀར་ཆག་སྔོན་མ།"
+

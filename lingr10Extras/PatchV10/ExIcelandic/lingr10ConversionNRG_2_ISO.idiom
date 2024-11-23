@@ -1,0 +1,37 @@
+# Idioma Islandés para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Ýttu á ENTER til að halda áfram..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="======================================="
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 UMBREYTING .NRG Í .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="Sláðu inn slóð .nrg myndarinnar sem þú vilt umbreyta:"
+convertir_imagen_nrg_MSG1B="Sláðu inn slóð .iso myndarinnar sem þú vilt búa til:"
+convertir_imagen_nrg_MSG2="í gangi"
+convertir_imagen_nrg_MSG3="Umbreyting á .nrg mynd í .iso lokið með góðum árangri"
+convertir_imagen_nrg_MSG4="Villa umbreyta mynd .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Stuðningur við myndbreytingu í linux-cdgrab"
+creditospatchnrgaiso_MSG2="Umbreytir .nrg myndum í .iso með nrg2iso"
+creditospatchnrgaiso_MSG3="Dreifa undir GPL v2 leyfi"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="Skipunarútgáfa:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="Breyta .nrg mynd í .iso"
+lingr10ConversionNRG_2_ISO_MSG2="Um"
+lingr10ConversionNRG_2_ISO_MSG3="Fyrri valmynd"
+lingr10ConversionNRG_2_ISO_MSG4="Ógildur valkostur"
+

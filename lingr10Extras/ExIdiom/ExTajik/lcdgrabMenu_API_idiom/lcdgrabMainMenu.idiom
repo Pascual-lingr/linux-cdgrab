@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Tayiko, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab муҳаррири матнии vi-ро ёфта наметавонад"
+ayuda_MSG2="Номи муҳаррири матнии дар системаи шумо насбшударо ворид кунед"
+ayuda_MSG3="Ҳеҷ Муҳаррири насбшуда ёфт нашуд"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Файл ба таври худкор аз ҷониби LINUX-CDGRAB 1.0 тавлид шудааст"
+creacion_de_mnt_MSG2="Ин файл дар якҷоягӣ бо директория"
+creacion_de_mnt_MSG3="ба таври худкор тавлид шудааст"
+creacion_de_mnt_MSG4="аз ҷониби барномаи Linux-cdgrab ҳангоми тасдиқ кардани он, ки он дар тақсимоти Linux и шумо вуҷуд надорад"
+creacion_de_mnt_MSG5="директор"
+creacion_de_mnt_MSG6="Linux-cdgrab ин директорияро барои васл кардани диски CD-ROM/DVD-ROM/BD-ROM истифода мебарад"
+creacion_de_mnt_MSG7="Феҳрист"
+creacion_de_mnt_MSG8="Он нест карда намешавад, агар Linux-cdgrab насб карда шавад, зеро он одатан "
+creacion_de_mnt_MSG9="Нуктаи насби пешфарз барои /dev/cdrom дар аксари тақсимоти Linux."
+creacion_de_mnt_MSG10="Агар тақсимоти шумо директорияи дигарро барои насб кардани дастгоҳ /dev/cdrom истифода барад,"
+creacion_de_mnt_MSG11=" он ҳангоми кӯшиши дастрасӣ ба маълумот дар дастгоҳи шумо ягон номувофиқатӣ эҷод намекунад"
+creacion_de_mnt_MSG12="гарчанде ки агар Linux-cdgrab нест карда шуда бошад, шумо метавонед бе он кор кунед"
+creacion_de_mnt_MSG13="Мақсади ин файл танҳо бо мақсади иттилоотӣ аст, шумо метавонед онро пас аз хондан озодона нест кунед."
+
+# creditos
+
+creditos_MSG1="Тақсим кардан аз рӯи иҷозатномаи GPL v2"
+creditos_MSG2="Маълумоти бештар дар www.gnu.org"
+creditos_MSG3="Паскуаль Мартинес Круз, созанда ва нигоҳдорӣ"
+creditos_MSG4="Гузориши хато: pascual89@hotmail.com"
+creditos_MSG5="Сомонаҳои барнома: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Бар асоси LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Пур кардан"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="СИНТАКС"
+lcdgrab_sintaxis_MSG2="Ин кӯмакро чоп кунед"
+lcdgrab_sintaxis_MSG3="Чоп кардани версияи Linux-cdgrab"
+lcdgrab_sintaxis_MSG4="канали IDE ё дастгоҳи сабтро муайян мекунад"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="суръати сабтро муайян мекунад"
+lcdgrab_sintaxis_MSG7="диски CD-ROM/DVD-ROM/BD-ROM-ро муайян мекунад"
+lcdgrab_sintaxis_MSG8="канали IDE ATAPI сабткунандаро муайян мекунад"
+lcdgrab_sintaxis_MSG9="Вариантҳои -G -V -L ва -CA ҳамдигарро дар назар доранд."
+lcdgrab_sintaxis_MSG9B="Вариантҳои -iut -ium -iug ва -iuk аз ҳамдигар мустақиланд,"
+lcdgrab_sintaxis_MSG9C="Мукаммал ба -G -V -L ва -CA ва мустақил байни -h ва -v"
+lcdgrab_sintaxis_MSG10="Вариантҳои -h ва -v аз ҳамдигар ва боқимондаҳо мустақиланд."
+lcdgrab_sintaxis_MSG11="Намунаҳо:"
+lcdgrab_sintaxis_MSG12="дастгоҳ"
+lcdgrab_sintaxis_MSG13="рақам"
+lcdgrab_sintaxis_MSG14="интерфейси матн"
+lcdgrab_sintaxis_MSG15="интерфейс бо ncurses"
+lcdgrab_sintaxis_MSG16="интерфейси графикӣ бо GTK"
+lcdgrab_sintaxis_MSG17="Интерфейси графикӣ бо Qt"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Роҳи скриптро ворид кунед:"
+main_lcdgrabopdep_MSG2="Роҳи нодуруст"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Ясбҳои насбшуда:"
+main_lcdgrabopdeppatch_MSG2="Роҳро ворид кунед:"
+main_lcdgrabopdeppatch_MSG3="Наёфтанд"
+
+# menu principal dialog
+main_lcdgrabop9uidia="ПАЧАИ ИЛОВАГИРО бор кунед"
+
+# menu principal texto
+
+main_lcdgrabop1_text="Сабт ба CD\t\t\t\t="
+main_lcdgrabop2_text="Сабти DVD\t\t\t\t="
+main_lcdgrabop3_text="Сабт дар BD\t\t\t\t="
+main_lcdgrabop4_text="АМАЛИЁТИ ДИККАТ\t\t\t\t="
+main_lcdgrabop5_text="Эҷоди тасвир\t\t\t\t="
+main_lcdgrabop6_text="КОНВЕРСИЯИ АДИО\t\t\t\t="
+main_lcdgrabop6b_text="КОНВЕРСИЯИ ВИДЕО\t\t\t\t="
+main_lcdgrabop7_text="CD/DVD/BD ро васл кардан ё канда кардан\t="
+main_lcdgrabop8_text="ТААСРИ БАРОМАД Ё БАРОМАД\t\t\t="
+main_lcdgrabop9_text="ПАЧАИ ИЛОВАГИРО бор кунед\t\t="
+main_lcdgrabop10_text="МАРКАЗИ ИДОРАКУНЙ\t\t\t="
+main_lcdgrabop0_text="БАРОМАДАН\t\t\t\t="
+main_lcdgrabet1_text="ДИГАР вариантхо ##\t\t="
+main_lcdgrabopEe_text="Дискро аз диск хориҷ кунед\t="
+main_lcdgrabopTD_text="Нишон додани феҳрист"
+tabs="\t\t="
+main_lcdgrabopG_text="Менеҷери файл\t\t\t="
+main_lcdgrabopH_text="Кӯмак\t\t\t\t="
+main_lcdgrabopA_text="Дар бораи\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="Сабт ба CD"
+main_lcdgrabop2="Сабти DVD"
+main_lcdgrabop3="Сабт дар BD"
+main_lcdgrabop4="АМАЛИЁТИ ДИККАТ"
+main_lcdgrabop5="Эҷоди тасвир"
+main_lcdgrabop6="КОНВЕРСИЯИ АДИО"
+main_lcdgrabop6b="КОНВЕРСИЯИ ВИДЕО"
+main_lcdgrabop7="CD/DVD/BD ро васл кардан ё канда кардан"
+main_lcdgrabop8="ТААСРИ БАРОМАД Ё БАРОМАД"
+main_lcdgrabop9="ПАЧАИ ИЛОВАГИРО бор кунед"
+main_lcdgrabop10="МАРКАЗИ ИДОРАКУНЙ"
+main_lcdgrabop0="БАРОМАДАН"
+main_lcdgrabet1="ДИГАР вариантхо ##"
+main_lcdgrabopEe="Дискро аз диск хориҷ кунед"
+main_lcdgrabopTD="Нишон додани феҳрист"
+main_lcdgrabopG="Менеҷери файл"
+main_lcdgrabopH="Кӯмак"
+main_lcdgrabopA="Дар бораи"
+main_lcdgrabopPRINCIPAL="Интихоб ворид кунед:"
+MSG1_MAIN="Интихоби H истифодаи вариантҳоро нишон медиҳад."
+main_lcdgrabopA_MSG1="Иҷрокунанда:"
+

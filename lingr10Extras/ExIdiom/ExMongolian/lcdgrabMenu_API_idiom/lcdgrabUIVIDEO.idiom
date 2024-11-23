@@ -1,0 +1,24 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongolian/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en Mongol para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="ВИДЕО ХӨРВҮҮЛЭХ"
+menu_conversion_video_MSG2="------------ ФОРМАТЫН ХООРОНД ХӨРВҮҮЛЭХ ----------"
+menu_conversion_video_MSG3="Видеог Blu Ray диск рүү ухаалаг ТВ-д нийцтэй хөрвүүлэх"
+menu_conversion_video_MSG4="Хөрвүүлэх видео файл:"
+menu_conversion_video_MSG0="Өмнөх цэс"
+menu_conversion_video_MSG6="Ширээний сесс бичих"
+menu_conversion_video_MSG7="Видео файлыг өөр формат руу хөрвүүлэх"
+menu_conversion_video_MSG8="----------------- БУСАД СОНГОЛТ ------------------"
+menu_conversion_video_MSG9="Видео файлыг аудио файлтай холих"
+menu_conversion_video_MSG10="Видео файлаас MP3 аудио задлах"
+menu_conversion_video_MSG11="Видео файлыг таслах"
+

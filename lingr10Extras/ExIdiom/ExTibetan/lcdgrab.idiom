@@ -1,0 +1,47 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Tibetano para la aplicación principal#
+# Traducción experimental.                         #
+# Generado con Google Translate.                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="LINUX-CDGRAB 1.0 གིས་རང་འགུལ་གྱིས་བཟོས་པའི་ཡིག་ཆ།"
+creacion_de_Depot_MSG2="ཡིག་ཆ་འདི་སྣོད་ཐོ་དང་མཉམ་དུ་ཡོད།"
+creacion_de_Depot_MSG3="རང་འགུལ་གྱིས་བཟོས་ཟིན།"
+creacion_de_Depot_MSG4="ཁྱེད་ཀྱི་ལི་ནགསི་བགོ་འགྲེམས་ནང་མེད་པ་བདེན་དཔང་བྱེད་སྐབས་ལི་ནགསི་-cdgrab མཉེན་ཆས་ཀྱིས།"
+creacion_de_Depot_MSG5="སྣོད་ཐོ།"
+creacion_de_Depot_MSG6="Linux-cdgrab ཡིས་སྣོད་ཐོ་འདི་བེད་སྤྱད་ནས་གནས་སྐབས་ཀྱི་ཡིག་ཆ་དང་སྒྲིག་ཆས་ཀྱི་པར་རིས་(iso, img སོགས)འབྲི་དགོས།"
+creacion_de_Depot_MSG8="Depot ནི་GoboLinux གིས་གནས་སྐབས་ཡིག་ཆ་ཉར་ཚགས་བྱེད་པར་བེད་སྤྱོད་བྱེད་ཀྱི་ཡོད།"
+creacion_de_Depot_MSG9="ཡིག་ཆ་འདིའི་དམིགས་ཡུལ་ནི་ཆ་འཕྲིན་ཁོ་ནའི་ཆེད་དུ་ཡིན་པས་ཁྱེད་ཀྱིས་ཀློག་ཚར་རྗེས་རང་མོས་ངང་སུབ་ཐུབ།"
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="བརྡ་ཐོ།"
+main_IDSISTEMA_MSG2="བཀོལ་སྤྱོད་མ་ལག་ལ་རྒྱབ་སྐྱོར་མེད།"
+main_IDSISTEMA_MSG3="གལ་ཏེ་མཉེན་ཆས་ཀྱི་བཀོལ་སྤྱོད་ཁྲོད་དཀའ་ངལ་ཡོད་ན་ GNU/Linux བེད་སྤྱོད་བྱོས།"
+
+# argumentos
+
+main_arg_MSG1="དེ་ནི་ཁུངས་ལྡན་གྱི་རྩོད་པ་ཞིག་མ་རེད།"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="རྙེད"
+main_cdkit_test_MSG2="ཝོ་ཌིམ་གསར་བཟོ་བྱས་པའི་འབྲེལ་མཐུད།"
+main_cdkit_test_MSG3="ཇི་ནི་སོ་གཟུགས་བརྙན་གསར་བཟོ་བྱས་པའི་འབྲེལ་མཐུད།"
+main_cdkit_test_MSG4="ཨའི་སི་ཌེགསི་གསར་བཟོ་བྱས་པའི་འབྲེལ་མཐུད།"
+
+# pgm principal
+
+pgm_principal_MSG1="འཆི་ངེས་ཀྱི: དཀར་ཆག་བཀྲམ་སྤེལ་ཡང་དག་ཅིག་མ་རྙེད།"
+pgm_principal_MSG2="ཕྱི་མི།"
+
+
+

@@ -1,0 +1,183 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKazakh/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Kazajo para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="жүгіру"
+copia_bin_MSG2="--------------ЖАЗУ ПРОЦЕСІН ҚАЙТАЛАУ---------------"
+copia_bin_MSG3="	СУРЕТ ФАЙЛЫН ЖОЮ"
+copia_bin_MSG4="ЖАЗУ КЕЗІНДЕ ҚАТЕ БОЛДЫ"
+copia_bin_MSG5="Диск кескінінің дамп .iso файлы табылмады. Жазуды тоқтату..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="жұмыс істейді"
+datos_al_vuelo_MSG2="Жазу әрекеті қатесі, шамадан тыс жазуды қолдаусыз қайталау"
+datos_al_vuelo_MSG3="Бастапқы диск немесе құрылғы екенін тексеріңіз"
+datos_al_vuelo_MSG4="жағдайы жақсы"
+datos_al_vuelo_MSG5="Бастапқы дискіден шығыс блок нөмірін алу"
+datos_al_vuelo_MSG6="ДИСК КӨШІРУ..."
+
+# clonar_cd
+
+clonar_cd_MSG1="іске қосулы"
+clonar_cd_MSG2="CD СӘТТІ КЛОНДАЛДЫ"
+clonar_cd_MSG3="CD дискіні клондау кезінде ҚАТЕ БОЛДЫ"
+
+# datos
+
+datos_MSG1=".iso кескінін жасауға арналған файлдар мен каталогтар"
+datos_MSG2="CD/DVD/BD LABEL"
+datos_MSG3="Болашақ CD/DVD/BD үшін атын енгізіңіз:"
+datos_MSG4="Файл менеджерін іске қосу:"
+datos_MSG5=" СУРЕТ ЖАСАУ..."
+datos_MSG6="іске қосулы"
+datos_MSG7="ISO-9660 СУРЕТІ ЖАСАЛҒАН"
+datos_MSG8="CD/DVD/BD ЖАЗУ"
+datos_MSG9="СУРЕТ ФАЙЛЫН ЖАСАУ ПРОЦЕСІ СӘТСІЗ БОЛДЫ"
+datos_MSG10="HFS (Macintosh) ҚОЛДАУЫНСЫЗ ЖАҢАСЫН ЖАСАУҒА ҚАЙТАЛАУ"
+datos_MSG11="СУРЕТТІ ЖОЮ ..."
+datos_MSG12="ЖАҢА БЕЙНЕНІ ЖАСАУ..."
+datos_MSG13="ДҰРЫС ЖАЗУ МҮМКІН ЕМЕС"
+datos_MSG14="------------ЖАЗУ ПРОЦЕСІН ҚАЙТАЛАУ-----------"
+datos_MSG15="СУРЕТТІ ӨШІРУ..."
+datos_MSG16="ISO-9660 DATA CD/DVD/BD ЖАЗУ..."
+datos_MSG17="Табылмады."
+datos_MSG18="Диск жазбасын тоқтату..."
+
+# datoslb
+
+datosb_MSG1="Қате: сурет файлы табылмады. Тоқталуда..."
+datosb_MSG2="ЖАЗУ ПРОЦЕСІ ЖАҚСЫ"
+datosb_MSG3="ЖАЗУ ПРОЦЕСІНДЕГІ ҚАТЕ"
+
+# borra
+
+borra_MSG0="Алдыңғы мәзір"
+borra_MSG1="CD-RW дискісін өшіру режимін таңдаңыз"
+borra_MSG2="-------------------------------------"
+borra_MSG3="Жылдам жою (cdrecord пайдаланыңыз)"
+borra_MSG4="Толық жою (cdrecord пайдаланыңыз)"
+borra_MSG5="Жою қажет (cdrskin пайдаланыңыз)"
+borra_MSG6="іске қосулы"
+borra_MSG7="Диск күйіне байланысты қажетті пішімдеу немесе жою қолданылады"
+borra_MSG8="CD-RW СӘТТІ ЖОЮЛДЫ!!"
+borra_MSG9="CD-RW ЖОЮ КЕЗІНДЕГІ ҚАТЕ"
+borra_MSG10="CD-RW ЖОЮҒА МҮШІН"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="CD-RW ЖАҒДАЙЫН ӨШІРУ ӘРЕКЕТІНДЕГІ ҚАТЕ"
+err_borra_cdrw_MSG2="CD-RW ҚОЛДАНЫЛМАЙДЫ"
+err_borra_cdrw_MSG3="БҰЛ CD-RW ЖОЮ МҮМКІН ЕМЕС"
+err_borra_cdrw_MSG4="CD-RW ДЕГЕН ЗАҚЫМДЫ ТЕКСЕРУ"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="іске қосулы"
+cerrar_cd_MSG2="CD ДҰРЫС ЖАБЫЛДЫ"
+cerrar_cd_MSG3="CD ЖАБУ КЕЗІНДЕГІ ҚАТЕ"
+cerrar_cd_MSG4="ДЕРЕКТЕР ықшам дискідегі жолды жабу..."
+
+# grabimg
+
+grabimg_MSG1=".iso немесе .ext2 кескіні CD/DVD-ге жазу үшін"
+grabimg_MSG2="Файл менеджерін іске қосу."
+grabimg_MSG3="Жазғыңыз келетін CD/DVD кескіні орналасқан толық жолды теріңіз:"
+grabimg_MSG4="жұмыс істеуде"
+grabimg_MSG5="-----------ЖАЗУ ПРОЦЕСІН ҚАЙТАЛАУ-----------"
+grabimg_MSG6="ЖАЗУ АЯҚТАЛДЫ!!"
+grabimg_MSG7="СУРЕТ .EXT2 СӘТТІ ЖАЗЫЛДЫ"
+
+# grabimglb
+
+grabimglb_MSG1="Жазғыңыз келетін CD/DVD кескіні орналасқан толық жолды теріңіз:"
+grabimglb_MSG2="Суретті дискіге жазу..."
+grabimglb_MSG3="ISO-9660 БЕЙНЕСІ СӘТТІ ЖАЗЫЛДЫ"
+grabimglb_MSG4="ISO-9660 СУРЕТІН ЖАЗУДАҒЫ ҚАТЕ"
+grabimglb_MSG5="Қате: сурет файлы табылмады. Тоқталуда..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin және .cue файлдары кескінді жазу үшін"
+grabimg_cue_MSG2="Қою/cue кескінін жазу үшін екі файл да қажет"
+grabimg_cue_MSG3="белсенді каталогта болыңыз."
+grabimg_cue_MSG4="Ағымдағы белсенді каталог"
+grabimg_cue_MSG5="*.bin кескін файлына сілтеме жасайтын *.cue файлының атын енгізіңіз"
+grabimg_cue_MSG6=".cue файлы: "
+grabimg_cue_MSG7="жұмыс істеуде"
+grabimg_cue_MSG8="ЖАЗУ АЯҚТАЛДЫ!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1=".iso кескінінен көп сеанс ықшам дискісін жазу"
+cd_multi_MSG2="Бірінші сеансты .iso кескінінен ықшам дискіге жазу"
+cd_multi_MSG3="Дискідегі файлдардан көп сеанс ықшам дискісін жазу"
+cd_multi_MSG4="Қатты дискідегі файлдардан ықшам дискіге дәйекті сеанстарды жазу"
+cd_multi_MSG5="Бұл опция бұрын жазылған сеансы бар көп сеанстық ықшам дискіні қажет етеді."
+cd_multi_MSG6="Алдыңғы мәзір"
+cd_multi_MSG7=".iso кескіні CD-мульти-сессияға жазу үшін"
+cd_multi_MSG8=".iso кескінінің жолын көрсетіңіз"
+cd_multi_MSG9="іске қосулы"
+cd_multi_MSG10="КӨП СЕССИЯЛЫҚ CD СӘТТІ ЖАЗЫЛДЫ!!"
+cd_multi_MSG11="Суретке қосылатын каталогтар."
+cd_multi_MSG12="Төменде қандай каталогтарды қосу керектігін көрсетіңіз"
+cd_multi_MSG13="CD жапсырмасының атын енгізіңіз:"
+cd_multi_MSG14="СУРЕТ ЖАСАУ..."
+cd_multi_MSG15="СӘТТІ ЖАСАЛДЫ"
+cd_multi_MSG16="СУРЕТ ЖАСАУ КЕЗІНДЕГІ ҚАТЕ. ЖАЗУ ПРОЦЕСІН ТОҚТАТУ..."
+cd_multi_MSG17="CD кескінін ЖАЗУ..."
+cd_multi_MSG18="CD КӨП СЕССИЯЛЫҚ МӘЗІР"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="Аудио ықшам дискісін көшіріп алу..."
+copia_cd_audio_MSG2="Орындалуда"
+copia_cd_audio_MSG3="АУДИО ТРЕКТЕР СӘТТІ ЖАЗЫЛДЫ!!"
+copia_cd_audio_MSG4="АУДИО ТРЕКТЕРДІ ЖІЗУ КЕЗІНДЕГІ ҚАТЕ"
+copia_cd_audio_MSG5="АУДИО CD ЖАЗУ..."
+copia_cd_audio_MSG6="AUDIO CD СӘТТІ КӨШІРІЛДІ!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=". CD-ге жазу үшін wav файлдары"
+wav_a_cd_MSG2="Linux-cdgrab каталог өлшемін тексермейді"
+wav_a_cd_MSG3="Егер ол 650 Мбайттан аспайтынына көз жеткізіңіз"
+wav_a_cd_MSG4="егер сіз 80 минуттық ықшам дискіні пайдалансаңыз."
+wav_a_cd_MSG5=".wav файлдарының каталог жолын енгізіңіз"
+wav_a_cd_MSG6="іске қосулы"
+wav_a_cd_MSG7="ПРОЦЕСС АЯҚТАЛДЫ!"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Mixto жасау жобасы (Деректер кескіні .iso + Аудио файлдар .wav)"
+cdmixto_MSG2="Linux-cdgrab каталог өлшемін тексермейді"
+cdmixto_MSG3="аудио файлдар қайда."
+cdmixto_MSG4="Сіз жазатын .iso кескінінен де мұны жасамайды"
+cdmixto_MSG5="кейін."
+cdmixto_MSG6="Өзіңізде бар өлшемге сәйкес болыңыз"
+cdmixto_MSG7="жаңа ықшам дискіге жазу."
+cdmixto_MSG8="Аудио файлдардың жолын көрсетіңіз:"
+cdmixto_MSG9="Изо кескін жолын көрсетіңіз:"
+cdmixto_MSG10="################################"
+cdmixto_MSG11="АРАЛЫҚ CD ЖАЗУ: ДЕРЕКТЕР + АУДИО"
+cdmixto_MSG12="жүгіру"
+cdmixto_MSG13="¡¡----АРАЛЫҚ CD СӘТТІ ЖАСАЛДЫ-----!!"
+cdmixto_MSG14="------АРАЛЫҚ ықшам дискіні ЖАЗУ КЕЗІНДЕГІ ҚАТЕ--------"
+
+# discoinfo
+
+discoinfo_MSG1="жүгіру"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI порты сканерленді"
+cdrecord_scan_MSG1="IDE/SCSI портын сканерлеу қатесі"
+cdrecord_scan_MSG2="cdrecord табылмады"

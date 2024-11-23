@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAzerbaijani/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al azerbaiyano, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="DİSK ŞƏKİLLƏRİNİN YARADILMASI VƏ İŞLƏMƏSİ"
+MenuImagen_MSG2="--------------- ŞƏKİL YARADILMASI --------------"
+MenuImagen_MSG3="ISO-9660 Şəkil yaradın"
+MenuImagen_MSG4="Doğma Linux fayl sistemi ilə şəkil yaradın"
+MenuImagen_MSG5="Hər hansı blok cihazının .img şəklini yaradın"
+MenuImagen_MSG6="Cari cihazdan .bin .cue şəkli yaradın"
+MenuImagen_MSG7="---------------- DİGƏR SEÇİMLƏR ----------------"
+MenuImagen_MSG8=".bin təsvirindən .cue təsvir faylı yaradın"
+MenuImagen_MSG9=".nrg (Nero Burning ROM) şəklini .iso-ya çevirin"
+MenuImagen_MSG10="Şəkli gzip, bzip2 və ya xz ilə sıxışdırın"
+MenuImagen_MSG11="Zip, gz, bz2 və ya xz-də şəkli açın"
+MenuImagen_MSG11B="İzo şəkillərin md5 cəmini yoxlayın"
+MenuImagen_MSG12="İzo rejimini dəyişdir"
+MenuImagen_MSG0="Əvvəlki menyu"
+MenuImagen_MSG13="Sıxılacaq şəkil faylı"
+MenuImagen_MSG14="ŞƏKİL FAYLINI SIKIN"
+MenuImagen_MSG15="Sıxmaq istədiyiniz şəklin yerləşdiyi kataloq yolunu yazın:"
+MenuImagen_MSG16="Dekompressiya etmək istədiyiniz şəkil faylı"
+MenuImagen_MSG17="CARİ ISO SƏVİYYƏSİ"
+MenuImagen_MSG18="iso səviyyəsi"
+MenuImagen_MSG19="Fayl adları bölmədən ibarətdir"
+MenuImagen_MSG20="və 8.3 simvol ilə məhdudlaşır."
+MenuImagen_MSG21="Ad uyğunluğu istəyirsinizsə, bu səviyyəni seçin"
+MenuImagen_MSG21b="MS-DOS əməliyyat sistemi altında"
+MenuImagen_MSG22="Fayl adları bölmədən ibarətdir"
+MenuImagen_MSG23="Qeyri-məhdud səviyyə."
+MenuImagen_MSG24="Fayllarla uyğunluq istəyirsinizsə, bu səviyyədən istifadə edin"
+MenuImagen_MSG25="böyük, bu halda >= 2 Gigabayt."
+MenuImagen_MSG26="Bütün ISO səviyyələri fayl adlarını böyük, kiçik və hərflərlə məhdudlaşdırır"
+MenuImagen_MSG27="_ kimi simvollar. Fayl adları 31 simvolla məhduddur"
+MenuImagen_MSG28="Maksimum 8 kataloq yolu və yolun adı"
+MenuImagen_MSG29="255 simvoldan ibarət kataloqlar."
+MenuImagen_MSG30="Yeni iso səviyyəsini seçin"
+MenuImagen_MSG31="ISO səviyyəsi 4 rəsmi deyil"
+MenuImagen_MSG32="Mkisofs man səhifəsinə müraciət edin"
+MenuImagen_MSG33="Yanlış ISO səviyyəsi"
+MenuImagen_MSG34="Defolt olaraq iso səviyyəsi 3 təyin et"
+

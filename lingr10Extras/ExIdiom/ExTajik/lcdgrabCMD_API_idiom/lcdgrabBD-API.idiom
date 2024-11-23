@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Tayiko para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 ТАСМИР ДАР BLU-RAY ДУРУСТ сабт шудааст"
+grabar_ISO_BD_MSG2="ХАТО ВАҚТИ САБТИ ТАСВОР ДАР DISK BLU-RAY"
+grabar_ISO_BD_MSG3="Тасвири ISO-9660 ДАР BD"
+grabar_ISO_BD_MSG4="Муайян кардани роҳи тасвири ISO-9660 барои сӯзондан:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Файлҳо ва директорияҳо барои эҷоди тасвири .iso"
+bd_datos_MSG2="DB LABEL"
+bd_datos_MSG3="Номи BD-и ояндаро ворид кунед:"
+bd_datos_MSG4="Оғози мудири файл:"
+bd_datos_MSG5=" Эҷоди тасвир..."
+bd_datos_MSG6="давидан"
+bd_datos_MSG7="ТАСвири ISO-9660 Эҷод ШУД"
+bd_datos_MSG8="		Сабти BD"
+bd_datos_MSG13="ТАСВОРРО НОБ КУНЕД..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Вобаста ба ҳолати диск форматкунӣ ё несткунии зарурӣ татбиқ карда мешавад"
+borrar_BDRE_lb_MSG2="BD-RE бомуваффақият нест карда шуд!!"
+borrar_BDRE_lb_MSG3="ХАТО ВАҚТИ НАЗО КАРДАНИ BD-RE"
+

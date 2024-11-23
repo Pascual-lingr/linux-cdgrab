@@ -1,0 +1,21 @@
+қазақ
+
+Kazajo. Kazakh.
+Experimental.
+
+Por estudio del comportamiento de caracteres Kazajos en el shell.
+Contiene errores de significado en contexto u ortográficos.
+Generado con Google Translate.
+El shell debe tener configurado el soporte para caracteres Kazajos
+de lo contrario esta traducción no será funcional en el shell.
+
+By studying the behavior of Kazakh characters in the shell.
+Contains errors in meaning in context or spelling.
+Generated with Google Translate.
+The shell must have support for Kazakh characters configured.
+otherwise this translation will not be functional in the shell.
+
+Linux-cdgrab үшін қазақ тілі.
+Эксперименттік, Google Translate көмегімен жасалған.
+Pascual Martínez Cruz; pascual@hotmail.com
+

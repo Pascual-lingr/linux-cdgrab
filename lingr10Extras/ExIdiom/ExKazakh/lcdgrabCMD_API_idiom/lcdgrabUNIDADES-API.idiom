@@ -1,0 +1,69 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKazakh/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en kazajo para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Дискіге көшіру үшін .img немесе .ext2 кескінінің жолы."
+volcar_imagen_MSG2="-----------------------МАҢЫЗДЫ----------------------------" 
+volcar_imagen_MSG3="+ Бұл опция оптикалық дискілерде жұмыс істемейді."
+volcar_imagen_MSG4="+ Pendrives, иілгіш дискілер, диск бөлімдері, т.б. пайдалану. "
+volcar_imagen_MSG5="+ Қатты дискілерді қарастыру:"
+volcar_imagen_MSG6="+ Кескінді жазу басынан бастап dd арқылы орындалады"
+volcar_imagen_MSG7=" көрсетілген дискіден, нөмірді пайдалануға рұқсат етілмейді"
+volcar_imagen_MSG8=" жазу процесін бастау үшін арнайы сектор"
+volcar_imagen_MSG9="+ Сақтықпен пайдаланыңыз. Тәуекелге байланысты пайдаланыңыз."
+volcar_imagen_MSG10="+ Диск бөлімдері жарамсыз болуы мүмкін."
+volcar_imagen_MSG11="+ Оны бірнеше бөлімдік жүйелерде пайдалану ұсынылмайды."
+volcar_imagen_MSG12="Қалпына келтіру бөлімдер кестесінен шығуы мүмкін және"
+volcar_imagen_MSG13="пайдасыз бөлімдердің өздері."
+volcar_imagen_MSG14="----------------------------------------------------------"
+volcar_imagen_MSG15="ЖАЛҒАСТЫРУ ҮШІН C пернесін БАСЫҢЫЗ; (басқа опцияда процесс тоқтатылады)"
+volcar_imagen_MSG16="Дискіге көшіру үшін кескін файлының жолын көрсетіңіз: "
+volcar_imagen_MSG17="Орнату пәрменінің шығысы:"
+volcar_imagen_MSG18="Сурет тасталатын блок құрылғысын көрсетіңіз:"
+volcar_imagen_MSG19="СУРЕТТІ БЕРУ"
+volcar_imagen_MSG20="ҚҰРЫЛҒЫДА"
+volcar_imagen_MSG21="іске қосулы"
+volcar_imagen_MSG22="СУРЕТТІ ЖАСАУ ПРОЦЕСІ АЯҚТАЛДЫ"
+
+# volcar_iso
+
+volcar_iso_MSG1="ISO кескінін жазу үшін блок құрылғысын көрсетіңіз:"
+volcar_iso_MSG2="ЕСКЕРТУ"
+volcar_iso_MSG2B="-------"
+volcar_iso_MSG3="Жазылатын блок құрылғысын көрсетіңіз."
+volcar_iso_MSG4="Мысалдар: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Осы құрылғыға тиесілі бөлімді көрсетпеңіз"
+volcar_iso_MSG6="Мысалдар: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Жазу үшін iso-9660 кескінін немесе img-ді көрсетіңіз:"
+volcar_iso_MSG9="Процесс аяқталды"
+volcar_iso_MSG10="iso жазу процесіндегі қате"
+volcar_iso_MSG11="Сурет жазу үшін блок өлшемін көрсетіңіз"
+volcar_iso_MSG12="Жазу үшін операциялық жүйеге сәйкес опцияны таңдаңыз:"
+volcar_iso_MSG13="ISO-9660 немесе құрылғыда жыпылықтау үшін жүктелетін IMG кескіні:"
+volcar_iso_MSG14="Шығу"
+volcar_iso_MSG15="ISO-9660 СУРЕТ ФАЙЛЫ НЕМЕСЕ IMG"
+volcar_ISO_MSG16="БҰЛҒАҒА ДАМП АЛУ ҮШІН Операциялық жүйені ТАҢДАУ"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Файлдық жүйені таңдау"
+Formateador_linuxfs_MSG2="құрылғы пішімделеді:"
+Formateador_linuxfs_MSG3="Пішімдеу үшін блоктау құрылғысын көрсетіңіз: "
+Formateador_linuxfs_MSG5="ПРОЦЕСС АЯҚТАЛДЫ"
+Formateador_linuxfs_MSG6="DISK FORMATTER"
+Formateador_linuxfs_MSG7="Дыбыс белгісін орнату"
+Formateador_linuxfs_MSG10="Дыбыс белгісінің атын көрсетіңіз"
+Formateador_linuxfs_MSG11="Жаңа том белгісі"
+Formateador_linuxfs_MSG12="Блок өлшемін көрсету"
+Formateador_linuxfs_MSG13="Жаңа блок өлшемі"
+Formateador_linuxfs_MSG14="Алдыңғы мәзір"

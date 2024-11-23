@@ -1,0 +1,171 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKazakh/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Kazajo para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Жазу құрылғысы келесідей"
+buscar_grabadora_MSG1B="Жарамды"
+buscar_grabadora_MSG2="Жазу құрылғысы басқаша"
+buscar_grabadora_MSG2B="Қате"
+buscar_grabadora_MSG3="dvd+-rw-tools жазу құрылғысы екенін қабылдамайды"
+buscar_grabadora_MSG4="dvd+-rw-tools пайдаланып DVD жазу мүмкіндігін алу үшін жазғышты блоктау құрылғысы ретінде көрсету керек."
+buscar_grabadora_MSG5="Мысалы"
+buscar_grabadora_MSG6="немесе"
+buscar_grabadora_MSG7="/dev ішінде бар жүйелік құрылғыларды көрсету"
+buscar_grabadora_MSG8="DVD жазғышыңызға сәйкес келетін блоктау құрылғысын енгізіңіз"
+buscar_grabadora_MSG9="Ешбір жазу құрылғысының түрі немесе опциясы көрсетілмеді."
+buscar_grabadora_MSG10="ҚҰРЫЛҒЫ ДЕГЕНДЕР ҮШІН КОНфигурацияланған"
+buscar_grabadora_MSG11="Жазу құрылғысы қабық ортасына келесідей экспортталды"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Мүмкін мән тек cdrecord үшін жарамды"
+buscar_grabadoralb_MSG2="Диктофонның ағымдағы конфигурациясы"
+buscar_grabadoralb_MSG3="Бұл конфигурация cdrskin тағайындаған мәнге сәйкес келетінін тексеріңіз"
+buscar_grabadoralb_MSG4="cdrskin көмегімен IDE/SCSI портын сканерлеу..."
+buscar_grabadoralb_MSG5="cdrskin үшін қолданылатын жаңа мәнді көрсетіңіз:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Болашақ DVD үшін атын енгізіңіз:"
+datos_dvd_MSG2="DVD ЖАЗУ ..."
+datos_dvd_MSG3="Қолдану"
+datos_dvd_MSG4="іске қосулы"
+datos_dvd_MSG5=" DVD СӘТТІ ЖАЗЫЛДЫ!"
+datos_dvd_MSG6="Mkisofs немесе genisoimage табылмады, cdrtools немесе cdrkit орнатыңыз"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Болашақ DVD үшін атын енгізіңіз:"
+datos_dvd_multi_MSG2="DVD ЖАЗУ ..."
+datos_dvd_multi_MSG3="Қолдану"
+datos_dvd_multi_MSG4="іске қосулы"
+datos_dvd_multi_MSG5="DVD СӘТТІ ЖАЗЫЛДЫ!"
+datos_dvd_multi_MSG6="mkisofs немесе genisoimage табылмады, cdrtools немесе cdrkit орнатыңыз"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="СУРЕТ ЖАЗУ ..."
+grabimg_dvd_MSG2="іске қосулы"
+grabimg_dvd_MSG3="! DVD кескіні сәтті жазылды !"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="DVD ДЕГЕНДЕГІ БЕЙНЕНІ ЖАЗУ ..."
+copia_bin_dvd_MSG2="іске қосулы"
+copia_bin_dvd_MSG3="	СУРЕТ ФАЙЛЫН ЖОЮ"
+copia_bin_dvd_MSG4="ЖАЗУ АЯҚТАЛДЫ!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Пішім a"
+formatear_dvd_MSG2="үшін жаңа пішімді мәжбүрлеу"
+formatear_dvd_MSG3="A-ның шығыс блогының орнын ауыстыру"
+formatear_dvd_MSG4="DVD-RW файлын дәйекті өсімге пішімдеу"
+formatear_dvd_MSG5="Шектеулі қайта жазу үшін DVD-RW пішімі"
+formatear_dvd_MSG6="DVD дискісін нөлдермен толтыру"
+formatear_dvd_MSG7="DVD ақпаратын көрсету"
+formatear_dvd_MSG8="Алдыңғы мәзір"
+formatear_dvd_MSG9="Бұл опция DVD дискісін бірінші рет пішімдеу үшін пайдаланылады."
+formatear_dvd_MSG10="Егер DVD әлдеқашан пішімделген болса, ол деректерді өшірмейді."
+formatear_dvd_MSG11="Олар жаңа жазбада қайта жазылады."
+formatear_dvd_MSG12="DVD мазмұнын жою үшін мынаны пайдаланыңыз:"
+formatear_dvd_MSG13="DVD дискісін нөлдермен толтыру"
+formatear_dvd_MSG14="Бұл опция өңделген DVD дискіден пішім мен деректерді жояды."
+formatear_dvd_MSG15="іске қосулы"
+formatear_dvd_MSG16="DVD+RW/DVD-RW СӘТТІ ПІШІМДЕРДІ !"
+formatear_dvd_MSG17="DVD Пішімдеу кезіндегі ҚАТЕ"
+formatear_dvd_MSG18="DVD+RW дискідегі пішімді мәжбүрлеу..."
+formatear_dvd_MSG19="DVD+RW СӘТТІ ПІШІМДЕРДІ!"
+formatear_dvd_MSG20="DVD+RW Пішімдеу кезіндегі ҚАТЕ"
+formatear_dvd_MSG21="Бұл опция DVD+RW дискісінде сақталған деректерге әсер етпейді"
+formatear_dvd_MSG22="DVD+RW жүйесінен шығару блогын жою..."
+formatear_dvd_MSG23="DVD-RW дискісін ретімен жазуға пішімдеу..."
+formatear_dvd_MSG24="DVD-RW СӘТТІ ПІШІМДЕРДІ!"
+formatear_dvd_MSG25="DVD-RW Пішімдеу кезіндегі ҚАТЕ"
+formatear_dvd_MSG26="DVD-RW дискісі шектелген қайта жазу үшін пішімделуде..."
+formatear_dvd_MSG27="ЖАЗЫЛАТЫН DVDДІ ӨШІРУ"
+
+# null_dvd
+
+null_dvd_MSG1="/dev/нөлден дискіге жазу..."
+null_dvd_MSG2="іске қосулы"
+null_dvd_MSG3="ПРОЦЕСС АЯҚТАЛДЫ"
+null_dvd_MSG4="КҮТілмеген ҚАТЕ"
+
+# dvd_video
+
+dvd_video_MSG1="VIDEO_TS және AUDIO_TS каталогтары орналасқан жол:"
+dvd_video_MSG2="VIDEO_TS және AUDIO_TS каталогтары орналасқан жолды көрсетіңіз:"
+dvd_video_MSG3="іске қосулы"
+dvd_video_MSG4="--- DVD-ВИДЕО СӘТТІ ЖАЗЫЛДЫ ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="жүгіру"
+dvd_copia_bin_MSG2="	СУРЕТ ФАЙЛЫН ЖОЮ"
+dvd_copia_bin_MSG3="ЖАЗУДА ҚАТЕ БОЛДЫ"
+
+# dvd_datos
+
+dvd_datos_MSG1=".iso кескінін жасауға арналған файлдар мен каталогтар"
+dvd_datos_MSG2="DVD LABEL"
+dvd_datos_MSG3="Болашақ DVD үшін атын енгізіңіз:"
+dvd_datos_MSG4="Файл менеджерін іске қосу:"
+dvd_datos_MSG5="	БЕЙНЕН ЖАСАУ. . ."
+dvd_datos_MSG6="жүгіру"
+dvd_datos_MSG7="ISO-9660 БЕЙНЕСІ ЖАСАЛҒАН"
+dvd_datos_MSG8="		ЖАЗУ DVD"
+dvd_datos_MSG13="Кескінді ЖОЮ..."
+
+# dvd_borra
+
+dvd_borra_MSG1="жүгіру"
+dvd_borra_MSG2="ОПТИКАЛЫҚ ДИСК СӘТТІ ПІШІМДЕРДІ"
+dvd_borra_MSG3="ОПТИКАЛЫҚ ДИСКІ ПІШІМДЕРУДЕГІ ҚАТЕ"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="жүгіру"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="Орындалуда"
+formatearCDDVDBD_MSG2="ОПТИКАЛЫҚ ДИСК СӘТТІ ПІШІМДЕРДІ"
+formatearCDDVDBD_MSG3="ОПТИКАЛЫҚ ДИСКИЙГЕ ПІШІМДЕРУДЕГІ ҚАТЕ"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW сәтті пішімделді!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="DVD-RW-ді шектелген қайта жазуға пішімдеу қатесі"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW сәтті пішімделді!!"
+formatearDVDRW_incremental_secuencial_MSG2="DVD-RW дәйекті инкрементті пішімдеу кезіндегі қате"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Жазу үшін iso-9660 кескінінің жолын көрсетіңіз:"
+cdrskinisocddvd_MSG2="ISO кескіні сәтті жазылды!!"
+cdrskinisocddvd_MSG3="СУРЕТ ЖАЗУ КЕЗІНДЕГІ ҚАТЕ"
+

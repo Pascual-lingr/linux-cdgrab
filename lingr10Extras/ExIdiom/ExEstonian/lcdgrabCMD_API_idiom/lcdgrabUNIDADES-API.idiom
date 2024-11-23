@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en estonio para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1=".img või .ext2 kujutise tee kettale tõmmamiseks."
+volcar_imagen_MSG2="-----------------------TÄHTIS----------------------------" 
+volcar_imagen_MSG3="+ See valik ei tööta optilistel ketastel."
+volcar_imagen_MSG4="+ Kasuta pendrivedel, diskettidel, ketta partitsioonidel jne."
+volcar_imagen_MSG5="+ Kõvaketaste kaalumine:"
+volcar_imagen_MSG6="+ Pildi kirjutamine toimub algusest dd ga"
+volcar_imagen_MSG7="  määratud kettalt, numbri kasutamine pole lubatud"
+volcar_imagen_MSG8="  spetsiifiline sektor kirjutamisprotsessi alustamiseks"
+volcar_imagen_MSG9="+ Kasutage ettevaatusega. Kasutage omal vastutusel."
+volcar_imagen_MSG10="+ Kettapartitsioonid võivad muutuda kasutuskõlbmatuks."
+volcar_imagen_MSG11="+ Ei ole soovitatav seda kasutada mitme partitsioonisüsteemiga."
+volcar_imagen_MSG12="  Taaste võib lahkuda partitsioonitabelist ja"
+volcar_imagen_MSG13="  kasutud partitsioonid ise."
+volcar_imagen_MSG14="---------------------------------------------------------"
+volcar_imagen_MSG15="JÄTKAMISEKS VAJUTA C-KLAHVI; (Teises valikus protsess katkestatakse)"
+volcar_imagen_MSG16="Määrake kettale kopeeritava pildifaili tee: "
+volcar_imagen_MSG17="Ühenda käsu väljund:"
+volcar_imagen_MSG18="Määrake plokkseade, kuhu pilt tuleb:"
+volcar_imagen_MSG19="DUMPING PILT"
+volcar_imagen_MSG20="SEADMES"
+volcar_imagen_MSG21="töötab"
+volcar_imagen_MSG22="PILDITÜHJENDUSE PROTSESS LÕPPENUD"
+
+# volcar_iso
+
+volcar_iso_MSG1="Määrake plokkseade, kuhu iso kujutis kirjutada:"
+volcar_iso_MSG2="HOIATUS"
+volcar_iso_MSG2B="-------"
+volcar_iso_MSG3="Määrake blokeerimisseade, kuhu kirjutada."
+volcar_iso_MSG4="Näited: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Ära määra sellele seadmele kuuluvat partitsiooni"
+volcar_iso_MSG6="Näited: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Määrake kirjutatav iso-9660 pilt või img:"
+volcar_iso_MSG9="Protsess on lõpetatud"
+volcar_iso_MSG10="Viga iso kirjutamise protsessis"
+volcar_iso_MSG11="Määrake ploki suurus pildi kirjutamiseks"
+volcar_iso_MSG12="Valige kirjutamiseks vastavalt operatsioonisüsteemile:"
+volcar_iso_MSG13="ISO-9660 või buutitav IMG-pilt seadmes vilkuma:"
+volcar_iso_MSG14="Välju"
+volcar_iso_MSG15="ISO-9660 PILDIFAIL VÕI IMG"
+volcar_ISO_MSG16="VALI OPERATSIOONISÜSTEEM ÜKSUSSE TÜÜDAMISEKS"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Vali failisüsteem, kasutades"
+Formateador_linuxfs_MSG2="seade vormindatakse:"
+Formateador_linuxfs_MSG3="Määrake vormindatav blokeerimisseade: "
+Formateador_linuxfs_MSG5="PROTSESS LÕPPENUD"
+Formateador_linuxfs_MSG6="KETA FORMATER"
+Formateador_linuxfs_MSG7="Määra helitugevuse silt"
+Formateador_linuxfs_MSG10="Määrake köitesildi nimi"
+Formateador_linuxfs_MSG11="Uus köite silt"
+Formateador_linuxfs_MSG12="Määrake ploki suurus"
+Formateador_linuxfs_MSG13="Uus ploki suurus"
+Formateador_linuxfs_MSG14="Eelmine menüü"
+

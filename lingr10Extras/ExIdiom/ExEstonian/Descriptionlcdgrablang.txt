@@ -1,0 +1,15 @@
+eesti keel
+
+Estonio. Estonian.
+Experimental.
+
+Contiene errores de significado en contexto o traducción propia.
+Generado con Google Translate.
+
+Contains meaning errors in context or own translation.
+Generated with Google Translate.
+
+Eesti keel linux-cdgrab jaoks
+Eksperimentaalne, loodud Google'i tõlkega
+Pascual Martínez Cruz; pascual@hotmail.com
+

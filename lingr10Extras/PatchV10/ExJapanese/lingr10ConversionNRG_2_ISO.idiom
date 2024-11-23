@@ -1,0 +1,37 @@
+# Idioma Japonés para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="続行するには Enter キーを押してください..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="======================================"
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 .NRG から .ISO への変換"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="変換する .nrg イメージのパスを入力してください:"
+convertir_imagen_nrg_MSG1B="生成する .iso イメージのパスを入力してください:"
+convertir_imagen_nrg_MSG2="実行中"
+convertir_imagen_nrg_MSG3=".nrg イメージから .iso への変換が正常に完了しました"
+convertir_imagen_nrg_MSG4="画像 .nrg の変換エラー"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="linux-cdgrab でのイメージ変換のサポート"
+creditospatchnrgaiso_MSG2="nrg2iso を使用して .nrg イメージを .iso に変換します"
+creditospatchnrgaiso_MSG3="GPL v2 ライセンスに基づいて配布します"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="コマンドのバージョン:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1=".nrg イメージを .iso に変換します"
+lingr10ConversionNRG_2_ISO_MSG2="概要"
+lingr10ConversionNRG_2_ISO_MSG3="前のメニュー"
+lingr10ConversionNRG_2_ISO_MSG4="無効なオプション"
+

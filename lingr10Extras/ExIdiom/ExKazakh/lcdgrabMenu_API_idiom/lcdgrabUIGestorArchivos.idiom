@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKazakh/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Kazajo para el gestor de archivos
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* НАВИГАЦИЯ ОПЦИЯЛАРЫ ************************"
+ayuda_gestor_de_archivos_MSG2="Файлдық жүйені шолыңыз."
+ayuda_gestor_de_archivos_MSG3="X --> Шығу"
+ayuda_gestor_de_archivos_MSG4="A --> Алдыңғы каталог"
+ayuda_gestor_de_archivos_MSG5="B --> Келесі каталог"
+ayuda_gestor_de_archivos_MSG6="Файлдар мен каталогтардағы әрекеттер."
+ayuda_gestor_de_archivos_MSG7="C --> Файлды көшіру"
+ayuda_gestor_de_archivos_MSG8="M --> Файлды жылжыту"
+ayuda_gestor_de_archivos_MSG9="CD --> Каталогты көшіру"
+ayuda_gestor_de_archivos_MSG10="MD --> Каталогты жылжыту"
+ayuda_gestor_de_archivos_MSG11="Файлдар мен каталогтардағы әрекеттерді түсіну."
+ayuda_gestor_de_archivos_MSG12="Z --> Файлды сығу"
+ayuda_gestor_de_archivos_MSG13="DZ --> Файлды ашыңыз"
+ayuda_gestor_de_archivos_MSG14="EZ --> .tar.gz немесе .tar.bz2 бумасын жасаңыз"
+ayuda_gestor_de_archivos_MSG15="DEZ --> .tar.gz немесе .tar.bz2 қаптамасынан шығарыңыз"
+ayuda_gestor_de_archivos_MSG16="*********************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Ағымдағы белсенді каталог"
+gestor_de_archivos_MSG0B="Файлдар"
+gestor_de_archivos_MSG1="========================= НАВИГАЦИЯ ОПЦИЯЛАРЫ ========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> АИД="
+gestor_de_archivos_MSG3="======================================================================="
+gestor_de_archivos_MSG4="Опцияны теріңіз"
+gestor_de_archivos_MSG5="Каталог түрі"
+gestor_de_archivos_MSG6="Бастапқы файлды теріңіз"
+gestor_de_archivos_MSG7="Тағайындалған файлды теріңіз"
+gestor_de_archivos_MSG8="Файл сәтті көшірілді"
+gestor_de_archivos_MSG9="Файлды көшіру қатесі"
+gestor_de_archivos_MSG10="Бастапқы файлды теріңіз"
+gestor_de_archivos_MSG11="Тағайындалған файлды теріңіз"
+gestor_de_archivos_MSG12="Файл сәтті жылжытылды"
+gestor_de_archivos_MSG13="Файлды жылжыту қатесі"
+gestor_de_archivos_MSG14="Бастапқы каталогты теріңіз"
+gestor_de_archivos_MSG15="Тағайындалған каталогты теріңіз"
+gestor_de_archivos_MSG16="Каталог сәтті көшірілді"
+gestor_de_archivos_MSG17="Каталогты көшіру қатесі"
+gestor_de_archivos_MSG18="Бастапқы каталогты теріңіз"
+gestor_de_archivos_MSG19="Тағайындалған каталогты теріңіз"
+gestor_de_archivos_MSG20="Каталог сәтті жылжытылды"
+gestor_de_archivos_MSG21="Каталогты жылжыту қатесі"
+gestor_de_archivos_MSG22="ҚЫСУ ҮШІН ФАЙЛ"
+gestor_de_archivos_MSG23="Файл жолын көрсетіңіз"

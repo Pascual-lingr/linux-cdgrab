@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovak/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Vyberte používateľské rozhranie, ktoré sa bude používať:"
+SeleccionaIUDVD_MSG2="Použiť rozhranie pre dvd+-rw-tools"
+SeleccionaIUDVD_MSG3="Použiť rozhranie pre Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Použiť rozhranie pre libburnia"
+SeleccionaIUDVD_MSG5="Predchádzajúca ponuka"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="ZÁZNAM NA DVD"
+menugrabar_dvd_MSG2="----------------- DVD - DÁTA -------------------"
+menugrabar_dvd_MSG3="Kopírovať DVD s údajmi ISO-9660"
+menugrabar_dvd_MSG4="Vytvoriť predchádzajúci obraz DVD na pevnom disku"
+menugrabar_dvd_MSG5="Napáliť nové dátové DVD ISO-9660"
+menugrabar_dvd_MSG6="Pridať novú dátovú reláciu na dátové DVD ISO-9660 (DVD s viacerými reláciami)"
+menugrabar_dvd_MSG7="Vyžaduje predtým nahrané DVD pomocou druhej možnosti"
+menugrabar_dvd_MSG8="Napáliť obraz údajov ISO-9660 na DVD"
+menugrabar_dvd_MSG9="Napáliť obraz .ext2 na DVD"
+menugrabar_dvd_MSG10="---------------- DVD - VIDEO ------------------"
+menugrabar_dvd_MSG11="Napáliť nové DVD-Video"
+menugrabar_dvd_MSG12="-------------- ĎALŠIE MOŽNOSTI ----------------"
+menugrabar_dvd_MSG13="Formátovať DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Zobraziť informácie o disku DVD"
+menugrabar_dvd_MSG0="Predchádzajúce menu"
+menugrabar_dvd_MSGPRINCIPAL="Zadajte možnosť"
+menugrabar_dvd_MSG15="Súbory a adresáre, ktoré sa majú zahrnúť na DVD"
+menugrabar_dvd_MSG16="Spúšťam správcu súborov..."
+menugrabar_dvd_MSG17=".iso obraz na napálenie na DVD"
+menugrabar_dvd_MSG18="Zadajte cestu k adresáru, kde sa nachádza .iso obraz, ktorý chcete napáliť"
+menugrabar_dvd_MSG19="Vyžaduje verziu cdrecord s podporou DVD."
+menugrabar_dvd_MSG20="Nahrávka .ext2 obrazu na DVD bude vykonaná pomocou cdrecord."
+menugrabar_dvd_MSG21="Verzia cdrecord vo vašej inštalácii by mala"
+menugrabar_dvd_MSG22="podpora nahrávania DVD."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="VYBERTE MOŽNOSŤ"
+dvd_clonar_MSG2="--- KÓPIE DISKU S NÁHĽADOVÝM OBRÁZKOM ---"
+dvd_clonar_MSG3="Kopírovať dátové DVD"
+dvd_clonar_MSG4="Vytvoriť predchádzajúci obraz DVD na pevnom disku"
+dvd_clonar_MSG5="--- KÓPIE DISKOV ZA LETU ---"
+dvd_clonar_MSG6="Skopírujte dátové DVD za behu"
+dvd_clonar_MSG7="Klonujte dátové DVD za behu"
+dvd_clonar_MSG8="MOŽNOSTI LIETAJÚCEHO KOPÍROVANIA VYŽADUJÚ DVE OPTICKÉ JEDNOTKY"
+dvd_clonar_MSG9="NAINŠTALOVANÉ NA VÁŠOM POČÍTAČI, KEĎŽE SA ÚDAJE ZAZNAMENÁVAJÚ"
+dvd_clonar_MSG10="ČÍTAJTE PRIAMO Z PÔVODNÉHO DISKU, AK HO MÁ LEN VÁŠ POČÍTAČ"
+dvd_clonar_MSG11="KÓPIE NEBUDETE MOŽNÉ POUŽÍVAŤ ZA LETU."
+dvd_clonar_MSG0="Predchádzajúca ponuka"
+dvd_clonar_MSG12="DÁTOVÁ KÓPIA DVD"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="NAHRÁVANIE DVD"
+menugrabar_DVD_MSG2="------------------ DVD - DATA -------------------"
+menugrabar_DVD_MSG3="Ripovať dátové DVD"
+menugrabar_DVD_MSG4="Napáliť nové dátové DVD"
+menugrabar_DVD_MSG5="Napáliť obraz .iso alebo .ext2 na DVD"
+menugrabar_DVD_MSG6="Formátovať DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Zobraziť informácie o disku v jednotke"
+menugrabar_DVD_MSG0="Predchádzajúca ponuka"
+menugrabar_DVD_MSGPRINCIPAL="Zadajte možnosť"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Napáliť obraz iso-9660 na DVD"
+menugrabar_DVD_libburnia_MSG2="Napáliť dáta z pevného disku na DVD"
+menugrabar_DVD_libburnia_MSG3="Formátovať DVD"
+menugrabar_DVD_libburnia_MSG4="Formátovať DVD-RW na sekvenčné prírastkové"
+menugrabar_DVD_libburnia_MSG5="Formátovať DVD-RW na obmedzené prepisovanie"
+menugrabar_DVD_libburnia_MSG6="Zobraziť informácie o disku"
+menugrabar_DVD_libburnia_MSG8="Zobraziť zoznam jednotiek nainštalovaných v systéme"
+menugrabar_DVD_libburnia_MSG0="Ukončiť"
+menugrabar_DVD_libburnia_MSG7="Zadajte možnosť"
+

@@ -1,0 +1,73 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKazakh/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabación en CD.
+# Traducción experimental al Kazajo, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="ОПЦИЯНЫ ТАҢДАҢЫЗ"
+clonar_MSG2="------ Алдын ала кескін ДИСК КӨШІРМЕЛЕРІ -------"
+clonar_MSG3="Деректер ықшам дискісін көшіріңіз"
+clonar_MSG4="Қатты дискіде алдын ала CD кескінін жасаңыз"
+clonar_MSG5="---------- ҰШЫНДАҒЫ ДИСК КӨШІРМЕЛЕРІ -----------"
+clonar_MSG6="Дерек ықшам дискісін жылдам көшіру"
+clonar_MSG7="Дерек ықшам дискісін жылдам клондау"
+clonar_MSG7B="Аудио ықшам дискіні жылдам көшіру"
+clonar_MSG8="ҰШАТЫН КӨШІРУ ОПЦИЯЛАРЫНА ЕКІ ОПТИКАЛЫҚ БІРЛІКТІ ТАЛАП КЕТЕДІ"
+clonar_MSG9="СІЗДІҢ КОМПЬЮТЕРГЕ ОРНАТЫЛҒАН, ДЕРЕКТЕР ЖАЗЫЛҒАН ҮШІН"
+clonar_MSG10="ТЕК СІЗДІҢ КОМПЬЮТЕРІҢІЗ БАР БОЛСА, ТІКЕЛЕЙ ДІСКЕН ОҚУ"
+clonar_MSG11="БІР КӨШІРМЕЛЕРДІ ҰШАҚТА ПАЙДАЛАНА АЛМАЙДЫ."
+clonar_MSG12B="CD ДЕРЕКТЕРІН КӨШІРУ"
+clonar_MSG0="Алдыңғы мәзір"
+
+# mgrabacd
+
+mgrabacd_MSG1="ҚАТТЫ ДИСКІДЕН CD ДЕРЕКТЕРІ"
+mgrabacd_MSG2="Жаңа деректер ықшам дискісін жазу (cdrtools пайдаланыңыз)"
+mgrabacd_MSG3="Жаңа деректер ықшам дискісін жазу (libburnia пайдаланыңыз)"
+mgrabacd_MSG4="Алдыңғы мәзір"
+mgrabacd_MSG5="Опцияны енгізіңіз"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="ДЕРЕКТЕР БЕЙНЕСІН ЖАЗУ"
+mgrabaimg_MSG2="CD-R/RW-ге iso немесе ext2 кескінін жазу (cdrtools пайдаланыңыз)"
+mgrabaimg_MSG3="CD-R/RW-ге изо кескінді жазу (libburnia пайдаланыңыз)"
+mgrabaimg_MSG4="Алдыңғы мәзір"
+mgrabaimg_MSG5="Опцияны енгізіңіз"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1=".wav файлдарынан аудио ықшам дискіні жазу"
+mgrabararchivosaudio_MSG2=".mp3 файлдарынан аудио ықшам дискіні жазу"
+mgrabararchivosaudio_MSG3=".ogg файлдарынан аудио ықшам дискіні жазу"
+mgrabararchivosaudio_MSG0="Алдыңғы мәзір"
+mgrabararchivosaudio_MSG0B="Опцияны теру"
+mgrabararchivosaudio_MSG4=".flac файлдарынан аудио ықшам дискіні жазу"
+mgrabararchivosaudio_MSG5="ФАЙЛДАРДАН CD-АУДИО ЖАЗУ"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="ықшам дискіге жазу"
+menugrabar_cd_MSG2="------------------- CD - DATA --------------------"
+menugrabar_cd_MSG3="Деректерді CD көшіру"
+menugrabar_cd_MSG4="Жаңа деректер ықшам дискісін жазу"
+menugrabar_cd_MSG5="Жаңа көп сеанстық деректер ықшам дискісін жазу"
+menugrabar_cd_MSG6=".iso немесе .ext2 кескінін ықшам дискіге жазу"
+menugrabar_cd_MSG7=".bin/.cue кескінін ықшам дискіге жазу"
+menugrabar_cd_MSG8="-------------------- CD - AUDIO ------------------"
+menugrabar_cd_MSG9="Аудио ықшам дискіні көшіріңіз"
+menugrabar_cd_MSG13="----------------- БАСҚА ОПЦИЯЛАР -----------------"
+menugrabar_cd_MSG14="Аралас ықшам дискіні жазу (деректер + аудио)"
+menugrabar_cd_MSG15="CD-RW жою"
+menugrabar_cd_MSG16="Ашық ықшам дискіні жабу"
+menugrabar_cd_MSG17="Дискідегі диск ақпаратын көрсету"
+menugrabar_cd_MSG18="Диск файлдарынан аудио ықшам дискіні жазу"
+menugrabar_cd_MSG0="Алдыңғы мәзір"
+menugrabar_cd_MSGPRINCIPAL="Опцияны теру"
+

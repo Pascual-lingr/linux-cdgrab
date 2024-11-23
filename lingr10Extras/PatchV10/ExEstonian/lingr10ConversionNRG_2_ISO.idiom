@@ -1,0 +1,36 @@
+# Idioma Estonio para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Jätkamiseks vajutage ENTER..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="========================================="
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 KONVERSIOON .NRG .ISO KS"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="Sisestage teisendatava .nrg-pildi tee:"
+convertir_imagen_nrg_MSG1B="Sisesta genereeritava .iso pildi tee:"
+convertir_imagen_nrg_MSG2="töötab"
+convertir_imagen_nrg_MSG3=".nrg-kujutise teisendamine .iso-vormingusse on edukalt lõpule viidud"
+convertir_imagen_nrg_MSG4="Viga pildi .nrg teisendamisel"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Piltide teisendamise tugi linux-cdgrab is"
+creditospatchnrgaiso_MSG2=".nrg piltide teisendamine .iso vormingusse nrg2iso abil"
+creditospatchnrgaiso_MSG3="Levita GPL v2 litsentsi alusel"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="Käsu versioon:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="Teisendage .nrg pilt .iso vormingusse"
+lingr10ConversionNRG_2_ISO_MSG2="Umbes"
+lingr10ConversionNRG_2_ISO_MSG3="Eelmine menüü"
+lingr10ConversionNRG_2_ISO_MSG4="Kehtetu valik"

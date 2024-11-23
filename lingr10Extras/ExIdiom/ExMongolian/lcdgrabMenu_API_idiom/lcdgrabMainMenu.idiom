@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongolian/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Mongol, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab vi текст засварлагчийг олж чадсангүй"
+ayuda_MSG2="Систем дээрээ суулгасан текст засварлагчийн нэрийг оруулна уу"
+ayuda_MSG3="СУУЛГАН РЕДАКТОР олсонгүй"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Файлыг LINUX-CDGRAB 1.0 автоматаар үүсгэсэн"
+creacion_de_mnt_MSG2="Энэ файл нь лавлахын хамт"
+creacion_de_mnt_MSG3="автоматаар үүсгэгдсэн"
+creacion_de_mnt_MSG4="Linux-cdgrab програм нь таны Линукс түгээлтэд байхгүй эсэхийг шалгах үед"
+creacion_de_mnt_MSG5="лавлах"
+creacion_de_mnt_MSG6="Linux-cdgrab нь CD-ROM/DVD-ROM/BD-ROM дискийг холбоход энэ санг ашигладаг."
+creacion_de_mnt_MSG7="Лавлах"
+creacion_de_mnt_MSG8="хэрэв Linux-cdgrab-г устгасан бол устгахгүй, учир нь энэ нь ихэвчлэн"
+creacion_de_mnt_MSG9="Ихэнх Линукс түгээлт дээрх /dev/cdrom-д зориулсан анхдагч холбох цэг."
+creacion_de_mnt_MSG10="Хэрэв таны түгээлт төхөөрөмж /dev/cdrom-ыг холбоход өөр директор ашигладаг бол,"
+creacion_de_mnt_MSG11="энэ нь таны төхөөрөмж дээрх өгөгдөлд хандах үед ямар ч үл нийцэх байдал үүсгэхгүй"
+creacion_de_mnt_MSG12="Хэрэв Linux-cdgrab-г устгасан ч та үүнийг хийхгүйгээр хийж болно"
+creacion_de_mnt_MSG13="Энэ файлын зорилго нь зөвхөн мэдээллийн зорилгоор хийгдсэн тул та уншсаны дараа чөлөөтэй устгах боломжтой."
+
+# creditos
+
+creditos_MSG1="GPL v2 лицензийн дагуу түгээх"
+creditos_MSG2="Дэлгэрэнгүй мэдээллийг www.gnu.org дээрээс авна уу"
+creditos_MSG3="Pascual Martínez Cruz, бүтээгч, хадгалагч"
+creditos_MSG4="Алдааны тайлан: pascual89@hotmail.com"
+creditos_MSG5="Хөтөлбөрийн вэбсайт: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Үндэслэн LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Цэнэглэж байна"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SYNTAX"
+lcdgrab_sintaxis_MSG2="Энэ тусламжийг хэвлэх"
+lcdgrab_sintaxis_MSG3="Linux хувилбарыг хэвлэх-cdgrab"
+lcdgrab_sintaxis_MSG4="IDE суваг эсвэл бичлэг хийх төхөөрөмжийг зааж өгнө"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="бичих хурдыг зааж өгнө"
+lcdgrab_sintaxis_MSG7="CD-ROM/DVD-ROM/BD-ROM хөтөчийг зааж өгнө"
+lcdgrab_sintaxis_MSG8="бичигчний IDE ATAPI сувгийг зааж өгнө"
+lcdgrab_sintaxis_MSG9="-G -V -L болон -CA сонголтууд нь бие биенээ илэрхийлж байна."
+lcdgrab_sintaxis_MSG9B="-iut -ium -iug болон -iuk сонголтууд нь бие биенээсээ хамааралгүй,"
+lcdgrab_sintaxis_MSG9C="-G -V -L ба -CA-д нэмэлт, -h ба -v хооронд хамааралгүй"
+lcdgrab_sintaxis_MSG10="-h ба -v сонголтууд нь бие биенээсээ болон бусад зүйлээс хамааралгүй."
+lcdgrab_sintaxis_MSG11="Жишээ нь:"
+lcdgrab_sintaxis_MSG12="төхөөрөмж"
+lcdgrab_sintaxis_MSG13="тоо"
+lcdgrab_sintaxis_MSG14="текст интерфэйс"
+lcdgrab_sintaxis_MSG15="ncurses тай интерфэйс"
+lcdgrab_sintaxis_MSG16="GTK тай график интерфэйс"
+lcdgrab_sintaxis_MSG17="Qt тай график интерфэйс"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Скриптийн замыг оруулна уу:"
+main_lcdgrabopdep_MSG2="Буруу зам"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Суулгасан засварууд:"
+main_lcdgrabopdeppatch_MSG2="Нөхөөс хийх замыг оруулна уу:"
+main_lcdgrabopdeppatch_MSG3="Одоогүй"
+
+# menu principal dialog
+main_lcdgrabop9uidia="НЭМЭЛТ НӨХӨӨ БАЙРШУУЛАХ"
+
+# menu principal texto
+
+main_lcdgrabop1_text="CD ДЭЭР БИЧЛЭГЭЭ\t\t\t\t="
+main_lcdgrabop2_text="DVD БИЧЛЭГ\t\t\t\t="
+main_lcdgrabop3_text="BD ДЭЭР БИЧИЖ БАЙНА\t\t\t="
+main_lcdgrabop4_text="ДИСК Драйвын үйл ажиллагаа\t\t="
+main_lcdgrabop5_text="ЗУРАГ БҮТЭЭХy\t\t\t\t="
+main_lcdgrabop6_text="АУДИО ХӨРВҮҮЛЭХ\t\t\t\t="
+main_lcdgrabop6b_text="ВИДЕО ХӨРВҮҮЛЭХ\t\t\t\t="
+main_lcdgrabop7_text="CD/DVD/BD г СУУЛГАХ БУЮУ БУУЛГАХ\t\t="
+main_lcdgrabop8_text="ЗУРГИЙГ БУУЛГАХ БУЮУ БУУЛГАХ\t\t="
+main_lcdgrabop9_text="НЭМЭЛТ НӨХӨӨ БАЙРШУУЛАХ\t\t\t="
+main_lcdgrabop10_text="ХЯНАЛТЫН ТӨВ\t\t\t\t="
+main_lcdgrabop0_text="ГАР\t\t\t\t\t="
+main_lcdgrabet1_text="БУСАД СОНГОЛТ ##\t\t="
+main_lcdgrabopEe_text="Дискийг хөтчөөс гаргах\t\t="
+main_lcdgrabopTD_text="Лавлахыг харуулах"
+tabs="\t\t="
+main_lcdgrabopG_text="Файл менежер\t\t\t\t="
+main_lcdgrabopH_text="Тусламж\t\t\t\t="
+main_lcdgrabopA_text="тухай\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="CD ДЭЭР БИЧЛЭГЭЭ"
+main_lcdgrabop2="DVD БИЧЛЭГ"
+main_lcdgrabop3="BD ДЭЭР БИЧИЖ БАЙНА"
+main_lcdgrabop4="ДИСК Драйвын үйл ажиллагаа"
+main_lcdgrabop5="ЗУРАГ БҮТЭЭХ"
+main_lcdgrabop6="АУДИО ХӨРВҮҮЛЭХ"
+main_lcdgrabop6b="ВИДЕО ХӨРВҮҮЛЭХ"
+main_lcdgrabop7="CD/DVD/BD г СУУЛГАХ БУЮУ БУУЛГАХ"
+main_lcdgrabop8="ЗУРГИЙГ БУУЛГАХ БУЮУ БУУЛГАХ"
+main_lcdgrabop9="НЭМЭЛТ НӨХӨӨ БАЙРШУУЛАХ"
+main_lcdgrabop10="ХЯНАЛТЫН ТӨВ"
+main_lcdgrabop0="ГАР"
+main_lcdgrabet1="БУСАД СОНГОЛТ ##"
+main_lcdgrabopEe="Дискийг хөтчөөс гаргах"
+main_lcdgrabopTD="Лавлахыг харуулах"
+main_lcdgrabopG="Файл менежер"
+main_lcdgrabopH="Тусламж"
+main_lcdgrabopA="тухай"
+main_lcdgrabopPRINCIPAL="Сонголт оруулна уу:"
+MSG1_MAIN="H-г сонгох нь сонголтуудын хэрэглээг харуулж байна."
+main_lcdgrabopA_MSG1="Ажиллаж байна:"
+

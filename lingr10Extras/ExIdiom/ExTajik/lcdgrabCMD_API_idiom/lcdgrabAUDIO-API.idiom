@@ -1,0 +1,143 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Tayiko para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="ФАЙЛҳои MP3 БАРОИ ТАБДИЛ КАРДАН"
+mp3awav_MSG0="Роҳи файлҳои .mp3-ро ворид кунед: "
+mp3awav_MSG1="ТАВБУЛ КАРДАН"
+mp3awav_MSG1B=" БА FORMAT .wav"
+mp3awav_MSG2="давидан"
+mp3awav_MSG3="Танзими намуна ба 44100 МГс"
+mp3awav_MSG4="Хатои коркарди намуна"
+mp3awav_MSG5="Табдил дода нашуд"
+mp3awav_MSG6="Феҳрист ёфт нашуд"
+mp3awav_MSG7=" АНҶОИ ТАБДИЛИ АДИО"
+mp3awav_MSG8="Муқаррар кардани файли аудио"
+mp3awav_MSG9="Файл"
+mp3awav_MSG10="Нормализатсияшуда"
+mp3awav_MSG11="Хатои муқаррарӣ"
+
+# oggawav
+
+oggawav_MSG0="ФАЙЛҲОИ OGG БАРОИ ТАБДИЛ КАРДАН"
+oggawav_MSG1="Роҳи файлҳои .oggро ворид кунед: "
+oggawav_MSG2="ТАВР КАРДАН"
+oggawav_MSG2B="FORMAT A .wav"
+oggawav_MSG3="давидан"
+oggawav_MSG4="Танзими намуна ба 44100 МГс"
+oggawav_MSG5="Хато дар коркарди намуна"
+oggawav_MSG6="Табдил дода нашуд"
+oggawav_MSG7="Феҳрист ёфт нашуд"
+oggawav_MSG8="ХОМИ ФАРОМУШИ АДИО"
+oggawav_MSG9="Муътадилгардонии файли аудио"
+oggawav_MSG10="Файл"
+oggawav_MSG11="Нормализатсияшуда"
+oggawav_MSG12="Хатои муқаррарӣ"
+
+# cdawav
+
+cdawav_MSG1="ТАВР КАРДАНИ АВДИО CD..."
+cdawav_MSG2="Иҷрокунанда:"
+cdawav_MSG3="Трекҳои Аудиоиро бомуваффақият пухтанд!!"
+cdawav_MSG4="Мундариҷаи директорияи файлҳои аудиоӣ"
+cdawav_MSG5="ХАТО ВАҚТИ ПАЙДО КАРДАНИ АДИО Трекҳо"
+
+# cddawav
+
+cddawav_MSG1="Миқдори трекҳоро БАРОИ РАПО ДОХИЛ КУНЕД:"
+cddawav_MSG2="Барои бекор кардани кандашавии трек Crtl + c ро пахш кунед"
+cddawav_MSG3="Иҷрошаванда:"
+cddawav_MSG4="МУВАФФАКИЯТ КАРДА ШУД"
+cddawav_MSG5="ХАТО ТАРҚИДАН"
+
+# wavamp3
+
+
+wavamp3_MSG0="ФАЙЛҲОИ WAV БАРОИ ТАБДИЛ КАРДАН"
+wavamp3_MSG1="Роҳи файлҳои .wavро ворид кунед: "
+wavamp3_MSG1B="ТАВР КАРДАН"
+wavamp3_MSG2="FORMAT"
+wavamp3_MSG3="Иҷрошаванда:"
+wavamp3_MSG4="ҳангоми табдил додан"
+wavamp3_MSG5="ба формати .MP3"
+wavamp3_MSG6="Хатои табдилдиҳӣ"
+wavamp3_MSG7="ТАВДИДИ АУДИО АНҶОМ ШУД"
+wavamp3_MSG8="ФАЙРАТҲОИ АУДИО ПАЙДО НАШУДААСТ"
+
+# cdamp3
+
+cdamp3_MSG1="ТАВРИФТАНИ CD AUDIO..."
+cdamp3_MSG2="Иҷрошаванда:"
+cdamp3_MSG3="Трекҳои АУДИОМУВАФФАКИЯТ ПАЙДО ШУД!!"
+cdamp3_MSG4="ХАТО ВАҚТИ КОФИДАНИ АДИО Трекҳо"
+cdamp3_MSG5="Функсияи занг:"
+
+# wavaogg
+
+wavaogg_MSG1="Роҳи файлҳои .wavро ворид кунед: "
+wavaogg_MSG2="ТАВР КАРДАН"
+wavaogg_MSG3="FORMAT A .ogg"
+wavaogg_MSG4="Иҷрокунанда:"
+wavaogg_MSG5="Хатои табдилдиҳӣ"
+wavaogg_MSG6="ба формати .ogg"
+
+# cdaogg
+
+cdaogg_MSG1="ТАВИФТАНИ CD-ҳои AUDIO..."
+cdaogg_MSG2="Иҷрошаванда:"
+cdaogg_MSG3="Трекҳои АУДИОМУВАФФАКИЯТ ПАЙДО ШУД!!"
+cdaogg_MSG4="ХАТО ВАҚТИ ПАЙДО КАРДАНИ АДИО Трекҳо"
+cdaogg_MSG5="Функсияи занг:"
+
+# corta_wav
+
+corta_wav_MSG0="Миқдори сонияҳо:"
+corta_wav_MSG1="Муайян кардани роҳи файли аудио барои табдил:"
+corta_wav_MSG2="Муайян кардани вақт бо миқдори сонияҳо, ки барои он"
+corta_wav_MSG3="буридани файл оғоз мешавад."
+corta_wav_MSG4="-ЭЗОҲ-"
+corta_wav_MSG5="Барои муайян кардани оғози аудио, 0-ро ворид кунед"
+corta_wav_MSG6="Арзиш дар сонияҳо барои оғоз кардани табдил:"
+corta_wav_MSG7="Вақтро бо шумораи сонияҳо муайян кунед, ки барои он"
+corta_wav_MSG8="буридани файл ба анҷом мерасад."
+corta_wav_MSG9="Арзиш дар сонияҳо барои анҷоми табдил:"
+corta_wav_MSG10="Иҷрокунанда"
+corta_wav_MSG11="Файли аудиои буридашуда"
+corta_wav_MSG12="Хато ҳангоми буридани файл"
+corta_wav_MSG13="Файли аудио барои буридан:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1="Муайян кардани роҳи файлҳои .flac:"
+flacawav_MSG2="ТАВР КАРДАН"
+flacawav_MSG3=" БА FORMAT .wav"
+flacawav_MSG4="Танзими намуна ба 44100 МГс"
+flacawav_MSG5="Хатои коркарди намуна"
+flacawav_MSG6="Муътадилгардонии файли аудио"
+flacawav_MSG7="Файл"
+flacawav_MSG8="Нормализатсияшуда"
+flacawav_MSG9="Хатои муқаррарӣ"
+flacawav_MSG10="Табдил дода нашуд"
+flacawav_MSG11="Феҳрист ёфт нашуд"
+flacawav_MSG12="ХОМИ ТАБДИЛИ АДИО"
+
+# wavaflac
+
+wavaflac_MSG0="ФАЙЛҲОИ WAV БАРОИ ТАВРИЛ КАРДАН"
+wavaflac_MSG1="Роҳи файлҳои .wavро ворид кунед: "
+wavaflac_MSG2="ТАВР КАРДАН"
+wavaflac_MSG3="FORMAT A .flac"
+wavaflac_MSG4="ба формати flac табдил дода шудааст"
+wavaflac_MSG5="Хатои табдилдиҳӣ"
+wavaflac_MSG6="ба формати .flac"
+wavaflac_MSG7="ФАЙЛИ ФАЙЛИ FLAC ёфт нашуд"
+

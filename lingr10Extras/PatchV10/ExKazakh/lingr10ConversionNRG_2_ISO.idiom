@@ -1,0 +1,37 @@
+# Idioma Kazajo para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Жалғастыру үшін ENTER пернесін басыңыз..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="========================================"
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 .NRG .ISO ға ТҰРЫЛУ"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="Түрлендіру керек .nrg кескінінің жолын енгізіңіз:"
+convertir_imagen_nrg_MSG1B="Жасағыңыз келетін .iso кескінінің жолын енгізіңіз:"
+convertir_imagen_nrg_MSG2="іске қосулы"
+convertir_imagen_nrg_MSG3=".nrg кескінін .iso файлына түрлендіру сәтті аяқталды"
+convertir_imagen_nrg_MSG4="Кескінді түрлендіру қатесі .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Linux-cdgrab жүйесінде кескінді түрлендіруге қолдау көрсету"
+creditospatchnrgaiso_MSG2="nrg2iso көмегімен .nrg кескіндерін .iso кескініне түрлендіру"
+creditospatchnrgaiso_MSG3="GPL v2 лицензиясы бойынша тарату"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="Пәрмен нұсқасы:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1=".nrg кескінін .iso түріне түрлендіру"
+lingr10ConversionNRG_2_ISO_MSG2="Тақында"
+lingr10ConversionNRG_2_ISO_MSG3="Алдыңғы мәзір"
+lingr10ConversionNRG_2_ISO_MSG4="Жарамсыз опция"
+

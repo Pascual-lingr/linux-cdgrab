@@ -1,0 +1,282 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongolian/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Mongol para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux-cdgrab тохиргоо"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Хэрэв та аль IDE сувагт хамаарахыг мэдэхгүй бол" 
+ayuda_IDE_MSG2="таны бичигч t үсгийг дарснаар олж мэдэх боломжтой."
+ayuda_IDE_MSG3="IDE сувгийн жишээ нь 0,0,0 эсвэл 0,1,0 байж болно"
+ayuda_IDE_MSG4="Та мөн тохирох төхөөрөмжийг зааж өгч болно"
+ayuda_IDE_MSG5="бичигч рүүгээ. Хэрэв та аль нь болохыг мэдэхгүй байвал d товчийг дарна уу."
+ayuda_IDE_MSG6="/etc/fstab файлд бүртгэлтэй төхөөрөмжүүдийг харах"
+ayuda_IDE_MSG7="Төхөөрөмжүүдийн жишээ нь /dev/hdd, /dev/hde гэх мэт байж болно."
+ayuda_IDE_MSG8="Хэрэв та хүсвэл бүх төхөөрөмжийг жагсааж болно"
+ayuda_IDE_MSG9="/dev санд l үсгийг дарна уу."
+ayuda_IDE_MSG10="Та IDE суваг эсвэл бичлэг хийх төхөөрөмжийг зааж өгөх ёстой"
+ayuda_IDE_MSG11="гэхдээ хоёуланг нь биш."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab-г таны системээс устгасан"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Бичлэг хийх хурд"
+imprimir_variables_MSG2="IDE/SCSI суваг эсвэл бичлэг хийх төхөөрөмж"
+imprimir_variables_MSG3="CD-ROM, DVD-ROM эсвэл BD-ROM уншигч"
+imprimir_variables_MSG4="ATAPI төхөөрөмж"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Бичлэг хийх хурд"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI суваг эсвэл бичлэг хийх төхөөрөмж"
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM эсвэл BD-ROM уншигч"
+imprimir_lcdgrabcfg_MSG4="ATAPI төхөөрөмж"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Суулгасан"
+chequeo_de_aplicaciones_MSG2="СУУЛГАНГҮЙ"
+chequeo_de_aplicaciones_MSG3="Суулгах"
+chequeo_de_aplicaciones_MSG4="ЧУХАЛ:"
+chequeo_de_aplicaciones_MSG5="Шаардлагатай Linux-cdgrab хэрэгслийг суулгаснаар бүрэн ажиллах болно"
+chequeo_de_aplicaciones_MSG6="Таны системд Linux-cdgrab-д хэрэгтэй бүх программ суулгасан."
+chequeo_de_aplicaciones_MSG4B="МЭДЭГДЭЛ:"
+chequeo_de_aplicaciones_MSG5B="Алга болсон хэрэгслүүд олдсон"
+chequeo_de_aplicaciones_MSG6B="Систем дээр суулгасан хэрэгслүүд"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 нь анхдагчаар энэ хувьсагчид оноогдсон"
+msgdefCANALATAPI_MSG2="Тохиргооны файлыг CANALATAPI = 0,0,0 гэж бичнэ"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Тохиргооны файлыг Linux-cdgrab автоматаар үүсгэсэн."
+nuevo_lcdgrabcfg_MSG5="системд cdrecord олдсонгүй"
+nuevo_lcdgrabcfg_MSG6="Cdrtools багцыг суулгана уу."
+nuevo_lcdgrabcfg_MSG7="Та утгуудыг зааж өгснөөр тохиргоог үргэлжлүүлж болно"
+nuevo_lcdgrabcfg_MSG8="хэрэв та өмнө нь мэддэг бол бичлэг хийх."
+nuevo_lcdgrabcfg_MSG9="Cdrecord командыг CD, DVD болон BD диск бичихэд ашигладаг."
+nuevo_lcdgrabcfg_MSG10="Эдгээр багцыг суулгах хүртэл эдгээр сонголтууд ажиллахгүй."
+nuevo_lcdgrabcfg_MSG11="Одоо байгаа хөтөч скан хийх хэрэгсэл мөн ажиллахгүй"
+nuevo_lcdgrabcfg_MSG12="энэ тохиргооны шидтэн дээр."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab-г дараах дөрвөн алхамаар тохируулах шаардлагатай"
+nuevo_lcdgrabcfg_MSG14="Эхний алхам."
+nuevo_lcdgrabcfg_MSG15="Бичлэг хийх хурд"
+nuevo_lcdgrabcfg_MSG16="Зөвхөн нэг тоо 2,4,8,16,32... гэх мэт"
+nuevo_lcdgrabcfg_MSG17="Хоёр дахь алхам."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI суваг эсвэл бичлэг хийх төхөөрөмж:"
+nuevo_lcdgrabcfg_MSG19="A -> тусламж"
+nuevo_lcdgrabcfg_MSG20="Скан хийж байна..."
+nuevo_lcdgrabcfg_MSG21="IDE/SCSI портыг скан хийхэд алдаа гарлаа"
+nuevo_lcdgrabcfg_MSG22="Cdrecord олдсонгүй"
+nuevo_lcdgrabcfg_MSG23="Гурав дахь алхам."
+nuevo_lcdgrabcfg_MSG24="CD-ROM, DVD-ROM эсвэл BD-ROM төхөөрөмж"
+nuevo_lcdgrabcfg_MSG25="L -> Боломжтой төхөөрөмжүүдийн жагсаалт"
+nuevo_lcdgrabcfg_MSG26="Скан хийж байна..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI порт сканнердсан"
+nuevo_lcdgrabcfg_MSG28="Олон сессийн бичлэгт dev=ATAPI-ээр дамжуулан cdrecord ашиглах төхөөрөмж"
+nuevo_lcdgrabcfg_MSG30="Төхөөрөмж нь 0,0,0 эсвэл 1,0,0 гэх мэт нэршилтэй"
+nuevo_lcdgrabcfg_MSG31="Олон сессийн CD дээр cdrecord дуудах төхөөрөмжийг зааж өгнө үү: "
+nuevo_lcdgrabcfg_MSG32="CANALATAPI-н тохиргоо буруу байна"
+nuevo_lcdgrabcfg_MSG33="IDE/SCSI портыг скан хийхэд алдаа гарлаа"
+nuevo_lcdgrabcfg_MSG34="Cdrecord олдсонгүй"
+nuevo_lcdgrabcfg_MSG36="Тохиргооны файлыг Linux-cdgrab автоматаар үүсгэсэн."
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB ТОХИРУУЛГА ДУУССАН"
+
+# colores
+
+colores_MSG1="Өнгөний жагсаалтыг олох боломжгүй"
+colores_MSG2="Өгөгдмөл өнгийг ачаалж байна"
+colores_MSG3="LINUX-CDGRAB интерфейсийн шинэ өнгөний схем сонгох"
+colores_MSG4="Хар фонт"
+colores_MSG5="СТАНДАРТ ГЭРЭЛТ фонт"
+colores_MSG6="БОНГИЙН ХАР ӨНГӨ"
+colores_MSG7="Улаан фонт"
+colores_MSG8="ГЭРЭЛТ ХАР фонт"
+colores_MSG9="Улаан дэвсгэр өнгө"
+colores_MSG10="фонт ногоон"
+colores_MSG11="ГЭРЭЛТ УЛААН УСАН УСГАЛ"
+colores_MSG12="НОГООН дэвсгэр өнгө"
+colores_MSG13="ШАР фонт"
+colores_MSG14="ГЭРЭЛ НОГООН фонт"
+colores_MSG15="Улбар шар өнгийн дэвсгэр өнгө"
+colores_MSG16="ХӨХ фонт"
+colores_MSG17="ТОД ШАР фонт"
+colores_MSG18="Цэнхэр дэвсгэр өнгө"
+colores_MSG19="MAGENTA фонт"
+colores_MSG20="ГЭРЭЛТ ЦЭНХЭР фонт"
+colores_MSG21="ЯЛАН БУС БАЙРЫН ӨНГӨ"
+colores_MSG22="ЦӨХРӨГ ЭХ СУРВАЛЖ"
+colores_MSG23="ГЭРЭЛТ ГАЛАН ҮСГИЙН"
+colores_MSG24="ЦӨХРӨГ НӨХӨН ӨНГӨ"
+colores_MSG25="Саарал фонт"
+colores_MSG26="ЦӨХРӨГ НӨХӨН ӨНГӨ"
+colores_MSG27="ГЭРЭЛТ ЦЭНГЭР фонт"
+colores_MSG28="Арын саарал өнгө"
+colores_MSG29="ӨГӨГДМӨЛ ЭХ ҮҮСВЭР"
+colores_MSG30="ГЭРЭЛТ ЦАГААН фонт"
+colores_MSG31="ӨГӨГДӨГДСӨН арын дэвсгэр өнгө"
+colores_MSG32="Үсгийн өнгөний дугаар: "
+colores_MSG33="Арын өнгөний дугаар: "
+colores_MSG34="Анхааруулах мессежийн өнгөт дугаар: "
+colores_MSG35="Шошгоны мессежийн өнгөний дугаар: "
+colores_MSG36="Амжилттай дууссан процессуудын өнгөний дугаар"
+colores_MSG37="Алдаагаар дуусгавар болсон процессуудын өнгөний дугаар: "
+colores_MSG38="LINUX-CDGRAB д зориулсан шинэ схем"
+colores_MSG39="ЕРӨНХИЙ ҮСГИЙН ӨНГӨ"
+colores_MSG40="ШОШГО"
+colores_MSG41="МЭДЭГДЭЛ"
+colores_MSG42="АМЖИЛТ"
+colores_MSG43="АЛДАА"
+colores_MSG44="Арын дэвсгэр өнгө"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="БОЛОМЖТОЙ ӨНГӨНИЙ ЖАГСААЛТ:"
+cambiar_esquema_de_color_MSG2="#####Өнгөний схем#######"
+cambiar_esquema_de_color_MSG3="------------------------"
+cambiar_esquema_de_color_MSG4="Өнгөний цэс"
+cambiar_esquema_de_color_MSG5="Амжилтгүй"
+cambiar_esquema_de_color_MSG6="Шошго"
+cambiar_esquema_de_color_MSG6b="Мэдэгдэл"
+cambiar_esquema_de_color_MSG7="Өнгөт цэс OK Амжилтын анхааруулгын шошго"
+cambiar_esquema_de_color_MSG8="Шинэ өнгөний дугаарыг оруулна уу:"
+cambiar_esquema_de_color_MSG9="ХҮЧИРХҮЙ СОНГОЛТ"
+cambiar_esquema_de_color_MSG10="ӨГӨГДМӨГ ӨНГӨГ ТОХИРУУЛАХ."
+cambiar_esquema_de_color_MSG11="  АРДЫН ЗААВАР ТОВЧЛОЛУУД = ЦЭНХЭР_ЦӨГТӨГ"
+cambiar_esquema_de_color_MSG12="  FONT = ГЭРЭЛТ ЦАГААН"
+cambiar_esquema_de_color_MSG13="  АНХААРУУЛГА = ТОД ШАР"
+cambiar_esquema_de_color_MSG14="  АЛДАА = ГЭРЭЛТ УЛААН"
+cambiar_esquema_de_color_MSG15="  АЛДАА = ГЭРЭЛТ УЛААН"
+cambiar_esquema_de_color_MSG16="  HITS = ГЭРЭЛТ НОГООН"
+cambiar_esquema_de_color_MSG17="  LABELS = ГЭРЭЛТ ЦЭНГЭР"
+
+# cambia_lector
+
+cambia_lector_MSG1="ОПТИК НЭГЖИЙН ОРЧНЫ ТОХИРУУЛГА"
+cambia_lector_MSG2="CD-ROM, DVD-ROM эсвэл BD-ROM-той холбоотой одоогийн төхөөрөмж"
+cambia_lector_MSG3="CD/DVD/BD шарагчтай холбоотой одоогийн төхөөрөмж"
+cambia_lector_MSG4="dev=ATAPI параметртэй холбоотой одоогийн төхөөрөмж"
+cambia_lector_MSG5="(cdrecord-н олон сессийн дэмжлэг)"
+cambia_lector_MSG6="Өөрчлөлт хийх төхөөрөмжөө сонгоно уу."
+cambia_lector_MSG7="Сонголтыг оруулна уу:"
+cambia_lector_MSG8="Шинэ төхөөрөмжийн нэрийг оруулна уу"
+cambia_lector_MSG9="блоклох төхөөрөмжтэй тохирохгүй байна"
+cambia_lector_MSG10="Төхөөрөмж"
+cambia_lector_MSG11="өгөгдмөлөөр оноосон"
+cambia_lector_MSG12="Шинэ төхөөрөмж нь:"
+cambia_lector_MSG13="Cdrecord-ийн бүх хувилбарууд блок төхөөрөмжийг бичлэгийн параметр болгон хүлээн зөвшөөрдөггүй."
+cambia_lector_MSG14="Шинэ ATAPI төхөөрөмжийн нэрийг оруулна уу"
+cambia_lector_MSG15="CANALATAPI-н тохиргоо буруу байна"
+cambia_lector_MSG16="0,0,0 нь анхдагчаар энэ хувьсагчид оноогдсон"
+cambia_lector_MSG17="Тохиргооны файлыг CANALATAPI = 0,0,0 гэж бичнэ"
+cambia_lector_MSG18="Шинэ төхөөрөмж нь:"
+cambia_lector_MSG19="ТӨХӨӨРӨМЖҮҮД ДЭЭР ӨӨРЧЛӨЛТ ГАРГАГҮЙ"
+cambia_lector_MSG4B="Тохиргооны файлаас утгуудыг экспортлох"
+cambia_lector_MSG4C="Эдгээр үнэ цэнийг ОРЧИНД МЭДЭГДСЭН:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Та энэ цэснээс аль хэрэгслийг сонгох боломжтой"
+cambia_generador_isocd_MSG2="ISO-9660 зураг үүсгэхэд ашиглагдана"
+cambia_generador_isocd_MSG3="унших нэгж дээрх одоо байгаа CDS ээс."
+cambia_generador_isocd_MSG4="Одоогийн тохиргоо:"
+cambia_generador_isocd_MSG5="dd (GNU coreutils бүрэлдэхүүн хэсэг) ашиглах"
+cambia_generador_isocd_MSG6="Readcd ашиглах (cdrtools бүрэлдэхүүн хэсэг)"
+cambia_generador_isocd_MSG7="Өмнөх цэс."
+cambia_generador_isocd_MSG8="Сонголтыг сонгоно уу:"
+cambia_generador_isocd_MSG9="dd г iso генератор болгон ашиглах."
+cambia_generador_isocd_MSG10="readcd г изо генератор болгон ашиглах."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Rock Ridge болон Joliet-ийн хамт HFS мета өгөгдлийг тохируулах"
+establecer_hfs_iso_MSG2="Зөвхөн Rock Ridge болон Joliet мета өгөгдлийг ашиглах"
+establecer_hfs_iso_MSG3="Өмнөх цэс."
+establecer_hfs_iso_MSG4="Сонголтыг сонгоно уу:"
+establecer_hfs_iso_MSG5="HFS, Rock Ridge, Joliet мета өгөгдлийг ашиглах"
+establecer_hfs_iso_MSG6="Rock Ridge болон Joliet мета өгөгдлийг ашиглах"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Одоогийн мэдэгдлийн систем"
+cambia_notificaciones_MSG2A="GNOME график интерфэйс"
+cambia_notificaciones_MSG2B="KDE график интерфэйс"
+cambia_notificaciones_MSG2="ncurses тай харилцах"
+cambia_notificaciones_MSG3="Текст интерфэйс"
+cambia_notificaciones_MSG4="Гарах"
+cambia_notificaciones_MSG5="Сонголтыг сонгоно уу:"
+cambia_notificaciones_MSG6="Харилцах цонхтой интерфейсийг ашиглах"
+cambia_notificaciones_MSG6B="Zenity-тэй интерфэйс ашиглах"
+cambia_notificaciones_MSG6C="kdialog-тэй интерфэйс ашиглах"
+cambia_notificaciones_MSG7="Харилцах цонхны команд олдсонгүй"
+cambia_notificaciones_MSG8="Текст интерфэйсийг ашиглах"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Ашиглаж буй хэл:"
+cambiar_idioma_UI_MSG1="Одоогоор ашиглах боломжтой хэлүүд:"
+cambiar_idioma_UI_MSG2="Хэрэглэх хэлний нэрийг оруулна уу"
+cambiar_idioma_UI_MSG3="програмын интерфейс дээр:"
+cambiar_idioma_UI_MSG4="Ашигласан шинэ хэл нь:"
+cambiar_idioma_UI_MSG5="LINUX-CDGRAB г дахин эхлүүлэх"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Одоогийн тохиргоо"
+seleccion_gestor_archivos_MSG2="Mc ашиглах"
+seleccion_gestor_archivos_MSG3="Нэгдсэн текст менежер ашиглах"
+seleccion_gestor_archivos_MSG4="Систем дээр суулгасан mc олдохгүй байна"
+seleccion_gestor_archivos_MSG5="Нэгдсэн текст менежерийг анхдагчаар ашиглах"
+seleccion_gestor_archivos_MSG6="mc хэрэгсэл"
+seleccion_gestor_archivos_MSG7="Нэгдсэн текст"
+
+# centro_de_control
+
+centro_de_control_MSG1="ХЯНАЛТЫН ТӨВ"
+centro_de_control_MSG2="Шинэ тохиргоо"
+centro_de_control_MSG3="Тохиргооны файлыг устгах"
+centro_de_control_MSG4="Одоогийн тохиргооны файл болон утгыг харуулах"
+centro_de_control_MSG5="ТОХИРУУЛАЛТЫН ФАЙЛЫН УТГА:"
+centro_de_control_MSG5B="ОРЧИНД АШИГЛАЖ БАЙГАА ОДОО ТОХИРУУЛГА:"
+centro_de_control_MSG6="Оптик медиаг өөрчлөх"
+centro_de_control_MSG7="Суулгасан програмуудыг шалгах"
+centro_de_control_MSG8="IDE/SCSI портыг cdrecord ашиглан сканнердах"
+centro_de_control_MSG8C="IDE/SCSI портыг cdrskin ашиглан сканнердах"
+centro_de_control_MSG8B="cdrskin тай системд суулгасан нэгжүүдийн жагсаалт"
+centro_de_control_MSG9="CD ээс iso үүсгэгч хэрэгслийг өөрчлөх"
+centro_de_control_MSG9B="Iso-9660-д зориулсан HFS мета өгөгдлийг тохируулах"
+centro_de_control_MSG10="Хэрэглэгчийн интерфейсийг өөрчлөх"
+centro_de_control_MSG10b="Өнгийг өөрчлөх"
+centro_de_control_MSG10c="Интерфэйсийн хэлийг өөрчлөх"
+centro_de_control_MSG11="Файлын менежерийг өөрчлөх"
+centro_de_control_MSG11B="Програмыг устгах"
+centro_de_control_MSG12="Сонголт оруулна уу: "
+centro_de_control_MSG13="ТОХИРУУЛАЛТЫН ФАЙЛ БАЙХГҮЙ"
+centro_de_control_MSG14="Тохиргооны файл олдсонгүй"
+centro_de_control_MSG15="Скан хийж байна"
+centro_de_control_MSG16="IDE/SCSI порт сканнердсан"
+centro_de_control_MSG17="IDE/SCSI портыг скан хийхэд алдаа гарлаа"
+centro_de_control_MSG18="Өнгөний схем сонгох"
+centro_de_control_MSG19="Өнгийг дур мэдэн сонгох"
+centro_de_control_MSG20="Өмнөх цэс"
+centro_de_control_MSG21="Сонголт оруулна уу: "
+centro_de_control_MSG22="ТОХИРУУЛАЛТЫН ФАЙЛ БАЙХГҮЙ"
+centro_de_control_MSG23="Тохиргооны файл олдсонгүй"
+centro_de_control_MSG24="Өнгөний схем сонгох"
+centro_de_control_MSG25="Өнгийг дур мэдэн сонгох"
+centro_de_control_MSG26="Буруу сонголт"
+

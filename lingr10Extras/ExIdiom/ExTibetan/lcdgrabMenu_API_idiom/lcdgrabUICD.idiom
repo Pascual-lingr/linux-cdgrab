@@ -1,0 +1,72 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Tibetano, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="གདམ་ག་ཞིག་འདེམས།"
+clonar_MSG2="------ སྔོན་ལྟའི་པར་རིས་དང་མཉམ་དུ་ཌིསིཀ་འདྲ་བཤུས། -------"
+clonar_MSG3="གྲངས་ཐོའི་སི་ཌི་འདྲ་བཤུས།"
+clonar_MSG4="མཁྲེགས་སྡེར་སྟེང་སྔོན་མའི་སི་ཌི་པར་རིས་གསར་བཟོ།"
+clonar_MSG5="----------- གནམ་གྲུའི་སྟེང་གི་འོད་སྡེར་འདྲ་བཤུས། -----------"
+clonar_MSG6="འཕུར་སྐབས་གྲངས་ཐོའི་སི་ཌི་འདྲ་ཕབ་བྱེད།"
+clonar_MSG7="འཕུར་སྐྱོད་བྱེད་སྐབས་གཞི་གྲངས་སི་ཌི་འདྲ་བཟོ་བྱེད་པ།"
+clonar_MSG7B="འཕུར་སྐྱོད་བྱེད་སྐབས་སྒྲ་སྒམ་ཞིག་འདྲ་བཤུས་བྱེད།"
+clonar_MSG8="འཕུར་སྐྱོད་འདྲ་བཤུས་གདམ་ག་ལ་འོད་ཀྱི་ཆ་ཤས་གཉིས་དགོས།"
+clonar_MSG9="ཁྱེད་ཀྱི་གློག་ཀླད་ཐོག་སྒྲིག་འཇུག་བྱས་ཡོད། གང་ཡིན་ཟེར་ན་གྲངས་ཐོ་དེ་ཐོ་འགོད་བྱས་ཡོད།"
+clonar_MSG10="གལ་ཏེ་ཁྱེད་ཀྱི་གློག་ཀླད་ལ་ཡོད་ན་ཐད་ཀར་འབྱུང་ཁུངས་ཀྱི་སྡེར་མ་ནས་ཀློག"
+clonar_MSG11="མི་གཅིག་གིས་གནམ་གྲུའི་སྟེང་དུ་འདྲ་བཤུས་བེད་སྤྱོད་གཏོང་མི་ཐུབ།"
+clonar_MSG12B="སི་ཌི་གཞི་གྲངས་འདྲ་ཕབ།"
+clonar_MSG0="དཀར་ཆག་སྔོན་མ།"
+
+# mgrabacd
+
+mgrabacd_MSG1="སྲ་སྡེར་ནས་སི་ཌི་གཞི་གྲངས།"
+mgrabacd_MSG2="གཞི་གྲངས་སི་ཌི་གསར་བ་ཞིག་འཚིག་(cdrtoolsབེད་སྤྱོད་བྱེད་)"
+mgrabacd_MSG3="གཞི་གྲངས་སི་ཌི་གསར་བ་ཞིག་འཚིག་(libburnia་སྤྱོད་བྱེད་)"
+mgrabacd_MSG4="སྔོན་གྱི་དཀར་ཆག་རེའུ་མིག།"
+mgrabacd_MSG5="གདམ་ག་ཞིག་ནང་འཇུག་བྱ།"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="གྲངས་ཐོའི་པར་རིས་སྒྲ་ཕབ།"
+mgrabaimg_MSG2="iso ཡང་ན་ ext2 པར་རིས་ CD-R/RW (cdrtools བེད་སྤྱད་པ) ནང་འཚིག་པ།"
+mgrabaimg_MSG3="ཨའི་སོ་གཟུགས་བརྙན་དེ་CD-R/RW ལ་འཚིག་པ་ (ལིབ་བུ་ནི་ཡ་བེད་སྤྱོད་བྱེད་པ)"
+mgrabaimg_MSG4="སྔོན་གྱི་རེའུ་མིག་རེའུ་མིག།"
+mgrabaimg_MSG5="གདམ་ག་ཞིག་ནང་འཇུག་བྱ།"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1=".wav ཡིག་ཚགས་ནང་ནས་སྒྲ་སྒམ་ CD ཞིག་འབར་བ།"
+mgrabararchivosaudio_MSG2=".mp3ཡིག་ཚགས་ནང་ནས་སྒྲ་སྒམ་ཞིག་འབར་རོགས།"
+mgrabararchivosaudio_MSG3=".ogg ཡིག་ཚགས་ནང་ནས་སྒྲ་སྒམ་ཞིག་འབར་བ།"
+mgrabararchivosaudio_MSG0="སྔོན་གྱི་དཀར་ཆག་རེའུ་མིག"།
+mgrabararchivosaudio_MSG0B="གདམ་ག་ཞིག་ཡིག་དཔར་རྐྱབས།"
+mgrabararchivosaudio_MSG4=".flac ཡིག་ཚགས་ནས་སྒྲ་སྒམ་ CD ཞིག་འབར་བ།"
+mgrabararchivosaudio_MSG5="ཡིག་ཚགས་ལས་སི་ཌི་སྒྲ་ཕབ་བྱེད་པ།"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="སི་ཌི་ལ་སྒྲ་ཕབ།"
+menugrabar_cd_MSG2="------------------- CD - གཞི་གྲངས། -------------------"
+menugrabar_cd_MSG3="གཞི་གྲངས་སི་ཌི་འདྲ་བཤུས།"
+menugrabar_cd_MSG4="གྲངས་ཐོའི་སི་ཌི་གསར་བ་ཞིག་བརྐོས།"
+menugrabar_cd_MSG5="ལེ་ཚན་མང་པོའི་གྲངས་ཐོའི་སི་ཌི་གསར་བ་ཞིག་སྲུངས།"
+menugrabar_cd_MSG6="སི་ཌི་ནང་ .iso ཡང་ན་ .ext2 བརྙན་པར་སྲུབ།"
+menugrabar_cd_MSG7=" .bin/.cue འདྲ་པར་དེ་སི་ཌི་ནང་བསྲེག"
+menugrabar_cd_MSG8="--------------------- CD - སྒྲ། ---------------------"
+menugrabar_cd_MSG9="སྒྲ་དབྱངས་འོད་སྡེར་ཞིག་གཅོད་པ།"
+menugrabar_cd_MSG13="-------------------- གདམ་ག་གཞན། ---------------------"
+menugrabar_cd_MSG14="འདྲེས་མའི་སི་ཌི་(གཞི་གྲངས་+སྒྲ་)འབར་བ།"
+menugrabar_cd_MSG15="CD-RW ཞིག་བསུབས་དགོས།"
+menugrabar_cd_MSG16="ཁ་ཕྱེ་བའི་སི་ཌི་ཁ་རྒྱག་པ།"
+menugrabar_cd_MSG17="སྒུལ་ཆས་ནང་ཌིསིཀ་ཆ་འཕྲིན་སྟོན།"
+menugrabar_cd_MSG18="ཌིསིཀ་ཡིག་ཆའི་ནང་ནས་སྒྲ་སྒམ་ཞིག་འབར་བ།"
+menugrabar_cd_MSG0="དཀར་ཆག་སྔོན་མ།"
+menugrabar_cd_MSGPRINCIPAL="གདམ་ག་ཞིག་ཡིག་དཔར་རྐྱབས།"

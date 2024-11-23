@@ -1,0 +1,183 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFinnish/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Finés para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="käynnissä"
+copia_bin_MSG2="--------------YRITÄÄN UUDELLEEN TALLENNUSPROSESSIA---------------"
+copia_bin_MSG3="	POISTETAAN KUVATIEDOSTOA"
+copia_bin_MSG4="VIRHE ON TAPAHTUNUT TALLENNUKSESTA"
+copia_bin_MSG5="Levyn kuvan vedos.iso-tiedostoa ei löydy. Keskeytetään tallennusta..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="juoksu"
+datos_al_vuelo_MSG2="Virhe tallennusyrityksessä, yritetään uudelleen ilman ylipolttotukea"
+datos_al_vuelo_MSG3="Tarkista, että lähdelevy tai laite"
+datos_al_vuelo_MSG4="on hyvässä kunnossa"
+datos_al_vuelo_MSG5="Haetaan johtolohkon numeroa lähdelevyltä"
+datos_al_vuelo_MSG6="KOPIOIDAAN LEVYÄ..."
+
+# clonar_cd
+
+clonar_cd_MSG1="käynnissä"
+clonar_cd_MSG2="CD ONNISTUSTI KLOONATTU"
+clonar_cd_MSG3="VIRHE ON TAPAHTUNUT CD-KLOONAAMISESSA"
+
+# datos
+
+datos_MSG1="Tiedostot ja hakemistot .iso-kuvan luomiseksi"
+datos_MSG2="CD/DVD/BD LABEL"
+datos_MSG3="Anna nimi tulevalle CD/DVD/BD:lle:"
+datos_MSG4="Tiedostonhallinnan käynnistäminen:"
+datos_MSG5="	LUODAAN KUVAA..."
+datos_MSG6="käynnissä"
+datos_MSG7="ISO-9660 KUVA LUOTTU"
+datos_MSG8="		POLTAVA CD/DVD/BD"
+datos_MSG9="KUVATIEDOSTON LUONTIPROSESSI ON Epäonnistui"
+datos_MSG10="YRITÄÄN UUDELLEEN LUODA UUDEN ILMAN HFS:N TUKEA (Macintosh)"
+datos_MSG11="POISTETAAN KUVAA..."
+datos_MSG12="LUODAAN UUTTA KUVAA...."
+datos_MSG13="SITÄ EI OLE OLLUT MAHDOLLINEN TALLENNUS OIKEASTI"
+datos_MSG14="------------YRITÄÄN UUDELLEEN TALLENNUSPROSESSIA-----------"
+datos_MSG15="POISTA KUVA..."
+datos_MSG16="POLTTO ISO-9660 DATA CD/DVD/BD..."
+datos_MSG17="Ei löydy."
+datos_MSG18="Keskeytetään levytallennusta..."
+
+# datoslb
+
+datoslb_MSG1="Virhe: Kuvatiedostoa ei löydy. Keskeytetään..."
+datoslb_MSG2="TALLENNUSPROSESSI OK"
+datoslb_MSG3="VIRHE TALLENNUSPROSESSISSA"
+
+# borra
+
+borra_MSG0="Edellinen valikko"
+borra_MSG1="Valitse tila poistaaksesi CD-RW levyn"
+borra_MSG2="-------------------------------------"
+borra_MSG3="Pikapoisto (käytä cdrecord)"
+borra_MSG4="Suorita poistaminen loppuun (käytä cdrecord)"
+borra_MSG5="Poisto vaaditaan (käytä cdrskin)"
+borra_MSG6="käynnissä"
+borra_MSG7="Tarvittava alustus tai poisto tehdään levyn tilasta riippuen"
+borra_MSG8="CD-RW POISTETTU onnistuneesti!!"
+borra_MSG9="VIRHE POISTETTAESSA CD-RW:tä"
+borra_MSG10="PAKO POISTAA CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="VIRHE YRITTEESSÄ POISTAA CD-RW levyä"
+err_borra_cdrw_MSG2="CD-RW EI KÄYTÖSSÄ"
+err_borra_cdrw_MSG3="TÄTÄ CD-RW:tä EI OLE MAHDOLLINEN POISTAA"
+err_borra_cdrw_MSG4="TARKISTA CD-RW LEVYN Fyysisten vaurioiden varalta"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="käynnissä"
+cerrar_cd_MSG2="CD ON SULJETTU OIKEIN"
+cerrar_cd_MSG3="VIRHE CD-levyä suljettaessa"
+cerrar_cd_MSG4="SULJETTAAN RAITA DATA-CD:llä...."
+
+# grabimg
+
+grabimg_MSG1=".iso tai .ext2 kuva poltettava CD-/DVD-levylle"
+grabimg_MSG2="Tiedostonhallintaa käynnistetään."
+grabimg_MSG3="Kirjoita koko polku, jossa poltettava CD/DVD-kuva sijaitsee:"
+grabimg_MSG4="juoksu"
+grabimg_MSG5="-----------YRITÄÄN UUDELLEEN TALLENNUSPROSESSIA-----------"
+grabimg_MSG6="TALLENNUS VALMIS!!"
+grabimg_MSG7=".EXT2 KUVA TALLENNETTU ONNISTUSTI"
+
+# grabimglb
+
+grabimglb_MSG1="Kirjoita koko polku, jossa poltettava CD/DVD-kuva sijaitsee:"
+grabimglb_MSG2="Polataan kuvaa levylle..."
+grabimglb_MSG3="ISO-9660 KUVA ON TALLENNETTU"
+grabimglb_MSG4="VIRHE ISO-9660 KUVAN TALLENNUKSESSA"
+grabimglb_MSG5="Virhe: Kuvatiedostoa ei löydy. Keskeytetään..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin- ja .cue-tiedostot kuvan tallentamiseen"
+grabimg_cue_MSG2="Jotta bin/cue-kuva voidaan tallentaa, molempien tiedostojen on oltava"
+grabimg_cue_MSG3="ole aktiivisessa hakemistossa."
+grabimg_cue_MSG4="Nykyinen aktiivinen hakemisto"
+grabimg_cue_MSG5="Anna *.cue-tiedoston nimi, joka viittaa *.bin-kuvatiedostoon"
+grabimg_cue_MSG6=".cue-tiedosto: "
+grabimg_cue_MSG7="juoksu"
+grabimg_cue_MSG8="TALLENNUS VALMIS!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Pota monisession CD .iso tiedostosta"
+cd_multi_MSG2="Pota ensimmäinen istunto CD:lle .iso tiedostosta"
+cd_multi_MSG3="Pota Multisession CD levyllä olevista tiedostoista"
+cd_multi_MSG4="Tallenna peräkkäiset istunnot CD-levylle kiintolevyllä olevista tiedostoista"
+cd_multi_MSG5="Tämä vaihtoehto vaatii usean istunnon CD:n, jossa on aiemmin tallennettu istunto."
+cd_multi_MSG6="Edellinen valikko"
+cd_multi_MSG7=".iso-kuva poltettava CD-Multi-session"
+cd_multi_MSG8="Määritä .iso kuvan polku"
+cd_multi_MSG9="käynnissä"
+cd_multi_MSG10="MONI ISTUNTO CD ON TALLENNETTU!!"
+cd_multi_MSG11="Hakemistot, jotka sisällytetään kuvaan."
+cd_multi_MSG12="Määritä alle sisällytettävät hakemistot"
+cd_multi_MSG13="Anna nimi CD-levylle:"
+cd_multi_MSG14="LUODAAN KUVAA..."
+cd_multi_MSG15="LUOTTU ONNISTUSTI"
+cd_multi_MSG16="VIRHE KUVAN LUODAMISESSA. TALLENNUSPROSESSIN KESKEYTTÄMINEN..."
+cd_multi_MSG17="PALTTAVA CD-KUVA..."
+cd_multi_MSG18="CD MULTI-SESSION MENU"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="AUDIO-CD:N RIPPUS..."
+copia_cd_audio_MSG2="Käynnissä"
+copia_cd_audio_MSG3="AUDIORAIDAT ONNISTUVAT!!"
+copia_cd_audio_MSG4="VIRHE ÄÄNIRAIDOJEN RIPISTETESSÄ"
+copia_cd_audio_MSG5="POLTTO-CD..."
+copia_cd_audio_MSG6="AUDIO-CD KOPIOINTI ONNISTUSTI!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav tiedostot poltettavat CD:lle"
+wav_a_cd_MSG2="Linux-cdgrab ei tarkista hakemiston kokoa"
+wav_a_cd_MSG3="Varmista, että se ei ole suurempi kuin 650 Mt siinä tapauksessa"
+wav_a_cd_MSG4="jos käytät 80 minuutin CD levyä."
+wav_a_cd_MSG5="Anna .wav tiedostojen hakemistopolku"
+wav_a_cd_MSG6="käynnissä"
+wav_a_cd_MSG7="PROSESSI VALMIS!"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Mixton luontiprojekti (Data Image .iso + äänitiedostot .wav)"
+cdmixto_MSG2="Linux-cdgrab ei tarkista hakemiston kokoa"
+cdmixto_MSG3="missä äänitiedostot ovat."
+cdmixto_MSG4="Se ei tee niin myöskään .iso kuvasta, jonka aiot tallentaa"
+cdmixto_MSG5="jälkeen."
+cdmixto_MSG6="Ole yhdenmukainen kokosi kanssa"
+cdmixto_MSG7="polta uudelle CD levyllesi."
+cdmixto_MSG8="Määritä äänitiedostojen polku:"
+cdmixto_MSG9="Määritä iso kuvan polku:"
+cdmixto_MSG10="##################################"
+cdmixto_MSG11="SEKKA-CD:N TALLENNUS: DATA + AUDIO"
+cdmixto_MSG12="käynnissä"
+cdmixto_MSG13="¡¡----ONNISTUSTI LUOTU MIXED CD-----!!"
+cdmixto_MSG14="------VIRHE SEKA-CD:N POLTAMISESSA--------"
+
+# discoinfo
+
+discoinfo_MSG1="käynnissä"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI portti skannattu"
+cdrecord_scan_MSG1="Virhe skannattaessa IDE/SCSI porttia"
+cdrecord_scan_MSG2="cdrecord ei löydy"

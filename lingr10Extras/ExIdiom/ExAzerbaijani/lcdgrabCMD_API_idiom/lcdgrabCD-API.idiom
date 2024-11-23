@@ -1,0 +1,184 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAzerbaijani/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Azerbaiyano para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="çalışır"
+copia_bin_MSG2="--------------YAZILIŞ PROSESİNİ YENİDƏN sınamaq ---------------"
+copia_bin_MSG3="	ŞƏKİL FAYLININ SİLİNMƏSİ"
+copia_bin_MSG4="QEYDDƏN BİR XƏTƏ BAŞ VERİB"
+copia_bin_MSG5="Disk .iso şəkil dump faylı tapılmadı. Qeydiyyat dayandırılır..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="çalışır"
+datos_al_vuelo_MSG2="Qeyd etmə cəhdində xəta baş verdi, həddindən artıq yanma dəstəyi olmadan yenidən cəhd edilir"
+datos_al_vuelo_MSG3="Mənbə diski və ya cihazı yoxlayın"
+datos_al_vuelo_MSG4="yaxşı vəziyyətdədir"
+datos_al_vuelo_MSG5="Mənbə diskindən çıxış blok nömrəsi əldə edilir"
+datos_al_vuelo_MSG6="DİSK KOPYALANIR..."
+
+# clonar_cd
+
+clonar_cd_MSG1="çalışır"
+clonar_cd_MSG2="CD UĞURLA Klonlandı"
+clonar_cd_MSG3="CD-NİN KLONLANMASI zamanı XƏT OLSUN"
+
+# datos
+
+datos_MSG1=".iso şəklini yaratmaq üçün fayllar və qovluqlar"
+datos_MSG2="CD/DVD/BD LABEL"
+datos_MSG3="Gələcək CD/DVD/BD üçün ad daxil edin:"
+datos_MSG4="Fayl menecerinin işə salınması:"
+datos_MSG5=" ŞƏKİL YARADIR..."
+datos_MSG6="çalışır"
+datos_MSG7="ISO-9660 ŞƏKİL YARADILDI"
+datos_MSG8="YANMA CD/DVD/BD"
+datos_MSG9="ŞƏKİL FAYLININ YARADILMASI PROSESİ UĞURLU OLDU"
+datos_MSG10="HFS (Macintosh) ÜÇÜN DƏSTƏK OLMADAN YENİ YARATMAĞA TƏKRAR EDİLİR"
+datos_MSG11="ŞƏKİL SİLİNİR..."
+datos_MSG12="YENİ ŞƏKİL YARADILIR..."
+datos_MSG13="DOĞRU QEYD ETMƏK MÜMKÜN OLMADI"
+datos_MSG14="----------YAZILIŞ PROSESİNİ YENİDƏN SINIRLAMAQ----------"
+datos_MSG15="ŞƏKİLİ SİL..."
+datos_MSG16="ISO-9660 DATA CD/DVD/BD YAZILIR..."
+datos_MSG17="Tapılmadı."
+datos_MSG18="Disk qeydi dayandırılır..."
+
+# datoslb
+
+datoslb_MSG1="Xəta: Şəkil faylı tapılmadı. Qəbul edilir..."
+datoslb_MSG2="YAZILIŞ PROSESİ OK"
+datoslb_MSG3="YAZILIŞ PROSESİNDƏ XƏTA"
+
+# borra
+
+borra_MSG0="Əvvəlki menyu"
+borra_MSG1="CD-RW-ni silmək üçün rejimi seçin"
+borra_MSG2="---------------------------------"
+borra_MSG3="Tez silin (cdrecord istifadə edin)"
+borra_MSG4="Tamamla silin (cdrecord istifadə edin)"
+borra_MSG5="Silinmə tələb olunur (cdrskin istifadə edin)"
+borra_MSG6="çalışır"
+borra_MSG7="Disk statusundan asılı olaraq lazımi formatlaşdırma və ya silinmə tətbiq edilir"
+borra_MSG8="CD-RW UĞURLA SİLİNDİ!!"
+borra_MSG9="CD-RW SİLƏNDƏ XƏTA"
+borra_MSG10="CD-RW SİLMƏYƏ MƏCBUR EDİN"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="CD-RW-Nİ SİLMƏK ZAMANI XƏTA"
+err_borra_cdrw_MSG2="CD-RW İSTİFADƏSİZDİR"
+err_borra_cdrw_MSG3="BU CD-RW-Nİ SİLMƏK MÜMKÜN DEYİL"
+err_borra_cdrw_MSG4="CD-RW-DƏ FİZİKİ ZƏRƏRLƏRİ YOXLAYIN"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="ejecutando"
+cerrar_cd_MSG2="EL CD SE HA CERRADO CORRECTAMENTE"
+cerrar_cd_MSG3="ERROR AL CERRAR EL CD"
+cerrar_cd_MSG4="CERRANDO PISTA EN CD DE DATOS . . ."
+
+# grabimg
+
+grabimg_MSG1=".iso və ya .ext2 şəkli CD/DVD-yə yazdırmaq üçün"
+grabimg_MSG2="Fayl menecerinin işə salınması."
+grabimg_MSG3="Yazmaq istədiyiniz CD/DVD şəklinin yerləşdiyi tam yolu yazın:"
+grabimg_MSG4="çalışır"
+grabimg_MSG5="-----------QEYD EDİLMƏ PROSESİNİ YENİDƏN sınamaq-----------"
+grabimg_MSG6="YAZILIŞ TAMAMLANDI!!"
+grabimg_MSG7="Şəkil .EXT2 Uğurla QEYD OLUNUB"
+
+# grabimglb
+
+grabimglb_MSG1="Yazmaq istədiyiniz CD/DVD şəklinin yerləşdiyi tam yolu yazın:"
+grabimglb_MSG2="Şəkil diskə yandırılır..."
+grabimglb_MSG3="ISO-9660 ŞƏKİL UĞURLU QEYD EDİLDİ"
+grabimglb_MSG4="ISO-9660 ŞƏKİLİN QEYD EDİLMƏSİNDƏ XƏTƏ"
+grabimglb_MSG5="Xəta: Şəkil faylı tapılmadı. Qəbul edilir..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin və .cue faylları şəkli qeyd etmək üçün"
+grabimg_cue_MSG2="Zəbə/cue şəklini yazmaq üçün hər iki fayl olmalıdır"
+grabimg_cue_MSG3="aktiv kataloqda olun."
+grabimg_cue_MSG4="Cari aktiv kataloq"
+grabimg_cue_MSG5="*.bin şəkil faylına istinad edən *.cue faylının adını daxil edin"
+grabimg_cue_MSG6=".cue faylı: "
+grabimg_cue_MSG7="çalışır"
+grabimg_cue_MSG8="YAZILIŞ TAMAMLANDI!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1=".iso şəklindən Multisessiya CD-sini yandırın"
+cd_multi_MSG2="Birinci seansı .iso şəklindən CD-yə yazın"
+cd_multi_MSG3="Diskdəki fayllardan Multisessiya CD-sini yandırın"
+cd_multi_MSG4="Sərt diskdəki fayllardan CD-yə ardıcıl seansları qeyd edin"
+cd_multi_MSG5="Bu seçim əvvəllər qeydə alınmış sessiya ilə çox seanslı CD tələb edir."
+cd_multi_MSG6="Əvvəlki menyu"
+cd_multi_MSG7=".iso şəkli CD-Multi-sessiyaya yazmaq üçün"
+cd_multi_MSG8=".iso şəklinin yolunu göstərin"
+cd_multi_MSG9="çalışır"
+cd_multi_MSG10="ÇOX SESSİYA CD UĞURLA QEYD EDİLDİ!!"
+cd_multi_MSG11="Şəkilə daxil ediləcək kataloqlar."
+cd_multi_MSG12="Aşağıda hansı kataloqların daxil ediləcəyini göstərin"
+cd_multi_MSG13="CD etiketi üçün ad daxil edin:"
+cd_multi_MSG14="Şəkil YARADIR..."
+cd_multi_MSG15="UĞURLA YARADILDI"
+cd_multi_MSG16="ŞƏKİLLƏR YARADAN HƏTƏ. QEYD PROSESİNDƏN SONRA..."
+cd_multi_MSG17="CD ŞƏKİLİ YAZILIR..."
+cd_multi_MSG18="CD MULTI-SESSİYA MENUSİ"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="AUDİO CD YÜKLƏNİR..."
+copia_cd_audio_MSG2="İşləyir"
+copia_cd_audio_MSG3="AUDIO TREKLƏR UĞURLA YARILDI!!"
+copia_cd_audio_MSG4="AUDİO TREKLƏRİ YÜKLƏNDƏN XƏTA"
+copia_cd_audio_MSG5="AUDİO CD YANIR..."
+copia_cd_audio_MSG6="AUDIO CD UĞURLA KOPYALANIB!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav faylları CD-yə yazmaq üçün"
+wav_a_cd_MSG2="Linux-cdgrab kataloq ölçüsünü yoxlamayacaq"
+wav_a_cd_MSG3="650 Mbaytdan çox olmadığına əmin olun"
+wav_a_cd_MSG4="80 dəqiqəlik CD istifadə edirsinizsə."
+wav_a_cd_MSG5=".wav fayllarının kataloq yolunu daxil edin"
+wav_a_cd_MSG6="çalışır"
+wav_a_cd_MSG7=" PROSES TAMAMLANDI!"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Mixto yaradılması layihəsi (Data Şəkil .iso + Audio Fayllar .wav)"
+cdmixto_MSG2="Linux-cdgrab kataloqun ölçüsünü yoxlamayacaq"
+cdmixto_MSG3="audio faylları haradadır."
+cdmixto_MSG4="Yəzmək istədiyiniz .iso görüntüsündən də bunu etməyəcək"
+cdmixto_MSG5="sonra."
+cdmixto_MSG6="Mövcud ölçüyə uyğun olun"
+cdmixto_MSG7="yeni CD-nizə yazın."
+cdmixto_MSG8="Audio faylların yolunu göstərin:"
+cdmixto_MSG9="İzo şəkil yolunu göstərin:"
+cdmixto_MSG10="#############################################"
+cdmixto_MSG11="QARışıq CD-nin QEYD EDİLMƏSİ: MƏLUMAT + AUDİO"
+cdmixto_MSG12="çalışır"
+cdmixto_MSG13="----QARIŞIQ-CD UĞURLU YARADILDI-----!!"
+cdmixto_MSG14="-----QARŞIQ CD-CD YANDIQDA XƏT -------"
+
+# discoinfo
+
+discoinfo_MSG1="qaçış"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI portu skan edilib"
+cdrecord_scan_MSG1="IDE/SCSI portunu skan edərkən xəta"
+cdrecord_scan_MSG2="cdrecord tapılmadı"
+

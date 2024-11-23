@@ -1,0 +1,35 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAzerbaijani/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Azerbaiyano para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Fayllar /tmp"
+dir_tmp_MSG2="Bütün şəkilləri və sıxılmış faylları silin"
+dir_tmp_MSG3="Digər əməliyyatlar üçün fayl menecerini işə salın"
+dir_tmp_MSG4="Şəkili quraşdırın və ya ayırın"
+dir_tmp_MSG5="Şəkil yaratma menyusunu göstər"
+dir_tmp_MSG6="Şəkil qeyd seçimlərini göstər"
+dir_tmp_MSG7="Əvvəlki menyu"
+dir_tmp_MSG8="MÖVCUD FAYLLARIN SİYAHISI"
+dir_tmp_MSG9="SEÇİN:"
+dir_tmp_MSG10="SİLİNMİŞ ŞƏKİLLƏR VƏ FAYLLAR"
+dir_tmp_MSG11="Şəkili quraşdırın."
+dir_tmp_MSG12="Şəkili ayırın."
+dir_tmp_MSG13="Şəkli CD-yə yaz"
+dir_tmp_MSG14="Şəkli DVD-yə yazdır"
+dir_tmp_MSG14B="Şəkli BD-yə yazdır"
+dir_tmp_MSG15="Qeydiyyat mühitinə uyğun seçim seçin"
+dir_tmp_MSG16="Fayl KONFİQURASİYA FAYLINI TAPMADI"
+dir_tmp_MSG17="Qeydiyyat prosesi dayandırılır"
+dir_tmp_MSG18="Yandırmaq üçün .iso faylını təyin edin"
+dir_tmp_MSG19="Şəkil yolunu daxil edin: "
+
+

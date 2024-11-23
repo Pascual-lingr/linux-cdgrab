@@ -1,0 +1,32 @@
+# Idioma Tayiko para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Барои идома додан ENTER-ро пахш кунед..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="======================================"
+cabecera_lightscribe_MSG2="ДАСТГИРИИ LIGHTSCRIBE LINUX-CDGRAB 1.0"
+cabecera_lightscribe_MSG3="======================================"
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Роҳеро, ки мехоҳед дар диск чоп кунед, нависед:"
+imprimir_disco_lightscribe_MSG2="Формати тасвир бояд .bmp бошад"
+imprimir_disco_lightscribe_MSG3="давидан"
+imprimir_disco_lightscribe_MSG4="Таблик дар диск чоп шудааст"
+imprimir_disco_lightscribe_MSG5="Хато дар чопи тамғакоғаз ба диск"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="Технологияи LightScribe танҳо дар баъзе қисмҳо мавҷуд аст"
+lingr10lightscribepatch_MSG2="Шумо бояд санҷед, ки сабткунандаи шумо онро дорад ё на."
+lingr10lightscribepatch_MSG3="Ба ҳамин монанд, танҳо CD ё DVD-ҳои махсусро барои LightScribe нишон додан мумкин аст"
+lingr10lightscribepatch_MSG4="Чоп кардани диски LightScribe"
+lingr10lightscribepatch_MSG5="Менюи қаблӣ"
+lingr10lightscribepatch_MSG6="Варианти нодуруст"
+

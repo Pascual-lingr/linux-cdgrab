@@ -1,0 +1,282 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAzerbaijani/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Azerbaiyano para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux-cdgrab konfiqurasiyası"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Əgər siz hansı IDE kanalına aid olduğunu bilmirsinizsə" 
+ayuda_IDE_MSG2="yazıcınız t hərfinə basaraq öyrənə bilər."
+ayuda_IDE_MSG3="IDE kanalının nümunəsi 0,0,0 və ya 0,1,0 ola bilər"
+ayuda_IDE_MSG4="Siz həmçinin uyğun cihazı təyin edə bilərsiniz"
+ayuda_IDE_MSG5="yazıcınıza. Əgər onun hansı olduğunu dəqiq bilmirsinizsə, d düyməsini basın,"
+ayuda_IDE_MSG6="/etc/fstab faylında qeydiyyatdan keçmiş cihazlara baxmaq üçün"
+ayuda_IDE_MSG7="Cihazlara misal olaraq /dev/hdd, /dev/hde və s. ola bilər."
+ayuda_IDE_MSG8="İstəsəniz, siz də daxil olan bütün cihazları sadalaya bilərsiniz"
+ayuda_IDE_MSG9="l hərfinə basaraq /dev qovluğunda."
+ayuda_IDE_MSG10="Siz IDE kanalını və ya qeyd cihazını göstərməlisiniz"
+ayuda_IDE_MSG11="lakin hər ikisi deyil."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab sisteminizdən silindi"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Qeydiyyat sürəti"
+imprimir_variables_MSG2="IDE/SCSI kanalı və ya qeyd cihazı"
+imprimir_variables_MSG3="CD-ROM, DVD-ROM və ya BD-ROM oxuyucusu"
+imprimir_variables_MSG4="ATAPI Cihazı"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Qeyd etmə sürəti"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI kanalı və ya qeyd cihazı"
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM və ya BD-ROM oxuyucusu"
+imprimir_lcdgrabcfg_MSG4="ATAPI Cihazı"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Quraşdırılıb"
+chequeo_de_aplicaciones_MSG2="QURULMUŞDUR"
+chequeo_de_aplicaciones_MSG3="Quraşdır"
+chequeo_de_aplicaciones_MSG4="VACİB:"
+chequeo_de_aplicaciones_MSG5="Lazımi alətlərin quraşdırılması Linux-cdgrab tamamilə işləyəcək"
+chequeo_de_aplicaciones_MSG6="Linux-cdgrab-ın ehtiyac duyduğu bütün proqramlar sisteminizdə quraşdırılıb"
+chequeo_de_aplicaciones_MSG4B="DİQQƏT:"
+chequeo_de_aplicaciones_MSG5B="İtkin alətlər tapıldı"
+chequeo_de_aplicaciones_MSG6B="Sistemdə quraşdırılmış alətlər"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 defolt olaraq bu dəyişənə təyin edilib"
+msgdefCANALATAPI_MSG2="Konfiqurasiya faylı CANALATAPI = 0,0,0 ilə yazılacaq"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Linux-cdgrab tərəfindən avtomatik olaraq yaradılan konfiqurasiya faylı."
+nuevo_lcdgrabcfg_MSG5="sistemdə cdrecord tapılmadı"
+nuevo_lcdgrabcfg_MSG6="Cdrtools paketini quraşdırın."
+nuevo_lcdgrabcfg_MSG7="Siz dəyərləri qeyd etməklə konfiqurasiyaya davam edə bilərsiniz"
+nuevo_lcdgrabcfg_MSG8="əgər onları əvvəllər tanıyırsınızsa, qeyd edin."
+nuevo_lcdgrabcfg_MSG9="Cdrecord əmri CD, DVD və BD disklərinin yazılmasında istifadə olunur"
+nuevo_lcdgrabcfg_MSG10="Sözügedən paket quraşdırılana qədər bu seçimlər işlək olmayacaq."
+nuevo_lcdgrabcfg_MSG11="İndiki sürücünün skan aləti də işlək olmayacaq"
+nuevo_lcdgrabcfg_MSG12="bu konfiqurasiya sehrbazında."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab aşağıdakı dörd addımda konfiqurasiya edilməlidir"
+nuevo_lcdgrabcfg_MSG14="Birinci addım."
+nuevo_lcdgrabcfg_MSG15="Qeyd etmə sürəti"
+nuevo_lcdgrabcfg_MSG16="Yalnız bir ədəd 2,4,8,16,32... və s."
+nuevo_lcdgrabcfg_MSG17="İkinci addım."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI kanalı və ya qeyd cihazı:"
+nuevo_lcdgrabcfg_MSG19="A -> kömək"
+nuevo_lcdgrabcfg_MSG20="Skan edilir..."
+nuevo_lcdgrabcfg_MSG21="IDE/SCSI portunu skan edərkən xəta"
+nuevo_lcdgrabcfg_MSG22="Cdrecord tapılmadı"
+nuevo_lcdgrabcfg_MSG23="Üçüncü addım."
+nuevo_lcdgrabcfg_MSG24="CD-ROM, DVD-ROM və ya BD-ROM cihazı"
+nuevo_lcdgrabcfg_MSG25="L -> Mövcud cihazların siyahısı"
+nuevo_lcdgrabcfg_MSG26="Skan edilir..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI portu skan edilib"
+nuevo_lcdgrabcfg_MSG28="Çox seanslı qeydlərdə dev=ATAPI vasitəsilə cdrecord tərəfindən istifadə ediləcək cihaz"
+nuevo_lcdgrabcfg_MSG30="Cihazın 0,0,0 və ya 1,0,0 və s. kimi nomenklaturası var"
+nuevo_lcdgrabcfg_MSG31="Çox seanslı CD-lərdə cdrecord zəng etmək üçün cihazı göstərin: "
+nuevo_lcdgrabcfg_MSG32="CANALATAPI üçün konfiqurasiya düzgün deyil"
+nuevo_lcdgrabcfg_MSG33="IDE/SCSI portunu skan edərkən xəta"
+nuevo_lcdgrabcfg_MSG34="Cdrecord tapılmadı"
+nuevo_lcdgrabcfg_MSG36="Linux-cdgrab tərəfindən avtomatik yaradılan konfiqurasiya faylı."
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB QURULMASI TAMAMLANDI"
+
+# colores
+
+colores_MSG1="Rənglərin siyahısını tapmaq mümkün deyil"
+colores_MSG2="Defolt rənglər yüklənir"
+colores_MSG3="LINUX-CDGRAB interfeysi üçün yeni rəng sxemi seçin"
+colores_MSG4="QARA Şrift"
+colores_MSG5="STANDART PARLAK Şrift"
+colores_MSG6="QARA FON RƏNGİ"
+colores_MSG7="QIRMIZI Şrift"
+colores_MSG8="PARLAK QARA Şrift"
+colores_MSG9="QIRMIZI FON RƏNGİ"
+colores_MSG10="Yaşıl font"
+colores_MSG11="PARLAK QIRMIZI FƏVVƏN"
+colores_MSG12="YAŞIL ARKA RƏNG"
+colores_MSG13="SARI Şrift"
+colores_MSG14="PARLAK YAŞIL Şrift"
+colores_MSG15="NARINCI FON RƏNGİ"
+colores_MSG16="MAVİ Şrift"
+colores_MSG17="PARLAK SARI Şrift"
+colores_MSG18="GÖV FON RƏNGİ"
+colores_MSG19="MAGENTA Şrift"
+colores_MSG20="PARLAK MAVİ Şrift"
+colores_MSG21="MAGENTA FON RƏNGİ"
+colores_MSG22="CYAN MƏNBƏSİ"
+colores_MSG23="PARLAK MAGENTA Şrift"
+colores_MSG24="CYAN ARKA RƏNGİ"
+colores_MSG25="BOZ Şrift"
+colores_MSG26="CYAN ARKA RƏNGİ"
+colores_MSG27="PARLAK CYAN Şrift"
+colores_MSG28="BOZ ARKA RƏNG"
+colores_MSG29="DEFAULT MƏNBƏ"
+colores_MSG30="PARLAK AĞ Şrift"
+colores_MSG31="DEFAULT ARKA RƏNG"
+colores_MSG32="Şrift üçün rəng nömrəsi: "
+colores_MSG33="Arxa fon üçün rəng nömrəsi: "
+colores_MSG34="Xəbərdarlıq mesajları üçün rəng nömrəsi: "
+colores_MSG35="Etiket mesajları üçün rəng nömrəsi: "
+colores_MSG36="Uğurla tamamlanan proseslər üçün rəng nömrəsi"
+colores_MSG37="Xəta ilə dayandırılmış proseslər üçün rəng nömrəsi: "
+colores_MSG38="LINUX-CDGRAB üçün yeni sxem"
+colores_MSG39="ÜMUMİ Şrift Rəngi"
+colores_MSG40="ETİKET"
+colores_MSG41="BİLDİRİŞLƏR"
+colores_MSG42="UĞUR"
+colores_MSG43="SƏHV"
+colores_MSG44="ARQ PLAN RƏNGİ"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="Mövcud Rənglərin SİYAHISI:"
+cambiar_esquema_de_color_MSG2="#####Rəng sxemləri#######"
+cambiar_esquema_de_color_MSG3="-------------------------"
+cambiar_esquema_de_color_MSG4="Rəng menyusu"
+cambiar_esquema_de_color_MSG5="Uğursuzdur"
+cambiar_esquema_de_color_MSG6="Etiketlər"
+cambiar_esquema_de_color_MSG6b="Bildirişlər"
+cambiar_esquema_de_color_MSG7="Rəng menyusu OK Uğursuzluq Xəbərdarlığı Etiketləri"
+cambiar_esquema_de_color_MSG8="Yeni rəngin nömrəsini daxil edin:"
+cambiar_esquema_de_color_MSG9="YANLIŞ SEÇİM"
+cambiar_esquema_de_color_MSG10="DEFORTA RƏNGLƏRİN AYARLANMASI."
+cambiar_esquema_de_color_MSG11="  BACKGROUND = BLUE_BACKGROUND"
+cambiar_esquema_de_color_MSG12="  Şrift = PARLAK AĞ"
+cambiar_esquema_de_color_MSG13="  XƏBƏRDARLIQLAR = PARLAK SARI"
+cambiar_esquema_de_color_MSG14="  XƏTALAR = PARLAK QIRMIZI"
+cambiar_esquema_de_color_MSG15="  XƏTALAR = PARLAK QIRMIZI"
+cambiar_esquema_de_color_MSG16="  HITS = PARLAK YAŞIL"
+cambiar_esquema_de_color_MSG17="  ETİKETLER = PARLAK CYAN"
+
+# cambia_lector
+
+cambia_lector_MSG1="OPTİK BÖLGƏLƏR ÜÇÜN MÜHİT PARAMETLƏRİ"
+cambia_lector_MSG2="CD-ROM, DVD-ROM və ya BD-ROM ilə əlaqəli cari cihaz"
+cambia_lector_MSG3="CD/DVD/BD Burner ilə əlaqəli cari cihaz"
+cambia_lector_MSG4="Dev=ATAPI parametri ilə əlaqəli cari cihaz"
+cambia_lector_MSG5="(cdrecord üçün çox seans dəstəyi)"
+cambia_lector_MSG6="Dəyişiklik ediləcək cihazı seçin."
+cambia_lector_MSG7="Seçim daxil edin:"
+cambia_lector_MSG8="Yeni cihazın adını daxil edin"
+cambia_lector_MSG9="blok cihazına uyğun gəlmir"
+cambia_reader_MSG10="Cihaz"
+cambia_lector_MSG11="defolt olaraq təyin olunur"
+cambia_lector_MSG12="Yeni cihaz:"
+cambia_lector_MSG13="Cdrecord-un bütün versiyaları blok cihazını qeyd parametri kimi qəbul etmir"
+cambia_reader_MSG14="Yeni ATAPI cihazının adını daxil edin"
+cambia_lector_MSG15="CANALATAPI üçün konfiqurasiya düzgün deyil"
+cambia_lector_MSG16="0,0,0 defolt olaraq bu dəyişənə təyin edilib"
+cambia_lector_MSG17="Konfiqurasiya faylı CANALATAPI = 0,0,0 ilə yazılacaq"
+cambia_lector_MSG18="Yeni cihaz:"
+cambia_lector_MSG19="CİHAZLARDA HEÇ BİR DƏYİŞİKLİK EDİLMİR"
+cambia_lector_MSG4B="Dəyərləri konfiqurasiya faylından ixrac et"
+cambia_lector_MSG4C="BU DƏYƏRLƏR ƏTRAF MÜHİTƏ HESABAT VERİLİB:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Bu menyudan siz hansı utiliti seçə bilərsiniz"
+cambia_generador_isocd_MSG2="ISO-9660 şəkillərini yaratmaq üçün istifadə olunacaq"
+cambia_generador_isocd_MSG3="oxu vahidindəki mövcud CDS-dən."
+cambia_generador_isocd_MSG4="Cari konfiqurasiya:"
+cambia_generador_isocd_MSG5="Dd istifadə edin (GNU coreutils komponenti)"
+cambia_generador_isocd_MSG6="Readcd istifadə edin (cdrtools komponenti)"
+cambia_generador_isocd_MSG7="Əvvəlki menyu."
+cambia_generador_isocd_MSG8="Seçim seçin:"
+cambia_generador_isocd_MSG9="Dd-nin izo generator kimi istifadə edilməsi."
+cambia_generador_isocd_MSG10="Readcd-nin izo generator kimi istifadə edilməsi."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Rok Ridc və Joliet ilə birlikdə HFS metadatasını təyin edin"
+establecer_hfs_iso_MSG2="Yalnız Rock Ridge və Joliet metadatasından istifadə edin"
+establecer_hfs_iso_MSG3="Əvvəlki menyu."
+establecer_hfs_iso_MSG4="Seçim seçin:"
+establecer_hfs_iso_MSG5="HFS, Rock Ridge və Joliet metadatasından istifadə etməklə"
+establecer_hfs_iso_MSG6="Rok Ridge və Joliet metadatasından istifadə"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Cari bildiriş sistemi"
+cambia_notificaciones_MSG2A="GNOME Qrafik İnterfeys"
+cambia_notificaciones_MSG2B="KDE Qrafik İnterfeys"
+cambia_notificaciones_MSG2="Ncurses ilə interfeys"
+cambia_notificaciones_MSG3="Mətn interfeysi"
+cambia_notificaciones_MSG4="Çıx"
+cambia_notificaciones_MSG5="Seçim seçin:"
+cambia_notificaciones_MSG6="Dialoqla interfeysdən istifadə"
+cambia_notidicaciones_MSG6B="Zenity ilə interfeysdən istifadə"
+cambia_notidicaciones_MSG6C="kdialoq ilə interfeysdən istifadə"
+cambia_notificaciones_MSG7="Dialoq əmri tapılmadı"
+cambia_notificaciones_MSG8="Mətn interfeysindən istifadə"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="İstifadə olunan dil:"
+cambiar_idioma_UI_MSG1="Hazırda Mövcud Dillər:"
+cambiar_idioma_UI_MSG2="İstifadə olunacaq dilin adını daxil edin"
+cambiar_idioma_UI_MSG3="tətbiq interfeysində:"
+cambiar_idioma_UI_MSG4="İstifadə olunan yeni dil:"
+cambiar_idioma_UI_MSG5="LINUX-CDGRAB-ı yenidən başladın"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Cari konfiqurasiya"
+seleccion_gestor_archivos_MSG2="Mc istifadə et"
+seleccion_gestor_archivos_MSG3="İnteqrasiya edilmiş mətn menecerindən istifadə edin"
+seleccion_gestor_archivos_MSG4="sistemdə quraşdırılmış mc tapılmadı"
+seleccion_gestor_archivos_MSG5="Defolt olaraq inteqrasiya olunmuş mətn menecerindən istifadə"
+seleccion_gestor_archivos_MSG6="mc yardım proqramı"
+seleccion_gestor_archivos_MSG7="İnteqrasiya edilmiş mətn"
+
+# centro_de_control
+
+centro_de_control_MSG1="NƏZARƏT MƏRKƏZİ"
+centro_de_control_MSG2="Yeni Konfiqurasiya"
+centro_de_control_MSG3="Konfiqurasiya faylını silin"
+centro_de_control_MSG4="Cari konfiqurasiya faylını və dəyərlərini göstər"
+centro_de_control_MSG5="KONFIQURASİYA FAYL DƏYƏRLƏRİ:"
+centro_de_control_MSG5B="Ətraf mühitdə istifadə olunan cari konfiqurasiya:"
+centro_de_control_MSG6="Optik medianı dəyiş"
+centro_de_control_MSG7="Quraşdırılmış proqramları yoxlayın"
+centro_de_control_MSG8="Cdrecord ilə IDE/SCSI portunu skan edin"
+centro_de_control_MSG8C="Cdrskin ilə IDE/SCSI portunu skan edin"
+centro_de_control_MSG8B="Cdrskin ilə sistemdə quraşdırılmış vahidlərin siyahısı"
+centro_de_control_MSG9="CD-dən iso yaradan yardım proqramını dəyişdir"
+centro_de_control_MSG9B="iso-9660 üçün HFS metadatasını təyin edin"
+centro_de_control_MSG10="İstifadəçi interfeysini dəyiş"
+centro_de_control_MSG10b="Rəng dəyişdir"
+centro_de_control_MSG10c="İnterfeys dilini dəyişdir"
+centro_de_control_MSG11="Fayl menecerini dəyiş"
+centro_de_control_MSG11B="Proqramı sil"
+centro_de_control_MSG12="Seçim daxil edin: "
+centro_de_control_MSG13="KONFIQURASİYA FAYI MÖVCUD DEYİL"
+centro_de_control_MSG14="konfiqurasiya faylı tapılmadı"
+centro_de_control_MSG15="Skan olunur"
+centro_de_control_MSG16="IDE/SCSI portu skan edilib"
+centro_de_control_MSG17="IDE/SCSI portunu skan edərkən xəta"
+centro_de_control_MSG18="Rəng sxemi seçin"
+centro_de_control_MSG19="Rəngləri özbaşına seçin"
+centro_de_control_MSG20="Əvvəlki menyu"
+centro_de_control_MSG21="Seçim daxil edin: "
+centro_de_control_MSG22="KONFIQURASİYA FAYI Mövcud DEYİL"
+centro_de_control_MSG23="konfiqurasiya faylı tapılmadı"
+centro_de_control_MSG24="Rəng sxemi seçin"
+centro_de_control_MSG25="Rəngləri özbaşına seçin"
+centro_de_control_MSG26="Yanlış seçim"
+

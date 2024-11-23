@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Tibetano, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab ཡིས་vi ཡི་གེ་རྩོམ་སྒྲིག་ཆས་རྙེད་མི་ཐུབ།"
+ayuda_MSG2="ཁྱེད་རང་གི་མ་ལག་ནང་སྒྲིག་འཇུག་བྱས་པའི་ཡི་གེ་རྩོམ་སྒྲིག་པ་ཞིག་གི་མིང་ནང་འཇུག་བྱོས།"
+ayuda_MSG3="སྒྲིག་འཇུག་བྱས་པའི་རྩོམ་སྒྲིག་པ་མ་རྙེད།"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="LINUX-CDGRAB 1.0 གིས་རང་འགུལ་གྱིས་བཟོས་པའི་ཡིག་ཆ།"
+creacion_de_mnt_MSG2="ཡིག་ཆ་འདི་སྣོད་ཐོ་དང་མཉམ་དུ་ཡོད།"
+creacion_de_mnt_MSG3="རང་འགུལ་གྱིས་བཟོས་ཟིན།"
+creacion_de_mnt_MSG4="ཁྱེད་ཀྱི་ལི་ནགསི་བགོ་འགྲེམས་ནང་མེད་པ་བདེན་དཔང་བྱེད་སྐབས་ལི་ནགསི་-cdgrab མཉེན་ཆས་ཀྱིས།"
+creacion_de_mnt_MSG5="སྣོད་ཐོ།"
+creacion_de_mnt_MSG6="Linux-cdgrab ཡིས་སྣོད་ཐོ་འདི་བེད་སྤྱད་དེ་དེའི་CD-ROM/DVD-ROM/BD-ROM སྒུལ་ཆས་སྒྲིག་འཇུག་བྱེད།"
+creacion_de_mnt_MSG7="སྣོད་ཐོ།"
+creacion_de_mnt_MSG8="གལ་ཏེ་Linux-cdgrab མེད་པར་བཟོས་ན་དེ་བསུབས་མི་སྲིད། གང་ཡིན་ཟེར་ན་དེ་ནི་རྒྱུན་དུ་ཡིན།"
+creacion_de_mnt_MSG9="ལི་ནགསི་བཀྲམ་སྤེལ་མང་ཆེ་བའི་སྟེང་དུ་/dev/cdrom ཡི་སྔོན་སྒྲིག་སྒྲིག་འཇུག་ས་ཚིགས།"
+creacion_de_mnt_MSG10="གལ་ཏེ་ཁྱེད་ཀྱི་བགོ་འགྲེམས་ཀྱིས་སྒྲིག་ཆས་ /dev/cdrom སྒྲིག་འཇུག་བྱེད་པར་སྣོད་ཐོ་གཞན་ཞིག་བེད་སྤྱོད་བྱེད་ན།"
+creacion_de_mnt_MSG11="དེས་ཁྱེད་ཀྱི་ཆ་ཤས་ཐོག་གི་གཞི་གྲངས་ལ་འཛུལ་སྤྱོད་བྱེད་པར་འབད་སྐབས་མི་མཐུན་པ་གང་ཡང་བཟོ་མི་སྲིད།"
+creacion_de_mnt_MSG12="གལ་ཏེ་ལི་ནགསི་-cdgrab མེད་པར་བཟོས་ཡོད་ན་ཁྱེད་རང་གིས་མེད་པར་བྱེད་ཐུབ།"
+creacion_de_mnt_MSG13="ཡིག་ཆ་འདིའི་དམིགས་ཡུལ་ནི་གནས་ཚུལ་ཁོ་ནའི་ཆེད་དུ་ཡིན་པས་ཁྱེད་ཀྱིས་འདི་ཀློག་ཚར་རྗེས་རང་མོས་ངང་སུབ་ཐུབ།"
+
+# creditos
+
+creditos_MSG1="GPL v2ཆོག་མཆན་འོག་བཀྲམ་སྤེལ།"
+creditos_MSG2="གནས་ཚུལ་མང་བ་ www.gnu.org ནང་ཡོད།"
+creditos_MSG3="Pascual Martínez Cruz, བཟོ་མཁན་དང་རྒྱུན་འཛིན་པ།"
+creditos_MSG4="ནོར་འཁྲུལ་གྱི་སྙན་ཞུ། pascual89@hotmail.com"
+creditos_MSG5="ལས་རིམ་གྱི་དྲ་ཚིགས། www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="གཞིར་བཟུང་། LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="གློག་གསོག་པ།"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="ཚིག་སྦྱོར།"
+lcdgrab_sintaxis_MSG2="རོགས་རམ་འདི་པར་བཤུས།"
+lcdgrab_sintaxis_MSG3="ལི་ནགསི་ཐོན་རིམ་Linux-cdgrab པར་བཤུས།"
+lcdgrab_sintaxis_MSG4="IDE རྒྱུ་ལམ་ཡང་ན་སྒྲ་ཕབ་སྒྲིག་ཆས་གཏན་འཁེལ་བྱེད།"
+lcdgrab_sintaxis_MSG5="ཨོ།"
+lcdgrab_sintaxis_MSG6="སྒྲ་ཕབ་ཀྱི་མགྱོགས་ཚད་གཏན་འཁེལ་བྱེད།"
+lcdgrab_sintaxis_MSG7="CD-ROM/DVD-ROM/BD-ROM སྒུལ་ཆས་གཏན་འཁེལ་བྱེད།"
+lcdgrab_sintaxis_MSG8="སྒྲ་ཕབ་འཕྲུལ་ཆས་ཀྱི་ IDE ATAPI རྒྱུ་ལམ་གཏན་འཁེལ་བྱེད།"
+lcdgrab_sintaxis_MSG9=" -G -V -L དང་ -CA གདམ་ཁ་གཉིས་ཀྱིས་ཕན་ཚུན་བརྡ་སྟོན་གྱི་ཡོད།"
+lcdgrab_sintaxis_MSG9B=" -iut -ium -iug དང་ -iuk གདམ་ཁ་གཉིས་ཕན་ཚུན་རང་དབང་ཅན་ཡིན།"
+lcdgrab_sintaxis_MSG9C="-G -V -L དང་ -CA ལ་ཁ་གསབ་བྱེད་པ་དང་ -h དང་ -v དབར་གྱི་རང་དབང་ཅན་ཡིན།"
+lcdgrab_sintaxis_MSG10=" -h དང་ -v གདམ་ག་གཉིས་ཕན་ཚུན་དང་ལྷག་མ་གཉིས་ལ་རང་དབང་ཡོད།"
+lcdgrab_sintaxis_MSG11="དཔེར་བརྗོད།"
+lcdgrab_sintaxis_MSG12="འཕྲུལ་ཆས།"
+lcdgrab_sintaxis_MSG13="ཨང་གྲངས།"
+lcdgrab_sintaxis_MSG14="ཡི་གེའི་ངོས་འཛིན།"
+lcdgrab_sintaxis_MSG15="ncurses དང་མཉམ་དུ་ངོས་འདྲ་བ།"
+lcdgrab_sintaxis_MSG16="GTKདང་མཉམ་དུ་རི་མོའི་ངོས་འདྲ་བ།"
+lcdgrab_sintaxis_MSG17="Qt དང་མཉམ་དུ་རི་མོའི་ངོས་འཛིན།"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="ཡིག་གཟུགས་འགྲོ་ལམ་བླུགས།"
+main_lcdgrabopdep_MSG2="འགྲོ་ལམ་ནོར་འཁྲུལ་ཅན།"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="ཐིག་ཁྲམ་སྒྲིག་འཇུག་བྱས་ཟིན།"
+main_lcdgrabopdeppatch_MSG2="ཐིག་ཁྲམ་གྱི་འགྲོ་ལམ་ནང་འཇུག་བྱོས།"
+main_lcdgrabopdeppatch_MSG3="མ་རྙེད།"
+
+# menu principal dialog
+main_lcdgrabop9uidia="ཁ་སྣོན་གྱི་ཐིག་ལེ་ཞིག་ཡར་བསྐུར།"
+
+# menu principal texto
+
+main_lcdgrabop1_text="འོད་སྡེར་ལ་སྒྲ་འཇུག་བྱེད་པ།\t\t\t="
+main_lcdgrabop2_text="DVD སྒྲ་ཕབ།\t\t\t\t="
+main_lcdgrabop3_text="BD ཐོག་སྒྲ་ཕབ།\t\t\t\t="
+main_lcdgrabop4_text="ཌིསིཀ་སྒུལ་བྱེད་བཀོལ་སྤྱོད།\t\t\t="
+main_lcdgrabop5_text="པར་རིས་གསར་བཟོ།\t\t\t\t="
+main_lcdgrabop6_text="སྒྲ་བསྒྱུར།\t\t\t\t\t="
+main_lcdgrabop6b_text="བརྙན་འཕྲིན་བསྒྱུར།\t\t\t\t="
+main_lcdgrabop7_text="CD/DVD/BD བཙུགས་པའམ་ཡང་ན་བསྒྲིགས་མེད་པ།\t="
+main_lcdgrabop8_text="པར་རིས་སྒྲིག་པའམ་སྒྲིག་མེད་པ།\t\t\t="
+main_lcdgrabop9_text="ཁ་སྣོན་གྱི་ཐིག་ལེ་ཞིག་ཡར་བསྐུར།\t\t\t="
+main_lcdgrabop10_text="ཚོད་འཛིན་ལྟེ་གནས།\t\t\t\t="
+main_lcdgrabop0_text="ཕྱི་ལ་འགྲོ།\t\t\t\t\t="
+main_lcdgrabet1_text="གདམ་ག་གཞན། ##\t\t="
+main_lcdgrabopEe_text="སྒུལ་ཆས་ནས་སྲབ་འཁོར་བཏོན་དགོས།\t\t="
+main_lcdgrabopTD_text="སྣོད་ཐོ་སྟོན།"
+tabs="\t\t\t="
+main_lcdgrabopG_text="ཡིག་ཆ་དོ་དམ་པ།\t\t\t\t="
+main_lcdgrabopH_text="རོགས་པ\t\t\t\t="
+main_lcdgrabopA_text="ཉེ་སྐོར་དུ\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="འོད་སྡེར་ལ་སྒྲ་འཇུག་བྱེད་པ།"
+main_lcdgrabop2="DVD སྒྲ་ཕབ།"
+main_lcdgrabop3="BD ཐོག་སྒྲ་ཕབ།"
+main_lcdgrabop4="ཌིསིཀ་སྒུལ་བྱེད་བཀོལ་སྤྱོད།"
+main_lcdgrabop5="པར་རིས་གསར་བཟོ།"
+main_lcdgrabop6="སྒྲ་བསྒྱུར།"
+main_lcdgrabop6b="བརྙན་འཕྲིན་བསྒྱུར།"
+main_lcdgrabop7="CD/DVD/BD བཙུགས་པའམ་ཡང་ན་བསྒྲིགས་མེད་པ།"
+main_lcdgrabop8="པར་རིས་སྒྲིག་པའམ་སྒྲིག་མེད་པ།"
+main_lcdgrabop9="ཁ་སྣོན་གྱི་ཐིག་ལེ་ཞིག་ཡར་བསྐུར།"
+main_lcdgrabop10="ཚོད་འཛིན་ལྟེ་གནས།"
+main_lcdgrabop0="ཕྱི་ལ་འགྲོ།"
+main_lcdgrabet1="གདམ་ག་གཞན། ##"
+main_lcdgrabopEe="སྒུལ་ཆས་ནས་སྲབ་འཁོར་བཏོན་དགོས།"
+main_lcdgrabopTD="སྣོད་ཐོ་སྟོན།"
+main_lcdgrabopG="ཡིག་ཆ་དོ་དམ་པ།"
+main_lcdgrabopH="རོགས་པ"
+main_lcdgrabopA="ཉེ་སྐོར་དུ"
+main_lcdgrabopPRINCIPAL="གདམ་ཁ་ཞིག་ཡིག་དཔར་རྐྱབས།"
+MSG1_MAIN="H འདེམས་ན་གདམ་ཁའི་བེད་སྤྱོད་སྟོན་གྱི་ཡོད།"
+main_lcdgrabopA_MSG1="རྒྱུག་བཞིན་ཡོད།"
+

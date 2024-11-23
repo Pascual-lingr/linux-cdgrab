@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAzerbaijani/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Azerbaiyano para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 ŞƏKİL BLU-RAY ÜZRƏ DÜZGÜN QEYD EDİLMİŞDİR"
+grabar_ISO_BD_MSG2="BLU-RAY DİSKƏ ŞƏKİLİ QEYD EDƏN XƏTƏ"
+grabar_ISO_BD_MSG3="BS-də ISO-9660 ŞƏKİL"
+grabar_ISO_BD_MSG4="Yandırılacaq ISO-9660 şəklinin yolunu göstərin:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1=".iso şəklini yaratmaq üçün fayllar və kataloqlar"
+bd_datos_MSG2="DB LABEL"
+bd_datos_MSG3="Gələcək BD üçün ad daxil edin:"
+bd_datos_MSG4="Fayl menecerinin işə salınması:"
+bd_datos_MSG5=" ŞƏKİL YARADIR..."
+bd_datos_MSG6="çalışır"
+bd_datos_MSG7="ISO-9660 ŞƏKİL YARADILDI"
+bd_datos_MSG8="QEYD BD"
+bd_datos_MSG13="ŞƏKİL SİL..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Disk statusundan asılı olaraq lazımi formatlaşdırma və ya silinmə tətbiq edilir"
+borrar_BDRE_lb_MSG2="BD-RE Uğurla SİLİNDİ!!"
+borrar_BDRE_lb_MSG3="BD-RE SİLƏNDƏ XƏTA"
+

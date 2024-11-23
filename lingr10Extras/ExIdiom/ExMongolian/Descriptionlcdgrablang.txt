@@ -1,0 +1,21 @@
+Монгол
+
+Mongol. Mongolian.
+Experimental.
+
+Contiene errores de significado en contexto a traducción propia.
+Por estudio del comportamiento de los caracteres de mongol en el shell.
+El shell debe soportar los caracteres de idioma mongol, de lo contrario,
+este idioma no será funcional en el shell.
+Generado con Google Translate.
+
+Contains meaning errors in context to own translation.
+By studying the behavior of Mongolian characters in the shell.
+The shell must support Mongolian language characters, otherwise
+this language will not be functional in the shell.
+Generated with Google Translate.
+
+linux-cdgrab-д зориулсан монгол хэл
+Туршилтын, Google Translate ашиглан үүсгэсэн.
+Pascual Martínez Cruz; pascual@hotmail.com
+

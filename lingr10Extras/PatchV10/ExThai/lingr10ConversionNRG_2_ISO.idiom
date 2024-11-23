@@ -1,0 +1,37 @@
+# Idioma Tailandés para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+# Experimental, generado con Google Translate.
+
+# presskey
+
+presskey_MSG1="กดปุ่ม ENTER เพื่อดำเนินการต่อไป..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="======================================"
+cabeceraNRG_MSG2="การแปลง LINUX-CDGRAB 1.0 .NRG เป็น .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="ป้อนเส้นทางของรูปภาพ .nrg ที่คุณต้องการแปลง:"
+convertir_imagen_nrg_MSG1B="ป้อนเส้นทางของอิมเมจ .iso ที่คุณต้องการสร้าง:"
+convertir_imagen_nrg_MSG2="กำลังทำงาน"
+convertir_imagen_nrg_MSG3="การแปลงอิมเมจ .nrg เป็น .iso เสร็จสมบูรณ์"
+convertir_imagen_nrg_MSG4="เกิดข้อผิดพลาดในการแปลงรูปภาพ .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="รองรับการแปลงรูปภาพใน linux-cdgrab"
+creditospatchnrgaiso_MSG2="การแปลงอิมเมจ .nrg เป็น .iso โดยใช้ nrg2iso"
+creditospatchnrgaiso_MSG3="แจกจ่ายภายใต้ใบอนุญาต GPL v2"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="เวอร์ชันคำสั่ง:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="แปลงรูปภาพ .nrg เป็น .iso"
+lingr10ConversionNRG_2_ISO_MSG2="เกี่ยวกับ"
+lingr10ConversionNRG_2_ISO_MSG3="เมนูก่อนหน้า"
+lingr10ConversionNRG_2_ISO_MSG4="ตัวเลือกไม่ถูกต้อง"
+

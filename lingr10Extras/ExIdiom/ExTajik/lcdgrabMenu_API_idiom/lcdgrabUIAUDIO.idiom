@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en Tayiko para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="ТАВДИДИ АУДИО"
+menu_conversion_audio_MSG2="-------------- ТАВДИЛИ БАЙНИ ФОРМАТХО -------------"
+menu_conversion_audio_MSG3="Табдил додани .mp3 ба .wav"
+menu_conversion_audio_MSG4="Табдил додани .ogg ба .wav"
+menu_conversion_audio_MSG5="Табдил додани .wav ба .mp3"
+menu_conversion_audio_MSG6="Табдил додани .wav ба .ogg"
+menu_conversion_audio_MSG6C="Табдил додани .wav ба .flac"
+menu_conversion_audio_MSG6B="Табдил додани .flac ба .wav"
+menu_conversion_audio_MSG7="---------- ИСТИФОДА ШУДАНИ Трекҳои АДИО -----------"
+menu_conversion_audio_MSG8="Кор кардани CD-и аудио ба .wav"
+menu_conversion_audio_MSG9="Таҷҳиз кардани маҷмӯи трекҳои аудио ба .wav"
+menu_conversion_audio_MSG10="Китоб кардани CD-и аудио ба .mp3"
+menu_conversion_audio_MSG11="Кор кардани CD-и аудио ба .ogg"
+menu_conversion_audio_MSG0="Менюи қаблӣ"
+menu_conversion_audio_MSG12="Ҷустуҷӯи файлҳои .mp3"
+menu_conversion_audio_MSG13="Ҷустуҷӯи файлҳои .ogg"
+menu_conversion_audio_MSG14="Ҷустуҷӯи файлҳои .wav"
+menu_conversion_audio_MSG15="----------------- ДИГАР АМАЛИЁТ -------------------"
+menu_conversion_audio_MSG16="Буриди файли аудиоии .wav"
+menu_conversion_audio_MSG17="Кор кардани CD-и аудио ба .flac"
+

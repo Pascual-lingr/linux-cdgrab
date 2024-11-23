@@ -1,0 +1,35 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovak/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Eslovaco para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Súbory v /tmp"
+dir_tmp_MSG2="Vymazať všetky obrázky a komprimované súbory"
+dir_tmp_MSG3="Spustiť správcu súborov pre ďalšie operácie"
+dir_tmp_MSG4="Pripojiť alebo odpojiť obraz"
+dir_tmp_MSG5="Zobraziť menu vytvorenia obrázku"
+dir_tmp_MSG6="Zobraziť možnosti nahrávania obrázkov"
+dir_tmp_MSG7="Predchádzajúce menu"
+dir_tmp_MSG8="ZOZNAM EXISTUJÚCICH SÚBOROV V"
+dir_tmp_MSG9="VYBERTE MOŽNOSŤ:"
+dir_tmp_MSG10="VYMAZANÉ OBRÁZKY A SÚBORY"
+dir_tmp_MSG11="Pripojiť obrázok."
+dir_tmp_MSG12="Odpojiť obraz."
+dir_tmp_MSG13="Napáliť obraz na CD"
+dir_tmp_MSG14="Napáliť obraz na DVD"
+dir_tmp_MSG14B="Napáliť obrázok na BD"
+dir_tmp_MSG15="Vyberte možnosť podľa záznamového média"
+dir_tmp_MSG16="SÚBOR SA NENÁJDE KONFIGURAČNÝ SÚBOR"
+dir_tmp_MSG17="Prerušenie procesu nahrávania"
+dir_tmp_MSG18="Určite súbor .iso na vypálenie"
+dir_tmp_MSG19="Zadajte cestu k obrázku: "
+
+

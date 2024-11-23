@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en Tayiko para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="Мувофиқ будани дискҳои БЛУ-РАЙИ ВИДЕО"
+conv_video_BDVideo_MSG2="Муайян кардани роҳи файли видео барои табдил:"
+conv_video_BDVideo_MSG3="Номи файли видеои навро барои эҷод кардан муайян кунед:"
+conv_video_BDVideo_MSG4="Файли видео бомуваффақият табдил ёфт!!"
+conv_video_BDVideo_MSG5="Хато дар табдили файли видео"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="ФАЙЛҲОИ ВИДЕО ТАБДИЛ"
+conv_VideoFich_MSG2="Муайян кардани файли видео барои табдил:"
+conv_VideoFich_MSG3="Муайян кардани файли видео барои тавлид:"
+conv_VideoFich_MSG4="ТАВДИДИ ФАЙЛ ВИДЕО АНҶОМ ШУД"
+conv_VideoFich_MSG5="ХАТО ВАҚТИ ТАБДИЛ КАРДАНИ ФАЙЛИ ВИДЕО"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Файли видеоро муайян кунед:"
+extrae_Audio_de_Video_MSG2="Муайян кардани файли садои mp3 барои тавлид:"
+extrae_Audio_de_Video_MSG3="ХАСТИДАНИ Овоз бомуваффақият"
+extrae_Audio_de_Video_MSG4="ХАТО ВАҚТИ ИСТИФОДАНИ Овоз"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Файли видеоро муайян кунед:"
+extrae_Fragmento_Video_MSG2="Муайян кардани файли видео барои тавлид:"
+extrae_Fragmento_Video_MSG3="Вақти аввалро муайян кунед (Ҳамчун СС:ДМ:СС муайян кунед) :"
+extrae_Fragmento_Video_MSG4="Вақти анҷомро муайян кунед (Ҳамчун HH:MM:SS муайян кунед) :"
+extrae_Fragmento_Video_MSG5="ВИДЕО БОМУВАФФАКИЯТ КАРДА ШУД"
+extrae_Fragmento_Video_MSG6="ХАТО ВАҚТИ КУРДАНИ ВИДЕО"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Файли садоиро муайян кунед:"
+mezcla_Audio_Video_MSG2="Файли видеоро муайян кунед:"
+mezcla_Audio_Video_MSG3="Муайян кардани файли видео барои тавлид:"
+mezcla_Audio_Video_MSG4="ФАЙЛИ ВИДЕОИ НАВ БОМУВАФФАКИЯТ"
+mezcla_Audio_Video_MSG5="ХАТО ДАР ТАҲСИЛИ ВИДЕОФАЙЛ"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="ОПЦИЯ БАРОИ ИНТЕРФЕЙСИ КОНСОЛ ДАСТРАС НАДОРАД"
+graba_escritorio_MSG2="-- Сабти СЕССИЯИ МИЗИ -- CTRL + C ро пахш кунед БАРОИ БАТЪ НАМУДАНИ САБТ"
+graba_escritorio_MSG3="САБТИ ВИДЕО ба охир расид"
+

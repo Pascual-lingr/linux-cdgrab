@@ -1,0 +1,146 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Tibetano para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3 ཡིག་ཚགས་བརྗེ་སྒྱུར་བྱ་རྒྱུ།"
+mp3awav_MSG0=".mp3ཡིག་ཚགས་ཀྱི་འགྲོ་ལམ་ནང་འཇུག་བྱོས།"
+mp3awav_MSG1="བསྒྱུར་བཞིན་པ།"
+mp3awav_MSG1B=" TO .wav རྣམ་གཞག།"
+mp3awav_MSG2="རྒྱུག་བཞིན་ཡོད།"
+mp3awav_MSG3="དཔེ་ཚད་དེ་44100 Mhz ལ་སྒྲིག་དགོས།"
+mp3awav_MSG4="དཔེ་ཚད་ལས་སྣོན་ནོར་འཁྲུལ་བྱུང་བ།"
+mp3awav_MSG5="བསྒྱུར་ཐུབ་མ་སོང་།"
+mp3awav_MSG6="སྣོད་ཐོ་རྙེད་མ་སོང་།"
+mp3awav_MSG7="སྒྲ་སྒྱུར་གྱི་མཇུག་བསྡུ།"
+mp3awav_MSG8="སྒྲ་ཡིག་རྒྱུན་ལྡན་བཟོ་བ།"
+mp3awav_MSG9="ཡིག་ཆ།"
+mp3awav_MSG10="རྒྱུན་ལྡན་དུ་བཏང་བ།"
+mp3awav_MSG11="ནོར་འཁྲུལ་རྒྱུན་ལྡན་བཟོ་བ།"
+
+# oggawav
+
+oggawav_MSG0="OGGཡིག་ཆ་བརྗེ་བསྒྱུར་བྱ་དགོས།"
+oggawav_MSG1=".oggཡིག་ཚགས་ཀྱི་འགྲོ་ལམ་ནང་འཇུག་བྱོས།"
+oggawav_MSG2="བསྒྱུར།"
+# Resultado del traductor
+oggawav_MSG2B="A .wav རྩ་སྒྲིག"
+oggawav_MSG3="རྒྱུག་བཞིན་ཡོད།"
+oggawav_MSG4="དཔེ་ཚད་དེ་44100 Mhz ལ་སྒྲིག་ཡོད།"
+oggawav_MSG5="དཔེ་ཚད་ལས་སྣོན་ནོར་འཁྲུལ་བྱུང་བ།"
+oggawav_MSG6="བསྒྱུར་ཐུབ་མ་སོང་།"
+oggawav_MSG7="སྣོད་ཐོ་རྙེད་མ་སོང་།"
+oggawav_MSG8="སྒྲ་དབྱངས་ཀྱི་ཁྱབ་ཁོངས་མཇུག་བསྡུ།"
+oggawav_MSG9="སྒྲ་ཡིག་རྒྱུན་ལྡན་བཟོ་བ།"
+oggawav_MSG10="ཡིག་ཆ།"
+oggawav_MSG11="རྒྱུན་ལྡན་དུ་བཏང་བ།"
+oggawav_MSG12="ནོར་འཁྲུལ་རྒྱུན་ལྡན་བཟོ་བ།"
+
+# cdawav
+
+cdawav_MSG1="སྒྲ་དབྱངས་སི་ཌི།"
+cdawav_MSG2="ལག་བསྟར་བྱེད་བཞིན་ཡོད།"
+cdawav_MSG3="མཐར་ཕྱིན་ངང་སྒྲའི་སྒྲ་དབྱངས་བཟོས་འདུག!!"
+cdawav_MSG4="སྒྲ་ཡིག་སྣོད་ཐོའི་ནང་དོན།"
+cdawav_MSG5="སྒྲ་ཐག་འཐེན་སྐབས་ནོར་འཁྲུལ།"
+
+# cddawav
+
+# Resultado del traductor
+cddawav_MSG1="RIP བྱ་བའི་གླུ་གཞས་ཀྱི་གྲངས་བླུགས།"
+cddawav_MSG2="Crtl + c མཐེབ་གནོན་ནས་གླུ་གཞས་ཤིག་བཤུ་བཤུབ་མེད་པར་བཟོས།"
+cddawav_MSG3="ལག་བསྟར་བྱེད་བཞིན་ཡོད།"
+cddawav_MSG4="མཐར་ཕྱིན་ངང་རྐུ་འཕྲོག་བྱས།"
+cddawav_MSG5="ནོར་འཁྲུལ་གཅོད་པ།"
+
+# wavamp3
+
+wavamp3_MSG0="WAVཡིག་ཆ་བརྗེ་སྒྱུར་བྱ་རྒྱུ།"
+wavamp3_MSG1=".wavཡིག་ཚགས་ཀྱི་འགྲོ་ལམ་ནང་འཇུག་བྱོས།"
+wavamp3_MSG1B="བསྒྱུར།"
+wavamp3_MSG2="རྣམ་གཞག་ཅིག"
+wavamp3_MSG3="ལག་བསྟར་བྱེད་བཞིན་ཡོད།"
+wavamp3_MSG4="བསྒྱུར་སྐབས།"
+wavamp3_MSG5=".MP3 རྣམ་གཞག་ལུ།"
+wavamp3_MSG6="སྒྱུར་བྱེད་ནོར་འཁྲུལ།"
+wavamp3_MSG7="སྒྲ་སྒྱུར་ལེགས་འགྲུབ་བྱུང་།"
+wavamp3_MSG8="སྒྲ་མཛོད་མ་རྙེད།"
+
+# cdamp3
+
+cdamp3_MSG1="སྒྲ་དབྱངས་སི་ཌི།"
+cdamp3_MSG2="ལག་བསྟར་བྱེད་བཞིན་ཡོད།"
+cdamp3_MSG3="མཐར་ཕྱིན་ངང་སྒྲའི་སྒྲ་དབྱངས་བཞེངས་འདུག!!"
+cdamp3_MSG4="སྒྲ་ཐག་གཅོད་སྐབས་ནོར་འཁྲུལ།"
+cdamp3_MSG5="འབོད་པའི་བྱེད་ནུས།:"
+
+# wavaogg
+
+wavaogg_MSG1=".wavཡིག་ཚགས་ཀྱི་འགྲོ་ལམ་ནང་འཇུག་བྱོས།"
+wavaogg_MSG2="བསྒྱུར་བཞིན་པ།"
+# Resultado del traductor
+wavaogg_MSG3="A .ogg རྣམ་གཞག།"
+wavaogg_MSG4="གཡོག་བཞིན་པ།"
+wavaogg_MSG5="སྒྱུར་བྱེད་ནོར་འཁྲུལ།"
+wavaogg_MSG6=" .ogg རྣམ་གཞག ལུ།"
+
+# cdaogg
+
+cdaogg_MSG1="སྒྲ་དབྱངས་འོད་སྡེར་གཅོད་པ།"
+cdaogg_MSG2="ལག་བསྟར་བྱེད་བཞིན་ཡོད།"
+cdaogg_MSG3="མཐར་ཕྱིན་ངང་སྒྲའི་སྒྲ་དབྱངས་སྒྲོག་སྒྲིག!!"
+cdaogg_MSG4="སྒྲ་དབྱངས་སྒྲོག་སྐབས་ནོར་འཁྲུལ།"
+cdaogg_MSG5="འབོད་པའི་བྱེད་ནུས།"
+
+# corta_wav
+
+corta_wav_MSG0="སྐར་ཆའི་གྲངས།"
+corta_wav_MSG1="བརྗེ་སྒྱུར་བྱ་རྒྱུའི་སྒྲ་ཡིག་གི་འགྲོ་ལམ་གཏན་འཁེལ་བྱོས།"
+corta_wav_MSG2="དུས་ཚོད་སྐར་ཆའི་གྲངས་སུ་གཏན་འཁེལ་བྱོས། དེའི་ཆེད་དུ།"
+corta_wav_MSG3="ཡིག་ཆ་གཅོད་འགོ་ཚུགས་རྒྱུ་རེད།"
+corta_wav_MSG4="-མཆན-"
+corta_wav_MSG5="སྒྲ་དབྱངས་ཀྱི་མགོ་གཏན་འཁེལ་བྱེད་ན་ 0 ནང་འཇུག་བྱེད།"
+corta_wav_MSG6="བསྒྱུར་འགོ་འཛུགས་པའི་སྐར་ཆའི་ནང་རིན་ཐང་།"
+corta_wav_MSG7="དུས་ཚོད་སྐར་ཆའི་གྲངས་སུ་གཏན་འཁེལ་བྱོས། དེའི་ཆེད་དུ།"
+corta_wav_MSG8="ཡིག་ཚགས་གཅོད་པ་མཇུག་སྒྲིལ་རྒྱུ་རེད།"
+corta_wav_MSG9="བརྗེ་བསྒྱུར་མཇུག་སྒྲིལ་བའི་སྐར་ཆའི་རིན་ཐང་:"
+corta_wav_MSG10="རྒྱུག་བཞིན་ཡོད།"
+corta_wav_MSG11="གཙང་བཟོའི་སྒྲ་ཡིག་ཡིག་ཆ།"
+corta_wav_MSG12="ཡིག་ཆ་གཅོད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+corta_wav_MSG13="གཅོད་པའི་སྒྲ་ཡིག་ཆ།"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV སྒྲ།"
+flacawav_MSG1=".flacཡིག་ཚགས་ཀྱི་འགྲོ་ལམ་གཏན་འཁེལ་བྱེད།"
+flacawav_MSG2="བསྒྱུར།"
+# Resultado del traductor
+flacawav_MSG3=" TO .wav རྣམ་གཞག།"
+flacawav_MSG4="དཔེ་ཚད་དེ་ 44100 Mhz ལ་སྒྲིག་ཡོད།"
+flacawav_MSG5="དཔེ་ཚད་ལས་སྣོན་ནོར་འཁྲུལ་བྱུང་བ།"
+flacawav_MSG6="སྒྲ་ཡིག་རྒྱུན་ལྡན་བཟོ་བ།"
+flacawav_MSG7="ཡིག་ཆ།"
+flacawav_MSG8="རྒྱུན་ལྡན་དུ་བཏང་བ།"
+flacawav_MSG9="རྒྱུན་ལྡན་བཟོ་བའི་ནོར་འཁྲུལ།"
+flacawav_MSG10="བསྒྱུར་ཐབས་འཐུས་ཤོར་བྱུང་ཡོད།"
+flacawav_MSG11="སྣོད་ཐོ་མ་རྙེད།"
+flacawav_MSG12="སྒྲ་སྒྱུར་གྱི་མཇུག་བསྡུ།"
+
+# wavaflac
+
+wavaflac_MSG0="WAVཡིག་ཆ་བརྗེ་སྒྱུར་བྱ་རྒྱུ།"
+wavaflac_MSG1=".wavཡིག་ཚགས་ཀྱི་འགྲོ་ལམ་ནང་འཇུག་བྱོས།"
+wavaflac_MSG2="བསྒྱུར།"
+wavaflac_MSG3="A .flac རྣམ་གཞག།"
+wavaflac_MSG4="flac རྩ་སྒྲིག་ལ་བསྒྱུར།"
+wavaflac_MSG5="སྒྱུར་བྱེད་ནོར་འཁྲུལ།"
+wavaflac_MSG6="ཕ་ལེག་རྩ་སྒྲིག་ལ"
+wavaflac_MSG7="FLACཡིག་ཆའི་སྣོད་ཐོ་མ་རྙེད།"
+

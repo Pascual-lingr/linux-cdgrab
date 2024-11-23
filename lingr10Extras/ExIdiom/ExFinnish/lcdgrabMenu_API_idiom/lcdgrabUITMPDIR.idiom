@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFinnish/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Finés para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Tiedostot kansiossa /tmp"
+dir_tmp_MSG2="Poista kaikki kuvat ja pakatut tiedostot"
+dir_tmp_MSG3="Käynnistä tiedostonhallinta muita toimintoja varten"
+dir_tmp_MSG4="Kiinnitä tai irrota kuva"
+dir_tmp_MSG5="Näytä kuvanluontivalikko"
+dir_tmp_MSG6="Näytä kuvan tallennusasetukset"
+dir_tmp_MSG7="Edellinen valikko"
+dir_tmp_MSG8="LUETTELO OLEMASSA OLEVISTA TIEDOSTOISTA"
+dir_tmp_MSG9="VALITSE VAIHTOEHTO:"
+dir_tmp_MSG10="POISTETUT KUVAT JA TIEDOSTOT"
+dir_tmp_MSG11="Liitä kuva."
+dir_tmp_MSG12="Poista kuva."
+dir_tmp_MSG13="Pota kuva CD-levylle"
+dir_tmp_MSG14="Pota kuva DVD-levylle"
+dir_tmp_MSG14B="Pota kuva BD:lle"
+dir_tmp_MSG15="Valitse vaihtoehto tallennusvälineen mukaan"
+dir_tmp_MSG16="TIEDOSTOA EI LÖYDY ASETUSTIEDOSTOA"
+dir_tmp_MSG17="Keskeytetään tallennusprosessi"
+dir_tmp_MSG18="Määritä poltettava .iso tiedosto"
+dir_tmp_MSG19="Anna kuvan polku: "
+

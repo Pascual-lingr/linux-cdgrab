@@ -1,0 +1,37 @@
+# Idioma Lituano para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Norėdami tęsti, paspauskite ENTER..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="======================================="
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 KONVERSIJA .NRG Į .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="Įveskite .nrg vaizdo, kurį norite konvertuoti, kelią:"
+convertir_imagen_nrg_MSG1B="Įveskite .iso vaizdo, kurį norite sugeneruoti, kelią:"
+convertir_imagen_nrg_MSG2="veikia"
+convertir_imagen_nrg_MSG3=".nrg vaizdo konvertavimas į .iso sėkmingai baigtas"
+convertir_imagen_nrg_MSG4="Klaida konvertuoti vaizdą .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Pagalba vaizdo konvertavimui linux-cdgrab"
+creditospatchnrgaiso_MSG2=".nrg vaizdų konvertavimas į .iso naudojant nrg2iso"
+creditospatchnrgaiso_MSG3="Platinti pagal GPL v2 licenciją"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="Komandos versija:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="Konvertuoti .nrg vaizdą į .iso"
+lingr10ConversionNRG_2_ISO_MSG2="Apie"
+lingr10ConversionNRG_2_ISO_MSG3="Ankstesnis meniu"
+lingr10ConversionNRG_2_ISO_MSG4="Netinkama parinktis"
+

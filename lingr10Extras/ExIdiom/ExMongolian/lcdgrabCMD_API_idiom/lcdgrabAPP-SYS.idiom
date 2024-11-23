@@ -1,0 +1,108 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongolian/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Mongol para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="Бичлэг хийх процессыг дахин оролдож байна..."
+m_cdrecord_sin_overburn_MSG2="cdrecord г -overburn сонголтгүйгээр ажиллуулж байна"
+m_cdrecord_sin_overburn_MSG3="-overburn нь хуучин бичлэг хийх төхөөрөмж болон cdrecord-ын хуучин хувилбаруудад дэмжигддэггүй."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="ХҮЧИНГҮЙ СОНГОЛТ"
+
+# img_error
+
+img_error_D_MSG1="ЗУРАГ ҮҮСГЭХ ҮЕД АЛДАА"
+
+# CD_error
+
+CD_error_D_MSG1="CD ШАТАХ ҮЕД АЛДАА"
+
+# DVD_error
+
+DVD_error_D_MSG1="DVD ШАТАХ ҮЕД АЛДАА"
+
+# DO_error
+
+DO_error_D_MSG1="ОПТИК ДИСК БИЧИХ ҮЕД АЛДАА"
+
+# tecla
+
+tecla_D_MSG1="\nҮргэлжлүүлэхийн тулд ENTER дарна уу. . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="ДИСК ТУРШ ШАТАХ ЛАВЛУУДЫН ЗАМ"
+rutas_dir_D_MSG2="Лавлахын нэрийг оруулна уу (гарахын тулд f):"
+rutas_dir_D_MSG3="РАВЛАХ"
+rutas_dir_D_MSG4="ХҮЧИНГҮЙ"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="СИСТЕМД ИЛҮҮ ОПТИК НЭГЖ"
+una_sola_grabadora_D_MSG2="УНШИХ, БИЧЛЭГИЙН НЭГЖ НЭГ НЭГЖ БАЙНА. ТАНЫ ТОГТОЛЦОО ЗӨВХӨН ФИЗИКИЙН НЭГЖТЭЙ ГЭДЭГ ГЭДЭГ. НЭГЖЭЭС ЭХ ДИСКИЙГ АРИЛГА. БИЧЛЭГИЙН ҮЙЛДВЭРИЙГ ҮРГЭЛЖЛҮҮЛЭХИЙН ЭРХЭМ ОНГОН ОПТИК ДИСК ОРУУЛНА"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="ДИСКИЙН БИЧЛЭГ АМЖИЛТТАЙ БОЛЛОО"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="ХҮЧИНГҮЙ СОНГОЛТ"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="ДИСКИЙН БИЧЛЭГ АМЖИЛТТАЙ БОЛЛОО"
+
+# text_img_error
+
+text_img_error_MSG1="ЗУРАГ ҮҮСГЭХ ҮЕД АЛДАА"
+
+# text_CD_error
+
+text_CD_error_MSG1="CD ШАТАХ ҮЕД АЛДАА"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="DVD ШАТАХ ҮЕД АЛДАА"
+
+# text_DO_error
+
+text_DO_error_MSG1="ОПТИК ДИСК БИЧИХ ҮЕД АЛДАА"
+
+# teclash
+
+teclash_MSG1="Үргэлжлүүлэхийн тулд ENTER дарна уу. . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Лавлахын нэрийг оруулна уу ( гарах бол f ):"
+text_rutas_dir_MSG2="RECTORY"
+text_rutas_dir_MSG3="ХҮЧИНГҮЙ"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="СИСТЕМ ДАХЬ ИХ ОПТИК НЭГЖ"
+text_una_sola_grabadora_MSG2="УНШИХ, БИЧЛЭГИЙН НЭГЖ НЭГЖ БАЙНА."
+text_una_sola_grabadora_MSG3="ТАНЫ СИСТЕМД ЗӨВХӨН ГАНЦ БАЙНА ГЭДЭГ"
+text_una_sola_grabadora_MSG4="ФИЗИК НЭГЖ."
+text_una_sola_grabadora_MSG5="ЭХ СУРВАЛЖ ДИСКИЙГ НЭГЖЭЭС УСТГАХ."
+text_una_sola_grabadora_MSG6="VIRGIN OPTICAL DISC INSERT"
+text_una_sola_grabadora_MSG7="БИЧЛЭГИЙН ЯВЦЫГ ҮРГЭЛЖЛҮҮЛЭХ."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="Гүйж байна"

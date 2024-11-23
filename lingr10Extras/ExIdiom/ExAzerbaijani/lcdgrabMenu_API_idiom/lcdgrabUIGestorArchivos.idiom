@@ -1,0 +1,58 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAzerbaijani/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Azerbaiyano para el gestor de archivos
+# Traducción experimental generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* NAVİQASİYA SEÇENEKLERİ ************************"
+ayuda_gestor_de_archivos_MSG2="Fayl sisteminə göz atın."
+ayuda_gestor_de_archivos_MSG3="X --> Çıx"
+ayuda_gestor_de_archivos_MSG4="A --> Əvvəlki kataloq"
+ayuda_gestor_de_archivos_MSG5="B --> Növbəti kataloq"
+ayuda_gestor_de_archivos_MSG6="Fayllar və kataloqlar üzrə əməliyyatlar."
+ayuda_gestor_de_archivos_MSG7="C --> Faylı Kopyalayın"
+ayuda_gestor_de_archivos_MSG8="M --> Faylı köçürün"
+ayuda_gestor_de_archivos_MSG9="CD -> Kataloqu Kopyala"
+ayuda_gestor_de_archivos_MSG10="MD --> Kataloqu köçürün"
+ayuda_gestor_de_archivos_MSG11="Fayllar və qovluqlardakı hərəkətləri başa düşmək."
+ayuda_gestor_de_archivos_MSG12="Z --> Faylı sıxın"
+ayuda_gestor_de_archivos_MSG13="DZ --> Faylı açın"
+ayuda_gestor_de_archivos_MSG14="EZ --> .tar.gz və ya .tar.bz2 paketi yaradın"
+ayuda_gestor_de_archivos_MSG15="DEZ --> .tar.gz və ya .tar.bz2-ni paketdən çıxarın"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Cari aktiv kataloq"
+gestor_de_archivos_MSG0B="Daxil olan fayllar"
+gestor_de_archivos_MSG1="========================= NAVİQASİYA SEÇENEKLERİ ========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> YARDIM="
+gestor_de_archivos_MSG3="=========================================================================="
+gestor_de_archivos_MSG4="Seçim yazın"
+gestor_de_archivos_MSG5="Kataloq yazın"
+gestor_de_archivos_MSG6="Mənbə faylı yazın"
+gestor_de_archivos_MSG7="Təyinat faylını yazın"
+gestor_de_archivos_MSG8="Fayl uğurla kopyalandı"
+gestor_de_archivos_MSG9="Faylı kopyalama xətası"
+gestor_de_archivos_MSG10="Mənbə faylı yazın"
+gestor_de_archivos_MSG11="Təyinat faylını yazın"
+gestor_de_archivos_MSG12="Fayl uğurla köçürüldü"
+gestor_de_archivos_MSG13="Faylı köçürmək xətası"
+gestor_de_archivos_MSG14="Mənbə kataloqunu yazın"
+gestor_de_archivos_MSG15="Təyinat qovluğunu yazın"
+gestor_de_archivos_MSG16="Kataloq uğurla kopyalandı"
+gestor_de_archivos_MSG17="Kataloqun kopyalanması xətası"
+gestor_de_archivos_MSG18="Mənbə kataloqunu yazın"
+gestor_de_archivos_MSG19="Təyinat qovluğunu yazın"
+gestor_de_archivos_MSG20="Kataloq uğurla köçürüldü"
+gestor_de_archivos_MSG21="Kataloqun köçürülməsi xətası"
+gestor_de_archivos_MSG22="FAYI SIKMAK ÜÇÜN"
+gestor_de_archivos_MSG23="Fayl yolunu göstərin"
+
+

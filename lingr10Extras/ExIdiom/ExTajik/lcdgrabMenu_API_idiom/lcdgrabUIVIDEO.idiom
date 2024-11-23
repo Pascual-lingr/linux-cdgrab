@@ -1,0 +1,24 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en Tayiko para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="ТАВДИДИ ВИДЕО"
+menu_conversion_video_MSG2="------------- ТАВДИЛИ БАЙНИ Форматҳо -------------"
+menu_conversion_video_MSG3="Табдил додани видео ба Blu Ray Disc Smart-TV мувофиқ"
+menu_conversion_video_MSG4="Файли видео барои табдил:"
+menu_conversion_video_MSG0="Менюи қаблӣ"
+menu_conversion_video_MSG6="Сабти мизи корӣ"
+menu_conversion_video_MSG7="Табдил додани файли видео ба формати дигар"
+menu_conversion_video_MSG8="---------------- ДИГАР ИНТИХОБОТ -----------------"
+menu_conversion_video_MSG9="Муттаҳид кардани файли видео бо файли аудио"
+menu_conversion_video_MSG10="Гузоштани аудиои MP3 аз файли видео"
+menu_conversion_video_MSG11="Файли видеоро буред"
+

@@ -1,0 +1,109 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Tibetano para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="སྒྲ་འཇུག་བརྒྱུད་རིམ་བསྐྱར་དུ་ཚོད་ལྟ་བྱེད་བཞིན་ཡོད།"
+m_cdrecord_sin_overburn_MSG2="-overburn གདམ་ག་མེད་པར་ cdrecord གཡོག་བཞིན་པ།"
+m_cdrecord_sin_overburn_MSG3="-overburn ལ་སྒྲ་ཕབ་སྒྲིག་ཆས་རྙིང་པ་ལ་རྒྱབ་སྐྱོར་བྱེད་ཀྱི་མེད་ལ་ cdrecord ཡི་ཐོན་རིམ་རྙིང་པ་ལ་ཡང་རྒྱབ་སྐྱོར་བྱེད་ཀྱི་མེད།"
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="ནུས་མེད་གདམ་ག།"
+
+# img_error
+
+img_error_D_MSG1="པར་རིས་བཟོ་སྐབས་ནོར་འཁྲུལ།"
+
+# CD_error
+
+CD_error_D_MSG1="འོད་སྡེར་འབར་སྐབས་ནོར་འཁྲུལ།"
+
+# DVD_error
+
+DVD_error_D_MSG1="འོད་སྡེར་འབར་སྐབས་ནོར་འཁྲུལ།"
+
+# DO_error
+
+DO_error_D_MSG1="འོད་ཀྱི་སྡེར་མ་འབྲི་སྐབས་ནོར་འཁྲུལ།"
+
+
+# tecla
+
+tecla_D_MSG1="\nམུ་མཐུད་དུ་འགྲོ་བར་ ENTER མནན་དགོས། . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="འོད་སྡེར་ནང་འཚིག་པའི་སྣོད་ཐོའི་འགྲོ་ལམ།"
+rutas_dir_D_MSG2="སྣོད་ཐོའི་མིང་བླུགས་(f ཕྱིར་ཐོན་བར)།"
+rutas_dir_D_MSG3="སྣོད་ཐོ།"
+rutas_dir_D_MSG4="ནུས་མེད་"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="མ་ལག་ཁྲོད་ཀྱི་འོད་ཀྱི་ཆ་ཤས་གཅིག་པ།"
+una_sola_grabadora_D_MSG2="ཀློག་པ་དང་ཐོ་འགོད་བྱེད་པའི་སྡེ་ཚན་གཅིག་པ་རེད། ཁྱེད་ཀྱི་མ་ལག་ལ་དངོས་གཟུགས་ཀྱི་ཆ་ཤས་གཅིག་ལས་མེད་པ་བསམ་གྱི་ཡོད། འབྱུང་ཁུངས་སྲབ་འཁོར་དེ་མ་ལག་ནས་ཕྱིར་འཐེན་བྱེད་དགོས། སྒྲ་ཕབ་བྱེད་པའི་བྱ་རིམ་མུ་མཐུད་སྤེལ་ཆེད་དུ་ཝར་ཇིན་འོད་ཀྱི་འོད་སྡེར་ཞིག་བཙུགས།"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="འོད་སྡེར་གྱི་སྒྲ་ཕབ་ལེགས་གྲུབ་བྱུང་།"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="ནུས་མེད་གདམ་ག།"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="འོད་སྡེར་གྱི་སྒྲ་ཕབ་ལེགས་གྲུབ་བྱུང་།"
+
+# text_img_error
+
+text_img_error_MSG1="པར་རིས་བཟོ་སྐབས་ནོར་འཁྲུལ།"
+
+# text_CD_error
+
+text_CD_error_MSG1="འོད་སྡེར་འབར་སྐབས་ནོར་འཁྲུལ།"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="འོད་སྡེར་འབར་སྐབས་ནོར་འཁྲུལ།"
+
+# text_DO_error
+
+text_DO_error_MSG1="འོད་ཀྱི་སྡེར་མ་འབྲི་སྐབས་ནོར་འཁྲུལ།"
+
+# teclash
+
+teclash_MSG1="མུ་མཐུད་དུ་འགྲོ་བར་ ENTER མནན་དགོས། . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="སྣོད་ཐོའི་མིང་བླུགས་ ( f ཕྱིར་ཐོན་ ):"
+text_rutas_dir_MSG2="སྣོད་ཐོ།"
+text_rutas_dir_MSG3="ནུས་ལྡན་མིན་པ།"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="མ་ལག་ནང་གི་འོད་ཀྱི་ཆ་ཤས་གཅིག་པ།"
+text_una_sola_grabadora_MSG2="ཀློག་འདོན་དང་སྒྲ་ཕབ་བྱེད་སྟངས་གཅིག་པ་རེད།"
+text_una_sola_grabadora_MSG3="ཁྱོད་ཀྱི་མ་ལག་ལ་གཅིག་ཁོ་ན་ཡོད་པའི་ཚོད་དཔག་བྱས་ཡོད།"
+text_una_sola_grabadora_MSG4="དངོས་གཟུགས་ཆ་ཤས།"
+text_una_sola_grabadora_MSG5="འབྱུང་ཁུངས་སྲབ་སྡེར་དེ་ཆ་ཚན་ནང་ནས་མེད་པར་བཟོས།"
+text_una_sola_grabadora_MSG6="ཝར་ཇིན་འོད་ཀྱི་སྡེར་མ་བཙུགས།"
+text_una_sola_grabadora_MSG7="སྒྲ་ཕབ་བྱེད་པའི་བརྒྱུད་རིམ་མུ་མཐུད་དུ་སྤེལ་ཆེད།"
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="རྒྱུག་བཞིན་ཡོད།"

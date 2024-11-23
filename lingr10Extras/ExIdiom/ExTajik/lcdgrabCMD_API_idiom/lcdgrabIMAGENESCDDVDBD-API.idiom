@@ -1,0 +1,234 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en Tayiko para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="СИСТЕМАИ ФАЙЛИ ТАСМИР"
+imagen_linux_fs_MSG2="Системаи файлиро интихоб кунед: "
+imagen_linux_fs_MSG3="Эҷоди тасвир барои CD-R/RW (702 Мбайт)"
+imagen_linux_fs_MSG4="Эҷоди тасвир барои DVD+RW (4 Гбайт)"
+imagen_linux_fs_MSG5="Эҷоди тасвир барои DVD+RW/DL (8 Гбайт)"
+imagen_linux_fs_MSG5B="Эҷоди тасвир барои BD-R/RE (25 Гбайт)"
+imagen_linux_fs_MSG5C="Эҷоди файли тасвирӣ бо андозаи фармоишӣ"
+imagen_linux_fs_MSG6="Эҷоди файли холӣ бо ҳаҷми 702 Мбайт"
+imagen_linux_fs_MSG7="Эҷоди файли холӣ бо иқтидори 4 Гбайт"
+imagen_linux_fs_MSG8="Эҷоди файли холӣ бо иқтидори 8 Гбайт"
+imagen_linux_fs_MSG8B="Эҷоди файли холӣ бо иқтидори 25 Гбайт"
+imagen_linux_fs_MSG8C="Эҷоди файли холӣ бо андозаи фармоишӣ"
+imagen_linux_fs_MSG9="ХАТО: Андозаи тасвир маълум НЕСТ. ҚАТЪ КАРДАН..."
+imagen_linux_fs_MSG10="Иҷрокунанда"
+imagen_linux_fs_MSG11="Барнома файли холиро формат мекунад."
+imagen_linux_fs_MSG12="Система шуморо огоҳ мекунад, ки файли қаблан сохташуда дастгоҳи блок нест ва мепурсад, ки оё шумо онро формат кардан мехоҳед"
+imagen_linux_fs_MSG13="Ҷавоби ҳа"
+imagen_linux_fs_MSG13="МУВАФФАКИЯТ ТАШКИЛ КАРДА ШУД"
+imagen_linux_fs_MSG14=" Тасвири васлкунӣ..."
+imagen_linux_fs_MSG15="ХАТО ВАҚТИ Формат кардани файли холӣ"
+imagen_linux_fs_MSG16="Барнома файли форматшударо насб кардааст"
+imagen_linux_fs_MSG17="Linux-cdgrab мудири файлро оғоз мекунад, то он метавонад дар тасвири насбшуда кор кунад"
+imagen_linux_fs_MSG18="Пас аз нусхабардории файлҳо, файли форматшударо ҷудо кунед"
+imagen_linux_fs_MSG19="Тасвири linux дар ин директория ҷойгир аст"
+imagen_linux_fs_MSG19B="ХАТО ВАСТИ ФАЙЛИ тасвир"
+imagen_linux_fs_MSG20="Файлҳо барои дохил кардан ба тасвир. Дар /mnt/lcdgrab насб карда шудаанд"
+imagen_linux_fs_MSG21="Оғози мудири файл..."
+imagen_linux_fs_MSG22="Огоҳӣ:"
+imagen_linux_fs_MSG23="------"
+imagen_linux_fs_MSG24="Тасвир"
+imagen_linux_fs_MSG25="ҳанӯз насб карда шудааст"
+imagen_linux_fs_MSG26="ХАТО ВАҚТИ офариниши файли холӣ бо dd"
+imagen_linux_fs_MSG27="Тафтиш кунед, ки шумо дар қисмати васлшуда дар / фазои холӣ доред."
+imagen_linux_fs_MSG34="СИСТЕМАИ ФАЙЛ БАРОИ Формат кардани файл"
+imagen_linux_fs_MSG35="ТАВАСЛИ ФАЙЛИ ХОЛИ БО андозаи фармоишӣ"
+imagen_linux_fs_MSG36="Андозаи блоки файли холии навро муайян кунед (танҳо арзиши ададӣ):"
+imagen_linux_fs_MSG37="Намунаи арзишҳо барои андозаи блок инҳоянд: 1024, 2048 (танҳо Ext2) ё 4096 (Ҳама форматҳо)"
+imagen_linux_fs_MSG38="Андозаи файли холӣ барои тавлидро муайян кунед (танҳо арзиши ададӣ):"
+imagen_linux_fs_MSG39="Андозагирии фазо барои тавлиди файли холӣ:"
+imagen_linux_fs_MSG40="Андозаи фосиларо барои истифода муайян кунед: "
+imagen_linux_fs_MSG41="ХАТО ДАР АНДОЗАИ ченкунии андоза"
+imagen_linux_fs_MSG42="Арзиши андозаи блок:"
+imagen_linux_fs_MSG43="Миқдори ҷой барои файли холӣ:"
+imagen_linux_fs_MSG44="Арзиши ҳисобшуда бо байт:"
+imagen_linux_fs_MSG45="Арзиши ҳисобшуда барои ҳисоб:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Даргиронидани хониши md5 ҳангоми тавлиди тасвирҳои .iso"
+comprobar_lectura_md5_MSG2="Хониши md5-ро ҳангоми тавлиди тасвирҳои .iso хомӯш кунед"
+comprobar_lectura_md5_MSG3="Менюи қаблӣ"
+comprobar_lectura_md5_MSG4="Танзимоти ҷорӣ:"
+comprobar_lectura_md5_MSG5="Фаъол"
+comprobar_lectura_md5_MSG6="Хомӯш"
+comprobar_lectura_md5_MSG7="Хондани маблағи md5 фаъол шуд"
+comprobar_lectura_md5_MSG8="Хондани маблағи md5 ғайрифаъол"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Номи тасвири iso хонда намешавад"
+leer_md5sum_MSG2="Хондани md5sum аз"
+leer_md5sum_MSG3="Намоиш додани маблағи md5 тасвир"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="Эҷоди тасвири CD"
+extraer_isoCD_dd_MSG2="ТАСвир ДАР Эҷоди"
+extraer_isoCD_dd_MSG3="Наёфтанд"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="Эҷоди тасвири DVD"
+extraer_isoDVD_dd_MSG2="кор"
+extraer_isoDVD_dd_MSG3="ТАСвир ДАР СОҲИДА ШУД"
+extraer_isoDVD_dd_MSG4="Наёфтанд"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="кор"
+extraer_iso_readcd_MSG2="тасвир бомуваффақият эҷод карда шуд"
+extraer_iso_readcd_MSG3="Тасвир дар он сохта шудааст"
+extraer_iso_readcd_MSG4="Қатъи раванди сабт..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="CD насбшуда"
+extraer_iso_mkisofs_MSG2="Эҷоди тасвир..."
+extraer_iso_mkisofs_MSG3="Мутобиқати Macintosh фаъол аст"
+extraer_iso_mkisofs_MSG4="Истифода"
+extraer_iso_mkisofs_MSG5="давидан"
+extraer_iso_mkisofs_MSG6="Тасвир дар директория сохта шудааст"
+extraer_iso_mkisofs_MSG7="Аз нав кӯшиш кардани раванд бе дастгирии Macintosh"
+extraer_iso_mkisofs_MSG8="Тасвир дар директория сохта шудааст"
+extraer_iso_mkisofs_MSG9="mkisofs ҳангоми эҷод хатогиҳои номаълумро бармегардонад"
+extraer_iso_mkisofs_MSG10="аз"
+extraer_iso_mkisofs_MSG11="Тафтиши тамомияти маълумот"
+extraer_iso_mkisofs_MSG12="Васлкунӣ"
+extraer_iso_mkisofs_MSG12B="en"
+extraer_iso_mkisofs_MSG13="genisoimage ҳангоми эҷод хатогиҳои номаълумро бармегардонад"
+extraer_iso_mkisofs_MSG13B="аз"
+extraer_iso_mkisofs_MSG14="mkisofs ва genisoimage ёфт нашуд. Лутфан cdrtools ё cdrkit насб кунед."
+extraer_iso_mkisofs_MSG15="Васл кардан муяссар нашуд"
+extraer_iso_mkisofs_MSG16="Тасвир дар бомуваффақият офарида шудааст"
+
+# m_comp_img
+
+m_comp_img_MSG1="тасвир бомуваффақият тавлид шуд"
+m_comp_img_MSG2="ОЁ ШУМО ФАЙЛИ тасвирро фишурдан мехоҳед?"
+m_comp_img_MSG3="(s/y) барои фишурдан; Раванд бо интихоби дигар бекор карда мешавад."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Оғози мудири файл..."
+generar_iso_directorio_MSG2="Номи CD/DVD/BD-и ояндаро ворид кунед"
+generar_iso_directorio_MSG3="Эҷоди тасвир..."
+generar_iso_directorio_MSG4="Мутобиқати Macintosh фаъол аст"
+generar_iso_directorio_MSG5="Истифода"
+generar_iso_directorio_MSG6="кор"
+generar_iso_directorio_MSG7="ТАСвир ДАР Феҳристи Эҷодшуда"
+generar_iso_directorio_MSG8="РАВАНДИ Эҷоди тасвир ноком шуд"
+generar_iso_directorio_MSG9="Эҷоди тасвир бе мутобиқати MACINTOSH"
+generar_iso_directorio_MSG10="mkisofs ва genisoimage ёфт нашуд. Лутфан cdrtools ё cdrkit насб кунед."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Номи DVD/BD-и ояндаро ворид кунед"
+generar_bdv_udf_directorio_MSG2="Муайян кардани директория барои тавлиди тасвири видео:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Тайби дискро муайян кунед:"
+generar_iso_directorio_libburnia_MSG2="Муайян кардани директория барои тавлиди тасвири iso-9660:"
+generar_iso_directorio_libburnia_MSG3="Тасвири ISO9660 бомуваффақият офарида шудааст!!"
+generar_iso_directorio_libburnia_MSG4="Хато ҳангоми тавлиди тасвири iso-9660 бо xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="Файлҳо ва директорияҳо барои дохил шудан ба тасвири .iso"
+imagenISO_MSG2="ИНТИХОБ КУНЕД"
+imagenISO_MSG2B="-------------"
+imagenISO_MSG3="Тасвири ISO-9660-ро аз CD тавлид кунед (истифодаи dd)"
+imagenISO_MSG4="Тасвири ISO-9660-ро аз DVD тавлид кунед (истифодаи dd)"
+imagenISO_MSG5="Тасвири ISO-9660-ро аз CD тавлид кунед (истифодаи readcd)"
+imagenISO_MSG6="Тасвири ISO-9660-ро аз CD ё диски DVD тавлид кунед (истифодаи mkisofs)"
+imagenISO_MSG7="Эҷод кардани тасвири ISO-9660 аз маълумоти диски сахт (истифодаи mkisofs)"
+imagenISO_MSG8="Менюи қаблӣ"
+imagenISO_MSG9="Эҷоди тасвир"
+imagenISO_MSG10="Аз маълумоти диски сахт тасвири ISO-9660 эҷод кунед (истифодаи xorriso)"
+imagenISO_MSG11="Эҷод кардани тасвири iso/udf аз CD/DVD/BD (истифодаи mkisofs)"
+imagenISO_MSG12="Эҷод кардани тасвири iso/udf аз маълумоти диски сахт (истифодаи mkisofs)"
+imagenISO_MSG13="МЕНЮИ FORMATTER ISO-9660"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Эҷод кардани тасвири UDF/ISO аз маълумоти диски сахт (истифодаи mkisofs)"
+imagenISO_MSG15="Эҷоди тасвири UDF/ISO бо дастгирии DVD Video (истифодаи mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Дастгоҳи блоки манбаъро, ки аз он тасвир сохта мешавад, ворид кунед"
+imagen_img_MSG2="-------------------------------------------------------------------"
+imagen_img_MSG3="Дастгоҳҳое, ки дар /etc/fstab ва /etc/mtab ба қайд гирифта шудаанд"
+imagen_img_MSG4="Баромади фармони насб:"
+imagen_img_MSG5="Номи дастгоҳро ворид кунед: "
+imagen_img_MSG6="Эҷоди тасвири .img аз дастгоҳи блок"
+imagen_img_MSG7="кор"
+imagen_img_MSG8="ТАСвири ДАСТГОҲ ДАР СОҲИДА ШУД"
+
+# monta_img
+
+monta_img_MSG1="Тасвири ISO ё ext2 барои насб."
+monta_img_MSG2="Роҳеро ворид кунед, ки дар он тасвири васлшаванда ҷойгир аст:"
+monta_img_MSG3="ТАСвири CD васлшуда:"
+monta_img_MSG4="ХАТО ВАСТИ ФАЙЛИ тасвир"
+monta_img_MSG5="НАЁФТ НАМУД"
+monta_img_MSG6="Нуктаи кӯҳӣ вуҷуд надорад"
+monta_img_MSG7="Хатои ғайричашмдошт"
+
+# desmonta_img
+
+desmonta_img_MSG1="Тасвири ISO ё ext2 барои кандашавӣ."
+desmonta_img_MSG2="ТАСвири ТАРҚИМ"
+desmonta_img_MSG3="Ягон тасвири насбшуда ёфт нашуд"
+desmonta_img_MSG4="Баромади васлкунӣ:"
+desmonta_img_MSG5="Шумо метавонед мустақиман роҳи директорияи мутлақи тасвирро муайян кунед."
+desmonta_img_MSG6="Ба монанди /tmp/lcdgrabimg.iso ё директорияи васлкунӣ барои тасвир ба монанди /mnt/lcdgrab"
+desmonta_img_MSG7="Агар муайян нашуда бошад, онро метавон бо истифода аз мудири файл ҷустуҷӯ кард"
+desmonta_img_MSG8="Оғози мудири файл"
+desmonta_img_MSG9="Роҳи тасвирро муайян кунед."
+desmonta_img_MSG10="ТАСвири ЧУДОшуда"
+desmonta_img_MSG11="ХАТО ВАҚТИ КУҶО КАРДАНИ ТААСвир"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg тасвир барои табдил додан ба .iso"
+nrg_a_iso_MSG2="Барои табдил додани роҳи тасвири .nrg (Nero Burning ROM) ворид шавед"
+nrg_a_iso_MSG3="Табдил додани тасвир..."
+nrg_a_iso_MSG4="Роҳи тасвири сарчашмаи .nrg"
+nrg_a_iso_MSG5=" вуҷуд надорад ё ба директория мувофиқат мекунад"
+nrg_a_iso_MSG6="Роҳи нодуруст."
+nrg_a_iso_MSG7="он аллакай тасвири қаблии ISO-9660 аст, он табдил дода намешавад."
+nrg_a_iso_MSG8="Нусхабардорӣ бо васеъшавии гуногун..."
+nrg_a_iso_MSG9="НУСҲАИ АНҶОМ ДОД"
+nrg_a_iso_MSG10="давидан"
+nrg_a_iso_MSG11="Тасвир бомуваффақият табдил дода шуд"
+nrg_a_iso_MSG12="ХАТО ВАҚТИ офариниши тасвир .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Файли тавсифи .cue ро аз тасвири .bin тавлид кунед"
+GenerarArchivocue_MSG2="Феҳристи фаъоли ҷорӣ"
+GenerarArchivocue_MSG3="Танҳо роҳи директорияро нависед, ки дар куҷо"
+GenerarArchivocue_MSG4="пайдо кардани файли тасвир:"
+GenerarArchivocue_MSG5="Номи тасвири .bin, ки ба он дохил мешавад, ворид кунед"
+GenerarArchivocue_MSG6="файли мувофиқи .cue и худро тавлид кардааст"
+GenerarArchivocue_MSG7="ФАЙЛИ ТАВСИФИ .cue бомуваффақият тавлид шуд"
+GenerarArchivocue_MSG8="ХАТО ВАҚТИ ТАҲЛИЛИ ФАЙЛИ ТАВСИФИ .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="давидан"
+ImagenbincueCDDVD_MSG2="Тасвири .BIN .CUE DISK бомуваффақият тавлид шуд"
+

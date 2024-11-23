@@ -1,0 +1,37 @@
+# Idioma Amárico para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="ለመቀጠል ENTERን ይጫኑ..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="================================="
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 መለወጥ .NRG ወደ .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="መቀየር የሚፈልጉትን የ.nrg ምስል መንገድ ያስገቡ፡"
+convertir_imagen_nrg_MSG1B="ማመንጨት የሚፈልጉትን የ.iso ምስል መንገድ ያስገቡ፡"
+convertir_imagen_nrg_MSG2="እየሮጠ"
+convertir_imagen_nrg_MSG3="የ.nrg ምስል ወደ .iso መቀየር በተሳካ ሁኔታ ተጠናቋል"
+convertir_imagen_nrg_MSG4="ስህተት ቀይር .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="የምስል ልወጣ ድጋፍ በlinux-cdgrab"
+creditospatchnrgaiso_MSG2=".nrg ምስሎችን nrg2iso በመጠቀም ወደ .iso በመቀየር ላይ"
+creditospatchnrgaiso_MSG3="በGPL v2 ፍቃድ አሰራጭ"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="የትእዛዝ ሥሪት፡-"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1=".nrg ምስልን ወደ .iso ቀይር"
+lingr10ConversionNRG_2_ISO_MSG2="ስለ"
+lingr10ConversionNRG_2_ISO_MSG3="የቀድሞው ምናሌ"
+lingr10ConversionNRG_2_ISO_MSG4="ልክ ያልሆነ አማራጭ"
+

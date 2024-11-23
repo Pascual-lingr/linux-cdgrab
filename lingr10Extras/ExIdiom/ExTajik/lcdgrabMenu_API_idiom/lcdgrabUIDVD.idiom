@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Tayiko, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Интерфейси корбареро, ки истифода мешавад, интихоб кунед:"
+SeleccionaIUDVD_MSG2="Истифода аз интерфейс барои dvd+-rw-tools"
+SeleccionaIUDVD_MSG3="Истифодаи интерфейс барои Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Истифода аз интерфейс барои libburnia"
+SeleccionaIUDVD_MSG5="Менюи қаблӣ"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="Сабти DVD"
+menugrabar_dvd_MSG2="----------------- DVD - DATA -------------------"
+menugrabar_dvd_MSG3="Нусхабардории DVD и ISO-9660"
+menugrabar_dvd_MSG4="Эҷоди тасвири қаблии DVD дар диски сахт"
+menugrabar_dvd_MSG5="Даводи нави ISO-9660 ро сабт кунед"
+menugrabar_dvd_MSG6="Илова кардани сеанси нави маълумот ба DVD и ISO-9660 (DVD и бисёрсоҳа)"
+menugrabar_dvd_MSG7="ДВД и қаблан бо истифода аз имконоти дуюм сабтшударо талаб мекунад"
+menugrabar_dvd_MSG8="Тасвири маълумоти ISO-9660 ро дар DVD сабт кунед"
+menugrabar_dvd_MSG9="Тасвири .ext2 ро дар DVD сабт кунед"
+menugrabar_dvd_MSG10="----------------- DVD - VIDEO ------------------"
+menugrabar_dvd_MSG11="DVD-Видеои навро сӯзонед"
+menugrabar_dvd_MSG12="--------------- ДИГАР вариантхо ----------------"
+menugrabar_dvd_MSG13="Формат кардани DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Намоиш додани маълумоти диски DVD"
+menugrabar_dvd_MSG0="Менюи қаблӣ"
+menugrabar_dvd_MSGPRINCIPAL="Ихтиёрро ворид кунед"
+menugrabar_dvd_MSG15="Файлҳо ва директорияҳо барои дохил шудан ба DVD"
+menugrabar_dvd_MSG16="Оғози мудири файл..."
+menugrabar_dvd_MSG17=".тасвири .iso барои сабт кардан ба DVD"
+menugrabar_dvd_MSG18="Роҳеро ворид кунед, ки дар он тасвири .iso, ки шумо сӯзондан мехоҳед, ҷойгир аст"
+menugrabar_dvd_MSG19="Нусхаи сабти CD ро бо дастгирии DVD талаб мекунад."
+menugrabar_dvd_MSG20="Сабти тасвири .ext2 дар DVD бо cdrecord анҷом дода мешавад."
+menugrabar_dvd_MSG21="Нусхаи сабти cdrecord, ки дар насби шумо мавҷуд аст, бояд"
+menugrabar_dvd_MSG22="Дастгирии сабти DVD."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="ИНТИХОБ КУНЕД"
+dvd_clonar_MSG2="--- Нусхаҳои дискҳои пешакии тасвир ---"
+dvd_clonar_MSG3="Нусхабардории DVD-и маълумот"
+dvd_clonar_MSG4="Дар диски сахт тасвири қаблии DVD эҷод кунед"
+dvd_clonar_MSG5="--- НУСКАХОИ ДИСКИ ДАР ПАРВОЗ ---"
+dvd_clonar_MSG6="Нусхабардории DVD-и маълумот дар парвоз"
+dvd_clonar_MSG7="Клон кардани DVD-и маълумот дар парвоз"
+dvd_clonar_MSG8="ИАРҲАНТҲОИ НУСҲАИ ПАРВОЗ ДУ Воҳиди оптикиро талаб мекунанд"
+dvd_clonar_MSG9="ДАР КОМПЮТЕРИ ШУМО НАСБ ШУДААСТ, АЗ БАРОИ АЗ ВАҚТИ сабти маълумот"
+dvd_clonar_MSG10="Агар компютери шумо ТАНҲО ДОШТА БОШАД, АЗ ДИСКИ АСОСӢ БИХОНЕД"
+dvd_clonar_MSG11="ШУМО НАМЕТАВОНЕД ДАР ПАРВОЗ НУСҲАҲО ИСТИФОДА БАРЕД."
+dvd_clonar_MSG0="Менюи қаблӣ"
+dvd_clonar_MSG12="Нусхаи маълумоти DVD"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="Сабти DVD"
+menugrabar_DVD_MSG2="------------------ DVD - DATA --------------------"
+menugrabar_DVD_MSG3="Нусхабардории маълумот DVD"
+menugrabar_DVD_MSG4="ДВД и маълумоти навро сабт кунед"
+menugrabar_DVD_MSG5="Тасвири .iso ё .ext2-ро дар DVD сабт кунед"
+menugrabar_DVD_MSG6="Формат DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Намоиш додани маълумоти диск дар диск"
+menugrabar_DVD_MSG0="Менюи қаблӣ"
+menugrabar_DVD_MSGPRINCIPAL="Ихтиёрро ворид кунед"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Тасвири iso-9660-ро ба DVD сабт кунед"
+menugrabar_DVD_libburnia_MSG2="Маълумотро аз диски сахт ба DVD сабт кунед"
+menugrabar_DVD_libburnia_MSG3="Формат DVD"
+menugrabar_DVD_libburnia_MSG4="Формат кардани DVD-RW ба афзояндаи пайдарпай"
+menugrabar_DVD_libburnia_MSG5="Формат кардани DVD-RW барои сабти маҳдудшуда"
+menugrabar_DVD_libburnia_MSG6="Намоиш додани маълумот дар диск"
+menugrabar_DVD_libburnia_MSG8="Рӯйхати дискҳои дар система насбшуда"
+menugrabar_DVD_libburnia_MSG0="Баромад"
+menugrabar_DVD_libburnia_MSG7="Ихтиёрро ворид кунед"
+

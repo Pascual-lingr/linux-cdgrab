@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFinnish/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Finés para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************** NAVIGOINTIVAIHTOEHDOT ************************"
+ayuda_gestor_de_archivos_MSG2="Selaa tiedostojärjestelmää."
+ayuda_gestor_de_archivos_MSG3="X --> Poistu"
+ayuda_gestor_de_archivos_MSG4="A --> Edellinen hakemisto"
+ayuda_gestor_de_archivos_MSG5="B --> Seuraava hakemisto"
+ayuda_gestor_de_archivos_MSG6="Tiedostojen ja hakemistojen toiminnot."
+ayuda_gestor_de_archivos_MSG7="C --> Kopioi tiedosto"
+ayuda_gestor_de_archivos_MSG8="M --> Siirrä tiedosto"
+ayuda_gestor_de_archivos_MSG9="CD --> Kopioi hakemisto"
+ayuda_gestor_de_archivos_MSG10="MD --> Siirrä hakemisto"
+ayuda_gestor_de_archivos_MSG11="Tiedostojen ja hakemistojen toimintojen ymmärtäminen."
+ayuda_gestor_de_archivos_MSG12="Z --> Pakkaa tiedosto"
+ayuda_gestor_de_archivos_MSG13="DZ --> Pura tiedosto"
+ayuda_gestor_de_archivos_MSG14="EZ --> Luo .tar.gz- tai .tar.bz2-paketti"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Pura .tar.gz tai .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Nykyinen aktiivinen hakemisto"
+gestor_de_archivos_MSG0B="Tiedostot sisään"
+gestor_de_archivos_MSG1="========================== NAVIGOINTIVAIHTOEHDOT ======================"
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> APU="
+gestor_de_archivos_MSG3="======================================================================="
+gestor_de_archivos_MSG4="Kirjoita vaihtoehto"
+gestor_de_archivos_MSG5="Typpihakemisto"
+gestor_de_archivos_MSG6="Kirjoita lähdetiedosto"
+gestor_de_archivos_MSG7="Kirjoita kohdetiedosto"
+gestor_de_archivos_MSG8="Tiedosto kopioitiin onnistuneesti"
+gestor_de_archivos_MSG9="Virhe kopioitaessa tiedostoa"
+gestor_de_archivos_MSG10="Kirjoita lähdetiedosto"
+gestor_de_archivos_MSG11="Kirjoita kohdetiedosto"
+gestor_de_archivos_MSG12="Tiedoston siirto onnistui"
+gestor_de_archivos_MSG13="Virhe siirrettäessä tiedostoa"
+gestor_de_archivos_MSG14="Kirjoita lähdehakemisto"
+gestor_de_archivos_MSG15="Kirjoita kohdehakemisto"
+gestor_de_archivos_MSG16="Hakemiston kopiointi onnistui"
+gestor_de_archivos_MSG17="Virhe kopioitaessa hakemistoa"
+gestor_de_archivos_MSG18="Kirjoita lähdehakemisto"
+gestor_de_archivos_MSG19="Kirjoita kohdehakemisto"
+gestor_de_archivos_MSG20="Hakemiston siirto onnistui"
+gestor_de_archivos_MSG21="Virhe siirrettäessä hakemistoa"
+gestor_de_archivos_MSG22="PAKAttava TIEDOSTO"
+gestor_de_archivos_MSG23="Määritä tiedostopolku"
+

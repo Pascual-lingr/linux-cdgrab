@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongolian/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Mongol para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="СИСТЕМД ОДОО СУУРИЛСАН ТӨХӨӨРӨМЖҮҮД"
+montar_dispositivos_MSG1B="ТӨХӨӨРӨМЖИЙГ УГСРАХ/БУДГААХ"
+montar_dispositivos_MSG2="LINUX-CDGRAB СОНГОЛТ"
+montar_dispositivos_MSG3="CD/DVD/BD уншигчаас дискийг гаргах"
+montar_dispositivos_MSG4="CD/DVD/BD шарагчаас дискийг гаргах"
+montar_dispositivos_MSG5="CD-ROM/DVD-ROM/BD-ROM уншигч холбох"
+montar_dispositivos_MSG6="CD-ROM/DVD-ROM/BD-ROM г салгах"
+montar_dispositivos_MSG7="Төхөөрөмжийг гараар холбох эсвэл буулгах"
+montar_dispositivos_MSG0="Өмнөх цэс"
+montar_dispositivos_MSG8="CD/DVD/BD суурилуулсан"
+montar_dispositivos_MSG9="ҮРГЭЛЖЛҮҮЛЭХИЙГ ENTER дарна уу..."
+montar_dispositivos_MSG10="CD/DVD/BD-г асаахад алдаа гарлаа"
+montar_dispositivos_MSG11="CD/DVD/BD-г салгасан"
+montar_dispositivos_MSG12="CD/DVD/BD-г салгахад алдаа гарлаа"
+montar_dispositivos_MSG13="Суулгах/салгах төхөөрөмжийг бичнэ үү:"
+montar_dispositivos_MSG14="Холбох цэгийг оруулна уу:"
+montar_dispositivos_MSG15="блоклох төхөөрөмжтэй тохирохгүй байна"
+montar_dispositivos_MSG16="Буулгах цэг олдсонгүй"
+montar_dispositivos_MSG17="Үндсэн холбох цэг"
+montar_dispositivos_MSG18="Сонголтыг сонгоно уу:"
+montar_dispositivos_MSG19="Буулгах"
+montar_dispositivos_MSG20="en"
+montar_dispositivos_MSG21="Буулгах"
+montar_dispositivos_MSG22="ийн"
+montar_dispositivos_MSG23="холбогдсон:"
+montar_dispositivos_MSG24="СУУЛГАХ ҮЕД АЛДАА"
+montar_dispositivos_MSG25="EN"
+montar_dispositivos_MSG26="салгасан"
+montar_dispositivos_MSG27="САЛГАХ ҮЕД АЛДАА"
+montar_dispositivos_MSG28="ийн"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Буулгах командын гаралт"
+Montar_Imagenes_MSG1B="ЗУРГИЙН ФАЙЛУУД УГСРАХ/БУДАЛАХ"
+Montar_Imagenes_MSG2="Сонголт сонгох"
+Montar_Imagenes_MSG3="CD/DVD/BD дүрсийг холбох"
+Montar_Imagenes_MSG4="CD/DVD/BD дүрсийг салгах"
+Montar_Imagenes_MSG5="Өмнөх цэс"
+

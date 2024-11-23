@@ -1,0 +1,109 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Estonio para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="Salvestusprotsessi uuesti proovimine..."
+m_cdrecord_sin_overburn_MSG2="cdrecordi käivitamine ilma võtmeta -overburn"
+m_cdrecord_sin_overburn_MSG3="-overburn ei ole toetatud vanematel salvestusseadmetel ega ka cdrecordi vanematel versioonidel."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="KEHTETU VALIK"
+
+# img_error
+
+img_error_D_MSG1="VIGA PILDI LOOMISEL"
+
+# CD_error
+
+CD_error_D_MSG1="VIGA CD PÕLETAMISEL"
+
+# DVD_error
+
+DVD_error_D_MSG1="VIGA DVD PÕLETAMISEL"
+
+# DO_error
+
+DO_error_D_MSG1="VIGA OPTILISE PLAADI KIRJUTAMISEL"
+
+
+# tecla
+
+tecla_D_MSG1="\nJätkamiseks vajutage ENTER. . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="PLAATELE PÕLETAMISE kataloogide teed"
+rutas_dir_D_MSG2="Sisesta kataloogi nimi (väljumiseks f):"
+rutas_dir_D_MSG3="KATALOOG"
+rutas_dir_D_MSG4="KEHTETU"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="SÜSTEEMIS SAMA OPTILINE ÜKSUS"
+una_sola_grabadora_D_MSG2="LUGEMIS JA SALVESTUSÜKSUS ON SAMA. EELDATAKSE, ET TEIE SÜSTEEMIL ON AINULT ÜKS FÜÜSILINE ÜKSUS. EEMALDAGE ALGKETT SEADIST. SALVESTAMISPROTSESSI JÄTKAMISEKS SISESTAGE NEITSI OPTILINE KETT"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="PLAADI SALVESTAMINE ON EDUkalt LÕPPENUD"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="KEHTETU VALIK"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="PLAADI SALVESTAMINE ON EDUkalt LÕPPENUD"
+
+# text_img_error
+
+text_img_error_MSG1="VIGA PILDI LOOMISEL"
+
+# text_CD_error
+
+text_CD_error_MSG1="VIGA CD PÕLETAMISEL"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="VIGA DVD PÕLETAMISEL"
+
+# text_DO_error
+
+text_DO_error_MSG1="VIGA OPTILISE PLAADI KIRJUTAMISEL"
+
+# teclash
+
+teclash_MSG1="Jätkamiseks vajutage ENTER. . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Sisesta kataloogi nimi ( väljumiseks f):"
+text_rutas_dir_MSG2="KATAUST"
+text_rutas_dir_MSG3="KEHTNE"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="SAMA OPTILINE ÜKSUS SÜSTEEMIS"
+text_una_sola_grabadora_MSG2="LUGEMINE JA SALVESTUSÜKSUS ON SAMA."
+text_una_sola_grabadora_MSG3="EELDATAKSE, ET SINU SÜSTEEMI ON AINULT ÜKS"
+text_una_sola_grabadora_MSG4="FÜÜSILINE ÜKSUS."
+text_una_sola_grabadora_MSG5="EEMALDADA ALLIKAKETT ÜKSUSEST."
+text_una_sola_grabadora_MSG6="SISESTAGE NEITSI OPTILINE KETT"
+text_una_sola_grabadora_MSG7="SALVESTAMISPROTSESSI JÄTKAMISEKS."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="töötav"

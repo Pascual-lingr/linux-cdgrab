@@ -1,0 +1,20 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcgdrabMenu_API_idiom/lcdgrabUIBD.idiom
+# Menu de Interfaz para la grabación de BD.
+# Traducción experimental al Tayiko, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_grabar_BD
+
+menu_grabar_BD_MSG0="Менюи қаблӣ."
+menu_grabar_BD_MSG1="Сабти диски BLU-RAY"
+menu_grabar_BD_MSG2="Исои нави BD-R/BD-RE ро аз маълумоти диски сахт сӯзондан"
+menu_grabar_BD_MSG4="Тасвири ISO/UDF барои сабт кардан ба диск."
+menu_grabar_BD_MSG7="Тасвири iso-9660/udf ро дар BD-R/BD-RE сӯзондан"
+menu_grabar_BD_MSG8="-------------------- BD - DATA -------------------"
+menu_grabar_BD_MSG9="Намоиш додани маълумоти диски диск"
+menu_grabar_BD_MSG10="Истифодаи ҳазфи заруриро ба BD-RE"

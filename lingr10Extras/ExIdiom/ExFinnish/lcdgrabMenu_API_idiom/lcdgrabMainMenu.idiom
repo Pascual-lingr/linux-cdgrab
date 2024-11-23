@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFinnish/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Finés, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab ei löydä vi-tekstieditoria"
+ayuda_MSG2="Anna järjestelmääsi asennetun tekstieditorin nimi"
+ayuda_MSG3="ASENNETTUA EDITORIA EI LÖYDYNYT"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="LINUX-CDGRAB 1.0 automaattisesti luoma tiedosto"
+creacion_de_mnt_MSG2="Tämä tiedosto ja hakemisto"
+creacion_de_mnt_MSG3="on luotu automaattisesti"
+creacion_de_mnt_MSG4="Linux-cdgrab-sovelluksella, kun varmisti, ettei sitä ollut Linux-jakelussasi"
+creacion_de_mnt_MSG5="hakemisto"
+creacion_de_mnt_MSG6="Linux-cdgrab käyttää tätä hakemistoa asentaakseen CD-ROM-/DVD-ROM-/BD-ROM-asemansa"
+creacion_de_mnt_MSG7="Hakemisto"
+creacion_de_mnt_MSG8="se ei poistu, jos Linux-cdgrab poistetaan, koska se on yleensä"
+creacion_de_mnt_MSG9="oletusliitoskohta /dev/cdrom useimmissa Linux-jakeluissa."
+creacion_de_mnt_MSG10="Jos jakelusi käyttää toista hakemistoa laitteen /dev/cdrom liittämiseen,"
+creacion_de_mnt_MSG11="se ei aiheuta yhteensopimattomuutta yritettäessä käyttää laitteesi tietoja"
+creacion_de_mnt_MSG12="vaikka jos Linux-cdgrab on poistettu, voit pärjätä ilman"
+creacion_de_mnt_MSG13="Tämän tiedoston tarkoitus on vain tiedoksi, voit vapaasti poistaa sen luettuasi."
+
+# creditos
+
+creditos_MSG1="Jakele GPL v2 lisenssillä"
+creditos_MSG2="Lisätietoja osoitteessa www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, luoja ja ylläpitäjä"
+creditos_MSG4="Virheraportti: pascual89@hotmail.com"
+creditos_MSG5="Ohjelman verkkosivusto: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Perustuen LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Lataus"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SYNTAKSI"
+lcdgrab_sintaxis_MSG2="Tulosta tämä ohje"
+lcdgrab_sintaxis_MSG3="Tulosta Linux-versio-cdgrab"
+lcdgrab_sintaxis_MSG4="määrittää IDE-kanavan tai tallennuslaitteen"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="määrittää tallennusnopeuden"
+lcdgrab_sintaxis_MSG7="määrittää CD-ROM-/DVD-ROM-/BD-ROM-aseman"
+lcdgrab_sintaxis_MSG8="määrittää tallentimen IDE ATAPI -kanavan"
+lcdgrab_sintaxis_MSG9="Vaihtoehdot -G -V -L ja -CA viittaavat toisiinsa."
+lcdgrab_sintaxis_MSG9B="-iut -ium -iug ja -iuk ovat toisistaan ​​riippumattomia,"
+lcdgrab_sintaxis_MSG9C="komplementti -G -V -L ja -CA, ja riippumaton välillä -h ja -v"
+lcdgrab_sintaxis_MSG10="-h ja -v ovat riippumattomia toisistaan ​​ja muista."
+lcdgrab_sintaxis_MSG11="Esimerkkejä:"
+lcdgrab_sintaxis_MSG12="laite"
+lcdgrab_sintaxis_MSG13="numero"
+lcdgrab_sintaxis_MSG14="tekstiliittymä"
+lcdgrab_sintaxis_MSG15="liitäntä ncursesilla"
+lcdgrab_sintaxis_MSG16="graafinen käyttöliittymä GTK:lla"
+lcdgrab_sintaxis_MSG17="graafinen käyttöliittymä Qt:llä"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Anna komentosarjan polku:"
+main_lcdgrabopdep_MSG2="Virheellinen polku"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Asennetut korjaustiedostot:"
+main_lcdgrabopdeppatch_MSG2="Anna korjaustiedoston polku:"
+main_lcdgrabopdeppatch_MSG3="Ei löydy"
+
+# menu principal dialog
+main_lcdgrabop9uidia="LATAA LISÄKORJAUS"
+
+# menu principal texto
+
+main_lcdgrabop1_text="TALLENNUS CD:LLE\t\t\t\t="
+main_lcdgrabop2_text="DVD-TALLENNUS\t\t\t\t="
+main_lcdgrabop3_text="TALLENNUS BD:lle\t\t\t\t="
+main_lcdgrabop4_text="LEVYASEMAN TOIMINNOT\t\t\t="
+main_lcdgrabop5_text="KUVAN LUOMINEN\t\t\t\t="
+main_lcdgrabop6_text="ÄÄNEN MUUNTO\t\t\t\t="
+main_lcdgrabop6b_text="VIDEOMUUNNOS\t\t\t\t="
+main_lcdgrabop7_text="ASENNA TAI IRROTA CD/DVD/BD\t\t="
+main_lcdgrabop8_text="KIINNITÄ TAI IRROTA KUVA\t\t\t="
+main_lcdgrabop9_text="LATAA LISÄKORJAUS\t\t\t="
+main_lcdgrabop10_text="OHJAUSKESKUS\t\t\t\t="
+main_lcdgrabop0_text="MENE ULOS\t\t\t\t="
+main_lcdgrabet1_text="MUITA VAIHTOEHTOJA ##\t="
+main_lcdgrabopEe_text="Poista levy asemasta\t\t="
+main_lcdgrabopTD_text="Näytä hakemisto"
+tabs="\t\t="
+main_lcdgrabopG_text="Tiedostonhallinta\t\t\t="
+main_lcdgrabopH_text="Apu\t\t\t\t\t="
+main_lcdgrabopA_text="Noin\t\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="TALLENNUS CD:LLE"
+main_lcdgrabop2="DVD-TALLENNUS"
+main_lcdgrabop3="TALLENNUS BD:lle"
+main_lcdgrabop4="LEVYASEMAN TOIMINNOT"
+main_lcdgrabop5="KUVAN LUOMINEN"
+main_lcdgrabop6="ÄÄNEN MUUNTO"
+main_lcdgrabop6b="VIDEOMUUNNOS"
+main_lcdgrabop7="ASENNA TAI IRROTA CD/DVD/BD"
+main_lcdgrabop8="KIINNITÄ TAI IRROTA KUVA"
+main_lcdgrabop9="LATAA LISÄKORJAUS"
+main_lcdgrabop10="OHJAUSKESKUS"
+main_lcdgrabop0="MENE ULOS"
+main_lcdgrabet1="MUITA VAIHTOEHTOJA ##"
+main_lcdgrabopEe="Poista levy asemasta"
+main_lcdgrabopTD="Näytä hakemisto"
+main_lcdgrabopG="Tiedostonhallinta"
+main_lcdgrabopH="Apu"
+main_lcdgrabopA="Noin"
+main_lcdgrabopPRINCIPAL="Anna vaihtoehto:"
+MSG1_MAIN="H:n valitseminen näyttää vaihtoehtojen käytön."
+main_lcdgrabopA_MSG1="Käynnissä:"
+

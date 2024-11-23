@@ -1,0 +1,37 @@
+# Idioma Húngaro para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Nyomja meg az ENTER-t a folytatáshoz..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="========================================"
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 CONVERSIÓN .NRG EN .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="Adja meg a konvertálni kívánt .nrg kép elérési útját:"
+convertir_imagen_nrg_MSG1B="Adja meg a generálni kívánt .iso kép elérési útját:"
+convertir_imagen_nrg_MSG2="fut"
+convertir_imagen_nrg_MSG3="A .nrg kép .iso formátumba konvertálása sikeresen befejeződött"
+convertir_imagen_nrg_MSG4="Hiba a kép .nrg konvertálásához"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Képkonverzió támogatása linux-cdgrab-ban"
+creditospatchnrgaiso_MSG2=".nrg képek konvertálása .iso formátumba az nrg2iso használatával"
+creditospatchnrgaiso_MSG3="Terjesztés GPL v2 licenc alatt"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="Parancs verzió:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1=".nrg kép konvertálása .iso formátumba"
+lingr10ConversionNRG_2_ISO_MSG2="Névjegy"
+lingr10ConversionNRG_2_ISO_MSG3="Előző menü"
+lingr10ConversionNRG_2_ISO_MSG4="Érvénytelen beállítás"
+

@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongolian/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Mongol para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="**************************** НАВИГЦИЙН СОНГОЛТ ***************************"
+ayuda_gestor_de_archivos_MSG2="Файлын системийг үзэх."
+ayuda_gestor_de_archivos_MSG3="X --> Гарах"
+ayuda_gestor_de_archivos_MSG4="A --> Өмнөх лавлах"
+ayuda_gestor_de_archivos_MSG5="B --> Дараагийн лавлах"
+ayuda_gestor_de_archivos_MSG6="Файл болон лавлах дээрх үйлдлүүд."
+ayuda_gestor_de_archivos_MSG7="C --> Файл хуулах"
+ayuda_gestor_de_archivos_MSG8="M --> Файл зөөх"
+ayuda_gestor_de_archivos_MSG9="CD --> Лавлах хуулах"
+ayuda_gestor_de_archivos_MSG10="MD --> лавлах зөөх"
+ayuda_gestor_de_archivos_MSG11="Файл болон лавлах дээрх үйлдлүүдийг ойлгох."
+ayuda_gestor_de_archivos_MSG12="Z --> Файлыг шахах"
+ayuda_gestor_de_archivos_MSG13="DZ --> Файлыг задлах"
+ayuda_gestor_de_archivos_MSG14="EZ --> .tar.gz эсвэл .tar.bz2 багц үүсгэх"
+ayuda_gestor_de_archivos_MSG15="DEZ --> .tar.gz эсвэл .tar.bz2-г задлах"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Одоогийн идэвхтэй лавлах"
+gestor_de_archivos_MSG0B="Файлууд"
+gestor_de_archivos_MSG1="============================= НАВИГЦИЙН СОНГОЛТ ==========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> ТУСЛАМЖ="
+gestor_de_archivos_MSG3="==========================================================================="
+gestor_de_archivos_MSG4="Сонголтыг бичнэ үү"
+gestor_de_archivos_MSG5="Төрийн лавлах"
+gestor_de_archivos_MSG6="Эх файлыг бичнэ үү"
+gestor_de_archivos_MSG7="Очих файлыг бичнэ үү"
+gestor_de_archivos_MSG8="Файлыг амжилттай хуулсан"
+gestor_de_archivos_MSG9="Файлыг хуулахад алдаа гарлаа"
+gestor_de_archivos_MSG10="Эх файлыг бичнэ үү"
+gestor_de_archivos_MSG11="Очих файлыг бичнэ үү"
+gestor_de_archivos_MSG12="Файлыг амжилттай зөөсөн"
+gestor_de_archivos_MSG13="Файлыг зөөхөд алдаа"
+gestor_de_archivos_MSG14="Эх лавлахыг бичнэ үү"
+gestor_de_archivos_MSG15="Тохирох лавлахыг бичнэ үү"
+gestor_de_archivos_MSG16="Лавлахыг амжилттай хуулсан"
+gestor_de_archivos_MSG17="Лавлахыг хуулахад алдаа гарлаа"
+gestor_de_archivos_MSG18="Эх лавлахыг бичнэ үү"
+gestor_de_archivos_MSG19="Орилгын лавлахыг бичнэ үү"
+gestor_de_archivos_MSG20="Лавлахыг амжилттай зөөсөн"
+gestor_de_archivos_MSG21="Лавлахыг зөөхөд алдаа гарлаа"
+gestor_de_archivos_MSG22="ФАЙЛЫГ ШАХАХ"
+gestor_de_archivos_MSG23="Файлын замыг зааж өгөх"

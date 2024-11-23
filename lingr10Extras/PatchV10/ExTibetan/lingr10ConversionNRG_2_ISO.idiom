@@ -1,0 +1,37 @@
+# Idioma Tibetano para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="མུ་མཐུད་དུ་འགྲོ་བར། ENTER མནན་དགོས།"
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="================================="
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 .NRG ནས་ .ISO ལ་སྒྱུར།"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="ཁྱེད་ཀྱིས་བསྒྱུར་འདོད་པའི་.nrgཔར་རིས་ཀྱི་འགྲོ་ལམ་ནང་འཇུག་བྱོས།"
+convertir_imagen_nrg_MSG1B="ཁྱེད་ཀྱིས་བཟོ་བསྐྲུན་བྱེད་འདོད་པའི་ .iso པར་རིས་ཀྱི་འགྲོ་ལམ་ནང་འཇུག་བྱོས།"
+convertir_imagen_nrg_MSG2="གཡོག་བཞིན་ཡོད།"
+convertir_imagen_nrg_MSG3=".nrg པར་རིས་ .iso ལ་བསྒྱུར་བ་བདེ་བླག་ངང་ལེགས་གྲུབ་བྱུང་།"
+convertir_imagen_nrg_MSG4="གཟུགས་བརྙན་ .nrg བསྒྱུར་བའི་ནོར་འཁྲུལ།"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="linux-cdgrab པར་རིས་ལ་བསྒྱུར་བར་རྒྱབ་སྐྱོར།"
+creditospatchnrgaiso_MSG2="nrg2iso སྤྱད་ནས་.nrg པར་རིས་ .iso ལ་བསྒྱུར།"
+creditospatchnrgaiso_MSG3="GPL v2 ཆོག་མཆན་འོག་བཀྲམ་སྤེལ།"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="བཀའ་ཚིག་ཐོན་རིམ།"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1=".nrg གཟུགས་བརྙན་དེ་ .iso ལ་བསྒྱུར།"
+lingr10ConversionNRG_2_ISO_MSG2="སྐོར།"
+lingr10ConversionNRG_2_ISO_MSG3="སྔོན་གྱི་དཀར་ཆག"
+lingr10ConversionNRG_2_ISO_MSG4="ནུས་མེད་གདམ་ག།"
+

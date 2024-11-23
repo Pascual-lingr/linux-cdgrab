@@ -1,0 +1,37 @@
+# Idioma Bieloruso para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Націсніце ENTER, каб працягнуць..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="========================================="
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 ПЕРАТВАРЭННЕ .NRG У .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="Увядзіце шлях да выявы .nrg, якую хочаце пераўтварыць:"
+convertir_imagen_nrg_MSG1B="Увядзіце шлях да выявы .iso, якую хочаце стварыць:"
+convertir_imagen_nrg_MSG2="працуе"
+convertir_imagen_nrg_MSG3="Пераўтварэнне выявы .nrg у .iso паспяхова завершана"
+convertir_imagen_nrg_MSG4="Памылка пераўтварэння выявы .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Падтрымка пераўтварэння малюнкаў у linux-cdgrab"
+creditospatchnrgaiso_MSG2="Пераўтварэнне выяваў .nrg у .iso з дапамогай nrg2iso"
+creditospatchnrgaiso_MSG3="Распаўсюджваць па ліцэнзіі GPL v2"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="Версія каманды:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="Пераўтварыць выяву .nrg у .iso"
+lingr10ConversionNRG_2_ISO_MSG2="Пра"
+lingr10ConversionNRG_2_ISO_MSG3="Папярэдняе меню"
+lingr10ConversionNRG_2_ISO_MSG4="Няправільны параметр"
+

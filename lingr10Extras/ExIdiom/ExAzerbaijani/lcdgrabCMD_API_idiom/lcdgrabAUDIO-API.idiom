@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAzerbaijani/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en azerbaiyano para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="ÇEVİRMƏK ÜÇÜN MP3 FAYLLARI"
+mp3awav_MSG0=".mp3 fayllarının yolunu daxil edin: "
+mp3awav_MSG1="DÖNÜŞMƏ"
+mp3awav_MSG1B=" .wav FORMATINA"
+mp3awav_MSG2="çalışır"
+mp3awav_MSG3="Nümunə alma 44100 Mhz-a təyin edildi"
+mp3awav_MSG4="Nümunələrin işlənməsi xətası"
+mp3awav_MSG5="çevirmək alınmadı"
+mp3awav_MSG6="Kataloq tapılmadı"
+mp3awav_MSG7="AUDİO DÖNÜŞMƏSİNİN SONU"
+mp3awav_MSG8="Audio faylın normallaşdırılması"
+mp3awav_MSG9="Fayl"
+mp3awav_MSG10="Normallaşdırılmış"
+mp3awav_MSG11="Normallaşdırma xətası"
+
+# oggawav
+
+oggawav_MSG0="ÇEVİRİLMƏK ÜÇÜN OGG FAYLLARI"
+oggawav_MSG1=".ogg fayllarının yolunu daxil edin: "
+oggawav_MSG2="DÖNÜŞMƏ"
+oggawav_MSG2B="A .wav FORMAT"
+oggawav_MSG3="çalışır"
+oggawav_MSG4="Nümunə alma 44100 Mhz-a təyin edildi"
+oggawav_MSG5="Nümunələrin işlənməsi xətası"
+oggawav_MSG6="çevirmək alınmadı"
+oggawav_MSG7="Kataloq tapılmadı"
+oggawav_MSG8="AUDİO ƏHATININ SONU"
+oggawav_MSG9="Audio faylın normallaşdırılması"
+oggawav_MSG10="Fayl"
+oggawav_MSG11="Normallaşdırılmış"
+oggawav_MSG12="Normallaşdırma xətası"
+
+# cdawav
+
+cdawav_MSG1="AUDİO CD YÜKLƏNİR..."
+cdawav_MSG2="İcra olunur:"
+cdawav_MSG3="UĞURLU YÜKLƏNMİŞ AUDİO TREKLƏR!!"
+cdawav_MSG4="Audio faylları kataloqunun məzmunu"
+cdawav_MSG5="AUDİO TREKLƏRİ YÜKLƏNDƏN XƏTA"
+
+# cddawav
+
+cddawav_MSG1="YÜKLƏMƏK ÜÇÜN TREKSİNİN SAYINI DAXİL EDİN:"
+cddawav_MSG2="Yolun yırtılmasını ləğv etmək üçün Crtl + c düymələrini basın"
+cddawav_MSG3="İcra olunur:"
+cddawav_MSG4="UĞURLU YAPILDI"
+cddawav_MSG5="XƏTƏ KOYMA"
+
+# wavamp3
+
+wavamp3_MSG0="ÇEVİRMƏK ÜÇÜN WAV FAYLLARI"
+wavamp3_MSG1=".wav fayllarının yolunu daxil edin: "
+wavamp3_MSG1B="ÇEVİRİLİR"
+wavamp3_MSG2="A FORMAT"
+wavamp3_MSG3="İcra olunur:"
+wavamp3_MSG4="çevirərkən"
+wavamp3_MSG5=".MP3 formatına"
+wavamp3_MSG6="Dönüşdürmə xətası"
+wavamp3_MSG7="AUDIO DÖNÜŞMƏSİ TAMAMLANDI"
+wavamp3_MSG8="AUDIO SAQLAT TAPILMADI"
+
+# cdamp3
+
+cdamp3_MSG1="AUDİO CD YÜKLƏNİR..."
+cdamp3_MSG2="İcra olunur:"
+cdamp3_MSG3="UĞURLU YÜKLƏNMİŞ AUDİO TREKLƏR!!"
+cdamp3_MSG4="AUDİO TREKLƏRİ KÖÇÜRƏN XƏTA"
+cdamp3_MSG5="Zəng funksiyası:"
+
+# wavaogg
+
+wavaogg_MSG1=".wav fayllarının yolunu daxil edin: "
+wavaogg_MSG2="DÖNÜŞMƏ"
+wavaogg_MSG3="A .ogg FORMAT"
+wavaogg_MSG4="İşləyir:"
+wavaogg_MSG5="Dönüşdürmə xətası"
+wavaogg_MSG6=".ogg formatına"
+
+# cdaogg
+
+cdaogg_MSG1="AUDİO CD-LƏRİN YÖNLƏNMƏSİ..."
+cdaogg_MSG2="İcra olunur:"
+cdaogg_MSG3="UĞURLU YÜKLƏNMİŞ AUDİO TREKLƏR!!"
+cdaogg_MSG4="AUDİO TREKLƏRİ YÜKLƏNDƏN XƏTA"
+cdaogg_MSG5="Zəng funksiyası:"
+
+# corta_wav
+
+corta_wav_MSG0="Saniyələrin sayı:"
+corta_wav_MSG1="Dönüşdürmək üçün audio faylın yolunu göstərin:"
+corta_wav_MSG2="Vaxtı saniyələrlə göstərin, bunun üçün"
+corta_wav_MSG3="faylın kəsilməsi başlayacaq."
+corta_wav_MSG4="-QEYD-"
+corta_wav_MSG5="Audio başlanğıcını təyin etmək üçün 0 daxil edin"
+corta_wav_MSG6="Dönüşməyə başlamaq üçün saniyələr içində dəyər:"
+corta_wav_MSG7="Vaxtı saniyələrlə göstərin, bunun üçün"
+corta_wav_MSG8="faylın kəsilməsi tamamlanacaq."
+corta_wav_MSG9="Dönüşmənin sonu üçün saniyələrlə dəyər:"
+corta_wav_MSG10="Çalışır"
+corta_wav_MSG11="Kəsilmiş audio faylı"
+corta_wav_MSG12="Faylı kəsərkən xəta"
+corta_wav_MSG13="Kəsmək üçün audio fayl:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1=".flac fayllarının yolunu göstərin:"
+flacawav_MSG2="DÖNÜŞMƏ"
+flacawav_MSG3=" .wav FORMATINA"
+flacawav_MSG4="Nümunə alma 44100 Mhz-a təyin edildi"
+flacawav_MSG5="Nümunələrin işlənməsi xətası"
+flacawav_MSG6="Audio faylın normallaşdırılması"
+flacawav_MSG7="Fayl"
+flacawav_MSG8="Normallaşdırılmış"
+flacawav_MSG9="Normallaşdırma xətası"
+flacawav_MSG10="Çevrmək alınmadı"
+flacawav_MSG11="Kataloq tapılmadı"
+flacawav_MSG12="AUDİO DÖNÜŞMƏNİN SONU"
+
+# wavaflac
+
+wavaflac_MSG0="ÇEVİRMƏK ÜÇÜN WAV FAYLLARI"
+wavaflac_MSG1=".wav fayllarının yolunu daxil edin: "
+wavaflac_MSG2="DÖNÜŞMƏ"
+wavaflac_MSG3="A .flac FORMAT"
+wavaflac_MSG4="flac formatına çevrildi"
+wavaflac_MSG5="çevirmə xətası"
+wavaflac_MSG6=".flac formatına"
+wavaflac_MSG7="FLAC FAYL SAYFASI TAPILMADI"
+

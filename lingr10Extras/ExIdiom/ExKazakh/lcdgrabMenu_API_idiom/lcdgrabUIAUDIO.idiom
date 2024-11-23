@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKazakh/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en Kazajo para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="АУДИО КОНВЕРСИЯСЫ"
+menu_conversion_audio_MSG2="------------ ФОРМАТТАР АРАСЫНДА ТҰРЫЛУ -----------"
+menu_conversion_audio_MSG3=".mp3 файлын .wav форматына түрлендіру"
+menu_conversion_audio_MSG4=".ogg файлын .wav форматына түрлендіру"
+menu_conversion_audio_MSG5=".wav файлын .mp3 форматына түрлендіру"
+menu_conversion_audio_MSG6=".wav файлын .ogg түріне түрлендіру"
+menu_conversion_audio_MSG6C=".wav-ті .flac-қа түрлендіру"
+menu_conversion_audio_MSG6B=".flac файлын .wav түріне түрлендіру"
+menu_conversion_audio_MSG7="------------- АУДИО ТРЕКТЕРДІ ШЫҒАРУ -------------"
+menu_conversion_audio_MSG8="Аудио ықшам дискіні .wav форматына көшіру"
+menu_conversion_audio_MSG9="Аудио тректер жинағын .wav форматына көшіру"
+menu_conversion_audio_MSG10="Аудио ықшам дискіні .mp3 форматына көшіру"
+menu_conversion_audio_MSG11="Аудио ықшам дискіні .ogg файлына көшіріп алу"
+menu_conversion_audio_MSG0="Алдыңғы мәзір"
+menu_conversion_audio_MSG12=".mp3 файлдарын іздеу"
+menu_conversion_audio_MSG13=".ogg файлдарын іздеу"
+menu_conversion_audio_MSG14=".wav файлдарын іздеу"
+menu_conversion_audio_MSG15="---------------- БАСҚА Операциялар ---------------"
+menu_conversion_audio_MSG16=".wav аудио файлын қиып алу"
+menu_conversion_audio_MSG17="Аудио ықшам дискіні .flac файлына көшіріп алу"
+

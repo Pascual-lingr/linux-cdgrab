@@ -1,0 +1,32 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFinnish/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en finés para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="AUDIOMUUNNOS"
+menu_conversion_audio_MSG2="----------------- MUOTOJEN MUUNTO ----------------"
+menu_conversion_audio_MSG3="Muunna .mp3 muotoon .wav"
+menu_conversion_audio_MSG4="Muunna .ogg muotoon .wav"
+menu_conversion_audio_MSG5="Muunna .wav muotoon .mp3"
+menu_conversion_audio_MSG6="Muunna .wav muotoon .ogg"
+menu_conversion_audio_MSG6C="Muunna .wav muotoon .flac"
+menu_conversion_audio_MSG6B="Muunna .flac muotoon .wav"
+menu_conversion_audio_MSG7="------------- ÄÄNIRAIDOJEN POISTAMINEN -----------"
+menu_conversion_audio_MSG8="Rippaa ääni-CD .wav-tiedostoon"
+menu_conversion_audio_MSG9="Repi joukko ääniraitoja .wav-muotoon"
+menu_conversion_audio_MSG10="Rippaa ääni-CD .mp3-muotoon"
+menu_conversion_audio_MSG11="Rippaa ääni-CD .ogg-tiedostoon"
+menu_conversion_audio_MSG0="Edellinen valikko"
+menu_conversion_audio_MSG12="Etsi .mp3-tiedostoja"
+menu_conversion_audio_MSG13="Etsi .ogg-tiedostoja"
+menu_conversion_audio_MSG14="Etsi .wav-tiedostoja"
+menu_conversion_audio_MSG15="----------------- MUUT TOIMINNOT -----------------"
+menu_conversion_audio_MSG16="Leikkaa .wav-äänitiedosto"
+menu_conversion_audio_MSG17="Rippaa ääni-CD .flac-muotoon"

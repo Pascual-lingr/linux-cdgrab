@@ -1,0 +1,73 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovak/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Eslovaco, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="VYBERTE MOŽNOSŤ"
+clonar_MSG2="------ KÓPIE DISKU S NÁHĽADOVÝM OBRÁZKOM --------"
+clonar_MSG3="Kopírovať dátové CD"
+clonar_MSG4="Vytvoriť predchádzajúci obraz CD na pevnom disku"
+clonar_MSG5="------------- KÓPIE Z DISKU ZA BEHU -------------"
+clonar_MSG6="Skopírujte dátové CD za behu"
+clonar_MSG7="Klonujte dátové CD za behu"
+clonar_MSG7B="Skopírujte zvukové CD za behu"
+clonar_MSG8="MOŽNOSTI LIETAJÚCEHO KÓPIE VYŽADUJÚ DVE OPTICKÉ JEDNOTKY"
+clonar_MSG9="NAINŠTALOVANÉ NA VAŠOM POČÍTAČI, KEĎŽE SA ÚDAJE ZAZNAMENÁVAJÚ"
+clonar_MSG10="ČÍTAJTE PRIAMO Z PÔVODNÉHO DISKU, AK MÁ LEN VÁŠ POČÍTAČ"
+clonar_MSG11="JEDEN NEBUDE MOŽNÝ POUŽÍVAŤ KÓPIE ZA LETU."
+clonar_MSG12B="KOPÍROVAŤ ÚDAJE CD"
+clonar_MSG0="Predchádzajúce menu"
+
+# mgrabacd
+
+mgrabacd_MSG1="DÁTA CD Z PEVNÉHO DISKU"
+mgrabacd_MSG2="Napáliť nové dátové CD (použite cdrtools)"
+mgrabacd_MSG3="Napáliť nové dátové CD (použite libburnia)"
+mgrabacd_MSG4="Predchádzajúce menu"
+mgrabacd_MSG5="Zadajte možnosť"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="ZÁZNAM OBRÁZKU ÚDAJOV"
+mgrabaimg_MSG2="Napáliť obraz iso alebo ext2 na CD-R/RW (použite cdrtools)"
+mgrabaimg_MSG3="Napáliť iso obraz na CD-R/RW (použite libburnia)"
+mgrabaimg_MSG4="Predchádzajúce menu"
+mgrabaimg_MSG5="Zadajte možnosť"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Napáliť zvukové CD zo súborov .wav"
+mgrabararchivosaudio_MSG2="Napáliť zvukové CD zo súborov .mp3"
+mgrabararchivosaudio_MSG3="Napáliť zvukové CD zo súborov .ogg"
+mgrabararchivosaudio_MSG0="Predchádzajúce menu"
+mgrabararchivosaudio_MSG0B="Zadajte možnosť"
+mgrabararchivosaudio_MSG4="Napáliť zvukové CD zo súborov .flac"
+mgrabararchivosaudio_MSG5="CD-AUDIO ZÁZNAM ZO SÚBOROV"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="ZÁZNAM NA CD"
+menugrabar_cd_MSG2="-------------------- CD - DATA -------------------"
+menugrabar_cd_MSG3="Kopírovať dátové CD"
+menugrabar_cd_MSG4="Napáliť nové dátové CD"
+menugrabar_cd_MSG5="Napáliť nové dátové CD s viacerými reláciami"
+menugrabar_cd_MSG6="Napáliť obraz .iso alebo .ext2 na CD"
+menugrabar_cd_MSG7="Napáliť obraz .bin/.cue na CD"
+menugrabar_cd_MSG8="-------------------- CD - AUDIO ------------------"
+menugrabar_cd_MSG9="Kopírovať zvukové CD"
+menugrabar_cd_MSG13="----------------- ĎALŠIE MOŽNOSTI ----------------"
+menugrabar_cd_MSG14="Napáliť zmiešané CD (dáta + zvuk)"
+menugrabar_cd_MSG15="Vymazať CD-RW"
+menugrabar_cd_MSG16="Zavrieť otvorené CD"
+menugrabar_cd_MSG17="Zobraziť informácie o disku v mechanike"
+menugrabar_cd_MSG18="Napáliť zvukové CD zo súborov na disku"
+menugrabar_cd_MSG0="Predchádzajúce menu"
+menugrabar_cd_MSGPRINCIPAL="Zadajte možnosť"
+

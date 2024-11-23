@@ -1,0 +1,37 @@
+# Idioma Georgiano para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="დააჭირეთ ENTER გასაგრძელებლად..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="========================================="
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 კონვერტაცია .NRG .ISO-ში"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="შეიყვანეთ .nrg გამოსახულების გზა, რომლის კონვერტაციაც გსურთ:"
+convertir_imagen_nrg_MSG1B="შეიყვანეთ .iso სურათის გზა, რომლის გენერირებაც გსურთ:"
+convertir_imagen_nrg_MSG2="გაშვებულია"
+convertir_imagen_nrg_MSG3=".nrg სურათის .iso-ზე კონვერტაცია წარმატებით დასრულდა"
+convertir_imagen_nrg_MSG4="შეცდომა სურათის კონვერტაციაში .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Linux-cdgrab გამოსახულების კონვერტაციის მხარდაჭერა"
+creditospatchnrgaiso_MSG2=".nrg სურათების .iso-ზე გადაყვანა nrg2iso-ის გამოყენებით"
+creditospatchnrgaiso_MSG3="გავრცელება GPL v2 ლიცენზიით"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="ბრძანების ვერსია:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1=".nrg სურათის კონვერტაცია .iso-ზე"
+lingr10ConversionNRG_2_ISO_MSG2="შესახებ"
+lingr10ConversionNRG_2_ISO_MSG3="წინა მენიუ"
+lingr10ConversionNRG_2_ISO_MSG4="არასწორი ვარიანტი"
+

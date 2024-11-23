@@ -1,0 +1,184 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Estonio para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="töötav"
+copia_bin_MSG2="--------------SALVESTAMISPROTSESSI TAASPROTSING---------------"
+copia_bin_MSG3="	PILDIFAILI KUSTUTAMINE"
+copia_bin_MSG4="SALVESTAMISEL ON ESINUD VIGA"
+copia_bin_MSG5="Ketta .iso kujutise tühjendusfaili ei leitud. Salvestamise katkestamine..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="töötav"
+datos_al_vuelo_MSG2="Viga salvestamise katsel, uuesti proovimine ilma ülepõlemise toeta"
+datos_al_vuelo_MSG3="Kontrollige, et lähteketas või seade"
+datos_al_vuelo_MSG4="on heas seisukorras"
+datos_al_vuelo_MSG5="Lülitusploki numbri hankimine lähtekettalt"
+datos_al_vuelo_MSG6="PLAATI KOPEERIMINE..."
+
+# clonar_cd
+
+clonar_cd_MSG1="töötav"
+clonar_cd_MSG2="CD EDUKALT KLOONITUD"
+clonar_cd_MSG3="CD KLOONIMISEL ON ESINUD VIGA"
+
+# datos
+
+datos_MSG1="Failid ja kataloogid .iso kujutise loomiseks"
+datos_MSG2="CD/DVD/BD LABEL"
+datos_MSG3="Sisesta tulevase CD/DVD/BD nimi:"
+datos_MSG4="Failihalduri käivitamine:"
+datos_MSG5="	PILDI LOOMINE..."
+datos_MSG6="töötav"
+datos_MSG7="ISO-9660 PILT LOODUD"
+datos_MSG8="		PÕLEV CD/DVD/BD"
+datos_MSG9="PILDIFAILI LOOMISPROTSESS ON ERUS"
+datos_MSG10="PROOBEB UUT LUUA UUESTI ILMA HFS I TOETATA (Macintosh)"
+datos_MSG11="PILDI KUSTUTAMINE..."
+datos_MSG12="UUE PILDI LOOMINE..."
+datos_MSG13="SEDA POLE OLNUD VÕIMALIK ÕIGESTI SALVESTADA"
+datos_MSG14="------------SALVESTAMISPROTSESSI TAASPROTSING-----------"
+datos_MSG15="KUSUTA PILT..."
+datos_MSG16="ISO-9660 ANDMETE CD/DVD/BD PÕLETAMINE..."
+datos_MSG17="Ei leitud."
+datos_MSG18="Ketta salvestamise katkestamine..."
+
+# datoslb
+
+datoslb_MSG1="Viga: pildifaili ei leitud. Katkestamine..."
+datoslb_MSG2="SALVESTAMISPROTSESS OK"
+datoslb_MSG3="VIGA SALVESTAMISPROTSESSIS"
+
+# borra
+
+borra_MSG0="Eelmine menüü"
+borra_MSG1="Valige CD-RW kustutamise režiim"
+borra_MSG2="-------------------------------"
+borra_MSG3="Kiire kustutamine (kasuta cdrecord)"
+borra_MSG4="Lõpeta kustutamine (kasuta cdrecord)"
+borra_MSG5="Kustutamine on vajalik (kasuta cdrskin)"
+borra_MSG6="töötav"
+borra_MSG7="Sõltuvalt ketta olekust rakendatakse vajalikku vormindamist või kustutamist"
+borra_MSG8="CD-RW KUSTUTATUD ÕNNE!!"
+borra_MSG9="VIGA CD-RW KUSTUTAMISEL"
+borra_MSG10="KUSTUTA CD-RW KUSTUTAMINE"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="VIGA CD-RW MÄRGI KUSTUTAMISEL"
+err_borra_cdrw_MSG2="CD-RW KASUTAMATU"
+err_borra_cdrw_MSG3="SEDA CD-RW d EI OLE VÕIMALIK KUSTUTADA"
+err_borra_cdrw_MSG4="KONTROLLI CD-RW d FÜÜSILISTE KAHJUSTUSTE VÄLJA"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="töötav"
+cerrar_cd_MSG2="CD ON KORRALIKULT SULETUD"
+cerrar_cd_MSG3="VIGA CD SULGEMISEL"
+cerrar_cd_MSG4="RAJA SULETAMINE ANDME CD l..."
+
+# grabimg
+
+grabimg_MSG1=".iso või .ext2 pilt CD le/DVD le kirjutamiseks"
+grabimg_MSG2="Failihalduri käivitamine."
+grabimg_MSG3="Sisestage täielik tee, kus asub CD/DVD kujutis, mida soovite põletada:"
+grabimg_MSG4="töötav"
+grabimg_MSG5="-----------SALVESTAMISPROTSESSI TAASPROTSING-----------"
+grabimg_MSG6="SALVESTUS LÕPPENUD!!"
+grabimg_MSG7=".EXT2 PILT ON EDUKALT SALVESTATUD"
+
+# grabimglb
+
+grabimglb_MSG1="Sisestage täielik tee, kus asub CD/DVD kujutis, mida soovite põletada:"
+grabimglb_MSG2="Pildi kirjutamine kettale..."
+grabimglb_MSG3="ISO-9660 PILT SALVESTATUD ÕNNEKULT"
+grabimglb_MSG4="VIGA ISO-9660 PILDI SALVEStamisel"
+grabimglb_MSG5="Viga: pildifaili ei leitud. Katkestamine..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin ja .cue failid pildi salvestamiseks"
+grabimg_cue_MSG2="Kasutaja/kii pildi salvestamiseks peavad mõlemad failid"
+grabimg_cue_MSG3="olema aktiivses kataloogis."
+grabimg_cue_MSG4="Praegune aktiivne kataloog"
+grabimg_cue_MSG5="Sisesta *.cue faili nimi, mis viitab *.bin pildifailile"
+grabimg_cue_MSG6=".cue fail: "
+grabimg_cue_MSG7="töötav"
+grabimg_cue_MSG8="SALVESTUS LÕPPENUD!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Kõletage mitmesessiooniline CD .iso kujutisest"
+cd_multi_MSG2="Kirjuta esimene seanss .iso kujutisest CD le"
+cd_multi_MSG3="Kõletage mitmesessiooniline CD ketta failidest"
+cd_multi_MSG4="Salvestage järjestikused seansid kõvakettal olevatest failidest CD le"
+cd_multi_MSG5="See valik nõuab mitme seansi CD d, millel on eelnevalt salvestatud seanss."
+cd_multi_MSG6="Eelmine menüü"
+cd_multi_MSG7=".iso pilt CD-Multisessioni le kirjutamiseks"
+cd_multi_MSG8="Määrake .iso pildi tee"
+cd_multi_MSG9="töötav"
+cd_multi_MSG10="MITME SEANSIGA CD ON EDUNELT SALVESTATUD!!"
+cd_multi_MSG11="Kataloogid, mida pildile lisada."
+cd_multi_MSG12="Määrake allpool millised kataloogid kaasata"
+cd_multi_MSG13="Sisesta CD sildi nimi:"
+cd_multi_MSG14="PILDI LOOMINE..."
+cd_multi_MSG15="EDUKS LOODUD"
+cd_multi_MSG16="VIGA PILDI LOOMISEL. SALVESTAMISPROTSESSI KUSTAMINE..."
+cd_multi_MSG17="CD PILT PÕLEB..."
+cd_multi_MSG18="CD MULTI SEANSI MENÜÜ"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="HELI CD RIPIMINE..."
+copia_cd_audio_MSG2="töötav"
+copia_cd_audio_MSG3="AUDIORAJAD ON EDUKALT VALMIS!!"
+copia_cd_audio_MSG4="VIGA HELIRADADE RÕPITAMISEL"
+copia_cd_audio_MSG5="HELI CD PÕLEB..."
+copia_cd_audio_MSG6="AUDIO CD ON KOPEERITUD!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav failid CD le kirjutamiseks"
+wav_a_cd_MSG2="Linux-cdgrab ei kontrolli kataloogi suurust"
+wav_a_cd_MSG3="Veenduge, et see ei oleks suurem kui 650 Mbaiti"
+wav_a_cd_MSG4="kui kasutate 80 minutilist CD d."
+wav_a_cd_MSG5="Sisesta .wav failide kataloogi tee"
+wav_a_cd_MSG6="töötav"
+wav_a_cd_MSG7="PROTSESS LÕPPENUD!"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Segatud loomise projekt (andmepilt .iso + helifailid .wav)"
+cdmixto_MSG2="Linux-cdgrab ei kontrolli kataloogi suurust"
+cdmixto_MSG3="kus on helifailid."
+cdmixto_MSG4="See ei tee seda ka .iso pildilt, mida kavatsete salvestada"
+cdmixto_MSG5="pärast."
+cdmixto_MSG6="Jälgige oma suurust"
+cdmixto_MSG7="põletage oma uuele CD le."
+cdmixto_MSG8="Määrake helifailide tee:"
+cdmixto_MSG9="Määrake iso kujutise tee:"
+cdmixto_MSG10="####################################"
+cdmixto_MSG11="SALVESTAMINE SEGA-CD: ANDMED + AUDIO"
+cdmixto_MSG12="töötav"
+cdmixto_MSG13="---- CD SEGATUD EDUKALT LOODUD-----!!"
+cdmixto_MSG14="------VIGA SEGA CD KÕLLEMISEL--------"
+
+# discoinfo
+
+discoinfo_MSG1="töötav"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI port skannitud"
+cdrecord_scan_MSG1="IDE/SCSI pordi skannimisel tekkis viga"
+cdrecord_scan_MSG2="cdrecord ei leitud"
+

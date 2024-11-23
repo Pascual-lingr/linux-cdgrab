@@ -1,0 +1,45 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Mongol para la aplicación principal  #
+# Traducción experimental.                         #
+# Generado con Google Translate.                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Файлыг LINUX-CDGRAB 1.0 автоматаар үүсгэсэн"
+creacion_de_Depot_MSG2="Энэ файл нь лавлахын хамт"
+creacion_de_Depot_MSG3="автоматаар үүсгэгдсэн"
+creacion_de_Depot_MSG4="Linux-cdgrab програм нь таны Линукс түгээлтэд байхгүй эсэхийг шалгах үед"
+creacion_de_Depot_MSG5="лавлах"
+creacion_de_Depot_MSG6="Linux-cdgrab нь энэ санг түр зуурын файлууд болон төхөөрөмжийн дүрс (iso, img гэх мэт) бичихэд ашигладаг."
+creacion_de_Depot_MSG8="Түр зуурын файлуудыг хадгалахын тулд агуулахыг GoboLinux ашигладаг"
+creacion_de_Depot_MSG9="Энэ файлын зорилго нь зөвхөн мэдээллийн зорилгоор хийгдсэн тул та уншсаны дараа чөлөөтэй устгах боломжтой."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="МЭДЭГДЭЛ:"
+main_IDSISTEMA_MSG2="Үйлдлийн системийг дэмждэггүй."
+main_IDSISTEMA_MSG3="Хэрэв програмын үйл ажиллагаанд асуудал гарвал GNU/Linux ашиглана уу"
+
+# argumentos
+
+main_arg_MSG1="Энэ нь үндэслэлтэй аргумент биш юм"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="олдсон"
+main_cdkit_test_MSG2="wodim-ийн холбоос үүсгэсэн"
+main_cdkit_test_MSG3="үүсгэсэн генисоимжийн холбоос"
+main_cdkit_test_MSG4="icedax-ийн холбоос үүсгэсэн"
+
+# pgm principal
+
+pgm_principal_MSG1="FATAL: Зөв лавлах түгээлт олдсонгүй."
+pgm_principal_MSG2="Мэдэхгүй"
+

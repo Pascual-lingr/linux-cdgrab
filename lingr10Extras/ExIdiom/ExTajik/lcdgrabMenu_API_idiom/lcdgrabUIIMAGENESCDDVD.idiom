@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Tayiko, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="Эҷод кардан ва кор кардан бо тасвирҳои диск"
+MenuImagen_MSG2="---------------- Эҷоди тасвир ------------------"
+MenuImagen_MSG3="Эҷоди тасвири ISO-9660"
+MenuImagen_MSG4="Бо системаи файлии аслии Linux тасвир эҷод кунед"
+MenuImagen_MSG5="Эҷоди тасвири .img аз ягон дастгоҳи блок"
+MenuImagen_MSG6="Эҷоди тасвири .bin .cue аз дастгоҳи ҷорӣ"
+MenuImagen_MSG7="--------------- ДИГАР ИНТИХОБОТ ----------------"
+MenuImagen_MSG8="Файли тавсифи .cue-ро аз тасвири .bin тавлид кунед"
+MenuImagen_MSG9="Тасвири .nrg (Nero Burning ROM) -ро ба .iso табдил диҳед"
+MenuImagen_MSG10="Тасвирро бо gzip, bzip2 ё xz фишурда кунед"
+MenuImagen_MSG11="Кушод кардани тасвир дар zip, gz, bz2 ё xz"
+MenuImagen_MSG11B="Тафтиши md5 миқдори тасвирҳои ISO"
+MenuImagen_MSG12="Тағйир додани ҳолати iso"
+MenuImagen_MSG0="Менюи қаблӣ"
+MenuImagen_MSG13="Файли тасвир барои фишурдашаванда"
+MenuImagen_MSG14="ФАЙЛИ ТАСВОРРО ФИКШ КАРДАН"
+MenuImagen_MSG15="Роҳеро ворид кунед, ки дар он тасвире, ки шумо фишурдан мехоҳед, ҷойгир аст:"
+MenuImagen_MSG16="Файли тасвирие, ки шумо мехоҳед фишурда кунед"
+MenuImagen_MSG17="САТҲИ ХОЗИРА ISO"
+MenuImagen_MSG18="сатҳи iso"
+MenuImagen_MSG19="Номҳои файл аз қисм иборатанд"
+MenuImagen_MSG20="ва бо 8,3 аломат маҳдуданд."
+MenuImagen_MSG21="Ин сатҳро интихоб кунед, агар шумо мувофиқати ном дошта бошед"
+MenuImagen_MSG21b="дар зери системаи оператсионии MS-DOS"
+MenuImagen_MSG22="Номҳои файл аз қисм иборатанд"
+MenuImagen_MSG23="Сатҳи номаҳдуд."
+MenuImagen_MSG24="Агар шумо хоҳед, ки бо файлҳо мувофиқат дошта бошед, ин сатҳро истифода баред"
+MenuImagen_MSG25="калон, дар ин ҳолат >= 2 гигабайт."
+MenuImagen_MSG26="Ҳама сатҳҳои ISO номи файлҳоро бо ҳарфҳои калон, хурд ва маҳдуд мекунанд"
+MenuImagen_MSG27="аломатҳо ба монанди _ . Номҳои файл бо 31 аломат маҳдуданд"
+MenuImagen_MSG28="Ҳадди аксар 8 роҳи феҳрист ва номи роҳ"
+MenuImagen_MSG29="Феҳристҳо то 255 аломат."
+MenuImagen_MSG30="Сатҳи нави iso-ро интихоб кунед"
+MenuImagen_MSG31="Сатҳи ISO 4 расмӣ нест"
+MenuImagen_MSG32="Ба саҳифаи одами mkisofs муроҷиат кунед"
+MenuImagen_MSG33="Сатҳи ISO нодуруст"
+MenuImagen_MSG34="Сатҳи ISO 3 бо нобаёнӣ муқаррар шудааст"
+

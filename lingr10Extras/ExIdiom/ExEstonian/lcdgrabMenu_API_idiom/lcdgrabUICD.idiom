@@ -1,0 +1,73 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Estonio, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="VALI VALIK"
+clonar_MSG2="---------- PLAADI EELPILDISE KOopiad -----------"
+clonar_MSG3="Kopeeri andme CD"
+clonar_MSG4="Loo kõvakettale eelmine CD kujutis"
+clonar_MSG5="----------- PLAATIDE KOopiad LENNULE -----------"
+clonar_MSG6="Kopeerige andme CD käigu pealt"
+clonar_MSG7="Kloonige andme CD käigu pealt"
+clonar_MSG7B="Kopeerige heli CD käigu pealt"
+clonar_MSG8="LENDAVAD KOopiavalikud NÕUAVAD KAHTE OPTILIST ÜKSUST"
+clonar_MSG9="PAIGALDATUD TEIE ARVUTISSE, KUNA ANDMED ON SALVESTAMISE AJAL"
+clonar_MSG10="LOE OTSE ALGKELTULT, KUI AINULT TEIE ARVUTIS ON"
+clonar_MSG11="ÜKS EI SAA KOopiaid LENNULE KASUTADA."
+clonar_MSG12B="KOPEERI CD ANDMED"
+clonar_MSG0="Eelmine menüü"
+
+# mgrabacd
+
+mgrabacd_MSG1="CD ANDMED KÕVAKETTALT"
+mgrabacd_MSG2="Põletage uus andme CD (kasutage cdrtools)"
+mgrabacd_MSG3="Kirjuta uus andme CD (kasuta libburnia)"
+mgrabacd_MSG4="Eelmine menüü"
+mgrabacd_MSG5="Sisesta valik"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="ANDMETE PILDI SALVESTAMINE"
+mgrabaimg_MSG2="Kirjuta iso või ext2 pilt CD-R/RW le (kasutage cdrtools )"
+mgrabaimg_MSG3="Kirjuta iso pilt CD-R/RW le (kasuta libburnia)"
+mgrabaimg_MSG4="Eelmine menüü"
+mgrabaimg_MSG5="Sisesta valik"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Põletage heli CD .wav failidest"
+mgrabararchivosaudio_MSG2="Põletage heli CD .mp3 failidest"
+mgrabararchivosaudio_MSG3="Põletage heli CD .ogg failidest"
+mgrabararchivosaudio_MSG0="Eelmine menüü"
+mgrabararchivosaudio_MSG0B="Sisestage valik"
+mgrabararchivosaudio_MSG4="Kirjutage heli CD .flac failidest"
+mgrabararchivosaudio_MSG5="CD HELI SALVESTAMINE FAILIDEST"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="SALVESTAMINE CD LE"
+menugrabar_cd_MSG2="------------------- CD - ANDMED ------------------"
+menugrabar_cd_MSG3="Kopeeri andmete CD"
+menugrabar_cd_MSG4="Põleta uus andme CD"
+menugrabar_cd_MSG5="Kirjuta uus mitme seansi andmete CD"
+menugrabar_cd_MSG6="Põleta .iso või .ext2 pilt CD le"
+menugrabar_cd_MSG7="Põletage .bin/.cue pilt CD le"
+menugrabar_cd_MSG8="-------------------- CD - AUDIO ------------------"
+menugrabar_cd_MSG9="Kopeerige heli CD"
+menugrabar_cd_MSG13="---------------- MUUD VÕIMALUSED -----------------"
+menugrabar_cd_MSG14="Kirjuta sega-CD (andmed + heli)"
+menugrabar_cd_MSG15="Kustuta CD-RW"
+menugrabar_cd_MSG16="Sule avatud CD"
+menugrabar_cd_MSG17="Näita ketta teavet draivis"
+menugrabar_cd_MSG18="Kirjuta heli CD kettafailidest"
+menugrabar_cd_MSG0="Eelmine menüü"
+menugrabar_cd_MSGPRINCIPAL="Tippige valik"
+

@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKazakh/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Kazajo, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Қолданылатын пайдаланушы интерфейсін таңдаңыз:"
+SeleccionaIUDVD_MSG2="dvd+-rw-tools үшін интерфейсті пайдалану"
+SeleccionaIUDVD_MSG3="Cdrecord-ProDVD үшін интерфейсті пайдалану"
+SeleccionaIUDVD_MSG4="libburnia үшін интерфейсті пайдалану"
+SeleccionaIUDVD_MSG5="Алдыңғы мәзір"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="DVD ЖАЗУ"
+menugrabar_dvd_MSG2="----------------- DVD - DATA -------------------"
+menugrabar_dvd_MSG3="ISO-9660 деректер DVD дискісін көшіру"
+menugrabar_dvd_MSG4="Қатты дискіде алдыңғы DVD кескінін жасау"
+menugrabar_dvd_MSG5="Жаңа ISO-9660 деректер DVD дискісін жазу"
+menugrabar_dvd_MSG6="ISO-9660 деректер DVD дискісіне (көп сеанстық DVD) жаңа деректер сеансын қосу"
+menugrabar_dvd_MSG7="Екінші опцияны пайдаланып бұрын жазылған DVD қажет етеді"
+menugrabar_dvd_MSG8="ISO-9660 деректер кескінін DVD дискісіне жазу"
+menugrabar_dvd_MSG9=".ext2 кескінін DVD-ге жазу"
+menugrabar_dvd_MSG10="----------------- DVD - ВИДЕО ------------------"
+menugrabar_dvd_MSG11="Жаңа DVD-бейне жазу"
+menugrabar_dvd_MSG12="--------------- БАСҚА ОПЦИЯЛАР -----------------"
+menugrabar_dvd_MSG13="DVD+RW/DVD-RW пішімдеу"
+menugrabar_dvd_MSG14="DVD дискі туралы ақпаратты көрсету"
+menugrabar_dvd_MSG0="Алдыңғы мәзір"
+menugrabar_dvd_MSGPRINCIPAL="Опцияны теру"
+menugrabar_dvd_MSG15="DVD-ге қосылатын файлдар мен каталогтар"
+menugrabar_dvd_MSG16="Файл менеджері іске қосылуда..."
+menugrabar_dvd_MSG17=".DVD-ге жазу үшін iso кескіні"
+menugrabar_dvd_MSG18="Жазғыңыз келетін .iso кескіні орналасқан каталог жолын теріңіз"
+menugrabar_dvd_MSG19="DVD қолдауы бар cdжазба нұсқасын қажет етеді."
+menugrabar_dvd_MSG20="DVD-ге .ext2 кескінін жазу cdrecord арқылы орындалады."
+menugrabar_dvd_MSG21="Орнатуыңызда бар cdrecord нұсқасы қажет"
+menugrabar_dvd_MSG22="DVD жазуын қолдау."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="ОПЦИЯНЫ ТАҢДАУ"
+dvd_clonar_MSG2="--- АЛДЫН АЛА ҚАРАУ БЕЙНЕСІ БАР ДИСК КӨШІРМЕЛЕРІ ---"
+dvd_clonar_MSG3="Деректерді DVD дискісін көшіру"
+dvd_clonar_MSG4="Қатты дискіде алдыңғы DVD кескінін жасау"
+dvd_clonar_MSG5="--- Ұшудағы ДИСК КӨШІРМЕЛЕРІ ---"
+dvd_clonar_MSG6="Деректерді DVD дискісін жылдам көшіру"
+dvd_clonar_MSG7="Деректерді DVD дискісін жылдам клондау"
+dvd_clonar_MSG8="ҰШАТЫН КӨШІРУ ОПЦИЯЛАРЫНА ЕКІ ОПТИКАЛЫҚ БІРЛІКТІ ТАЛАП КЕТЕДІ"
+dvd_clonar_MSG9="СІЗДІҢ КОМПЬЮТЕРГЕ ОРНАТЫЛҒАН, ДЕРЕКТЕР ЖАЗЫЛҒАН ҮШІН"
+dvd_clonar_MSG10="СІЗДІҢ КОМПЬЮТЕРІҢІЗДЕ ТЕК БАР БОЛСА, ТІКЕЛЕЙ ДІСКЕНДЕН ОҚУ"
+dvd_clonar_MSG11="СІЗ ҰШАҚТА КӨШІРМЕЛЕРДІ ПАЙДАЛАНА АЛМАЙСЫЗ."
+dvd_clonar_MSG0="Алдыңғы мәзір"
+dvd_clonar_MSG12="DVD ДЕРЕКТЕРДІ КӨШІРУ"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD ЖАЗУ"
+menugrabar_DVD_MSG2="------------------ DVD - DATA --------------------"
+menugrabar_DVD_MSG3="Деректерді DVD көшіру"
+menugrabar_DVD_MSG4="Жаңа деректер DVD дискісін жазу"
+menugrabar_DVD_MSG5=".iso немесе .ext2 кескінін DVD-ге жазу"
+menugrabar_DVD_MSG6="DVD+RW/DVD-RW пішімі"
+menugrabar_DVD_MSG7="Дискідегі диск ақпаратын көрсету"
+menugrabar_DVD_MSG0="Алдыңғы мәзір"
+menugrabar_DVD_MSGPRINCIPAL="Опцияны теру"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="ISo-9660 кескінін DVD-ге жазу"
+menugrabar_DVD_libburnia_MSG2="Деректерді қатты дискіден DVD-ге жазу"
+menugrabar_DVD_libburnia_MSG3="DVD пішімі"
+menugrabar_DVD_libburnia_MSG4="DVD-RW форматын дәйекті ұлғайту"
+menugrabar_DVD_libburnia_MSG5="Шектеулі қайта жазу үшін DVD-RW пішімі"
+menugrabar_DVD_libburnia_MSG6="Драйвер ақпаратын көрсету"
+menugrabar_DVD_libburnia_MSG8="Жүйеде орнатылған дискілердің тізімі"
+menugrabar_DVD_libburnia_MSG0="Шығу"
+menugrabar_DVD_libburnia_MSG7="Опцияны енгізіңіз"
+

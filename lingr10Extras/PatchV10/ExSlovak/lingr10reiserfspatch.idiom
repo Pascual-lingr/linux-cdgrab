@@ -1,0 +1,76 @@
+# Idioma Eslovaco para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Pre pokračovanie stlačte ENTER..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 PODPORA REISERFS."
+cabecera_interfaz_MSG3="=================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Pripojiť výstup príkazu:"
+formatear_disco_reiserfs_MSG2="Určite blokové zariadenie na formátovanie: "
+formatear_disco_reiserfs_MSG3="Zariadenie úspešne naformátované"
+formatear_disco_reiserfs_MSG4="Chyba pri formátovaní zariadenia"
+formatear_disco_reiserfs_MSG5="PROCES DOKONČENÝ"
+formatear_disco_reiserfs_MSG6="Odpája sa zariadenie..."
+formatear_disco_reiserfs_MSG7="Formátovanie disku v ReiserFS..."
+formatear_disco_reiserfs_MSG8="Beží"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="FORMÁTOVANIE ÚSPEŠNE"
+formatear_img_reiserfs_MSG2="CHYBA PRI FORMÁTOVANÍ PRÁZDNÉHO SÚBORU"
+formatear_img_reiserfs_MSG3="Generuje sa prázdny súbor..."
+formatear_img_reiserfs_MSG4="Beží"
+formatear_img_reiserfs_MSG5="Formátovanie prázdneho súboru v ReiserFS..."
+formatear_img_reiserfs_MSG6="GENEROVANIE PRÁZDNÉHO SÚBORU S VLASTNOU VEĽKOSŤOU"
+formatear_img_reiserfs_MSG7="Určite veľkosť prázdneho súboru, ktorý sa má vygenerovať (iba číselná hodnota):"
+formatear_img_reiserfs_MSG8="Meranie priestoru na vygenerovanie prázdneho súboru:"
+formatear_img_reiserfs_MSG9="Určite mieru priestoru, ktorý sa má použiť: "
+formatear_img_reiserfs_MSG10="CHYBA PRI ZADÁVANÍ VEĽKOSTI"
+formatear_img_reiserfs_MSG11="Hodnota veľkosti bloku:"
+formatear_img_reiserfs_MSG12="Množstvo miesta pre prázdny súbor:"
+formatear_img_reiserfs_MSG13="Vypočítaná hodnota v bajtoch:"
+formatear_img_reiserfs_MSG14="Vypočítaná hodnota pre počet:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Vytvoriť obraz pre CD-R/RW (702 Mbytes)"
+m_img_CDDVDBD_reiserfs_MSG2="Vytvoriť obraz pre DVD+RW (4 GB)"
+m_img_CDDVDBD_reiserfs_MSG3="Vytvoriť obraz pre DVD+RW/DL (8 GB)"
+m_img_CDDVDBD_reiserfs_MSG4="Vytvoriť obraz pre BD-R/RE (25 GB)"
+m_img_CDDVDBD_reiserfs_MSG5="Vytvoriť obrazový súbor s vlastnou veľkosťou"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Ukončiť"
+imgr_tmp_MSG1="Vymazať všetky obrazové súbory reiserfs"
+imgr_tmp_MSG2="Pripojiť alebo odpojiť obrazový súbor"
+imgr_tmp_MSG3="Súbory obrázkov v"
+imgr_tmp_MSG4="Vyberte možnosť"
+imgr_tmp_MSG5="Odstránené obrazové súbory"
+imgr_tmp_MSG6="Pripojiť obrázok"
+imgr_tmp_MSG7="Odpojiť obrázok"
+imgr_tmp_MSG8="Pripojený obrázok"
+imgr_tmp_MSG9="Odpojený obrázok"
+imgr_tmp_MSG10="Neplatná možnosť"
+imgr_tmp_MSG11="Určite obrázok na pripojenie alebo odpojenie:"
+imgr_tmp_MSG12="Chyba pri pripájaní obrazu"
+imgr_tmp_MSG13="Chyba pri odpájaní obrazu"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Formátovať disk v ReiserFS"
+lingr10reiserfspatch_MSG2="Vytvoriť obraz ReiserFS pre CD/DVD/BD"
+lingr10reiserfspatch_MSG3="Operácie s obrázkami ReiserFS"
+lingr10reiserfspatch_MSG4="Neplatná voľba"
+lingr10reiserfspatch_MSG0="Koniec"
+

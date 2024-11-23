@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongolian/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Mongol, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Ашиглах хэрэглэгчийн интерфэйсийг сонгоно уу:"
+SeleccionaIUDVD_MSG2="dvd+-rw-tools ийн интерфейсийг ашиглах"
+SeleccionaIUDVD_MSG3="Cdrecord-ProDVD ийн интерфейсийг ашиглах"
+SeleccionaIUDVD_MSG4="libburnia д зориулсан интерфейсийг ашиглах"
+SeleccionaIUDVD_MSG5="Өмнөх цэс"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="DVD БИЧЛЭГ"
+menugrabar_dvd_MSG2="----------------- DVD - DATA -------------------"
+menugrabar_dvd_MSG3="ISO-9660 өгөгдлийн DVD-г хуулах"
+menugrabar_dvd_MSG4="Хатуу диск дээр өмнөх DVD дүрсийг үүсгэх"
+menugrabar_dvd_MSG5="Шинэ ISO-9660 өгөгдлийн DVD бичих"
+menugrabar_dvd_MSG6="ISO-9660 өгөгдлийн DVD (олон сесс DVD) д шинэ дата сесс нэмэх"
+menugrabar_dvd_MSG7="Хоёр дахь сонголтыг ашиглан өмнө нь бичигдсэн DVD шаардлагатай"
+menugrabar_dvd_MSG8="ISO-9660 өгөгдлийн дүрсийг DVD рүү бичих"
+menugrabar_dvd_MSG9=".ext2 дүрсийг DVD рүү бичих"
+menugrabar_dvd_MSG10="------------------ DVD-ВИДЕО -------------------"
+menugrabar_dvd_MSG11="Шинэ DVD-Видео бичих"
+menugrabar_dvd_MSG12="---------------- БУСАД СОНГОЛТ -----------------"
+menugrabar_dvd_MSG13="DVD+RW/DVD-RW форматлах"
+menugrabar_dvd_MSG14="DVD дискний мэдээллийг харуулах"
+menugrabar_dvd_MSG0="Өмнөх цэс"
+menugrabar_dvd_MSGPRINCIPAL="Сонголтыг бичнэ үү"
+menugrabar_dvd_MSG15="DVD дээр оруулах файлууд болон лавлахууд"
+menugrabar_dvd_MSG16="Файлын менежерийг ажиллуулж байна..."
+menugrabar_dvd_MSG17=".DVD болгон бичих ISO дүрс"
+menugrabar_dvd_MSG18="Шатаахыг хүсэж буй .iso зургийнхаа лавлах замыг бичнэ үү"
+menugrabar_dvd_MSG19="DVD дэмжлэгтэй cdrecord-ийн хувилбар шаардлагатай."
+menugrabar_dvd_MSG20="DVD дээр .ext2 дүрс бичлэгийг cdrecord ашиглан хийнэ."
+menugrabar_dvd_MSG21="Таны суулгацад байгаа cdrecord хувилбар байх ёстой"
+menugrabar_dvd_MSG22="DVD бичлэгийг дэмжих."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="СОНГОЛТ СОНГОХ"
+dvd_clonar_MSG2="--- УРЬДЧИЛСАН ЗУРГИЙН ДИСК ХУУРАЛТ ---"
+dvd_clonar_MSG3="Өгөгдлийн DVD-г хуулах"
+dvd_clonar_MSG4="Хатуу диск дээр өмнөх DVD дүрсийг үүсгэх"
+dvd_clonar_MSG5="--- Нислэг дээрх ДИСК ХУВИРАЛТ ---"
+dvd_clonar_MSG6="Өгөгдлийн DVD-г шууд хуулах"
+dvd_clonar_MSG7="Өгөгдлийн DVD-г шууд хуулбарлах"
+dvd_clonar_MSG8="НИСЭХ ХУУЛИЙН СОНГОЛТ НЬ ХОЁР ОПТИК НЭГЖ ШААРДЛАГАТАЙ"
+dvd_clonar_MSG9="ӨГӨГДӨЛИЙГ БҮРТГҮҮЛСЭН ҮЕД ТАНЫ КОМПЬЮТЕР ДЭЭР СУУРИЛСАН"
+dvd_clonar_MSG10="ТАНЫ КОМПЬЮТЕРТ ЗӨВХӨН БАЙГАА БОЛ ҮҮСГЭЛИЙН ДИСКЭЭС ШУУД УНШИХ"
+dvd_clonar_MSG11="ТА НИСЛЭГТ ХУВЬ ХУВЬ АШИГЛАХ БОЛОМЖГҮЙ."
+dvd_clonar_MSG0="Өмнөх цэс"
+dvd_clonar_MSG12="DVD өгөгдлийн хуулбар"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD БИЧЛЭГ"
+menugrabar_DVD_MSG2="------------------ DVD - DATA --------------------"
+menugrabar_DVD_MSG3="DVD өгөгдлийг хуулах"
+menugrabar_DVD_MSG4="Шинэ өгөгдлийн DVD бичих"
+menugrabar_DVD_MSG5=".iso эсвэл .ext2 дүрсийг DVD рүү бичих"
+menugrabar_DVD_MSG6="DVD+RW/DVD-RW форматлах"
+menugrabar_DVD_MSG7="Драйв дахь дискний мэдээллийг харуулах"
+menugrabar_DVD_MSG0="Өмнөх цэс"
+menugrabar_DVD_MSGPRINCIPAL="Сонголтыг бичнэ үү"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Iso-9660 дүрсийг DVD рүү бичих"
+menugrabar_DVD_libburnia_MSG2="Хатуу дискнээс DVD рүү өгөгдөл бичих"
+menugrabar_DVD_libburnia_MSG3="DVD форматлах"
+menugrabar_DVD_libburnia_MSG4="DVD-RW-г дараалсан өсөлт болгон форматлах"
+menugrabar_DVD_libburnia_MSG5="Хязгаарлагдмал дарж бичихийн тулд DVD-RW форматлах"
+menugrabar_DVD_libburnia_MSG6="Драйвын мэдээллийг харуулах"
+menugrabar_DVD_libburnia_MSG8="Системд суулгасан драйверуудын жагсаалт"
+menugrabar_DVD_libburnia_MSG0="Гарах"
+menugrabar_DVD_libburnia_MSG7="Сонголт оруулах"
+

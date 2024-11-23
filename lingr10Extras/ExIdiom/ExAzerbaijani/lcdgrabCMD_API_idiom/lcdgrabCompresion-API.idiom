@@ -1,0 +1,54 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAzerbaijani/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en azerbaiyano para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Faylın və ya qovluğun yolunu daxil edin:"
+empaquetar_MSG2="------- Seçimlər -------"
+empaquetar_MSG3=".tar.gz faylı yaradın"
+empaquetar_MSG4=".tar.bz2 faylı yaradın"
+empaquetar_MSG5="Seçim yazın: "
+empaquetar_MSG6="İşləyir"
+empaquetar_MSG7="Yanlış seçim"
+
+# desempaquetar
+
+desempaquetar_MSG1="Fayl yolunu daxil edin:"
+desempaquetar_MSG2="Heç bir dekompressor tapılmadı"
+desempaquetar_MSG3="VEYA"
+desempaquetar_MSG4="VAR YOXDUR"
+desempaquetar_MSG5="İşləyir"
+desempaquetar_MSG6="açılır"
+desempaquetar_MSG7="Paketdən çıxarmaqda xəta baş verdi"
+
+# comprime
+
+comprime_MSG1="ŞƏKİLİN SIKILMASI"
+comprime_MSG2="Bzip2 ilə sıxın"
+comprime_MSG3="Gzip ilə sıxışdır"
+comprime_MSG4="Xz ilə sıxışdır"
+comprime_MSG5="Əvvəlki menyu"
+comprime_MSG6="İşləyir"
+comprime_MSG7="Şəkil faylının sıxılması tamamlandı"
+comprime_MSG8="Sıkıştırma xətası"
+comprime_MSG9="Yanlış kompressor"
+
+# descomprime
+
+descomprime_MSG1="Fayl yolunu yazın:"
+descomprime_MSG2="------------------"
+descomprime_MSG3="Heç bir dekompressor tapılmadı"
+descomprime_MSG4="VEYA"
+descomprime_MSG5="VAR YOXDUR"
+descomprime_MSG6="İşləyir"
+descomprime_MSG7="sıxılmamış"
+descomprime_MSG8="Dekompressiya zamanı xəta baş verdi"
+
+

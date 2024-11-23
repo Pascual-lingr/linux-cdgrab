@@ -1,0 +1,49 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Estonio, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="KETAKUJUTISTE LOOMINE JA TÖÖTLEMINE"
+MenuImagen_MSG2="----------------- PILDI LOOMINE ----------------"
+MenuImagen_MSG3="Loo ISO-9660 pilt"
+MenuImagen_MSG4="Loo pilt natiivse Linuxi failisüsteemiga"
+MenuImagen_MSG5="Loo .img-kujutis mis tahes blokeerimisseadmest"
+MenuImagen_MSG6="Loo .bin .cue pilt praegusest seadmest"
+MenuImagen_MSG7="------------------ MUUD VALIKUD ----------------"
+MenuImagen_MSG8="Loo .cue kirjeldusfail .bin pildist"
+MenuImagen_MSG9="Teisenda .nrg (Nero Burning ROM) pilt .isoks"
+MenuImagen_MSG10="Tihenda pilt gzip, bzip2 või xz-ga"
+MenuImagen_MSG11="Pakkige pilt lahti zip-, gz-, bz2- või xz-vormingus"
+MenuImagen_MSG11B="Kontrolli md5 iso-piltide summat"
+MenuImagen_MSG12="Muuda iso režiimi"
+MenuImagen_MSG0="Eelmine menüü"
+MenuImagen_MSG13="Pildifail tihendatakse"
+MenuImagen_MSG14="COMPRESS IMAGE FAIL"
+MenuImagen_MSG15="Sisesta kataloogi tee, kus asub pilt, mida soovite tihendada:"
+MenuImagen_MSG16="Pildifail, mida soovite lahti pakkida"
+MenuImagen_MSG17="praegune ISO TASE"
+MenuImagen_MSG18="iso tase"
+MenuImagen_MSG19="Failinimed koosnevad jaotisest"
+MenuImagen_MSG20="ja on piiratud 8,3 tähemärgiga."
+MenuImagen_MSG21="Valige see tase, kui soovite nimede ühilduvust"
+MenuImagen_MSG21b="MS-DOS operatsioonisüsteemi all"
+MenuImagen_MSG22="Failinimed koosnevad jaotisest"
+MenuImagen_MSG23="Piiramatu tase."
+MenuImagen_MSG24="Kasuta seda taset, kui soovite ühilduvust failidega"
+MenuImagen_MSG25="suur, antud juhul >= 2 gigabaiti."
+MenuImagen_MSG26="Kõik ISO tasemed piiravad failinimedes suurtähti, väiketähti ja"
+MenuImagen_MSG27="märgid nagu _ . Failinimed on piiratud 31 tähemärgiga"
+MenuImagen_MSG28="Maksimaalselt 8 kataloogi teed ja tee nimi"
+MenuImagen_MSG29="kataloogid 255 tähemärgini."
+MenuImagen_MSG30="Vali uus iso tase"
+MenuImagen_MSG31="ISO tase 4 ei ole ametlik"
+MenuImagen_MSG32="Tutvu mkisofsi man-lehega"
+MenuImagen_MSG33="Vigane ISO tase"
+MenuImagen_MSG34="Määra vaikimisi iso tase 3"

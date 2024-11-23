@@ -1,0 +1,76 @@
+# Idioma Kazajo para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traduccion experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Жалғастыру үшін ENTER пернесін басыңыз..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 ҚОЛДАУ REISERFS."
+cabecera_interfaz_MSG3="================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Орнату пәрменінің шығысы:"
+formatear_disco_reiserfs_MSG2="Пішімдеу үшін блоктау құрылғысын көрсетіңіз: "
+formatear_disco_reiserfs_MSG3="Құрылғы сәтті пішімделді"
+formatear_disco_reiserfs_MSG4="Құрылғыны пішімдеу қатесі"
+formatear_disco_reiserfs_MSG5="ПРОЦЕСС АЯҚТАЛДЫ"
+formatear_disco_reiserfs_MSG6="Құрылғыны ажырату..."
+formatear_disco_reiserfs_MSG7="ReiserFS ішінде дискіні пішімдеу..."
+formatear_disco_reiserfs_MSG8="Орындалуда"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="СӘТТІ ПІШІМДЕРДІ"
+formatear_img_reiserfs_MSG2="БОС ФАЙЛДЫ Пішімдеу КЕЗІНДЕГІ ҚАТЕ"
+formatear_img_reiserfs_MSG3="Бос файл жасалуда..."
+formatear_img_reiserfs_MSG4="Орындалуда"
+formatear_img_reiserfs_MSG5="ReiserFS ішіндегі бос файлды пішімдеу..."
+formatear_img_reiserfs_MSG6="АРНАЛҒАН ӨЛШЕМІ БАР БОС ФАЙЛДЫ ЖАСАУ"
+formatear_img_reiserfs_MSG7="Жасалатын бос файлдың өлшемін көрсетіңіз (тек сандық мән):"
+formatear_img_reiserfs_MSG8="Бос файлды құру үшін кеңістік өлшемдері:"
+formatear_img_reiserfs_MSG9="Қолданылатын кеңістік өлшемін көрсетіңіз: "
+formatear_img_reiserfs_MSG10="ӨЛШЕМДІ ӨЛШЕРУ КЕЗІНДЕГІ ҚАТЕ"
+formatear_img_reiserfs_MSG11="Блок өлшемі мәні:"
+formatear_img_reiserfs_MSG12="Бос файл үшін орын мөлшері:"
+formatear_img_reiserfs_MSG13="Байттардағы есептелген мән:"
+formatear_img_reiserfs_MSG14="Санақ үшін есептелген мән:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="CD-R/RW (702 Мбайт) үшін сурет жасау"
+m_img_CDDVDBD_reiserfs_MSG2="DVD+RW (4 Гбайт) үшін сурет жасау"
+m_img_CDDVDBD_reiserfs_MSG3="DVD+RW/DL (8 Гбайт) үшін кескін жасау"
+m_img_CDDVDBD_reiserfs_MSG4="BD-R/RE (25 Гбайт) үшін сурет жасау"
+m_img_CDDVDBD_reiserfs_MSG5="Таңдамалы өлшемі бар сурет файлын жасау"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Шығу"
+imgr_tmp_MSG1="Барлық reiserfs кескін файлдарын жою"
+imgr_tmp_MSG2="Сурет файлын орнату немесе ажырату"
+imgr_tmp_MSG3="Кескін файлдары"
+imgr_tmp_MSG4="Опцияны таңдау"
+imgr_tmp_MSG5="Жойылған кескін файлдары"
+imgr_tmp_MSG6="Суретті орнату"
+imgr_tmp_MSG7="Кескінді ажырату"
+imgr_tmp_MSG8="Орнатылған сурет"
+imgr_tmp_MSG9="Ажыратылған сурет"
+imgr_tmp_MSG10="Жарамсыз опция"
+imgr_tmp_MSG11="Орнату немесе ажырату үшін суретті көрсетіңіз:"
+imgr_tmp_MSG12="Суретті орнату қатесі"
+imgr_tmp_MSG13="Суретті ажырату қатесі"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="ReiserFS ішіндегі дискіні пішімдеу"
+lingr10reiserfspatch_MSG2="CD/DVD/BD үшін ReiserFS кескінін жасау"
+lingr10reiserfspatch_MSG3="ReiserFS кескіндеріндегі операциялар"
+lingr10reiserfspatch_MSG4="Жарамсыз опция"
+lingr10reiserfspatch_MSG0="Шығу"
+

@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExMongolian/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Mongol para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="ДИСК Драйвын үйл ажиллагаа"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="-------------------------- ЧУХАЛ ------------------------"
+MenuDispositivosBloque_MSG3="+ Хатуу диск дээр бичих үйлдлийг бүү хий "
+MenuDispositivosBloque_MSG4="+ зураг агуулсан дискний хуваалтуудын тухай"
+MenuDispositivosBloque_MSG5="+ сэргээх, ачаалах хуваалтууд эсвэл өөрийн"
+MenuDispositivosBloque_MSG6="+ үйлдлийн системийн хуваалт."
+MenuDispositivosBloque_MSG7="+ Энэ цэсний бичих сонголтыг буруугаар ашиглах "
+MenuDispositivosBloque_MSG8="+ нь системд сүйрэл үүсгэж болзошгүй."
+MenuDispositivosBloque_MSG9="+ Болгоомжтой хэрэглээрэй. Эрсдэлд нь хамааруулан ашиглаарай."
+MenuDispositivosBloque_MSG10="-------------------- БИЧИЖ БАЙНА ---------------------"
+MenuDispositivosBloque_MSG11="Зургийн файлыг дискний диск рүү буулгах"
+MenuDispositivosBloque_MSG11B="Исо эсвэл img дүрсийг (өөрөө ачаалах боломжтой) pendrive эсвэл USB диск рүү хаях"
+MenuDispositivosBloque_MSG11C="Бүх суулгах системийг дэмждэггүй."
+MenuDispositivosBloque_MSG12="Драйвыг эх Linux эсвэл Windows файлын системээр форматлах"
+MenuDispositivosBloque_MSG13="-------------------- УНШИЖ БАЙНА ---------------------"
+MenuDispositivosBloque_MSG14="Дискээс .img дүрс үүсгэх"
+MenuDispositivosBloque_MSG15="Өмнөх цэс"
+MenuDispositivosBloque_MSG16="Сонголтыг бичнэ үү"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------ЧУХАЛ------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Төхөөрөмжүүдэд ашигладаг файлын систем бүхий форматын нэгж"
+UIFormatearUnidad_linuxfs_MSG2B="+ эсвэл дискний хуваалтууд."
+UIFormatearUnidad_linuxfs_MSG3="+ Энэ сонголт нь нэгж дээрх бүх өгөгдлийг устгах болно"
+UIFormatearUnidad_linuxfs_MSG4="+ Файлын системээр форматлагдсан зөөврийн хөтчүүд"
+UIFormatearUnidad_linuxfs_MSG5="+ Линукс нь зөвхөн энэ үйлдлийн системд л хандах боломжтой."
+UIFormatearUnidad_linuxfs_MSG6="+ Болгоомжтой хэрэглээрэй, эрсдэлээ өөрөө үүрнэ үү."
+UIFormatearUnidad_linuxfs_MSG7="-------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="Үргэлжлүүлэхийн тулд C товчийг дарна уу (өөр сонголтоор энэ үйл явц цуцлагдана)"
+

@@ -1,0 +1,37 @@
+# Idioma Afrikaans para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Druk ENTER om voort te gaan..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="======================================="
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 OMSETTING .NRG NA .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="Voer die pad in van die .nrg-prent wat jy wil omskakel:"
+convertir_imagen_nrg_MSG1B="Voer die pad in van die .iso-prent wat jy wil genereer:"
+convertir_imagen_nrg_MSG2="hardloop"
+convertir_imagen_nrg_MSG3="Omskakeling van .nrg-prent na .iso suksesvol voltooi"
+convertir_imagen_nrg_MSG4="Fout omskakel prent .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Ondersteuning vir beeldomskakeling in linux-cdgrab"
+creditospatchnrgaiso_MSG2="Omskakeling van .nrg-beelde na .iso met behulp van nrg2iso"
+creditospatchnrgaiso_MSG3="Verdeel onder GPL v2-lisensie"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="Opdrag weergawe:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="Skakel .nrg-prent om na .iso"
+lingr10ConversionNRG_2_ISO_MSG2="Meer oor"
+lingr10ConversionNRG_2_ISO_MSG3="Vorige spyskaart"
+lingr10ConversionNRG_2_ISO_MSG4="Ongeldige opsie"
+

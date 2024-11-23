@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovak/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en eslovaco para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="KONVERZIA ZVUKU"
+menu_conversion_audio_MSG2="------------- KONVERZIA MEDZI FORMÁTMI ------------"
+menu_conversion_audio_MSG3="Konvertovať .mp3 na .wav"
+menu_conversion_audio_MSG4="Konvertovať .ogg na .wav"
+menu_conversion_audio_MSG5="Konvertovať .wav na .mp3"
+menu_conversion_audio_MSG6="Konvertovať .wav na .ogg"
+menu_conversion_audio_MSG6C="Konvertovať .wav na .flac"
+menu_conversion_audio_MSG6B="Konvertovať .flac na .wav"
+menu_conversion_audio_MSG7="------------- EXTRAKCIA ZVUKOVÝCH STOPY -----------"
+menu_conversion_audio_MSG8="Kopírovať zvukové CD do .wav"
+menu_conversion_audio_MSG9="Ripujte sadu zvukových stôp do .wav"
+menu_conversion_audio_MSG10="Kopírovať zvukové CD do .mp3"
+menu_conversion_audio_MSG11="Kopírovať zvukové CD do .ogg"
+menu_conversion_audio_MSG0="Predchádzajúca ponuka"
+menu_conversion_audio_MSG12="Hľadať súbory .mp3"
+menu_conversion_audio_MSG13="Hľadať súbory .ogg"
+menu_conversion_audio_MSG14="Hľadať súbory .wav"
+menu_conversion_audio_MSG15="------------------ ĎALŠIE OPERÁCIE ----------------"
+menu_conversion_audio_MSG16="Vystrihnúť zvukový súbor .wav"
+menu_conversion_audio_MSG17="Kopírovať zvukové CD do .flac"
+
+

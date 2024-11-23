@@ -1,0 +1,16 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongolian/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Mongol para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="OPTICAL DISK EJACKED"
+expulsar_medio_MSG2="Төхөөрөмжөөс дискийг гаргах үед гарсан алдаа"
+expulsar_medio_MSG3="Нэрийг гараар оруулна уу:"
+

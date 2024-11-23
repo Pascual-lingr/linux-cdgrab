@@ -1,0 +1,26 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en estonio para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="VIDEO KONVERSIOON"
+menu_conversion_video_MSG2="------------- FORMAATIDE KONVERSIOON -------------"
+menu_conversion_video_MSG3="Teisenda video Blu Ray Disc Smart TV ga ühilduvaks"
+menu_conversion_video_MSG4="Teisendatav videofail:"
+menu_conversion_video_MSG0="Eelmine menüü"
+menu_conversion_video_MSG6="Salvesta töölauaseanss"
+menu_conversion_video_MSG7="Teisenda videofail erinevasse vormingusse"
+menu_conversion_video_MSG8="----------------- MUUD VALIKUD -------------------"
+menu_conversion_video_MSG9="Sega videofaili helifailiga"
+menu_conversion_video_MSG10="Videofailist MP3 heli ekstraktimine"
+menu_conversion_video_MSG11="Kärbi videofaili"
+
+
+

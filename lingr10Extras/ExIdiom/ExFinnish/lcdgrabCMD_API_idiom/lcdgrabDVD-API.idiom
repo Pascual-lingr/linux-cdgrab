@@ -1,0 +1,171 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFinnish/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Finés para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Tallennuslaite nimellä"
+buscar_grabadora_MSG1B="Kelvollinen"
+buscar_grabadora_MSG2="Tallennuslaite nimellä"
+buscar_grabadora_MSG2B="Virhe"
+buscar_grabadora_MSG3="dvd+-rw-tools eivät hyväksy, että tallennuslaite on"
+search_grabadora_MSG4="Jotta voit polttaa DVD-levyjä käyttämällä dvd+-rw-tools, sinun on määritettävä tallentimesi lohkolaitteeksi"
+buscar_grabadora_MSG5="Esimerkki"
+buscar_grabadora_MSG6="tai"
+buscar_grabadora_MSG7="Näytetään olemassa olevat järjestelmälaitteet kansiossa /dev"
+buscar_grabadora_MSG8="Syötä DVD-tallentintaasi vastaava lohkolaite"
+buscar_grabadora_MSG9="Tallentimen tyyppiä tai vaihtoehtoa ei ole määritetty."
+buscar_grabadora_MSG10="LAITE MÄÄRITTY TALLENTAMISTA VARTEN"
+buscar_grabadora_MSG11="Tallennuslaite on viety shell ympäristöön nimellä"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Mahdollinen arvo koskee vain cdrecord"
+buscar_grabadoralb_MSG2="Tallentimen nykyinen kokoonpano on"
+buscar_grabadoralb_MSG3="Tarkista, että tämä kokoonpano vastaa cdrskinin antamaa arvoa"
+buscar_grabadoralb_MSG4="Skannataan IDE/SCSI-porttia cdrskinillä..."
+buscar_grabadoralb_MSG5="Määritä uusi arvo, jota käytetään cdrskinin kanssa:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Anna nimi tulevalle DVD:lle:"
+datos_dvd_MSG2="TALLENNUS DVD..."
+datos_dvd_MSG3="Käytetään"
+datos_dvd_MSG4="käynnissä"
+datos_dvd_MSG5="DVD ON TALLENNETTU! "
+datos_dvd_MSG6="Mkisofia tai genisoimagea ei löydy, asenna cdrtools tai cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Anna nimi tulevalle DVD:lle:"
+datos_dvd_multi_MSG2="TALLENNUS DVD..."
+datos_dvd_multi_MSG3="Käytetään"
+datos_dvd_multi_MSG4="käynnissä"
+datos_dvd_multi_MSG5="DVD ON TALLENNETTU! "
+datos_dvd_multi_MSG6="Mkisofeja tai genisoimagea ei löydy, asenna cdrtools tai cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="TALLENNA KUVAA..."
+grabimg_dvd_MSG2="käynnissä"
+grabimg_dvd_MSG3="! DVD-KUVA TALLENNETTU ONNISTUSTI!"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="KUVAN TALLENNUS DVD:LLE..."
+copia_bin_dvd_MSG2="käynnissä"
+copia_bin_dvd_MSG3="	POISTETAAN KUVATIEDOSTO"
+copia_bin_dvd_MSG4="TALLENNUS VALMIS!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Muotoile"
+formatear_dvd_MSG2="Pakota uusi muoto"
+formatear_dvd_MSG3="Siirrä a:n ulostulolohko uudelleen"
+formatear_dvd_MSG4="Alusta DVD-RW peräkkäiseksi inkrementaaliseksi"
+formatear_dvd_MSG5="Alusta DVD-RW rajoitettuun päällekirjoitukseen"
+formatear_dvd_MSG6="Täytä DVD nolilla"
+formatear_dvd_MSG7="Näytä DVD-tiedot"
+formatear_dvd_MSG8="Edellinen valikko"
+formatear_dvd_MSG9="Tätä vaihtoehtoa käytetään DVD-levyn alustamiseen ensimmäistä kertaa."
+formatear_dvd_MSG10="Jos DVD on jo alustettu, se ei poista tietoja."
+formatear_dvd_MSG11="Nämä korvataan uudessa tallenteessa."
+formatear_dvd_MSG12="DVD-levyn sisällön poistamiseksi käytä:"
+formatear_dvd_MSG13="Täytä DVD nolilla"
+formatear_dvd_MSG14="Tämä vaihtoehto poistaa muodon ja tiedot käsitellyltä DVD levyltä."
+formatear_dvd_MSG15="käynnissä"
+formatear_dvd_MSG16="DVD+RW/DVD-RW ONNISTUSTI ALUSTETTU!"
+formatear_dvd_MSG17="VIRHE DVD-ALUSTEESSA"
+formatear_dvd_MSG18="Pakotetaan formatointi DVD+RW levylle..."
+formatear_dvd_MSG19="DVD+RW ONNISTUSTI ALUSTETTU!"
+formatear_dvd_MSG20="VIRHE DVD+RW-VIRHE ALUSTETTAESSA"
+formatear_dvd_MSG21="Tämä vaihtoehto ei vaikuta DVD+RW levylle tallennettuihin tietoihin"
+formatear_dvd_MSG22="Poistetaan ulostulolohkoa DVD+RW:ltä..."
+formatear_dvd_MSG23="Alustataan DVD-RW levyä peräkkäiseen kirjoittamiseen..."
+formatear_dvd_MSG24="DVD-RW ONNISTUSTI ALUSTETTU!"
+formatear_dvd_MSG25="VIRHE DVD-RW VIRHE ALUSTETTAESSA"
+formatear_dvd_MSG26="Alustetaan DVD-RW levyä rajoitettuun päällekirjoitukseen..."
+formatear_dvd_MSG27="POISTA TALLENTAVA DVD"
+
+# null_dvd
+
+null_dvd_MSG1="Kirjoitetaan levylle tiedostosta /dev/zero...."
+null_dvd_MSG2="käynnissä"
+null_dvd_MSG3="PROSESSI VALMIS"
+null_dvd_MSG4="ODOTTAmaton VIRHE"
+
+# dvd_video
+
+dvd_video_MSG1="Polku, jossa VIDEO_TS  ja AUDIO_TS hakemistot sijaitsevat:"
+dvd_video_MSG2="Määritä polku, jossa VIDEO_TS ja AUDIO_TS hakemistot sijaitsevat:"
+dvd_video_MSG3="käynnissä"
+dvd_video_MSG4="--- ONNISTUSTI TALLENNETTU DVD-VIDEO ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="käynnissä"
+dvd_copia_bin_MSG2="	POISTETAAN KUVATIEDOSTO"
+dvd_copia_bin_MSG3="TALLENNUSVIRHE ON TAPAHTUNUT"
+
+# dvd_datos
+
+dvd_datos_MSG1="Tiedostot ja hakemistot .iso-kuvan luomiseen"
+dvd_datos_MSG2="DVD-TIETOKONE"
+dvd_datos_MSG3="Anna nimi tulevalle DVD:lle:"
+dvd_datos_MSG4="Tiedostonhallintaa käynnistetään:"
+dvd_datos_MSG5="	LUODAAN KUVAA..."
+dvd_datos_MSG6="käynnissä"
+dvd_datos_MSG7="ISO-9660 KUVA LUOTTU"
+dvd_datos_MSG8="		TALLENNUS DVD"
+dvd_datos_MSG13="POISTA KUVA..."
+
+# dvd_borra
+
+dvd_borra_MSG1="käynnissä"
+dvd_borra_MSG2="OPTINEN LEVY ONNISTUSTI ALUSTETTU"
+dvd_borra_MSG3="VIRHE OPTISEN LEVYN ALUSTUKSESTA"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="käynnissä"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatCDVDVDBD_MSG1="Käynnissä"
+formatCDVDVDBD_MSG2="OPTINEN LEVY ONNISTUSTI ALUSTETTU"
+formatCDVDVDBD_MSG3="VIRHE OPTISEN LEVYN ALUSTUKSESTA"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW alustettu onnistuneesti!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Virhe formatoitaessa DVD-RW levyä rajoitettuun päällekirjoitukseen"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW alustettu onnistuneesti!!"
+formatearDVDRW_incremental_secuencial_MSG2="Virhe alustettaessa DVD-RW levyä peräkkäiseksi inkrementaaliksi"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Määritä poltettavan iso-9660-kuvan polku:"
+cdrskinisocddvd_MSG2="ISO KUVA TALLENNETTU ONNISTUSTI!!"
+cdrskinisocddvd_MSG3="VIRHE KUVAN TALLENNUKSESSA"
+

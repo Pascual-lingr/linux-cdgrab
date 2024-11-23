@@ -1,0 +1,76 @@
+# Idioma Finés para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Paina ENTER jatkaaksesi..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="==============================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 TUKI REISERFS."
+cabecera_interfaz_MSG3="==============================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Liitä komennon lähtö:"
+formatear_disco_reiserfs_MSG2="Määritä alustettava lohkolaite: "
+formatear_disco_reiserfs_MSG3="Laite alustettu onnistuneesti"
+formatear_disco_reiserfs_MSG4="Virhe alustuksessa"
+formatear_disco_reiserfs_MSG5="PROSESSI VALMIS"
+formatear_disco_reiserfs_MSG6="Poistetaan laitetta..."
+formatear_disco_reiserfs_MSG7="Alustataan asemaa ReiserFS:ssä..."
+formatear_disco_reiserfs_MSG8="Käynnissä"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="MUODOTUS ONNISTUSTI"
+formatear_img_reiserfs_MSG2="VIRHE TYHJÄN TIEDOSTON MUODOSTAMISESSA"
+formatear_img_reiserfs_MSG3="Luodaan tyhjää tiedostoa..."
+formatear_img_reiserfs_MSG4="Käynnissä"
+formatear_img_reiserfs_MSG5="Muotoillaan tyhjää tiedostoa ReiserFS:ssä..."
+formatear_img_reiserfs_MSG6="TYHJÄN TIEDOSTON SUOSITUS MUKAUTETTUIN KOKOON"
+formatear_img_reiserfs_MSG7="Määritä luotavan tyhjän tiedoston koko (vain numeroarvo):"
+formatear_img_reiserfs_MSG8="Avaruusmittaukset tyhjän tiedoston luomiseksi:"
+formatear_img_reiserfs_MSG9="Määritä käytettävä tilamittaus: "
+formatear_img_reiserfs_MSG10="VIRHE KOKOMITTAA MÄÄRITETESSÄ"
+formatear_img_reiserfs_MSG11="Lohkon koon arvo:"
+formatear_img_reiserfs_MSG12="Tyhjän tiedoston tilan määrä:"
+formatear_img_reiserfs_MSG13="Laskettu arvo tavuina:"
+formatear_img_reiserfs_MSG14="Laskettu arvo laskennalle:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Luo kuva CD-R/RW-levylle (702 Mt)"
+m_img_CDDVDBD_reiserfs_MSG2="Luo kuva DVD+RW-levylle (4 Gt)"
+m_img_CDDVDBD_reiserfs_MSG3="Luo kuva DVD+RW/DL-levylle (8 Gt)"
+m_img_CDDVDBD_reiserfs_MSG4="Luo kuva BD-R/RE:lle (25 Gt)"
+m_img_CDDVDBD_reiserfs_MSG5="Luo mukautetun kokoinen kuvatiedosto"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Poistu"
+imgr_tmp_MSG1="Poista kaikki reiserfs-kuvatiedostot"
+imgr_tmp_MSG2="Liitä tai irrota kuvatiedosto"
+imgr_tmp_MSG3="Kuvatiedostot"
+imgr_tmp_MSG4="Valitse vaihtoehto"
+imgr_tmp_MSG5="Poistetut kuvatiedostot"
+imgr_tmp_MSG6="Liitä kuva"
+imgr_tmp_MSG7="Poista kuva"
+imgr_tmp_MSG8="Asennettu kuva"
+imgr_tmp_MSG9="Poistettu kuva"
+imgr_tmp_MSG10="Virheellinen vaihtoehto"
+imgr_tmp_MSG11="Määritä liitettävä tai irrotettava kuva:"
+imgr_tmp_MSG12="Virhe kuvan asennuksessa"
+imgr_tmp_MSG13="Virhe kuvan irrotuksessa"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Alusta asema ReiserFS:ssä"
+lingr10reiserfspatch_MSG2="Luo ReiserFS-kuva CD/DVD/BD:lle"
+lingr10reiserfspatch_MSG3="ReiserFS-kuvien toiminnot"
+lingr10reiserfspatch_MSG4="Virheellinen vaihtoehto"
+lingr10reiserfspatch_MSG0="Poistu"
+

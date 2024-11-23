@@ -1,0 +1,32 @@
+# Idioma Mongol para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Үргэлжлүүлэхийн тулд ENTER дарна уу..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="====================================="
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 LIGHTSCRIBE ДЭМЖЛЭГ."
+cabecera_lightscribe_MSG3="====================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Диск рүү хэвлэхийг хүссэн зургийнхаа замыг бичнэ үү:"
+imprimir_disco_lightscribe_MSG2="Зургийн формат нь .bmp байх ёстой"
+imprimir_disco_lightscribe_MSG3="ажиллаж байна"
+imprimir_disco_lightscribe_MSG4="Диск дээр хэвлэсэн шошго"
+imprimir_disco_lightscribe_MSG5="Диск рүү шошго хэвлэх явцад алдаа гарлаа"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="LightScribe технологи нь зөвхөн зарим нэгжид байдаг"
+lingr10lightscribepatch_MSG2="Таны бичигч байгаа эсэхийг шалгах хэрэгтэй."
+lingr10lightscribepatch_MSG3="Үүний нэгэн адил LightScribe-д зөвхөн тусгай CD эсвэл DVD-г тэмдэглэж болно"
+lingr10lightscribepatch_MSG4="LightScribe диск хэвлэх"
+lingr10lightscribepatch_MSG5="Өмнөх цэс"
+lingr10lightscribepatch_MSG6="Буруу сонголт"
+

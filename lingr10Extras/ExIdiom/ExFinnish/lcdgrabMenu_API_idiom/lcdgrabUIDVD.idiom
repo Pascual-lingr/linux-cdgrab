@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFinnish/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Finés, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Valitse käytettävä käyttöliittymä:"
+SeleccionaIUDVD_MSG2="Käytä käyttöliittymää dvd+-rw-tools"
+SeleccionaIUDVD_MSG3="Käytä Cdrecord-ProDVD-liitäntää"
+SeleccionaIUDVD_MSG4="Käytä libburnian käyttöliittymää"
+SeleccionaIUDVD_MSG5="Edellinen valikko"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="GRABACIÓN EN DVD"
+menugrabar_dvd_MSG2="----------------- DVD - DATA -------------------"
+menugrabar_dvd_MSG3="Kopioi ISO-9660 data DVD"
+menugrabar_dvd_MSG4="Luo edellinen DVD kuva kiintolevylle"
+menugrabar_dvd_MSG5="Polta uusi ISO-9660 data DVD"
+menugrabar_dvd_MSG6="Lisää uusi dataistunto ISO-9660 data DVD:lle (Multi-session DVD)"
+menugrabar_dvd_MSG7="Vaatii DVD:n, joka on tallennettu aiemmin toisella vaihtoehdolla"
+menugrabar_dvd_MSG8="Pota ISO-9660 datakuva DVD:lle"
+menugrabar_dvd_MSG9="Pota .ext2-kuva DVD-levylle"
+menugrabar_dvd_MSG10="----------------- DVD - VIDEO ------------------"
+menugrabar_dvd_MSG11="Polta uusi DVD-Video"
+menugrabar_dvd_MSG12="------------- MUITA VAIHTOEHTOJA ---------------"
+menugrabar_dvd_MSG13="Alusta DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Näytä DVD levyn tiedot"
+menugrabar_dvd_MSG0="Edellinen valikko"
+menugrabar_dvd_MSGPRINCIPAL="Kirjoita vaihtoehto"
+menugrabar_dvd_MSG15="DVD:lle lisättävät tiedostot ja hakemistot"
+menugrabar_dvd_MSG16="Käynnistetään tiedostonhallintaa..."
+menugrabar_dvd_MSG17=".iso kuva poltettava DVD-levylle"
+menugrabar_dvd_MSG18="Kirjoita hakemistopolku, jossa poltettava .iso-kuva sijaitsee"
+menugrabar_dvd_MSG19="Vaatii cdrecord version DVD tuella."
+menugrabar_dvd_MSG20=".ext2 kuvan tallennus DVD:lle tehdään cdrecordilla."
+menugrabar_dvd_MSG21="Asennuksessasi olevan cdrecord-version pitäisi"
+menugrabar_dvd_MSG22="tuki DVD tallennusta."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="VALITSE VAIHTOEHTO"
+dvd_clonar_MSG2="--- ESIKUVA LEVYKOPIOITA ---"
+dvd_clonar_MSG3="Kopioi data DVD"
+dvd_clonar_MSG4="Luo DVD esikatselukuva kiintolevyllesi"
+dvd_clonar_MSG5="--- LEVYKOPIOITA LENTOLLA ---"
+dvd_clonar_MSG6="Kopioi data-DVD lennossa"
+dvd_clonar_MSG7="Kloonaa data-DVD lennossa"
+dvd_clonar_MSG8="LENTÄVÄT KOPIOINTIVAIHTOEHDOT VAATIVAVAT KAKSI OPTIISTA YKSIKKÖÄ"
+dvd_clonar_MSG9="ASENNETTU TIETOKONEESEESI, KOSKA TIEDOT TALLENNAAN AIKANA"
+dvd_clonar_MSG10="LUE SUORAAN ALKUPERÄLEVYLTÄ, JOS TIETOKONEESSA ON VAIN SEN"
+dvd_clonar_MSG11="ET VOI KÄYTTÄÄ KOPIOITA LENTOLLA."
+dvd_clonar_MSG0="Edellinen valikko"
+dvd_clonar_MSG12="DVD-TIETOKOPIO"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD TALLENNUS"
+menugrabar_DVD_MSG2="------------------ DVD - DATA --------------------"
+menugrabar_DVD_MSG3="Rip data DVD"
+menugrabar_DVD_MSG4="Pota uusi data-DVD"
+menugrabar_DVD_MSG5="Pota .iso- tai .ext2-kuva DVD-levylle"
+menugrabar_DVD_MSG6="Alusta DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Näytä levyn tiedot asemassa"
+menugrabar_DVD_MSG0="Edellinen valikko"
+menugrabar_DVD_MSGPRINCIPAL="Kirjoita vaihtoehto"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Pota iso-9660-kuva DVD-levylle"
+menugrabar_DVD_libburnia_MSG2="Pota tiedot kiintolevyltä DVD-levylle"
+menugrabar_DVD_libburnia_MSG3="Alusta DVD"
+menugrabar_DVD_libburnia_MSG4="Alusta DVD-RW peräkkäiseksi inkrementaaliseksi"
+menugrabar_DVD_libburnia_MSG5="Alusta DVD-RW rajoitettuun päällekirjoitukseen"
+menugrabar_DVD_libburnia_MSG6="Näytä aseman tiedot"
+menugrabar_DVD_libburnia_MSG8="Listaa järjestelmään asennetut asemat"
+menugrabar_DVD_libburnia_MSG0="Poistu"
+menugrabar_DVD_libburnia_MSG7="Anna vaihtoehto"
+

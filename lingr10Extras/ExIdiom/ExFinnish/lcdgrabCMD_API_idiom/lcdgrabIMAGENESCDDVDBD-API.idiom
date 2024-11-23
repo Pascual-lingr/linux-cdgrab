@@ -1,0 +1,234 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFinnish/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en finés para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="KUVATIEDOSTOJÄRJESTELMÄ"
+imagen_linux_fs_MSG2="Valitse tiedostojärjestelmä: "
+imagen_linux_fs_MSG3="Luo kuva CD-R/RW-levylle (702 Mt)"
+imagen_linux_fs_MSG4="Luo kuva DVD+RW-levylle (4 Gt)"
+imagen_linux_fs_MSG5="Luo kuva DVD+RW/DL-levylle (8 Gt)"
+imagen_linux_fs_MSG5B="Luo kuva BD-R/RE:lle (25 Gt)"
+imagen_linux_fs_MSG5C="Luo mukautetun kokoinen kuvatiedosto"
+imagen_linux_fs_MSG6="Luodaan tyhjää tiedostoa, jonka kapasiteetti on 702 megatavua"
+imagen_linux_fs_MSG7="Luodaan tyhjää tiedostoa, jonka kapasiteetti on 4 Gtavua"
+imagen_linux_fs_MSG8="Luodaan tyhjää tiedostoa, jonka kapasiteetti on 8 Gtavua"
+imagen_linux_fs_MSG8B="Luodaan tyhjää tiedostoa, jonka kapasiteetti on 25 Gtavua"
+imagen_linux_fs_MSG8C="Luodaan tyhjää tiedostoa mukautetulla koolla"
+imagen_linux_fs_MSG9="VIRHE: KUVAN KOKOA EI TIEDÄ. KESKEÄÄN..."
+imagen_linux_fs_MSG10="Käynnissä"
+imagen_linux_fs_MSG11="Ohjelma alustaa tyhjän tiedoston."
+imagen_linux_fs_MSG12="Järjestelmä varoittaa, että aiemmin luotu tiedosto ei ole estolaite ja kysyy, haluatko alustaa sen"
+imagen_linux_fs_MSG13="Vastaa kyllä"
+imagen_linux_fs_MSG13="MUOTETTU ONNISTUSTI"
+imagen_linux_fs_MSG14=" Asennuskuva..."
+imagen_linux_fs_MSG15="VIRHE TYHJÄN TIEDOSTON MUODOSTAESSA"
+imagen_linux_fs_MSG16="Ohjelma on asentanut tiedoston muodossa"
+imagen_linux_fs_MSG17="Linux-cdgrab käynnistää tiedostonhallinnan, jotta se voi toimia siihen liitetyn kuvan kanssa"
+imagen_linux_fs_MSG18="Kun tiedostot on kopioitu, irrota muotoiltu tiedosto"
+imagen_linux_fs_MSG19="Linux-kuva on tässä hakemistossa"
+imagen_linux_fs_MSG19B="VIRHE KUVATIEDOSTOA LIITETESSÄ"
+imagen_linux_fs_MSG20="Kuvaan sisällytettävät tiedostot. Liitetty kansioon /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Käynnistetään tiedostonhallintaa..."
+imagen_linux_fs_MSG22="HUOM:"
+imagen_linux_fs_MSG23="-----"
+imagen_linux_fs_MSG24="Kuva"
+imagen_linux_fs_MSG25="vielä asennettu"
+imagen_linux_fs_MSG26="VIRHE LUODETTAESSA TYHJÄÄ TIEDOSTOA dd:llä"
+imagen_linux_fs_MSG27="Tarkista, että sinulla on vapaata tilaa osoitteeseen / asennetussa osiossa"
+imagen_linux_fs_MSG34="TIEDOSTOJÄRJESTELMÄ TIEDOSTON MUODOSTAMISEEN"
+imagen_linux_fs_MSG35="TYHJÄN TIEDOSTON LUOMINEN MUKAUTETUN KOKOLLA"
+imagen_linux_fs_MSG36="Määritä uuden tyhjän tiedoston lohkokoko (vain numeroarvo):"
+imagen_linux_fs_MSG37="Esimerkki lohkokoon arvoista ovat: 1024, 2048 (vain Ext2) tai 4096 (kaikki muodot)"
+imagen_linux_fs_MSG38="Määritä luotavan tyhjän tiedoston koko (vain numeroarvo):"
+imagen_linux_fs_MSG39="Avaruusmittaukset tyhjän tiedoston luomiseksi:"
+imagen_linux_fs_MSG40="Määritä käytettävä tilamittaus: "
+imagen_linux_fs_MSG41="VIRHE KOKOMITTAA MÄÄRITETESSÄ"
+imagen_linux_fs_MSG42="Lohkon koon arvo:"
+imagen_linux_fs_MSG43="Tyhjän tiedoston tilan määrä:"
+imagen_linux_fs_MSG44="Laskettu arvo tavuina:"
+imagen_linux_fs_MSG45="Laskettu arvo määrälle:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Ota md5-luku käyttöön luotaessa .iso-kuvia"
+comprobar_lectura_md5_MSG2="Poista md5-luku käytöstä .iso-kuvia luotaessa"
+comprobar_lectura_md5_MSG3="Edellinen valikko"
+comprobar_lectura_md5_MSG4="Nykyinen kokoonpano:"
+comprobar_lectura_md5_MSG5="Käytössä"
+comprobar_lectura_md5_MSG6="Pois käytöstä"
+comprobar_lectura_md5_MSG7="Lue md5-summa aktivoitu"
+comprobar_lectura_md5_MSG8="Md5-summan lukeminen poistettu käytöstä"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Iso-kuvan nimeä ei voitu lukea"
+leer_md5sum_MSG2="Luetaan md5sum of"
+leer_md5sum_MSG3="Näytetään kuvan md5 summa"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="CD-KUVAN LUOMINEN"
+extraer_isoCD_dd_MSG2="KUVA LUOTTU"
+extraer_isoCD_dd_MSG3="Ei löydy"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="Luodaan DVD-KUVAA"
+extraer_isoDVD_dd_MSG2="käynnissä"
+extraer_isoDVD_dd_MSG3="KUVA LUOTTU"
+extraer_isoDVD_dd_MSG4="Ei löydy"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="käynnissä"
+extraer_iso_readcd_MSG2="KUVA LUOTI ONNISTUSTI"
+extraer_iso_readcd_MSG3="Kuva luotu"
+extraer_iso_readcd_MSG4="Keskeytetään tallennusprosessia..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Kiinnitetty CD"
+extraer_iso_mkisofs_MSG2="Luodaan kuvaa..."
+extraer_iso_mkisofs_MSG3="Macintosh-yhteensopivuus käytössä"
+extraer_iso_mkisofs_MSG4="Käytetään"
+extraer_iso_mkisofs_MSG5="käynnissä"
+extraer_iso_mkisofs_MSG6="Kuva luotu hakemistoon"
+extraer_iso_mkisofs_MSG7="Yritetään prosessia uudelleen ilman Macintosh-tukea"
+extraer_iso_mkisofs_MSG8="Kuva luotu hakemistoon"
+extraer_iso_mkisofs_MSG9="mkisofs palauttaa tuntemattomia virheitä luodessaan"
+extraer_iso_mkisofs_MSG10="from"
+extraer_iso_mkisofs_MSG11="Tarkista tietojen eheys"
+extraer_iso_mkisofs_MSG12="Asennus"
+extraer_iso_mkisofs_MSG12B="fi"
+extraer_iso_mkisofs_MSG13="genisoimage palauttaa tuntemattomia virheitä luodessaan"
+extraer_iso_mkisofs_MSG13B="from"
+extraer_iso_mkisofs_MSG14="Mkisofia ja genisoimagea ei löydy. Asenna cdrtools tai cdrkit."
+extraer_iso_mkisofs_MSG15="Ei voitu liittää"
+extraer_iso_mkisofs_MSG16="Kuva luotu onnistuneesti"
+
+# m_comp_img
+
+m_comp_img_MSG1="KUVA LUONNITTU ONNISTUSTI"
+m_comp_img_MSG2="HALUATKO PAKKAA KUVATIEDOSTON?"
+m_comp_img_MSG3="(s/y) pakata; Prosessi peruutetaan toisella vaihtoehdolla."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Käynnistetään tiedostonhallintaa..."
+generar_iso_directorio_MSG2="Anna nimi tulevalle CD/DVD/BD:lle"
+generar_iso_directorio_MSG3="LUODAAN KUVAA..."
+generar_iso_directorio_MSG4="Macintosh-yhteensopivuus käytössä"
+generar_iso_directorio_MSG5="Käytetään"
+generar_iso_directorio_MSG6="käynnissä"
+generar_iso_directorio_MSG7="HAKEMISTOON LUOTU KUVA"
+generar_iso_directorio_MSG8="KUVAN LUONTIPROSESSI ON Epäonnistui"
+generar_iso_directorio_MSG9="KUVAN LUOMINEN ILMAN MACINTOSH-YHTEENSOPIVUUTTA"
+generar_iso_directorio_MSG10="mkisofs ja genisoimage ei löydy. Asenna cdrtools tai cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Anna nimi tulevalle DVD/BD:lle"
+generar_bdv_udf_directorio_MSG2="Määritä hakemisto videokuvan luomista varten:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Määritä levyn otsikko:"
+generar_iso_directorio_libburnia_MSG2="Määritä hakemisto iso-9660 kuvan luomiseen:"
+generar_iso_directorio_libburnia_MSG3="ISO9660 kuva luotiin onnistuneesti!!"
+generar_iso_directorio_libburnia_MSG4="Virhe luotaessa iso-9660 kuvaa xorrisolla"
+
+# imagenISO
+
+imagenISO_MSG1=".iso kuvaan sisällytettävät tiedostot ja hakemistot"
+imagenISO_MSG2="VALITSE VAIHTOEHTO"
+imagenISO_MSG2B="------------------"
+imagenISO_MSG3="Luo ISO-9660-kuva CD-levyltä (käytä dd:tä)"
+imagenISO_MSG4="Luo ISO-9660-kuva DVD-levyltä (käytä dd:tä)"
+imagenISO_MSG5="Luo ISO-9660-kuva CD-levyltä (käytä readcd:tä)"
+imagenISO_MSG6="Luo ISO-9660-kuva CD- tai DVD-levyltä (käytä mkisofsia)"
+imagenISO_MSG7="Luo ISO-9660-kuva kiintolevytiedoista (käytä mkisofsia)"
+imagenISO_MSG8="Edellinen valikko"
+imagenISO_MSG9="LUODAAN KUVAA"
+imagenISO_MSG10="Luo ISO-9660-kuva kiintolevytiedoista (käytä xorrisoa)"
+imagenISO_MSG11="Luo iso/udf-kuva CD-/DVD-/BD-levyltä (käytä mkisofsia)"
+imagenISO_MSG12="Luo iso/udf-kuva kiintolevytiedoista (käytä mkisofsia)"
+imagenISO_MSG13="ISO-9660 FORMATTER MENU"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Luo UDF/ISO-kuva kiintolevytiedoista (käytä mkisofs)"
+imagenISO_MSG15="Luo UDF/ISO-kuva DVD Video tuella (käytä mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Kirjoita lähdelohkolaite, josta kuva tehdään"
+imagen_img_MSG2="--------------------------------------------"
+imagen_img_MSG3="Laitteet, jotka on rekisteröity kansioon /etc/fstab ja /etc/mtab"
+imagen_img_MSG4="Liitä komennon lähtö:"
+imagen_img_MSG5="Anna laitteen nimi: "
+imagen_img_MSG6="Luodaan .img-kuvaa lohkolaitteesta"
+imagen_img_MSG7="käynnissä"
+imagen_img_MSG8="LAITTEEN KUVA LUOTTU"
+
+# monta_img
+
+monta_img_MSG1="iso tai ext2 kuva liitettäväksi."
+monta_img_MSG2="Kirjoita hakemistopolku, jossa asennettava kuva sijaitsee:"
+monta_img_MSG3="KIINNITETTY CD-KUVA:"
+monta_img_MSG4="VIRHE KUVATIEDOSTOA LIITETESSÄ"
+monta_img_MSG5="EI LÖYTY"
+monta_img_MSG6="liitospistettä EI OLE OLEMASSA"
+monta_img_MSG7="ODOTTAmaton VIRHE"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO- tai ext2-kuva irrotettavasta."
+desmonta_img_MSG2="POISTU KUVA"
+desmonta_img_MSG3="Liitettyä kuvaa ei löytynyt"
+desmonta_img_MSG4="Liitä lähtö:"
+desmonta_img_MSG5="Voit määrittää kuvan absoluuttisen hakemistopolun suoraan."
+desmonta_img_MSG6="Kuten /tmp/lcdgrabimg.iso tai kuvan asennushakemisto, kuten /mnt/lcdgrab"
+desmonta_img_MSG7="Jos ei ole määritetty, sitä voidaan etsiä tiedostonhallinnan avulla"
+desmonta_img_MSG8="Käynnistetään tiedostonhallintaa"
+desmonta_img_MSG9="Määritä kuvan polku."
+desmonta_img_MSG10="IRETTU KUVA"
+desmonta_img_MSG11="VIRHE KUVAN POISTAMISESSA"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg kuva muunnetaan muotoon .iso"
+nrg_a_iso_MSG2="Anna muutettavan .nrg (Nero Burning ROM) kuvan polku"
+nrg_a_iso_MSG3="Muunnetaan kuvaa..."
+nrg_a_iso_MSG4="Lähteen .nrg kuvan polku"
+nrg_a_iso_MSG5="ei ole olemassa tai vastaa hakemistoa"
+nrg_a_iso_MSG6="Virheellinen polku."
+nrg_a_iso_MSG7="se on jo edellinen ISO-9660 kuva, sitä ei muunneta."
+nrg_a_iso_MSG8="Kopioidaan eri tunnisteella..."
+nrg_a_iso_MSG9="KOPIO VALMIS"
+nrg_a_iso_MSG10="juoksu"
+nrg_a_iso_MSG11="Kuva muutettu onnistuneesti"
+nrg_a_iso_MSG12="VIRHE KUVAN LUODAMISESSA .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Luo .cue kuvaustiedosto .bin kuvasta"
+GenerarArchivocue_MSG2="Nykyinen aktiivinen hakemisto"
+GenerarArchivocue_MSG3="Kirjoita vain hakemistopolku, johon"
+GenerarArchivocue_MSG4="etsi kuvatiedosto:"
+GenerarArchivocue_MSG5="Anna sen .bin-kuvan nimi, johon"
+GenerarArchivocue_MSG6="on luonut vastaavan .cue tiedoston"
+GenerarArchivocue_MSG7="KUVAUSTIEDOSTO .cue ON LUOTETTU"
+GenerarArchivocue_MSG8="VIRHE KUVAUSTIEDOSTON .cue:n luomisen yhteydessä"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="käynnissä"
+ImagenbincueCDDVD_MSG2=".BIN .CUE-LEVYKUVA ON LUOTETTU"
+

@@ -1,0 +1,37 @@
+# Idioma Griego para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Πατήστε ENTER για να συνεχίσετε..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="======================================="
+cabeceraNRG_MSG2="ΜΕΤΑΤΡΟΠΗ LINUX-CDGRAB 1.0 .NRG ΣΕ .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="Εισαγάγετε τη διαδρομή της εικόνας .nrg που θέλετε να μετατρέψετε:"
+convertir_imagen_nrg_MSG1B="Εισαγάγετε τη διαδρομή της εικόνας .iso που θέλετε να δημιουργήσετε:"
+convertir_imagen_nrg_MSG2="τρέχει"
+convertir_imagen_nrg_MSG3="Η μετατροπή της εικόνας .nrg σε .iso ολοκληρώθηκε με επιτυχία"
+convertir_imagen_nrg_MSG4="Σφάλμα μετατροπής εικόνας .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Υποστήριξη για μετατροπή εικόνας σε linux-cdgrab"
+creditospatchnrgaiso_MSG2="Μετατροπή εικόνων .nrg σε .iso χρησιμοποιώντας nrg2iso"
+creditospatchnrgaiso_MSG3="Διανομή με άδεια GPL v2"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="Έκδοση εντολών:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="Μετατροπή εικόνας .nrg σε .iso"
+lingr10ConversionNRG_2_ISO_MSG2="Σχετικά"
+lingr10ConversionNRG_2_ISO_MSG3="Προηγούμενο μενού"
+lingr10ConversionNRG_2_ISO_MSG4="Μη έγκυρη επιλογή"
+

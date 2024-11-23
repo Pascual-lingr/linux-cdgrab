@@ -1,0 +1,15 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Estonio para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="OPTILINE KETT VÄLJATUD"
+expulsar_medio_MSG2="Viga ketta seadmest väljutamisel"
+expulsar_medio_MSG3="Sisesta nimi käsitsi:"

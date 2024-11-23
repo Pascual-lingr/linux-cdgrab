@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFinnish/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en finés para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="JÄRJESTELMÄÄN ASENNETTUT LAITTEET"
+montar_dispositivos_MSG1B="LAITTEIDEN KOKOAMINEN/PURKAMINEN"
+montar_dispositivos_MSG2="LINUX-CDGRAB OPTIONS"
+montar_dispositivos_MSG3="Poista levy CD/DVD/BD lukijasta"
+montar_dispositivos_MSG4="Poista levy CD/DVD/BD polttimesta"
+montar_dispositivos_MSG5="Asenna CD-ROM/DVD-ROM/BD-ROM lukija"
+montar_dispositivos_MSG6="Poista CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Asenna tai pura laite käsin"
+montar_dispositivos_MSG0="Edellinen valikko"
+montar_dispositivos_MSG8="CD/DVD/BD asennettu"
+montar_dispositivos_MSG9="PAINA ENTER JATKA..."
+montar_dispositivos_MSG10="Virhe asennettaessa CD-/DVD-/BD levyä"
+montar_dispositivos_MSG11="CD/DVD/BD on irrotettu"
+montar_dispositivos_MSG12="Virhe poistettaessa CD/DVD/BD liitosta"
+montar_dispositivos_MSG13="Kirjoita laite, jonka haluat liittää/irrottaa:"
+montar_dispositivos_MSG14="Syötä liitoskohta:"
+montar_dispositivos_MSG15="ei vastaa lohkolaitetta"
+montar_dispositivos_MSG16="Kiinnityspistettä ei löydy"
+montar_dispositivos_MSG17="Oletusliitäntäpiste"
+montar_dispositivos_MSG18="Valitse vaihtoehto:"
+montar_dispositivos_MSG19="Asenna"
+montar_dispositivos_MSG20="fi"
+montar_dispositivos_MSG21="Irrota"
+montar_dispositivos_MSG22="de"
+montar_dispositivos_MSG23="asennettu:"
+montar_dispositivos_MSG24="VIRHE ASENNETTAESSA"
+montar_dispositivos_MSG25="FI"
+montar_dispositivos_MSG26="irrotettu"
+montar_dispositivos_MSG27="VIRHE POISTETTAESSA"
+montar_dispositivos_MSG28="de"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Asennuskomennon tulos"
+Montar_Imagenes_MSG1B="KUVATIEDOSTOJEN KOKOAMINEN/PURKAMINEN"
+Montar_Imagenes_MSG2="Valitse vaihtoehto"
+Montar_Imagenes_MSG3="Asenna CD/DVD/BD-kuva"
+Montar_Imagenes_MSG4="Poista CD/DVD/BD-kuva"
+Montar_Imagenes_MSG5="Edellinen valikko"
+

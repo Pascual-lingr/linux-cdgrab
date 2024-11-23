@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongolian/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en Mongol para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Диск рүү буулгах .img эсвэл .ext2 зургийн зам."
+volcar_imagen_MSG2="---------------------------ЧУХАЛ------------------------------" 
+volcar_imagen_MSG3="+ Энэ сонголт нь оптик диск дээр ажиллахгүй."
+volcar_imagen_MSG4="+ Pendrives, уян диск, дискний хуваалт гэх мэт дээр ашиглах. "
+volcar_imagen_MSG5="+ Хатуу дискийг авч үзэх:"
+volcar_imagen_MSG6="+ Зураг нь эхнээсээ dd-ээр бичигдсэн"
+volcar_imagen_MSG7=" заасан дискнээс дугаар ашиглахыг хориглоно"
+volcar_imagen_MSG8="бичих үйл явцыг эхлүүлэх тусгай салбар"
+volcar_imagen_MSG9="+ Болгоомжтой хэрэглээрэй. Эрсдэлд нь хамааруулан хэрэглэнэ."
+volcar_imagen_MSG10="+ Дискний хуваалтууд ашиглах боломжгүй болж болзошгүй."
+volcar_imagen_MSG11="+ Үүнийг олон хуваалтын системд ашиглахыг зөвлөдөггүй."
+volcar_imagen_MSG12="Сэргээх нь хуваалтын хүснэгтийг орхиж болно."
+volcar_imagen_MSG13="ашиггүй хуваалтууд."
+volcar_imagen_MSG14="-------------------------------------------------------------"
+volcar_imagen_MSG15="ҮРГЭЛЖЛҮҮЛЭХИЙГ С ТОВЧЛОЛУУД ДАРНА УУ; (Өөр сонголтоор үйл явцыг цуцална)"
+volcar_imagen_MSG16="Диск рүү буулгах зургийн файлын замыг зааж өгнө үү: "
+volcar_imagen_MSG17="Буулгах командын гаралт:"
+volcar_imagen_MSG18="Зургийг хаях блок төхөөрөмжийг зааж өгнө үү:"
+volcar_imagen_MSG19="ЗУРАГ ОРУУЛАХ"
+volcar_imagen_MSG20="ТӨХӨӨРӨМЖ ДЭЭР"
+volcar_imagen_MSG21="ажиллаж байна"
+volcar_imagen_MSG22="ЗУРАГ ОРУУЛАХ ПРОЦЕСС ДУУССАН"
+
+# volcar_iso
+
+volcar_iso_MSG1="ISO дүрсийг бичих блок төхөөрөмжийг зааж өгнө үү:"
+volcar_iso_MSG2="АНХААРУУЛГА"
+volcar_iso_MSG2B="-----------"
+volcar_iso_MSG3="Бичих блок төхөөрөмжийг зааж өгнө үү."
+volcar_iso_MSG4="Жишээ нь: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Энэ төхөөрөмжид хамаарах хуваалтыг бүү зааж өг"
+volcar_iso_MSG6="Жишээ нь: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Бичих iso-9660 дүрс эсвэл img-г зааж өгнө үү:"
+volcar_iso_MSG9="Процесс дууссан"
+volcar_iso_MSG10="Iso бичих явцад гарсан алдаа"
+volcar_iso_MSG11="Зургийг бичихийн тулд блокийн хэмжээг зааж өгөх"
+volcar_iso_MSG12="Үйлдлийн системийн дагуу бичих сонголтыг сонгоно уу:"
+volcar_iso_MSG13="ISO-9660 эсвэл төхөөрөмж дээр анивчдаг ачаалах боломжтой IMG зураг:"
+volcar_iso_MSG14="Гарах"
+volcar_iso_MSG15="ISO-9660 ЗУРГИЙН ФАЙЛ БУЮУ IMG"
+volcar_ISO_MSG16="НЭГЖ ОРУУЛАХ ҮЙЛДЛИЙН СИСТЕМИЙГ СОНГОХ"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Файлын системийг сонгох"
+Formateador_linuxfs_MSG2="төхөөрөмжийг форматлах болно:"
+Formateador_linuxfs_MSG3="Форматлах блок төхөөрөмжийг зааж өгнө үү: "
+Formateador_linuxfs_MSG5="ПРОЦЕСС ДУУССАН"
+Formateador_linuxfs_MSG6="DISK FORMATTER"
+Formateador_linuxfs_MSG7="Эзлэхүүний шошгыг тохируулах"
+Formateador_linuxfs_MSG10="Эзлэхүүний шошгоны нэрийг зааж өгөх"
+Formateador_linuxfs_MSG11="Шинэ боть шошго"
+Formateador_linuxfs_MSG12="Блокийн хэмжээг зааж өгөх"
+Formateador_linuxfs_MSG13="Шинэ блокийн хэмжээ"
+Formateador_linuxfs_MSG14="Өмнөх цэс"
+

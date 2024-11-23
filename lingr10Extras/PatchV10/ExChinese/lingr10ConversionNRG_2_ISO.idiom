@@ -1,0 +1,37 @@
+# Idioma Chino simplificado para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="按 ENTER 继续..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="==================================="
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 将 .NRG 转换为 .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="输入要转换的.nrg图像的路径："
+convertir_imagen_nrg_MSG1B="输入要生成的.iso映像的路径："
+convertir_imagen_nrg_MSG2="正在运行"
+convertir_imagen_nrg_MSG3=".nrg 映像到 .iso 的转换已成功完成"
+convertir_imagen_nrg_MSG4="转换图像.nrg时出错"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="支持 linux-cdgrab 中的图像转换"
+creditospatchnrgaiso_MSG2="使用 nrg2iso 将 .nrg 图像转换为 .iso"
+creditospatchnrgaiso_MSG3="根据 GPL v2 许可证分发"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="命令版本："
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="将 .nrg 映像转换为 .iso"
+lingr10ConversionNRG_2_ISO_MSG2="关于"
+lingr10ConversionNRG_2_ISO_MSG3="上一个菜单"
+lingr10ConversionNRG_2_ISO_MSG4="无效选项"
+

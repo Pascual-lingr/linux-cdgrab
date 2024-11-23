@@ -1,0 +1,51 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFinnish/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Finés, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="LEVYKUVIEN LUOMINEN JA KÄSITTELY"
+MenuImagen_MSG2="---------------- KUVAN LUOMINEN ----------------"
+MenuImagen_MSG3="Luo ISO-9660 kuva"
+MenuImagen_MSG4="Luo kuva alkuperäisellä Linux-tiedostojärjestelmällä"
+MenuImagen_MSG5="Luo .img kuva mistä tahansa lohkolaitteesta"
+MenuImagen_MSG6="Luo .bin .cue  kuva nykyisestä laitteesta"
+MenuImagen_MSG7="-------------- MUITA VAIHTOEHTOJA --------------"
+MenuImagen_MSG8="Luo .cue-kuvaustiedosto .bin-kuvasta"
+MenuImagen_MSG9="Muunna .nrg (Nero Burning ROM) kuva .iso muotoon"
+MenuImagen_MSG10="Pakkaa kuva gzip:llä, bzip2:lla tai xz:llä"
+MenuImagen_MSG11="Pura kuva zip, gz, bz2 tai xz-muodossa"
+MenuImagen_MSG11B="Tarkista md5 iso-kuvien summa"
+MenuImagen_MSG12="Vaihda iso-tilaa"
+MenuImagen_MSG0="Edellinen valikko"
+MenuImagen_MSG13="Kuvatiedosto pakataan"
+MenuImagen_MSG14="PAKKAA KUVATIEDOSTO"
+MenuImagen_MSG15="Kirjoita hakemistopolku, jossa pakattava kuva sijaitsee:"
+MenuImagen_MSG16="Kuvatiedosto, jonka haluat purkaa"
+MenuImagen_MSG17="NYKYINEN ISO-TASO"
+MenuImagen_MSG18="iso taso"
+MenuImagen_MSG19="Tiedostojen nimet koostuvat osiosta"
+MenuImagen_MSG20="ja ovat rajoitettu 8,3 merkkiin."
+MenuImagen_MSG21="Valitse tämä taso, jos haluat nimien yhteensopivuuden"
+MenuImagen_MSG21b="MS-DOS-käyttöjärjestelmässä"
+MenuImagen_MSG22="Tiedostojen nimet koostuvat osiosta"
+MenuImagen_MSG23="Rajoittamaton taso."
+MenuImagen_MSG24="Käytä tätä tasoa, jos haluat yhteensopivuuden tiedostojen kanssa"
+MenuImagen_MSG25="suuri, tässä tapauksessa >= 2 gigatavua."
+MenuImagen_MSG26="Kaikki ISO-tasot rajoittavat tiedostonimet isoihin, pieniin ja"
+MenuImagen_MSG27="merkit kuten _ . Tiedostonimien enimmäispituus on 31 merkkiä"
+MenuImagen_MSG28="Enintään 8 hakemistopolkua ja polun nimi"
+MenuImagen_MSG29="hakemistot 255 merkkiin."
+MenuImagen_MSG30="Valitse uusi iso-taso"
+MenuImagen_MSG31="ISO taso 4 ei ole virallinen"
+MenuImagen_MSG32="Katso mkisofs man -sivua"
+MenuImagen_MSG33="Virheellinen ISO-taso"
+MenuImagen_MSG34="ISO taso 3 määritetty oletuksena"
+
+

@@ -1,0 +1,73 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongolian/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabación en CD.
+# Traducción experimental al Mongol, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="СОНГОЛТ СОНГОХ"
+clonar_MSG2="------- УРЬДЧИЛСАН ЗУРГИЙН ДИСК ХУУРАЛТ --------"
+clonar_MSG3="Өгөгдлийн CD хуулах"
+clonar_MSG4="Хатуу диск дээр өмнөх CD дүрсийг үүсгэх"
+clonar_MSG5="---------- Нислэг дээрх ДИСК ХУВИРАЛТ ----------"
+clonar_MSG6="Өгөгдлийн CD-г шууд хуулах"
+clonar_MSG7="Өгөгдлийн CD-г шууд хуулбарлах"
+clonar_MSG7B="Аудио CD-г хурдан хуулах"
+clonar_MSG8="НИСЭХ ХУУЛАХ СОНГОЛТуудад ХОЁР ОПТИК НЭГЖ ШААРДЛАГАТАЙ"
+clonar_MSG9="ӨГӨГДӨЛИЙГ БҮРТГҮҮЛСЭН ҮЕД ТАНЫ КОМПЬЮТЕР ДЭЭР СУУРИЛСАН"
+clonar_MSG10="ЗӨВХӨН ТАНЫ КОМПЬЮТЕРТ БАЙВАЛ ҮҮСГЭЛИЙН ДИСКЭЭС ШУУД УНШИХ"
+clonar_MSG11="НИСЛЭГТ ХУВЬ ХУВЬ АШИГЛАХ БОЛОМЖГҮЙ БОЛНО."
+clonar_MSG12B="CD DATA ХУУЛАХ"
+clonar_MSG0="Өмнөх цэс"
+
+# mgrabacd
+
+mgrabacd_MSG1="ХАТ ДИСКИЙН CD МЭДЭЭ"
+mgrabacd_MSG2="Шинэ өгөгдлийн CD бичих (cdrtools ашиглах)"
+mgrabacd_MSG3="Шинэ өгөгдлийн CD бичих (libburnia ашиглах)"
+mgrabacd_MSG4="Өмнөх цэс"
+mgrabacd_MSG5="Сонголт оруулах"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="ӨГӨГДӨЛ ЗУРГИЙН БИЧЛЭГ"
+mgrabaimg_MSG2="CD-R/RW дээр iso эсвэл ext2 дүрсийг бичих (cdrtools ашиглах)"
+mgrabaimg_MSG3="CD-R/RW дээр iso дүрс бичих (libburnia ашиглах)"
+mgrabaimg_MSG4="Өмнөх цэс"
+mgrabaimg_MSG5="Сонголт оруулах"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1=".wav файлаас аудио CD бичих"
+mgrabararchivosaudio_MSG2=".mp3 файлаас аудио CD бичих"
+mgrabararchivosaudio_MSG3=".ogg файлаас аудио CD бичих"
+mgrabararchivosaudio_MSG0="Өмнөх цэс"
+mgrabararchivosaudio_MSG0B="Сонголтыг бичнэ үү"
+mgrabararchivosaudio_MSG4=".flac файлаас аудио CD бичих"
+mgrabararchivosaudio_MSG5="ФАЙЛЫН CD-АУДИО БИЧЛЭГ"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="CD ДЭЭР БИЧЛЭГЭЭ"
+menugrabar_cd_MSG2="------------------- CD - DATA --------------------"
+menugrabar_cd_MSG3="Өгөгдлийн CD хуулах"
+menugrabar_cd_MSG4="Шинэ өгөгдлийн CD бичих"
+menugrabar_cd_MSG5="Шинэ олон сесс өгөгдлийн CD бичих"
+menugrabar_cd_MSG6=".iso эсвэл .ext2 дүрсийг CD рүү бичих"
+menugrabar_cd_MSG7=".bin/.cue дүрсийг CD рүү бичих"
+menugrabar_cd_MSG8="-------------------- CD - АУДИО ------------------"
+menugrabar_cd_MSG9="Аудио CD хуулах"
+menugrabar_cd_MSG13="----------------- БУСАД СОНГОЛТ ------------------"
+menugrabar_cd_MSG14="Холимог CD бичих (Өгөгдөл + Аудио)"
+menugrabar_cd_MSG15="CD-RW устгах"
+menugrabar_cd_MSG16="Нээлттэй CD-г хаах"
+menugrabar_cd_MSG17="Драйв дахь дискний мэдээллийг харуулах"
+menugrabar_cd_MSG18="Диск файлуудаас аудио CD бичих"
+menugrabar_cd_MSG0="Өмнөх цэс"
+menugrabar_cd_MSGPRINCIPAL="Сонголтыг бичнэ үү"
+

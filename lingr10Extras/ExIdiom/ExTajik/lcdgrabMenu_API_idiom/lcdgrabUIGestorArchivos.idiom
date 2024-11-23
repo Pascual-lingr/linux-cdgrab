@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Tayiko para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* ИНТИХОБОТҲОИ НАВИГАТСИЯ ************************"
+ayuda_gestor_de_archivos_MSG2="Аз назар гузаронии системаи файлӣ."
+ayuda_gestor_de_archivos_MSG3="X --> Хуруҷ"
+ayuda_gestor_de_archivos_MSG4="A --> Директорияи қаблӣ"
+ayuda_gestor_de_archivos_MSG5="B --> Феҳристи навбатӣ"
+ayuda_gestor_de_archivos_MSG6="Амалҳо оид ба файлҳо ва директорияҳо."
+ayuda_gestor_de_archivos_MSG7="C --> Нусхабардории файл"
+ayuda_gestor_de_archivos_MSG8="M --> Интиқоли файл"
+ayuda_gestor_de_archivos_MSG9="CD --> Нусхабардории директория"
+ayuda_gestor_de_archivos_MSG10="MD --> Интиқоли феҳрист"
+ayuda_gestor_de_archivos_MSG11="Фаҳмидани амалҳо дар файлҳо ва директорияҳо."
+ayuda_gestor_de_archivos_MSG12="Z --> Фишурдани файл"
+ayuda_gestor_de_archivos_MSG13="DZ --> Кушодани файл"
+ayuda_gestor_de_archivos_MSG14="EZ --> Бастаи .tar.gz ё .tar.bz2 эҷод кунед"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Кушодани .tar.gz ё .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="**************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Феҳристи фаъоли ҷорӣ"
+gestor_de_archivos_MSG0B="Файлҳо дар"
+gestor_de_archivos_MSG1="========================= ИНТИХОБОТҲОИ НАВИГАТСИЯ ========================"
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H -->  Кӯмак="
+gestor_de_archivos_MSG3="====================================================#====================="
+gestor_de_archivos_MSG4="Ихтиёрро ворид кунед"
+gestor_de_archivos_MSG5="Намуди директория"
+gestor_de_archivos_MSG6="Файли сарчашмаро ворид кунед"
+gestor_de_archivos_MSG7="Файли таъинотро ворид кунед"
+gestor_de_archivos_MSG8="Файл бомуваффақият нусхабардорӣ карда шуд"
+gestor_de_archivos_MSG9="Хато дар нусхабардории файл"
+gestor_de_archivos_MSG10="Файли сарчашмаро ворид кунед"
+gestor_de_archivos_MSG11="Файли таъинотро ворид кунед"
+gestor_de_archivos_MSG12="Файл бомуваффақият интиқол дода шуд"
+gestor_de_archivos_MSG13="Хатои интиқоли файл"
+gestor_de_archivos_MSG14="Феҳристи манбаъро ворид кунед"
+gestor_de_archivos_MSG15="Феҳристи таъинотро ворид кунед"
+gestor_de_archivos_MSG16="Феҳрист бо муваффақият нусхабардорӣ карда шуд"
+gestor_de_archivos_MSG17="Хато дар нусхабардории директория"
+gestor_de_archivos_MSG18="Феҳристи манбаъро ворид кунед"
+gestor_de_archivos_MSG19="Феҳристи таъинотро ворид кунед"
+gestor_de_archivos_MSG20="Феҳрист бомуваффақият кӯчонида шуд"
+gestor_de_archivos_MSG21="Хатои интиқоли директория"
+gestor_de_archivos_MSG22="ФАЙЛ БАРОИ фишурдан"
+gestor_de_archivos_MSG23="Муайян кардани роҳи файл"

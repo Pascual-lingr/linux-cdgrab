@@ -1,0 +1,47 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Estonio para la aplicación principal #
+# Traducción experimental.                         #
+# Generado con Google Translate.                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="LINUX-CDGRAB 1.0 poolt automaatselt genereeritud fail"
+creacion_de_Depot_MSG2="See fail koos kataloogiga"
+creacion_de_Depot_MSG3="on loodud automaatselt"
+creacion_de_Depot_MSG4="Linux-cdgrab rakenduse poolt kontrollides, et seda teie Linuxi distributsioonis ei eksisteerinud"
+creacion_de_Depot_MSG5="kataloog"
+creacion_de_Depot_MSG6="Linux-cdgrab kasutab seda kataloogi ajutiste failide ja seadme kujutiste (iso, img jne) kirjutamiseks"
+creacion_de_Depot_MSG8="GoboLinux kasutab depot ajutiste failide salvestamiseks"
+creacion_de_Depot_MSG9="Selle faili eesmärk on ainult informatiivne, saate selle pärast lugemist vabalt kustutada."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="MÄRKUS:"
+main_IDSISTEMA_MSG2="Operatsioonisüsteemi ei toetata."
+main_IDSISTEMA_MSG3="Kui rakenduse töös on probleeme, kasutage GNU/Linuxi"
+
+# argumentos
+
+main_arg_MSG1="See ei ole kehtiv argument"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="leitud"
+main_cdkit_test_MSG2="link loodud Wodimile"
+main_cdkit_test_MSG3="link loodud genisoimage'ile"
+main_cdkit_test_MSG4="Link icedaxile loodud"
+
+# pgm principal
+
+pgm_principal_MSG1="TAPPEV: Õiget kataloogi jaotust ei leitud."
+pgm_principal_MSG2="VÕÕRAS"
+
+
+

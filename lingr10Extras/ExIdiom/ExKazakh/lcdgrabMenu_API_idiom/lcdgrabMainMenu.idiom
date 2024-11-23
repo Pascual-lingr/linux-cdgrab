@@ -1,0 +1,135 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKazakh/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al kazajo, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab vi мәтіндік редакторын таба алмайды"
+ayuda_MSG2="Жүйеңізде орнатылған мәтіндік редактордың атын енгізіңіз"
+ayuda_MSG3="ОРНАТЫЛҒАН РЕДАКТОР ТАБАДЫ"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Файл LINUX-CDGRAB 1.0 арқылы автоматты түрде жасалған"
+creacion_de_mnt_MSG2="Бұл файл каталогпен бірге"
+creacion_de_mnt_MSG3="автоматты түрде жасалды"
+creacion_de_mnt_MSG4="Linux-cdgrab қолданбасы арқылы оның Linux дистрибутивінде жоқ екенін тексеру кезінде"
+creacion_de_mnt_MSG5="каталог"
+creacion_de_mnt_MSG6="Linux-cdgrab бұл каталогты өзінің CD-ROM/DVD-ROM/BD-ROM дискісін орнату үшін пайдаланады"
+creacion_de_mnt_MSG7="Каталог"
+creacion_de_mnt_MSG8="егер Linux-cdgrab жойылса, ол жойылмайды, себебі ол әдетте"
+creacion_de_mnt_MSG9="Linux дистрибутивтерінің көпшілігінде /dev/cdrom үшін әдепкі орнату нүктесі."
+creacion_de_mnt_MSG10="Егер дистрибутив /dev/cdrom құрылғысын орнату үшін басқа каталогты пайдаланса,"
+creacion_de_mnt_MSG11="бұл құрылғыңыздағы деректерге қол жеткізуге әрекет жасағанда ешқандай сәйкессіздік туғызбайды"
+creacion_de_mnt_MSG12="бірақ Linux-cdgrab жойылған болса да, сіз онсыз жасай аласыз"
+creacion_de_mnt_MSG13="Бұл файлдың мақсаты тек ақпараттық мақсатта, оны оқығаннан кейін еркін жоюға болады."
+
+# creditos
+
+creditos_MSG1="GPL v2 лицензиясы бойынша тарату"
+creditos_MSG2="Қосымша ақпарат www.gnu.org сайтында"
+creditos_MSG3="Паскуаль Мартинес Круз, жасаушы және қолдаушы"
+creditos_MSG4="Қате туралы есеп: pascual89@hotmail.com"
+creditos_MSG5="Бағдарлама веб-сайты: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Негізделген LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Cargando"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="синтаксис"
+lcdgrab_sintaxis_MSG2="Осы анықтаманы басып шығару"
+lcdgrab_sintaxis_MSG3="Linux нұсқасын басып шығару-cdgrab"
+lcdgrab_sintaxis_MSG4="IDE арнасын немесе жазу құрылғысын көрсетеді"
+lcdgrab_sintaxis_MSG5="не"
+lcdgrab_sintaxis_MSG6="жазу жылдамдығын көрсетеді"
+lcdgrab_sintaxis_MSG7="CD-ROM/DVD-ROM/BD-ROM дискісін көрсетеді"
+lcdgrab_sintaxis_MSG8="Рификатордың IDE ATAPI арнасын көрсетеді"
+lcdgrab_sintaxis_MSG9="-G -V -L және -CA опциялары бір-бірін білдіреді."
+lcdgrab_sintaxis_MSG9B="-iut -ium -iug және -iuk опциялары бір-бірінен тәуелсіз,"
+lcdgrab_sintaxis_MSG9C="-G -V -L және -CA үшін қосымша және -h және -v арасында тәуелсіз"
+lcdgrab_sintaxis_MSG10="-h және -v опциялары бір-бірінен және қалғандарынан тәуелсіз."
+lcdgrab_sintaxis_MSG11="Мысалдар:"
+lcdgrab_sintaxis_MSG12="құрылғы"
+lcdgrab_sintaxis_MSG13="сан"
+lcdgrab_sintaxis_MSG14="мәтіндік интерфейс"
+lcdgrab_sintaxis_MSG15="ncurses интерфейсі"
+lcdgrab_sintaxis_MSG16="GTK бар графикалық интерфейс"
+lcdgrab_sintaxis_MSG17="Qt графикалық интерфейсі"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Сценарий жолын енгізіңіз:"
+main_lcdgrabopdep_MSG2="Жарамсыз жол"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Орнатылған патчтар:"
+main_lcdgrabopdeppatch_MSG2="Жамау жолын енгізіңіз:"
+main_lcdgrabopdeppatch_MSG3="Табылмады"
+
+# menu principal dialog
+main_lcdgrabop9uidia="ҚОСЫМША ПАЧТЫ ЖҮКТЕП АЛУ"
+
+# menu principal texto
+
+main_lcdgrabop1_text="ықшам дискіге жазу\t\t\t="
+main_lcdgrabop2_text="DVD ЖАЗУ\t\t\t\t\t="
+main_lcdgrabop3_text="BD ЖАЗУ\t\t\t\t\t="
+main_lcdgrabop4_text="ДИСК-ЖЕТЕКТЕГІ Операциялар\t\t="
+main_lcdgrabop5_text="БЕЙНЕН ЖАСАУ\t\t\t\t="
+main_lcdgrabop6_text="АУДИО КОНверсия\t\t\t\t="
+main_lcdgrabop6b_text="БЕЙНЕ ТҮРЛЕРУ\t\t\t\t="
+main_lcdgrabop7_text="CD/DVD/BD ОРНАТУ НЕМЕСЕ АЛЫП АЛУ\t\t="
+main_lcdgrabop8_text="БЕТІН ОРНАТУ НЕМЕСЕ АЛЫП АЛУ\t\t="
+main_lcdgrabop9_text="ҚОСЫМША ПАЧТЫ ЖҮКТЕП АЛУ\t\t="
+main_lcdgrabop10_text="БАСҚАРУ ОРТАЛЫҒЫ\t\t\t="
+main_lcdgrabop0_text="ШЫҒУ\t\t\t\t\t="
+main_lcdgrabet1_text="БАСҚА ОПЦИЯЛАР ##\t\t="
+main_lcdgrabopEe_text="Дискіні дискіден шығарыңыз\t="
+main_lcdgrabopTD_text="Каталогты көрсету"
+tabs="\t\t="
+main_lcdgrabopG_text="Файл менеджері\t\t\t="
+main_lcdgrabopH_text="Көмек\t\t\t\t="
+main_lcdgrabopA_text="туралы\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="ықшам дискіге жазу"
+main_lcdgrabop2="DVD ЖАЗУ"
+main_lcdgrabop3="BD ЖАЗУ"
+main_lcdgrabop4="ДИСК-ЖЕТЕКТЕГІ Операциялар"
+main_lcdgrabop5="БЕЙНЕН ЖАСАУ"
+main_lcdgrabop6="АУДИО КОНверсия"
+main_lcdgrabop6b="БЕЙНЕ ТҮРЛЕРУ"
+main_lcdgrabop7="CD/DVD/BD ОРНАТУ НЕМЕСЕ АЛЫП АЛУ"
+main_lcdgrabop8="БЕТІН ОРНАТУ НЕМЕСЕ АЛЫП АЛУ"
+main_lcdgrabop9="ҚОСЫМША ПАЧТЫ ЖҮКТЕП АЛУ"
+main_lcdgrabop10="БАСҚАРУ ОРТАЛЫҒЫ"
+main_lcdgrabop0="ШЫҒУ"
+main_lcdgrabet1="БАСҚА ОПЦИЯЛАР ##"
+main_lcdgrabopEe="Дискіні дискіден шығарыңыз"
+main_lcdgrabopTD="Каталогты көрсету"
+main_lcdgrabopG="Файл менеджері"
+main_lcdgrabopH="Көмек"
+main_lcdgrabopA="туралы"
+main_lcdgrabopPRINCIPAL="Опцияны енгізіңіз:"
+MSG1_MAIN="H таңдау опцияларды пайдалануды көрсетеді."
+main_lcdgrabopA_MSG1="Орындалуында:"

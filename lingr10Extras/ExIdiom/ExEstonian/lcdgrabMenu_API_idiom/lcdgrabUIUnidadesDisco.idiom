@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExEstonian/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Estonio para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="KETTAST TÖÖD"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="------------------------ TÄHTIS -------------------------"
+MenuDispositivosBloque_MSG3="+ Ärge tehke kõvakettale kirjutamistoiminguid "
+MenuDispositivosBloque_MSG4="+ pilte sisaldavate kettapartitsioonide kohta"
+MenuDispositivosBloque_MSG5="+ taastamine, alglaadimise partitsioonid või teie enda"
+MenuDispositivosBloque_MSG6="+ operatsioonisüsteemi partitsioon."
+MenuDispositivosBloque_MSG7="+ Selle menüü kirjutamisvalikute väärkasutus "
+MenuDispositivosBloque_MSG8="+ võib tekitada süsteemis katastroofi."
+MenuDispositivosBloque_MSG9="+ Kasutage ettevaatusega. Kasutage omal vastutusel."
+MenuDispositivosBloque_MSG10="------------------- KIRJUTAMINE --------------------"
+MenuDispositivosBloque_MSG11="Kujuta pildifail kettaseadmele"
+MenuDispositivosBloque_MSG11B="Tühista iso või img kujutis (isekäivitav) pendrive või USB kettale"
+MenuDispositivosBloque_MSG11C="Kõiki installisüsteeme ei toetata."
+MenuDispositivosBloque_MSG12="Vorminda draiv natiivse Linux i või Windows i failisüsteemiga"
+MenuDispositivosBloque_MSG13="-------------------- LUGEMINE ----------------------"
+MenuDispositivosBloque_MSG14="Loo .img kujutis kettaseadmest"
+MenuDispositivosBloque_MSG15="Eelmine menüü"
+MenuDispositivosBloque_MSG16="Sisestage valik"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="----------------------------TÄHTIS--------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Seadmetes kasutatava failisüsteemiga vormindamisüksus"
+UIFormatearUnidad_linuxfs_MSG2B="+ või ketta partitsioonid."
+UIFormatearUnidad_linuxfs_MSG3="+ See valik kustutab kõik seadmes olevad andmed"
+UIFormatearUnidad_linuxfs_MSG4="+ failisüsteemiga vormindatud eemaldatavad draivid"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux ise on juurdepääsetav ainult selle operatsioonisüsteemiga."
+UIFormatearUnidad_linuxfs_MSG6="+ Kasutage ettevaatusega, kasutage omal riisikol."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="VAJUTA JÄTKAMISEKS C KLAHVI (teises valikus protsess katkestatakse)"
+

@@ -1,0 +1,25 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAzerbaijani/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en azerbaiyano para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="VIDEO DÖNÜŞMƏSİ"
+menu_conversion_video_MSG2="---------- FORMATLAR ARASINDA KONVERSİYA ---------"
+menu_conversion_video_MSG3="Videonu Blu Ray Disc Smart-TV uyğunluğuna çevir"
+menu_conversion_video_MSG4="Dönüşdürüləcək video faylı:"
+menu_conversion_video_MSG0="Əvvəlki menyu"
+menu_conversion_video_MSG6="Masaüstü seansı qeyd et"
+menu_conversion_video_MSG7="Video faylı fərqli formata çevir"
+menu_conversion_video_MSG8="----------------- DİGƏR SEÇİMLƏR -----------------"
+menu_conversion_video_MSG9="Video faylı audio faylı ilə qarışdır"
+menu_conversion_video_MSG10="Video faylından MP3 səsini çıxarın"
+menu_conversion_video_MSG11="Video faylını kəsin"
+
+

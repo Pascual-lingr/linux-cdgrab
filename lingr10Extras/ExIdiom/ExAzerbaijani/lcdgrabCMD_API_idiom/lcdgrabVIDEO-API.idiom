@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAzerbaijani/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en azerbaiyano para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="VİDEO DÖNÜŞMƏSİ BLU-RAY DİSK UYĞUNLUĞU"
+conv_video_BDVideo_MSG2="Çevrmək üçün video faylın yolunu göstərin:"
+conv_video_BDVideo_MSG3="Yaratmaq üçün yeni videonun fayl adını göstərin:"
+conv_video_BDVideo_MSG4="Video faylı uğurla çevrildi!!"
+conv_video_BDVideo_MSG5="Video faylı çevirmə xətası"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="VİDEO FAYLLARININ DÖNÜŞMƏSİ"
+conv_VideoFich_MSG2="Dönüşdürmək üçün video faylı təyin edin:"
+conv_VideoFich_MSG3="Yaradılacaq video faylı təyin edin:"
+conv_VideoFich_MSG4="VİDEO FAYLININ DÖNÜŞMƏSİ TAMAMLANDI"
+conv_VideoFich_MSG5="VİDEO FAYLINI ÇEVİRDƏN XƏTA"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Video faylını təyin edin:"
+extrae_Audio_de_Video_MSG2="Yaradılacaq mp3 səs faylını təyin edin:"
+extrae_Audio_de_Video_MSG3="SƏSİN ÇIXARILMASI UĞURLU"
+extrae_Audio_de_Video_MSG4="SƏS ÇIXARAQ XƏTA"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Video faylını təyin edin:"
+extrae_Fragmento_Video_MSG2="Yaradılacaq video faylı təyin edin:"
+extrae_Fragmento_Video_MSG3="Başlanğıc vaxtı təyin edin (SS:MM:SS kimi göstərin) :"
+extrae_Fragmento_Video_MSG4="Bitmə vaxtını göstərin (S.S:MM:SS kimi göstərin) :"
+extrae_Fragmento_Video_MSG5="VİDEO UĞURLA KƏSİLDİ"
+extrae_Fragmento_Video_MSG6="VİDEONU KEÇİRƏN XƏTA"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Səs faylını təyin edin:"
+mezcla_Audio_Video_MSG2="Video faylını təyin edin:"
+mezcla_Audio_Video_MSG3="Yaradılacaq video faylı təyin edin:"
+mezcla_Audio_Video_MSG4="YENİ VİDEO FAYI UĞURLU YARATILDI"
+mezcla_Audio_Video_MSG5="VİDEO FAYI YARATMA XƏTASI"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="KONSOLU İNTERFEYS ÜÇÜN OPSİYON Mövcud DEYİL"
+graba_escritorio_MSG2="-- MASA ÜSTÜNDEKİ SESSİYANIN QEYD EDİLMƏSİ -- QEYDİ LƏĞV ETMƏK VƏ DAYANDIRMAQ ÜÇÜN CTRL + C düymələrini basın"
+graba_escritorio_MSG3="VİDEO YAZILIŞ TAMAMLANDI"
+

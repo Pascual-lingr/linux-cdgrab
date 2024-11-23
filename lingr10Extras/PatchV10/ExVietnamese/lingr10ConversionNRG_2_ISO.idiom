@@ -1,0 +1,38 @@
+# Idioma Vietnamita para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Nhấn Enter để tiếp tục..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="==========================================="
+cabeceraNRG_MSG2="CHUYỂN ĐỔI LINUX-CDGRAB 1.0 .NRG THÀNH .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="Nhập đường dẫn của hình ảnh .nrg bạn muốn chuyển đổi:"
+convertir_imagen_nrg_MSG1B="Nhập đường dẫn của hình ảnh .iso bạn muốn tạo:"
+convertir_imagen_nrg_MSG2="đang chạy"
+convertir_imagen_nrg_MSG3="Chuyển đổi hình ảnh .nrg sang .iso hoàn tất thành công"
+convertir_imagen_nrg_MSG4="Lỗi chuyển đổi hình ảnh .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Hỗ trợ chuyển đổi hình ảnh trong linux-cdgrab"
+creditospatchnrgaiso_MSG2="Chuyển đổi hình ảnh .nrg sang .iso bằng nrg2iso"
+creditospatchnrgaiso_MSG3="Phân phối theo giấy phép GPL v2"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="Phiên bản lệnh:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="Chuyển đổi hình ảnh .nrg sang .iso"
+lingr10ConversionNRG_2_ISO_MSG2="Giới thiệu"
+lingr10ConversionNRG_2_ISO_MSG3="Trình đơn trước"
+lingr10ConversionNRG_2_ISO_MSG4="Tùy chọn không hợp lệ"
+
+

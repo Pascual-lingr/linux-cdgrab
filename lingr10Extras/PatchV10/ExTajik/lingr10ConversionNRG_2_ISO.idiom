@@ -1,0 +1,36 @@
+# Idioma Tayiko para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Барои идома додан ENTER-ро пахш кунед..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="====================================="
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 ТАЪДИЛИ .NRG БА .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="Роҳи тасвири .nrg-ро, ки мехоҳед табдил диҳед, ворид кунед:"
+convertir_imagen_nrg_MSG1B="Роҳи тасвири .iso, ки шумо эҷод кардан мехоҳед, ворид кунед:"
+convertir_imagen_nrg_MSG2="давидан"
+convertir_imagen_nrg_MSG3="Табдил додани тасвири .nrg ба .iso бомуваффақият анҷом ёфт"
+convertir_imagen_nrg_MSG4="Хатои табдили тасвир .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Дастгирии табдили тасвирҳо дар linux-cdgrab"
+creditospatchnrgaiso_MSG2="Табдил додани тасвирҳои .nrg ба .iso бо истифода аз nrg2iso"
+creditospatchnrgaiso_MSG3="Тақсим кардан аз рӯи иҷозатномаи GPL v2"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="Версияи фармон:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="Табдил додани тасвири .nrg ба .iso"
+lingr10ConversionNRG_2_ISO_MSG2="Дар бораи"
+lingr10ConversionNRG_2_ISO_MSG3="Менюи қаблӣ"
+lingr10ConversionNRG_2_ISO_MSG4="Варианти нодуруст"
+

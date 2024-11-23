@@ -1,0 +1,37 @@
+# Idioma Coreano para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="계속하려면 Enter 키를 누르세요..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="================================="
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 .NRG를 .ISO로 변환"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="변환하려는 .nrg 이미지의 경로를 입력하세요:"
+convertir_imagen_nrg_MSG1B="생성하려는 .iso 이미지의 경로를 입력하세요:"
+convertir_imagen_nrg_MSG2="실행 중"
+convertir_imagen_nrg_MSG3=".nrg 이미지를 .iso로 변환이 성공적으로 완료되었습니다."
+convertir_imagen_nrg_MSG4="이미지 변환 오류 .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="linux-cdgrab에서 이미지 변환 지원"
+creditospatchnrgaiso_MSG2="nrg2iso를 사용하여 .nrg 이미지를 .iso로 변환"
+creditospatchnrgaiso_MSG3="GPL v2 라이선스에 따라 배포"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="명령 버전:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1=".nrg 이미지를 .iso로 변환"
+lingr10ConversionNRG_2_ISO_MSG2="정보"
+lingr10ConversionNRG_2_ISO_MSG3="이전 메뉴"
+lingr10ConversionNRG_2_ISO_MSG4="잘못된 옵션"
+

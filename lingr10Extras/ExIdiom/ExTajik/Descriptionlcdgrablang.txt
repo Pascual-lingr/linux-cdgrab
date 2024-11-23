@@ -1,0 +1,21 @@
+тоҷикӣ
+
+Tayiko. Tajik.
+Experimental.
+
+Contiene errores de significado en contexto o traducción propia.
+Por estudio del comportamiento de caracteres tayikos en el shell,
+el shell debe tener configurado el soporte para caracteres tayikos,
+de lo contrario, este idioma no será funcional en el shell.
+Generado con Google Translate.
+
+Contains meaning errors in context or own translation.
+By studying the behavior of Tajik characters in the shell,
+the shell must have support for Tajik characters configured,
+otherwise this language will not be functional in the shell.
+Generated with Google Translate.
+
+Забони тоҷикӣ барои linux-cdgrab
+Таҷрибавӣ, ки бо Google Translate сохта шудааст
+Pascual Martínez Cruz; pascual@hotmail.com
+

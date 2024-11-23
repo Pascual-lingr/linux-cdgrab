@@ -1,0 +1,58 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Estonio para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* NAVIGATSIOONI VALIKUD ************************"
+ayuda_gestor_de_archivos_MSG2="Sirvi failisüsteemi."
+ayuda_gestor_de_archivos_MSG3="X --> Välju"
+ayuda_gestor_de_archivos_MSG4="A --> Eelmine kataloog"
+ayuda_gestor_de_archivos_MSG5="B --> Järgmine kataloog"
+ayuda_gestor_de_archivos_MSG6="Toimingud failide ja kataloogidega."
+ayuda_gestor_de_archivos_MSG7="C --> Kopeeri fail"
+ayuda_gestor_de_archivos_MSG8="M --> Teisalda fail"
+ayuda_gestor_de_archivos_MSG9="CD --> Kopeeri kataloog"
+ayuda_gestor_de_archivos_MSG10="MD --> Teisalda kataloog"
+ayuda_gestor_de_archivos_MSG11="Failide ja kataloogidega seotud toimingute mõistmine."
+ayuda_gestor_de_archivos_MSG12="Z --> Tihenda fail"
+ayuda_gestor_de_archivos_MSG13="DZ --> Paki fail lahti"
+ayuda_gestor_de_archivos_MSG14="EZ --> Looge pakett .tar.gz või .tar.bz2"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Pakkige lahti .tar.gz või .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="***********************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Praegune aktiivne kataloog"
+gestor_de_archivos_MSG0B="Failid sisse"
+gestor_de_archivos_MSG1="========================= NAVIGATSIOONI VALIKUD ======================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> ABI="
+gestor_de_archivos_MSG3="======================================================================="
+gestor_de_archivos_MSG4="Tippige valik"
+gestor_de_archivos_MSG5="Tippige kataloog"
+gestor_de_archivos_MSG6="Tippige lähtefail"
+gestor_de_archivos_MSG7="Tippige sihtfail"
+gestor_de_archivos_MSG8="Fail on edukalt kopeeritud"
+gestor_de_archivos_MSG9="Viga faili kopeerimisel"
+gestor_de_archivos_MSG10="Tippige lähtefail"
+gestor_de_archivos_MSG11="Tippige sihtfail"
+gestor_de_archivos_MSG12="Fail teisaldati edukalt"
+gestor_de_archivos_MSG13="Viga faili teisaldamisel"
+gestor_de_archivos_MSG14="Tippige lähtekataloog"
+gestor_de_archivos_MSG15="Tippige sihtkataloog"
+gestor_de_archivos_MSG16="Kataloog kopeeriti edukalt"
+gestor_de_archivos_MSG17="Viga kataloogi kopeerimisel"
+gestor_de_archivos_MSG18="Tippige lähtekataloog"
+gestor_de_archivos_MSG19="Tippige sihtkataloog"
+gestor_de_archivos_MSG20="Kataloog on edukalt teisaldatud"
+gestor_de_archivos_MSG21="Viga kataloogi teisaldamisel"
+gestor_de_archivos_MSG22="TIMISTATAV FAIL"
+gestor_de_archivos_MSG23="Määrake faili tee"
+
+

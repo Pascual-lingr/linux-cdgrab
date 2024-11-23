@@ -1,0 +1,171 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAzerbaijani/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Azerbaiyano para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Qeyd edən cihaz kimi"
+buscar_grabadora_MSG1B="Etibarlıdır"
+buscar_grabadora_MSG2="Qeydiyyat cihazı kimi"
+buscar_grabadora_MSG2B="Xəta"
+buscar_grabadora_MSG3="Dvd+-rw-alətləri qeyd cihazının olduğunu qəbul etmir"
+buscar_grabadora_MSG4="Dvd+rw alətlərindən istifadə edərək DVD yaza bilmək üçün siz yazıcınızı blok cihazı kimi göstərməlisiniz"
+buscar_grabadora_MSG5="Nümunə"
+buscar_grabadora_MSG6="və ya"
+buscar_grabadora_MSG7="Mövcud sistem cihazları /dev-də göstərilir"
+buscar_grabadora_MSG8="DVD yazıcınıza uyğun blok cihazını daxil edin"
+buscar_grabadora_MSG9="Heç bir yazıcı növü və ya seçimi göstərilməyib."
+buscar_grabadora_MSG10="QEYDİCİ ÜÇÜN KONFİQURASİYA EDİLMİŞ CİHAZ"
+buscar_grabadora_MSG11="Qeydiyyat cihazı qabıq mühitinə belə ixrac edilib"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Mümkün dəyər yalnız cdrecord üçün keçərlidir"
+buscar_grabadoralb_MSG2="Yazıcı üçün cari konfiqurasiya belədir"
+buscar_grabadoralb_MSG3="Bu konfiqurasiyanın cdrskin tərəfindən təyin edilmiş dəyərə uyğun olub olmadığını yoxlayın"
+buscar_grabadoralb_MSG4="Cdrskin ilə IDE/SCSI portu skan edilir..."
+buscar_grabadoralb_MSG5="Cdrskin ilə istifadə olunacaq yeni dəyəri təyin edin:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Gələcək DVD üçün ad daxil edin:"
+datos_dvd_MSG2="DVD YAZILIB .."
+datos_dvd_MSG3="İstifadə etmək"
+datos_dvd_MSG4="çalışır"
+datos_dvd_MSG5="DVD UĞURLA QEYD EDİLDİ!"
+datos_dvd_MSG6="Mkisofs və ya genisoimage tapılmadı, cdrtools və ya cdrkit quraşdırın"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Gələcək DVD üçün ad daxil edin:"
+datos_dvd_multi_MSG2="DVD-NİN QEYD EDİLMƏSİ .."
+datos_dvd_multi_MSG3="İstifadə etmək"
+datos_dvd_multi_MSG4="çalışır"
+datos_dvd_multi_MSG5="DVD UĞURLA QEYD EDİLDİ!"
+datos_dvd_multi_MSG6="Mkisofs və ya genisoimage tapılmadı, cdrtools və ya cdrkit quraşdırın"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="ŞƏKİLİN QEYD EDİLMƏSİ .."
+grabimg_dvd_MSG2="çalışır"
+grabimg_dvd_MSG3="! DVD ŞƏKİL UĞURLA QEYD EDİLDİ !"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="DVD-DƏ ŞƏKİLİN YAZDILMASI .."
+copia_bin_dvd_MSG2="çalışır"
+copia_bin_dvd_MSG3="	ŞƏKİL FAYLININ SİLİNMƏSİ"
+copia_bin_dvd_MSG4="YAZILIŞ TAMAMLANDI!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Format a"
+formatear_dvd_MSG2="Bir üçün yeni formatı məcbur edin"
+formatear_dvd_MSG3="A-nın çıxış blokunun yerini dəyişdirin"
+formatear_dvd_MSG4="DVD-RW-ni ardıcıl artıma formatla"
+formatear_dvd_MSG5="Məhdudlu üzərinə yazmaq üçün DVD-RW formatlayın"
+formatear_dvd_MSG6="DVD-ni sıfırlarla doldurun"
+formatear_dvd_MSG7="DVD məlumatını göstər"
+formatear_dvd_MSG8="Əvvəlki menyu"
+formatear_dvd_MSG9="Bu seçim DVD-ni ilk dəfə formatlaşdırmaq üçün istifadə olunur."
+formatear_dvd_MSG10="Əgər DVD artıq formatlanıbsa, o, məlumatları silməyəcək."
+formatear_dvd_MSG11="Bunlar yeni qeyddə üzərinə yazılacaq."
+formatear_dvd_MSG12="DVD-nin məzmununu silmək üçün istifadə edin:"
+formatear_dvd_MSG13="DVD-ni sıfırlarla doldurun"
+formatear_dvd_MSG14="Bu seçim işlənmiş DVD-dən format və məlumatları silir."
+formatear_dvd_MSG15="çalışır"
+formatear_dvd_MSG16="DVD+RW/DVD-RW UĞURLA FORMATLANIB !"
+formatear_dvd_MSG17="DVD-Nİ FORMATLADIQDA XƏTA"
+formatear_dvd_MSG18="DVD+RW diskində format məcbur edilir..."
+formatear_dvd_MSG19="DVD+RW UĞURLU FORMATLANIB!"
+formatear_dvd_MSG20="DVD+RW FORMATLAMADA XƏTA"
+formatear_dvd_MSG21="Bu seçim DVD+RW-də saxlanan məlumatlara təsir etmir"
+formatear_dvd_MSG22="DVD+RW-dən çıxış bloku silinir..."
+formatear_dvd_MSG23="DVD-RW diski ardıcıl yazıya formatlanır..."
+formatear_dvd_MSG24="DVD-RW UĞURLA FORMATLANIB!"
+formatear_dvd_MSG25="DVD-RW FORMATLAMADA XƏTA"
+formatear_dvd_MSG26="DVD-RW diski məhdudlaşdırılmış üzərinə yazmaq üçün formatlanır..."
+formatear_dvd_MSG27="YAZILABİLƏN DVDDİ SİLİN"
+
+# null_dvd
+
+null_dvd_MSG1="Diskə /dev/zero-dan yazmaq..."
+null_dvd_MSG2="çalışır"
+null_dvd_MSG3=" PROSES TAMAMLANDI"
+null_dvd_MSG4="Gözlənilməyən XƏTA"
+
+# dvd_video
+
+dvd_video_MSG1="VIDEO_TS və AUDIO_TS qovluqlarının yerləşdiyi yol:"
+dvd_video_MSG2="VIDEO_TS və AUDIO_TS qovluqlarının yerləşdiyi yolu göstərin:"
+dvd_video_MSG3="çalışır"
+dvd_video_MSG4="--- UĞURLA QEYD EDİLMİŞ DVD-VİDEO ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="çalışır"
+dvd_copia_bin_MSG2="	ŞƏKİL FAYLININ SİLİNMƏSİ"
+dvd_copia_bin_MSG3="QEYD EDİLMƏ XƏTASI BAŞ OLDU"
+
+# dvd_datos
+
+dvd_datos_MSG1=".iso şəklini yaratmaq üçün fayllar və qovluqlar"
+dvd_datos_MSG2="DVD LABEL"
+dvd_datos_MSG3="Gələcək DVD üçün ad daxil edin:"
+dvd_datos_MSG4="Fayl menecerinin işə salınması:"
+dvd_datos_MSG5=" ŞƏKİL YARADIR..."
+dvd_datos_MSG6="çalışır"
+dvd_datos_MSG7="ISO-9660 ŞƏKİL YARADILDI"
+dvd_datos_MSG8="DVD-nin QEYD EDİLMƏSİ"
+dvd_datos_MSG13="ŞƏKİL SİL..."
+
+# dvd_borra
+
+dvd_borra_MSG1="çalışır"
+dvd_borra_MSG2="OPTİK DİSK UĞURLU FORMATLANDIRILDI"
+dvd_borra_MSG3="OPTİK DİSKİN FORMATLANMASI zamanı XƏta"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="qaçış"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="İşləyir"
+formatearCDDVDBD_MSG2="OPTİK DİSK UĞURLU FORMATLANDIRILDI"
+formatearCDDVDBD_MSG3="OPTİK DİSKİN FORMATLANMASI zamanı XƏta"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW uğurla formatlandı!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="DVD-RW-nin məhdudlaşdırılmış üzərinə yazmaq üçün formatlanması xətası"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW uğurla formatlaşdırıldı!!"
+formatearDVDRW_incremental_secuencial_MSG2="DVD-RW-ni ardıcıl artıma formatlaşdırarkən xəta"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Yazmaq üçün iso-9660 şəklinin yolunu göstərin:"
+cdrskinisocddvd_MSG2="ISO ŞƏKİL UĞURLU QEYD EDİLDİ!!"
+cdrskinisocddvd_MSG3="ŞƏKİLİ QEYD EDƏN XƏTƏ"
+

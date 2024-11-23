@@ -1,0 +1,76 @@
+# Idioma Mongol para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Үргэлжлүүлэхийн тулд ENTER дарна уу..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 ДЭМЖИХ REISERFS."
+cabecera_interfaz_MSG3="================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Буулгах командын гаралт:"
+formatear_disco_reiserfs_MSG2="Форматлах блок төхөөрөмжийг зааж өгнө үү: "
+formatear_disco_reiserfs_MSG3="Төхөөрөмж амжилттай форматлагдсан"
+formatear_disco_reiserfs_MSG4="Төхөөрөмжийг форматлахад алдаа гарсан"
+formatear_disco_reiserfs_MSG5="ПРОЦЕСС ДУУССАН"
+formatear_disco_reiserfs_MSG6="Төхөөрөмжийг салгаж байна..."
+formatear_disco_reiserfs_MSG7="ReiserFS дээр дискийг форматлаж байна..."
+formatear_disco_reiserfs_MSG8="Ажиллаж байна"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="АМЖИЛТТАЙ ХЭЛБЭТГЭСЭН"
+formatear_img_reiserfs_MSG2="ХООСОН ФАЙЛ ХЭЛБЭРШҮҮЛЭХ ҮЕД АЛДАА"
+formatear_img_reiserfs_MSG3="Хоосон файл үүсгэж байна..."
+formatear_img_reiserfs_MSG4="Ажилж байна"
+formatear_img_reiserfs_MSG5="ReiserFS дахь хоосон файлыг форматлаж байна..."
+formatear_img_reiserfs_MSG6="ЗАХИАЛТЫН ХЭМЖЭЭТЭЙ ХООСОН ФАЙЛ ҮЗҮҮЛЭХ"
+formatear_img_reiserfs_MSG7="Үүсгэх хоосон файлын хэмжээг зааж өгөх (зөвхөн тоон утга):"
+formatear_img_reiserfs_MSG8="Хоосон файл үүсгэх зайны хэмжилт:"
+formatear_img_reiserfs_MSG9="Ашиглах зайны хэмжилтийг зааж өгнө үү: "
+formatear_img_reiserfs_MSG10="ХЭМЖЭЭНИЙ ХЭМЖЭЭГ ЗАСАХ ҮЕД АЛДАА"
+formatear_img_reiserfs_MSG11="Блокны хэмжээ:"
+formatear_img_reiserfs_MSG12="Хоосон файлын зайны хэмжээ:"
+formatear_img_reiserfs_MSG13="Байтаар тооцсон утга:"
+formatear_img_reiserfs_MSG14="Тооцооны тооцоолсон утга:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="CD-R/RW (702 Мбайт)-д зориулж зураг үүсгэх"
+m_img_CDDVDBD_reiserfs_MSG2="DVD+RW (4 Гбайт)-д зориулж зураг үүсгэх"
+m_img_CDDVDBD_reiserfs_MSG3="DVD+RW/DL (8 Гбайт)-д зориулж зураг үүсгэх"
+m_img_CDDVDBD_reiserfs_MSG4="BD-R/RE (25 Гбайт)-д зориулсан зураг үүсгэх"
+m_img_CDDVDBD_reiserfs_MSG5="Захиалгат хэмжээтэй зургийн файл үүсгэх"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Гарах"
+imgr_tmp_MSG1="Бүх reiserfs зургийн файлуудыг устгах"
+imgr_tmp_MSG2="Зургийн файлыг холбох эсвэл салгах"
+imgr_tmp_MSG3="Зургийн файлууд"
+imgr_tmp_MSG4="Сонголт сонгох"
+imgr_tmp_MSG5="Устгасан зургийн файлууд"
+imgr_tmp_MSG6="Зураг холбох"
+imgr_tmp_MSG7="Зургийг салгах"
+imgr_tmp_MSG8="Суулгасан зураг"
+imgr_tmp_MSG9="Суулгасан зураг"
+imgr_tmp_MSG10="Буруу сонголт"
+imgr_tmp_MSG11="Суулгах эсвэл салгах зургийг зааж өгөх:"
+imgr_tmp_MSG12="Зургийг холбоход алдаа"
+imgr_tmp_MSG13="Зургийг салгахад алдаа гарлаа"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Драйвыг ReiserFS дээр форматлах"
+lingr10reiserfspatch_MSG2="CD/DVD/BD-д зориулж ReiserFS дүрс үүсгэх"
+lingr10reiserfspatch_MSG3="ReiserFS зураг дээрх үйлдлүүд"
+lingr10reiserfspatch_MSG4="Буруу сонголт"
+lingr10reiserfspatch_MSG0="Гарах"
+

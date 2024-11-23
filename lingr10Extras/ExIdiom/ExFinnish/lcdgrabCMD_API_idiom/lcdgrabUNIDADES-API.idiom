@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFinnish/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en finés para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1=".img tai .ext2-kuvan polku, joka kopioidaan levylle."
+volcar_imagen_MSG2="--------------------------TÄRKEÄ-----------------------------" 
+volcar_imagen_MSG3="+ Tämä vaihtoehto ei toimi optisilla levyillä."
+volcar_imagen_MSG4="+ Käytä pendriveissä, levykkeissä, levyosioissa jne."
+volcar_imagen_MSG5="+ Harkitse kiintolevyjä:"
+volcar_imagen_MSG6="+ Kuva on kirjoitettu dd:llä alusta alkaen"
+volcar_imagen_MSG7=" määritetyltä levyltä, numeron käyttö ei ole sallittua"
+volcar_imagen_MSG8=" erityinen sektori kirjoitusprosessin aloittamiseksi"
+volcar_imagen_MSG9="+ Käytä varoen. Käytä omalla vastuulla."
+volcar_imagen_MSG10="+ Levyosiot voivat tulla käyttökelvottomiksi."
+volcar_imagen_MSG11="+ Ei ole suositeltavaa käyttää sitä moniosiojärjestelmissä."
+volcar_imagen_MSG12="Palautus saattaa poistua osiotaulukosta ja"
+volcar_imagen_MSG13="itse turhat osiot."
+volcar_imagen_MSG14="-------------------------------------------------------------"
+volcar_imagen_MSG15="PAINA C-NÄPPÄINTÄ JATKAASI; (Prosessi peruuntuu toisessa vaihtoehdossa)"
+volcar_imagen_MSG16="Määritä levylle vedettävän kuvatiedoston polku: "
+volcar_imagen_MSG17="Liitä komennon lähtö:"
+volcar_imagen_MSG18="Määritä lohkolaite, johon kuva viedään:"
+volcar_imagen_MSG19="DUMPPOITU KUVA"
+volcar_imagen_MSG20="LAITTEELLA"
+volcar_imagen_MSG21="käynnissä"
+volcar_imagen_MSG22="KUVAN VETOPROSESSI VALMIS"
+
+# volcar_iso
+
+volcar_iso_MSG1="Määritä lohkolaite, johon iso-kuva kirjoitetaan:"
+volcar_iso_MSG2="VAROITUS"
+volcar_iso_MSG2B="--------"
+volcar_iso_MSG3="Määritä lohkolaite, johon kirjoittaa."
+volcar_iso_MSG4="Esimerkkejä: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Älä määritä tälle laitteelle kuuluvaa osiota"
+volcar_iso_MSG6="Esimerkkejä: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Määritä kirjoitettava iso-9660-kuva tai img:"
+volcar_iso_MSG9="Prosessi valmis"
+volcar_iso_MSG10="Virhe iso-kirjoitusprosessissa"
+volcar_iso_MSG11="Määritä lohkon koko kuvan kirjoittamista varten"
+volcar_iso_MSG12="Valitse vaihtoehto käyttöjärjestelmän mukaan kirjoittaaksesi:"
+volcar_iso_MSG13="ISO-9660 tai käynnistettävä IMG-kuva, joka vilkkuu laitteella:"
+volcar_iso_MSG14="Poistu"
+volcar_iso_MSG15="ISO-9660 KUVATIEDOSTO TAI KUVA"
+volcar_ISO_MSG16="VALITSE KÄYTTÖJÄRJESTELMÄ YKSIKKÖN TOIMITTAMISEKSI"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Valitse tiedostojärjestelmä käyttämällä"
+Formateador_linuxfs_MSG2="laite alustetaan:"
+Formateador_linuxfs_MSG3="Määritä alustettava lohkolaite: "
+Formateador_linuxfs_MSG5="PROSESSI VALMIS"
+Formateador_linuxfs_MSG6="LEVYN MUOTO"
+Formateador_linuxfs_MSG7="Aseta taltion nimi"
+Formateador_linuxfs_MSG10="Määritä taltion nimi"
+Formateador_linuxfs_MSG11="Uusi levynimi"
+Formateador_linuxfs_MSG12="Määritä lohkon koko"
+Formateador_linuxfs_MSG13="Uusi lohkokoko"
+Formateador_linuxfs_MSG14="Edellinen valikko"
+

@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovak/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Eslovaco para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* MOŽNOSTI NAVIGÁCIE ************************"
+ayuda_gestor_de_archivos_MSG2="Prehľadávať súborový systém."
+ayuda_gestor_de_archivos_MSG3="X --> Koniec"
+ayuda_gestor_de_archivos_MSG4="A --> Predchádzajúci adresár"
+ayuda_gestor_de_archivos_MSG5="B --> Ďalší adresár"
+ayuda_gestor_de_archivos_MSG6="Akcie so súbormi a adresármi."
+ayuda_gestor_de_archivos_MSG7="C --> Kopírovať súbor"
+ayuda_gestor_de_archivos_MSG8="M --> Presunúť súbor"
+ayuda_gestor_de_archivos_MSG9="CD --> Kopírovať adresár"
+ayuda_gestor_de_archivos_MSG10="MD --> Presunúť adresár"
+ayuda_gestor_de_archivos_MSG11="Pochopenie akcií so súbormi a adresármi."
+ayuda_gestor_de_archivos_MSG12="Z --> Komprimovať súbor"
+ayuda_gestor_de_archivos_MSG13="DZ --> Dekomprimovať súbor"
+ayuda_gestor_de_archivos_MSG14="EZ --> Vytvoriť balík .tar.gz alebo .tar.bz2"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Rozbaľte súbor .tar.gz alebo .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*********************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Aktuálny aktívny adresár"
+gestor_de_archivos_MSG0B="Súbory v"
+gestor_de_archivos_MSG1="=========================== MOŽNOSTI NAVIGÁCIE ========================"
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> AID="
+gestor_de_archivos_MSG3="======================================================================="
+gestor_de_archivos_MSG4="Zadajte možnosť"
+gestor_de_archivos_MSG5="Typ adresár"
+gestor_de_archivos_MSG6="Zadajte zdrojový súbor"
+gestor_de_archivos_MSG7="Zadajte cieľový súbor"
+gestor_de_archivos_MSG8="Súbor úspešne skopírovaný"
+gestor_de_archivos_MSG9="Chyba pri kopírovaní súboru"
+gestor_de_archivos_MSG10="Zadajte zdrojový súbor"
+gestor_de_archivos_MSG11="Zadajte cieľový súbor"
+gestor_de_archivos_MSG12="Súbor úspešne presunutý"
+gestor_de_archivos_MSG13="Chyba pri presúvaní súboru"
+gestor_de_archivos_MSG14="Zadajte zdrojový adresár"
+gestor_de_archivos_MSG15="Zadajte cieľový adresár"
+gestor_de_archivos_MSG16="Adresár úspešne skopírovaný"
+gestor_de_archivos_MSG17="Chyba pri kopírovaní adresára"
+gestor_de_archivos_MSG18="Zadajte zdrojový adresár"
+gestor_de_archivos_MSG19="Zadajte cieľový adresár"
+gestor_de_archivos_MSG20="Adresár úspešne presunutý"
+gestor_de_archivos_MSG21="Chyba pri presúvaní adresára"
+gestor_de_archivos_MSG22="SÚBOR NA KOMPRESU"
+gestor_de_archivos_MSG23="Určite cestu k súboru"

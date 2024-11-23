@@ -1,0 +1,47 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Eslovaco para la aplicación principal
+# Traducción experimental.                         #
+# Generado con Google Translate.                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Súbor automaticky generovaný LINUX-CDGRAB 1.0"
+creacion_de_Depot_MSG2="Tento súbor spolu s adresárom"
+creacion_de_Depot_MSG3="boli vygenerované automaticky"
+creacion_de_Depot_MSG4="aplikáciou Linux-cdgrab pri overovaní, že neexistuje vo vašej distribúcii Linuxu"
+creacion_de_Depot_MSG5="adresár"
+creacion_de_Depot_MSG6="Linux-cdgrab používa tento adresár na zapisovanie dočasných súborov a obrazov zariadení (iso, img atď.)"
+creacion_de_Depot_MSG8="Depot používa GoboLinux na ukladanie dočasných súborov"
+creacion_de_Depot_MSG9="Účel tohto súboru je len pre informačné účely, po prečítaní ho môžete voľne zmazať."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="POZNÁMKA:"
+main_IDSISTEMA_MSG2="Operačný systém nie je podporovaný."
+main_IDSISTEMA_MSG3="Ak sú problémy s prevádzkou aplikácie, použite GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="Nie je to platný argument"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="nájdený"
+main_cdkit_test_MSG2="odkaz na wodim vytvorený"
+main_cdkit_test_MSG3="odkaz na genisoimage vytvorený"
+main_cdkit_test_MSG4="odkaz na icedax vytvorený"
+
+# pgm principal
+
+pgm_principal_MSG1="FATAL: Nenašla sa žiadna správna distribúcia adresárov."
+pgm_principal_MSG2="CUDZINEC"
+
+
+

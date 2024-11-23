@@ -1,0 +1,37 @@
+# Idioma Suajili para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Bonyeza ENTER ili kuendelea..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="=========================================="
+cabeceraNRG_MSG2="UONGOZI WA LINUX-CDGRAB 1.0 .NRG KUWA .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="Ingiza njia ya picha ya .nrg unayotaka kubadilisha:"
+convertir_imagen_nrg_MSG1B="Ingiza njia ya picha ya .iso unayotaka kutoa:"
+convertir_imagen_nrg_MSG2="inaendesha"
+convertir_imagen_nrg_MSG3="Ubadilishaji wa picha ya .nrg kuwa .iso umekamilika kwa mafanikio"
+convertir_imagen_nrg_MSG4="Hitilafu katika kubadilisha picha .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Msaada wa ubadilishaji wa picha katika linux-cdgrab"
+creditospatchnrgaiso_MSG2="Kubadilisha picha za .nrg kuwa .iso kwa kutumia nrg2iso"
+creditospatchnrgaiso_MSG3="Sambaza chini ya leseni ya GPL v2"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="Toleo la amri:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="Badilisha .nrg picha kuwa .iso"
+lingr10ConversionNRG_2_ISO_MSG2="Kuhusu"
+lingr10ConversionNRG_2_ISO_MSG3="Menyu iliyotangulia"
+lingr10ConversionNRG_2_ISO_MSG4="Chaguo Batili"
+

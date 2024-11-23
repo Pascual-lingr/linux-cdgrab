@@ -1,0 +1,281 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKazakh/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Kazajo para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux-cdgrab конфигурациясы"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Егер сіз қай IDE арнасына жататынын білмесеңіз" 
+ayuda_IDE_MSG2="магнитофоныңыз t әрпін басу арқылы біле алады."
+ayuda_IDE_MSG3="IDE арнасының мысалы 0,0,0 немесе 0,1,0 болуы мүмкін"
+ayuda_IDE_MSG4="Сәйкес құрылғыны да көрсетуге болады"
+ayuda_IDE_MSG5="магнитофонға. Қайсысы екенін білмесеңіз, d түймесін басыңыз."
+ayuda_IDE_MSG6="/etc/fstab файлында тіркелген құрылғыларды көру үшін"
+ayuda_IDE_MSG7="Құрылғылардың мысалы ретінде /dev/hdd, /dev/hde т.б. болуы мүмкін."
+ayuda_IDE_MSG8="Қаласаңыз, барлық құрылғыларды тізімдеуге болады"
+ayuda_IDE_MSG9="l әрпін басу арқылы /dev каталогында."
+ayuda_IDE_MSG10="Сіз IDE арнасын немесе жазу құрылғысын көрсетуіңіз керек"
+ayuda_IDE_MSG11="бірақ екеуі де емес."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab жүйесі жүйеңізден жойылды"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Жазу жылдамдығы"
+imprimir_variables_MSG2="IDE/SCSI арнасы немесе жазу құрылғысы"
+imprimir_variables_MSG3="CD-ROM, DVD-ROM немесе BD-ROM оқу құралы"
+imprimir_variables_MSG4="ATAPI құрылғысы"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Жазу жылдамдығы"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI арнасы немесе жазу құрылғысы"
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM немесе BD-ROM оқу құралы"
+imprimir_lcdgrabcfg_MSG4="ATAPI құрылғысы"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Орнатылған"
+chequeo_de_aplicaciones_MSG2="Орнатылған ЕМЕС"
+chequeo_de_aplicaciones_MSG3="Орнату"
+chequeo_de_aplicaciones_MSG4="МАҢЫЗДЫ:"
+chequeo_de_aplicaciones_MSG5="Қажетті құралдарды орнату Linux-cdgrab толығымен жұмыс істейді"
+chequeo_de_aplicaciones_MSG6="Linux-cdgrab қажет барлық бағдарламалар жүйеңізде орнатылған"
+chequeo_de_aplicaciones_MSG4B="ЕСКЕРТУ:"
+chequeo_de_aplicaciones_MSG5B="Жетіспейтін құралдар табылды"
+chequeo_de_aplicaciones_MSG6B="Жүйеде орнатылған құралдар"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 әдепкі бойынша осы айнымалыға тағайындалған"
+msgdefCANALATAPI_MSG2="Конфигурация файлы CANALATAPI = 0,0,0 арқылы жазылады"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Конфигурация файлы Linux-cdgrab арқылы автоматты түрде жасалған."
+nuevo_lcdgrabcfg_MSG5="жүйеде cdrecord табылмады"
+nuevo_lcdgrabcfg_MSG6="Cdrtools бумасын орнату."
+nuevo_lcdgrabcfg_MSG7="Мәндерді көрсету арқылы конфигурацияны жалғастыруға болады"
+nuevo_lcdgrabcfg_MSG8="егер сіз оларды бұрын білсеңіз, жазу."
+nuevo_lcdgrabcfg_MSG9="Cdrecord пәрмені CD, DVD және BD дискілерін жазуда қолданылады"
+nuevo_lcdgrabcfg_MSG10="Бұл опциялар аталған бума орнатылмайынша жұмыс істемейді."
+nuevo_lcdgrabcfg_MSG11="Қолданыстағы дискіні сканерлеу құралы да жұмыс істемейді"
+nuevo_lcdgrabcfg_MSG12="осы конфигурация шеберінде."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab келесі төрт қадамда конфигурациялануы керек"
+nuevo_lcdgrabcfg_MSG14="Бірінші қадам."
+nuevo_lcdgrabcfg_MSG15="Жазу жылдамдығы"
+nuevo_lcdgrabcfg_MSG16="Тек бір сан 2,4,8,16,32... т.б."
+nuevo_lcdgrabcfg_MSG17="Екінші қадам."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI арнасы немесе жазу құрылғысы:"
+nuevo_lcdgrabcfg_MSG19="A -> анықтама"
+nuevo_lcdgrabcfg_MSG20="Сканерлеуде..."
+nuevo_lcdgrabcfg_MSG21="IDE/SCSI портын сканерлеу қатесі"
+nuevo_lcdgrabcfg_MSG22="Cdжазба табылмады"
+nuevo_lcdgrabcfg_MSG23="Үшінші қадам."
+nuevo_lcdgrabcfg_MSG24="CD-ROM, DVD-ROM немесе BD-ROM құрылғысы"
+nuevo_lcdgrabcfg_MSG25="L -> Қол жетімді құрылғылар тізімі"
+nuevo_lcdgrabcfg_MSG26="Сканерлеуде..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI порты сканерленді"
+nuevo_lcdgrabcfg_MSG28="Көп сеанстық жазбаларда dev=ATAPI арқылы cdrecord пайдаланатын құрылғы"
+nuevo_lcdgrabcfg_MSG30="Құрылғының номенклатурасы бар, мысалы, 0,0,0 немесе 1,0,0 т.б."
+nuevo_lcdgrabcfg_MSG31="Көп сеанстық ықшам дискілерде cdrecord шақыру үшін құрылғыны көрсетіңіз: "
+nuevo_lcdgrabcfg_MSG32="CANALATAPI үшін конфигурация дұрыс емес"
+nuevo_lcdgrabcfg_MSG33="IDE/SCSI портын сканерлеу қатесі"
+nuevo_lcdgrabcfg_MSG34="Cdжазба табылмады"
+nuevo_lcdgrabcfg_MSG36="Конфигурация файлы Linux-cdgrab арқылы автоматты түрде жасалған."
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB ОРНАТУ АЯҚТАЛДЫ"
+
+# colores
+
+colores_MSG1="Түстер тізімі табылмады"
+colores_MSG2="Әдепкі түстер жүктелуде"
+colores_MSG3="LINUX-CDGRAB интерфейсі үшін жаңа түс схемасын таңдау"
+colores_MSG4="ҚАРА ҚАРІП"
+colores_MSG5="СТАНДАРТТЫ ЖАРҚЫН ҚАРІП"
+colores_MSG6="ҚАРА ФОН ТҮСІ"
+colores_MSG7="ҚЫЗЫЛ ҚАРІП"
+colores_MSG8="ЖАРҚЫН ҚАРА ҚАРІП"
+colores_MSG9="ҚЫЗЫЛ ФОН ТҮСІ"
+colores_MSG10="ҚАРІПІ ЖАСЫЛ"
+colores_MSG11="ЖАРҚЫН ҚЫЗЫЛ фонтан"
+colores_MSG12="ЖАСЫЛ ФОН ТҮСІ"
+colores_MSG13="САРЫ ҚАРІП"
+colores_MSG14="ЖАРҚЫН ЖАСЫЛ ҚАРІП"
+colores_MSG15="ҚЫЗҒЫЛТЫН ФОН ТҮСІ"
+colores_MSG16="КӨК ҚАРІП"
+colores_MSG17="ЖАРҚЫН САРЫ ҚАРІП"
+colores_MSG18="КӨК ФОН ТҮСІ"
+colores_MSG19="ҚҮШІН ҚАРІП"
+colores_MSG20="ЖАРҚЫН КӨК ҚАРІП"
+colores_MSG21="ҚАРШЫ ФОН ТҮСІ"
+colores_MSG22="КӨГІЛ КӨЗІ"
+colores_MSG23="ЖАРҚЫН КҮШІН ҚАРПІ"
+colores_MSG24="КӨГІЛГІ ФОН ТҮСІ"
+colores_MSG25="СҰР Шрифт"
+colores_MSG26="КӨГГІЛГІ ФОН ТҮСІ"
+colores_MSG27="ЖАРҚЫН КӨГІЛ ҚАРІП"
+colores_MSG28="СҰР ФОН ТҮСІ"
+colores_MSG29="ӘДІМДІ КӨЗ"
+colores_MSG30="ЖАРҚЫН АҚ ҚАРІП"
+colores_MSG31="ӘДІМДІ ФОН ТҮСІ"
+colores_MSG32="Қаріптің түс нөмірі: "
+colores_MSG33="Фонның түс нөмірі: "
+colores_MSG34="Ескерту хабарларының түс нөмірі: "
+colores_MSG35="Жапсырма хабарламаларының түс нөмірі: "
+colores_MSG36="Сәтті аяқталған процестердің түс нөмірі"
+colores_MSG37="Қатемен аяқталған процестердің түс нөмірі: "
+colores_MSG38="LINUX-CDGRAB үшін жаңа схема"
+colores_MSG39="ЖАЛПЫ ҚАРІПТІҢ ТҮСІ"
+colores_MSG40="Жапсырмалар"
+colores_MSG41="ЕСКЕРТУ"
+colores_MSG42="СӘТТІ"
+colores_MSG43="ҚАТЕ"
+colores_MSG44="ФОН ТҮСІ"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="ҚОЛЖЕТІМДІ ТҮСТЕР ТІЗІМІ:"
+cambiar_esquema_de_color_MSG2="#####ТҮСТІ ТҮСТЕР#######"
+cambiar_esquema_de_color_MSG3="------------------------"
+cambiar_esquema_de_color_MSG4="Түс мәзірі"
+cambiar_esquema_de_color_MSG5="Сәтсіз"
+cambiar_esquema_de_color_MSG6="Жапсырмалар"
+cambiar_esquema_de_color_MSG6b="Ескертулер"
+cambiar_esquema_de_color_MSG7="Түс мәзірі Жарайды Ақаулық туралы ескертулер жапсырмалары"
+cambiar_esquema_de_color_MSG8="Жаңа түстің нөмірін енгізіңіз:"
+cambiar_esquema_de_color_MSG9="Жарамсыз ОПЦИЯ"
+cambiar_esquema_de_color_MSG10="ӘДІПТІ ТҮСТЕРДІ ОРНАТУ."
+cambiar_esquema_de_color_MSG11="  BACKGROUND = BLUE_BACKGROUND"
+cambiar_esquema_de_color_MSG12="  ҚАРІП = ЖАРҚЫН АҚ"
+cambiar_esquema_de_color_MSG13="  ЕСКЕРТУ = Ашық САРЫ"
+cambiar_esquema_de_color_MSG14="  ҚАТЕЛІКТЕР = Ашық ҚЫЗЫЛ"
+cambiar_esquema_de_color_MSG15="  ҚАТЕЛІКТЕР = Ашық ҚЫЗЫЛ"
+cambiar_esquema_de_color_MSG16="  ЖЕТІСТІК = ЖАРҚЫН ЖАСЫЛ"
+cambiar_esquema_de_color_MSG17="  ЖАПСЫРМАЛАР = ЖАРҚЫН КӨГІЛ"
+
+# cambia_lector
+
+cambia_lector_MSG1="ОПТИКАЛЫҚ БІРЛІКТЕР ҮШІН ОРТА ПАРАМЕТРЛЕРІ"
+cambia_lector_MSG2="CD-ROM, DVD-ROM немесе BD-ROM-мен байланысты ағымдағы құрылғы"
+cambia_lector_MSG3="CD/DVD/BD жазу құралымен байланысты ағымдағы құрылғы"
+cambia_lector_MSG4="dev=ATAPI параметрімен байланысты ағымдағы құрылғы"
+cambia_lector_MSG5="(cdrecord үшін көп сеанстық қолдау)"
+cambia_lector_MSG6="Өзгеріс енгізілетін құрылғыны таңдаңыз."
+cambia_lector_MSG7="Опцияны енгізіңіз:"
+cambia_lector_MSG8="Жаңа құрылғының атын енгізіңіз"
+cambia_lector_MSG9="блоктау құрылғысына сәйкес келмейді"
+cambia_reader_MSG10="Құрылғы"
+cambia_lector_MSG11="әдепкі бойынша тағайындалған"
+cambia_lector_MSG12="Жаңа құрылғы:"
+cambia_lector_MSG13="Cdrecord барлық нұсқалары блоктау құрылғысын жазу параметрі ретінде қабылдамайды"
+cambia_lector_MSG14="Жаңа ATAPI құрылғысының атын енгізіңіз"
+cambia_lector_MSG15="CANALATAPI үшін конфигурация дұрыс емес"
+cambia_lector_MSG16="0,0,0 әдепкі бойынша осы айнымалыға тағайындалған"
+cambia_lector_MSG17="Конфигурация файлы CANALATAPI = 0,0,0 арқылы жазылады"
+cambia_lector_MSG18="Жаңа құрылғы:"
+cambia_lector_MSG19="ҚҰРЫЛҒЫЛАРДА ЕШҚАНДАЙ ӨЗГЕРІС ЖАСАЛҒАН ЖОҚ"
+cambia_lector_MSG4B="Конфигурация файлынан мәндерді экспорттау"
+cambia_lector_MSG4C="БҰЛ ҚҰНДЫЛЫҚТАР ҚОРШАҒАН ОРТАҒА ХАБАРЛАДЫ:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Осы мәзірден қай қызметтік бағдарламаны таңдауға болады"
+cambia_generador_isocd_MSG2="ISO-9660 кескіндерін жасау үшін пайдаланылады"
+cambia_generator_isocd_MSG3="оқу блогындағы бар CDS ішінен."
+cambia_generador_isocd_MSG4="Ағымдағы конфигурация:"
+cambia_generador_isocd_MSG5="dd (GNU coreutils компоненті) пайдалану"
+cambia_generador_isocd_MSG6="readcd пайдалану (cdrtools компоненті)"
+cambia_generador_isocd_MSG7="Алдыңғы мәзір."
+cambia_generador_isocd_MSG8="Опцияны таңдаңыз:"
+cambia_generador_isocd_MSG9="Dd изо генераторы ретінде пайдалану."
+cambia_generador_isocd_MSG10="readcd-ді изо генераторы ретінде пайдалану."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Rock Ridge және Joliet бірге HFS метадеректерін орнату"
+establecer_hfs_iso_MSG2="Тек Rock Ridge және Joliet метадеректерін пайдалану"
+establecer_hfs_iso_MSG3="Алдыңғы мәзір."
+establecer_hfs_iso_MSG4="Опцияны таңдаңыз:"
+establecer_hfs_iso_MSG5="HFS, Rock Ridge және Joliet метадеректерін пайдалану"
+establecer_hfs_iso_MSG6="Rok Ridge және Joliet метадеректерін пайдалану"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Ағымдағы хабарландыру жүйесі"
+cambia_notificaciones_MSG2A="GNOME графикалық интерфейсі"
+cambia_notificaciones_MSG2B="KDE графикалық интерфейсі"
+cambia_notificaciones_MSG2="ncurses интерфейсі"
+cambia_notificaciones_MSG3="Мәтіндік интерфейс"
+cambia_notificaciones_MSG4="Шығу"
+cambia_notificaciones_MSG5="Опцияны таңдаңыз:"
+cambia_notificaciones_MSG6="Диалогпен интерфейсті пайдалану"
+cambia_notidicaciones_MSG6B="Zenity интерфейсін пайдалану"
+cambia_notidicaciones_MSG6C="kdialog интерфейсін пайдалану"
+cambia_notificaciones_MSG7="Диалог командасы табылмады"
+cambia_notificaciones_MSG8="Мәтіндік интерфейсті пайдалану"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Қолданылатын тіл:"
+cambiar_idioma_UI_MSG1="Қазіргі уақытта қолжетімді тілдер:"
+cambiar_idioma_UI_MSG2="Қолданылатын тілдің атын енгізіңіз"
+cambiar_idioma_UI_MSG3="қолданба интерфейсінде:"
+cambiar_idioma_UI_MSG4="Қолданылатын жаңа тіл:"
+cambiar_idioma_UI_MSG5="LINUX-CDGRAB қайта іске қосу"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Ағымдағы конфигурация"
+seleccion_gestor_archivos_MSG2="mc пайдалану"
+seleccion_gestor_archivos_MSG3="Біріктірілген мәтін реттеушісін пайдалану"
+seleccion_gestor_archivos_MSG4="жүйеде орнатылған mc табылмады"
+seleccion_gestor_archivos_MSG5="Әдепкі бойынша біріктірілген мәтін реттеушісін пайдалану"
+seleccion_gestor_archivos_MSG6="mc қызметтік бағдарламасы"
+seleccion_gestor_archivos_MSG7="Біріктірілген мәтін"
+
+# centro_de_control
+
+centro_de_control_MSG1="БАСТАУ ОРТАЛЫҒЫ"
+centro_de_control_MSG2="Жаңа конфигурация"
+centro_de_control_MSG3="Конфигурация файлын жою"
+centro_de_control_MSG4="Ағымдағы конфигурация файлы мен мәндерін көрсету"
+centro_de_control_MSG5="КОНФИГУРАЦИЯ ФАЙЛ МӘНДЕРІ:"
+centro_de_control_MSG5B="ОРТАДА ҚОЛДАНЫЛАТЫН АҒЫМДАҒЫ КОНФИГУРАЦИЯ:"
+centro_de_control_MSG6="Оптикалық медианы өзгерту"
+centro_de_control_MSG7="Орнатылған бағдарламаларды тексеру"
+centro_de_control_MSG8="IDE/SCSI портын cdrecord арқылы сканерлеу"
+centro_de_control_MSG8C="IDE/SCSI портын cdrskin арқылы сканерлеу"
+centro_de_control_MSG8B="Cdrskin көмегімен жүйеде орнатылған бірліктердің тізімі"
+centro_de_control_MSG9="CD дискіден iso генерациялайтын қызметтік бағдарламаны өзгерту"
+centro_de_control_MSG9B="iso-9660 үшін HFS метадеректерін орнату"
+centro_de_control_MSG10="Пайдаланушы интерфейсін өзгерту"
+centro_de_control_MSG10b="Түсті өзгерту"
+centro_de_control_MSG10c="Интерфейс тілін өзгерту"
+centro_de_control_MSG11="Файл реттеушісін өзгерту"
+centro_de_control_MSG11B="Бағдарламаны жою"
+centro_de_control_MSG12="Опцияны енгізіңіз: "
+centro_de_control_MSG13="КОНФИГУРАЦИЯ ФАЙЛЫ ЖОҚ"
+centro_de_control_MSG14="КОНФИГУРАЦИЯ ФАЙЛЫ ТАБЫЛМАДЫ"
+centro_de_control_MSG15="Сканерлеу"
+centro_de_control_MSG16="IDE/SCSI порты сканерленді"
+centro_de_control_MSG17="IDE/SCSI портын сканерлеу қатесі"
+centro_de_control_MSG18="Түс схемасын таңдау"
+centro_de_control_MSG19="Түстерді ерікті түрде таңдау"
+centro_de_control_MSG20="Алдыңғы мәзір"
+centro_de_control_MSG21="Опцияны енгізіңіз: "
+centro_de_control_MSG22="КОНФИГУРАЦИЯ ФАЙЛЫ ЖОҚ"
+centro_de_control_MSG23="КОНФИГУРАЦИЯ ФАЙЛЫ ТАБЫЛМАДЫ"
+centro_de_control_MSG24="Түс схемасын таңдау"
+centro_de_control_MSG25="Түстерді ерікті түрде таңдау"
+centro_de_control_MSG26="Жарамсыз опция"

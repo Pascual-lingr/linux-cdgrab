@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongol/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Mongol para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="ХӨРВҮҮЛЭХ MP3 ФАЙЛУУД"
+mp3awav_MSG0=".mp3 файлуудын замыг оруулна уу: "
+mp3awav_MSG1="ХӨРВҮҮЛЭХ"
+mp3awav_MSG1B=" TO .wav FORMAT"
+mp3awav_MSG2="ажиллаж байна"
+mp3awav_MSG3="Дээж авахыг 44100 МГц болгож тохируулсан"
+mp3awav_MSG4="Дээж авах явцад алдаа гарлаа"
+mp3awav_MSG5="Хөрвүүлж чадсангүй"
+mp3awav_MSG6="Лавлах олдсонгүй"
+mp3awav_MSG7="АУДИО ХӨРВҮҮЛЭХ Төгсгөл"
+mp3awav_MSG8="Аудио файлыг хэвийн болгох"
+mp3awav_MSG9="Файл"
+mp3awav_MSG10="Нормчилсан"
+mp3awav_MSG11="Хэвийн болгох алдаа"
+
+# oggawav
+
+oggawav_MSG0="ХӨРВҮҮЛЭХ OGG ФАЙЛУУД"
+oggawav_MSG1=".ogg файлуудын замыг оруулна уу: "
+oggawav_MSG2="ХӨРВҮҮЛЭХ"
+oggawav_MSG2B="A .wav FORMAT"
+oggawav_MSG3="ажиллаж байна"
+oggawav_MSG4="Түүврийн давтамжийг 44100 МГц болгож тохируулсан"
+oggawav_MSG5="Дээж авах явцад алдаа гарлаа"
+oggawav_MSG6="Хөрвүүлж чадсангүй"
+oggawav_MSG7="Лавлах олдсонгүй"
+oggawav_MSG8="Аудио хамрах хүрээний төгсгөл"
+oggawav_MSG9="Аудио файлыг хэвийн болгох"
+oggawav_MSG10="Файл"
+oggawav_MSG11="Нормчилсан"
+oggawav_MSG12="Нормчилсон алдаа"
+
+# cdawav
+
+cdawav_MSG1="АУДИО CD ХУРАХ..."
+cdawav_MSG2="Гүйцэтгэж байна:"
+cdawav_MSG3="АУДИО ТРЕКИЙГ АМЖИЛТТАЙ БОЛОВСРУУЛСАН!!"
+cdawav_MSG4="Аудио файлын лавлахын агуулга"
+cdawav_MSG5="АУДИО ТРЕКИЙГ ХУРАХ ҮЕД АЛДАА"
+
+# cddawav
+
+cddawav_MSG1="ХУРАХ ДУГААР ТООГ ОРУУЛ:"
+cddawav_MSG2="Crtl + c товчийг дарж дууг хуулахыг цуцлах"
+cddawav_MSG3="Гүйцэтгэж байна:"
+cddawav_MSG4="АМЖИЛТТАЙ УУРСАН"
+cddawav_MSG5="ХУУРАХ АЛДАА"
+
+# wavamp3
+
+wavamp3_MSG0="ХӨРВҮҮЛЭХ WAV ФАЙЛУУД"
+wavamp3_MSG1=".wav файлуудын замыг оруулна уу: "
+wavamp3_MSG1B="ХӨРВҮҮЛЭХ"
+wavamp3_MSG2="FORMAT"
+wavamp3_MSG3="Гүйцэтгэж байна:"
+wavamp3_MSG4="хөрвүүлэх үед"
+wavamp3_MSG5=".MP3 формат руу"
+wavamp3_MSG6="Хувиргахад алдаа"
+wavamp3_MSG7="АУДИО ХӨРВҮҮЛЭЛТ ДУУССАН"
+wavamp3_MSG8="АУДИО ЛАВЛАХ ОЛООГҮЙ"
+
+# cdamp3
+
+cdamp3_MSG1="АУДИО CD ХУРАХ..."
+cdamp3_MSG2="Гүйцэтгэж байна:"
+cdamp3_MSG3="АУДИО ДОРУУГ АМЖИЛТТАЙ БОЛОВСРУУЛСАН!!"
+cdamp3_MSG4="АУДИО ТРЕКИЙГ ХУРАХ ҮЕД АЛДАА"
+cdamp3_MSG5="Дуудлагын функц:"
+
+# wavaogg
+
+wavaogg_MSG1=".wav файлуудын замыг оруулна уу: "
+wavaogg_MSG2="ХӨРВҮҮЛЭХ"
+wavaogg_MSG3="A .ogg FORMAT"
+wavaogg_MSG4="Ажилж байна:"
+wavaogg_MSG5="Хөрвүүлэх алдаа"
+wavaogg_MSG6=".ogg формат руу"
+
+# cdaogg
+
+cdaogg_MSG1="АУДИО CD г ХУРАХ..."
+cdaogg_MSG2="Гүйцэтгэж байна:"
+cdaogg_MSG3="АУДИО ТРЕКҮҮДИЙГ АМЖИЛТТАЙ БОЛОВСРУУЛСАН!!"
+cdaogg_MSG4="АУДИО ТРЕКИЙГ ХУУЛАХ ҮЕД АЛДАА"
+cdaogg_MSG5="Дуудлагын функц:"
+
+# corta_wav
+
+corta_wav_MSG0="Секундын тоо:"
+corta_wav_MSG1="Хөрвүүлэх аудио файлын замыг зааж өгнө үү:"
+corta_wav_MSG2="Хугацааг секундын тоогоор зааж өгнө үү."
+corta_wav_MSG3="файлыг огтолж эхэлнэ."
+corta_wav_MSG4="-ТАЙЛБАР-"
+corta_wav_MSG5="Аудионы эхлэлийг зааж өгөхийн тулд 0 оруулна уу"
+corta_wav_MSG6="Хөрвөлтийг эхлүүлэхэд хэдхэн секундын доторх утга:"
+corta_wav_MSG7="Хугацааг секундын тоогоор зааж өгнө үү."
+corta_wav_MSG8="файлыг огтолж дуусна."
+corta_wav_MSG9="Хөрвөлтийн төгсгөлийн секундын утга:"
+corta_wav_MSG10="Гүйж байна"
+corta_wav_MSG11="Тассан аудио файл"
+corta_wav_MSG12="Файлыг тайрах явцад гарсан алдаа"
+corta_wav_MSG13="Таслах аудио файл:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1=".flac файлуудын замыг зааж өгөх:"
+flacawav_MSG2="ХӨРВҮҮЛЭХ"
+flacawav_MSG3=" .wav FORMAT"
+flacawav_MSG4="Дээж авахыг 44100 МГц болгож тохируулсан"
+flacawav_MSG5="Дээж авах явцад гарсан алдаа"
+flacawav_MSG6="Аудио файлыг хэвийн болгох"
+flacawav_MSG7="Файл"
+flacawav_MSG8="Нормчилсан"
+flacawav_MSG9="Хэвийн болгох алдаа"
+flacawav_MSG10="Хөрвүүлж чадсангүй"
+flacawav_MSG11="Лавлах олдсонгүй"
+flacawav_MSG12="АУДИО ХӨВРҮҮЛЭХ Төгсгөл"
+
+# wavaflac
+
+wavaflac_MSG0="ХӨРВҮҮЛЭХ WAV ФАЙЛУУД"
+wavaflac_MSG1=".wav файлуудын замыг оруулна уу: "
+wavaflac_MSG2="ХӨРВҮҮЛЭХ"
+wavaflac_MSG3="A .flac FORMAT"
+wavaflac_MSG4="flac формат руу хөрвүүлсэн"
+wavaflac_MSG5="Хөрвүүлэхэд алдаа"
+wavaflac_MSG6=".flac формат руу"
+wavaflac_MSG7="FLAC ФАЙЛЫН ЛАВЛАХ ОЛОНГҮЙ"
+

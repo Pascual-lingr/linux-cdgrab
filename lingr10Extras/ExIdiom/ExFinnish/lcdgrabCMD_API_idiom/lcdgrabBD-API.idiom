@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFinnish/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Finés para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 KUVA TALLENNETTU OIKEASTI BLU-RAY:lle"
+record_ISO_BD_MSG2="VIRHE TALLENNETTAESSA KUVAA BLU-RAY-LEVYLLE"
+grabar_ISO_BD_MSG3="ISO-9660 KUVA BD:ssä"
+grabar_ISO_BD_MSG4="Määritä poltettavan ISO-9660-kuvan polku:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Tiedostot ja hakemistot .iso-kuvan luomiseen"
+bd_datos_MSG2="DB LABEL"
+bd_datos_MSG3="Anna nimi tulevalle BD:lle:"
+bd_datos_MSG4="Tiedostonhallinnan käynnistäminen:"
+bd_datos_MSG5=" LUODAAN KUVAA..."
+bd_datos_MSG6="käynnissä"
+bd_datos_MSG7="ISO-9660 KUVA LUOTTU"
+bd_datos_MSG8="		TALLENNUS BD"
+bd_datos_MSG13="POISTA KUVA..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Tarvittava alustus tai poisto tehdään levyn tilasta riippuen"
+borrar_BDRE_lb_MSG2="BD-RE POISTETTU ONNISTUSTI!!"
+borrar_BDRE_lb_MSG3="VIRHE POISTETTAESSA BD-RE:tä"
+

@@ -1,0 +1,282 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFinnish/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Finés para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux-cdgrab kokoonpano"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Jos et tiedä mihin IDE-kanavaan kuuluu" 
+ayuda_IDE_MSG2="tallentimesi voi selvittää sen painamalla t-kirjainta."
+ayuda_IDE_MSG3="Esimerkki IDE-kanavasta voi olla 0,0,0 tai 0,1,0"
+ayuda_IDE_MSG4="Voit myös määrittää vastaavan laitteen"
+ayuda_IDE_MSG5="tallentimeen. Jos et tiedä mikä se on varmasti, paina d,"
+ayuda_IDE_MSG6="tarkastella /etc/fstab-tiedostoon rekisteröityjä laitteita"
+ayuda_IDE_MSG7="Esimerkki laitteista voisi olla /dev/hdd, /dev/hde jne."
+ayuda_IDE_MSG8="Jos haluat, voit myös listata kaikki sisältämät laitteet"
+ayuda_IDE_MSG9="/dev-hakemistoon painamalla kirjainta l."
+ayuda_IDE_MSG10="Sinun on määritettävä IDE-kanava tai tallennuslaite"
+ayuda_IDE_MSG11="mutta ei molempia."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab on poistettu järjestelmästäsi"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Tallennusnopeus"
+imprimir_variables_MSG2="IDE/SCSI kanava tai tallennuslaite"
+imprimir_variables_MSG3="CD-ROM, DVD-ROM tai BD-ROM lukija"
+imprimir_variables_MSG4="ATAPI laite"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Tallennusnopeus"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI kanava tai tallennuslaite"
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM tai BD-ROM lukija"
+imprimir_lcdgrabcfg_MSG4="ATAPI laite"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Asennettu"
+chequeo_de_aplicaciones_MSG2="EI ASENNETTU"
+chequeo_de_aplicaciones_MSG3="Asenna"
+chequeo_de_aplicaciones_MSG4="TÄRKEÄÄ:"
+chequeo_de_aplicaciones_MSG5="Tarvittavien työkalujen asennus Linux-cdgrab toimii täysin"
+chequeo_de_aplicaciones_MSG6="Kaikki Linux-cdgrabin tarvitsemat ohjelmat on asennettu järjestelmääsi"
+chequeo_de_aplicaciones_MSG4B="HUOM:"
+chequeo_de_aplicaciones_MSG5B="Puuttuvia työkaluja löydetty"
+chequeo_de_aplicaciones_MSG6B="Järjestelmään asennetut työkalut"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 on oletusarvoisesti määritetty tälle muuttujalle"
+msgdefCANALATAPI_MSG2="Asetustiedosto kirjoitetaan CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Linux-cdgrabin automaattisesti luoma asetustiedosto."
+nuevo_lcdgrabcfg_MSG5="CD-tietuetta ei löydy järjestelmästä"
+nuevo_lcdgrabcfg_MSG6="Asenna cdrtools-paketti."
+nuevo_lcdgrabcfg_MSG7="Voit jatkaa määritystä määrittämällä arvot"
+nuevo_lcdgrabcfg_MSG8="tallennus, jos tunnet heidät aiemmin."
+nuevo_lcdgrabcfg_MSG9="Cdrecord-komentoa käytetään CD-, DVD- ja BD-levyjen tallentamiseen"
+nuevo_lcdgrabcfg_MSG10="Nämä vaihtoehdot eivät toimi ennen kuin paketti on asennettu."
+nuevo_lcdgrabcfg_MSG11="Tässä oleva aseman tarkistustyökalu ei myöskään toimi"
+nuevo_lcdgrabcfg_MSG12="tässä ohjatussa määritystoiminnossa."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab on määritettävä seuraavissa neljässä vaiheessa"
+nuevo_lcdgrabcfg_MSG14="Ensimmäinen vaihe."
+nuevo_lcdgrabcfg_MSG15="Tallennusnopeus"
+nuevo_lcdgrabcfg_MSG16="Vain yksi numero 2,4,8,16,32... jne"
+nuevo_lcdgrabcfg_MSG17="Toinen vaihe."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI-kanava tai tallennuslaite:"
+nuevo_lcdgrabcfg_MSG19="A -> ohje"
+nuevo_lcdgrabcfg_MSG20="Skannataan..."
+nuevo_lcdgrabcfg_MSG21="Virhe skannattaessa IDE/SCSI-porttia"
+nuevo_lcdgrabcfg_MSG22="Cd-tietuetta ei löydy"
+nuevo_lcdgrabcfg_MSG23="Kolmas vaihe."
+nuevo_lcdgrabcfg_MSG24="CD-ROM-, DVD-ROM- tai BD-ROM-laite"
+nuevo_lcdgrabcfg_MSG25="L -> Listaa käytettävissä olevat laitteet"
+nuevo_lcdgrabcfg_MSG26="Skannataan..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI-portti skannattu"
+nuevo_lcdgrabcfg_MSG28="cdrecordin käyttämä laite dev=ATAPI:n kautta usean istunnon tallennuksissa"
+nuevo_lcdgrabcfg_MSG30="Laitteessa on nimikkeistö kuten 0,0,0 tai 1,0,0 jne."
+nuevo_lcdgrabcfg_MSG31="Määritä laite, joka kutsuu cdrecordia monisession CD-levyillä: "
+nuevo_lcdgrabcfg_MSG32="Määritys ei ole oikea CANALATAPI:lle"
+nuevo_lcdgrabcfg_MSG33="Virhe skannattaessa IDE/SCSI-porttia"
+nuevo_lcdgrabcfg_MSG34="Cd-tietuetta ei löydy"
+nuevo_lcdgrabcfg_MSG36="Linux-cdgrabin automaattisesti luoma asetustiedosto."
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRABIN ASETUS VALMIS"
+
+# colores
+
+colores_MSG1="Väriluetteloa ei löydy"
+colores_MSG2="Ladataan oletusvärejä"
+colores_MSG3="Valitse uusi väriteema LINUX-CDGRAB-liittymälle"
+colores_MSG4="MUSTA FONTTI"
+colores_MSG5="STANDARDI KIRKKAS FONTTI"
+colores_MSG6="MUSTA TAUSTAVÄRI"
+colores_MSG7="PUNAINEN FONTTI"
+colores_MSG8="KIRKKAAN MUSTA FONTTI"
+colores_MSG9="PUNAINEN TAUSTAVÄRI"
+colores_MSG10="FONT GREEN"
+colores_MSG11="KIRKKAAN PUNAINEN SUOMISUUNTA"
+colores_MSG12="VIHREÄ TAUSTAVÄRI"
+colores_MSG13="KELTAINEN FONTTI"
+colores_MSG14="KIRKKAAN VIHREÄ FONTTI"
+colores_MSG15="ORANSSI TAUSTAVÄRI"
+colores_MSG16="SININEN FONTTI"
+colores_MSG17="KIRKKAAN KELTAINEN FONTTI"
+colores_MSG18="SININEN TAUSTAVÄRI"
+colores_MSG19="MAGENTA FONTTI"
+colores_MSG20="KIRKKAAN SININEN FONTTI"
+colores_MSG21="MAGENTA TAUSTAVÄRI"
+colores_MSG22="SYANI LÄHDE"
+colores_MSG23="BRIGHT MAGENTA FONT"
+colores_MSG24="SYAANI TAUSTAVÄRI"
+colores_MSG25="HARMAA FONTTI"
+colores_MSG26="SYAANI TAUSTAVÄRI"
+colores_MSG27="KIRKAS SYAANI FONTTI"
+colores_MSG28="HARMAA TAUSTAVÄRI"
+colores_MSG29="OLETUSLÄHDE"
+colores_MSG30="KIRKKAAN VALKOINEN FONTTI"
+colores_MSG31="OLETUSTAUSTAN VÄRI"
+colores_MSG32="Fontin värinumero: "
+colores_MSG33="Taustan värinumero: "
+colores_MSG34="Varoitusviestien värinumero: "
+colores_MSG35="Tarraviestien värinumero: "
+colores_MSG36="Värinumero onnistuneesti suoritetuille prosesseille"
+colores_MSG37="Värinumero prosessille, joka päättyi virheellä: "
+colores_MSG38="Uusi malli LINUX-CDGRAB:lle"
+colores_MSG39="YLEINEN FONTTIVÄRI"
+colores_MSG40="LABELS"
+colores_MSG41="ILMOITUKSET"
+colores_MSG42="MENNISTYS"
+colores_MSG43="VIRHE"
+colores_MSG44="TAUSTANVÄRI"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="LUETTELO SAATAVILLA OLEVISTA VÄREISTÄ:"
+cambiar_esquema_de_color_MSG2="#####VÄRIVÄRIT#######"
+cambiar_esquema_de_color_MSG3="---------------------"
+cambiar_esquema_de_color_MSG4="Värivalikko"
+cambiar_esquema_de_color_MSG5="Epäonnistui"
+cambiar_esquema_de_color_MSG6="Tarrat"
+cambiar_esquema_de_color_MSG6b="Ilmoitukset"
+cambiar_esquema_de_color_MSG7="Värivalikko OK Vikavaroitustarrat"
+cambiar_esquema_de_color_MSG8="Anna uuden värin numero:"
+cambiar_esquema_de_color_MSG9="VIRHEELLINEN VAIHTOEHTO"
+cambiar_esquema_de_color_MSG10="OLETUSVÄRIEN ASETTAMINEN."
+cambiar_esquema_de_color_MSG11="  BACKGROUND = BLUE_BACKGROUND"
+cambiar_esquema_de_color_MSG12="  FONTTI = KIRKKAAN VALKOINEN"
+cambiar_esquema_de_color_MSG13="  VAROITUKSET = KIRKAS KELTAINEN"
+cambiar_esquema_de_color_MSG14="  VIRHEET = KIRKAS PUNAINEN"
+cambiar_esquema_de_color_MSG15="  VIRHEET = KIRKAS PUNAINEN"
+cambiar_esquema_de_color_MSG16="  HITS = KIRKASVIHREÄ"
+cambiar_esquema_de_color_MSG17="  LABELS = KIRKAS SYAANI"
+
+# cambia_lector
+
+cambia_lector_MSG1="OPTISTEN YKSIKKÖIDEN YMPÄRISTÖASETUKSET"
+cambia_lector_MSG2="Nykyinen laite, joka liittyy CD-ROM-, DVD-ROM- tai BD-ROM-levyyn"
+cambia_lector_MSG3="Nykyinen CD/DVD/BD-polttimeen liitetty laite"
+cambia_lector_MSG4="Nykyinen laite, joka liittyy parametriin dev=ATAPI"
+cambia_lector_MSG5="(monen istunnon tuki cdrecordille)"
+cambia_lector_MSG6="Valitse laite, johon muutos tehdään."
+cambia_lector_MSG7="Syötä vaihtoehto:"
+cambia_lector_MSG8="Anna uuden laitteen nimi"
+cambia_lector_MSG9="ei vastaa estolaitetta"
+cambia_lector_MSG10="Laite"
+cambia_lector_MSG11="määritetty oletuksena"
+cambia_lector_MSG12="Uusi laite on:"
+cambia_lector_MSG13="Kaikki cdrecord-versiot eivät hyväksy lohkolaitetta tallennusparametriksi"
+cambia_lector_MSG14="Anna uuden ATAPI-laitteen nimi"
+cambia_lector_MSG15="Määritys ei ole oikea CANALATAPI:lle"
+cambia_lector_MSG16="0,0,0 on oletusarvoisesti määritetty tälle muuttujalle"
+cambia_lector_MSG17="Asetustiedosto kirjoitetaan CANALATAPI = 0,0,0"
+cambia_lector_MSG18="Uusi laite on:"
+cambia_lector_MSG19="LAITTEISIIN EI TEHDÄ MUUTOKSET"
+cambia_lector_MSG4B="Vie arvot asetustiedostosta"
+cambia_lector_MSG4C="NÄMÄ ARVOT ILMOITETIIN YMPÄRISTÖLLE:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Tästä valikosta voit valita apuohjelman"
+cambia_generador_isocd_MSG2="käytetään ISO-9660-kuvien luomiseen"
+cambia_generator_isocd_MSG3="lukuyksikön olemassa olevilta CDS levyiltä."
+cambia_generador_isocd_MSG4="Nykyinen kokoonpano:"
+cambia_generador_isocd_MSG5="Käytä dd:tä (GNU coreutils -komponentti)"
+cambia_generador_isocd_MSG6="Käytä readcd:tä (cdrtools-komponentti)"
+cambia_generador_isocd_MSG7="Edellinen valikko."
+cambia_generador_isocd_MSG8="Valitse vaihtoehto:"
+cambia_generador_isocd_MSG9="Käytetään dd:tä iso generaattorina."
+cambia_generador_isocd_MSG10="readcd:n käyttö iso generaattorina."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Aseta HFS-metatiedot yhdessä Rock Ridgen ja Jolietin kanssa"
+establecer_hfs_iso_MSG2="Käytä vain Rock Ridge- ja Joliet-metatietoja"
+establecer_hfs_iso_MSG3="Edellinen valikko."
+establecer_hfs_iso_MSG4="Valitse vaihtoehto:"
+establecer_hfs_iso_MSG5="HFS:n, Rock Ridgen ja Jolietin metatietojen käyttäminen"
+establecer_hfs_iso_MSG6="Rock Ridge- ja Joliet-metatietojen käyttäminen"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Nykyinen ilmoitusjärjestelmä"
+cambia_notificaciones_MSG2A="GNOME-graafinen käyttöliittymä"
+cambia_notificaciones_MSG2B="KDE:n graafinen käyttöliittymä"
+cambia_notificaciones_MSG2="Liitäntä ncursesin kanssa"
+cambia_notificaciones_MSG3="Tekstiliittymä"
+cambia_notificaciones_MSG4="Poistu"
+cambia_notificaciones_MSG5="Valitse vaihtoehto:"
+cambia_notificaciones_MSG6="Käyttöliittymän käyttö dialogin kanssa"
+cambia_notidicaciones_MSG6B="Liitännän käyttö zenityn kanssa"
+cambia_notidicaciones_MSG6C="Käyttöliittymän käyttö kdialogin kanssa"
+cambia_notificaciones_MSG7="Dialog-komentoa ei löydy"
+cambia_notificaciones_MSG8="Käytetään tekstiliittymää"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Käytössä oleva kieli:"
+cambiar_idioma_UI_MSG1="Tällä hetkellä saatavilla olevat kielet:"
+cambiar_idioma_UI_MSG2="Anna käytettävän kielen nimi"
+cambiar_idioma_UI_MSG3="sovellusliittymässä:"
+cambiar_idioma_UI_MSG4="Uusi käytetty kieli on:"
+cambiar_idioma_UI_MSG5="Käynnistä LINUX-CDGRAB uudelleen"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Nykyinen kokoonpano"
+seleccion_gestor_archivos_MSG2="Käytä mc:tä"
+seleccion_gestor_archivos_MSG3="Käytä integroitua tekstinhallintaa"
+seleccion_gestor_archivos_MSG4="mc:tä ei löydy asennettuna järjestelmään"
+seleccion_gestor_archivos_MSG5="Käytetään oletuksena integroitua tekstinhallintaa"
+seleccion_gestor_archivos_MSG6="mc-apuohjelma"
+seleccion_gestor_archivos_MSG7="Integroitu teksti"
+
+# centro_de_control
+
+centro_de_control_MSG1="OHJAUSKESKUS"
+centro_de_control_MSG2="Uusi kokoonpano"
+centro_de_control_MSG3="Poista asetustiedosto"
+centro_de_control_MSG4="Näytä nykyinen asetustiedosto ja arvot"
+centro_de_control_MSG5="KONFIGURaatioTIEDOSTOJEN ARVOT:"
+centro_de_control_MSG5B="YMPÄRISTÖSSÄ KÄYTETTY NYKYINEN ASETUS:"
+centro_de_control_MSG6="Vaihda optinen media"
+centro_de_control_MSG7="Tarkista asennetut ohjelmat"
+centro_de_control_MSG8="Skannaa IDE/SCSI portti cdrecordilla"
+centro_de_control_MSG8C="Skannaa IDE/SCSI portti cdrskinillä"
+centro_de_control_MSG8B="Listaa järjestelmään asennetut yksiköt cdrskinin kanssa"
+centro_de_control_MSG9="Vaihda iso-generointiapuohjelma CD:ltä"
+centro_de_control_MSG9B="Aseta HFS-metatiedot iso-9660:lle"
+centro_de_control_MSG10="Muuta käyttöliittymää"
+centro_de_control_MSG10b="Vaihda väriä"
+centro_de_control_MSG10c="Vaihda käyttöliittymän kieli"
+centro_de_control_MSG11="Vaihda tiedostonhallintaa"
+centro_de_control_MSG11B="Poista ohjelma"
+centro_de_control_MSG12="Anna vaihtoehto: "
+centro_de_control_MSG13="ASETUSTIEDOSTO EI OLE OLEMASSA"
+centro_de_control_MSG14="ASETUSTIEDOSTOA EI LÖYDY"
+centro_de_control_MSG15="Skannaus"
+centro_de_control_MSG16="IDE/SCSI portti skannattu"
+centro_de_control_MSG17="Virhe skannattaessa IDE/SCSI porttia"
+centro_de_control_MSG18="Valitse värimaailma"
+centro_de_control_MSG19="Valitse värit mielivaltaisesti"
+centro_de_control_MSG20="Edellinen valikko"
+centro_de_control_MSG21="Anna vaihtoehto: "
+centro_de_control_MSG22="ASETUSTIEDOSTO EI OLE OLEMASSA"
+centro_de_control_MSG23="ASETUSTIEDOSTOA EI LÖYDY"
+centro_de_control_MSG24="Valitse väriteema"
+centro_de_control_MSG25="Valitse värit mielivaltaisesti"
+centro_de_control_MSG26="Virheellinen vaihtoehto"
+

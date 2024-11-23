@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al estonio, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Vali kasutatav kasutajaliides:"
+SeleccionaIUDVD_MSG2="Kasuta liidest dvd+-rw-tools jaoks"
+SeleccionaIUDVD_MSG3="Kasuta Cdrecord-ProDVD liidest"
+SeleccionaIUDVD_MSG4="Kasuta libburnia liidest"
+SeleccionaIUDVD_MSG5="Eelmine menüü"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="DVD SALVESTAMINE"
+menugrabar_dvd_MSG2="----------------- DVD - ANDMED -----------------"
+menugrabar_dvd_MSG3="ISO-9660 andme DVD kopeerimine"
+menugrabar_dvd_MSG4="Loo kõvakettale eelmine DVD kujutis"
+menugrabar_dvd_MSG5="Põletage uus ISO-9660 andme DVD"
+menugrabar_dvd_MSG6="Lisa uus andmeseanss ISO-9660 andme DVD le (mitmesessiooniline DVD)"
+menugrabar_dvd_MSG7="Vaja on eelnevalt teise valiku abil salvestatud DVD d"
+menugrabar_dvd_MSG8="Põleta ISO-9660 andmekujutis DVD le"
+menugrabar_dvd_MSG9="Kirjuta .ext2 pilt DVD le"
+menugrabar_dvd_MSG10="----------------- DVD - VIDEO ------------------"
+menugrabar_dvd_MSG11="Põletage uus DVD-video"
+menugrabar_dvd_MSG12="--------------- MUUD VÕIMALUSED ----------------"
+menugrabar_dvd_MSG13="Vorminda DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Näita DVD plaadi teavet"
+menugrabar_dvd_MSG0="Eelmine menüü"
+menugrabar_dvd_MSGPRINCIPAL="Tippige valik"
+menugrabar_dvd_MSG15="DVD le kaasatavad failid ja kataloogid"
+menugrabar_dvd_MSG16="Failihalduri käivitamine..."
+menugrabar_dvd_MSG17=".iso pilt DVD le kirjutamiseks"
+menugrabar_dvd_MSG18="Sisesta kataloogi tee, kus asub .iso pilt, mida soovite põletada"
+menugrabar_dvd_MSG19="Nõuab cdrecord versiooni koos DVD toega."
+menugrabar_dvd_MSG20=".ext2 kujutise salvestamine DVD le tehakse cdrecordiga."
+menugrabar_dvd_MSG21="Teie installis olev cdrecord versioon peaks olema"
+menugrabar_dvd_MSG22="toetage DVD salvestamist."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="VALI VALIK"
+dvd_clonar_MSG2="--- PLAADI KOopiad EELVAATAMISEGA ---"
+dvd_clonar_MSG3="Kopeeri andme-DVD"
+dvd_clonar_MSG4="Loo kõvakettale eelmine DVD-kujutis"
+dvd_clonar_MSG5="--- PLAADI KOOPIAD LENNULE ---"
+dvd_clonar_MSG6="Kopeeri andme-DVD käigu pealt"
+dvd_clonar_MSG7="Kloonige andme-DVD käigu pealt"
+dvd_clonar_MSG8="LENDAMISEKS KOOPERIMISVALIKUD NÕUAB KAHTE OPTILIST ÜKSUST"
+dvd_clonar_MSG9="PAIGALDATUD TEIE ARVUTISSE, KUNA ANDMED ON SALVESTAMISE AJAL"
+dvd_clonar_MSG10="LOE OTSE ALGKELTULT, KUI TEIE ARVUTIS AINULT SEE ON"
+dvd_clonar_MSG11="TE EI SAA KOopiaid LENNULE KASUTADA."
+dvd_clonar_MSG0="Eelmine menüü"
+dvd_clonar_MSG12="DVD ANDMETE KOOPIA"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD SALVESTAMINE"
+menugrabar_DVD_MSG2="------------------ DVD - ANDMED ------------------"
+menugrabar_DVD_MSG3="Kopeeri andmete DVD"
+menugrabar_DVD_MSG4="Põleta uus andme DVD"
+menugrabar_DVD_MSG5="Põleta .iso või .ext2 pilt DVD le"
+menugrabar_DVD_MSG6="Vorminda DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Näita ketta teavet draivis"
+menugrabar_DVD_MSG0="Eelmine menüü"
+menugrabar_DVD_MSGPRINCIPAL="Tippige valik"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Kirja iso-9660 pilt DVD-le"
+menugrabar_DVD_libburnia_MSG2="Kõvakettalt andmete kirjutamine DVD-le"
+menugrabar_DVD_libburnia_MSG3="Vorminda DVD"
+menugrabar_DVD_libburnia_MSG4="Vorminda DVD-RW järjestikuseks inkrementaalseks"
+menugrabar_DVD_libburnia_MSG5="Vorminda DVD-RW piiratud ülekirjutamiseks"
+menugrabar_DVD_libburnia_MSG6="Näita draivi teavet"
+menugrabar_DVD_libburnia_MSG8="Süsteemi installitud draivide loend"
+menugrabar_DVD_libburnia_MSG0="Välju"
+menugrabar_DVD_libburnia_MSG7="Sisesta valik"
+

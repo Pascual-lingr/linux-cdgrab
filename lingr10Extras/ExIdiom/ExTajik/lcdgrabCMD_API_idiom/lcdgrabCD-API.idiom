@@ -1,0 +1,184 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Tayiko para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="давидан"
+copia_bin_MSG2="--------------КУШТИШИ БОЗИИ РАВАНДИ САБТ---------------"
+copia_bin_MSG3="	НАЗАР КАРДАНИ ФАЙЛИ ТАСМИР"
+copia_bin_MSG4="ҲАНГОТИ САБТ ХАТО РУЙ ДОД"
+copia_bin_MSG5="Файли тасвири диски партови .iso ёфт нашуд. Қатъи сабт..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="давидан"
+datos_al_vuelo_MSG2="Хатои кӯшиши сабт, кӯшиши дубора бидуни дастгирии изофабор"
+datos_al_vuelo_MSG3="Тафтиш кунед, ки диски манбаъ ё дастгоҳ аст"
+datos_al_vuelo_MSG4="дар ҳолати хуб аст"
+datos_al_vuelo_MSG5="Гирифтани рақами блоки баромад аз диски манбаъ"
+datos_al_vuelo_MSG6="Нусхабардории диск..."
+
+# clonar_cd
+
+clonar_cd_MSG1="давидан"
+clonar_cd_MSG2="CD бомуваффақият клон карда шуд"
+clonar_cd_MSG3="Ҳангоми клон кардани CD хатогӣ рух дод"
+
+# datos
+
+datos_MSG1="Файлҳо ва директорияҳо барои эҷоди тасвири .iso"
+datos_MSG2="CD/DVD/BD LABEL"
+datos_MSG3="Номи CD/DVD/BD-и ояндаро ворид кунед:"
+datos_MSG4="Оғози мудири файл:"
+datos_MSG5="	Эҷоди тасвир..."
+datos_MSG6="давидан"
+datos_MSG7="ISO-9660 ТААСвир Эҷод шудааст"
+datos_MSG8="		СУЗОНДАНИ CD/DVD/BD"
+datos_MSG9="РАВАНДИ Эҷоди ФАЙЛИ ТАСвир ноком ШУДААСТ"
+datos_MSG10="БОЗОР МЕКУНЕМ БАРОИ Эҷоди НАВ БЕ ДАСТГИРИИ HFS (Macintosh)"
+datos_MSG11="ХОЗ КАРДАНИ ТААСвир..."
+datos_MSG12="Эҷоди тасвири нав..."
+datos_MSG13="ДУРУСТ сабт кардан имкон надошт"
+datos_MSG14="------------КУШТИШИ БОЗИИ РАВАНДИ САБТ-----------"
+datos_MSG15="ТАСВОРРО НОБ КУНЕД..."
+datos_MSG16="СУЗОНДАНИ МАЪЛУМОТ ISO-9660 CD/DVD/BD..."
+datos_MSG17="Наёфтанд."
+datos_MSG18="Қатъи сабти диск..."
+
+# datoslb
+
+datoslb_MSG1="Хато: Файли тасвир ёфт нашуд. Қатъ карда мешавад..."
+datoslb_MSG2="РАВАНДИ САБТ ХУБ"
+datoslb_MSG3="ХАТО ДАР РАВАНДИ Сабт"
+
+# borra
+
+borra_MSG0="Менюи қаблӣ"
+borra_MSG1="Режимро барои тоза кардани CD-RW интихоб кунед"
+borra_MSG2="----------------------------------------------"
+borra_MSG3="Несткунии зуд (истифодаи cdrecord)"
+borra_MSG4="Тозакунии пурра (истифодаи cdrecord)"
+borra_MSG5="Нест кардан лозим аст (истифодаи cdrskin)"
+borra_MSG6="давидан"
+borra_MSG7="Вобаста ба ҳолати диск форматкунӣ ё несткунии зарурӣ татбиқ карда мешавад"
+borra_MSG8="CD-RW бомуваффақият нест карда шуд!!"
+borra_MSG9="ХАТО ВАҚТИ НАЗО КАРДАНИ CD-RW"
+borra_MSG10="ЗАБУР КАРДАНИ CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="ХАТО ВАҚТИ Кӯшиши нест кардани CD-RW"
+err_borra_cdrw_MSG2="CD-RW ИСТИФОДА НАМЕШАВАД"
+err_borra_cdrw_MSG3="ХОЗ КАРДАНИ ИН CD-RW МУМКИН НЕСТ"
+err_borra_cdrw_MSG4="CD-RW-ро БАРОИ ЗАРАРИ ҶИСМОНӢ ТАФТИШ КУНЕД"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="давидан"
+cerrar_cd_MSG2="CD ДУРУСТ Пӯшида шуд"
+cerrar_cd_MSG3="ХАТО ВАҚТИ Пӯшидани CD"
+cerrar_cd_MSG4="ПАСТ КАРДАНИ Трек дар CD МАЪЛУМОТ..."
+
+# grabimg
+
+grabimg_MSG1=".iso ё тасвири .ext2 барои сабт кардан ба CD/DVD"
+grabimg_MSG2="Оғози мудири файл."
+grabimg_MSG3="Роҳеро нависед, ки дар он тасвири CD/DVD-и шумо сабт кардан мехоҳед:"
+grabimg_MSG4="давидан"
+grabimg_MSG5="-----------КУШТИШИ БОЗИИ РАВАНДИ САБТ-----------"
+grabimg_MSG6="Сабт ба охир расид!!"
+grabimg_MSG7="ТАСвир .EXT2 бомуваффақият сабт шуд"
+
+# grabimglb
+
+grabimglb_MSG1="Роҳеро нависед, ки дар он тасвири CD/DVD-и шумо сабт кардан мехоҳед:"
+grabimglb_MSG2="Сухтани тасвир ба диск..."
+grabimglb_MSG3="ISO-9660 ТАСвир бомуваффақият сабт шуд"
+grabimglb_MSG4="ХАТО ДАР САБТИ ТАСРИ ISO-9660"
+grabimglb_MSG5="Хато: файли тасвир ёфт нашуд. Қатъ карда мешавад..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin ва .cue файлҳо барои сабти тасвир"
+grabimg_cue_MSG2="Барои сабти тасвири бин/cue, ҳарду файл бояд"
+grabimg_cue_MSG3="дар директорияи фаъол бошед."
+grabimg_cue_MSG4="Феҳристи фаъоли ҷорӣ"
+grabimg_cue_MSG5="Номи файли *.cue, ки ба файли тасвири *.bin ишора мекунад, ворид кунед"
+grabimg_cue_MSG6=".cue файл: "
+grabimg_cue_MSG7="давидан"
+grabimg_cue_MSG8="Сабт ба охир расид!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Сиди бисёрсеансиро аз тасвири .iso сабт кунед"
+cd_multi_MSG2="Иҷлосияи аввалро ба CD аз тасвири .iso сабт кунед"
+cd_multi_MSG3="Сиди бисёрҷаласаро аз файлҳои диск сабт кунед"
+cd_multi_MSG4="Сабтҳои пайдарпайро ба CD аз файлҳои диски сахт сабт кунед"
+cd_multi_MSG5="Ин хосият як CD-и бисёрсессияро бо сессияи қаблан сабтшуда талаб мекунад."
+cd_multi_MSG6="Менюи қаблӣ"
+cd_multi_MSG7="Тасвири.iso барои сабт кардан ба CD-Multi-session"
+cd_multi_MSG8="Муайян кардани роҳи тасвири .iso"
+cd_multi_MSG9="давидан"
+cd_multi_MSG10="CD-СЕССИЯИ ЗИЁД БО МУВАФФАКИЯТ сабт шуд!!"
+cd_multi_MSG11="Директорҳо барои дохил шудан ба тасвир."
+cd_multi_MSG12="Муайян кунед, ки дар зер кадом директорияҳо бояд дохил карда шаванд"
+cd_multi_MSG13="Номеро барои тамғаи CD ворид кунед:"
+cd_multi_MSG14="Эҷоди тасвир..."
+cd_multi_MSG15="МУВАФФАКИЯТ"
+cd_multi_MSG16="ХАТО ДАР ВАҚТИ офариниши тасвир. ПЕШ ГИРИФТАНИ РАВАНДИ САБТ..."
+cd_multi_MSG17="СУЗОНДАНИ ТААСРИ CD..."
+cd_multi_MSG18="МЕНЮИ МИЁНАИ СЕССИЯИ CD"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="РАПИДАНИ CD AUDIO..."
+copia_cd_audio_MSG2="давидан"
+copia_cd_audio_MSG3="ТРЕКХОИ АУДИО МУВАФФАКИЯТ РАФТАНД!!"
+copia_cd_audio_MSG4="ХАТО ВАҚТИ ПАЙДО КАРДАНИ Трекҳои Аудио"
+copia_cd_audio_MSG5="СУЗОНДАНИ CD AUDIO..."
+copia_cd_audio_MSG6="СД САД БОМУВАФФАКИЯТ НУСБА ШУД!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav файлҳо барои сабт кардан ба CD"
+wav_a_cd_MSG2="Linux-cdgrab андозаи директорияро тафтиш намекунад"
+wav_a_cd_MSG3="Боварӣ ҳосил кунед, ки агар он аз 650 Мбайт зиёд набошад"
+wav_a_cd_MSG4="агар шумо CD-и 80 дақиқа истифода баред."
+wav_a_cd_MSG5="Роҳи директорияи файлҳои .wavро ворид кунед"
+wav_a_cd_MSG6="давидан"
+wav_a_cd_MSG7="Раванди ба охиррасида!"
+
+# cdmixto
+
+cdmixto_MSG1="Лоиҳаи эҷоди CD-Mixto (Тасвири маълумот .iso + Файлҳои аудиоӣ .wav)"
+cdmixto_MSG2="Linux-cdgrab андозаи директорияро тафтиш намекунад"
+cdmixto_MSG3="файлҳои аудиоӣ куҷоянд."
+cdmixto_MSG4="Ин корро аз тасвири .iso, ки шумо сабт карданӣ ҳастед, иҷро намекунад"
+cdmixto_MSG5="баъд аз."
+cdmixto_MSG6="Бо андозае, ки доред, мувофиқ бошед"
+cdmixto_MSG7="Дар CD нави худ сабт кунед."
+cdmixto_MSG8="Муайян кардани роҳи файлҳои аудио:"
+cdmixto_MSG9="Муайян кардани роҳи тасвири iso:"
+cdmixto_MSG10="#################################"
+cdmixto_MSG11="Сабти CD омехта: МАЪЛУМОТ + Аудио"
+cdmixto_MSG12="давидан"
+cdmixto_MSG13="----CD и омехта бомуваффақият офарид-----!!"
+cdmixto_MSG14="------ХАТО ВАКТИ СУЗОНДАНИ CD ОМЕХТА--------"
+
+# discoinfo
+
+discoinfo_MSG1="давидан"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="Боргоҳи IDE/SCSI скан карда шуд"
+cdrecord_scan_MSG1="Хатои сканкунии порти IDE/SCSI"
+cdrecord_scan_MSG2="cdrecord ёфт нашуд"
+

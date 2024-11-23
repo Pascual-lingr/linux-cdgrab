@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Tibetano para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="ཡིག་ཆའམ་སྣོད་ཐོའི་འགྲོ་ལམ་བླུགས།"
+empaquetar_MSG2="------- གདམ་ག། -------"
+empaquetar_MSG3=" .tar.gz ཡིག་ཆ་གསར་བཟོ།"
+empaquetar_MSG4="ཡིག་ཆ་ .tar.bz2 བཟོ་སྐྲུན།"
+empaquetar_MSG5="གདམ་ག་ཞིག་ཡིག་དཔར་རྐྱབས། "
+empaquetar_MSG6="གཡོག་བཞིན་ཡོད།"
+empaquetar_MSG7="གདམ་ག་ནུས་མེད་ཡིན།"
+
+# desempaquetar
+
+desempaquetar_MSG1="ཡིག་ཆའི་འགྲོ་ལམ་ནང་འཇུག་བྱེད་པ།"
+desempaquetar_MSG2="གཉན་ཚད་སེལ་བྱེད་མ་རྙེད།"
+desempaquetar_MSG3="ཡང་ན་"
+desempaquetar_MSG4="མི་གནས་པའམ།"
+desempaquetar_MSG5="རྒྱུག་བཞིན་ཡོད།"
+desempaquetar_MSG6="ཐུམ་སྒྲིལ་མ་བྱས།"
+desempaquetar_MSG7="ཐུམ་སྒྲིལ་ཕྱེ་ཐབས་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+# comprime
+
+comprime_MSG1="གཟུགས་བརྙན་མནན་པ།"
+comprime_MSG2="bzip2 དང་མཉམ་དུ་བཙིར་དགོས།"
+comprime_MSG3="gzip དང་མཉམ་དུ་མནན་པ།"
+comprime_MSG4=" xz དང་མཉམ་དུ་བསྡམས།"
+comprime_MSG5="དཀར་ཆག་སྔོན་མ།"
+comprime_MSG6="རྒྱུག་བཞིན་ཡོད།"
+comprime_MSG7="པར་རིས་ཡིག་ཆའི་གཅུས་གཟེར་ལེགས་འགྲུབ་བྱུང་།"
+comprime_MSG8="མཉམ་དུ་བཙིར་སྐབས་ནོར་འཁྲུལ་བྱུང་ཡོད།"
+comprime_MSG9="ནུས་མེད་ཀྱི་བསྡམ་མཛོད།"
+
+# descomprime
+
+descomprime_MSG1="ཡིག་ཆའི་འགྲོ་ལམ་ཡིག་དཔར་རྐྱབས།"
+descomprime_MSG2="----------------"
+descomprime_MSG3="བསྡམ་བྱེད་མ་རྙེད།"
+descomprime_MSG4="ཡང་ན་"
+descomprime_MSG5="མི་གནས་པའམ།"
+descomprime_MSG6="རྒྱུག་བཞིན་ཡོད།"
+descomprime_MSG7="བསྡམས་མེད་པ།"
+descomprime_MSG8="གཅོག་ཐབས་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+

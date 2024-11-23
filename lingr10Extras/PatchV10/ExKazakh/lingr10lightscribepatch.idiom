@@ -1,0 +1,32 @@
+# Idioma Kazajo para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traduccion experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Жалғастыру үшін ENTER пернесін басыңыз..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="===================================="
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 LIGHTSCRIBE ҚОЛДАУ."
+cabecera_lightscribe_MSG3="===================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Дискіге басып шығарғыңыз келетін кескіннің жолын теріңіз:"
+imprimir_disco_lightscribe_MSG2="Сурет пішімі .bmp болуы керек"
+imprimir_disco_lightscribe_MSG3="жұмыс істейді"
+imprimir_disco_lightscribe_MSG4="Дискіде басып шығарылған белгі"
+imprimir_disco_lightscribe_MSG5="Жапсырманы дискіге басып шығару қатесі"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="LightScribe технологиясы тек кейбір құрылғыларда бар"
+lingr10lightscribepatch_MSG2="Диктофонның бар-жоғын тексеру керек."
+lingr10lightscribepatch_MSG3="Сол сияқты LightScribe үшін арнайы CD немесе DVD дискілерін ғана белгілеуге болады"
+lingr10lightscribepatch_MSG4="LightScribe дискісін басып шығару"
+lingr10lightscribepatch_MSG5="Алдыңғы мәзір"
+lingr10lightscribepatch_MSG6="Жарамсыз опция"
+

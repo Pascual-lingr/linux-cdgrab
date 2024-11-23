@@ -1,0 +1,22 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFinnish/lcgdrabMenu_API_idiom/lcdgrabUIBD.idiom
+# Menú de Interfaz para la grabación de BD.
+# Traducción experimental al Finés, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_grabar_BD
+
+menu_grabar_BD_MSG0="Edellinen valikko."
+menu_grabar_BD_MSG1="BLU-RAY-LEVYN TALLENNUS"
+menu_grabar_BD_MSG2="Polta uusi BD-R/BD-RE iso kovalevyn tiedoista"
+menu_grabar_BD_MSG4="ISO/UDF-kuva poltettava levylle."
+menu_grabar_BD_MSG7="Pota iso-9660/udf-kuva BD-R/BD-RE:hen"
+menu_grabar_BD_MSG8="-------------------- BD - DATA -------------------"
+menu_grabar_BD_MSG9="Näytä asemalevyn tiedot"
+menu_grabar_BD_MSG10="Käytä tarvittavaa poistoa BD-RE:lle"
+
+

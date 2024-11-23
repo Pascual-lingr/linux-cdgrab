@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKazakh/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Kazajo para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 БЕЙНЕСІ BLU-RAY ДҰРЫС ЖАЗЫЛҒАН"
+grabar_ISO_BD_MSG2="BLU-RAY ДИСКІГЕ СУРЕТ ЖАЗУ КЕЗІНДЕГІ ҚАТЕ"
+grabar_ISO_BD_MSG3="ISO-9660 БЕЙНЕСІ BD"
+grabar_ISO_BD_MSG4="Жазу үшін ISO-9660 кескінінің жолын көрсетіңіз:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1=".iso кескінін жасауға арналған файлдар мен каталогтар"
+bd_datos_MSG2="DB LABEL"
+bd_datos_MSG3="Болашақ BD үшін атау енгізіңіз:"
+bd_datos_MSG4="Файл менеджерін іске қосу:"
+bd_datos_MSG5=" СУРЕТ ЖАСАУ..."
+bd_datos_MSG6="іске қосулы"
+bd_datos_MSG7="ISO-9660 СУРЕТІ ЖАСАЛҒАН"
+bd_datos_MSG8="		ЖАЗУ BD"
+bd_datos_MSG13="СУРЕТТІ ӨШІРУ..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Диск күйіне байланысты қажетті пішімдеу немесе жою қолданылады"
+borrar_BDRE_lb_MSG2="BD-RE СӘТТІ ЖОЮЛДЫ!!"
+borrar_BDRE_lb_MSG3="BD-RE ЖОЮ КЕЗІНДЕГІ ҚАТЕ"
+

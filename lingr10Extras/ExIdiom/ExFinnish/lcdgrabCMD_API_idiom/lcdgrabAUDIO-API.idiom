@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFinnish/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en finés para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MUUNTETTAVAT MP3-TIEDOSTOT"
+mp3awav_MSG0="Anna .mp3-tiedostojen polku: "
+mp3awav_MSG1="MUUNTO"
+mp3awav_MSG1B=" .wav-muotoon"
+mp3awav_MSG2="käynnissä"
+mp3awav_MSG3="Näytteistys asetettu 44100 MHz:iin"
+mp3awav_MSG4="Virhe näytteenoton käsittelyssä"
+mp3awav_MSG5="Muuntaminen epäonnistui"
+mp3awav_MSG6="Hakemistoa ei löydy"
+mp3awav_MSG7="AUDIOMUUNNON LOPPU"
+mp3awav_MSG8="Äänitiedoston normalisointi"
+mp3awav_MSG9="Tiedosto"
+mp3awav_MSG10="Normaloitu"
+mp3awav_MSG11="Normalointivirhe"
+
+# oggawav
+
+oggawav_MSG0="MUUNTETTAVAT OGG-TIEDOSTOT"
+oggawav_MSG1="Anna .ogg-tiedostojen polku: "
+oggawav_MSG2="MUUNTO"
+oggawav_MSG2B="A .wav FORMAT"
+oggawav_MSG3="juoksu"
+oggawav_MSG4="Näytteistys asetettu 44100 MHz:iin"
+oggawav_MSG5="Virhe näytteenoton käsittelyssä"
+oggawav_MSG6="Muuntaminen epäonnistui"
+oggawav_MSG7="Hakemistoa ei löydy"
+oggawav_MSG8="Äänen kattavuuden LOPPU"
+oggawav_MSG9="Audiotiedostoa normalisoidaan"
+oggawav_MSG10="Tiedosto"
+oggawav_MSG11="Normaloitu"
+oggawav_MSG12="Normalointivirhe"
+
+# cdawav
+
+cdawav_MSG1="RIPIDÄÄN AUDIO-CD:tä..."
+cdawav_MSG2="Suoritetaan:"
+cdawav_MSG3="ONNISTUSTI RAIDOITUT ÄÄNIRAIDAT!!"
+cdawav_MSG4="Äänitiedostohakemiston sisältö"
+cdawav_MSG5="VIRHE ÄÄNIRAIDOJEN RIPISTETESSÄ"
+
+# cddawav
+
+cddawav_MSG1="ANNA RIPISTETTÄVIEN KAPPALEIDEN MÄÄRÄ:"
+cddawav_MSG2="Paina Crtl + c peruuttaaksesi raidan kopioinnin"
+cddawav_MSG3="Suoritetaan:"
+cddawav_MSG4="ONNISTUSTI RIPPATTU"
+cddawav_MSG5="ERROR RIPPING"
+
+# wavamp3
+
+wavamp3_MSG0="MUUNNETTAVAT WAV-TIEDOSTOT"
+wavamp3_MSG1="Anna .wav-tiedostojen polku: "
+wavamp3_MSG1B="MUUNTO"
+wavamp3_MSG2="MUOTO"
+wavamp3_MSG3="Suoritetaan:"
+wavamp3_MSG4="muunnettaessa"
+wavamp3_MSG5=".MP3-muotoon"
+wavamp3_MSG6="Virhe muunnettaessa"
+wavamp3_MSG7="AUDIOMUUNNOS VALMIS"
+wavamp3_MSG8="AUDIOHAKEMISTOA EI LÖYDY"
+
+# cdamp3
+
+cdamp3_MSG1="RIPIDÄÄN ÄÄNI-CD:tä..."
+cdamp3_MSG2="Suoritetaan:"
+cdamp3_MSG3="ONNISTUSTI RAIDOITUT ÄÄNIRAIDAT!!"
+cdamp3_MSG4="VIRHE ÄÄNIRAIDOJEN RIPPUKSESTA"
+cdamp3_MSG5="Kutsutoiminto:"
+
+# wavaogg
+
+wavaogg_MSG1="Anna .wav-tiedostojen polku: "
+wavaogg_MSG2="MUUNTO"
+wavaogg_MSG3="A .ogg FORMAT"
+wavaogg_MSG4="Käynnissä:"
+wavaogg_MSG5="Virhe muunnettaessa"
+wavaogg_MSG6=".ogg-muotoon"
+
+# cdaogg
+
+cdaogg_MSG1="AUDIO-CD-levyjä RIPPAUTA..."
+cdaogg_MSG2="Suoritetaan:"
+cdaogg_MSG3="ONNISTUSTI RAIDOITUT ÄÄNIRAIDAT!!"
+cdaogg_MSG4="VIRHE ÄÄNIRAIDOJEN RIPISTETESSÄ"
+cdaogg_MSG5="Kutsutoiminto:"
+
+# corta_wav
+
+corta_wav_MSG0="Sekuntien lukumäärä:"
+corta_wav_MSG1="Määritä muutettavan äänitiedoston polku:"
+corta_wav_MSG2="Määritä aika sekunteina, jolle"
+corta_wav_MSG3="tiedoston leikkaaminen alkaa."
+corta_wav_MSG4="-HUOM-"
+corta_wav_MSG5="Määrittääksesi äänen alun kirjoittamalla 0"
+corta_wav_MSG6="Arvo sekunneissa muuntamisen aloittamiseksi:"
+corta_wav_MSG7="Määritä aika sekunteina, jolle"
+corta_wav_MSG8="tiedoston leikkaaminen valmis."
+corta_wav_MSG9="Konversion lopun arvo sekunneissa:"
+corta_wav_MSG10="Käynnissä"
+corta_wav_MSG11="Rajattu äänitiedosto"
+corta_wav_MSG12="Virhe tiedostoa leikattaessa"
+corta_wav_MSG13="Tiikattava äänitiedosto:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV-AUDIO"
+flacawav_MSG1="Määritä .flac-tiedostojen polku:"
+flacawav_MSG2="MUUNTO"
+flacawav_MSG3=" .wav-muotoon"
+flacawav_MSG4="Näytteistys asetettu 44100 MHz:iin"
+flacawav_MSG5="Virhe näytteenoton käsittelyssä"
+flacawav_MSG6="Normaloidaan äänitiedostoa"
+flacawav_MSG7="Tiedosto"
+flacawav_MSG8="Normaloitu"
+flacawav_MSG9="Normalointivirhe"
+flacawav_MSG10="Muuntaminen epäonnistui"
+flacawav_MSG11="Hakemistoa ei löydy"
+flacawav_MSG12="AUDIOMUUNNON LOPPU"
+
+# wavaflac
+
+wavaflac_MSG0="MUUNNETTAVAT WAV-TIEDOSTOT"
+wavaflac_MSG1="Anna .wav-tiedostojen polku: "
+wavaflac_MSG2="MUUNTO"
+wavaflac_MSG3="A .flac FORMAT"
+wavaflac_MSG4="muunnettu flac-muotoon"
+wavaflac_MSG5="Virhe muunnettaessa"
+wavaflac_MSG6=".flac-muotoon"
+wavaflac_MSG7="FLAC-TIEDOSTOJEN HAKEMISTOA EI LÖYDY"
+

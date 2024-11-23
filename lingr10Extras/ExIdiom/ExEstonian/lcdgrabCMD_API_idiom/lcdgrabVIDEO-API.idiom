@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en estonio para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="VIDEO KONVERSIOON BLU-RAY PLAADI ÜHILDUVUS"
+conv_video_BDVideo_MSG2="Määrake teisendatava videofaili tee:"
+conv_video_BDVideo_MSG3="Määrake loodava uue video failinimi:"
+conv_video_BDVideo_MSG4="Videofail on edukalt teisendatud!!"
+conv_video_BDVideo_MSG5="Videofaili teisendamisel tekkis viga"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="KONVERSIOONI VIDEOFAILID"
+conv_VideoFich_MSG2="Määrake teisendatav videofail:"
+conv_VideoFich_MSG3="Määrake genereeritav videofail:"
+conv_VideoFich_MSG4="VIDEOFAILI KONVERSIOON LÕPPENUD"
+conv_VideoFich_MSG5="VIGA VIDEOFAILI KONVERTERJAL"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Määrake videofail:"
+extrae_Audio_de_Video_MSG2="Määrake genereeritav mp3 helifail:"
+extrae_Audio_de_Video_MSG3="HELI VÄLJAtõmme õnnestus"
+extrae_Audio_de_Video_MSG4="VIGA HELI VÄLJAVÕTMISEL"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Määrake videofail:"
+extrae_Fragmento_Video_MSG2="Määrake genereeritav videofail:"
+extrae_Fragmento_Video_MSG3="Määrake esialgne aeg (määrake kui HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Määrake lõpuaeg (määrake kui HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="VIDEO EDUNELT KÄRGITI"
+extrae_Fragmento_Video_MSG6="VIGA VIDEO KÄRGIMISEL"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Määrake helifail:"
+mezcla_Audio_Video_MSG2="Määra videofail:"
+mezcla_Audio_Video_MSG3="Määra genereeritav videofail:"
+mezcla_Audio_Video_MSG4="UUS VIDEOFAIL ON EDUNELT LOODUD"
+mezcla_Audio_Video_MSG5="VIGA VIDEOFAILI GENERATAMISEL"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="VALIK POLE SAADAVAL KONSOLILIIDESELE"
+graba_escritorio_MSG2="-- SALVESTAMINE LAUAARVI SEANSIOONI -- SALVESTAMISE TÜHISTAMISEKS JA PEATAMISEKS VAJUTAD CTRL + C"
+graba_escritorio_MSG3="VIDEOSALVESTAMINE LÕPPENUD"
+

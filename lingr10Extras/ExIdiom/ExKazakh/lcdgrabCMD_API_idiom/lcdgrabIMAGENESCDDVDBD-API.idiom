@@ -1,0 +1,233 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKazakh/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en kazajo para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="СУРЕТ ФАЙЛ ЖҮЙЕСІ"
+imagen_linux_fs_MSG2="Файлдық жүйені таңдаңыз: "
+imagen_linux_fs_MSG3="CD-R/RW (702 Мбайт) үшін сурет жасау"
+imagen_linux_fs_MSG4="DVD+RW (4 Гбайт) үшін сурет жасау"
+imagen_linux_fs_MSG5="DVD+RW/DL (8 Гбайт) үшін кескін жасау"
+imagen_linux_fs_MSG5B="BD-R/RE (25 Гбайт) үшін сурет жасау"
+imagen_linux_fs_MSG5C="Таңдамалы өлшемі бар сурет файлын жасау"
+imagen_linux_fs_MSG6="Сыйымдылығы 702 Мбайт бос файл жасау"
+imagen_linux_fs_MSG7="Сыйымдылығы 4 Гбайт бос файл жасау"
+imagen_linux_fs_MSG8="Сыйымдылығы 8 Гбайт бос файл жасау"
+imagen_linux_fs_MSG8B="Сыйымдылығы 25 Гбайт бос файл жасау"
+imagen_linux_fs_MSG8C="Теңшелетін өлшемі бар бос файл жасау"
+imagen_linux_fs_MSG9="ҚАТЕ: БЕТІНІҢ ӨЛШЕМІ БЕЛГІСІЗ. ТОҚТАТУ..."
+imagen_linux_fs_MSG10="Орындалуда"
+imagen_linux_fs_MSG11="Бағдарлама бос файлды пішімдейді."
+imagen_linux_fs_MSG12="Жүйе сізге бұрын жасалған файл блоктау құрылғысы емес екенін ескертеді және оны пішімдегіңіз келе ме деп сұрайды"
+imagen_linux_fs_MSG13="Иә деп жауап беріңіз"
+imagen_linux_fs_MSG13="СӘТТІ ПІШІМДЕРДІ"
+imagen_linux_fs_MSG14=" Орнату кескіні..."
+imagen_linux_fs_MSG15="БОС ФАЙЛДЫ Пішімдеу КЕЗІНДЕГІ ҚАТЕ"
+imagen_linux_fs_MSG16="Бағдарлама пішімделген файлды орнатты"
+imagen_linux_fs_MSG17="Linux-cdgrab орнатылған кескінде жұмыс істей алатындай файл менеджерін іске қосады"
+imagen_linux_fs_MSG18="Файлдар көшірілгеннен кейін пішімделген файлды ажыратыңыз"
+imagen_linux_fs_MSG19="Linux кескіні осы каталогта"
+imagen_linux_fs_MSG19B="СУРЕТ ФАЙЛЫН ОРНАТУ КЕЗІНДЕГІ ҚАТЕ"
+imagen_linux_fs_MSG20="Суретке қосылатын файлдар. /mnt/lcdgrab ішіне орнатылған"
+imagen_linux_fs_MSG21="Файл менеджері іске қосылуда..."
+imagen_linux_fs_MSG22="ЕСКЕРТУ:"
+imagen_linux_fs_MSG23="------"
+imagen_linux_fs_MSG24="Сурет"
+imagen_linux_fs_MSG25="әлі орнатылған"
+imagen_linux_fs_MSG26="dd АРҚЫЛЫ БОС ФАЙЛ ЖАСАУ КЕЗІНДЕГІ ҚАТЕ"
+imagen_linux_fs_MSG27="/ мекенжайында орнатылған бөлімде бос орын бар екенін тексеріңіз."
+imagen_linux_fs_MSG34="ФАЙЛДЫ Пішімдеу ҮШІН ФАЙЛ ЖҮЙЕСІ"
+imagen_linux_fs_MSG35="АРНАЛҒАН ӨЛШЕМІ БАР БОС ФАЙЛДЫ ЖАСАУ"
+imagen_linux_fs_MSG36="Жаңа бос файлдың блок өлшемін көрсетіңіз (тек сандық мән):"
+imagen_linux_fs_MSG37="Блок өлшеміне арналған мәндердің мысалы: 1024, 2048 (тек Ext2) немесе 4096 (Барлық форматтар)"
+imagen_linux_fs_MSG38="Жасалатын бос файлдың өлшемін көрсетіңіз (тек сандық мән):"
+imagen_linux_fs_MSG39="Бос файлды құру үшін кеңістік өлшемдері:"
+imagen_linux_fs_MSG40="Қолданылатын кеңістік өлшемін көрсетіңіз: "
+imagen_linux_fs_MSG41="ӨЛШЕМДІ ӨЛШЕРУ КЕЗІНДЕГІ ҚАТЕ"
+imagen_linux_fs_MSG42="Блок өлшемі мәні:"
+imagen_linux_fs_MSG43="Бос файл үшін орын мөлшері:"
+imagen_linux_fs_MSG44="Байттардағы есептелген мән:"
+imagen_linux_fs_MSG45="Санақ үшін есептелген мән:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1=".iso кескіндерін жасау кезінде md5 оқуын қосу"
+comprobar_lectura_md5_MSG2=".iso кескіндерін жасау кезінде md5 оқуын өшіру"
+comprobar_lectura_md5_MSG3="Алдыңғы мәзір"
+comprobar_lectura_md5_MSG4="Ағымдағы конфигурация:"
+comprobar_lectura_md5_MSG5="Қосылған"
+comprobar_lectura_md5_MSG6="Ажыратылған"
+comprobar_lectura_md5_MSG7="Оқу md5 қосындысы белсендірілді"
+comprobar_lectura_md5_MSG8="Оқу md5 сомасы өшірілген"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Iso кескінінің атын оқу мүмкін емес"
+leer_md5sum_MSG2="md5қосынды оқу"
+leer_md5sum_MSG3="Суреттің md5 қосындысын көрсету"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="CD кескінін жасау"
+extraer_isoCD_dd_MSG2="СУРЕТ ЖАСАЛҒАН"
+extraer_isoCD_dd_MSG3="Табылмады"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="DVD кескінін жасау"
+extraer_isoDVD_dd_MSG2="іске қосулы"
+extraer_isoDVD_dd_MSG3="СУРЕТ ЖАСАЛҒАН"
+extraer_isoDVD_dd_MSG4="Табылмады"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="іске қосулы"
+extraer_iso_readcd_MSG2="СУРЕТ СӘТТІ ЖАСАЛДЫ"
+extraer_iso_readcd_MSG3="Кескінде жасалған сурет"
+extraer_iso_readcd_MSG4="Жазу процесін тоқтату..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Орнатылған CD"
+extraer_iso_mkisofs_MSG2="Сурет жасалуда..."
+extraer_iso_mkisofs_MSG3="Macintosh үйлесімділігі қосылған"
+extraer_iso_mkisofs_MSG4="Қолдану"
+extraer_iso_mkisofs_MSG5="іске қосулы"
+extraer_iso_mkisofs_MSG6="Каталогта жасалған сурет"
+extraer_iso_mkisofs_MSG7="Процесті Macintosh қолдауынсыз қайталау"
+extraer_iso_mkisofs_MSG8="Каталогта жасалған сурет"
+extraer_iso_mkisofs_MSG9="mkisofs жасау кезінде белгісіз қателерді қайтарады"
+extraer_iso_mkisofs_MSG10="қайдан"
+extraer_iso_mkisofs_MSG11="Деректердің тұтастығын тексеру"
+extraer_iso_mkisofs_MSG12="Орнату"
+extraer_iso_mkisofs_MSG12B="жылы"
+extraer_iso_mkisofs_MSG13="genisoimage жасау кезінде белгісіз қателерді қайтарады"
+extraer_iso_mkisofs_MSG13B="қайдан"
+extraer_iso_mkisofs_MSG14="Mkisofs және genisoimage табылмады. cdrtools немесе cdrkit орнатыңыз."
+extraer_iso_mkisofs_MSG15="Орнату мүмкін емес"
+extraer_iso_mkisofs_MSG16="Сурет сәтті жасалды"
+
+# m_comp_img
+
+m_comp_img_MSG1="СУРЕТ СӘТТІ ЖАСАЛДЫ"
+m_comp_img_MSG2="СУРЕТ ФАЙЛЫН ҚЫСҚЫҢЫЗ КЕЛЕСІЗ БА?"
+m_comp_img_MSG3="(s/y) қысу үшін; Процесс басқа опциямен тоқтатылады."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Файл менеджері іске қосылуда..."
+generar_iso_directorio_MSG2="Болашақ CD/DVD/BD үшін атын енгізіңіз"
+generar_iso_directorio_MSG3="СУРЕТ ЖАСАУ..."
+generar_iso_directorio_MSG4="Macintosh үйлесімділігі қосылған"
+generar_iso_directorio_MSG5="Қолдану"
+generar_iso_directorio_MSG6="іске қосулы"
+generar_iso_directorio_MSG7="КАТАТАУДА ЖАСАЛҒАН БЕЙНЕТ"
+generar_iso_directorio_MSG8="СУРЕТ ЖАСАУ ПРОЦЕСІ СӘТТІ АЛДЫ"
+generar_iso_directorio_MSG9="MACINTOSH СҮЙЕСІМДІЛІГІ ЖОҚ БЕЙНЕН ЖАСАУ"
+generar_iso_directorio_MSG10="Mkisofs және genisoimage табылмады. cdrtools немесе cdrkit орнатыңыз."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Болашақ DVD/BD үшін атау енгізіңіз"
+generar_bdv_udf_directorio_MSG2="Бейне кескінін жасау үшін каталогты көрсетіңіз:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Диск белгісін көрсетіңіз:"
+generar_iso_directorio_libburnia_MSG2="iso-9660 кескінін жасау үшін каталогты көрсетіңіз:"
+generar_iso_directorio_libburnia_MSG3="ISO9660 кескіні сәтті жасалды!!"
+generar_iso_directorio_libburnia_MSG4="xorriso көмегімен iso-9660 кескінін жасау қатесі"
+
+# imagenISO
+
+imagenISO_MSG1=".iso кескініне қосылатын файлдар мен каталогтар"
+imagenISO_MSG2="ОПЦИЯНЫ ТАҢДАҢЫЗ"
+imagenISO_MSG2B="---------------"
+imagenISO_MSG3="CD дискінен ISO-9660 кескінін жасау (dd пайдалану)"
+imagenISO_MSG4="DVD дискінен ISO-9660 кескінін жасау (dd пайдалану)"
+imagenISO_MSG5="CD дискінен ISO-9660 кескінін жасау (readcd пайдаланыңыз)"
+imagenISO_MSG6="CD немесе DVD дискіден ISO-9660 кескінін жасау (mkisofs пайдаланыңыз)"
+imagenISO_MSG7="Қатты диск деректерінен ISO-9660 кескінін жасау (mkisofs пайдаланыңыз)"
+imagenISO_MSG8="Алдыңғы мәзір"
+imagenISO_MSG9="СУРЕТ ЖАСАУ"
+imagenISO_MSG10="Қатты диск деректерінен ISO-9660 кескінін жасау (xorriso пайдаланыңыз)"
+imagenISO_MSG11="CD/DVD/BD дискісінен iso/udf кескінін жасау (mkisofs пайдаланыңыз)"
+imagenISO_MSG12="Қатты диск деректерінен iso/udf кескінін жасау (mkisofs пайдаланыңыз)"
+imagenISO_MSG13="ISO-9660 Пішімдеуші МӘЗІР"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Қатты диск деректерінен UDF/ISO кескінін жасау (mkisofs пайдаланыңыз)"
+imagenISO_MSG15="DVD бейне қолдауымен UDF/ISO кескінін жасау (mkisofs пайдаланыңыз)"
+
+# imagen_img
+
+imagen_img_MSG1="Кескін жасалатын бастапқы блок құрылғысын теріңіз"
+imagen_img_MSG2="-------------------------------------------------"
+imagen_img_MSG3="/etc/fstab және /etc/mtab ішінде тіркелген құрылғылар"
+imagen_img_MSG4="Орнату пәрменінің шығысы:"
+imagen_img_MSG5="Құрылғы атын енгізіңіз: "
+imagen_img_MSG6="Блоктау құрылғысының .img кескінін жасау"
+imagen_img_MSG7="іске қосулы"
+imagen_img_MSG8="ҚҰРЫЛҒЫ БЕЙНЕСІ ЖАСАЛҒАН"
+
+# monta_img
+
+monta_img_MSG1="Орнату үшін ISO немесе ext2 кескіні."
+monta_img_MSG2="Орнатылатын кескін орналасқан каталог жолын теріңіз:"
+monta_img_MSG3="Орнатылған CD кескіні:"
+monta_img_MSG4="СУРЕТ ФАЙЛЫН ОРНАТУ КЕЗІНДЕГІ ҚАТЕ"
+monta_img_MSG5="ТАБАДЫ"
+monta_img_MSG6="ҚОСУ НҮКТЕСІ ЖОҚ"
+monta_img_MSG7="КҮТілмеген ҚАТЕ"
+
+# desmonta_img
+
+desmonta_img_MSG1="Ажыратылатын ISO немесе ext2 кескіні."
+desmonta_img_MSG2="БӨЛШІЛГЕН СУРЕТ"
+desmonta_img_MSG3="Орнатылған сурет табылмады"
+desmonta_img_MSG4="Шығаруды орнату:"
+desmonta_img_MSG5="Сіз кескіннің абсолютті каталог жолын тікелей көрсете аласыз."
+desmonta_img_MSG6="/tmp/lcdgrabimg.iso сияқты немесе /mnt/lcdgrab сияқты кескінге арналған орнату каталогы"
+desmonta_img_MSG7="Егер көрсетілмесе, оны файл менеджері арқылы іздеуге болады"
+desmonta_img_MSG8="Файл менеджерін іске қосу"
+desmonta_img_MSG9="Сурет жолын көрсетіңіз."
+desmonta_img_MSG10="БӨЛШІЛГЕН СУРЕТ"
+desmonta_img_MSG11="СУРЕТТІ АШУДАҒЫ ҚАТЕ"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".iso түріне түрлендіру үшін nrg кескіні"
+nrg_a_iso_MSG2="Түрлендіру үшін .nrg (Nero Burning ROM) кескінінің жолын енгізіңіз"
+nrg_a_iso_MSG3="Суретті түрлендіру..."
+nrg_a_iso_MSG4="Көзі .nrg кескінінің жолы"
+nrg_a_iso_MSG5="болмайды немесе каталогқа сәйкес келеді"
+nrg_a_iso_MSG6="Жарамсыз жол."
+nrg_a_iso_MSG7="бұл бұрынғы ISO-9660 кескіні, ол түрлендірілмейді."
+nrg_a_iso_MSG8="Басқа кеңейтіммен көшіру..."
+nrg_a_iso_MSG9="КӨШІРУ АЯҚТАЛДЫ"
+nrg_a_iso_MSG10="іске қосулы"
+nrg_a_iso_MSG11="Сурет сәтті түрлендірілді"
+nrg_a_iso_MSG12="СУРЕТ ЖАСАУ КЕЗІНДЕГІ ҚАТЕ .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1=".bin суретінен .cue сипаттама файлын жасау"
+GenerarArchivocue_MSG2="Ағымдағы белсенді каталог"
+GenerarArchivocue_MSG3="Тек каталог жолын жаз, қайда"
+GenerarArchivocue_MSG4="сурет файлын табу:"
+GenerarArchivocue_MSG5="Қолданылатын .bin кескінінің атын енгізіңіз"
+GenerarArchivocue_MSG6="сәйкес .cue файлын жасады"
+GenerarArchivocue_MSG7="СИПАТТАМАСЫ ФАЙЛ .cue СӘТТІ ЖАСАЛДЫ"
+GenerarArchivocue_MSG8="СИПАТТАУ ФАЙЛЫН ЖАСАУ КЕЗІНДЕГІ ҚАТЕ .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="іске қосулы"
+ImagenbincueCDDVD_MSG2=".BIN .CUE DISK БЕЙНЕСІ СӘТТІ ЖАСАЛДЫ"

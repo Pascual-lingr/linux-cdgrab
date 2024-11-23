@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExFinnish/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Finés para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate y Chat GPT.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Anna tiedoston tai hakemiston polku:"
+empaquetar_MSG2="------- Vaihtoehdot -------"
+empaquetar_MSG3="Luo .tar.gz tiedosto"
+empaquetar_MSG4="Luo .tar.bz2 tiedosto"
+empaquetar_MSG5="Kirjoita vaihtoehto : "
+empaquetar_MSG6="Suorittamalla"
+empaquetar_MSG7="Virheellinen vaihtoehto"
+
+# desempaquetar
+
+desempaquetar_MSG1="Anna tiedoston polku:"
+desempaquetar_MSG2="DECOMPRESSORIA EI LÖYDYNYSTÄ"
+desempaquetar_MSG3="TAI"
+desempaquetar_MSG4="EI OLE OLEMASSA"
+desempaquetar_MSG5="Suorittamalla"
+desempaquetar_MSG6="pakkamaton"
+desempaquetar_MSG7="Pakkauksen purkamisessa tapahtui virhe"
+
+# comprime
+
+comprime_MSG1="PAKKAA KUVAA"
+comprime_MSG2="Pakkaa bzip2:lla"
+comprime_MSG3="Pakkaa gzipillä"
+comprime_MSG4="Pakkaa xz:llä"
+comprime_MSG5="Edellinen valikko"
+comprime_MSG6="Suorittamalla"
+comprime_MSG7="Kuvatiedoston pakkaus valmis"
+comprime_MSG8="Virhe pakkaamisessa"
+comprime_MSG9="Virheellinen kompressori"
+
+# descomprime
+
+descomprime_MSG1="Kirjoita tiedoston polku:"
+descomprime_MSG2="-------------------------"
+descomprime_MSG3="DECOMPRESSORIA EI LÖYDYNYT"
+descomprime_MSG4="TAI"
+descomprime_MSG5="EI OLE OLEMASSA"
+descomprime_MSG6="Suorittamalla"
+descomprime_MSG7="purkamaton"
+descomprime_MSG8="Virhe yritettäessä purkaa"
+

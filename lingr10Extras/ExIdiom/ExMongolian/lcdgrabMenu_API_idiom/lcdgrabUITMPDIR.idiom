@@ -1,0 +1,35 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongolian/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Mongol para el menú de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="/tmp доторх файлууд"
+dir_tmp_MSG2="Бүх зураг болон шахсан файлуудыг устгах"
+dir_tmp_MSG3="Бусад үйлдлийн файлын менежерийг ажиллуул"
+dir_tmp_MSG4="Зургийг холбох эсвэл салгах"
+dir_tmp_MSG5="Зураг үүсгэх цэсийг харуулах"
+dir_tmp_MSG6="Зураг бичих сонголтыг харуулах"
+dir_tmp_MSG7="Өмнөх цэс"
+dir_tmp_MSG8="Одоо байгаа ФАЙЛЫН ЖАГСААЛТ"
+dir_tmp_MSG9="СОНГОЛТ СОНГОХ:"
+dir_tmp_MSG10="УСТГАСАН ЗУРАГ, ФАЙЛ"
+dir_tmp_MSG11="Зургийг холбох."
+dir_tmp_MSG12="Зургийг салгах."
+dir_tmp_MSG13="Зургийг CD рүү бичих"
+dir_tmp_MSG14="Зургийг DVD рүү бичих"
+dir_tmp_MSG14B="Зургийг BD болгон бичих"
+dir_tmp_MSG15="Бичлэгийн хэрэглүүрийн дагуу сонголтыг сонгоно уу"
+dir_tmp_MSG16="ФАЙЛ ТОХИРУУЛАЛТЫН ФАЙлыг олсонгүй"
+dir_tmp_MSG17="Бичлэг хийх үйл явцыг зогсоож байна"
+dir_tmp_MSG18="Шатаах .iso файлыг зааж өгөх"
+dir_tmp_MSG19="Зургийн замыг оруулна уу: "
+
+

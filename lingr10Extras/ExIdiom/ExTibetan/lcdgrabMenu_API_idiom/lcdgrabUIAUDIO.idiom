@@ -1,0 +1,32 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en Tibetano para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="སྒྲ་བསྒྱུར།"
+menu_conversion_audio_MSG2="------------ རྣམ་གཞག་བར་གྱི་བསྒྱུར། -----------"
+menu_conversion_audio_MSG3=" .mp3 ནས་ .wav ལ་བསྒྱུར།"
+menu_conversion_audio_MSG4=".ogg ནས་ .wav ལ་བསྒྱུར།"
+menu_conversion_audio_MSG5=".wav ནས་ .mp3 ལ་བསྒྱུར།"
+menu_conversion_audio_MSG6=" .wav ནས་ .ogg ལ་བསྒྱུར།"
+menu_conversion_audio_MSG6C=".wav ནས་ .flac ལ་བསྒྱུར།"
+menu_conversion_audio_MSG6B=".flac ནས་ .wav ལ་བསྒྱུར།"
+menu_conversion_audio_MSG7="---------- སྒྲ་དབྱངས་འཐེན་འཐེན། ---------"
+menu_conversion_audio_MSG8="སྒྲ་སྒམ་ཞིག་ .wav ལ་རྡེབ་དགོས།"
+menu_conversion_audio_MSG9="སྒྲ་དབྱངས་ཆ་ཚང་ཞིག་ .wav ལ་རྡེབ་པ།"
+menu_conversion_audio_MSG10="སྒྲ་སྡུད་འོད་སྡེར་ཞིག་ .mp3 ལ་གཏོར་དགོས།"
+menu_conversion_audio_MSG11="སྒྲ་སྒམ་ཞིག་ .ogg ལ་རྡེབ་དགོས།"
+menu_conversion_audio_MSG0="དཀར་ཆག་སྔོན་མ།"
+menu_conversion_audio_MSG12=".mp3ཡིག་ཚགས་འཚོལ་ཞིབ།"
+menu_conversion_audio_MSG13=".ogg ཡི་གེ་འཚོལ་བཤེར་བྱེད་པ།"
+menu_conversion_audio_MSG14=".wavཡིག་ཚགས་འཚོལ་བཤེར་བྱེད་པ།"
+menu_conversion_audio_MSG15="---------------- བཀོལ་སྤྱོད་གཞན། ---------------"
+menu_conversion_audio_MSG16=".wav སྒྲ་ཡིག་ཡིག་ཆ་གཅོད་དགོས།"
+menu_conversion_audio_MSG17=".flac ལ་སྒྲ་སྒམ་ཞིག་བཤུས།"

@@ -1,0 +1,109 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Tayiko para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="Аз нав кӯшиш кардани раванди сабт..."
+m_cdrecord_sin_overburn_MSG2="Иҷрои cdrecord бе имконоти -overburn"
+m_cdrecord_sin_overburn_MSG3="-overburn дар дастгоҳҳои сабти кӯҳна ва на дар версияҳои кӯҳнаи cdrecord дастгирӣ намешавад."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="ОПЕРАЦИЯИ БЕЪТИБОР"
+
+# img_error
+
+img_error_D_MSG1="ХАТО ВАКТИ офариниши тасвир"
+
+# CD_error
+
+CD_error_D_MSG1="ХАТО ВАКТИ СУЗОНДАНИ CD"
+
+# DVD_error
+
+DVD_error_D_MSG1="ХАТО ВАКТИ СУЗОНДАНИ DVD"
+
+# DO_error
+
+DO_error_D_MSG1="ХАТО ВАКТИ НАВИШТАНИ ДИСКАИ ОПТИКИ"
+
+
+# tecla
+
+tecla_D_MSG1="\nБарои идома додан ENTER-ро пахш кунед. . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="ПАЙҲРҲОИ ДИРЕКЦИЯҲО БАРОИ СУЗОНДАН БА ДИСК"
+rutas_dir_D_MSG2="Номи директорияро ворид кунед (f барои баромадан):"
+rutas_dir_D_MSG3="DIRECTORY"
+rutas_dir_D_MSG4="НЭЪТИБОР"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="ДАР СИСТЕМА ЯК ВОДИТИ ОПТИКИ"
+una_sola_grabadora_D_MSG2="ВОДИГАТИ ХОНДАН ВА САБТКУНАНДА ЯК ХАСТАНД. Тахмин карда мешавад, ки СИСТЕМАИ ШУМО ТАНҲО ЯК ВОДИДИ ФИЗИКӢ ДОРАД. ДИКИ САРЧАШМАРО АЗ АСГОТ ТОҶИК КУНЕД. БАРОИ ДАВОМ ДОДАНИ раванди сабти диски оптикии бокира ворид кунед"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="САБТИ ДИСКИ МУВАФФАКИЯТ АНЧОМ ДОДА ШУД"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="ОПЕРАЦИЯИ БЕЪТИБОР"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="САБТИ ДИСКИ МУВАФФАКИЯТ АНЧОМ ДОДА ШУД"
+
+# text_img_error
+
+text_img_error_MSG1="ХАТО ВАКТИ офариниши тасвир"
+
+# text_CD_error
+
+text_CD_error_MSG1="ХАТО ВАКТИ СУЗОНДАНИ CD"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="ХАТО ВАКТИ СУЗОНДАНИ DVD"
+
+# text_DO_error
+
+text_DO_error_MSG1="ХАТО ВАКТИ НАВИШТАНИ ДИСКАИ ОПТИКИ"
+
+# teclash
+
+teclash_MSG1="Барои идома додан ENTER-ро пахш кунед. . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Номи директорияро ворид кунед ( f барои баромадан ):"
+text_rutas_dir_MSG2="ДИРЕКТОРИ"
+text_rutas_dir_MSG3="БЕЪТИБОР"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="ЯГОН ВОҲИДИ ОПТИКӢ ДАР СИСТЕМА"
+text_una_sola_grabadora_MSG2="ВОҲИДИ ХОНДАН ВА САБТ ЯК АСТ."
+text_una_sola_grabadora_MSG3="ФАХМ МЕКУНАД, КИ СИСТЕМАИ ШУМО ТАНҲО ЯКЕ ДОРАД"
+text_una_sola_grabadora_MSG4="Воҳиди физикӣ."
+text_una_sola_grabadora_MSG5="ДИСКИ МАНБАЪРО АЗ ШУЪБАТ ТОҶИК КУНЕД."
+text_una_sola_grabadora_MSG6="ВОРИН КАРДАНИ ДИСКИ ОПТИКИИ ВИРГИН"
+text_una_sola_grabadora_MSG7="БАРОИ ДАВОМ КАРДАН БО РАВАНДИ САБТ."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="Давидан"

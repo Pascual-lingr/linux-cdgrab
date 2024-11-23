@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKazakh/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en kazajo para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="ТҰРНАЛУ ҮШІН MP3 ФАЙЛДАР"
+mp3awav_MSG0=".mp3 файлдарының жолын енгізіңіз: "
+mp3awav_MSG1="ТҰРЛАНДЫРУ"
+mp3awav_MSG1B=" .wav Пішіміне"
+mp3awav_MSG2="іске қосулы"
+mp3awav_MSG3="Үлгі алу 44100 МГц-ке орнатылды"
+mp3awav_MSG4="Іріктеуді өңдеу қатесі"
+mp3awav_MSG5="Түрлендіру орындалмады"
+mp3awav_MSG6="Каталог табылмады"
+mp3awav_MSG7="АУДИО КОНВЕРСИЯНЫҢ СОҢЫ"
+mp3awav_MSG8="Аудио файлды қалыпқа келтіру"
+mp3awav_MSG9="Файл"
+mp3awav_MSG10="Қалыпты"
+mp3awav_MSG11="Қалыпқа келтіру қатесі"
+
+# oggawav
+
+oggawav_MSG0="ТҰРНАЛУ ҮШІН OGG ФАЙЛДАР"
+oggawav_MSG1=".ogg файлдарының жолын енгізіңіз: "
+oggawav_MSG2="ТҰРҒЫНДАРУ"
+oggawav_MSG2B="A .wav FORMAT"
+oggawav_MSG3="іске қосулы"
+oggawav_MSG4="Үлгі алу 44100 МГц-ке орнатылды"
+oggawav_MSG5="Іріктеуді өңдеу қатесі"
+oggawav_MSG6="Түрлендіру мүмкін болмады"
+oggawav_MSG7="Каталог табылмады"
+oggawav_MSG8="АУДИО ҚАМТАМАСЫ СОҢЫ"
+oggawav_MSG9="Аудио файлды қалыпқа келтіру"
+oggawav_MSG10="Файл"
+oggawav_MSG11="Қалыпты"
+oggawav_MSG12="Қалыптастыру қатесі"
+
+# cdawav
+
+cdawav_MSG1="Аудио ықшам дискіні көшіріп алу..."
+cdawav_MSG2="Орындалуда:"
+cdawav_MSG3="СӘТТІ ЖАЗЫЛҒАН АУДИО ТРЕКТЕР!!"
+cdawav_MSG4="Аудио файлдар каталогының мазмұны"
+cdawav_MSG5="АУДИО ТРЕКТЕРДІ ЖІЗУ КЕЗІНДЕГІ ҚАТЕ"
+
+# cddawav
+
+cddawav_MSG1="ЖІЗІЛУ ҮШІН ТРЕКТЕР САНЫН ЕНГІЗУ:"
+cddawav_MSG2="Жолды көшіріп алудан бас тарту үшін Crtl + c пернелерін басыңыз"
+cddawav_MSG3="Орындалуда:"
+cddawav_MSG4="СӘТТІ ӨЗІЛДІ"
+cddawav_MSG5="ҚАТЕ ЖІЗУ"
+
+# wavamp3
+
+wavamp3_MSG0="ТҰРЛАНДЫРУ ҮШІН WAV ФАЙЛДАРЫ"
+wavamp3_MSG1=".wav файлдарының жолын енгізіңіз: "
+wavamp3_MSG1B="ТҰРҒЫНДАРУ"
+wavamp3_MSG2="ФОРМАТ"
+wavamp3_MSG3="Орындалуда:"
+wavamp3_MSG4="түрлендіру кезінде"
+wavamp3_MSG5=".MP3 пішіміне"
+wavamp3_MSG6="Түрлендіру қатесі"
+wavamp3_MSG7="АУДИО КОНВЕРСИЯ АЯҚТАЛДЫ"
+wavamp3_MSG8="АУДИО КАТААЛАТ ТАБЫЛМАДЫ"
+
+# cdamp3
+
+cdamp3_MSG1="Аудио ықшам дискіні көшіру..."
+cdamp3_MSG2="Орындалуда:"
+cdamp3_MSG3="СӘТТІ ЖАЗЫЛҒАН АУДИО ТРЕКТЕР!!"
+cdamp3_MSG4="АУДИО ТРЕКТЕРДІ ӨЗІРУ КЕЗІНДЕГІ ҚАТЕ"
+cdamp3_MSG5="Қоңырау шалу функциясы:"
+
+# wavaogg
+
+wavaogg_MSG1=".wav файлдарының жолын енгізіңіз: "
+wavaogg_MSG2="ТҰРҒЫНДАРУ"
+wavaogg_MSG3="A .ogg ПІШІМІ"
+wavaogg_MSG4="Орындалуда:"
+wavaogg_MSG5="Түрлендіру қатесі"
+wavaogg_MSG6=".ogg пішіміне"
+
+# cdaogg
+
+cdaogg_MSG1="Аудио ықшам дискілерді көшіріп алу..."
+cdaogg_MSG2="Орындалуда:"
+cdaogg_MSG3="СӘТТІ ЖАЗЫЛҒАН АУДИО ТРЕКТЕР!!"
+cdaogg_MSG4="АУДИО ТРЕКТЕРДІ ЖІЗУ КЕЗІНДЕГІ ҚАТЕ"
+cdaogg_MSG5="Қоңырау шалу функциясы:"
+
+# corta_wav
+
+corta_wav_MSG0="Секунд саны:"
+corta_wav_MSG1="Түрлендіру үшін аудио файлдың жолын көрсетіңіз:"
+corta_wav_MSG2="Уақытты секундтар санымен көрсетіңіз, ол үшін"
+corta_wav_MSG3="файлды кесу басталады."
+corta_wav_MSG4="-ЕСКЕРТПЕ-"
+corta_wav_MSG5="Аудионың басын көрсету үшін 0 енгізіңіз"
+corta_wav_MSG6="Түрлендіруді бастау үшін секундтардағы мән:"
+corta_wav_MSG7="Уақытты секундтар санымен көрсетіңіз, ол үшін"
+corta_wav_MSG8="файлды кесу аяқталады."
+corta_wav_MSG9="Түрлендірудің соңындағы секундтардағы мән:"
+corta_wav_MSG10="Орындалуда"
+corta_wav_MSG11="Кесілген аудио файлы"
+corta_wav_MSG12="Файлды кесу кезіндегі қате"
+corta_wav_MSG13="Қиып алу үшін аудио файл:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1=".flac файлдарының жолын көрсетіңіз:"
+flacawav_MSG2="ТҰРҒЫНДАРУ"
+flacawav_MSG3=" .wav Пішіміне"
+flacawav_MSG4="Үлгі алу 44100 МГц-ке орнатылды"
+flacawav_MSG5="Іріктеуді өңдеу қатесі"
+flacawav_MSG6="Аудио файлды қалыпқа келтіру"
+flacawav_MSG7="Файл"
+flacawav_MSG8="Қалыпты"
+flacawav_MSG9="Қалыпқа келтіру қатесі"
+flacawav_MSG10="Түрлендіру мүмкін болмады"
+flacawav_MSG11="Каталог табылмады"
+flacawav_MSG12="АУДИО КОНВЕРСИЯНЫҢ СОҢЫ"
+
+# wavaflac
+
+wavaflac_MSG0="ТҰРЛАНДЫРУ ҮШІН WAV ФАЙЛДАРЫ"
+wavaflac_MSG1=".wav файлдарының жолын енгізіңіз: "
+wavaflac_MSG2="ТҰРҒЫНДАРУ"
+wavaflac_MSG3="A .flac FORMAT"
+wavaflac_MSG4="flac пішіміне түрлендірілді"
+wavaflac_MSG5="Түрлендіру қатесі"
+wavaflac_MSG6=".flac пішіміне"
+wavaflac_MSG7="FLAC ФАЙЛ КАТАТАУЫ ТАБЫЛМАДЫ"
+

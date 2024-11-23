@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Tibetano, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="བེད་སྤྱོད་གཏོང་རྒྱུའི་སྤྱོད་མཁན་ངོས་འདྲ་བ་འདེམས།"
+SeleccionaIUDVD_MSG2="dvd+-rw-ལག་ཆའི་ཆེད་དུ་ངོས་འདྲ་བ་བེད་སྤྱོད་བྱེད།"
+SeleccionaIUDVD_MSG3="Cdrecord-ProDVD ཡི་ངོས་སྤྱོད་སྤྱོད།"
+SeleccionaIUDVD_MSG4="ལིབ་བུ་ནི་ཡའི་ཆེད་དུ་ཨིན་ཊར་ཕེས་བེད་སྤྱོད་བྱེད།"
+SeleccionaIUDVD_MSG5="དཀར་ཆག་སྔོན་མ།"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="DVD ལ་སྒྲ་ཕབ།"
+menugrabar_dvd_MSG2="----------------- ཌི་ཝི་ཌི་ - གཞི་གྲངས། ------------------"
+menugrabar_dvd_MSG3="ISO-9660ཡི་གྲངས་ཐོའི་DVDའདྲ་བཤུས།"
+menugrabar_dvd_MSG4="མཁྲེགས་སྡེར་སྟེང་སྔོན་གྱི་DVDཔར་རིས་གསར་བཟོ།"
+menugrabar_dvd_MSG5="ISO-9660གཞི་གྲངས་DVDགསར་བ་ཞིག་བརྐོས།"
+menugrabar_dvd_MSG6="ISO-9660 གྲངས་ཐོའི་DVD (ལས་རིམ་སྣ་མང་གི་DVD)ལ་གྲངས་ཐོའི་ལས་རིམ་གསར་པ་ཁ་སྣོན་བྱེད།"
+menugrabar_dvd_MSG7="གདམ་ག་གཉིས་པ་སྤྱད་ནས་སྔོན་ལ་སྒྲ་ཕབ་བྱས་པའི་DVDདགོས་ངེས་ཡིན།"
+menugrabar_dvd_MSG8="ISO-9660གཞི་གྲངས་པར་རིས་ཤིག་DVDནང་བརྐོས།"
+menugrabar_dvd_MSG9="DVD ནང་ .ext2 བརྙན་རིས་གཅིག་བརྐོས།"
+menugrabar_dvd_MSG10="----------------- ཌི་ཝི་ཌི་བརྙན་འཕྲིན། ------------------"
+menugrabar_dvd_MSG11="DVD-བརྙན་ཐུང་གསར་བ་ཞིག་བརྐོས།"
+menugrabar_dvd_MSG12="--------------- གདམ་ག་གཞན། -----------------"
+menugrabar_dvd_MSG13="DVD+RW/DVD-RW ཞིག་རྩ་སྒྲིག་བྱེད།"
+menugrabar_dvd_MSG14="DVDའོད་སྡེར་གྱི་ཆ་འཕྲིན་སྟོན།"
+menugrabar_dvd_MSG0="དཀར་ཆག་སྔོན་མ།"
+menugrabar_dvd_MSGPRINCIPAL="གདམ་ག་ཅིག་ཡིག་དཔར་རྐྱབས།"
+menugrabar_dvd_MSG15="DVDནང་ཚུད་པའི་ཡིག་ཆ་དང་སྣོད་ཐོ།"
+menugrabar_dvd_MSG16="ཡིག་ཆའི་དོ་དམ་འགོ་འཛུགས་བྱེད་བཞིན་པ།"
+menugrabar_dvd_MSG17=".iso པར་རིས་དེ་DVD ལ་འབར་དགོས།"
+menugrabar_dvd_MSG18="ཁྱེད་ཀྱིས་འཚིག་འདོད་པའི་ .iso གཟུགས་བརྙན་གནས་སའི་སྣོད་ཐོའི་འགྲོ་ལམ་ཡིག་དཔར་རྐྱབས།"
+menugrabar_dvd_MSG19="DVD རྒྱབ་སྐྱོར་ཡོད་པའི་cdrecord ཐོན་རིམ་དགོས།"
+menugrabar_dvd_MSG20="DVD ཐོག་གི་ .ext2 པར་རིས་ཀྱི་སྒྲ་ཕབ་དེ་cdrecord བརྒྱུད་ནས་སྒྲུབ་ཐུབ།"
+menugrabar_dvd_MSG21="ཁྱེད་ཀྱི་སྒྲིག་འཇུག་ནང་ཡོད་པའི་cdrecord ཐོན་རིམ་དེ་དགོས།"
+menugrabar_dvd_MSG22="DVDསྒྲ་འཇུག་ལ་རྒྱབ་སྐྱོར་བྱེད།"
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="གདམ་ག་ཞིག་འདེམས།"
+dvd_clonar_MSG2="--- སྔོན་ལྟའི་པར་རིས་དང་མཉམ་པའི་དཀར་ཆག་འདྲ་བཤུས། ---"
+dvd_clonar_MSG3=གཞི་གྲངས་DVDའདྲ་བཤུས་བྱེད་པ།
+dvd_clonar_MSG4="མཁྲེགས་སྡེར་སྟེང་སྔོན་གྱི་DVDཔར་རིས་གསར་བཟོ།"
+dvd_clonar_MSG5="--- གནམ་གྲུའི་སྟེང་གི་འོད་སྡེར་འདྲ་བཤུས། ---"
+dvd_clonar_MSG6="འཕུར་སྐྱོད་བྱེད་སྐབས་གྲངས་ཐོའི་DVDའདྲ་བཤུས།"
+dvd_clonar_MSG7="འཕུར་སྐབས་གྲངས་ཐོའི་DVDའདྲ་བཤུས་བྱེད་པ།"
+dvd_clonar_MSG8="འཕུར་ལྡིང་འདྲ་བཤུས་གདམ་ག་ལ་འོད་ཀྱི་ཆ་ཤས་གཉིས་དགོས།"
+dvd_clonar_MSG9="ཁྱེད་ཀྱི་གློག་ཀླད་ཐོག་སྒྲིག་འཇུག་བྱས་ཡོད། གཞི་གྲངས་དེ་ཐོ་འགོད་བྱེད་སྐབས་ཡིན།"
+dvd_clonar_MSG10="གལ་ཏེ་ཁྱེད་ཀྱི་གློག་ཀླད་ལ་དེ་ཁོ་ན་ཡོད་ན། འབྱུང་ཁུངས་སྡེར་མ་ནས་ཐད་ཀར་ཀློག"
+dvd_clonar_MSG11="ཁྱེད་ཀྱིས་གནམ་གྲུའི་སྟེང་དུ་འདྲ་བཤུས་བེད་སྤྱོད་གཏོང་མི་ཐུབ།"
+dvd_clonar_MSG0="སྔོན་གྱི་རེའུ་མིག་དཀར་ཆག"།
+dvd_clonar_MSG12="DVDགཞི་གྲངས་འདྲ་བཤུས།"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD སྒྲ་ཕབ།"
+menugrabar_DVD_MSG2="------------------ ཌི་ཝི་ཌི་ - གཞི་གྲངས། -------------------"
+menugrabar_DVD_MSG3="རིབ་གཞི་གྲངས་ཌི་ཝི་ཌི།"
+menugrabar_DVD_MSG4="གྲངས་ཐོའི་DVDགསར་པ་ཞིག་བརྐོས།"
+menugrabar_DVD_MSG5="DVD ནང་ .iso ཡང་ན་ .ext2 བརྙན་པར་སྲུབ།"
+menugrabar_DVD_MSG6="DVD+RW/DVD-RW རྩ་སྒྲིག།"
+menugrabar_DVD_MSG7="སྒུལ་ཆས་ནང་ཌིསིཀ་ཆ་འཕྲིན་སྟོན།"
+menugrabar_DVD_MSG0="དཀར་ཆག་སྔོན་མ།"
+menugrabar_DVD_MSGPRINCIPAL="གདམ་ག་ཞིག་ཡིག་དཔར་རྐྱབས།"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="iso-9660 པར་རིས་དེ་DVD ནང་བསྲེག"
+menugrabar_DVD_libburnia_MSG2="སྲ་སྡེར་ནས་DVDནང་གཞི་གྲངས་བརྐོས།"
+menugrabar_DVD_libburnia_MSG3="DVD རྩ་སྒྲིག།"
+menugrabar_DVD_libburnia_MSG4="DVD-RW རིམ་སྒྲིག་འཕར་ཚད་ལ་རྩ་སྒྲིག་བྱེད།"
+menugrabar_DVD_libburnia_MSG5="DVD-RW ཚད་བཀག་ཅན་གྱི་ཚབ་བྲིས་ལ་རྩ་སྒྲིག་བྱེད།"
+menugrabar_DVD_libburnia_MSG6="སྒུལ་ཆས་ཆ་འཕྲིན་སྟོན།"
+menugrabar_DVD_libburnia_MSG8="མ་ལག་ནང་སྒྲིག་འཇུག་བྱས་པའི་སྒུལ་ཆས་ཐོ་འགོད།"
+menugrabar_DVD_libburnia_MSG0="ཕྱིར་ཐོན།"
+menugrabar_DVD_libburnia_MSG7="གདམ་ག་ཞིག་ནང་འཇུག་བྱ།"
+

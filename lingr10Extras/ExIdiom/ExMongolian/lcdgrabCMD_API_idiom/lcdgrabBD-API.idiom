@@ -1,0 +1,46 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongolian/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Mongol para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 ЗУРГИЙГ BLU-RAY ДЭЭР ЗӨВ БИЧСЭН"
+grabar_ISO_BD_MSG2="BLU-RAY DISK ДЭЭР ЗУРГИЙГ БИЧГЭХ ҮЕД АЛДАА"
+grabar_ISO_BD_MSG3="ISO-9660 ЗУРАГ ДАХЬ BD"
+grabar_ISO_BD_MSG4="Шатаах ISO-9660 зургийн замыг зааж өгнө үү:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1=".iso дүрс үүсгэх файлууд болон лавлахууд"
+bd_datos_MSG2="DB LABEL"
+bd_datos_MSG3="Ирээдүйн BD-ийн нэрийг оруулна уу:"
+bd_datos_MSG4="Файлын менежерийг ажиллуулж байна:"
+bd_datos_MSG5=" ЗУРАГ ҮҮСГЭХ ..."
+bd_datos_MSG6="ажиллаж байна"
+bd_datos_MSG7="ISO-9660 ЗУРГИЙГ ҮСЭВ"
+bd_datos_MSG8="		БИЧЛЭГИЙН BD"
+bd_datos_MSG13="ЗУРАГ УСТГАХ..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Дискний төлөвөөс хамааран шаардлагатай форматлах эсвэл устгах үйлдлийг хийнэ"
+borrar_BDRE_lb_MSG2="BD-RE АМЖИЛТТАЙ УСТГАВ!!"
+borrar_BDRE_lb_MSG3="BD-RE г УСТГАХ ҮЕД АЛДАА"

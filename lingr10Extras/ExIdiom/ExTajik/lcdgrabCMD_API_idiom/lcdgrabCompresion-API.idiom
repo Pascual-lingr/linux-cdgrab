@@ -1,0 +1,54 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Tayiko para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Роҳи файл ё директорияро ворид кунед:"
+empaquetar_MSG2="------- Имконот -------"
+empaquetar_MSG3="Файли .tar.gz тавлид кунед"
+empaquetar_MSG4="Эҷоди файли .tar.bz2"
+empaquetar_MSG5="Имкониятро ворид кунед: "
+empaquetar_MSG6="Иҷрокунанда"
+empaquetar_MSG7="Варианти нодуруст"
+
+# desempaquetar
+
+desempaquetar_MSG1="Роҳи файлро ворид кунед:"
+desempaquetar_MSG2="ЯГОН ДЕКОПРЕССОР БАРОИ НАЁФТ"
+desempaquetar_MSG3="Ё"
+desempaquetar_MSG4="МАВҷуд НЕСТ"
+desempaquetar_MSG5="Иҷрокунанда"
+desempaquetar_MSG6="кушодашуда"
+desempaquetar_MSG7="Хато дар кӯшиши кушодан"
+
+# comprime
+
+comprime_MSG1="ФИШОР КАРДАНИ ТАСВОР"
+comprime_MSG2="Бо bzip2 фишурда кунед"
+comprime_MSG3="Бо gzip фишурда кунед"
+comprime_MSG4="Бо xz пахш кунед"
+comprime_MSG5="Менюи қаблӣ"
+comprime_MSG6="Иҷрокунанда"
+comprime_MSG7="Фикшкунии файли тасвир ба анҷом расид"
+comprime_MSG8="Хатои фишурдасозии бо"
+comprime_MSG9="Компрессори беэътибор"
+
+# descomprime
+
+descomprime_MSG1="Роҳи файлро нависед:"
+descomprime_MSG2="--------------------"
+descomprime_MSG3="ЯГОН ДЕКОПРЕССОР БАРОИ НАЁФТ"
+descomprime_MSG4="Ё"
+descomprime_MSG5="МАВҷуд НЕСТ"
+descomprime_MSG6="Иҷрокунанда"
+descomprime_MSG7="фишурнашуда"
+descomprime_MSG8="Хатои кӯшиши кушодани фишурда"
+

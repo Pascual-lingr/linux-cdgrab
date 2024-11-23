@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKazakh/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Kazajo para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="ҚАЗІР ЖҮЙЕГЕ ОРНАТЫЛҒАН ҚҰРЫЛҒЫЛАР"
+montar_dispositivos_MSG1B="ҚҰРЫЛҒЫЛАРДЫ ЖИНАУ/БӨЛШЕКТЕУ"
+montar_dispositivos_MSG2="LINUX-CDGRAB OPTIONS"
+montar_dispositivos_MSG3="Дискіні CD/DVD/BD оқу құрылғысынан шығару"
+montar_dispositivos_MSG4="Дискіні CD/DVD/BD жазу құрылғысынан шығару"
+montar_dispositivos_MSG5="CD-ROM/DVD-ROM/BD-ROM оқу құралын орнату"
+montar_dispositivos_MSG6="CD-ROM/DVD-ROM/BD-ROM ажырату"
+montar_dispositivos_MSG7="Құрылғыны қолмен орнату немесе бөлшектеу"
+montar_dispositivos_MSG0="Алдыңғы мәзір"
+montar_dispositivos_MSG8="CD/DVD/BD орнатылған"
+montar_dispositivos_MSG9="ЖАЛҒАСТЫРУ ҮШІН ЕНГІЗУ ТҮЙМЕСІН БАСЫҢЫЗ..."
+montar_dispositivos_MSG10="CD/DVD/BD қосулы орнату қатесі"
+montar_dispositivos_MSG11="CD/DVD/BD ажыратылды"
+montar_dispositivos_MSG12="CD/DVD/BD ажырату қатесі"
+montar_dispositivos_MSG13="Орнату/ажырату үшін құрылғыны теріңіз:"
+montar_dispositivos_MSG14="Орнату нүктесін енгізіңіз:"
+montar_dispositivos_MSG15="блоктау құрылғысына сәйкес келмейді"
+montar_dispositivos_MSG16="Орнату нүктесі табылмады"
+montar_dispositivos_MSG17="Әдепкі бекіту нүктесі"
+montar_dispositivos_MSG18="Опцияны таңдау:"
+montar_dispositivos_MSG19="Орнату"
+montar_dispositivos_MSG20="жылы"
+montar_dispositivos_MSG21="Ажырату"
+montar_dispositivos_MSG22="-ның"
+montar_dispositivos_MSG23="қондырылған:"
+montar_dispositivos_MSG24="ОРНАТУ КЕЗІНДЕГІ ҚАТЕ"
+montar_dispositivos_MSG25="жылы"
+montar_dispositivos_MSG26="шығарылған"
+montar_dispositivos_MSG27="ШЫҒАРУ КЕЗІНДЕГІ ҚАТЕ"
+montar_dispositivos_MSG28="-ның"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Орнату командасының шығысы"
+Montar_Imagenes_MSG1B="СУРЕТ ФАЙЛДАРЫН ЖИНАУ/БӨЛШЕКТЕУ"
+Montar_Imagenes_MSG2="Опцияны таңдау"
+Montar_Imagenes_MSG3="CD/DVD/BD кескінін орнату"
+Montar_Imagenes_MSG4="CD/DVD/BD кескінін ажырату"
+Montar_Imagenes_MSG5="Алдыңғы мәзір"
+

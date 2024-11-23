@@ -1,0 +1,281 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Estonio para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux-cdgrab konfiguratsioon"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Kui sa ei tea, milline IDE kanal kuulub" 
+ayuda_IDE_MSG2="teie salvesti saab teada, kui vajutate tähte t."
+ayuda_IDE_MSG3="IDE kanali näide võib olla 0,0,0 või 0,1,0"
+ayuda_IDE_MSG4="Saad määrata ka vastava seadme"
+ayuda_IDE_MSG5="oma salvestisse. Kui te ei tea, milline see on, vajutage d,"
+ayuda_IDE_MSG6="/etc/fstab failis registreeritud seadmete vaatamiseks"
+ayuda_IDE_MSG7="Seadmete näide võib olla /dev/hdd, /dev/hde jne."
+ayuda_IDE_MSG8="Soovi korral saate loetleda ka kõik sisalduvad seadmed"
+ayuda_IDE_MSG9="/dev kataloogis, vajutades tähte l."
+ayuda_IDE_MSG10="Peate määrama IDE kanali või salvestusseadme"
+ayuda_IDE_MSG11="aga mitte mõlemat."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab on teie süsteemist desinstallitud"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Salvestuskiirus"
+imprimir_variables_MSG2="IDE/SCSI kanal või salvestusseade"
+imprimir_variables_MSG3="CD-ROM, DVD-ROM või BD-ROM lugeja"
+imprimir_variables_MSG4="ATAPI seade"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Salvestuskiirus"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI kanal või salvestusseade"
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM või BD-ROM lugeja"
+imprimir_lcdgrabcfg_MSG4="ATAPI seade"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Installitud"
+chequeo_de_aplicaciones_MSG2="POLE PAIGALDATUD"
+chequeo_de_aplicaciones_MSG3="Install"
+chequeo_de_aplicaciones_MSG4="TÄHTIS:"
+chequeo_de_aplicaciones_MSG5="Vajalike tööriistade installimine Linux-cdgrab töötab täielikult"
+chequeo_de_aplicaciones_MSG6="Kõik programmid, mida Linux-cdgrab vajab, on teie süsteemi installitud"
+chequeo_de_aplicaciones_MSG4B="MÄRKUS:"
+chequeo_de_aplicaciones_MSG5B="Leiti puuduvad tööriistad"
+chequeo_de_aplicaciones_MSG6B="Süsteemi installitud tööriistad"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 on vaikimisi sellele muutujale määratud"
+msgdefCANALATAPI_MSG2="Konfiguratsioonifail kirjutatakse CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Linux-cdgrabi poolt automaatselt genereeritud konfiguratsioonifail."
+nuevo_lcdgrabcfg_MSG5="cdrecord'i ei leitud süsteemist"
+nuevo_lcdgrabcfg_MSG6="Installi pakett cdrtools."
+nuevo_lcdgrabcfg_MSG7="Saad jätkata seadistamist väärtuste määramisega"
+nuevo_lcdgrabcfg_MSG8="salvestis, kui tead neid varem."
+nuevo_lcdgrabcfg_MSG9="Käsku cdrecord kasutatakse CD, DVD ja BD plaatide salvestamisel"
+nuevo_lcdgrabcfg_MSG10="Need valikud ei tööta enne, kui nimetatud pakett on installitud."
+nuevo_lcdgrabcfg_MSG11="Käesolev draivi skannimise tööriist ei tööta samuti"
+nuevo_lcdgrabcfg_MSG12="selles seadistusviisardis."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab tuleb konfigureerida järgmise nelja sammuga"
+nuevo_lcdgrabcfg_MSG14="Esimene samm."
+nuevo_lcdgrabcfg_MSG15="Salvestuskiirus"
+nuevo_lcdgrabcfg_MSG16="Ainult üks number 2,4,8,16,32... jne"
+nuevo_lcdgrabcfg_MSG17="Teine samm."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI kanal või salvestusseade:"
+nuevo_lcdgrabcfg_MSG19="A -> abi"
+nuevo_lcdgrabcfg_MSG20="Skannimine..."
+nuevo_lcdgrabcfg_MSG21="IDE/SCSI pordi skannimisel tekkis viga"
+nuevo_lcdgrabcfg_MSG22="Cd-kirjet ei leitud"
+nuevo_lcdgrabcfg_MSG23="Kolmas samm."
+nuevo_lcdgrabcfg_MSG24="CD-ROM, DVD-ROM või BD-ROM seade"
+nuevo_lcdgrabcfg_MSG25="L -> Saadaolevate seadmete loend"
+nuevo_lcdgrabcfg_MSG26="Skannimine..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI port skannitud"
+nuevo_lcdgrabcfg_MSG28="Seade, mida cdrecord kasutab dev=ATAPI kaudu mitme seansi salvestustel"
+nuevo_lcdgrabcfg_MSG30="Seadmel on nomenklatuur nagu 0,0,0 või 1,0,0 jne"
+nuevo_lcdgrabcfg_MSG31="Määrake seade, mis helistab cdrecordile mitmesessioonilistel CD del: "
+nuevo_lcdgrabcfg_MSG32="Seadistus pole CANALATAPI jaoks õige"
+nuevo_lcdgrabcfg_MSG33="IDE/SCSI pordi skannimisel tekkis viga"
+nuevo_lcdgrabcfg_MSG34="Cd-kirjet ei leitud"
+nuevo_lcdgrabcfg_MSG36="Linux-cdgrabi poolt automaatselt genereeritud konfiguratsioonifail."
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB SEADISTUS LÕPPENUD"
+
+# colores
+
+colores_MSG1="Värvide loendit ei leitud"
+colores_MSG2="Vaikevärvide laadimine"
+colores_MSG3="Valige LINUX-CDGRAB liidese jaoks uus värviskeem"
+colores_MSG4="MUST FONT"
+colores_MSG5="STANDARDNE ERE FONT"
+colores_MSG6="MUSTA TAUSTVÄRV"
+colores_MSG7="PUNANE FONT"
+colores_MSG8="HELEKUST MUST FONT"
+colores_MSG9="PUNANE TAUSTVÄRV"
+colores_MSG10="FONT ROHELINE"
+colores_MSG11="HELKPUNANE PURSKASKAEV"
+colores_MSG12="ROHELINE TAUSTVÄRV"
+colores_MSG13="KOLLANE FONT"
+colores_MSG14="ERGROHELINE FONT"
+colores_MSG15="ORANZ TAUSTVÄRV"
+colores_MSG16="SININE FONT"
+colores_MSG17="HELEKOLANE FONT"
+colores_MSG18="SININE TAUSTVÄRV"
+colores_MSG19="MAGENTA FONT"
+colores_MSG20="ERESININE FONT"
+colores_MSG21="MAGENTA TAUSTVÄRV"
+colores_MSG22="CYAN SOURCE"
+colores_MSG23="BRIGHT MAGENTA FONT"
+colores_MSG24="SÜAAN TAUSTVÄRV"
+colores_MSG25="HALL FONT"
+colores_MSG26="SÜAAN TAUSTVÄRV"
+colores_MSG27="HELGE SÜANNE FONT"
+colores_MSG28="HALL TAUSTVÄRV"
+colores_MSG29="VAIKEALLIKAS"
+colores_MSG30="HELKVALGE FONT"
+colores_MSG31="VAKEEDE TAUSTVÄRV"
+colores_MSG32="Fonti värvinumber: "
+colores_MSG33="Tausta värvi number: "
+colores_MSG34="Hoiatusteadete värvinumber: "
+colores_MSG35="Siltide sõnumite värvinumber: "
+colores_MSG36="Värvinumber edukalt lõpetatud protsesside jaoks"
+colores_MSG37="Veaga lõpetatud protsesside värvinumber: "
+colores_MSG38="Uus skeem LINUX-CDGRAB jaoks"
+colores_MSG39="ÜLDINE FONDI VÄRV"
+colores_MSG40="SILTID"
+colores_MSG41="MÄRKUSED"
+colores_MSG42="EDU"
+colores_MSG43="VIGA"
+colores_MSG44="TAUSTAVÄRV"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="SAADAVAL VÄRVIDE LOETELU:"
+cambiar_esquema_de_color_MSG2="#####VÄRVISKEEMID#######"
+cambiar_esquema_de_color_MSG3="------------------------"
+cambiar_esquema_de_color_MSG4="Värvimenüü"
+cambiar_esquema_de_color_MSG5="Ebaõnnestunud"
+cambiar_esquema_de_color_MSG6="Sildid"
+cambiar_esquema_de_color_MSG6b="Märkused"
+cambiar_esquema_de_color_MSG7="Värvimenüü OK Veahoiatuste sildid"
+cambiar_esquema_de_color_MSG8="Sisestage uue värvi number:"
+cambiar_esquema_de_color_MSG9="KEHTNE VALIK"
+cambiar_esquema_de_color_MSG10="VAIKEVÄRVIDE SEADISTAMINE."
+cambiar_esquema_de_color_MSG11="  TAUST = SININE_TAUST"
+cambiar_esquema_de_color_MSG12="  FONT = EREVALGE"
+cambiar_esquema_de_color_MSG13="  HOIATUSED = EREKOLLANE"
+cambiar_esquema_de_color_MSG14="  VEAD = ERE PUNANE"
+cambiar_esquema_de_color_MSG15="  VEAD = ERE PUNANE"
+cambiar_esquema_de_color_MSG16="  HITS = EREROHELINE"
+cambiar_esquema_de_color_MSG17="  SILTID = ere tsüaan"
+
+# cambia_lector
+
+cambia_lector_MSG1="OPTILISTE ÜKSUSTE KESKKONNASEADED"
+cambia_lector_MSG2="Praegune seade, mis on seotud CD-ROM i, DVD-ROM i või BD-ROM iga"
+cambia_lector_MSG3="Praegune seade, mis on seotud CD/DVD/BD kirjutajaga"
+cambia_lector_MSG4="Praegune seade, mis on seotud parameetriga dev=ATAPI"
+cambia_lector_MSG5="(cdrecordi mitme seansi tugi)"
+cambia_lector_MSG6="Vali seade, milles muudatust teha."
+cambia_lector_MSG7="Sisesta valik:"
+cambia_lector_MSG8="Sisesta uue seadme nimi"
+cambia_lector_MSG9="ei vasta blokeerimisseadmele"
+cambia_lector_MSG10="Seade"
+cambia_lector_MSG11="vaikimisi määratud"
+cambia_lector_MSG12="Uus seade on:"
+cambia_lector_MSG13="Kõik cdrecordi versioonid ei aktsepteeri blokeerimisseadet salvestusparameetrina"
+cambia_lector_MSG14="Sisesta uue ATAPI seadme nimi"
+cambia_lector_MSG15="Seadistus pole CANALATAPI jaoks õige"
+cambia_lector_MSG16="0,0,0 on vaikimisi sellele muutujale määratud"
+cambia_lector_MSG17="Konfiguratsioonifail kirjutatakse CANALATAPI = 0,0,0"
+cambia_lector_MSG18="Uus seade on:"
+cambia_lector_MSG19="SEADMETES EI TEHA MUUDATUST"
+cambia_lector_MSG4B="Ekspordi väärtused konfiguratsioonifailist"
+cambia_lector_MSG4C="NEED VÄÄRTUSED TEATATI KESKKONNALE:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Sellest menüüst saate valida millise utiliidi"
+cambia_generador_isocd_MSG2="kasutatakse ISO-9660 kujutiste genereerimiseks"
+cambia_generator_isocd_MSG3="lugemisüksuse olemasolevast CDS ist."
+cambia_generador_isocd_MSG4="Praegune konfiguratsioon:"
+cambia_generador_isocd_MSG5="Kasuta dd d (GNU coreutils komponent)"
+cambia_generador_isocd_MSG6="Kasuta readcd d (cdrtools komponenti)"
+cambia_generador_isocd_MSG7="Eelmine menüü."
+cambia_generador_isocd_MSG8="Valige valik:"
+cambia_generador_isocd_MSG9="dd kasutamine iso generaatorina."
+cambia_generador_isocd_MSG10="readcd kasutamine iso generaatorina."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Määra HFS i metaandmed koos Rock Ridge'i ja Jolietiga"
+establecer_hfs_iso_MSG2="Kasuta ainult Rock Ridge'i ja Joliet metaandmeid"
+establecer_hfs_iso_MSG3="Eelmine menüü."
+establecer_hfs_iso_MSG4="Valige valik:"
+establecer_hfs_iso_MSG5="HFS i, Rock Ridge'i ja Joliet metaandmete kasutamine"
+establecer_hfs_iso_MSG6="Rock Ridge'i ja Joliet metaandmete kasutamine"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Praegune teavitussüsteem"
+cambia_notificaciones_MSG2A="GNOME graafiline liides"
+cambia_notificaciones_MSG2B="KDE graafiline liides"
+cambia_notificaciones_MSG2="Liides ncursidega"
+cambia_notificaciones_MSG3="Teksti liides"
+cambia_notificaciones_MSG4="Välju"
+cambia_notificaciones_MSG5="Valige valik:"
+cambia_notificaciones_MSG6="Liidese kasutamine dialoogiga"
+cambia_notidicaciones_MSG6B="Liidese kasutamine zenityga"
+cambia_notidicaciones_MSG6C="Liidese kasutamine kdialogiga"
+cambia_notificaciones_MSG7="Dialoogikäsku ei leitud"
+cambia_notificaciones_MSG8="Tekstiliidese kasutamine"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Kasutusel olev keel:"
+cambiar_idioma_UI_MSG1="Praegu saadaolevad keeled:"
+cambiar_idioma_UI_MSG2="Sisesta kasutatava keele nimi"
+cambiar_idioma_UI_MSG3="rakenduse liideses:"
+cambiar_idioma_UI_MSG4="Uus kasutatav keel on:"
+cambiar_idioma_UI_MSG5="Taaskäivitage LINUX-CDGRAB"
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Praegune konfiguratsioon"
+seleccion_gestor_archivos_MSG2="Kasuta mc d"
+seleccion_gestor_archivos_MSG3="Kasuta integreeritud tekstihaldurit"
+seleccion_gestor_archivos_MSG4="mc d ei leitud süsteemi installitud"
+seleccion_gestor_archivos_MSG5="Vaikimisi kasutatakse integreeritud tekstihaldurit"
+seleccion_gestor_archivos_MSG6="mc utiliit"
+seleccion_gestor_archivos_MSG7="Integreeritud tekst"
+
+# centro_de_control
+
+centro_de_control_MSG1="JUHTKESKUS"
+centro_de_control_MSG2="Uus konfiguratsioon"
+centro_de_control_MSG3="Kustuta konfiguratsioonifail"
+centro_de_control_MSG4="Näita praegust konfiguratsioonifaili ja väärtusi"
+centro_de_control_MSG5="KONFIGURATSIOONIFAILI VÄÄRTUSED:"
+centro_de_control_MSG5B="PRAEGU KESKKONNAS KASUTATUD SEADISTUS:"
+centro_de_control_MSG6="Muuda optilist andmekandjat"
+centro_de_control_MSG7="Kontrollige installitud programme"
+centro_de_control_MSG8="Skaneerige IDE/SCSI porti cdrecord"
+centro_de_control_MSG8C="Skaneeri IDE/SCSI porti cdrskin"
+centro_de_control_MSG8B="Loetle süsteemi installitud ühikud koos cdrskin"
+centro_de_control_MSG9="Muuda CD lt iso genereerimise utiliiti"
+centro_de_control_MSG9B="Määra HFS metaandmed iso-9660 jaoks"
+centro_de_control_MSG10="Muuda kasutajaliidest"
+centro_de_control_MSG10b="Muuda värvi"
+centro_de_control_MSG10c="Liidese keele muutmine"
+centro_de_control_MSG11="Muuda failihaldurit"
+centro_de_control_MSG11B="Desinstalli programm"
+centro_de_control_MSG12="Sisestage valik: "
+centro_de_control_MSG13="CONFIGURATION FAIL EI OLEMAS"
+centro_de_control_MSG14="KONFIGURATSIOONIFAILI EI LEITUD"
+centro_de_control_MSG15="Skannimine"
+centro_de_control_MSG16="IDE/SCSI port skannitud"
+centro_de_control_MSG17="IDE/SCSI pordi skannimisel tekkis viga"
+centro_de_control_MSG18="Vali värviskeem"
+centro_de_control_MSG19="Valige suvaliselt värvid"
+centro_de_control_MSG20="Eelmine menüü"
+centro_de_control_MSG21="Sisestage valik: "
+centro_de_control_MSG22="CONFIGURATION FAIL EI OLEMAS"
+centro_de_control_MSG23="KONFIGURATSIOONIFAILI EI LEITUD"
+centro_de_control_MSG24="Vali värviskeem"
+centro_de_control_MSG25="Vali värvid suvaliselt"
+centro_de_control_MSG26="Vigane valik"
+

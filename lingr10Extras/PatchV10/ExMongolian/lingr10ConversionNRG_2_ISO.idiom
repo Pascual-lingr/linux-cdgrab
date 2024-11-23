@@ -1,0 +1,37 @@
+# Idioma Mongol para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Үргэлжлүүлэхийн тулд ENTER дарна уу..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="================================================="
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 ийг .NRG г .ISO болгон хөрвүүлэх"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="Хөрвүүлэхийг хүсэж буй .nrg зургийнхаа замыг оруулна уу:"
+convertir_imagen_nrg_MSG1B="Үйлдвэрлэхийг хүсэж буй .iso зургийнхаа замыг оруулна уу:"
+convertir_imagen_nrg_MSG2="ажиллаж байна"
+convertir_imagen_nrg_MSG3=".nrg зургийг .iso руу хөрвүүлэх ажиллагаа амжилттай дууссан"
+convertir_imagen_nrg_MSG4="Зургийг .nrg хөрвүүлэх алдаа"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Linux-cdgrab дээр зураг хөрвүүлэх дэмжлэг"
+creditospatchnrgaiso_MSG2="nrg2iso ашиглан .nrg зургийг .iso болгон хөрвүүлэх"
+creditospatchnrgaiso_MSG3="GPL v2 лицензийн дагуу түгээх"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="Тушаалын хувилбар:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1=".nrg зургийг .iso болгон хөрвүүлэх"
+lingr10ConversionNRG_2_ISO_MSG2="Тухай"
+lingr10ConversionNRG_2_ISO_MSG3="Өмнөх цэс"
+lingr10ConversionNRG_2_ISO_MSG4="Буруу сонголт"
+

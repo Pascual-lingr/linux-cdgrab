@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en Tibetano para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="བརྙན་རིས་བརྗེ་སྒྱུར་ BLU-RAY འོད་སྡེར་མཐུན་སྒྲིལ།"
+conv_video_BDVideo_MSG2="བརྗེ་སྒྱུར་བྱ་རྒྱུའི་བརྙན་རིས་ཡིག་ཆའི་འགྲོ་ལམ་གཏན་འཁེལ་བྱོས།"
+conv_video_BDVideo_MSG3="བརྙན་རིས་གསར་པ་གསར་འཛུགས་བྱ་རྒྱུའི་ཡིག་ཆའི་མིང་གཏན་འཁེལ་བྱོས།"
+conv_video_BDVideo_MSG4="བརྙན་ཕབ་ཀྱི་ཡིག་ཆ་ལེགས་འགྲུབ་བྱུང་ནས་བསྒྱུར་ཐུབ་སོང་།!"
+conv_video_BDVideo_MSG5="བརྙན་རིས་ཡིག་ཚགས་བསྒྱུར་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="བརྗེ་སྒྱུར་བརྙན་ཡིག་ཡིག་ཆ།"
+conv_VideoFich_MSG2="བརྗེ་སྒྱུར་བྱ་རྒྱུའི་བརྙན་རིས་ཡིག་ཆ་གཏན་འཁེལ་བྱོས།"
+conv_VideoFich_MSG3="བརྙན་རིས་ཀྱི་ཡིག་ཆ་གཏན་འཁེལ་བྱས་ནས་བཟོ་བསྐྲུན་བྱེད་དགོས:"
+conv_VideoFich_MSG4="བརྙན་རིས་ཡིག་ཚགས་བརྗེ་སྒྱུར་མཇུག་སྒྲིལ་ཟིན།"
+conv_VideoFich_MSG5="བརྙན་རིས་ཡིག་ཚགས་བསྒྱུར་སྐབས་ནོར་འཁྲུལ།"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="བརྙན་རིས་ཡིག་ཆ་གཏན་འཁེལ་བྱོས།"
+extrae_Audio_de_Video_MSG2="སྒྲ་གདངས་ཀྱི་ཡིག་ཚགས་mp3བཟོ་རྒྱུ་གཏན་འཁེལ་བྱོས།"
+extrae_Audio_de_Video_MSG3="སྒྲ་གདངས་ལེགས་འགྲུབ་བྱུང་བ།"
+extrae_Audio_de_Video_MSG4="སྒྲ་འདོན་སྐབས་ཀྱི་ནོར་འཁྲུལ།"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="བརྙན་རིས་ཡིག་ཆ་གཏན་འཁེལ་བྱོས།"
+extrae_Fragmento_Video_MSG2="བརྙན་རིས་ཡིག་ཚགས་བཟོ་འདོན་བྱ་རྒྱུ་གཏན་འཁེལ་བྱོས།"
+extrae_Fragmento_Video_MSG3="ཐོག་མའི་དུས་ཚོད་གཏན་འཁེལ་བྱེད་(HH:MM:SS ལྟར་གཏན་འཁེལ་བྱོས།) :"
+extrae_Fragmento_Video_MSG4="མཐའ་མའི་དུས་ཚོད་གཏན་འཁེལ་བྱེད་(HH:MM:SS ལྟར་གཏན་འཁེལ་བྱོས།) :"
+extrae_Fragmento_Video_MSG5="བརྙན་ཐུང་བདེ་བླག་ངང་བཅད་པ་རེད།"
+extrae_Fragmento_Video_MSG6="བརྙན་འཕྲིན་གཅོད་སྐབས་ནོར་འཁྲུལ།"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="སྒྲ་ཡིག་ཡིག་ཚགས་གཏན་འཁེལ་བྱོས།"
+mezcla_Audio_Video_MSG2="བརྙན་རིས་ཡིག་ཆ་གཏན་འཁེལ་བྱོས།"
+mezcla_Audio_Video_MSG3="བརྙན་རིས་ཀྱི་ཡིག་ཆ་གཏན་འཁེལ་བྱས་ནས་བཟོ་བསྐྲུན་བྱེད་དགོས།"
+mezcla_Audio_Video_MSG4="བརྙན་ཐུང་ཡིག་ཆ་གསར་པ་ལེགས་འགྲུབ་བྱུང་བ།"
+mezcla_Audio_Video_MSG5="བརྙན་རིས་ཀྱི་ཡིག་ཆ་གསར་བཟོ་བྱེད་སྐབས་ནོར་འཁྲུལ།"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="གདམ་ག་དེ་མཉེན་ཆས་ཨིན་ཊར་ཕེས་ལ་ཐོབ་མི་ཐུབ།"
+graba_escritorio_MSG2="-- ཌེཀ་སི་ཊོབ་ལས་རིམ་སྒྲ་འཇུག་བྱེད་པ། -- སྒྲ་འཇུག་བྱེད་པ་ཆ་མེད་གཏོང་བ་དང་མཚམས་འཇོག་བྱེད་པར་CTRL + C མནན་དགོས།"
+graba_escritorio_MSG3="བརྙན་ཕབ་ལེགས་འགྲུབ་བྱུང་།"
+

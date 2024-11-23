@@ -1,0 +1,109 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAzerbaijani/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Azerbaiyano para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="Qeydiyyat prosesi yenidən sınanır..."
+m_cdrecord_sin_overburn_MSG2="-overburn seçimi olmadan cdrecord işləyir"
+m_cdrecord_sin_overburn_MSG3="-overburn nə köhnə səsyazma cihazlarında, nə də cdrecord-un köhnə versiyalarında dəstəklənmir."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="YANLIŞ SEÇİM"
+
+# img_error
+
+img_error_D_MSG1="ŞƏKİL YARADAN HƏTƏ"
+
+# CD_error
+
+CD_error_D_MSG1="CD YAZILAN XƏTƏ"
+
+# DVD_error
+
+DVD_error_D_MSG1="DVD YAZILAN XƏTƏ"
+
+# DO_error
+
+DO_error_D_MSG1="OPTİK DİSK YAZILAN XƏTƏ"
+
+# tecla
+
+tecla_D_MSG1="\nDavam etmək üçün ENTER düyməsini basın. . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="DİSKƏ YAZMAK ÜÇÜN DİREKTORLARIN YOLLARI"
+rutas_dir_D_MSG2="Kataloq adını daxil edin (çıxmaq üçün f):"
+rutas_dir_D_MSG3="DIRECTORY"
+rutas_dir_D_MSG4="YƏTİRLİDİR"
+
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="SİSTEMDƏ EYNİ OPTİK BÖLGƏDİR"
+una_sola_grabadora_D_MSG2="OXUMA VƏ SƏZİF BÖLGƏSİ EYNİDİR. SİZİN SİSTEMİNİZDƏ YALNIZ BİR FİZİKİ BÖLGƏDƏN OLDUĞU FÜRZ EDİLİR. MƏNBƏ DİSKİNİ BÖLGƏDƏN ÇIXARIN. YAZILIŞ PROSESİNİ DAVAM ETMƏK ÜÇÜN VİRGIN OPTİK DİSK DAXİL EDİN"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="DİSKİN YAZILIŞI UĞURLU BİTİRİB"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="YANLIŞ SEÇİM"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="DİSKİN YAZILIŞI UĞURLU BİTİRİB"
+
+# text_img_error
+
+text_img_error_MSG1="ŞƏKİL YARADAN HƏTƏ"
+
+# text_CD_error
+
+text_CD_error_MSG1="CD YAZILAN XƏTƏ"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="DVD YAZILAN XƏTƏ"
+
+# text_DO_error
+
+text_DO_error_MSG1="OPTİK DİSK YAZILAN XƏTƏ"
+
+# teclash
+
+teclash_MSG1="Davam etmək üçün ENTER düyməsini basın. . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Kataloq adını daxil edin ( çıxmaq üçün f ):"
+text_rutas_dir_MSG2="RECTORY"
+text_rutas_dir_MSG3="YÜKSÜRDÜR"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="SİSTEMDƏ EYNİ OPTİK BÖLÜM"
+text_una_sola_grabadora_MSG2="OXUMA VƏ YAZILIŞ BÖLGƏSİ EYNİDİR."
+text_una_sola_grabadora_MSG3="SİZİN SİSTEMİNİZDƏ YALNIZ BİR OLDUĞU FÜRZ EDİLİR"
+text_una_sola_grabadora_MSG4="FİZİK BİRLİK."
+text_una_sola_grabadora_MSG5="MƏNBƏ DİSKİNİ BÖLGƏDƏN ÇIXARIN."
+text_una_sola_grabadora_MSG6="VIRGIN OPTİK DİSKİ DAXİL EDİN"
+text_una_sola_grabadora_MSG7="YAZILIŞ PROSESİNƏ DAVAM ETMƏK ÜÇÜN."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="Qaçış"

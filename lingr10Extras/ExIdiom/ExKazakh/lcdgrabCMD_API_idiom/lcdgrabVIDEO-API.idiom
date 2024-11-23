@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKazakh/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en kazajo para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="ВИДЕО КОНВЕРСИЯСЫНЫҢ BLU-RAY ДИСКІМЕН ҮЙлесімділігі"
+conv_video_BDVideo_MSG2="Түрлендіру үшін бейне файлдың жолын көрсетіңіз:"
+conv_video_BDVideo_MSG3="Жасалатын жаңа бейненің файл атауын көрсетіңіз:"
+conv_video_BDVideo_MSG4="Бейне файл сәтті түрлендірілді!!"
+conv_video_BDVideo_MSG5="Бейне файлды түрлендіру қатесі"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="ВИДЕО ФАЙЛДАРЫН ҚҰРЫЛУ"
+conv_VideoFich_MSG2="Түрлендіру үшін бейне файлды көрсетіңіз:"
+conv_VideoFich_MSG3="Жасалатын бейне файлды көрсетіңіз:"
+conv_VideoFich_MSG4="ВИДЕО ФАЙЛЫН ТҮРЛЕРУ АЯҚТАЛДЫ"
+conv_VideoFich_MSG5="ВИДЕО ФАЙЛДЫ ТҮРЛендіру КЕЗІНДЕГІ ҚАТЕ"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Бейне файлды көрсетіңіз:"
+extrae_Audio_de_Video_MSG2="Гнерациялау үшін mp3 дыбыс файлын көрсетіңіз:"
+extrae_Audio_de_Video_MSG3="ДЫБЫСТЫ ШЫҒАРУ СӘТТІ"
+extrae_Audio_de_Video_MSG4="ДЫБЫСТЫ ШЫҒАРУ КЕЗІНДЕГІ ҚАТЕ"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Бейне файлды көрсетіңіз:"
+extrae_Fragmento_Video_MSG2="Жасалатын бейне файлды көрсетіңіз:"
+extrae_Fragmento_Video_MSG3="Бастапқы уақытты көрсетіңіз (СЖ:АА:СС ретінде көрсетіңіз) :"
+extrae_Fragmento_Video_MSG4="Аяқтау уақытын көрсетіңіз (СЖ:АА:СС ретінде көрсетіңіз):"
+extrae_Fragmento_Video_MSG5="ВИДЕО СӘТТІ ҚАСЫЛДЫ"
+extrae_Fragmento_Video_MSG6="ВИДЕОНЫ ҚҰРУ КЕЗІНДЕГІ ҚАТЕ"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Дыбыс файлын көрсетіңіз:"
+mezcla_Audio_Video_MSG2="Бейне файлды көрсетіңіз:"
+mezcla_Audio_Video_MSG3="Жасалатын бейне файлды көрсетіңіз:"
+mezcla_Audio_Video_MSG4="ЖАҢА ВИДЕО ФАЙЛ СӘТТІ ЖАСАЛДЫ"
+mezcla_Audio_Video_MSG5="ВИДЕО ФАЙЛДЫ ЖАСАУ ҚАТЕСІ"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="КОНСОЛ ИНТЕРФЕЙСІ ҮШІН ОПЦИЯ ҚОЛЖЕТІМДІ ЕМЕС"
+graba_escritorio_MSG2="-- ЖҰМЫС ҮСТЕГІ СЕССИЯСЫН ЖАЗУ -- ЖАЗУДЫ БАС ТАРТУ ЖӘНЕ ТОҚТАТУ ҮШІН CTRL + C БАСЫҢЫЗ"
+graba_escritorio_MSG3="ВИДЕО ЖАЗУ АЯҚТАЛДЫ"
+

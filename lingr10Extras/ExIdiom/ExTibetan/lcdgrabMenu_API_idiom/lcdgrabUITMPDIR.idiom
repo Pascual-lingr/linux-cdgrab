@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Tibetano para el menú de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="/tmp ནང་ཡོད་པའི་ཡིག་ཆ།"
+dir_tmp_MSG2="པར་རིས་དང་བསྡུ་སྒྲིག་བྱས་པའི་ཡིག་ཆ་ཚང་མ་སུབ་དགོས།"
+dir_tmp_MSG3="བཀོལ་སྤྱོད་གཞན་དག་གི་ཆེད་དུ་ཡིག་ཚགས་དོ་དམ་འགོ་འཛུགས།"
+dir_tmp_MSG4="གཟུགས་བརྙན་ཞིག་སྒྲིག་འཛུགས་སམ་སྒྲིག་བཤོལ་བྱེད་པ།"
+dir_tmp_MSG5="པར་རིས་གསར་བཟོའི་དཀར་ཆག་སྟོན།"
+dir_tmp_MSG6="པར་རིས་སྒྲ་ཕབ་འདེམས་གཞི་སྟོན།"
+dir_tmp_MSG7="དཀར་ཆག་སྔོན་མ།"
+dir_tmp_MSG8="ནང་ཡོད་ཡིག་ཆའི་ཐོ་གཞུང་།"
+dir_tmp_MSG9="གདམ་ག་ཞིག་འདེམས།"
+dir_tmp_MSG10="བསུབས་ཟིན་པའི་པར་རིས་དང་ཡིག་ཆ།"
+dir_tmp_MSG11="གཟུགས་བརྙན་སྦྱར་བ།"
+dir_tmp_MSG12="གཟུགས་བརྙན་བསྒྲིགས་བཤོལ།"
+dir_tmp_MSG13="པར་རིས་སི་ཌི་ནང་སྲུངས།"
+dir_tmp_MSG14="གཟུགས་བརྙན་དེ་DVDནང་བརྐོས།"
+dir_tmp_MSG14B="གཟུགས་བརྙན་དེ་BDལ་འཚིག་པ།"
+dir_tmp_MSG15="སྒྲ་ཕབ་བརྒྱུད་ལམ་ལ་གཞིགས་ནས་གདམ་ག་འདེམས།"
+dir_tmp_MSG16="ཡིག་ཆ་རྙེད་མི་འདུག རིམ་སྒྲིག་ཡིག་ཆ་"
+dir_tmp_MSG17="སྒྲ་འཇུག་བརྒྱུད་རིམ་མཚམས་འཇོག་བྱེད་བཞིན་པ།"
+dir_tmp_MSG18="མེ་འབར་བའི་.isoཡིག་ཆ་གཏན་འཁེལ་བྱོས།"
+dir_tmp_MSG19="པར་རིས་ཀྱི་འགྲོ་ལམ་ནང་འཇུག་བྱེད་པ།: "

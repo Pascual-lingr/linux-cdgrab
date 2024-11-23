@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Tayiko para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Файлҳо дар /tmp"
+dir_tmp_MSG2="Нест кардани ҳама тасвирҳо ва файлҳои фишурда"
+dir_tmp_MSG3="Оғози мудири файл барои амалҳои дигар"
+dir_tmp_MSG4="Тасвирро насб кардан ё ҷудо кардан"
+dir_tmp_MSG5="Намоиш додани менюи эҷоди тасвир"
+dir_tmp_MSG6="Намоиш додани имконоти сабти тасвир"
+dir_tmp_MSG7="Менюи қаблӣ"
+dir_tmp_MSG8="Рӯйхати ФАЙЛҲОИ ИСТИФОДАҲО ДАР"
+dir_tmp_MSG9="ИНТИХОБ КУНЕД:"
+dir_tmp_MSG10="тасвирҳо ва файлҳои ҳазфшуда"
+dir_tmp_MSG11="Тасвирро насб кунед."
+dir_tmp_MSG12="Тасвирро ҷудо кунед."
+dir_tmp_MSG13="Тасвирро ба CD сабт кунед"
+dir_tmp_MSG14="Тасвирро ба DVD сабт кунед"
+dir_tmp_MSG14B="Тасвирро дар BD сабт кунед"
+dir_tmp_MSG15="Мувофиқи воситаи сабт интихоб интихоб кунед"
+dir_tmp_MSG16="ФАЙЛ ФАЙЛИ КОНФИГУРАЦИЯ НАФОДА НАШУДААСТ"
+dir_tmp_MSG17="Қатъи раванди сабт"
+dir_tmp_MSG18="Муайян кардани файли .iso барои сӯзондан"
+dir_tmp_MSG19="Роҳи тасвирро ворид кунед: "

@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Estonio para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Failid /tmp"
+dir_tmp_MSG2="Kustuta kõik pildid ja tihendatud failid"
+dir_tmp_MSG3="Käivitage failihaldur muude toimingute jaoks"
+dir_tmp_MSG4="Ühenda või eemalda pilt"
+dir_tmp_MSG5="Kuva pildi loomise menüü"
+dir_tmp_MSG6="Kuva pildi salvestamise valikud"
+dir_tmp_MSG7="Eelmine menüü"
+dir_tmp_MSG8="OLEMASOLEVATE FAILIDE LOEND"
+dir_tmp_MSG9="VALI VALIK:"
+dir_tmp_MSG10="KUSTUTATUD PILDID JA FAILID"
+dir_tmp_MSG11="Paigalda pilt."
+dir_tmp_MSG12="Tühista pilt."
+dir_tmp_MSG13="Põleta pilt CD-le"
+dir_tmp_MSG14="Põleta pilt DVD-le"
+dir_tmp_MSG14B="Põleta pilt BD-le"
+dir_tmp_MSG15="Valige valik vastavalt salvestusmeediumile"
+dir_tmp_MSG16="FIILI EI LEIDUD SEADISTUSFAILI"
+dir_tmp_MSG17="Salvestamise katkestamine"
+dir_tmp_MSG18="Määrake .iso fail, mida põletada"
+dir_tmp_MSG19="Sisesta pildi tee: "
+

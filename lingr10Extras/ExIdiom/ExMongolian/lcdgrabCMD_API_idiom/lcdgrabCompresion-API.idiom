@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongolian/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Mongol para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Файл эсвэл директорийн замыг оруулна уу:"
+empaquetar_MSG2="------- Сонголтууд -------"
+empaquetar_MSG3=".tar.gz файл үүсгэх"
+empaquetar_MSG4=".tar.bz2 файл үүсгэх"
+empaquetar_MSG5="Сонголтыг бичнэ үү: "
+empaquetar_MSG6="Ажиллаж байна"
+empaquetar_MSG7="Буруу сонголт"
+
+# desempaquetar
+
+desempaquetar_MSG1="Файлын замыг оруулна уу:"
+desempaquetar_MSG2="Ямар ч DECOMPRESSOR олсонгүй"
+desempaquetar_MSG3="OR"
+desempaquetar_MSG4="Байхгүй"
+desempaquetar_MSG5="Ажиллаж байна"
+desempaquetar_MSG6=" задалсан"
+desempaquetar_MSG7=" задлахад алдаа гарлаа"
+
+# comprime
+
+comprime_MSG1="ЗУРГИЙГ ШАХАХ"
+comprime_MSG2="bzip2 р шахах"
+comprime_MSG3="Gzip ашиглан шахах"
+comprime_MSG4="xz ээр шахах"
+comprime_MSG5="Өмнөх цэс"
+comprime_MSG6="Ажиллаж байна"
+comprime_MSG7="Зургийн файлыг шахаж дууссан"
+comprime_MSG8="Шахалтын алдаа"
+comprime_MSG9="Буруу компрессор"
+
+# descomprime
+
+descomprime_MSG1="Файлын замыг бичнэ үү:"
+descomprime_MSG2="----------------------"
+descomprime_MSG3="Ямар ч DECOMPRESSOR ОЛдсонгүй"
+descomprime_MSG4="OR"
+descomprime_MSG5="Байхгүй"
+descomprime_MSG6="Ажилж байна"
+descomprime_MSG7="шахаагүй"
+descomprime_MSG8="Шахалтыг задлахад алдаа гарлаа"

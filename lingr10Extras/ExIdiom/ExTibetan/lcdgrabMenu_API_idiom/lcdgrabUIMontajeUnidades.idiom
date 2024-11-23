@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Tibetano para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="ད་ལྟ་མ་ལག་ནང་སྒྲིག་སྦྱོར་བྱས་པའི་ཡོ་ཆས།"
+montar_dispositivos_MSG1B="ཡོ་ཆས་ཀྱི་སྒྲིག་སྦྱོར/བཤིག་སྒྲིག"
+montar_dispositivos_MSG2="ལི་ནགསི་སི་ཌི་གྷ་རེབ་གདམ་ཁ།"
+montar_dispositivos_MSG3="སི་ཌི་/ཌི་ཝི་ཌི་/བི་ཌི་ཀློག་ཆས་ནས་ཌིསིཀ་ཕྱིར་འཐེན་བྱེད།"
+montar_dispositivos_MSG4="སི་ཌི་/ཌི་ཝི་ཌི་/བི་ཌི་འཚིག་ཆས་ནས་ཌིསིཀ་ཕྱིར་འཐེན་བྱེད།"
+montar_dispositivos_MSG5="CD-ROM/DVD-ROM/BD-རོམ་ཀློག་ཆས་སྦྱར་བ།"
+montar_dispositivos_MSG6="སི་ཌི་རོམ/ཌི་ཝི་ཌི་རོམ/བི་ཌི་རོམ་བརྩེགས་བཤོལ།"
+montar_dispositivos_MSG7="ཡོ་བྱད་ལག་པས་སྦྱར་བའམ་བཤིག་པ།"
+montar_dispositivos_MSG0="སྔོན་གྱི་རེའུ་མིག་དཀར་ཆག།"
+montar_dispositivos_MSG8="CD/DVD/BD ཐོག་སྒྲིག་སྦྱོར་བྱས་ཡོད།"
+montar_dispositivos_MSG9="ནང་འཇུག་མནན་ནས་མུ་མཐུད་དུ་འགྲོ་དགོས།"
+montar_dispositivos_MSG10="CD/DVD/BD སྟེང་སྒྲིག་སྦྱོར་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་ཡོད།"
+montar_dispositivos_MSG11="CD/DVD/BD སྒྲིག་འཇུག་བཤོལ་ཟིན།"
+montar_dispositivos_MSG12="CD/DVD/BD སྒྲིག་འཇུག་མེད་པར་བཟོ་བའི་ནོར་འཁྲུལ།"
+montar_dispositivos_MSG13="སྒྲིག་ཆས་དེ་སྒྲིག་འཇུག་/སྒྲིག་བཤོལ་བྱ་རྒྱུའི་ཡིག་འཇུག་བྱོས།"
+montar_dispositivos_MSG14="སྦྱར་སའི་ས་ཚིགས་ནང་འཇུག་བྱོས།"
+montar_dispositivos_MSG15="བཀག་སྡོམ་སྒྲིག་ཆས་དང་མི་མཐུན།"
+montar_dispositivos_MSG16="སྦྱར་ས་རྙེད་མ་སོང་།"
+montar_dispositivos_MSG17="སྔོན་སྒྲིག་སྦྱར་ས་ཚིགས།"
+montar_dispositivos_MSG18="གདམ་ཁ་འདེམས།"
+montar_dispositivos_MSG19="བརྩེགས་བརྩེགས།"
+montar_dispositivos_MSG20="ནང་"
+montar_dispositivos_MSG21="བརྩེགས་བཤོལ།"
+montar_dispositivos_MSG22="འབྲེལ་སྒྲའི་དོན་ལ་འཇུག"
+montar_dispositivos_MSG23="སྟེང་དུ་སྒྲིག་འཇུག་བྱས།"
+montar_dispositivos_MSG24="སྒྲིག་སྦྱོར་བྱེད་སྐབས་ནོར་འཁྲུལ།"
+montar_dispositivos_MSG25="ནང་"
+montar_dispositivos_MSG26="ནང་ནས་བཤུས་ཡོད།"
+montar_dispositivos_MSG27="བསྒྲིགས་བཤོལ་བྱེད་སྐབས་ནོར་འཁྲུལ།"
+montar_dispositivos_MSG28="ཌེ།"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="སྒྲིག་བཀོད་བཀའ་ཚིག་གི་ཐོན་འབྲས།"
+Montar_Imagenes_MSG1B="པར་རིས་ཡིག་ཆ་བསྡུ་སྒྲིག/བཤུབ་གཏོང་བ།"
+Montar_Imagenes_MSG2="གདམ་ག་ཞིག་འདེམས།"
+Montar_Imagenes_MSG3="སི་ཌི་/ཌི་ཝི་ཌི་/བི་ཌི་པར་རིས་སྒྲིག་སྦྱོར།"
+Montar_Imagenes_MSG4="CD/DVD/BD པར་རིས་སྒྲིག་བཤོལ་བཤོལ་བ།"
+Montar_Imagenes_MSG5="དཀར་ཆག་སྔོན་མ།"
+

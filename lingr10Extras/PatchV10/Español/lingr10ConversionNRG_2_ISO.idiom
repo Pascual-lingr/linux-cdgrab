@@ -1,0 +1,35 @@
+# Idioma Español para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Pulse INTRO para continuar..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="========================================"
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 CONVERSIÓN .NRG EN .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="Escriba la ruta de la imagen .nrg que quiere convertir"
+convertir_imagen_nrg_MSG1B="Escriba la ruta de la imagen .iso que quiere generar"
+convertir_imagen_nrg_MSG2="ejecutando"
+convertir_imagen_nrg_MSG3="Conversión de imagen .nrg a .iso realizada con éxito"
+convertir_imagen_nrg_MSG4="Error convertir imagen .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Soporte para la conversión de imágenes en linux-cdgrab"
+creditospatchnrgaiso_MSG2="Conversión de imágenes .nrg a .iso utilizando nrg2iso"
+creditospatchnrgaiso_MSG3="Distribuir bajo licencia GPL v2"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="Versión del comando:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="Convertir imagen .nrg en .iso"
+lingr10ConversionNRG_2_ISO_MSG2="Acerca"
+lingr10ConversionNRG_2_ISO_MSG3="Menú anterior"
+lingr10ConversionNRG_2_ISO_MSG4="Opción Inválida"

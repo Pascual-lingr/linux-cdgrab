@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExAzerbaijani/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Azerbaiyano para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="DİSK SÜRÜCÜ ƏMƏLİYYATLARI"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="--------------------- ƏHƏMİYYƏTLİ -----------------------"
+MenuDispositivosBloque_MSG3="+ Sərt disklərdə yazma əməliyyatları aparmayın "
+MenuDispositivosBloque_MSG4="+ şəkilləri olan disk bölmələri haqqında"
+MenuDispositivosBloque_MSG5="+ bərpa, yükləmə bölmələri və ya öz"
+MenuDispositivosBloque_MSG6="+ əməliyyat sistemi bölməsi."
+MenuDispositivosBloque_MSG7="+ Bu menyunun yazı seçimlərindən sui-istifadə "
+MenuDispositivosBloque_MSG8="+ sistemdə fəlakət yarada bilər."
+MenuDispositivosBloque_MSG9="+ Ehtiyatla istifadə edin. Öz riski ilə istifadə edin."
+MenuDispositivosBloque_MSG10="-------------------- YAZILIQ ---------------------"
+MenuDispositivosBloque_MSG11="Şəkil faylını disk sürücüsünə köçürün"
+MenuDispositivosBloque_MSG11B="İso və ya img şəklini (öz-özünə yüklənə bilən) pendrive və ya USB diskə köçürün"
+MenuDispositivosBloque_MSG11C="Bütün quraşdırma sistemləri dəstəklənmir."
+MenuDispositivosBloque_MSG12="Doğma Linux və ya Windows fayl sistemi ilə diski formatla"
+MenuDispositivosBloque_MSG13="-------------------- OXUYUR ----------------------"
+MenuDispositivosBloque_MSG14="Disk sürücüsündən .img şəkli yaradın"
+MenuDispositivosBloque_MSG15="Əvvəlki menyu"
+MenuDispositivosBloque_MSG16="Seçim yazın"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------ƏHƏMİYYƏTLİ-----------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Cihazlarda istifadə olunan fayl sistemi ilə format vahidi"
+UIFormatearUnidad_linuxfs_MSG2B="+ və ya disk bölmələri."
+UIFormatearUnidad_linuxfs_MSG3="+ Bu seçim cihazdakı bütün mövcud məlumatları siləcək"
+UIFormatearUnidad_linuxfs_MSG4="+ Fayl sistemi ilə formatlanmış çıxarıla bilən disklər"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux özü yalnız bu əməliyyat sistemi altında əlçatan olacaq."
+UIFormatearUnidad_linuxfs_MSG6="+ Ehtiyatla istifadə edin, öz riski ilə istifadə edin."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="DAVAM ETMƏK ÜÇÜN C DÜŞÜŞÜNƏ BAXIN (Başqa seçimdə proses ləğv ediləcək)"
+

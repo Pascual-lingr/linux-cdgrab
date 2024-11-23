@@ -1,0 +1,135 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Estonio, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab ei leia vi tekstiredaktorit"
+ayuda_MSG2="Sisesta oma süsteemi installitud tekstiredaktori nimi"
+ayuda_MSG3="PAIGALDATUD REDAKTORIT EI LEITUD"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="LINUX-CDGRAB 1.0 poolt automaatselt loodud fail"
+creacion_de_mnt_MSG2="See fail koos kataloogiga"
+creacion_de_mnt_MSG3="on loodud automaatselt"
+creacion_de_mnt_MSG4="Linux-cdgrab rakenduse poolt kontrollides, et seda teie Linuxi distributsioonis ei eksisteerinud"
+creacion_de_mnt_MSG5="kataloog"
+creacion_de_mnt_MSG6="Linux-cdgrab kasutab seda kataloogi oma CD-ROM/DVD-ROM/BD-ROM draivi ühendamiseks"
+creacion_de_mnt_MSG7="Kaust"
+creacion_de_mnt_MSG8="seda ei kustutata, kui Linux-cdgrab on desinstallitud, kuna tavaliselt on see"
+creacion_de_mnt_MSG9="vaikeühenduspunkt /dev/cdrom jaoks enamikus Linuxi distributsioonides."
+creacion_de_mnt_MSG10="Kui teie distributsioon kasutab seadme /dev/cdrom ühendamiseks teist kataloogi,"
+creacion_de_mnt_MSG11="see ei tekita ühildumatust, kui proovite juurdepääsu teie seadme andmetele"
+creacion_de_mnt_MSG12="kuigi kui Linux-cdgrab on desinstallitud, saate ilma teha"
+creacion_de_mnt_MSG13="Selle faili eesmärk on ainult informatiivne, saate selle pärast lugemist vabalt kustutada."
+
+# creditos
+
+creditos_MSG1="Levita GPL v2 litsentsi alusel"
+creditos_MSG2="Rohkem infot www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, looja ja hooldaja"
+creditos_MSG4="Veaaruanne: pascual89@hotmail.com"
+creditos_MSG5="Programmi veebisait: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Põhineb LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Laadimine"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SÜNTAKS"
+lcdgrab_sintaxis_MSG2="Prindi see spikker"
+lcdgrab_sintaxis_MSG3="Prindi Linuxi versioon-cdgrab"
+lcdgrab_sintaxis_MSG4="määrab IDE kanali või salvestusseadme"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="määrab salvestuskiiruse"
+lcdgrab_sintaxis_MSG7="määrab CD-ROM/DVD-ROM/BD-ROM draivi"
+lcdgrab_sintaxis_MSG8="määratab salvestaja IDE ATAPI kanali"
+lcdgrab_sintaxis_MSG9="Valikud -G -V -L ja -CA viitavad üksteisele."
+lcdgrab_sintaxis_MSG9B="Valikud -iut -ium -iug ja -iuk on üksteisest sõltumatud,"
+lcdgrab_sintaxis_MSG9C="täiendab -G -V -L ja -CA ning sõltumatu -h ja -v vahel"
+lcdgrab_sintaxis_MSG10="Valikud -h ja -v on üksteisest ja ülejäänutest sõltumatud."
+lcdgrab_sintaxis_MSG11="Näited:"
+lcdgrab_sintaxis_MSG12="seade"
+lcdgrab_sintaxis_MSG13="number"
+lcdgrab_sintaxis_MSG14="tekstiliides"
+lcdgrab_sintaxis_MSG15="liides ncursidega"
+lcdgrab_sintaxis_MSG16="graafiline liides GTK-ga"
+lcdgrab_sintaxis_MSG17="graafiline liides Qt-ga"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Sisesta skripti tee:"
+main_lcdgrabopdep_MSG2="Vigane tee"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Paigaldatud paigad:"
+main_lcdgrabopdeppatch_MSG2="Sisesta paiga asukoht:"
+main_lcdgrabopdeppatch_MSG3="Ei leitud"
+
+# menu principal dialog
+main_lcdgrabop9uidia="Laadige üles TÄIENDAV PLAASTIK"
+
+# menu principal texto
+
+main_lcdgrabop1_text="SALVESTAMINE CD LE\t\t\t="
+main_lcdgrabop2_text="DVD SALVESTAMINE\t\t\t\t="
+main_lcdgrabop3_text="SALVESTAMINE BD l\t\t\t="
+main_lcdgrabop4_text="KETTASTAVA TOIMINGUD\t\t\t="
+main_lcdgrabop5_text="PILDI LOOMINE\t\t\t\t="
+main_lcdgrabop6_text="AUDIO KONVERSIOON\t\t\t="
+main_lcdgrabop6b_text="VIDEO KONVERSIOON\t\t\t="
+main_lcdgrabop7_text="MONTEERIGE VÕI VÄLJA PAIGALDAKE CD/DVD/BD="
+main_lcdgrabop8_text="PAIGALDA VÕI EEMAALDA PILT\t\t="
+main_lcdgrabop9_text="Laadige üles TÄIENDAV PLAASTIK\t\t="
+main_lcdgrabop10_text="JUHTIMISE KESKUS\t\t\t="
+main_lcdgrabop0_text="MINE VÄLJA\t\t\t\t="
+main_lcdgrabet1_text="MUUD VÕIMALUSED ##\t\t="
+main_lcdgrabopEe_text="Eemaldage ketas draivist\t\t="
+main_lcdgrabopTD_text="Näita kataloogi"
+tabs="\t\t="
+main_lcdgrabopG_text="Failihaldur\t\t\t\t="
+main_lcdgrabopH_text="Abi\t\t\t\t\t="
+main_lcdgrabopA_text="Umbes\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="SALVESTAMINE CD LE"
+main_lcdgrabop2="DVD SALVESTAMINE"
+main_lcdgrabop3="SALVESTAMINE BD l"
+main_lcdgrabop4="KETTASTAVA TOIMINGUD"
+main_lcdgrabop5="PILDI LOOMINE"
+main_lcdgrabop6="AUDIO KONVERSIOON"
+main_lcdgrabop6b="VIDEO KONVERSIOON"
+main_lcdgrabop7="MONTEERIGE VÕI VÄLJA PAIGALDAKE CD/DVD/BD"
+main_lcdgrabop8="PAIGALDA VÕI EEMAALDA PILT"
+main_lcdgrabop9="Laadige üles TÄIENDAV PLAASTIK"
+main_lcdgrabop10="JUHTIMISE KESKUS"
+main_lcdgrabop0="MINE VÄLJA"
+main_lcdgrabet1="MUUD VÕIMALUSED ##"
+main_lcdgrabopEe="Eemaldage ketas draivist"
+main_lcdgrabopTD="Näita kataloogi"
+main_lcdgrabopG="Failihaldur"
+main_lcdgrabopH="Abi"
+main_lcdgrabopA="Umbes"
+main_lcdgrabopPRINCIPAL="Sisestage valik:"
+MSG1_MAIN="H valimine näitab valikute kasutamist."
+main_lcdgrabopA_MSG1="Töötab:"

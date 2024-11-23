@@ -1,0 +1,75 @@
+# Idioma Tibetano para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="མུ་མཐུད་དུ་འགྲོ་བར། ENTER མནན་དགོས།"
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=============================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 REISERFS རྒྱབ་སྐྱོར།"
+cabecera_interfaz_MSG3="=============================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="བརྡ་བཀོད་ཀྱི་ཐོན་འབྲས་སྒྲིག་འཇུག་:"
+formatear_disco_reiserfs_MSG2="རྩ་སྒྲིག་བྱ་རྒྱུའི་བཀག་སྡོམ་སྒྲིག་ཆས་གཏན་འཁེལ་བྱོས།"
+formatear_disco_reiserfs_MSG3="སྒྲིག་ཆས་ལེགས་འགྲུབ་ངང་རྩ་སྒྲིག་བྱས་ཟིན།"
+formatear_disco_reiserfs_MSG4="རྩ་སྒྲིག་སྒྲིག་ཆས་ནོར་འཁྲུལ་བྱུང་བ།"
+formatear_disco_reiserfs_MSG5="བྱ་རིམ་མཇུག་སྒྲིལ་ཟིན།"
+formatear_disco_reiserfs_MSG6="སྒྲིག་ཆས་སྒྲིག་སྦྱོར་མེད་པར་བཟོ་བཞིན་པ།"
+formatear_disco_reiserfs_MSG7="རེ་སིར་ཨེཕ་ཨེས་ནང་སྒུལ་ཆས་རྩ་སྒྲིག་བྱེད་བཞིན་པ།"
+formatear_disco_reiserfs_MSG8="གཡོག་བཞིན་ཡོད།"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="མཐར་ཕྱིན་ངང་སྒྲིག་བཟོ་བྱས།"
+formatear_img_reiserfs_MSG2="ཡིག་ཆ་སྟོང་པ་རྩ་སྒྲིག་བྱེད་སྐབས་ནོར་འཁྲུལ།"
+formatear_img_reiserfs_MSG3="ཡིག་ཆ་སྟོང་པ་བསྐྲུན་བཞིན་ཡོད།"
+formatear_img_reiserfs_MSG4="གཡོག་བཞིན་ཡོད།"
+formatear_img_reiserfs_MSG5="རེ་སིར་ཨེཕ་ཨེས་ནང་ཡིག་ཆ་སྟོང་པ་རྩ་སྒྲིག་བྱེད་བཞིན་པ།"
+formatear_img_reiserfs_MSG6="སྒྲིག་བཀོད་ཀྱི་ཚད་དང་བཅས་པའི་ཡིག་ཆ་སྟོང་པ་གསར་བཟོ།"
+formatear_img_reiserfs_MSG7="བཟོ་བསྐྲུན་བྱེད་པའི་ཡིག་ཆ་སྟོང་པའི་ཆེ་ཆུང་གཏན་འཁེལ་བྱེད་(ཨང་གྲངས་ཀྱི་རིན་ཐང་ཁོ་ན)།"
+formatear_img_reiserfs_MSG8="ཡིག་ཆ་སྟོང་པ་བསྐྲུན་པའི་བར་སྟོང་གི་ཚད་གཞི།"
+formatear_img_reiserfs_MSG9="སྤྱོད་པའི་བར་སྟོང་ཚད་འཇལ་གཏན་འཁེལ་བྱོས།: "
+formatear_img_reiserfs_MSG10="ཆེ་ཆུང་ཚད་འཇལ་བྱེད་སྐབས་ནོར་འཁྲུལ།"
+formatear_img_reiserfs_MSG11="སྡེབ་ཚད་ཀྱི་རིན་ཐང་།"
+formatear_img_reiserfs_MSG12="ཡིག་ཆ་སྟོང་པའི་བར་སྟོང་གི་ཚད།"
+formatear_img_reiserfs_MSG13="བའིཊི་ནང་རྩིས་རྒྱག་པའི་རིན་ཐང་།"
+formatear_img_reiserfs_MSG14="གྲངས་འབོར་གྱི་རྩིས་རྒྱག་རིན་ཐང་།"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="CD-R/RW (702 Mbytes) ཞིག་གི་ཆེད་དུ་པར་རིས་གསར་འཛུགས་བྱེད།"
+m_img_CDDVDBD_reiserfs_MSG2="DVD+RW (4 Gbytes) ཞིག་གི་ཆེད་དུ་པར་རིས་གསར་བཟོ།"
+m_img_CDDVDBD_reiserfs_MSG3="DVD+RW/DL (8 Gbytes) ཞིག་གི་ཆེད་དུ་པར་རིས་གསར་བཟོ།"
+m_img_CDDVDBD_reiserfs_MSG4="BD-R/RE (Gbytes 25) ཞིག་གི་ཆེད་དུ་པར་རིས་གསར་བཟོ།"
+m_img_CDDVDBD_reiserfs_MSG5="རང་མོས་ཆེ་ཆུང་གི་འདྲ་པར་ཡིག་ཆ་གསར་བཟོ།"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="ཕྱིར་ཐོན།"
+imgr_tmp_MSG1="reiserfs པར་རིས་ཡིག་ཆ་ཚང་མ་སུབ་དགོས།"
+imgr_tmp_MSG2="པར་རིས་ཡིག་ཆ་བསྒར་བསྒར་ཡང་ན་བསྒར་བཤོལ།"
+imgr_tmp_MSG3="པར་རིས་ཡིག་ཆ་ནང་"།
+imgr_tmp_MSG4="གདམ་ག་ཞིག་འདེམས་པ།"
+imgr_tmp_MSG5="བསུབས་ཟིན་པའི་པར་རིས་ཡིག་ཆ།"
+imgr_tmp_MSG6="གཟུགས་བརྙན་སྦྱར་བ།"
+imgr_tmp_MSG7="གཟུགས་བརྙན་བཤོལ།"
+imgr_tmp_MSG8="བསྒྲིགས་པའི་པར་རིས།"
+imgr_tmp_MSG9="བཤུད་པའི་པར་རིས།"
+imgr_tmp_MSG10="ནུས་མེད་གདམ་ག།"
+imgr_tmp_MSG11="བརྩེགས་བརྩེགས་ཡང་ན་བརྩེགས་བཤོལ་བྱ་རྒྱུའི་པར་རིས་གཏན་འཁེལ་བྱོས།"
+imgr_tmp_MSG12="པར་རིས་སྒྲིག་སྦྱོར་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་ཡོད།"
+imgr_tmp_MSG13="པར་རིས་སྒྲིག་སྦྱོར་མེད་པར་བཟོ་བའི་ནོར་འཁྲུལ།"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="རེ་སིར་ཨེཕ་ཨེས་ནང་སྒུལ་གཏོང་རྩ་སྒྲིག་འབད།"
+lingr10reiserfspatch_MSG2="CD/DVD/BD ཆེད་དུ་ReiserFS གཟུགས་བརྙན་གསར་བཟོ།"
+lingr10reiserfspatch_MSG3="རི་སིར་ཨེཕ་ཨེས་པར་རིས་ཐོག་བཀོལ་སྤྱོད།"
+lingr10reiserfspatch_MSG4="གདམ་ག་ནུས་མེད་ཡིན།"
+lingr10reiserfspatch_MSG0="ཕྱིར་ཐོན།"

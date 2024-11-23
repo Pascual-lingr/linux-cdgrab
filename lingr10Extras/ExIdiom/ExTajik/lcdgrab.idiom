@@ -1,0 +1,45 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Tayiko para la aplicación principal  #
+# Traducción experimental.                         #
+# Generado con Google Translate.                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Файл ба таври худкор аз ҷониби LINUX-CDGRAB 1.0 тавлид шудааст"
+creacion_de_Depot_MSG2="Ин файл дар якҷоягӣ бо директория"
+creacion_de_Depot_MSG3="ба таври худкор тавлид шудааст"
+creacion_de_Depot_MSG4="аз ҷониби барномаи Linux-cdgrab ҳангоми тасдиқ кардани он, ки он дар тақсимоти Linux-и шумо вуҷуд надорад"
+creacion_de_Depot_MSG5="Феҳрист"
+creacion_de_Depot_MSG6="Linux-cdgrab ин директорияро барои навиштани файлҳои муваққатӣ ва тасвирҳои дастгоҳ (iso, img ва ғ.) истифода мебарад."
+creacion_de_Depot_MSG8="Анбор аз ҷониби GoboLinux барои нигоҳ доштани файлҳои муваққатӣ истифода мешавад"
+creacion_de_Depot_MSG9="Мақсади ин файл танҳо бо мақсади иттилоотӣ аст, шумо метавонед онро пас аз хондан озодона нест кунед."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="Огоҳӣ:"
+main_IDSISTEMA_MSG2="Системаи амалиётӣ дастгирӣ намешавад."
+main_IDSISTEMA_MSG3="Агар дар кори барнома мушкилот вуҷуд дошта бошад, GNU/Linux ро истифода баред"
+
+# argumentos
+
+main_arg_MSG1="Ин як далели дуруст нест"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="ёфтанд"
+main_cdkit_test_MSG2="пайванд ба wodim сохта шудааст"
+main_cdkit_test_MSG3="пайванд ба генисоимоти офаридашуда"
+main_cdkit_test_MSG4="пайванд ба icedax сохта шудааст"
+
+# pgm principal
+
+pgm_principal_MSG1="ФАТАЛ: Тақсимоти дурусти феҳрист ёфт нашуд."
+pgm_principal_MSG2="НОМАЪЛОН"
+

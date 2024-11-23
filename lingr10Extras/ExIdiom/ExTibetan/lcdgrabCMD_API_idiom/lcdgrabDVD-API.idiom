@@ -1,0 +1,170 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Tibetano para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="སྒྲ་འཇུག་ཡོ་བྱད་ལྟར།"
+buscar_grabadora_MSG1B="ནུས་ལྡན་ཡིན།"
+buscar_grabadora_MSG2="བརྙན་ཕབ་སྒྲིག་ཆས་ལྟར།"
+buscar_grabadora_MSG2B="ནོར་འཁྲུལ།"
+buscar_grabadora_MSG3="dvd+-rw-ཡོ་བྱད་ཀྱིས་སྒྲ་ཕབ་སྒྲིག་ཆས་དེ་ཁས་ལེན་བྱེད་ཀྱི་མེད།"
+buscar_grabadora_MSG4="dvd+rw-ལག་ཆས་སྤྱད་དེ་DVDབརྐོས་ཐུབ་པའི་ཆེད་དུ་ཁྱེད་རང་གི་སྒྲ་འཇུག་འཕྲུལ་ཆས་དེ་བཀག་སྡོམ་གྱི་ཡོ་ཆས་ཤིག་ཡིན་པར་གཏན་འཁེལ་བྱེད་དགོས།"
+buscar_grabadora_MSG5="དཔེར་ན།"
+buscar_grabadora_MSG6="ཡང་ན་"
+buscar_grabadora_MSG7="/dev ནང་ད་ཡོད་ཀྱི་མ་ལག་སྒྲིག་ཆས་སྟོན་བཞིན་ཡོད།"
+buscar_grabadora_MSG8="ཁྱེད་རང་གི་DVDསྒྲ་ཕབ་འཕྲུལ་ཆས་དང་མཐུན་པའི་བཀག་སྡོམ་སྒྲིག་ཆས་ནང་འཇུག་བྱོས།"
+buscar_grabadora_MSG9="སྒྲ་ཕབ་ཆས་རིགས་དང་གདམ་ག་གཏན་འཁེལ་བྱས་མེད།"
+buscar_grabadora_MSG10="སྒྲ་ཕབ་ཆས་ཀྱི་ཆེད་དུ་སྒྲིག་ཆས་སྒྲིག་བཀོད་བྱས་ཡོད།"
+buscar_grabadora_MSG11="སྒྲ་ཕབ་སྒྲིག་ཆས་དེ་ཤེལ་ཕོར་གྱི་ཁོར་ཡུག་ནང་འདི་ལྟར་ཕྱིར་འདྲེན་བྱས་ཟིན།"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="འབྱུང་སྲིད་པའི་རིན་ཐང་ཁོ་ན་cdrecord ལ་ནུས་ལྡན་ཡིན།"
+buscar_grabadoralb_MSG2="སྒྲ་ཕབ་འཕྲུལ་ཆས་ཀྱི་མིག་སྔའི་སྒྲིག་བཀོད་ནི།"
+buscar_grabadoralb_MSG3="སྒྲིག་བཀོད་འདི་ cdrskin གིས་སྤྲད་པའི་རིན་ཐང་དང་མཐུན་མིན་ཞིབ་བཤེར་བྱེད་དགོས།"
+buscar_grabadoralb_MSG4="cdrskin དང་མཉམ་དུ་IDE/SCSI འདྲེན་ལམ་བཤེར་བཞིན་པ།"
+buscar_grabadoralb_MSG5=" cdrskin དང་མཉམ་དུ་སྤྱོད་རྒྱུའི་རིན་ཐང་གསར་པ་གཏན་འཁེལ་བྱོས།"
+
+# datos_dvd
+
+datos_dvd_MSG1="མ་འོངས་པའི་DVD ལ་མིང་ཞིག་བླུགས།"
+datos_dvd_MSG2="DVD སྒྲ་འཇུག་བྱེད་པ། . . ."
+datos_dvd_MSG3="བེད་སྤྱོད།"
+datos_dvd_MSG4="རྒྱུག་བཞིན་ཡོད།"
+datos_dvd_MSG5="DVDབདེ་བླག་ངང་སྒྲ་འཇུག་བྱས་འདུག! "
+datos_dvd_MSG6="Mkisofs ཡང་ན་ genisoimage འཚོལ་མི་ཐུབ། cdrtools ཡང་ན་ cdrkit སྒྲིག་འཇུག་བྱེད་པ།"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="མ་འོངས་པའི་DVD ལ་མིང་ཞིག་བླུགས།"
+datos_dvd_multi_MSG2="DVD སྒྲ་འཇུག་བྱེད་པ། . . ."
+datos_dvd_multi_MSG3="བེད་སྤྱོད།"
+datos_dvd_multi_MSG4="གཡོག་བཞིན་ཡོད།"
+datos_dvd_multi_MSG5="DVD ལེགས་འགྲུབ་ངང་སྒྲ་འཇུག་བྱས་ཟིན།"
+datos_dvd_multi_MSG6="mkisofs ཡང་ན་ genisoimage འཚོལ་མི་ཐུབ། cdrtools ཡང་ན་ cdrkit སྒྲིག་འཇུག་བྱེད་པ།"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="པར་རིས་སྒྲ་ཕབ། . . ."
+grabimg_dvd_MSG2="གཡོག་བཞིན་ཡོད།"
+grabimg_dvd_MSG3="! ཌི་ཝི་ཌི་པར་རིས་མཐར་ཕྱིན་ངང་སྒྲ་འཇུག་བྱས། !"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="DVD ཐོག་པར་རིས་སྒྲ་འཇུག་བྱེད་བཞིན་པ། . . ."
+copia_bin_dvd_MSG2="གཡོག་བཞིན་པ།"
+copia_bin_dvd_MSG3="	པར་རིས་ཡིག་ཆ་སུབ་བཞིན་པ།"
+copia_bin_dvd_MSG4="སྒྲ་ཕབ་མཇུག་སྒྲིལ་ཟིན།"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="རྩ་སྒྲིག་ a"
+formatear_dvd_MSG2=" a ལ་རྩ་སྒྲིག་གསར་བ་བཙན་ཤེད་བྱེད་པ།"
+formatear_dvd_MSG3="a ཡི་སྣེ་ཁྲིད་བཀག་སྡོམ་གནས་སྤོ་བྱེད།"
+formatear_dvd_MSG4="DVD-RW ཞིག་རིམ་བཞིན་འཕར་སྣོན་ལ་རྩ་སྒྲིག་བྱེད།"
+formatear_dvd_MSG5="DVD-RW ཞིག་ཚད་བཀག་ཅན་གྱི་ཚབ་བྲིས་ལ་རྩ་སྒྲིག་བྱེད།"
+formatear_dvd_MSG6="DVD ཞིག་ཀླད་ཀོར་གྱིས་བཀང་དགོས།"
+formatear_dvd_MSG7="DVDཡི་ཆ་འཕྲིན་སྟོན།"
+formatear_dvd_MSG8="སྔོན་གྱི་དཀར་ཆག་རེའུ་མིག"།
+formatear_dvd_MSG9="གདམ་ག་འདི་ཐེངས་དང་པོར་DVDརྩ་སྒྲིག་བྱེད་པར་སྤྱད་ཡོད།"
+formatear_dvd_MSG10="གལ་ཏེ་DVDདེ་སྔོན་ནས་རྩ་སྒྲིག་བྱས་ཟིན་ན་དེས་གཞི་གྲངས་སུབ་མི་སྲིད།"
+formatear_dvd_MSG11="འདི་དག་སྒྲ་ཕབ་གསར་པ་ཞིག་གི་ནང་དུ་བརྗེ་སྒྱུར་བྱ་རྒྱུ་ཡིན།"
+formatear_dvd_MSG12="DVDཡི་ནང་དོན་སུབ་པའི་ཆེད་དུ་བེད་སྤྱོད།"
+formatear_dvd_MSG13="DVD ཞིག་ཀླད་ཀོར་གྱིས་བཀང་དགོས།"
+formatear_dvd_MSG14="གདམ་ག་འདིས་བཅོས་ཐབས་བྱས་པའི་DVDནང་ནས་རྩ་སྒྲིག་དང་གཞི་གྲངས་བསུབས་ཡོད།"
+formatear_dvd_MSG15="གཡོག་བཞིན་པ།"
+formatear_dvd_MSG16="DVD+RW/DVD-RW མཐར་ཕྱིན་ངང་རྩ་སྒྲིག་བྱས་འདུག !"
+formatear_dvd_MSG17="DVDརྩ་སྒྲིག་བྱེད་སྐབས་ནོར་འཁྲུལ།"
+formatear_dvd_MSG18="DVD+RW འོད་སྡེར་སྟེང་རྩ་སྒྲིག་བཙན་ཤེད་བྱེད་པ།"
+formatear_dvd_MSG19="DVD+RW མཐར་ཕྱིན་ངང་རྩ་སྒྲིག་བྱས་ཟིན།"
+formatear_dvd_MSG20="DVD+RW རྩ་སྒྲིག་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+formatear_dvd_MSG21="གདམ་ག་འདིས་DVD+RWནང་ཉར་ཚགས་བྱས་པའི་གཞི་གྲངས་ལ་ཤུགས་རྐྱེན་མི་ཐེབས།"
+formatear_dvd_MSG22="DVD+RWནས་ཕྱིར་འཐེན་བཀག་སྡོམ་མེད་པར་བཟོ་བཞིན་ཡོད།"
+formatear_dvd_MSG23="DVD-RW སྲབ་སྡེར་དེ་རིམ་སྒྲིག་འབྲི་བར་རྩ་སྒྲིག་བྱེད་པ།"
+formatear_dvd_MSG24="DVD-RW ལེགས་འགྲུབ་ངང་རྩ་སྒྲིག་བྱས་ཟིན།"
+formatear_dvd_MSG25="DVD-RW རྩ་སྒྲིག་བྱེད་སྐབས་ནོར་འཁྲུལ།"
+formatear_dvd_MSG26="ཚད་བཀག་ཅན་གྱི་ཚབ་བྲིས་ལ་DVD-RWསྲབ་འཁོར་རྩ་སྒྲིག་བྱེད་པ།"
+formatear_dvd_MSG27="བསྐྱར་འབྲི་ཐུབ་པའི་DVDསུབ་པ།"
+
+# null_dvd
+
+null_dvd_MSG1="/dev/zero ནས་ཌིསིཀ་ལ་འབྲི་བཞིན་ཡོད། . . ."
+null_dvd_MSG2="གཡོག་བཞིན་པ།"
+null_dvd_MSG3="བརྒྱུད་རིམ་མཇུག་སྒྲིལ་ཟིན།"
+null_dvd_MSG4="བསམ་ཡུལ་ལས་འདས་པའི་ནོར་འཁྲུལ།"
+
+# dvd_video
+
+dvd_video_MSG1="VIDEO_TS དང་ AUDIO_TS སྣོད་ཐོ་ཡོད་སའི་འགྲོ་ལམ།"
+dvd_video_MSG2="VIDEO_TS དང་ AUDIO_TS སྣོད་ཐོ་གནས་སའི་འགྲོ་ལམ་གཏན་འཁེལ་བྱེད།"
+dvd_video_MSG3="རྒྱུག་བཞིན་ཡོད།"
+dvd_video_MSG4="--- མཐར་ཕྱིན་ངང་སྒྲ་ཕབ་བྱས་པའི་DVD-VIDEO ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="གཡོག་བཞིན་ཡོད།"
+dvd_copia_bin_MSG2=" པར་རིས་ཡིག་ཆ་སུབ་བཞིན་པ།"
+dvd_copia_bin_MSG3="སྒྲ་ཕབ་ནོར་འཁྲུལ་བྱུང་འདུག"
+
+# dvd_datos
+
+dvd_datos_MSG1="ཡིག་ཚགས་དང་སྣོད་ཐོའི་ནང་ .iso གཟུགས་བརྙན་གསར་བཟོ།"
+dvd_datos_MSG2="DVD མིང་བྱང་།"
+dvd_datos_MSG3="མ་འོངས་པའི་DVD ལ་མིང་ཞིག་བླུགས།"
+dvd_datos_MSG4="ཡིག་ཆའི་དོ་དམ་འགོ་འཛུགས་བྱེད་བཞིན་པ།"
+dvd_datos_MSG5="	པར་རིས་གསར་བཟོ་བྱེད་བཞིན་ཡོད།"
+dvd_datos_MSG6="གཡོག་བཞིན་ཡོད།"
+dvd_datos_MSG7="ISO-9660 པར་རིས་ནང་དུ་བཟོས་ཡོད།"
+dvd_datos_MSG8="	DVDསྒྲ་ཕབ།"
+dvd_datos_MSG13="པར་རིས་སུབ་པ།"
+
+# dvd_borra
+
+dvd_borra_MSG1="རྒྱུག་བཞིན་ཡོད།"
+dvd_borra_MSG2="འོད་ཀྱི་དཀར་ཆག་ལེགས་འགྲུབ་ངང་རྩ་སྒྲིག་བྱས།"
+dvd_borra_MSG3="འོད་སྡེར་རྩ་སྒྲིག་བྱེད་སྐབས་ནོར་འཁྲུལ།"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="རྒྱུག་བཞིན"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="གཡོག་བཞིན་པ།"
+formatearCDDVDBD_MSG2="འོད་ཀྱི་དཀར་ཆག་མཐར་ཕྱིན་ངང་རྩ་སྒྲིག་བྱས།"
+formatearCDDVDBD_MSG3="འོད་སྡེར་རྩ་སྒྲིག་བྱེད་སྐབས་ནོར་འཁྲུལ།"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW མཐར་ཕྱིན་ངང་སྒྲིག་བཀོད་བྱས་ཟིན།!"
+formatearDVDRW_sobreescritura_restringida_MSG2="DVD-RW ཚད་བཀག་ཅན་གྱི་ཚབ་བྲིས་ལ་རྩ་སྒྲིག་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་ཡོད།"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW མཐར་ཕྱིན་ངང་རྩ་སྒྲིག་བྱས། !"
+formatearDVDRW_incremental_secuencial_MSG2="DVD-RW རིམ་སྒྲིག་འཕར་ཚད་ལ་རྩ་སྒྲིག་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="མེ་འབར་བའི་ iso-9660 གཟུགས་བརྙན་གྱི་འགྲོ་ལམ་གཏན་འཁེལ་བྱོས།"
+cdrskinisocddvd_MSG2="ISO པར་རིས་ལེགས་འགྲུབ་ངང་ཐོ་འགོད་བྱས་འདུག !!"
+cdrskinisocddvd_MSG3="པར་རིས་སྒྲ་ཕབ་བྱེད་སྐབས་ནོར་འཁྲུལ།"

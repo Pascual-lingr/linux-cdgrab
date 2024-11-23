@@ -1,0 +1,16 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Tibetano para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="འོད་ཀྱི་སྡེར་མ་ཕྱིར་འཐེན་བྱས།"
+expulsar_medio_MSG2="སྒྲིག་ཆས་ནང་ནས་ཌིསིཀ་ཕྱིར་འཐེན་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+expulsar_medio_MSG3="མིང་དེ་ལག་ཐོག་ནས་བླུགས།"
+

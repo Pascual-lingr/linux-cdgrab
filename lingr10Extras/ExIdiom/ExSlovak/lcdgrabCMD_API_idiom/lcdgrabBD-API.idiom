@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovak/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Eslovaco para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 OBRÁZOK SPRÁVNE ZAHRNUTÝ NA BLU-RAY"
+grabar_ISO_BD_MSG2="CHYBA PRI NAHRÁVANÍ OBRÁZKU NA BLU-RAY DISK"
+grabar_ISO_BD_MSG3="OBRÁZOK ISO-9660 V BD"
+grabar_ISO_BD_MSG4="Určite cestu k obrazu ISO-9660 na vypálenie:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Súbory a adresáre na vytvorenie .iso obrazu"
+bd_datos_MSG2="ŠTÍTOK DB"
+bd_datos_MSG3="Zadajte názov budúceho BD:"
+bd_datos_MSG4="Spúšťam správcu súborov:"
+bd_datos_MSG5=" VYTVORÍ SA OBRÁZOK . . ."
+bd_datos_MSG6="beží"
+bd_datos_MSG7="OBRÁZOK ISO-9660 VYTVORENÝ V"
+bd_datos_MSG8="ZÁZNAM BD"
+bd_datos_MSG13="VYMAZAŤ OBRÁZOK..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Potrebné formátovanie alebo vymazanie sa použije v závislosti od stavu disku"
+borrar_BDRE_lb_MSG2="BD-RE ÚSPEŠNE VYMAZANÉ!!"
+borrar_BDRE_lb_MSG3="CHYBA PRI ODSTRAŇOVANÍ BD-RE"
+

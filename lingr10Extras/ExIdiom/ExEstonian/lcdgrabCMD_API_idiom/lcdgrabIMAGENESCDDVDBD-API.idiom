@@ -1,0 +1,239 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en estonio para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="PILDIFAILISÜSTEEM"
+imagen_linux_fs_MSG2="Valige failisüsteem: "
+imagen_linux_fs_MSG3="Loo pilt CD-R/RW jaoks (702 Mbytes)"
+imagen_linux_fs_MSG4="Loo pilt DVD+RW jaoks (4 Gbaiti)"
+imagen_linux_fs_MSG5="Loo kujutis DVD+RW/DL jaoks (8 Gbaiti)"
+imagen_linux_fs_MSG5B="Loo pilt BD-R/RE jaoks (25 Gbytes)"
+imagen_linux_fs_MSG5C="Loo kohandatud suurusega pildifail"
+imagen_linux_fs_MSG6="Tühja faili loomine mahuga 702 Mbaiti"
+imagen_linux_fs_MSG7="Tühja faili loomine mahuga 4 GB"
+imagen_linux_fs_MSG8="Tühja faili loomine mahuga 8 Gbaiti"
+imagen_linux_fs_MSG8B="Tühja faili loomine mahuga 25 GB"
+imagen_linux_fs_MSG8C="Tühja faili loomine kohandatud suurusega"
+imagen_linux_fs_MSG9="VIGA: PILDI SUURUS EI OLE TEADA. KATKESTAB..."
+imagen_linux_fs_MSG10="Töötab"
+imagen_linux_fs_MSG11="Programm vormindab tühja faili."
+imagen_linux_fs_MSG12="Süsteem hoiatab teid, et varem loodud fail ei ole blokeeritud seade ja küsib, kas soovite seda vormindada"
+imagen_linux_fs_MSG13="Vasta jah"
+imagen_linux_fs_MSG13="Vormindati edukalt"
+imagen_linux_fs_MSG14=" Kujutise paigaldamine ..."
+imagen_linux_fs_MSG15="VIGA TÜHJA FAILI VORMIMISEL"
+imagen_linux_fs_MSG16="Programm on ühendanud faili, mis on vormindatud"
+imagen_linux_fs_MSG17="Linux-cdgrab käivitab failihalduri, et see saaks töötada paigaldatud pildiga"
+imagen_linux_fs_MSG18="Kui failid on kopeeritud, eemalda vormindatud fail"
+imagen_linux_fs_MSG19="Linuxi pilt on selles kataloogis"
+imagen_linux_fs_MSG19B="VIGA PILDIFAILI PAIGALDAMISEL"
+imagen_linux_fs_MSG20="Failid, mida pildile lisada. Paigaldatud kausta /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Failihalduri käivitamine..."
+imagen_linux_fs_MSG22="MÄRKUS:"
+imagen_linux_fs_MSG23="-------"
+imagen_linux_fs_MSG24="Pilt"
+imagen_linux_fs_MSG25="veel ühendatud"
+imagen_linux_fs_MSG26="VIGA TÜHJA FAILI LOOMISEL KOOS dd"
+imagen_linux_fs_MSG27="Kontrollige, et teil oleks vaba ruumi, mis on paigaldatud aadressile /"
+imagen_linux_fs_MSG34="FAILISÜSTEEM FAILI VORMINDAMISEKS"
+imagen_linux_fs_MSG35="TÜHJA FAILI GENEREERIMINE KOHALDATUD SUURUSEGA"
+imagen_linux_fs_MSG36="Määrake uue tühja faili ploki suurus (ainult arvväärtus):"
+imagen_linux_fs_MSG37="Ploki suuruse väärtuste näide on: 1024, 2048 (ainult Ext2) või 4096 (kõik vormingud)"
+imagen_linux_fs_MSG38="Määra genereeritava tühja faili suurus (ainult arvväärtus):"
+imagen_linux_fs_MSG39="Ruumi mõõtmised tühja faili genereerimiseks:"
+imagen_linux_fs_MSG40="Määrake kasutatav ruumi mõõt: "
+imagen_linux_fs_MSG41="VIGA SUURUSE MÕÕTMISE MÄRKUSEL"
+imagen_linux_fs_MSG42="Ploki suuruse väärtus:"
+imagen_linux_fs_MSG43="Tühja faili ruumi hulk:"
+imagen_linux_fs_MSG44="Arvutatud väärtus baitides:"
+imagen_linux_fs_MSG45="Arvutatud väärtus loenduse jaoks:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Luba md5 lugemine .iso piltide genereerimisel"
+comprobar_lectura_md5_MSG2="Keela md5 lugemine .iso piltide genereerimisel"
+comprobar_lectura_md5_MSG3="Eelmine menüü"
+comprobar_lectura_md5_MSG4="Praegune konfiguratsioon:"
+comprobar_lectura_md5_MSG5="Lubatud"
+comprobar_lectura_md5_MSG6="Keelatud"
+comprobar_lectura_md5_MSG7="Loe md5 summa aktiveeritud"
+comprobar_lectura_md5_MSG8="md5 summa lugemine keelatud"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Iso kujutise nime ei õnnestunud lugeda"
+leer_md5sum_MSG2="Md5summa lugemine"
+leer_md5sum_MSG3="Kuvatud on pildi summa md5"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="CD PILDISE LOOMINE"
+extraer_isoCD_dd_MSG2="PILT LOODUD"
+extraer_isoCD_dd_MSG3="Ei leitud"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="CREANDO IMAGEN DEL DVD"
+extraer_isoDVD_dd_MSG2="ejecutando"
+extraer_isoDVD_dd_MSG3="IMAGEN CREADA EN"
+extraer_isoDVD_dd_MSG4="No se encuentra"
+
+extraer_isoDVD_dd_MSG1="DVD-PILDI LOOMINE"
+extraer_isoDVD_dd_MSG2="töötab"
+extraer_isoDVD_dd_MSG3="PILT LOODUD"
+extraer_isoDVD_dd_MSG4="Ei leitud"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="töötab"
+extraer_iso_readcd_MSG2="PILT ON EDUNELT LOODUD"
+extraer_iso_readcd_MSG3="Pilt loodud"
+extraer_iso_readcd_MSG4="Salvestusprotsessi katkestamine..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Paigaldatud CD"
+extraer_iso_mkisofs_MSG2="Kujutise loomine..."
+extraer_iso_mkisofs_MSG3="Macintoshi ühilduvus lubatud"
+extraer_iso_mkisofs_MSG4="Kasutatakse"
+extraer_iso_mkisofs_MSG5="töötab"
+extraer_iso_mkisofs_MSG6="Kaustas loodud pilt"
+extraer_iso_mkisofs_MSG7="Protsessi uuesti proovimine ilma Macintoshi toeta"
+extraer_iso_mkisofs_MSG8="Kaustas loodud pilt"
+extraer_iso_mkisofs_MSG9="mkisofs tagastab loomisel tundmatud vead"
+extraer_iso_mkisofs_MSG10="from"
+extraer_iso_mkisofs_MSG11="Kontrollige andmete terviklikkust"
+extraer_iso_mkisofs_MSG12="Paigaldamine"
+extraer_iso_mkisofs_MSG12B="en"
+extraer_iso_mkisofs_MSG13="genisoimage tagastab loomisel tundmatud vead"
+extraer_iso_mkisofs_MSG13B="from"
+extraer_iso_mkisofs_MSG14="Mkisofe ja genisoimage'i ei leitud. Palun installige cdrtools või cdrkit."
+extraer_iso_mkisofs_MSG15="Ei saanud ühendada"
+extraer_iso_mkisofs_MSG16="Pilt edukalt loodud"
+
+# m_comp_img
+
+m_comp_img_MSG1="PILT LOODUD EDUNEKS"
+m_comp_img_MSG2="KAS TAHAD PILDIFAILI TIHENDADA?"
+m_comp_img_MSG3="(s/y) tihendamiseks; Protsess katkestatakse teise valikuga."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Failihalduri käivitamine..."
+generar_iso_directorio_MSG2="Sisesta tulevase CD/DVD/BD nimi"
+generar_iso_directorio_MSG3="PILTI LOOMINE..."
+generar_iso_directorio_MSG4="Macintoshi ühilduvus lubatud"
+generar_iso_directorio_MSG5="Kasutatakse"
+generar_iso_directorio_MSG6="töötab"
+generar_iso_directorio_MSG7="KATASTOORIS LOODUD PILT"
+generar_iso_directorio_MSG8="PILDI LOOMISPROTSESS ON ERUS"
+generar_iso_directorio_MSG9="PILDI LOOMINE ILMA MACINTOSH-ÜHILDUSETA"
+generar_iso_directorio_MSG10="mkisofs ja genisoimage'i ei leitud. Palun installige cdrtools või cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Sisesta tulevase DVD/BD nimi"
+generar_bdv_udf_directorio_MSG2="Määrake kataloog videopildi genereerimiseks:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Määrake ketta silt:"
+generar_iso_directorio_libburnia_MSG2="Määrake iso-9660 pildi genereerimiseks kataloog:"
+generar_iso_directorio_libburnia_MSG3="ISO9660 kujutis õnnestus!!"
+generar_iso_directorio_libburnia_MSG4="Viga iso-9660 kujutise genereerimisel xorriso"
+
+# imagenISO
+
+imagenISO_MSG1=".iso-pildile kaasatavad failid ja kataloogid"
+imagenISO_MSG2="VALI VALIK"
+imagenISO_MSG2B="----------"
+imagenISO_MSG3="Genereeri CD lt ISO-9660 pilt (kasuta dd d)"
+imagenISO_MSG4="Loo ISO-9660 pilt DVD lt (kasuta dd d)"
+imagenISO_MSG5="Genereeri CD lt ISO-9660 kujutis (kasuta readcd d)"
+imagenISO_MSG6="Genereeri ISO-9660 kujutis CD või DVD kettalt (kasutage mkisofs)"
+imagenISO_MSG7="Loo kõvaketta andmetest ISO-9660 kujutis (kasutage mkisofs)"
+imagenISO_MSG8="Eelmine menüü"
+imagenISO_MSG9="PILDI LOOMINE"
+imagenISO_MSG10="Loo kõvaketta andmetest ISO-9660 kujutis (kasutage xorriso)"
+imagenISO_MSG11="Loo CD/DVD/BD-lt iso/udf kujutis (kasutage mkisofs)"
+imagenISO_MSG12="Loo kõvaketta andmetest iso/udf pilt (kasutage mkisofs)"
+imagenISO_MSG13="ISO-9660 VORMINGUMENÜÜ"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Loo UDF/ISO pilt kõvaketta andmetest (kasutage mkisofs)"
+imagenISO_MSG15="Loo UDF/ISO kujutis DVD Video toega (kasutage mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Sisestage lähteploki seade, millest pilt tehakse"
+imagen_img_MSG2="------------------------------------------------"
+imagen_img_MSG3="Seadmed, mis on registreeritud kaustas /etc/fstab ja /etc/mtab"
+imagen_img_MSG4="Ühenda käsu väljund:"
+imagen_img_MSG5="Sisesta seadme nimi: "
+imagen_img_MSG6="Plokiseadme .img-kujutise loomine"
+imagen_img_MSG7="jooksb"
+imagen_img_MSG8="SEADME PILT LOODUD"
+
+# monta_img
+
+monta_img_MSG1="ISO või ext2 pilt ühendamiseks."
+monta_img_MSG2="Sisesta kataloogi tee, kuhu paigaldatav pilt asub:"
+monta_img_MSG3="ÜHENDATUD CD PILT:"
+monta_img_MSG4="VIGA PILDIFAILI PAIGALDAMISEL"
+monta_img_MSG5="EI LEITUD"
+monta_img_MSG6="ÜHENDUSPUNKTI EI OLEMAS"
+monta_img_MSG7="OOTAMATU VIGA"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO või ext2 kujutis lahtiühendamiseks."
+desmonta_img_MSG2="DEMOUNTATUD PILT"
+desmonta_img_MSG3="Ühtegi ühendatud pilti ei leitud"
+desmonta_img_MSG4="Ühenda väljund:"
+desmonta_img_MSG5="Saad määrata pildi absoluutse kataloogitee otse."
+desmonta_img_MSG6="Nagu /tmp/lcdgrabimg.iso või pildi paigalduskataloog nagu /mnt/lcdgrab"
+desmonta_img_MSG7="Kui pole määratud, saab seda otsida failihalduri abil"
+desmonta_img_MSG8="Failihalduri käivitamine"
+desmonta_img_MSG9="Määrake pildi tee."
+desmonta_img_MSG10="DEGASEMBERITUD PILT"
+desmonta_img_MSG11="VIGA PILDI EEMALDAMISELT"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg pilt teisendamiseks .iso"
+nrg_a_iso_MSG2="Sisesta teisendatava .nrg (Nero Burning ROM) pildi tee"
+nrg_a_iso_MSG3="Pilt teisendamine..."
+nrg_a_iso_MSG4="Lähte .nrg pildi tee"
+nrg_a_iso_MSG5="pole olemas või vastab kataloogile"
+nrg_a_iso_MSG6="Vigane tee."
+nrg_a_iso_MSG7="see on juba eelmine ISO-9660 pilt, seda ei teisendata."
+nrg_a_iso_MSG8="Kopeerimine erineva laiendiga..."
+nrg_a_iso_MSG9="KOPEERIMINE LÕPPENUD"
+nrg_a_iso_MSG10="jooksb"
+nrg_a_iso_MSG11="Pilt teisendati edukalt"
+nrg_a_iso_MSG12="VIGA PILDI LOOMISEL .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Loo .cue kirjeldusfail .bin pildist"
+GenerarArchivocue_MSG2="Praegune aktiivne kataloog"
+GenerarArchivocue_MSG3="Kirjutage ainult kataloogi tee, kuhu"
+GenerarArchivocue_MSG4="otsi pildifail:"
+GenerarArchivocue_MSG5="Sisesta .bin pildi nimi, millele"
+GenerarArchivocue_MSG6="on loonud vastava cue-faili"
+GenerarArchivocue_MSG7="KIRJELDUSFAAIL .cue ON EDUNELT LOODUD"
+GenerarArchivocue_MSG8="VIGA KIRJELDUSFAILI .cue LOOMINE"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="töötab"
+ImagenbincueCDDVD_MSG2="KETA PILT .BIN .CUE EDUNELT LOODUD"
+

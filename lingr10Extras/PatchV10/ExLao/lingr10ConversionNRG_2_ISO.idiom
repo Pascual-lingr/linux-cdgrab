@@ -1,0 +1,38 @@
+# Idioma Lao para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="ກົດ ENTER ເພື່ອສືບຕໍ່..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="==================================="
+cabeceraNRG_MSG2="ການແປງ LINUX-CDGRAB 1.0 .NRG ເປັນ .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="ໃສ່ເສັ້ນທາງຂອງຮູບພາບ .nrg ທີ່ທ່ານຕ້ອງການປ່ຽນ:"
+convertir_imagen_nrg_MSG1B="ໃສ່ເສັ້ນທາງຂອງຮູບພາບ .iso ທີ່ທ່ານຕ້ອງການສ້າງ:"
+convertir_imagen_nrg_MSG2="ແລ່ນ"
+convertir_imagen_nrg_MSG3="ການປ່ຽນຮູບ .nrg ເປັນ .iso ສຳເລັດແລ້ວ"
+convertir_imagen_nrg_MSG4="ການປ່ຽນຮູບພາບຜິດພາດ .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="ຮອງຮັບການແປງຮູບພາບໃນ linux-cdgrab"
+creditospatchnrgaiso_MSG2="ການແປງຮູບພາບ .nrg ເປັນ .iso ໂດຍໃຊ້ nrg2iso"
+creditospatchnrgaiso_MSG3="ແຈກຢາຍພາຍໃຕ້ໃບອະນຸຍາດ GPL v2"
+
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="ສະບັບຄໍາສັ່ງ:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="ປ່ຽນຮູບ .nrg ເປັນ .iso"
+lingr10ConversionNRG_2_ISO_MSG2="ກ່ຽວກັບ"
+lingr10ConversionNRG_2_ISO_MSG3="ເມນູກ່ອນໜ້າ"
+lingr10ConversionNRG_2_ISO_MSG4="ຕົວເລືອກບໍ່ຖືກຕ້ອງ"
+

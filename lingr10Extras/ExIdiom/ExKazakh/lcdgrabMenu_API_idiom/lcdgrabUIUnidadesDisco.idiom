@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExKazakh/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Kazajo para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="ДИСК-ЖЕТЕКТЕГІ Операциялар"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="------------------------ МАҢЫЗДЫ ------------------------"
+MenuDispositivosBloque_MSG3="+ Қатты дискілерде жазу әрекеттерін орындамаңыз "
+MenuDispositivosBloque_MSG4="+ кескіндері бар диск бөлімдері туралы"
+MenuDispositivosBloque_MSG5="+ қалпына келтіру, жүктеу бөлімдері немесе жеке"
+MenuDispositivosBloque_MSG6="+ операциялық жүйе бөлімі."
+MenuDispositivosBloque_MSG7="+ Осы мәзірдің жазу опцияларын дұрыс қолданбау "
+MenuDispositivosBloque_MSG8="+ жүйеде апат тудыруы мүмкін."
+MenuDispositivosBloque_MSG9="+ Сақтықпен пайдаланыңыз. Тәуекелге байланысты пайдаланыңыз."
+MenuDispositivosBloque_MSG10="------------------- ЖАЗУ --------------------"
+MenuDispositivosBloque_MSG11="Кескін файлын дискіге көшіру"
+MenuDispositivosBloque_MSG11B="Исо немесе img кескінін (өздігінен жүктелетін) дискіге немесе USB дискісіне тастаңыз"
+MenuDispositivosBloque_MSG11C="Барлық орнату жүйелеріне қолдау көрсетілмейді."
+MenuDispositivosBloque_MSG12="Түптік Linux немесе Windows файлдық жүйесі бар дискіні пішімдеу"
+MenuDispositivosBloque_MSG13="------------------- ОҚУ ---------------------"
+MenuDispositivosBloque_MSG14="Дискіден .img кескінін жасау"
+MenuDispositivosBloque_MSG15="Алдыңғы мәзір"
+MenuDispositivosBloque_MSG16="Опцияны теру"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="--------------------------МАҢЫЗДЫ------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Құрылғыларда қолданылатын файлдық жүйесі бар пішім бірлігі"
+UIFormatearUnidad_linuxfs_MSG2B="+ немесе диск бөлімдері."
+UIFormatearUnidad_linuxfs_MSG3="+ Бұл опция құрылғыдағы бар деректерді жояды"
+UIFormatearUnidad_linuxfs_MSG4="+ Файлдық жүйемен пішімделген алынбалы дискілер"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux-тың өзі тек осы операциялық жүйеде қол жетімді болады."
+UIFormatearUnidad_linuxfs_MSG6="+ Сақтықпен пайдаланыңыз, тәуекелге байланысты пайдаланыңыз."
+UIFormatearUnidad_linuxfs_MSG7="---------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="ЖАЛҒАСТЫРУ ҮШІН C ТҮЙМЕСІН БАСЫҢЫЗ; (басқа опцияда процесс тоқтатылады)"
+

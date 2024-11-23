@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en estonio para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="HELI KONVERSIOON"
+menu_conversion_audio_MSG2="-------------- FORMAATIDE KONVERSIOON ------------"
+menu_conversion_audio_MSG3="Teisenda .mp3 failiks .wav"
+menu_conversion_audio_MSG4="Teisenda .ogg failiks .wav"
+menu_conversion_audio_MSG5="Teisenda .wav .mp3 ks"
+menu_conversion_audio_MSG6="Teisenda .wav failiks .ogg"
+menu_conversion_audio_MSG6C="Teisenda .wav failiks .flac"
+menu_conversion_audio_MSG6B="Teisenda .flac failiks .wav"
+menu_conversion_audio_MSG7="-------------- HELIRADADE VÄLJAVÕTMINE -----------"
+menu_conversion_audio_MSG8="Ripige heli CD .wav vormingusse"
+menu_conversion_audio_MSG9="Ripige heliradade komplekt .wav vormingusse"
+menu_conversion_audio_MSG10="Ripige heli CD .mp3 vormingusse"
+menu_conversion_audio_MSG11="Ripige heli CD .ogg i"
+menu_conversion_audio_MSG0="Eelmine menüü"
+menu_conversion_audio_MSG12="Otsi .mp3 faile"
+menu_conversion_audio_MSG13="Ogg failide otsimine"
+menu_conversion_audio_MSG14="Otsi .wav faile"
+menu_conversion_audio_MSG15="----------------- MUUD TOIMINGUD -----------------"
+menu_conversion_audio_MSG16="Lõika .wav helifail"
+menu_conversion_audio_MSG17="Ripige heli CD .flac vormingusse"
+

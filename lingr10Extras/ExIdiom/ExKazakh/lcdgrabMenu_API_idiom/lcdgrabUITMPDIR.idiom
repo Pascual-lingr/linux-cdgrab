@@ -1,0 +1,35 @@
+#########################################################
+# lcdgrabAPI_idiom/ExKazakh/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Kazajo para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="/tmp ішіндегі файлдар"
+dir_tmp_MSG2="Барлық кескіндерді және қысылған файлдарды жою"
+dir_tmp_MSG3="Басқа әрекеттер үшін файл менеджерін іске қосу"
+dir_tmp_MSG4="Суретті орнату немесе ажырату"
+dir_tmp_MSG5="Сурет жасау мәзірін көрсету"
+dir_tmp_MSG6="Сурет жазу опцияларын көрсету"
+dir_tmp_MSG7="Алдыңғы мәзір"
+dir_tmp_MSG8="ҚОЛДАНЫЛҒАН ФАЙЛДАРДЫҢ ТІЗІМІ"
+dir_tmp_MSG9="ПАРЦИЯНЫ ТАҢДАУ:"
+dir_tmp_MSG10="ЖОЙЫЛҒАН СУРЕТТЕР МЕН ФАЙЛДАР"
+dir_tmp_MSG11="Суретті орнату."
+dir_tmp_MSG12="Суретті ажырату."
+dir_tmp_MSG13="Суретті CD-ге жазу"
+dir_tmp_MSG14="Суретті DVD-ге жазу"
+dir_tmp_MSG14B="Суретті BD форматына жазу"
+dir_tmp_MSG15="Жазу ортасына сәйкес опцияны таңдау"
+dir_tmp_MSG16="ФАЙЛ КОНФИГУРАЦИЯ ФАЙЛЫ ТАБЫЛМАЙДЫ"
+dir_tmp_MSG17="Жазу процесін тоқтату"
+dir_tmp_MSG18="Жазу үшін .iso файлын көрсетіңіз"
+dir_tmp_MSG19="Сурет жолын енгізіңіз: "
+
+

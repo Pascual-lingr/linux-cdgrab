@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Estonio para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 PILT ON BLU-RAY-LE ÕIGESTI SALVESTATUD"
+grabar_ISO_BD_MSG2="VIGA PILDI SALVEStamisel BLU-RAY-KETTALE"
+grabar_ISO_BD_MSG3="ISO-9660 PILT BD-s"
+grabar_ISO_BD_MSG4="Määrake põletatava ISO-9660 pildi tee:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Failid ja kataloogid .iso kujutise loomiseks"
+bd_datos_MSG2="DB LABEL"
+bd_datos_MSG3="Sisesta tulevase BD nimi:"
+bd_datos_MSG4="Failihalduri käivitamine:"
+bd_datos_MSG5=" PILDI LOOMINE..."
+bd_datos_MSG6="töötab"
+bd_datos_MSG7="ISO-9660 PILT LOODUD"
+bd_datos_MSG8="		SALVESTAMINE BD"
+bd_datos_MSG13="KUSUTA PILT..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Sõltuvalt ketta olekust rakendatakse vajalikku vormindamist või kustutamist"
+borrar_BDRE_lb_MSG2="BD-RE EDUNELT KUSTUTATUD!!"
+borrar_BDRE_lb_MSG3="VIGA BD-RE KUSTUTAMISEL"
+

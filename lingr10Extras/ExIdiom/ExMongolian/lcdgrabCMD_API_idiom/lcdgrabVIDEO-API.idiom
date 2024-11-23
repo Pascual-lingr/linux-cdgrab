@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExMongolian/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en Mongol para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="ВИДЕО ХӨРВҮҮЛЭХ BLU-RAY ДИСК ТОХИРЦОХ"
+conv_video_BDVideo_MSG2="Хөрвүүлэх видео файлын замыг зааж өгнө үү:"
+conv_video_BDVideo_MSG3="Үүсгэх шинэ видеоны файлын нэрийг зааж өгнө үү:"
+conv_video_BDVideo_MSG4="Видео файлыг амжилттай хөрвүүллээ!!"
+conv_video_BDVideo_MSG5="Видео файлыг хөрвүүлэхэд алдаа гарлаа"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="ВИДЕО ФАЙЛЫГ ХӨРВҮҮЛЭХ"
+conv_VideoFich_MSG2="Хөрвүүлэх видео файлыг зааж өгнө үү:"
+conv_VideoFich_MSG3="Үүсгэх видео файлыг зааж өгнө үү:"
+conv_VideoFich_MSG4="ВИДЕО ФАЙЛ ХӨРВҮҮЛСЭН"
+conv_VideoFich_MSG5="ВИДЕО ФАЙЛ ХӨРВҮҮЛЭХ ҮЕД АЛДАА"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Видео файлыг зааж өгөх:"
+extrae_Audio_de_Video_MSG2="Үйлдвэрлэх mp3 дууны файлыг зааж өгнө үү:"
+extrae_Audio_de_Video_MSG3="ДУУ ГАРГАХ АМЖИЛТТАЙ"
+extrae_Audio_de_Video_MSG4="ДУУ ГАРГАХ ҮЕД АЛДАА"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Видео файлыг зааж өгөх:"
+extrae_Fragmento_Video_MSG2="Үүсгэх видео файлыг зааж өгнө үү:"
+extrae_Fragmento_Video_MSG3="Анхны цагийг зааж өгөх (HH:MM:SS гэж зааж өгөх) :"
+extrae_Fragmento_Video_MSG4="Төгсгөлийн цагийг зааж өгөх (HH:MM:SS гэж зааж өгөх) :"
+extrae_Fragmento_Video_MSG5="ВИДЕО АМЖИЛТТАЙ ХУРССАН"
+extrae_Fragmento_Video_MSG6="ВИДЕО ТУРАХ ҮЕД АЛДАА"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Дууны файлыг зааж өгөх:"
+mezcla_Audio_Video_MSG2="Видео файлыг зааж өгөх:"
+mezcla_Audio_Video_MSG3="Үүсгэх видео файлыг зааж өгнө үү:"
+mezcla_Audio_Video_MSG4="ШИНЭ ВИДЕО ФАЙЛ АМЖИЛТТАЙ БОЛСОН"
+mezcla_Audio_Video_MSG5="ВИДЕО ФАЙЛ ҮҮСГЭХ АЛДАА"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="КОНСОЛЫН ИНТЕРФЕЙСИЙН СОНГОЛТ БАЙХГҮЙ"
+graba_escritorio_MSG2="-- ШИРЭЭНИЙ СУРГАЛТЫГ БИЧГЭХ -- CTRL + C товчийг дарж БИЧИГЛЭХИЙГ Цуцлах, ЗОГСОХ"
+graba_escritorio_MSG3="ВИДЕО БИЧЛЭГИЙГ ДУУССАН"
+

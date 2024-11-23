@@ -1,0 +1,49 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Tibetano, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="དཀར་ཆག་པར་རིས་ཐོག་གསར་བཟོ་དང་སྨན་བཅོས།"
+MenuImagen_MSG2="------------- པར་རིས་གསར་བཟོ། -------------"
+MenuImagen_MSG3="ISO-9660 གཟུགས་བརྙན་ཞིག་གསར་བཟོ།"
+MenuImagen_MSG4="རང་བྱུང་གི་ལི་ནགསི་ཡིག་ཆའི་མ་ལག་སྤྱད་དེ་པར་རིས་གསར་བཟོ།"
+MenuImagen_MSG5="བཀག་འགོག་སྒྲིག་ཆས་གང་རུང་གི་ .img པར་རིས་གསར་བཟོ།"
+MenuImagen_MSG6="མིག་སྔའི་སྒྲིག་ཆས་ནས་ .bin .cue པར་རིས་གསར་བཟོ།"
+MenuImagen_MSG7="---------------- གདམ་ག་གཞན། ----------------"
+MenuImagen_MSG8=".bin པར་རིས་ལས་ .cue འགྲེལ་བཤད་ཡིག་ཆ་གསར་བཟོ།"
+MenuImagen_MSG9=".nrg (Nero Burning ROM) པར་རིས་ཤིག་ .iso ནང་བསྒྱུར།"
+MenuImagen_MSG10="གཟུགས་བརྙན་ཞིག་ gzip, bzip2 ཡང་ན་ xz དང་མཉམ་དུ་བསྡམས་དགོས།"
+MenuImagen_MSG11="zip, gz, bz2 ཡང་ན་ xz ནང་གི་པར་རིས་ཤིག་བསྡམས་སྒྲིག་མེད་པར་བཟོས།"
+MenuImagen_MSG11B="isoཔར་རིས་ཀྱི་md5བསྡོམས་རྩིས་ཞིབ་བཤེར་བྱེད།"
+MenuImagen_MSG12="iso ཐབས་ལམ་བསྒྱུར་དགོས།"
+MenuImagen_MSG0="དཀར་ཆག་སྔོན་མ།"
+MenuImagen_MSG13="གཟུགས་བརྙན་ཡིག་ཆར་གཅུས་གནོན་བྱ་རྒྱུ།"
+MenuImagen_MSG14="གཟུགས་བརྙན་ཡིག་ཚགས་གཉིས།"
+MenuImagen_MSG15="ཁྱེད་ཀྱིས་བསྡུ་སྒྲིག་བྱེད་འདོད་པའི་པར་རིས་གནས་སའི་སྣོད་ཐོའི་འགྲོ་ལམ་ཡིག་དཔར་རྐྱབས།"
+MenuImagen_MSG16="ཁྱེད་ཀྱིས་བསྡམས་པ་བཤོལ་དགོས་པའི་པར་རིས་ཡིག་ཆ།"
+MenuImagen_MSG17="མིག་སྔའི་ ISO རིམ་པ།"
+MenuImagen_MSG18="iso རིམ་པ།"
+MenuImagen_MSG19="ཡིག་ཆའི་མིང་རྣམས་དུམ་བུ་ལས་གྲུབ་ཡོད།"
+MenuImagen_MSG20="དང་ཡིག་འབྲུ་༨.༣ ལ་ཚད་བཀག་ཡོད།"
+MenuImagen_MSG21="གལ་ཏེ་ཁྱེད་ལ་མིང་མཉམ་མཐུན་དགོས་ན་རིམ་པ་འདི་འདེམས།"
+MenuImagen_MSG21b="MS-DOS བཀོལ་སྤྱོད་མ་ལག་འོག་ཏུ།"
+MenuImagen_MSG22="ཡིག་ཆའི་མིང་རྣམས་དུམ་བུ་ལས་གྲུབ་ཡོད།"
+MenuImagen_MSG23="ཚད་བཀག་མེད་པའི་གནས་རིམ།"
+MenuImagen_MSG24="གལ་ཏེ་ཁྱེད་ལ་ཡིག་ཆ་དང་མཉམ་མཐུན་དགོས་ན་རིམ་པ་འདི་བེད་སྤྱོད་བྱོས།"
+MenuImagen_MSG25="ཆེ་བ། གནས་སྟངས་འདིའི་ནང་ >= གྷི་གྷ་བཱའིཊ་ ༢ ཡིན།"
+MenuImagen_MSG26="ISOརིམ་པ་ཚང་མས་ཡིག་ཆའི་མིང་ལ་ཡི་གེ་ཆེ་ཆུང་དང་།"
+MenuImagen_MSG27="ཡིག་འབྲུ _ ལྟ་བུ། ཡིག་ཆའི་མིང་ཡིག་འབྲུ ༣༡ ལ་ཚད་བཀག་བྱས་ཡོད།"
+MenuImagen_MSG28="ཆེས་མང་ན་སྣོད་ཐོའི་ལམ་ཐིག་8དང་ལམ་ཐིག་མིང་།"
+MenuImagen_MSG29="ཡིག་འབྲུ་ ༢༥༥ བར་གྱི་སྣོད་ཐོ།"
+MenuImagen_MSG30="isoརིམ་པ་གསར་བ་འདེམས།"
+MenuImagen_MSG31="ISOརིམ་པ་བཞི་པ་གཞུང་འབྲེལ་མིན།"
+MenuImagen_MSG32="mkisofs མི་ཤོག་ངོས་ལ་བལྟོས།"
+MenuImagen_MSG33="ནོར་འཁྲུལ་ཅན་གྱི་ ISO གནས་རིམ།"
+MenuImagen_MSG34="སྔོན་སྒྲིག་ལྟར་ISOརིམ་པ་3བཙུགས་ཡོད།"

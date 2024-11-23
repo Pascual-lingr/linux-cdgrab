@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTibetan/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Tibetano para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="******************************** འགྲིམ་འགྲུལ་གྱི་གདམ་ཁ། *****************************"
+ayuda_gestor_de_archivos_MSG2="ཡིག་ཆའི་མ་ལག་བཤེར་འཚོལ་བྱེད།"
+ayuda_gestor_de_archivos_MSG3="X --> ཕྱིར་ཐོན།"
+ayuda_gestor_de_archivos_MSG4="A --> སྣོད་ཐོ་སྔོན་མ།"
+ayuda_gestor_de_archivos_MSG5="B --> སྣོད་ཐོ་རྗེས་མ།"
+ayuda_gestor_de_archivos_MSG6="ཡིག་ཆ་དང་སྣོད་ཐོའི་སྟེང་གི་བྱ་སྤྱོད།"
+ayuda_gestor_de_archivos_MSG7="C --> ཡིག་ཆ་འདྲ་ཕབ།"
+ayuda_gestor_de_archivos_MSG8="M --> ཡིག་ཆ་སྤོ་དགོས།"
+ayuda_gestor_de_archivos_MSG9="CD --> སྣོད་ཐོ་འདྲ་བཤུས།"
+ayuda_gestor_de_archivos_MSG10="MD --> སྣོད་ཐོ་སྤོ།"
+ayuda_gestor_de_archivos_MSG11="ཡིག་ཆ་དང་སྣོད་ཐོའི་སྟེང་གི་བྱ་སྤྱོད་རྟོགས།"
+ayuda_gestor_de_archivos_MSG12="Z --> ཡིག་ཆ་ཞིག་བཙིར་དགོས།"
+ayuda_gestor_de_archivos_MSG13="DZ --> ཡིག་ཆ་ཞིག་ཟིབ་ཕྱེ་དགོས།"
+ayuda_gestor_de_archivos_MSG14="EZ --> .tar.gz ཡང་ན་ .tar.bz2 ཐུམ་སྒྲིལ་གསར་བཟོ།"
+ayuda_gestor_de_archivos_MSG15="DEZ --> .tar.gz ཡང་ན་ .tar.bz2 ཞིག་ཕྱེ་དགོས།"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="མིག་སྔའི་ཤུགས་ལྡན་སྣོད་ཐོ།"
+gestor_de_archivos_MSG0B="ཡིག་ཆ་ནང་ཡོད།"
+gestor_de_archivos_MSG1="============================== འགྲིམ་འགྲུལ་གྱི་གདམ་ཁ། ==========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H -->  རོགས་པ="
+gestor_de_archivos_MSG3="========================================================================="
+gestor_de_archivos_MSG4="གདམ་ག་ཞིག་ཡིག་དཔར་རྐྱབས།"
+gestor_de_archivos_MSG5="སྣོད་ཐོའི་དབྱེ་བ་བཟོས།"
+gestor_de_archivos_MSG6="འབྱུང་ཁུངས་ཡིག་ཆ་ཡིག་དཔར་རྐྱབས།"
+gestor_de_archivos_MSG7="འགྲོ་ཡུལ་ཡིག་ཚགས་ཡིག་དཔར་རྐྱབས།"
+gestor_de_archivos_MSG8="ཡིག་ཆའི་འདྲ་བཤུས་ལེགས་འགྲུབ་བྱུང་།"
+gestor_de_archivos_MSG9="ཡིག་ཆ་འདྲ་བཤུས་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་བ།"
+gestor_de_archivos_MSG10="འབྱུང་ཁུངས་ཡིག་ཆ་ཡིག་དཔར་རྐྱབས།"
+gestor_de_archivos_MSG11="དམིགས་ཡུལ་ཡིག་ཆ་ཡིག་འཇུག་བྱོས།"
+gestor_de_archivos_MSG12="ཡིག་ཆ་བདེ་བླག་ངང་གནས་སྤོ་བྱས།"
+gestor_de_archivos_MSG13="ཡིག་ཆ་སྤོ་བསྒྱུར་ནོར་འཁྲུལ།"
+gestor_de_archivos_MSG14="འབྱུང་ཁུངས་དཀར་ཆག་ཡིག་དཔར་རྐྱབས།"
+gestor_de_archivos_MSG15="འགྲོ་ཡུལ་སྣོད་ཐོ་ཡིག་དཔར་རྐྱབས།"
+gestor_de_archivos_MSG16="སྣོད་ཐོ་ལེགས་འགྲུབ་ངང་འདྲ་བཤུས་བྱས།"
+gestor_de_archivos_MSG17="སྣོད་ཐོ་འདྲ་བཤུས་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་ཡོད།"
+gestor_de_archivos_MSG18="འབྱུང་ཁུངས་དཀར་ཆག་ཡིག་དཔར་རྐྱབས།"
+gestor_de_archivos_MSG19="འགྲོ་ཡུལ་སྣོད་ཐོ་ཡིག་དཔར་རྐྱབས།"
+gestor_de_archivos_MSG20="སྣོད་ཐོ་བདེ་བླག་ངང་གནས་སྤོ་བྱས།"
+gestor_de_archivos_MSG21="སྣོད་ཐོ་སྤོ་བསྒྱུར་ནོར་འཁྲུལ།"
+gestor_de_archivos_MSG22="ཡིག་ཚགས་བསྡམས་དགོས་པ།"
+gestor_de_archivos_MSG23="ཡིག་ཆའི་འགྲོ་ལམ་གཏན་འཁེལ་བྱོས།"

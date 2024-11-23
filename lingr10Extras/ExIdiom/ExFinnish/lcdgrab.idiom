@@ -1,0 +1,47 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Finés para la aplicación principal   #
+# Traduccińo experimental.                         #
+# Generado con Google Translate y Chat GPT         #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="LINUX-CDGRAB 1.0 automaattisesti luoma tiedosto"
+creacion_de_Depot_MSG2="Tämä tiedosto ja hakemisto"
+creacion_de_Depot_MSG3="on luotu automaattisesti"
+creacion_de_Depot_MSG4="Linux-cdgrab-sovelluksella, kun varmisti, ettei sitä ollut Linux-jakelussasi"
+creacion_de_Depot_MSG5="hakemisto"
+creacion_de_Depot_MSG6="Linux-cdgrab käyttää tätä hakemistoa tilapäisten tiedostojen ja laitekuvien (iso, img jne.) kirjoittamiseen."
+creacion_de_Depot_MSG8="GoboLinux käyttää varastoa tilapäisten tiedostojen tallentamiseen"
+creacion_de_Depot_MSG9="Tämän tiedoston tarkoitus on vain tiedoksi, voit vapaasti poistaa sen luettuasi."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="HUOM:"
+main_IDSISTEMA_MSG2="Käyttöjärjestelmää ei tueta."
+main_IDSISTEMA_MSG3="Jos sovelluksen toiminnassa on ongelmia, käytä GNU/Linuxia"
+
+# argumentos
+
+main_arg_MSG1="Se ei ole pätevä argumentti"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="löydetty"
+main_cdkit_test_MSG2="linkki wodimiin luotu"
+main_cdkit_test_MSG3="linkki genisoimageen luotu"
+main_cdkit_test_MSG4="linkki icedaxiin luotu"
+
+# pgm principal
+
+pgm_principal_MSG1="KAPPALEEN: Oikeaa hakemistojakaumaa ei löytynyt."
+pgm_principal_MSG2="TUNTEMATON"
+
+
+

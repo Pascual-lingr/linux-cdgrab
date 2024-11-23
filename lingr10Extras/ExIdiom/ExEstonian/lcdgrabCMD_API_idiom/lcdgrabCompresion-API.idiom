@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEstonian/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en estonio para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Sisestage faili või kataloogi tee:"
+empaquetar_MSG2="------- Valikud -------"
+empaquetar_MSG3="Loo .tar.gz fail"
+empaquetar_MSG4="Loo .tar.bz2 fail"
+empaquetar_MSG5="Sisestage valik: "
+empaquetar_MSG6="Töötab"
+empaquetar_MSG7="Vigane valik"
+
+# desempaquetar
+
+desempaquetar_MSG1="Sisesta faili tee:"
+desempaquetar_MSG2="DEKOMPRESSORI EI LEITUD"
+desempaquetar_MSG3="VÕI"
+desempaquetar_MSG4="EI OLEMAS"
+desempaquetar_MSG5="Töötab"
+desempaquetar_MSG6="lahti pakitud"
+desempaquetar_MSG7="Viga lahtipakkimisel"
+
+# comprime
+
+comprime_MSG1="KUJUTI TIHENDAMINE"
+comprime_MSG2="Tihenda bzip2-ga"
+comprime_MSG3="Tihenda gzipiga"
+comprime_MSG4="Tihenda xz-ga"
+comprime_MSG5="Eelmine menüü"
+comprime_MSG6="Töötab"
+comprime_MSG7="Pildifaili tihendamine lõpetatud"
+comprime_MSG8="Viga tihendamisel"
+comprime_MSG9="Vigane kompressor"
+
+# descomprime
+
+descomprime_MSG1="Tippige faili tee:"
+descomprime_MSG2="------------------"
+descomprime_MSG3="DEKOMPRESSORI EI LEITUD"
+descomprime_MSG4="VÕI"
+descomprime_MSG5="EI OLEMAS"
+descomprime_MSG6="Töötab"
+descomprime_MSG7="pakkimata"
+descomprime_MSG8="Viga lahtipakkimisel"
+

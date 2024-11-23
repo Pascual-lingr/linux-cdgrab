@@ -1,0 +1,171 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTajik/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Tayiko para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Дастгоҳи сабт ҳамчун"
+buscar_grabadora_MSG1B="Эътибор дорад"
+buscar_grabadora_MSG2="Дастгоҳи сабт ҳамчун"
+buscar_grabadora_MSG2B="Хато"
+buscar_grabadora_MSG3="dvd+-rw-tools қабул намекунанд, ки дастгоҳи сабткунанда аст"
+buscar_grabadora_MSG4="Барои қодир будан ба сӯзондани DVD-ҳо бо истифода аз dvd+-rw-tools шумо бояд сабткунандаи худро ҳамчун дастгоҳи блок муайян кунед"
+buscar_grabadora_MSG5="Мисол"
+buscar_grabadora_MSG6="ё"
+buscar_grabadora_MSG7="Намоиш додани дастгоҳҳои мавҷудаи система дар /dev"
+buscar_grabadora_MSG8="Таҷҳизоти блокеро ворид кунед, ки ба сабти DVDи шумо мувофиқ аст"
+buscar_grabadora_MSG9="Ягон навъи сабткунанда ё интихоб муайян нашудааст."
+buscar_grabadora_MSG10="ДАСТГОҲ БАРОИ Сабткун танзим шудааст"
+buscar_grabadora_MSG11="Таҷҳизоти сабт ба муҳити ҷилди ҳамчун содир карда шуд"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Арзиши имконпазир танҳо барои cdrecord эътибор дорад"
+buscar_grabadoralb_MSG2="Конфигуратсияи ҷории сабткунанда ин аст"
+buscar_grabadoralb_MSG3="Тафтиш кунед, ки ин конфигуратсия ба арзиши таъинкардаи cdrskin мувофиқат мекунад"
+buscar_grabadoralb_MSG4="Скан кардани порти IDE/SCSI бо cdrskin..."
+buscar_grabadoralb_MSG5="Кимати наверо, ки бо cdrskin истифода мешавад, муайян кунед:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Номи DVD-и ояндаро ворид кунед:"
+datos_dvd_MSG2="Сабти DVD..."
+datos_dvd_MSG3="Истифода"
+datos_dvd_MSG4="кор"
+datos_dvd_MSG5="DVD бомуваффақият сабт шуд!"
+datos_dvd_MSG6="mkisofs ё genisoimage ёфт нашуд, cdrtools ё cdrkit насб кунед"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Номи DVD-и ояндаро ворид кунед:"
+datos_dvd_multi_MSG2="Сабти DVD..."
+datos_dvd_multi_MSG3="Истифода"
+datos_dvd_multi_MSG4="кор"
+datos_dvd_multi_MSG5="DVD бомуваффақият сабт шуд! "
+datos_dvd_multi_MSG6="Mkisofs ё genisoimage ёфт нашуд, cdrtools ё cdrkit насб кунед"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="Сабт кардани тасвир..."
+grabimg_dvd_MSG2="давидан"
+grabimg_dvd_MSG3="ТААСвири DVD бомуваффақият сабт шуд !"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="Сабти тасвир дар DVD..."
+copia_bin_dvd_MSG2="кор"
+copia_bin_dvd_MSG3="	НАЗАР КАРДАНИ ФАЙЛИ ТАСМИР"
+copia_bin_dvd_MSG4="Сабт ба охир расид!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Формат a"
+formatear_dvd_MSG2="Маҷбур кардани формати нав барои a"
+formatear_dvd_MSG3="Ҷойгир кардани блоки пешбарии a"
+formatear_dvd_MSG4="Формат кардани DVD-RW ба афзояндаи пайдарпай"
+formatear_dvd_MSG5="Формат кардани DVD-RW ба такрорнависии маҳдуд"
+formatear_dvd_MSG6="ДВД-ро бо сифрҳо пур кунед"
+formatear_dvd_MSG7="Намоиш додани маълумоти DVD"
+formatear_dvd_MSG8="Менюи қаблӣ"
+formatear_dvd_MSG9="Ин хосият барои бори аввал формат кардани DVD истифода мешавад."
+formatear_dvd_MSG10="Агар DVD аллакай формат карда шуда бошад, он маълумотро нест намекунад."
+formatear_dvd_MSG11="Инҳо дар сабти нав аз нав навишта мешаванд."
+formatear_dvd_MSG12="Барои нест кардани мундариҷаи DVD истифода баред:"
+formatear_dvd_MSG13="ДВД-ро бо сифрҳо пур кунед"
+formatear_dvd_MSG14="Ин хосият формат ва маълумотро аз DVD-и коркардшуда нест мекунад."
+formatear_dvd_MSG15="кор"
+formatear_dvd_MSG16="DVD+RW/DVD-RW бомуваффақият формат карда шуд !"
+formatear_dvd_MSG17="ХАТО ВАҚТИ Форматкунии DVD"
+formatear_dvd_MSG18="Маҷбур кардани формат дар диски DVD+RW..."
+formatear_dvd_MSG19="DVD+RW бомуваффақият формат карда шуд!"
+formatear_dvd_MSG20="ХАТО ВАҚТИ Формат кардани DVD+RW"
+formatear_dvd_MSG21="Ин хосият ба маълумоти дар DVD+RW захирашуда таъсир намерасонад"
+formatear_dvd_MSG22="Нест кардани блоки баромад аз DVD+RW..."
+formatear_dvd_MSG23="Формат кардани диски DVD-RW ба навиштани пайдарпай..."
+formatear_dvd_MSG24="DVD-RW бомуваффақият формат карда шуд!"
+formatear_dvd_MSG25="ХАТО ВАҚТИ Формат кардани DVD-RW"
+formatear_dvd_MSG26="Формат кардани диски DVD-RW ба такрорнависии маҳдуд..."
+formatear_dvd_MSG27="РОЗ КАРДАНИ DVD-и сабтшаванда"
+
+# null_dvd
+
+null_dvd_MSG1="Навиштан ба диск аз /dev/zero..."
+null_dvd_MSG2="кор"
+null_dvd_MSG3="РАВАНДИ АМАЛ"
+null_dvd_MSG4="Хатои ғайриинтизор"
+
+# dvd_video
+
+dvd_video_MSG1="Роҳе, ки дар он директорияҳои VIDEO_TS ва AUDIO_TS ҷойгир шудаанд:"
+dvd_video_MSG2="Роҳеро, ки дар он директорияҳои VIDEO_TS ва AUDIO_TS ҷойгиранд, муайян кунед:"
+dvd_video_MSG3="иҷрошаванда"
+dvd_video_MSG4="--- DVD-ВИДЕО БОМУВАФФАКИЯТ сабт шуд ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="иҷрошаванда"
+dvd_copia_bin_MSG2="	НАЗАР КАРДАНИ ФАЙЛИ ТАСМИР"
+dvd_copia_bin_MSG3="Хатои сабт рӯй дод"
+
+# dvd_datos
+
+dvd_datos_MSG1="Файлҳо ва директорияҳо барои эҷоди тасвири .iso"
+dvd_datos_MSG2="DVD LABEL"
+dvd_datos_MSG3="Номи DVD-и ояндаро ворид кунед:"
+dvd_datos_MSG4="Оғози мудири файл:"
+dvd_datos_MSG5="	Эҷоди тасвир..."
+dvd_datos_MSG6="иҷрошаванда"
+dvd_datos_MSG7="ISO-9660 ТААСвир Эҷод шудааст"
+dvd_datos_MSG8="		Сабти DVD"
+dvd_datos_MSG13="ТАСВОРРО НОЗА КУНЕД..."
+
+# dvd_borra
+
+dvd_borra_MSG1="давидан"
+dvd_borra_MSG2="Диски оптикӣ бомуваффақият формат карда шуд"
+dvd_borra_MSG3="ХАТО ВАҚТИ ФОРМАТ КАРДАНИ ДИСКИ ОПТИКӢ"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="давидан"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="Иҷрокунанда"
+formatearCDDVDBD_MSG2="ДИСКИ ОПТИКӢ БОМУВАФФАКИЯТ Формат карда шуд"
+formatearCDDVDBD_MSG3="ХАТО ВАҚТИ ФОРМАТ КАРДАНИ ДИСКИ ОПТИКӢ"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW бомуваффақият формат карда шуд!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Хатои форматкунии DVD-RW ба такрорнависии маҳдуд"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW бомуваффақият формат карда шуд!!"
+formatearDVDRW_incremental_secuencial_MSG2="Хато ҳангоми формат кардани DVD-RW ба афзояндаи пайдарпай"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Муайян кардани роҳи тасвири iso-9660 барои сӯзондан:"
+cdrskinisocddvd_MSG2="Тасвири ISO бомуваффақият сабт шуд!!"
+cdrskinisocddvd_MSG3="ХАТО ВАҚТИ сабти тасвир"
+
