@@ -1,0 +1,109 @@
+#########################################################
+# lcdgrabAPI_idiom/ExCroatian/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Croata para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental. Generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="Ponovni pokušaj snimanja..."
+m_cdrecord_sin_overburn_MSG2="Pokretanje cdrecord a bez opcije -overburn"
+m_cdrecord_sin_overburn_MSG3="-overburn nije podržan na starijim uređajima za snimanje, niti na starijim verzijama cdrecord a."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="NEVALJANA OPCIJA"
+
+# img_error
+
+img_error_D_MSG1="GREŠKA PRILIKOM STVARANJA SLIKE"
+
+# CD_error
+
+CD_error_D_MSG1="POGREŠKA PRILIKOM PRŽENJA CD a"
+
+# DVD_error
+
+DVD_error_D_MSG1="POGREŠKA PRILIKOM PRŽENJA DVD a"
+
+# DO_error
+
+DO_error_D_MSG1="POGREŠKA PRILIKOM ZAPISIVANJA NA OPTIČKI DISK"
+
+
+# tecla
+
+tecla_D_MSG1="\nPritisnite ENTER za nastavak. . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="PUTOVIJE DIREKTORIJA ZA SNEMENJE NA DISK"
+rutas_dir_D_MSG2="Unesite naziv direktorija (f za izlaz):"
+rutas_dir_D_MSG3="DIREKTORIJ"
+rutas_dir_D_MSG4="NEVAŽEĆE"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="ISTA OPTIČKA JEDINICA U SUSTAVU"
+una_sola_grabadora_D_MSG2="JEDINICA ZA OČITAVANJE I SNIMANJE SU ISTE. PRETPOSTAVLJA SE DA VAŠ SUSTAV IMA SAMO JEDNU FIZIČKU JEDINICU. UKLONITE IZVORNI DISK IZ JEDINICE. UMETNITE DJEVIČANSKI OPTIČKI DISK ZA NASTAVAK PROCESA SNIMANJA"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="SNIMANJE DISKA JE USPJEŠNO ZAVRŠENO"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="NEVALJANA OPCIJA"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="SNIMANJE DISKA JE USPJEŠNO ZAVRŠENO"
+
+# text_img_error
+
+text_img_error_MSG1="GREŠKA PRILIKOM STVARANJA SLIKE"
+
+# text_CD_error
+
+text_CD_error_MSG1="POGREŠKA PRILIKOM PRŽENJA CD a"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="POGREŠKA PRILIKOM PRŽENJA DVD a"
+
+# text_DO_error
+
+text_DO_error_MSG1="POGREŠKA PRILIKOM ZAPISIVANJA NA OPTIČKI DISK"
+
+# teclash
+
+teclash_MSG1="Pritisnite ENTER za nastavak. . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Unesite naziv direktorija (f za izlaz):"
+text_rutas_dir_MSG2="IMENIK"
+text_rutas_dir_MSG3=" NEVAŽEĆE"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="ISTA OPTIČKA JEDINICA U SUSTAVU"
+text_una_sola_grabadora_MSG2="JEDINICA ZA ČITANJE I SNIMANJE SU ISTE."
+text_una_sola_grabadora_MSG3="PRETPOSTAVLJA SE DA VAŠ SUSTAV IMA SAMO JEDAN"
+text_una_sola_grabadora_MSG4="FIZIČKA JEDINICA."
+text_una_sola_grabadora_MSG5="UKLONITE IZVORNI DISK IZ JEDINICE."
+text_una_sola_grabadora_MSG6="UMETNITE DJEVIČANSKI OPTIČKI DISK"
+text_una_sola_grabadora_MSG7="ZA NASTAVAK S PROCESOM SNIMANJA."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="Trčanje"

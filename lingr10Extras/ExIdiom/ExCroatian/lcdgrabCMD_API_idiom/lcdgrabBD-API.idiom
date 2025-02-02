@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExCroatian/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Croata para el API de grabación en BD.
+# Traducción experimental. Generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 SLIKA ISPRAVNO SNIMLJENA NA BLU-RAY"
+grabar_ISO_BD_MSG2="GREŠKA PRILIKOM SNIMANJA SLIKE NA BLU-RAY DISK"
+grabar_ISO_BD_MSG3="ISO-9660 SLIKA U BD-u"
+grabar_ISO_BD_MSG4="Odredite putanju ISO-9660 slike za snimanje:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Datoteke i direktoriji za stvaranje .iso slike"
+bd_datos_MSG2="OZNAKA DB"
+bd_datos_MSG3="Unesite naziv za budući BD:"
+bd_datos_MSG4="Pokretanje upravitelja datoteka:"
+bd_datos_MSG5=" STVARANJE SLIKE . . ."
+bd_datos_MSG6="u tijeku"
+bd_datos_MSG7="ISO-9660 SLIKA KREIRANA U"
+bd_datos_MSG8="		SNIMANJE BD a"
+bd_datos_MSG13="IZBRIŠI SLIKU..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Potrebno formatiranje ili brisanje primjenjuje se ovisno o statusu diska"
+borrar_BDRE_lb_MSG2="BD-RE USPJEŠNO OBRISAN!!"
+borrar_BDRE_lb_MSG3="GREŠKA PRILIKOM BRISANJA BD-RE"
+

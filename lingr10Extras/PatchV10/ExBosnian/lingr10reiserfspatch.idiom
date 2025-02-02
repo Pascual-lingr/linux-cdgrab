@@ -1,0 +1,76 @@
+# Idioma Bosnio para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Pritisnite ENTER za nastavak..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="==================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 PODRŽAVA REISERFS."
+cabecera_interfaz_MSG3="==================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Montiraj izlaz komande:"
+formatear_disco_reiserfs_MSG2="Odredite blok uređaj za formatiranje: "
+formatear_disco_reiserfs_MSG3="Uređaj je uspješno formatiran"
+formatear_disco_reiserfs_MSG4="Greška formatiranja uređaja"
+formatear_disco_reiserfs_MSG5="PROCES ZAVRŠEN"
+formatear_disco_reiserfs_MSG6="Demontaža uređaja..."
+formatear_disco_reiserfs_MSG7="Formatiranje disk jedinice u ReiserFS..."
+formatear_disco_reiserfs_MSG8="Tri se"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="USPJEŠNO FORMATIRAN"
+formatear_img_reiserfs_MSG2="GREŠKA PRI FORMATIRANJU PRAZNE DATOTEKE"
+formatear_img_reiserfs_MSG3="Generisanje praznog fajla..."
+formatear_img_reiserfs_MSG4="Tri se"
+formatear_img_reiserfs_MSG5="Formatiranje prazne datoteke u ReiserFS..."
+formatear_img_reiserfs_MSG6="GENERACIJA PRAZNIH DATOTEKA SA PRILAGOĐENOM VELIČINOM"
+formatear_img_reiserfs_MSG7="Odredite veličinu prazne datoteke za generiranje (samo numerička vrijednost):"
+formatear_img_reiserfs_MSG8="Mjerenje prostora za generiranje praznog fajla:"
+formatear_img_reiserfs_MSG9="Odredite mjerenje prostora za korištenje: "
+formatear_img_reiserfs_MSG10="GREŠKA PRI ODREĐIVANJU MJERE VELIČINE"
+formatear_img_reiserfs_MSG11="Vrijednost veličine bloka:"
+formatear_img_reiserfs_MSG12="Količina prostora za prazan fajl:"
+formatear_img_reiserfs_MSG13="Izračunata vrijednost u bajtovima:"
+formatear_img_reiserfs_MSG14="Izračunata vrijednost za count:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Kreirajte sliku za CD-R/RW (702 Mbajta)"
+m_img_CDDVDBD_reiserfs_MSG2="Kreirajte sliku za DVD+RW (4 GB)"
+m_img_CDDVDBD_reiserfs_MSG3="Kreirajte sliku za DVD+RW/DL (8 GB)"
+m_img_CDDVDBD_reiserfs_MSG4="Kreirajte sliku za BD-R/RE (25 GB)"
+m_img_CDDVDBD_reiserfs_MSG5="Kreirajte datoteku slike prilagođene veličine"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Izlaz"
+imgr_tmp_MSG1="Izbriši sve reiserfs slike"
+imgr_tmp_MSG2="Montiraj ili demontiraj datoteku slike"
+imgr_tmp_MSG3="Fajlovi slika u"
+imgr_tmp_MSG4="Odaberite opciju"
+imgr_tmp_MSG5="Izbrisani slikovni fajlovi"
+imgr_tmp_MSG6="Postavi sliku"
+imgr_tmp_MSG7="Demontiraj sliku"
+imgr_tmp_MSG8="Montirana slika"
+imgr_tmp_MSG9="Demontirana slika"
+imgr_tmp_MSG10="Nevažeća opcija"
+imgr_tmp_MSG11="Odredite sliku za montiranje ili demontažu:"
+imgr_tmp_MSG12="Greška pri postavljanju slike"
+imgr_tmp_MSG13="Greška pri demontaži slike"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Formatiraj disk u ReiserFS"
+lingr10reiserfspatch_MSG2="Kreirajte ReiserFS sliku za CD/DVD/BD"
+lingr10reiserfspatch_MSG3="Operacije na ReiserFS slikama"
+lingr10reiserfspatch_MSG4="Nevažeća opcija"
+lingr10reiserfspatch_MSG0="Izlaz"
+

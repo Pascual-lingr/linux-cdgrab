@@ -1,0 +1,20 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBosnian/lcgdrabMenu_API_idiom/lcdgrabUIBD.idiom
+# Menu de Interfaz para la grabación de BD.
+# Traducción experimental al Bosnio, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_grabar_BD
+
+menu_grabar_BD_MSG0="Prethodni meni."
+menu_grabar_BD_MSG1="SNIMANJE BLU-RAY DISC A"
+menu_grabar_BD_MSG2="Narežite novi BD-R/BD-RE iso sa podataka tvrdog diska"
+menu_grabar_BD_MSG4="ISO/UDF slika za snimanje na disk."
+menu_grabar_BD_MSG7="Snimi iso-9660/udf sliku na BD-R/BD-RE"
+menu_grabar_BD_MSG8="------------------- BD - PODACI ------------------"
+menu_grabar_BD_MSG9="Prikaži informacije o disku diska"
+menu_grabar_BD_MSG10="Primijenite potrebno brisanje na BD-RE"

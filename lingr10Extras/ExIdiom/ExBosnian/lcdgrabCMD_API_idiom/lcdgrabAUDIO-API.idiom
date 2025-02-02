@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBosnian/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Bosnio para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3 DATOTEKE ZA KONVERZIRANJE"
+mp3awav_MSG0="Unesite putanju .mp3 fajlova: "
+mp3awav_MSG1="PRETVARANJE"
+mp3awav_MSG1B=" U .wav FORMAT"
+mp3awav_MSG2="trčanje"
+mp3awav_MSG3="Uzorkovanje postavljeno na 44100 Mhz"
+mp3awav_MSG4="Greška pri obradi uzorkovanja"
+mp3awav_MSG5="Konverzija nije uspjela"
+mp3awav_MSG6="Direktorij nije pronađen"
+mp3awav_MSG7="KRAJ AUDIO KONVERZIJE"
+mp3awav_MSG8="Normalizacija audio fajla"
+mp3awav_MSG9="Datoteka"
+mp3awav_MSG10="Normalizovano"
+mp3awav_MSG11="Greška normalizacije"
+
+# oggawav
+
+oggawav_MSG0="OGG DATOTEKE ZA KONVERZIRANJE"
+oggawav_MSG1="Unesite putanju .ogg fajlova: "
+oggawav_MSG2="PRETVARANJE"
+oggawav_MSG2B="A .wav FORMAT"
+oggawav_MSG3="trčanje"
+oggawav_MSG4="Uzorkovanje postavljeno na 44100 Mhz"
+oggawav_MSG5="Greška pri obradi uzorkovanja"
+oggawav_MSG6="Konverzija nije uspjela"
+oggawav_MSG7="Direktorij nije pronađen"
+oggawav_MSG8="KRAJ ZVUČNOG POKRIVANJA"
+oggawav_MSG9="Normalizacija audio fajla"
+oggawav_MSG10="Datoteka"
+oggawav_MSG11="Normalizirano"
+oggawav_MSG12="Greška normalizacije"
+
+# cdawav
+
+cdawav_MSG1="RIPANJE AUDIO CD a..."
+cdawav_MSG2="Izvršavanje:"
+cdawav_MSG3="USPJEŠNO SREĐENI AUDIO PESME!!"
+cdawav_MSG4="Sadržaj direktorija audio datoteka"
+cdawav_MSG5="GREŠKA PRI RIPIRAJU AUDIO TRAKE"
+
+# cddawav
+
+cddavav_MSG1="UNESITE BROJ PESME ZA RIP:"
+cddavav_MSG2="Pritisnite Crtl + c da poništite kopiranje numere"
+cddavav_MSG3="Izvršavanje:"
+cddavav_MSG4="USPJEŠNO RIPIRANO"
+cddavav_MSG5="GREŠKA RIPPOVANJA"
+
+# wavamp3
+
+wavamp3_MSG0="WAV DATOTEKE ZA KONVERZIRANJE"
+wavamp3_MSG1="Unesite putanju .wav fajlova: "
+wavamp3_MSG1B="PRETVARANJE"
+wavamp3_MSG2="FORMAT"
+wavamp3_MSG3="Izvršavanje:"
+wavamp3_MSG4="prilikom pretvaranja"
+wavamp3_MSG5="u .MP3 format"
+wavamp3_MSG6="Greška pri konverziji"
+wavamp3_MSG7="AUDIO KONVERZIJA ZAVRŠENA"
+wavamp3_MSG8="AUDIO DIREKTORIJ NIJE PRONAĐEN"
+
+# cdamp3
+
+cdamp3_MSG1="RIPANJE AUDIO CD a..."
+cdamp3_MSG2="Izvršavanje:"
+cdamp3_MSG3="USPJEŠNO SREĐENI AUDIO PESME!!"
+cdamp3_MSG4="GREŠKA PRI RIPIRAJU AUDIO TRAKE"
+cdamp3_MSG5="Funkcija poziva:"
+
+# wavaogg
+
+wavaogg_MSG1="Unesite putanju .wav fajlova: "
+wavaogg_MSG2="PRETVARANJE"
+wavaogg_MSG3=".ogg FORMAT"
+wavaogg_MSG4="Trčim:"
+wavaogg_MSG5="Greška pri konverziji"
+wavaogg_MSG6="u .ogg format"
+
+# cdaogg
+
+cdaogg_MSG1="RIPANJE AUDIO CD ova..."
+cdaogg_MSG2="Izvršavanje:"
+cdaogg_MSG3="USPJEŠNO SREĐENI AUDIO PESME!!"
+cdaogg_MSG4="GREŠKA PRI RIPIRAJU AUDIO TRAKE"
+cdaogg_MSG5="Funkcija poziva:"
+
+# corta_wav
+
+corta_wav_MSG0="Broj sekundi:"
+corta_wav_MSG1="Odredite putanju audio datoteke za konverziju:"
+corta_wav_MSG2="Odredi vrijeme u broju sekundi za koje"
+corta_wav_MSG3="rezanje fajla će početi."
+corta_wav_MSG4="-NAPOMENA-"
+corta_wav_MSG5="Da odredite početak zvuka, unesite 0"
+corta_wav_MSG6="Vrijednost u sekundama za početak konverzije:"
+corta_wav_MSG7="Odredi vrijeme u broju sekundi za koje"
+corta_wav_MSG8="Rezanje fajla će biti završeno."
+corta_wav_MSG9="Vrijednost u sekundama za kraj konverzije:"
+corta_wav_MSG10="Trči"
+corta_wav_MSG11="Obrezani audio fajl"
+corta_wav_MSG12="Greška prilikom sečenja fajla"
+corta_wav_MSG13="Audio fajl za obrezivanje:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1="Odredite putanju .flac fajlova:"
+flacawav_MSG2="PRETVARANJE"
+flacawav_MSG3=" U .wav FORMAT"
+flacawav_MSG4="Uzorkovanje postavljeno na 44100 Mhz"
+flacawav_MSG5="Greška pri obradi uzorkovanja"
+flacawav_MSG6="Normalizacija audio fajla"
+flacawav_MSG7="Datoteka"
+flacawav_MSG8="Normalizovano"
+flacawav_MSG9="Greška normalizacije"
+flacawav_MSG10="Konverzija nije uspjela"
+flacawav_MSG11="Direktorij nije pronađen"
+flacawav_MSG12="KRAJ AUDIO KONVERZIJE"
+
+# wavaflac
+
+wavaflac_MSG0="WAV DATOTEKE ZA KONVERZIRANJE"
+wavaflac_MSG1="Unesite putanju .wav fajlova: "
+wavaflac_MSG2="KONVERZIRANJE"
+wavaflac_MSG3=".flac FORMAT"
+wavaflac_MSG4="pretvoreno u flac format"
+wavaflac_MSG5="Greška pri konverziji"
+wavaflac_MSG6="u .flac format"
+wavaflac_MSG7="DIREKTORIJ FLAC DATOTEKA NIJE PRONAĐEN"
+

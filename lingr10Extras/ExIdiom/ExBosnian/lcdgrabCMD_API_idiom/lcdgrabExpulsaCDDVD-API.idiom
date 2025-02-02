@@ -1,0 +1,16 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBosnian/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Bosnio para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="OPTIČKI DISK IZBAČEN"
+expulsar_medio_MSG2="Greška prilikom pokušaja izbacivanja diska iz uređaja"
+expulsar_medio_MSG3="Unesite ime ručno:"
+

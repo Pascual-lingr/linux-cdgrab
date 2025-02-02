@@ -1,0 +1,32 @@
+# Idioma Bosnio para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Pritisnite ENTER za nastavak..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="========================================"
+cabecera_lightscribe_MSG2="PODRŠKA ZA LINUX-CDGRAB 1.0 LIGHTSCRIBE."
+cabecera_lightscribe_MSG3="========================================"
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Upišite putanju slike koju želite odštampati na disk:"
+imprimir_disco_lightscribe_MSG2="Format slike mora biti .bmp"
+imprimir_disco_lightscribe_MSG3="pokreće"
+imprimir_disco_lightscribe_MSG4="Etiketa odštampana na disku"
+imprimir_disco_lightscribe_MSG5="Greška pri štampanju etikete na disk"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="LightScribe tehnologija je prisutna samo na nekim jedinicama"
+lingr10lightscribepatch_MSG2="Trebali biste provjeriti ima li ga vaš diktafon."
+lingr10lightscribepatch_MSG3="Slično, samo posebni CD ovi ili DVD ovi mogu biti označeni za LightScribe"
+lingr10lightscribepatch_MSG4="Štampajte LightScribe disk"
+lingr10lightscribepatch_MSG5="Prethodni meni"
+lingr10lightscribepatch_MSG6="Nevažeća opcija"
+

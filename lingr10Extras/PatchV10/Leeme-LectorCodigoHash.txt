@@ -1,0 +1,13 @@
+lingr10LectorCodigoHash.sh ver 0.1 --> 02/02/2025
+
+path de ejecución: /usr/share/linux-cdgrab/parches/lingr10LectorCodigoHash.sh
+
+Parche para leer el código Hash (checksums) de un archivo .iso en LINUX-CDGRAB 1.0
+Pascual Martínez Cruz --> pascual89@hotmail.com
+Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+Notas:
+
+Usa las herramientas md5sum, b2sum, sha1sum, sha224sum, sha256sum, sha384sum, sha512sum del paquete coreutils.
+Se reutiliza /usr/share/linux-cdgrab/lcdgrabAPI_idiom/${IDIOM}/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+como fichero de idioma.

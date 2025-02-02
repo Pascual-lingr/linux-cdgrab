@@ -1,0 +1,37 @@
+# Idioma Croata para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+# Traducción experimental. Generado con Google Translate.
+
+# presskey
+
+presskey_MSG1="Pritisnite ENTER za nastavak..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="======================================="
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 KONVERZIJA .NRG U .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="Unesite putanju .nrg slike koju želite pretvoriti"
+convertir_imagen_nrg_MSG1B="Unesite putanju .iso slike koju želite generirati"
+convertir_imagen_nrg_MSG2="u tijeku"
+convertir_imagen_nrg_MSG3="Uspješna konverzija .nrg slike u .iso"
+convertir_imagen_nrg_MSG4="Pogreška pri pretvaranju slike .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Podrška za pretvorbu slika u linux-cdgrab"
+creditospatchnrgaiso_MSG2="Pretvaranje .nrg slika u .iso pomoću nrg2iso"
+creditospatchnrgaiso_MSG3="Distribuiraj pod GPL v2 licencom"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="Verzija naredbe:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="Pretvori .nrg sliku u .iso"
+lingr10ConversionNRG_2_ISO_MSG2="O"
+lingr10ConversionNRG_2_ISO_MSG3="Prethodni izbornik"
+lingr10ConversionNRG_2_ISO_MSG4="Nevažeća opcija"
+

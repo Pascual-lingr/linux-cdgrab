@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBosnian/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en bosnio para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="UREĐAJI KOJI SU TRENUTNO POSTAVLJENI U SISTEMU"
+montar_dispositivos_MSG1B="MONTAŽA/RASTAVLJANJE UREĐAJA"
+montar_dispositivos_MSG2="LINUX-CDGRAB OPCIJE"
+montar_dispositivos_MSG3="Izbaci disk iz CD/DVD/BD čitača"
+montar_dispositivos_MSG4="Izbaci disk iz CD/DVD/BD snimača"
+montar_dispositivos_MSG5="Postavite CD-ROM/DVD-ROM/BD-ROM čitač"
+montar_dispositivos_MSG6="Demontiraj CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Ručno montirajte ili demontirajte uređaj"
+montar_dispositivos_MSG0="Prethodni meni"
+montar_dispositivos_MSG8="CD/DVD/BD montiran na"
+montar_dispositivos_MSG9="PRISNITE ENTER ZA NASTAVAK..."
+montar_dispositivos_MSG10="Greška pri postavljanju CD/DVD/BD-a"
+montar_dispositivos_MSG11="CD/DVD/BD je demontiran"
+montar_dispositivos_MSG12="Greška pri demontaži CD/DVD/BD"
+montar_dispositivos_MSG13="Upišite uređaj za montiranje/demontažu:"
+montar_dispositivos_MSG14="Unesite tačku montiranja:"
+montar_dispositivos_MSG15="ne odgovara blok uređaju"
+montar_dispositivos_MSG16="Tačka montiranja nije pronađena"
+montar_dispositivos_MSG17="Podrazumevana tačka montiranja"
+montar_dispositivos_MSG18="Odaberite opciju:"
+montar_dispositivos_MSG19="Postavite"
+montar_dispositivos_MSG20="hr"
+montar_dispositivos_MSG21="Demontiraj"
+montar_dispositivos_MSG22="stari"
+montar_dispositivos_MSG23="montiran na:"
+montar_dispositivos_MSG24="GREŠKA PRI MONTAŽI"
+montar_dispositivos_MSG25="SR"
+montar_dispositivos_MSG26="demontiran sa"
+montar_dispositivos_MSG27="GREŠKA PRILIKOM DEMONTAŽENJA"
+montar_dispositivos_MSG28="stari"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Izlaz naredbe za montiranje"
+Montar_Imagenes_MSG1B="SASTAVLJANJE/RASTAVLJANJE DATOTEKA SLIKE"
+Montar_Imagenes_MSG2="Odaberite opciju"
+Montar_Imagenes_MSG3="Postavite CD/DVD/BD sliku"
+Montar_Imagenes_MSG4="Demontiraj CD/DVD/BD sliku"
+Montar_Imagenes_MSG5="Prethodni meni"
+

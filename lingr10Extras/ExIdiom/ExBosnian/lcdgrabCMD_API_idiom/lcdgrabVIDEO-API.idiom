@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBosnian/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en Bosnio para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="VIDEO KONVERZIJA BLU-RAY DISK KOMPATIBILNOST"
+conv_video_BDVideo_MSG2="Odredite putanju video datoteke za konverziju:"
+conv_video_BDVideo_MSG3="Odredite naziv fajla novog videa za kreiranje:"
+conv_video_BDVideo_MSG4="Video fajl je uspešno konvertovan!!"
+conv_video_BDVideo_MSG5="Greška pri konvertovanju video fajla"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="KONVERZIJA VIDEO DATOTEKA"
+conv_VideoFich_MSG2="Odredite video fajl za konverziju:"
+conv_VideoFich_MSG3="Odredite video fajl za generisanje:"
+conv_VideoFich_MSG4="KONVERZIJA VIDEO DATOTEKA ZAVRŠENA"
+conv_VideoFich_MSG5="GREŠKA PRILIKOM KONVERZIRANJA VIDEO DATOTEKA"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Odredite video fajl:"
+extrae_Audio_de_Video_MSG2="Odredite mp3 zvučni fajl za generisanje:"
+extrae_Audio_de_Video_MSG3="ISKLAĐIVANJE ZVUKA USPJEŠNO"
+extrae_Audio_de_Video_MSG4="GREŠKA PRI VAĐENJU ZVUKA"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Odredite video fajl:"
+extrae_Fragmento_Video_MSG2="Odredite video fajl za generisanje:"
+extrae_Fragmento_Video_MSG3="Odredi početno vrijeme (Odredi kao HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Odredi vrijeme završetka (Odredi kao HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="VIDEO USPJEŠNO ODREZAN"
+extrae_Fragmento_Video_MSG6="GREŠKA PRI SREĆANJU VIDEA"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Odredite zvučni fajl:"
+mezcla_Audio_Video_MSG2="Odredite video fajl:"
+mezcla_Audio_Video_MSG3="Odredite video fajl za generisanje:"
+mezcla_Audio_Video_MSG4="NOVI VIDEO FAJL USPJEŠNO GENERIRAN"
+mezcla_Audio_Video_MSG5="GREŠKA GENERACIJE VIDEO DATOTEKA"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="OPCIJA NIJE DOSTUPNA ZA INTERFEJS KONZOLE"
+graba_escritorio_MSG2="-- SNIMANJE RADNE SESIJE -- PRITISNITE CTRL + C DA OTKAŽETE I ZAUSTAVITE SNIMANJE"
+graba_escritorio_MSG3="VIDEO SNIMANJE ZAVRŠENO"
+

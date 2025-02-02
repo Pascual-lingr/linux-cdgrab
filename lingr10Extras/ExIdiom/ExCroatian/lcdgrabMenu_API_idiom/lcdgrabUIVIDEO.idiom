@@ -1,0 +1,24 @@
+#########################################################
+# lcdgrabAPI_idiom/ExCroatian/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en Croata para el menú de conversión de Video.
+# Traducción experimental. Generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="VIDEO KONVERZIJA"
+menu_conversion_video_MSG2="------------ KONVERZIJA IZMEĐU FORMATA -----------"
+menu_conversion_video_MSG3="Pretvori video u Blu Ray Disc kompatibilan sa Smart-TV"
+menu_conversion_video_MSG4="Video datoteka za pretvaranje:"
+menu_conversion_video_MSG0="Prethodni izbornik"
+menu_conversion_video_MSG6="Snimi sesiju radne površine"
+menu_conversion_video_MSG7="Pretvori video datoteku u drugi format"
+menu_conversion_video_MSG8="----------------- OSTALE OPCIJE ------------------"
+menu_conversion_video_MSG9="Miješaj video datoteku sa audio datotekom"
+menu_conversion_video_MSG10="Izdvoj MP3 audio iz video datoteke"
+menu_conversion_video_MSG11="Skrati video datoteku"
+

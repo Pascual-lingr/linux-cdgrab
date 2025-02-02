@@ -1,0 +1,89 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBosnian/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Bosnio, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Odaberite korisnički interfejs koji će se koristiti:"
+SeleccionaIUDVD_MSG2="Koristite sučelje za dvd+-rw-tools"
+SeleccionaIUDVD_MSG3="Koristite sučelje za Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Koristite sučelje za libburniju"
+SeleccionaIUDVD_MSG5="Prethodni meni"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="DVD SNIMANJE"
+menugrabar_dvd_MSG2="----------------- DVD - PODACI ------------------"
+menugrabar_dvd_MSG3="Kopiraj ISO-9660 DVD sa podacima"
+menugrabar_dvd_MSG4="Kreirajte prethodnu DVD sliku na tvrdom disku"
+menugrabar_dvd_MSG5="Snimite novi ISO-9660 DVD sa podacima"
+menugrabar_dvd_MSG6="Dodaj novu sesiju podataka na ISO-9660 DVD sa podacima(DVD sa više sesija)"
+menugrabar_dvd_MSG7="Zahtijeva DVD prethodno snimljen pomoću druge opcije"
+menugrabar_dvd_MSG8="Srežite sliku podataka ISO-9660 na DVD"
+menugrabar_dvd_MSG9="Snimite .ext2 sliku na DVD"
+menugrabar_dvd_MSG10="----------------- DVD - VIDEO ------------------"
+menugrabar_dvd_MSG11="Snimite novi DVD-Video"
+menugrabar_dvd_MSG12="---------------- DRUGE OPCIJE ------------------"
+menugrabar_dvd_MSG13="Formatirajte DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Prikaži informacije o DVD disku"
+menugrabar_dvd_MSG0="Prethodni meni"
+menugrabar_dvd_MSGPRINCIPAL="Upišite opciju"
+menugrabar_dvd_MSG15="Datoteke i direktorije koje treba uključiti na DVD"
+menugrabar_dvd_MSG16="Pokretanje fajl menadžera..."
+menugrabar_dvd_MSG17=".iso slika za snimanje na DVD"
+menugrabar_dvd_MSG18="Upišite putanju direktorija gdje se nalazi .iso slika koju želite snimiti"
+menugrabar_dvd_MSG19="Zahteva verziju cdrecord-a sa podrškom za DVD."
+menugrabar_dvd_MSG20="Snimanje .ext2 slike na DVD će se obaviti pomoću cdrecord-a."
+menugrabar_dvd_MSG21="Cdrecord verzija koja postoji u vašoj instalaciji bi trebala"
+menugrabar_dvd_MSG22="podržava DVD snimanje."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="ODABERITE OPCIJU"
+dvd_clonar_MSG2="--- KOPIJE DISKA SA PREGLEDOM SLIKE ---"
+dvd_clonar_MSG3="Kopiraj DVD sa podacima"
+dvd_clonar_MSG4="Kreirajte prethodnu DVD sliku na tvrdom disku"
+dvd_clonar_MSG5="--- KOPIJE DISKA NA LETU ---"
+dvd_clonar_MSG6="Kopiraj DVD sa podacima u hodu"
+dvd_clonar_MSG7="Klonirajte DVD sa podacima u hodu"
+dvd_clonar_MSG8="LETEĆE OPCIJE KOPIRANJA ZAHTIJEVAJU DVIJE OPTIČKE JEDINICE"
+dvd_clonar_MSG9="INSTALIRANO NA VAŠ RAČUNAR, POŠTO SE PODACI SNIMAJU DOK"
+dvd_clonar_MSG10="ČITAJTE DIREKTNO SA ORIGIN DISKA, AKO GA VAŠ RAČUNAR SAMO IMA"
+dvd_clonar_MSG11="NEĆETE MOĆI KORISTITI KOPIJE NA LETU."
+dvd_clonar_MSG0="Prethodni meni"
+dvd_clonar_MSG12="DVD KOPIJA PODATAKA"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD SNIMANJE"
+menugrabar_DVD_MSG2="------------------ DVD - PODACI ------------------"
+menugrabar_DVD_MSG3="Rip DVD sa podacima"
+menugrabar_DVD_MSG4="Snimi novi DVD sa podacima"
+menugrabar_DVD_MSG5="Snimi .iso ili .ext2 sliku na DVD"
+menugrabar_DVD_MSG6="Formatiraj DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Prikaži informacije o disku u drajvu"
+menugrabar_DVD_MSG0="Prethodni meni"
+menugrabar_DVD_MSGPRINCIPAL="Upišite opciju"
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Snimi iso-9660 sliku na DVD"
+menugrabar_DVD_libburnia_MSG2="Snimi podatke sa tvrdog diska na DVD"
+menugrabar_DVD_libburnia_MSG3="Format DVD"
+menugrabar_DVD_libburnia_MSG4="Formatiraj DVD-RW u sekvencijalno inkrementalno"
+menugrabar_DVD_libburnia_MSG5="Formatirajte DVD-RW u ograničeno prepisivanje"
+menugrabar_DVD_libburnia_MSG6="Prikaži informacije o vožnji"
+menugrabar_DVD_libburnia_MSG8="Popis diskova instaliranih u sistemu"
+menugrabar_DVD_libburnia_MSG0="Izlaz"
+menugrabar_DVD_libburnia_MSG7="Unesite opciju"
+

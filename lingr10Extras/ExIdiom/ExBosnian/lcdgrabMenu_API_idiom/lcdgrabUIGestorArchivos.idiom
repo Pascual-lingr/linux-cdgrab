@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBosnian/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Bosnio para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="*************************** OPCIJE NAVIGACIJE ****************************"
+ayuda_gestor_de_archivos_MSG2="Pretražite sistem datoteka."
+ayuda_gestor_de_archivos_MSG3="X --> Izađi"
+ayuda_gestor_de_archivos_MSG4="A --> Prethodni direktorij"
+ayuda_gestor_de_archivos_MSG5="B --> Sljedeći direktorij"
+ayuda_gestor_de_archivos_MSG6="Radnje na fajlovima i direktorijumima."
+ayuda_gestor_de_archivos_MSG7="C --> Kopiraj fajl"
+ayuda_gestor_de_archivos_MSG8="M --> Premjesti fajl"
+ayuda_gestor_de_archivos_MSG9="CD --> Kopiraj direktorij"
+ayuda_gestor_de_archivos_MSG10="MD --> Premjesti direktorij"
+ayuda_gestor_de_archivos_MSG11="Razumijevanje radnji na fajlovima i direktorijumima."
+ayuda_gestor_de_archivos_MSG12="Z --> Komprimiraj fajl"
+ayuda_gestor_de_archivos_MSG13="DZ --> Dekomprimiraj fajl"
+ayuda_gestor_de_archivos_MSG14="EZ --> Kreirajte .tar.gz ili .tar.bz2 paket"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Raspakujte .tar.gz ili .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Trenutni aktivni direktorij"
+gestor_de_archivos_MSG0B="Fajlovi u"
+gestor_de_archivos_MSG1="=========================== OPCIJE NAVIGACIJE ========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> AID="
+gestor_de_archivos_MSG3="======================================================================="
+gestor_de_archivos_MSG4="Upišite opciju"
+gestor_de_archivos_MSG5="Vrsta imenika"
+gestor_de_archivos_MSG6="Upišite izvorni fajl"
+gestor_de_archivos_MSG7="Upišite odredišni fajl"
+gestor_de_archivos_MSG8="Datoteka je uspješno kopirana"
+gestor_de_archivos_MSG9="Greška pri kopiranju fajla"
+gestor_de_archivos_MSG10="Upišite izvorni fajl"
+gestor_de_archivos_MSG11="Upišite odredišni fajl"
+gestor_de_archivos_MSG12="Datoteka je uspješno premještena"
+gestor_de_archivos_MSG13="Greška pri premještanju fajla"
+gestor_de_archivos_MSG14="Upišite izvorni direktorij"
+gestor_de_archivos_MSG15="Upišite odredišni direktorij"
+gestor_de_archivos_MSG16="Direktorij je uspješno kopiran"
+gestor_de_archivos_MSG17="Greška pri kopiranju direktorija"
+gestor_de_archivos_MSG18="Upišite izvorni direktorij"
+gestor_de_archivos_MSG19="Upišite odredišni direktorij"
+gestor_de_archivos_MSG20="Direktorij je uspješno premješten"
+gestor_de_archivos_MSG21="Greška premještanja direktorija"
+gestor_de_archivos_MSG22="DATOTEKA ZA KOMPRESIRANJE"
+gestor_de_archivos_MSG23="Odredite putanju datoteke"
+

@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExCroatian/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Croata para el gestor de archivos
+# Traducción experimental. Generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="*************************** OPCIJE NAVIGACIJE ****************************"
+ayuda_gestor_de_archivos_MSG2="Pregledajte sustav datoteka."
+ayuda_gestor_de_archivos_MSG3="X --> Izlaz"
+ayuda_gestor_de_archivos_MSG4="A --> Prethodni direktorij"
+ayuda_gestor_de_archivos_MSG5="B --> Sljedeći direktorij"
+ayuda_gestor_de_archivos_MSG6="Akcije na datotekama i direktorijima."
+ayuda_gestor_de_archivos_MSG7="C --> Kopiraj datoteku"
+ayuda_gestor_de_archivos_MSG8="M --> Premjesti datoteku"
+ayuda_gestor_de_archivos_MSG9="CD --> Kopiraj imenik"
+ayuda_gestor_de_archivos_MSG10="MD --> Premjesti direktorij"
+ayuda_gestor_de_archivos_MSG11="Razumijevanje radnji na datotekama i direktorijima."
+ayuda_gestor_de_archivos_MSG12="Z --> komprimiraj datoteku"
+ayuda_gestor_de_archivos_MSG13="DZ --> Dekompresiraj datoteku"
+ayuda_gestor_de_archivos_MSG14="EZ --> Kreirajte paket .tar.gz ili .tar.bz2"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Raspakiraj .tar.gz ili .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Trenutni aktivni imenik"
+gestor_de_archivos_MSG0B="Datoteke u"
+gestor_de_archivos_MSG1="=========================== OPCIJE NAVIGACIJE ==========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> POMOĆ="
+gestor_de_archivos_MSG3="========================================================================="
+gestor_de_archivos_MSG4="Upišite opciju"
+gestor_de_archivos_MSG5="Upišite imenik"
+gestor_de_archivos_MSG6="Upišite izvornu datoteku"
+gestor_de_archivos_MSG7="Upišite odredišnu datoteku"
+gestor_de_archivos_MSG8="Datoteka je uspješno kopirana"
+gestor_de_archivos_MSG9="Pogreška pri kopiranju datoteke"
+gestor_de_archivos_MSG10="Upišite izvornu datoteku"
+gestor_de_archivos_MSG11="Upišite odredišnu datoteku"
+gestor_de_archivos_MSG12="Datoteka je uspješno premještena"
+gestor_de_archivos_MSG13="Pogreška pri premještanju datoteke"
+gestor_de_archivos_MSG14="Upišite izvorni direktorij"
+gestor_de_archivos_MSG15="Upišite odredišni direktorij"
+gestor_de_archivos_MSG16="Imenik je uspješno kopiran"
+gestor_de_archivos_MSG17="Pogreška kopiranja direktorija"
+gestor_de_archivos_MSG18="Upišite izvorni direktorij"
+gestor_de_archivos_MSG19="Upišite odredišni direktorij"
+gestor_de_archivos_MSG20="Imenik je uspješno premješten"
+gestor_de_archivos_MSG21="Pogreška pri premještanju direktorija"
+gestor_de_archivos_MSG22="DATOTEKA ZA KOMPRESIJU"
+gestor_de_archivos_MSG23="Navedite putanju datoteke"
+

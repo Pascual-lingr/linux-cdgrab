@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExCroatian/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Croata para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimetal. Generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Unesite put do datoteke ili direktorija:"
+empaquetar_MSG2="------ Mogućnosti ------"
+empaquetar_MSG3="Generiraj .tar.gz datoteku"
+empaquetar_MSG4="Generiraj .tar.bz2 datoteku"
+empaquetar_MSG5="Upišite opciju: "
+empaquetar_MSG6="U tijeku"
+empaquetar_MSG7="Nevažeća opcija"
+
+# desempaquetar
+
+desempaquetar_MSG1="Unesite put datoteke:"
+desempaquetar_MSG2="NIJE PRONAĐEN DEKOMPRESOR ZA"
+desempaquetar_MSG3="ILI"
+desempaquetar_MSG4="NE POSTOJI"
+desempaquetar_MSG5="U tijeku"
+desempaquetar_MSG6="raspakirano"
+desempaquetar_MSG7="Pogreška pri pokušaju raspakiranja"
+
+# comprime
+
+comprime_MSG1="KOMPRESIRANJE SLIKE"
+comprime_MSG2="Komprimiraj s bzip2"
+comprime_MSG3="Komprimiraj s gzipom"
+comprime_MSG4="Komprimiraj s xz"
+comprime_MSG5="Prethodni izbornik"
+comprime_MSG6="U tijeku"
+comprime_MSG7="Kompresija slikovne datoteke dovršena"
+comprime_MSG8="Pogreška pri komprimiranju s"
+comprime_MSG9="Nevažeći kompresor"
+
+# descomprime
+
+descomprime_MSG1="Upišite put datoteke:"
+descomprime_MSG2="---------------------"
+descomprime_MSG3="NIJE PRONAĐEN DEKOMPRESOR ZA"
+descomprime_MSG4="ILI"
+descomprime_MSG5="NE POSTOJI"
+descomprime_MSG6="Trči"
+descomprime_MSG7="nekomprimirano"
+descomprime_MSG8="Pogreška pri pokušaju dekompresije"
+

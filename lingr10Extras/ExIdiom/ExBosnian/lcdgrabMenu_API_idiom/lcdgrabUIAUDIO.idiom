@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBosnian/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en Bosnio para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="AVDIO KONVERZIJA"
+menu_conversion_audio_MSG2="------------- KONVERZIJA IZMEĐU FORMATA -----------"
+menu_conversion_audio_MSG3="Pretvori .mp3 u .wav"
+menu_conversion_audio_MSG4="Pretvori .ogg u .wav"
+menu_conversion_audio_MSG5="Pretvori .wav u .mp3"
+menu_conversion_audio_MSG6="Pretvori .wav u .ogg"
+menu_conversion_audio_MSG6C="Pretvori .wav u .flac"
+menu_conversion_audio_MSG6B="Pretvori .flac u .wav"
+menu_conversion_audio_MSG7="------------- IZVAĐIVANJE AUDIO TRAGOVA -----------"
+menu_conversion_audio_MSG8="Rip audio CD u .wav"
+menu_conversion_audio_MSG9="Preslikaj skup audio zapisa u .wav"
+menu_conversion_audio_MSG10="Rip audio CD u .mp3"
+menu_conversion_audio_MSG11="Rip audio CD na .ogg"
+menu_conversion_audio_MSG0="Prethodni meni"
+menu_conversion_audio_MSG12="Traži .mp3 fajlove"
+menu_conversion_audio_MSG13="Traži .ogg fajlove"
+menu_conversion_audio_MSG14="Traži .wav fajlove"
+menu_conversion_audio_MSG15="----------------- DRUGE OPERACIJE -----------------"
+menu_conversion_audio_MSG16="Izreži .wav audio fajl"
+menu_conversion_audio_MSG17="Rip audio CD u .flac"
+

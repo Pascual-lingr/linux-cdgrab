@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExCroatian/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes en Croata para el intefaz de creación de imágenes
+# Traducción experimental. Generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="IZRADA I OBRADA SLIKA DISK A"
+MenuImagen_MSG2="--------------- STVARANJE SLIKE ----------------"
+MenuImagen_MSG3="Stvori ISO-9660 sliku"
+MenuImagen_MSG4="Stvorite sliku s izvornim Linux sustavom datoteka"
+MenuImagen_MSG5="Stvorite .img sliku bilo kojeg blok uređaja"
+MenuImagen_MSG6="Stvori .bin .cue sliku s trenutnog uređaja"
+MenuImagen_MSG7="----------------- DRUGE OPCIJE -----------------"
+MenuImagen_MSG8="Generiraj .cue datoteku opisa iz .bin slike"
+MenuImagen_MSG9="Pretvori sliku .nrg (Nero Burning ROM) u .iso"
+MenuImagen_MSG10="Komprimiraj sliku s gzip, bzip2 ili xz"
+MenuImagen_MSG11="Dekomprimiraj sliku u zip, gz, bz2 ili xz"
+MenuImagen_MSG11B="Provjeri md5 zbroj iso slika"
+MenuImagen_MSG12="Promijeni iso način"
+MenuImagen_MSG0="Prethodni izbornik"
+MenuImagen_MSG13="Slikovna datoteka za komprimiranje"
+MenuImagen_MSG14="KOMPRESIRAJTE SLIKOVNU DATOTEKU"
+MenuImagen_MSG15="Upišite put direktorija gdje se nalazi slika koju želite komprimirati:"
+MenuImagen_MSG16="Slikovna datoteka koju želite dekomprimirati"
+MenuImagen_MSG17="TRENUTNA ISO RAZINA"
+MenuImagen_MSG18="iso razina"
+MenuImagen_MSG19="Imena datoteka sastoje se od odjeljka"
+MenuImagen_MSG20="i ograničeni su na 8,3 znakova."
+MenuImagen_MSG21="Odaberite ovu razinu ako želite kompatibilnost imena"
+MenuImagen_MSG21b="pod operativnim sustavom MS-DOS"
+MenuImagen_MSG22="Imena datoteka sastoje se od odjeljka"
+MenuImagen_MSG23="Neograničena razina."
+MenuImagen_MSG24="Koristite ovu razinu ako želite kompatibilnost s datotekama"
+MenuImagen_MSG25="veliko, u ovom slučaju >= 2 Gigabajta."
+MenuImagen_MSG26="Sve ISO razine ograničavaju nazive datoteka na velika, mala i"
+MenuImagen_MSG27="znakovi poput _. Nazivi datoteka ograničeni su na 31 znak"
+MenuImagen_MSG28="Maksimalno 8 staza direktorija i naziv staze"
+MenuImagen_MSG29="direktorije do 255 znakova."
+MenuImagen_MSG30="Odaberite novu iso razinu"
+MenuImagen_MSG31="ISO razina 4 nije službena"
+MenuImagen_MSG32="Pogledajte stranicu priručnika mkisofs"
+MenuImagen_MSG33="Nevažeća ISO razina"
+MenuImagen_MSG34="ISO razina 3 uspostavljena prema zadanim postavkama"
+

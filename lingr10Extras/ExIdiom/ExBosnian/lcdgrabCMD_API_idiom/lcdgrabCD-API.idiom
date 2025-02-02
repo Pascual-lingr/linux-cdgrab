@@ -1,0 +1,184 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBosnian/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Bosnio para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="pokreće"
+copia_bin_MSG2="--------------PONOVNI POKUŠAJ PROCESA SNIMANJA--------------"
+copia_bin_MSG3="		BRISANJE DATOTEKA SLIKE"
+copia_bin_MSG4="DEŠLA JE GREŠKA SNIMANJA"
+copia_bin_MSG5="Disk dump .iso fajl slike nije pronađen. Prekidanje snimanja..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="u toku"
+datos_al_vuelo_MSG2="Greška u pokušaju snimanja, ponovni pokušaj bez podrške za overburn"
+datos_al_vuelo_MSG3="Provjerite da li je izvorni disk ili uređaj"
+datos_al_vuelo_MSG4="je u dobrom stanju"
+datos_al_vuelo_MSG5="Dobivanje broja izlaznog bloka sa izvornog diska"
+datos_al_vuelo_MSG6="KOPIRANJE DISKA..."
+
+# clonar_cd
+
+clonar_cd_MSG1="pokreće"
+clonar_cd_MSG2="CD USPJEŠNO KLONIRAN"
+clonar_cd_MSG3="NEKA GREŠKA PRILIKOM KLONIRANJA CD-a"
+
+# datos
+
+datos_MSG1="Datoteke i direktoriji za kreiranje .iso slike"
+datos_MSG2="CD/DVD/BD LABEL"
+datos_MSG3="Unesite ime za budući CD/DVD/BD:"
+datos_MSG4="Pokretanje upravitelja datotekama:"
+datos_MSG5="	KREIRANJE SLIKE . . ."
+datos_MSG6="u toku"
+datos_MSG7="ISO-9660 SLIKA KREIRANA U"
+datos_MSG8="		REŽIVANJE CD/DVD/BD"
+datos_MSG9="PROCES KREIRANJA DATOTEKA SLIKE JE NEUSPEO"
+datos_MSG10="PONOVNI POKUŠAJ KREIRANJA NOVOG BEZ PODRŠKE ZA HFS (Macintosh)"
+datos_MSG11="BRISANJE SLIKE . ."
+datos_MSG12="KREIRANJE NOVE SLIKE . . ."
+datos_MSG13="NIJE MOGUĆE ISPRAVNO SNIMITI"
+datos_MSG14="------------PONOVNI POKUŠAJ PROCESA SNIMANJA------------"
+datos_MSG15="IZBRIŠI SLIKU..."
+datos_MSG16="REŽIVANJE ISO-9660 PODATAKA CD/DVD/BD..."
+datos_MSG17="Nije pronađeno."
+datos_MSG18="Prekidam snimanje diska..."
+
+# datoslb
+
+datoslb_MSG1="Greška: Fajl slike nije moguće pronaći. Prekidam..."
+datoslb_MSG2="PROCES SNIMANJA OK"
+datoslb_MSG3="GREŠKA U PROCESU SNIMANJA"
+
+# borra
+
+borra_MSG0="Prethodni meni"
+borra_MSG1="Odaberite način brisanja CD-RW a"
+borra_MSG2="--------------------------------"
+borra_MSG3="Brzo brisanje (koristite cdrecord)"
+borra_MSG4="Završi brisanje (koristite cdrecord)"
+borra_MSG5="Potrebno je brisanje (koristite cdrskin)"
+borra_MSG6="u toku"
+borra_MSG7="Potrebno formatiranje ili brisanje se primjenjuje u zavisnosti od statusa diska"
+borra_MSG8="CD-RW USPJEŠNO BRISAN!!"
+borra_MSG9="GREŠKA PRI BRISANJU CD-RW"
+borra_MSG10="NASILNO BRISANJE CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="GREŠKA PRILIKOM POKUŠAJA BRISANJA CD-RW a"
+err_borra_cdrw_MSG2="CD-RW NEUpotrebljiv"
+err_borra_cdrw_MSG3="NIJE MOGUĆE IZBRISATI OVAJ CD-RW"
+err_borra_cdrw_MSG4="PROVJERI DA LI CD-RW ima FIZIČKA OŠTEĆENJA"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="pokreće"
+cerrar_cd_MSG2="CD JE ISPRAVNO ZATVOREN"
+cerrar_cd_MSG3="GREŠKA PRILIKOM ZATVARANJA CD-a"
+cerrar_cd_MSG4="ZATVORENJE TRAKE NA CD-u sa podacima . . ."
+
+# grabimg
+
+grabimg_MSG1=".iso ili .ext2 slika za snimanje na CD/DVD"
+grabimg_MSG2="Pokretanje upravitelja datoteka."
+grabimg_MSG3="Upišite punu putanju gdje se nalazi CD/DVD slika koju želite snimiti:"
+grabimg_MSG4="trčanje"
+grabimg_MSG5="------------PONOVNI POKUŠAJ PROCESA SNIMANJA-----------"
+grabimg_MSG6="SNIMANJE ZAVRŠENO!!"
+grabimg_MSG7="SLIKA .EXT2 USPJEŠNO SNIMLJENA"
+
+# grabimglb
+
+grabimglb_MSG1="Upišite punu putanju gdje se nalazi CD/DVD slika koju želite snimiti:"
+grabimglb_MSG2="Narezivanje slike na disk..."
+grabimglb_MSG3="ISO-9660 SLIKA USPJEŠNO SNIMLJENA"
+grabimglb_MSG4="GREŠKA U SNIMANJU ISO-9660 SLIKE"
+grabimglb_MSG5="Greška: Datoteka slike nije pronađena. Prekidanje..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin i .cue fajlovi za snimanje slike"
+grabimg_cue_MSG2="Da snimite bin/cue sliku, oba fajla moraju biti"
+grabimg_cue_MSG3="budi u aktivnom direktoriju."
+grabimg_cue_MSG4="Trenutni aktivni direktorij"
+grabimg_cue_MSG5="Unesite ime *.cue datoteke koja upućuje na *.bin datoteku slike"
+grabimg_cue_MSG6=".cue fajl: "
+grabimg_cue_MSG7="trčanje"
+grabimg_cue_MSG8="SNIMANJE ZAVRŠENO!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Snimite multisession CD sa .iso slike"
+cd_multi_MSG2="Snimi prvu sesiju na CD sa .iso slike"
+cd_multi_MSG3="Nareži multisession CD sa fajlova na disku"
+cd_multi_MSG4="Snimite uzastopne sesije na CD sa fajlova na hard disku"
+cd_multi_MSG5="Ova opcija zahtijeva CD sa više sesija, sa prethodno snimljenom sesijom."
+cd_multi_MSG6="Prethodni meni"
+cd_multi_MSG7=".iso slika za snimanje na CD-Multi-session"
+cd_multi_MSG8="Odredite putanju .iso slike"
+cd_multi_MSG9="pokreće"
+cd_multi_MSG10="CD VIŠE SESIJA USPJEŠNO SNIMLJEN!!"
+cd_multi_MSG11="Direktoriji za uključivanje u sliku."
+cd_multi_MSG12="Navedite ispod koje direktorije treba uključiti"
+cd_multi_MSG13="Unesite naziv CD etikete:"
+cd_multi_MSG14="KREIRANJE SLIKE..."
+cd_multi_MSG15="USPJEŠNO KREIRAN"
+cd_multi_MSG16="GREŠKA PRILIKOM KREIRANJA SLIKE. PREKIDA PROCESA SNIMANJA..."
+cd_multi_MSG17="REŽIVANJE CD SLIKA..."
+cd_multi_MSG18="CD MENI S VIŠE SESIJA"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="RIPANJE AUDIO CD a..."
+copia_cd_audio_MSG2="Tri se"
+copia_cd_audio_MSG3="AUDIO PESME USPJEŠNO SREĐENE!!"
+copia_cd_audio_MSG4="GREŠKA PRI RIPIRAJU AUDIO TRAKE"
+copia_cd_audio_MSG5="REŽIVANJE AUDIO CD a..."
+copia_cd_audio_MSG6="AUDIO CD USPJEŠNO KOPIRAN!!"
+
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav fajlovi za snimanje na CD"
+wav_a_cd_MSG2="Linux-cdgrab neće provjeriti veličinu direktorija"
+wav_a_cd_MSG3="Provjerite da nije veći od 650 Mbajta u slučaju"
+wav_a_cd_MSG4="ako koristite CD od 80 minuta."
+wav_a_cd_MSG5="Unesite putanju direktorija .wav fajlova"
+wav_a_cd_MSG6="pokreće"
+wav_a_cd_MSG7="PROCES ZAVRŠEN!"
+
+# cdmixto
+
+cdmixto_MSG1="Projekat kreiranja CD-Mixto (slika podataka .iso + audio fajlovi .wav)"
+cdmixto_MSG2="Linux-cdgrab neće provjeriti veličinu direktorija"
+cdmixto_MSG3="gdje su audio fajlovi."
+cdmixto_MSG4="To neće učiniti ni sa .iso slike koju ćete snimiti"
+cdmixto_MSG5="poslije."
+cdmixto_MSG6="Budite u skladu s veličinom koju imate"
+cdmixto_MSG7="Snimi na svoj novi CD."
+cdmixto_MSG8="Odredite putanju audio fajlova:"
+cdmixto_MSG9="Odredite putanju iso slike:"
+cdmixto_MSG10="########################################"
+cdmixto_MSG11="SNIMANJE MIKSOVANOG CD a: PODACI + AUDIO"
+cdmixto_MSG12="trčanje"
+cdmixto_MSG13="----USPJEŠNO KREIRANI MIX CD-----!!"
+cdmixto_MSG14="------GREŠKA PRI SREĆANJU MIKSOVANOG CD a--------"
+
+# discoinfo
+
+discoinfo_MSG1="trčanje"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI port skeniran"
+cdrecord_scan_MSG1="Greška pri skeniranju IDE/SCSI porta"
+cdrecord_scan_MSG2="cdrecord nije pronađen"

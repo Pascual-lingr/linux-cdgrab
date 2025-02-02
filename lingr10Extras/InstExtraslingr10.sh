@@ -25,6 +25,10 @@ cd ..
 echo "Copiando parches"
 
 cd ./PatchV10
+
+cp -f lingr10LectorCodigoHash.sh /usr/share/linux-cdgrab/parches
+cp -f Leeme-LectorCodigoHash.txt /usr/share/linux-cdgrab/parches
+
 cp -f lingr10lightscribepatch.sh /usr/share/linux-cdgrab/parches
 cp -f Leeme-soporte-lightscribe.txt /usr/share/linux-cdgrab/parches
 
@@ -83,6 +87,8 @@ cp -f ./ExKazakh/lingr10lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgrabAP
 cp -f ./ExMongolian/lingr10lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExMongolian/lcdgrabparches_idiom
 cp -f ./ExTajik/lingr10lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExTajik/lcdgrabparches_idiom
 cp -f ./ExTibetan/lingr10lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExTibetan/lcdgrabparches_idiom
+cp -f ./ExCroatian/lingr10lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExCroatian/lcdgrabparches_idiom
+cp -f ./ExBosnian/lingr10lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExBosnian/lcdgrabparches_idiom
 
 cp -f ./Español/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/Español/lcdgrabparches_idiom
 cp -f ./EspDefNA/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/EspDefNA/lcdgrabparches_idiom
@@ -130,6 +136,8 @@ cp -f ./ExKazakh/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_i
 cp -f ./ExMongolian/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExMongolian/lcdgrabparches_idiom
 cp -f ./ExTajik/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExTajik/lcdgrabparches_idiom
 cp -f ./ExTibetan/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExTibetan/lcdgrabparches_idiom
+cp -f ./ExCroatian/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExCroatian/lcdgrabparches_idiom
+cp -f ./ExBosnian/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExBosnian/lcdgrabparches_idiom
 
 cp -f ./Español/lingr10ConversionNRG_2_ISO.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/Español/lcdgrabparches_idiom
 cp -f ./EspDefNA/lingr10ConversionNRG_2_ISO.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/EspDefNA/lcdgrabparches_idiom
@@ -177,6 +185,8 @@ cp -f ./ExKazakh/lingr10ConversionNRG_2_ISO.idiom /usr/share/linux-cdgrab/lcdgra
 cp -f ./ExMongolian/lingr10ConversionNRG_2_ISO.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExMongolian/lcdgrabparches_idiom
 cp -f ./ExTajik/lingr10ConversionNRG_2_ISO.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExTajik/lcdgrabparches_idiom
 cp -f ./ExTibetan/lingr10ConversionNRG_2_ISO.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExTibetan/lcdgrabparches_idiom
+cp -f ./ExCroatian/lingr10ConversionNRG_2_ISO.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExCroatian/lcdgrabparches_idiom
+cp -f ./ExBosnian/lingr10ConversionNRG_2_ISO.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExBosnian/lcdgrabparches_idiom
 
 echo "Parches instalados"
 echo "------- INSTALACION DE COMPLEMENTOS EXTRA FINALIZADA --------"
@@ -201,6 +211,10 @@ cd ..
 echo "Copiando parches"
 
 cd ./PatchV10
+
+cp -f lingr10LectorCodigoHash.sh /Programs/linux-cdgrab-1.0/parches/
+cp -f Leeme-LectorCodigoHash.txt /Programs/linux-cdgrab-1.0/parches/
+
 cp -f lingr10lightscribepatch.sh /Programs/linux-cdgrab-1.0/parches/
 cp -f Leeme-soporte-lightscribe.txt /Programs/linux-cdgrab-1.0/parches/
 
@@ -259,6 +273,8 @@ cp -f ./ExKazakh/lingr10lightscribepatch.idiom /Programs/linux-cdgrab-1.0/lcdgra
 cp -f ./ExMongolian/lingr10lightscribepatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExMongolian/lcdgrabparches_idiom
 cp -f ./ExTajik/lingr10lightscribepatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExTajik/lcdgrabparches_idiom
 cp -f ./ExTibetan/lingr10lightscribepatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExTibetan/lcdgrabparches_idiom
+cp -f ./ExCroatian/lingr10lightscribepatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExCroatian/lcdgrabparches_idiom
+cp -f ./ExBosnian/lingr10lightscribepatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExBosnian/lcdgrabparches_idiom
 
 cp -f ./Español/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/Español/lcdgrabparches_idiom
 cp -f ./EspDefNA/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/EspDefNA/lcdgrabparches_idiom
@@ -305,6 +321,8 @@ cp -f ./ExKazakh/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAP
 cp -f ./ExMongolian/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExMongolian/lcdgrabparches_idiom
 cp -f ./ExTajik/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExTajik/lcdgrabparches_idiom
 cp -f ./ExTibetan/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExTibetan/lcdgrabparches_idiom
+cp -f ./ExCroatian/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExCroatian/lcdgrabparches_idiom
+cp -f ./ExBosnian/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExBosnian/lcdgrabparches_idiom
 
 cp -f ./Español/lingr10ConversionNRG_2_ISO.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/Español/lcdgrabparches_idiom
 cp -f ./EspDefNA/lingr10ConversionNRG_2_ISO.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/EspDefNA/lcdgrabparches_idiom
@@ -351,6 +369,8 @@ cp -f ./ExKazakh/lingr10ConversionNRG_2_ISO.idiom /Programs/linux-cdgrab-1.0/lcd
 cp -f ./ExMongolian/lingr10ConversionNRG_2_ISO.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExMongolian/lcdgrabparches_idiom
 cp -f ./ExTajik/lingr10ConversionNRG_2_ISO.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExTajik/lcdgrabparches_idiom
 cp -f ./ExTibetan/lingr10ConversionNRG_2_ISO.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExTibetan/lcdgrabparches_idiom
+cp -f ./ExCroatian/lingr10ConversionNRG_2_ISO.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExCroatian/lcdgrabparches_idiom
+cp -f ./ExBosnian/lingr10ConversionNRG_2_ISO.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExBosnian/lcdgrabparches_idiom
 
 echo "Parches instalados"
 echo "------- INSTALACION DE COMPLEMENTOS EXTRA FINALIZADA --------"

@@ -1,0 +1,19 @@
+Hrvatski.
+
+Croata. Croatian.
+Experimental.
+
+Contiene errores de significado en contexto o traducción propia.
+El shell debe tener soporte para ciertos caracteres del alfabeto croata,
+de lo contrario este idioma no será funcional en el shell.
+Generado con Google Translate.
+
+Contains meaning errors in context or own translation.
+The shell must have support for certain characters of the Croatian alphabet,
+otherwise this language will not be functional in the shell.
+Generated with Google Translate.
+
+Hrvatski jezik za linux-cdgrab.
+Eksperimentalno, generirano s Google prevoditeljem
+Pascual Martínez Cruz; pascual@hotmail.com
+
