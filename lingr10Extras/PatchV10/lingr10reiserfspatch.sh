@@ -261,7 +261,7 @@ case $UD in
 	2 "2- $m_img_CDDVDBD_reiserfs_MSG2" \
 	3 "3- $m_img_CDDVDBD_reiserfs_MSG3" \
 	4 "4- $m_img_CDDVDBD_reiserfs_MSG4" \
-	5 "5- $m_img_CDDVDBD_reiserfs_MSG5" --geometry=500x200 --title "$cabecera_interfaz_MSG2")
+	5 "5- $m_img_CDDVDBD_reiserfs_MSG5" --geometry=570x200 --title "$cabecera_interfaz_MSG2")
 
 	coloresIUAPP
 

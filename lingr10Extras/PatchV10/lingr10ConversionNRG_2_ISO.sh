@@ -143,7 +143,7 @@ case $UD in
 
                                                                                                              $creditospatchnrgaiso_MSG5 \
 
-                                                                                                             $utilver " 23 90
+                                                                                                             $utilver " 16 57
 	;;
 
 	1)
