@@ -1,0 +1,32 @@
+# Idioma Letón para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Nospiediet ENTER, lai turpinātu..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="======================================"
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 LIGHTSCRIBE ATBALSTS."
+cabecera_lightscribe_MSG3="======================================"
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Ierakstiet attēla ceļu, kuru vēlaties drukāt uz diska:"
+imprimir_disco_lightscribe_MSG2="Attēla formātam jābūt .bmp"
+imprimir_disco_lightscribe_MSG3="darbojas"
+imprimir_disco_lightscribe_MSG4="Diskā uzdrukāta etiķete"
+imprimir_disco_lightscribe_MSG5="Kļūda, drukājot etiķeti diskā"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="LightScribe tehnoloģija ir pieejama tikai dažās ierīcēs"
+lingr10lightscribepatch_MSG2="Jums vajadzētu pārbaudīt, vai jūsu ierakstītājam tas ir."
+lingr10lightscribepatch_MSG3="Tāpat tikai īpašus CD vai DVD var marķēt LightScribe"
+lingr10lightscribepatch_MSG4="Drukāt LightScribe disku"
+lingr10lightscribepatch_MSG5="Iepriekšējā izvēlne"
+lingr10lightscribepatch_MSG6="Nederīga opcija"
+

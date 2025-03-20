@@ -1,0 +1,49 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEslovenian/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Esloveno, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="USTVARJANJE IN OBDELAVA SLIK DISKOV"
+MenuImagen_MSG2="-------------- USTVARJANJE SLIKE ---------------"
+MenuImagen_MSG3="Ustvari sliko ISO-9660"
+MenuImagen_MSG4="Ustvari sliko z izvornim datotečnim sistemom Linux"
+MenuImagen_MSG5="Ustvarite sliko .img katere koli blokirne naprave"
+MenuImagen_MSG6="Ustvari sliko .bin .cue iz trenutne naprave"
+MenuImagen_MSG7="---------------- DRUGE MOŽNOSTI ----------------"
+MenuImagen_MSG8="Ustvari opisno datoteko .cue iz slike .bin"
+MenuImagen_MSG9="Pretvori sliko .nrg (Nero Burning ROM) v .iso"
+MenuImagen_MSG10="Stisnite sliko z gzip, bzip2 ali xz"
+MenuImagen_MSG11="Razširi sliko v zip, gz, bz2 ali xz"
+MenuImagen_MSG11B="Preveri vsoto iso slik md5"
+MenuImagen_MSG12="Spremeni način iso"
+MenuImagen_MSG0="Prejšnji meni"
+MenuImagen_MSG13="Slikovna datoteka za stiskanje"
+MenuImagen_MSG14="STISNI SLIKOVNO DATOTEKO"
+MenuImagen_MSG15="Vnesite pot imenika, kjer se nahaja slika, ki jo želite stisniti:"
+MenuImagen_MSG16="Slikovna datoteka, ki jo želite razpakirati"
+MenuImagen_MSG17="TRENUTNA RAVEN ISO"
+MenuImagen_MSG18="nivo ISO"
+MenuImagen_MSG19="Imena datotek so sestavljena iz razdelka"
+MenuImagen_MSG20="in so omejeni na 8,3 znaka."
+MenuImagen_MSG21="Izberite to raven, če želite združljivost imen"
+MenuImagen_MSG21b="pod operacijskim sistemom MS-DOS"
+MenuImagen_MSG22="Imena datotek so sestavljena iz razdelka"
+MenuImagen_MSG23="Neomejena raven."
+MenuImagen_MSG24="Uporabite to raven, če želite združljivost z datotekami"
+MenuImagen_MSG25="velika, v tem primeru >= 2 Gigabajta."
+MenuImagen_MSG26="Vse ravni ISO omejujejo imena datotek na velike, male črke in"
+MenuImagen_MSG27="znaki, kot je _. Imena datotek so omejena na 31 znakov"
+MenuImagen_MSG28="Največ 8 poti imenika in ime poti"
+MenuImagen_MSG29="imeniki do 255 znakov."
+MenuImagen_MSG30="Izberite novo raven ISO"
+MenuImagen_MSG31="Raven ISO 4 ni uradna"
+MenuImagen_MSG32="Oglejte si stran z navodili za mkisofs"
+MenuImagen_MSG33="Neveljavna raven ISO"
+MenuImagen_MSG34="Privzeto vzpostavljena stopnja ISO 3"

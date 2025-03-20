@@ -1,0 +1,71 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRomanian/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en Rumano para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Calea imaginii .img sau .ext2 de aruncat pe disc."
+volcar_imagen_MSG2="-------------------------IMPORTANT----------------------------" 
+volcar_imagen_MSG3="+ Această opțiune nu este funcțională pe discurile optice."
+volcar_imagen_MSG4="+ Utilizați pe pendrive, dischete, partiții de disc etc. "
+volcar_imagen_MSG5="+ Considerație cu hard disk-urile:"
+volcar_imagen_MSG6="+ Scrierea imaginii se face cu dd de la inceput"
+volcar_imagen_MSG7="  de pe discul specificat, utilizarea unui număr nu este permisă"
+volcar_imagen_MSG8="  sector specific pentru a începe procesul de scriere"
+volcar_imagen_MSG9="+ Utilizați cu precauție. Utilizați pe propriul risc."
+volcar_imagen_MSG10="+ Partițiile de disc pot deveni inutilizabile."
+volcar_imagen_MSG11="+ Nu este recomandat să îl utilizați pe mai multe sisteme de partiții."
+volcar_imagen_MSG12="  Restaurarea poate părăsi tabelul de partiții și"
+volcar_imagen_MSG13="  partiții inutile în sine."
+volcar_imagen_MSG14="-------------------------------------------------------------"
+volcar_imagen_MSG15="APĂSAȚI TASTA C PENTRU A CONTINUA; (Procesul va fi anulat într-o altă opțiune)"
+volcar_imagen_MSG16="Specificați calea fișierului imagine pe care să îl descărcați pe disc: "
+volcar_imagen_MSG17="Montați ieșirea comenzii:"
+volcar_imagen_MSG18="Specificați dispozitivul de bloc pe care urmează să fie descărcată imaginea:"
+volcar_imagen_MSG19="Dumping imaginea"
+volcar_imagen_MSG20="Pe DISPOZITIV"
+volcar_imagen_MSG21="funcţionare"
+volcar_imagen_MSG22="PROCESUL DE DUMP IMAGINE TERMINAT"
+
+# volcar_iso
+
+volcar_iso_MSG1="Specificați dispozitivul bloc în care să scrieți imaginea ISO:"
+volcar_iso_MSG2="AVERTIZARE"
+volcar_iso_MSG2B="----------"
+volcar_iso_MSG3="Specificați dispozitivul de blocare pe care să scrieți."
+volcar_iso_MSG4="Exemple: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Nu specificați o partiție care aparține acestui dispozitiv"
+volcar_iso_MSG6="Exemple: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Specificați imaginea sau imaginea iso-9660 de scris:"
+volcar_iso_MSG9="Procesul finalizat"
+volcar_iso_MSG10="Eroare în procesul de scriere ISO"
+volcar_iso_MSG11="Specificați dimensiunea blocului pentru a scrie imaginea"
+volcar_iso_MSG12="Selectați opțiunea în funcție de sistemul de operare pentru a scrie:"
+volcar_iso_MSG13="ISO-9660 sau imagine IMG bootabilă pentru a flash pe dispozitiv:"
+volcar_iso_MSG14="Ieșire"
+volcar_iso_MSG15="Fișier de imagine ISO-9660 SAU IMG"
+volcar_ISO_MSG16="SELECTAȚI SISTEMUL DE OPERARE PENTRU A VĂ PENTRU ÎN UNITATEA"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Selectați sistemul de fișiere cu"
+Formateador_linuxfs_MSG2="dispozitivul va fi formatat:"
+Formateador_linuxfs_MSG3="Specificați dispozitivul de blocare pentru format: "
+Formateador_linuxfs_MSG5="PROCES FINALAT"
+Formateador_linuxfs_MSG6="FORMATATOR DE DISC"
+Formateador_linuxfs_MSG7="Setați eticheta de volum"
+Formateador_linuxfs_MSG10="Specificați numele etichetei volumului"
+Formateador_linuxfs_MSG11="Noua etichetă de volum"
+Formateador_linuxfs_MSG12="Specificați dimensiunea blocului"
+Formateador_linuxfs_MSG13="Dimensiunea blocului nou"
+Formateador_linuxfs_MSG14="Meniul precedent"
+
+

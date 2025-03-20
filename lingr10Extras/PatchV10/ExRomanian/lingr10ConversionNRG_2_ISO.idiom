@@ -1,0 +1,37 @@
+# Idioma Rumano para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Apăsați ENTER pentru a continua..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="======================================="
+cabeceraNRG_MSG2="CONVERSIE LINUX-CDGRAB 1.0 .NRG ÎN .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="Introduceți calea imaginii .nrg pe care doriți să o convertiți"
+convertir_imagen_nrg_MSG1B="Introduceți calea imaginii .iso pe care doriți să o generați"
+convertir_imagen_nrg_MSG2="în rulare"
+convertir_imagen_nrg_MSG3="Conversia imaginii .nrg în .iso a fost finalizată cu succes"
+convertir_imagen_nrg_MSG4="Eroare de conversie a imaginii .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Suport pentru conversia imaginilor în linux-cdgrab"
+creditospatchnrgaiso_MSG2="Conversia imaginilor .nrg în .iso folosind nrg2iso"
+creditospatchnrgaiso_MSG3="Distribuie sub licență GPL v2"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="Versiunea comenzii:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="Convertiți imaginea .nrg în .iso"
+lingr10ConversionNRG_2_ISO_MSG2="Despre"
+lingr10ConversionNRG_2_ISO_MSG3="Meniu precedent"
+lingr10ConversionNRG_2_ISO_MSG4="Opțiune nevalidă"
+

@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Serbio para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Унесите путању датотеке или директоријума:"
+empaquetar_MSG2="------- Опције -------"
+empaquetar_MSG3="Генериши .tar.gz датотеку"
+empaquetar_MSG4="Генериши .tar.bz2 датотеку"
+empaquetar_MSG5="Унесите опцију: "
+empaquetar_MSG6="Покреће се"
+empaquetar_MSG7="Неважећа опција"
+
+# desempaquetar
+
+desempaquetar_MSG1="Унесите путању датотеке:"
+desempaquetar_MSG2="НИЈЕ ПРОНАЂЕН ДЕКОМПРЕСОР"
+desempaquetar_MSG3="ИЛИ"
+desempaquetar_MSG4="НЕ ПОСТОЈИ"
+desempaquetar_MSG5="Три се"
+desempaquetar_MSG6="отпаковано"
+desempaquetar_MSG7="Грешка при покушају распакивања"
+
+# comprime
+
+comprime_MSG1="КОМПРЕСИРАЊЕ СЛИКЕ"
+comprime_MSG2="Компресујте помоћу bzip2"
+comprime_MSG3="Компресујте помоћу gzip а"
+comprime_MSG4="Компресујте са xz"
+comprime_MSG5="Претходни мени"
+comprime_MSG6="Три се"
+comprime_MSG7="Компресија датотеке слике је завршена"
+comprime_MSG8="Грешка при компримовању са"
+comprime_MSG9="Неважећи компресор"
+
+# descomprime
+
+descomprime_MSG1="Откуцајте путању датотеке:"
+descomprime_MSG2="--------------------------"
+descomprime_MSG3="НИЈЕ ПРОНАЂЕН ДЕКОМПРЕСОР"
+descomprime_MSG4="ИЛИ"
+descomprime_MSG5="НЕ ПОСТОЈИ"
+descomprime_MSG6="Трчи"
+descomprime_MSG7="некомпримовано"
+descomprime_MSG8="Грешка при покушају декомпресије"
+

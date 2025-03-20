@@ -1,0 +1,38 @@
+# Idioma Letón para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Nospiediet ENTER, lai turpinātu..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="========================================"
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 KONVERSIJA .NRG UZ .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="Ievadiet .nrg attēla ceļu, kuru vēlaties konvertēt"
+convertir_imagen_nrg_MSG1B="Ievadiet .iso attēla ceļu, kuru vēlaties ģenerēt"
+convertir_imagen_nrg_MSG2="darbojas"
+convertir_imagen_nrg_MSG3="Veiksmīga .nrg attēla konvertēšana uz .iso"
+convertir_imagen_nrg_MSG4="Kļūda konvertēt attēlu .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Atbalsts attēla konvertēšanai linux-cdgrab"
+creditospatchnrgaiso_MSG2=".nrg attēlu konvertēšana uz .iso, izmantojot nrg2iso"
+creditospatchnrgaiso_MSG3="Izplatīt saskaņā ar GPL v2 licenci"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="Komandas versija:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="Konvertēt .nrg attēlu uz .iso"
+lingr10ConversionNRG_2_ISO_MSG2="Par"
+lingr10ConversionNRG_2_ISO_MSG3="Iepriekšējā izvēlne"
+lingr10ConversionNRG_2_ISO_MSG4="Nederīga opcija"
+
+

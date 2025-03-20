@@ -1,0 +1,32 @@
+# Idioma Esloveno para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Za nadaljevanje pritisnite ENTER ..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="========================================"
+cabecera_lightscribe_MSG2="PODPORA ZA LINUX-CDGRAB 1.0 LIGHTSCRIBE."
+cabecera_lightscribe_MSG3="========================================"
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Vnesite pot do slike, ki jo želite natisniti na disk:"
+imprimir_disco_lightscribe_MSG2="Format slike mora biti .bmp"
+imprimir_disco_lightscribe_MSG3="teče"
+imprimir_disco_lightscribe_MSG4="Oznaka, natisnjena na disku"
+imprimir_disco_lightscribe_MSG5="Napaka pri tiskanju etikete na disk"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="Tehnologija LightScribe je prisotna samo na nekaterih enotah"
+lingr10lightscribepatch_MSG2="Preverite, ali ga ima vaš snemalnik."
+lingr10lightscribepatch_MSG3="Podobno lahko samo posebne CD je ali DVD je označimo za LightScribe"
+lingr10lightscribepatch_MSG4="Natisni disk LightScribe"
+lingr10lightscribepatch_MSG5="Prejšnji meni"
+lingr10lightscribepatch_MSG6="Neveljavna možnost"
+

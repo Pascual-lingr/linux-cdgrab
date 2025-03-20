@@ -1,0 +1,76 @@
+# Idioma Rumano para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Apăsați ENTER pentru a continua..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="==================================="
+cabecera_interfaz_MSG2="REISERS DE SUPORT LINUX-CDGRAB 1.0."
+cabecera_interfaz_MSG3="==================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Montați ieșirea comenzii:"
+formatear_disco_reiserfs_MSG2="Specificați dispozitivul de blocare pentru format: "
+formatear_disco_reiserfs_MSG3="Dispozitivul a fost formatat cu succes"
+formatear_disco_reiserfs_MSG4="Eroare la formatarea dispozitivului"
+formatear_disco_reiserfs_MSG5="PROCESUL TERMINAT"
+formatear_disco_reiserfs_MSG6="Se demontează dispozitivul..."
+formatear_disco_reiserfs_MSG7="Se formatează unitatea în ReiserFS..."
+formatear_disco_reiserfs_MSG8="Rulează"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="FORMATAT CU SUCCES"
+formatear_img_reiserfs_MSG2="EROARE LA FORMATAREA FIȘIERULUI GOL"
+formatear_img_reiserfs_MSG3="Se generează fișierul gol..."
+formatear_img_reiserfs_MSG4="Rulează"
+formatear_img_reiserfs_MSG5="Se formatează fișierul gol în ReiserFS..."
+formatear_img_reiserfs_MSG6="GENERAREA FIȘIERULUI GOL CU DIMENSIUNE PERSONALIZATĂ"
+formatear_img_reiserfs_MSG7="Specificați dimensiunea fișierului gol de generat (doar o valoare numerică):"
+formatear_img_reiserfs_MSG8="Măsurători de spațiu pentru a genera fișierul gol:"
+formatear_img_reiserfs_MSG9="Specificați măsurarea spațiului de utilizat: "
+formatear_img_reiserfs_MSG10="EROARE CÂND SE SPECIFICA MĂSURAREA MĂRIMII"
+formatear_img_reiserfs_MSG11="Valoare dimensiunea blocului:"
+formatear_img_reiserfs_MSG12="Cantitatea de spațiu pentru fișierul gol:"
+formatear_img_reiserfs_MSG13="Valoare calculată în octeți:"
+formatear_img_reiserfs_MSG14="Valoare calculată pentru numărare:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Creează o imagine pentru un CD-R/RW (702 Mbytes)"
+m_img_CDDVDBD_reiserfs_MSG2="Creează o imagine pentru un DVD+RW (4 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG3="Creează o imagine pentru un DVD+RW/DL (8 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG4="Creează o imagine pentru un BD-R/RE (25 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG5="Creează un fișier imagine cu dimensiune personalizată"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Ieșire"
+imgr_tmp_MSG1="Ștergeți toate fișierele imagine Reiserfs"
+imgr_tmp_MSG2="Montați sau demontați fișierul imagine"
+imgr_tmp_MSG3="Fișiere imagine în"
+imgr_tmp_MSG4="Selectați o opțiune"
+imgr_tmp_MSG5="Fișiere imagine șterse"
+imgr_tmp_MSG6="Montați imaginea"
+imgr_tmp_MSG7="Demontați imaginea"
+imgr_tmp_MSG8="Imagine montată"
+imgr_tmp_MSG9="Imagine demontată"
+imgr_tmp_MSG10="Opțiune nevalidă"
+imgr_tmp_MSG11="Specificați imaginea de montat sau demontat:"
+imgr_tmp_MSG12="Eroare la montarea imaginii"
+imgr_tmp_MSG13="Eroare la demontarea imaginii"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Formatați unitatea în ReiserFS"
+lingr10reiserfspatch_MSG2="Creează imaginea ReiserFS pentru CD/DVD/BD"
+lingr10reiserfspatch_MSG3="Operațiuni pe imagini ReiserFS"
+lingr10reiserfspatch_MSG4="Opțiune nevalidă"
+lingr10reiserfspatch_MSG0="Ieșire"
+

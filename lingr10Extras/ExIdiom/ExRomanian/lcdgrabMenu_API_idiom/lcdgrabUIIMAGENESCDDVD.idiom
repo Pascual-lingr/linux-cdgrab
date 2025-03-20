@@ -1,0 +1,49 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRomanian/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Rumano, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="CREAREA ȘI TRABAJARE CU IMAGINI DE DISC"
+MenuImagen_MSG2="--------------- CREAREA IMAGINII ---------------"
+MenuImagen_MSG3="Creează o imagine ISO-9660"
+MenuImagen_MSG4="Creează o imagine cu un sistem de fișiere Linux nativ"
+MenuImagen_MSG5="Creați o imagine .img a oricărui dispozitiv blocat"
+MenuImagen_MSG6="Creează o imagine .bin .cue de pe dispozitivul curent"
+MenuImagen_MSG7="----------------- ALTE OPȚIUNI -----------------"
+MenuImagen_MSG8="Generează fișierul de descriere .cue din imaginea .bin"
+MenuImagen_MSG9="Convertiți o imagine .nrg (Nero Burning ROM) în .iso"
+MenuImagen_MSG10="Comprimați o imagine cu gzip, bzip2 sau xz"
+MenuImagen_MSG11="Decomprimați o imagine în zip, gz, bz2 sau xz"
+MenuImagen_MSG11B="Verificați suma md5 a imaginilor iso"
+MenuImagen_MSG12="Schimbați modul iso"
+MenuImagen_MSG0="Meniul precedent"
+MenuImagen_MSG13="Fișierul imagine care urmează să fie comprimat"
+MenuImagen_MSG14="COMPRESARE FIȘIER IMAGINE"
+MenuImagen_MSG15="Tastați calea directorului în care se află imaginea pe care doriți să o comprimați:"
+MenuImagen_MSG16="Fișier imagine pe care doriți să-l decomprimați"
+MenuImagen_MSG17="NIVEL ISO ACTUAL"
+MenuImagen_MSG18="nivel ISO"
+MenuImagen_MSG19="Numele fișierelor constau dintr-o secțiune"
+MenuImagen_MSG20="și sunt limitate la 8,3 caractere."
+MenuImagen_MSG21="Alegeți acest nivel dacă doriți compatibilitate cu denumirea"
+MenuImagen_MSG21b="sub sistemul de operare MS-DOS"
+MenuImagen_MSG22="Numele fișierelor constau dintr-o secțiune"
+MenuImagen_MSG23="Nivel nerestricționat."
+MenuImagen_MSG24="Utilizați acest nivel dacă doriți compatibilitate cu fișierele"
+MenuImagen_MSG25="mare, în acest caz >= 2 gigaocteți."
+MenuImagen_MSG26="Toate nivelurile ISO limitează numele fișierelor la majuscule, litere mici și"
+MenuImagen_MSG27="caracterele precum _ . Numele fișierelor sunt limitate la 31 de caractere"
+MenuImagen_MSG28="Maximum 8 căi de director și numele căii"
+MenuImagen_MSG29="directoare cu 255 de caractere."
+MenuImagen_MSG30="Alegeți noul nivel ISO"
+MenuImagen_MSG31="Nivelul ISO 4 nu este oficial"
+MenuImagen_MSG32="Consultați pagina de manual mkisofs"
+MenuImagen_MSG33="Nivel ISO nevalid"
+MenuImagen_MSG34="Setați nivelul ISO 3 în mod implicit"

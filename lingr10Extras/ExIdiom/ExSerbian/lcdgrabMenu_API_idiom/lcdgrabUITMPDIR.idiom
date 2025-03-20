@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Serbio para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Датотеке у /tmp"
+dir_tmp_MSG2="Избриши све слике и компримоване датотеке"
+dir_tmp_MSG3="Покрени менаџер датотека за друге операције"
+dir_tmp_MSG4="Поставите или искључите слику"
+dir_tmp_MSG5="Прикажи мени за креирање слике"
+dir_tmp_MSG6="Прикажи опције снимања слике"
+dir_tmp_MSG7="Претходни мени"
+dir_tmp_MSG8="СПИСАК ПОСТОЈЕЋИХ ДАТОТЕКА У"
+dir_tmp_MSG9="ИЗАБЕРИТЕ ОПЦИЈУ:"
+dir_tmp_MSG10="ИЗБРИСАНЕ СЛИКЕ И ДАТОТЕКЕ"
+dir_tmp_MSG11="Прикачи слику."
+dir_tmp_MSG12="Демонтирај слику."
+dir_tmp_MSG13="Нарежи слику на CD"
+dir_tmp_MSG14="Нарежи слику на DVD"
+dir_tmp_MSG14B="Нарежи слику на BD"
+dir_tmp_MSG15="Изаберите опцију према медијуму за снимање"
+dir_tmp_MSG16="ДАТОТЕКА НИЈЕ ПРОНАЂЕНА КОНФИГУРАЦИЈСКА ДАТОТЕКА"
+dir_tmp_MSG17="Прекидање процеса снимања"
+dir_tmp_MSG18="Одредите .iso датотеку за нарезивање"
+dir_tmp_MSG19="Унесите путању слике: "

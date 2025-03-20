@@ -1,0 +1,185 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Serbio para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="трчање"
+copia_bin_MSG2="--------------ПОНАВЉАЊЕ ПРОЦЕСА СНИМАЊА---------------"
+copia_bin_MSG3="	БРИСАЊЕ ДАТОТЕКЕ СЛИКЕ"
+copia_bin_MSG4="ДОШЛА ЈЕ ГРЕШКА У СНИМКУ"
+copia_bin_MSG5="Није могуће пронаћи датотеку дамп .iso слике диска. Прекидање снимања..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="трчање"
+datos_al_vuelo_MSG2="Грешка у покушају снимања, поновни покушај без подршке за overburn"
+datos_al_vuelo_MSG3="Проверите да ли је изворни диск или уређај"
+datos_al_vuelo_MSG4="је у добром стању"
+datos_al_vuelo_MSG5="Добијање броја излазног блока са изворног диска"
+datos_al_vuelo_MSG6="КОПИРАЊЕ ДИСКА..."
+
+# clonar_cd
+
+clonar_cd_MSG1="трчање"
+clonar_cd_MSG2="ЦД УСПЈЕШНО КЛОНИРАН"
+clonar_cd_MSG3="ДОБИЛА ЈЕ ГРЕШКА ПРИ КЛОНИРАЊУ ЦД а"
+
+# datos
+
+datos_MSG1="Датотеке и директоријуми за креирање .iso слике"
+datos_MSG2="CD/DVD/BD ЛАБЕЛ"
+datos_MSG3="Унесите назив за будући CD/DVD/BD:"
+datos_MSG4="Покретање менаџера датотека:"
+datos_MSG5="	ЦРЕАТИНГ ИМАГЕ. . ."
+datos_MSG6="трчање"
+datos_MSG7="ISO-9660 СЛИКА КРЕИРАНА У"
+datos_MSG8="		НАРЕЖИВАЊЕ CD/DVD/BD"
+datos_MSG9="ПРОЦЕС КРЕИРАЊА ДАТОТЕКЕ СЛИКЕ ЈЕ НЕУСПЕШАН"
+datos_MSG10="ПОНОВНИ ПОКУШАЈ ДА ПРАВИМ НОВ БЕЗ ПОДРШКЕ ЗА HFS (Macintosh)"
+datos_MSG11="БРИСАЊЕ СЛИКЕ. . ."
+datos_MSG12="КРЕИРАЊЕ НОВЕ СЛИКЕ. . ."
+datos_MSG13="НИЈЕ МОГУЋЕ ИСПРАВНО СНИМИТИ"
+datos_MSG14="------------ПОНАВЉАЊЕ ПРОЦЕСА СНИМАЊА-----------"
+datos_MSG15="БРИСАЊЕ СЛИКЕ..."
+datos_MSG16="НАРЕЖИВАЊЕ ISO-9660 ПОДАТАКА CD/DVD/BD..."
+datos_MSG17="Није пронађено."
+datos_MSG18="Прекидање снимања диска..."
+
+# datoslb
+
+datoslb_MSG1="Грешка: Датотека слике се не може пронаћи. Прекидам..."
+datoslb_MSG2="ПРОЦЕС СНИМАЊА ОК"
+datoslb_MSG3="ГРЕШКА У ПРОЦЕСУ СНИМАЊА"
+
+# borra
+
+borra_MSG0="Претходни мени"
+borra_MSG1="Изаберите режим за брисање CD-RW"
+borra_MSG2="----------------------------------"
+borra_MSG3="Брзо брисање (користите cdrecord)"
+borra_MSG4="Заврши брисање (користите cdrecord)"
+borra_MSG5="Потребно је брисање (користите cdrskin)"
+borra_MSG6="трчање"
+borra_MSG7="Неопходно форматирање или брисање се примењује у зависности од статуса диска"
+borra_MSG8="CD-RW УСПЕШНО ИЗБРИСАН!!"
+borra_MSG9="ГРЕШКА ПРИ БРИСАЊУ CD-RW"
+borra_MSG10="ФОРЦЕ БРИСАЊЕ CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="ГРЕШКА ПРИЛИКОМ ПОКУШАЈА БРИСАЊА CD-RW"
+err_borra_cdrw_MSG2="CD-RW НЕУпотребљив"
+err_borra_cdrw_MSG3="НИЈЕ МОГУЋЕ ИЗБРИСАТИ ОВАЈ CD-RW"
+err_borra_cdrw_MSG4="ПРОВЕРИТЕ ДА ЛИ CD-RW има ФИЗИЧКА ОШТЕЋЕЊА"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="трчање"
+cerrar_cd_MSG2="CD ЈЕ ИСПРАВНО ЗАТВОРЕН"
+cerrar_cd_MSG3="ГРЕШКА ПРИЛИКОМ ЗАТВАРАЊА CD"
+cerrar_cd_MSG4="ЗАТВОРЕЊЕ ТРАКЕ НА CD подацима..."
+
+# grabimg
+
+grabimg_MSG1=".iso или .ext2 слика за нарезивање на CD/DVD"
+grabimg_MSG2="Покретање менаџера датотека."
+grabimg_MSG3="Откуцајте пуну путању где је CD/DVD слика коју желите да снимите:"
+grabimg_MSG4="трчање"
+grabimg_MSG5="-----------ПОНАВЉАЊЕ ПРОЦЕСА СНИМАЊА-----------"
+grabimg_MSG6="СНИМАЊЕ ЗАВРШЕНО!!"
+grabimg_MSG7=".EXT2 СЛИКА ЈЕ УСПЕШНО СНИМЉЕНА"
+
+# grabimglb
+
+grabimglb_MSG1="Унесите пуну путању где се налази CD/DVD слика коју желите да снимите:"
+grabimglb_MSG2="Нарезивање слике на диск..."
+grabimglb_MSG3="ISO-9660 СЛИКА УСПЕШНО СНИМЕНА"
+grabimglb_MSG4="ГРЕШКА У СНИМАЊУ ISO-9660 СЛИКЕ"
+grabimglb_MSG5="Грешка: Датотека слике није пронађена. Прекидање..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin и .cue датотеке за снимање слике"
+grabimg_cue_MSG2="Да бисте снимили bin/cue слику, обе датотеке морају"
+grabimg_cue_MSG3="буди у активном директоријуму."
+grabimg_cue_MSG4="Тренутни активни директоријум"
+grabimg_cue_MSG5="Унесите име *.cue датотеке која упућује на *.bin датотеку слике"
+grabimg_cue_MSG6=".cue фајл: "
+grabimg_cue_MSG7="трчање"
+grabimg_cue_MSG8="СНИМАЊЕ ЗАВРШЕНО!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Нарежи CD са више сесија са .iso слике"
+cd_multi_MSG2="Нарежите прву сесију на CD са .iso слике"
+cd_multi_MSG3="Нарежите мултисессион CD са датотека на диску"
+cd_multi_MSG4="Снимите узастопне сесије на CD са датотека на чврстом диску"
+cd_multi_MSG5="Ова опција захтева CD са више сесија, са претходно снимљеном сесијом."
+cd_multi_MSG6="Претходни мени"
+cd_multi_MSG7=".исо слика за нарезивање на CD-Мулти-сессион"
+cd_multi_MSG8="Одреди путању .iso слике"
+cd_multi_MSG9="трчање"
+cd_multi_MSG10="CD ВИШЕ СЕСИЈА УСПЕШНО СНИМЉЕН!!"
+cd_multi_MSG11="Директорији које треба укључити у слику."
+cd_multi_MSG12="Наведите испод које директоријуме треба укључити"
+cd_multi_MSG13="Унесите име за CD етикету:"
+cd_multi_MSG14="КРЕИРАЊЕ СЛИКЕ..."
+cd_multi_MSG15="УСПЕШНО КРЕИРАН"
+cd_multi_MSG16="ГРЕШКА ПРИЛИКОМ КРЕИРАЊА СЛИКЕ. ПРЕКИДА ПРОЦЕС СНИМАЊА..."
+cd_multi_MSG17="РЕЖИВАЊЕ CD СЛИКА..."
+cd_multi_MSG18="CD МЕНИ ЗА ВИШЕ СЕСИЈА"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="РИПАЊЕ АУДИО CD а..."
+copia_cd_audio_MSG2="трчање"
+copia_cd_audio_MSG3="АУДИО ПЕСМЕ УСПЈЕШНО СРЕЂЕНЕ!!"
+copia_cd_audio_MSG4="ГРЕШКА ПРИ РИПОВАЊУ АУДИО ТРАКА"
+copia_cd_audio_MSG5="РЕЖИВАЊЕ АУДИО CD а..."
+copia_cd_audio_MSG6="АУДИО CD УСПЕШНО КОПИРАН!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav датотеке за нарезивање на CD"
+wav_a_cd_MSG2="Linux-cdgrab неће проверити величину директоријума"
+wav_a_cd_MSG3="Уверите се да није више од 650 Мбајта у случају"
+wav_a_cd_MSG4="ако користите CD од 80 минута."
+wav_a_cd_MSG5="Унесите путању директоријума .wav датотека"
+wav_a_cd_MSG6="трчање"
+wav_a_cd_MSG7="ПРОЦЕС КОМПЛЕТАН!"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Микед Цреатион Пројецт (подаци слике .iso + аудио датотеке .wav)"
+cdmixto_MSG2="Linux-cdgrab неће проверити величину директоријума"
+cdmixto_MSG3="где су аудио датотеке."
+cdmixto_MSG4="То неће учинити ни са .iso слике коју ћете снимити"
+cdmixto_MSG5="после."
+cdmixto_MSG6="Будите у складу са величином коју имате"
+cdmixto_MSG7="Срежи на свој нови CD."
+cdmixto_MSG8="Одреди путању аудио датотека:"
+cdmixto_MSG9="Наведите путању iso слике:"
+cdmixto_MSG10="#####################################"
+cdmixto_MSG11="СНИМАЊЕ МИКСОВАНОГ CD а: ДАТА + АУДИО"
+cdmixto_MSG12="трчање"
+cdmixto_MSG13="----УСПЕШНО КРЕИРАНИ МИКС CD-----!!"
+cdmixto_MSG14="------ГРЕШКА ПРИ СРЕЋАЊУ МИКСОВАНОГ CD а--------"
+
+# discoinfo
+
+discoinfo_MSG1="трчање"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI порт је скениран"
+cdrecord_scan_MSG1="Грешка при скенирању IDE/SCSI порта"
+cdrecord_scan_MSG2="cdrecord није пронађен"
+
+

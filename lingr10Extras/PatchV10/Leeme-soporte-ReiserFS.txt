@@ -3,7 +3,7 @@ lingr10reiserfspatch.sh ver 0.2 --> 21/01/2024
 path de ejecución: /usr/share/linux-cdgrab/parches/lingr10reiserfspatch.sh
 
 ficheros de idioma: /usr/share/linux-cdgrab/lcdgrabAPI_idiom/${IDIOM}/lcdgrabparches_idiom/lingr10reiserfspatch.idiom
-donde IDIOM = Español, EspDefNA, Catala, English, ExFrench, ExDeutsch, ExGreek, ExRussian, ExJapanese, ExChinese, ExKorean, ExThai, ExPortuguese, ExItalian, ExDutch, ExNorwegian, ExPolish, ExCzech, ExSwedish, ExArmenian, ExGeorgian, ExSpanishEn, ExDanish, ExAmharic, ExTigrinya, ExVietnamese, ExIcelandic, ExSwahili, ExLao, ExLuxembourgish, ExLithuanian, ExAfrikaans, ExUkrainian, ExTurkish, ExHungarian, ExBelarusian, ExSlovak, ExAzerbaijani, ExEstonian, EsFinnish, ExKazakh, ExMongolian, ExTajik, ExTibetan, ExCroatian, ExBosnian y .defecidiom
+donde IDIOM = Español, EspDefNA, Catala, English, ExFrench, ExDeutsch, ExGreek, ExRussian, ExJapanese, ExChinese, ExKorean, ExThai, ExPortuguese, ExItalian, ExDutch, ExNorwegian, ExPolish, ExCzech, ExSwedish, ExArmenian, ExGeorgian, ExSpanishEn, ExDanish, ExAmharic, ExTigrinya, ExVietnamese, ExIcelandic, ExSwahili, ExLao, ExLuxembourgish, ExLithuanian, ExAfrikaans, ExUkrainian, ExTurkish, ExHungarian, ExBelarusian, ExSlovak, ExAzerbaijani, ExEstonian, EsFinnish, ExKazakh, ExMongolian, ExTajik, ExTibetan, ExCroatian, ExBosnian, ExLatvian, ExRomanian, ExSerbian, ExSlovenian y .defecidiom
 
 Parche para soportar el sistema de ficheros Reiser File System en LINUX-CDGRAB 1.0
 Pascual Martínez Cruz --> pascual89@hotmail.com

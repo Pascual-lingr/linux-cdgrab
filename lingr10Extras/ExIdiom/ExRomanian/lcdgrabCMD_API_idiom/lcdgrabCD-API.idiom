@@ -1,0 +1,186 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRomanian/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Rumano para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="funcţionare"
+copia_bin_MSG2="--------------REÎNCERCAREA PROCESULUI DE ÎNREGISTRARE---------------"
+copia_bin_MSG3="	SE ȘTERGE FIȘIERUL IMAGINEI"
+copia_bin_MSG4="LA ÎNREGISTRARE A AU AVENIT O EROARE"
+copia_bin_MSG5="Fișierul de descărcare a imaginii .iso pe disc nu poate fi găsit. Se anulează înregistrarea..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="funcţionare"
+datos_al_vuelo_MSG2="Eroare de încercare de înregistrare, reîncercare fără suport overburn"
+datos_al_vuelo_MSG3="Verificați dacă discul sau dispozitivul sursă"
+datos_al_vuelo_MSG4="este în stare bună"
+datos_al_vuelo_MSG5="Obținerea numărului blocului de intrare de pe discul sursă"
+datos_al_vuelo_MSG6="SE COPIEAZĂ DISK..."
+
+# clonar_cd
+
+clonar_cd_MSG1="funcţionare"
+clonar_cd_MSG2="CD CLONAT CU SUCCES"
+clonar_cd_MSG3="A AU APARUT O EROARE LA CLONAREA CD-ULUI"
+
+# datos
+
+datos_MSG1="Fișiere și directoare pentru a crea imaginea .iso"
+datos_MSG2="CD/DVD/BD LABEL"
+datos_MSG3="Introduceți un nume pentru viitorul CD/DVD/BD:"
+datos_MSG4="Lansarea managerului de fișiere:"
+datos_MSG5="	CREAREA IMAGINII. . ."
+datos_MSG6="funcţionare"
+datos_MSG7="IMAGINE ISO-9660 CREAȚĂ ÎN"
+datos_MSG8="		ARDER CD/DVD/BD"
+datos_MSG9="PROCESUL DE CREARE A FIȘIERULUI DE IMAGINE A ESCUT"
+datos_MSG10="ÎNCERCĂRI DE CREARE UNUL NOU FĂRĂ SUPORT PENTRU HFS (Macintosh)"
+datos_MSG11="ȘTERGERE IMAGINEA...."
+datos_MSG12="CREAREA IMAGINII NOI..."
+datos_MSG13="NU A FOST POSIBIL ÎNREGISTRAREA CORECT"
+datos_MSG14="------------REÎNCERCAREA PROCESULUI DE ÎNREGISTRARE-----------"
+datos_MSG15="ȘTERGE IMAGINEA..."
+datos_MSG16="INSCRIERE CD/DVD/BD DE DATE ISO-9660..."
+datos_MSG17="Nu a fost găsit."
+datos_MSG18="Se anulează înregistrarea pe disc..."
+
+# datoslb
+
+datoslb_MSG1="Eroare: fișierul imagine nu poate fi găsit. Se anulează..."
+datoslb_MSG2="PROCESUL DE ÎNREGISTRARE OK"
+datoslb_MSG3="EROARE ÎN PROCESUL DE ÎNREGISTRARE"
+
+# borra
+
+borra_MSG0="Meniul precedent"
+borra_MSG1="Alegeți modul pentru a șterge CD-RW"
+borra_MSG2="-----------------------------------"
+borra_MSG3="Ștergere rapidă (utilizați cdrecord)"
+borra_MSG4="Ștergerea completă (utilizați cdrecord)"
+borra_MSG5="Ștergerea necesară (utilizați cdrskin)"
+borra_MSG6="funcţionare"
+borra_MSG7="Formatarea sau ștergerea necesară este aplicată în funcție de starea discului"
+borra_MSG8="CD-RW ȘTERS CU SUCCES!!"
+borra_MSG9="EROARE LA ȘTERGERE CD-RW"
+borra_MSG10="ȘTERGERE FORȚATĂ CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="EROARE CÂND ÎNCERCĂȚI SĂ ȘTERG CD-RW UL"
+err_borra_cdrw_MSG2="CD-RW NEUTILIZABIL"
+err_borra_cdrw_MSG3="NU ESTE POSIBIL SĂ ȘTERGE ACEST CD-RW"
+err_borra_cdrw_MSG4="VERIFICAȚI CD-RW UL PENTRU DAUNE FIZICE"
+
+
+# cerrar_cd
+
+cerrar_cd_MSG1="funcţionare"
+cerrar_cd_MSG2="CD-ul A FOST ÎNCHIS CORECT"
+cerrar_cd_MSG3="EROARE LA ÎNCHIDEREA CD-ULUI"
+cerrar_cd_MSG4="ÎNCHIDERE PISTA DE PE CD-UL DE DATE . . . ."
+
+# grabimg
+
+grabimg_MSG1="Imagine .iso sau .ext2 de inscripționat pe CD/DVD"
+grabimg_MSG2="Lansarea managerului de fișiere."
+grabimg_MSG3="Tastați calea completă unde se află imaginea CD/DVD pe care doriți să o inscripționați:"
+grabimg_MSG4="funcţionare"
+grabimg_MSG5="-----------REÎNCERCAREA PROCESULUI DE ÎNREGISTRARE-----------"
+grabimg_MSG6="ÎNREGISTRAREA TERMINATĂ!!"
+grabimg_MSG7="IMAGE .EXT2 ÎNREGISTRATĂ CU SUCCES"
+
+# grabimglb
+
+grabimglb_MSG1="Tastați calea completă unde se află imaginea CD/DVD pe care doriți să o inscripționați:"
+grabimglb_MSG2="Imaginea se inscripționează pe disc..."
+grabimglb_MSG3="IMAGINE ISO-9660 ÎNREGISTRATĂ CU SUCCES"
+grabimglb_MSG4="EROARE LA ÎNREGISTRAREA IMAGINII ISO-9660"
+grabimglb_MSG5="Eroare: fișierul imagine nu a fost găsit. Se anulează..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1="Fișiere .bin și .cue pentru a înregistra imaginea"
+grabimg_cue_MSG2="Pentru a înregistra imaginea bin/cue, ambele fișiere trebuie să"
+grabimg_cue_MSG3="fii în directorul activ."
+grabimg_cue_MSG4="Directorul activ curent"
+grabimg_cue_MSG5="Introduceți numele fișierului *.cue care face referire la fișierul imagine *.bin"
+grabimg_cue_MSG6="Fișier .cue: "
+grabimg_cue_MSG7="funcţionare"
+grabimg_cue_MSG8="ÎNREGISTRAREA TERMINATĂ!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Inscripționați CD-ul multisesiune dintr-o imagine .iso"
+cd_multi_MSG2="Inscripționați o primă sesiune pe CD dintr-o imagine .iso"
+cd_multi_MSG3="Inscripționați CD-ul multisesiune de pe fișierele de pe disc"
+cd_multi_MSG4="Înregistrați sesiuni succesive pe CD din fișierele de pe hard disk"
+cd_multi_MSG5="Această opțiune necesită un CD cu mai multe sesiuni, cu o sesiune înregistrată anterior."
+cd_multi_MSG6="Meniu precedent"
+cd_multi_MSG7="Imagine .iso de gravat pe CD-Multi-sesiune"
+cd_multi_MSG8="Specificați calea imaginii .iso"
+cd_multi_MSG9="funcţionare"
+cd_multi_MSG10="CD-ul cu mai multe sesiuni a fost ÎNREGISTRAT CU SUCCES!!"
+cd_multi_MSG11="Directoare de inclus în imagine."
+cd_multi_MSG12="Specificați mai jos ce directoare să includeți"
+cd_multi_MSG13="Introduceți un nume pentru eticheta CD-ului:"
+cd_multi_MSG14="CREAREA IMAGINII..."
+cd_multi_MSG15="CREAT CU SUCCES"
+cd_multi_MSG16="EROARE LA CREAREA IMAGINII. ÎNCĂRCAREA PROCESULUI DE ÎNREGISTRARE..."
+cd_multi_MSG17="Imaginea CD-ului se arde..."
+cd_multi_MSG18="MENIU CD MULTI-SESIUNE"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="RIPING CD-URI AUDIO..."
+copia_cd_audio_MSG2="funcţionare"
+copia_cd_audio_MSG3="PISTE AUDIO RIPATE CU SUCCES!!"
+copia_cd_audio_MSG4="EROARE LA RIPAREA PISTELOR AUDIO"
+copia_cd_audio_MSG5="ÎNCARE CD AUDIO..."
+copia_cd_audio_MSG6="CD AUDIO COPIAT CU SUCCES!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1="Fișiere .wav de inscripționat pe CD"
+wav_a_cd_MSG2="Linux-cdgrab nu va verifica dimensiunea directorului"
+wav_a_cd_MSG3="Asigurați-vă că nu este mai mare de 650 Mbytes în caz că"
+wav_a_cd_MSG4="dacă utilizați un CD de 80 de minute."
+wav_a_cd_MSG5="Introduceți calea directorului fișierelor .wav"
+wav_a_cd_MSG6="funcţionare"
+wav_a_cd_MSG7="PROCESUL FINAL!"
+
+
+# cdmixto
+
+cdmixto_MSG1="Proiect de creare CD-Mixto (Imagine de date .iso + Fișiere audio .wav)"
+cdmixto_MSG2="Linux-cdgrab nu va verifica dimensiunea directorului"
+cdmixto_MSG3="unde sunt fișierele audio."
+cdmixto_MSG4="Nici nu va face acest lucru din imaginea .iso pe care urmează să o înregistrați"
+cdmixto_MSG5="după."
+cdmixto_MSG6="Fii consecvent cu dimensiunea pe care o ai"
+cdmixto_MSG7="inscripționați pe noul dvs. CD."
+cdmixto_MSG8="Specificați calea fișierelor audio:"
+cdmixto_MSG9="Specificați calea imaginii ISO:"
+cdmixto_MSG10="######################################"
+cdmixto_MSG11="ARZEREA CD-URILOR MIXTE : DATE + AUDIO"
+cdmixto_MSG12="funcţionare"
+cdmixto_MSG13="¡¡----CD MIXT CREAT CU SUCCES-----!!"
+cdmixto_MSG14="------EROARE CÂND SE ARDEAZĂ CD MIXTE--------"
+
+# discoinfo
+
+discoinfo_MSG1="funcţionare"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="Port IDE/SCSI scanat"
+cdrecord_scan_MSG1="Eroare la scanarea portului IDE/SCSI"
+cdrecord_scan_MSG2="Cdrecord nu a fost găsit"
+

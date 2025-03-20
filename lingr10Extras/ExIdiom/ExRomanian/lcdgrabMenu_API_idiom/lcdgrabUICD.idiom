@@ -1,0 +1,74 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRomanian/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabación en CD.
+# Traducción experimental al Rumano, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="ALEGE O OPȚIUNE"
+clonar_MSG2="------ COPII DE DISC CU IMAGINE DE PREVIEW -------"
+clonar_MSG3="Copiați un CD de date"
+clonar_MSG4="Creează o imagine CD anterioară pe hard disk"
+clonar_MSG5="----------- COPII DE DISC DIN ZUCĂ -----------"
+clonar_MSG6="Copiați un CD de date din mers"
+clonar_MSG7="Clonează un CD cu date din mers"
+clonar_MSG7B="Copiați un CD audio din mers"
+clonar_MSG8="OPȚIUNILE DE COPIE ZBURĂ NECESIT DOUA UNITĂȚI OPTICE"
+clonar_MSG9="INSTALAT PE CALCULATORUL TĂU, DECÂT DATELE SUNT ÎNREGISTRATE ÎN CÂND"
+clonar_MSG10="CITIȚI DIRECT DE PE DISKUL DE ORIGINĂ, DACĂ NUMAI CALCULATORUL TĂU ARE"
+clonar_MSG11="UNUL NU VA PUTEA UTILIZA COPPIILE ÎN ZBOR."
+clonar_MSG12B="COPIEAZĂ DATE CD"
+clonar_MSG0="Meniu precedent"
+
+# mgrabacd
+
+mgrabacd_MSG1="DATE ​​CD DE PE HARD DISK"
+mgrabacd_MSG2="Inscripționați un nou CD de date (utilizați cdrtools)"
+mgrabacd_MSG3="Inscripționați un nou CD de date (utilizați libburnia)"
+mgrabacd_MSG4="Meniu precedent"
+mgrabacd_MSG5="Introduceți o opțiune"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="ÎNREGISTRAREA DATELOR IMAGINII"
+mgrabaimg_MSG2="Arde imaginea iso sau ext2 pe CD-R/RW (utilizați cdrtools)"
+mgrabaimg_MSG3="Arde imaginea ISO pe CD-R/RW (utilizați libburnia)"
+mgrabaimg_MSG4="Meniu precedent"
+mgrabaimg_MSG5="Introduceți o opțiune"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Inscripționați un CD audio din fișiere .wav"
+mgrabararchivosaudio_MSG2="Inscripționați un CD audio din fișiere .mp3"
+mgrabararchivosaudio_MSG3="Inscripționați un CD audio din fișiere .ogg"
+mgrabararchivosaudio_MSG0="Meniu precedent"
+mgrabararchivosaudio_MSG0B="Tastați o opțiune"
+mgrabararchivosaudio_MSG4="Inscripționați un CD audio din fișiere .flac"
+mgrabararchivosaudio_MSG5="ÎNREGISTRARE CD-AUDIO DIN FIȘIERE"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="ÎNREGISTRARE PE CD"
+menugrabar_cd_MSG2="------------------- CD - DATE --------------------"
+menugrabar_cd_MSG3="Copiați CD ul de date"
+menugrabar_cd_MSG4="Inscripționați un nou CD de date"
+menugrabar_cd_MSG5="Inscripționați un nou CD cu date cu mai multe sesiuni"
+menugrabar_cd_MSG6="Inscripționați imaginea .iso sau .ext2 pe CD"
+menugrabar_cd_MSG7="Arde imaginea .bin/.cue pe CD"
+menugrabar_cd_MSG8="------------------- CD - AUDIO -------------------"
+menugrabar_cd_MSG9="Extrai un CD audio"
+menugrabar_cd_MSG13="----------------- ALTE OPȚIUNI -------------------"
+menugrabar_cd_MSG14="Inscripționați un CD mixt (date + audio)"
+menugrabar_cd_MSG15="Șterge un CD-RW"
+menugrabar_cd_MSG16="Închide CD ul deschis"
+menugrabar_cd_MSG17="Afișați informațiile de pe disc în unitate"
+menugrabar_cd_MSG18="Inscripționați un CD audio de pe fișierele de pe disc"
+menugrabar_cd_MSG0="Meniu precedent"
+menugrabar_cd_MSGPRINCIPAL="Tastați o opțiune"
+
+

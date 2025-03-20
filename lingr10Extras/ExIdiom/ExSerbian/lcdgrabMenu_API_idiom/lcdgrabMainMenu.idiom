@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Serbio, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab не може да пронађе ви уређивач текста"
+ayuda_MSG2="Унесите име уређивача текста инсталираног на вашем систему"
+ayuda_MSG3="НИЈЕ ПРОНАЂЕН НИЈЕ ИНСТАЛИРАНИ УРЕДНИК"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Датотека коју аутоматски генерише LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="Ова датотека заједно са директоријумом"
+creacion_de_mnt_MSG3="аутоматски су генерисани"
+creacion_de_mnt_MSG4="од стране Linux-cdgrab апликације када се провери да не постоји у вашој linux дистрибуцији"
+creacion_de_mnt_MSG5="директоријум"
+creacion_de_mnt_MSG6="Linux-cdgrab користи овај директоријум да монтира свој CD-ROM/DVD-ROM/BD-ROM"
+creacion_de_mnt_MSG7="Директоријум"
+creacion_de_mnt_MSG8="неће бити обрисан ако се Linux-cdgrab деинсталира јер је то обично"
+creacion_de_mnt_MSG9="подразумевана тачка монтирања за /dev/cdrom на већини Linux дистрибуција."
+creacion_de_mnt_MSG10="Ако ваша дистрибуција користи други директоријум за монтирање уређаја /dev/cdrom,"
+creacion_de_mnt_MSG11="неће створити никакву некомпатибилност када покушате да приступите подацима на вашој јединици"
+creacion_de_mnt_MSG12="иако ако је Linux-cdgrab деинсталиран, можете и без"
+creacion_de_mnt_MSG13="Сврха ове датотеке је само у информативне сврхе, можете је слободно избрисати када је прочитате."
+
+# creditos
+
+creditos_MSG1="Дистрибуирајте под GPL v2 лиценцом"
+creditos_MSG2="Више информација на www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, творац и одржавалац"
+creditos_MSG4="Извештај о грешци: pascual89@hotmail.com"
+creditos_MSG5="Веб страница програма : www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="На основу LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Пуњење"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="СИНТАКСА"
+lcdgrab_sintaxis_MSG2="Одштампај ову помоћ"
+lcdgrab_sintaxis_MSG3="Одштампај верзију Linux-cdgrab"
+lcdgrab_sintaxis_MSG4="одређује ИДЕ канал или уређај за снимање"
+lcdgrab_sintaxis_MSG5="било"
+lcdgrab_sintaxis_MSG6="одређује брзину снимања"
+lcdgrab_sintaxis_MSG7="одређује CD-ROM/DVD-ROM/BD-ROM драјв"
+lcdgrab_sintaxis_MSG8="одређује IDE ATAPI канал диктафона"
+lcdgrab_sintaxis_MSG9="Опције G -V -L и -CA подразумевају једна другу."
+lcdgrab_sintaxis_MSG9B="Опције -iut -ium -iug и -iuk су независне једна од друге,"
+lcdgrab_sintaxis_MSG9C="комплементаран са -G -V -L и -CA, и независан између -h и -v"
+lcdgrab_sintaxis_MSG10="Опције -h и -v су независне једна од друге и осталих."
+lcdgrab_sintaxis_MSG11="Примери:"
+lcdgrab_sintaxis_MSG12="уређај"
+lcdgrab_sintaxis_MSG13="број"
+lcdgrab_sintaxis_MSG14="текстуални интерфејс"
+lcdgrab_sintaxis_MSG15="интерфејс са ncurses"
+lcdgrab_sintaxis_MSG16="графички интерфејс са GTK"
+lcdgrab_sintaxis_MSG17="графички интерфејс са Qt м"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Унесите путању скрипте:"
+main_lcdgrabopdep_MSG2="Неважећа рута"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Инсталиране закрпе:"
+main_lcdgrabopdeppatch_MSG2="Унесите путању закрпе:"
+main_lcdgrabopdeppatch_MSG3="Није пронађено"
+
+# menu principal dialog
+main_lcdgrabop9uidia="ОТПАДИТЕ ДОДАТНУ ЗАкрпу"
+
+# menu principal texto
+
+main_lcdgrabop1_text="СНИМАЊЕ НА CD\t\t\t\t="
+main_lcdgrabop2_text="СНИМАЊЕ НА DVD\t\t\t\t="
+main_lcdgrabop3_text="СНИМАЊЕ НА BD\t\t\t\t="
+main_lcdgrabop4_text="ОПЕРАЦИЈЕ ДИСК ДРИВЕ\t\t\t="
+main_lcdgrabop5_text="ИМАГЕ ЦРЕАТИОН\t\t\t\t="
+main_lcdgrabop6_text="АУДИО КОНВЕРЗИЈА\t\t\t\t="
+main_lcdgrabop6b_text="ВИДЕО КОНВЕРЗИЈА\t\t\t\t="
+main_lcdgrabop7_text="МОНТАЖИ ИЛИ ОДМОНТИ CD/DVD/BD\t\t="
+main_lcdgrabop8_text="МОНТАЖИ ИЛИ ДЕМОНТАЖИ СЛИКУ\t\t="
+main_lcdgrabop9_text="ОТПАДИТЕ ДОДАТНУ ЗАкрпу\t\t\t="
+main_lcdgrabop10_text="КОНТРОЛНИ ЦЕНТАР\t\t\t="
+main_lcdgrabop0_text="ИЗАЂИ\t\t\t\t\t="
+main_lcdgrabet1_text="ДРУГЕ ОПЦИЈЕ ##\t\t="
+main_lcdgrabopEe_text="Избаците диск из драјва\t\t="
+main_lcdgrabopTD_text="Прикажи именик"
+tabs="\t\t="
+main_lcdgrabopG_text="Менаџер датотека\t\t\t="
+main_lcdgrabopH_text="Аид\t\t\t\t\t="
+main_lcdgrabopA_text="Абоут\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="СНИМАЊЕ НА CD"
+main_lcdgrabop2="СНИМАЊЕ НА DVD"
+main_lcdgrabop3="СНИМАЊЕ НА BD"
+main_lcdgrabop4="ОПЕРАЦИЈЕ ДИСК ДРИВЕ"
+main_lcdgrabop5="ИМАГЕ ЦРЕАТИОН"
+main_lcdgrabop6="АУДИО КОНВЕРЗИЈА"
+main_lcdgrabop6b="ВИДЕО КОНВЕРЗИЈА"
+main_lcdgrabop7="МОНТАЖИ ИЛИ ОДМОНТИ CD/DVD/BD"
+main_lcdgrabop8="МОНТАЖИ ИЛИ ДЕМОНТАЖИ СЛИКУ"
+main_lcdgrabop9="ОТПАДИТЕ ДОДАТНУ ЗАкрпу"
+main_lcdgrabop10="КОНТРОЛНИ ЦЕНТАР"
+main_lcdgrabop0="ИЗАЂИ"
+main_lcdgrabet1="ДРУГЕ ОПЦИЈЕ ##"
+main_lcdgrabopEe="Избаците диск из драјва"
+main_lcdgrabopTD="Прикажи именик"
+main_lcdgrabopG="Менаџер датотека"
+main_lcdgrabopH="Аид"
+main_lcdgrabopA="Абоут"
+main_lcdgrabopPRINCIPAL="Унесите опцију:"
+MSG1_MAIN="Избором H показује се коришћење опција."
+main_lcdgrabopA_MSG1="Трчање на:"
+

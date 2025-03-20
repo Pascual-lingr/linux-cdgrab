@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLatvian/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en letón para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="VIDEO PĀRVĒRŠANAS BLU-RAY DISKU SADERĪBA"
+conv_video_BDVideo_MSG2="Norādiet konvertējamā video faila ceļu:"
+conv_video_BDVideo_MSG3="Norādiet faila nosaukumu jaunajam izveidojamajam video:"
+conv_video_BDVideo_MSG4="Video fails veiksmīgi konvertēts!!"
+conv_video_BDVideo_MSG5="Kļūda konvertējot video failu"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="KONVERSIJAS VIDEO FAILI"
+conv_VideoFich_MSG2="Norādiet konvertējamo video failu:"
+conv_VideoFich_MSG3="Norādiet ģenerējamo video failu:"
+conv_VideoFich_MSG4="VIDEO FAILA PĀRVEIDOŠANA PABEIGTA"
+conv_VideoFich_MSG5="KĻŪDA, PĀRVEIDOJOT VIDEOFAALU"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Norādiet video failu:"
+extrae_Audio_de_Video_MSG2="Norādiet ģenerējamo mp3 skaņas failu:"
+extrae_Audio_de_Video_MSG3="SKAŅAS IEGŪŠANA VEIKSMĪGI"
+extrae_Audio_de_Video_MSG4="KĻŪDA, IEGŪT SKAŅU"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Norādiet video failu:"
+extrae_Fragmento_Video_MSG2="Norādiet ģenerējamo video failu:"
+extrae_Fragmento_Video_MSG3="Norādīt sākotnējo laiku (Norādīt kā HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Norādiet beigu laiku (Norādīt kā HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="VIDEO VEIKSMĪGI IZgriezts"
+extrae_Fragmento_Video_MSG6="KĻŪDA, IZgriežot VIDEO"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Norādiet skaņas failu:"
+mezcla_Audio_Video_MSG2="Norādiet video failu:"
+mezcla_Audio_Video_MSG3="Norādiet ģenerējamo video failu:"
+mezcla_Audio_Video_MSG4="JAUNS VIDEO FAILS VEIKSMĪGI IZVEIDOTS"
+mezcla_Audio_Video_MSG5="KĻŪDA, ĢENERĒJOT VIDEOFAILU"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="OPCIJA NAV PIEEJAMA KONSOLES INTERFESEI"
+graba_escritorio_MSG2="-- IERAKSTĪŠANA DARBADĀRAS SESIJA — NOspiediet CTRL+C, LAI ATCELTU UN PĀRTRAUKTU IERAKSTĪŠANU"
+graba_escritorio_MSG3="VIDEO IERAKSTĪŠANA PABEIGTA"
+

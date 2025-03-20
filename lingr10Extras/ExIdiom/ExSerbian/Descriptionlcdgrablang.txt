@@ -1,0 +1,21 @@
+српски
+
+Serbio. Serbian.
+Experimental.
+
+Contiene errores de significado en contexto o traducción propia.
+Por estudio del comportamiento de los caracteres serbios en el shell.
+El shell debe tener soporte para los caractereres de Serbio,
+de lo contrario, este idioma no será funcional en el shell.
+Generado con Google Translate.
+
+Contains meaning errors in context or own translation.
+Based on study of the behavior of Serbian characters in the shell.
+The shell must have support for Serbian characters,
+otherwise, this language will not be functional in the shell.
+Generated with Google Translate.
+
+Српски језик за linux-cdgrab.
+Експериментално, генерисано помоћу Google Translate.
+Pascual Martínez Cruz; pascual@hotmail.com
+

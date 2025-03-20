@@ -1,0 +1,33 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLatvian/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Letón para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Faili mapē /tmp"
+dir_tmp_MSG2="Dzēst visus attēlus un saspiestos failus"
+dir_tmp_MSG3="Palaist failu pārvaldnieku citām darbībām"
+dir_tmp_MSG4="Piemontējiet vai atvienojiet attēlu"
+dir_tmp_MSG5="Rādīt attēla izveides izvēlni"
+dir_tmp_MSG6="Rādīt attēlu ierakstīšanas opcijas"
+dir_tmp_MSG7="Iepriekšējā izvēlne"
+dir_tmp_MSG8="ESĒJOŠO FAILU SARAKSTS"
+dir_tmp_MSG9="IZVĒLĒTIES OPCIJU:"
+dir_tmp_MSG10="DZĒSTI ATTĒLI UN FAILI"
+dir_tmp_MSG11="Pievienot attēlu."
+dir_tmp_MSG12="Atvienot attēlu."
+dir_tmp_MSG13="Ierakstīt attēlu kompaktdiskā"
+dir_tmp_MSG14="Ierakstīt attēlu uz DVD"
+dir_tmp_MSG14B="Ierakstīt attēlu BD"
+dir_tmp_MSG15="Izvēlieties opciju atbilstoši ierakstīšanas datu nesējai"
+dir_tmp_MSG16="Fails NAV ATRAST KONFIGURĀCIJAS FAILS"
+dir_tmp_MSG17="Ierakstīšanas procesa pārtraukšana"
+dir_tmp_MSG18="Norādiet ierakstāmo .iso failu"
+dir_tmp_MSG19="Ievadiet attēla ceļu: "

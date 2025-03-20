@@ -1,0 +1,24 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en serbio para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="ВИДЕО КОНВЕРЗИЈА"
+menu_conversion_video_MSG2="------------ КОНВЕРЗИЈА ИЗМЕЂУ ФОРМАТА -----------"
+menu_conversion_video_MSG3="Конвертујте видео у Blu Ray Disc Smart-TV компатибилан"
+menu_conversion_video_MSG4="Видео фајл за конвертовање:"
+menu_conversion_video_MSG0="Претходни мени"
+menu_conversion_video_MSG6="Сними сесију радне површине"
+menu_conversion_video_MSG7="Претвори видео датотеку у други формат"
+menu_conversion_video_MSG8="----------------- ДРУГЕ ОПЦИЈЕ -------------------"
+menu_conversion_video_MSG9="Помешајте видео датотеку са аудио датотеком"
+menu_conversion_video_MSG10="Издвоји MP3 аудио из видео датотеке"
+menu_conversion_video_MSG11="Скратите видео фајл"
+

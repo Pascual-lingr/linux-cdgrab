@@ -1,0 +1,51 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Serbio para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="УРЕЂАЈИ КОЈИ СУ ТРЕНУТНО ПОСТАВЉЕНИ У СИСТЕМУ"
+montar_dispositivos_MSG1B="МОНТАЖА/РАСТАВЉАЊЕ УРЕЂАЈА"
+montar_dispositivos_MSG2="ОПЦИЈЕ LINUX-CDGRAB a"
+montar_dispositivos_MSG3="Избаците диск из CD/DVD/BD читача"
+montar_dispositivos_MSG4="Избаците диск из CD/DVD/BD снимача"
+montar_dispositivos_MSG5="Montar lector de CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG6="Искључите CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Монтирајте или искључите прилагођени уређај"
+montar_dispositivos_MSG0="Претходни мени"
+montar_dispositivos_MSG8="CD/DVD/BD монтиран на"
+montar_dispositivos_MSG9="ПРИТИСНИТЕ ЕНТЕР ДА НАСТАВИТЕ..."
+montar_dispositivos_MSG10="Грешка при постављању CD/DVD/BD у "
+montar_dispositivos_MSG11="CD/DVD/BD је искључен"
+montar_dispositivos_MSG12="Грешка при демонтажи CD/DVD/BD"
+montar_dispositivos_MSG13="Унесите уређај за монтирање/демонтажу:"
+montar_dispositivos_MSG14="Унесите тачку монтирања:"
+montar_dispositivos_MSG15="не одговара блок уређају"
+montar_dispositivos_MSG16="Тачка монтирања није пронађена"
+montar_dispositivos_MSG17="Подразумевана тачка монтирања"
+montar_dispositivos_MSG18="Изаберите опцију:"
+montar_dispositivos_MSG19="Монтирај"
+montar_dispositivos_MSG20="ин"
+montar_dispositivos_MSG21="Демонтирај"
+montar_dispositivos_MSG22="де"
+montar_dispositivos_MSG23="Постављено на:"
+montar_dispositivos_MSG24="ГРЕШКА ПРИ МОНТАЖИ"
+montar_dispositivos_MSG25="ИН"
+montar_dispositivos_MSG26="демонтиран са"
+montar_dispositivos_MSG27="ГРЕШКА ПРИЛИКОМ ДЕМОНТИРАЊА"
+montar_dispositivos_MSG28="де"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Излаз команде за mount"
+Montar_Imagenes_MSG1B="САСТАВЉАЊЕ/РАСТАВЉАЊЕ ДАТОТЕКА СЛИКЕ"
+Montar_Imagenes_MSG2="Изаберите опцију"
+Montar_Imagenes_MSG3="Поставите CD/DVD/BD слику"
+Montar_Imagenes_MSG4="Демонтирај CD/DVD/BD слику"
+Montar_Imagenes_MSG5="Претходни мени"

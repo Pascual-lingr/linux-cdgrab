@@ -1,0 +1,24 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRomanian/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en rumano para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="CONVERSIE VIDEO"
+menu_conversion_video_MSG2="------------- CONVERSIE ÎNTRE FORMATE ------------"
+menu_conversion_video_MSG3="Conversie video în Blu Ray Disc compatibil Smart-TV"
+menu_conversion_video_MSG4="Fișier video de convertit:"
+menu_conversion_video_MSG0="Meniul precedent"
+menu_conversion_video_MSG6="Înregistrează sesiune desktop"
+menu_conversion_video_MSG7="Convertiți fișierul video în format diferit"
+menu_conversion_video_MSG8="----------------- ALTE OPȚIUNI -------------------"
+menu_conversion_video_MSG9="Mixați fișierul video cu fișierul audio"
+menu_conversion_video_MSG10="Extrage audio MP3 din fișierul video"
+menu_conversion_video_MSG11="Decupați fișierul video"
+

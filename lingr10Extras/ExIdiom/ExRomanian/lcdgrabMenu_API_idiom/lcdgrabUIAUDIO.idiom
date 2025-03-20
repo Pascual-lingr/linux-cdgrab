@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRomanian/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en rumano para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="CONVERSIE AUDIO"
+menu_conversion_audio_MSG2="------------- CONVERSIE ÎNTRE FORMATE -------------"
+menu_conversion_audio_MSG3="Convertiți .mp3 în .wav"
+menu_conversion_audio_MSG4="Convertiți .ogg în .wav"
+menu_conversion_audio_MSG5="Convertiți .wav în .mp3"
+menu_conversion_audio_MSG6="Convertiți .wav în .ogg"
+menu_conversion_audio_MSG6C="Convertiți .wav în .flac"
+menu_conversion_audio_MSG6B="Convertiți .flac în .wav"
+menu_conversion_audio_MSG7="------------ EXTRAGEREA PISTELOR AUDIO ------------"
+menu_conversion_audio_MSG8="Extrai un CD audio pe .wav"
+menu_conversion_audio_MSG9="Extrai un set de piste audio pe .wav"
+menu_conversion_audio_MSG10="Extrai un CD audio în .mp3"
+menu_conversion_audio_MSG11="Extrai un CD audio pe .ogg"
+menu_conversion_audio_MSG0="Meniul precedent"
+menu_conversion_audio_MSG12="Căutați fișiere .mp3"
+menu_conversion_audio_MSG13="Căutați fișiere .ogg"
+menu_conversion_audio_MSG14="Căutați fișiere .wav"
+menu_conversion_audio_MSG15="----------------- ALTE OPERAȚII -------------------"
+menu_conversion_audio_MSG16="Tăiați fișierul audio .wav"
+menu_conversion_audio_MSG17="Extrai un CD audio pe .flac"
+
+

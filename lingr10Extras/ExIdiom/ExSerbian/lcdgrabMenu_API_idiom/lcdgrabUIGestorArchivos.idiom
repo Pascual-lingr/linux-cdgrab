@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Serbio para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* ОПЦИЈЕ НАВИГАЦИЈЕ ************************"
+ayuda_gestor_de_archivos_MSG2="Прегледајте систем датотека."
+ayuda_gestor_de_archivos_MSG3="X --> Изађи"
+ayuda_gestor_de_archivos_MSG4="A --> Претходни директоријум"
+ayuda_gestor_de_archivos_MSG5="B --> Следећи директоријум"
+ayuda_gestor_de_archivos_MSG6="Радње на фајловима и директоријумима."
+ayuda_gestor_de_archivos_MSG7="C --> Копирај датотеку"
+ayuda_gestor_de_archivos_MSG8="M --> Премести датотеку"
+ayuda_gestor_de_archivos_MSG9="CD --> Цопи Дирецтори"
+ayuda_gestor_de_archivos_MSG10="MD --> Премести директоријум"
+ayuda_gestor_de_archivos_MSG11="Разумевање радњи над датотекама и директоријумима."
+ayuda_gestor_de_archivos_MSG12="Z --> Компримирајте датотеку"
+ayuda_gestor_de_archivos_MSG13="DZ --> Распакујте датотеку"
+ayuda_gestor_de_archivos_MSG14="EZ --> Креирајте .tar.gz или .tar.bz2 пакет"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Распакујте .tar.gz или .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*******************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Тренутни активни именик"
+gestor_de_archivos_MSG0B="Фајлови у"
+gestor_de_archivos_MSG1="=========================== ОПЦИЈЕ НАВИГАЦИЈЕ ========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> АИД="
+gestor_de_archivos_MSG3="======================================================================="
+gestor_de_archivos_MSG4="Унесите опцију"
+gestor_de_archivos_MSG5="Тип директоријум"
+gestor_de_archivos_MSG6="Унесите изворну датотеку"
+gestor_de_archivos_MSG7="Унесите одредишну датотеку"
+gestor_de_archivos_MSG8="Датотека је успешно копирана"
+gestor_de_archivos_MSG9="Грешка при копирању датотеке"
+gestor_de_archivos_MSG10="Укуцајте изворну датотеку"
+gestor_de_archivos_MSG11="Унесите одредишну датотеку"
+gestor_de_archivos_MSG12="Датотека је успешно премештена"
+gestor_de_archivos_MSG13="Грешка при премештању датотеке"
+gestor_de_archivos_MSG14="Унесите изворни директоријум"
+gestor_de_archivos_MSG15="Унесите одредишни директоријум"
+gestor_de_archivos_MSG16="Директоријум је успешно копиран"
+gestor_de_archivos_MSG17="Грешка при копирању директоријума"
+gestor_de_archivos_MSG18="Унесите изворни директоријум"
+gestor_de_archivos_MSG19="Унесите одредишни директоријум"
+gestor_de_archivos_MSG20="Директоријум је успешно премештен"
+gestor_de_archivos_MSG21="Грешка при премештању директоријума"
+gestor_de_archivos_MSG22="Фајл за компримовање"
+gestor_de_archivos_MSG23="Одреди путању датотеке"
+

@@ -1,0 +1,45 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Esloveno para la aplicación principal#
+# Traducción experimental.                         #
+# Generado con Google Translate.                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Datoteka, ki jo samodejno ustvari LINUX-CDGRAB 1.0"
+creacion_de_Depot_MSG2="Ta datoteka skupaj z imenikom"
+creacion_de_Depot_MSG3="so bili ustvarjeni samodejno"
+creacion_de_Depot_MSG4="s strani aplikacije Linux-cdgrab pri preverjanju, da ne obstaja v vaši distribuciji Linuxa"
+creacion_de_Depot_MSG5="imenik"
+creacion_de_Depot_MSG6="Linux-cdgrab uporablja ta imenik za pisanje začasnih datotek in slik naprav (iso, img itd.)"
+creacion_de_Depot_MSG8="Depot uporablja GoboLinux za shranjevanje začasnih datotek"
+creacion_de_Depot_MSG9="Namen te datoteke je samo v informativne namene, ko jo preberete, jo lahko prosto izbrišete."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="OPOMBA:"
+main_IDSISTEMA_MSG2="Operacijski sistem ni podprt."
+main_IDSISTEMA_MSG3="Če pride do težav pri delovanju aplikacije, uporabite GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="To ni veljaven argument"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="najdeno"
+main_cdkit_test_MSG2="ustvarjena povezava do wodima"
+main_cdkit_test_MSG3="ustvarjena povezava do genisoimage"
+main_cdkit_test_MSG4="povezava do icedaxa ustvarjena"
+
+# pgm principal
+
+pgm_principal_MSG1="USODNO: Ni pravilne distribucije imenika."
+pgm_principal_MSG2="NEZNANO"
+

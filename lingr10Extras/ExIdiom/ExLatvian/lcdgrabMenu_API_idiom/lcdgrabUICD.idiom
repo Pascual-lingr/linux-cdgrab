@@ -1,0 +1,72 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLatvian/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Letón, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="IZVĒLIES IESPĒJU"
+clonar_MSG2="---------- PRIEKŠATTĒLU DISKU KOPIJAS ----------"
+clonar_MSG3="Kopēt datu kompaktdisku"
+clonar_MSG4="Izveidot iepriekšējo CD attēlu cietajā diskā"
+clonar_MSG5="------------ DISKU KOPIJAS LIDOJUMĀ ------------"
+clonar_MSG6="Kopēt datu kompaktdisku lidojumā"
+clonar_MSG7="Klonēt datu kompaktdisku lidojumā"
+clonar_MSG7B="Kopēt audio kompaktdisku lidojumā"
+clonar_MSG8="LIDOŠANAS KOPIJAS OPCIJĀM NEPIECIEŠAMAS DIVAS OPTISKĀS VIENĪBAS"
+clonar_MSG9="INSTALLĒTS JŪSU DATORĀ, JO DATI TIEK IERAKSTĪTI LAIKĀ"
+clonar_MSG10="LASĪT TIEŠI NO ORIĢINĀLĀ DISKA, JA TIKAI JŪSU DATORĀ IR"
+clonar_MSG11="LIDOJUMĀ NEVARĒS IZMANTOT KOPIJAS."
+clonar_MSG12B="KOPĒT CD DATU"
+clonar_MSG0="Iepriekšējā izvēlne"
+
+# mgrabacd
+
+mgrabacd_MSG1="CD DATI NO CIETĀ DISKA"
+mgrabacd_MSG2="Ierakstīt jaunu datu kompaktdisku (izmantot cdrtools)"
+mgrabacd_MSG3="Ierakstīt jaunu datu kompaktdisku (izmantot libburnia)"
+mgrabacd_MSG4="Iepriekšējā izvēlne"
+mgrabacd_MSG5="Ievadiet opciju"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="DATU ATTĒLA IERAKSTĪŠANA"
+mgrabaimg_MSG2="Ierakstīt iso vai ext2 attēlu uz CD-R/RW (izmantojiet cdrtools)"
+mgrabaimg_MSG3="Ierakstīt iso attēlu CD-R/RW (izmantot libburnia)"
+mgrabaimg_MSG4="Iepriekšējā izvēlne"
+mgrabaimg_MSG5="Ievadiet opciju"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Ierakstīt audio kompaktdisku no .wav failiem"
+mgrabararchivosaudio_MSG2="Ierakstīt audio kompaktdisku no .mp3 failiem"
+mgrabararchivosaudio_MSG3="Ierakstīt audio kompaktdisku no .ogg failiem"
+mgrabararchivosaudio_MSG0="Iepriekšējā izvēlne"
+mgrabararchivosaudio_MSG0B="Ierakstiet opciju"
+mgrabararchivosaudio_MSG4="Ierakstīt audio kompaktdisku no .flac failiem"
+mgrabararchivosaudio_MSG5="CD-AUDIO IERAKSTS NO FAILIEM"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="IERAKSTĪŠANA CD"
+menugrabar_cd_MSG2="------------------- CD - DATI --------------------"
+menugrabar_cd_MSG3="Kopēt datu kompaktdisku"
+menugrabar_cd_MSG4="Ierakstīt jaunu datu kompaktdisku"
+menugrabar_cd_MSG5="Ierakstīt jaunu vairāku sesiju datu kompaktdisku"
+menugrabar_cd_MSG6="Ierakstīt .iso vai .ext2 attēlu kompaktdiskā"
+menugrabar_cd_MSG7="Ierakstīt .bin/.cue attēlu kompaktdiskā"
+menugrabar_cd_MSG8="-------------------- CD - AUDIO ------------------"
+menugrabar_cd_MSG9="Kopējiet audio kompaktdisku"
+menugrabar_cd_MSG13="----------------- CITAS IESPĒJAS -----------------"
+menugrabar_cd_MSG14="Ierakstīt jauktu kompaktdisku (dati + audio)"
+menugrabar_cd_MSG15="Dzēst CD-RW"
+menugrabar_cd_MSG16="Aizvērt atvērto kompaktdisku"
+menugrabar_cd_MSG17="Rādīt diska informāciju diskdzinī"
+menugrabar_cd_MSG18="Ierakstīt audio kompaktdisku no diska failiem"
+menugrabar_cd_MSG0="Iepriekšējā izvēlne"
+menugrabar_cd_MSGPRINCIPAL="Ierakstiet opciju"

@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRomanian/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Rumano, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Selectați interfața de utilizator care va fi utilizată:"
+SeleccionaIUDVD_MSG2="Utilizați interfața pentru dvd+-rw-tools"
+SeleccionaIUDVD_MSG3="Utilizați interfața pentru Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Utilizați interfața pentru libburnia"
+SeleccionaIUDVD_MSG5="Meniu precedent"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="ÎNREGISTRARE DVD"
+menugrabar_dvd_MSG2="----------------- DVD - DATE -------------------"
+menugrabar_dvd_MSG3="Copiați un DVD de date ISO-9660"
+menugrabar_dvd_MSG4="Creați o imagine anterioară de DVD pe hard disk"
+menugrabar_dvd_MSG5="Inscripționați un nou DVD de date ISO-9660"
+menugrabar_dvd_MSG6="Adăugați o nouă sesiune de date pe DVD-ul de date ISO-9660 (DVD cu mai multe sesiuni)"
+menugrabar_dvd_MSG7="Necesită un DVD înregistrat anterior folosind a doua opțiune"
+menugrabar_dvd_MSG8="Arde o imagine de date ISO-9660 pe DVD"
+menugrabar_dvd_MSG9="Arde o imagine .ext2 pe DVD"
+menugrabar_dvd_MSG10="----------------- DVD - VIDEO ------------------"
+menugrabar_dvd_MSG11="Inscripționați un nou DVD-Video"
+menugrabar_dvd_MSG12="---------------- ALTE OPTIUNI ------------------"
+menugrabar_dvd_MSG13="Formatarea unui DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Afișați informațiile discului DVD"
+menugrabar_dvd_MSG0="Meniul precedent"
+menugrabar_dvd_MSGPRINCIPAL="Tastați o opțiune"
+menugrabar_dvd_MSG15="Fișiere și directoare de inclus pe DVD"
+menugrabar_dvd_MSG16="Se lansează managerul de fișiere..."
+menugrabar_dvd_MSG17="Imagine .iso de inscripționat pe DVD"
+menugrabar_dvd_MSG18="Tastați calea directorului în care se află imaginea .iso pe care doriți să o inscripționați"
+menugrabar_dvd_MSG19="Necesită versiunea de cdrecord cu suport DVD."
+menugrabar_dvd_MSG20="Înregistrarea imaginii .ext2 pe DVD se va face cu cdrecord."
+menugrabar_dvd_MSG21="Versiunea cdrecord existentă în instalarea dvs. ar trebui să"
+menugrabar_dvd_MSG22="suporta arderea DVD-urilor"
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="ALEGE O OPȚIUNE"
+dvd_clonar_MSG2="--- COPII DE DISC CU IMAGINE DE PREVIEW ---"
+dvd_clonar_MSG3="Copiați un DVD de date"
+dvd_clonar_MSG4="Creează o imagine DVD anterioară pe hard disk"
+dvd_clonar_MSG5="--- COPII DE DISC ÎN ZBOR ---"
+dvd_clonar_MSG6="Copiați un DVD de date din mers"
+dvd_clonar_MSG7="Clonează un DVD de date din mers"
+dvd_clonar_MSG8="OPȚIUNILE DE COPIE ZBURĂ NECESIT DOUA UNITĂȚI OPTICE"
+dvd_clonar_MSG9="INSTALAT PE CALCULATORUL DVS., DECÂT DATELE SUNT ÎNREGISTRATE ÎN CÂND"
+dvd_clonar_MSG10="CITIȚI DIRECT DE PE DISKUL DE ORIGINĂ, DACĂ NUMAI CALCULATORUL TĂU ÎL ARE"
+dvd_clonar_MSG11="NU VEȚI PUTEȚI UTILIZA COPPIILE ÎN ZBOR."
+dvd_clonar_MSG0="Meniul precedent"
+dvd_clonar_MSG12="COPIE DE DATE DVD"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="ÎNREGISTRARE DVD"
+menugrabar_DVD_MSG2="------------------ DVD - DATE --------------------"
+menugrabar_DVD_MSG3="Rip date DVD"
+menugrabar_DVD_MSG4="Inscripționați un nou DVD de date"
+menugrabar_DVD_MSG5="Inscripționați imaginea .iso sau .ext2 pe DVD"
+menugrabar_DVD_MSG6="Format DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Afișați informațiile discului în unitate"
+menugrabar_DVD_MSG0="Meniu precedent"
+menugrabar_DVD_MSGPRINCIPAL="Tastați o opțiune"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Arde imaginea iso-9660 pe DVD"
+menugrabar_DVD_libburnia_MSG2="Arde date de pe hard disk pe DVD"
+menugrabar_DVD_libburnia_MSG3="Format DVD"
+menugrabar_DVD_libburnia_MSG4="Formatați DVD-RW în incremental secvenţial"
+menugrabar_DVD_libburnia_MSG5="Format DVD-RW la suprascriere restricționată"
+menugrabar_DVD_libburnia_MSG6="Afișează informațiile despre unitate"
+menugrabar_DVD_libburnia_MSG8="Lista unitățile instalate în sistem"
+menugrabar_DVD_libburnia_MSG0="Ieșire"
+menugrabar_DVD_libburnia_MSG7="Introduceți o opțiune"
+

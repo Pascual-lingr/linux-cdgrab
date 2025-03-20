@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExSlovenian/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Esloveno para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="OPERACIJE DISKOV"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="----------------------- POMEMBNO ------------------------"
+MenuDispositivosBloque_MSG3="+ Ne izvajaj zapisovalnih operacij na trde diske "
+MenuDispositivosBloque_MSG4="+ o particijah diska, ki vsebujejo slike"
+MenuDispositivosBloque_MSG5="+ obnovitev, zagonske particije ali svoje"
+MenuDispositivosBloque_MSG6="+ particija operacijskega sistema."
+MenuDispositivosBloque_MSG7="+ Zloraba možnosti pisanja v tem meniju "
+MenuDispositivosBloque_MSG8="+ lahko povzroči katastrofo v sistemu."
+MenuDispositivosBloque_MSG9="+ Uporabljajte previdno. Uporabljajte na lastno odgovornost."
+MenuDispositivosBloque_MSG10="-------------------- PISANJE ---------------------"
+MenuDispositivosBloque_MSG11="Izpis slikovne datoteke na diskovni pogon"
+MenuDispositivosBloque_MSG11B="Izpis slike iso ali img (samozagonska) na pogon ali disk USB"
+MenuDispositivosBloque_MSG11C="Niso podprti vsi namestitveni sistemi."
+MenuDispositivosBloque_MSG12="Formatiraj pogon z izvirnim datotečnim sistemom Linux ali Windows"
+MenuDispositivosBloque_MSG13="-------------------- BRANJE ----------------------"
+MenuDispositivosBloque_MSG14="Ustvari sliko .img iz diskovnega pogona"
+MenuDispositivosBloque_MSG15="Prejšnji meni"
+MenuDispositivosBloque_MSG16="Vnesite možnost"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="----------------------------POMEMBNO------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Oblikuj enoto z datotečnim sistemom, ki se uporablja v napravah"
+UIFormatearUnidad_linuxfs_MSG2B="+ ali diskovne particije."
+UIFormatearUnidad_linuxfs_MSG3="+ Ta možnost bo izbrisala vse obstoječe podatke v enoti"
+UIFormatearUnidad_linuxfs_MSG4="+ Izmenljivi pogoni, formatirani z datotečnim sistemom"
+UIFormatearUnidad_linuxfs_MSG5="+ sam Linux bo dostopen samo v tem operacijskem sistemu."
+UIFormatearUnidad_linuxfs_MSG6="+ Uporabljajte previdno, uporabljajte na lastno odgovornost."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="PRITISNITE TIPKO C ZA NADALJEVANJE (postopek bo preklican v drugi možnosti)"
+

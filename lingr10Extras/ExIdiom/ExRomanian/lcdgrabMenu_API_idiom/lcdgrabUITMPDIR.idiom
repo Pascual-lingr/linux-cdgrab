@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRomanian/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Rumano para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Fișiere în /tmp"
+dir_tmp_MSG2="Șterge toate imaginile și fișierele comprimate"
+dir_tmp_MSG3="Lansați managerul de fișiere pentru alte operațiuni"
+dir_tmp_MSG4="Montează sau demontează o imagine"
+dir_tmp_MSG5="Afișează meniul de creare a imaginii"
+dir_tmp_MSG6="Afișează opțiunile de înregistrare a imaginii"
+dir_tmp_MSG7="Meniu precedent"
+dir_tmp_MSG8="LISTA FIȘIERE EXISTENTE ÎN"
+dir_tmp_MSG9="SELECTAȚI O OPȚIUNE:"
+dir_tmp_MSG10="IMAGINI ȘI FIȘIERE ȘTERSE"
+dir_tmp_MSG11="Montați imaginea."
+dir_tmp_MSG12="Demontați imaginea."
+dir_tmp_MSG13="Arde imaginea pe CD"
+dir_tmp_MSG14="Arde imaginea pe DVD"
+dir_tmp_MSG14B="Arde imaginea pe BD"
+dir_tmp_MSG15="Alegeți opțiunea în funcție de mediul de înregistrare"
+dir_tmp_MSG16="FIȘIERUL NU S-A GĂSIT FIȘIERUL DE CONFIGURARE"
+dir_tmp_MSG17="Anularea procesului de înregistrare"
+dir_tmp_MSG18="Specificați fișierul .iso de ars"
+dir_tmp_MSG19="Introduceți calea imaginii: "
+

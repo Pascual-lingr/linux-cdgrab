@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRomanian/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Rumano para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Introduceți calea fișierului sau a directorului:"
+empaquetar_MSG2="------- Opțiuni -------"
+empaquetar_MSG3="Generează fișierul .tar.gz"
+empaquetar_MSG4="Generează fișierul .tar.bz2"
+empaquetar_MSG5="Tastați o opțiune: "
+empaquetar_MSG6="În rulare"
+empaquetar_MSG7="Opțiune nevalidă"
+
+# desempaquetar
+
+desempaquetar_MSG1="Introduceți calea fișierului:"
+desempaquetar_MSG2="NICIUN DECOMPRESOR GĂSIT PENTRU"
+desempaquetar_MSG3="SAU"
+desempaquetar_MSG4="NU EXISTĂ"
+desempaquetar_MSG5="Rulează"
+desempaquetar_MSG6="despachetat"
+desempaquetar_MSG7="Eroare la încercarea de a despacheta"
+
+# comprime
+
+comprime_MSG1="COMPRESARE IMAGINII"
+comprime_MSG2="Comprimați cu bzip2"
+comprime_MSG3="Comprimați cu gzip"
+comprime_MSG4="Comprimați cu xz"
+comprime_MSG5="Meniu precedent"
+comprime_MSG6="Rulează"
+comprime_MSG7="Comprimarea fișierului imagine finalizată"
+comprime_MSG8="Eroare la comprimare cu"
+comprime_MSG9="Compresor nevalid"
+
+# descomprime
+
+descomprime_MSG1="Tastați calea fișierului:"
+descomprime_MSG2="---------------------------"
+descomprime_MSG3="NICIUN DECOMPRESOR GĂSIT PENTRU"
+descomprime_MSG4="SAU"
+descomprime_MSG5="NU EXISTĂ"
+descomprime_MSG6="Alergare"
+descomprime_MSG7="necomprimat"
+descomprime_MSG8="Eroare la încercarea de decomprimare"
+

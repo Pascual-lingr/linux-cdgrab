@@ -1,0 +1,282 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLatvian/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Letón para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux-cdgrab konfigurācija"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Ja nezināt, kuram IDE kanālam pieder" 
+ayuda_IDE_MSG2="jūsu ierakstītājs to var uzzināt, nospiežot burtu t."
+ayuda_IDE_MSG3="IDE kanāla piemērs var būt 0,0,0 vai 0,1,0"
+ayuda_IDE_MSG4="Varat arī norādīt atbilstošo ierīci"
+ayuda_IDE_MSG5="uz jūsu ierakstītāju. Ja nezināt, kurš tas ir noteikti, nospiediet d,"
+ayuda_IDE_MSG6="lai apskatītu /etc/fstab failā reģistrētās ierīces"
+ayuda_IDE_MSG7="Ierīču piemērs varētu būt /dev/hdd, /dev/hde utt."
+ayuda_IDE_MSG8="Ja vēlaties, varat arī uzskaitīt visas ietvertās ierīces"
+ayuda_IDE_MSG9="/dev direktorijā, nospiežot burtu l."
+ayuda_IDE_MSG10="Jums jānorāda IDE kanāls vai ierakstīšanas ierīce"
+ayuda_IDE_MSG11="bet ne abi."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab ir atinstalēts no jūsu sistēmas"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Ierakstīšanas ātrums"
+imprimir_variables_MSG2="IDE/SCSI kanāls vai ierakstīšanas ierīce"
+imprimir_variables_MSG3="CD-ROM, DVD-ROM vai BD-ROM lasītājs"
+imprimir_variables_MSG4="ATAPI ierīce"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Ierakstīšanas ātrums"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI kanāls vai ierakstīšanas ierīce"
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM vai BD-ROM lasītājs"
+imprimir_lcdgrabcfg_MSG4="ATAPI ierīce"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Instalēts"
+chequeo_de_aplicaciones_MSG2="NAV INSTALLĒTS"
+chequeo_de_aplicaciones_MSG3="Instalēt"
+chequeo_de_aplicaciones_MSG4="SVARĪGI:"
+chequeo_de_aplicaciones_MSG5="Nepieciešamo rīku instalēšana Linux-cdgrab darbosies pilnībā"
+chequeo_de_aplicaciones_MSG6="Visas programmas, kas nepieciešamas Linux-cdgrab, ir instalētas jūsu sistēmā"
+chequeo_de_aplicaciones_MSG4B="PAZIŅOJUMS:"
+chequeo_de_aplicaciones_MSG5B="Atrasti trūkstošie rīki"
+chequeo_de_aplicaciones_MSG6B="Sistēmā instalētie rīki"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="Pēc noklusējuma šim mainīgajam tiek piešķirts 0,0,0"
+msgdefCANALATAPI_MSG2="Konfigurācijas fails tiks ierakstīts ar CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Konfigurācijas fails, ko automātiski ģenerē Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG5="cdrecord sistēmā nav atrasts"
+nuevo_lcdgrabcfg_MSG6="Instalējiet cdrtools pakotni."
+nuevo_lcdgrabcfg_MSG7="Jūs varat turpināt konfigurāciju, norādot vērtības"
+nuevo_lcdgrabcfg_MSG8="ierakstīšana, ja jūs tos zinājāt iepriekš."
+nuevo_lcdgrabcfg_MSG9="Komanda cdrecord tiek izmantota CD, DVD un BD disku ierakstīšanai"
+nuevo_lcdgrabcfg_MSG10="Šīs opcijas nedarbosies, kamēr minētā pakotne nebūs instalēta."
+nuevo_lcdgrabcfg_MSG11="Esošais diskdziņa skenēšanas rīks arī nedarbosies"
+nuevo_lcdgrabcfg_MSG12="šajā konfigurācijas vednī."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab ir jākonfigurē sekojošās četrās darbībās"
+nuevo_lcdgrabcfg_MSG14="Pirmais solis."
+nuevo_lcdgrabcfg_MSG15="Ierakstīšanas ātrums"
+nuevo_lcdgrabcfg_MSG16="Tikai viens cipars 2,4,8,16,32... utt."
+nuevo_lcdgrabcfg_MSG17="Otrais solis."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI kanāls vai ierakstīšanas ierīce:"
+nuevo_lcdgrabcfg_MSG19="A -> palīdzība"
+nuevo_lcdgrabcfg_MSG20="Notiek skenēšana..."
+nuevo_lcdgrabcfg_MSG21="Kļūda skenējot IDE/SCSI portu"
+nuevo_lcdgrabcfg_MSG22="Cdrecord nav atrasts"
+nuevo_lcdgrabcfg_MSG23="Trešais solis."
+nuevo_lcdgrabcfg_MSG24="CD-ROM, DVD-ROM vai BD-ROM ierīce"
+nuevo_lcdgrabcfg_MSG25="L -> Pieejamo ierīču saraksts"
+nuevo_lcdgrabcfg_MSG26="Notiek skenēšana..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI ports ir skenēts"
+nuevo_lcdgrabcfg_MSG28="Ierīce, kas jāizmanto cdrecord caur dev=ATAPI vairāku sesiju ierakstos"
+nuevo_lcdgrabcfg_MSG30="Ierīcei ir nomenklatūra, piemēram, 0,0,0 vai 1,0,0 utt."
+nuevo_lcdgrabcfg_MSG31="Norādiet ierīci, lai izsauktu cdrecord vairāksesiju kompaktdiskos: "
+nuevo_lcdgrabcfg_MSG32="Konfigurācija nav pareiza CANALATAPI"
+nuevo_lcdgrabcfg_MSG33="Kļūda skenējot IDE/SCSI portu"
+nuevo_lcdgrabcfg_MSG34="Cdrecord nav atrasts"
+nuevo_lcdgrabcfg_MSG36="Konfigurācijas fails, ko automātiski ģenerē Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB IESTATĪŠANA PABEIGTA"
+
+# colores
+
+colores_MSG1="Krāsu sarakstu nevar atrast"
+colores_MSG2="Notiek noklusējuma krāsu ielāde"
+colores_MSG3="Izvēlieties jaunu krāsu shēmu LINUX-CDGRAB interfeisam"
+colores_MSG4="MELNS FONTS"
+colores_MSG5="STANDARTA SPILTS FONTS"
+colores_MSG6="MELNA FONA KRĀSA"
+colores_MSG7="SARKANS FONTS"
+colores_MSG8="SPAIGI MELNS FONTS"
+colores_MSG9="SARKANA FONA KRĀSA"
+colores_MSG10="FONT GREEN"
+colores_MSG11="SPAIGI SARKANA STRŪKLAKA"
+colores_MSG12="ZAĻA FONA KRĀSA"
+colores_MSG13="DZELTENS FONTS"
+colores_MSG14="SPAIGI ZAĻS FONTS"
+colores_MSG15="ORANŽA FONA KRĀSA"
+colores_MSG16="ZILS FONTS"
+colores_MSG17="SPAIGI DZELTENS FONTS"
+colores_MSG18="ZILĀ FONA KRĀSA"
+colores_MSG19="MAGENTA FONT"
+colores_MSG20="SPAIGI ZILS FONTS"
+colores_MSG21="MAGENTA FONA KRĀSA"
+colores_MSG22="CYAN AVOTS"
+colores_MSG23="SPILDI MAGENTA FONTS"
+colores_MSG24="CIĀNA FONA KRĀSA"
+colores_MSG25="PELKAIS FONTS"
+colores_MSG26="CIĀNA FONA KRĀSA"
+colores_MSG27="SPILDZI CIĀNA FONTS"
+colores_MSG28="PELKĀ FONA KRĀSA"
+colores_MSG29="NOKLUSĒJUMA AVOTS"
+colores_MSG30="SPAIGI BALTS FONTS"
+colores_MSG31="NOKLUSĒJUMA FONA KRĀSA"
+colores_MSG32="Fonta krāsas numurs: "
+colores_MSG33="Fona krāsas numurs: "
+colores_MSG34="Krāsu numurs brīdinājuma ziņojumiem: "
+colores_MSG35="Krāsu numurs etiķetes ziņojumiem: "
+colores_MSG36="Krāsu numurs veiksmīgi pabeigtiem procesiem"
+colores_MSG37="Krāsu numurs procesiem, kas pārtraukti ar kļūdu: "
+colores_MSG38="Jauna shēma priekš LINUX-CDGRAB"
+colores_MSG39="VISPĀRĒJĀ Fonta KRĀSA"
+colores_MSG40="LABELS"
+colores_MSG41="PAZIŅOJUMI"
+colores_MSG42="VEIKSMES"
+colores_MSG43="KĻŪDA"
+colores_MSG44="FONA KRĀSA"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="PIEEJAMO KRĀSU SARAKSTS:"
+cambiar_esquema_de_color_MSG2="#####KRĀSU SHĒMAS#######"
+cambiar_esquema_de_color_MSG3="------------------------"
+cambiar_esquema_de_color_MSG4="Krāsu izvēlne"
+cambiar_esquema_de_color_MSG5="Neizdevās"
+cambiar_esquema_de_color_MSG6="Etiķetes"
+cambiar_esquema_de_color_MSG6b="Paziņojumi"
+cambiar_esquema_de_color_MSG7="Krāsu izvēlnes Labi Kļūmju brīdinājumu uzlīmes"
+cambiar_esquema_de_color_MSG8="Ievadiet jaunās krāsas numuru:"
+cambiar_esquema_de_color_MSG9="NEDERĪGA IESPĒJA"
+cambiar_esquema_de_color_MSG10="Noklusējuma KRĀSU IESTATĪŠANA."
+cambiar_esquema_de_color_MSG11="  FONS = BLUE_BACKGROUND"
+cambiar_esquema_de_color_MSG12="  FONT = SPAIGI BALTS"
+cambiar_esquema_de_color_MSG13="  BRĪDINĀJUMI = SPĪGI DZELTENS"
+cambiar_esquema_de_color_MSG14="  KĻŪDAS = SPĪGI SARKANS"
+cambiar_esquema_de_color_MSG15="  KĻŪDAS = SPAIGI SARKANA"
+cambiar_esquema_de_color_MSG16="  HITS = KAIGI ZAĻS"
+cambiar_esquema_de_color_MSG17="  ETIĶES = SPILDI CYAN"
+
+# cambia_lector
+
+cambia_lector_MSG1="VIDES IESTATĪJUMI OPTISKAJĀM IERĪCĪM"
+cambia_lector_MSG2="Pašreizējā ierīce, kas saistīta ar CD-ROM, DVD-ROM vai BD-ROM"
+cambia_lector_MSG3="Pašreizējā ierīce, kas saistīta ar CD/DVD/BD ierakstītāju"
+cambia_lector_MSG4="Pašreizējā ierīce, kas saistīta ar parametru dev=ATAPI"
+cambia_lector_MSG5="(vairāku sesiju atbalsts cdrecord)"
+cambia_lector_MSG6="Izvēlieties ierīci, kurā tiks veiktas izmaiņas."
+cambia_lector_MSG7="Ievadiet opciju:"
+cambia_lector_MSG8="Ievadiet jaunās ierīces nosaukumu"
+cambia_lector_MSG9="neatbilst blokierīcei"
+cambia_lector_MSG10="Ierīce"
+cambia_lector_MSG11="piešķirts pēc noklusējuma"
+cambia_lector_MSG12="Jaunā ierīce ir:"
+cambia_lector_MSG13="Ne visas cdrecord versijas pieņem blokierīci kā ierakstīšanas parametru"
+cambia_lector_MSG14="Ievadiet jaunās ATAPI ierīces nosaukumu"
+cambia_lector_MSG15="Konfigurācija nav pareiza CANALATAPI"
+cambia_lector_MSG16="0,0,0 ir piešķirts pēc noklusējuma šim mainīgajam"
+cambia_lector_MSG17="Konfigurācijas fails tiks ierakstīts ar CANALATAPI = 0,0,0"
+cambia_lector_MSG18="Jaunā ierīce ir:"
+cambia_lector_MSG19="IERĪCĒS NAV IZMAIŅAS"
+cambia_lector_MSG4B="Eksportēt vērtības no konfigurācijas faila"
+cambia_lector_MSG4C="ŠĪS VĒRTĪBAS TIKAS ZIŅOTAS VIDEI:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="No šīs izvēlnes jūs varat izvēlēties, kuru utilītu"
+cambia_generador_isocd_MSG2="tiks izmantots ISO-9660 attēlu ģenerēšanai"
+cambia_generador_isocd_MSG3="no lasīšanas blokā esošajiem CDS."
+cambia_generador_isocd_MSG4="Pašreizējā konfigurācija:"
+cambia_generador_isocd_MSG5="Izmantot dd (GNU coreutils komponentu)"
+cambia_generador_isocd_MSG6="Izmantot readcd (cdrtools komponentu)"
+cambia_generador_isocd_MSG7="Iepriekšējā izvēlne."
+cambia_generador_isocd_MSG8="Izvēlieties opciju:"
+cambia_generador_isocd_MSG9="Izmanto dd kā iso ģeneratoru."
+cambia_generador_isocd_MSG10="Izmanto readcd kā iso ģeneratoru."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Iestatiet HFS metadatus kopā ar Rock Ridge un Joliet"
+establecer_hfs_iso_MSG2="Izmantot tikai Rock Ridge un Joliet metadatus"
+establecer_hfs_iso_MSG3="Iepriekšējā izvēlne."
+establecer_hfs_iso_MSG4="Izvēlieties opciju:"
+establecer_hfs_iso_MSG5="Izmantojot HFS, Rock Ridge un Joliet metadatus"
+establecer_hfs_iso_MSG6="Izmantojot Rock Ridge un Joliet metadatus"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Pašreizējā paziņojumu sistēma"
+cambia_notificaciones_MSG2A="GNOME grafiskā saskarne"
+cambia_notificaciones_MSG2B="KDE grafiskais interfeiss"
+cambia_notificaciones_MSG2="Interfeiss ar ncurses"
+cambia_notificaciones_MSG3="Teksta interfeiss"
+cambia_notificaciones_MSG4="Iziet"
+cambia_notificaciones_MSG5="Izvēlieties opciju:"
+cambia_notificaciones_MSG6="Izmantojot saskarni ar dialogu"
+cambia_notificaciones_MSG6B="Izmantojot saskarni ar zenity"
+cambia_notificaciones_MSG6C="Izmantojot saskarni ar kdialog"
+cambia_notificaciones_MSG7="Dialoga komanda nav atrasta"
+cambia_notificaciones_MSG8="Teksta saskarnes izmantošana"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Lietojamā valoda:"
+cambiar_idioma_UI_MSG1="Šobrīd pieejamās valodas:"
+cambiar_idioma_UI_MSG2="Ievadiet valodas nosaukumu, kas tiks izmantota"
+cambiar_idioma_UI_MSG3="lietojumprogrammas saskarnē:"
+cambiar_idioma_UI_MSG4="Jaunā lietotā valoda ir:"
+cambiar_idioma_UI_MSG5="Restartēt LINUX-CDGRAB"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Pašreizējā konfigurācija"
+seleccion_gestor_archivos_MSG2="Lietot mc"
+seleccion_gestor_archivos_MSG3="Izmantot integrēto teksta pārvaldnieku"
+seleccion_gestor_archivos_MSG4="sistēmā nevar atrast instalētu mc"
+seleccion_gestor_archivos_MSG5="Pēc noklusējuma tiek izmantots integrētais teksta pārvaldnieks"
+seleccion_gestor_archivos_MSG6="mc utilīta"
+seleccion_gestor_archivos_MSG7="Integrēts teksts"
+
+# centro_de_control
+
+centro_de_control_MSG1="KONTROLES CENTRS"
+centro_de_control_MSG2="Jauna konfigurācija"
+centro_de_control_MSG3="Dzēst konfigurācijas failu"
+centro_de_control_MSG4="Rādīt pašreizējo konfigurācijas failu un vērtības"
+centro_de_control_MSG5="KONFIGURĀCIJAS FAILU VĒRTĪBAS:"
+centro_de_control_MSG5B="PAŠREIZĒJĀ KONFIGURĀCIJA IZMANTO VIDĒ:"
+centro_de_control_MSG6="Mainīt optisko datu nesēju"
+centro_de_control_MSG7="Pārbaudīt instalētās programmas"
+centro_de_control_MSG8="Skenēt IDE/SCSI portu ar cdrecord"
+centro_de_control_MSG8C="Skenēt IDE/SCSI portu ar cdrskin"
+centro_de_control_MSG8B="Sistēmā instalēto vienību saraksts ar cdrskin"
+centro_de_control_MSG9="Mainīt iso ģenerēšanas utilītu no CD"
+centro_de_control_MSG9B="Iestatīt HFS metadatus ISO-9660"
+centro_de_control_MSG10="Mainīt lietotāja interfeisu"
+centro_de_control_MSG10b="Mainīt krāsu"
+centro_de_control_MSG10c="Mainīt saskarnes valodu"
+centro_de_control_MSG11="Mainīt failu pārvaldnieku"
+centro_de_control_MSG11B="Atinstalēt programmu"
+centro_de_control_MSG12="Ievadiet opciju: "
+centro_de_control_MSG13="KONFIGURĀCIJAS FAILNE NEPASTĀV"
+centro_de_control_MSG14="KONFIGURĀCIJAS FAILS NAV ATRAST"
+centro_de_control_MSG15="Skenēšana"
+centro_de_control_MSG16="IDE/SCSI ports ir skenēts"
+centro_de_control_MSG17="Kļūda skenējot IDE/SCSI portu"
+centro_de_control_MSG18="Izvēlēties krāsu shēmu"
+centro_de_control_MSG19="Patvaļīgi izvēlēties krāsas"
+centro_de_control_MSG20="Iepriekšējā izvēlne"
+centro_de_control_MSG21="Ievadiet opciju: "
+centro_de_control_MSG22="KONFIGURĀCIJAS FAILS NEPASTĀV"
+centro_de_control_MSG23="KONFIGURĀCIJAS FAILS NAV ATRAST"
+centro_de_control_MSG24="Izvēlēties krāsu shēmu"
+centro_de_control_MSG25="Patvaļīgi izvēlieties krāsas"
+centro_de_control_MSG26="Nederīga opcija"
+

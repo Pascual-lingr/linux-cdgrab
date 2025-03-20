@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLatvian/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en letón para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Ievadiet faila vai direktorija ceļu:"
+empaquetar_MSG2="------- Iespējas -------"
+empaquetar_MSG3="Ģenerēt .tar.gz failu"
+empaquetar_MSG4="Ģenerēt .tar.bz2 failu"
+empaquetar_MSG5="Ierakstiet opciju: "
+empaquetar_MSG6="Darbojas"
+empaquetar_MSG7="Nederīga opcija"
+
+# desempaquetar
+
+desempaquetar_MSG1="Ievadiet faila ceļu:"
+desempaquetar_MSG2="DEKOMPRESORS NAV Atrasts"
+desempaquetar_MSG3="VAI"
+desempaquetar_MSG4="NEPASTĀV"
+desempaquetar_MSG5="Darbojas"
+desempaquetar_MSG6="izpakots"
+desempaquetar_MSG7="Kļūda, mēģinot izpakot"
+
+# comprime
+
+comprime_MSG1="TIEŠS ATTĒLS"
+comprime_MSG2="Saspiest ar bzip2"
+comprime_MSG3="Saspiest ar gzip"
+comprime_MSG4="Saspiest ar xz"
+comprime_MSG5="Iepriekšējā izvēlne"
+comprime_MSG6="Darbojas"
+comprime_MSG7="Attēla faila saspiešana pabeigta"
+comprime_MSG8="Kļūda saspiežot ar"
+comprime_MSG9="Nederīgs kompresors"
+
+# descomprime
+
+descomprime_MSG1="Ierakstiet faila ceļu:"
+descomprime_MSG2="----------------------"
+descomprime_MSG3="NAV ATRAST DEKOMPRESORI"
+descomprime_MSG4="VAI"
+descomprime_MSG5="NEPASTĀV"
+descomprime_MSG6="Darbojas"
+descomprime_MSG7="nesaspiests"
+descomprime_MSG8="Kļūda, mēģinot atspiest"
+

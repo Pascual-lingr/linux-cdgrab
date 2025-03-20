@@ -1,0 +1,74 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabación en CD.
+# Traducción experimental al Serbio, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="ОДАБЕРИТЕ ОПЦИЈУ"
+clonar_MSG2="------ КОПИЈЕ ДИСКА ПРЕ СЛИКЕ -------"
+clonar_MSG3="Копирајте CD са подацима"
+clonar_MSG4="Направите слику пре CD а на свом чврстом диску"
+clonar_MSG5="----------- КОПИЈЕ ДИСКА НА ЛЕТУ -----------"
+clonar_MSG6="Копирајте CD са подацима у ходу"
+clonar_MSG7="Клонирајте CD са подацима у ходу"
+clonar_MSG7B="Копирајте аудио CD у ходу"
+clonar_MSG8="ЛЕТЕЋЕ ОПЦИЈЕ КОПИРАЊА ЗАХТЕВАЈУ ДВЕ ОПТИЧКЕ ЈЕДИНИЦЕ"
+clonar_MSG9="ИНСТАЛИРАН НА ВАШ РАЧУНАР, ПОШТО СЕ ПОДАЦИ СНИМАЈУ ДОК"
+clonar_MSG10="ЧИТАЈТЕ ДИРЕКТНО СА ОРИГИН ДИСК-а, АКО САМО ВАШ РАЧУНАР ИМА"
+clonar_MSG11="НЕЋЕ МОЋИ ДА КОРИСТИ КОПИЈЕ НА ЛЕТУ."
+clonar_MSG12B="ДАТА CD ЦОПИ"
+clonar_MSG0="Претходни мени"
+
+# mgrabacd
+
+mgrabacd_MSG1="CD ПОДАЦИ СА ЧВРСТОГ ДИСКА"
+mgrabacd_MSG2="Нарежите нови CD са подацима (користити cdrtools)"
+mgrabacd_MSG3="Нарежите нови CD са подацима (користити libburnia)"
+mgrabacd_MSG4="Претходни мени"
+mgrabacd_MSG5="Унесите опцију"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="СНИМАЊЕ СЛИКЕ ПОДАТАКА"
+mgrabaimg_MSG2="Нарежите iso или ext2 слику на CD-R/RW (користити cdrtools)"
+mgrabaimg_MSG3="Нарежите iso слику на CD-R/RW (користити libburnia)"
+mgrabaimg_MSG4="Претходни мени"
+mgrabaimg_MSG5="Унесите опцију"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Нарежите аудио cd из .wav датотека"
+mgrabararchivosaudio_MSG2="Нарежите аудио cd из .mp3 датотека"
+mgrabararchivosaudio_MSG3="Нарежите аудио cd из .ogg датотека"
+mgrabararchivosaudio_MSG0="Претходни мени"
+mgrabararchivosaudio_MSG0B="Унесите опцију"
+mgrabararchivosaudio_MSG4="Нарежите аудио cd из .flac датотека"
+mgrabararchivosaudio_MSG5="CD-АУДИО СНИМАЊЕ ИЗ ДАТОТЕКА"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="СНИМАЊЕ НА CD"
+menugrabar_cd_MSG2="------------------- CD - ДАТА --------------------"
+menugrabar_cd_MSG3="Копирај CD са подацима"
+menugrabar_cd_MSG4="Нарежите нови CD са подацима"
+menugrabar_cd_MSG5="Нарежите нови CD са подацима за више сесија"
+menugrabar_cd_MSG6="Нарежите .iso или .ext2 слику на CD"
+menugrabar_cd_MSG7="Нарежите .bin/.cue слику на CD"
+menugrabar_cd_MSG8="------------------- CD - АУДИО -------------------"
+menugrabar_cd_MSG9="Копирајте аудио CD"
+menugrabar_cd_MSG13="----------------- ДРУГЕ ОПЦИЈЕ -------------------"
+menugrabar_cd_MSG14="Нарежите мешовити CD (Datos + Audio)"
+menugrabar_cd_MSG15="Обришите CD-RW"
+menugrabar_cd_MSG16="Затворите отворени CD"
+menugrabar_cd_MSG17="Прикажи информације о диску на драјву"
+menugrabar_cd_MSG18="Нарежите аудио CD са диск датотека"
+menugrabar_cd_MSG0="Претходни мени"
+menugrabar_cd_MSGPRINCIPAL="Унесите опцију"
+
+

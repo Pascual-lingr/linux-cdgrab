@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovenian/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Esloveno para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Vnesite pot do datoteke ali imenika:"
+empaquetar_MSG2="------- Možnosti -------"
+empaquetar_MSG3="Ustvari datoteko .tar.gz"
+empaquetar_MSG4="Ustvari datoteko .tar.bz2"
+empaquetar_MSG5="Vnesite možnost: "
+empaquetar_MSG6="Teče"
+empaquetar_MSG7="Neveljavna možnost"
+
+# desempaquetar
+
+desempaquetar_MSG1="Vnesite pot do datoteke:"
+desempaquetar_MSG2="NI DEKOMPRESORJA ZA"
+desempaquetar_MSG3="ALI"
+desempaquetar_MSG4="NE OBSTAJA"
+desempaquetar_MSG5="Teče"
+desempaquetar_MSG6="razpakirano"
+desempaquetar_MSG7="Napaka pri poskusu razpakiranja"
+
+# comprime
+
+comprime_MSG1="STISKANJE SLIKE"
+comprime_MSG2="Stisni z bzip2"
+comprime_MSG3="Stisni z gzip"
+comprime_MSG4="Stisni z xz"
+comprime_MSG5="Prejšnji meni"
+comprime_MSG6="Teče"
+comprime_MSG7="Stiskanje slikovne datoteke je končano"
+comprime_MSG8="Napaka pri stiskanju z"
+comprime_MSG9="Neveljaven kompresor"
+
+# descomprime
+
+descomprime_MSG1="Vnesite pot do datoteke:"
+descomprime_MSG2="------------------------"
+descomprime_MSG3="NI DEKOMPRESORJA ZA"
+descomprime_MSG4="ALI"
+descomprime_MSG5="NE OBSTAJA"
+descomprime_MSG6="Teče"
+descomprime_MSG7="nestisnjeno"
+descomprime_MSG8="Napaka pri poskusu dekompresije"
+

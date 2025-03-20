@@ -1,0 +1,32 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en Serbio para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="АВДИО КОНВЕРЗИЈА"
+menu_conversion_audio_MSG2="------------- КОНВЕРЗИЈА ИЗМЕЂУ ФОРМАТА -----------"
+menu_conversion_audio_MSG3="Претвори .mp3 у .wav"
+menu_conversion_audio_MSG4="Претвори .ogg у .wav"
+menu_conversion_audio_MSG5="Претвори .wav у .mp3"
+menu_conversion_audio_MSG6="Претвори .wav у .ogg"
+menu_conversion_audio_MSG6C="Претвори .wav у .flac"
+menu_conversion_audio_MSG6B="Претвори .flac у .wav"
+menu_conversion_audio_MSG7="--------------- ИЗВАЂИВАЊЕ АУДИО ТРАКА ------------"
+menu_conversion_audio_MSG8="Рип аудио CD у .wav"
+menu_conversion_audio_MSG9="Репирајте скуп аудио записа у .wav"
+menu_conversion_audio_MSG10="Рип аудио CD у .mp3"
+menu_conversion_audio_MSG11="Рип аудио CD у .ogg"
+menu_conversion_audio_MSG0="Претходни мени"
+menu_conversion_audio_MSG12="Тражи .mp3 датотеке"
+menu_conversion_audio_MSG13="Тражи .ogg датотеке"
+menu_conversion_audio_MSG14="Тражи .wav датотеке"
+menu_conversion_audio_MSG15="---------------- ДРУГЕ ОПЕРАЦИЈЕ -----------------"
+menu_conversion_audio_MSG16="Исећи .wav аудио фајл"
+menu_conversion_audio_MSG17="Рип аудио CD у .flac"

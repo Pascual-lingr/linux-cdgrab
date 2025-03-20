@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExLatvian/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Letón para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="DISKDZIŅA DARBĪBAS"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="------------------------ SVARĪGI ------------------------"
+MenuDispositivosBloque_MSG3="+ Neveiciet rakstīšanas darbības cietajos diskos "
+MenuDispositivosBloque_MSG4="+ par diska nodalījumiem, kuros ir attēli"
+MenuDispositivosBloque_MSG5="+ atkopšana, sāknēšanas nodalījumi vai jūsu pašu"
+MenuDispositivosBloque_MSG6="+ operētājsistēmas nodalījums."
+MenuDispositivosBloque_MSG7="+ Šīs izvēlnes rakstīšanas opciju ļaunprātīga izmantošana "
+MenuDispositivosBloque_MSG8="+ var radīt katastrofu sistēmā."
+MenuDispositivosBloque_MSG9="+ Izmantojiet piesardzīgi. Izmantojiet uz savu risku."
+MenuDispositivosBloque_MSG10="------------------ RAKSTĪŠANA --------------------"
+MenuDispositivosBloque_MSG11="Izmest attēla failu diskdzinī"
+MenuDispositivosBloque_MSG11B="Izmest iso vai img attēlu (pašsāknējams) pendrive vai USB diskā"
+MenuDispositivosBloque_MSG11C="Ne visas instalācijas sistēmas tiek atbalstītas."
+MenuDispositivosBloque_MSG12="Formatēt disku ar vietējo Linux vai Windows failu sistēmu"
+MenuDispositivosBloque_MSG13="------------------- LASĪŠANA ---------------------"
+MenuDispositivosBloque_MSG14="Izveidot .img attēlu no diskdziņa"
+MenuDispositivosBloque_MSG15="Iepriekšējā izvēlne"
+MenuDispositivosBloque_MSG16="Ierakstiet opciju"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="---------------------------SVARĪGI--------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Ierīcēs izmantotā formāta vienība ar failu sistēmu"
+UIFormatearUnidad_linuxfs_MSG2B="+ vai diska nodalījumi."
+UIFormatearUnidad_linuxfs_MSG3="+ Šī opcija dzēsīs visus esošos datus ierīcē"
+UIFormatearUnidad_linuxfs_MSG4="+ Noņemamie diskdziņi, kas formatēti ar failu sistēmu"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux pats būs pieejams tikai ar šo operētājsistēmu."
+UIFormatearUnidad_linuxfs_MSG6="+ Izmantojiet piesardzīgi, lietojiet uz savu risku."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="NOspiediet C TAUSTIŅU, LAI TURPINĀTU (process tiks atcelts citā opcijā)"
+

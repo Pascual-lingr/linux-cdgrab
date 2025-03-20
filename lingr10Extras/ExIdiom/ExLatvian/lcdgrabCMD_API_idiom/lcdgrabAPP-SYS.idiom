@@ -1,0 +1,109 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLatvian/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Letón para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="Notiek ierakstīšanas procesa atkārtošana..."
+m_cdrecord_sin_overburn_MSG2="Palaiž cdrecord bez opcijas -overburn"
+m_cdrecord_sin_overburn_MSG3="-overburn netiek atbalstīts ne vecākajās ierakstīšanas ierīcēs, ne vecākās cdrecord versijās."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="NEDERĪGA IESPĒJA"
+
+# img_error
+
+img_error_D_MSG1="KĻŪDA, VEIDOT ATTĒLU"
+
+# CD_error
+
+CD_error_D_MSG1="KĻŪDA, IEDEDZOT CD"
+
+# DVD_error
+
+DVD_error_D_MSG1="KĻŪDA, IEDEDZOT DVD"
+
+# DO_error
+
+DO_error_D_MSG1="KĻŪDA, RAKSTOT OPTISKO DISKU"
+
+
+# tecla
+
+tecla_D_MSG1="\nLai turpinātu, nospiediet ENTER . . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="DIREKTORIJU CEĻI, KO IEDEDZĒT DISKĀ"
+rutas_dir_D_MSG2="Ievadiet direktorija nosaukumu (f, lai izietu):"
+rutas_dir_D_MSG3="DIREKTORS"
+rutas_dir_D_MSG4="NEDERĪGS"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="SISTĒMĀ TĀ PATS OPTISKĀ IEKĀRTA"
+una_sola_grabadora_D_MSG2="LASĪŠANAS UN IERAKSTĪŠANAS IERĪCES IR VIENĀDAS. TIEK PIEŅEMTS, KA JŪSU SISTĒMAI IR TIKAI VIENA FIZISKĀ VIENĪBA. IZŅEMIET AVOTA DISKU NO IEKĀRTAS. LAI TURPINĀTU IERAKSTĪŠANU, IEVIETOJIET JAUNAVAS OPTISKO DISKU"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="DISKA IERAKSTĪŠANA IR VEIKSMĪGI PABEIGTA"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="NEDERĪGA IESPĒJA"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="DISKA IERAKSTĪŠANA IR VEIKSMĪGI PABEIGTA"
+
+# text_img_error
+
+text_img_error_MSG1="KĻŪDA, VEIDOT ATTĒLU"
+
+# text_CD_error
+
+text_CD_error_MSG1="KĻŪDA, IEDEDZOT CD"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="KĻŪDA, IEDEDZOT DVD"
+
+# text_DO_error
+
+text_DO_error_MSG1="KĻŪDA, RAKSTOT OPTISKO DISKU"
+
+# teclash
+
+teclash_MSG1="Lai turpinātu, nospiediet ENTER . . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Ievadiet direktorija nosaukumu ( f, lai izietu):"
+text_rutas_dir_MSG2="DIREKTORS"
+text_rutas_dir_MSG3=" NEDERĪGS"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="SISTĒMĀ TĀ PATS OPTISKĀ IEKĀRTA"
+text_una_sola_grabadora_MSG2="LA UNIDAD LECTORA Y DE GRABACIÓN SON IGUALES."
+text_una_sola_grabadora_MSG3="SE PRESUPONE QUE SU SISTEMA POSEE SOLO UNA"
+text_una_sola_grabadora_MSG4="UNIDAD FÍSICA."
+text_una_sola_grabadora_MSG5="RETIRE EL DISCO ORIGEN DE LA UNIDAD."
+text_una_sola_grabadora_MSG6="INTRODUZCA UN DISCO ÓPTICO VIRGEN"
+text_una_sola_grabadora_MSG7="PARA CONTINUAR CON EL PROCESO DE GRABACIÓN."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="Skriešana"

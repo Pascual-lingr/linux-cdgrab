@@ -1,0 +1,284 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Serbio para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux-cdgrab конфигурација"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Ако не знате којем IDE каналу припада" 
+ayuda_IDE_MSG2="ваш диктафон може да сазна притиском на слово t."
+ayuda_IDE_MSG3="Пример IDE канала може бити 0,0,0 или 0,1,0"
+ayuda_IDE_MSG4="Можете и да одредите одговарајући уређај"
+ayuda_IDE_MSG5="на ваш диктафон. Ако не знате који је то сигурно притисните d,"
+ayuda_IDE_MSG6="да видите уређаје регистроване у /etc/fstab датотеци"
+ayuda_IDE_MSG7="Пример уређаја може бити /dev/hdd,/dev/hde итд."
+ayuda_IDE_MSG8="Ако желите, можете да наведете и све уређаје који се налазе у њему"
+ayuda_IDE_MSG9="у /дев директоријуму притиском на слово l."
+ayuda_IDE_MSG10="Морате навести IDE канал или уређај за снимање"
+ayuda_IDE_MSG11="али не обоје."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab је деинсталиран са вашег система"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Брзина снимања"
+imprimir_variables_MSG2="IDE/SCSI канал или уређај за снимање"
+imprimir_variables_MSG3="CD-ROM, DVD-ROM или BD-ROM читач"
+imprimir_variables_MSG4="ATAPI уређај"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Брзина снимања"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI канал или уређај за снимање"
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM или BD-ROM читач"
+imprimir_lcdgrabcfg_MSG4="ATAPI уређај"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Инсталирано"
+chequeo_de_aplicaciones_MSG2="НИЈЕ ИНСТАЛИРАНО"
+chequeo_de_aplicaciones_MSG3="Инсталирај"
+chequeo_de_aplicaciones_MSG4="ВАЖНО:"
+chequeo_de_aplicaciones_MSG5="Инсталирање неопходних алата Linux-cdgrab ће радити у потпуности"
+chequeo_de_aplicaciones_MSG6="Сви програми који су потребни за Linux-cdgrab су инсталирани на вашем систему"
+chequeo_de_aplicaciones_MSG4B="ОБАВЕШТЕЊЕ:"
+chequeo_de_aplicaciones_MSG5B="Пронађени алати који недостају"
+chequeo_de_aplicaciones_MSG6B="Алати инсталирани на систему"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 се подразумевано додељује овој променљивој"
+msgdefCANALATAPI_MSG2="Конфигурациони фајл ће бити написан са CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Конфигурациону датотеку аутоматски генерише Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG5="cdrecord није пронађен у систему"
+nuevo_lcdgrabcfg_MSG6="Инсталирајте пакет cdrtools."
+nuevo_lcdgrabcfg_MSG7="Можете наставити конфигурацију тако што ћете навести вредности"
+nuevo_lcdgrabcfg_MSG8="снимање ако их већ познајете."
+nuevo_lcdgrabcfg_MSG9="Команда cdrecord се користи за снимање CD, DVD и BD дискова."
+nuevo_lcdgrabcfg_MSG10="Ове опције неће бити функционалне док се наведени пакет не инсталира."
+nuevo_lcdgrabcfg_MSG11="Алатка за скенирање диск јединице, која је присутна, такође неће бити функционална"
+nuevo_lcdgrabcfg_MSG12="у овом чаробњаку за конфигурацију."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab треба да се конфигурише у следећа четири корака"
+nuevo_lcdgrabcfg_MSG14="Први корак."
+nuevo_lcdgrabcfg_MSG15="Брзина снимања"
+nuevo_lcdgrabcfg_MSG16="Само један број 2,4,8,16,32... итд"
+nuevo_lcdgrabcfg_MSG17="Други корак."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI канал или уређај за снимање:"
+nuevo_lcdgrabcfg_MSG19="A -> помоћ"
+nuevo_lcdgrabcfg_MSG20="Скенирање ..."
+nuevo_lcdgrabcfg_MSG21="Грешка при скенирању IDE/SCSI порта"
+nuevo_lcdgrabcfg_MSG22="cdrecord није пронађен"
+nuevo_lcdgrabcfg_MSG23="Трећи корак"
+nuevo_lcdgrabcfg_MSG24="CD-ROM, DVD-ROM или BD-ROM уређај"
+nuevo_lcdgrabcfg_MSG25="L -> Наведите доступне уређаје"
+nuevo_lcdgrabcfg_MSG26="Скенирање ..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI порт је скениран"
+nuevo_lcdgrabcfg_MSG28="Уређај који ће користити cdrecord преко dev=ATAPI у снимцима са више сесија"
+nuevo_lcdgrabcfg_MSG30="Уређај има номенклатуру као што је 0,0,0 или 1,0,0 итд."
+nuevo_lcdgrabcfg_MSG31="Одредите уређај за позивање cdrecord а на CD-овима са више сесија: "
+nuevo_lcdgrabcfg_MSG32="Конфигурација није исправна за CANALATAPI"
+nuevo_lcdgrabcfg_MSG33="Грешка при скенирању IDE/SCSI порта"
+nuevo_lcdgrabcfg_MSG34="cdrecord није пронађен"
+nuevo_lcdgrabcfg_MSG36="Конфигурациону датотеку аутоматски генерише Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG37="ПОДЕШАВАЊЕ LINUX-CDGRAB а ЈЕ ЗАВРШЕНО"
+
+# colores
+
+colores_MSG1="Није могуће пронаћи листу боја"
+colores_MSG2="Учитавање подразумеваних боја"
+
+colores_MSG3="Изаберите нову шему боја за LINUX-CDGRAB интерфејс"
+colores_MSG4="ЦРНИ ФОНТ"
+colores_MSG5="СТАНДАРДНИ СВЕТЛИ ФОНТ"
+colores_MSG6="ЦРНА БОЈА ПОЗАДИНЕ"
+colores_MSG7="ЦРВЕНИ ФОНТ"
+colores_MSG8="СВЕТЛИ ЦРНИ ФОНТ"
+colores_MSG9="ЦРВЕНА БОЈА ПОЗАДИНЕ"
+colores_MSG10="ФОНТ ГРЕЕН"
+colores_MSG11="ЈАКО ЦРВЕНА ФОНТАНА"
+colores_MSG12="ЗЕЛЕНА БОЈА ПОЗАДИНЕ"
+colores_MSG13="ЖУТИ ФОНТ"
+colores_MSG14="СВЕТЛО ЗЕЛЕНИ ФОНТ"
+colores_MSG15="НАРАНЂАСТА БОЈА ПОЗАДИНЕ"
+colores_MSG16="ПЛАВИ ФОНТ"
+colores_MSG17="СВЕТЛО ЖУТИ ФОНТ"
+colores_MSG18="ПЛАВА БОЈА ПОЗАДИНЕ"
+colores_MSG19="МАГЕНТА ФОНТ"
+colores_MSG20="СВЕТЛО ПЛАВИ ФОНТ"
+colores_MSG21="МАГЕНТНА БОЈА ПОЗАДИНЕ"
+colores_MSG22="ЦИЈАН ИЗВОР"
+colores_MSG23="СВИЈЕТЛИ МАГЕНТА ФОНТ"
+colores_MSG24="ЦИЈАН БОЈА ПОЗАДИНЕ"
+colores_MSG25="СИВИ ФОНТ"
+colores_MSG26="ЦИЈАН БОЈА ПОЗАДИНЕ"
+colores_MSG27="СВИЈЕТЛИ ЦИЈАН ФОНТ"
+colores_MSG28="СИВА БОЈА ПОЗАДИНЕ"
+colores_MSG29="ЗАДАНИ ИЗВОР"
+colores_MSG30="СВЕТЛО БЕЛИ ФОНТ"
+colores_MSG31="ЗАДАНО БОЈА ПОЗАДИНЕ"
+colores_MSG32="Број боје за фонт: "
+colores_MSG33="Број боје за позадину: "
+colores_MSG34="Број боје за поруке упозорења: "
+colores_MSG35="Број боје за поруке са етикетама: "
+colores_MSG36="Број боје за успешно завршене процесе"
+colores_MSG37="Број боје за процесе који су завршени грешком: "
+colores_MSG38="Нова шема за LINUX-CDGRAB"
+colores_MSG39="ОПШТА БОЈА ФОНТА"
+colores_MSG40="ОЗНАКЕ"
+colores_MSG41="ОБАВЕШТЕЊЕ"
+colores_MSG42="УСПЕХ"
+colores_MSG43="ГРЕШКА"
+colores_MSG44="БОЈА ПОЗАДИНЕ"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="СПИСАК ДОСТУПНИХ БОЈА:"
+cambiar_esquema_de_color_MSG2="#####ШЕМЕ БОЈА#######"
+cambiar_esquema_de_color_MSG3="---------------------"
+cambiar_esquema_de_color_MSG4="Мени боја"
+cambiar_esquema_de_color_MSG5="Неуспешно"
+cambiar_esquema_de_color_MSG6="Ознаке"
+cambiar_esquema_de_color_MSG6b="Обавештења"
+cambiar_esquema_de_color_MSG7="Боја мени ОК Ознаке упозорења о грешкама"
+cambiar_esquema_de_color_MSG8="Унесите број нове боје:"
+cambiar_esquema_de_color_MSG9="НЕВАЖЕЋА ОПЦИЈА"
+cambiar_esquema_de_color_MSG10="ПОДЕШАВАЊЕ ПОДРАЗУМЕНИХ БОЈА."
+cambiar_esquema_de_color_MSG11="  ПОЗАДИНА = ПЛАВА_ПОЗАДИНА"
+cambiar_esquema_de_color_MSG12="  ФОНТ = СВЕТЛО БЕЛИ"
+cambiar_esquema_de_color_MSG13="  УПОЗОРЕЊА = СВЕТЛО ЖУТА"
+cambiar_esquema_de_color_MSG14="  ГРЕШКЕ = ЈАКО ЦРВЕНА"
+cambiar_esquema_de_color_MSG15="  ГРЕШКЕ = ЈАКО ЦРВЕНА"
+cambiar_esquema_de_color_MSG16="  ХИТС = СВЕТЛО ЗЕЛЕНА"
+cambiar_esquema_de_color_MSG17="  ОЗНАКЕ = СВЕТЛО ЦИЈАН"
+
+# cambia_lector
+
+cambia_lector_MSG1="ПОДЕШАВАЊА ОКРУЖЕЊА ЗА ОПТИЧКЕ ЈЕДИНИЦЕ"
+cambia_lector_MSG2="Тренутни уређај повезан са CD-ROM, DVD-ROM или BD-ROM"
+cambia_lector_MSG3="Тренутни уређај повезан са CD/DVD/BD резачем"
+cambia_lector_MSG4="Тренутни уређај повезан са параметром dev=ATAPI"
+cambia_lector_MSG5="(подршка за више сесија за cdrecord)"
+cambia_lector_MSG6="Изаберите уређај на коме ће се извршити промена."
+cambia_lector_MSG7="Унесите опцију:"
+cambia_lector_MSG8="Унесите име новог уређаја"
+cambia_lector_MSG9="не одговара блок уређају"
+cambia_lector_MSG10="Уређај"
+cambia_lector_MSG11="подразумевано додељено"
+cambia_lector_MSG12="Нови уређај је:"
+cambia_lector_MSG13="Не прихватају све верзије cdrecord а блок уређај као параметар за снимање."
+cambia_lector_MSG14="Унесите име новог ATAPI уређаја"
+cambia_lector_MSG15="Конфигурација није исправна за CANALATAPI"
+cambia_lector_MSG16="0,0,0 је подразумевано додељено овој променљивој"
+cambia_lector_MSG17="Конфигурациони фајл ће бити написан са CANALATAPI = 0,0,0"
+cambia_lector_MSG18="Нови уређај је:"
+cambia_lector_MSG19="НЕ ВРШЕ СЕ ПРОМЕНЕ НА УРЕЂАЈИМА"
+cambia_lector_MSG4B="Извези вредности из конфигурационе датотеке"
+cambia_lector_MSG4C="ОВЕ ВРЕДНОСТИ СУ ПРИЈАВЉЕНЕ ЖИВОТНОЈ СРЕДИНИ:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Из овог менија можете изабрати који услужни програм"
+cambia_generador_isocd_MSG2="користиће се за генерисање ISO-9660 слика"
+cambia_generador_isocd_MSG3="са постојећег CD а на јединици за читање."
+cambia_generador_isocd_MSG4="Тренутна конфигурација:"
+cambia_generador_isocd_MSG5="Користи dd (GNU coreutils компоненту)"
+cambia_generador_isocd_MSG6="Користи readcd (компоненту cdrtools)"
+cambia_generador_isocd_MSG7="Претходни мени."
+cambia_generador_isocd_MSG8="Изаберите опцију:"
+cambia_generador_isocd_MSG9="Коришћење dd као iso генератора."
+cambia_generador_isocd_MSG10="Коришћење readcd а као iso генератора."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Поставите HFS метаподатке заједно са Rock Ridge и Joliet"
+establecer_hfs_iso_MSG2="Користи само Rock Ridge и Joliet метаподатке"
+establecer_hfs_iso_MSG3="Претходни мени."
+establecer_hfs_iso_MSG4="Изаберите опцију:"
+establecer_hfs_iso_MSG5="Коришћење HFS, Rock Ridge и Joliet метаподатака"
+establecer_hfs_iso_MSG6="Коришћење Rock Ridge и Joliet метаподатака"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Тренутни систем обавештења"
+cambia_notificaciones_MSG2A="GNOME графички интерфејс"
+cambia_notificaciones_MSG2B="KDE графички интерфејс"
+cambia_notificaciones_MSG2="Интерфејс са ncurses"
+cambia_notificaciones_MSG3="Текстуални интерфејс"
+cambia_notificaciones_MSG4="Изађи"
+cambia_notificaciones_MSG5="Изаберите опцију:"
+cambia_notificaciones_MSG6="Коришћење интерфејса са dialog"
+cambia_notidicaciones_MSG6B="Коришћење интерфејса са zenity ом"
+cambia_notidicaciones_MSG6C="Коришћење интерфејса са kdialog ом"
+cambia_notificaciones_MSG7="Команда dialog није пронађена"
+cambia_notificaciones_MSG8="Коришћење текстуалног интерфејса"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Језик у употреби:"
+cambiar_idioma_UI_MSG1="Тренутно доступни језици:"
+cambiar_idioma_UI_MSG2="Унесите назив језика који ће се користити"
+cambiar_idioma_UI_MSG3="у интерфејсу апликације:"
+cambiar_idioma_UI_MSG4="Нови језик који се користи је:"
+cambiar_idioma_UI_MSG5="Поново покрени LINUX-CDGRAB"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Тренутна конфигурација"
+seleccion_gestor_archivos_MSG2="Користи mc"
+seleccion_gestor_archivos_MSG3="Користите интегрисани менаџер текста"
+seleccion_gestor_archivos_MSG4="mc није могуће пронаћи инсталиран на систему"
+seleccion_gestor_archivos_MSG5="Подразумевано коришћење интегрисаног менаџера текста"
+seleccion_gestor_archivos_MSG6="mc услужни програм"
+seleccion_gestor_archivos_MSG7="Интегрисани текст"
+
+# centro_de_control
+
+centro_de_control_MSG1="КОНТРОЛНИ ЦЕНТАР"
+centro_de_control_MSG2="Нова подешавања"
+centro_de_control_MSG3="Избришите конфигурациону датотеку"
+centro_de_control_MSG4="Прикажите вредности датотеке и тренутне конфигурације"
+centro_de_control_MSG5="ВРЕДНОСТИ КОНФИГУРАЦИОНЕ ДАТОТЕКЕ:"
+centro_de_control_MSG5B="ТРЕНУТНА КОНФИГУРАЦИЈА КОРИШТЕНА У ОКРУЖЕЊУ:"
+centro_de_control_MSG6="Промените оптички медиј"
+centro_de_control_MSG7="Проверите инсталиране програме"
+centro_de_control_MSG8="Скенирајте IDE/SCSI порт са cdrecord ом"
+centro_de_control_MSG8C="Скенирајте IDE/SCSI порт са cdrskin ом"
+centro_de_control_MSG8B="Наведите диск јединице инсталиране на систему са cdrskin"
+centro_de_control_MSG9="Промените исо генератор услужни програм са CD а"
+centro_de_control_MSG9B="Подесите HFS метаподатке за iso-9660"
+centro_de_control_MSG10="Промени кориснички интерфејс"
+centro_de_control_MSG10b="Промени боју"
+centro_de_control_MSG10c="Промени језик интерфејса"
+centro_de_control_MSG11="Промени менаџер датотека"
+centro_de_control_MSG11B="Деинсталирај програм"
+centro_de_control_MSG12="Унесите опцију: "
+centro_de_control_MSG13="КОНФИГУРАЦИЈСКА ДАТОТЕКА НЕ ПОСТОЈИ"
+centro_de_control_MSG14="КОНФИГУРАЦИЈСКА ДАТОТЕКА НИЈЕ ПРОНАЂЕНА"
+centro_de_control_MSG15="Скенирање"
+centro_de_control_MSG16="IDE/SCSI порт је скениран"
+centro_de_control_MSG17="Грешка при скенирању IDE/SCSI порта"
+centro_de_control_MSG18="Изабери шему боја"
+centro_de_control_MSG19="Изаберите боје произвољно"
+centro_de_control_MSG20="Претходни мени"
+centro_de_control_MSG21="Унесите опцију: "
+centro_de_control_MSG22="КОНФИГУРАЦИЈСКА ДАТОТЕКА НЕ ПОСТОЈИ"
+centro_de_control_MSG23="КОНФИГУРАЦИЈСКА ДАТОТЕКА НИЈЕ ПРОНАЂЕНА"
+centro_de_control_MSG24="Изаберите шему боја"
+centro_de_control_MSG25="Изаберите боје произвољно"
+centro_de_control_MSG26="Неважећа опција"
+
+

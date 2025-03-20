@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Serbio para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 СЛИКА ИСПРАВНО СНИМЕНА У BLU-RAY"
+grabar_ISO_BD_MSG2="ГРЕШКА ПРИ СНИМАЊУ СЛИКЕ НА BLU-RAY DISC"
+grabar_ISO_BD_MSG3="ISO-9660 СЛИКА У BD"
+grabar_ISO_BD_MSG4="Одредите путању ISO-9660 слике за снимање:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Датотеке и директоријуми за креирање .iso слике"
+bd_datos_MSG2="BD ЛАБЕЛ"
+bd_datos_MSG3="Унесите име за будући BD:"
+bd_datos_MSG4="Покретање менаџера датотека :"
+bd_datos_MSG5="	ЦРЕАТИНГ ИМАГЕ. . ."
+bd_datos_MSG6="трчање"
+bd_datos_MSG7="ISO-9660 СЛИКА КРЕИРАНА У"
+bd_datos_MSG8="		РЕЦОРДИНГ BD"
+bd_datos_MSG13="БРИСАЊЕ СЛИКЕ..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Неопходно форматирање или брисање се примењује у зависности од статуса диска"
+borrar_BDRE_lb_MSG2="BD-RE ЈЕ УСПЕШНО ИЗБРИСАН!!"
+borrar_BDRE_lb_MSG3="ГРЕШКА ПРИ БРИСАЊУ BD-RE"
+

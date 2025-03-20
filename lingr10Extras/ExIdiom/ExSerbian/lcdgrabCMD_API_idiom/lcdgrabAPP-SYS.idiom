@@ -1,0 +1,109 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Serbio para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="Поново покушавамо процес снимања..."
+m_cdrecord_sin_overburn_MSG2="Покретање cdrecord а без опције -overburn"
+m_cdrecord_sin_overburn_MSG3="-overburn није подржан на старијим уређајима за снимање, нити на старијим верзијама cdrecord а."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="НЕВАЖЕЋА ОПЦИЈА"
+
+# img_error
+
+img_error_D_MSG1="ГРЕШКА ПРИЛИКОМ КРЕИРАЊА СЛИКЕ"
+
+# CD_error
+
+CD_error_D_MSG1="ГРЕШКА ПРИ НАРЕЗИВАЊУ CD а"
+
+# DVD_error
+
+DVD_error_D_MSG1="ГРЕШКА ПРИ НАРЕЗИВАЊУ DVD а"
+
+# DO_error
+
+DO_error_D_MSG1="ГРЕШКА ПРИЛИКОМ СНИМАЊА ОПТИЧКОГ ДИСКА"
+
+
+# tecla
+
+tecla_D_MSG1="\nПритисните ЕНТЕР да наставите. . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="ПУТЕВИ ДИРЕКТОРА КОЈИ СЕ НАРЕЖУЈУ НА ДИСК"
+rutas_dir_D_MSG2="Унесите име директоријума ( f ф за излаз):"
+rutas_dir_D_MSG3="ДИРЕЦТОРИ"
+rutas_dir_D_MSG4="НИЈЕ ВАЖЕЋЕ"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="ИСТА ОПТИЧКА ЈЕДИНИЦА У СИСТЕМУ"
+una_sola_grabadora_D_MSG2="ЈЕДИНИЦА ЗА ЧИТАЊЕ И ЗА СНИМАЊЕ СУ ИСТА. ПРЕТПОСТАВЉА СЕ ДА ВАШ СИСТЕМ ИМА САМО ЈЕДНУ ФИЗИЧКУ ЈЕДИНУ. УКЛОНИТЕ ИЗВОРНИ ДИСК ИЗ ЈЕДИНИЦЕ. УМЕТНИТЕ ДЕВИЧАН ОПТИЧКИ ДИСК ДА НАСТАВИТЕ ПРОЦЕС СНИМАЊА"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="СНИМАЊЕ ДИСКА ЈЕ УСПЈЕШНО ЗАВРШЕНО"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="НЕВАЖЕЋА ОПЦИЈА"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="СНИМАЊЕ ДИСКА ЈЕ УСПЈЕШНО ЗАВРШЕНО"
+
+# text_img_error
+
+text_img_error_MSG1="ГРЕШКА ПРИЛИКОМ КРЕИРАЊА СЛИКЕ"
+
+# text_CD_error
+
+text_CD_error_MSG1="ГРЕШКА ПРИ НАРЕЗИВАЊУ CD а"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="ГРЕШКА ПРИ НАРЕЗИВАЊУ DVD а"
+
+# text_DO_error
+
+text_DO_error_MSG1="ГРЕШКА ПРИЛИКОМ СНИМАЊА ОПТИЧКОГ ДИСКА"
+
+# teclash
+
+teclash_MSG1="Притисните ЕНТЕР да наставите. . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Унесите име директоријума ( f ф за излаз):"
+text_rutas_dir_MSG2="ДИРЕЦТОРИ"
+text_rutas_dir_MSG3=" НИЈЕ ВАЖЕЋЕ"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="ИСТА ОПТИЧКА ЈЕДИНИЦА У СИСТЕМУ"
+text_una_sola_grabadora_MSG2="ЈЕДИНИЦА ЗА ЧИТАЊЕ И СНИМАЊЕ СУ ИСТА."
+text_una_sola_grabadora_MSG3="ПРЕТПОСТАВЉА СЕ ДА ВАШ СИСТЕМ ИМА САМО ЈЕДАН"
+text_una_sola_grabadora_MSG4="ФИЗИЧКА ЈЕДИНИЦА."
+text_una_sola_grabadora_MSG5="УКЛОНИТЕ ИЗВОРНИ ДИСК ИЗ ЈЕДИЊЕ."
+text_una_sola_grabadora_MSG6="УСТАВИТЕ ДЕВИЧАН ОПТИЧКИ ДИСК"
+text_una_sola_grabadora_MSG7="ДА НАСТАВИТЕ СА ПРОЦЕСОМ СНИМАЊА."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="Трчање"

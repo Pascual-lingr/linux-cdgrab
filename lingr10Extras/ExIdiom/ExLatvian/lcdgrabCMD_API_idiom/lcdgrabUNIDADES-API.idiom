@@ -1,0 +1,69 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLatvian/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en Letón para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1=".img vai .ext2 attēla ceļš, lai to izmestu diskā."
+volcar_imagen_MSG2="-------------------------SVARĪGI-----------------------------" 
+volcar_imagen_MSG3="+ Šī opcija nedarbojas optiskajos diskos."
+volcar_imagen_MSG4="+ Izmantot pendrives, disketēs, diska nodalījumos utt."
+volcar_imagen_MSG5="+ Apsvērums ar cietajiem diskiem:"
+volcar_imagen_MSG6="+ Attēla rakstīšana tiek veikta ar dd no sākuma"
+volcar_imagen_MSG7="  no norādītā diska, numura izmantošana nav atļauta"
+volcar_imagen_MSG8="  konkrēts sektors, lai sāktu rakstīšanas procesu"
+volcar_imagen_MSG9="+ Izmantojiet piesardzīgi. Izmantojiet uz savu risku."
+volcar_imagen_MSG10="+ Diska nodalījumi var kļūt nelietojami."
+volcar_imagen_MSG11="+ Nav ieteicams to izmantot vairāku nodalījumu sistēmās."
+volcar_imagen_MSG12="  Atjaunošana var atstāt nodalījuma tabulu un"
+volcar_imagen_MSG13="  paši bezjēdzīgi nodalījumi."
+volcar_imagen_MSG14="-------------------------------------------------------------"
+volcar_imagen_MSG15="NOSPIEDIET C TAUSTIŅU, LAI TURPINĀTU; (process tiks atcelts citā opcijā)"
+volcar_imagen_MSG16="Norādiet attēla faila ceļu, kas jāievada diskā: "
+volcar_imagen_MSG17="Pievienot komandas izvadi:"
+volcar_imagen_MSG18="Norādiet bloka ierīci, kurā attēls tiks izmests:"
+volcar_imagen_MSG19="IZDEVĒŠANAS ATTĒLS"
+volcar_imagen_MSG20="IERĪCĒ"
+volcar_imagen_MSG21="darbojas"
+volcar_imagen_MSG22="ATTĒLA IZGĀRŠANAS PROCESS PABEIGTS"
+
+# volcar_iso
+
+volcar_iso_MSG1="Norādiet blokierīci, kurā ierakstīt ISO attēlu:"
+volcar_iso_MSG2="BRĪDINĀJUMS"
+volcar_iso_MSG2B="-----------"
+volcar_iso_MSG3="Norādiet bloķēšanas ierīci, kurā rakstīt."
+volcar_iso_MSG4="Piemēri: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Nenorādiet šai ierīcei piederošo nodalījumu"
+volcar_iso_MSG6="Piemēri: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Norādiet ISO-9660 attēlu vai img rakstīšanai:"
+volcar_iso_MSG9="Process pabeigts"
+volcar_iso_MSG10="Iso rakstīšanas procesā radās kļūda"
+volcar_iso_MSG11="Norādiet bloka izmēru, lai rakstītu attēlu"
+volcar_iso_MSG12="Izvēlieties opciju atbilstoši operētājsistēmai, lai rakstītu:"
+volcar_iso_MSG13="ISO-9660 vai sāknējams IMG attēls, kas mirgo ierīcē:"
+volcar_iso_MSG14="Iziet"
+volcar_iso_MSG15="ISO-9660 VAI IMG ATTĒLA FAILS"
+volcar_ISO_MSG16="IZVĒLĒTIES OPERATĀCIJAS SISTĒMU, LAI IEKĀRTOT VIENĪBĀ"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Izvēlieties failu sistēmu ar"
+Formateador_linuxfs_MSG2="ierīce tiks formatēta:"
+Formateador_linuxfs_MSG3="Norādiet formatējamo blokierīci: "
+Formateador_linuxfs_MSG5="PROCESS PABEIGTS"
+Formateador_linuxfs_MSG6="DISK FORMATĒTĀJS"
+Formateador_linuxfs_MSG7="Iestatīt skaļuma etiķeti"
+Formateador_linuxfs_MSG10="Norādiet sējuma etiķetes nosaukumu"
+Formateador_linuxfs_MSG11="Jauna sējuma etiķete"
+Formateador_linuxfs_MSG12="Norādīt bloka izmēru"
+Formateador_linuxfs_MSG13="Jauns bloka izmērs"
+Formateador_linuxfs_MSG14="Iepriekšējā izvēlne"

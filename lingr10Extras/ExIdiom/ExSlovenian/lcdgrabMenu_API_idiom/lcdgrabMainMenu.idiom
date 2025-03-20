@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovenian/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Esloveno, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab ne najde urejevalnika besedil vi"
+ayuda_MSG2="Vnesite ime urejevalnika besedil, nameščenega v vašem sistemu"
+ayuda_MSG3="NI NAJDEN NAMEŠČEN UREJALNIK"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Datoteka samodejno ustvarjena z LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="Ta datoteka skupaj z imenikom"
+creacion_de_mnt_MSG3="so bili ustvarjeni samodejno"
+creacion_de_mnt_MSG4="s strani aplikacije Linux-cdgrab pri preverjanju, da ne obstaja v vaši distribuciji Linuxa"
+creacion_de_mnt_MSG5="imenik"
+creacion_de_mnt_MSG6="Linux-cdgrab uporablja ta imenik za namestitev pogona CD-ROM/DVD-ROM/BD-ROM"
+creacion_de_mnt_MSG7="Imenik"
+creacion_de_mnt_MSG8="ne bo izbrisan, če odstranite Linux-cdgrab, ker je običajno"
+creacion_de_mnt_MSG9="privzeta točka priklopa za /dev/cdrom v večini distribucij Linuxa."
+creacion_de_mnt_MSG10="Če vaša distribucija uporablja drug imenik za priklop naprave /dev/cdrom,"
+creacion_de_mnt_MSG11="ne bo povzročil nobene nezdružljivosti pri poskusu dostopa do podatkov v vaši enoti"
+creacion_de_mnt_MSG12="čeprav je bil Linux-cdgrab odstranjen, lahko brez tega"
+creacion_de_mnt_MSG13="Namen te datoteke je samo v informativne namene, ko jo preberete, jo lahko prosto izbrišete."
+
+# creditos
+
+creditos_MSG1="Distribuiraj pod licenco GPL v2"
+creditos_MSG2="Več informacij na www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, ustvarjalec in vzdrževalec"
+creditos_MSG4="Poročilo o napaki: pascual89@hotmail.com"
+creditos_MSG5="Spletna stran programa: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Na podlagi LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Polnjenje"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SINTAKSA"
+lcdgrab_sintaxis_MSG2="Natisni to pomoč"
+lcdgrab_sintaxis_MSG3="Natisni različico Linux-cdgrab"
+lcdgrab_sintaxis_MSG4="določa kanal IDE ali snemalno napravo"
+lcdgrab_sintaxis_MSG5="bodisi"
+lcdgrab_sintaxis_MSG6="določa hitrost snemanja"
+lcdgrab_sintaxis_MSG7="določa pogon CD-ROM/DVD-ROM/BD-ROM"
+lcdgrab_sintaxis_MSG8="določa kanal IDE ATAPI snemalnika"
+lcdgrab_sintaxis_MSG9="Možnosti -G -V -L in -CA pomenita druga drugo."
+lcdgrab_sintaxis_MSG9B="Možnosti -iut -ium -iug in -iuk sta neodvisni druga od druge,"
+lcdgrab_sintaxis_MSG9C="komplementarna z -G -V -L in -CA ter neodvisna med -h in -v"
+lcdgrab_sintaxis_MSG10="Možnosti -h in -v sta neodvisni druga od druge in ostalih."
+lcdgrab_sintaxis_MSG11="Primeri:"
+lcdgrab_sintaxis_MSG12="naprava"
+lcdgrab_sintaxis_MSG13="število"
+lcdgrab_sintaxis_MSG14="besedilni vmesnik"
+lcdgrab_sintaxis_MSG15="vmesnik z ncurses"
+lcdgrab_sintaxis_MSG16="grafični vmesnik z GTK"
+lcdgrab_sintaxis_MSG17="grafični vmesnik s Qt"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Vnesite pot skripta:"
+main_lcdgrabopdep_MSG2="Neveljavna pot"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Nameščeni popravki:"
+main_lcdgrabopdeppatch_MSG2="Vnesite pot popravka:"
+main_lcdgrabopdeppatch_MSG3="Ni najden"
+
+# menu principal dialog
+main_lcdgrabop9uidia="NALOŽITE DODATNI POPRAVEK"
+
+# menu principal texto
+
+main_lcdgrabop1_text="SNEMANJE NA CD\t\t\t\t="
+main_lcdgrabop2_text="DVD SNEMANJE\t\t\t\t="
+main_lcdgrabop3_text="SNEMANJE NA BD\t\t\t\t="
+main_lcdgrabop4_text="OPERACIJE DISKOV\t\t\t\t="
+main_lcdgrabop5_text="USTVARJANJE SLIKE\t\t\t="
+main_lcdgrabop6_text="AVDIO PRETVORBA\t\t\t\t="
+main_lcdgrabop6b_text="VIDEO PRETVORBA\t\t\t\t="
+main_lcdgrabop7_text="VPELJAJ ALI ODKLJUČI CD/DVD/BD\t\t="
+main_lcdgrabop8_text="VPELJAJ ALI ODKLJUČI SLIKO\t\t="
+main_lcdgrabop9_text="NALOŽITE DODATNI POPRAVEK\t\t="
+main_lcdgrabop10_text="NADZORNI CENTER\t\t\t\t="
+main_lcdgrabop0_text="POJDI VEN\t\t\t\t="
+main_lcdgrabet1_text="DRUGE MOŽNOSTI ##\t\t="
+main_lcdgrabopEe_text="Izvrzi disk iz pogona\t\t="
+main_lcdgrabopTD_text="Prikaži imenik"
+tabs="\t\t="
+main_lcdgrabopG_text="Upravitelj datotek\t\t\t="
+main_lcdgrabopH_text="Pomoč\t\t\t\t="
+main_lcdgrabopA_text="O tem\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="SNEMANJE NA CD"
+main_lcdgrabop2="DVD SNEMANJE"
+main_lcdgrabop3="SNEMANJE NA BD"
+main_lcdgrabop4="OPERACIJE DISKOV"
+main_lcdgrabop5="USTVARJANJE SLIKE"
+main_lcdgrabop6="AVDIO PRETVORBA"
+main_lcdgrabop6b="VIDEO PRETVORBA"
+main_lcdgrabop7="VPELJAJ ALI ODKLJUČI CD/DVD/BD"
+main_lcdgrabop8="VPELJAJ ALI ODKLJUČI SLIKO"
+main_lcdgrabop9="NALOŽITE DODATNI POPRAVEK"
+main_lcdgrabop10="NADZORNI CENTER"
+main_lcdgrabop0="POJDI VEN"
+main_lcdgrabet1="DRUGE MOŽNOSTI ##"
+main_lcdgrabopEe="Izvrzi disk iz pogona"
+main_lcdgrabopTD="Prikaži imenik"
+main_lcdgrabopG="Upravitelj datotek"
+main_lcdgrabopH="Pomoč"
+main_lcdgrabopA="O tem"
+main_lcdgrabopPRINCIPAL="Vnesite možnost:"
+MSG1_MAIN="Izbira H prikazuje uporabo možnosti."
+main_lcdgrabopA_MSG1="Izvaja se na:"
+

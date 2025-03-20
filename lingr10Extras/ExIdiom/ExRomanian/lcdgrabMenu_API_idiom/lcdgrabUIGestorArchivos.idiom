@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRomanian/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Rumano para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="*************************** OPȚIUNI DE NAVIGARE *************************"
+ayuda_gestor_de_archivos_MSG2="Răsfoiește sistemul de fișiere."
+ayuda_gestor_de_archivos_MSG3="X --> Ieșire"
+ayuda_gestor_de_archivos_MSG4="A --> Directorul anterior"
+ayuda_gestor_de_archivos_MSG5="B --> Următorul director"
+ayuda_gestor_de_archivos_MSG6="Acțiuni asupra fișierelor și directoarelor."
+ayuda_gestor_de_archivos_MSG7="C --> Copiați fișierul"
+ayuda_gestor_de_archivos_MSG8="M --> Mutați fișierul"
+ayuda_gestor_de_archivos_MSG9="CD --> Copiere director"
+ayuda_gestor_de_archivos_MSG10="MD --> Mutați directorul"
+ayuda_gestor_de_archivos_MSG11="Înțelegerea acțiunilor asupra fișierelor și directoarelor."
+ayuda_gestor_de_archivos_MSG12="Z --> Comprimați un fișier"
+ayuda_gestor_de_archivos_MSG13="DZ --> Decomprimați un fișier"
+ayuda_gestor_de_archivos_MSG14="EZ --> Creați un pachet .tar.gz sau .tar.bz2"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Despachetați un .tar.gz sau .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Directorul activ curent"
+gestor_de_archivos_MSG0B="Fișiere în"
+gestor_de_archivos_MSG1="=========================== OPȚIUNI DE NAVIGARE ========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> AJUTA="
+gestor_de_archivos_MSG3="========================================================================="
+gestor_de_archivos_MSG4="Tastați o opțiune"
+gestor_de_archivos_MSG5="Type director"
+gestor_de_archivos_MSG6="Tastați fișierul sursă"
+gestor_de_archivos_MSG7="Tastați fișierul destinație"
+gestor_de_archivos_MSG8="Fișierul a fost copiat cu succes"
+gestor_de_archivos_MSG9="Eroare la copierea fișierului"
+gestor_de_archivos_MSG10="Tastați fișierul sursă"
+gestor_de_archivos_MSG11="Tastați fișierul destinație"
+gestor_de_archivos_MSG12="Fișierul a fost mutat cu succes"
+gestor_de_archivos_MSG13="Eroare la mutarea fișierului"
+gestor_de_archivos_MSG14="Tastați directorul sursă"
+gestor_de_archivos_MSG15="Tastați directorul de destinație"
+gestor_de_archivos_MSG16="Directorul a fost copiat cu succes"
+gestor_de_archivos_MSG17="Eroare la copierea directorului"
+gestor_de_archivos_MSG18="Tastați directorul sursă"
+gestor_de_archivos_MSG19="Tastați directorul de destinație"
+gestor_de_archivos_MSG20="Directorul a fost mutat cu succes"
+gestor_de_archivos_MSG21="Eroare la mutarea directorului"
+gestor_de_archivos_MSG22="FIȘIER DE COMPRESAT"
+gestor_de_archivos_MSG23="Specificați calea fișierului"
+

@@ -1,0 +1,85 @@
+# Idioma Serbio para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Притисните ЕНТЕР да наставите..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 ПОДРШКА REISERFS."
+cabecera_interfaz_MSG3="=================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Salida del comando mount:"
+formatear_disco_reiserfs_MSG2="Especifique el dispositivo de bloque a formatear: "
+formatear_disco_reiserfs_MSG3="Dispositivo Formateado con Exito"
+formatear_disco_reiserfs_MSG4="Error al formatear dispositivo"
+formatear_disco_reiserfs_MSG5="PROCESO COMPLETADO"
+formatear_disco_reiserfs_MSG6="Desmontando dispositivo..."
+formatear_disco_reiserfs_MSG7="Formateando unidad en ReiserFS..."
+formatear_disco_reiserfs_MSG8="Ejecutando"
+
+formatear_disco_reiserfs_MSG1="Монтирај излаз команде:"
+formatear_disco_reiserfs_MSG2="Одредите блок уређај за форматирање: "
+formatear_disco_reiserfs_MSG3="Уређај је успешно форматиран"
+formatear_disco_reiserfs_MSG4="Грешка при форматирању уређаја"
+formatear_disco_reiserfs_MSG5="ПРОЦЕС ЗАВРШЕН"
+formatear_disco_reiserfs_MSG6="Демонтажа уређаја..."
+formatear_disco_reiserfs_MSG7="Форматирање диск јединице у ReiserFS..."
+formatear_disco_reiserfs_MSG8="Три се"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="УСПЕШНО ФОРМАТИСАН"
+formatear_img_reiserfs_MSG2="ГРЕШКА ПРИ ФОРМАТИРАЊУ ПРАЗНЕ ДАТОТЕКЕ"
+formatear_img_reiserfs_MSG3="Генерисање празне датотеке..."
+formatear_img_reiserfs_MSG4="Три се"
+formatear_img_reiserfs_MSG5="Форматирање празне датотеке у ReiserFS..."
+formatear_img_reiserfs_MSG6="ГЕНЕРАЦИЈА ПРАЗНЕ ДАТОТЕКЕ СА ПРИЛАГОЂЕНОМ ВЕЛИЧИНОМ"
+formatear_img_reiserfs_MSG7="Одреди величину празне датотеке за генерисање (само нумеричка вредност):"
+formatear_img_reiserfs_MSG8="Мере простора за генерисање празне датотеке:"
+formatear_img_reiserfs_MSG9="Одредите мерење простора које ћете користити: "
+formatear_img_reiserfs_MSG10="ГРЕШКА ПРИ ОДРЕЂИВАЊУ МЈЕРЕ ВЕЛИЧИНЕ"
+formatear_img_reiserfs_MSG11="Вредност величине блока:"
+formatear_img_reiserfs_MSG12="Количина простора за празну датотеку:"
+formatear_img_reiserfs_MSG13="Израчуната вредност у бајтовима:"
+formatear_img_reiserfs_MSG14="Израчуната вредност за број:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Креирајте слику за CD-R/RW (702 МБ)"
+m_img_CDDVDBD_reiserfs_MSG2="Креирај слику за DVD+RW (4 Гбајта)"
+m_img_CDDVDBD_reiserfs_MSG3="Креирајте слику за DVD+RW/DL(8 ГБ)"
+m_img_CDDVDBD_reiserfs_MSG4="Креирајте слику за BD-R/RE (25 ГБ)"
+m_img_CDDVDBD_reiserfs_MSG5="Креирајте датотеку слике прилагођене величине"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Излаз"
+imgr_tmp_MSG1="Избриши све reiserfs датотеке слика"
+imgr_tmp_MSG2="Прикачи или демонтирај датотеку слике"
+imgr_tmp_MSG3="Датотеке слика у"
+imgr_tmp_MSG4="Изаберите опцију"
+imgr_tmp_MSG5="Обрисане датотеке слика"
+imgr_tmp_MSG6="Монтирај слику"
+imgr_tmp_MSG7="Демонтирај слику"
+imgr_tmp_MSG8="Монтирана слика"
+imgr_tmp_MSG9="Демонтирана слика"
+imgr_tmp_MSG10="Неважећа опција"
+imgr_tmp_MSG11="Одредите слику за монтирање или демонтажу:"
+imgr_tmp_MSG12="Грешка при постављању слике"
+imgr_tmp_MSG13="Грешка при демонтажи слике"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Форматирај диск у ReiserFS"
+lingr10reiserfspatch_MSG2="Креирај ReiserFS слику за CD/DVD/BD"
+lingr10reiserfspatch_MSG3="Операције на ReiserFS сликама"
+lingr10reiserfspatch_MSG4="Неважећа опција"
+lingr10reiserfspatch_MSG0="Излаз"
+

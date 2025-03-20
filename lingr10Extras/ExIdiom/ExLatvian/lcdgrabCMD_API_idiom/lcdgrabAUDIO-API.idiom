@@ -1,0 +1,143 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLatvian/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Letón para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3 FAILI, KO KONVERTĒT"
+mp3awav_MSG0="Ievadiet .mp3 failu ceļu: "
+mp3awav_MSG1="KONVERTĒŠANA"
+mp3awav_MSG1B=" UZ .wav FORMĀTU"
+mp3awav_MSG2="darbojas"
+mp3awav_MSG3="Iztveršana iestatīta uz 44100 Mhz"
+mp3awav_MSG4="Kļūda, apstrādājot paraugu ņemšanu"
+mp3awav_MSG5="Neizdevās konvertēt"
+mp3awav_MSG6="Diretorijs nav atrasts"
+mp3awav_MSG7="AUDIO KONVERSIJAS BEIGAS"
+mp3awav_MSG8="Audio faila normalizēšana"
+mp3awav_MSG9="Fails"
+mp3awav_MSG10="Normalizēts"
+mp3awav_MSG11="Normalizācijas kļūda"
+
+# oggawav
+
+
+oggawav_MSG0="KONVERTĒJAMI OGG faili"
+oggawav_MSG1="Ievadiet .ogg failu ceļu: "
+oggawav_MSG2="KONVERTĒŠANA"
+oggawav_MSG2B="A .wav FORMĀTS"
+oggawav_MSG3="skrien"
+oggawav_MSG4="Iztveršana iestatīta uz 44100 Mhz"
+oggawav_MSG5="Kļūda, apstrādājot paraugu ņemšanu"
+oggawav_MSG6="Neizdevās konvertēt"
+oggawav_MSG7="Diretorijs nav atrasts"
+oggawav_MSG8="AUDIO ATVĒRUMA BEIGAS"
+oggawav_MSG9="Audio faila normalizēšana"
+oggawav_MSG10="Fails"
+oggawav_MSG11="Normalizēts"
+oggawav_MSG12="Normalizācijas kļūda"
+
+# cdawav
+
+cdawav_MSG1="NOtiek AUDIO kompaktdiska izvilkšana..."
+cdawav_MSG2="Izpilda:"
+cdawav_MSG3="VEIKSMĪGI NOVĒRTĒTI AUDIO celiņi!!"
+cdawav_MSG4="Audio failu direktorijas saturs"
+cdawav_MSG5="KĻŪDA, IZVĒLĒJOT AUDIO celiņus"
+
+# cddawav
+
+cddawav_MSG1="IEVIETOJIET IZPILDES CEĻU SKAITU:"
+cddawav_MSG2="Nospiediet Crtl + c, lai atceltu ieraksta izvilkšanu"
+cddawav_MSG3="Izpilda:"
+cddawav_MSG4="VEIKSMĪGI IZVIETOTS"
+cddawav_MSG5="ERROR RIPPING"
+
+# wavamp3
+
+wavamp3_MSG0="WAV FAILI, KAS PĀRVĒRTĒT"
+wavamp3_MSG1="Ievadiet .wav failu ceļu: "
+wavamp3_MSG1B="KONVERTĒŠANA"
+wavamp3_MSG2="A FORMĀTS"
+wavamp3_MSG3="Izpilda:"
+wavamp3_MSG4="pārveidojot"
+wavamp3_MSG5="uz .MP3 formātu"
+wavamp3_MSG6="Kļūda konvertējot"
+wavamp3_MSG7="AUDIO KONVERSIJA PABEIGTA"
+wavamp3_MSG8="AUDIO DIREKTORS NAV ATRAST"
+
+# cdamp3
+
+cdamp3_MSG1="NOtiek AUDIO kompaktdiska izvilkšana..."
+cdamp3_MSG2="Izpilda:"
+cdamp3_MSG3="VEIKSMĪGI NOVĒRTĒTI AUDIO celiņi!!"
+cdamp3_MSG4="KĻŪDA, IZVĒROJOT AUDIO TRASKIUS"
+cdamp3_MSG5="Zvanīšanas funkcija:"
+
+# wavaogg
+
+wavaogg_MSG1="Ievadiet .wav failu ceļu: "
+wavaogg_MSG2="KONVERTĒŠANA"
+wavaogg_MSG3="A .ogg FORMĀTS"
+wavaogg_MSG4="Darbojas:"
+wavaogg_MSG5="Kļūda konvertējot"
+wavaogg_MSG6="uz .ogg formātu"
+
+# cdaogg
+
+cdaogg_MSG1="AUDIO kompaktdisku izvilkšana..."
+cdaogg_MSG2="Izpilda:"
+cdaogg_MSG3="VEIKSMĪGI NOVĒRTĒTI AUDIO celiņi!!"
+cdaogg_MSG4="KĻŪDA, IZRIPOT AUDIO celiņus"
+cdaogg_MSG5="Zvanīšanas funkcija:"
+
+# corta_wav
+
+corta_wav_MSG0="Sekunžu skaits:"
+corta_wav_MSG1="Norādiet konvertējamā audio faila ceļu:"
+corta_wav_MSG2="Norādiet laiku sekunžu skaitā, kuram"
+corta_wav_MSG3="sāksies faila izgriešana."
+corta_wav_MSG4="-PIEZĪME-"
+corta_wav_MSG5="Lai norādītu audio sākumu, ievadiet 0"
+corta_wav_MSG6="Vērtība sekundēs, lai sāktu konvertēšanu:"
+corta_wav_MSG7="Norādiet laiku sekunžu skaitā, kuram"
+corta_wav_MSG8="faila izgriešana tiks pabeigta."
+corta_wav_MSG9="Reklāmguvuma beigu vērtība sekundēs:"
+corta_wav_MSG10="Darbojas"
+corta_wav_MSG11="Apgriezts audio fails"
+corta_wav_MSG12="Kļūda apgriežot failu"
+corta_wav_MSG13="Apgriežams audio fails:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1="Norādiet .flac failu ceļu:"
+flacawav_MSG2="KONVERTĒŠANA"
+flacawav_MSG3=" UZ .wav FORMĀTU"
+flacawav_MSG4="Iztveršana iestatīta uz 44100 Mhz"
+flacawav_MSG5="Kļūda, apstrādājot paraugu ņemšanu"
+flacawav_MSG6="Audio faila normalizēšana"
+flacawav_MSG7="Fails"
+flacawav_MSG8="Normalizēts"
+flacawav_MSG9="Normalizācijas kļūda"
+flacawav_MSG10="Neizdevās konvertēt"
+flacawav_MSG11="Diretorijs nav atrasts"
+flacawav_MSG12="AUDIO KONVERSIJAS BEIGAS"
+
+# wavaflac
+
+wavaflac_MSG0="WAV FAILI, KAS PĀRVĒRTĒT"
+wavaflac_MSG1="Ievadiet .wav failu ceļu: "
+wavaflac_MSG2="KONVERTĒŠANA"
+wavaflac_MSG3="A .flac FORMĀTS"
+wavaflac_MSG4="konvertēts uz flac formātu"
+wavaflac_MSG5="Kļūda konvertējot"
+wavaflac_MSG6="uz .flac formātu"
+wavaflac_MSG7="FLAC FAILU DIREKTORS NAV ATRAST"
+

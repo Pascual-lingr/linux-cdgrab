@@ -1,0 +1,283 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRomanian/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Rumano para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Configurare Linux-cdgrab"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Dacă nu știi cărui canal IDE aparține" 
+ayuda_IDE_MSG2="recorderul dvs. poate afla apăsând litera t."
+ayuda_IDE_MSG3="Un exemplu de canal IDE poate fi 0,0,0 sau 0,1,0"
+ayuda_IDE_MSG4="De asemenea, puteți specifica dispozitivul corespunzător"
+ayuda_IDE_MSG5="la reportofonul dvs. Dacă nu știți sigur care este, apăsați d,"
+ayuda_IDE_MSG6="pentru a vizualiza dispozitivele înregistrate în fișierul /etc/fstab"
+ayuda_IDE_MSG7="Un exemplu de dispozitive ar putea fi /dev/hdd, /dev/hde etc."
+ayuda_IDE_MSG8="Dacă doriți, puteți lista și toate dispozitivele conținute"
+ayuda_IDE_MSG9="în directorul /dev apăsând litera l."
+ayuda_IDE_MSG10="Trebuie să specificați canalul IDE sau dispozitivul de înregistrare"
+ayuda_IDE_MSG11="dar nu ambele."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab a fost dezinstalat din sistemul dumneavoastră"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Viteza de inregistrare"
+imprimir_variables_MSG2="Canal IDE/SCSI sau dispozitiv de înregistrare"
+imprimir_variables_MSG3="Cititor de CD-ROM, DVD-ROM sau BD-ROM"
+imprimir_variables_MSG4="Dispozitiv ATAPI"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Viteza de inregistrare"
+imprimir_lcdgrabcfg_MSG2="Canal IDE/SCSI sau dispozitiv de înregistrare"
+imprimir_lcdgrabcfg_MSG3="Cititor de CD-ROM, DVD-ROM sau BD-ROM"
+imprimir_lcdgrabcfg_MSG4="Dispozitiv ATAPI"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="Instalat"
+chequeo_de_aplicaciones_MSG2="NU INSTALAT"
+chequeo_de_aplicaciones_MSG3="Instalare"
+chequeo_de_aplicaciones_MSG4="IMPORTANT:"
+chequeo_de_aplicaciones_MSG5="Instalarea instrumentelor necesare Linux-cdgrab va funcționa complet"
+chequeo_de_aplicaciones_MSG6="Toate programele de care Linux-cdgrab are nevoie sunt instalate pe sistemul dvs."
+chequeo_de_aplicaciones_MSG4B="NOTICĂ:"
+chequeo_de_aplicaciones_MSG5B="Au fost găsite instrumente lipsă"
+chequeo_de_aplicaciones_MSG6B="Instrumente instalate pe sistem"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="0,0,0 este atribuit implicit acestei variabile"
+msgdefCANALATAPI_MSG2="Fișierul de configurare va fi scris cu CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Fișier de configurare generat automat de Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG5="cdrecord nu a fost găsit în sistem"
+nuevo_lcdgrabcfg_MSG6="Instalează pachetul cdrtools."
+nuevo_lcdgrabcfg_MSG7="Puteți continua configurarea specificând valorile"
+nuevo_lcdgrabcfg_MSG8="înregistrare dacă le cunoașteți anterior."
+nuevo_lcdgrabcfg_MSG9="Comanda cdrecord este folosită la înregistrarea discurilor CD, DVD și BD"
+nuevo_lcdgrabcfg_MSG10="Aceste opțiuni nu vor fi funcționale până când pachetul respectiv nu este instalat."
+nuevo_lcdgrabcfg_MSG11="Instrumentul de scanare a unității, prezent, nu va fi nici el funcțional"
+nuevo_lcdgrabcfg_MSG12="în acest asistent de configurare."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab trebuie configurat în următorii patru pași"
+nuevo_lcdgrabcfg_MSG14="Primul pas."
+nuevo_lcdgrabcfg_MSG15="Viteza de înregistrare"
+nuevo_lcdgrabcfg_MSG16="Doar un număr 2,4,8,16,32... etc"
+nuevo_lcdgrabcfg_MSG17="Al doilea pas."
+nuevo_lcdgrabcfg_MSG18="Canal IDE/SCSI sau dispozitiv de înregistrare:"
+nuevo_lcdgrabcfg_MSG19="A -> ajutor"
+nuevo_lcdgrabcfg_MSG20="Se scanează..."
+nuevo_lcdgrabcfg_MSG21="Eroare la scanarea portului IDE/SCSI"
+nuevo_lcdgrabcfg_MSG22="Cdrecord nu a fost găsit"
+nuevo_lcdgrabcfg_MSG23="Al treilea pas."
+nuevo_lcdgrabcfg_MSG24="Dispozitiv CD-ROM, DVD-ROM sau BD-ROM"
+nuevo_lcdgrabcfg_MSG25="L -> Listează dispozitivele disponibile"
+nuevo_lcdgrabcfg_MSG26="Se scanează..."
+nuevo_lcdgrabcfg_MSG27="Port IDE/SCSI scanat"
+nuevo_lcdgrabcfg_MSG28="Dispozitiv care va fi utilizat de cdrecord prin dev=ATAPI în înregistrările cu mai multe sesiuni"
+nuevo_lcdgrabcfg_MSG30="Dispozitivul are o nomenclatură ca 0,0,0 sau 1,0,0 etc."
+nuevo_lcdgrabcfg_MSG31="Specificați dispozitivul pentru a apela cdrecord pe CD-urile cu mai multe sesiuni: "
+nuevo_lcdgrabcfg_MSG32="Configurația nu este corectă pentru CANALATAPI"
+nuevo_lcdgrabcfg_MSG33="Eroare la scanarea portului IDE/SCSI"
+nuevo_lcdgrabcfg_MSG34="Cdrecord nu a fost găsit"
+nuevo_lcdgrabcfg_MSG36="Fișier de configurare generat automat de Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG37="CONFIGURARE LINUX-CDGRAB TERMINATĂ"
+
+# colores
+
+colores_MSG1="Lista de culori nu poate fi găsită"
+colores_MSG2="Se încarcă culorile implicite"
+colores_MSG3="Alegeți o nouă schemă de culori pentru interfața LINUX-CDGRAB"
+colores_MSG4="FONT NEGRU"
+colores_MSG5="FONT STANDARD BRIGHT"
+colores_MSG6="CULOAREA FUNDALULUI NEGRU"
+colores_MSG7="FONT ROSIU"
+colores_MSG8="FONT NEGRU LUMINOS"
+colores_MSG9="CULOAREA FONDULUI ROSIU"
+colores_MSG10="FONT VERDE"
+colores_MSG11="FÂNTÂNA ROSĂ ALUȘTE"
+colores_MSG12="CULOAREA FONDULUI VERDE"
+colores_MSG13="FONT GALBEN"
+colores_MSG14="FONT VERDE LUMINOS"
+colores_MSG15="CULOAREA DE FOND PORTOCALIU"
+colores_MSG16="FONT ALBASTRU"
+colores_MSG17="FONT GALBEN LUMINOS"
+colores_MSG18="CULOAREA FUNDALULUI ALBASTRU"
+colores_MSG19="FONT MAGENTA"
+colores_MSG20="FONT ALBASTRU LUMINOS"
+colores_MSG21="CULOARE DE FUNDAL MAGENTA"
+colores_MSG22="SURSA CYAN"
+colores_MSG23="FONT MAGENTA LUMINOS"
+colores_MSG24="CULOARE DE FUNDAL CIAN"
+colores_MSG25="FONT GRI"
+colores_MSG26="CULOAREA FUNDALULUI CYAN"
+colores_MSG27="FONT CIAN LUMINOS"
+colores_MSG28="CULOAREA FONDULUI GRI"
+colores_MSG29="SURSA DEFAULT"
+colores_MSG30="FONT ALB LUMINOS"
+colores_MSG31="CULOAREA DE FUNDAL DEFAULT"
+colores_MSG32="Număr de culoare pentru font: "
+colores_MSG33="Număr de culoare pentru fundal: "
+colores_MSG34="Număr de culoare pentru mesajele de avertizare: "
+colores_MSG35="Număr de culoare pentru mesajele de etichetă: "
+colores_MSG36="Număr de culoare pentru procesele finalizate cu succes"
+colores_MSG37="Numărul de culoare pentru procesele încheiate cu eroare: "
+colores_MSG38="Schema nouă pentru LINUX-CDGRAB"
+colores_MSG39="CULOARE GENERALĂ FONT"
+colores_MSG40="LABELS"
+colores_MSG41="NOTICĂRI"
+colores_MSG42="SUCCES"
+colores_MSG43="EROARE"
+colores_MSG44="CULOAREA FUNDALULUI"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="LISTA CULORILOR DISPONIBILE:"
+cambiar_esquema_de_color_MSG2="#####SCHEME DE CULOARE#######"
+cambiar_esquema_de_color_MSG3="-----------------------------"
+cambiar_esquema_de_color_MSG4="Meniu Culoare"
+cambiar_esquema_de_color_MSG5="Eșuat"
+cambiar_esquema_de_color_MSG6="Etichete"
+cambiar_esquema_de_color_MSG6b="Notificări"
+cambiar_esquema_de_color_MSG7="Color Menu OK Etichete de avertismente de eroare"
+cambiar_esquema_de_color_MSG8="Introduceți numărul noii culori:"
+cambiar_esquema_de_color_MSG9="OPȚIUNE INVALIDĂ"
+cambiar_esquema_de_color_MSG10="SETAREA CULORILOR IMPLICITE."
+cambiar_esquema_de_color_MSG11="  FUNDAL = BACKGROUND BLUE_BACKGROUND"
+cambiar_esquema_de_color_MSG12="  FONT = ALB Strălucitor"
+cambiar_esquema_de_color_MSG13="  AVERTISMENTE = GALBEN LUMINOS"
+cambiar_esquema_de_color_MSG14="  ERORI = ROȘU ALUȘI"
+cambiar_esquema_de_color_MSG15="  ERORI = ROȘU ALUȘI"
+cambiar_esquema_de_color_MSG16="  HITS = VERDE Strălucitor"
+cambiar_esquema_de_color_MSG17="  ETICHETE = CIAN LUCRU"
+
+
+# cambia_lector
+
+cambia_lector_MSG1="SETĂRI DE MEDIU PENTRU UNITĂȚI OPTICE"
+cambia_lector_MSG2="Dispozitivul actual asociat cu CD-ROM, DVD-ROM sau BD-ROM"
+cambia_lector_MSG3="Dispozitivul actual asociat cu inscriptorul CD/DVD/BD"
+cambia_lector_MSG4="Dispozitivul actual asociat cu parametrul dev=ATAPI"
+cambia_lector_MSG5="(suport pentru mai multe sesiuni pentru cdrecord)"
+cambia_lector_MSG6="Selectați dispozitivul pe care urmează să fie făcută modificarea."
+cambia_lector_MSG7="Introduceți opțiunea:"
+cambia_lector_MSG8="Introduceți numele noului dispozitiv"
+cambia_lector_MSG9="nu corespunde unui dispozitiv blocat"
+cambia_lector_MSG10="Dispozitiv"
+cambia_lector_MSG11="atribuit implicit"
+cambia_lector_MSG12="Noul dispozitiv este:"
+cambia_lector_MSG13="Nu toate versiunile de cdrecord acceptă un dispozitiv bloc ca parametru de înregistrare"
+cambia_lector_MSG14="Introduceți numele noului dispozitiv ATAPI"
+cambia_lector_MSG15="Configurația nu este corectă pentru CANALATAPI"
+cambia_lector_MSG16="0,0,0 este atribuit implicit acestei variabile"
+cambia_lector_MSG17="Fișierul de configurare va fi scris cu CANALATAPI = 0,0,0"
+cambia_lector_MSG18="Noul dispozitiv este:"
+cambia_lector_MSG19="NU SE FACEȘTE MODIFICĂRI PE DISPOZITIVE"
+cambia_lector_MSG4B="Exportați valori din fișierul de configurare"
+cambia_lector_MSG4C="ACESTE VALORI AU FOST RAPORTATE MEDIULUI:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Din acest meniu puteți alege ce utilitar"
+cambia_generador_isocd_MSG2="va fi folosit pentru a genera imagini ISO-9660"
+cambia_generador_isocd_MSG3="de la CD-urile existente pe unitatea de citire."
+cambia_generador_isocd_MSG4="Configurație curentă:"
+cambia_generador_isocd_MSG5="Utilizați dd (componenta GNU coreutils)"
+cambia_generador_isocd_MSG6="Utilizați readcd (componenta cdrtools)"
+cambia_generador_isocd_MSG7="Meniul precedent."
+cambia_generador_isocd_MSG8="Selectați o opțiune:"
+cambia_generador_isocd_MSG9="Se utilizează dd ca generator iso."
+cambia_generador_isocd_MSG10="Utilizarea readcd ca generator iso."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Setați metadatele HFS împreună cu Rock Ridge și Joliet"
+establecer_hfs_iso_MSG2="Utilizați numai metadate Rock Ridge și Joliet"
+establecer_hfs_iso_MSG3="Meniul precedent."
+establecer_hfs_iso_MSG4="Selectați o opțiune:"
+establecer_hfs_iso_MSG5="Utilizarea metadatelor HFS, Rock Ridge și Joliet"
+establecer_hfs_iso_MSG6="Utilizarea metadatelor Rock Ridge și Joliet"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Sistem de notificare curent"
+cambia_notificaciones_MSG2A="Interfață grafică GNOME"
+cambia_notificaciones_MSG2B="Interfață grafică KDE"
+cambia_notificaciones_MSG2="Interfață cu ncurses"
+cambia_notificaciones_MSG3="Interfață text"
+cambia_notificaciones_MSG4="Ieșire"
+cambia_notificaciones_MSG5="Selectați o opțiune:"
+cambia_notificaciones_MSG6="Utilizarea interfeței cu dialog"
+cambia_notidicaciones_MSG6B="Utilizarea interfeței cu zenity"
+cambia_notidicaciones_MSG6C="Utilizarea interfeței cu kdialog"
+cambia_notificaciones_MSG7="Comandă de dialog nu a fost găsită"
+cambia_notificaciones_MSG8="Utilizarea interfeței text"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Limba utilizată:"
+cambiar_idioma_UI_MSG1="Limbi disponibile în prezent:"
+cambiar_idioma_UI_MSG2="Introduceți numele limbii care va fi folosită"
+cambiar_idioma_UI_MSG3="în interfața aplicației:"
+cambiar_idioma_UI_MSG4="Noua limbă folosită este:"
+cambiar_idioma_UI_MSG5="Reporniți LINUX-CDGRAB"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Configurație curentă"
+seleccion_gestor_archivos_MSG2="Utilizați mc"
+seleccion_gestor_archivos_MSG3="Utilizați managerul de text integrat"
+seleccion_gestor_archivos_MSG4="mc nu poate fi găsit instalat pe sistem"
+seleccion_gestor_archivos_MSG5="Utilizarea implicită a managerului de text integrat"
+seleccion_gestor_archivos_MSG6="utilitate mc"
+seleccion_gestor_archivos_MSG7="Text integrat"
+
+# centro_de_control
+
+centro_de_control_MSG1="CENTRU DE CONTROL"
+centro_de_control_MSG2="Configurație nouă"
+centro_de_control_MSG3="Ștergeți fișierul de configurare"
+centro_de_control_MSG4="Afișează fișierul de configurare curent și valorile"
+centro_de_control_MSG5="VALORI FIȘIER DE CONFIGURARE:"
+centro_de_control_MSG5B="CONFIGURAȚIA ACTUALĂ FOLOSITĂ ÎN MEDIU:"
+centro_de_control_MSG6="Schimbați suportul optic"
+centro_de_control_MSG7="Verificați programele instalate"
+centro_de_control_MSG8="Scanează portul IDE/SCSI cu cdrecord"
+centro_de_control_MSG8C="Scanează portul IDE/SCSI cu cdrskin"
+centro_de_control_MSG8B="Listați unitățile instalate în sistem cu cdrskin"
+centro_de_control_MSG9="Schimbați utilitarul de generare ISO de pe CD"
+centro_de_control_MSG9B="Setați metadatele HFS pentru iso-9660"
+centro_de_control_MSG10="Schimbați interfața utilizatorului"
+centro_de_control_MSG10b="Schimbați culoarea"
+centro_de_control_MSG10c="Schimbați limba interfeței"
+centro_de_control_MSG11="Modificați Managerul de fișiere"
+centro_de_control_MSG11B="Dezinstalați programul"
+centro_de_control_MSG12="Introduceți o opțiune: "
+centro_de_control_MSG13="FIȘIERUL DE CONFIGURARE NU EXISTĂ"
+centro_de_control_MSG14="FIȘIER DE CONFIGURARE NU GĂSIT"
+centro_de_control_MSG15="Scanare"
+centro_de_control_MSG16="Port IDE/SCSI scanat"
+centro_de_control_MSG17="Eroare la scanarea portului IDE/SCSI"
+centro_de_control_MSG18="Alegeți schema de culori"
+centro_de_control_MSG19="Alege culorile în mod arbitrar"
+centro_de_control_MSG20="Meniu precedent"
+centro_de_control_MSG21="Introduceți o opțiune: "
+centro_de_control_MSG22="FIȘIERUL DE CONFIGURARE NU EXISTĂ"
+centro_de_control_MSG23="FIȘIER DE CONFIGURARE NU GĂSIT"
+centro_de_control_MSG24="Alegeți schema de culori"
+centro_de_control_MSG25="Alege culorile în mod arbitrar"
+centro_de_control_MSG26="Opțiune nevalidă"
+

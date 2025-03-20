@@ -1,0 +1,21 @@
+romanesc
+
+Rumano. Romanian.
+Experimental.
+
+Contiene errores de significado en contexto o traducción propia.
+Por estudio del comportamiento de ciertos caracteres del idioma Rumano.
+El shell debe tener soporte para estos caracteres, de lo contrario,
+este idioma no será funcional en el shell.
+Generado con Google Translate.
+
+Contains errors in context or translation.
+This is due to a study of the behavior of certain Romanian characters.
+The shell must support these characters; otherwise,
+this language will not work in the shell.
+Generated with Google Translate.
+
+Limba romana pentru linux-cdgrab.
+Experimental, generat cu Google Translate.
+Pascual Martínez Cruz; pascual@hotmail.com
+

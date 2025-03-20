@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRomanian/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Rumano, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# Ajuta
+
+Ajuta_MSG1="Linux-cdgrab nu poate găsi editorul de text vi"
+Ajuta_MSG2="Introduceți numele unui editor de text instalat pe sistemul dvs."
+Ajuta_MSG3="NICIUN EDITOR INSTALAT GĂSIT"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Fișier generat automat de LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="Acest fișier împreună cu directorul"
+creacion_de_mnt_MSG3="au fost generate automat"
+creacion_de_mnt_MSG4="de către aplicația Linux-cdgrab atunci când verificați că nu a existat în distribuția dvs. Linux"
+creacion_de_mnt_MSG5="directorul"
+creacion_de_mnt_MSG6="Linux-cdgrab folosește acest director pentru a-și monta unitatea CD-ROM/DVD-ROM/BD-ROM"
+creacion_de_mnt_MSG7="Directorul"
+creacion_de_mnt_MSG8="nu va fi șters dacă Linux-cdgrab este dezinstalat, deoarece de obicei este"
+creacion_de_mnt_MSG9="punct de montare implicit pentru /dev/cdrom pe majoritatea distribuțiilor Linux."
+creacion_de_mnt_MSG10="Dacă distribuția dvs. folosește un alt director pentru a monta dispozitivul /dev/cdrom,"
+creacion_de_mnt_MSG11="nu va crea nicio incompatibilitate atunci când încercați să accesați datele de pe unitatea dvs."
+creacion_de_mnt_MSG12="deși dacă Linux-cdgrab a fost dezinstalat, poți să faci fără"
+creacion_de_mnt_MSG13="Scopul acestui fișier este doar pentru scopuri informative, îl puteți șterge liber odată citit."
+
+# creditos
+
+creditos_MSG1="Distribuie sub licență GPL v2"
+creditos_MSG2="Mai multe informații la www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, creator și întreținător"
+creditos_MSG4="Raport de eroare: pascual89@hotmail.com"
+creditos_MSG5="Site ul web al programului: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Bazat pe LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Încărcare"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SINTAXĂ"
+lcdgrab_sintaxis_MSG2="Tipărește acest ajutor"
+lcdgrab_sintaxis_MSG3="Tipărește versiunea Linux-cdgrab"
+lcdgrab_sintaxis_MSG4="specifică canalul IDE sau dispozitivul de înregistrare"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="specifică viteza de înregistrare"
+lcdgrab_sintaxis_MSG7="specifică unitatea CD-ROM/DVD-ROM/BD-ROM"
+lcdgrab_sintaxis_MSG8="specifică canalul IDE ATAPI al recorderului"
+lcdgrab_sintaxis_MSG9="Opțiunile -G -V -L și -CA se implică reciproc."
+lcdgrab_sintaxis_MSG9B="Opțiunile -iut -ium -iug și -iuk sunt independente unele de altele,"
+lcdgrab_sintaxis_MSG9C="complementar cu -G -V -L și -CA și independent între -h și -v"
+lcdgrab_sintaxis_MSG10="Opțiunile -h și -v sunt independente una de cealaltă și de restul."
+lcdgrab_sintaxis_MSG11="Exemple:"
+lcdgrab_sintaxis_MSG12="dispozitiv"
+lcdgrab_sintaxis_MSG13="număr"
+lcdgrab_sintaxis_MSG14="interfață text"
+lcdgrab_sintaxis_MSG15="interfață cu ncurses"
+lcdgrab_sintaxis_MSG16="interfață grafică cu GTK"
+lcdgrab_sintaxis_MSG17="interfață grafică cu Qt"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Introduceți calea scriptului:"
+main_lcdgrabopdep_MSG2="Cale nevalidă"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Patch uri instalate:"
+main_lcdgrabopdeppatch_MSG2="Introduceți calea corecției:"
+main_lcdgrabopdeppatch_MSG3="Nu a fost găsit"
+
+# menu principal dialog
+main_lcdgrabop9uidia="ÎNCĂRCĂ UN PATCH SUPLIMENTAR"
+
+# menu principal texto
+
+main_lcdgrabop1_text="ÎNREGISTRARE PE CD\t\t\t="
+main_lcdgrabop2_text="ÎNREGISTRARE PE DVD\t\t\t="
+main_lcdgrabop3_text="ÎNREGISTRARE PE BD\t\t\t="
+main_lcdgrabop4_text="OPERAȚII DE DISK\t\t\t\t="
+main_lcdgrabop5_text="CREAREA IMAGINII\t\t\t\t="
+main_lcdgrabop6_text="CONVERSIUNE AUDIO\t\t\t="
+main_lcdgrabop6b_text="CONVERSIERE VIDEO\t\t\t="
+main_lcdgrabop7_text="MONTAȚI SAU DEMONTați CD/DVD/BD\t\t="
+main_lcdgrabop8_text="MONTARE SAU DEMONTARE IMAGINEA\t\t="
+main_lcdgrabop9_text="ÎNCĂRCĂ UN PATCH SUPLIMENTAR\t\t="
+main_lcdgrabop10_text="CENTRU DE CONTROL\t\t\t="
+main_lcdgrabop0_text="IEȘI\t\t\t\t\t="
+main_lcdgrabet1_text="ALTE OPTIUNI ##\t\t="
+main_lcdgrabopEe_text="Scoateți discul din unitate\t="
+main_lcdgrabopTD_text="Afișează directorul"
+tabs="\t\t="
+main_lcdgrabopG_text="Manager de fișiere\t\t\t="
+main_lcdgrabopH_text="Ajuta\t\t\t\t="
+main_lcdgrabopA_text="Despre\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="ÎNREGISTRARE PE CD"
+main_lcdgrabop2="ÎNREGISTRARE PE DVD"
+main_lcdgrabop3="ÎNREGISTRARE PE BD"
+main_lcdgrabop4="OPERAȚII DE DISK"
+main_lcdgrabop5="CREAREA IMAGINII"
+main_lcdgrabop6="CONVERSIUNE AUDIO"
+main_lcdgrabop6b="CONVERSIERE VIDEO"
+main_lcdgrabop7="MONTAȚI SAU DEMONTați CD/DVD/BD"
+main_lcdgrabop8="MONTARE SAU DEMONTARE IMAGINEA"
+main_lcdgrabop9="ÎNCĂRCĂ UN PATCH SUPLIMENTAR"
+main_lcdgrabop10="CENTRU DE CONTROL"
+main_lcdgrabop0="IEȘI"
+main_lcdgrabet1="ALTE OPTIUNI ##"
+main_lcdgrabopEe="Scoateți discul din unitate"
+main_lcdgrabopTD="Afișează directorul"
+main_lcdgrabopG="Manager de fișiere"
+main_lcdgrabopH="Ajuta"
+main_lcdgrabopA="Despre"
+main_lcdgrabopPRINCIPAL="Introduceți o opțiune:"
+MSG1_MAIN="Selectarea H arată utilizarea opțiunilor."
+main_lcdgrabopA_MSG1="Rulează pe:"
+

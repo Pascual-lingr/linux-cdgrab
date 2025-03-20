@@ -1,0 +1,16 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLatvian/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Letón para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="OPTISKAIS DISKS IZŅEMTS"
+expulsar_medio_MSG2="Kļūda, mēģinot izņemt disku no ierīces"
+expulsar_medio_MSG3="Ievadiet vārdu manuāli:"
+

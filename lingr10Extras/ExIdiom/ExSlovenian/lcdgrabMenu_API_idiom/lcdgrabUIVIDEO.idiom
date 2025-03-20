@@ -1,0 +1,22 @@
+#########################################################
+# lcdgrabAPI_idiom/Español/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en español para el menú de conversión de Video.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="VIDEO PRETVORBA"
+menu_conversion_video_MSG2="-------------- PRETVORBA MED FORMATI -------------"
+menu_conversion_video_MSG3="Pretvori video v Blu Ray Disc, združljiv s Smart-TV"
+menu_conversion_video_MSG4="Video datoteka za pretvorbo:"
+menu_conversion_video_MSG0="Prejšnji meni"
+menu_conversion_video_MSG6="Snemaj namizno sejo"
+menu_conversion_video_MSG7="Pretvori video datoteko v drugo obliko"
+menu_conversion_video_MSG8="----------------- DRUGE MOŽNOSTI -----------------"
+menu_conversion_video_MSG9="Mešaj video datoteko z zvočno datoteko"
+menu_conversion_video_MSG10="Izvleči zvok MP3 iz video datoteke"
+menu_conversion_video_MSG11="Obreži video datoteko"

@@ -1,0 +1,109 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEslovenian/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Esloveno para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="Ponovni poskus snemanja..."
+m_cdrecord_sin_overburn_MSG2="Izvajanje cdrecorda brez možnosti -overburn"
+m_cdrecord_sin_overburn_MSG3="-overburn ni podprt na starejših snemalnih napravah, niti na starejših različicah cdrecord."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="NEVELJAVNA MOŽNOST"
+
+# img_error
+
+img_error_D_MSG1="NAPAKA PRI USTVARJANJU SLIKE"
+
+# CD_error
+
+CD_error_D_MSG1="NAPAKA PRI ZAPISOVANJU CD JA"
+
+# DVD_error
+
+DVD_error_D_MSG1="NAPAKA PRI ZAPISOVANJU DVD JA"
+
+# DO_error
+
+DO_error_D_MSG1="NAPAKA PRI ZAPISOVANJU NA OPTIČNI DISK"
+
+
+# tecla
+
+tecla_D_MSG1="\nZa nadaljevanje pritisnite ENTER. . ."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="POTI IMENIKOV ZA ZAPIS NA DISK"
+rutas_dir_D_MSG2="Vnesite ime imenika (f za izhod):"
+rutas_dir_D_MSG3="IMENIK"
+rutas_dir_D_MSG4="NEVELJAVNO"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="ISTA OPTIČNA ENOTA V SISTEMU"
+una_sola_grabadora_D_MSG2="BRALNA IN SNIMILNA ENOTA STA ENAKI. PREDPOVEDUJE SE, DA IMA VAŠ SISTEM SAMO ENO FIZIČNO ENOTO. ODSTRANITE IZVORNI DISK IZ ENOTE. ZA NADALJEVANJE SNEMALNEGA POSTOPKA VSTAVITE OPTIČNI DISK DEVIŠKI"
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="SNEMANJE DISKA JE USPEŠNO KONČANO"
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="NEVELJAVNA MOŽNOST"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="SNEMANJE DISKA JE USPEŠNO KONČANO"
+
+# text_img_error
+
+text_img_error_MSG1="NAPAKA PRI USTVARJANJU SLIKE"
+
+# text_CD_error
+
+text_CD_error_MSG1="NAPAKA PRI ZAPISOVANJU CD JA"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="NAPAKA PRI ZAPISOVANJU DVD JA"
+
+# text_DO_error
+
+text_DO_error_MSG1="NAPAKA PRI ZAPISOVANJU NA OPTIČNI DISK"
+
+# teclash
+
+teclash_MSG1="Za nadaljevanje pritisnite ENTER. . ."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="Vnesite ime imenika (f za izhod):"
+text_rutas_dir_MSG2="IMENIK"
+text_rutas_dir_MSG3=" NEVELJAVNO"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="ISTA OPTIČNA ENOTA V SISTEMU"
+text_una_sola_grabadora_MSG2="BRALNA IN SNEMALNA ENOTA STA ISTA."
+text_una_sola_grabadora_MSG3="PREDPONAVA SE, DA IMA VAŠ SISTEM SAMO ENEGA"
+text_una_sola_grabadora_MSG4="FIZIČNA ENOTA."
+text_una_sola_grabadora_MSG5="ODSTRANI IZVORNI DISK IZ ENOTE."
+text_una_sola_grabadora_MSG6="VSTAVITE DEVIŠKI OPTIČNI DISK"
+text_una_sola_grabadora_MSG7="ZA NADALJEVANJE S POSTOPKOM SNEMANJA."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="teče"

@@ -1,0 +1,184 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLatvian/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Letón para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="skrienot"
+copia_bin_MSG2="--------------NOTIEK ATKĀRTOTI MĒĢINĀT IERAKSTĪŠANAS PROCESS---------------"
+copia_bin_MSG3="	DZĒŠA ATTĒLA FAILU"
+copia_bin_MSG4="IESPĒJAMĀ IR RADUŠĀS KĻŪDA"
+copia_bin_MSG5="Diska .iso attēla izdrukas failu nevar atrast. Notiek ierakstīšanas pārtraukšana..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="skrienot"
+datos_al_vuelo_MSG2="Kļūda ierakstīšanas mēģinājumā, mēģina vēlreiz bez pārdegšanas atbalsta"
+datos_al_vuelo_MSG3="Pārbaudiet, vai avota disks vai ierīce"
+datos_al_vuelo_MSG4="ir labā stāvoklī"
+datos_al_vuelo_MSG5="Notiek izvades bloka numura iegūšana no avota diska"
+datos_al_vuelo_MSG6="KOPĒ DISKU..."
+
+# clonar_cd
+
+clonar_cd_MSG1="skrienot"
+clonar_cd_MSG2="CD VEIKSMĪGI KLONĒTS"
+clonar_cd_MSG3="KLONĒJOT kompaktdisku, ATTIECAS KĻŪDA"
+
+# datos
+
+datos_MSG1="Faili un direktoriji, lai izveidotu .iso attēlu"
+datos_MSG2="CD/DVD/BD ETIĶETE"
+datos_MSG3="Ievadiet nosaukumu topošajam CD/DVD/BD:"
+datos_MSG4="Palaiž failu pārvaldnieku:"
+datos_MSG5="	IZVEIDOT ATTĒLU. . ."
+datos_MSG6="skrienot"
+datos_MSG7="ISO-9660 ATTĒLS IZVEIDOTS"
+datos_MSG8="		CD/DVD/BD ierakstīšana"
+datos_MSG9="ATTĒLA DATU IZVEIDES PROCESS IR NEIZDEVIES"
+datos_MSG10="ATKĀRTOTAS MĒĢINĀJUMS IZVEIDOT JAUNU BEZ HFS ATBALSTA (Macintosh)"
+datos_MSG11="NOtiek ATTĒLA DZĒŠANA..."
+datos_MSG12="NOtiek JAUNA ATTĒLA VEIDOŠANA...."
+datos_MSG13="NAV BIJIS IESPĒJAS PAREIZI IERAKSTĪT"
+datos_MSG14="------------NOTIEK ATKĀRTOTI MĒĢINĀT IERAKSTĪŠANAS PROCESS-----------"
+datos_MSG15="IZDZĒST ATTĒLU..."
+datos_MSG16="DEDEDZ ISO-9660 DATU CD/DVD/BD..."
+datos_MSG17="Nav atrasts."
+datos_MSG18="Tiek pārtraukta diska ierakstīšana..."
+
+# datoslb
+
+datoslb_MSG1="Kļūda: Attēla failu nevar atrast. Notiek pārtraukšana..."
+datoslb_MSG2="IERAKSTĪŠANAS PROCESS OK"
+datoslb_MSG3="KĻŪDA IERAKSTĪŠANAS PROCESS"
+
+# borra
+
+borra_MSG0="Iepriekšējā izvēlne"
+borra_MSG1="Izvēlieties CD-RW diska dzēšanas režīmu"
+borra_MSG2="---------------------------------------"
+borra_MSG3="Ātrā dzēšana (izmantojiet cdrecord)"
+borra_MSG4="Pabeigt dzēšanu (izmantot cdrecord)"
+borra_MSG5="Nepieciešama dzēšana (izmantojiet cdrskin)"
+borra_MSG6="skrienot"
+borra_MSG7="Atkarībā no diska statusa tiek lietots nepieciešamais formatējums vai dzēšana"
+borra_MSG8="CD-RW VEIKSMĪGI IZDZĒTS!!"
+borra_MSG9="KĻŪDA, DZĒSTOT CD-RW"
+borra_MSG10="PIESPIEDZĪT CD-RW diska dzēšanu"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="KĻŪDA, MĒĢINOT DZĒST CD-RW"
+err_borra_cdrw_MSG2="CD-RW NEIZMANTOJAMS"
+err_borra_cdrw_MSG3="ŠO CD-RW NAV IESPĒJAMS DZĒST"
+err_borra_cdrw_MSG4="PĀRBAUDIET CD-RW, VAI VAI NAV FIZISKI BOJĀJUMI"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="skrienot"
+cerrar_cd_MSG2="CD IR PAREIZI AIZVĒRTS"
+cerrar_cd_MSG3="KĻŪDA, AIZVEROT kompaktdisku"
+cerrar_cd_MSG4="TIEK AIZSLĒGT CEĻU DATU kompaktdiskā...."
+
+# grabimg
+
+grabimg_MSG1=".iso vai .ext2 attēls, ko ierakstīt CD/DVD diskā"
+grabimg_MSG2="Tiek palaists failu pārvaldnieks."
+grabimg_MSG3="Ierakstiet pilnu ceļu, kur atrodas CD/DVD attēls, kuru vēlaties ierakstīt:"
+grabimg_MSG4="skrienot"
+grabimg_MSG5="-----------NOTIEK ATKĀRTOTI MĒĢINĀT IERAKSTĪŠANAS PROCESS-----------"
+grabimg_MSG6="Ieraksts PABEIGTS!!"
+grabimg_MSG7="ATTĒLS .EXT2 VEIKSMĪGI IERAKSTS"
+
+# grabimglb
+
+grabimglb_MSG1="Ierakstiet pilnu ceļu, kur atrodas CD/DVD attēls, kuru vēlaties ierakstīt:"
+grabimglb_MSG2="Notiek attēla ierakstīšana diskā..."
+grabimglb_MSG3="ISO-9660 ATTĒLS VEIKSMĪGI IERAKSTS"
+grabimglb_MSG4="KĻŪDA, IEKĀRTOT ISO-9660 ATTĒLU"
+grabimglb_MSG5="Kļūda: Attēla fails nav atrasts. Tiek pārtraukta..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin un .cue faili attēla ierakstīšanai"
+grabimg_cue_MSG2="Lai ierakstītu bin/cue attēlu, abiem failiem jābūt"
+grabimg_cue_MSG3="būt aktīvajā direktorijā."
+grabimg_cue_MSG4="Pašreizējais aktīvais direktorijs"
+grabimg_cue_MSG5="Ievadiet *.cue faila nosaukumu, kas atsaucas uz *.bin attēla failu"
+grabimg_cue_MSG6=".cue fails: "
+grabimg_cue_MSG7="skrienot"
+grabimg_cue_MSG8="IERAKSTĪŠANA PABEIGTA!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Ierakstīt vairāku sesiju kompaktdisku no .iso attēla"
+cd_multi_MSG2="Ierakstīt pirmo sesiju kompaktdiskā no .iso attēla"
+cd_multi_MSG3="Ierakstīt vairāku sesiju kompaktdisku no failiem diskā"
+cd_multi_MSG4="Ierakstīt secīgas sesijas kompaktdiskā no failiem cietajā diskā"
+cd_multi_MSG5="Šai opcijai nepieciešams vairāku sesiju kompaktdisks ar iepriekš ierakstītu sesiju."
+cd_multi_MSG6="Iepriekšējā izvēlne"
+cd_multi_MSG7=".iso attēls, ko ierakstīt CD-Multisession"
+cd_multi_MSG8="Norādiet .iso attēla ceļu"
+cd_multi_MSG9="skrienot"
+cd_multi_MSG10="DAUDZSESIJAS CD VEIKSMĪGI IERAKSTS!!"
+cd_multi_MSG11="Katalogi, ko iekļaut attēlā."
+cd_multi_MSG12="Zemāk norādiet, kurus direktorijus iekļaut"
+cd_multi_MSG13="Ievadiet nosaukumu kompaktdiska etiķetei:"
+cd_multi_MSG14="IZVEIDOT ATTĒLU..."
+cd_multi_MSG15="VEIKSMĪGI IZVEIDOTS"
+cd_multi_MSG16="KĻŪDA, VEIDOT ATTĒLU. PĀRTRAUKTS IERAKSTĪŠANAS PROCESS..."
+cd_multi_MSG17="DEDZĪŠANĀS CD ATTĒLS..."
+cd_multi_MSG18="CD DAUDZSESIJAS IZVĒLNE"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="NOTIEK AUDIO CD..."
+copia_cd_audio_MSG2="skrienot"
+copia_cd_audio_MSG3="AUDIO TRASKI VEIKSMĪGI IZGATAVOTI!!"
+copia_cd_audio_MSG4="KĻŪDA AUDIO CELIŅU RIPĒŠANAS laikā"
+copia_cd_audio_MSG5="DEDEG AUDIO CD..."
+copia_cd_audio_MSG6="AUDIO kompaktdisks sekmīgi nokopēts!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav faili, kas ierakstīti kompaktdiskā"
+wav_a_cd_MSG2="Linux-cdgrab nepārbaudīs direktorija lielumu"
+wav_a_cd_MSG3="Pārliecinieties, ka tas nav lielāks par 650 Mb, ja gadījumā"
+wav_a_cd_MSG4="ja izmantojat 80 minūšu kompaktdisku."
+wav_a_cd_MSG5="Ievadiet .wav failu direktorijas ceļu"
+wav_a_cd_MSG6="skrienot"
+wav_a_cd_MSG7="PROCESS PABEIGTS!"
+
+# cdmixto
+
+cdmixto_MSG1="CD-Mixto izveides projekts (datu attēls .iso + audio faili .wav)"
+cdmixto_MSG2="Linux-cdgrab nepārbaudīs direktorija lielumu"
+cdmixto_MSG3="kur ir audio faili."
+cdmixto_MSG4="Tas arī netiks darīts no .iso attēla, kuru plānojat ierakstīt"
+cdmixto_MSG5="pēc."
+cdmixto_MSG6="Esiet atbilstošs savam izmēram"
+cdmixto_MSG7="ierakstīt savā jaunajā kompaktdiskā."
+cdmixto_MSG8="Norādiet audio failu ceļu:"
+cdmixto_MSG9="Norādiet iso attēla ceļu:"
+cdmixto_MSG10="####################################"
+cdmixto_MSG11="DEDEGŠANĀS JAUKTAS CD : DATI + AUDIO"
+cdmixto_MSG12="skrienot"
+cdmixto_MSG13="----Veiksmīgi IZVEIDOTS JAUKTAIS CD-----!!"
+cdmixto_MSG14="------KĻŪDA, IEDEDZOT JAUKTU CD--------"
+
+# discoinfo
+
+discoinfo_MSG1="skrienot"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="IDE/SCSI ports ir skenēts"
+cdrecord_scan_MSG1="Kļūda skenējot IDE/SCSI portu"
+cdrecord_scan_MSG2="cdrecord nav atrasts"
+

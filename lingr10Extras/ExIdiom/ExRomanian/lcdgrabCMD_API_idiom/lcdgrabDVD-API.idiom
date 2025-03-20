@@ -1,0 +1,171 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRomanian/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Rumano para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Dispozitiv de înregistrare ca"
+buscar_grabadora_MSG1B="Valid"
+buscar_grabadora_MSG2="Dispozitiv de înregistrare ca"
+buscar_grabadora_MSG2B="Eroare"
+buscar_grabadora_MSG3="Uneltele dvd+-rw-tools nu acceptă că dispozitivul de înregistrare este"
+buscar_grabadora_MSG4="Pentru a putea inscripționa DVD-URI folosind instrumentele dvd+rw-tools, trebuie să specificați recorder ul ca dispozitiv blocat"
+buscar_grabadora_MSG5="Exemplu"
+buscar_grabadora_MSG6="sau"
+buscar_grabadora_MSG7="Se afișează dispozitivele de sistem existente în /dev"
+buscar_grabadora_MSG8="Introduceți dispozitivul de blocare care corespunde DVD recorder-ului dvs."
+buscar_grabadora_MSG9="Nu a fost specificată niciun tip sau opțiune de înregistrare."
+buscar_grabadora_MSG10=" DISPOZITIV CONFIGURAT PENTRU ÎNREGISTRATOR"
+buscar_grabadora_MSG11="Dispozitivul de înregistrare a fost exportat în mediul shell ca"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Valoare posibilă valabilă numai pentru cdrecord"
+buscar_grabadoralb_MSG2="Configurația curentă pentru recorder este"
+buscar_grabadoralb_MSG3="Verificați dacă această configurație se potrivește cu valoarea atribuită de cdrskin"
+buscar_grabadoralb_MSG4="Se scanează portul IDE/SCSI cu cdrskin..."
+buscar_grabadoralb_MSG5="Specificați noua valoare care va fi utilizată cu cdrskin:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Introduceți un nume pentru viitorul DVD:"
+datos_dvd_MSG2="ÎNREGISTRARE DVD...."
+datos_dvd_MSG3="Se utilizează"
+datos_dvd_MSG4="în rulare"
+datos_dvd_MSG5="DVD ÎNREGISTRAT CU SUCCES!"
+datos_dvd_MSG6="mkisofs sau genisoimage nu pot fi găsite, instalați cdrtools sau cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Introduceți un nume pentru viitorul DVD:"
+datos_dvd_multi_MSG2="ÎNREGISTRARE DVD...."
+datos_dvd_multi_MSG3="Utilizarea"
+datos_dvd_multi_MSG4="în rulare"
+datos_dvd_multi_MSG5="DVD ÎNREGISTRAT CU SUCCES!"
+datos_dvd_multi_MSG6="mkisofs sau genisoimage nu pot fi găsite, instalați cdrtools sau cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="ÎNREGISTRAREA IMAGINEI...."
+grabimg_dvd_MSG2="în rulare"
+grabimg_dvd_MSG3="! IMAGINE DVD ÎNREGISTRATĂ CU SUCCES !"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="ÎNREGISTRAREA IMAGINEI PE DVD...."
+copia_bin_dvd_MSG2="în rulare"
+copia_bin_dvd_MSG3="	SE ȘTERGE FIȘIERUL IMAGINEI"
+copia_bin_dvd_MSG4="ÎNREGISTRAREA TERMINATĂ!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Format a"
+formatear_dvd_MSG2="Forțați un nou format pentru un"
+formatear_dvd_MSG3="Relocați blocul de ieșire al unui"
+formatear_dvd_MSG4="Formatați un DVD-RW în incremental secvenţial"
+formatear_dvd_MSG5="Formatați un DVD-RW la suprascriere restricționată"
+formatear_dvd_MSG6="Umpleți un DVD cu zerouri"
+formatear_dvd_MSG7="Afișați informațiile DVD-ului"
+formatear_dvd_MSG8="Meniu precedent"
+formatear_dvd_MSG9="Această opțiune este folosită pentru a formata DVD-ul pentru prima dată."
+formatear_dvd_MSG10="Dacă DVD-ul este deja formatat, nu va șterge datele."
+formatear_dvd_MSG11="Acestea vor fi suprascrise într-o nouă înregistrare."
+formatear_dvd_MSG12="Pentru a șterge conținutul DVD-ului utilizați:"
+formatear_dvd_MSG13="Umpleți un DVD cu zerouri"
+formatear_dvd_MSG14="Această opțiune șterge formatul și datele de pe DVD-ul tratat."
+formatear_dvd_MSG15="în rulare"
+formatear_dvd_MSG16="DVD+RW/DVD-RW FORMATAT CU SUCCES !"
+formatear_dvd_MSG17="EROARE LA FORMATAREA DVD-ULUI"
+formatear_dvd_MSG18="Fortarea formatului pe discul DVD+RW..."
+formatear_dvd_MSG19="DVD+RW FORMATAT CU SUCCES!"
+formatear_dvd_MSG20="EROARE LA FORMATAREA DVD+RW"
+formatear_dvd_MSG21="Această opțiune nu afectează datele salvate pe DVD+RW"
+formatear_dvd_MSG22="Se elimină blocul de ieşire de pe DVD+RW..."
+formatear_dvd_MSG23="Se formatează discul DVD-RW la scriere secvențială..."
+formatear_dvd_MSG24="DVD-RW FORMATAT CU SUCCES!"
+formatear_dvd_MSG25="EROARE LA FORMATAREA DVD-RW"
+formatear_dvd_MSG26="Se formatează discul DVD-RW la suprascriere restricționată..."
+formatear_dvd_MSG27="ȘTERGERE DVD-UL ÎNREGISTRABIL"
+
+# null_dvd
+
+null_dvd_MSG1="Se scrie pe disc de pe /dev/zero...."
+null_dvd_MSG2="funcţionare"
+null_dvd_MSG3="PROCES FINAL"
+null_dvd_MSG4="EROARE NEȘTEPTĂ"
+
+# dvd_video
+
+dvd_video_MSG1="Calea unde se află directoarele VIDEO_TS și AUDIO_TS:"
+dvd_video_MSG2="Specificați calea unde se află directoarele VIDEO_TS și AUDIO_TS:"
+dvd_video_MSG3="funcţionare"
+dvd_video_MSG4="--- DVD-VIDEO ÎNREGISTRAT CU SUCCES ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="funcţionare"
+dvd_copia_bin_MSG2="	SE ȘTERGE FIȘIERUL IMAGINEI"
+dvd_copia_bin_MSG3="LA ÎNREGISTRARE A AU AVENIT O EROARE"
+
+# dvd_datos
+
+dvd_datos_MSG1="Fișiere și directoare pentru a crea imaginea .iso"
+dvd_datos_MSG2="DVD LABEL"
+dvd_datos_MSG3="Introduceți un nume pentru viitorul DVD:"
+dvd_datos_MSG4="Lansarea managerului de fișiere:"
+dvd_datos_MSG5="	CREAREA IMAGINII. . ."
+dvd_datos_MSG6="funcţionare"
+dvd_datos_MSG7="IMAGINE ISO-9660 CREAȚĂ ÎN"
+dvd_datos_MSG8="		ARDEREA DVD ULUI"
+dvd_datos_MSG13="SE ȘTERGE IMAGINEA..."
+
+# dvd_borra
+
+dvd_borra_MSG1="funcţionare"
+dvd_borra_MSG2="Disc optic formatat cu succes"
+dvd_borra_MSG3="EROARE LA FORMATAREA DISCULUI OPTIC"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="funcţionare"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="funcţionare"
+formatearCDDVDBD_MSG2="DISC OPTIC FORMATAT CU SUCCES"
+formatearCDDVDBD_MSG3="EROARE LA FORMATAREA DISCULUI OPTIC"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW Formatat cu succes!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Eroare la formatarea DVD-RW la suprascriere restricționată"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW Formatat cu succes!!"
+formatearDVDRW_incremental_secuencial_MSG2="Eroare la formatarea DVD-RW în incremental secvenţial"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Specificați calea imaginii iso-9660 de ars:"
+cdrskinisocddvd_MSG2="IMAGINE ISO ÎNREGISTRATĂ CU SUCCES!!"
+cdrskinisocddvd_MSG3="EROARE LA ÎNREGISTRAREA IMAGINII"
+

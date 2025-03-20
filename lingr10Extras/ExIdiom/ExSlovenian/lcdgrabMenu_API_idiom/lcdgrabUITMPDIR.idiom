@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovenian/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Esloveno para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Datoteke v /tmp"
+dir_tmp_MSG2="Izbriši vse slike in stisnjene datoteke"
+dir_tmp_MSG3="Zaženi upravitelja datotek za druge operacije"
+dir_tmp_MSG4="Priklopi ali odklopi sliko"
+dir_tmp_MSG5="Prikaži meni za ustvarjanje slike"
+dir_tmp_MSG6="Prikaži možnosti snemanja slike"
+dir_tmp_MSG7="Prejšnji meni"
+dir_tmp_MSG8="SEZNAM OBSTOJEČIH DATOTEK V"
+dir_tmp_MSG9="IZBERITE MOŽNOST:"
+dir_tmp_MSG10="IZBRISANE SLIKE IN DATOTKE"
+dir_tmp_MSG11="Pripni sliko."
+dir_tmp_MSG12="Odpni sliko."
+dir_tmp_MSG13="Zapiši sliko na CD"
+dir_tmp_MSG14="Zapiši sliko na DVD"
+dir_tmp_MSG14B="Zapiši sliko na BD"
+dir_tmp_MSG15="Izberi možnost glede na snemalni medij"
+dir_tmp_MSG16="DATOTEKA NI NAJDENA KONFIGURACIJSKA DATOTEKA"
+dir_tmp_MSG17="Prekinitev postopka snemanja"
+dir_tmp_MSG18="Določite datoteko .iso za zapis"
+dir_tmp_MSG19="Vnesite pot do slike: "
+

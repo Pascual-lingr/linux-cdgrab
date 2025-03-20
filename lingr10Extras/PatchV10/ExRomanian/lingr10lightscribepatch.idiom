@@ -1,0 +1,32 @@
+# Idioma Rumano para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Apăsați ENTER pentru a continua..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="===================================="
+cabecera_lightscribe_MSG2="SUPORT LINUX-CDGRAB 1.0 LIGHTSCRIBE."
+cabecera_lightscribe_MSG3="===================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Tastați calea imaginii pe care doriți să o imprimați pe disc:"
+imprimir_disco_lightscribe_MSG2="Formatul imaginii trebuie să fie .bmp"
+imprimir_disco_lightscribe_MSG3="în rulare"
+imprimir_disco_lightscribe_MSG4="Etichetă imprimată pe disc"
+imprimir_disco_lightscribe_MSG5="Eroare la imprimarea etichetei pe disc"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="Tehnologia LightScribe este prezentă doar pe unele unități"
+lingr10lightscribepatch_MSG2="Ar trebui să verificați dacă recorderul dvs. îl are."
+lingr10lightscribepatch_MSG3="La fel, numai CD-urile sau DVD-urile speciale pot fi etichetate pentru LightScribe"
+lingr10lightscribepatch_MSG4="Imprimați un disc LightScribe"
+lingr10lightscribepatch_MSG5="Meniu precedent"
+lingr10lightscribepatch_MSG6="Opțiune nevalidă"
+

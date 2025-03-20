@@ -1,0 +1,31 @@
+#########################################################
+# lcdgrabAPI_idiom/Español/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en español para el menu de conversión de Audio.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="AVDIO PRETVORBA"
+menu_conversion_audio_MSG2="-------------- PRETVORBA MED FORMATI -------------"
+menu_conversion_audio_MSG3="Pretvori .mp3 v .wav"
+menu_conversion_audio_MSG4="Pretvori .ogg v .wav"
+menu_conversion_audio_MSG5="Pretvori .wav v .mp3"
+menu_conversion_audio_MSG6="Pretvori .wav v .ogg"
+menu_conversion_audio_MSG6C="Pretvori .wav v .flac"
+menu_conversion_audio_MSG6B="Pretvori .flac v .wav"
+menu_conversion_audio_MSG7="---------- EKSTRAKCIJA ZVOČNEGA POSLEDA ----------"
+menu_conversion_audio_MSG8="Kopiraj zvočni CD v .wav"
+menu_conversion_audio_MSG9="Kopiraj niz zvočnih posnetkov v .wav"
+menu_conversion_audio_MSG10="Kopiraj zvočni CD v .mp3"
+menu_conversion_audio_MSG11="Kopirajte zvočni CD v .ogg"
+menu_conversion_audio_MSG0="Prejšnji meni"
+menu_conversion_audio_MSG12="Iskanje datotek .mp3"
+menu_conversion_audio_MSG13="Iskanje datotek .ogg"
+menu_conversion_audio_MSG14="Iskanje datotek .wav"
+menu_conversion_audio_MSG15="----------------- DRUGE OPERACIJE ----------------"
+menu_conversion_audio_MSG16="Izreži zvočno datoteko .wav"
+menu_conversion_audio_MSG17="Kopirajte zvočni CD v .flac"

@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExSerbian/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Serbio para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="ОПЕРАЦИЈЕ ДИСК ДРИВЕ"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="------------------------- ВАЖНО -------------------------"
+MenuDispositivosBloque_MSG3="+ Немојте вршити операције писања на чврстим дисковима "
+MenuDispositivosBloque_MSG4="+ о партицијама диска које садрже слике"
+MenuDispositivosBloque_MSG5="+ опоравак, партиције за покретање или сопствена"
+MenuDispositivosBloque_MSG6="+ партиција оперативног система."
+MenuDispositivosBloque_MSG7="+ Злоупотреба опција писања овог менија "
+MenuDispositivosBloque_MSG8="+ може да генерише катастрофу у систему."
+MenuDispositivosBloque_MSG9="+ Користите опрезно. Користите на сопствени ризик."
+MenuDispositivosBloque_MSG10="--------------------- ПИСАЊЕ ---------------------"
+MenuDispositivosBloque_MSG11="Пренесите датотеку слике на диск јединицу"
+MenuDispositivosBloque_MSG11B="Думп iso или img слику (самопокретање) на драјв или USB диск"
+MenuDispositivosBloque_MSG11C="Нису подржани сви инсталациони системи."
+MenuDispositivosBloque_MSG12="Форматирајте диск са изворним Linux или Windows системом датотека"
+MenuDispositivosBloque_MSG13="--------------------- ЧИТАЊЕ ---------------------"
+MenuDispositivosBloque_MSG14="Креирајте .img слику са диск јединице"
+MenuDispositivosBloque_MSG15="Претходни мени"
+MenuDispositivosBloque_MSG16="Унесите опцију"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="-----------------------------ВАЖНО--------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Јединица формата са системом датотека који се користи у уређајима"
+UIFormatearUnidad_linuxfs_MSG2B="+ или партиције диска."
+UIFormatearUnidad_linuxfs_MSG3="+ Ова опција ће избрисати све постојеће податке на јединици"
+UIFormatearUnidad_linuxfs_MSG4="+ Изменљиви дискови форматирани системом датотека"
+UIFormatearUnidad_linuxfs_MSG5="+ Сам Linux ће бити доступан само под овим оперативним системом."
+UIFormatearUnidad_linuxfs_MSG6="+ Користите опрезно, користите на сопствени ризик."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="ПРИТИСНИТЕ ТИПКУ C ДА НАСТАВИТЕ;(Процес ће бити отказан у другој опцији)"
+

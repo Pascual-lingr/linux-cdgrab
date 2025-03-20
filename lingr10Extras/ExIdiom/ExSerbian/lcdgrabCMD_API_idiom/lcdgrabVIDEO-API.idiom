@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en Serbio para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="КОМПАТИБИЛНОСТ ВИДЕО КОНВЕРЗИЈЕ BLU-RAY DISC"
+conv_video_BDVideo_MSG2="Наведите путању видео датотеке за конверзију:"
+conv_video_BDVideo_MSG3="Одредите име датотеке новог видеа за креирање:"
+conv_video_BDVideo_MSG4="Видео датотека је успешно конвертована!!"
+conv_video_BDVideo_MSG5="Грешка при конвертовању видео датотеке"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="КОНВЕРЗИЈА ВИДЕО ДАТОТЕКА"
+conv_VideoFich_MSG2="Одредите видео датотеку за конверзију:"
+conv_VideoFich_MSG3="Одредите видео датотеку за генерисање:"
+conv_VideoFich_MSG4="КОНВЕРЗИЈА ВИДЕО ДАТОТЕКА ЗАВРШЕНА"
+conv_VideoFich_MSG5="ГРЕШКА ПРИ КОНВЕРЗОВАЊУ ВИДЕО ДАТОТЕКА"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Наведите видео датотеку:"
+extrae_Audio_de_Video_MSG2="Especifique el archivo de sonido mp3 a generar:"
+extrae_Audio_de_Video_MSG3="ЕКСТРАКЦИЈА ЗВУКА УСПЈЕШНО УРАЂЕНА"
+extrae_Audio_de_Video_MSG4="ГРЕШКА ПРИ ИЗВЛАЧЕЊУ ЗВУКА"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Наведите видео датотеку :"
+extrae_Fragmento_Video_MSG2="Одредите видео датотеку за генерисање:"
+extrae_Fragmento_Video_MSG3="Наведите време почетка (Наведите као HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Наведите време завршетка (Наведите као HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="УСПЕШНО ОДРЕЗАН ВИДЕО"
+extrae_Fragmento_Video_MSG6="ГРЕШКА ПРИ СРЕЋАЊУ ВИДЕА"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Наведите звучну датотеку:"
+mezcla_Audio_Video_MSG2="Наведите видео датотеку:"
+mezcla_Audio_Video_MSG3="Одредите видео датотеку за генерисање:"
+mezcla_Audio_Video_MSG4="НОВА ВИДЕО ДАТОТЕКА УСПЈЕШНО ГЕНЕРИСАНА"
+mezcla_Audio_Video_MSG5="ГРЕШКА У ГЕНЕРИСАЊУ ВИДЕО ДАТОТЕКЕ"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="ОПЦИЈА НИЈЕ ДОСТУПНА ЗА ИНТЕРФЕЈС КОНЗОЛЕ"
+graba_escritorio_MSG2="-- СНИМАЊЕ ДЕСКТОП СЕСИЈЕ -- ПРИТИСНИТЕ CTRL + C ДА БИСТЕ ОТКАЗАЛИ И ЗАУСТАВИЛИ СНИМАЊЕ"
+graba_escritorio_MSG3="СНИМАЊЕ ВИДЕО ЗАВРШЕНО"
+

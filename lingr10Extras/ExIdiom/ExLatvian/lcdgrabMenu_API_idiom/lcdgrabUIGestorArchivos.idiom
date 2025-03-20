@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLatvian/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Letón para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************** NAVIGĀCIJAS IESPĒJAS *************************"
+ayuda_gestor_de_archivos_MSG2="Pārlūkojiet failu sistēmu."
+ayuda_gestor_de_archivos_MSG3="X --> Iziet"
+ayuda_gestor_de_archivos_MSG4="A --> Iepriekšējais direktorijs"
+ayuda_gestor_de_archivos_MSG5="B --> Nākamais direktorijs"
+ayuda_gestor_de_archivos_MSG6="Darbības ar failiem un direktorijiem."
+ayuda_gestor_de_archivos_MSG7="C --> Kopēt failu"
+ayuda_gestor_de_archivos_MSG8="M --> Pārvietot failu"
+ayuda_gestor_de_archivos_MSG9="CD --> Kopēt direktoriju"
+ayuda_gestor_de_archivos_MSG10="MD --> Pārvietot direktoriju"
+ayuda_gestor_de_archivos_MSG11="Izpratne par darbībām ar failiem un direktorijiem."
+ayuda_gestor_de_archivos_MSG12="Z --> Saspiest failu"
+ayuda_gestor_de_archivos_MSG13="DZ --> Atspiest failu"
+ayuda_gestor_de_archivos_MSG14="EZ --> Izveidojiet .tar.gz vai .tar.bz2 pakotni"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Izpakojiet .tar.gz vai .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Pašreizējais aktīvais direktorijs"
+gestor_de_archivos_MSG0B="Faili iekšā"
+gestor_de_archivos_MSG1="============================ NAVIGĀCIJAS IESPĒJAS ==========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> PALĪDZĪBA="
+gestor_de_archivos_MSG3="============================================================================="
+gestor_de_archivos_MSG4="Ierakstiet opciju"
+gestor_de_archivos_MSG5="Ierakstiet direktoriju"
+gestor_de_archivos_MSG6="Ierakstiet avota failu"
+gestor_de_archivos_MSG7="Ierakstiet galamērķa failu"
+gestor_de_archivos_MSG8="Fails veiksmīgi nokopēts"
+gestor_de_archivos_MSG9="Kļūda kopējot failu"
+gestor_de_archivos_MSG10="Ierakstiet avota failu"
+gestor_de_archivos_MSG11="Ierakstiet galamērķa failu"
+gestor_de_archivos_MSG12="Fails veiksmīgi pārvietots"
+gestor_de_archivos_MSG13="Kļūda, pārvietojot failu"
+gestor_de_archivos_MSG14="Ierakstiet avota direktoriju"
+gestor_de_archivos_MSG15="Ierakstiet galamērķa direktoriju"
+gestor_de_archivos_MSG16="Diretorijs veiksmīgi nokopēts"
+gestor_de_archivos_MSG17="Kļūda kopējot direktoriju"
+gestor_de_archivos_MSG18="Ierakstiet avota direktoriju"
+gestor_de_archivos_MSG19="Ierakstiet galamērķa direktoriju"
+gestor_de_archivos_MSG20="Katalogs veiksmīgi pārvietots"
+gestor_de_archivos_MSG21="Kļūda, pārvietojot direktoriju"
+gestor_de_archivos_MSG22="FAILS SAspiest"
+gestor_de_archivos_MSG23="Norādiet faila ceļu"

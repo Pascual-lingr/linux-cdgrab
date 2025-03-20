@@ -1,0 +1,170 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Serbio para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Уређај за снимање као"
+buscar_grabadora_MSG1B="Важеће"
+buscar_grabadora_MSG2="Уређај за снимање као"
+buscar_grabadora_MSG2B="Грешка"
+buscar_grabadora_MSG3="dvd+-rw-tools не прихватају да је уређај за снимање"
+buscar_grabadora_MSG4="Да бисте могли да снимате DVD ове помоћу dvd+-rw-tools, морате навести свој диктафон као блок уређај"
+buscar_grabadora_MSG5="Пример"
+buscar_grabadora_MSG6="или"
+buscar_grabadora_MSG7="Приказивање постојећих системских уређаја у /dev"
+buscar_grabadora_MSG8="Унесите блок уређај који одговара вашем DVD снимачу"
+buscar_grabadora_MSG9="Није наведен тип или опција снимача."
+buscar_grabadora_MSG10="УРЕЂАЈ КОНФИГУРАН ЗА РЕКОРДЕР"
+buscar_grabadora_MSG11="Уређај за снимање је извезен у окружење љуске као"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Могућа вредност важи само за cdrecord"
+buscar_grabadoralb_MSG2="Тренутна конфигурација за диктафон је"
+buscar_grabadoralb_MSG3="Проверите да ли ова конфигурација одговара вредности коју је доделио cdrskin"
+buscar_grabadoralb_MSG4="Скенирање IDE/SCSI порта са cdrskin ом..."
+buscar_grabadoralb_MSG5="Одредите нову вредност која ће се користити са cdrskin ом:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Унесите име за будући DVD:"
+datos_dvd_MSG2="РЕЦОРДИНГ ДВД. . ."
+datos_dvd_MSG3="Ношење"
+datos_dvd_MSG4="трчање"
+datos_dvd_MSG5=" УСПЕШНО СНИМЉЕН DVD!! "
+datos_dvd_MSG6="mkisofs или genisoimage се не могу пронаћи, инсталирајте cdrtools  или cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Унесите име за будући DVD:"
+datos_dvd_multi_MSG2="РЕЦОРДИНГ ДВД. . ."
+datos_dvd_multi_MSG3="Ношење"
+datos_dvd_multi_MSG4="трчање"
+datos_dvd_multi_MSG5=" УСПЕШНО СНИМЉЕН DVD!! "
+datos_dvd_multi_MSG6="mkisofs или genisoimage се не могу пронаћи, инсталирајте cdrtools  или cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="СНИМАЊЕ СЛИКЕ. . ."
+grabimg_dvd_MSG2="трчање"
+grabimg_dvd_MSG3="! ДВД СЛИКА УСПЈЕШНО СНИМЉЕНА!"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="СНИМАЊЕ СЛИКЕ НА ДВД. . ."
+copia_bin_dvd_MSG2="трчање"
+copia_bin_dvd_MSG3="	БРИСАЊЕ ДАТОТЕКЕ СЛИКЕ"
+copia_bin_dvd_MSG4="СНИМАЊЕ ЗАВРШЕНО!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Формат а"
+formatear_dvd_MSG2="Форсирај нови формат за а"
+formatear_dvd_MSG3="Премести водећи блок а"
+formatear_dvd_MSG4="Форматирајте DVD-RW у секвенцијално инкрементално"
+formatear_dvd_MSG5="Форматирајте DVD-RW на ограничено преписивање"
+formatear_dvd_MSG6="Попуните DVD нулама"
+formatear_dvd_MSG7="Прикажи информације о DVD у"
+formatear_dvd_MSG8="Претходни мени"
+formatear_dvd_MSG9="Ова опција се користи за форматирање DVD а по први пут."
+formatear_dvd_MSG10="Ако је DVD већ форматиран, неће избрисати податке."
+formatear_dvd_MSG11="Ови ће бити преписани у новом снимку."
+formatear_dvd_MSG12="Да обришете садржај ДВД-а користите:"
+formatear_dvd_MSG13="Попуните DVD нулама"
+formatear_dvd_MSG14="Ова опција брише формат и податке са третираног DVD а."
+formatear_dvd_MSG15="трчање"
+formatear_dvd_MSG16="DVD+RW/DVD-RW УСПЕШНО ФОРМАТИРАН !"
+formatear_dvd_MSG17="ГРЕШКА ПРИ ФОРМАТИРАЊУ DVD а"
+formatear_dvd_MSG18="Принудно форматирање на DVD+RW диску..."
+formatear_dvd_MSG19="DVD+RW УСПЕШНО ФОРМАТИРАН!"
+formatear_dvd_MSG20="ГРЕШКА ПРИ ФОРМАТИРАЊУ DVD+RW"
+formatear_dvd_MSG21="Ова опција не утиче на податке сачуване на DVD+RW"
+formatear_dvd_MSG22="Уклањање излазног блока са DVD+RW..."
+formatear_dvd_MSG23="Форматирање DVD-RW диска за секвенцијално писање..."
+formatear_dvd_MSG24="DVD-RW УСПЕШНО ФОРМАТИРАН!"
+formatear_dvd_MSG25="ГРЕШКА ПРИ ФОРМАТИРАЊУ DVD-RW"
+formatear_dvd_MSG26="Форматирање DVD-RW диска на ограничено преписивање..."
+formatear_dvd_MSG27="ИЗБРИШИ ДВД КОЈИ СЕ ДА УПИСАТИ"
+
+# null_dvd
+
+null_dvd_MSG1="Уписивање на диск из /dev/zero . . ."
+null_dvd_MSG2="трчање"
+null_dvd_MSG3="КОМПЛЕТАН ПРОЦЕС"
+null_dvd_MSG4="НЕОЧЕКИВАНА ГРЕШКА"
+
+# dvd_video
+
+dvd_video_MSG1="Путања где се налазе VIDEO_TS и AUDIO_TS директоријуми:"
+dvd_video_MSG2="Наведите путању где се налазе VIDEO_TS и AUDIO_TS директоријуми:"
+dvd_video_MSG3="трчање"
+dvd_video_MSG4="--- УСПЕШНО СНИМЉЕН DVD-ВИДЕО ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="трчање"
+dvd_copia_bin_MSG2="	БРИСАЊЕ ДАТОТЕКЕ СЛИКЕ"
+dvd_copia_bin_MSG3="ДОШЛА ЈЕ ГРЕШКА У СНИМКУ"
+
+# dvd_datos
+
+dvd_datos_MSG1="Датотеке и директоријуми за креирање .iso слике"
+dvd_datos_MSG2="DVD ЛАБЕЛ"
+dvd_datos_MSG3="Унесите име за будући DVD:"
+dvd_datos_MSG4="Покретање менаџера датотека:"
+dvd_datos_MSG5="	ЦРЕАТИНГ ИМАГЕ. . ."
+dvd_datos_MSG6="трчање"
+dvd_datos_MSG7="ISO-9660 СЛИКА КРЕИРАНА У"
+dvd_datos_MSG8="		БУРНИНГ DVD"
+dvd_datos_MSG13="БРИСАЊЕ СЛИКЕ..."
+
+# dvd_borra
+
+dvd_borra_MSG1="трчање"
+dvd_borra_MSG2="ОПТИЧКИ ДИСК УСПЕШНО ФОРМАТИРАН"
+dvd_borra_MSG3="ГРЕШКА ПРИ ФОРМАТИРАЊУ ОПТИЧКОГ ДИСКА"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="трчање"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="трчање"
+formatearCDDVDBD_MSG2="ОПТИЧКИ ДИСК УСПЕШНО ФОРМАТИРАН"
+formatearCDDVDBD_MSG3="ГРЕШКА ПРИ ФОРМАТИРАЊУ ОПТИЧКОГ ДИСКА"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW је успешно форматиран!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Грешка при форматирању DVD-RW а на ограничено преписивање"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW је успешно форматиран!!"
+formatearDVDRW_incremental_secuencial_MSG2="Грешка при форматирању DVD-RW у секвенцијално инкрементално"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Одреди путању iso-9660 слике за снимање:"
+cdrskinisocddvd_MSG2="ISO СЛИКА УСПЕШНО СНИМЉЕНА!!"
+cdrskinisocddvd_MSG3="ГРЕШКА ПРИ СНИМАЊУ СЛИКЕ"

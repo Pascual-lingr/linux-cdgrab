@@ -1,0 +1,234 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRomanian/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en Rumano para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="SISTEM DE FIȘIERE IMAGINII"
+imagen_linux_fs_MSG2="Selectați sistemul de fișiere: "
+imagen_linux_fs_MSG3="Creează o imagine pentru un CD-R/RW (702 Mbytes)"
+imagen_linux_fs_MSG4="Creează o imagine pentru un DVD+RW (4 Gbytes)"
+imagen_linux_fs_MSG5="Creează o imagine pentru un DVD+RW/DL (8 Gbytes)"
+imagen_linux_fs_MSG5B="Creează o imagine pentru un BD-R/RE (25 Gbytes)"
+imagen_linux_fs_MSG5C="Creează un fișier imagine cu dimensiune personalizată"
+imagen_linux_fs_MSG6="Se creează un fișier gol cu ​​o capacitate de 702 Mbytes"
+imagen_linux_fs_MSG7="Se creează un fișier gol cu ​​o capacitate de 4 Gbytes"
+imagen_linux_fs_MSG8="Se creează un fișier gol cu ​​o capacitate de 8 Gbytes"
+imagen_linux_fs_MSG8B="Se creează un fișier gol cu ​​o capacitate de 25 Gbytes"
+imagen_linux_fs_MSG8C="Se creează un fișier gol cu ​​dimensiune personalizată"
+imagen_linux_fs_MSG9="EROARE: DIMENSIUNEA IMAGINII NU ESTE CUNOSCUT. ABORTARE..."
+imagen_linux_fs_MSG10="Rulează"
+imagen_linux_fs_MSG11="Programul va formata fișierul gol."
+imagen_linux_fs_MSG12="Sistemul vă va avertiza că fișierul creat anterior nu este un dispozitiv blocat și vă va întreba dacă doriți să îl formatați"
+imagen_linux_fs_MSG13="Răspundeți da"
+imagen_linux_fs_MSG13="FORMATAT CU SUCCES"
+imagen_linux_fs_MSG14=" Montarea imaginii..."
+imagen_linux_fs_MSG15="EROARE LA FORMATAREA FIȘIERULUI GOL"
+imagen_linux_fs_MSG16="Programul a montat fișierul formatat în"
+imagen_linux_fs_MSG17="Linux-cdgrab va lansa managerul de fișiere astfel încât să poată opera pe imaginea montată pe"
+imagen_linux_fs_MSG18="Odată ce fișierele au fost copiate, demontați fișierul formatat"
+imagen_linux_fs_MSG19="Imaginea Linux este în acest director"
+imagen_linux_fs_MSG19B="EROARE LA MONTAREA FIȘIERULUI IMAGINEI"
+imagen_linux_fs_MSG20="Fișiere de inclus în imagine. Montate în /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Se lansează managerul de fișiere..."
+imagen_linux_fs_MSG22="NOTICĂ:"
+imagen_linux_fs_MSG23="-------"
+imagen_linux_fs_MSG24="Imaginea"
+imagen_linux_fs_MSG25="încă montat"
+imagen_linux_fs_MSG26="EROARE LA CREAREA FIȘIERULUI GOL CU dd"
+imagen_linux_fs_MSG27="Verificați dacă aveți spațiu liber pe partiția montată la /"
+imagen_linux_fs_MSG34="SISTEMUL DE FIȘIERE PENTRU FORMATAREA FIȘIERULUI"
+imagen_linux_fs_MSG35="GENERAREA FIȘIERULUI GOL CU DIMENSIUNE PERSONALIZATĂ"
+imagen_linux_fs_MSG36="Specificați dimensiunea blocului noului fișier gol (numai valoarea numerică):"
+imagen_linux_fs_MSG37="Un exemplu de valori pentru dimensiunea blocului sunt: ​​1024, 2048 (doar Ext2) sau 4096 (Toate formatele)"
+imagen_linux_fs_MSG38="Specificați dimensiunea fișierului gol de generat (doar o valoare numerică):"
+imagen_linux_fs_MSG39="Măsurători de spațiu pentru a genera fișierul gol:"
+imagen_linux_fs_MSG40="Specificați măsurarea spațiului de utilizat: "
+imagen_linux_fs_MSG41="EROARE LA SPECIFICAREA MĂSURĂRII MĂSURILOR"
+imagen_linux_fs_MSG42="Valoare dimensiunea blocului:"
+imagen_linux_fs_MSG43="Cantitatea de spațiu pentru fișierul gol:"
+imagen_linux_fs_MSG44="Valoare calculată în octeți:"
+imagen_linux_fs_MSG45="Valoare calculată pentru numărare:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Activați citirea md5 la generarea imaginilor .iso"
+comprobar_lectura_md5_MSG2="Dezactivați citirea md5 la generarea imaginilor .iso"
+comprobar_lectura_md5_MSG3="Meniu precedent"
+comprobar_lectura_md5_MSG4="Configurație curentă:"
+comprobar_lectura_md5_MSG5="Activat"
+comprobar_lectura_md5_MSG6="Dezactivat"
+comprobar_lectura_md5_MSG7="Citiți suma md5 activată"
+comprobar_lectura_md5_MSG8="Citește suma md5 dezactivată"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Numele imaginii ISO nu a putut fi citită"
+leer_md5sum_MSG2="Citirea sumei md5 din"
+leer_md5sum_MSG3="Se afișează suma md5 a imaginii"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="CREAREA IMAGINII CD-ului"
+extraer_isoCD_dd_MSG2="IMAGINE CREAȚĂ ÎN"
+extraer_isoCD_dd_MSG3="Nu a fost găsit"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="CREAREA IMAGINII DVD"
+extraer_isoDVD_dd_MSG2="în rulare"
+extraer_isoDVD_dd_MSG3="IMAGINE CREAȚĂ ÎN"
+extraer_isoDVD_dd_MSG4="Nu a fost găsit"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="în rulare"
+extraer_iso_readcd_MSG2="IMAGINE CREAȚĂ CU SUCCES"
+extraer_iso_readcd_MSG3="Imagine creată în"
+extraer_iso_readcd_MSG4="Se anulează procesul de înregistrare..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="CD montat"
+extraer_iso_mkisofs_MSG2="Se creează imaginea..."
+extraer_iso_mkisofs_MSG3="Compatibilitate cu Macintosh activată"
+extraer_iso_mkisofs_MSG4="Utilizarea"
+extraer_iso_mkisofs_MSG5="în rulare"
+extraer_iso_mkisofs_MSG6="Imagine creată în director"
+extraer_iso_mkisofs_MSG7="Reîncercarea procesului fără suport pentru Macintosh"
+extraer_iso_mkisofs_MSG8="Imagine creată în director"
+extraer_iso_mkisofs_MSG9="mkisofs returnează erori necunoscute la crearea"
+extraer_iso_mkisofs_MSG10="din"
+extraer_iso_mkisofs_MSG11="Verificați integritatea datelor"
+extraer_iso_mkisofs_MSG12="Montare"
+extraer_iso_mkisofs_MSG12B="ro"
+extraer_iso_mkisofs_MSG13="genisoimage returnează erori necunoscute la crearea"
+extraer_iso_mkisofs_MSG13B="din"
+extraer_iso_mkisofs_MSG14="Mkisofs și genisoimage nu au fost găsite. Vă rugăm să instalați cdrtools sau cdrkit."
+extraer_iso_mkisofs_MSG15="Nu a putut fi montat"
+extraer_iso_mkisofs_MSG16="Imagine creată cu succes în"
+
+# m_comp_img
+
+m_comp_img_MSG1="IMAGINE GENERATĂ CU SUCCES ÎN"
+m_comp_img_MSG2="DORIȚI SĂ COMPRIȚI FIȘIERUL IMAGINEI?"
+m_comp_img_MSG3="(s/y) pentru a comprima; Procesul este anulat cu o altă opțiune."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Se lansează managerul de fișiere..."
+generar_iso_directorio_MSG2="Introduceți un nume pentru viitorul CD/DVD/BD"
+generar_iso_directorio_MSG3="CREAREA IMAGINII..."
+generar_iso_directorio_MSG4="Compatibilitate cu Macintosh activată"
+generar_iso_directorio_MSG5="Utilizarea"
+generar_iso_directorio_MSG6="running"
+generar_iso_directorio_MSG7="IMAGINE CREAȚĂ ÎN DIRECTOR"
+generar_iso_directorio_MSG8="PROCESUL DE CREARE IMAGINII A ESCUT"
+generar_iso_directorio_MSG9="CREAREA IMAGINII FĂRĂ COMPATIBILITATE MACINTOSH"
+generar_iso_directorio_MSG10="mkisofs și genisoimage nu sunt găsite. Vă rugăm să instalați cdrtools sau cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Introduceți un nume pentru viitorul DVD/BD"
+generar_bdv_udf_directorio_MSG2="Specificați directorul pentru a genera imaginea video:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Specificați eticheta discului:"
+generar_iso_directorio_libburnia_MSG2="Specificați directorul pentru a genera imaginea iso-9660:"
+generar_iso_directorio_libburnia_MSG3="Imagine ISO9660 creată cu succes!!"
+generar_iso_directorio_libburnia_MSG4="Eroare la generarea imaginii iso-9660 cu xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="Fișiere și directoare de inclus în imaginea .iso"
+imagenISO_MSG2="SELECTARE O OPȚIUNE"
+imagenISO_MSG2B="-------------------"
+imagenISO_MSG3="Generează imaginea ISO-9660 de pe CD (utilizați dd)"
+imagenISO_MSG4="Generează imaginea ISO-9660 de pe DVD (utilizați dd)"
+imagenISO_MSG5="Generează imaginea ISO-9660 de pe CD (utilizați readcd)"
+imagenISO_MSG6="Generează imaginea ISO-9660 de pe disc CD sau DVD (utilizați mkisofs)"
+imagenISO_MSG7="Creați o imagine ISO-9660 din datele de pe hard disk (utilizați mkisofs)"
+imagenISO_MSG8="Meniul precedent"
+imagenISO_MSG9="CREAREA IMAGINII"
+imagenISO_MSG10="Creați o imagine ISO-9660 din datele de pe hard disk (utilizați xorriso)"
+imagenISO_MSG11="Creează o imagine iso/udf de pe un CD/DVD/BD (utilizați mkisofs)"
+imagenISO_MSG12="Creează o imagine ISO/UDF din datele de pe hard disk (utilizați mkisofs)"
+imagenISO_MSG13="MENIU FORMATATOR ISO-9660"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Creați o imagine UDF/ISO din datele de pe hard disk (utilizați mkisofs)"
+imagenISO_MSG15="Creează o imagine UDF/ISO cu suport video DVD (utilizați mkisofs)"
+
+
+# imagen_img
+
+imagen_img_MSG1="Introduceți dispozitivul bloc sursă de pe care urmează să fie realizată imaginea"
+imagen_img_MSG2="--------------------------------------------------------------------------------"
+imagen_img_MSG3="Dispozitive înregistrate în /etc/fstab și /etc/mtab"
+imagen_img_MSG4="Montați ieșirea comenzii:"
+imagen_img_MSG5="Introduceți numele dispozitivului: "
+imagen_img_MSG6="Crearea unei imagini .img a dispozitivului de blocare"
+imagen_img_MSG7="alergare"
+imagen_img_MSG8="IMAGINEA DISPOZITULUI CREAȚĂ ÎN"
+
+# monta_img
+
+monta_img_MSG1="Imagine ISO sau ext2 de montat."
+monta_img_MSG2="Tastați calea directorului în care se află imaginea de montat:"
+monta_img_MSG3="Imagine CD MONTATĂ:"
+monta_img_MSG4="EROARE LA MONTAREA FIȘIERULUI IMAGINEI"
+monta_img_MSG5="NU GĂSIT"
+monta_img_MSG6="PUNCT DE MONTARE NU EXISTĂ"
+monta_img_MSG7="EROARE NEȘTEPTĂ"
+
+# desmonta_img
+
+desmonta_img_MSG1="Imagine ISO sau ext2 de demontat."
+desmonta_img_MSG2="IMAGINE DEZASSEMBATĂ"
+desmonta_img_MSG3="Nu a fost găsită nicio imagine montată"
+desmonta_img_MSG4="Montați ieșirea:"
+desmonta_img_MSG5="Puteți specifica direct calea directorului absolută a unei imagini."
+desmonta_img_MSG6="Precum /tmp/lcdgrabimg.iso sau directorul de montare pentru imagine, cum ar fi /mnt/lcdgrab"
+desmonta_img_MSG7="Dacă nu este specificat, poate fi căutat folosind managerul de fișiere"
+desmonta_img_MSG8="Lansarea managerului de fișiere"
+desmonta_img_MSG9="Specificați calea imaginii."
+desmonta_img_MSG10="IMAGINE DEZASSEMBATĂ"
+desmonta_img_MSG11="EROARE LA DEMONTAREA IMAGINII"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1="Imagine .nrg de convertit în .iso"
+nrg_a_iso_MSG2="Introduceți calea imaginii .nrg (Nero Burning ROM) pentru conversie"
+nrg_a_iso_MSG3="Se convertește imaginea..."
+nrg_a_iso_MSG4="Calea imaginii sursă .nrg"
+nrg_a_iso_MSG5="nu există sau corespunde unui director"
+nrg_a_iso_MSG6="Cale nevalidă."
+nrg_a_iso_MSG7="este deja o imagine ISO-9660 anterioară, nu va fi convertită."
+nrg_a_iso_MSG8="Se copiază cu extensie diferită..."
+nrg_a_iso_MSG9="COPIE COMPLETĂ"
+nrg_a_iso_MSG10="alergare"
+nrg_a_iso_MSG11="Imaginea a fost convertită cu succes"
+nrg_a_iso_MSG12="EROARE LA CREAREA IMAGINII .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Generează fișierul de descriere .cue din imaginea .bin"
+GenerarArchivocue_MSG2="Directorul activ curent"
+GenerarArchivocue_MSG3="Scrieți numai calea directorului unde"
+GenerarArchivocue_MSG4="găsiți fișierul imagine:"
+GenerarArchivocue_MSG5="Introduceți numele imaginii .bin la care"
+GenerarArchivocue_MSG6="a generat fișierul .cue corespunzător"
+GenerarArchivocue_MSG7="FIȘIER DE DESCRIERE .cue GENERAT CU SUCCES"
+GenerarArchivocue_MSG8="EROARE CÂND GENERAȚI FIȘIERUL DE DESCRIERE .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="în rulare"
+ImagenbincueCDDVD_MSG2="Imagine de disc .BIN .CUE GENERATĂ CU SUCCES"

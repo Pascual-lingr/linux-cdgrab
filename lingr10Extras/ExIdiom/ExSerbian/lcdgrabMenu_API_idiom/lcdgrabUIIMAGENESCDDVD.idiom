@@ -1,0 +1,49 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al serbio, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="КРЕИРАЊЕ И РАД СА СЛИКАМА ДИСКА"
+MenuImagen_MSG2="---------------- КРЕИРАЊЕ СЛИКЕ ----------------"
+MenuImagen_MSG3="Креирајте ISO-9660 слику"
+MenuImagen_MSG4="Креирајте слику са изворним Linux системом датотека"
+MenuImagen_MSG5="Креирајте .img слику било ког блок уређаја"
+MenuImagen_MSG6="Креирајте .bin .cue слику са тренутног уређаја"
+MenuImagen_MSG7="----------------- ДРУГЕ ОПЦИЈЕ -----------------"
+MenuImagen_MSG8="Генериши .cue описну датотеку из .bin слике"
+MenuImagen_MSG9="Претворите .nrg (Nero Burning ROM) слику у .iso"
+MenuImagen_MSG10="Компресујте слику помоћу gzip, bzip2 или xz"
+MenuImagen_MSG11="Декомпресујте слику у zip, gz, bzip2 или xz"
+MenuImagen_MSG11B="Провери md5 збир iso слика"
+MenuImagen_MSG12="Промени iso режим"
+MenuImagen_MSG0="Претходни мени"
+MenuImagen_MSG13="Датотека слике за компримовање"
+MenuImagen_MSG14="КОМПРСИ ДАТОТЕКУ СЛИКЕ"
+MenuImagen_MSG15="Унесите путању директоријума где се налази слика коју желите да компримујете:"
+MenuImagen_MSG16="Датотека слике коју желите да декомпресујете"
+MenuImagen_MSG17="ТРЕНУТНИ ISO НИВО"
+MenuImagen_MSG18="iso ниво"
+MenuImagen_MSG19="Имена датотека се састоје од одељка"
+MenuImagen_MSG20="и ограничени су на 8,3 карактера."
+MenuImagen_MSG21="Изаберите овај ниво ако желите компатибилност назива"
+MenuImagen_MSG21b="под оперативним системом MS-DOS"
+MenuImagen_MSG22="Имена датотека се састоје од одељка"
+MenuImagen_MSG23="Неограничени ниво."
+MenuImagen_MSG24="Користите овај ниво ако желите компатибилност датотека"
+MenuImagen_MSG25="велико, у овом случају >= 2 гигабајта."
+MenuImagen_MSG26="Сви ИСО нивои ограничавају називе датотека на велика, мала слова и"
+MenuImagen_MSG27="знакови попут _. Имена датотека су ограничена на 31 знак"
+MenuImagen_MSG28="Максимално 8 путања директоријума и име путање"
+MenuImagen_MSG29="директорији до 255 знакова."
+MenuImagen_MSG30="Изаберите нови iso ниво"
+MenuImagen_MSG31="ISO ниво 4 није званичан"
+MenuImagen_MSG32="Косултујте mkisofs ман страницу"
+MenuImagen_MSG33="Неважећи ISO ниво"
+MenuImagen_MSG34="Подеси iso ниво 3 подразумевано"

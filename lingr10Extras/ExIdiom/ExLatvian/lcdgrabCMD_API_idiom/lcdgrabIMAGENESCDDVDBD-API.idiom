@@ -1,0 +1,234 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLatvian/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en Letón para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="ATTĒLU FAILU SISTĒMA"
+imagen_linux_fs_MSG2="Izvēlieties failu sistēmu: "
+imagen_linux_fs_MSG3="Izveidot attēlu CD-R/RW (702 Mbytes)"
+imagen_linux_fs_MSG4="Izveidot attēlu DVD+RW (4 Gbaiti)"
+imagen_linux_fs_MSG5="Izveidot attēlu DVD+RW/DL (8 Gbaiti)"
+imagen_linux_fs_MSG5B="Izveidot attēlu BD-R/RE (25 Gbaiti)"
+imagen_linux_fs_MSG5C="Izveidot attēla failu ar pielāgotu izmēru"
+imagen_linux_fs_MSG6="Tiek izveidots tukšs fails ar ietilpību 702 Mb"
+imagen_linux_fs_MSG7="Tiek izveidots tukšs fails ar ietilpību 4 Gbaiti"
+imagen_linux_fs_MSG8="Tiek izveidots tukšs fails ar ietilpību 8 Gbaiti"
+imagen_linux_fs_MSG8B="Tiek izveidots tukšs fails ar ietilpību 25 Gbaiti"
+imagen_linux_fs_MSG8C="Izveido tukšu failu ar pielāgotu izmēru"
+imagen_linux_fs_MSG9="KĻŪDA: ATTĒLA IZMĒRS NAV ZINĀMS. PĀRTRAUKTS..."
+imagen_linux_fs_MSG10="Darbojas"
+imagen_linux_fs_MSG11="Programma formatēs tukšo failu."
+imagen_linux_fs_MSG12="Sistēma brīdinās, ka iepriekš izveidotais fails nav bloķēta ierīce, un jautās, vai vēlaties to formatēt"
+imagen_linux_fs_MSG13="Atbildēt jā"
+imagen_linux_fs_MSG13="VEIKSMĪGI FORMATĒTS"
+imagen_linux_fs_MSG14=" Montāžas attēls..."
+imagen_linux_fs_MSG15="KĻŪDA, FORMATĒJOT TUKŠU FAILU"
+imagen_linux_fs_MSG16="Programma ir pievienojusi failu, kas formatēts"
+imagen_linux_fs_MSG17="Linux-cdgrab palaidīs failu pārvaldnieku, lai tas varētu darboties ar attēlu, kas uzmontēts"
+imagen_linux_fs_MSG18="Kad faili ir nokopēti, atvienojiet formatēto failu"
+imagen_linux_fs_MSG19="Linux attēls atrodas šajā direktorijā"
+imagen_linux_fs_MSG19B="KĻŪDA, UZSTĀDOT ATTĒLA FAILU"
+imagen_linux_fs_MSG20="Faili, kas jāiekļauj attēlā. Ievietoti mapē /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Notiek failu pārvaldnieka palaišana..."
+imagen_linux_fs_MSG22="PAZIŅOJUMS:"
+imagen_linux_fs_MSG23="-----------"
+imagen_linux_fs_MSG24="Attēls"
+imagen_linux_fs_MSG25="joprojām uzstādīts"
+imagen_linux_fs_MSG26="KĻŪDA, VEIDOT TUKŠU DATU AR dd"
+imagen_linux_fs_MSG27="Pārbaudiet, vai jums ir brīvas vietas nodalījumā, kas uzstādīts /"
+imagen_linux_fs_MSG34="FAILU SISTĒMA, LAI FORMĒTU FAILU"
+imagen_linux_fs_MSG35="TUkša faila ģenerēšana AR PIELĀGOTU IZMĒRU"
+imagen_linux_fs_MSG36="Norādiet jaunā tukšā faila bloka izmēru (tikai skaitliskā vērtība):"
+imagen_linux_fs_MSG37="Bloka lieluma vērtību piemērs ir: 1024, 2048 (tikai ext2) vai 4096 (visi formāti)"
+imagen_linux_fs_MSG38="Norādiet ģenerējamā tukšā faila lielumu (tikai skaitliska vērtība):"
+imagen_linux_fs_MSG39="Telpas mērījumi tukšā faila ģenerēšanai:"
+imagen_linux_fs_MSG40="Norādiet izmantojamās telpas mērījumus: "
+imagen_linux_fs_MSG41="KĻŪDA, NORĀDOT IZMĒRU MĒRĪJUMU"
+imagen_linux_fs_MSG42="Bloka lieluma vērtība:"
+imagen_linux_fs_MSG43="Vietas daudzums tukšam failam:"
+imagen_linux_fs_MSG44="Aprēķinātā vērtība baitos:"
+imagen_linux_fs_MSG45="Aprēķinātā vērtība skaitam:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Iespējot md5 lasīšanu, ģenerējot .iso attēlus"
+comprobar_lectura_md5_MSG2="Atspējot md5 lasīšanu, ģenerējot .iso attēlus"
+comprobar_lectura_md5_MSG3="Iepriekšējā izvēlne"
+comprobar_lectura_md5_MSG4="Pašreizējā konfigurācija:"
+comprobar_lectura_md5_MSG5="Iespējots"
+comprobar_lectura_md5_MSG6="Atspējots"
+comprobar_lectura_md5_MSG7="Lasīt md5 summa aktivizēta"
+comprobar_lectura_md5_MSG8="Md5 summas lasīšana ir atspējota"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Iso attēla nosaukumu nevarēja nolasīt"
+leer_md5sum_MSG2="Nolasa md5sum of"
+leer_md5sum_MSG3="Rāda attēla md5 summu"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="CREANDO IMAGEN DEL CD"
+extraer_isoCD_dd_MSG2="IMAGEN CREADA EN"
+extraer_isoCD_dd_MSG3="No se encuentra"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="DVD ATTĒLA VEIDOŠANA"
+extraer_isoDVD_dd_MSG2="darbojas"
+extraer_isoDVD_dd_MSG3="ATTĒLS IZVEIDOTS"
+extraer_isoDVD_dd_MSG4="Nav atrasts"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="darbojas"
+extraer_iso_readcd_MSG2="ATTĒLS VEIKSMĪGI IZVEIDOTS"
+extraer_iso_readcd_MSG3="Attēls izveidots"
+extraer_iso_readcd_MSG4="Tiek pārtraukts ierakstīšanas process..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Iemontēts kompaktdisks"
+extraer_iso_mkisofs_MSG2="Notiek attēla izveide..."
+extraer_iso_mkisofs_MSG3="Macintosh saderība ir iespējota"
+extraer_iso_mkisofs_MSG4="Lieto"
+extraer_iso_mkisofs_MSG5="darbojas"
+extraer_iso_mkisofs_MSG6="Attēls izveidots direktorijā"
+extraer_iso_mkisofs_MSG7="Atkārtots process bez Macintosh atbalsta"
+extraer_iso_mkisofs_MSG8="Attēls izveidots direktorijā"
+extraer_iso_mkisofs_MSG9="mkisofs, veidojot, atgriež nezināmas kļūdas"
+extraer_iso_mkisofs_MSG10="no"
+extraer_iso_mkisofs_MSG11="Pārbaudīt datu integritāti"
+extraer_iso_mkisofs_MSG12="Montāža"
+extraer_iso_mkisofs_MSG12B="lv"
+extraer_iso_mkisofs_MSG13="genisoimage veidojot atgriež nezināmas kļūdas"
+extraer_iso_mkisofs_MSG13B="no"
+extraer_iso_mkisofs_MSG14="Mkisofs un genisoimage nav atrasti. Lūdzu, instalējiet cdrtools vai cdrkit."
+extraer_iso_mkisofs_MSG15="Nevarēja uzstādīt"
+extraer_iso_mkisofs_MSG16="Attēls veiksmīgi izveidots"
+
+# m_comp_img
+
+m_comp_img_MSG1="ATTĒLS VEIKSMĪGI IZVEIDOTS"
+m_comp_img_MSG2="VAI VĒLATIES SAspiest ATTĒLA FAILU?"
+m_comp_img_MSG3="(s/y), lai saspiestu; process tiek atcelts ar citu opciju."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Notiek failu pārvaldnieka palaišana..."
+generar_iso_directorio_MSG2="Ievadiet nosaukumu nākotnes CD/DVD/BD"
+generar_iso_directorio_MSG3="TIEK ATTĒLU VEIDOT..."
+generar_iso_directorio_MSG4="Macintosh saderība ir iespējota"
+generar_iso_directorio_MSG5="Lieto"
+generar_iso_directorio_MSG6="darbojas"
+generar_iso_directorio_MSG7="ATTĒLS IZVEIDOTS KATALOGĀ"
+generar_iso_directorio_MSG8="ATTĒLA IZVEIDOŠANAS PROCESS IR NEIZDEVIES"
+generar_iso_directorio_MSG9="ATTĒLU VEIDOŠANA BEZ MACINTOSH SADERĪBAS"
+generar_iso_directorio_MSG10="Mkisofs un genisoimage nav atrasti. Lūdzu, instalējiet cdrtools vai cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Ievadiet nosaukumu nākotnes DVD/BD"
+generar_bdv_udf_directorio_MSG2="Norādiet direktoriju video attēla ģenerēšanai:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Norādīt diska etiķeti:"
+generar_iso_directorio_libburnia_MSG2="Norādiet direktoriju, lai ģenerētu iso-9660 attēlu:"
+generar_iso_directorio_libburnia_MSG3="ISO9660 attēls veiksmīgi izveidots!!"
+generar_iso_directorio_libburnia_MSG4="Kļūda ģenerējot ISO-9660 attēlu ar xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="Faili un direktoriji, kas jāiekļauj .iso attēlā"
+imagenISO_MSG2="IZVĒLIES IESPĒJU:"
+imagenISO_MSG2B="-----------------"
+imagenISO_MSG3="Ģenerēt ISO-9660 attēlu no kompaktdiska (izmantot dd)"
+imagenISO_MSG4="Ģenerēt ISO-9660 attēlu no DVD (izmantot dd)"
+imagenISO_MSG5="Ģenerēt ISO-9660 attēlu no kompaktdiska (izmantot readcd)"
+imagenISO_MSG6="Ģenerēt ISO-9660 attēlu no CD vai DVD diska (izmantojiet mkisofs)"
+imagenISO_MSG7="Izveidot ISO-9660 attēlu no cietā diska datiem (izmantojiet mkisofs)"
+imagenISO_MSG8="Iepriekšējā izvēlne"
+imagenISO_MSG9="IZVEIDOT ATTĒLU"
+imagenISO_MSG10="Izveidot ISO-9660 attēlu no cietā diska datiem (izmantojiet xorriso)"
+imagenISO_MSG11="Izveidot iso/udf attēlu no CD/DVD/BD (izmantojiet mkisofs)"
+imagenISO_MSG12="Izveidot iso/udf attēlu no cietā diska datiem (izmantojiet mkisofs)"
+imagenISO_MSG13="ISO-9660 FORMATĒŠANAS IZVĒLNE"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Izveidojiet UDF/ISO attēlu no cietā diska datiem (izmantojiet mkisofs)"
+imagenISO_MSG15="Izveidojiet UDF/ISO attēlu ar DVD video atbalstu (izmantojiet mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Ierakstiet avota bloka ierīci, no kuras jāizveido attēls"
+imagen_img_MSG2="--------------------------------------------------------"
+imagen_img_MSG3="Ierīces, kas reģistrētas mapē /etc/fstab un /etc/mtab"
+imagen_img_MSG4="Pievienot komandas izvadi:"
+imagen_img_MSG5="Ievadiet ierīces nosaukumu: "
+imagen_img_MSG6="Tiek izveidot bloka ierīces .img attēlu"
+imagen_img_MSG7="darbojas"
+imagen_img_MSG8="IERĪCES ATTĒLS IZVEIDOTS"
+
+# monta_img
+
+monta_img_MSG1="ISO vai ext2 attēls pievienošanai."
+monta_img_MSG2="Ierakstiet direktorijas ceļu, kurā atrodas uzstādāmais attēls:"
+monta_img_MSG3="UZSTĀDĪTĀ CD ATTĒLS:"
+monta_img_MSG4="KĻŪDA, UZSTĀDOT ATTĒLA FAILU"
+monta_img_MSG5="NAV ATRAST"
+monta_img_MSG6="PIELAUŠANAS PUNKTS NEPASTĀV"
+monta_img_MSG7="NEGAIDĀTA KĻŪDA"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO vai ext2 attēls, kas jāatvieno."
+desmonta_img_MSG2="IZDALĪTS ATTĒLS"
+desmonta_img_MSG3="Netika atrasts neviens pievienots attēls"
+desmonta_img_MSG4="Pievienot izvadi:"
+desmonta_img_MSG5="Jūs varat tieši norādīt attēla absolūto direktorijas ceļu."
+desmonta_img_MSG6="Piemēram, /tmp/lcdgrabimg.iso vai attēla montāžas direktorijs, piemēram, /mnt/lcdgrab"
+desmonta_img_MSG7="Ja nav norādīts, to var meklēt, izmantojot failu pārvaldnieku"
+desmonta_img_MSG8="Palaiž failu pārvaldnieku"
+desmonta_img_MSG9="Norādiet attēla ceļu."
+desmonta_img_MSG10="IZJAUKTAS ATTĒLS"
+desmonta_img_MSG11="KĻŪDA, ATTIECĪBĀ UZ ATTĒLU"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg attēls konvertēšanai uz .iso"
+nrg_a_iso_MSG2="Ievadiet konvertējamā .nrg (Nero Burning ROM) attēla ceļu"
+nrg_a_iso_MSG3="Notiek attēla konvertēšana..."
+nrg_a_iso_MSG4="Avota .nrg attēla ceļš"
+nrg_a_iso_MSG5="neeksistē vai atbilst direktorijai"
+nrg_a_iso_MSG6="Nederīgs ceļš."
+nrg_a_iso_MSG7="tas jau ir iepriekšējais ISO-9660 attēls, tas netiks pārveidots."
+nrg_a_iso_MSG8="Notiek kopēšana ar citu paplašinājumu..."
+nrg_a_iso_MSG9="KOPIJA PABEIGTA"
+nrg_a_iso_MSG10="skrien"
+nrg_a_iso_MSG11="Attēls veiksmīgi konvertēts"
+nrg_a_iso_MSG12="KĻŪDA, VEIDOT ATTĒLU .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Ģenerēt .cue apraksta failu no .bin attēla"
+GenerarArchivocue_MSG2="Pašreizējais aktīvais direktorijs"
+GenerarArchivocue_MSG3="Rakstiet tikai direktorijas ceļu, kur"
+GenerarArchivocue_MSG4="atrast attēla failu:"
+GenerarArchivocue_MSG5="Ievadiet .bin attēla nosaukumu, kuram"
+GenerarArchivocue_MSG6="ir ģenerējis atbilstošo .cue failu"
+GenerarArchivocue_MSG7="APRAKSTS FAILS .cue VEIKSMĪGI ĢENERĒTS"
+GenerarArchivocue_MSG8="KĻŪDA, ĢENERĒJOT APRAKSTU FAILU .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="skrienot"
+ImagenbincueCDDVD_MSG2=".BIN .CUE DISKA ATTĒLS VEIKSMĪGI ĢENERĒTS"
+

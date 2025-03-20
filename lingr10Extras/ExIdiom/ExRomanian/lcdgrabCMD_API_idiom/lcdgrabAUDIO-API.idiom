@@ -1,0 +1,143 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRomanian/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en rumano para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="FIȘIERE MP3 DE CONVERT"
+mp3awav_MSG0="Scrieți calea fișierelor .mp3: "
+mp3awav_MSG1="CONVERSIUNEA"
+mp3awav_MSG1B=" TO .wav FORMAT"
+mp3awav_MSG2="funcţionare"
+mp3awav_MSG3="Eșantionarea setată la 44100 Mhz"
+mp3awav_MSG4="Eroare la procesarea eșantionării"
+mp3awav_MSG5="Nu sa putut converti"
+mp3awav_MSG6="Directorul nu a fost găsit"
+mp3awav_MSG7="SFÂRȘITUL CONVERSIEI AUDIO"
+mp3awav_MSG8="Normalizarea fișierului audio"
+mp3awav_MSG9="Arhivă"
+mp3awav_MSG10="Normalizat"
+mp3awav_MSG11="Eroare la normalizare"
+
+# oggawav
+
+oggawav_MSG0="FIȘIERE OGG DE CONVERT"
+oggawav_MSG1="Introduceți calea fișierelor .ogg: "
+oggawav_MSG2="CONVERSIUNEA"
+oggawav_MSG2B="TO .wav FORMAT"
+oggawav_MSG3="funcţionare"
+oggawav_MSG4="Eșantionarea setată la 44100 Mhz"
+oggawav_MSG5="Eroare la procesarea eșantionării"
+oggawav_MSG6="Nu sa putut converti"
+oggawav_MSG7="Directorul nu a fost găsit"
+oggawav_MSG8="FIN DE LA COVERSIÓN DE AUDIO"
+oggawav_MSG9="Normalizarea fișierului audio"
+oggawav_MSG10="Arhivă"
+oggawav_MSG11="Normalizat"
+oggawav_MSG12="Eroare la normalizare"
+
+# cdawav
+
+cdawav_MSG1="Se extrage CD-ul AUDIO..."
+cdawav_MSG2="Se execută:"
+cdawav_MSG3="PISTE AUDIO CU SUCCES!!"
+cdawav_MSG4="Conținutul directorului fișierelor audio"
+cdawav_MSG5="EROARE LA RIPAREA PISTELOR AUDIO"
+
+# cddawav
+
+cddawav_MSG1="INTRODUCEȚI NUMĂRUL DE PISTE DE RIP:"
+cddawav_MSG2="Apăsați Crtl + c pentru a anula extragerea unei piese"
+cddawav_MSG3="Se execută:"
+cddawav_MSG4="SCHIPAT SUCCES"
+cddawav_MSG5="EROARE RIPPING"
+
+# wavamp3
+
+wavamp3_MSG0="FIȘIERE WAV DE CONVERT"
+wavamp3_MSG1="Introduceți calea fișierelor .wav: "
+wavamp3_MSG1B="CONVERTIRE"
+wavamp3_MSG2="UN FORMAT"
+wavamp3_MSG3="Se execută:"
+wavamp3_MSG4="la conversie"
+wavamp3_MSG5="în format .MP3"
+wavamp3_MSG6="Eroare la conversie"
+wavamp3_MSG7="CONVERSIE AUDIO TERMINATĂ"
+wavamp3_MSG8="DIRECTORUL AUDIO NU GĂSIT"
+
+# cdamp3
+
+cdamp3_MSG1="Se extrage CD-UL AUDIO..."
+cdamp3_MSG2="Se execută:"
+cdamp3_MSG3="PISTE AUDIO CU SUCCES!!"
+cdamp3_MSG4="EROARE CÂND SE RIPPĂ PISTE AUDIO"
+cdamp3_MSG5="Funcția de apelare:"
+
+# wavaogg
+
+wavaogg_MSG1="Introduceți calea fișierelor .wav: "
+wavaogg_MSG2="CONVERTIRE"
+wavaogg_MSG3="UN FORMAT .ogg"
+wavaogg_MSG4="Rulează:"
+wavaogg_MSG5="Eroare la conversie"
+wavaogg_MSG6="în format .ogg"
+
+# cdaogg
+
+cdaogg_MSG1="SE EXTRAGE CD-URI AUDIO..."
+cdaogg_MSG2="Se execută:"
+cdaogg_MSG3="PISTE AUDIO CU SUCCES!!"
+cdaogg_MSG4="EROARE LA RIPAREA PISTELOR AUDIO"
+cdaogg_MSG5="Funcția de apelare:"
+
+# corta_wav
+
+corta_wav_MSG0="Număr de secunde:"
+corta_wav_MSG1="Specificați calea fișierului audio de convertit:"
+corta_wav_MSG2="Specificați timpul în număr de secunde, pentru care"
+corta_wav_MSG3="taierea fisierului va incepe."
+corta_wav_MSG4="-NOTĂ-"
+corta_wav_MSG5="Pentru a specifica începutul audio, introduceți 0"
+corta_wav_MSG6="Valoare în secunde pentru a începe conversia:"
+corta_wav_MSG7="Specificați timpul în număr de secunde, pentru care"
+corta_wav_MSG8="taierea fisierului va fi finalizata."
+corta_wav_MSG9="Valoare în secunde pentru sfârșitul conversiei:"
+corta_wav_MSG10="Alergare"
+corta_wav_MSG11="Fișier audio tăiat"
+corta_wav_MSG12="Eroare la tăierea fișierului"
+corta_wav_MSG13="Fișier audio de tăiat:"
+
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1="Specificați calea fișierelor .flac:"
+flacawav_MSG2="CONVERTIERE"
+flacawav_MSG3=" LA FORMATUL .wav"
+flacawav_MSG4="Eșantionarea setată la 44100 Mhz"
+flacawav_MSG5="Eroare la procesarea eșantionării"
+flacawav_MSG6="Normalizarea fișierului audio"
+flacawav_MSG7="Fișier"
+flacawav_MSG8="Normalizat"
+flacawav_MSG9="Eroare de normalizare"
+flacawav_MSG10="Conversia eșuată"
+flacawav_MSG11="Directorul nu a fost găsit"
+flacawav_MSG12="Sfârșitul conversiei audio"
+
+# wavaflac
+
+wavaflac_MSG0="FIȘIERE WAV DE CONVERTIT"
+wavaflac_MSG1="Introduceți calea fișierelor .wav: "
+wavaflac_MSG2="CONVERTIERE"
+wavaflac_MSG3="A .flac FORMAT"
+wavaflac_MSG4="convertit în format flac"
+wavaflac_MSG5="Eroare la conversie"
+wavaflac_MSG6="în format .flac"
+wavaflac_MSG7="DIRECTORUL FIȘIERULUI FLAC NU GĂSIT"
+

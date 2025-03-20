@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovenian/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Esloveno para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="*************************** MOŽNOSTI NAVIGACIJE *************************"
+ayuda_gestor_de_archivos_MSG2="Prebrskaj po datotečnem sistemu."
+ayuda_gestor_de_archivos_MSG3="X --> Izhod"
+ayuda_gestor_de_archivos_MSG4="A --> Prejšnji imenik"
+ayuda_gestor_de_archivos_MSG5="B --> Naslednji imenik"
+ayuda_gestor_de_archivos_MSG6="Dejanja na datotekah in imenikih."
+ayuda_gestor_de_archivos_MSG7="C --> Kopiraj datoteko"
+ayuda_gestor_de_archivos_MSG8="M --> Premakni datoteko"
+ayuda_gestor_de_archivos_MSG9="CD --> Kopiraj imenik"
+ayuda_gestor_de_archivos_MSG10="MD --> Premakni imenik"
+ayuda_gestor_de_archivos_MSG11="Razumevanje dejanj na datotekah in imenikih."
+ayuda_gestor_de_archivos_MSG12="Z --> Stisni datoteko"
+ayuda_gestor_de_archivos_MSG13="DZ --> Razširi datoteko"
+ayuda_gestor_de_archivos_MSG14="EZ --> Ustvarite paket .tar.gz ali .tar.bz2"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Odpakirajte .tar.gz ali .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Trenutni aktivni imenik"
+gestor_de_archivos_MSG0B="Datoteke v"
+gestor_de_archivos_MSG1="========================== MOŽNOSTI NAVIGACIJE =========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> POMOČ="
+gestor_de_archivos_MSG3="========================================================================="
+gestor_de_archivos_MSG4="Vnesite možnost"
+gestor_de_archivos_MSG5="Vnesite imenik"
+gestor_de_archivos_MSG6="Vnesite izvorno datoteko"
+gestor_de_archivos_MSG7="Vnesite ciljno datoteko"
+gestor_de_archivos_MSG8="Datoteka uspešno kopirana"
+gestor_de_archivos_MSG9="Napaka pri kopiranju datoteke"
+gestor_de_archivos_MSG10="Vnesite izvorno datoteko"
+gestor_de_archivos_MSG11="Vnesite ciljno datoteko"
+gestor_de_archivos_MSG12="Datoteka je bila uspešno premaknjena"
+gestor_de_archivos_MSG13="Napaka pri premikanju datoteke"
+gestor_de_archivos_MSG14="Vnesite izvorni imenik"
+gestor_de_archivos_MSG15="Vnesite ciljni imenik"
+gestor_de_archivos_MSG16="Imenik uspešno kopiran"
+gestor_de_archivos_MSG17="Napaka pri kopiranju imenika"
+gestor_de_archivos_MSG18="Vnesite izvorni imenik"
+gestor_de_archivos_MSG19="Vnesite ciljni imenik"
+gestor_de_archivos_MSG20="Imenik uspešno premaknjen"
+gestor_de_archivos_MSG21="Napaka pri premikanju imenika"
+gestor_de_archivos_MSG22="DATOTEKA ZA STISKANJE"
+gestor_de_archivos_MSG23="Določite pot do datoteke"

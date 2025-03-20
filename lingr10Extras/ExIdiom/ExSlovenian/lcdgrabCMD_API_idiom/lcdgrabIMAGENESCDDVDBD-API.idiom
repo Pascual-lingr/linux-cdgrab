@@ -1,0 +1,234 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovenian/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en esloveno para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="SLIKOVNI DATOTEČNI SISTEM"
+imagen_linux_fs_MSG2="Izberite datotečni sistem: "
+imagen_linux_fs_MSG3="Ustvari sliko za CD-R/RW (702 MB)"
+imagen_linux_fs_MSG4="Ustvari sliko za DVD+RW (4 Gbajti)"
+imagen_linux_fs_MSG5="Ustvari sliko za DVD+RW/DL (8 Gbajtov)"
+imagen_linux_fs_MSG5B="Ustvari sliko za BD-R/RE (25 Gbajtov)"
+imagen_linux_fs_MSG5C="Ustvari slikovno datoteko velikosti po meri"
+imagen_linux_fs_MSG6="Ustvarjanje prazne datoteke s kapaciteto 702 Mbajtov"
+imagen_linux_fs_MSG7="Ustvarjanje prazne datoteke s kapaciteto 4 Gbajtov"
+imagen_linux_fs_MSG8="Ustvarjanje prazne datoteke s kapaciteto 8 Gbajtov"
+imagen_linux_fs_MSG8B="Ustvarjanje prazne datoteke s kapaciteto 25 Gbajtov"
+imagen_linux_fs_MSG8C="Ustvarjanje prazne datoteke z velikostjo po meri"
+imagen_linux_fs_MSG9="NAPAKA: VELIKOST SLIKE NI ZNANA. PREKINITEV ..."
+imagen_linux_fs_MSG10="Teče"
+imagen_linux_fs_MSG11="Program bo formatiral prazno datoteko."
+imagen_linux_fs_MSG12="Sistem vas bo opozoril, da prej ustvarjena datoteka ni blokovna naprava, in vas bo vprašal, ali jo želite formatirati"
+imagen_linux_fs_MSG13="Odgovori da"
+imagen_linux_fs_MSG13="USPEŠNO FORMIRAN"
+imagen_linux_fs_MSG14=" Namestitvena slika . . ."
+imagen_linux_fs_MSG15="NAPAKA PRI FORMATIRANJU PRAZNE DATOTEKE"
+imagen_linux_fs_MSG16="Program je namestil datoteko, oblikovano v"
+imagen_linux_fs_MSG17="Linux-cdgrab bo zagnal upravitelja datotek, da bo lahko deloval na nameščeni sliki"
+imagen_linux_fs_MSG18="Ko so datoteke kopirane, odpni formatirano datoteko"
+imagen_linux_fs_MSG19="Linux slika je v tem imeniku"
+imagen_linux_fs_MSG19B="NAPAKA PRI NAMESTITVU SLIKOVNE DATOTEKE"
+imagen_linux_fs_MSG20="Datoteke za vključitev v sliko. Pritrjeno v /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Zagon upravitelja datotek..."
+imagen_linux_fs_MSG22="OPOZORILO:"
+imagen_linux_fs_MSG23="----------"
+imagen_linux_fs_MSG24="Slika"
+imagen_linux_fs_MSG25="še nameščen"
+imagen_linux_fs_MSG26="NAPAKA PRI USTVARJANJU PRAZNE DATOTEKE Z dd"
+imagen_linux_fs_MSG27="Preverite, ali imate prosti prostor na particiji, nameščeni na /"
+imagen_linux_fs_MSG34="DATOTEČNI SISTEM ZA FORMATIRANJE DATOTEKE"
+imagen_linux_fs_MSG35="GENERIRANJE PRAZNE DATOTEKE Z VELIKOSTJO PO MERI"
+imagen_linux_fs_MSG36="Določite velikost bloka nove prazne datoteke (samo številska vrednost):"
+imagen_linux_fs_MSG37="Primer vrednosti za velikost bloka je: 1024, 2048 (samo Ext2) ali 4096 (Vsi formati)"
+imagen_linux_fs_MSG38="Določite velikost prazne datoteke za ustvarjanje (samo številska vrednost):"
+imagen_linux_fs_MSG39="Meritve prostora za ustvarjanje prazne datoteke:"
+imagen_linux_fs_MSG40="Določite meritev prostora za uporabo: "
+imagen_linux_fs_MSG41="NAPAKA PRI DOLOČANJU MERITVE VELIKOSTI"
+imagen_linux_fs_MSG42="Vrednost velikosti bloka:"
+imagen_linux_fs_MSG43="Količina prostora za prazno datoteko:"
+imagen_linux_fs_MSG44="Izračunana vrednost v bajtih:"
+imagen_linux_fs_MSG45="Izračunana vrednost za štetje:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Omogoči branje md5 pri ustvarjanju slik .iso"
+comprobar_lectura_md5_MSG2="Onemogoči branje md5 pri ustvarjanju slik .iso"
+comprobar_lectura_md5_MSG3="Prejšnji meni"
+comprobar_lectura_md5_MSG4="Trenutna konfiguracija:"
+comprobar_lectura_md5_MSG5="Omogočeno"
+comprobar_lectura_md5_MSG6="Onemogočeno"
+comprobar_lectura_md5_MSG7="Branje vsote md5 aktivirano"
+comprobar_lectura_md5_MSG8="Branje vsote md5 onemogočeno"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Imena iso slike ni bilo mogoče prebrati"
+leer_md5sum_MSG2="Branje md5sum od"
+leer_md5sum_MSG3="Prikaz vsote md5 slike"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="USTVARJANJE SLIKE CD ja"
+extraer_isoCD_dd_MSG2="SLIKA USTVARJENA V"
+extraer_isoCD_dd_MSG3="Ni mogoče najti"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="USTVARJANJE SLIKE DVD ja"
+extraer_isoDVD_dd_MSG2="teče"
+extraer_isoDVD_dd_MSG3="SLIKA USTVARJENA V"
+extraer_isoDVD_dd_MSG4="Ni mogoče najti"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="teče"
+extraer_iso_readcd_MSG2="SLIKA JE USPEŠNO USTVARJENA"
+extraer_iso_readcd_MSG3="Slika ustvarjena v"
+extraer_iso_readcd_MSG4="Prekinitev postopka snemanja..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Vpet CD"
+extraer_iso_mkisofs_MSG2="Ustvarjanje slike ..."
+extraer_iso_mkisofs_MSG3="Združljivost z Macintosh omogočena"
+extraer_iso_mkisofs_MSG4="Uporaba"
+extraer_iso_mkisofs_MSG5="teče"
+extraer_iso_mkisofs_MSG6="Slika ustvarjena v imeniku"
+extraer_iso_mkisofs_MSG7="Ponovni poskus postopka brez podpore za Macintosh"
+extraer_iso_mkisofs_MSG8="Slika ustvarjena v imeniku"
+extraer_iso_mkisofs_MSG9="mkisofs vrne neznane napake pri ustvarjanju"
+extraer_iso_mkisofs_MSG10="iz"
+extraer_iso_mkisofs_MSG11="Preveri celovitost podatkov"
+extraer_iso_mkisofs_MSG12="Namestitev"
+extraer_iso_mkisofs_MSG12B="en"
+extraer_iso_mkisofs_MSG13="genisoimage vrne neznane napake pri ustvarjanju"
+extraer_iso_mkisofs_MSG13B="iz"
+extraer_iso_mkisofs_MSG14="Mkisofs in genisoimage nista bila najdena. Namestite cdrtools ali cdrkit."
+extraer_iso_mkisofs_MSG15="Ni bilo mogoče namestiti"
+extraer_iso_mkisofs_MSG16="Slika je bila uspešno ustvarjena v"
+
+# m_comp_img
+
+m_comp_img_MSG1="SLIKA JE USPEŠNO Ustvarjena V"
+m_comp_img_MSG2="ALI ŽELITE STISNITI SLIKOVNO DATOTEKO?"
+m_comp_img_MSG3="(s/y) za stiskanje; Postopek je preklican z drugo možnostjo."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Zagon upravitelja datotek..."
+generar_iso_directorio_MSG2="Vnesite ime za prihodnji CD/DVD/BD"
+generar_iso_directorio_MSG3="USTVARJANJE SLIKE..."
+generar_iso_directorio_MSG4="Združljivost z Macintosh omogočena"
+generar_iso_directorio_MSG5="Uporaba"
+generar_iso_directorio_MSG6="teče"
+generar_iso_directorio_MSG7="SLIKA USTVARJENA V IMENIKU"
+generar_iso_directorio_MSG8="POSTOPEK USTVARJANJA SLIKE NI USPEŠEN"
+generar_iso_directorio_MSG9="USTVARJANJE SLIKE BREZ ZDRUŽLJIVOSTI Z MACINTOSH"
+generar_iso_directorio_MSG10="Mkisofs in genisoimage nista najdena. Namestite cdrtools ali cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Vnesite ime za prihodnji DVD/BD"
+generar_bdv_udf_directorio_MSG2="Določite imenik za ustvarjanje video slike:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Določite oznako diska:"
+generar_iso_directorio_libburnia_MSG2="Določite imenik za ustvarjanje slike iso-9660:"
+generar_iso_directorio_libburnia_MSG3="Slika ISO9660 je bila uspešno ustvarjena!!"
+generar_iso_directorio_libburnia_MSG4="Napaka pri ustvarjanju slike iso-9660 z xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="Datoteke in imeniki za vključitev v sliko .iso"
+imagenISO_MSG2="IZBERITE MOŽNOST"
+imagenISO_MSG2B="---------------------"
+imagenISO_MSG3="Ustvari sliko ISO-9660 s CD-ja (uporabi dd)"
+imagenISO_MSG4="Ustvari sliko ISO-9660 iz DVD-ja (uporabi dd)"
+imagenISO_MSG5="Ustvari sliko ISO-9660 s CD-ja (uporabi readcd)"
+imagenISO_MSG6="Ustvari sliko ISO-9660 s CD-ja ali DVD-ja (uporabi mkisofs)"
+imagenISO_MSG7="Ustvari sliko ISO-9660 iz podatkov trdega diska (uporabi mkisofs)"
+imagenISO_MSG8="Prejšnji meni"
+imagenISO_MSG9="USTVARJANJE SLIKE"
+imagenISO_MSG10="Ustvari sliko ISO-9660 iz podatkov trdega diska (uporabi xorriso)"
+imagenISO_MSG11="Ustvari sliko iso/udf iz CD/DVD/BD (uporabi mkisofs)"
+imagenISO_MSG12="Ustvari sliko iso/udf iz podatkov trdega diska (uporabi mkisofs)"
+imagenISO_MSG13="MENI OBLIKOVALNIKA ISO-9660"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Ustvari sliko UDF/ISO iz podatkov trdega diska (uporabi mkisofs)"
+imagenISO_MSG15="Ustvarite sliko UDF/ISO s podporo za DVD Video (uporabite mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Vnesite izvorno blokovno napravo, iz katere naj bo izdelana slika"
+imagen_img_MSG2="-----------------------------------------------------------------"
+imagen_img_MSG3="Naprave, registrirane v /etc/fstab in /etc/mtab"
+imagen_img_MSG4="Izhod ukaza za namestitev:"
+imagen_img_MSG5="Vnesite ime naprave: "
+imagen_img_MSG6="Ustvarjanje .img slike blok naprave"
+imagen_img_MSG7="teče"
+imagen_img_MSG8="SLIKA NAPRAVE JE USTVARJENA V"
+
+# monta_img
+
+monta_img_MSG1="ISO ali ext2 slika za namestitev."
+monta_img_MSG2="Vnesite pot imenika, kjer se nahaja slika, ki jo želite namestiti:"
+monta_img_MSG3="NAMEŠČENA SLIKA CD ja:"
+monta_img_MSG4="NAPAKA PRI NAMESTITVU SLIKOVNE DATOTEKE"
+monta_img_MSG5="NI NAJDEN"
+monta_img_MSG6="MOUNT POINT NE OBSTAJA"
+monta_img_MSG7="NEPRIČAKOVANA NAPAKA"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO ali ext2 slika za odklop."
+desmonta_img_MSG2="RAZSTAVLJENA SLIKA"
+desmonta_img_MSG3="Ni nameščene slike"
+desmonta_img_MSG4="Priklopi izhod:"
+desmonta_img_MSG5="Neposredno lahko določite absolutno pot imenika slike."
+desmonta_img_MSG6="kot je /tmp/lcdgrabimg.iso ali imenik za namestitev slike, kot je /mnt/lcdgrab"
+desmonta_img_MSG7="Če ni navedeno, je mogoče iskati z upraviteljem datotek"
+desmonta_img_MSG8="Zagon upravitelja datotek"
+desmonta_img_MSG9="Določite pot do slike."
+desmonta_img_MSG10="RAZSTAVLJENA SLIKA"
+desmonta_img_MSG11="NAPAKA PRI ODKLJUČEVANJU SLIKE"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg slika za pretvorbo v .iso"
+nrg_a_iso_MSG2="Vnesite pot do slike .nrg (Nero Burning ROM) za pretvorbo"
+nrg_a_iso_MSG3="Pretvorba slike ..."
+nrg_a_iso_MSG4="Pot izvorne slike .nrg"
+nrg_a_iso_MSG5="ne obstaja ali ustreza imeniku"
+nrg_a_iso_MSG6="Neveljavna pot."
+nrg_a_iso_MSG7="to je že prejšnja slika ISO-9660, ne bo pretvorjena."
+nrg_a_iso_MSG8="Kopiranje z drugo končnico ..."
+nrg_a_iso_MSG9="KOPIRANJE KONČANO"
+nrg_a_iso_MSG10="teče"
+nrg_a_iso_MSG11="Slika uspešno pretvorjena"
+nrg_a_iso_MSG12="NAPAKA PRI USTVARJANJU SLIKE .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Ustvari opisno datoteko .cue iz slike .bin"
+GenerarArchivocue_MSG2="Trenutni aktivni imenik"
+GenerarArchivocue_MSG3="Zapišite samo pot imenika, kjer"
+GenerarArchivocue_MSG4="poišči slikovno datoteko:"
+GenerarArchivocue_MSG5="Vnesite ime slike .bin za katero"
+GenerarArchivocue_MSG6="je ustvaril svojo ustrezno datoteko .cue"
+GenerarArchivocue_MSG7="OPISNA DATOTEKA .cue USPEŠNO GENERIRANA"
+GenerarArchivocue_MSG8="NAPAKA PRI GENERIRANJU OPISNE DATOTEKE .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="teče"
+ImagenbincueCDDVD_MSG2="SLIKA DISKA .BIN .CUE USPEŠNO GENERIRANA"
+

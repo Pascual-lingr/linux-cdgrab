@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRomanian/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Rumano para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="Dispozitive montate în prezent ÎN SISTEM"
+montar_dispositivos_MSG1B="MONTAREA/DEMONTAREA DISPOZITIVELOR"
+montar_dispositivos_MSG2="LINUX OPTIONS-CDGRAB"
+montar_dispositivos_MSG3="Ejectați discul din cititorul CD/DVD/BD"
+montar_dispositivos_MSG4="Ejectați discul din inscripționarea CD/DVD/BD"
+montar_dispositivos_MSG5="Montați cititorul de CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG6="Demontați CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Montați sau demontați dispozitivul manual"
+montar_dispositivos_MSG0="Meniu precedent"
+montar_dispositivos_MSG8="CD/DVD/BD montat pe"
+montar_dispositivos_MSG9="APĂSAȚI ENTER PENTRU A CONTINUA..."
+montar_dispositivos_MSG10="Eroare la montarea CD/DVD/BD ului pe"
+montar_dispositivos_MSG11="CD-ul/DVD-ul/BD-ul a fost demontat"
+montar_dispositivos_MSG12="Eroare la demontarea CD/DVD/BD"
+montar_dispositivos_MSG13="Tastați dispozitivul de montat/demontat:"
+montar_dispositivos_MSG14="Introduceți punctul de montare:"
+montar_dispositivos_MSG15="nu corespunde unui dispozitiv bloc"
+montar_dispositivos_MSG16="Punctul de montare nu a fost găsit"
+montar_dispositivos_MSG17="Punctul de montare implicit"
+montar_dispositivos_MSG18="Alegeți opțiunea:"
+montar_dispositivos_MSG19="Montați"
+montar_dispositivos_MSG20="ro"
+montar_dispositivos_MSG21="Demontați"
+montar_dispositivos_MSG22="de"
+montar_dispositivos_MSG23="montat pe:"
+montar_dispositivos_MSG24="EROARE LA MONTARE"
+montar_dispositivos_MSG25="RO"
+montar_dispositivos_MSG26="demontat din"
+montar_dispositivos_MSG27="EROARE LA DEMONTARE"
+montar_dispositivos_MSG28="de"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Ieșirea comenzii de montare"
+Montar_Imagenes_MSG1B="MONTAREA/DEMONTAREA FIȘIERELOR IMAGINII"
+Montar_Imagenes_MSG2="Alegeți o opțiune"
+Montar_Imagenes_MSG3="Montați imaginea CD/DVD/BD"
+Montar_Imagenes_MSG4="Demontați imaginea CD/DVD/BD"
+Montar_Imagenes_MSG5="Meniul precedent"
+

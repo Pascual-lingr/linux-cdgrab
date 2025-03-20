@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovenian/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en Esloveno para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="ZDRUŽLJIVOST VIDEO PRETVORBE BLU-RAY DISC"
+conv_video_BDVideo_MSG2="Določite pot do video datoteke za pretvorbo:"
+conv_video_BDVideo_MSG3="Določite ime datoteke novega videa, ki ga želite ustvariti:"
+conv_video_BDVideo_MSG4="Video datoteka uspešno pretvorjena!!"
+conv_video_BDVideo_MSG5="Napaka pri pretvorbi video datoteke"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="PRETVORBA VIDEO DATOTEK"
+conv_VideoFich_MSG2="Določite video datoteko za pretvorbo:"
+conv_VideoFich_MSG3="Določite video datoteko za ustvarjanje:"
+conv_VideoFich_MSG4="PRETVORBA VIDEO DATOTEKE JE KONČANA"
+conv_VideoFich_MSG5="NAPAKA PRI PRETVORBI VIDEO DATOTEKE"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Določite video datoteko:"
+extrae_Audio_de_Video_MSG2="Določite zvočno datoteko mp3 za ustvarjanje:"
+extrae_Audio_de_Video_MSG3="IZVEDBA ZVOKA USPEŠNA"
+extrae_Audio_de_Video_MSG4="NAPAKA PRI IZVAJANJU ZVOKA"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Določite video datoteko:"
+extrae_Fragmento_Video_MSG2="Določite video datoteko za ustvarjanje:"
+extrae_Fragmento_Video_MSG3="Določite začetni čas (določite kot HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Določite končni čas (določite kot HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="VIDEO JE USPEŠNO OBREZAN"
+extrae_Fragmento_Video_MSG6="NAPAKA PRI OBREZOVANJU VIDEA"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Določite zvočno datoteko:"
+mezcla_Audio_Video_MSG2="Določite video datoteko:"
+mezcla_Audio_Video_MSG3="Določite video datoteko za ustvarjanje:"
+mezcla_Audio_Video_MSG4="NOVA VIDEO DATOTEKA JE USPEŠNO GENERIRANA"
+mezcla_Audio_Video_MSG5="NAPAKA PRI GENERIRANJU VIDEO DATOTEKE"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="MOŽNOST NI NA VOLJO ZA KONZOLE VMESNIK"
+graba_escritorio_MSG2="-- SNEMANJE SEJE NA NAMIZJU -- PRITISNITE CTRL + C ZA PREKLIC IN USTAVITEV SNEMANJA"
+graba_escritorio_MSG3="SNEMANJE VIDEOPOSNETKA KONČANO"
+

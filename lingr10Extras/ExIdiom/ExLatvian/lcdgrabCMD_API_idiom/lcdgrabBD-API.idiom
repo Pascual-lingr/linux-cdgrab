@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLatvian/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Letón para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 ATTĒLS PAREIZI IERAKSTS BLU-RAY"
+grabar_ISO_BD_MSG2="KĻŪDA, IEKĻAUJOT ATTĒLU BLU-RAY DISC"
+grabar_ISO_BD_MSG3="ISO-9660 ATTĒLS BD"
+grabar_ISO_BD_MSG4="Norādiet ierakstāmā ISO-9660 attēla ceļu:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Faili un direktoriji, lai izveidotu .iso attēlu"
+bd_datos_MSG2="DB LABEL"
+bd_datos_MSG3="Ievadiet nosaukumu nākotnes BD:"
+bd_datos_MSG4="Failu pārvaldnieka palaišana:"
+bd_datos_MSG5=" NOTIEK ATTĒLU VEIDOŠANA..."
+bd_datos_MSG6="darbojas"
+bd_datos_MSG7="ISO-9660 ATTĒLS IZVEIDOTS"
+bd_datos_MSG8="		IERAKSTS BD"
+bd_datos_MSG13="IZDZĒST ATTĒLU..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Atkarībā no diska statusa tiek lietots nepieciešamais formatējums vai dzēšana"
+borrar_BDRE_lb_MSG2="BD-RE VEIKSMĪGI IZDZĒSTS!!"
+borrar_BDRE_lb_MSG3="KĻŪDA, DZĒŠOT BD-RE"
+

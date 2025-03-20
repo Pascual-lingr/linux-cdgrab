@@ -1,0 +1,73 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovenian/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="IZBERITE MOŽNOST"
+clonar_MSG2="------ KOPIJE DISKA S PREDOGLEDOM SLIKE --------"
+clonar_MSG3="Kopiraj podatkovni CD"
+clonar_MSG4="Ustvari prejšnjo sliko CD ja na trdem disku"
+clonar_MSG5="------------ KOPIJE DISKA NA LETU --------------"
+clonar_MSG6="Sproti kopiraj podatkovni CD"
+clonar_MSG7="Kloniraj podatkovni CD na letenje"
+clonar_MSG7B="Kopiraj avdio CD na letenje"
+clonar_MSG8="MOŽNOSTI LETEČEGA KOPIRANJA ZAHTEVAJO DVE OPTIČNI ENOTI"
+clonar_MSG9="NAMEŠČEN NA VAŠ RAČUNALNIK, KER SE PODATKI MED SNEMANJEM"
+clonar_MSG10="PREBERI NEPOSREDNO Z IZVORNEGA DISKA, ČE GA IMA SAMO VAŠ RAČUNALNIK"
+clonar_MSG11="KOPIJE NE BOMO MOŽE UPORABLJATI NA LETU."
+clonar_MSG12B="KOPIRAJ PODATKE CD-ja"
+clonar_MSG0="Prejšnji meni"
+
+# mgrabacd
+
+mgrabacd_MSG1="CD PODATKI S TRDEGA DISKA"
+mgrabacd_MSG2="Zapiši nov podatkovni CD (uporabi cdrtools)"
+mgrabacd_MSG3="Zapiši nov podatkovni CD (uporabi libburnia)"
+mgrabacd_MSG4="Prejšnji meni"
+mgrabacd_MSG5="Vnesite možnost"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="SNEMANJE PODATKOVNE SLIKE"
+mgrabaimg_MSG2="Zapiši sliko iso ali ext2 na CD-R/RW (uporabi cdrtools)"
+mgrabaimg_MSG3="Zapiši iso sliko na CD-R/RW (uporabi libburnia)"
+mgrabaimg_MSG4="Prejšnji meni"
+mgrabaimg_MSG5="Vnesite možnost"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Zapiši zvočni CD iz datotek .wav"
+mgrabararchivosaudio_MSG2="Zapiši zvočni CD iz datotek .mp3"
+mgrabararchivosaudio_MSG3="Zapiši zvočni CD iz datotek .ogg"
+mgrabararchivosaudio_MSG0="Prejšnji meni"
+mgrabararchivosaudio_MSG0B="Vnesite možnost"
+mgrabararchivosaudio_MSG4="Zapiši zvočni CD iz datotek .flac"
+mgrabararchivosaudio_MSG5="CD-AVDIO SNEMANJE IZ DATOTEK"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="SNEMANJE NA CD"
+menugrabar_cd_MSG2="------------------ CD - PODATKI ------------------"
+menugrabar_cd_MSG3="Kopiraj podatkovni CD"
+menugrabar_cd_MSG4="Zapiši nov podatkovni CD"
+menugrabar_cd_MSG5="Zapiši nov podatkovni CD z več sejami"
+menugrabar_cd_MSG6="Zapiši sliko .iso ali .ext2 na CD"
+menugrabar_cd_MSG7="Zapiši sliko .bin/.cue na CD"
+menugrabar_cd_MSG8="------------------- CD - AVDIO -------------------"
+menugrabar_cd_MSG9="Kopirajte zvočni CD"
+menugrabar_cd_MSG13="----------------- DRUGE MOŽNOSTI -----------------"
+menugrabar_cd_MSG14="Zapiši mešani CD (podatki + zvok)"
+menugrabar_cd_MSG15="Izbriši CD-RW"
+menugrabar_cd_MSG16="Zapri odprti CD"
+menugrabar_cd_MSG17="Prikaži informacije o disku v pogonu"
+menugrabar_cd_MSG18="Zapiši zvočni CD iz diskovnih datotek"
+menugrabar_cd_MSG0="Prejšnji meni"
+menugrabar_cd_MSGPRINCIPAL="Vnesite možnost"
+

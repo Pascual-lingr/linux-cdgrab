@@ -1,0 +1,135 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLatvian/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Letón, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab nevar atrast vi teksta redaktoru"
+ayuda_MSG2="Ievadiet jūsu sistēmā instalētā teksta redaktora nosaukumu"
+ayuda_MSG3="INSTALLĒTS REDAKTORI NAV ATRAST"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Fails automātiski ģenerēts ar LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="Šis fails kopā ar direktoriju"
+creacion_de_mnt_MSG3="ir ģenerēti automātiski"
+creacion_de_mnt_MSG4="Linux-cdgrab lietojumprogramma, pārbaudot, vai tā nepastāvēja jūsu Linux izplatīšanā"
+creacion_de_mnt_MSG5="direktorijs"
+creacion_de_mnt_MSG6="Linux-cdgrab izmanto šo direktoriju, lai pievienotu savu CD-ROM/DVD-ROM/BD-ROM disku"
+creacion_de_mnt_MSG7="Direktorijs"
+creacion_de_mnt_MSG8="tas netiks izdzēsts, ja Linux-cdgrab ir atinstalēts, jo tas parasti ir"
+creacion_de_mnt_MSG9="noklusējuma pievienošanas punkts /dev/cdrom lielākajā daļā Linux izplatījumu."
+creacion_de_mnt_MSG10="Ja jūsu izplatīšana izmanto citu direktoriju, lai pievienotu ierīci /dev/cdrom,"
+creacion_de_mnt_MSG11="tas neradīs nesaderību, mēģinot piekļūt datiem jūsu ierīcē"
+creacion_de_mnt_MSG12="lai gan, ja Linux-cdgrab ir atinstalēts, jūs varat iztikt bez tā"
+creacion_de_mnt_MSG13="Šī faila mērķis ir tikai informatīvs nolūks, jūs varat to brīvi izdzēst pēc izlasīšanas."
+
+# creditos
+
+creditos_MSG1="Izplatīt saskaņā ar GPL v2 licenci"
+creditos_MSG2="Vairāk informācijas www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, radītājs un uzturētājs"
+creditos_MSG4="Kļūdu ziņojums: pascual89@hotmail.com"
+creditos_MSG5="Programmas vietne: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Pamatojoties uz LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Uzlāde"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SINTAKSE"
+lcdgrab_sintaxis_MSG2="Izdrukāt šo palīdzību"
+lcdgrab_sintaxis_MSG3="Drukāt versiju Linux-cdgrab"
+lcdgrab_sintaxis_MSG4="norāda IDE kanālu vai ierakstīšanas ierīci"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="norāda ierakstīšanas ātrumu"
+lcdgrab_sintaxis_MSG7="norāda CD-ROM/DVD-ROM/BD-ROM diskdzini"
+lcdgrab_sintaxis_MSG8="norāda ierakstītāja IDE ATAPI kanālu"
+lcdgrab_sintaxis_MSG9="Opcijas -G -V -L un -CA nozīmē viena otru."
+lcdgrab_sintaxis_MSG9B="-iut -ium -iug un -iuk opcijas nav viena no otras,"
+lcdgrab_sintaxis_MSG9C="papildina -G -V -L un -CA, un ir neatkarīga starp -h un -v"
+lcdgrab_sintaxis_MSG10="-h un -v opcijas ir neatkarīgas viena no otras un pārējās."
+lcdgrab_sintaxis_MSG11="Piemēri:"
+lcdgrab_sintaxis_MSG12="ierīce"
+lcdgrab_sintaxis_MSG13="numurs"
+lcdgrab_sintaxis_MSG14="teksta interfeiss"
+lcdgrab_sintaxis_MSG15="interfeiss ar ncurses"
+lcdgrab_sintaxis_MSG16="grafiskā saskarne ar GTK"
+lcdgrab_sintaxis_MSG17="grafiskā saskarne ar Qt"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Ievadiet skripta ceļu:"
+main_lcdgrabopdep_MSG2="Nederīgs ceļš"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Instalētie ielāpi:"
+main_lcdgrabopdeppatch_MSG2="Ievadiet ielāpa ceļu:"
+main_lcdgrabopdeppatch_MSG3="Nav atrasts"
+
+# menu principal dialog
+main_lcdgrabop9uidia="AUGšupielādējiet PAPILDU PLĀKSTU"
+
+# menu principal texto
+
+main_lcdgrabop1_text="IERAKSTĪŠANA CD\t\t\t\t="
+main_lcdgrabop2_text="IERAKSTĪŠANA DVD\t\t\t\t="
+main_lcdgrabop3_text="IERAKSTĪŠANA BD\t\t\t\t="
+main_lcdgrabop4_text="DISKDZIŅA DARBĪBAS\t\t\t="
+main_lcdgrabop5_text="ATTĒLU IZVEIDE\t\t\t\t="
+main_lcdgrabop6_text="AUDIO KONVERSIJA\t\t\t\t="
+main_lcdgrabop6b_text="VIDEO KONVERSIJA\t\t\t\t="
+main_lcdgrabop7_text="UZSTĀDĪT VAI ATKALĪTIET CD/DVD/BD\t="
+main_lcdgrabop8_text="UZSTĀDĪT VAI ATTĒLU ATTĒLU\t\t="
+main_lcdgrabop9_text="AUGšupielādējiet PAPILDU PLĀKSTU\t="
+main_lcdgrabop10_text="VADĪBAS CENTRS\t\t\t\t="
+main_lcdgrabop0_text="EJ ĀRĀ\t\t\t\t\t="
+main_lcdgrabet1_text="CITAS IESPĒJAS ##\t\t="
+main_lcdgrabopEe_text="Izņemiet disku no diskdziņa\t="
+main_lcdgrabopTD_text="Rādīt direktoriju"
+tabs="\t\t="
+main_lcdgrabopG_text="Failu pārvaldnieks\t\t\t="
+main_lcdgrabopH_text="Palīdzība\t\t\t\t="
+main_lcdgrabopA_text="Par\t\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="IERAKSTĪŠANA CD"
+main_lcdgrabop2="IERAKSTĪŠANA DVD"
+main_lcdgrabop3="IERAKSTĪŠANA BD"
+main_lcdgrabop4="DISKDZIŅA DARBĪBAS"
+main_lcdgrabop5="ATTĒLU IZVEIDE"
+main_lcdgrabop6="AUDIO KONVERSIJA"
+main_lcdgrabop6b="VIDEO KONVERSIJA"
+main_lcdgrabop7="UZSTĀDĪT VAI ATKALĪTIET CD/DVD/BD"
+main_lcdgrabop8="UZSTĀDĪT VAI ATTĒLU ATTĒLU"
+main_lcdgrabop9="AUGšupielādējiet PAPILDU PLĀKSTU"
+main_lcdgrabop10="VADĪBAS CENTRS"
+main_lcdgrabop0="EJ ĀRĀ"
+main_lcdgrabet1="CITAS IESPĒJAS ##"
+main_lcdgrabopEe="Izņemiet disku no diskdziņa"
+main_lcdgrabopTD="Rādīt direktoriju"
+main_lcdgrabopG="Failu pārvaldnieks"
+main_lcdgrabopH="Palīdzība"
+main_lcdgrabopA="Par"
+main_lcdgrabopPRINCIPAL="Ievadiet opciju:"
+MSG1_MAIN="Izvēloties H, tiek parādīta opciju izmantošana."
+main_lcdgrabopA_MSG1="Darbojas:"

@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLatvian/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Letón, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Izvēlieties lietotāja saskarni, kas tiks izmantota:"
+SeleccionaIUDVD_MSG2="Izmantot saskarni dvd+-rw-tools"
+SeleccionaIUDVD_MSG3="Izmantojiet saskarni Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Izmantot interfeisu libburnia"
+SeleccionaIUDVD_MSG5="Iepriekšējā izvēlne"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="DVD ierakstīšana"
+menugrabar_dvd_MSG2="----------------- DVD - DATI -------------------"
+menugrabar_dvd_MSG3="Kopēt ISO-9660 datu DVD"
+menugrabar_dvd_MSG4="Izveidot iepriekšējo DVD attēlu cietajā diskā"
+menugrabar_dvd_MSG5="Ierakstīt jaunu ISO-9660 datu DVD"
+menugrabar_dvd_MSG6="Pievienot jaunu datu sesiju ISO-9660 datu DVD (vairāku sesiju DVD)"
+menugrabar_dvd_MSG7="Nepieciešams DVD, kas iepriekš ierakstīts, izmantojot otro opciju"
+menugrabar_dvd_MSG8="Ierakstīt ISO-9660 datu attēlu uz DVD"
+menugrabar_dvd_MSG9="Ierakstīt .ext2 attēlu uz DVD"
+menugrabar_dvd_MSG10="----------------- DVD - VIDEO ------------------"
+menugrabar_dvd_MSG11="Ierakstiet jaunu DVD-video"
+menugrabar_dvd_MSG12="--------------- CITAS IESPĒJAS -----------------"
+menugrabar_dvd_MSG13="Formatēt DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Rādīt DVD diska informāciju"
+menugrabar_dvd_MSG0="Iepriekšējā izvēlne"
+menugrabar_dvd_MSGPRINCIPAL="Ierakstiet opciju"
+menugrabar_dvd_MSG15="DVD iekļautie faili un direktoriji"
+menugrabar_dvd_MSG16="Notiek failu pārvaldnieka palaišana..."
+menugrabar_dvd_MSG17=".iso attēls, ko ierakstīt DVD"
+menugrabar_dvd_MSG18="Ierakstiet direktorijas ceļu, kurā atrodas .iso attēls, kuru vēlaties ierakstīt"
+menugrabar_dvd_MSG19="Nepieciešama cdrecord versija ar DVD atbalstu."
+menugrabar_dvd_MSG20=".ext2 attēla ierakstīšana uz DVD tiks veikta ar cdrecord."
+menugrabar_dvd_MSG21="Jūsu instalācijā esošajai cdrecord versijai vajadzētu būt"
+menugrabar_dvd_MSG22="atbalsta DVD ierakstīšanu."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="IZVĒLIES IESPĒJU"
+dvd_clonar_MSG2="--- PRIEKŠATTĒLU DISKU KOPIJAS ---"
+dvd_clonar_MSG3="Kopēt datu DVD"
+dvd_clonar_MSG4="Izveidot iepriekšējo DVD attēlu cietajā diskā"
+dvd_clonar_MSG5="--- DISKU KOPIJAS LIDOJUMĀ ---"
+dvd_clonar_MSG6="Kopēt datu DVD lidojumā"
+dvd_clonar_MSG7="Klonēt datu DVD lidojumā"
+dvd_clonar_MSG8="LIDOŠANAS KOPIJAS OPCIJĀM NEPIECIEŠAMAS DIVAS OPTISKĀS VIENĪBAS"
+dvd_clonar_MSG9="UZSTĀDĪTS JŪSU DATORĀ, JO DATI TIEK IERAKSTĪTI, LAIKĀ"
+dvd_clonar_MSG10="LASĪT TIEŠI NO ORIĢINĀLĀ DISKA, JA TIKAI JŪSU DATORĀ TAS IR"
+dvd_clonar_MSG11="JUMS NEVARĒSI IZMANTOT KOPIJAS LIDOJUMA laikā."
+dvd_clonar_MSG0="Iepriekšējā izvēlne"
+dvd_clonar_MSG12="DVD DATU KOPIJA"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD ierakstīšana"
+menugrabar_DVD_MSG2="------------------ DVD - DATI --------------------"
+menugrabar_DVD_MSG3="Izvilkt datu DVD"
+menugrabar_DVD_MSG4="Ierakstīt jaunu datu DVD"
+menugrabar_DVD_MSG5="Ierakstīt .iso vai .ext2 attēlu uz DVD"
+menugrabar_DVD_MSG6="Formatēt DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Rādīt diska informāciju diskdzinī"
+menugrabar_DVD_MSG0="Iepriekšējā izvēlne"
+menugrabar_DVD_MSGPRINCIPAL="Ierakstiet opciju"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Ierakstīt ISO-9660 attēlu uz DVD"
+menugrabar_DVD_libburnia_MSG2="Ierakstīt datus no cietā diska uz DVD"
+menugrabar_DVD_libburnia_MSG3="Formatēt DVD"
+menugrabar_DVD_libburnia_MSG4="Formatēt DVD-RW uz secīgu inkrementālu"
+menugrabar_DVD_libburnia_MSG5="Formatēt DVD-RW uz ierobežotu pārrakstīšanu"
+menugrabar_DVD_libburnia_MSG6="Rādīt diska informāciju"
+menugrabar_DVD_libburnia_MSG8="Sistēmā instalēto disku saraksts"
+menugrabar_DVD_libburnia_MSG0="Iziet"
+menugrabar_DVD_libburnia_MSG7="Ievadiet opciju"
+

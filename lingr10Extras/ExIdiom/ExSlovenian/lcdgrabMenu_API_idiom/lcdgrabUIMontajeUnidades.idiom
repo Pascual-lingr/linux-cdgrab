@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExEslovenian/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Esloveno para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="NAPRAVE, KI SO TRENUTNO NAMEŠČENE V SISTEM"
+montar_dispositivos_MSG1B="MONTAŽA/DEMONTAŽA NAPRAV"
+montar_dispositivos_MSG2="MOŽNOSTI LINUX-CDGRAB"
+montar_dispositivos_MSG3="Izvrzi disk iz bralnika CD/DVD/BD"
+montar_dispositivos_MSG4="Izvrzi disk iz zapisovalnika CD/DVD/BD"
+montar_dispositivos_MSG5="Priklop bralnika CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG6="Odpni CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Ročna namestitev ali demontaža naprave"
+montar_dispositivos_MSG0="Prejšnji meni"
+montar_dispositivos_MSG8="CD/DVD/BD nameščen na"
+montar_dispositivos_MSG9="Pritisnite ENTER ZA NADALJEVANJE ..."
+montar_dispositivos_MSG10="Napaka pri vklopu CD/DVD/BD"
+montar_dispositivos_MSG11="CD/DVD/BD je bil odklopljen"
+montar_dispositivos_MSG12="Napaka pri izklopu CD/DVD/BD"
+montar_dispositivos_MSG13="Vnesite napravo za priklop/odklop:"
+montar_dispositivos_MSG14="Vnesite točko priklopa:"
+montar_dispositivos_MSG15="ne ustreza blok napravi"
+montar_dispositivos_MSG16="Točka priklopa ni najdena"
+montar_dispositivos_MSG17="Privzeta točka priklopa"
+montar_dispositivos_MSG18="Izberi možnost:"
+montar_dispositivos_MSG19="Namesti"
+montar_dispositivos_MSG20="v"
+montar_dispositivos_MSG21="Odpni"
+montar_dispositivos_MSG22="od"
+montar_dispositivos_MSG23="nameščeno na:"
+montar_dispositivos_MSG24="NAPAKA PRI MONTAŽI"
+montar_dispositivos_MSG25="V"
+montar_dispositivos_MSG26="odstranjeno iz"
+montar_dispositivos_MSG27="NAPAKA PRI IZKLJUČITVI"
+montar_dispositivos_MSG28="od"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Izhod ukaza za priklop"
+Montar_Imagenes_MSG1B="SESTAVLJANJE/RAZSTAVLJANJE SLIKOVNIH DATOTEK"
+Montar_Imagenes_MSG2="Izberite možnost"
+Montar_Imagenes_MSG3="Pripni sliko CD/DVD/BD"
+Montar_Imagenes_MSG4="Odpni sliko CD/DVD/BD"
+Montar_Imagenes_MSG5="Prejšnji meni"
+

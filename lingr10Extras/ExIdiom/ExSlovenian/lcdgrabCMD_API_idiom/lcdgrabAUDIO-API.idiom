@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovenian/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Esloveno para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="DATOTEKE MP3 ZA PRETVORBO"
+mp3awav_MSG0="Vnesite pot do datotek .mp3: "
+mp3awav_MSG1="PRETVORBA"
+mp3awav_MSG1B=" V .wav FORMAT"
+mp3awav_MSG2="teče"
+mp3awav_MSG3="Vzorčenje nastavljeno na 44100 Mhz"
+mp3awav_MSG4="Napaka pri obdelavi vzorčenja"
+mp3awav_MSG5="Pretvorba ni uspela"
+mp3awav_MSG6="Imenik ni najden"
+mp3awav_MSG7="KONEC ZVOČNE PRETVORBE"
+mp3awav_MSG8="Normalizacija zvočne datoteke"
+mp3awav_MSG9="Datoteka"
+mp3awav_MSG10="Normalizirano"
+mp3awav_MSG11="Napaka pri normalizaciji"
+
+# oggawav
+
+oggawav_MSG0="DATOTEKE OGG ZA PRETVORBO"
+oggawav_MSG1="Vnesite pot do datotek .ogg: "
+oggawav_MSG2="PRETVORBA"
+oggawav_MSG2B="FORMAT .wav"
+oggawav_MSG3="teče"
+oggawav_MSG4="Vzorčenje nastavljeno na 44100 Mhz"
+oggawav_MSG5="Napaka pri obdelavi vzorčenja"
+oggawav_MSG6="Pretvorba ni uspela"
+oggawav_MSG7="Imenika ni mogoče najti"
+oggawav_MSG8="KONEC ZVOČNEGA POKRITJA"
+oggawav_MSG9="Normalizacija zvočne datoteke"
+oggawav_MSG10="Datoteka"
+oggawav_MSG11="Normalizirano"
+oggawav_MSG12="Napaka pri normalizaciji"
+
+# cdawav
+
+cdawav_MSG1="KOPIRANJE AVDIO CD ja ..."
+cdawav_MSG2="Izvajanje:"
+cdawav_MSG3="USPEŠNO RIPIRANI ZVOČNI POSLEDI!!"
+cdawav_MSG4="Vsebina imenika zvočnih datotek"
+cdawav_MSG5="NAPAKA PRI KOPIRANJU ZVOČNIH POSLEDIC"
+
+# cddawav
+
+cddawav_MSG1="VNESITE ŠTEVILO SLEDI ZA RIP:"
+cddawav_MSG2="Pritisnite Ctrl + c za preklic kopiranja skladbe"
+cddawav_MSG3="Izvajanje:"
+cddawav_MSG4="USPEŠNO RIPOVANO"
+cddawav_MSG5="NAPAKA PRI KOPIRANJU"
+
+# wavamp3
+
+wavamp3_MSG0="DATOTEKE WAV ZA PRETVORBO"
+wavamp3_MSG1="Vnesite pot do datotek .wav: "
+wavamp3_MSG1B="PRETVORBA"
+wavamp3_MSG2="FORMAT"
+wavamp3_MSG3="Izvajanje:"
+wavamp3_MSG4="pri pretvorbi"
+wavamp3_MSG5="v format .MP3"
+wavamp3_MSG6="Napaka pri pretvorbi"
+wavamp3_MSG7="ZVOČNA PRETVORBA JE KONČANA"
+wavamp3_MSG8="AVDIO IMENIK NI NAJDEN"
+
+# cdamp3
+
+cdamp3_MSG1="KOPIRANJE AVDIO CD ja ..."
+cdamp3_MSG2="Izvajanje:"
+cdamp3_MSG3="USPEŠNO RIPIRANI ZVOČNI POSLEDI!!"
+cdamp3_MSG4="NAPAKA PRI KOPIRANJU ZVOČNIH POSLEDIC"
+cdamp3_MSG5="Klicna funkcija:"
+
+# wavaogg
+
+wavaogg_MSG1="Vnesite pot do datotek .wav: "
+wavaogg_MSG2="PRETVORBA"
+wavaogg_MSG3="FORMAT .ogg"
+wavaogg_MSG4="Teče:"
+wavaogg_MSG5="Napaka pri pretvorbi"
+wavaogg_MSG6="v format .ogg"
+
+# cdaogg
+
+cdaogg_MSG1="KOPIRANJE AVDIO CD jev ..."
+cdaogg_MSG2="Izvajanje:"
+cdaogg_MSG3="USPEŠNO RIPIRANI ZVOČNI POSLEDI!!"
+cdaogg_MSG4="NAPAKA PRI KOPIRANJU ZVOČNIH POSLEDIC"
+cdaogg_MSG5="Klicna funkcija:"
+
+# corta_wav
+
+corta_wav_MSG0="Število sekund:"
+corta_wav_MSG1="Določite pot zvočne datoteke za pretvorbo:"
+corta_wav_MSG2="Določite čas v sekundah, za katerega"
+corta_wav_MSG3="začelo se bo rezanje datoteke."
+corta_wav_MSG4="-OPOMBA-"
+corta_wav_MSG5="Če želite določiti začetek zvoka, vnesite 0"
+corta_wav_MSG6="Vrednost v sekundah za začetek konverzije:"
+corta_wav_MSG7="Določite čas v sekundah, za katerega"
+corta_wav_MSG8="rezanje datoteke bo končano."
+corta_wav_MSG9="Vrednost v sekundah za konec pretvorbe:"
+corta_wav_MSG10="Teče"
+corta_wav_MSG11="Obrezana zvočna datoteka"
+corta_wav_MSG12="Napaka pri obrezovanju datoteke"
+corta_wav_MSG13="Zvočna datoteka za obrezovanje:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1="Določite pot do datotek .flac:"
+flacawav_MSG2="PRETVORBA"
+flacawav_MSG3="V .wav FORMAT"
+flacawav_MSG4="Vzorčenje nastavljeno na 44100 Mhz"
+flacawav_MSG5="Napaka pri obdelavi vzorčenja"
+flacawav_MSG6="Normalizacija zvočne datoteke"
+flacawav_MSG7="Datoteka"
+flacawav_MSG8="Normalizirano"
+flacawav_MSG9="Napaka pri normalizaciji"
+flacawav_MSG10="Pretvorba ni uspela"
+flacawav_MSG11="Imenika ni mogoče najti"
+flacawav_MSG12="KONEC ZVOČNE PRETVORBE"
+
+# wavaflac
+
+wavaflac_MSG0="DATOTEKE WAV ZA PRETVORBO"
+wavaflac_MSG1="Vnesite pot do datotek .wav: "
+wavaflac_MSG2="PRETVORBA"
+wavaflac_MSG3="FORMAT .flac"
+wavaflac_MSG4="pretvorjeno v format flac"
+wavaflac_MSG5="Napaka pri pretvorbi"
+wavaflac_MSG6="v format .flac"
+wavaflac_MSG7="IMENIK DATOTEK FLAC NI NAJDEN"
+

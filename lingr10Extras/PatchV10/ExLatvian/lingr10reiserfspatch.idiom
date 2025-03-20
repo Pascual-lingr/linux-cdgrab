@@ -1,0 +1,76 @@
+# Idioma Letón para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Nospiediet ENTER, lai turpinātu..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 ATBALSTA REISERFS"
+cabecera_interfaz_MSG3="=================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Pievienot komandas izvadi:"
+formatear_disco_reiserfs_MSG2="Norādiet formatējamo blokierīci: "
+formatear_disco_reiserfs_MSG3="Ierīce veiksmīgi formatēta"
+formatear_disco_reiserfs_MSG4="Kļūda formatējot ierīci"
+formatear_disco_reiserfs_MSG5="PROCESS PABEIGTS"
+formatear_disco_reiserfs_MSG6="Noņem ierīci..."
+formatear_disco_reiserfs_MSG7="Notiek diska formatēšana programmā ReiserFS..."
+formatear_disco_reiserfs_MSG8="Darbojas"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="VEIKSMĪGI FORMATĒTS"
+formatear_img_reiserfs_MSG2="KĻŪDA, FORMATĒJOT TUKŠU DATU"
+formatear_img_reiserfs_MSG3="Notiek tukša faila ģenerēšana..."
+formatear_img_reiserfs_MSG4="Darbojas"
+formatear_img_reiserfs_MSG5="Notiek tukša faila formatēšana programmā ReiserFS..."
+formatear_img_reiserfs_MSG6="TUkša faila ģenerēšana AR PIELĀGOTU IZMĒRU"
+formatear_img_reiserfs_MSG7="Norādiet ģenerējamā tukšā faila lielumu (tikai skaitliska vērtība):"
+formatear_img_reiserfs_MSG8="Telpas mērījumi tukšā faila ģenerēšanai:"
+formatear_img_reiserfs_MSG9="Norādiet izmantojamās telpas mērījumus: "
+formatear_img_reiserfs_MSG10="KĻŪDA, NORĀDOT IZMĒRU MĒRĪJUMU"
+formatear_img_reiserfs_MSG11="Bloka lieluma vērtība:"
+formatear_img_reiserfs_MSG12="Vietas daudzums tukšam failam:"
+formatear_img_reiserfs_MSG13="Aprēķinātā vērtība baitos:"
+formatear_img_reiserfs_MSG14="Aprēķinātā vērtība skaitam:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Izveidot attēlu CD-R/RW (702 Mb)"
+m_img_CDDVDBD_reiserfs_MSG2="Izveidot attēlu DVD+RW (4 Gbaiti)"
+m_img_CDDVDBD_reiserfs_MSG3="Izveidot attēlu DVD+RW/DL (8 Gbaiti)"
+m_img_CDDVDBD_reiserfs_MSG4="Izveidot attēlu BD-R/RE (25 Gbaiti)"
+m_img_CDDVDBD_reiserfs_MSG5="Izveidot attēla failu ar pielāgotu izmēru"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Iziet"
+imgr_tmp_MSG1="Dzēst visus reiserfs attēlu failus"
+imgr_tmp_MSG2="Pievienot vai atvienot attēla failu"
+imgr_tmp_MSG3="Attēlu faili"
+imgr_tmp_MSG4="Izvēlieties opciju"
+imgr_tmp_MSG5="Dzēsti attēlu faili"
+imgr_tmp_MSG6="Pievienot attēlu"
+imgr_tmp_MSG7="Izmontēt attēlu"
+imgr_tmp_MSG8="Uzmontēts attēls"
+imgr_tmp_MSG9="Izmontēts attēls"
+imgr_tmp_MSG10="Nederīga opcija"
+imgr_tmp_MSG11="Norādiet attēlu pievienošanai vai atvienošanai:"
+imgr_tmp_MSG12="Kļūda, uzstādot attēlu"
+imgr_tmp_MSG13="Kļūda, atvienojot attēlu"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Formatēt disku programmā ReiserFS"
+lingr10reiserfspatch_MSG2="Izveidot ReiserFS attēlu CD/DVD/BD"
+lingr10reiserfspatch_MSG3="Darbības ar ReiserFS attēliem"
+lingr10reiserfspatch_MSG4="Nederīga opcija"
+lingr10reiserfspatch_MSG0="Iziet"
+

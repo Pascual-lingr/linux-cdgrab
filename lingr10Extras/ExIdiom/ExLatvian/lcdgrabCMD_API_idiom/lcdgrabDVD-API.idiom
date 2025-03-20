@@ -1,0 +1,171 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLatvian/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Letón para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Ierakstīšanas ierīce kā"
+buscar_grabadora_MSG1B="Derīgs"
+buscar_grabadora_MSG2="Ierakstīšanas ierīce kā"
+buscar_grabadora_MSG2B="Kļūda"
+buscar_grabadora_MSG3="dvd+-rw-tools nepieņem, ka ierakstīšanas ierīce ir"
+buscar_grabadora_MSG4="Lai varētu ierakstīt DVD, izmantojot dvd+rw-tools, jums ir jānorāda ierakstītājs kā bloka ierīce"
+buscar_grabadora_MSG5="Piemērs"
+buscar_grabadora_MSG6="vai"
+buscar_grabadora_MSG7="Rāda esošās sistēmas ierīces mapē /dev"
+buscar_grabadora_MSG8="Ievadiet blokierīci, kas atbilst jūsu DVD ierakstītājam"
+buscar_grabadora_MSG9="Nav norādīts ierakstītāja veids vai opcija."
+buscar_grabadora_MSG10="IERĪCE KONFIGURĒTA IEKĀRTOTĀJAM"
+buscar_grabadora_MSG11="Ierakstīšanas ierīce ir eksportēta uz čaulas vidi kā"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Iespējamā vērtība derīga tikai cdrecord"
+buscar_grabadoralb_MSG2="Pašreizējā ierakstītāja konfigurācija ir"
+buscar_grabadoralb_MSG3="Pārbaudiet, vai šī konfigurācija atbilst cdrskin piešķirtajai vērtībai"
+buscar_grabadoralb_MSG4="Notiek IDE/SCSI porta skenēšana ar cdrskin..."
+buscar_grabadoralb_MSG5="Norādiet jauno vērtību, kas tiks izmantota ar cdrskin:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Ievadiet nosaukumu topošajam DVD:"
+datos_dvd_MSG2="IEKĀRTĒ DVD..."
+datos_dvd_MSG3="Lieto"
+datos_dvd_MSG4="darbojas"
+datos_dvd_MSG5="DVD VEIKSMĪGI IERAKSTĪTS!"
+datos_dvd_MSG6="Mkisofs vai genisoimage nevar atrast, instalējiet cdrtools vai cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Ievadiet nosaukumu topošajam DVD:"
+datos_dvd_multi_MSG2="DVD IEKĀRTĒŠANA..."
+datos_dvd_multi_MSG3="Lieto"
+datos_dvd_multi_MSG4="darbojas"
+datos_dvd_multi_MSG5="DVD VEIKSMĪGI IERAKSTS!"
+datos_dvd_multi_MSG6="Mkisofs vai genisoimage nevar atrast, instalējiet cdrtools vai cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="IEKĀRTĒ ATTĒLU..."
+grabimg_dvd_MSG2="darbojas"
+grabimg_dvd_MSG3="! DVD ATTĒLS VEIKSMĪGI IERAKSTS!"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="ATTĒLU IERAKSTĪŠANA DVD..."
+copia_bin_dvd_MSG2="darbojas"
+copia_bin_dvd_MSG3="	NOTIEK ATTĒLA FAILA DZĒŠANA"
+copia_bin_dvd_MSG4="IERAKSTĪŠANA PABEIGTA!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Formatēt a"
+formatear_dvd_MSG2="Piespiest jaunu formātu a"
+formatear_dvd_MSG3="Pārvietojiet a izvades bloku"
+formatear_dvd_MSG4="Formatēt DVD-RW uz secīgu inkrementālu"
+formatear_dvd_MSG5="Formatēt DVD-RW ierobežotai pārrakstīšanai"
+formatear_dvd_MSG6="Piepildiet DVD ar nullēm"
+formatear_dvd_MSG7="Rādīt DVD informāciju"
+formatear_dvd_MSG8="Iepriekšējā izvēlne"
+formatear_dvd_MSG9="Šī opcija tiek izmantota, lai formatētu DVD pirmo reizi."
+formatear_dvd_MSG10="Ja DVD jau ir formatēts, tas neizdzēsīs datus."
+formatear_dvd_MSG11="Tie tiks pārrakstīti jaunā ierakstā."
+formatear_dvd_MSG12="Lai izdzēstu DVD saturu, izmantojiet:"
+formatear_dvd_MSG13="Piepildiet DVD ar nullēm"
+formatear_dvd_MSG14="Šī opcija dzēš formātu un datus no apstrādātā DVD."
+formatear_dvd_MSG15="darbojas"
+formatear_dvd_MSG16="DVD+RW/DVD-RW VEIKSMĪGI FORMATĒTS!"
+formatear_dvd_MSG17="KĻŪDA, FORMATĒJOT DVD"
+formatear_dvd_MSG18="Formatēt piespiedu kārtā DVD+RW diskā..."
+formatear_dvd_MSG19="DVD+RW VEIKSMĪGI FORMATĒTS!"
+formatear_dvd_MSG20="KĻŪDA, FORMATĒJOT DVD+RW"
+formatear_dvd_MSG21="Šī opcija neietekmē datus, kas saglabāti DVD+RW"
+formatear_dvd_MSG22="Notiek izvades bloka noņemšana no DVD+RW..."
+formatear_dvd_MSG23="Notiek DVD-RW diska formatēšana secīgai rakstīšanai..."
+formatear_dvd_MSG24="DVD-RW VEIKSMĪGI FORMATĒTS!"
+formatear_dvd_MSG25="KĻŪDA, FORMATĒJOT DVD-RW"
+formatear_dvd_MSG26="DVD-RW diska formatēšana ierobežotai pārrakstīšanai..."
+formatear_dvd_MSG27="IZDZĒST PĀRRAKSTĪJAMO DVD"
+
+# null_dvd
+
+null_dvd_MSG1="Rakstīšana diskā no /dev/zero. . ."
+null_dvd_MSG2="skrienot"
+null_dvd_MSG3="PROCESO COMPLETADO"
+null_dvd_MSG4="ERROR INESPERADO"
+
+# dvd_video
+
+dvd_video_MSG1="Ceļš, kur atrodas VIDEO_TS un AUDIO_TS direktoriji:"
+dvd_video_MSG2="Norādiet ceļu, kur atrodas VIDEO_TS un AUDIO_TS direktoriji:"
+dvd_video_MSG3="skrienot"
+dvd_video_MSG4="--- Veiksmīgi IERAKSTS DVD-VIDEO ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="skrienot"
+dvd_copia_bin_MSG2="	NOTIEK ATTĒLA FAILA DZĒŠANA"
+dvd_copia_bin_MSG3="IESPĒJAMĀ IR RADUŠĀS KĻŪDA"
+
+# dvd_datos
+
+dvd_datos_MSG1="Faili un direktoriji, lai izveidotu .iso attēlu"
+dvd_datos_MSG2="DVD ETIĶETE"
+dvd_datos_MSG3="Ievadiet nosaukumu topošajam DVD:"
+dvd_datos_MSG4="Failu pārvaldnieka palaišana:"
+dvd_datos_MSG5="	IZVEIDOT ATTĒLU. . ."
+dvd_datos_MSG6="skrienot"
+dvd_datos_MSG7="ISO-9660 ATTĒLS IZVEIDOTS"
+dvd_datos_MSG8="		DEDZĪŠANĀS DVD"
+dvd_datos_MSG13="NOTIEK ATTĒLA DZĒŠANA..."
+
+# dvd_borra
+
+dvd_borra_MSG1="skrienot"
+dvd_borra_MSG2="OPTISKAIS DISKS VEIKSMĪGI FORMATĒTS"
+dvd_borra_MSG3="KĻŪDA, FORMATĒJOT OPTISKO DISKU"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="skrienot"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="skrienot"
+formatearCDDVDBD_MSG2="OPTISKAIS DISKS VEIKSMĪGI FORMATĒTS"
+formatearCDDVDBD_MSG3="KĻŪDA, FORMATĒJOT OPTISKO DISKU"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW formatēts veiksmīgi!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Kļūda formatējot DVD-RW uz ierobežotu pārrakstīšanu"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW formatēts veiksmīgi!!"
+formatearDVDRW_incremental_secuencial_MSG2="Kļūda, formatējot DVD-RW uz secīgu inkrementālu"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Norādiet ierakstāmā iso-9660 attēla ceļu:"
+cdrskinisocddvd_MSG2="ISO ATTĒLS VEIKSMĪGI IERAKSTS!!"
+cdrskinisocddvd_MSG3="KĻŪDA, IEKĀRTOT ATTĒLU"
+

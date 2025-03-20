@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLatvian/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en letón para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="Šobrīd SISTĒMĀ UZSTĀDĪTAS IERĪCES"
+montar_dispositivos_MSG1B="IERĪČU MONTĀŽA/DEJAUTĀŠANA"
+montar_dispositivos_MSG2="LINUX-CDGRAB OPTIONS"
+montar_dispositivos_MSG3="Izņemt disku no CD/DVD/BD lasītāja"
+montar_dispositivos_MSG4="Izņemt disku no CD/DVD/BD ierakstītāja"
+montar_dispositivos_MSG5="Pievienot CD-ROM/DVD-ROM/BD-ROM lasītāju"
+montar_dispositivos_MSG6="Atvienot CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Uzmontējiet vai demontējiet ierīci ar rokām"
+montar_dispositivos_MSG0="Iepriekšējā izvēlne"
+montar_dispositivos_MSG8="CD/DVD/BD ir uzstādīts uz"
+montar_dispositivos_MSG9="Nospiediet ENTER, LAI TURPINĀTU..."
+montar_dispositivos_MSG10="Kļūda, uzstādot CD/DVD/BD disku"
+montar_dispositivos_MSG11="CD/DVD/BD ir atvienots"
+montar_dispositivos_MSG12="Kļūda, atvienojot CD/DVD/BD"
+montar_dispositivos_MSG13="Ierakstiet uzmontējamo/atmontējamo ierīci:"
+montar_dispositivos_MSG14="Ievadiet pievienošanas punktu:"
+montar_dispositivos_MSG15="neatbilst bloķētai ierīcei"
+montar_dispositivos_MSG16="Pievienošanas punkts nav atrasts"
+montar_dispositivos_MSG17="Noklusējuma pievienošanas punkts"
+montar_dispositivos_MSG18="Izvēlēties opciju:"
+montar_dispositivos_MSG19="Uzmontējiet"
+montar_dispositivos_MSG20="lv"
+montar_dispositivos_MSG21="Atvienot"
+montar_dispositivos_MSG22="no"
+montar_dispositivos_MSG23="uzmontēts:"
+montar_dispositivos_MSG24="KĻŪDA, MONTĀŽOT"
+montar_dispositivos_MSG25="LV"
+montar_dispositivos_MSG26="izmontēts no"
+montar_dispositivos_MSG27="KĻŪDA, ATJAUNOJOT"
+montar_dispositivos_MSG28="no"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Montāžas komandas izvade"
+Montar_Imagenes_MSG1B="ATTĒLU FAILU MONTĀŽA/IZJAUKŠANA"
+Montar_Imagenes_MSG2="Izvēlieties opciju"
+Montar_Imagenes_MSG3="Pievienot CD/DVD/BD attēlu"
+Montar_Imagenes_MSG4="Atvienot CD/DVD/BD attēlu"
+Montar_Imagenes_MSG5="Iepriekšējā izvēlne"
+

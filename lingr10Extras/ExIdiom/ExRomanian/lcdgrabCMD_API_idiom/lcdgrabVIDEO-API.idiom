@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRomanian/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en Rumano para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="COMPATIBILITATEA DISCULUI BLU-RAY DE CONVERSIE VIDEO"
+conv_video_BDVideo_MSG2="Specificați calea fișierului video de convertit:"
+conv_video_BDVideo_MSG3="Specificați numele fișierului noului videoclip de creat:"
+conv_video_BDVideo_MSG4="Fișierul video a fost convertit cu succes!!"
+conv_video_BDVideo_MSG5="Eroare la conversia fișierului video"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="CONVERSIE FIȘIERE VIDEO"
+conv_VideoFich_MSG2="Specificați fișierul video de convertit:"
+conv_VideoFich_MSG3="Specificați fișierul video de generat:"
+conv_VideoFich_MSG4="CONVERSIUNEA FIȘIERULUI VIDEO FINALIZATĂ"
+conv_VideoFich_MSG5="EROARE CÂND SE CONVERTEAZĂ FIȘIERUL VIDEO"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Specificați fișierul video:"
+extrae_Audio_de_Video_MSG2="Specificați fișierul de sunet mp3 de generat:"
+extrae_Audio_de_Video_MSG3="EXTRACȚIA SUNETULUI CU SUCCES"
+extrae_Audio_de_Video_MSG4="EROARE LA EXTRAGERE SUNET"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Specificați fișierul video:"
+extrae_Fragmento_Video_MSG2="Specificați fișierul video de generat:"
+extrae_Fragmento_Video_MSG3="Specificați ora inițială (Specificați ca HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Specificați ora de încheiere (Specificați ca HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="VIDEO TUNDAT CU SUCCES"
+extrae_Fragmento_Video_MSG6="EROARE LA TĂCERE VIDEO"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Specificați fișierul de sunet:"
+mezcla_Audio_Video_MSG2="Specificați fișierul video:"
+mezcla_Audio_Video_MSG3="Specificați fișierul video de generat:"
+mezcla_Audio_Video_MSG4="FISIER VIDEO NOU GENERAT CU SUCCES"
+mezcla_Audio_Video_MSG5="EROARE LA GENERAREA FIȘIERULUI VIDEO"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="OPȚIUNEA NU ESTE DISPONIBILĂ PENTRU INTERFAȚA CONSOLEI"
+graba_escritorio_MSG2="-- ÎNREGISTRAREA SESIUNII DESKTOP -- APĂSAȚI CTRL + C PENTRU A ANULA ȘI A OPRI ÎNREGISTRAREA"
+graba_escritorio_MSG3="ÎNREGISTRAREA VIDEO FINALĂ"
+

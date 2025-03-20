@@ -1,0 +1,141 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Serbio para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3 ДАТОТЕКЕ ЗА КОНВЕРЗИРАЊЕ"
+mp3awav_MSG0="Напишите путању до .mp3 датотека:"
+mp3awav_MSG1="ЦОНВЕРТИНГ"
+mp3awav_MSG1B=" ТО .wav ФОРМАТ"
+mp3awav_MSG2="трчање"
+mp3awav_MSG3="Узорковање постављено на 44100 Mhz"
+mp3awav_MSG4="Грешка при обради узорковања"
+mp3awav_MSG5="Конвертовање није успело"
+mp3awav_MSG6="Именик није пронађен"
+mp3awav_MSG7="КРАЈ АУДИО КОНВЕРЗИЈЕ"
+mp3awav_MSG8="Нормализација аудио датотеке"
+mp3awav_MSG9="Архива"
+mp3awav_MSG10="Нормализовано"
+mp3awav_MSG11="Еррор Нормализинг"
+
+# oggawav
+
+oggawav_MSG0="OGG ДАТОТЕКЕ ЗА КОНВЕРЗИРАЊЕ"
+oggawav_MSG1="Напишите путању до .ogg датотека:"
+oggawav_MSG2="ЦОНВЕРТИНГ"
+oggawav_MSG2B="ТО .wav ФОРМАТ"
+oggawav_MSG3="трчање"
+oggawav_MSG4="Узорковање постављено на 44100 Mhz"
+oggawav_MSG5="Грешка при обради узорковања"
+oggawav_MSG6="Конвертовање није успело"
+oggawav_MSG7="Именик није пронађен"
+oggawav_MSG8="КРАЈ АУДИО КОНВЕРЗИЈЕ"
+oggawav_MSG9="Нормализација аудио датотеке"
+oggawav_MSG10="Архива"
+oggawav_MSG11="Нормализовано"
+oggawav_MSG12="Еррор Нормализинг"
+
+# cdawav
+
+cdawav_MSG1="РИПИНГ АУДИО CD ова..."
+cdawav_MSG2="трчање:"
+cdawav_MSG3="УСПЕШНО СРЕЂЕНИ АУДИО ПЕСМЕ!!"
+cdawav_MSG4="Садржај директоријума аудио датотека"
+cdawav_MSG5="ГРЕШКА ПРИ РИПУЈУ АУДИО ТРАКЕ"
+
+# cddawav
+
+cddawav_MSG1="УНЕСИТЕ БРОЈ ПЕСМЕ ЗА РИПУ:"
+cddawav_MSG2="Притисните Crtl + c да бисте отказали копирање нумере"
+cddawav_MSG3="трчање:"
+cddawav_MSG4="УСПЈЕШНО РИПИРАНО"
+cddawav_MSG5="ГРЕШКА РИППОВАЊА"
+
+# wavamp3
+
+wavamp3_MSG0="WAV ДАТОТЕКЕ ЗА КОНВЕРЗИРАЊЕ"
+wavamp3_MSG1="Напишите путању до .wav датотека:"
+wavamp3_MSG1B="ЦОНВЕРТИНГ"
+wavamp3_MSG2="ТО ФОРМАТ"
+wavamp3_MSG3="трчање:"
+wavamp3_MSG4="приликом претварања"
+wavamp3_MSG5="у .MP3 формат"
+wavamp3_MSG6="Грешка при конвертовању"
+wavamp3_MSG7="АУДИО КОНВЕРЗИЈА ЗАВРШЕНА"
+wavamp3_MSG8="АУДИО ДИРЕКТОРИЈ НИЈЕ ПРОНАЂЕН"
+
+# cdamp3
+
+cdamp3_MSG1="РИПИНГ АУДИО CD ова..."
+cdamp3_MSG2="трчање:"
+cdamp3_MSG3="УСПЕШНО СРЕЂЕНИ АУДИО ПЕСМЕ!!"
+cdamp3_MSG4="ГРЕШКА ПРИ РИПУЈУ АУДИО ТРАКЕ"
+cdamp3_MSG5="Функција позива:"
+
+# wavaogg
+
+wavaogg_MSG1="Напишите путању до .wav датотека:"
+wavaogg_MSG2="ЦОНВЕРТИНГ"
+wavaogg_MSG3="ТО .ogg ФОРМАТ"
+wavaogg_MSG4="трчање:"
+wavaogg_MSG5="Грешка при конверзији"
+wavaogg_MSG6="у .ogg формат"
+
+# cdaogg
+
+cdaogg_MSG1="РИПИНГ АУДИО CD ова..."
+cdaogg_MSG2="трчање:"
+cdaogg_MSG3="УСПЕШНО СРЕЂЕНИ АУДИО ПЕСМЕ!!"
+cdaogg_MSG4="ГРЕШКА ПРИ РИПОВАЊУ АУДИО ТРАКА"
+cdaogg_MSG5="Функција позива:"
+
+# corta_wav
+
+corta_wav_MSG0="Број секунди:"
+corta_wav_MSG1="Наведите путању аудио датотеке за конверзију:"
+corta_wav_MSG2="Одредите време у броју секунди за које"
+corta_wav_MSG3="сечење датотеке ће почети."
+corta_wav_MSG4="-НАПОМЕНА-"
+corta_wav_MSG5="Да одредите почетак звука, унесите 0"
+corta_wav_MSG6="Вредност у секундама за почетак конверзије:"
+corta_wav_MSG7="Одредите време у броју секунди за које"
+corta_wav_MSG8="Сечење датотеке ће бити завршено."
+corta_wav_MSG9="Вредност у секундама за крај конверзије:"
+corta_wav_MSG10="трчање"
+corta_wav_MSG11="Срезана аудио датотека"
+corta_wav_MSG12="Грешка при сечењу датотеке"
+corta_wav_MSG13="Аудио фајл за исецање:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV АУДИО"
+flacawav_MSG1="Напишите путању до .flac датотека:"
+flacawav_MSG2="ЦОНВЕРТИНГ"
+flacawav_MSG3=" ТО .wav ФОРМАТ"
+flacawav_MSG4="Узорковање постављено на 44100 Mhz"
+flacawav_MSG5="Грешка при обради узорковања"
+flacawav_MSG6="Нормализација аудио датотеке"
+flacawav_MSG7="Архива"
+flacawav_MSG8="Нормализовано"
+flacawav_MSG9="Еррор Нормализинг"
+flacawav_MSG10="Конвертовање није успело"
+flacawav_MSG11="Директоријум није пронађен"
+flacawav_MSG12="КРАЈ АУДИО КОНВЕРЗИЈЕ"
+
+# wavaflac
+
+wavaflac_MSG0="WAV ДАТОТЕКЕ ЗА КОНВЕРЗИРАЊЕ"
+wavaflac_MSG1="Напишите путању до .wav датотека:"
+wavaflac_MSG2="ЦОНВЕРТИНГ"
+wavaflac_MSG3="ТО .flac ФОРМАТ"
+wavaflac_MSG4="конвертован у flac формат"
+wavaflac_MSG5="Грешка при конверзији"
+wavaflac_MSG6="у .flac формат"
+wavaflac_MSG7="ИМЕНИК FLAC ДАТОТЕКА НИЈЕ ПРОНАЂЕН"

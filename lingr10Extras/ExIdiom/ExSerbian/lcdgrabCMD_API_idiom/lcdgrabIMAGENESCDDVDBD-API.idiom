@@ -1,0 +1,234 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en serbio para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="СИСТЕМ ДАТОТЕКА СЛИКА"
+imagen_linux_fs_MSG2="Изаберите систем датотека: "
+imagen_linux_fs_MSG3="Креирај слику за CD-R/RW (702 Мбајта)"
+imagen_linux_fs_MSG4="Креирај слику за DVD+RW (4 Гбајта)"
+imagen_linux_fs_MSG5="Креирај слику за DVD+RW/DL (8 ГБ)"
+imagen_linux_fs_MSG5B="Креирајте слику за BD-R/RE (25 ГБ)"
+imagen_linux_fs_MSG5C="Креирајте датотеку слике прилагођене величине"
+imagen_linux_fs_MSG6="Креирање празне датотеке капацитета 702 Мбајта"
+imagen_linux_fs_MSG7="Креирање празне датотеке капацитета 4 Гбајта"
+imagen_linux_fs_MSG8="Креирање празне датотеке капацитета 8 ГБ"
+imagen_linux_fs_MSG8B="Креирање празне датотеке капацитета 25 Гбајта"
+imagen_linux_fs_MSG8C="Креирање празне датотеке са прилагођеном величином"
+imagen_linux_fs_MSG9="ГРЕШКА: ВЕЛИЧИНА СЛИКЕ НИЈЕ ПОЗНАТА. ПРЕКИДАМ..."
+imagen_linux_fs_MSG10="Покреће се"
+imagen_linux_fs_MSG11="Програм ће форматирати празну датотеку."
+imagen_linux_fs_MSG12="Систем ће вас упозорити да претходно креирана датотека није блок уређај и питаће вас да ли желите да је форматирате"
+imagen_linux_fs_MSG13="Одговори са да"
+imagen_linux_fs_MSG13="УСПЕШНО ФОРМИРАНО"
+imagen_linux_fs_MSG14=" Монтажа слике . . ."
+imagen_linux_fs_MSG15="ГРЕШКА ПРИ ФОРМАТИРАЊУ ПРАЗНЕ ДАТОТЕКЕ"
+imagen_linux_fs_MSG16="Програм је монтирао датотеку форматирану у"
+imagen_linux_fs_MSG17="Linux-cdgrab ће покренути менаџер датотека тако да може да ради на слици која је монтирана"
+imagen_linux_fs_MSG18="Када су датотеке копиране, искључите форматирану датотеку"
+imagen_linux_fs_MSG19="Линук слика је у овом директоријуму"
+imagen_linux_fs_MSG19B="ГРЕШКА ПРИ МОНТАЖАЊУ ДАТОТЕКЕ СЛИКЕ"
+imagen_linux_fs_MSG20="Датотеке које треба укључити у слику. Монтирано у /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Покретање менаџера датотека..."
+imagen_linux_fs_MSG22="УПОЗОРЕЊЕ:"
+imagen_linux_fs_MSG23="----------"
+imagen_linux_fs_MSG24="Слика"
+imagen_linux_fs_MSG25="још монтиран"
+imagen_linux_fs_MSG26="ГРЕШКА КАДА ПРАВИТЕ ПРАЗНУ ДАТОТЕКУ СА dd"
+imagen_linux_fs_MSG27="Проверите да ли имате слободног простора на партицији монтираној на /"
+imagen_linux_fs_MSG34="СИСТЕМ ДАТОТЕКА ЗА ФОРМАТИРАЊЕ ДАТОТЕКЕ"
+imagen_linux_fs_MSG35="ГЕНЕРАЦИЈА ПРАЗНЕ ДАТОТЕКЕ СА ПРИЛАГОЂЕНОМ ВЕЛИЧИНОМ"
+imagen_linux_fs_MSG36="Одредите величину блока нове празне датотеке (само нумеричка вредност):"
+imagen_linux_fs_MSG37="Пример вредности за величину блока су: 1024, 2048 (само ext2) или 4096 (Сви формати)"
+imagen_linux_fs_MSG38="Одреди величину празне датотеке за генерисање (само нумеричка вредност):"
+imagen_linux_fs_MSG39="Мере простора за генерисање празне датотеке:"
+imagen_linux_fs_MSG40="Одредите мерење простора које ћете користити: "
+imagen_linux_fs_MSG41="ГРЕШКА ПРИ ОДРЕЂИВАЊУ МЈЕРЕ ВЕЛИЧИНЕ"
+imagen_linux_fs_MSG42="Вредност величине блока:"
+imagen_linux_fs_MSG43="Количина простора за празну датотеку:"
+imagen_linux_fs_MSG44="Израчуната вредност у бајтовима:"
+imagen_linux_fs_MSG45="Израчуната вредност за count:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Омогући читање md5 приликом генерисања .iso слика"
+comprobar_lectura_md5_MSG2="Онемогући читање md5 приликом генерисања .iso слика"
+comprobar_lectura_md5_MSG3="Претходни мени"
+comprobar_lectura_md5_MSG4="Тренутна конфигурација:"
+comprobar_lectura_md5_MSG5="Омогућено"
+comprobar_lectura_md5_MSG6="Онемогућено"
+comprobar_lectura_md5_MSG7="Прочитајте md5 суму активирано"
+comprobar_lectura_md5_MSG8="Читање md5 суме је онемогућено"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Име iso слике није могло да се прочита"
+leer_md5sum_MSG2="Читање md5 сум оф"
+leer_md5sum_MSG3="Приказује md5 збир слике"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="СТВАРАЊЕ ИМИџа CD"
+extraer_isoCD_dd_MSG2="СЛИКА КРЕИРАНА У"
+extraer_isoCD_dd_MSG3="Није пронађено"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="СТВАРАЊЕ ИМИџа DVD"
+extraer_isoDVD_dd_MSG2="трчање"
+extraer_isoDVD_dd_MSG3="СЛИКА КРЕИРАНА У"
+extraer_isoDVD_dd_MSG4="Није пронађено"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="трчање"
+extraer_iso_readcd_MSG2="СЛИКА ЈЕ УСПЕШНО КРЕИРАНА"
+extraer_iso_readcd_MSG3="СЛИКА КРЕИРАНА У"
+extraer_iso_readcd_MSG4="Прекида се процес снимања..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Монтирани CD"
+extraer_iso_mkisofs_MSG2="Прављење слике... "
+extraer_iso_mkisofs_MSG3="Омогућена је Macintosh компатибилност"
+extraer_iso_mkisofs_MSG4="Ношење"
+extraer_iso_mkisofs_MSG5="трчање"
+extraer_iso_mkisofs_MSG6="Креирање слике у директоријуму"
+extraer_iso_mkisofs_MSG7="Поновни покушај процеса без подршке за Macintosh"
+extraer_iso_mkisofs_MSG8="Креирање слике у директоријуму"
+extraer_iso_mkisofs_MSG9="mkisofs враћа непознате грешке приликом креирања"
+extraer_iso_mkisofs_MSG10="из"
+extraer_iso_mkisofs_MSG11="Проверите интегритет података"
+extraer_iso_mkisofs_MSG12="Јахање"
+extraer_iso_mkisofs_MSG12B="ин"
+extraer_iso_mkisofs_MSG13="genisoimage враћа непознате грешке приликом креирања"
+extraer_iso_mkisofs_MSG13B="из"
+extraer_iso_mkisofs_MSG14="mkisofs или genisoimage нису пронађени. Инсталирајте cdrtools или cdrkit."
+extraer_iso_mkisofs_MSG15="Није могуће монтирати"
+extraer_iso_mkisofs_MSG16="Слика је успешно направљена у"
+
+# m_comp_img
+
+m_comp_img_MSG1="СЛИКА ЈЕ УСПЈЕШНО ГЕНЕРИСАНА У"
+m_comp_img_MSG2="ДА ЛИ ЖЕЛИТЕ ДА КОМПРЕСУЈЕТЕ ДАТОТЕКУ СЛИКЕ?"
+m_comp_img_MSG3="(s/y) за компримовање; Процес се отказује другом опцијом."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Покретање менаџера датотека..."
+generar_iso_directorio_MSG2="Унесите назив за будући CD/DVD/BD"
+generar_iso_directorio_MSG3="КРЕИРАЊЕ СЛИКЕ..."
+generar_iso_directorio_MSG4="Омогућена је Macintosh компатибилност"
+generar_iso_directorio_MSG5="Ношење"
+generar_iso_directorio_MSG6="трчање"
+generar_iso_directorio_MSG7="СЛИКА КРЕИРАНА У ДИРЕКТОРИЈУ"
+generar_iso_directorio_MSG8="ПРОЦЕС КРИВАЊА СЛИКЕ ЈЕ НЕУСПЕШАН"
+generar_iso_directorio_MSG9="КРЕИРАЊЕ СЛИКЕ БЕЗ MACINTOSH КОМПАТИБИЛНОСТИ"
+generar_iso_directorio_MSG10="mkisofs или genisoimage нису пронађени. Инсталирајте cdrtools или cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Унесите име за будући DVD/BD"
+generar_bdv_udf_directorio_MSG2="Одредите директоријум за генерисање видео слике:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Наведите ознаку диска:"
+generar_iso_directorio_libburnia_MSG2="Одредите директоријум за генерисање iso-9660 слике:"
+generar_iso_directorio_libburnia_MSG3="iso9660 слика је успешно направљена!!"
+generar_iso_directorio_libburnia_MSG4="Грешка при генерисању iso-9660 слике са xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="Датотеке и директоријуми које треба укључити у .iso слику"
+imagenISO_MSG2="ИЗАБЕРИТЕ ОПЦИЈУ"
+imagenISO_MSG2B="----------------"
+imagenISO_MSG3="Генеришите ISO-9660 слику са CD а (користи dd)"
+imagenISO_MSG4="Генеришите ISO-9660 слику са DVD а (користи dd)"
+imagenISO_MSG5="Генеришите ISO-9660 слику са CD а (користи readcd)"
+imagenISO_MSG6="Генеришите ISO-9660 слику са CD или DVD диска (користи mkisofs)"
+imagenISO_MSG7="Креирајте ISO-9660 слику из података са чврстог диска (користи mkisofs)"
+imagenISO_MSG8="Претходни мени"
+imagenISO_MSG9="ЦРЕАТИНГ ИМАГЕ"
+imagenISO_MSG10="Креирајте ISO-9660 слику из података са чврстог диска (користи xorriso)"
+imagenISO_MSG11="Креирајте iso/udf слику са CD/DVD/BD (користи mkisofs)"
+imagenISO_MSG12="Креирајте iso/udf слику из података са чврстог диска (користи mkisofs)"
+imagenISO_MSG13="ISO-9660 ФОРМАТТЕР МЕНИ"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Креирајте UDF/ISO слику из података са чврстог диска (користи mkisofs)"
+imagenISO_MSG15="Креирајте UDF/ISO слику са подршком за DVD Video (користи mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Откуцајте изворни блок уређај из којег треба да се направи слика"
+imagen_img_MSG2="----------------------------------------------------------------"
+imagen_img_MSG3="Уређаји регистровани у /etc/fstab и /etc/mtab"
+imagen_img_MSG4="Излаз команде за mount:"
+imagen_img_MSG5="Унесите назив уређаја: "
+imagen_img_MSG6="Креирање .img слике блок уређаја"
+imagen_img_MSG7="трчање"
+imagen_img_MSG8="СЛИКА УРЕЂАЈА КРЕИРАНА У"
+
+# monta_img
+
+monta_img_MSG1="iso или ext2 слика за монтирање."
+monta_img_MSG2="Унесите путању директоријума где се налази слика коју желите да монтирате:"
+monta_img_MSG3="ПОСТАВЉЕНА СЛИКА CD а:"
+monta_img_MSG4="ГРЕШКА ПРИ МОНТАЖАЊУ ДАТОТЕКА СЛИКЕ"
+monta_img_MSG5="Није пронађено"
+monta_img_MSG6="ТАЧКА МОНТАЖЕ НЕ ПОСТОЈИ"
+monta_img_MSG7="НЕОЧЕКИВАНА ГРЕШКА"
+
+# desmonta_img
+
+desmonta_img_MSG1="iso или ext2 слика за демонтажу."
+desmonta_img_MSG2="РАСТАВЉЕНА СЛИКА"
+desmonta_img_MSG3="Ниједна слика није предвиђена за монтирање"
+desmonta_img_MSG4="mount оутпут:"
+desmonta_img_MSG5="Можете директно одредити апсолутну путању директоријума слике."
+desmonta_img_MSG6="Као што је /tmp/lcdgrabimg.iso или директоријум за монтирање слике као што је /mnt/lcdgrab"
+desmonta_img_MSG7="Ако није наведено, може се претраживати помоћу менаџера датотека"
+desmonta_img_MSG8="Покретање менаџера датотека"
+desmonta_img_MSG9="Одредите путању слике."
+desmonta_img_MSG10="РАСТАВЉЕНА СЛИКА"
+desmonta_img_MSG11="ГРЕШКА ПРИЛИКОМ ДЕМОНТИРАЊА СЛИКЕ"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg слика за конверзију у .iso"
+nrg_a_iso_MSG2="Унесите путању .nrg (Nero Burning ROM) слике за конверзију"
+nrg_a_iso_MSG3="Конвертујем слику..."
+nrg_a_iso_MSG4="Путања изворне .nrg слике"
+nrg_a_iso_MSG5="не постоји или одговара директоријуму"
+nrg_a_iso_MSG6="Неважећа путања."
+nrg_a_iso_MSG7="то је већ претходна ISO-9660 слика, неће бити конвертована."
+nrg_a_iso_MSG8="Копирање са другом екстензијом..."
+nrg_a_iso_MSG9="КОПИЈА ЈЕ ЗАВРШЕНА"
+nrg_a_iso_MSG10="трчање"
+nrg_a_iso_MSG11="Слика је успешно конвертована"
+nrg_a_iso_MSG12="ГРЕШКА ПРИЛИКОМ КРЕИРАЊА СЛИКЕ .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Генериши .cue описну датотеку из .bin слике"
+GenerarArchivocue_MSG2="Тренутни активни директоријум"
+GenerarArchivocue_MSG3="Упишите само путању директоријума где"
+GenerarArchivocue_MSG4="пронађи датотеку слике:"
+GenerarArchivocue_MSG5="Унесите име .бин слике на коју"
+GenerarArchivocue_MSG6="генерисао је своју одговарајућу .cue датотеку"
+GenerarArchivocue_MSG7="ДАТОТЕКА ОПИСА .cue УСПЈЕШНО ГЕНЕРИСАНА"
+GenerarArchivocue_MSG8="ГРЕШКА КАДА ГЕНЕРИРА СЕ ДАТОТЕКА ОПИСА .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="трчање"
+ImagenbincueCDDVD_MSG2=".BIN .CUE ДИСК СЛИКА УСПЕШНО ГЕНЕРИСАНО"
+

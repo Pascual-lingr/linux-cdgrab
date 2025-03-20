@@ -1,0 +1,49 @@
+#########################################################
+# lcdgrabAPI_idiom/ExLatvian/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Letón, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="DISKA ATTĒLU IZVEIDE UN APSTRĀDE"
+MenuImagen_MSG2="---------------- ATTĒLU IZVEIDE ----------------"
+MenuImagen_MSG3="Izveidot ISO-9660 attēlu"
+MenuImagen_MSG4="Izveidot attēlu ar vietējo Linux failu sistēmu"
+MenuImagen_MSG5="Izveidot jebkuras blokierīces .img attēlu"
+MenuImagen_MSG6="Izveidot .bin .cue attēlu no pašreizējās ierīces"
+MenuImagen_MSG7="---------------- CITAS IESPĒJAS ----------------"
+MenuImagen_MSG8="Ģenerēt .cue apraksta failu no .bin attēla"
+MenuImagen_MSG9="Konvertēt .nrg (Nero Burning ROM) attēlu par .iso"
+MenuImagen_MSG10="Saspiest attēlu ar gzip, bzip2 vai xz"
+MenuImagen_MSG11="Atspiest attēlu zip, gz, bz2 vai xz formātā"
+MenuImagen_MSG11B="Pārbaudīt md5 iso attēlu summu"
+MenuImagen_MSG12="Mainīt iso režīmu"
+MenuImagen_MSG0="Iepriekšējā izvēlne"
+MenuImagen_MSG13="Attēla fails tiks saspiests"
+MenuImagen_MSG14="saspiest attēla failu"
+MenuImagen_MSG15="Ierakstiet direktorijas ceļu, kurā atrodas attēls, kuru vēlaties saspiest:"
+MenuImagen_MSG16="Attēla fails, kuru vēlaties atspiest"
+MenuImagen_MSG17="PAŠREIZĒJAIS ISO LĪMENIS"
+MenuImagen_MSG18="iso līmenis"
+MenuImagen_MSG19="Failu nosaukumi sastāv no sadaļas"
+MenuImagen_MSG20="un ir ierobežots līdz 8,3 rakstzīmēm."
+MenuImagen_MSG21="Izvēlieties šo līmeni, ja vēlaties nosaukumu saderību"
+MenuImagen_MSG21b="zem MS-DOS operētājsistēmas"
+MenuImagen_MSG22="Failu nosaukumi sastāv no sadaļas"
+MenuImagen_MSG23="Neierobežots līmenis."
+MenuImagen_MSG24="Izmantojiet šo līmeni, ja vēlaties saderību ar failiem"
+MenuImagen_MSG25="liels, šajā gadījumā >= 2 gigabaiti."
+MenuImagen_MSG26="Visi ISO līmeņi ierobežo failu nosaukumus ar lielajiem, mazajiem un"
+MenuImagen_MSG27="rakstzīmes, piemēram, _ . Failu nosaukumi ir ierobežoti līdz 31 rakstzīmei"
+MenuImagen_MSG28="Maksimums 8 direktoriju ceļi un ceļa nosaukums"
+MenuImagen_MSG29="katalogi līdz 255 rakstzīmēm."
+MenuImagen_MSG30="Izvēlieties jauno iso līmeni"
+MenuImagen_MSG31="4. ISO līmenis nav oficiāls"
+MenuImagen_MSG32="Apmeklējiet mkisofs man lapu"
+MenuImagen_MSG33="Nederīgs ISO līmenis"
+MenuImagen_MSG34="ISO 3. līmenis noteikts pēc noklusējuma"

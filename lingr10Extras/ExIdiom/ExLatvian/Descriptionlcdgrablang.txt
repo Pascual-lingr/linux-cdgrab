@@ -1,0 +1,21 @@
+Latviski
+
+Letón. Latvian.
+Experimental.
+
+Contiene errores de significado en contexto o traducción propia.
+Por estudio del comportamiento de ciertos caracteres del idioma Letón.
+El shell debe tener soporte para estos caracteres, de lo contrario este
+idioma no será plenamente funcional.
+Generado con Google Translate.
+
+Contains meaning errors in context or own translation.
+By studying the behavior of certain characters of the Latvian language.
+The shell must have support for these characters, otherwise this
+language will not be fully functional.
+Generated with Google Translate.
+
+Latviešu valoda priekš linux-cdgrab.
+Eksperimentāls, ģenerēts ar Google tulkotāju.
+Pascual Martínez Cruz; pascual@hotmail.com
+

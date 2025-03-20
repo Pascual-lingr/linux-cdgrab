@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en Serbio para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Путања .img или .ext2 слике за думп на диск."
+volcar_imagen_MSG2="--------------------------ВАЖНО------------------------------" 
+volcar_imagen_MSG3="+ Ова опција није функционална на оптичким дисковима."
+volcar_imagen_MSG4="+ Користи се на драјвовима, флопи дискетама, партицијама диска, итд."
+volcar_imagen_MSG5="+ Разматрање са чврстим дисковима:"
+volcar_imagen_MSG6="+ Писање слике се врши са dd од почетка"
+volcar_imagen_MSG7="  са наведеног диска, коришћење броја није дозвољено"
+volcar_imagen_MSG8="  одређени сектор за почетак процеса писања"
+volcar_imagen_MSG9="+ Користите опрезно. Користите на сопствени ризик."
+volcar_imagen_MSG10="+ Партиције диска могу постати неупотребљиве."
+volcar_imagen_MSG11="+ Не препоручује се употреба на системима са више партиција."
+volcar_imagen_MSG12="  Опоравак може да напусти табелу партиција и"
+volcar_imagen_MSG13="  Бескорисне саме партиције."
+volcar_imagen_MSG14="-------------------------------------------------------------"
+volcar_imagen_MSG15="ПРИСНИТЕ Т ТЕСТ ДА НАСТАВИТЕ C; (Процес ће бити отказан у другој опцији)"
+volcar_imagen_MSG16="Одредите путању датотеке слике за испис на диск: "
+volcar_imagen_MSG17="Монтирај излаз команде:"
+volcar_imagen_MSG18="Одредите блок уређај на који ће слика бити бачена:"
+volcar_imagen_MSG19="БАКАЊЕ СЛИКЕ"
+volcar_imagen_MSG20="НА УРЕЂАЈУ"
+volcar_imagen_MSG21="покреће"
+volcar_imagen_MSG22="ПРОЦЕС ДУМПА СЛИКЕ ЗАВРШЕН"
+
+# volcar_iso
+
+volcar_iso_MSG1="Наведите блок уређај на који ћете уписати iso слику:"
+volcar_iso_MSG2="УПОЗОРЕЊЕ"
+volcar_iso_MSG2B="---------"
+volcar_iso_MSG3="Одредите блок уређај на који ћете писати."
+volcar_iso_MSG4="Примери: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Немојте наводити партицију која припада овом уређају"
+volcar_iso_MSG6="Примери: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Наведите iso-9660 слику или имг за писање:"
+volcar_iso_MSG9="Процес завршен"
+volcar_iso_MSG10="Грешка у процесу писања iso"
+volcar_iso_MSG11="Одредите величину блока да бисте написали слику"
+volcar_iso_MSG12="Изаберите опцију према оперативном систему за писање:"
+volcar_iso_MSG13="ISO-9660 или IMG слика за покретање за флешовање на уређају:"
+volcar_iso_MSG14="Изађи"
+volcar_iso_MSG15="ISO-9660 ИЛИ ДАТОТЕКА СЛИКЕ"
+volcar_ISO_MSG16="ИЗАБЕРИТЕ ОПЕРАТИВНИ СИСТЕМ КОЈИ ЋЕТЕ ДАМПИРАТИ У ЈЕДИНИЦУ"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Изаберите систем датотека помоћу"
+Formateador_linuxfs_MSG2="уређај ће бити форматиран:"
+Formateador_linuxfs_MSG3="Одредите блок уређај за форматирање: "
+Formateador_linuxfs_MSG5="ПРОЦЕС ЗАВРШЕН"
+Formateador_linuxfs_MSG6="ФОРМАТЕР ДИСКА"
+Formateador_linuxfs_MSG7="Подеси ознаку волумена"
+Formateador_linuxfs_MSG10="Одреди назив ознаке волумена"
+Formateador_linuxfs_MSG11="Нова ознака волумена"
+Formateador_linuxfs_MSG12="Одреди величину блока"
+Formateador_linuxfs_MSG13="Нова величина блока"
+Formateador_linuxfs_MSG14="Претходни мени"
+

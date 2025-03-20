@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExRomanian/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Rumano para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="IMAGINE ISO-9660 ÎNREGISTRATĂ CORECT PE BLU-RAY"
+grabar_ISO_BD_MSG2="EROARE LA ÎNREGISTRAREA IMAGINEI PE DISC BLU-RAY"
+grabar_ISO_BD_MSG3="Imagine ISO-9660 ÎN BD"
+grabar_ISO_BD_MSG4="Specificați calea imaginii ISO-9660 de ars:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Fișiere și directoare pentru a crea imaginea .iso"
+bd_datos_MSG2="DB LABEL"
+bd_datos_MSG3="Introduceți un nume pentru viitorul BD:"
+bd_datos_MSG4="Lansarea managerului de fișiere:"
+bd_datos_MSG5=" CREAREA IMAGINII..."
+bd_datos_MSG6="în rulare"
+bd_datos_MSG7="IMAGINE ISO-9660 CREAȚĂ ÎN"
+bd_datos_MSG8="		ÎNREGISTRARE BD"
+bd_datos_MSG13="ȘTERGE IMAGINEA..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Formatarea sau ștergerea necesară este aplicată în funcție de starea discului"
+borrar_BDRE_lb_MSG2="BD-RE ȘTERS CU SUCCES!!"
+borrar_BDRE_lb_MSG3="EROARE LA ȘTERGEREA BD-RE"
+

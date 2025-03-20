@@ -1,0 +1,47 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Letón para la aplicación principal   #
+# Traducción experimental.                         #
+# Generado con Google Translate.                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Fails automātiski ģenerēts ar LINUX-CDGRAB 1.0"
+creacion_de_Depot_MSG2="Šis fails kopā ar direktoriju"
+creacion_de_Depot_MSG3="ir ģenerēti automātiski"
+creacion_de_Depot_MSG4="ar Linux-cdgrab lietojumprogrammu, pārbaudot, ka tā nepastāvēja jūsu Linux izplatīšanā"
+creacion_de_Depot_MSG5="direktorijs"
+creacion_de_Depot_MSG6="Linux-cdgrab izmanto šo direktoriju, lai rakstītu pagaidu failus un ierīces attēlus (iso, img utt.)"
+creacion_de_Depot_MSG8="GoboLinux izmanto depo pagaidu failu glabāšanai"
+creacion_de_Depot_MSG9="Šī faila mērķis ir tikai informatīvs nolūks, jūs varat to brīvi izdzēst, kad tas ir izlasīts."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="PAZIŅOJUMS:"
+main_IDSISTEMA_MSG2="Operētājsistēma netiek atbalstīta."
+main_IDSISTEMA_MSG3="Ja ir problēmas ar lietojumprogrammas darbību, izmantojiet GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="Tas nav pamatots arguments"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="atrasts"
+main_cdkit_test_MSG2="izveidota saite uz wodim"
+main_cdkit_test_MSG3="izveidota saite uz genisoimage"
+main_cdkit_test_MSG4="izveidota saite uz icedax"
+
+# pgm principal
+
+pgm_principal_MSG1="FATAL: Nav atrasts pareizs direktoriju sadalījums."
+pgm_principal_MSG2="SVEŠAJS"
+
+
+

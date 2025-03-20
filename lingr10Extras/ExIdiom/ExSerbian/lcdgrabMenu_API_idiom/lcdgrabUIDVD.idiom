@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSerbian/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Serbio, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Изаберите кориснички интерфејс који ће се користити:"
+SeleccionaIUDVD_MSG2="Користите интерфејс за dvd+-rw-tools"
+SeleccionaIUDVD_MSG3="Користите интерфејс за Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Користите интерфејс за libburnia"
+SeleccionaIUDVD_MSG5="Претходни мени"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="DVD РЕЦОРДИНГ"
+menugrabar_dvd_MSG2="------------------ DVD - ДАТА ------------------"
+menugrabar_dvd_MSG3="Копирајте ISO-9660 DVD са подацима"
+menugrabar_dvd_MSG4="Направите DVD слику за преглед на свом чврстом диску"
+menugrabar_dvd_MSG5="Нарежите нови ISO-9660 DVD са подацима"
+menugrabar_dvd_MSG6="Додајте нову сесију података на ISO-9660 DVD са подацима(DVDМулти-сессион)"
+menugrabar_dvd_MSG7="Захтева DVD који је претходно снимљен коришћењем друге опције"
+menugrabar_dvd_MSG8="Нарежите слику података ISO-9660 на DVD"
+menugrabar_dvd_MSG9="Нарежите .ext2 слику на DVD"
+menugrabar_dvd_MSG10="----------------- DVD - ВИДЕО ------------------"
+menugrabar_dvd_MSG11="Нарежите нови DVD-Видео"
+menugrabar_dvd_MSG12="---------------- ДРУГЕ ОПЦИЈЕ ------------------"
+menugrabar_dvd_MSG13="Форматирајте DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Прикажи информације о DVD диску"
+menugrabar_dvd_MSG0="Претходни мени"
+menugrabar_dvd_MSGPRINCIPAL="Унесите опцију"
+menugrabar_dvd_MSG15="Датотеке и директоријуми које треба укључити на DVD"
+menugrabar_dvd_MSG16="Покретање менаџера датотека..."
+menugrabar_dvd_MSG17=".iso слика за нарезивање на DVD"
+menugrabar_dvd_MSG18="Откуцајте путању директоријума где се налази .iso слика коју желите да снимите"
+menugrabar_dvd_MSG19="Захтева верзију cdrecord а са подршком за DVD."
+menugrabar_dvd_MSG20="Снимање .ext2 слике на DVD ће се обавити помоћу cdrecord а."
+menugrabar_dvd_MSG21="Верзија cdrecord а која постоји у вашој инсталацији би требала"
+menugrabar_dvd_MSG22="подржава снимање DVD а."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="ИЗАБЕРИТЕ ОПЦИЈУ"
+dvd_clonar_MSG2="--- КОПИЈЕ ДИСКА СА ПРЕГЛЕД СЛИКОМ ---"
+dvd_clonar_MSG3="Копирајте DVD са подацима"
+dvd_clonar_MSG4="Направите DVD слику за преглед на свом чврстом диску"
+dvd_clonar_MSG5="--- КОПИЈЕ ДИСКА НА ЛЕТУ ---"
+dvd_clonar_MSG6="Копирај ДВД са подацима у покрету"
+dvd_clonar_MSG7="Клонирајте ДВД са подацима у ходу"
+dvd_clonar_MSG8="ЛЕТЕЋЕ ОПЦИЈЕ КОПИРАЊА ЗАХТЕВАЈУ ДВЕ ОПТИЧКЕ ЈЕДИНИЦЕ"
+dvd_clonar_MSG9="ИНСТАЛИРАН НА ВАШ РАЧУНАР, ПОШТО СЕ ПОДАЦИ СНИМАЈУ ДОК"
+dvd_clonar_MSG10="ЧИТАЈТЕ ДИРЕКТНО СА ОРИГИН ДИСКА, АКО ГА ВАШ РАЧУНАР САМО ИМА"
+dvd_clonar_MSG11="НЕЋЕТЕ МОЋИ ДА КОРИСТИТЕ КОПИЈЕ НА ЛЕТУ."
+dvd_clonar_MSG0="Претходни мени"
+dvd_clonar_MSG12="ДАТА DVD ЦОПИ"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD РЕЦОРДИН"
+menugrabar_DVD_MSG2="------------------ DVD - ДАТА --------------------"
+menugrabar_DVD_MSG3="Рип Дата DVD"
+menugrabar_DVD_MSG4="Нарежите нови DVD са подацима"
+menugrabar_DVD_MSG5="Нарежите .iso или .ext2 слику на DVD"
+menugrabar_DVD_MSG6="Формат DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Прикажи информације о диску у драјву"
+menugrabar_DVD_MSG0="Претходни мени"
+menugrabar_DVD_MSGPRINCIPAL="Унесите опцију"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Нарежите iso-9660 слику на DVD"
+menugrabar_DVD_libburnia_MSG2="Нарежите податке са чврстог диска на DVD"
+menugrabar_DVD_libburnia_MSG3="Формат DVD"
+menugrabar_DVD_libburnia_MSG4="Форматирајте DVD-RW у секвенцијално инкрементално"
+menugrabar_DVD_libburnia_MSG5="Форматирајте DVD-RW у ограничено преписивање"
+menugrabar_DVD_libburnia_MSG6="Прикажи информације о диску"
+menugrabar_DVD_libburnia_MSG8="Листа драјвова инсталираних у систему"
+menugrabar_DVD_libburnia_MSG0="Изађи"
+menugrabar_DVD_libburnia_MSG7="Напишите опцију"
+

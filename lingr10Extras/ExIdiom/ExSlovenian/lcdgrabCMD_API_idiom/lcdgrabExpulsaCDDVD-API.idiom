@@ -1,0 +1,16 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSlovenian/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Esloveno para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="OPTIČNI DISK IZVRZEN"
+expulsar_medio_MSG2="Napaka pri poskusu izvrževanja diska iz naprave"
+expulsar_medio_MSG3="Vnesite ime ročno:"
+

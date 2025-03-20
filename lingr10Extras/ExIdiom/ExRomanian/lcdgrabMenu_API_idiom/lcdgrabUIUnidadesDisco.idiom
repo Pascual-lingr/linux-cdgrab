@@ -1,0 +1,45 @@
+#########################################################
+# lcdgrabAPI_idion/ExRomanian/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Rumano para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="OPERAȚII DE DISK"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- IMPORTANT ------------------------"
+MenuDispositivosBloque_MSG3="+ Nu efectuați operațiuni de scriere pe hard disk-uri "
+MenuDispositivosBloque_MSG4="+ despre partițiile de disc care conțin imagini"
+MenuDispositivosBloque_MSG5="+ recuperare, partiții de boot sau ale tale"
+MenuDispositivosBloque_MSG6="+ partiția sistemului de operare."
+MenuDispositivosBloque_MSG7="+ Folosirea greșită a opțiunilor de scriere din acest meniu "
+MenuDispositivosBloque_MSG8="+ poate genera o catastrofă în sistem."
+MenuDispositivosBloque_MSG9="+ Utilizați cu precauție. Utilizați pe propriul risc."
+MenuDispositivosBloque_MSG10="--------------------- SCRIS ----------------------"
+MenuDispositivosBloque_MSG11="Încărcați un fișier imagine pe unitatea de disc"
+MenuDispositivosBloque_MSG11B="Dump ISO sau IMG image (self-bootable) to pendrive or USB disk"
+MenuDispositivosBloque_MSG11C="Nu toate sistemele de instalare sunt acceptate."
+MenuDispositivosBloque_MSG12="Formatați unitatea cu sistemul de fișiere nativ Linux sau Windows"
+MenuDispositivosBloque_MSG13="-------------------- LECTURĂ ---------------------"
+MenuDispositivosBloque_MSG14="Creați o imagine .img de pe o unitate de disc"
+MenuDispositivosBloque_MSG15="Meniul precedent"
+MenuDispositivosBloque_MSG16="Tastați o opțiune"
+
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="---------------------------IMPORTANT------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Formatați unitatea cu sistemul de fișiere utilizat în dispozitive"
+UIFormatearUnidad_linuxfs_MSG2B="+ sau partiții de disc."
+UIFormatearUnidad_linuxfs_MSG3="+ Această opțiune va șterge toate datele existente pe unitate"
+UIFormatearUnidad_linuxfs_MSG4="+ Unități amovibile formatate cu un sistem de fișiere"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux-ul în sine va fi accesibil numai sub acest sistem de operare."
+UIFormatearUnidad_linuxfs_MSG6="+ Utilizați cu precauție, utilizați pe propriul risc."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="APĂSAȚI TASTA C PENTRU A CONTINUA (Procesul va fi anulat într-o altă opțiune)"
+
