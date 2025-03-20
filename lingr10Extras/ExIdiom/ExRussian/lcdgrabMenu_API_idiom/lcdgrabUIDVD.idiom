@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="Формат DVD+RW/DVD-RW"
 menugrabar_DVD_MSG7="Показать информацию о диске в приводе"
 menugrabar_DVD_MSG0="Предыдущее меню"
 menugrabar_DVD_MSGPRINCIPAL="Введите параметр"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

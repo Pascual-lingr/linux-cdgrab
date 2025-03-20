@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="DVD+RW/DVD-RW'yi biçimlendir"
 menugrabar_DVD_MSG7="Sürücüdeki disk bilgilerini göster"
 menugrabar_DVD_MSG0="Önceki menü"
 menugrabar_DVD_MSGPRINCIPAL="Bir seçenek yazın"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

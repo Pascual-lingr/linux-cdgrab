@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="Snið DVD+RW/DVD-RW"
 menugrabar_DVD_MSG7="Sýna upplýsingar um disk í drifinu"
 menugrabar_DVD_MSG0="Fyrri valmynd"
 menugrabar_DVD_MSGPRINCIPAL="Sláðu inn valmöguleika"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

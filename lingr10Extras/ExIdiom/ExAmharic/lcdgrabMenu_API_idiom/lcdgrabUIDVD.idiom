@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="DVD+RW/DVD-RW ቅረጽ"
 menugrabar_DVD_MSG7="የዲስክ መረጃን በድራይቭ ውስጥ አሳይ"
 menugrabar_DVD_MSG0="የቀድሞው ምናሌ"
 menugrabar_DVD_MSGPRINCIPAL="አማራጭ ተይብ"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

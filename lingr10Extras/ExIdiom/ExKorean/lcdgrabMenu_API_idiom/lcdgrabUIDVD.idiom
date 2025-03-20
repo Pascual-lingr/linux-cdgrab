@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="DVD+RW/DVD-RW 포맷"
 menugrabar_DVD_MSG7="드라이브에 있는 디스크 정보 표시"
 menugrabar_DVD_MSG0="이전 메뉴"
 menugrabar_DVD_MSGPRINCIPAL="옵션을 입력하세요"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

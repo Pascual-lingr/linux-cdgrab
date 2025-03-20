@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="Formatuoti DVD+RW/DVD-RW"
 menugrabar_DVD_MSG7="Rodyti disko informaciją diske"
 menugrabar_DVD_MSG0="Ankstesnis meniu"
 menugrabar_DVD_MSGPRINCIPAL="Įveskite parinktį"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

@@ -77,7 +77,7 @@ menugrabar_DVD_MSG6="DVD+RW/DVD-RW ფორმატირება"
 menugrabar_DVD_MSG7="დისკის ინფორმაციის ჩვენება დისკში"
 menugrabar_DVD_MSG0="წინა მენიუ"
 menugrabar_DVD_MSGPRINCIPAL="აკრიფეთ ვარიანტი"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

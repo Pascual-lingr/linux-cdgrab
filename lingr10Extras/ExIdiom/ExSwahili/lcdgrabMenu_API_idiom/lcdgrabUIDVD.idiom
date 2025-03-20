@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="Umbiza DVD+RW/DVD-RW"
 menugrabar_DVD_MSG7="Onyesha taarifa za diski kwenye hifadhi"
 menugrabar_DVD_MSG0="Menyu iliyotangulia"
 menugrabar_DVD_MSGPRINCIPAL="Chapa chaguo"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

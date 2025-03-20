@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="Formater DVD+RW/DVD-RW"
 menugrabar_DVD_MSG7="Vis diskoplysninger i drevet"
 menugrabar_DVD_MSG0="Forrige menu"
 menugrabar_DVD_MSGPRINCIPAL="Skriv en indstilling"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

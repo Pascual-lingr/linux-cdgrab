@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="DVD+RW/DVD-RW རྩ་སྒྲིག།"
 menugrabar_DVD_MSG7="སྒུལ་ཆས་ནང་ཌིསིཀ་ཆ་འཕྲིན་སྟོན།"
 menugrabar_DVD_MSG0="དཀར་ཆག་སྔོན་མ།"
 menugrabar_DVD_MSGPRINCIPAL="གདམ་ག་ཞིག་ཡིག་དཔར་རྐྱབས།"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

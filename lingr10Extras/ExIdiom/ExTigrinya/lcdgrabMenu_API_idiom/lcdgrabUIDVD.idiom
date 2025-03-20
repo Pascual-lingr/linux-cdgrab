@@ -75,7 +75,7 @@ menugrabar_DVD_MSG6="ፎርማት ዲቪዲ+RW/DVD-RW።"
 menugrabar_DVD_MSG7="ኣብ ድራይቭ ሓበሬታ ዲስክ ኣርኢ።"
 menugrabar_DVD_MSG0="ቅድሚ ሕጂ ዝነበረ ዝርዝር።"
 menugrabar_DVD_MSGPRINCIPAL="ሓደ ኣማራጺ ጽሓፍ"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

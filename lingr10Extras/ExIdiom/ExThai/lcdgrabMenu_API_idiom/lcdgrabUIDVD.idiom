@@ -83,7 +83,7 @@ menugrabar_DVD_MSG7="แสดงข้อมูลดิสก์ในได�
 menugrabar_DVD_MSG0="เมนูก่อนหน้า"
 menugrabar_DVD_MSGPRINCIPAL="กรุณาพิมพ์ตัวเลือก"
 # Traducción Chat GPT - FIN
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

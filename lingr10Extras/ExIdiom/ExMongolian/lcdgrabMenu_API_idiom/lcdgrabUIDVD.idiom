@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="DVD+RW/DVD-RW форматлах"
 menugrabar_DVD_MSG7="Драйв дахь дискний мэдээллийг харуулах"
 menugrabar_DVD_MSG0="Өмнөх цэс"
 menugrabar_DVD_MSGPRINCIPAL="Сонголтыг бичнэ үү"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

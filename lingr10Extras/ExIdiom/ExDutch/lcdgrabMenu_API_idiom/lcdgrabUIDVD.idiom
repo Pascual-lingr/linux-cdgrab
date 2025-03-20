@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="Formatteer DVD+RW/DVD-RW"
 menugrabar_DVD_MSG7="Toon schijfinformatie in het station"
 menugrabar_DVD_MSG0="Vorige menu"
 menugrabar_DVD_MSGPRINCIPAL="Typ een optie"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

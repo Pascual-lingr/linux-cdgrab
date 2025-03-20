@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="Формат DVD+RW/DVD-RW"
 menugrabar_DVD_MSG7="Намоиш додани маълумоти диск дар диск"
 menugrabar_DVD_MSG0="Менюи қаблӣ"
 menugrabar_DVD_MSGPRINCIPAL="Ихтиёрро ворид кунед"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

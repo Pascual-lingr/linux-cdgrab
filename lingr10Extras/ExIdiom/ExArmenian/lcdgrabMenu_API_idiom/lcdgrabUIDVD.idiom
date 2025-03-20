@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="Ձևաչափել DVD+RW/DVD-RW"
 menugrabar_DVD_MSG7="Ցուցադրել սկավառակի մասին տեղեկությունները սկավառակում"
 menugrabar_DVD_MSG0="Նախորդ ընտրացանկ"
 menugrabar_DVD_MSGPRINCIPAL="Մուտքագրեք տարբերակ"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

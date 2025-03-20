@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="Format DVD+RW/DVD-RW"
 menugrabar_DVD_MSG7="Diskinformatioun am Drive weisen"
 menugrabar_DVD_MSG0="Menü virdru"
 menugrabar_DVD_MSGPRINCIPAL="Gitt eng Optioun"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

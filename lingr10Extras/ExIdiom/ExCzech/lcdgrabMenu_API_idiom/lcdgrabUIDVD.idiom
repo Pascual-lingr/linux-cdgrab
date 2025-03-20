@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="Formátovat DVD+RW/DVD-RW"
 menugrabar_DVD_MSG7="Zobrazit informace o disku v mechanice"
 menugrabar_DVD_MSG0="Předchozí nabídka"
 menugrabar_DVD_MSGPRINCIPAL="Zadejte volbu"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

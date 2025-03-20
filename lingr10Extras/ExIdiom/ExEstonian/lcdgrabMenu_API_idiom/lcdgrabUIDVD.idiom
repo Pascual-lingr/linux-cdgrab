@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="Vorminda DVD+RW/DVD-RW"
 menugrabar_DVD_MSG7="Näita ketta teavet draivis"
 menugrabar_DVD_MSG0="Eelmine menüü"
 menugrabar_DVD_MSGPRINCIPAL="Tippige valik"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

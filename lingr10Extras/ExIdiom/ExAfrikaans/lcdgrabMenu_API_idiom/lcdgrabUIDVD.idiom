@@ -84,7 +84,7 @@ menugrabar_DVD_MSG7="Wys skyfinligting in die aandrywer"
 menugrabar_DVD_MSG0="Vorige spyskaart"
 # Se omite 'n por evitar errores de funcionamiento
 menugrabar_DVD_MSGPRINCIPAL="Tik n opsie"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

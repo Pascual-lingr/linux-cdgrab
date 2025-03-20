@@ -75,7 +75,7 @@ menugrabar_DVD_MSG6="格式化 DVD+RW/DVD-RW"
 menugrabar_DVD_MSG7="显示驱动器中的磁盘信息"
 menugrabar_DVD_MSG0="上一个菜单"
 menugrabar_DVD_MSGPRINCIPAL="输入一个选项"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

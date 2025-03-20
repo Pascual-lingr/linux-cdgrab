@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="Μορφοποίηση DVD+RW/DVD-RW"
 menugrabar_DVD_MSG7="Εμφάνιση πληροφοριών δίσκου στη μονάδα δίσκου"
 menugrabar_DVD_MSG0="Προηγούμενο μενού"
 menugrabar_DVD_MSGPRINCIPAL="Πληκτρολογήστε μια επιλογή"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 
