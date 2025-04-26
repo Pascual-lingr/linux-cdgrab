@@ -23,7 +23,8 @@ Complementos implementados:
    Suajili, Lao, Luxemburgués, Lituano, Afrikáans, Ucraniano,
    Turco, Húngaro, Bieloruso, Eslovaco, Azerbaiyano, Estonio,
    Finés, Kazajo, Mongol, Tayiko, Tibetano, Croata, Bosnio,
-   Letón, Esloveno, Rumano y Serbio desde los archivos de Español.
+   Letón, Esloveno, Rumano, Serbio y Albanés desde los archivos
+   de Español.
    Traducción experimental al Español desde idioma Inglés.
    Por soporte al desarrollo. 
    (usado Google Translate, usado Chat GPT).

@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExAlbanian/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Albanés para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="OPERACIONET E DISKUVE"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="---------------------- E RËNDËSISHME --------------------"
+MenuDispositivosBloque_MSG3="+ Mos kryeni operacione shkrimi në disqet e ngurtë "
+MenuDispositivosBloque_MSG4="+ në lidhje me ndarjet e diskut që përmbajnë imazhe"
+MenuDispositivosBloque_MSG5="+ rikuperim, ndarje të nisjes ose tuajat"
+MenuDispositivosBloque_MSG6="+ ndarje e sistemit operativ."
+MenuDispositivosBloque_MSG7="+ Keqpërdorimi i opsioneve të shkrimit të kësaj menyje "
+MenuDispositivosBloque_MSG8="+ mund të gjenerojë një katastrofë në sistem."
+MenuDispositivosBloque_MSG9="+ Përdorni me kujdes. Përdoreni me rrezikun tuaj."
+MenuDispositivosBloque_MSG10="-------------------- SHKRIMI ---------------------"
+MenuDispositivosBloque_MSG11="Hardheni një skedar imazhi në diskun e diskut"
+MenuDispositivosBloque_MSG11B="Hardheni imazhin ISO ose IMG (bootable) në një pendrive ose disk USB"
+MenuDispositivosBloque_MSG11C="Nuk mbështeten të gjitha sistemet e instalimit."
+MenuDispositivosBloque_MSG12="Formatoni diskun me sistemin e skedarëve Linux ose Windows"
+MenuDispositivosBloque_MSG13="-------------------- LEXIMI ----------------------"
+MenuDispositivosBloque_MSG14="Krijo imazh .img nga një disk drive"
+MenuDispositivosBloque_MSG15="Menyja e mëparshme"
+MenuDispositivosBloque_MSG16="Shkruaj një opsion"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="------------------------E RËNDËSISHME-----------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Formatoni njësinë me sistemin e skedarëve të përdorur në pajisje"
+UIFormatearUnidad_linuxfs_MSG2B="+ ose ndarjet e diskut."
+UIFormatearUnidad_linuxfs_MSG3="+ Ky opsion do të fshijë të gjitha të dhënat ekzistuese në njësi"
+UIFormatearUnidad_linuxfs_MSG4="+ Disqet e lëvizshëm të formatuar me një sistem skedari"
+UIFormatearUnidad_linuxfs_MSG5="+ Linux vetë do të jetë i aksesueshëm vetëm nën këtë sistem operativ."
+UIFormatearUnidad_linuxfs_MSG6="+ Përdorni me kujdes, përdorni me rrezikun tuaj."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="SHTYP TASTIN C PËR VAZHDIM; (Procesi do të anulohet në një opsion tjetër)"
+

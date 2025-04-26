@@ -1,0 +1,15 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Albanés para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="DISK OPTICAL HEDHUR"
+expulsar_medio_MSG2="Gabim gjatë përpjekjes për të nxjerrë diskun nga pajisja"
+expulsar_medio_MSG3="Fut emrin me dorë:"

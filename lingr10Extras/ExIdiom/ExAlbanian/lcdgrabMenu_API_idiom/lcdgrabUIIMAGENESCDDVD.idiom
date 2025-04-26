@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Albanés, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="KRIJIMI DHE TRAJTIMI ME IMAZHET E DISKU"
+MenuImagen_MSG2="-------------- KRIJIMI I IMAZHIT ---------------"
+MenuImagen_MSG3="Krijoni një imazh ISO-9660"
+MenuImagen_MSG4="Krijoni një imazh me një sistem skedari Linux vendas"
+MenuImagen_MSG5="Krijoni një imazh .img të çdo pajisjeje bllok"
+MenuImagen_MSG6="Krijoni një imazh .bin .cue nga pajisja aktuale"
+MenuImagen_MSG7="--------------- OPCIONE TE TJERA ---------------"
+MenuImagen_MSG8="Gjeneroni skedarin e përshkrimit .cue nga imazhi .bin"
+MenuImagen_MSG9="Konvertoni një imazh .nrg (Nero Burning ROM) në .iso"
+MenuImagen_MSG10="Shtypni një imazh me gzip, bzip2 ose xz"
+MenuImagen_MSG11="Dekompresoni një imazh në zip, gz, bz2 ose xz"
+MenuImagen_MSG11B="Kontrollo shumën md5 të imazheve iso"
+MenuImagen_MSG12="Ndrysho modalitetin iso"
+MenuImagen_MSG0="Menyja e mëparshme"
+MenuImagen_MSG13="Skedari i imazhit do të kompresohet"
+MenuImagen_MSG14="KOPRESSO FOTO IMAGE"
+MenuImagen_MSG15="Shkruani shtegun e drejtorisë ku ndodhet imazhi që dëshironi të kompresoni:"
+MenuImagen_MSG16="Skedari i imazhit që dëshironi të dekompresoni"
+MenuImagen_MSG17="NIVELI AKTUAL I ISO"
+MenuImagen_MSG18="niveli iso"
+MenuImagen_MSG19="Emrat e skedarëve përbëhen nga një seksion"
+MenuImagen_MSG20="dhe janë të kufizuara në 8.3 karaktere."
+MenuImagen_MSG21="Zgjidhni këtë nivel nëse dëshironi përputhshmëri me emërtimin"
+MenuImagen_MSG21b="nën sistemin operativ MS-DOS"
+MenuImagen_MSG22="Emrat e skedarëve përbëhen nga një seksion"
+MenuImagen_MSG23="Niveli i pakufizuar."
+MenuImagen_MSG24="Përdorni këtë nivel nëse dëshironi përputhshmërinë e skedarëve"
+MenuImagen_MSG25="i madh, në këtë rast >= 2 Gigabajt."
+MenuImagen_MSG26="Të gjitha nivelet ISO kufizojnë emrat e skedarëve në shkronja të mëdha, të vogla dhe"
+MenuImagen_MSG27="personazhe si _ . Emrat e skedarëve janë të kufizuar në 31 karaktere"
+MenuImagen_MSG28="Maksimumi 8 shtigje direktorie dhe emri i shtegut"
+MenuImagen_MSG29="drejtoritë me 255 karaktere."
+MenuImagen_MSG30="Zgjidhni nivelin e ri iso"
+MenuImagen_MSG31="Niveli ISO 4 nuk është zyrtar"
+MenuImagen_MSG32="Konsulto faqen e njeriut të mkisofs"
+MenuImagen_MSG33="Niveli i pavlefshëm ISO"
+MenuImagen_MSG34="Cakto nivelin e iso 3 si parazgjedhje"
+

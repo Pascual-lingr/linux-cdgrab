@@ -104,15 +104,29 @@ Utilidades estandares de Linux como tar, grep, dd, mke2fs, cat etc.
 
 Instalación:
 --------------
-Descargar directamente el paquete desde esta web o bien clonar el repositorio mediante la siguiente orden:
+- Instalación estándar para las distribuciones de Linux en general:
+
+Descargar directamente el paquete lingr10.tgz desde esta web o bien
+clonar el repositorio mediante la siguiente orden:
 
 git clone https://github.com/Pascual-lingr/linux-cdgrab
 
 Descomprima el programa ejecutando:
 
-tar -xvzf lingrXY.tgz ( X e Y corresponden a la versión del programa )
+tar -xvzf lingr10.tgz
 
-Dentro del directorio de archivos de linux-cdgrab tecleé ./instalar
+Dentro del directorio de archivos de linux-cdgrab-1.0r2 tecleé ./instalar
+
+- Instalación de paquete .deb para Debian o distribuciones derivadas de esta:
+
+Descargar el paquete .deb directamente de esta web o bien clonar este repositorio con git.
+Ejecutar el siguiente comando para instalar el paquete .deb
+
+dpkg -i linux-cdgrab_1.0r2_all.deb
+
+- Instalación de los complementos extras.
+
+Ejecutar la orden ./InstExtraslingr10.sh --linux en el directorio lingr10Extras
 
 Licencia:
 ----------

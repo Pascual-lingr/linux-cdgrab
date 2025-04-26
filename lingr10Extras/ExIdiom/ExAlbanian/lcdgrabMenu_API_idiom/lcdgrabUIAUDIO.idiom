@@ -1,0 +1,32 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en Albanés para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="KONVERSIONI AUDIO"
+menu_conversion_audio_MSG2="------------ KONVERSIONI MES FORMATEVE -----------"
+menu_conversion_audio_MSG3="Konverto .mp3 në .wav"
+menu_conversion_audio_MSG4="Konverto .ogg në .wav"
+menu_conversion_audio_MSG5="Konverto .wav në .mp3"
+menu_conversion_audio_MSG6="Konverto .wav në .ogg"
+menu_conversion_audio_MSG6C="Konverto .wav në .flac"
+menu_conversion_audio_MSG6B="Konverto .flac në .wav"
+menu_conversion_audio_MSG7="---------- EKSTRAKTIMI I GJENDJEVE AUDIO ---------"
+menu_conversion_audio_MSG8="Rip një CD audio në .wav"
+menu_conversion_audio_MSG9="Rip një grup pjesësh audio në .wav"
+menu_conversion_audio_MSG10="Rip një CD audio në .mp3"
+menu_conversion_audio_MSG11="Rip një CD audio në .ogg"
+menu_conversion_audio_MSG0="Menyja e mëparshme"
+menu_conversion_audio_MSG12="Kërko për skedarë .mp3"
+menu_conversion_audio_MSG13="Kërko për skedarë .ogg"
+menu_conversion_audio_MSG14="Kërko për skedarë .wav"
+menu_conversion_audio_MSG15="--------------- OPERACIONET TJERA ----------------"
+menu_conversion_audio_MSG16="Prej skedarin audio .wav"
+menu_conversion_audio_MSG17="Rip një CD audio në .flac"

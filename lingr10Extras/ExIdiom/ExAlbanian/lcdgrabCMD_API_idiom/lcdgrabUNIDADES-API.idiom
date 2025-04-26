@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en Albanés para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Rruga drejt imazhit .img ose .ext2 që do të hidhet në disk."
+volcar_imagen_MSG2="----------------------E RËNDËSISHME--------------------------" 
+volcar_imagen_MSG3="+ Ky opsion nuk është funksional në disqet optike."
+volcar_imagen_MSG4="+ Përdorimi në pendrive, disketa, ndarje të diskut, etj. "
+volcar_imagen_MSG5="+ Konsiderata me hard disqet:"
+volcar_imagen_MSG6="+ Imazhi është shkruar me dd nga fillimi"
+volcar_imagen_MSG7="  nga disku i specifikuar, përdorimi i një numri të nuk lejohet"
+volcar_imagen_MSG8="  sektor specifik për të filluar procesin e shkrimit"
+volcar_imagen_MSG9="+ Përdorni me kujdes. Përdoreni në rrezikun tuaj."
+volcar_imagen_MSG10="+ Ndarjet e diskut mund të bëhen të papërdorshme."
+volcar_imagen_MSG11="+ Nuk rekomandohet për përdorim në sistemet me shumë ndarje."
+volcar_imagen_MSG12="  Rivendosja mund të largohet nga tabela e ndarjes dhe"
+volcar_imagen_MSG13="  Vetë ndarjet e papërdorshme."
+volcar_imagen_MSG14="-------------------------------------------------------------"
+volcar_imagen_MSG15="SHTYP TASTIN C PËR VAZHDIM; (Procesi do të anulohet në një opsion tjetër)"
+volcar_imagen_MSG16="Specifikoni shtegun e skedarit të imazhit për të hedhur në disk: "
+volcar_imagen_MSG17="Dalja e komandës montuese:"
+volcar_imagen_MSG18="Përcaktoni pajisjen e bllokut ku do të hidhet imazhi:"
+volcar_imagen_MSG19="SHKARKONI IMAGE"
+volcar_imagen_MSG20="NE PAJISJE"
+volcar_imagen_MSG21="punon"
+volcar_imagen_MSG22="PROCESI I DEPOZIMIT TË IMAZHIT TË KOMPLETUAR"
+
+# volcar_iso
+
+volcar_iso_MSG1="Specifikoni pajisjen e bllokut ku të shkruani imazhin iso:"
+volcar_iso_MSG2="PARALAJMËRIM"
+volcar_iso_MSG2B="------------"
+volcar_iso_MSG3="Përcaktoni pajisjen e bllokimit për të shkruar."
+volcar_iso_MSG4="Shembuj: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Mos specifikoni një ndarje që i përket kësaj pajisjeje"
+volcar_iso_MSG6="Shembuj: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Specifikoni imazhin iso-9660 ose img për të shkruar:"
+volcar_iso_MSG9="Procesi përfundoi"
+volcar_iso_MSG10="Gabim gjatë shkrimit të iso"
+volcar_iso_MSG11="Përcaktoni madhësinë e bllokut për të shkruar imazhin"
+volcar_iso_MSG12="Zgjidh opsionin sipas sistemit operativ për të shkruar:"
+volcar_iso_MSG13="ISO-9660 ose imazhi IMG i bootable për t'u ndezur në pajisje:"
+volcar_iso_MSG14="Dalje"
+volcar_iso_MSG15="ISO-9660 OSE IMG IMAGE"
+volcar_ISO_MSG16="ZGJIDHNI SISTEMIN OPERATIV PËR TË HEDHUR NË"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Zgjidhni sistemin e skedarëve me"
+Formateador_linuxfs_MSG2="që pajisja do të formatohet:"
+Formateador_linuxfs_MSG3="Specifikoni pajisjen e bllokimit për të formatuar: "
+Formateador_linuxfs_MSG5="PROCESI I KOMPLETUAR"
+Formateador_linuxfs_MSG6="FORMATRI I DISKIT"
+Formateador_linuxfs_MSG7="Cakto etiketën e volumit"
+Formateador_linuxfs_MSG10="Përcaktoni emrin e etiketës së vëllimit"
+Formateador_linuxfs_MSG11="Etiketa e re e volumit"
+Formateador_linuxfs_MSG12="Përcaktoni madhësinë e bllokut"
+Formateador_linuxfs_MSG13="Madhësia e re e bllokut"
+Formateador_linuxfs_MSG14="Menyja e mëparshme"
+

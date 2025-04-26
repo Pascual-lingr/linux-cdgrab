@@ -1,0 +1,142 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Albanés para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="SKIDA MP3 PËR TË KONVERTUR"
+mp3awav_MSG0="Fut shtegun e skedarëve .mp3: "
+mp3awav_MSG1="KONVERTIM"
+mp3awav_MSG1B=" NË FORMAT .wav"
+mp3awav_MSG2="duke vrapuar"
+mp3awav_MSG3="Sampling u vendos në 44100 Mhz"
+mp3awav_MSG4="Gabim gjatë përpunimit të mostrave"
+mp3awav_MSG5="Konvertimi dështoi"
+mp3awav_MSG6="Direktoria nuk u gjet"
+mp3awav_MSG7="FUNDI I KONVERSIONIT AUDIO"
+mp3awav_MSG8="Normalizimi i skedarit audio"
+mp3awav_MSG9="Skedar"
+mp3awav_MSG10="Normalizuar"
+mp3awav_MSG11="Gabim normalizimi"
+
+# oggawav
+
+oggawav_MSG0="SKEDALE OGG PËR KONVERTIM"
+oggawav_MSG1="Fut shtegun e skedarëve .ogg: "
+oggawav_MSG2="KONVERTIM"
+oggawav_MSG2B="Një FORMAT .wav"
+oggawav_MSG3="duke vrapuar"
+oggawav_MSG4="Sampling u vendos në 44100 Mhz"
+oggawav_MSG5="Gabim gjatë përpunimit të mostrave"
+oggawav_MSG6="Konvertimi dështoi"
+oggawav_MSG7="Direktoria nuk u gjet"
+oggawav_MSG8="FUNDI I MBULIMIT AUDIO"
+oggawav_MSG9="Normalizimi i skedarit audio"
+oggawav_MSG10="Skedar"
+oggawav_MSG11="Normalizuar"
+oggawav_MSG12="Gabim normalizimi"
+
+# cdawav
+
+cdawav_MSG1="SHKRIKJA AUDIO CD..."
+cdawav_MSG2="Po ekzekutohet:"
+cdawav_MSG3="PJESË AUDIO TË PJESUR ME SUKSES!!"
+cdawav_MSG4="Përmbajtja e dosjes së skedarëve audio"
+cdawav_MSG5="GABIM KUR SHKARKONI GJENDJET AUDIO"
+
+# cddawav
+
+cddawav_MSG1="FUNI NUMRIN E GJENDJEVE PËR TË RIPËR:"
+cddawav_MSG2="Shtypni Crtl + c për të anuluar shkëputjen e një kënge"
+cddawav_MSG3="Po ekzekutohet:"
+cddawav_MSG4="SHKUR ME SUKSES"
+cddawav_MSG5="GABIM NE SHKELJE"
+
+# wavamp3
+
+wavamp3_MSG0="SKEDA WAV PËR KONVERTIM"
+wavamp3_MSG1="Fut shtegun e skedarëve .wav: "
+wavamp3_MSG1B="KONVERTIM"
+wavamp3_MSG2="NJË FORMAT"
+wavamp3_MSG3="Po ekzekutohet:"
+wavamp3_MSG4="kur konvertohet"
+wavamp3_MSG5="në format .MP3"
+wavamp3_MSG6="Gabim gjatë konvertimit"
+wavamp3_MSG7="KONVERSIONI AUDIO KOMPLETUAR"
+wavamp3_MSG8="DREJTORIA E AUDIOVE NUK GJENDET"
+
+# cdamp3
+
+cdamp3_MSG1="SHKRIJMË AUDIO CD..."
+cdamp3_MSG2="Po ekzekutohet:"
+cdamp3_MSG3="PJESË AUDIO TË PJESA ME SUKSES!!"
+cdamp3_MSG4="GABIM KUR SHKURKONI GJENDJET AUDIO"
+cdamp3_MSG5="Funksioni i thirrjes:"
+
+# wavaogg
+
+wavaogg_MSG1="Fut shtegun e skedarëve .wav: "
+wavaogg_MSG2="KONVERTIM"
+wavaogg_MSG3="Një FORMAT .ogg"
+wavaogg_MSG4="Po funksionon:"
+wavaogg_MSG5="Gabim në konvertim"
+wavaogg_MSG6="në formatin .ogg"
+
+# cdaogg
+
+cdaogg_MSG1="SHKRIKJA E CD-ve AUDIO..."
+cdaogg_MSG2="Po ekzekutohet:"
+cdaogg_MSG3="PJESË AUDIO TË PASUR ME SUKSES!!"
+cdaogg_MSG4="GABIM KUR SHKARKONI GJENDJET AUDIO"
+cdaogg_MSG5="Funksioni i thirrjes:"
+
+# corta_wav
+
+corta_wav_MSG0="Numri i sekondave:"
+corta_wav_MSG1="Përcaktoni rrugën e skedarit audio për t'u konvertuar:"
+corta_wav_MSG2="Përcaktoni kohën në numër sekondash, për të cilat"
+corta_wav_MSG3="prerja e skedarit do të fillojë."
+corta_wav_MSG4="-SHËNIM-"
+corta_wav_MSG5="Për të specifikuar fillimin e audios, shkruani 0"
+corta_wav_MSG6="Vlera në sekonda për të filluar konvertimin:"
+corta_wav_MSG7="Përcaktoni kohën në numër sekondash, për të cilat"
+corta_wav_MSG8="prerja e skedarit do të përfundojë."
+corta_wav_MSG9="Vlera në sekonda për përfundimin e konvertimit:"
+corta_wav_MSG10="Duke vrapuar"
+corta_wav_MSG11="Skedar audio i shkurtuar"
+corta_wav_MSG12="Gabim gjatë shkurtimit të skedarit"
+corta_wav_MSG13="Skedari audio për t'u shkurtuar:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV AUDIO"
+flacawav_MSG1="Përcaktoni shtegun e skedarëve .flac:"
+flacawav_MSG2="KONVERTIM"
+flacawav_MSG3=" NË FORMATIN .wav"
+flacawav_MSG4="Sampling u vendos në 44100 Mhz"
+flacawav_MSG5="Gabim gjatë përpunimit të mostrave"
+flacawav_MSG6="Normalizimi i skedarit audio"
+flacawav_MSG7="Skedar"
+flacawav_MSG8="Normalizuar"
+flacawav_MSG9="Gabim normalizimi"
+flacawav_MSG10="Konvertimi dështoi"
+flacawav_MSG11="Direktoria nuk u gjet"
+flacawav_MSG12="FUNDI I KONVERSIONIT AUDIO"
+
+# wavaflac
+
+wavaflac_MSG0="SKIDA WAV PËR KONVERTIM"
+wavaflac_MSG1="Fut shtegun e skedarëve .wav: "
+wavaflac_MSG2="KONVERTIM"
+wavaflac_MSG3="Një FORMAT .flac"
+wavaflac_MSG4="u konvertuar në formatin flac"
+wavaflac_MSG5="Gabim në konvertim"
+wavaflac_MSG6="në formatin .flac"
+wavaflac_MSG7="DREJTORIA E SKEDAVE FLAC NUK GJENDET"
+

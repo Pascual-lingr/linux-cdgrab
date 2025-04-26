@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Albanés para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************** OPSIONET E NAVIGIMIT **************************"
+ayuda_gestor_de_archivos_MSG2="Shfleto sistemin e skedarëve."
+ayuda_gestor_de_archivos_MSG3="X --> Dil"
+ayuda_gestor_de_archivos_MSG4="A --> Drejtoria e mëparshme"
+ayuda_gestor_de_archivos_MSG5="B --> Drejtoria tjetër"
+ayuda_gestor_de_archivos_MSG6="Veprimet mbi skedarët dhe drejtoritë."
+ayuda_gestor_de_archivos_MSG7="C --> Kopjo skedarin"
+ayuda_gestor_de_archivos_MSG8="M --> Zhvendos skedarin"
+ayuda_gestor_de_archivos_MSG9="CD --> Kopjo drejtorinë"
+ayuda_gestor_de_archivos_MSG10="MD --> Zhvendos drejtorinë"
+ayuda_gestor_de_archivos_MSG11="Të kuptuarit e veprimeve në skedarë dhe drejtori."
+ayuda_gestor_de_archivos_MSG12="Z --> Kompresoni një skedar"
+ayuda_gestor_de_archivos_MSG13="DZ --> Zhzip një skedar"
+ayuda_gestor_de_archivos_MSG14="EZ --> Krijo një paketë .tar.gz ose .tar.bz2"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Shpaketoni një .tar.gz ose .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Drejtoria aktuale aktive"
+gestor_de_archivos_MSG0B="Skedarët në"
+gestor_de_archivos_MSG1="========================== OPSIONET E NAVIGIMIT ========================"
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> SIDA="
+gestor_de_archivos_MSG3="========================================================================"
+gestor_de_archivos_MSG4="Shkruaj një opsion"
+gestor_de_archivos_MSG5="Shkruani drejtorinë"
+gestor_de_archivos_MSG6="Shkruani skedarin burim"
+gestor_de_archivos_MSG7="Shkruani skedarin e destinacionit"
+gestor_de_archivos_MSG8="Skedari u kopjua me sukses"
+gestor_de_archivos_MSG9="Gabim gjatë kopjimit të skedarit"
+gestor_de_archivos_MSG10="Shkruani skedarin burim"
+gestor_de_archivos_MSG11="Shkruani skedarin e destinacionit"
+gestor_de_archivos_MSG12="Skedari u zhvendos me sukses"
+gestor_de_archivos_MSG13="Gabim gjatë lëvizjes së skedarit"
+gestor_de_archivos_MSG14="Fut direktoriumin burimor"
+gestor_de_archivos_MSG15="Fut direktoriumin e destinacionit"
+gestor_de_archivos_MSG16="Direktoria u kopjua me sukses"
+gestor_de_archivos_MSG17="Gabim gjatë kopjimit të drejtorisë"
+gestor_de_archivos_MSG18="Fut direktoriumin burimor"
+gestor_de_archivos_MSG19="Fut direktoriumin e destinacionit"
+gestor_de_archivos_MSG20="Direktoria u zhvendos me sukses"
+gestor_de_archivos_MSG21="Gabim në lëvizjen e drejtorisë"
+gestor_de_archivos_MSG22="FILE PËR TË KOMPRESOHET"
+gestor_de_archivos_MSG23="Specifiko shtegun e skedarit"

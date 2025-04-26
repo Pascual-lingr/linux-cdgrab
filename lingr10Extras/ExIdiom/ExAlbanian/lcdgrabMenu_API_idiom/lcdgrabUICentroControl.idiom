@@ -1,0 +1,282 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Albanés para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Konfigurimi Linux-cdgrab"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="Nëse nuk e dini se cilit kanal IDE i përket" 
+ayuda_IDE_MSG2="Djegësi juaj mund ta zbulojë duke shtypur shkronjën t."
+ayuda_IDE_MSG3="Një shembull i një kanali IDE mund të jetë 0,0,0 ose 0,1,0"
+ayuda_IDE_MSG4="Mund të specifikoni gjithashtu pajisjen përkatëse"
+ayuda_IDE_MSG5="tek ndezësi juaj. Nëse nuk jeni i sigurt se cili është, shtypni d,"
+ayuda_IDE_MSG6="për të parë pajisjet e regjistruara në skedarin /etc/fstab"
+ayuda_IDE_MSG7="Një shembull i pajisjeve mund të jetë /dev/hdd,/dev/hde etj."
+ayuda_IDE_MSG8="Nëse dëshironi, mund të listoni gjithashtu të gjitha pajisjet e përfshira"
+ayuda_IDE_MSG9="në drejtorinë /dev duke shtypur shkronjën l."
+ayuda_IDE_MSG10="Duhet të specifikoni ose kanalin IDE ose pajisjen e regjistrimit"
+ayuda_IDE_MSG11="por jo të dyja."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab është çinstaluar nga sistemi juaj"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="Shpejtësia e regjistrimit"
+imprimir_variables_MSG2="Kanali IDE/SCSI ose pajisje regjistrimi"
+imprimir_variables_MSG3="lexues CD-ROM, DVD-ROM ose BD-ROM"
+imprimir_variables_MSG4="Pajisja ATAPI"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="Shpejtësia e regjistrimit"
+imprimir_lcdgrabcfg_MSG2="Kanali IDE/SCSI ose pajisje regjistrimi"
+imprimir_lcdgrabcfg_MSG3="lexues CD-ROM, DVD-ROM ose BD-ROM"
+imprimir_lcdgrabcfg_MSG4="Pajisja ATAPI"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="I instaluar"
+chequeo_de_aplicaciones_MSG2="NUK INSTALLOHET"
+chequeo_de_aplicaciones_MSG3="Instalo"
+chequeo_de_aplicaciones_MSG4="E RËNDËSISHME:"
+chequeo_de_aplicaciones_MSG5="Instalimi i mjeteve të nevojshme Linux-cdgrab do të funksionojë plotësisht"
+chequeo_de_aplicaciones_MSG6="Të gjitha programet e nevojshme nga Linux-cdgrab janë instaluar në sistemin tuaj"
+chequeo_de_aplicaciones_MSG4B="SHENIM:"
+chequeo_de_aplicaciones_MSG5B="Mjetet që mungojnë u gjetën"
+chequeo_de_aplicaciones_MSG6B="Vegla të instaluara në sistem"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="Kjo variabël është caktuar si parazgjedhje 0,0,0"
+msgdefCANALATAPI_MSG2="Skedari i konfigurimit do të shkruhet me CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Skedari i konfigurimit gjenerohet automatikisht nga Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG5="cdrecord nuk u gjet në sistem"
+nuevo_lcdgrabcfg_MSG6="Instaloni paketën cdrtools."
+nuevo_lcdgrabcfg_MSG7="Mund të vazhdoni konfigurimin duke specifikuar vlerat"
+nuevo_lcdgrabcfg_MSG8="regjistrimi nëse i njihni më parë."
+nuevo_lcdgrabcfg_MSG9="Komanda cdrecord përdoret për regjistrime në CD, DVD dhe disqe BD"
+nuevo_lcdgrabcfg_MSG10="Këto opsione nuk do të jenë funksionale derisa të instalohet paketa."
+nuevo_lcdgrabcfg_MSG11="Mjeti i skanimit të diskut gjithashtu nuk do të jetë funksional, i pranishëm"
+nuevo_lcdgrabcfg_MSG12="në këtë magjistar konfigurimi."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab duhet të konfigurohet në katër hapat e mëposhtëm"
+nuevo_lcdgrabcfg_MSG14="Hapi i parë."
+nuevo_lcdgrabcfg_MSG15="Shpejtësia e regjistrimit"
+nuevo_lcdgrabcfg_MSG16="Vetëm një numër 2, 4, 8, 16, 32... etj"
+nuevo_lcdgrabcfg_MSG17="Hapi i dytë."
+nuevo_lcdgrabcfg_MSG18="Kanali IDE/SCSI ose pajisje regjistrimi:"
+nuevo_lcdgrabcfg_MSG19="A -> ndihmë"
+nuevo_lcdgrabcfg_MSG20="Po skanon..."
+nuevo_lcdgrabcfg_MSG21="Gabim gjatë skanimit të portit IDE/SCSI"
+nuevo_lcdgrabcfg_MSG22="cdrecord nuk u gjet"
+nuevo_lcdgrabcfg_MSG23="Hapi i tretë."
+nuevo_lcdgrabcfg_MSG24="Pajisja CD-ROM, DVD-ROM ose BD-ROM"
+nuevo_lcdgrabcfg_MSG25="L -> Lista e pajisjeve të disponueshme"
+nuevo_lcdgrabcfg_MSG26="Po skanon..."
+nuevo_lcdgrabcfg_MSG27="Porta IDE/SCSI u skanua"
+nuevo_lcdgrabcfg_MSG28="Pajisja do të përdoret nga cdrecord nëpërmjet dev=ATAPI në regjistrimet me shumë sesione"
+nuevo_lcdgrabcfg_MSG30="Pajisja ka një nomenklaturë si 0,0,0 ose 1,0,0 etj."
+nuevo_lcdgrabcfg_MSG31="Përcaktoni pajisjen për të thirrur cdrecord në CD me shumë sesione: "
+nuevo_lcdgrabcfg_MSG32="Konfigurimi nuk është i saktë për CANALATAPI"
+nuevo_lcdgrabcfg_MSG33="Gabim gjatë skanimit të portit IDE/SCSI"
+nuevo_lcdgrabcfg_MSG34="cdrecord nuk u gjet"
+nuevo_lcdgrabcfg_MSG36="Skedari i konfigurimit gjenerohet automatikisht nga Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG37="KONFIGURIMI LINUX-CDGRAB KOMPLETUAR"
+
+# colores
+
+colores_MSG1="Nuk u gjet lista e ngjyrave"
+colores_MSG2="Ngarkimi i ngjyrave të parazgjedhura"
+colores_MSG3="Zgjidh skemën e re të ngjyrave për ndërfaqen LINUX-CDGRAB"
+colores_MSG4="SHKRIMI I ZI"
+colores_MSG5="SHKRIMI STANDARD I NDRITSHEM"
+colores_MSG6="NGJYRA E ZEZE Sfondivi"
+colores_MSG7="FONT I KUQ"
+colores_MSG8="SHKRIMI I ZI I SHKËLQITUR"
+colores_MSG9="NGJYRA E KUQE E SFONDIVE"
+colores_MSG10="FONT I GJELBËR"
+colores_MSG11="SHKRIMI I KUQ I NDRYSHME"
+colores_MSG12="NGJYRA E Sfondit të Gjelbër"
+colores_MSG13="SHKRIMI I VERDH"
+colores_MSG14="FONT I GJELBËR I NDRYSHËM"
+colores_MSG15="NGJYRA E Sfondit PORTOKALLI"
+colores_MSG16="FONT BLU"
+colores_MSG17="SHKRIMI I VERDH I NDRYSHEM"
+colores_MSG18="NGJYRA E SFONDIVE BLU"
+colores_MSG19="FONT MAGENTA"
+colores_MSG20="FONT BLU BRIGHT"
+colores_MSG21="NGJYRA MAGENTA E Sfondit"
+colores_MSG22="BURIMI CYAN"
+colores_MSG23="SHKRIMI I BRITSHTË RIPER"
+colores_MSG24="NGJYRA E Sfondit CYAN"
+colores_MSG25="FONT GRI"
+colores_MSG26="NGJYRA E Sfondit CYAN"
+colores_MSG27="FONT CIANE E NDRYSHME"
+colores_MSG28="NGJYRA E SFONDIVE GRI"
+colores_MSG29="SHKRIMI I DEFAULT"
+colores_MSG30="SHKRIMI I BARDHË I BREDHSHËM"
+colores_MSG31="NGJYRA E KARAKTUAR E SFONDIVE"
+colores_MSG32="Numri i ngjyrës për fontin: "
+colores_MSG33="Numri i ngjyrës së sfondit: "
+colores_MSG34="Numri i ngjyrës për mesazhet paralajmëruese: "
+colores_MSG35="Numri i ngjyrave për mesazhet e etiketës: "
+colores_MSG36="Numri i ngjyrave për proceset e përfunduara me sukses"
+colores_MSG37="Numri i ngjyrave për proceset e përfunduara me gabim: "
+colores_MSG38="Skema e re për LINUX-CDGRAB"
+colores_MSG39="NGJYRA E PËRGJITHSHME E FONTIT"
+colores_MSG40="EMITETET"
+colores_MSG41="NJOFTIMET"
+colores_MSG42="SUKSES"
+colores_MSG43="GABIM"
+colores_MSG44="NGJYRA E HISTORIT"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="LISTA E NGJYRAVE TË DISPOZUESHME:"
+cambiar_esquema_de_color_MSG2="#####SKEMA TË NGJYRAVE#######"
+cambiar_esquema_de_color_MSG3="-----------------------------"
+cambiar_esquema_de_color_MSG4="Menyja e ngjyrave"
+cambiar_esquema_de_color_MSG5="Dështon"
+cambiar_esquema_de_color_MSG6="Etiketat"
+cambiar_esquema_de_color_MSG6b="Njoftimet"
+cambiar_esquema_de_color_MSG7="Menyja e ngjyrave OK Etiketat e paralajmërimeve të dështimit"
+cambiar_esquema_de_color_MSG8="Fut numrin e ngjyrës së re:"
+cambiar_esquema_de_color_MSG9="OPTION E PAVLEFSHME"
+cambiar_esquema_de_color_MSG10="VENDOSJA E NGJYRAVE TË KARAKTUARA."
+cambiar_esquema_de_color_MSG11="  BACKGROUND = BLUE_BACKGROUND"
+cambiar_esquema_de_color_MSG12="  FONT = BARDHË E SHKELTËSISHME"
+cambiar_esquema_de_color_MSG13="  NJOFTIMET = E VERDHË E SHQITSHME"
+cambiar_esquema_de_color_MSG14="  GABIMET = E KUQE E SHQITSHME"
+cambiar_esquema_de_color_MSG15="  GABIMET = E KUQE E SHQITSHME"
+cambiar_esquema_de_color_MSG16="  HITS = GJELBËL E NDRYSHME"
+cambiar_esquema_de_color_MSG17="  TAGS = CYAN i ndritshëm"
+
+# cambia_lector
+
+cambia_lector_MSG1="KONFIGURIMI I MJEDISIT PËR DISKET OPTIK"
+cambia_lector_MSG2="Pajisja aktuale e lidhur me CD-ROM, DVD-ROM ose BD-ROM"
+cambia_lector_MSG3="Pajisja aktuale e lidhur me ndezësin e CD/DVD/BD"
+cambia_lector_MSG4="Pajisja aktuale e lidhur me parametrin dev=ATAPI"
+cambia_lector_MSG5="(mbështetje shumësesionesh për cdrecord)"
+cambia_lector_MSG6="Zgjidh pajisjen në të cilën do të bëhet ndryshimi."
+cambia_lector_MSG7="Fut opsionin:"
+cambia_lector_MSG8="Fut emrin e pajisjes se re"
+cambia_lector_MSG9="nuk korrespondon me një pajisje bllok"
+cambia_lector_MSG10="Pajisja"
+cambia_lector_MSG11="caktuar si parazgjedhje"
+cambia_lector_MSG12="Pajisja e re është:"
+cambia_lector_MSG13="Jo të gjitha versionet e cdrecord pranojnë një pajisje bllokimi si parametër regjistrimi"
+cambia_lector_MSG14="Fut emrin e pajisjes së re ATAPI"
+cambia_lector_MSG15="Konfigurimi nuk është i saktë për CANALATAPI"
+cambia_lector_MSG16="Kjo variabël është caktuar si parazgjedhje 0,0,0"
+cambia_lector_MSG17="Skedari i konfigurimit do të shkruhet me CANALATAPI = 0,0,0"
+cambia_lector_MSG18="Pajisja e re është:"
+cambia_lector_MSG19="ASNJË BËHEN NDRYSHIM NË PAJISJET"
+cambia_lector_MSG4B="Eksportoni vlerat nga skedari i konfigurimit"
+cambia_lector_MSG4C="KËTO VLERA JANË RAPORTUAR NË MJEDISIN:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="Nga kjo meny mund të zgjidhni cilin program"
+cambia_generador_isocd_MSG2="do të përdoret për të gjeneruar imazhe ISO-9660"
+cambia_generador_isocd_MSG3="nga CD-të që ekzistojnë në njësinë e leximit."
+cambia_generador_isocd_MSG4="Konfigurimi aktual:"
+cambia_generador_isocd_MSG5="Përdor dd (komponent GNU coreutils)"
+cambia_generador_isocd_MSG6="Përdor readcd (komponent i cdrtools)"
+cambia_generador_isocd_MSG7="Menyja e mëparshme."
+cambia_generador_isocd_MSG8="Zgjidh një opsion:"
+cambia_generador_isocd_MSG9="Përdorimi i dd si gjenerator iso."
+cambia_generador_isocd_MSG10="Përdorimi i readcd si gjenerator iso."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Vendosni metadatat HFS së bashku me Rock Ridge dhe Joliet"
+establecer_hfs_iso_MSG2="Përdor vetëm të dhënat meta të Rock Ridge dhe Joliet"
+establecer_hfs_iso_MSG3="Menyja e mëparshme."
+establecer_hfs_iso_MSG4="Zgjidh një opsion:"
+establecer_hfs_iso_MSG5="Përdorimi i meta të dhënave HFS, Rock Ridge dhe Joliet"
+establecer_hfs_iso_MSG6="Përdorimi i të dhënave meta të Rock Ridge dhe Joliet"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="Sistemi aktual i njoftimeve"
+cambia_notificaciones_MSG2A="Ndërfaqja grafike GNOME"
+cambia_notificaciones_MSG2B="Ndërfaqja grafike e KDE"
+cambia_notificaciones_MSG2="Ndërfaqja me ncurses"
+cambia_notificaciones_MSG3="Ndërfaqja e tekstit"
+cambia_notificaciones_MSG4="Dalje"
+cambia_notificaciones_MSG5="Zgjidh një opsion:"
+cambia_notificaciones_MSG6="Përdorimi i ndërfaqes së dialog"
+cambia_notidicaciones_MSG6B="Përdorimi i ndërfaqes me Zenity"
+cambia_notidicaciones_MSG6C="Përdorimi i ndërfaqes me kdialog"
+cambia_notificaciones_MSG7="Komanda e dialog nuk u gjet"
+cambia_notificaciones_MSG8="Përdorimi i ndërfaqes së tekstit"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="Gjuha në përdorim:"
+cambiar_idioma_UI_MSG1="Gjuhët e disponueshme aktualisht:"
+cambiar_idioma_UI_MSG2="Fut emrin e gjuhës që do të përdoret"
+cambiar_idioma_UI_MSG3="në ndërfaqen e aplikacionit:"
+cambiar_idioma_UI_MSG4="Gjuha e re e përdorur është:"
+cambiar_idioma_UI_MSG5="Rinise LINUX-CDGRAB"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="Konfigurimi aktual"
+seleccion_gestor_archivos_MSG2="Përdor mc"
+seleccion_gestor_archivos_MSG3="Përdor menaxherin e integruar të tekstit"
+seleccion_gestor_archivos_MSG4="mc nuk mund të gjendet i instaluar në sistem"
+seleccion_gestor_archivos_MSG5="Përdorimi i menaxherit të integruar të tekstit si parazgjedhje"
+seleccion_gestor_archivos_MSG6="mc Utility"
+seleccion_gestor_archivos_MSG7="Tekst i integruar"
+
+# centro_de_control
+
+centro_de_control_MSG1="QENDRA E KONTROLLIT"
+centro_de_control_MSG2="Konfigurim i ri"
+centro_de_control_MSG3="Fshi skedarin e konfigurimit"
+centro_de_control_MSG4="Trego skedarin aktual të konfigurimit dhe vlerat"
+centro_de_control_MSG5="VLERAT E KONFIGURIMIT TË FILEIT:"
+centro_de_control_MSG5B="KONFIGURIMI AKTUAL I PËRDORUR NË MJEDIS:"
+centro_de_control_MSG6="Ndrysho median optike"
+centro_de_control_MSG7="Kontrollo programet e instaluara"
+centro_de_control_MSG8="Skano portin IDE/SCSI me cdrecord"
+centro_de_control_MSG8C="Skano portin IDE/SCSI me cdrskin"
+centro_de_control_MSG8B="Listo disqet e instaluar në sistem me cdrskin"
+centro_de_control_MSG9="Ndrysho programin e gjeneratorit ISO nga CD"
+centro_de_control_MSG9B="Cakto metadatat HFS për ISO-9660"
+centro_de_control_MSG10="Ndrysho ndërfaqen e përdoruesit"
+centro_de_control_MSG10b="Ndrysho ngjyrën"
+centro_de_control_MSG10c="Ndrysho gjuhën e ndërfaqes"
+centro_de_control_MSG11="Ndrysho menaxherin e skedarëve"
+centro_de_control_MSG11B="Çinstaloni programin"
+centro_de_control_MSG12="Shkruaj një opsion: "
+centro_de_control_MSG13="SKEDA E KONFIGURIMIT NUK EKZISTON"
+centro_de_control_MSG14="SKEDA E KONFIGURIMIT NUK GJENDET"
+centro_de_control_MSG15="Skanim"
+centro_de_control_MSG16="Port IDE/SCSI u skanua"
+centro_de_control_MSG17="Gabim gjatë skanimit të portit IDE/SCSI"
+centro_de_control_MSG18="Zgjidh skemën e ngjyrave"
+centro_de_control_MSG19="Zgjidhni ngjyrat në mënyrë arbitrare"
+centro_de_control_MSG20="Menyja e mëparshme"
+centro_de_control_MSG21="Shkruaj një opsion: "
+centro_de_control_MSG22="SKEDA E KONFIGURIMIT NUK EKZISTON"
+centro_de_control_MSG23="SKEDA E KONFIGURIMIT NUK GJENDET"
+centro_de_control_MSG24="Zgjidh skemën e ngjyrave"
+centro_de_control_MSG25="Zgjidhni ngjyrat në mënyrë arbitrare"
+centro_de_control_MSG26="Opsion i pavlefshëm"
+

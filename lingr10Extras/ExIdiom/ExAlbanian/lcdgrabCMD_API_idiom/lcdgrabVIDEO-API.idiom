@@ -1,0 +1,57 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en Albanés para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="KOPATIBILITETI I KONVERSIONIT TË VIDEOVE DISK BLU-RAY"
+conv_video_BDVideo_MSG2="Përcaktoni shtegun e skedarit video për t'u konvertuar:"
+conv_video_BDVideo_MSG3="Përcaktoni emrin e skedarit të videos së re për t'u krijuar:"
+conv_video_BDVideo_MSG4="Skedari video u konvertua me sukses!!"
+conv_video_BDVideo_MSG5="Gabim gjatë konvertimit të skedarit video"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="KONVERSIONI SKEDALEVE VIDEO"
+conv_VideoFich_MSG2="Specifiko skedarin e videos për t'u konvertuar:"
+conv_VideoFich_MSG3="Specifiko skedarin e videos për të gjeneruar:"
+conv_VideoFich_MSG4="KONVERSIONI I SKIDAVE VIDEO KOMPLETUAR"
+conv_VideoFich_MSG5="GABIM KUR KONVERTIM SEKDIN VIDEO"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Specifiko skedarin e videos:"
+extrae_Audio_de_Video_MSG2="Specifikoni skedarin e zërit mp3 për të gjeneruar:"
+extrae_Audio_de_Video_MSG3="NXHJA E TINGURIVE ME SUKSES"
+extrae_Audio_de_Video_MSG4="GABIM KUR NXHET TINGULLI"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Specifiko skedarin e videos:"
+extrae_Fragmento_Video_MSG2="Specifiko skedarin e videos për të gjeneruar:"
+extrae_Fragmento_Video_MSG3="Përcaktoni kohën fillestare (Specifikoni si HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="Përcaktoni kohën e përfundimit (Specifikoni si HH:MM:SS) :"
+extrae_Fragmento_Video_MSG5="VIDEO E SHKURTUAR ME SUKSES"
+extrae_Fragmento_Video_MSG6="GABIM KUR PRIMET VIDEO"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Specifiko skedarin e zërit:"
+mezcla_Audio_Video_MSG2="Specifiko skedarin e videos:"
+mezcla_Audio_Video_MSG3="Specifiko skedarin video për të gjeneruar:"
+mezcla_Audio_Video_MSG4="SKEDA E RI VIDEO E GENERUAR ME SUKSES"
+mezcla_Audio_Video_MSG5="GABIM NË GJERIM TË SKIDAVE VIDEO"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="OPCIONI NUK DISPOZOHET PËR NDËRFAQEN E KONSOLEVE"
+graba_escritorio_MSG2="-- REGJISTRIMI I SESIONIT TE TAPOZIT -- SHTYP CTRL + C PER TE ANULUAR DHE TE NDALE REGJISTRIMIN"
+graba_escritorio_MSG3="REGJISTRIMI I VIDEOVE U KOMPLETUAR"
+
+

@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Albanés para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Futni shtegun e skedarit ose drejtorisë:"
+empaquetar_MSG2="------- Opsionet -------"
+empaquetar_MSG3="Gjeneroni skedarin .tar.gz"
+empaquetar_MSG4="Gjeneroni skedarin .tar.bz2"
+empaquetar_MSG5="Shkruani një opsion: "
+empaquetar_MSG6="Po funksionon"
+empaquetar_MSG7="Opsion i pavlefshëm"
+
+# desempaquetar
+
+desempaquetar_MSG1="Fut shtegun e skedarit:"
+desempaquetar_MSG2="Nuk u gjet DEKOPRESOR"
+desempaquetar_MSG3="OSE"
+desempaquetar_MSG4="NUK EKZISTON"
+desempaquetar_MSG5="Po funksionon"
+desempaquetar_MSG6="shpaketuar"
+desempaquetar_MSG7="Gabim në përpjekjen për të shpaketuar"
+
+# comprime
+
+comprime_MSG1="KOPRESSIMI I IMAZHIT"
+comprime_MSG2="Ngjeshi me bzip2"
+comprime_MSG3="Ngjeshi me gzip"
+comprime_MSG4="Ngjeshi me xz"
+comprime_MSG5="Menyja e mëparshme"
+comprime_MSG6="Po funksionon"
+comprime_MSG7="Ngjeshja e skedarit të imazhit përfundoi"
+comprime_MSG8="Gabim gjatë ngjeshjes me"
+comprime_MSG9="Kompresor i pavlefshëm"
+
+# descomprime
+
+descomprime_MSG1="Shkruani rrugën e skedarit:"
+descomprime_MSG2="---------------------------"
+descomprime_MSG3="Nuk u gjet DEKOPRESOR"
+descomprime_MSG4="OSE"
+descomprime_MSG5="NUK EKZISTON"
+descomprime_MSG6="Po funksionon"
+descomprime_MSG7="të pakompresuar"
+descomprime_MSG8="Gabim në përpjekje për të dekompresuar"
+

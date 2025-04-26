@@ -1,0 +1,21 @@
+Shqiptare
+
+Albanés. Albanian.
+Experimental.
+
+Contiene errores de significado en contexto o traducción propia.
+Por estudio del comportamiento de ciertos caracteres del Albanés en el shell.
+El shell debe tener soporte para ciertos caracteres del Albanés, de lo contrario,
+este idioma no será funcional en el shell.
+Generado con Google Translate.
+
+Contains errors in context or translation.
+This is due to a study of the behavior of certain Albanian characters in the shell.
+The shell must support certain Albanian characters; otherwise,
+the language will not function in the shell.
+Generated with Google Translate.
+
+Gjuha shqipe për linux-cdgrab.
+Eksperimentale, e krijuar me Google Translate.
+Pascual Martínez Cruz; pascual@hotmail.com
+

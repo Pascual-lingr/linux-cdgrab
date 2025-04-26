@@ -1,0 +1,47 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Albanés para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="IMAZHI ISO-9660 I REGJISTRUAR SAKTË NE BLU-RAY"
+grabar_ISO_BD_MSG2="GABIM KUR REGJISTRONI IMAZHIN NE BLU-RAY DISK"
+grabar_ISO_BD_MSG3="IMAGE ISO-9660 NE BD"
+grabar_ISO_BD_MSG4="Përcaktoni shtegun e imazhit ISO-9660 për t'u djegur:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="Skedarët dhe drejtoritë për të krijuar imazhin .iso"
+bd_datos_MSG2="EMTETI DB"
+bd_datos_MSG3="Fut një emër për BD-në e ardhshme:"
+bd_datos_MSG4="Nisja e menaxherit të skedarëve:"
+bd_datos_MSG5=" KRIJIMI I IMAZHIT ...."
+bd_datos_MSG6="punon"
+bd_datos_MSG7="IMAGE ISO-9660 E KRIJUAR NE"
+bd_datos_MSG8="		REGJISTRIMI I BD"
+bd_datos_MSG13="FSHI IMAZHIN..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="Formatimi ose fshirja e nevojshme zbatohet në varësi të statusit të diskut"
+borrar_BDRE_lb_MSG2="BD-RE U FSHI ME SUKSES!!"
+borrar_BDRE_lb_MSG3="GABIM KUR FSHIHET BD-RE"
+

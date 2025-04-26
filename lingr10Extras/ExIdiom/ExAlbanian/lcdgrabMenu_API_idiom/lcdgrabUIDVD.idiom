@@ -1,0 +1,90 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Albanés, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="Zgjidh ndërfaqen e përdoruesit që do të përdoret:"
+SeleccionaIUDVD_MSG2="Përdorni ndërfaqen për dvd+-rw-tools"
+SeleccionaIUDVD_MSG3="Përdorni ndërfaqen për Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="Përdorni ndërfaqen për libburnia"
+SeleccionaIUDVD_MSG5="Menyja e mëparshme"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="REGJISTRIMI DVD"
+menugrabar_dvd_MSG2="-------------- DVD - TË DHËNAT -----------------"
+menugrabar_dvd_MSG3="Kopjo një DVD të të dhënave ISO-9660"
+menugrabar_dvd_MSG4="Krijoni një imazh paraprak të DVD-së në hard disk"
+menugrabar_dvd_MSG5="Digjni një DVD të ri të të dhënave ISO-9660"
+menugrabar_dvd_MSG6="Shto sesion të ri të dhënash në DVD të të dhënave ISO-9660 (DVD me shumë sesione)"
+menugrabar_dvd_MSG7="Kërkon një DVD të regjistruar më parë duke përdorur opsionin e dytë"
+menugrabar_dvd_MSG8="Digjni një imazh të të dhënave ISO-9660 në DVD"
+menugrabar_dvd_MSG9="Djeg një imazh .ext2 në DVD"
+menugrabar_dvd_MSG10="----------------- DVD - VIDEO ------------------"
+menugrabar_dvd_MSG11="Digjni një DVD-Video të re"
+menugrabar_dvd_MSG12="--------------- OPCIONE TE TJERA ---------------"
+menugrabar_dvd_MSG13="Formatoni një DVD+RW/DVD-RW"
+menugrabar_dvd_MSG14="Shfaq informacionin e diskut DVD"
+menugrabar_dvd_MSG0="Menyja e mëparshme"
+menugrabar_dvd_MSGPRINCIPAL="Shkruaj një opsion"
+menugrabar_dvd_MSG15="Skedarët dhe drejtoritë për t'u përfshirë në DVD"
+menugrabar_dvd_MSG16="Po hap menaxherin e skedarëve..."
+menugrabar_dvd_MSG17=".imazhi iso për t'u djegur në DVD"
+menugrabar_dvd_MSG18="Shkruani shtegun e drejtorisë ku ndodhet imazhi . iso që dëshironi të digjni"
+menugrabar_dvd_MSG19="Kërkon versionin e cdrecord me mbështetje DVD."
+menugrabar_dvd_MSG20="Imazhi .ext2 do të regjistrohet në DVD me cdrecord."
+menugrabar_dvd_MSG21="Versioni i cdrecord që ekziston në instalimin tuaj duhet"
+menugrabar_dvd_MSG22="përkrah djegien e DVD."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="ZGJIDH NJË"
+dvd_clonar_MSG2="--- KOPIJET E DISKUT ME IMAZH PARAPAFIKSHME ---"
+dvd_clonar_MSG3="Kopjo një DVD të të dhënave"
+dvd_clonar_MSG4="Krijoni një imazh paraprak të DVD-së në hard disk"
+dvd_clonar_MSG5="--- KOPIJET E DISKUT NË FRUAJ ---"
+dvd_clonar_MSG6="Kopjo një DVD të të dhënave në fluturim"
+dvd_clonar_MSG7="Klononi një DVD të dhënash në fluturim"
+dvd_clonar_MSG8="OPSIONET E KOPJIMIT NË FRUAJNË KËRKOJNË DY DISKE OPTIKE"
+dvd_clonar_MSG9="I INSTALUAR NË KOMPJUTERIN TUAJ, meqenëse TË DHËNAT REGJISTROHEN NDËRSA ËSHTË"
+dvd_clonar_MSG10="LEXO DIREKT NGA DISKu BURIMOR, NËSE VETËM KOMPJUTERI JUAJ KA"
+dvd_clonar_MSG11="NUK DO TË JESH TË MUND TË PËRDORNI KOPJET GJITHASHTU."
+dvd_clonar_MSG0="Menyja e mëparshme"
+dvd_clonar_MSG12="DVD KOPJO TË DHËNAT"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="REGJISTRIMI DVD"
+menugrabar_DVD_MSG2="---------------- DVD - TË DHËNAT -----------------"
+menugrabar_DVD_MSG3="Kopjo të dhënat e DVD-së"
+menugrabar_DVD_MSG4="Digjni një DVD të re të dhënash"
+menugrabar_DVD_MSG5="Djeg imazhin .iso ose .ext2 në DVD"
+menugrabar_DVD_MSG6="Formatoni DVD+RW/DVD-RW"
+menugrabar_DVD_MSG7="Shfaq informacionin e diskut në disk"
+menugrabar_DVD_MSG0="Menyja e mëparshme"
+menugrabar_DVD_MSGPRINCIPAL="Shkruaj një opsion"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="Djeg imazhin ISO-9660 në DVD"
+menugrabar_DVD_libburnia_MSG2="Digjni të dhënat nga hard disku në DVD"
+menugrabar_DVD_libburnia_MSG3="Formatoni DVD"
+menugrabar_DVD_libburnia_MSG4="Formatoni DVD-RW në rritje vijuese"
+menugrabar_DVD_libburnia_MSG5="Formatoni DVD-RW në mbishkrim të kufizuar"
+menugrabar_DVD_libburnia_MSG6="Trego informacionin e makinës"
+menugrabar_DVD_libburnia_MSG8="Listo disqet e instaluar në sistem"
+menugrabar_DVD_libburnia_MSG0="Dalje"
+menugrabar_DVD_libburnia_MSG7="Fut një opsion"
+

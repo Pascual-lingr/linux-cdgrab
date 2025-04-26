@@ -1,0 +1,185 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Albanés para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="ekzekutimi i "
+copia_bin_MSG2="--------------PROCESI I REGJISTRIMIT PO RISHON---------------"
+copia_bin_MSG3="	FSHIJA E FIGURIT"
+copia_bin_MSG4="NJË GABIM KA NDODHUR GJATË Regjistrimit"
+copia_bin_MSG5="Skedari .iso i imazhit të diskut nuk mund të gjendet. Regjistrimi po ndërpritet..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="ekzekutimi i "
+datos_al_vuelo_MSG2="Gabim në tentativën e djegies, riprovim pa mbështetje për djegien e tepërt"
+datos_al_fuelo_MSG3="Kontrollo diskun ose pajisjen burimore"
+datos_al_vuelo_MSG4="është në gjendje të mirë"
+datos_al_vuelo_MSG5="Marrja e numrit të bllokut kryesor nga disku burim"
+datos_al_vuelo_MSG6="KOPJIMI I DISKUT..."
+
+# clonar_cd
+
+clonar_cd_MSG1="ekzekutimi i "
+clonar_cd_MSG2="CD KLONIM ME SUKSES"
+clonar_cd_MSG3="Ndodhi një gabim gjatë klonimit të CD së"
+
+# datos
+
+datos_MSG1="Skedarët dhe drejtoritë për të krijuar imazhin . iso"
+datos_MSG2="CD/DVD/BD LABEL"
+datos_MSG3="Fut një emër për CD/DVD/BD të ardhshme:"
+datos_MSG4="Nisja e menaxherit të skedarëve:"
+datos_MSG5="	KRIJIMI I IMAZHIT. . ."
+datos_MSG6="ekzekutimi i "
+datos_MSG7="IMAZHI ISO-9660 I KRIJUAR NË"
+datos_MSG8="		Djegia e CD/DVD/BD"
+datos_MSG9="PROCESI I KRIJIMIT TË SKIDAVE TË IMAZHIT KA DËSHTUAR"
+datos_MSG10="PËRISHTUR TË KRIJONI NJË TË RI PA MBËSHTETJE HFS (Macintosh)"
+datos_MSG11="FSHIRJA E IMAZHIT ...."
+datos_MSG12="KRIJIMI I IMAZHIT TË RI . . ."
+datos_MSG13="NUK MUND TË REGJISTROHET SAKTË"
+datos_MSG14="------------PROCESI I REGJISTRIMIT PO RISHON-----------"
+datos_MSG15="FSHIRJA E IMAZHIT..."
+datos_MSG16="DJEGJA E TË DHËNAVE ISO-9660 CD/DVD/BD..."
+datos_MSG17="Nuk u gjet."
+datos_MSG18="Po ndërpritet shkrimi i diskut..."
+
+# datoslb
+
+datoslb_MSG1="Gabim: Skedari i imazhit nuk u gjet. Ndërprehet..."
+datoslb_MSG2="PROCESI I REGJISTRIMIT OK"
+datoslb_MSG3="GABIM NË PROCESIN E Regjistrimit"
+
+# borra
+
+borra_MSG0="Menuja e mëparshme"
+borra_MSG1="Zgjidhni mënyrën për të fshirë CD-RW"
+borra_MSG2="----------------------------------"
+borra_MSG3="Fshirja e shpejtë (përdor cdrecord)"
+borra_MSG4="Fshirja e plotë (përdor cdrecord)"
+borra_MSG5="Fshi kërkohet (përdor cdrskin)"
+borra_MSG6="ekzekutimi i"
+borra_MSG7="Zbato formatin e nevojshëm ose fshije sipas statusit të diskut"
+borra_MSG8="CD-RW FSHUAR ME SUKSES!!"
+borra_MSG9="GABIM FSHIR CD-RW"
+borra_MSG10="ME DETYRO fshirjen e CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="GABIM KUR PERPOKONI TË FSHIRNI CD-RW"
+err_borra_cdrw_MSG2="CD-RW I PAPOSTUAR"
+err_borra_cdrw_MSG3="NUK ËSHTË E MUNDUR TË FSHARET KËTË CD-RW"
+err_borra_cdrw_MSG4="KONTROLLO CD-RW PËR DËMTIME FIZIKE"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="ekzekutimi i "
+cerrar_cd_MSG2="CD ËSHTË MBYLLUR ME SUKSES"
+cerrar_cd_MSG3="GABIM NGA MBYLLJA E CD së"
+cerrar_cd_MSG4="MBYLLJA E GJENDJES NË CD TË TË DHËNAVE . . ."
+
+# grabimg
+
+grabimg_MSG1=".iso ose .ext2 imazh për djegie në CD/DVD"
+grabimg_MSG2="Po nis menaxherin e skedarëve."
+grabimg_MSG3="Shkruani shtegun e plotë drejt imazhit të CD/DVD që dëshironi të shkruani:"
+grabimg_MSG4="ekzekutimi i "
+grabimg_MSG5="-----------PROCESI I REGJISTRIMIT PO RISHON-----------"
+grabimg_MSG6="REGJISTRIMI U KOMPLETUAR !!"
+grabimg_MSG7="IMAGE .EXT2 RUAJET ME SUKSES"
+
+# grabimglb
+
+grabimglb_MSG1="Shkruani shtegun e plotë drejt imazhit të CD/DVD që dëshironi të shkruani:"
+grabimglb_MSG2="Djegia e imazhit në disk..."
+grabimglb_MSG3="IMAZHI ISO-9660 U REGJISTRUAR ME SUKSES"
+grabimglb_MSG4="GABIM NË REGJISTRIMIN E IMAZHIT ISO-9660"
+grabimglb_MSG5="Gabim: Skedari i imazhit nuk u gjet. Ndërprehet..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin dhe skedarët .cue për të regjistruar imazhin"
+grabimg_cue_MSG2="Për të regjistruar imazhin bin/cue duhet të dy skedarët"
+grabimg_cue_MSG3="jenë në drejtorinë aktuale."
+grabimg_cue_MSG4="Direktoria aktuale aktive"
+grabimg_cue_MSG5="Fut emrin e skedarit *.cue që i referohet skedarit të imazhit *.bin"
+grabimg_cue_MSG6=".skedari cue: "
+grabimg_cue_MSG7="ekzekutimi i "
+grabimg_cue_MSG8="REGJISTRIMI I KRYER!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="Djeg CD me shumë sesione nga një imazh . iso"
+cd_multi_MSG2="Djeg një sesion të parë në CD nga një imazh . iso"
+cd_multi_MSG3="Digjni CD me shumë sesione nga skedarët në disk"
+cd_multi_MSG4="Digjni sesionet e njëpasnjëshme në CD nga skedarët në hard disk"
+cd_multi_MSG5="Ky opsion kërkon një CD me shumë sesione, me një seancë të regjistruar më parë."
+cd_multi_MSG6="Menyja e mëparshme"
+cd_multi_MSG7=".iso imazh për djegie në CD me shumë sesione"
+cd_multi_MSG8="Specifiko shtegun drejt imazhit .iso"
+cd_multi_MSG9="ekzekutimi i "
+cd_multi_MSG10="¡¡ CD MULTISESIÓN GRABADO CON ÉXITO !!"
+cd_multi_MSG10="CD me shumë sesione u regjistrua me sukses!"
+cd_multi_MSG11="Direktoritë për t'u përfshirë në imazh."
+cd_multi_MSG12="Përcaktoni më poshtë se cilat drejtori të përfshihen"
+cd_multi_MSG13="Përcaktoni një emër për etiketën e CD së:"
+cd_multi_MSG14="KRIJIMI I IMAZHIT..."
+cd_multi_MSG15="KRIJUAR ME SUKSES"
+cd_multi_MSG16="GABIM NË KRIJIMIN E IMAZHIT. NDRYSHON PROCESIN E DJEGJES..."
+cd_multi_MSG17="DJEGJET IMAGE e CD së..."
+cd_multi_MSG18="Menyja e CD së me shumë sesione"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="Duke shqyer CD AUDIO..."
+copia_cd_audio_MSG2="ekzekutimi i "
+copia_cd_audio_MSG3="PUNËT AUDI SHKELQEN ME SUKSES!!"
+copia_cd_audio_MSG4="GABIM NE SHKERJE TE GJENDJEVE AUDIO"
+copia_cd_audio_MSG5="DJEGJE AUDIO CD..."
+copia_cd_audio_MSG6="CD AUDI KOPJUAR ME SUKSES!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav skedarë për t'u djegur në CD"
+wav_a_cd_MSG2="Linux-cdgrab nuk do të kontrollojë madhësinë e drejtorisë"
+wav_a_cd_MSG3="Sigurohuni që ky skedar të mos jetë më i madh se 650 MB në rast"
+wav_a_cd_MSG4="nëse jeni duke përdorur një CD 80 minutëshe."
+wav_a_cd_MSG5="Fut shtegun e drejtorisë së skedarëve .wav"
+wav_a_cd_MSG6="ekzekutimi i "
+wav_a_cd_MSG7="PROCESI I KRYER!"
+
+# cdmixto
+
+cdmixto_MSG1="Projekti i krijimit të CD ve të përzier (imazhi i të dhënave .iso + skedarët audio .wav)"
+cdmixto_MSG2="Linux-cdgrab nuk do të kontrollojë madhësinë e drejtorisë"
+cdmixto_MSG3="ku janë skedarët audio."
+cdmixto_MSG4="Nuk do ta bëjë këtë as nga imazhi . iso që do të digjni"
+cdmixto_MSG5="pas."
+cdmixto_MSG6="Jini në përputhje me madhësinë e çdo gjëje me të cilën shkoni"
+cdmixto_MSG7="për të djegur në CD në tuaj të re."
+cdmixto_MSG8="Specifikoni shtegun e skedarëve audio:"
+cdmixto_MSG9="Specifiko shtegun drejt imazhit iso:"
+cdmixto_MSG10="#################################################"
+cdmixto_MSG11="Regjistrimi i CD ve të përziera: TË DHËNA + AUDIO"
+cdmixto_MSG12="ekzekutimi i "
+cdmixto_MSG13="----CD E PËRZIERUAR E KRIJUAR ME SUKSES-----!!"
+cdmixto_MSG14="------GABIM KUR DIGJET CD E PËRZIER--------"
+
+# discoinfo
+
+discoinfo_MSG1="ekzekutimi i "
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="Porta IDE/SCSI u skanua"
+cdrecord_scan_MSG1="Gabim gjatë skanimit të portit IDE/SCSI"
+cdrecord_scan_MSG2="cdrecord nuk u gjet"
+

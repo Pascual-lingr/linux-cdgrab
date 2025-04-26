@@ -93,6 +93,7 @@ cp -f ./ExLatvian/lingr10lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgrabA
 cp -f ./ExRomanian/lingr10lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExRomanian/lcdgrabparches_idiom
 cp -f ./ExSerbian/lingr10lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExSerbian/lcdgrabparches_idiom
 cp -f ./ExSlovenian/lingr10lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExSlovenian/lcdgrabparches_idiom
+cp -f ./ExAlbanian/lingr10lightscribepatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExAlbanian/lcdgrabparches_idiom
 
 cp -f ./Español/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/Español/lcdgrabparches_idiom
 cp -f ./EspDefNA/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/EspDefNA/lcdgrabparches_idiom
@@ -146,6 +147,7 @@ cp -f ./ExLatvian/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_
 cp -f ./ExRomanian/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExRomanian/lcdgrabparches_idiom
 cp -f ./ExSerbian/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExSerbian/lcdgrabparches_idiom
 cp -f ./ExSlovenian/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExSlovenian/lcdgrabparches_idiom
+cp -f ./ExAlbanian/lingr10reiserfspatch.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExAlbanian/lcdgrabparches_idiom
 
 cp -f ./Español/lingr10ConversionNRG_2_ISO.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/Español/lcdgrabparches_idiom
 cp -f ./EspDefNA/lingr10ConversionNRG_2_ISO.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/EspDefNA/lcdgrabparches_idiom
@@ -199,6 +201,7 @@ cp -f ./ExLatvian/lingr10ConversionNRG_2_ISO.idiom /usr/share/linux-cdgrab/lcdgr
 cp -f ./ExRomanian/lingr10ConversionNRG_2_ISO.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExRomanian/lcdgrabparches_idiom
 cp -f ./ExSerbian/lingr10ConversionNRG_2_ISO.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExSerbian/lcdgrabparches_idiom
 cp -f ./ExSlovenian/lingr10ConversionNRG_2_ISO.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExSlovenian/lcdgrabparches_idiom
+cp -f ./ExAlbanian/lingr10ConversionNRG_2_ISO.idiom /usr/share/linux-cdgrab/lcdgrabAPI_idiom/ExAlbanian/lcdgrabparches_idiom
 
 echo "Parches instalados"
 echo "------- INSTALACION DE COMPLEMENTOS EXTRA FINALIZADA --------"
@@ -291,6 +294,7 @@ cp -f ./ExLatvian/lingr10lightscribepatch.idiom /Programs/linux-cdgrab-1.0/lcdgr
 cp -f ./ExRomanian/lingr10lightscribepatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExRomanian/lcdgrabparches_idiom
 cp -f ./ExSerbian/lingr10lightscribepatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExSerbian/lcdgrabparches_idiom
 cp -f ./ExSlovenian/lingr10lightscribepatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExSlovenian/lcdgrabparches_idiom
+cp -f ./ExAlbanian/lingr10lightscribepatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExAlbanian/lcdgrabparches_idiom
 
 cp -f ./Español/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/Español/lcdgrabparches_idiom
 cp -f ./EspDefNA/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/EspDefNA/lcdgrabparches_idiom
@@ -343,6 +347,7 @@ cp -f ./ExLatvian/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabA
 cp -f ./ExRomanian/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExRomanian/lcdgrabparches_idiom
 cp -f ./ExSerbian/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExSerbian/lcdgrabparches_idiom
 cp -f ./ExSlovenian/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExSlovenian/lcdgrabparches_idiom
+cp -f ./ExAlbanian/lingr10reiserfspatch.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExAlbanian/lcdgrabparches_idiom
 
 cp -f ./Español/lingr10ConversionNRG_2_ISO.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/Español/lcdgrabparches_idiom
 cp -f ./EspDefNA/lingr10ConversionNRG_2_ISO.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/EspDefNA/lcdgrabparches_idiom
@@ -395,6 +400,7 @@ cp -f ./ExLatvian/lingr10ConversionNRG_2_ISO.idiom /Programs/linux-cdgrab-1.0/lc
 cp -f ./ExRomanian/lingr10ConversionNRG_2_ISO.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExRomanian/lcdgrabparches_idiom
 cp -f ./ExSerbian/lingr10ConversionNRG_2_ISO.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExSerbian/lcdgrabparches_idiom
 cp -f ./ExSlovenian/lingr10ConversionNRG_2_ISO.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExSlovenian/lcdgrabparches_idiom
+cp -f ./ExAlbanian/lingr10ConversionNRG_2_ISO.idiom /Programs/linux-cdgrab-1.0/lcdgrabAPI_idiom/ExAlbanian/lcdgrabparches_idiom
 
 echo "Parches instalados"
 echo "------- INSTALACION DE COMPLEMENTOS EXTRA FINALIZADA --------"

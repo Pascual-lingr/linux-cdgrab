@@ -1,0 +1,24 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en Albanés para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+menu_conversion_video_MSG1="KONVERSIONI VIDEO"
+menu_conversion_video_MSG2="------------ KONVERSIONI MES FORMATEVE -----------"
+menu_conversion_video_MSG3="Konverto video në diskun Blu Ray të pajtueshëm me Smart-TV"
+menu_conversion_video_MSG4="Skedar video për konvertim:"
+menu_conversion_video_MSG0="Menyja e mëparshme"
+menu_conversion_video_MSG6="Regjistro sesionin e desktopit"
+menu_conversion_video_MSG7="Konverto skedarin video në format të ndryshëm"
+menu_conversion_video_MSG8="----------------- OPCIONE TË TJERA ---------------"
+menu_conversion_video_MSG9="Përzier skedarin video me skedarin audio"
+menu_conversion_video_MSG10="Nxjerrja e audios MP3 nga skedari video"
+menu_conversion_video_MSG11="Të shkurtosh skedarin e videos"
+

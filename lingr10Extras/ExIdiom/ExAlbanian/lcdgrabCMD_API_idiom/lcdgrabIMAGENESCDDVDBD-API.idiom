@@ -1,0 +1,234 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en Albanés para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="SISTEMI I SKEDAVE IMAGE"
+imagen_linux_fs_MSG2="Zgjidh sistemin e skedarëve: "
+imagen_linux_fs_MSG3="Krijo imazh për një CD-R/RW (702 Mbytes)"
+imagen_linux_fs_MSG4="Krijo imazh për një DVD+RW (4 Gbajt)"
+imagen_linux_fs_MSG5="Krijo imazh për një DVD+RW/DL (8 Gbajt)"
+imagen_linux_fs_MSG5B="Krijo imazh për një BD-R/RE (25 Gbajt)"
+imagen_linux_fs_MSG5C="Krijo skedar imazhi me madhësi të personalizuar"
+imagen_linux_fs_MSG6="Krijimi i skedarit bosh me kapacitet 702 MB"
+imagen_linux_fs_MSG7="Krijimi i skedarit bosh me kapacitet 4 GB"
+imagen_linux_fs_MSG8="Krijimi i skedarit bosh me kapacitet 8 GB"
+imagen_linux_fs_MSG8B="Krijimi i skedarit bosh me kapacitet 25 GB"
+imagen_linux_fs_MSG8C="Krijimi i skedarit bosh me madhësi të personalizuar"
+imagen_linux_fs_MSG9="GABIM: MADHËSIA E IMAZHIT NUK NJOHET. NDËRTOHET..."
+imagen_linux_fs_MSG10="ekzekutimi i "
+imagen_linux_fs_MSG11="Programi do të formatojë skedarin bosh."
+imagen_linux_fs_MSG12="Sistemi do t'ju paralajmërojë se skedari i krijuar më parë nuk është një pajisje bllokimi dhe do t'ju pyesë nëse dëshironi ta formatoni."
+imagen_linux_fs_MSG13="Përgjigjuni në mënyrë pozitive"
+imagen_linux_fs_MSG13="FORMATUAR ME SUKSES"
+imagen_linux_fs_MSG14="Montimi i imazhit . . ."
+imagen_linux_fs_MSG15="GABIM NË FORMATIM TË SKEDIT BASHK"
+imagen_linux_fs_MSG16="Programi ka montuar skedarin e formatuar në"
+imagen_linux_fs_MSG17="Linux-cdgrab do të hapë menaxherin e skedarëve në mënyrë që të mund të operoni në imazhin e montuar"
+imagen_linux_fs_MSG18="Pasi të kopjohen skedarët, çmonto skedarin e formatuar"
+imagen_linux_fs_MSG19="Imazhi i Linux është në këtë direktori"
+imagen_linux_fs_MSG19B="GABIM NË MONTIM TË FIGURIT"
+imagen_linux_fs_MSG20="Skedarët për t'u përfshirë në imazh. Montuar në /mnt/lcdgrab"
+imagen_linux_fs_MSG21="Po nis menaxherin e skedarëve..."
+imagen_linux_fs_MSG22="PARALAJMËRIM:"
+imagen_linux_fs_MSG23="-------------"
+imagen_linux_fs_MSG24="Imazhi"
+imagen_linux_fs_MSG25="ende e montuar"
+imagen_linux_fs_MSG26="GABIM NË KRIJIMIN E SKEDAVE BASHKË ME dd"
+imagen_linux_fs_MSG27="Kontrollo që të kesh hapësirë ​​të lirë në ndarjen e montuar në /"
+imagen_linux_fs_MSG34="SISTEMI I FILEVE PËR FORMATIM TË SKIDAVE"
+imagen_linux_fs_MSG35="GJENERACIONI I SKEDAVE BASHKË ME MADHËSI TË CUSTOMOSUR"
+imagen_linux_fs_MSG36="Specifikoni madhësinë e bllokut të skedarit të ri bosh (vetëm një vlerë numerike):"
+imagen_linux_fs_MSG37="Vlerat e shembullit për madhësinë e bllokut janë: 1024, 2048 (vetëm ext2) ose 4096 (Të gjitha formatet)"
+imagen_linux_fs_MSG38="Specifikoni madhësinë e skedarit bosh për të gjeneruar (vetëm një vlerë numerike):"
+imagen_linux_fs_MSG39="Matje hapësinore për të gjeneruar skedarin bosh:"
+imagen_linux_fs_MSG40="Specifikoni sasinë e hapësirës për t'u përdorur: "
+imagen_linux_fs_MSG41="GABIM NË SPECIFIKIMIN E MATJES SË MADHËSISË"
+imagen_linux_fs_MSG42="Vlera e madhësisë së bllokut:"
+imagen_linux_fs_MSG43="Sasia e hapësirës për skedarin bosh:"
+imagen_linux_fs_MSG44="Vlera e llogaritur në bajt:"
+imagen_linux_fs_MSG45="Vlera e llogaritur për numërimin:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="Aktivizo leximin md5 kur gjeneron . imazhe iso"
+comprobar_lectura_md5_MSG2="Çaktivizoni leximin md5 kur krijoni . imazhe iso"
+comprobar_lectura_md5_MSG3="Menyja e mëparshme"
+comprobar_lectura_md5_MSG4="Konfigurimi aktual:"
+comprobar_lectura_md5_MSG5="Aktivizuar"
+comprobar_lectura_md5_MSG6="I çaktivizuar"
+comprobar_lectura_md5_MSG7="Shuma e leximit MD5 është aktivizuar"
+comprobar_lectura_md5_MSG8="Shuma e leximit MD5 është çaktivizuar"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="Nuk mund ta lexoja emrin e imazhit iso"
+leer_md5sum_MSG2="Duke lexuar md5sum of"
+leer_md5sum_MSG3="Duke shfaqur shumën md5 të imazhit"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="KRIJIMI I IMAZHIT të CD së"
+extraer_isoCD_dd_MSG2="IIMAZHI I KRIJUAR NË"
+extraer_isoCD_dd_MSG3="Nuk u gjet"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="KRIJIMI I IMAZHIT të DVD së"
+extraer_isoDVD_dd_MSG2="ekzekutimi i "
+extraer_isoDVD_dd_MSG3="IIMAZHI I KRIJUAR NË"
+extraer_isoDVD_dd_MSG4="Nuk u gjet"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="ekzekutimi i "
+extraer_iso_readcd_MSG2="IMAZHI U KRIJUAR ME SUKSES"
+extraer_iso_readcd_MSG3="IIMAZHI I KRIJUAR NË"
+extraer_iso_readcd_MSG4="Procesi i regjistrimit po ndërpritet..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="Cd i montuar"
+extraer_iso_mkisofs_MSG2="Krijimi i imazhit..."
+extraer_iso_mkisofs_MSG3="Përputhshmëria me Macintosh është aktivizuar"
+extraer_iso_mkisofs_MSG4="Përdorimi"
+extraer_iso_mkisofs_MSG5="duke ekzekutuar"
+extraer_iso_mkisofs_MSG6="Imazhi i krijuar në drejtori"
+extraer_iso_mkisofs_MSG7="Riprovimi i procesit pa mbështetje Macintosh"
+extraer_iso_mkisofs_MSG8="Imazhi i krijuar në drejtori"
+extraer_iso_mkisofs_MSG9="mkisofs kthen gabime të panjohura kur krijon"
+extraer_iso_mkisofs_MSG10="nga"
+extraer_iso_mkisofs_MSG11="Kontrollo integritetin e të dhënave të"
+extraer_iso_mkisofs_MSG12="Montimi"
+extraer_iso_mkisofs_MSG12B="en"
+extraer_iso_mkisofs_MSG13="genisoimage kthen gabime të panjohura gjatë krijimit"
+extraer_iso_mkisofs_MSG13B="nga"
+extraer_iso_mkisofs_MSG14="Nuk mund të gjej mkisofs ose genisoimage. Ju lutemi instaloni cdrtools ose cdrkit."
+extraer_iso_mkisofs_MSG15="Nuk mund të montohej"
+extraer_iso_mkisofs_MSG16="Imazhi u krijua me sukses në"
+
+# m_comp_img
+
+m_comp_img_MSG1="IMAGE E GJENERUAR SUKSES NE"
+m_comp_img_MSG2="DËSHIRONI TË KOMPRESONI SKJEJIN E IMAZHIT?"
+m_comp_img_MSG3="(s/y) për të ngjeshur; Procesi anulohet me një opsion tjetër."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="Po nis menaxherin e skedarëve..."
+generar_iso_directorio_MSG2="Fut një emër për CD/DVD/BD të ardhshme"
+generar_iso_directorio_MSG3="KRIJIMI I IMAZHIT..."
+generar_iso_directorio_MSG4="Përputhshmëria me Macintosh është aktivizuar"
+generar_iso_directorio_MSG5="Përdorimi"
+generar_iso_directorio_MSG6="punon"
+generar_iso_directorio_MSG7="IMAZH E KRIJUAR NË DIRECTOR"
+generar_iso_directorio_MSG8="PROCESI I KRIJIMIT TË IMAZHIT KA DËSHTUAR"
+generar_iso_directorio_MSG9="KRIJIMI I IMAZHIT PA KOMPATIBILITET MACINTOSH"
+generar_iso_directorio_MSG10="Nuk mund të gjej mkisofs ose genisoimage. Instaloni cdrtools ose cdrkit."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="Futni një emër për DVD/BD në e ardhshme"
+generar_bdv_udf_directorio_MSG2="Specifikoni drejtorinë për të gjeneruar imazhin e videos:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="Specifiko etiketën e diskut:"
+generar_iso_directorio_libburnia_MSG2="Specifiko direktoriumin për të gjeneruar imazhin iso-9660:"
+generar_iso_directorio_libburnia_MSG3="Imazhi ISO9660 u krijua me sukses!!"
+generar_iso_directorio_libburnia_MSG4="Gabim në krijimin e imazhit ISO-9660 me xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="Skedarët dhe drejtoritë për t'u përfshirë në imazhin . iso"
+imagenISO_MSG2="ZGJIDH NJË OPTION"
+imagenISO_MSG2B="-----------------"
+imagenISO_MSG3="Gjeneroni imazhin ISO-9660 nga CD (përdor dd)"
+imagenISO_MSG4="Gjeneroni imazhin ISO-9660 nga DVD (përdor dd)"
+imagenISO_MSG5="Gjeneroni imazhin ISO-9660 nga CD (përdor readcd)"
+imagenISO_MSG6="Gjeneroni imazhin ISO-9660 nga disku CD ose DVD (përdor mkisofs)"
+imagenISO_MSG7="Krijo imazh ISO-9660 nga të dhënat e diskut të ngurtë (përdor mkisofs)"
+imagenISO_MSG8="Menyja e mëparshme"
+imagenISO_MSG9="KRIJIMI I IMAZHIT"
+imagenISO_MSG10="Krijoni imazhin ISO-9660 nga të dhënat e diskut (përdor xorriso)"
+imagenISO_MSG11="Krijo imazh iso/udf nga një CD/DVD/BD (përdor mkisofs)"
+imagenISO_MSG12="Krijo imazh iso/udf nga të dhënat e diskut (përdor mkisofs)"
+imagenISO_MSG13="Menyja e FORMATIT ISO-9660"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="Krijo imazh UDF/ISO nga të dhënat e diskut (përdor mkisofs)"
+imagenISO_MSG15="Krijo imazh UDF/ISO me mbështetje DVD Video (përdor mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="Futni pajisjen e bllokut të burimit nga e cila do të bëhet imazhi"
+imagen_img_MSG2="-----------------------------------------------------------------"
+imagen_img_MSG3="Pajisjet e regjistruara në /etc/fstab dhe /etc/mtab"
+imagen_img_MSG4="Dalja e komandës montuese:"
+imagen_img_MSG5="Fut emrin e pajisjes: "
+imagen_img_MSG6="Krijimi i imazhit .img të pajisjes bllok"
+imagen_img_MSG7="duke ekzekutuar"
+imagen_img_MSG8="IMAGE E PAJISJES E KRIJUAR NE"
+
+# monta_img
+
+monta_img_MSG1="ISO ose ext2 imazhi për montim."
+monta_img_MSG2="Fut shtegun e drejtorisë ku ndodhet imazhi që do të montohet:"
+monta_img_MSG3="IMAZH E MONTUR CD:"
+monta_img_MSG4="GABIM NË MONTIM TË FIGURIT"
+monta_img_MSG5="NUK GJET"
+monta_img_MSG6="PIKA MOUNT NUK EKZISTON"
+monta_img_MSG7="GABIM I PAPRITUAR"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO ose ext2 imazhi për t'u çmontuar."
+desmonta_img_MSG2="IMAZH E UNMOUNTAR"
+desmonta_img_MSG3="Nuk u gjet asnjë imazh i montuar"
+desmonta_img_MSG4="Dalja e montimit :"
+desmonta_img_MSG5="Ju mund të specifikoni direkt shtegun absolut të drejtorive të një imazhi."
+desmonta_img_MSG6="Të tilla si /tmp/lcdgrabimg.iso ose drejtoria e montimit për imazhin si p.sh. /mnt/lcdgrab"
+desmonta_img_MSG7="Nëse nuk specifikohet, mund të kërkohet duke përdorur menaxherin e skedarëve"
+desmonta_img_MSG8="Nisja e menaxherit të skedarëve"
+desmonta_img_MSG9="Përcaktoni shtegun për në imazh."
+desmonta_img_MSG10="IMAZH E UNMOUNTAR"
+desmonta_img_MSG11="GABIM NGA ÇMOUNTIMI I IMAZHIT"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg imazhi për t'u konvertuar në .iso"
+nrg_a_iso_MSG2="Fut shtegun e imazhit .nrg (Nero Burning ROM) për konvertim"
+nrg_a_iso_MSG3="Konvertimi i imazhit..."
+nrg_a_iso_MSG4="Rruga drejt imazhit të burimit .nrg"
+nrg_a_iso_MSG5="Nuk ekziston ose i korrespondon një drejtorie"
+nrg_a_iso_MSG6="Rruga e pavlefshme."
+nrg_a_iso_MSG7="Ky është tashmë një imazh i mëparshëm ISO-9660, ai nuk do të konvertohet."
+nrg_a_iso_MSG8="Po kopjohet me një shtesë tjetër..."
+nrg_a_iso_MSG9="KOPJA E KOMPLETUAR"
+nrg_a_iso_MSG10="punon"
+nrg_a_iso_MSG11="Imazhi u konvertua me sukses"
+nrg_a_iso_MSG12="GABIM NGA KRIJIMI I IMAGE .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="Gjeneroni skedarin e përshkrimit .cue nga imazhi .bin"
+GenerarArchivocue_MSG2="Direktoria aktuale aktive"
+GenerarArchivocue_MSG3="Shkruani vetëm shtegun e drejtorisë ku"
+GenerarArchivocue_MSG4="gjeni skedarin e imazhit:"
+GenerarArchivocue_MSG5="Fut emrin e imazhit .bin ku do të jetë"
+GenerarArchivocue_MSG6="gjeneroni skedarin përkatës .cue"
+GenerarArchivocue_MSG7=".cue SKEDA PERSHKRIMI I GENERUAR ME SUKSES"
+GenerarArchivocue_MSG8="GABIM NGA GJENERIMI I SKEDAVE TË PËRSHKRIMIT .cue"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="punon"
+ImagenbincueCDDVD_MSG2=".BIN .IMAZHI I DISKUT CUE U GENERUAR ME SUKSES"
+

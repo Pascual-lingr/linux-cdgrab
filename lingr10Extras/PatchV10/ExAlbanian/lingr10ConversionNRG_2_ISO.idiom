@@ -1,0 +1,37 @@
+# Idioma Albanés para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Shtypni ENTER për të vazhduar..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="========================================="
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 KONVERSIONI .NRG NE .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="Fut shtegun e imazhit .nrg që dëshiron të konvertosh"
+convertir_imagen_nrg_MSG1B="Fut shtegun e imazhit .iso që dëshiron të gjenerosh"
+convertir_imagen_nrg_MSG2="punon"
+convertir_imagen_nrg_MSG3="Konvertimi i suksesshëm i imazhit .nrg në .iso"
+convertir_imagen_nrg_MSG4="Gabim në konvertimin e imazhit .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="Mbështetje për konvertimin e imazhit në linux-cdgrab"
+creditospatchnrgaiso_MSG2="Konvertimi i imazheve .nrg në .iso duke përdorur nrg2iso"
+creditospatchnrgaiso_MSG3="Shpërndaje sipas licencës GPL v2"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="Versioni i komandës:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="Konverto imazhin .nrg në .iso"
+lingr10ConversionNRG_2_ISO_MSG2="Rreth"
+lingr10ConversionNRG_2_ISO_MSG3="Menyja e mëparshme"
+lingr10ConversionNRG_2_ISO_MSG4="Opsion i pavlefshëm"
+

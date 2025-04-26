@@ -1,0 +1,73 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabacion en CD.
+# Traducción experimental al Albanés, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="ZGJIDH NJË OPSION"
+clonar_MSG2="------ KOPIJET E DISKUT ME IMAZH PARAPAFIKSHME -------"
+clonar_MSG3="Kopjo një CD të të dhënave"
+clonar_MSG4="Krijoni një imazh të mëparshëm CD në hard disk"
+clonar_MSG5="------------ KOPIJET E DISKUT NË FLUTUAR -------------"
+clonar_MSG6="Kopjo një CD të të dhënave në fluturim"
+clonar_MSG7="Klononi një CD të dhënash në fluturim"
+clonar_MSG7B="Kopjo një CD audio në fluturim"
+clonar_MSG8="OPCIONET E KOPJES FLUTUR KËRKOHEN DY NJËSI OPTIKE"
+clonar_MSG9="I INSTALUAR NË KOMPJUTERIN TUAJ, meqenëse TË DHËNAT ËSHTË REGJISTRUARA NDËRSA"
+clonar_MSG10="LEXO DIREKT NGA DISKU I ORIGJINËS, NËSE KA VETËM KOMPJUTERI TUAJ"
+clonar_MSG11="NUK DO TË MUND TË PËRDORË KOPJET NË FLUTURIM."
+clonar_MSG12B="KOPY TË DHËNAT E CD së"
+clonar_MSG0="Menyja e mëparshme"
+
+# mgrabacd
+
+mgrabacd_MSG1="Të dhënat e CD-së NGA HARD DISK"
+mgrabacd_MSG2="Djeg një CD të re të dhënash (përdor cdrtools)"
+mgrabacd_MSG3="Djeg një CD të re të dhënash (përdor libburnia)"
+mgrabacd_MSG4="Menyja e mëparshme"
+mgrabacd_MSG5="Fut një opsion"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="REGJISTRIMI I IMAZHIT TË TË DHËNAVE"
+mgrabaimg_MSG2="Digjni imazhin iso ose ext2 në CD-R/RW (përdorni cdrtools)"
+mgrabaimg_MSG3="Djeg imazhin iso në CD-R/RW (përdor libburnia)"
+mgrabaimg_MSG4="Menyja e mëparshme"
+mgrabaimg_MSG5="Fut një opsion"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Djeg një CD audio nga skedarët .wav"
+mgrabararchivosaudio_MSG2="Digjni një CD audio nga skedarët .mp3"
+mgrabararchivosaudio_MSG3="Digjni një CD audio nga skedarët .ogg"
+mgrabararchivosaudio_MSG0="Menyja e mëparshme"
+mgrabararchivosaudio_MSG0B="Shkruaj një opsion"
+mgrabararchivosaudio_MSG4="Digjni një CD audio nga skedarët .flac"
+mgrabararchivosaudio_MSG5="REGJISTRIMI CD-AUDIO NGA SKEQET"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="REGJISTRIMI NE CD"
+menugrabar_cd_MSG2="----------------- CD - TË DHËNAT -----------------"
+menugrabar_cd_MSG3="Kopjo të dhënat e CD së"
+menugrabar_cd_MSG4="Digjni një CD të re të të dhënave"
+menugrabar_cd_MSG5="Digjni një CD të re të të dhënave me shumë sesione"
+menugrabar_cd_MSG6="Digjni imazhin .iso ose .ext2 në CD"
+menugrabar_cd_MSG7="Djeg imazhin .bin/.cue në CD"
+menugrabar_cd_MSG8="------------------- CD - AUDIO -------------------"
+menugrabar_cd_MSG9="Rip një CD audio"
+menugrabar_cd_MSG13="---------------- OPCIONE TE TJERA ----------------"
+menugrabar_cd_MSG14="Digjni një CD të përzier (të dhëna + audio)"
+menugrabar_cd_MSG15="Fshi një CD-RW"
+menugrabar_cd_MSG16="Mbyll CD në e hapur"
+menugrabar_cd_MSG17="Shfaq informacionin e diskut në disk"
+menugrabar_cd_MSG18="Digjni një CD audio nga skedarët e diskut"
+menugrabar_cd_MSG0="Menyja e mëparshme"
+menugrabar_cd_MSGPRINCIPAL="Shkruaj një opsion"
+

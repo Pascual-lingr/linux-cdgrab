@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Albanés para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="PAJISJET AKTUALISHT TË MENDUARA NË SISTEM"
+montar_dispositivos_MSG1B="MBLEDHJA/SHKAKTIMI I PAJISJEVE"
+montar_dispositivos_MSG2="OPTIONS LINUX-CDGRAB"
+montar_dispositivos_MSG3="Nxirr diskun nga lexuesi CD/DVD/BD"
+montar_dispositivos_MSG4="Nxirr diskun nga ndezësi i CD/DVD/BD"
+montar_dispositivos_MSG5="Mount CD-ROM/DVD-ROM/BD-ROM lexues"
+montar_dispositivos_MSG6="Çkyç CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="Ngjito ose çmonto pajisjen me dorë"
+montar_dispositivos_MSG0="Menyja e mëparshme"
+montar_dispositivos_MSG8="CD/DVD/BD e montuar në"
+montar_dispositivos_MSG9="SHTYP ENTER PËR VAZHDIM..."
+montar_dispositivos_MSG10="Gabim gjatë montimit të CD/DVD/BD në"
+montar_dispositivos_MSG11="CD/DVD/BD është çmontuar"
+montar_dispositivos_MSG12="Gabim në çmontimin e CD/DVD/BD"
+montar_dispositivos_MSG13="Shkruani pajisjen për ta montuar/çmontuar:"
+montar_dispositivos_MSG14="Fut pikën e montimit:"
+montar_dispositivos_MSG15="nuk korrespondon me një pajisje bllok"
+montar_dispositivos_MSG16="Pika e montimit nuk u gjet"
+montar_dispositivos_MSG17="Pika e parazgjedhur e montimit"
+montar_dispositivos_MSG18="Zgjidh opsionin:"
+montar_dispositivos_MSG19="Mount"
+montar_dispositivos_MSG20="në"
+montar_dispositivos_MSG21="Çiko"
+montar_dispositivos_MSG22="e"
+montar_dispositivos_MSG23="montuar në:"
+montar_dispositivos_MSG24="GABIM KUR MONITOHET"
+montar_dispositivos_MSG25="në"
+montar_dispositivos_MSG26="u çmontuar nga"
+montar_dispositivos_MSG27="GABIM KUR SHKAKON"
+montar_dispositivos_MSG28="e"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Dalja e komandës së montimit"
+Montar_Imagenes_MSG1B="MONTIMI/ÇMONTIMI I SKEDAVE IMAGE"
+Montar_Imagenes_MSG2="Zgjidh një opsion"
+Montar_Imagenes_MSG3="Mount imazhin e CD/DVD/BD"
+Montar_Imagenes_MSG4="Çkyç imazhin e CD/DVD/BD"
+Montar_Imagenes_MSG5="Menyja e mëparshme"
+

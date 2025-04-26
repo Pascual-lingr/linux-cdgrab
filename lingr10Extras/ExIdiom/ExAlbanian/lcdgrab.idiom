@@ -1,0 +1,45 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Albanés para la aplicación principal #
+# Traducción experimental.                         #
+# Generado con Google Translate.                   #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Skedari gjenerohet automatikisht nga LINUX-CDGRAB 1.0"
+creacion_de_Depot_MSG2="Ky skedar së bashku me drejtorinë"
+creacion_de_Depot_MSG3="janë krijuar automatikisht"
+creacion_de_Depot_MSG4="nga aplikacioni Linux-cdgrab kur verifikon se nuk ekziston në shpërndarjen tënde Linux"
+creacion_de_Depot_MSG5="drejtoria"
+creacion_de_Depot_MSG6="Linux-cdgrab përdor këtë direktori për të shkruar skedarë të përkohshëm dhe imazhe të pajisjes (iso, img etj.)"
+creacion_de_Depot_MSG8="Depot përdoret nga GoboLinux për të ruajtur skedarë të përkohshëm"
+creacion_de_Depot_MSG9="Qëllimi i këtij skedari është vetëm për qëllime informative, mund ta fshini lirisht pasi ta lexoni."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="PARALAJMËRIM:"
+main_IDSISTEMA_MSG2="Sistemi operativ nuk mbështetet."
+main_IDSISTEMA_MSG3="Nëse ka probleme në funksionimin e aplikacionit, përdorni GNU/Linux"
+
+# argumentos
+
+main_arg_MSG1="Nuk është një argument i vlefshëm"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="gjetur"
+main_cdkit_test_MSG2="lidhja me wodim krijuar"
+main_cdkit_test_MSG3="lidhja me genisoimage u krijua"
+main_cdkit_test_MSG4="lidhja me icedax u krijua"
+
+# pgm principal
+
+pgm_principal_MSG1="FATAL: Nuk u gjet asnjë shpërndarje e saktë e drejtorisë."
+pgm_principal_MSG2="NJË I HUAJ"
+

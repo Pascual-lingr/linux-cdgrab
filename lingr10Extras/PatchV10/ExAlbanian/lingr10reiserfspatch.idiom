@@ -1,0 +1,76 @@
+# Idioma Albanés para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Shtypni ENTER për të vazhduar..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 SUPPORT REISERFS."
+cabecera_interfaz_MSG3="=================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Mount daljen e komandës:"
+formatear_disco_reiserfs_MSG2="Specifikoni pajisjen e bllokimit për të formatuar: "
+formatear_disco_reiserfs_MSG3="Pajisja u formatua me sukses"
+formatear_disco_reiserfs_MSG4="Gabim në formatimin e pajisjes"
+formatear_disco_reiserfs_MSG5="PROCESS KOMPLETUAR"
+formatear_disco_reiserfs_MSG6="Po çmontojmë pajisjen..."
+formatear_disco_reiserfs_MSG7="Po formaton diskun në ReiserFS..."
+formatear_disco_reiserfs_MSG8="Po funksionon"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="FORMATUAR ME SUKSES"
+formatear_img_reiserfs_MSG2="GABIM KUR FORMATON SKIJIN BASHK"
+formatear_img_reiserfs_MSG3="Po gjeneron skedar bosh..."
+formatear_img_reiserfs_MSG4="Po funksionon"
+formatear_img_reiserfs_MSG5="Formatimi i skedarit bosh në ReiserFS..."
+formatear_img_reiserfs_MSG6="GJENERATI I SKEDAVE BASHKË ME MADHËSI TË CUSTOMOSUR"
+formatear_img_reiserfs_MSG7="Specifikoni madhësinë e skedarit bosh për të gjeneruar (vetëm një vlerë numerike):"
+formatear_img_reiserfs_MSG8="Matje hapësinore për të gjeneruar skedarin bosh:"
+formatear_img_reiserfs_MSG9="Specifikoni matjen e hapësirës për t'u përdorur: "
+formatear_img_reiserfs_MSG10="GABIM KUR SPECIFON MATJEN E MADHËSISË"
+formatear_img_reiserfs_MSG11="Vlera e madhësisë së bllokut:"
+formatear_img_reiserfs_MSG12="Sasia e hapësirës për skedarin bosh:"
+formatear_img_reiserfs_MSG13="Vlera e llogaritur në bajt:"
+formatear_img_reiserfs_MSG14="Vlera e llogaritur për numërimin:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Krijo imazh për një CD-R/RW (702 Mbytes)"
+m_img_CDDVDBD_reiserfs_MSG2="Krijo imazh për një DVD+RW (4 Gbajt)"
+m_img_CDDVDBD_reiserfs_MSG3="Krijo imazh për një DVD+RW/DL (8 Gbajt)"
+m_img_CDDVDBD_reiserfs_MSG4="Krijo imazh për një BD-R/RE (25 Gbajt)"
+m_img_CDDVDBD_reiserfs_MSG5="Krijo skedar imazhi me madhësi të personalizuar"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Dalje"
+imgr_tmp_MSG1="Fshi të gjithë skedarët e imazhit reiserfs"
+imgr_tmp_MSG2="Ngjit ose çmonto skedarin e imazhit"
+imgr_tmp_MSG3="Skedarët e imazhit në"
+imgr_tmp_MSG4="Zgjidh një opsion"
+imgr_tmp_MSG5="Skedarët e imazhit të fshirë"
+imgr_tmp_MSG6="Mount imazhin"
+imgr_tmp_MSG7="Zbrisni imazhin"
+imgr_tmp_MSG8="Imazhi i montuar"
+imgr_tmp_MSG9="Imazhi i çmontuar"
+imgr_tmp_MSG10="Opsion i pavlefshëm"
+imgr_tmp_MSG11="Specifiko imazhin për montim ose çmontim:"
+imgr_tmp_MSG12="Gabim gjatë montimit të imazhit"
+imgr_tmp_MSG13="Gabim gjatë çmontimit të imazhit"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Formatoni diskun në ReiserFS"
+lingr10reiserfspatch_MSG2="Krijo imazh ReiserFS për CD/DVD/BD"
+lingr10reiserfspatch_MSG3="Operacionet në imazhet ReiserFS"
+lingr10reiserfspatch_MSG4="Opsion i pavlefshëm"
+lingr10reiserfspatch_MSG0="Dalje"
+

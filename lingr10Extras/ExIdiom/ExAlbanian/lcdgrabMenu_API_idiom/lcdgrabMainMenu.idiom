@@ -1,0 +1,137 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Albanés, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# Ndihma
+
+Ndihma_MSG1="Linux-cdgrab nuk mund të gjejë redaktuesin e tekstit vi"
+Ndihma_MSG2="Fut emrin e një redaktuesi teksti të instaluar në sistemin tuaj"
+Ndihma_MSG3="Nuk u gjet EDAKTOR I INSTALUAR"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="Skedari i krijuar automatikisht nga LINUX-CDGRAB 1.0"
+creacion_de_mnt_MSG2="Ky skedar së bashku me drejtorinë"
+creacion_de_mnt_MSG3="janë krijuar automatikisht"
+creacion_de_mnt_MSG4="nga aplikacioni Linux-cdgrab kur verifikon se nuk ekziston në shpërndarjen tënde Linux"
+creacion_de_mnt_MSG5="drejtoria"
+creacion_de_mnt_MSG6="Linux-cdgrab përdor këtë direktori për të montuar diskun e tij CD-ROM/DVD-ROM/BD-ROM"
+creacion_de_mnt_MSG7="Direktoria"
+creacion_de_mnt_MSG8="nuk do të fshihet nëse Linux-cdgrab çinstalohet pasi zakonisht është"
+creacion_de_mnt_MSG9="Pika e parazgjedhur e montimit për /dev/cdrom në shumicën e shpërndarjeve Linux."
+creacion_de_mnt_MSG10="Nëse shpërndarja juaj përdor një drejtori tjetër për të montuar pajisjen /dev/cdrom,"
+creacion_de_mnt_MSG11="Nuk do të krijojë asnjë papajtueshmëri kur përpiqeni të aksesoni të dhënat në njësinë tuaj"
+creacion_de_mnt_MSG12="edhe pse nëse Linux-cdgrab është çinstaluar, mund të bëni pa"
+creacion_de_mnt_MSG13="Qëllimi i këtij skedari është vetëm për qëllime informative, mund ta fshini lirisht pasi ta lexoni."
+
+# creditos
+
+creditos_MSG1="Shpërndaje sipas licencës GPL v2"
+creditos_MSG2="Më shumë informacion në www.gnu.org"
+
+creditos_MSG3="Pascual Martínez Cruz, krijues dhe mbajtës"
+creditos_MSG4="Raporti i gabimeve: pascual89@hotmail.com"
+creditos_MSG5="Uebfaqja e programit: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="Bazuar në LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Ngarkimi"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="SYNTAX"
+lcdgrab_sintaxis_MSG2="Printo këtë ndihmë"
+lcdgrab_sintaxis_MSG3="Printo versionin Linux-cdgrab"
+lcdgrab_sintaxis_MSG4="specifikon kanalin IDE ose pajisjen e regjistrimit"
+lcdgrab_sintaxis_MSG5="o"
+lcdgrab_sintaxis_MSG6="specifikon shpejtësinë e regjistrimit"
+lcdgrab_sintaxis_MSG7="specifikon diskun CD-ROM/DVD-ROM/BD-ROM"
+lcdgrab_sintaxis_MSG8="specifikon kanalin IDE ATAPI të regjistruesit"
+lcdgrab_sintaxis_MSG9="Opsionet -G -V -L dhe -CA nënkuptojnë njëra tjetrën."
+lcdgrab_sintaxis_MSG9B="Opsionet -iut -ium -iug dhe -iuk janë të pavarura nga njëra tjetra,"
+lcdgrab_sintaxis_MSG9C="plotësues i -G -V -L dhe -CA, dhe i pavarur midis -h dhe -v"
+lcdgrab_sintaxis_MSG10="Opsionet -h dhe -v janë të pavarura nga njëri-tjetri dhe nga pjesa tjetër."
+lcdgrab_sintaxis_MSG11="Shembuj:"
+lcdgrab_sintaxis_MSG12="pajisje"
+lcdgrab_sintaxis_MSG13="numri"
+lcdgrab_sintaxis_MSG14="ndërfaqja e tekstit"
+lcdgrab_sintaxis_MSG15="ndërfaqja me ncurses"
+lcdgrab_sintaxis_MSG16="ndërfaqe grafike me GTK"
+lcdgrab_sintaxis_MSG17="ndërfaqe grafike me Qt"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="Fut shtegun e skriptit:"
+main_lcdgrabopdep_MSG2="Rruga e pavlefshme"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="Arna të instaluara:"
+main_lcdgrabopdeppatch_MSG2="Fut shtegun e patch-it:"
+main_lcdgrabopdeppatch_MSG3="Nuk u gjet"
+
+# menu principal dialog
+main_lcdgrabop9uidia="NGARKONI NJË PACH SHTESË"
+
+# menu principal texto
+
+main_lcdgrabop1_text="REGJISTRIM CD\t\t\t\t="
+main_lcdgrabop2_text="REGJISTRIM DVD\t\t\t\t="
+main_lcdgrabop3_text="REGJISTRIM BD\t\t\t\t="
+main_lcdgrabop4_text="OPERACIONET E DISKUVE\t\t\t="
+main_lcdgrabop5_text="KRIJIMI I IMAZHIT\t\t\t="
+main_lcdgrabop6_text="KONVERTIMI AUDIO\t\t\t\t="
+main_lcdgrabop6b_text="KONVERTIMI I VIDEO\t\t\t="
+main_lcdgrabop7_text="NGJITH OSE SHKYQ CD/DVD/BD\t\t="
+main_lcdgrabop8_text="MENDO OSE SHKELQE IMAZHI\t\t\t="
+main_lcdgrabop9_text="NGARKONI NJË PACH SHTESË\t\t="
+main_lcdgrabop10_text="QENDRA E KONTROLLIT\t\t\t="
+main_lcdgrabop0_text="DIL JASHTË\t\t\t\t="
+main_lcdgrabet1_text="OPCIONE TE TJERA ##\t\t="
+main_lcdgrabopEe_text="Nxirr diskun nga disku\t\t="
+main_lcdgrabopTD_text="Shfaq drejtorinë"
+tabs="\t\t="
+main_lcdgrabopG_text="Menaxheri i skedarëve\t\t="
+main_lcdgrabopH_text="Ndihma\t\t\t\t="
+main_lcdgrabopA_text="Rreth\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="REGJISTRIM CD"
+main_lcdgrabop2="REGJISTRIM DVD"
+main_lcdgrabop3="REGJISTRIM BD"
+main_lcdgrabop4="OPERACIONET E DISKUVE"
+main_lcdgrabop5="KRIJIMI I IMAZHIT"
+main_lcdgrabop6="KONVERTIMI AUDIO"
+main_lcdgrabop6b="KONVERTIMI I VIDEO"
+main_lcdgrabop7="NGJITH OSE SHKYQ CD/DVD/BD"
+main_lcdgrabop8="MENDO OSE SHKELQE IMAZHI"
+main_lcdgrabop9="NGARKONI NJË PACH SHTESË"
+main_lcdgrabop10="QENDRA E KONTROLLIT"
+main_lcdgrabop0="DIL JASHTË"
+main_lcdgrabet1="OPCIONE TE TJERA ##"
+main_lcdgrabopEe="Nxirr diskun nga disku"
+main_lcdgrabopTD="Shfaq drejtorinë"
+main_lcdgrabopG="Menaxheri i skedarëve"
+main_lcdgrabopH="Ndihma"
+main_lcdgrabopA="Rreth"
+main_lcdgrabopPRINCIPAL="Shkruani një opsion:"
+MSG1_MAIN="Zgjedhja e H tregon përdorimin e opsioneve."
+main_lcdgrabopA_MSG1="Vrapimi në:"
+

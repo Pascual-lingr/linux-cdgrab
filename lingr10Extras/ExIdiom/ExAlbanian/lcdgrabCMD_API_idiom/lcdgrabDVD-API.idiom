@@ -1,0 +1,171 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Albanés para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Pajisja e regjistrimit si"
+buscar_grabadora_MSG1B="E vlefshme"
+buscar_grabadora_MSG2="Pajisja e regjistrimit si"
+buscar_grabadora_MSG2B="Gabim"
+buscar_grabadora_MSG3="Mjetet dvd+-rw-tools nuk e pranojnë pajisjen e regjistrimit si"
+buscar_grabadora_MSG4="Për të djegur DVD duke përdorur veglat dvd+rw, duhet të specifikoni ndezësin tuaj si pajisje bllokuese."
+buscar_grabadora_MSG5="Shembull"
+buscar_grabadora_MSG6="ose"
+buscar_grabadora_MSG7="Duke shfaqur pajisjet ekzistuese të sistemit në /dev"
+buscar_grabadora_MSG8="Fut pajisjen e bllokimit që korrespondon me regjistruesin tuaj DVD"
+buscar_grabadora_MSG9="Asnjë lloj apo opsion regjistruesi nuk është specifikuar."
+buscar_grabadora_MSG10="PAJISJA E KONFIGURUAR PËR REGJISTRIMIN"
+buscar_grabadora_MSG11="Pajisja e regjistrimit është eksportuar në mjedisin e guaskës si"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Vlera e mundshme e vlefshme vetëm për cdrecord"
+buscar_grabadoralb_MSG2="Cilësimi aktual për regjistruesin është"
+buscar_grabadoralb_MSG3="Kontrollo që ky cilësim përputhet me vlerën e caktuar nga cdrskin"
+buscar_grabadoralb_MSG4="Po skanon portin IDE/SCSI me cdrskin..."
+buscar_grabadoralb_MSG5="Specifiko vlerën e re që do të përdoret me cdrskin:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Fut një emër për DVD në e ardhshme:"
+datos_dvd_MSG2="DVD DJEGJE..."
+datos_dvd_MSG3="Përdorimi"
+datos_dvd_MSG4="ekzekutimi i "
+datos_dvd_MSG5=" DVD REGJISTRUAR ME SUKSES!! "
+datos_dvd_MSG6="Nuk mund të gjesh mkisofs ose genisoimage, të instalosh cdrtools ose cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="Fut një emër për DVD në e ardhshme:"
+datos_dvd_multi_MSG2="DVD DJEGJE . . ."
+datos_dvd_multi_MSG3="Përdorimi"
+datos_dvd_multi_MSG4="ekzekutimi i "
+datos_dvd_multi_MSG5=" DVD REGJISTRUAR ME SUKSES!! "
+datos_dvd_multi_MSG6="Nuk mund të gjesh mkisofs ose genisoimage, të instalosh cdrtools ose cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="REGJISTRIMI I IMAZHIT . . "
+grabimg_dvd_MSG2="ekzekutimi i "
+grabimg_dvd_MSG3="! IMAZHI DVD REGJISTRUAR ME SUKSES!"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="Regjistrimi i imazhit në DVD. . ."
+copia_bin_dvd_MSG2="ekzekutimi i "
+copia_bin_dvd_MSG3="	FSHIJA E SKEDAVE IMAGE"
+copia_bin_dvd_MSG4="REGJISTRIMI I KRYER!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Formatoni një"
+formatear_dvd_MSG2="Detyro një format të ri për një"
+formatear_dvd_MSG3="Zvendosni bllokun kryesor të një"
+formatear_dvd_MSG4="Formatoni një DVD-RW në një rritje vijuese"
+formatear_dvd_MSG5="Formatoni një DVD-RW me mbishkrim të kufizuar"
+formatear_dvd_MSG6="Plotësoni një DVD me zero"
+formatear_dvd_MSG7="Shfaq informacionin e DVD së"
+formatear_dvd_MSG8="Menyja e mëparshme"
+formatear_dvd_MSG9="Ky opsion përdoret për të formatuar DVD-në për herë të parë."
+formatear_dvd_MSG10="Nëse DVD ja tashmë është e formatuar, nuk do t'i fshijë të dhënat."
+formatear_dvd_MSG11="Këto do të mbishkruhen në një regjistrim të ri."
+formatear_dvd_MSG12="Për të fshirë përmbajtjen e DVD së përdorni:"
+formatear_dvd_MSG13="Plotësoni një DVD me zero"
+formatear_dvd_MSG14="Ky opsion fshin formatin dhe të dhënat nga DVD ja që po trajtohet."
+formatear_dvd_MSG15="punon"
+formatear_dvd_MSG16="DVD+RW/DVD-RW U FORMATUAR ME SUKSES!"
+formatear_dvd_MSG17="GABIM TË FORMATIT TË DVD së"
+formatear_dvd_MSG18="Formati i detyruar në diskun DVD+RW..."
+formatear_dvd_MSG19="DVD+RW U FORMATUAR ME SUKSES!"
+formatear_dvd_MSG20="GABIM TË FORMATIT TË DVD+RW"
+formatear_dvd_MSG21="Ky opsion nuk ndikon në të dhënat e ruajtura në DVD+RW"
+formatear_dvd_MSG22="Po heq bllokun e daljes nga DVD+RW..."
+formatear_dvd_MSG23="Formatimi i diskut DVD-RW në një shkrim të njëpasnjëshëm..."
+formatear_dvd_MSG24="DVD-RW U FORMATUAR ME SUKSES!"
+formatear_dvd_MSG25="GABIM TË FORMATIT TË DVD-RW"
+formatear_dvd_MSG26="Formatimi i diskut DVD-RW në mbishkrim të kufizuar..."
+formatear_dvd_MSG27="E FSHUAR NGA DVD e RISHKRUAR"
+
+# null_dvd
+
+null_dvd_MSG1="Po shkruan në disk nga /dev/zero . . ."
+null_dvd_MSG2="punon"
+null_dvd_MSG3="PROCESI I KOMPLETUAR"
+null_dvd_MSG4="GABIM I PAPRITUAR"
+
+# dvd_video
+
+dvd_video_MSG1="Shtegu ku ndodhen direktoritë VIDEO_TS dhe AUDIO_TS:"
+dvd_video_MSG2="Përcaktoni shtegun ku ndodhen drejtoritë VIDEO_TS dhe AUDIO_TS:"
+dvd_video_MSG3="punon"
+dvd_video_MSG4="--- DVD-VIDEO E REGJISTRUAR ME SUKSES ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="ekzekutimi i "
+dvd_copia_bin_MSG2="	FSHIRJA E FIGURIT"
+dvd_copia_bin_MSG3="NJË GABIME KA NDODHUR GJATË REGJISTRIMIT"
+
+# dvd_datos
+
+dvd_datos_MSG1="Skedarët dhe drejtoritë për të krijuar imazhin . iso"
+dvd_datos_MSG2="EMITET E DVD së"
+dvd_datos_MSG3="Fut një emër për DVD në e ardhshme:"
+dvd_datos_MSG4="Nisja e menaxherit të skedarëve:"
+dvd_datos_MSG5="	KRIJIMI I IMAZHIT . . ."
+dvd_datos_MSG6="punon"
+dvd_datos_MSG7="IMAGE ISO-9660 E KRIJUAR NE"
+dvd_datos_MSG8="		DVD DJEGJE"
+dvd_datos_MSG13="FSHIRJA E IMAZHIT..."
+
+# dvd_borra
+
+dvd_borra_MSG1="ekzekutimi i "
+dvd_borra_MSG2="DISK OPTIK I FORMATUAR ME SUKSES"
+dvd_borra_MSG3="GABIM NË FORMATIM TË DISKUT OPTIK"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="ekzekutimi i "
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="Po funksionon"
+formatearCDDVDBD_MSG2="DISK OPTIK I FORMATUAR ME SUKSES"
+formatearCDDVDBD_MSG3="GABIM NË FORMATIM TË DISKUT OPTIK"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW u formatua me sukses!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="Gabim në formatimin e DVD-RW në mbishkrim të kufizuar"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW u formatua me sukses!!"
+formatearDVDRW_incremental_secuencial_MSG2="Gabim në formatimin e DVD-RW në rritje vijuese"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Specifikoni shtegun drejt imazhit ISO-9660 për t'u djegur:"
+cdrskinisocddvd_MSG2="IMAZHI ISO U DJEG ME SUKSES!!"
+cdrskinisocddvd_MSG3="GABIM KUR RUAJET Imazhi"
+

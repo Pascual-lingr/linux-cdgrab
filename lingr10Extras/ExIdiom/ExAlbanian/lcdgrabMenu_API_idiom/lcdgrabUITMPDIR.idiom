@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExAlbanian/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Albanés para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Skedarët në /tmp"
+dir_tmp_MSG2="Fshi të gjitha imazhet dhe skedarët e kompresuar"
+dir_tmp_MSG3="Nisni menaxherin e skedarëve për operacione të tjera"
+dir_tmp_MSG4="Ngjit ose çmonto një imazh"
+dir_tmp_MSG5="Shfaq menunë e krijimit të imazhit"
+dir_tmp_MSG6="Shfaq opsionet e regjistrimit të imazhit"
+dir_tmp_MSG7="Menyja e mëparshme"
+dir_tmp_MSG8="LISTA E SKEDAVE EKZISTUESE NE"
+dir_tmp_MSG9="ZGJIDH NJË OPSION:"
+dir_tmp_MSG10="IMAZHET DHE SKEDAJT E FSHIRUR"
+dir_tmp_MSG11="Ngjit imazhin."
+dir_tmp_MSG12="Çkyç imazhin."
+dir_tmp_MSG13="Djeg imazhin në CD"
+dir_tmp_MSG14="Djeg imazhin në DVD"
+dir_tmp_MSG14B="Djeg imazhin në BD"
+dir_tmp_MSG15="Zgjidh opsionin sipas mediumit të regjistrimit"
+dir_tmp_MSG16="SKIDA NUK ËSHTË GJENDET SHOQËRI I KONFIGURIMIT"
+dir_tmp_MSG17="Ndërprerja e procesit të regjistrimit"
+dir_tmp_MSG18="Specifiko skedarin .iso për t'u djegur"
+dir_tmp_MSG19="Fut shtegun e imazhit: "
+
