@@ -70,8 +70,8 @@ imgr_tmp_MSG13="Fejl ved afmontering af billede"
 ############################ MAIN ##############################
 
 lingr10reiserfspatch_MSG1="Formater drev i ReiserFS"
-lingr10reiserfspatch_MSG2="Opret ReiserFS-billede til CD/DVD/BD"
-lingr10reiserfspatch_MSG3="Operationer på ReiserFS-billeder"
+lingr10reiserfspatch_MSG2="Opret ReiserFS billede til CD/DVD/BD"
+lingr10reiserfspatch_MSG3="Operationer på ReiserFS billeder"
 lingr10reiserfspatch_MSG4="Ugyldig indstilling"
 lingr10reiserfspatch_MSG0="Afslut"
 

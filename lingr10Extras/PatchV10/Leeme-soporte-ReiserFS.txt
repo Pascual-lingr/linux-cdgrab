@@ -1,13 +1,23 @@
 lingr10reiserfspatch.sh ver 0.2 --> 21/01/2024
+lingr10reiserfspatch.sh ver 0.3 --> 18/05/2025
 
 path de ejecución: /usr/share/linux-cdgrab/parches/lingr10reiserfspatch.sh
 
-ficheros de idioma: /usr/share/linux-cdgrab/lcdgrabAPI_idiom/${IDIOM}/lcdgrabparches_idiom/lingr10reiserfspatch.idiom
+ficheros de idioma:
+/usr/share/linux-cdgrab/lcdgrabAPI_idiom/${IDIOM}/lcdgrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+Fichero de idioma reutilizado de linux-cdgrab 1.0
+
+/usr/share/linux-cdgrab/lcdgrabAPI_idiom/${IDIOM}/lcdgrabparches_idiom/lingr10reiserfspatch.idiom
 donde IDIOM = Español, EspDefNA, Catala, English, ExFrench, ExDeutsch, ExGreek, ExRussian, ExJapanese, ExChinese, ExKorean, ExThai, ExPortuguese, ExItalian, ExDutch, ExNorwegian, ExPolish, ExCzech, ExSwedish, ExArmenian, ExGeorgian, ExSpanishEn, ExDanish, ExAmharic, ExTigrinya, ExVietnamese, ExIcelandic, ExSwahili, ExLao, ExLuxembourgish, ExLithuanian, ExAfrikaans, ExUkrainian, ExTurkish, ExHungarian, ExBelarusian, ExSlovak, ExAzerbaijani, ExEstonian, EsFinnish, ExKazakh, ExMongolian, ExTajik, ExTibetan, ExCroatian, ExBosnian, ExLatvian, ExRomanian, ExSerbian, ExSlovenian, ExAlbanian y .defecidiom
 
 Parche para soportar el sistema de ficheros Reiser File System en LINUX-CDGRAB 1.0
 Pascual Martínez Cruz --> pascual89@hotmail.com
 Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+v 0.3:
+------
+
+- Añadido cuadro de aviso al formatear unidades de disco.
 
 v 0.2:
 ------

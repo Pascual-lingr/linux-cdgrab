@@ -1,0 +1,74 @@
+# Idioma Tailandés para soporte F2FS en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+# Experimental, generado con Google Translate.
+
+# presskey
+
+# Traducción con Chat GPT - INI
+presskey_MSG1="กดปุ่ม ENTER เพื่อดำเนินการต่อไป..."
+# Traducción con Chat GPT - FIN
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=========================="
+cabecera_interfaz_MSG2="รองรับ LINUX-CDGRAB 1.0 F2FS"
+
+# creditos
+
+creditos_DESC="รองรับการฟอร์แมตหน่วยความจำแฟลชภายใต้ linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="เอาต์พุตคำสั่งเมานต์:"
+formatear_disco_F2FS_MSG2="ระบุอุปกรณ์บล็อกที่จะฟอร์แมต: "
+formatear_disco_F2FS_MSG3="อุปกรณ์ฟอร์แมตสำเร็จ"
+formatear_disco_F2FS_MSG4="เกิดข้อผิดพลาดในการฟอร์แมตอุปกรณ์"
+formatear_disco_F2FS_MSG5="กระบวนการเสร็จสมบูรณ์"
+formatear_disco_F2FS_MSG6="กำลังถอดอุปกรณ์..."
+formatear_disco_F2FS_MSG7="กำลังฟอร์แมตไดรฟ์ใน F2FS..."
+formatear_disco_F2FS_MSG8="กำลังทำงาน"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="จัดรูปแบบสำเร็จแล้ว"
+formatear_img_F2FS_MSG2="ข้อผิดพลาดเมื่อจัดรูปแบบไฟล์ว่าง"
+formatear_img_F2FS_MSG3="กำลังสร้างไฟล์ว่าง..."
+formatear_img_F2FS_MSG4="กำลังทำงาน"
+formatear_img_F2FS_MSG5="กำลังจัดรูปแบบไฟล์ว่างใน F2FS..."
+formatear_img_F2FS_MSG6="การสร้างไฟล์เปล่าด้วยขนาดที่กำหนดเอง"
+formatear_img_F2FS_MSG7="ระบุขนาดของไฟล์ว่างที่จะสร้าง (เฉพาะค่าตัวเลข):"
+formatear_img_F2FS_MSG8="การวัดพื้นที่เพื่อสร้างไฟล์ว่าง:"
+formatear_img_F2FS_MSG9="ระบุการวัดพื้นที่ที่จะใช้: "
+formatear_img_F2FS_MSG10="ข้อผิดพลาดเมื่อระบุการวัดขนาด"
+formatear_img_F2FS_MSG11="ค่าขนาดบล็อก:"
+formatear_img_F2FS_MSG12="จำนวนพื้นที่สำหรับไฟล์ว่าง:"
+formatear_img_F2FS_MSG13="ค่าที่คำนวณเป็นไบต์:"
+formatear_img_F2FS_MSG14="ค่าที่คำนวณได้สำหรับการนับ:"
+formatear_img_F2FS_MSG15="กระบวนการที่ถูกยกเลิก ไม่รู้จักขนาดรูปภาพ"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="ออก"
+imgr_tmp_MSG1="ลบไฟล์รูปภาพ F2FS ทั้งหมด"
+imgr_tmp_MSG2="เมานต์หรือถอนเมานท์ไฟล์รูปภาพ"
+imgr_tmp_MSG3="ไฟล์รูปภาพใน"
+imgr_tmp_MSG4="เลือกตัวเลือก"
+imgr_tmp_MSG5="ไฟล์รูปภาพที่ถูกลบ"
+imgr_tmp_MSG6="เมานท์อิมเมจ"
+imgr_tmp_MSG7="ถอดรูปภาพออก"
+imgr_tmp_MSG8="ภาพที่เมานต์"
+imgr_tmp_MSG9="ภาพที่ถอดออก"
+imgr_tmp_MSG10="ตัวเลือกไม่ถูกต้อง"
+imgr_tmp_MSG11="ระบุภาพที่จะเมานท์หรือถอนเมานท์:"
+imgr_tmp_MSG12="เกิดข้อผิดพลาดในการติดตั้งรูปภาพ"
+imgr_tmp_MSG13="เกิดข้อผิดพลาดในการถอดอิมเมจ"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="ออก"
+lingr10F2FSpatch_MSG1="ฟอร์แมตหน่วยความจำแฟลชเป็น F2FS"
+lingr10F2FSpatch_MSG2="สร้างไฟล์รูปภาพ F2FS"
+lingr10F2FSpatch_MSG3="การดำเนินการกับภาพ F2FS"
+lingr10F2FSpatch_MSG4="เกี่ยวกับ."
+lingr10F2FSpatch_MSG5="ตัวเลือกไม่ถูกต้อง"

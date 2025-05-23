@@ -1,0 +1,74 @@
+# Idioma Lao para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="ກົດ ENTER ເພື່ອສືບຕໍ່..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 ສະຫນັບສະຫນູນ F2FS."
+
+# creditos
+# Resultado del traductor
+creditos_DESC="ສະຫນັບສະຫນູນການຈັດຮູບແບບຫນ່ວຍຄວາມຈໍາ flash ພາຍໃຕ້ linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="ຕິດ​ຕັ້ງ​ຄໍາ​ສັ່ງ​ທີ່​ອອກ​ສຽງ:"
+formatear_disco_F2FS_MSG2="ລະບຸອຸປະກອນບລັອກເພື່ອຈັດຮູບແບບ: "
+formatear_disco_F2FS_MSG3="ຈັດຮູບແບບອຸປະກອນສຳເລັດແລ້ວ"
+formatear_disco_F2FS_MSG4="ອຸປະກອນການຈັດຮູບແບບຜິດພາດ"
+formatear_disco_F2FS_MSG5="ຂັ້ນຕອນສຳເລັດແລ້ວ"
+formatear_disco_F2FS_MSG6="ກຳລັງຖອນການຕິດຕັ້ງອຸປະກອນ..."
+formatear_disco_F2FS_MSG7="ການ​ຈັດ​ຮູບ​ແບບ drive ໃນ F2FS..."
+formatear_disco_F2FS_MSG8="ແລ່ນ"
+
+# formatear_img_F2FS
+
+# Resultado del traductor
+formatear_img_F2FS_MSG1="FORMATED ສຳເລັດຜົນ"
+formatear_img_F2FS_MSG2="ຜິດພາດເມື່ອຟໍແມັດໄຟລ໌ທີ່ຫວ່າງເປົ່າ"
+formatear_img_F2FS_MSG3="ກຳລັງສ້າງໄຟລ໌ເປົ່າ..."
+formatear_img_F2FS_MSG4="ແລ່ນ"
+formatear_img_F2FS_MSG5="ການຟໍແມັດໄຟລ໌ເປົ່າໃນ F2FS..."
+formatear_img_F2FS_MSG6="ການ​ສ້າງ​ໄຟລ​໌​ຫວ່າງ​ເປົ່າ​ທີ່​ມີ​ຂະ​ຫນາດ​ທີ່​ກໍາ​ນົດ​ເອງ"
+formatear_img_F2FS_MSG7="ລະບຸຂະຫນາດຂອງໄຟລ໌ຫວ່າງເປົ່າເພື່ອສ້າງ (ພຽງແຕ່ຄ່າຕົວເລກ):"
+formatear_img_F2FS_MSG8="ການວັດແທກພື້ນທີ່ເພື່ອສ້າງໄຟລ໌ຫວ່າງເປົ່າ:"
+formatear_img_F2FS_MSG9="ລະບຸການວັດແທກພື້ນທີ່ທີ່ຈະໃຊ້: "
+formatear_img_F2FS_MSG10="ຜິດພາດເມື່ອກຳນົດການວັດແທກຂະໜາດ"
+formatear_img_F2FS_MSG11="ຄ່າຂະ ໜາດ ບລັອກ:"
+formatear_img_F2FS_MSG12="ຈໍານວນພື້ນທີ່ສໍາລັບໄຟລ໌ເປົ່າ:"
+formatear_img_F2FS_MSG13="ຄ່າຄຳນວນເປັນໄບຕ໌:"
+formatear_img_F2FS_MSG14="ຄ່າຄຳນວນສຳລັບນັບ:"
+formatear_img_F2FS_MSG15="ຂະບວນການຍົກເລີກ. ຂະໜາດຮູບພາບບໍ່ຖືກຮັບຮູ້."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="ອອກ"
+imgr_tmp_MSG1="ລຶບໄຟລ໌ຮູບພາບ F2FS ທັງໝົດ"
+imgr_tmp_MSG2="ຕິດ ຫຼື ຖອນການເຊື່ອມຕໍ່ໄຟລ໌ຮູບພາບ"
+imgr_tmp_MSG3="ໄຟລ໌ຮູບພາບໃນ"
+imgr_tmp_MSG4="ເລືອກທາງເລືອກ"
+imgr_tmp_MSG5="ລຶບໄຟລ໌ຮູບພາບ"
+imgr_tmp_MSG6="ຕິດຮູບ"
+imgr_tmp_MSG7="ຖອນການເຊື່ອມຕໍ່ຮູບພາບ"
+imgr_tmp_MSG8="ຮູບທີ່ຕິດຢູ່"
+imgr_tmp_MSG9="ຮູບ​ທີ່​ຖືກ​ຍົກ​ເລີກ"
+imgr_tmp_MSG10="ທາງເລືອກທີ່ບໍ່ຖືກຕ້ອງ"
+imgr_tmp_MSG11="ລະບຸຮູບທີ່ຈະຕິດ ຫຼືຖອນການເຊື່ອມຕໍ່:"
+imgr_tmp_MSG12="ຜິດພາດໃນການຕິດຕັ້ງຮູບພາບ"
+imgr_tmp_MSG13="ເກີດຄວາມຜິດພາດໃນການຖອນການເຊື່ອມຕໍ່ຮູບພາບ"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="ອອກ."
+lingr10F2FSpatch_MSG1="ຈັດຮູບແບບໜ່ວຍຄວາມຈຳແຟລດເປັນ F2FS."
+lingr10F2FSpatch_MSG2="ສ້າງໄຟລ໌ຮູບພາບ F2FS."
+lingr10F2FSpatch_MSG3="ການດໍາເນີນການກ່ຽວກັບຮູບພາບ F2FS."
+lingr10F2FSpatch_MSG4="ກ່ຽວກັບ."
+lingr10F2FSpatch_MSG5="ທາງເລືອກທີ່ບໍ່ຖືກຕ້ອງ"
+

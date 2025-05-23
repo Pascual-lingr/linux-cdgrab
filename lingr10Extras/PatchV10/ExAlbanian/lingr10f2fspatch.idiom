@@ -1,0 +1,73 @@
+# Idioma Albanés para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Shtypni ENTER për të vazhduar..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=============================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 SUPPORT F2FS."
+
+# creditos
+
+creditos_DESC="Mbështetje për formatimin e memories flash nën linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Mount daljen e komandës:"
+formatear_disco_F2FS_MSG2="Specifikoni pajisjen e bllokimit për të formatuar: "
+formatear_disco_F2FS_MSG3="Pajisja u formatua me sukses"
+formatear_disco_F2FS_MSG4="Gabim në formatimin e pajisjes"
+formatear_disco_F2FS_MSG5="PROCESS KOMPLETUAR"
+formatear_disco_F2FS_MSG6="Po çmontojmë pajisjen..."
+formatear_disco_F2FS_MSG7="Po formaton diskun në F2FS..."
+formatear_disco_F2FS_MSG8="Po funksionon"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="FORMATUAR ME SUKSES"
+formatear_img_F2FS_MSG2="GABIM KUR FORMATON SKIJIN BASHK"
+formatear_img_F2FS_MSG3="Po gjeneron skedar bosh..."
+formatear_img_F2FS_MSG4="Po funksionon"
+formatear_img_F2FS_MSG5="Formatimi i skedarit bosh në F2FS..."
+formatear_img_F2FS_MSG6="GJENERATI I SKEDAVE BASHKË ME MADHËSI TË CUSTOMOSUR"
+formatear_img_F2FS_MSG7="Specifikoni madhësinë e skedarit bosh për të gjeneruar (vetëm një vlerë numerike):"
+formatear_img_F2FS_MSG8="Matje hapësinore për të gjeneruar skedarin bosh:"
+formatear_img_F2FS_MSG9="Specifikoni matjen e hapësirës për t'u përdorur: "
+formatear_img_F2FS_MSG10="GABIM KUR SPECIFON MATJEN E MADHËSISË"
+formatear_img_F2FS_MSG11="Vlera e madhësisë së bllokut:"
+formatear_img_F2FS_MSG12="Sasia e hapësirës për skedarin bosh:"
+formatear_img_F2FS_MSG13="Vlera e llogaritur në bajt:"
+formatear_img_F2FS_MSG14="Vlera e llogaritur për numërimin:"
+formatear_img_F2FS_MSG15="Procesi i anuluar. Madhësia e imazhit nuk njihet."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Dalje"
+imgr_tmp_MSG1="Fshi të gjithë skedarët e imazhit F2FS"
+imgr_tmp_MSG2="Ngjit ose çmonto skedarin e imazhit"
+imgr_tmp_MSG3="Skedarët e imazhit në"
+imgr_tmp_MSG4="Zgjidh një opsion"
+imgr_tmp_MSG5="Skedarët e imazhit të fshirë"
+imgr_tmp_MSG6="Mount imazhin"
+imgr_tmp_MSG7="Zbrisni imazhin"
+imgr_tmp_MSG8="Imazhi i montuar"
+imgr_tmp_MSG9="Imazhi i çmontuar"
+imgr_tmp_MSG10="Opsion i pavlefshëm"
+imgr_tmp_MSG11="Specifiko imazhin për montim ose çmontim:"
+imgr_tmp_MSG12="Gabim gjatë montimit të imazhit"
+imgr_tmp_MSG13="Gabim gjatë çmontimit të imazhit"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Dil."
+lingr10F2FSpatch_MSG1="Formatoni memorien flash në F2FS."
+lingr10F2FSpatch_MSG2="Krijoni një skedar imazhi F2FS."
+lingr10F2FSpatch_MSG3="Operacionet në imazhet F2FS."
+lingr10F2FSpatch_MSG4="Rreth."
+lingr10F2FSpatch_MSG5="Opsion i pavlefshëm"
+

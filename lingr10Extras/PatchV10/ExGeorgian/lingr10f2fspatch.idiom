@@ -1,0 +1,70 @@
+# Idioma Georgiano para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="დააჭირეთ ENTER გასაგრძელებლად..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 მხარდაჭერა F2FS."
+
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="დაამონტაჟეთ ბრძანების გამომავალი:"
+formatear_disco_F2FS_MSG2="მიუთითეთ ბლოკის მოწყობილობა ფორმატირებისთვის: "
+formatear_disco_F2FS_MSG3="მოწყობილობა წარმატებით დაფორმატდა"
+formatear_disco_F2FS_MSG4="მოწყობილობის ფორმატირების შეცდომა"
+formatear_disco_F2FS_MSG5="პროცესი დასრულებულია"
+formatear_disco_F2FS_MSG6="მოწყობილობის დემონტაჟი..."
+formatear_disco_F2FS_MSG7="დისკის ფორმატირება F2FS ში..."
+formatear_disco_F2FS_MSG8="გაშვება"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="ფორმარდება წარმატებით"
+formatear_img_F2FS_MSG2="შეცდომა ცარიელი ფაილის ფორმატირებისას"
+formatear_img_F2FS_MSG3="ცარიელი ფაილის გენერირება..."
+formatear_img_F2FS_MSG4="გაშვება"
+formatear_img_F2FS_MSG5="ცარიელი ფაილის ფორმატირება F2FS ში..."
+formatear_img_F2FS_MSG6="ცარიელი ფაილის თაობა მორგებული ზომით"
+formatear_img_F2FS_MSG7="მიუთითეთ გენერირებისთვის ცარიელი ფაილის ზომა (მხოლოდ რიცხვითი მნიშვნელობა):"
+formatear_img_F2FS_MSG8="სივრცის გაზომვები ცარიელი ფაილის გენერირებისთვის:"
+formatear_img_F2FS_MSG9="მიუთითეთ გამოსაყენებელი სივრცის გაზომვა: "
+formatear_img_F2FS_MSG10="შეცდომა ზომის გაზომვის დაზუსტებისას"
+formatear_img_F2FS_MSG11="ბლოკის ზომის მნიშვნელობა:"
+formatear_img_F2FS_MSG12="სივრცის რაოდენობა ცარიელი ფაილისთვის:"
+formatear_img_F2FS_MSG13="გამოთვლილი მნიშვნელობა ბაიტებში:"
+formatear_img_F2FS_MSG14="გამოთვლილი მნიშვნელობა დათვლისთვის:"
+formatear_img_F2FS_MSG15="გაუქმებული პროცესი. სურათის ზომა არ არის აღიარებული."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="გასვლა"
+imgr_tmp_MSG1="წაშალე ყველა F2FS სურათი"
+imgr_tmp_MSG2="სურათის ფაილის დამაგრება ან გამორთვა"
+imgr_tmp_MSG3="სურათების ფაილები"
+imgr_tmp_MSG4="აირჩიე ვარიანტი"
+imgr_tmp_MSG5="წაშლილი გამოსახულების ფაილები"
+imgr_tmp_MSG6="სურათის დამონტაჟება"
+imgr_tmp_MSG7="სურათის დემონტაჟი"
+imgr_tmp_MSG8="დამონტაჟებული სურათი"
+imgr_tmp_MSG9="მოშლილი სურათი"
+imgr_tmp_MSG10="არასწორი ვარიანტი"
+imgr_tmp_MSG11="მიუთითეთ გამოსახულება დასამონტაჟებლად ან მოსახსნელად:"
+imgr_tmp_MSG12="შეცდომა სურათის დამონტაჟებისას"
+imgr_tmp_MSG13="შეცდომა სურათის დემონტაჟისას"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="გამოსვლა."
+lingr10F2FSpatch_MSG1="ფლეშ მეხსიერების დაფორმატება F2FS ზე."
+lingr10F2FSpatch_MSG2="შექმენით F2FS გამოსახულების ფაილი."
+lingr10F2FSpatch_MSG3="ოპერაციები F2FS სურათებზე."
+lingr10F2FSpatch_MSG4="შესახებ."
+lingr10F2FSpatch_MSG5="არასწორი ვარიანტი"
+

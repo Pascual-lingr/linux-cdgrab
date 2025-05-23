@@ -1,0 +1,75 @@
+# Traducción experimental al español desde el archivo de inglés.
+# Parte de la implementación ExSpanishEn
+# Generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Presione ENTER para continuar..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=============================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 F2FS SUPPORT."
+
+# creditos
+
+creditos_DESC="Soporte para formatear unidades de memoria flash en linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Salir del comando de montaje:"
+formatear_disco_F2FS_MSG2="Especificar el dispositivo de bloque a formatear:"
+formatear_disco_F2FS_MSG3="Dispositivo formateado correctamente"
+formatear_disco_F2FS_MSG4="Error al formatear el dispositivo"
+formatear_disco_F2FS_MSG5="PROCESO COMPLETADO"
+formatear_disco_F2FS_MSG6="Desmontando dispositivo..."
+formatear_disco_F2FS_MSG7="Formateando unidad en F2FS..."
+formatear_disco_F2FS_MSG8="Ejecutando"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="FORMATEADO CORRECTAMENTE"
+formatear_img_F2FS_MSG2="ERROR AL FORMATEAR EL ARCHIVO VACÍO"
+formatear_img_F2FS_MSG3="Generando archivo vacío..."
+formatear_img_F2FS_MSG4="Ejecutando"
+formatear_img_F2FS_MSG5="Formateando archivo vacío en F2FS..."
+formatear_img_F2FS_MSG6="GENERACIÓN DE ARCHIVO VACÍO CON TAMAÑO PERSONALIZADO"
+formatear_img_F2FS_MSG7="Especifique el tamaño del archivo vacío a generar (solo un valor numérico):"
+formatear_img_F2FS_MSG8="Medidas de espacio para generar el archivo vacío:"
+formatear_img_F2FS_MSG9="Especifique la medida de espacio a utilizar:"
+formatear_img_F2FS_MSG10="ERROR AL ESPECIFICAR LA MEDIDA DE TAMAÑO"
+formatear_img_F2FS_MSG11="Valor del tamaño del bloque:"
+formatear_img_F2FS_MSG12="Cantidad de espacio para el archivo vacío:"
+formatear_img_F2FS_MSG13="Valor calculado en bytes:"
+formatear_img_F2FS_MSG14="Valor calculado para el recuento:"
+formatear_img_F2FS_MSG15="Proceso cancelado. No se reconoce el tamaño de la imagen."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Salir"
+imgr_tmp_MSG1="Eliminar todos los archivos de imagen de F2FS"
+imgr_tmp_MSG2="Montar o desmontar archivo de imagen"
+imgr_tmp_MSG3="Archivos de imagen en"
+imgr_tmp_MSG4="Seleccionar opción"
+imgr_tmp_MSG5="Archivos de imagen eliminados"
+imgr_tmp_MSG6="Montar archivo de imagen"
+imgr_tmp_MSG7="Desmontar archivo de imagen"
+imgr_tmp_MSG8="Archivo de imagen montado"
+imgr_tmp_MSG9="Archivo de imagen desmontado"
+imgr_tmp_MSG10="Opción no válida"
+imgr_tmp_MSG11="Especificar el archivo de imagen a montar o desmontar:"
+imgr_tmp_MSG12="Error al montar el archivo de imagen"
+imgr_tmp_MSG13="Error al desmontar el archivo de imagen"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Salir."
+lingr10F2FSpatch_MSG1="Formatear la memoria flash en F2FS."
+lingr10F2FSpatch_MSG2="Crear archivo de imagen F2FS."
+lingr10F2FSpatch_MSG3="Operaciones con imágenes F2FS."
+lingr10F2FSpatch_MSG4="Acerca de."
+lingr10F2FSpatch_MSG5="Opción no válida"
+
+

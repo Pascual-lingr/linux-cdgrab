@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="Formatuj DVD+RW/DVD-RW"
 menugrabar_DVD_MSG7="Pokaż informacje o płycie w napędzie"
 menugrabar_DVD_MSG0="Poprzednie menu"
 menugrabar_DVD_MSGPRINCIPAL="Wpisz opcję"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

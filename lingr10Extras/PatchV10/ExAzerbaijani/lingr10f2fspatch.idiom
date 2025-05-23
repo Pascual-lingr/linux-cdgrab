@@ -1,0 +1,75 @@
+# Idioma Azerbaiyano para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Davam etmək üçün ENTER düyməsini basın..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="============================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 DƏSTƏK F2FS."
+
+# creditos
+
+creditos_DESC="Linux-cdgrab altında flash yaddaşın formatlaşdırılması üçün dəstək"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Bağlama əmrinin çıxışı:"
+formatear_disco_F2FS_MSG2="Formatlanacaq blok cihazını təyin edin: "
+formatear_disco_F2FS_MSG3="Cihaz uğurla formatlaşdırıldı"
+formatear_disco_F2FS_MSG4="Cihazın formatlanması xətası"
+formatear_disco_F2FS_MSG5="PROSES TAMAMLADI"
+formatear_disco_F2FS_MSG6="Cihaz sökülür..."
+formatear_disco_F2FS_MSG7="F2FS də disk formatlanır..."
+formatear_disco_F2FS_MSG8="İşləyir"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="UĞURLU FORMALANDI"
+formatear_img_F2FS_MSG2="BOŞ FAYL FORMATLANAN ZAMAN XƏTA"
+formatear_img_F2FS_MSG3="Boş fayl yaradılır..."
+formatear_img_F2FS_MSG4="İşləyir"
+formatter_img_F2FS_MSG5="F2FS də boş fayl formatlanır..."
+formatear_img_F2FS_MSG6="XÜSUSİ ÖLÇÜLƏ BOŞ FAYIN NƏSTƏLƏMƏSİ"
+formatear_img_F2FS_MSG7="Yaradılacaq boş faylın ölçüsünü təyin edin (yalnız rəqəmsal dəyər):"
+formatear_img_F2FS_MSG8="Boş fayl yaratmaq üçün boşluq ölçüləri:"
+formatear_img_F2FS_MSG9="İstifadə ediləcək boşluq ölçüsünü təyin edin: "
+formatear_img_F2FS_MSG10="ÖLÇÜSÜ ÖLÇÜLƏNDƏN XƏTA"
+formatear_img_F2FS_MSG11="Blok ölçüsü dəyəri:"
+formatear_img_F2FS_MSG12="Boş fayl üçün yerin miqdarı:"
+formatear_img_F2FS_MSG13="Baytla hesablanmış dəyər:"
+formatear_img_F2FS_MSG14="Hesab üçün hesablanmış dəyər:"
+formatear_img_F2FS_MSG15="Ləğv edilmiş proses. Şəklin ölçüsü tanınmır."
+
+# m_img_CDDVDBD_F2FS
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Çıx"
+imgr_tmp_MSG1="Bütün F2FS şəkil fayllarını silin"
+imgr_tmp_MSG2="Şəkil faylını quraşdırın və ya çıxarın"
+imgr_tmp_MSG3="Şəkil faylları"
+imgr_tmp_MSG4="Seçim seçin"
+imgr_tmp_MSG5="Silinmiş şəkil faylları"
+imgr_tmp_MSG6="Şəkili quraşdırın"
+imgr_tmp_MSG7="Şəkili sökmək"
+imgr_tmp_MSG8="Quraşdırılmış şəkil"
+imgr_tmp_MSG9="Sökülmüş şəkil"
+imgr_tmp_MSG10="Yanlış seçim"
+imgr_tmp_MSG11="Quraşdırmaq və ya çıxarmaq üçün şəkli təyin edin:"
+imgr_tmp_MSG12="Şəklin montajında ​​xəta"
+imgr_tmp_MSG13="Şəkli sökərkən xəta baş verdi"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Çıx."
+lingr10F2FSpatch_MSG1="Fleş yaddaşı F2FS ə formatlaşdırın."
+lingr10F2FSpatch_MSG2="F2FS şəkil faylı yaradın."
+lingr10F2FSpatch_MSG3="F2FS şəkilləri üzərində əməliyyatlar."
+lingr10F2FSpatch_MSG4="Haqqında."
+lingr10F2FSpatch_MSG5="Yanlış Seçim"
+

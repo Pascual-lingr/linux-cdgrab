@@ -1,0 +1,73 @@
+# Idioma Mongol para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Үргэлжлүүлэхийн тулд ENTER дарна уу..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="============================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 ДЭМЖИХ F2FS."
+
+# creditos
+
+creditos_DESC="linux-cdgrab дор флаш санах ой форматлах дэмжлэг"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Буулгах командын гаралт:"
+formatear_disco_F2FS_MSG2="Форматлах блок төхөөрөмжийг зааж өгнө үү: "
+formatear_disco_F2FS_MSG3="Төхөөрөмж амжилттай форматлагдсан"
+formatear_disco_F2FS_MSG4="Төхөөрөмжийг форматлахад алдаа гарсан"
+formatear_disco_F2FS_MSG5="ПРОЦЕСС ДУУССАН"
+formatear_disco_F2FS_MSG6="Төхөөрөмжийг салгаж байна..."
+formatear_disco_F2FS_MSG7="F2FS дээр дискийг форматлаж байна..."
+formatear_disco_F2FS_MSG8="Ажиллаж байна"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="АМЖИЛТТАЙ ХЭЛБЭТГЭСЭН"
+formatear_img_F2FS_MSG2="ХООСОН ФАЙЛ ХЭЛБЭРШҮҮЛЭХ ҮЕД АЛДАА"
+formatear_img_F2FS_MSG3="Хоосон файл үүсгэж байна..."
+formatear_img_F2FS_MSG4="Ажилж байна"
+formatear_img_F2FS_MSG5="F2FS дахь хоосон файлыг форматлаж байна..."
+formatear_img_F2FS_MSG6="ЗАХИАЛТЫН ХЭМЖЭЭТЭЙ ХООСОН ФАЙЛ ҮЗҮҮЛЭХ"
+formatear_img_F2FS_MSG7="Үүсгэх хоосон файлын хэмжээг зааж өгөх (зөвхөн тоон утга):"
+formatear_img_F2FS_MSG8="Хоосон файл үүсгэх зайны хэмжилт:"
+formatear_img_F2FS_MSG9="Ашиглах зайны хэмжилтийг зааж өгнө үү: "
+formatear_img_F2FS_MSG10="ХЭМЖЭЭНИЙ ХЭМЖЭЭГ ЗАСАХ ҮЕД АЛДАА"
+formatear_img_F2FS_MSG11="Блокны хэмжээ:"
+formatear_img_F2FS_MSG12="Хоосон файлын зайны хэмжээ:"
+formatear_img_F2FS_MSG13="Байтаар тооцсон утга:"
+formatear_img_F2FS_MSG14="Тооцооны тооцоолсон утга:"
+formatear_img_F2FS_MSG15="Цуцлагдсан процесс. Зургийн хэмжээг танихгүй байна."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Гарах"
+imgr_tmp_MSG1="Бүх F2FS зургийн файлуудыг устгах"
+imgr_tmp_MSG2="Зургийн файлыг холбох эсвэл салгах"
+imgr_tmp_MSG3="Зургийн файлууд"
+imgr_tmp_MSG4="Сонголт сонгох"
+imgr_tmp_MSG5="Устгасан зургийн файлууд"
+imgr_tmp_MSG6="Зураг холбох"
+imgr_tmp_MSG7="Зургийг салгах"
+imgr_tmp_MSG8="Суулгасан зураг"
+imgr_tmp_MSG9="Суулгасан зураг"
+imgr_tmp_MSG10="Буруу сонголт"
+imgr_tmp_MSG11="Суулгах эсвэл салгах зургийг зааж өгөх:"
+imgr_tmp_MSG12="Зургийг холбоход алдаа"
+imgr_tmp_MSG13="Зургийг салгахад алдаа гарлаа"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Гарах."
+lingr10F2FSpatch_MSG1="Флаш санах ойг F2FS болгон форматлах."
+lingr10F2FSpatch_MSG2="F2FS зургийн файл үүсгэх."
+lingr10F2FSpatch_MSG3="F2FS зураг дээрх үйлдлүүд."
+lingr10F2FSpatch_MSG4="Тухай."
+lingr10F2FSpatch_MSG5="Буруу сонголт"
+

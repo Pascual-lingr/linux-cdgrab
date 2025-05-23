@@ -1,0 +1,73 @@
+# Idioma Ruso para soporte F2FS en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+# Traducción experimental, generado con Google Translator
+
+# presskey
+
+presskey_MSG1="Нажмите ENTER, чтобы продолжить..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="================================"
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 ПОДДЕРЖКА F2FS."
+
+# creditos
+
+creditos_DESC="Поддержка форматирования флэш-памяти под linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Вывод команды монтирования:"
+formatear_disco_F2FS_MSG2="Укажите блочное устройство для форматирования: "
+formatear_disco_F2FS_MSG3="Устройство успешно отформатировано"
+formatear_disco_F2FS_MSG4="Ошибка устройства форматирования"
+formatear_disco_F2FS_MSG5="ПРОЦЕСС ЗАВЕРШЕН"
+formatear_disco_F2FS_MSG6="Отключение устройства..."
+formatear_disco_F2FS_MSG7="Форматирование диска в F2FS..."
+formatear_disco_F2FS_MSG8="Выполняется"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="ФОРМИРОВАНО УСПЕШНО"
+formatear_img_F2FS_MSG2="ОШИБКА ПРИ ФОРМАТИРОВАНИИ ПУСТОГО ФАЙЛА"
+formatear_img_F2FS_MSG3="Создание пустого файла..."
+formatear_img_F2FS_MSG4="Выполняется"
+formatear_img_F2FS_MSG5="Форматирование пустого файла в F2FS..."
+formatear_img_F2FS_MSG6="ГЕНЕРАЦИЯ ПУСТОГО ФАЙЛА С НЕОБЫЧНЫМ РАЗМЕРОМ"
+formatear_img_F2FS_MSG7="Укажите размер создаваемого пустого файла (только числовое значение):"
+formatear_img_F2FS_MSG8="Измерения пространства для создания пустого файла:"
+formatear_img_F2FS_MSG9="Укажите размер пространства, который будет использоваться: "
+formatear_img_F2FS_MSG10="ОШИБКА ПРИ УКАЗАНИИ ИЗМЕРЕНИЯ РАЗМЕРА"
+formatear_img_F2FS_MSG11="Значение размера блока:"
+formatear_img_F2FS_MSG12="Объем места для пустого файла:"
+formatear_img_F2FS_MSG13="Расчетное значение в байтах:"
+formatear_img_F2FS_MSG14="Расчетное значение счетчика:"
+formatear_img_F2FS_MSG15="Отмененный процесс. Размер изображения не распознан."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Выход"
+imgr_tmp_MSG1="Удалить все файлы изображений F2FS"
+imgr_tmp_MSG2="Подключить или отключить файл образа"
+imgr_tmp_MSG3="Файлы изображений в"
+imgr_tmp_MSG4="Выберите вариант"
+imgr_tmp_MSG5="Удаленные файлы изображений"
+imgr_tmp_MSG6="Смонтировать изображение"
+imgr_tmp_MSG7="Отключить изображение"
+imgr_tmp_MSG8="Смонтированное изображение"
+imgr_tmp_MSG9="Размонтированное изображение"
+imgr_tmp_MSG10="Неверный параметр"
+imgr_tmp_MSG11="Укажите образ для монтирования или размонтирования:"
+imgr_tmp_MSG12="Ошибка монтирования образа"
+imgr_tmp_MSG13="Ошибка при размонтировании образа"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Выход."
+lingr10F2FSpatch_MSG1="Отформатировать флэш-память в F2FS."
+lingr10F2FSpatch_MSG2="Создать файл образа F2FS."
+lingr10F2FSpatch_MSG3="Операции с образами F2FS."
+lingr10F2FSpatch_MSG4="О программе."
+lingr10F2FSpatch_MSG5="Недопустимый параметр"
+

@@ -1,0 +1,73 @@
+# Idioma Armenio para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Շարունակելու համար սեղմեք ENTER..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="===================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 ԱՋԱԿՑՈՒՄ Է F2FS-ը:"
+
+# creditos
+
+creditos_DESC="Աջակցություն ֆլեշ հիշողության ձևաչափմանը linux-cdgrab ի ներքո"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Տեղադրեք հրամանի ելքը."
+formatear_disco_F2FS_MSG2="Նշեք արգելափակման սարքը, որը պետք է ֆորմատավորվի."
+formatear_disco_F2FS_MSG3="Սարքը հաջողությամբ ֆորմատավորվեց"
+formatear_disco_F2FS_MSG4="Սարքի ձևաչափման սխալ"
+formatear_disco_F2FS_MSG5="ԳՈՐԾԸՆԹԱՑԸ ԱՎԱՐՏՎԱԾ Է"
+formatear_disco_F2FS_MSG6="Սարքի ապամոնտաժում..."
+formatear_disco_F2FS_MSG7="Սկավառակի ձևաչափում F2FS ում..."
+formatear_disco_F2FS_MSG8="Գործում է"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="ՁԵՎԱՎՈՐՎԵԼ Է ՀԱՋՈՂՈՎ"
+formatear_img_F2FS_MSG2="ՍԽԱԼ ԴԱՏԱՐԿ Ֆայլը Ձևաչափելիս"
+formatear_img_F2FS_MSG3="Ստեղծվում է դատարկ ֆայլ..."
+formatear_img_F2FS_MSG4="Գործում է"
+formatear_img_F2FS_MSG5="Դատարկ ֆայլի ֆորմատավորում F2FS-ում..."
+formatear_img_F2FS_MSG6="ԴԱՏԱՐԿ ՖԱՅԼԻ ՍԵՐՈՒՆԴ ԱՍԱՀՄԱՆԱՉԱՓ ՉԱՓՈՎ"
+formatear_img_F2FS_MSG7="Նշեք ստեղծվող դատարկ ֆայլի չափը միայն թվային արժեք."
+formatear_img_F2FS_MSG8="Տիեզերական չափումներ դատարկ ֆայլը ստեղծելու համար."
+formatear_img_F2FS_MSG9="Նշեք օգտագործվող տարածության չափումը."
+formatear_img_F2FS_MSG10="ՍԽԱԼ ՉԱՓԻ ՉԱՓՈՒՄԸ Ճշգրտելիս"
+formatear_img_F2FS_MSG11="Բլոկի չափի արժեքը."
+formatear_img_F2FS_MSG12="Դատարկ ֆայլի համար տարածության քանակը."
+formatear_img_F2FS_MSG13="Հաշվարկված արժեքը բայթերով."
+formatear_img_F2FS_MSG14="Հաշվարկված արժեքը հաշվարկի համար."
+formatear_img_F2FS_MSG15="Չեղարկված գործընթաց: Պատկերի չափը չի ճանաչվում:"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Ելք"
+imgr_tmp_MSG1="Ջնջել բոլոր F2FS պատկերային ֆայլերը"
+imgr_tmp_MSG2="Միացնել կամ ապամոնտաժել պատկերի ֆայլը"
+imgr_tmp_MSG3="Պատկերի ֆայլեր"
+imgr_tmp_MSG4="Ընտրեք տարբերակ"
+imgr_tmp_MSG5="Ջնջված պատկերի ֆայլեր"
+imgr_tmp_MSG6="Տեղադրեք պատկերը"
+imgr_tmp_MSG7="Անջատել պատկերը"
+imgr_tmp_MSG8="Միացված պատկեր"
+imgr_tmp_MSG9="Ապամոնտաժված պատկեր"
+imgr_tmp_MSG10="Անվավեր տարբերակ"
+imgr_tmp_MSG11="Նշեք պատկերը, որը պետք է տեղադրվի կամ ապամոնտաժվի:"
+imgr_tmp_MSG12="Պատկերը տեղադրելու սխալ"
+imgr_tmp_MSG13="Պատկերն ապամոնտաժելիս սխալ առաջացավ"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Ելք."
+lingr10F2FSpatch_MSG1="Ձևաչափել ֆլեշ հիշողությունը F2FS-ի։"
+lingr10F2FSpatch_MSG2="Ստեղծեք F2FS պատկերի ֆայլ։"
+lingr10F2FSpatch_MSG3="Գործողություններ F2FS պատկերների վրա։"
+lingr10F2FSpatch_MSG4="Մոտ."
+lingr10F2FSpatch_MSG5="Անվավեր տարբերակ"
+

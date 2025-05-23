@@ -1,0 +1,72 @@
+# Idioma Alemán para soporte F2FS en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+# Traducción experimental, generada con google translator
+
+# presskey
+
+presskey_MSG1="Drücken Sie ENTER, um fortzufahren..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="===================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 F2FS-UNTERSTÜTZUNG."
+
+# creditos
+
+creditos_DESC="Unterstützung für die Formatierung des Flash Speichers unter linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Ausgabe des Mount Befehls:"
+formatear_disco_F2FS_MSG2="Geben Sie das zu formatierende Blockgerät an: "
+formatear_disco_F2FS_MSG3="Gerät erfolgreich formatiert"
+formatear_disco_F2FS_MSG4="Gerät konnte nicht formatiert werden"
+formatear_disco_F2FS_MSG5="ABGESCHLOSSENER PROZESS"
+formatear_disco_F2FS_MSG6="Gerät aushängen..."
+formatear_disco_F2FS_MSG7="Laufwerk in F2FS formatieren..."
+formatear_disco_F2FS_MSG8="Betrieb"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="ERFOLGREICH FORMATIERT"
+formatear_img_F2FS_MSG2="FEHLER BEIM FORMATIEREN DER LEEREN DATEI"
+formatear_img_F2FS_MSG3="Leere Datei wird generiert..."
+formatear_img_F2FS_MSG4="Betrieb"
+formatear_img_F2FS_MSG5="Leere Datei in F2FS formatieren..."
+formatear_img_F2FS_MSG6="ERZEUGUNG EINER LEEREN DATEI MIT BENUTZERDEFINIERTER GRÖSSE"
+formatear_img_F2FS_MSG7="Geben Sie die Größe der zu generierenden leeren Datei an (nur ein numerischer Wert):"
+formatear_img_F2FS_MSG8="Speicherplatzmessungen zur Generierung der leeren Datei:"
+formatear_img_F2FS_MSG9="Geben Sie das zu verwendende Raummaß an: "
+formatear_img_F2FS_MSG10="FEHLER BEI DER ANGABE DES GRÖSSENMASSES"
+formatear_img_F2FS_MSG11="Blockgrößenwert:"
+formatear_img_F2FS_MSG12="Speicherplatz für leere Datei:"
+formatear_img_F2FS_MSG13="Berechneter Wert in Bytes:"
+formatear_img_F2FS_MSG14="Berechneter Wert für count:"
+formatear_img_F2FS_MSG15="Vorgang abgebrochen. Bildgröße wird nicht erkannt."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Beenden"
+imgr_tmp_MSG1="Alle F2FS Bilddateien löschen"
+imgr_tmp_MSG2="Bilddatei einbinden oder aushängen"
+imgr_tmp_MSG3="Bilddateien in"
+imgr_tmp_MSG4="Wählen Sie eine Option"
+imgr_tmp_MSG5="Gelöschte Bilddateien"
+imgr_tmp_MSG6="Bild mounten"
+imgr_tmp_MSG7="Bild aushängen"
+imgr_tmp_MSG8="Bild gemountet"
+imgr_tmp_MSG9="Ungemountetes Bild"
+imgr_tmp_MSG10="Ungültige Option"
+imgr_tmp_MSG11="Geben Sie das Bild an, das gemountet oder unmountet werden soll:"
+imgr_tmp_MSG12="Fehler beim Mounten des Bildes"
+imgr_tmp_MSG13="Fehler beim Aufheben der Bereitstellung des Bildes"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Beenden."
+lingr10F2FSpatch_MSG1="Flash Speicher auf F2FS formatieren."
+lingr10F2FSpatch_MSG2="Erstellen Sie eine F2FS Image Datei."
+lingr10F2FSpatch_MSG3="Operationen an F2FS Bildern."
+lingr10F2FSpatch_MSG4="Info."
+lingr10F2FSpatch_MSG5="Ungültige Option"

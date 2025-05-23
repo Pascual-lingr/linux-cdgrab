@@ -1,0 +1,73 @@
+# Idioma Tayiko para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Барои идома додан ENTER ро пахш кунед..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 ДАСТГИРИИ F2FS."
+
+# creditos
+
+creditos_DESC="Дастгирии форматкунии хотираи флешдор зери linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Баромади фармони насб:"
+formatear_disco_F2FS_MSG2="Муайян кардани дастгоҳи блок барои формат кардан: "
+formatear_disco_F2FS_MSG3="Дастгоҳ бомуваффақият формат карда шуд"
+formatear_disco_F2FS_MSG4="Хато дар форматкунии дастгоҳ"
+formatear_disco_F2FS_MSG5="РАВАНДИ ПУРРА"
+formatear_disco_F2FS_MSG6="Баровардани дастгоҳ..."
+formatear_disco_F2FS_MSG7="Формат кардани диск дар F2FS..."
+formatear_disco_F2FS_MSG8="Иҷрокунанда"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="МУВАФФАКИЯТ ТАШАККУЛ ШУД"
+formatear_img_F2FS_MSG2="ХАТО ВАҚТИ Формат кардани файли холӣ"
+formatear_img_F2FS_MSG3="Эҳё кардани файли холӣ..."
+formatear_img_F2FS_MSG4="Иҷрокунанда"
+formatear_img_F2FS_MSG5="Формат кардани файли холӣ дар F2FS..."
+formatear_img_F2FS_MSG6="ТАВАСЛИ ФАЙЛИ ХОЛИ БО андозаи фармоишӣ"
+formatear_img_F2FS_MSG7="Андозаи файли холӣ барои тавлидро муайян кунед (танҳо арзиши ададӣ):"
+formatear_img_F2FS_MSG8="Чанд кардани фазо барои тавлиди файли холӣ:"
+formatear_img_F2FS_MSG9="Андозаи фосиларо барои истифода муайян кунед: "
+formatear_img_F2FS_MSG10="ХАТО ҲАНГОТИ МУАЙЯН КАРДАНИ ченкунии андоза"
+formatear_img_F2FS_MSG11="Арзиши андозаи блок:"
+formatear_img_F2FS_MSG12="Миқдори ҷой барои файли холӣ:"
+formatear_img_F2FS_MSG13="Арзиши ҳисобшуда бо байт:"
+formatear_img_F2FS_MSG14="Арзиши ҳисобшуда барои ҳисоб:"
+formatear_img_F2FS_MSG15="Раванди бекоршуда. Андозаи тасвир эътироф карда намешавад."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Баромадан"
+imgr_tmp_MSG1="Нест кардани ҳама файлҳои тасвирии F2FS"
+imgr_tmp_MSG2="Файли тасвирро васл кардан ё ҷудо кардан"
+imgr_tmp_MSG3="Файлҳои тасвирӣ дар"
+imgr_tmp_MSG4="Интихоби интихоб"
+imgr_tmp_MSG5="Файлҳои тасвирии нестшуда"
+imgr_tmp_MSG6="Васл кардани тасвир"
+imgr_tmp_MSG7="Тасвирро ҷудо кунед"
+imgr_tmp_MSG8="Тасвири насбшуда"
+imgr_tmp_MSG9="Тасвири кандашуда"
+imgr_tmp_MSG10="Варианти нодуруст"
+imgr_tmp_MSG11="Тасвирро барои васл кардан ё ҷудо кардан муайян кунед:"
+imgr_tmp_MSG12="Хато дар васлкунии тасвир"
+imgr_tmp_MSG13="Хато дар васлкунии тасвир"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Баромадан."
+lingr10F2FSpatch_MSG1="Формат кардани хотираи флеш ба F2FS."
+lingr10F2FSpatch_MSG2="Файли тасвирии F2FS эҷод кунед."
+lingr10F2FSpatch_MSG3="Амалҳо дар тасвирҳои F2FS."
+lingr10F2FSpatch_MSG4="Дар бораи."
+lingr10F2FSpatch_MSG5="Варианти нодуруст"
+

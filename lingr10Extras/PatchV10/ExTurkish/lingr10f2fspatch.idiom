@@ -1,0 +1,73 @@
+# Idioma Turco para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Devam etmek için ENTER'a basın..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=============================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 F2FS DESTEĞİ."
+
+# creditos
+
+creditos_DESC="linux-cdgrab altında flash bellek biçimlendirme desteği"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Komut çıktısını bağla:"
+formatear_disco_F2FS_MSG2="Biçimlendirilecek blok cihazını belirtin: "
+formatear_disco_F2FS_MSG3="Cihaz Başarıyla Biçimlendirildi"
+formatear_disco_F2FS_MSG4="Cihaz biçimlendirme hatası"
+formatear_disco_F2FS_MSG5="İŞLEM TAMAMLANDI"
+formatear_disco_F2FS_MSG6="Cihazın bağlantısı kesiliyor..."
+formatear_disco_F2FS_MSG7="Sürücü F2FS'de biçimlendiriliyor..."
+formatear_disco_F2FS_MSG8="Çalışıyor"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="BAŞARIYLA BİÇİMLENDİRİLDİ"
+formatear_img_F2FS_MSG2="BOŞ DOSYA BİÇİMLENDİRİLİRKEN HATA"
+formatear_img_F2FS_MSG3="Boş dosya oluşturuluyor..."
+formatear_img_F2FS_MSG4="Çalışıyor"
+formatear_img_F2FS_MSG5="Boş dosya F2FS'de biçimlendiriliyor..."
+formatear_img_F2FS_MSG6="ÖZEL BOYUTTA BOŞ DOSYA OLUŞTURULMASI"
+formatear_img_F2FS_MSG7="Oluşturulacak boş dosyanın boyutunu belirtin (yalnızca sayısal bir değer):"
+formatear_img_F2FS_MSG8="Boş dosyayı oluşturmak için alan ölçümleri:"
+formatear_img_F2FS_MSG9="Kullanılacak alan ölçüsünü belirtin: "
+formatear_img_F2FS_MSG10="BOYUT ÖLÇÜSÜNÜ BELİRTİRKEN HATA"
+formatear_img_F2FS_MSG11="Blok boyutu değeri:"
+formatear_img_F2FS_MSG12="Boş dosya için yer miktarı:"
+formatear_img_F2FS_MSG13="Bayt cinsinden hesaplanan değer:"
+formatear_img_F2FS_MSG14="Sayım için hesaplanan değer:"
+formatear_img_F2FS_MSG15="İptal edilen işlem. Resim boyutu tanınmıyor."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Çıkış"
+imgr_tmp_MSG1="Tüm F2FS resim dosyalarını sil"
+imgr_tmp_MSG2="Resim dosyasını bağla veya bağlantısını kes"
+imgr_tmp_MSG3="Görüntü dosyaları içeri"
+imgr_tmp_MSG4="Bir seçenek seçin"
+imgr_tmp_MSG5="Silinen resim dosyaları"
+imgr_tmp_MSG6="Resmi bağla"
+imgr_tmp_MSG7="Resmin bağlantısını kes"
+imgr_tmp_MSG8="Aktarılan resim"
+imgr_tmp_MSG9="Dismounted Image"
+imgr_tmp_MSG10="Geçersiz Seçenek"
+imgr_tmp_MSG11="Takılacak veya çıkarılacak resmi belirtin:"
+imgr_tmp_MSG12="Resim eklenirken hata oluştu"
+imgr_tmp_MSG13="Resmin bağlantısı kesilirken hata oluştu"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Çıkış."
+lingr10F2FSpatch_MSG1="Flash belleği F2FS'ye biçimlendir."
+lingr10F2FSpatch_MSG2="F2FS görüntü dosyası oluştur."
+lingr10F2FSpatch_MSG3="F2FS görüntüleri üzerinde işlemler."
+lingr10F2FSpatch_MSG4="Hakkında."
+lingr10F2FSpatch_MSG5="Geçersiz Seçenek"
+

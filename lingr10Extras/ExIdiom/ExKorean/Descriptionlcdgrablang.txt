@@ -1,10 +1,10 @@
 한국인.
 
 Traducción experimental al Coreano.
-Por estudio del comportamiento de caracteres Coreanos bajo el shell.
+Por estudio del comportamiento de carácteres Coreanos bajo el shell.
 Contiene errores de significado en contexto u ortográficos.
 Genenerado con Google Translate.
-El shell debe tener soporte para los caracteres Coreanos de lo contrario
+El shell debe tener soporte para los carácteres Coreanos de lo contrario
 este idioma no será funcional bajo el shell.
 
 Experimental translation into Korean.

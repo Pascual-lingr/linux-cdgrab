@@ -1,0 +1,73 @@
+# Idioma Portugués para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Pressione ENTER para continuar..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="==============================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 APOIO A F2FS."
+
+# creditos
+
+creditos_DESC="Suporte para formatação de memória flash em linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Saída do comando de montagem:"
+formatear_disco_F2FS_MSG2="Especifique o dispositivo de bloco para formatar: "
+formatear_disco_F2FS_MSG3="Dispositivo formatado com sucesso"
+formatear_disco_F2FS_MSG4="Erro ao formatar dispositivo"
+formatear_disco_F2FS_MSG5="PROCESSO CONCLUÍDO"
+formatear_disco_F2FS_MSG6="Desmontando dispositivo..."
+formatear_disco_F2FS_MSG7="Formatando unidade no F2FS..."
+formatear_disco_F2FS_MSG8="Em execução"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="FORMADO COM SUCESSO"
+formatear_img_F2FS_MSG2="ERRO AO FORMATAR ARQUIVO VAZIO"
+formatear_img_F2FS_MSG3="Gerando arquivo vazio..."
+formatear_img_F2FS_MSG4="Em execução"
+formatear_img_F2FS_MSG5="Formatando arquivo vazio no F2FS..."
+formatear_img_F2FS_MSG6="GERAÇÃO DE ARQUIVO VAZIO COM TAMANHO PERSONALIZADO"
+formatear_img_F2FS_MSG7="Especifique o tamanho do arquivo vazio a ser gerado (apenas um valor numérico):"
+formatear_img_F2FS_MSG8="Medidas de espaço para gerar o arquivo vazio:"
+formatear_img_F2FS_MSG9="Especifique a medida de espaço a ser usada: "
+formatear_img_F2FS_MSG10="ERRO AO ESPECIFICAR A MEDIDA DO TAMANHO"
+formatear_img_F2FS_MSG11="Valor do tamanho do bloco:"
+formatear_img_F2FS_MSG12="Quantidade de espaço para arquivo vazio:"
+formatear_img_F2FS_MSG13="Valor calculado em bytes:"
+formatear_img_F2FS_MSG14="Valor calculado para contagem:"
+formatear_img_F2FS_MSG15="Processo cancelado. O tamanho da imagem não é reconhecido."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Sair"
+imgr_tmp_MSG1="Excluir todos os arquivos de imagem F2FS"
+imgr_tmp_MSG2="Montar ou desmontar arquivo de imagem"
+imgr_tmp_MSG3="Arquivos de imagem em"
+imgr_tmp_MSG4="Selecione uma opção"
+imgr_tmp_MSG5="Arquivos de imagem excluídos"
+imgr_tmp_MSG6="Montar imagem"
+imgr_tmp_MSG7="Desmontar imagem"
+imgr_tmp_MSG8="Imagem montada"
+imgr_tmp_MSG9="Imagem desmontada"
+imgr_tmp_MSG10="Opção inválida"
+imgr_tmp_MSG11="Especifique a imagem para montar ou desmontar:"
+imgr_tmp_MSG12="Erro ao montar imagem"
+imgr_tmp_MSG13="Erro ao desmontar imagem"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Sair."
+lingr10F2FSpatch_MSG1="Formatar memória flash para F2FS."
+lingr10F2FSpatch_MSG2="Criar um ficheiro de imagem F2FS."
+lingr10F2FSpatch_MSG3="Operações em imagens F2FS."
+lingr10F2FSpatch_MSG4="Sobre."
+lingr10F2FSpatch_MSG5="Opção inválida"
+

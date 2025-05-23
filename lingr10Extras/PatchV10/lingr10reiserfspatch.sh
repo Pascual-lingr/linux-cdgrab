@@ -2,7 +2,7 @@
 
 # path de ejecución: /usr/share/linux-cdgrab/parches/lingr10reiserfspatch.sh
 
-# lingr10reiserfs.sh ver 0.2 --> 21/01/2024
+# lingr10reiserfs.sh ver 0.3 --> 18/05/2025
 # 
 #
 # Parche para soportar el sistema de ficheros ReiserFS en LINUX-CDGRAB 1.0
@@ -48,6 +48,118 @@ echo -e "${COLOR_DEL_INTERFAZ}$cabecera_interfaz_MSG3${FONDO_INTERFAZ}"
 
 }
 
+# dialog_aviso_formatounidades
+# Portado de linux-cdgrab 1.0
+#
+# Cuadro de dialogo de aviso para el menú
+# de formateo en el IU con ncurses
+
+dialog_aviso_formatounidades(){
+
+	UNIDAVF="$UIFormatearUnidad_linuxfs_MSG1
+		$UIFormatearUnidad_linuxfs_MSG2
+		$UIFormatearUnidad_linuxfs_MSG2B
+		$UIFormatearUnidad_linuxfs_MSG3
+		$UIFormatearUnidad_linuxfs_MSG4
+		$UIFormatearUnidad_linuxfs_MSG5
+		$UIFormatearUnidad_linuxfs_MSG6
+		$UIFormatearUnidad_linuxfs_MSG7"
+
+clear
+
+dialog --clear --backtitle "-++ $PROGRAMA ++-" --title "$PROGRAMA FLASHDRIVE MENU" --yesno "$UNIDAVF" 15 83 
+
+if test $? -eq 0;then
+	export opcionformatdisco="C"
+else
+	export opcionformatdisco="A"
+fi
+
+}
+
+# UIFormatearUnidad_linuxfs
+# Portado de linux-cdgrab 1.0
+#
+# Interfaz para el formatear discos duros.
+
+UIFormatearUnidad_linuxfs(){
+
+clear
+
+while $verdadero;do
+
+  case $UD in
+	0)
+		dialog_aviso_formatounidades
+		
+	;;
+
+	1)
+	cabecera_interfaz
+	echo -e "${C_AV} "
+	echo $UIFormatearUnidad_linuxfs_MSG1
+	echo $UIFormatearUnidad_linuxfs_MSG2
+	echo $UIFormatearUnidad_linuxfs_MSG3
+	echo $UIFormatearUnidad_linuxfs_MSG4
+	echo $UIFormatearUnidad_linuxfs_MSG5
+	echo $UIFormatearUnidad_linuxfs_MSG6
+	echo $UIFormatearUnidad_linuxfs_MSG7
+	echo -e "${COLOR_DEL_INTERFAZ} ${FONDO_INTERFAZ}"
+	echo $UIFormatearUnidad_linuxfs_MSG8
+	
+	read opcionformatdisco
+	;;
+
+	2)
+	opcionformatdisco=$(zenity --width=400 --height=250 --title="$PROGRAMA" --entry --text="
+$UIFormatearUnidad_linuxfs_MSG1
+$UIFormatearUnidad_linuxfs_MSG2
+$UIFormatearUnidad_linuxfs_MSG3
+$UIFormatearUnidad_linuxfs_MSG4
+$UIFormatearUnidad_linuxfs_MSG5
+$UIFormatearUnidad_linuxfs_MSG6
+$UIFormatearUnidad_linuxfs_MSG8")
+	;;
+
+	3)
+		KDIAMSGFORM="$UIFormatearUnidad_linuxfs_MSG1
+$UIFormatearUnidad_linuxfs_MSG2
+$UIFormatearUnidad_linuxfs_MSG3
+$UIFormatearUnidad_linuxfs_MSG4
+$UIFormatearUnidad_linuxfs_MSG5
+$UIFormatearUnidad_linuxfs_MSG6
+$UIFormatearUnidad_linuxfs_MSG7"
+
+		kdialog --warningyesno "$KDIAMSGFORM" --geometry=400x400 --title "$PROGRAMA"
+
+		if test $? -eq 0;then
+			opcionformatdisco="C"
+		else
+			opcionformatdisco="A"
+		fi
+	;;
+
+   esac
+
+	case $opcionformatdisco in
+
+		"C" | "c")
+
+			coloresIUAPP
+			formatear_disco_reiserfs
+
+		;;
+
+		*)
+
+			break
+		;;
+
+	esac
+done
+
+}
+
 # formatear_disco_reiserfs
 #
 # Formatea un dispositivo con ReiserFS
@@ -79,6 +191,8 @@ if test -z $vollabel;then
 	vollabel="REISERFS-DISK"
 fi
 
+cabecera_interfaz
+
 echo "$formatear_disco_reiserfs_MSG6"
 umount $discofmt
 
@@ -96,6 +210,7 @@ echo $formatear_disco_reiserfs_MSG5
 echo ""
 
 presskey
+clear
 
 }
 
@@ -205,6 +320,7 @@ else
 fi
 
 presskey
+clear
 
 }
 
@@ -348,7 +464,7 @@ coloresIUAPP
 					;;
 
 					1)
-						clear
+						
 						cabecera_interfaz
 						echo "M.- $imgr_tmp_MSG6"
 						echo "D.- $imgr_tmp_MSG7"
@@ -405,7 +521,7 @@ D "D- $imgr_tmp_MSG7" --title "$PROGRAMA")
 
 						*)
 
-                        				echo $imgr_tmp_MSG10
+                        				echo -e "${C_FA}$imgr_tmp_MSG10${COLOR_DEL_INTERFAZ}${FONDO_INTERFAZ}"
 							sleep 1
 						;;
 					esac
@@ -445,6 +561,8 @@ fi
 # Expande el fichero de idioma
 
 source ${D_LINUXCDGRAB}/lcdgrabAPI_idiom/${IDIOM}/lcdgrabparches_idiom/lingr10reiserfspatch.idiom || exit $?
+# Portado de linux-cdgrab 1.0
+source ${D_LINUXCDGRAB}/lcdgrabAPI_idiom/${IDIOM}/lcdgrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom || exit $?
 
 if test -z $UD;then
 	export UD=1
@@ -495,7 +613,7 @@ while $verdadero;do
 	;;
 
 	3)
-		menuop=$(kdialog --menu "$cabecera_interfaz_MSG2" \
+		menuop=$(kdialog --menu "REISER FILE SYSTEM" \
 1 "1- $lingr10reiserfspatch_MSG1" \
 2 "2- $lingr10reiserfspatch_MSG2" \
 3 "3- $lingr10reiserfspatch_MSG3" \
@@ -508,8 +626,8 @@ while $verdadero;do
 	case $menuop in
 
 		1)
-			coloresIUAPP
-			formatear_disco_reiserfs
+		
+			UIFormatearUnidad_linuxfs
 
 		;;
 

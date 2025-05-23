@@ -1,0 +1,73 @@
+# Idioma Suajili para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Bonyeza ENTER ili kuendelea..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="==============================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 MSAADA WA F2FS"
+
+# creditos
+
+creditos_DESC="Usaidizi wa uumbizaji wa kumbukumbu ya flash chini ya linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Weka pato la amri:"
+formatear_disco_F2FS_MSG2="Bainisha kifaa cha kuzuia ili kufomati: "
+formatear_disco_F2FS_MSG3="Kifaa Kimeumbizwa Mafanikio"
+formatear_disco_F2FS_MSG4="Kifaa cha uumbizaji wa hitilafu"
+formatear_disco_F2FS_MSG5="MCHAKATO UMEMILIKA"
+formatear_disco_F2FS_MSG6="Kushusha kifaa..."
+formatear_disco_F2FS_MSG7="Kuunda hifadhi katika F2FS..."
+formatear_disco_F2FS_MSG8="Inayoendesha"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="IMEFANIKIWA KWA MAFANIKIO"
+formatear_img_F2FS_MSG2="KOSA UNAPOFANYA FILA TUPU"
+formatear_img_F2FS_MSG3="Inazalisha faili tupu..."
+formatear_img_F2FS_MSG4="Inayoendesha"
+formatear_img_F2FS_MSG5="Kupanga faili tupu katika F2FS..."
+formatear_img_F2FS_MSG6="KUZALISHA FAILI TUPU ILIYO NA UKUBWA UNAOFAA"
+formatear_img_F2FS_MSG7="Bainisha ukubwa wa faili tupu ili kuzalisha (thamani ya nambari tu):"
+formatear_img_F2FS_MSG8="Vipimo vya nafasi ili kutoa faili tupu:"
+formatear_img_F2FS_MSG9="Bainisha kipimo cha nafasi cha kutumia: "
+formatear_img_F2FS_MSG10="KOSA WAKATI WA KUTAJA KIPIMO CHA UKUBWA"
+formatear_img_F2FS_MSG11="Thamani ya saizi ya kuzuia:"
+formatear_img_F2FS_MSG12="Kiasi cha nafasi kwa faili tupu:"
+formatear_img_F2FS_MSG13="Thamani iliyohesabiwa katika baiti:"
+formatear_img_F2FS_MSG14="Thamani iliyohesabiwa kwa hesabu:"
+formatear_img_F2FS_MSG15="Mchakato ulioghairiwa. Ukubwa wa picha hautambuliwi."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Toka"
+imgr_tmp_MSG1="Futa faili zote za picha za F2FS"
+imgr_tmp_MSG2="Weka au Ondoa faili ya picha"
+imgr_tmp_MSG3="Faili za picha ndani"
+imgr_tmp_MSG4="Chagua chaguo"
+imgr_tmp_MSG5="Faili za picha zilizofutwa"
+imgr_tmp_MSG6="Weka picha"
+imgr_tmp_MSG7="Dismount Image"
+imgr_tmp_MSG8="Picha iliyowekwa"
+imgr_tmp_MSG9="Picha Iliyotolewa"
+imgr_tmp_MSG10="Chaguo Batili"
+imgr_tmp_MSG11="Bainisha picha ili kupachika au kuteremsha:"
+imgr_tmp_MSG12="Hitilafu katika kuweka picha"
+imgr_tmp_MSG13="Hitilafu katika kuondoa picha"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Toka."
+lingr10F2FSpatch_MSG1="Badilisha kumbukumbu ya mwako kuwa F2FS."
+lingr10F2FSpatch_MSG2="Unda faili ya picha ya F2FS."
+lingr10F2FSpatch_MSG3="Uendeshaji kwenye picha za F2FS."
+lingr10F2FSpatch_MSG4="Kuhusu."
+lingr10F2FSpatch_MSG5="Chaguo Batili"
+

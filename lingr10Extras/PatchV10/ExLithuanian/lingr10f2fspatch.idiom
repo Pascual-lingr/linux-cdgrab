@@ -1,0 +1,73 @@
+# Idioma Lituano para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Norėdami tęsti, paspauskite ENTER..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="================================"
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 PALAIKOMA F2FS."
+
+# creditos
+
+creditos_DESC="Flash atminties formatavimo linux-cdgrab palaikymas"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Sujungti komandos išvestį:"
+formatear_disco_F2FS_MSG2="Nurodykite blokavimo įrenginį, kurį norite formatuoti: "
+formatear_disco_F2FS_MSG3="Įrenginys sėkmingai suformatuotas"
+formatear_disco_F2FS_MSG4="Klaida formatuojant įrenginį"
+formatear_disco_F2FS_MSG5="PROCESAS BAIGTAS"
+formatear_disco_F2FS_MSG6="Atjungiamas įrenginys..."
+formatear_disco_F2FS_MSG7="Formatuojamas diskas F2FS..."
+formatear_disco_F2FS_MSG8="Veikia"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="SUFORMATAS SĖKMINGAI"
+formatear_img_F2FS_MSG2="KLAIDA FORMATUOJANT TUŠČĄ FAILĄ"
+formatear_img_F2FS_MSG3="Generuojamas tuščias failas..."
+formatear_img_F2FS_MSG4="Veikia"
+formatear_img_F2FS_MSG5="Formatuojamas tuščias failas F2FS..."
+formatear_img_F2FS_MSG6="TUŠČIO RINKLO SU TINKINTO DYDŽIO GENERAVIMAS"
+formatear_img_F2FS_MSG7="Nurodykite generuojamo tuščio failo dydį (tik skaitinė reikšmė):"
+formatear_img_F2FS_MSG8="Erdvės matavimai tuščiam failui generuoti:"
+formatear_img_F2FS_MSG9="Nurodykite naudotiną erdvės matavimą: "
+formatear_img_F2FS_MSG10="KLAIDA NURODYJANT DYDŽIO MATAVIMĄ"
+formatear_img_F2FS_MSG11="Bloko dydžio reikšmė:"
+formatear_img_F2FS_MSG12="Vietos kiekis tuščiam failui:"
+formatear_img_F2FS_MSG13="Apskaičiuota vertė baitais:"
+formatear_img_F2FS_MSG14="Apskaičiuota skaičiaus reikšmė:"
+formatear_img_F2FS_MSG15="Atšauktas procesas. Vaizdo dydis neatpažįstamas."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Išeiti"
+imgr_tmp_MSG1="Ištrinti visus F2FS vaizdo failus"
+imgr_tmp_MSG2="Prijungti arba atjungti vaizdo failą"
+imgr_tmp_MSG3="Vaizdo failai"
+imgr_tmp_MSG4="Pasirinkite parinktį"
+imgr_tmp_MSG5="Ištrinti vaizdo failai"
+imgr_tmp_MSG6="Montuoti vaizdą"
+imgr_tmp_MSG7="Išmontuoti vaizdą"
+imgr_tmp_MSG8="Sumontuotas vaizdas"
+imgr_tmp_MSG9="Išmontuotas vaizdas"
+imgr_tmp_MSG10="Netinkama parinktis"
+imgr_tmp_MSG11="Nurodykite vaizdą, kurį norite prijungti arba atjungti:"
+imgr_tmp_MSG12="Klaida montuojant vaizdą"
+imgr_tmp_MSG13="Klaida atjungiant vaizdą"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Išeiti."
+lingr10F2FSpatch_MSG1="Formatuoti flash atmintį į F2FS."
+lingr10F2FSpatch_MSG2="Sukurti F2FS vaizdo failą."
+lingr10F2FSpatch_MSG3="Operacijos su F2FS vaizdais."
+lingr10F2FSpatch_MSG4="Apie."
+lingr10F2FSpatch_MSG5="Netinkama parinktis"
+

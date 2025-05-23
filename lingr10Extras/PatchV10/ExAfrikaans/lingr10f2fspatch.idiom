@@ -1,0 +1,73 @@
+# Idioma Afrikaans para el soporte de F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Druk ENTER om voort te gaan..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="===================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 F2FS ONDERSTEUNING."
+
+# creditos
+
+creditos_DESC="Ondersteuning vir flitsgeheue formatering onder linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Uitvoer van bergopdrag:"
+formatear_disco_F2FS_MSG2="Spesifiseer die blok toestel om te formateer: "
+formatear_disco_F2FS_MSG3="Toestel is suksesvol geformateer"
+formatear_disco_F2FS_MSG4="Fout met formatering toestel"
+formatear_disco_F2FS_MSG5="PROSES VOLTOOI"
+formatear_disco_F2FS_MSG6="Ontkoppel toestel..."
+formatear_disco_F2FS_MSG7="Formateer tans skyf na F2FS..."
+formatear_disco_F2FS_MSG8="Lop"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="SUKSESVOL GEFORMEER"
+formatear_img_F2FS_MSG2="FOUT MET FORMATERING VAN LEË LêER"
+formatear_img_F2FS_MSG3="Genereer tans leë lêer..."
+formatear_img_F2FS_MSG4="Lop"
+formatear_img_F2FS_MSG5="Formateer tans leë lêer in F2FS..."
+formatear_img_F2FS_MSG6="GENERERING VAN LEË LÊER MET GEPASTE GROOTTE"
+formatear_img_F2FS_MSG7="Spesifiseer die grootte van die leë lêer om te genereer (slegs 'n numeriese waarde):"
+formatear_img_F2FS_MSG8="Spasie metings om die leë lêer te genereer:"
+formatear_img_F2FS_MSG9="Spesifiseer die hoeveelheid spasie om te gebruik: "
+formatear_img_F2FS_MSG10="FOUT OM GROOTTE METING TE SPESIFISEER"
+formatear_img_F2FS_MSG11="Blokgrootte waarde:"
+formatear_img_F2FS_MSG12="Hoeveelheid spasie vir leë lêer:"
+formatear_img_F2FS_MSG13="Berekende waarde in grepe:"
+formatear_img_F2FS_MSG14="Berekende waarde vir telling:"
+formatear_img_F2FS_MSG15="Proses is gekanselleer. Beeldgrootte word nie herken nie."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Verlaat"
+imgr_tmp_MSG1="Vee alle F2FS beeldlêers uit"
+imgr_tmp_MSG2="Monteer of ontkoppel prentlêer"
+imgr_tmp_MSG3="Beeldlêers in"
+imgr_tmp_MSG4="Kies 'n opsie"
+imgr_tmp_MSG5="Beeldlêers uitgevee"
+imgr_tmp_MSG6="Bevestig prent"
+imgr_tmp_MSG7="Ontkoppel prent"
+imgr_tmp_MSG8="Gemonteerde prent"
+imgr_tmp_MSG9="Ongemonteerde prent"
+imgr_tmp_MSG10="Ongeldige opsie"
+imgr_tmp_MSG11="Spesifiseer die prent om te monteer of te ontkoppel:"
+imgr_tmp_MSG12="Fout by montering van prent"
+imgr_tmp_MSG13="Fout met ontkoppel van prent"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Verlaat."
+lingr10F2FSpatch_MSG1="Formateer flitsgeheue na F2FS."
+lingr10F2FSpatch_MSG2="Skep 'n F2FS beeldlêer."
+lingr10F2FSpatch_MSG3="Bewerkings op F2FS beelde."
+lingr10F2FSpatch_MSG4="Meer oor."
+lingr10F2FSpatch_MSG5="Ongeldige opsie"
+

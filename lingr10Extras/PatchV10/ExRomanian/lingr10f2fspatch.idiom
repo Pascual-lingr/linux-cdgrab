@@ -1,0 +1,73 @@
+# Idioma Rumano para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Apăsați ENTER pentru a continua..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="================================"
+cabecera_interfaz_MSG2="F2FS DE SUPORT LINUX-CDGRAB 1.0."
+
+# creditos
+
+creditos_DESC="Suport pentru formatarea memoriei flash sub linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Montați ieșirea comenzii:"
+formatear_disco_F2FS_MSG2="Specificați dispozitivul de blocare pentru format: "
+formatear_disco_F2FS_MSG3="Dispozitivul a fost formatat cu succes"
+formatear_disco_F2FS_MSG4="Eroare la formatarea dispozitivului"
+formatear_disco_F2FS_MSG5="PROCESUL TERMINAT"
+formatear_disco_F2FS_MSG6="Se demontează dispozitivul..."
+formatear_disco_F2FS_MSG7="Se formatează unitatea în F2FS..."
+formatear_disco_F2FS_MSG8="Rulează"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="FORMATAT CU SUCCES"
+formatear_img_F2FS_MSG2="EROARE LA FORMATAREA FIȘIERULUI GOL"
+formatear_img_F2FS_MSG3="Se generează fișierul gol..."
+formatear_img_F2FS_MSG4="Rulează"
+formatear_img_F2FS_MSG5="Se formatează fișierul gol în F2FS..."
+formatear_img_F2FS_MSG6="GENERAREA FIȘIERULUI GOL CU DIMENSIUNE PERSONALIZATĂ"
+formatear_img_F2FS_MSG7="Specificați dimensiunea fișierului gol de generat (doar o valoare numerică):"
+formatear_img_F2FS_MSG8="Măsurători de spațiu pentru a genera fișierul gol:"
+formatear_img_F2FS_MSG9="Specificați măsurarea spațiului de utilizat: "
+formatear_img_F2FS_MSG10="EROARE CÂND SE SPECIFICA MĂSURAREA MĂRIMII"
+formatear_img_F2FS_MSG11="Valoare dimensiunea blocului:"
+formatear_img_F2FS_MSG12="Cantitatea de spațiu pentru fișierul gol:"
+formatear_img_F2FS_MSG13="Valoare calculată în octeți:"
+formatear_img_F2FS_MSG14="Valoare calculată pentru numărare:"
+formatear_img_F2FS_MSG15="Proces anulat. Dimensiunea imaginii nu este recunoscută."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Ieșire"
+imgr_tmp_MSG1="Ștergeți toate fișierele imagine F2FS"
+imgr_tmp_MSG2="Montați sau demontați fișierul imagine"
+imgr_tmp_MSG3="Fișiere imagine în"
+imgr_tmp_MSG4="Selectați o opțiune"
+imgr_tmp_MSG5="Fișiere imagine șterse"
+imgr_tmp_MSG6="Montați imaginea"
+imgr_tmp_MSG7="Demontați imaginea"
+imgr_tmp_MSG8="Imagine montată"
+imgr_tmp_MSG9="Imagine demontată"
+imgr_tmp_MSG10="Opțiune nevalidă"
+imgr_tmp_MSG11="Specificați imaginea de montat sau demontat:"
+imgr_tmp_MSG12="Eroare la montarea imaginii"
+imgr_tmp_MSG13="Eroare la demontarea imaginii"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Ieșire."
+lingr10F2FSpatch_MSG1="Formatați memoria flash la F2FS."
+lingr10F2FSpatch_MSG2="Creați un fișier imagine F2FS."
+lingr10F2FSpatch_MSG3="Operațiuni pe imagini F2FS."
+lingr10F2FSpatch_MSG4="Despre."
+lingr10F2FSpatch_MSG5="Opțiune nevalidă"
+

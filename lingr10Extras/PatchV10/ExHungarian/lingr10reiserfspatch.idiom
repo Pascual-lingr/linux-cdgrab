@@ -1,10 +1,10 @@
-# Idioma Español para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Idioma Húngaro para soporte ReiserFS en LINUX-CDGRAB 1.0
 # Pascual Martínez Cruz --> pascual89@hotmail.com
 # Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
 
 # presskey
 
-presskey_MSG1="Nyomja meg az ENTER-t a folytatáshoz..."
+presskey_MSG1="Nyomja meg az ENTER t a folytatáshoz..."
 
 # cabecera_interfaz
 
@@ -45,7 +45,7 @@ formatear_img_reiserfs_MSG14="A számlálás számított értéke:"
 m_img_CDDVDBD_reiserfs_MSG1="Kép létrehozása CD-R/RW lemezhez (702 Mbyte)"
 m_img_CDDVDBD_reiserfs_MSG2="Kép létrehozása DVD+RW lemezhez (4 Gbyte)"
 m_img_CDDVDBD_reiserfs_MSG3="Kép létrehozása DVD+RW/DL lemezhez (8 Gbyte)"
-m_img_CDDVDBD_reiserfs_MSG4="Kép létrehozása BD-R/RE-hez (25 Gbyte)"
+m_img_CDDVDBD_reiserfs_MSG4="Kép létrehozása BD-R/RE hez (25 Gbyte)"
 m_img_CDDVDBD_reiserfs_MSG5="Egyedi méretű képfájl létrehozása"
 
 # imgr_tmp
@@ -67,7 +67,7 @@ imgr_tmp_MSG13="Hiba a kép leválasztásakor"
 
 ############################ MAIN ##############################
 
-lingr10reiserfspatch_MSG1="Meghajtó formázása ReiserFS-ben"
+lingr10reiserfspatch_MSG1="Meghajtó formázása ReiserFS ben"
 lingr10reiserfspatch_MSG2="ReiserFS kép létrehozása CD/DVD/BD számára"
 lingr10reiserfspatch_MSG3="Műveletek ReiserFS képeken"
 lingr10reiserfspatch_MSG4="Érvénytelen beállítás"

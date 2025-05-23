@@ -1,0 +1,72 @@
+# Idioma Vietnamita para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Nhấn Enter để tiếp tục..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="============================="
+cabecera_interfaz_MSG2="HỖ TRỢ LINUX-CDGRAB 1.0 F2FS."
+
+# creditos
+
+creditos_DESC="Hỗ trợ định dạng bộ nhớ flash trong linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Đầu ra lệnh gắn kết:"
+formatear_disco_F2FS_MSG2="Chỉ định thiết bị khối cần định dạng: "
+formatear_disco_F2FS_MSG3="Thiết bị được định dạng thành công"
+formatear_disco_F2FS_MSG4="Lỗi định dạng thiết bị"
+formatear_disco_F2FS_MSG5="ĐÃ HOÀN THÀNH"
+formatear_disco_F2FS_MSG6="Đang ngắt kết nối thiết bị..."
+formatear_disco_F2FS_MSG7="Đang định dạng ổ đĩa trong F2FS..."
+formatear_disco_F2FS_MSG8="Đang chạy"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="ĐÃ ĐƯỢC ĐỊNH DẠNG THÀNH CÔNG"
+formatear_img_F2FS_MSG2="LỖI KHI ĐỊNH DẠNG TẬP TIN TRỐNG"
+formatear_img_F2FS_MSG3="Đang tạo tập tin trống..."
+formatear_img_F2FS_MSG4="Đang chạy"
+formatear_img_F2FS_MSG5="Định dạng tệp trống trong F2FS..."
+formatear_img_F2FS_MSG6="TẠO TẬP TIN TRỐNG VỚI KÍCH THƯỚC TÙY CHỈNH"
+formatear_img_F2FS_MSG7="Chỉ định kích thước của tệp trống cần tạo (chỉ giá trị số):"
+formatear_img_F2FS_MSG8="Đo không gian để tạo ra tập tin trống:"
+formatear_img_F2FS_MSG9="Chỉ định phép đo không gian sẽ sử dụng: "
+formatear_img_F2FS_MSG10="LỖI KHI XÁC ĐỊNH KÍCH THƯỚC ĐO LƯỜNG"
+formatear_img_F2FS_MSG11="Giá trị kích thước khối:"
+formatear_img_F2FS_MSG12="Dung lượng trống cho tập tin trống:"
+formatear_img_F2FS_MSG13="Giá trị được tính theo byte:"
+formatear_img_F2FS_MSG14="Giá trị tính toán cho số đếm:"
+formatear_img_F2FS_MSG15="Quá trình bị hủy bỏ. Không nhận dạng được kích thước hình ảnh."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Thoát"
+imgr_tmp_MSG1="Xóa tất cả các tập tin hình ảnh F2FS"
+imgr_tmp_MSG2="Gắn hoặc tháo tập tin hình ảnh"
+imgr_tmp_MSG3="Tệp hình ảnh trong"
+imgr_tmp_MSG4="Chọn một tùy chọn"
+imgr_tmp_MSG5="Tệp hình ảnh đã bị xóa"
+imgr_tmp_MSG6="Gắn hình ảnh"
+imgr_tmp_MSG7="Tháo hình ảnh"
+imgr_tmp_MSG8="Hình ảnh được gắn"
+imgr_tmp_MSG9="Hình ảnh đã được gỡ bỏ"
+imgr_tmp_MSG10="Tùy chọn không hợp lệ"
+imgr_tmp_MSG11="Chỉ định hình ảnh để gắn hoặc ngắt kết nối:"
+imgr_tmp_MSG12="Lỗi khi gắn hình ảnh"
+imgr_tmp_MSG13="Lỗi khi ngắt kết nối hình ảnh"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Thoát."
+lingr10F2FSpatch_MSG1="Định dạng bộ nhớ flash thành F2FS."
+lingr10F2FSpatch_MSG2="Tạo tệp hình ảnh F2FS."
+lingr10F2FSpatch_MSG3="Các thao tác trên hình ảnh F2FS."
+lingr10F2FSpatch_MSG4="Giới thiệu."
+lingr10F2FSpatch_MSG5="Tùy chọn không hợp lệ"

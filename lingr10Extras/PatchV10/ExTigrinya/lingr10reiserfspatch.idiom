@@ -31,6 +31,16 @@ formatear_img_reiserfs_MSG2="ባዶ ፋይል ኣብ ምቕራጽ ጌጋ"
 formatear_img_reiserfs_MSG3="ባዶ ፋይል ይፈጥር ኣሎ..."
 formatear_img_reiserfs_MSG4="ይሰርሕ ኣሎ።"
 formatear_img_reiserfs_MSG5="ባዶ ፋይል ኣብ ReiserFS ፎርማት ምግባር..."
+formatear_img_reiserfs_MSG6="ምውላድ ባዶ ፋይል ምስ ብሕታዊ ዓቐን"።
+formatear_img_reiserfs_MSG7="ዓቐን ናይቲ ክትፈጥሮ ዘለካ ባዶ ፋይል ግለጽ (ቁጽራዊ ዋጋ ጥራይ):"
+formatear_img_reiserfs_MSG8="ባዶ ፋይል ንምፍጣር ዝግበር መለክዒታት ቦታ:"
+formatear_img_reiserfs_MSG9="ብዝሒ ቦታ ክትጥቀመሉ ዘለካ ግለጽ: "
+formatear_img_reiserfs_MSG10="መዐቀኒ ዓቐን ኣብ ምግላጽ ጌጋ"
+formatear_img_reiserfs_MSG11="ዋጋ ዓቐን ብሎክ:"
+formatear_img_reiserfs_MSG12="ብዝሒ ቦታ ንባዶ ፋይል:"
+formatear_img_reiserfs_MSG13="ዝተቖፀረ ዋጋ ብባይት:"
+formatear_img_reiserfs_MSG14="ንቁጽሪ ዝተቖጽረ ዋጋ:"
+formatear_img_reiserfs_MSG15="መስርሕ ተሰሪዙ። ዓቐን ምስሊ ኣይተለለየን።"
 
 # m_img_CDDVDBD_reiserfs
 

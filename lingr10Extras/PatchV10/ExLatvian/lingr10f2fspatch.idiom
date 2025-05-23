@@ -1,0 +1,73 @@
+# Idioma Letón para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Nospiediet ENTER, lai turpinātu..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=============================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 ATBALSTA F2FS"
+
+# creditos
+
+creditos_DESC="Atbalsts zibatmiņas formatēšanai Linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Pievienot komandas izvadi:"
+formatear_disco_F2FS_MSG2="Norādiet formatējamo blokierīci: "
+formatear_disco_F2FS_MSG3="Ierīce veiksmīgi formatēta"
+formatear_disco_F2FS_MSG4="Kļūda formatējot ierīci"
+formatear_disco_F2FS_MSG5="PROCESS PABEIGTS"
+formatear_disco_F2FS_MSG6="Noņem ierīci..."
+formatear_disco_F2FS_MSG7="Notiek diska formatēšana programmā F2FS..."
+formatear_disco_F2FS_MSG8="Darbojas"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="VEIKSMĪGI FORMATĒTS"
+formatear_img_F2FS_MSG2="KĻŪDA, FORMATĒJOT TUKŠU DATU"
+formatear_img_F2FS_MSG3="Notiek tukša faila ģenerēšana..."
+formatear_img_F2FS_MSG4="Darbojas"
+formatear_img_F2FS_MSG5="Notiek tukša faila formatēšana programmā F2FS..."
+formatear_img_F2FS_MSG6="TUkša faila ģenerēšana AR PIELĀGOTU IZMĒRU"
+formatear_img_F2FS_MSG7="Norādiet ģenerējamā tukšā faila lielumu (tikai skaitliska vērtība):"
+formatear_img_F2FS_MSG8="Telpas mērījumi tukšā faila ģenerēšanai:"
+formatear_img_F2FS_MSG9="Norādiet izmantojamās telpas mērījumus: "
+formatear_img_F2FS_MSG10="KĻŪDA, NORĀDOT IZMĒRU MĒRĪJUMU"
+formatear_img_F2FS_MSG11="Bloka lieluma vērtība:"
+formatear_img_F2FS_MSG12="Vietas daudzums tukšam failam:"
+formatear_img_F2FS_MSG13="Aprēķinātā vērtība baitos:"
+formatear_img_F2FS_MSG14="Aprēķinātā vērtība skaitam:"
+formatear_img_F2FS_MSG15="Atcelts process. Attēla izmērs nav atpazīts."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Iziet"
+imgr_tmp_MSG1="Dzēst visus F2FS attēlu failus"
+imgr_tmp_MSG2="Pievienot vai atvienot attēla failu"
+imgr_tmp_MSG3="Attēlu faili"
+imgr_tmp_MSG4="Izvēlieties opciju"
+imgr_tmp_MSG5="Dzēsti attēlu faili"
+imgr_tmp_MSG6="Pievienot attēlu"
+imgr_tmp_MSG7="Izmontēt attēlu"
+imgr_tmp_MSG8="Uzmontēts attēls"
+imgr_tmp_MSG9="Izmontēts attēls"
+imgr_tmp_MSG10="Nederīga opcija"
+imgr_tmp_MSG11="Norādiet attēlu pievienošanai vai atvienošanai:"
+imgr_tmp_MSG12="Kļūda, uzstādot attēlu"
+imgr_tmp_MSG13="Kļūda, atvienojot attēlu"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Iziet."
+lingr10F2FSpatch_MSG1="Formatēt zibatmiņu uz F2FS."
+lingr10F2FSpatch_MSG2="Izveidot F2FS attēla failu."
+lingr10F2FSpatch_MSG3="Darbības ar F2FS attēliem."
+lingr10F2FSpatch_MSG4="Par."
+lingr10F2FSpatch_MSG5="Nederīga opcija"
+

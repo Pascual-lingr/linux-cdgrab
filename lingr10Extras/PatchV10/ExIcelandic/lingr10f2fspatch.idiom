@@ -1,0 +1,73 @@
+# Idioma Islandés para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Ýttu á ENTER til að halda áfram..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 STUÐNINGAR F2FS."
+
+# creditos
+
+creditos_DESC="Stuðningur við forsnúning á flassminni undir linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Fergja skipunarúttak:"
+formatear_disco_F2FS_MSG2="Tilgreindu blokkunartækið sem á að forsníða: "
+formatear_disco_F2FS_MSG3="Tæki sniðið tókst"
+formatear_disco_F2FS_MSG4="Villa við að forsníða tæki"
+formatear_disco_F2FS_MSG5="FERLI LOKIÐ"
+formatear_disco_F2FS_MSG6="Tekur tækið af..."
+formatear_disco_F2FS_MSG7="Formsníða drif í F2FS..."
+formatear_disco_F2FS_MSG8="Í gangi"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="FORMAÐIÐ Árangursríkt"
+formatear_img_F2FS_MSG2="VILLA VIÐ FORSNIÐAÐ TÓMA skrá"
+formatear_img_F2FS_MSG3="Býr til tóma skrá..."
+formatear_img_F2FS_MSG4="Í gangi"
+formatear_img_F2FS_MSG5="Að forsníða tóma skrá í F2FS..."
+formatear_img_F2FS_MSG6="KYNSTOÐ TÓMAR SKRÁAR MEÐ SÉRNARI STÆRÐ"
+formatear_img_F2FS_MSG7="Tilgreindu stærð tómu skráar sem á að búa til (aðeins tölulegt gildi):"
+formatear_img_F2FS_MSG8="Rýmismælingar til að búa til tómu skrána:"
+formatear_img_F2FS_MSG9="Tilgreindu plássmælinguna sem á að nota: "
+formatear_img_F2FS_MSG10="VILLA ÞEGAR STÆRÐARMÆLING er tilgreind"
+formatear_img_F2FS_MSG11="Blokkastærðargildi:"
+formatear_img_F2FS_MSG12="Magn pláss fyrir tóma skrá:"
+formatear_img_F2FS_MSG13="Reiknað gildi í bætum:"
+formatear_img_F2FS_MSG14="Reiknað gildi fyrir talningu:"
+formatear_img_F2FS_MSG15="Hætt við ferli. Myndastærð er ekki þekkt."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Hætta"
+imgr_tmp_MSG1="Eyða öllum F2FS myndskrám"
+imgr_tmp_MSG2="Tengdu eða aftengja myndaskrá"
+imgr_tmp_MSG3="Myndaskrár í"
+imgr_tmp_MSG4="Veldu valkost"
+imgr_tmp_MSG5="Myndaskrám eytt"
+imgr_tmp_MSG6="Tengdu mynd"
+imgr_tmp_MSG7="Taka mynd"
+imgr_tmp_MSG8="Uppsett mynd"
+imgr_tmp_MSG9="Afsett mynd"
+imgr_tmp_MSG10="Ógildur valkostur"
+imgr_tmp_MSG11="Tilgreindu myndina sem á að tengja eða aftengja:"
+imgr_tmp_MSG12="Villa við að setja mynd upp"
+imgr_tmp_MSG13="Villa við að taka mynd af"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Hætta."
+lingr10F2FSpatch_MSG1="Sníða flash minni í F2FS."
+lingr10F2FSpatch_MSG2="Búa til F2FS myndskrá."
+lingr10F2FSpatch_MSG3="Aðgerðir á F2FS myndum."
+lingr10F2FSpatch_MSG4="Um."
+lingr10F2FSpatch_MSG5="Ógildur valkostur"
+

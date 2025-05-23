@@ -1,0 +1,72 @@
+# Idioma Húngaro para soporte F2FS en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Nyomja meg az ENTER-t a folytatáshoz..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="================================"
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 F2FS TÁMOGATÁS."
+
+# creditos
+
+creditos_DESC="A flash memória formázásának támogatása linux-cdgrab alatt"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Parancs kimenet csatlakoztatása:"
+formatear_disco_F2FS_MSG2="Adja meg a formázni kívánt blokkeszközt: "
+formatear_disco_F2FS_MSG3="Az eszköz formázása sikeresen megtörtént"
+formatear_disco_F2FS_MSG4="Hiba az eszköz formázásakor"
+formatear_disco_F2FS_MSG5="FOLYAMAT VÉGZETT"
+formatear_disco_F2FS_MSG6="Eszköz leválasztása..."
+formatear_disco_F2FS_MSG7="Meghajtó formázása a F2FS ben..."
+formatear_disco_F2FS_MSG8="Futás"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="SIKERES FORMÁZÁS"
+formatear_img_F2FS_MSG2="HIBA ÜRES FÁJL FORMÁZÁSÁNAK"
+formatear_img_F2FS_MSG3="Üres fájl generálása..."
+formatear_img_F2FS_MSG4="Futás"
+formatter_img_F2FS_MSG5="Üres fájl formázása a F2FS ben..."
+formatear_img_F2FS_MSG6="ÜRES FÁJL LÉTREHOZÁSA EGYEDI MÉRETTEL"
+formatear_img_F2FS_MSG7="Adja meg a generálandó üres fájl méretét (csak numerikus érték):"
+formatear_img_F2FS_MSG8="Térmérések az üres fájl létrehozásához:"
+formatear_img_F2FS_MSG9="Adja meg a használandó térméretet: "
+formatear_img_F2FS_MSG10="HIBA A MÉRET MÉRÉSÉNEK MEGHATÁROZÁSÁVAL"
+formatear_img_F2FS_MSG11="Blokkméret értéke:"
+formatear_img_F2FS_MSG12="Üres fájl helyének mennyisége:"
+formatear_img_F2FS_MSG13="Számított érték bájtban:"
+formatear_img_F2FS_MSG14="A számlálás számított értéke:"
+formatear_img_F2FS_MSG15="Megszakított folyamat. A képméret nem ismerhető fel."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Kilépés"
+imgr_tmp_MSG1="Az összes F2FS képfájl törlése"
+imgr_tmp_MSG2="Képfájl csatlakoztatása vagy leválasztása"
+imgr_tmp_MSG3="Képfájlok itt"
+imgr_tmp_MSG4="Válasszon opciót"
+imgr_tmp_MSG5="Törölt képfájlok"
+imgr_tmp_MSG6="Kép beillesztése"
+imgr_tmp_MSG7="Kép leválasztása"
+imgr_tmp_MSG8="Rögzített kép"
+imgr_tmp_MSG9="Leszerelt kép"
+imgr_tmp_MSG10="Érvénytelen opció"
+imgr_tmp_MSG11="Adja meg a fel- vagy leválasztandó képet:"
+imgr_tmp_MSG12="Hiba a kép rögzítésekor"
+imgr_tmp_MSG13="Hiba a kép leválasztásakor"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Kilépés."
+lingr10F2FSpatch_MSG1="Flash memória formázása F2FS re."
+lingr10F2FSpatch_MSG2="F2FS képfájl létrehozása."
+lingr10F2FSpatch_MSG3="Műveletek F2FS képeken."
+lingr10F2FSpatch_MSG4="Névjegy."
+lingr10F2FSpatch_MSG5="Érvénytelen opció"
+

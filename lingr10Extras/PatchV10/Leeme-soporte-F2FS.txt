@@ -1,0 +1,31 @@
+lingr10f2fs.sh ver 0.1 --> 18/05/2025
+
+path de ejecución: /usr/share/linux-cdgrab/parches/lingr10f2fspatch.sh
+
+ficheros de idioma:
+/usr/share/linux-cdgrab/lcdgrabAPI_idiom/${IDIOM}/lcdgrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+Fichero de idioma reutilizado de linux-cdgrab 1.0
+
+/usr/share/linux-cdgrab/lcdgrabAPI_idiom/${IDIOM}/lcdgrabparches_idiom/lingr10f2fspatch.idiom
+donde IDIOM = Español, EspDefNA, Catala, English, ExFrench, ExDeutsch, ExGreek, ExRussian, ExJapanese, ExChinese, ExKorean, ExThai, ExPortuguese, ExItalian, ExDutch, ExNorwegian, ExPolish, ExCzech, ExSwedish, ExArmenian, ExGeorgian, ExSpanishEn, ExDanish, ExAmharic, ExTigrinya, ExVietnamese, ExIcelandic, ExSwahili, ExLao, ExLuxembourgish, ExLithuanian, ExAfrikaans, ExUkrainian, ExTurkish, ExHungarian, ExBelarusian, ExSlovak, ExAzerbaijani, ExEstonian, EsFinnish, ExKazakh, ExMongolian, ExTajik, ExTibetan, ExCroatian, ExBosnian, ExLatvian, ExRomanian, ExSerbian, ExSlovenian, ExAlbanian y .defecidiom
+
+Parche para soportar el sistema de ficheros F2FS en LINUX-CDGRAB 1.0
+Sistema de ficheros para memorias flash creado por Samsung.
+Pascual Martínez Cruz --> pascual89@hotmail.com
+Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+v 0.1:
+------
+
+-Formatea unidades y archivos vacíos en F2FS.
+-Monta/desmonta las imágenes .f2fs generadas.
+-Borra las imágenes .f2fs generadas.
+
+Notas sobre el parche:
+
+Adaptación desde el fuente lingr10reiserfspatch.sh
+Utiliza mkfs.f2fs del paquete f2fs-tools
+Cargar módulo f2fs del kernel si es necesario mediante:
+
+modprobe f2fs
+

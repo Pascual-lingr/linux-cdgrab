@@ -1,0 +1,73 @@
+# Idioma Finés para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Paina ENTER jatkaaksesi..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="==========================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 TUKI F2FS."
+
+# creditos
+
+creditos_DESC="Tuki flash muistin muotoilulle Linux-cdgrab issa"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Liitä komennon lähtö:"
+formatear_disco_F2FS_MSG2="Määritä alustettava lohkolaite: "
+formatear_disco_F2FS_MSG3="Laite alustettu onnistuneesti"
+formatear_disco_F2FS_MSG4="Virhe alustuksessa"
+formatear_disco_F2FS_MSG5="PROSESSI VALMIS"
+formatear_disco_F2FS_MSG6="Poistetaan laitetta..."
+formatear_disco_F2FS_MSG7="Alustataan asemaa F2FS:ssä..."
+formatear_disco_F2FS_MSG8="Käynnissä"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="MUODOTUS ONNISTUSTI"
+formatear_img_F2FS_MSG2="VIRHE TYHJÄN TIEDOSTON MUODOSTAMISESSA"
+formatear_img_F2FS_MSG3="Luodaan tyhjää tiedostoa..."
+formatear_img_F2FS_MSG4="Käynnissä"
+formatear_img_F2FS_MSG5="Muotoillaan tyhjää tiedostoa F2FS:ssä..."
+formatear_img_F2FS_MSG6="TYHJÄN TIEDOSTON SUOSITUS MUKAUTETTUIN KOKOON"
+formatear_img_F2FS_MSG7="Määritä luotavan tyhjän tiedoston koko (vain numeroarvo):"
+formatear_img_F2FS_MSG8="Avaruusmittaukset tyhjän tiedoston luomiseksi:"
+formatear_img_F2FS_MSG9="Määritä käytettävä tilamittaus: "
+formatear_img_F2FS_MSG10="VIRHE KOKOMITTAA MÄÄRITETESSÄ"
+formatear_img_F2FS_MSG11="Lohkon koon arvo:"
+formatear_img_F2FS_MSG12="Tyhjän tiedoston tilan määrä:"
+formatear_img_F2FS_MSG13="Laskettu arvo tavuina:"
+formatear_img_F2FS_MSG14="Laskettu arvo laskennalle:"
+formatear_img_F2FS_MSG15="Peruutettu prosessi. Kuvan kokoa ei tunnisteta."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Poistu"
+imgr_tmp_MSG1="Poista kaikki F2FS kuvatiedostot"
+imgr_tmp_MSG2="Liitä tai irrota kuvatiedosto"
+imgr_tmp_MSG3="Kuvatiedostot"
+imgr_tmp_MSG4="Valitse vaihtoehto"
+imgr_tmp_MSG5="Poistetut kuvatiedostot"
+imgr_tmp_MSG6="Liitä kuva"
+imgr_tmp_MSG7="Poista kuva"
+imgr_tmp_MSG8="Asennettu kuva"
+imgr_tmp_MSG9="Poistettu kuva"
+imgr_tmp_MSG10="Virheellinen vaihtoehto"
+imgr_tmp_MSG11="Määritä liitettävä tai irrotettava kuva:"
+imgr_tmp_MSG12="Virhe kuvan asennuksessa"
+imgr_tmp_MSG13="Virhe kuvan irrotuksessa"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Poistu."
+lingr10F2FSpatch_MSG1="Alusta flash muisti F2FS:ksi."
+lingr10F2FSpatch_MSG2="Luo F2FS kuvatiedosto."
+lingr10F2FSpatch_MSG3="F2FS kuvien toiminnot."
+lingr10F2FSpatch_MSG4="Tietoja."
+lingr10F2FSpatch_MSG5="Virheellinen vaihtoehto"
+

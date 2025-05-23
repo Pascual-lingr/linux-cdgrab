@@ -1,0 +1,73 @@
+# Idioma Chino simplificado para soporte F2FS en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+# Traducción experimental, generada con google translator
+
+# presskey
+
+presskey_MSG1="按 ENTER 继续..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=========================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 F2FS 支持。"
+
+# creditos
+
+creditos_DESC="支持 linux-cdgrab 下的闪存格式"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="挂载命令的输出："
+formatear_disco_F2FS_MSG2="指定要格式化的块设备："
+formatear_disco_F2FS_MSG3="设备格式化成功"
+formatear_disco_F2FS_MSG4="格式化设备失败"
+formatear_disco_F2FS_MSG5="完成的过程"
+formatear_disco_F2FS_MSG6="正在卸载设备..."
+formatear_disco_F2FS_MSG7="在 F2FS 中格式化驱动器..."
+formatear_disco_F2FS_MSG8="跑步"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="格式化成功"
+formatear_img_F2FS_MSG2="格式化空文件时出错"
+formatear_img_F2FS_MSG3="正在生成空文件..."
+formatear_img_F2FS_MSG4="跑步"
+formatear_img_F2FS_MSG5="正在 F2FS 中格式化空文件..."
+formatear_img_F2FS_MSG6="生成自定义大小的空文件"
+formatear_img_F2FS_MSG7="指定要生成的空文件的大小（仅限数字值）："
+formatear_img_F2FS_MSG8="生成空文件的空间测量："
+formatear_img_F2FS_MSG9="指定要使用的空间测量："
+formatear_img_F2FS_MSG10="指定尺寸测量时出错"
+formatear_img_F2FS_MSG11="块大小值："
+formatear_img_F2FS_MSG12="空文件的空间量："
+formatear_img_F2FS_MSG13="计算值（以字节为单位）："
+formatear_img_F2FS_MSG14="计数的计算值："
+formatear_img_F2FS_MSG15="取消的过程。无法识别图像尺寸。"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="退出"
+imgr_tmp_MSG1="删除所有F2FS镜像文件"
+imgr_tmp_MSG2="挂载或卸载映像文件"
+imgr_tmp_MSG3="图像文件位于"
+imgr_tmp_MSG4="选择一个选项"
+imgr_tmp_MSG5="已删除的图像文件"
+imgr_tmp_MSG6="安装图像"
+imgr_tmp_MSG7="卸载映像"
+imgr_tmp_MSG8="图像已安装"
+imgr_tmp_MSG9="未安装的图像"
+imgr_tmp_MSG10="无效选项"
+imgr_tmp_MSG11="指定要挂载或卸载的映像："
+imgr_tmp_MSG12="安装映像时出错"
+imgr_tmp_MSG13="卸载映像时出错"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="退出。"
+lingr10F2FSpatch_MSG1="将闪存格式化为 F2FS。"
+lingr10F2FSpatch_MSG2="创建 F2FS 映像文件。"
+lingr10F2FSpatch_MSG3="对 F2FS 镜像的操作。"
+lingr10F2FSpatch_MSG4="关于。"
+lingr10F2FSpatch_MSG5="无效选项"
+

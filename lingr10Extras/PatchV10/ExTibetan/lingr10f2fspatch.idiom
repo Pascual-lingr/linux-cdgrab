@@ -1,0 +1,72 @@
+# Idioma Tibetano para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="མུ་མཐུད་དུ་འགྲོ་བར། ENTER མནན་དགོས།"
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="============================"
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 F2FS རྒྱབ་སྐྱོར།"
+# creditos
+
+creditos_DESC="linux-cdgrab འོག་ཕ་ལེཤ་དྲན་ཤེས་རྩ་སྒྲིག་ལ་རྒྱབ་སྐྱོར་བྱེད།"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="བརྡ་བཀོད་ཀྱི་ཐོན་འབྲས་སྒྲིག་འཇུག་:"
+formatear_disco_F2FS_MSG2="རྩ་སྒྲིག་བྱ་རྒྱུའི་བཀག་སྡོམ་སྒྲིག་ཆས་གཏན་འཁེལ་བྱོས།"
+formatear_disco_F2FS_MSG3="སྒྲིག་ཆས་ལེགས་འགྲུབ་ངང་རྩ་སྒྲིག་བྱས་ཟིན།"
+formatear_disco_F2FS_MSG4="རྩ་སྒྲིག་སྒྲིག་ཆས་ནོར་འཁྲུལ་བྱུང་བ།"
+formatear_disco_F2FS_MSG6="སྒྲིག་ཆས་སྒྲིག་སྦྱོར་མེད་པར་བཟོ་བཞིན་པ།"
+formatear_disco_F2FS_MSG7="F2FS ནང་དུ་རྩ་སྒྲིག་བྱེད་བཞིན་པ།"
+formatear_disco_F2FS_MSG8="གཡོག་བཞིན་ཡོད།"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="མཐར་ཕྱིན་ངང་སྒྲིག་བཟོ་བྱས།"
+formatear_img_F2FS_MSG2="ཡིག་ཆ་སྟོང་པ་རྩ་སྒྲིག་བྱེད་སྐབས་ནོར་འཁྲུལ།"
+formatear_img_F2FS_MSG3="ཡིག་ཆ་སྟོང་པ་བསྐྲུན་བཞིན་ཡོད།"
+formatear_img_F2FS_MSG4="གཡོག་བཞིན་ཡོད།"
+formatear_img_F2FS_MSG5="F2FS ནང་ཡིག་ཆ་སྟོང་པ་རྩ་སྒྲིག་བྱེད་པ།"
+formatear_img_F2FS_MSG6="སྒྲིག་བཀོད་ཀྱི་ཚད་དང་བཅས་པའི་ཡིག་ཆ་སྟོང་པ་གསར་བཟོ།"
+formatear_img_F2FS_MSG7="བཟོ་བསྐྲུན་བྱེད་པའི་ཡིག་ཆ་སྟོང་པའི་ཆེ་ཆུང་གཏན་འཁེལ་བྱེད་(ཨང་གྲངས་ཀྱི་རིན་ཐང་ཁོ་ན)།"
+formatear_img_F2FS_MSG8="ཡིག་ཆ་སྟོང་པ་བསྐྲུན་པའི་བར་སྟོང་གི་ཚད་གཞི།"
+formatear_img_F2FS_MSG9="སྤྱོད་པའི་བར་སྟོང་ཚད་འཇལ་གཏན་འཁེལ་བྱོས།: "
+formatear_img_F2FS_MSG10="ཆེ་ཆུང་ཚད་འཇལ་བྱེད་སྐབས་ནོར་འཁྲུལ།"
+formatear_img_F2FS_MSG11="སྡེབ་ཚད་ཀྱི་རིན་ཐང་།"
+formatear_img_F2FS_MSG12="ཡིག་ཆ་སྟོང་པའི་བར་སྟོང་གི་ཚད།"
+formatear_img_F2FS_MSG13="བའིཊི་ནང་རྩིས་རྒྱག་པའི་རིན་ཐང་།"
+formatear_img_F2FS_MSG14="གྲངས་འབོར་གྱི་རྩིས་རྒྱག་རིན་ཐང་།"
+formatear_img_F2FS_MSG15="བྱ་རིམ་ཆ་མེད་དུ་བཏང་བ། པར་རིས་ཆེ་ཆུང་ངོས་ཟིན་མེད།"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="ཕྱིར་ཐོན།"
+imgr_tmp_MSG1="F2FS པར་རིས་ཡིག་ཆ་ཚང་མ་བསུབས་དགོས།"
+imgr_tmp_MSG2="པར་རིས་ཡིག་ཆ་བསྒར་བསྒར་ཡང་ན་བསྒར་བཤོལ།"
+imgr_tmp_MSG3="པར་རིས་ཡིག་ཆ་ནང་"།
+imgr_tmp_MSG4="གདམ་ག་ཞིག་འདེམས་པ།"
+imgr_tmp_MSG5="བསུབས་ཟིན་པའི་པར་རིས་ཡིག་ཆ།"
+imgr_tmp_MSG6="གཟུགས་བརྙན་སྦྱར་བ།"
+imgr_tmp_MSG7="གཟུགས་བརྙན་བཤོལ།"
+imgr_tmp_MSG8="བསྒྲིགས་པའི་པར་རིས།"
+imgr_tmp_MSG9="བཤུད་པའི་པར་རིས།"
+imgr_tmp_MSG10="ནུས་མེད་གདམ་ག།"
+imgr_tmp_MSG11="བརྩེགས་བརྩེགས་ཡང་ན་བརྩེགས་བཤོལ་བྱ་རྒྱུའི་པར་རིས་གཏན་འཁེལ་བྱོས།"
+imgr_tmp_MSG12="པར་རིས་སྒྲིག་སྦྱོར་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་ཡོད།"
+imgr_tmp_MSG13="པར་རིས་སྒྲིག་སྦྱོར་མེད་པར་བཟོ་བའི་ནོར་འཁྲུལ།"
+
+############################ MAIN ##############################
+
+
+lingr10F2FSpatch_MSG0="ཕྱིར་ཐོན།"
+lingr10F2FSpatch_MSG1="གློག་འོད་དྲན་ཤེས་དེ་ F2FS ལ་རྩ་སྒྲིག་བྱེད།"
+lingr10F2FSpatch_MSG2="F2FS པར་རིས་ཡིག་ཆ་ཞིག་གསར་འཛུགས་བྱེད།"
+lingr10F2FSpatch_MSG3="F2FS པར་རིས་ཐོག་གི་བཀོལ་སྤྱོད།"
+lingr10F2FSpatch_MSG4="སྐོར།"
+lingr10F2FSpatch_MSG5="ནུས་མེད་གདམ་གསེས།"
+

@@ -1,0 +1,74 @@
+# Idioma Francés para soporte F2FS en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+# Traducción eexperimental, generado con Google Translator
+
+# presskey
+
+presskey_MSG1="Appuyez sur ENTER pour continuer..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="================================="
+cabecera_interfaz_MSG2="F2FS DE SUPPORT LINUX-CDGRAB 1.0."
+
+# creditos
+
+creditos_DESC="Prise en charge du formatage de la mémoire flash sous Linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Sortie de la commande de montage :"
+formatear_disco_F2FS_MSG2="Spécifiez le périphérique bloc à formater : "
+formatear_disco_F2FS_MSG3="Périphérique formaté avec succès"
+formatear_disco_F2FS_MSG4="Erreur de formatage du périphérique"
+formatear_disco_F2FS_MSG5="PROCESSUS TERMINÉ"
+formatear_disco_F2FS_MSG6="Démontage du périphérique..."
+formatear_disco_F2FS_MSG7="Formatage du lecteur dans F2FS..."
+formatear_disco_F2FS_MSG8="En cours d'exécution"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="FORMATIF AVEC SUCCÈS"
+formatear_img_F2FS_MSG2="ERREUR LORS DU FORMATAGE DU FICHIER VIDE"
+formatear_img_F2FS_MSG3="Génération d'un fichier vide..."
+formatear_img_F2FS_MSG4="En cours d'exécution"
+formatear_img_F2FS_MSG5="Formatage du fichier vide dans F2FS..."
+formatear_img_F2FS_MSG6="GÉNÉRATION DE FICHIER VIDE AVEC TAILLE PERSONNALISÉE"
+formatear_img_F2FS_MSG7="Spécifiez la taille du fichier vide à générer (uniquement une valeur numérique) :"
+formatear_img_F2FS_MSG8="Mesures d'espace pour générer le fichier vide :"
+formatear_img_F2FS_MSG9="Spécifiez la mesure d'espace à utiliser : "
+formatear_img_F2FS_MSG10="ERREUR LORS DE LA SPÉCIFICATION DE LA MESURE DE TAILLE"
+formatear_img_F2FS_MSG11="Valeur de taille de bloc :"
+formatear_img_F2FS_MSG12="Quantité d'espace pour le fichier vide :"
+formatear_img_F2FS_MSG13="Valeur calculée en octets :"
+formatear_img_F2FS_MSG14="Valeur calculée pour le nombre :"
+formatear_img_F2FS_MSG15="Processus annulé. La taille de l'image n'est pas reconnue."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Quitter"
+imgr_tmp_MSG1="Supprimer tous les fichiers image F2FS"
+imgr_tmp_MSG2="Monter ou démonter le fichier image"
+imgr_tmp_MSG3="Fichiers image dans"
+imgr_tmp_MSG4="Sélectionnez une option"
+imgr_tmp_MSG5="Fichiers images supprimés"
+imgr_tmp_MSG6="Monter l'image"
+imgr_tmp_MSG7="Démonter l'image"
+imgr_tmp_MSG8="Image montée"
+imgr_tmp_MSG9="Image démontée"
+imgr_tmp_MSG10="Option invalide"
+imgr_tmp_MSG11="Spécifiez l'image à monter ou démonter :"
+imgr_tmp_MSG12="Erreur de montage de l'image"
+imgr_tmp_MSG13="Erreur lors du démontage de l'image"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Quitter."
+lingr10F2FSpatch_MSG1="Formater la mémoire flash en F2FS."
+lingr10F2FSpatch_MSG2="Créer un fichier image F2FS."
+lingr10F2FSpatch_MSG3="Opérations sur les images F2FS."
+lingr10F2FSpatch_MSG4="À propos."
+lingr10F2FSpatch_MSG5="Option non valide"
+
+

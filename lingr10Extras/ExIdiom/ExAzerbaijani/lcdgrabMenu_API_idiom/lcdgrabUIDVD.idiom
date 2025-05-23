@@ -74,7 +74,7 @@ menugrabar_DVD_MSG6="Format DVD+RW/DVD-RW"
 menugrabar_DVD_MSG7="Sürücüdə disk məlumatını göstər"
 menugrabar_DVD_MSG0="Əvvəlki menyu"
 menugrabar_DVD_MSGPRINCIPAL="Seçim yazın"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG8
+menugrabar_DVD_MSG8="Kreirajte DVD sliku za pregled na vašem tvrdom disku"
 
 # menugrabar_DVD_libburnia
 

@@ -1,0 +1,73 @@
+# Idioma Ucraniano para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Натисніть ENTER, щоб продовжити..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="================================"
+cabecera_interfaz_MSG2="ПІДТРИМКА LINUX-CDGRAB 1.0 F2FS."
+
+# creditos
+
+creditos_DESC="Підтримка форматування флеш пам'яті під linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Вивід команди монтування:"
+formatear_disco_F2FS_MSG2="Вкажіть блоковий пристрій для форматування: "
+formatear_disco_F2FS_MSG3="Пристрій успішно відформатовано"
+formatear_disco_F2FS_MSG4="Помилка форматування пристрою"
+formatear_disco_F2FS_MSG5="ПРОЦЕС ЗАВЕРШЕНО"
+formatear_disco_F2FS_MSG6="Демонтування пристрою..."
+formatear_disco_F2FS_MSG7="Форматування диска в F2FS..."
+formatear_disco_F2FS_MSG8="Біжить"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="СФОРМОВАНО УСПІШНО"
+formatear_img_F2FS_MSG2="ПОМИЛКА ПІД ФОРМАТУВАННЯ ПОРОЖНОГО ФАЙЛУ"
+formatear_img_F2FS_MSG3="Створення порожнього файлу..."
+formatear_img_F2FS_MSG4="Запущено"
+formatear_img_F2FS_MSG5="Форматування порожнього файлу в F2FS..."
+formatear_img_F2FS_MSG6="ГЕНЕРУВАННЯ ПОРОЖНЬОГО ФАЙЛУ З НЕПРИМІТНИМ РОЗМІРОМ"
+formatear_img_F2FS_MSG7="Вкажіть розмір порожнього файлу для створення (тільки числове значення):"
+formatear_img_F2FS_MSG8="Вимірювання простору для створення порожнього файлу:"
+formatear_img_F2FS_MSG9="Вкажіть розмір простору для використання: "
+formatear_img_F2FS_MSG10="ПОМИЛКА ПІД ЧАС ВИЗНАЧЕННЯ РОЗМІРУ"
+formatear_img_F2FS_MSG11="Значення розміру блоку:"
+formatear_img_F2FS_MSG12="Кількість місця для порожнього файлу:"
+formatear_img_F2FS_MSG13="Обчислене значення в байтах:"
+formatear_img_F2FS_MSG14="Обчислене значення для підрахунку:"
+formatear_img_F2FS_MSG15="Скасовано процес. Розмір зображення не розпізнається."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Вийти"
+imgr_tmp_MSG1="Видалити всі файли зображень F2FS"
+imgr_tmp_MSG2="Монтувати або демонтувати файл зображення"
+imgr_tmp_MSG3="Файли зображень у"
+imgr_tmp_MSG4="Виберіть варіант"
+imgr_tmp_MSG5="Видалені файли зображень"
+imgr_tmp_MSG6="Підключити образ"
+imgr_tmp_MSG7="Відключити зображення"
+imgr_tmp_MSG8="Змонтоване зображення"
+imgr_tmp_MSG9="Зняте зображення"
+imgr_tmp_MSG10="Недійсний параметр"
+imgr_tmp_MSG11="Вкажіть образ для монтування або демонтування:"
+imgr_tmp_MSG12="Помилка монтування зображення"
+imgr_tmp_MSG13="Помилка демонтування зображення"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Вийти."
+lingr10F2FSpatch_MSG1="Форматувати флеш пам'ять у F2FS."
+lingr10F2FSpatch_MSG2="Створити файл зображення F2FS."
+lingr10F2FSpatch_MSG3="Операції над зображеннями F2FS."
+lingr10F2FSpatch_MSG4="Про."
+lingr10F2FSpatch_MSG5="Недійсний параметр"
+

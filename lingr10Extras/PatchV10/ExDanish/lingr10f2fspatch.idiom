@@ -1,0 +1,73 @@
+# Idioma Danés para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Tryk på ENTER for at fortsætte..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=============================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 SUPPORT F2FS."
+
+# creditos
+
+creditos_DESC="Understøttelse af flash hukommelsesformatering under linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Monter kommando output:"
+formatear_disco_F2FS_MSG2="Angiv den blokeringsenhed, der skal formateres: "
+formatear_disco_F2FS_MSG3="Enhed formateret med succes"
+formatear_disco_F2FS_MSG4="Fejl ved formatering af enhed"
+formatear_disco_F2FS_MSG5="PROCES FULDFØRT"
+formatear_disco_F2FS_MSG6="Afmonter enhed..."
+formatear_disco_F2FS_MSG7="Formaterer drev i F2FS..."
+formatear_disco_F2FS_MSG8="Kører"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="FORMATERET MED SUCCES"
+formatear_img_F2FS_MSG2="FEJL VED FORMATERING AF TOM FIL"
+formatear_img_F2FS_MSG3="Genererer tom fil..."
+formatear_img_F2FS_MSG4="Kører"
+formatear_img_F2FS_MSG5="Formaterer tom fil i F2FS..."
+formatear_img_F2FS_MSG6="GENERATION AF TOM FIL MED BRUGERDEFINERET STØRRELSE"
+formatear_img_F2FS_MSG7="Angiv størrelsen på den tomme fil, der skal genereres (kun en numerisk værdi):"
+formatear_img_F2FS_MSG8="Rummål for at generere den tomme fil:"
+formatear_img_F2FS_MSG9="Angiv den pladsmåling, der skal bruges: "
+formatear_img_F2FS_MSG10="FEJL VED SPECIFIKATION AF STØRRELSESMÅLING"
+formatear_img_F2FS_MSG11="Værdi af blokstørrelse:"
+formatear_img_F2FS_MSG12="Mængde plads til tom fil:"
+formatear_img_F2FS_MSG13="Beregnet værdi i bytes:"
+formatear_img_F2FS_MSG14="Beregnet værdi for optælling:"
+formatear_img_F2FS_MSG15="Aflyst proces. Billedstørrelsen genkendes ikke."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Afslut"
+imgr_tmp_MSG1="Slet alle F2FS billedfiler"
+imgr_tmp_MSG2="Monter eller afmonter billedfil"
+imgr_tmp_MSG3="Billedfiler i"
+imgr_tmp_MSG4="Vælg en mulighed"
+imgr_tmp_MSG5="Slettede billedfiler"
+imgr_tmp_MSG6="Monter billede"
+imgr_tmp_MSG7="Afmonter billede"
+imgr_tmp_MSG8="Monteret billede"
+imgr_tmp_MSG9="Afmonteret billede"
+imgr_tmp_MSG10="Ugyldig indstilling"
+imgr_tmp_MSG11="Angiv det billede, der skal monteres eller afmonteres:"
+imgr_tmp_MSG12="Fejl ved montering af billede"
+imgr_tmp_MSG13="Fejl ved afmontering af billede"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Afslut."
+lingr10F2FSpatch_MSG1="Formater flash hukommelse til F2FS."
+lingr10F2FSpatch_MSG2="Opret en F2FS billedfil."
+lingr10F2FSpatch_MSG3="Handlinger på F2FS billeder."
+lingr10F2FSpatch_MSG4="Om."
+lingr10F2FSpatch_MSG5="Ugyldig indstilling"
+

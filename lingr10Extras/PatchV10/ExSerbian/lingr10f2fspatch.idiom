@@ -1,0 +1,73 @@
+# Idioma Serbio para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Притисните ЕНТЕР да наставите..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=============================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 ПОДРШКА F2FS."
+
+# creditos
+
+creditos_DESC="Подршка за форматирање флеш меморије под linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Монтирај излаз команде:"
+formatear_disco_F2FS_MSG2="Одредите блок уређај за форматирање: "
+formatear_disco_F2FS_MSG3="Уређај је успешно форматиран"
+formatear_disco_F2FS_MSG4="Грешка при форматирању уређаја"
+formatear_disco_F2FS_MSG5="ПРОЦЕС ЗАВРШЕН"
+formatear_disco_F2FS_MSG6="Демонтажа уређаја..."
+formatear_disco_F2FS_MSG7="Форматирање диск јединице у F2FS..."
+formatear_disco_F2FS_MSG8="Три се"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="УСПЕШНО ФОРМАТИСАН"
+formatear_img_F2FS_MSG2="ГРЕШКА ПРИ ФОРМАТИРАЊУ ПРАЗНЕ ДАТОТЕКЕ"
+formatear_img_F2FS_MSG3="Генерисање празне датотеке..."
+formatear_img_F2FS_MSG4="Три се"
+formatear_img_F2FS_MSG5="Форматирање празне датотеке у F2FS..."
+formatear_img_F2FS_MSG6="ГЕНЕРАЦИЈА ПРАЗНЕ ДАТОТЕКЕ СА ПРИЛАГОЂЕНОМ ВЕЛИЧИНОМ"
+formatear_img_F2FS_MSG7="Одреди величину празне датотеке за генерисање (само нумеричка вредност):"
+formatear_img_F2FS_MSG8="Мере простора за генерисање празне датотеке:"
+formatear_img_F2FS_MSG9="Одредите мерење простора које ћете користити: "
+formatear_img_F2FS_MSG10="ГРЕШКА ПРИ ОДРЕЂИВАЊУ МЈЕРЕ ВЕЛИЧИНЕ"
+formatear_img_F2FS_MSG11="Вредност величине блока:"
+formatear_img_F2FS_MSG12="Количина простора за празну датотеку:"
+formatear_img_F2FS_MSG13="Израчуната вредност у бајтовима:"
+formatear_img_F2FS_MSG14="Израчуната вредност за број:"
+formatear_img_F2FS_MSG15="Отказан процес. Величина слике није препозната."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Излаз"
+imgr_tmp_MSG1="Избриши све F2FS датотеке слика"
+imgr_tmp_MSG2="Прикачи или демонтирај датотеку слике"
+imgr_tmp_MSG3="Датотеке слика у"
+imgr_tmp_MSG4="Изаберите опцију"
+imgr_tmp_MSG5="Обрисане датотеке слика"
+imgr_tmp_MSG6="Монтирај слику"
+imgr_tmp_MSG7="Демонтирај слику"
+imgr_tmp_MSG8="Монтирана слика"
+imgr_tmp_MSG9="Демонтирана слика"
+imgr_tmp_MSG10="Неважећа опција"
+imgr_tmp_MSG11="Одредите слику за монтирање или демонтажу:"
+imgr_tmp_MSG12="Грешка при постављању слике"
+imgr_tmp_MSG13="Грешка при демонтажи слике"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Излаз."
+lingr10F2FSpatch_MSG1="Форматирајте флеш меморију у F2FS."
+lingr10F2FSpatch_MSG2="Креирајте датотеку слике F2FS."
+lingr10F2FSpatch_MSG3="Операције на F2FS сликама."
+lingr10F2FSpatch_MSG4="О."
+lingr10F2FSpatch_MSG5="Неважећа опција"
+

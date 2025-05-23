@@ -1,0 +1,73 @@
+# Idioma Eslovaco para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Pre pokračovanie stlačte ENTER..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=============================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 PODPORA F2FS."
+
+# creditos
+
+creditos_DESC="Podpora formátovania flash pamäte pod linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Pripojiť výstup príkazu:"
+formatear_disco_F2FS_MSG2="Určite blokové zariadenie na formátovanie: "
+formatear_disco_F2FS_MSG3="Zariadenie úspešne naformátované"
+formatear_disco_F2FS_MSG4="Chyba pri formátovaní zariadenia"
+formatear_disco_F2FS_MSG5="PROCES DOKONČENÝ"
+formatear_disco_F2FS_MSG6="Odpája sa zariadenie..."
+formatear_disco_F2FS_MSG7="Formátovanie disku v F2FS..."
+formatear_disco_F2FS_MSG8="Beží"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="FORMÁTOVANIE ÚSPEŠNE"
+formatear_img_F2FS_MSG2="CHYBA PRI FORMÁTOVANÍ PRÁZDNÉHO SÚBORU"
+formatear_img_F2FS_MSG3="Generuje sa prázdny súbor..."
+formatear_img_F2FS_MSG4="Beží"
+formatear_img_F2FS_MSG5="Formátovanie prázdneho súboru v F2FS..."
+formatear_img_F2FS_MSG6="GENEROVANIE PRÁZDNÉHO SÚBORU S VLASTNOU VEĽKOSŤOU"
+formatear_img_F2FS_MSG7="Určite veľkosť prázdneho súboru, ktorý sa má vygenerovať (iba číselná hodnota):"
+formatear_img_F2FS_MSG8="Meranie priestoru na vygenerovanie prázdneho súboru:"
+formatear_img_F2FS_MSG9="Určite mieru priestoru, ktorý sa má použiť: "
+formatear_img_F2FS_MSG10="CHYBA PRI ZADÁVANÍ VEĽKOSTI"
+formatear_img_F2FS_MSG11="Hodnota veľkosti bloku:"
+formatear_img_F2FS_MSG12="Množstvo miesta pre prázdny súbor:"
+formatear_img_F2FS_MSG13="Vypočítaná hodnota v bajtoch:"
+formatear_img_F2FS_MSG14="Vypočítaná hodnota pre počet:"
+formatear_img_F2FS_MSG15="Zrušený proces. Veľkosť obrázka nie je rozpoznaná."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Ukončiť"
+imgr_tmp_MSG1="Vymazať všetky obrazové súbory F2FS"
+imgr_tmp_MSG2="Pripojiť alebo odpojiť obrazový súbor"
+imgr_tmp_MSG3="Súbory obrázkov v"
+imgr_tmp_MSG4="Vyberte možnosť"
+imgr_tmp_MSG5="Odstránené obrazové súbory"
+imgr_tmp_MSG6="Pripojiť obrázok"
+imgr_tmp_MSG7="Odpojiť obrázok"
+imgr_tmp_MSG8="Pripojený obrázok"
+imgr_tmp_MSG9="Odpojený obrázok"
+imgr_tmp_MSG10="Neplatná možnosť"
+imgr_tmp_MSG11="Určite obrázok na pripojenie alebo odpojenie:"
+imgr_tmp_MSG12="Chyba pri pripájaní obrazu"
+imgr_tmp_MSG13="Chyba pri odpájaní obrazu"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Koniec."
+lingr10F2FSpatch_MSG1="Formátovať flash pamäť na F2FS."
+lingr10F2FSpatch_MSG2="Vytvorte obrazový súbor F2FS."
+lingr10F2FSpatch_MSG3="Operácie s obrázkami F2FS."
+lingr10F2FSpatch_MSG4="O."
+lingr10F2FSpatch_MSG5="Neplatná možnosť"
+

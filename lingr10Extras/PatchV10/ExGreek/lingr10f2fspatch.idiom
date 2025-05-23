@@ -1,0 +1,73 @@
+# Idioma Griego para soporte F2FS en LINUX-CDGRAB 1.0
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+# Tradución experimental, generado con Google Translator
+
+# presskey
+
+presskey_MSG1="Πατήστε ENTER για να συνεχίσετε..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="============================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 Μεσαίο F2FS."
+
+# creditos
+
+creditos_DESC="Υποστήριξη για μορφοποίηση μνήμης flash σε linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Mount εξόδου εντολής:"
+formatear_disco_F2FS_MSG2="Καθορίστε τη συσκευή αποκλεισμού προς διαμόρφωση: "
+formatear_disco_F2FS_MSG3="Η συσκευή μορφοποιήθηκε με επιτυχία"
+formatear_disco_F2FS_MSG4="Σφάλμα μορφοποίησης συσκευής"
+formatear_disco_F2FS_MSG5="Η ΔΙΑΔΙΚΑΣΙΑ ΟΛΟΚΛΗΡΩΘΗΚΕ"
+formatear_disco_F2FS_MSG6="Αποπροσάρτηση συσκευής..."
+formatear_disco_F2FS_MSG7="Μορφοποίηση μονάδας δίσκου στο F2FS..."
+formatear_disco_F2FS_MSG8="Εκτέλεση"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="ΜΟΡΦΗΘΗΚΕ ΕΠΙΤΥΧΙΑ"
+formatear_img_F2FS_MSG2="ΣΦΑΛΜΑ ΚΑΤΑ ΤΗ ΜΟΡΦΗ ΤΟΥ ΚΕΝΟΥ ΑΡΧΕΙΟΥ"
+formatear_img_F2FS_MSG3="Δημιουργία κενού αρχείου..."
+formatear_img_F2FS_MSG4="Εκτέλεση"
+formatear_img_F2FS_MSG5="Μορφοποίηση κενού αρχείου στο F2FS..."
+formatear_img_F2FS_MSG6="ΓΕΝΙΑ ΚΕΝΟΥ ΑΡΧΕΙΟΥ ΜΕ ΠΡΟΣΑΡΜΟΣΜΕΝΟ ΜΕΓΕΘΟΣ"
+formatear_img_F2FS_MSG7="Καθορίστε το μέγεθος του κενού αρχείου που θα δημιουργηθεί (μόνο μια αριθμητική τιμή):"
+formatear_img_F2FS_MSG8="Μετρήσεις διαστήματος για τη δημιουργία του κενού αρχείου:"
+formatear_img_F2FS_MSG9="Καθορίστε τη μέτρηση χώρου που θα χρησιμοποιηθεί: "
+formatear_img_F2FS_MSG10="ΣΦΑΛΜΑ ΚΑΤΑ ΠΡΟΣΔΙΟΡΙΣΜΟ ΤΗΣ ΜΕΤΡΗΣΗΣ ΜΕΓΕΘΟΣ"
+formatear_img_F2FS_MSG11="Τιμή μεγέθους μπλοκ:"
+formatear_img_F2FS_MSG12="Ποσότητα χώρου για κενό αρχείο:"
+formatear_img_F2FS_MSG13="Υπολογιζόμενη τιμή σε byte:"
+formatear_img_F2FS_MSG14="Υπολογιζόμενη τιμή για τον αριθμό:"
+formatear_img_F2FS_MSG15="Ακυρώθηκε η διαδικασία. Το μέγεθος της εικόνας δεν αναγνωρίζεται."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Έξοδος"
+imgr_tmp_MSG1="Διαγραφή όλων των αρχείων εικόνας F2FS"
+imgr_tmp_MSG2="Τοποθέτηση ή αποπροσάρτηση αρχείου εικόνας"
+imgr_tmp_MSG3="Αρχεία εικόνας σε"
+imgr_tmp_MSG4="Επιλέξτε μια επιλογή"
+imgr_tmp_MSG5="Διαγραμμένα αρχεία εικόνας"
+imgr_tmp_MSG6="Τοποθέτηση εικόνας"
+imgr_tmp_MSG7="Αποσυναρμολόγηση εικόνας"
+imgr_tmp_MSG8="Εικόνα τοποθετημένη"
+imgr_tmp_MSG9="Αποσυναρμολογημένη εικόνα"
+imgr_tmp_MSG10="Μη έγκυρη επιλογή"
+imgr_tmp_MSG11="Καθορίστε την εικόνα για προσάρτηση ή αποπροσάρτηση:"
+imgr_tmp_MSG12="Σφάλμα προσάρτησης εικόνας"
+imgr_tmp_MSG13="Σφάλμα κατά την αποπροσάρτηση εικόνας"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Έξοδος."
+lingr10F2FSpatch_MSG1="Μορφοποίηση μνήμης flash σε F2FS."
+lingr10F2FSpatch_MSG2="Δημιουργήστε ένα αρχείο εικόνας F2FS."
+lingr10F2FSpatch_MSG3="Λειτουργίες σε εικόνες F2FS."
+lingr10F2FSpatch_MSG4="Σχετικά."
+lingr10F2FSpatch_MSG5="Μη έγκυρη επιλογή"
+

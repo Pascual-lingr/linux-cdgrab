@@ -1,0 +1,73 @@
+# Idioma Neerlandés para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Druk op ENTER om door te gaan..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="=================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 ONDERSTEUNT F2FS."
+
+# creditos
+
+creditos_DESC="Ondersteuning voor het formatteren van flashgeheugen onder linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Mount opdrachtuitvoer:"
+formatear_disco_F2FS_MSG2="Specificeer het blokapparaat dat moet worden geformatteerd: "
+formatear_disco_F2FS_MSG3="Apparaat succesvol geformatteerd"
+formatear_disco_F2FS_MSG4="Fout bij formatteren van apparaat"
+formatear_disco_F2FS_MSG5="PROCES VOLTOOID"
+formatear_disco_F2FS_MSG6="Apparaat ontkoppelen..."
+formatear_disco_F2FS_MSG7="Schijf formatteren in F2FS..."
+formatear_disco_F2FS_MSG8="Bezig met lopen"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="SUCCESVOL GEFORMATTEERD"
+formatear_img_F2FS_MSG2="FOUT BIJ HET FORMATTEREN VAN EEN LEEG BESTAND"
+formatear_img_F2FS_MSG3="Leeg bestand genereren..."
+formatear_img_F2FS_MSG4="Bezig met lopen"
+formatear_img_F2FS_MSG5="Leeg bestand formatteren in F2FS..."
+formatear_img_F2FS_MSG6="GENERATIE VAN EEN LEEG BESTAND MET AANGEPASTE GROOTTE"
+formatear_img_F2FS_MSG7="Geef de grootte op van het lege bestand dat moet worden gegenereerd (alleen een numerieke waarde):"
+formatear_img_F2FS_MSG8="Ruimtemetingen om het lege bestand te genereren:"
+formatear_img_F2FS_MSG9="Specificeer de te gebruiken ruimtemeting: "
+formatear_img_F2FS_MSG10="FOUT BIJ HET SPECIFICEREN VAN DE MAATMETING"
+formatear_img_F2FS_MSG11="Blokgrootte waarde:"
+formatear_img_F2FS_MSG12="Hoeveelheid ruimte voor leeg bestand:"
+formatear_img_F2FS_MSG13="Berekende waarde in bytes:"
+formatear_img_F2FS_MSG14="Berekende waarde voor telling:"
+formatear_img_F2FS_MSG15="Geannuleerd proces. De afbeeldingsgrootte wordt niet herkend."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Afsluiten"
+imgr_tmp_MSG1="Verwijder alle F2FS afbeeldingsbestanden"
+imgr_tmp_MSG2="Afbeeldingsbestand koppelen of ontkoppelen"
+imgr_tmp_MSG3="Afbeeldingsbestanden in"
+imgr_tmp_MSG4="Selecteer een optie"
+imgr_tmp_MSG5="Verwijderde afbeeldingsbestanden"
+imgr_tmp_MSG6="Afbeelding koppelen"
+imgr_tmp_MSG7="Afbeelding ontkoppelen"
+imgr_tmp_MSG8="Gemonteerde afbeelding"
+imgr_tmp_MSG9="Afbeelding gedemonteerd"
+imgr_tmp_MSG10="Ongeldige optie"
+imgr_tmp_MSG11="Specificeer de afbeelding die u wilt koppelen of ontkoppelen:"
+imgr_tmp_MSG12="Fout bij monteren afbeelding"
+imgr_tmp_MSG13="Fout bij het ontkoppelen van afbeelding"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Afsluiten."
+lingr10F2FSpatch_MSG1="Formatteer flashgeheugen naar F2FS."
+lingr10F2FSpatch_MSG2="Maak een F2FS imagebestand."
+lingr10F2FSpatch_MSG3="Bewerkingen op F2FS images."
+lingr10F2FSpatch_MSG4="Over."
+lingr10F2FSpatch_MSG5="Ongeldige optie"
+

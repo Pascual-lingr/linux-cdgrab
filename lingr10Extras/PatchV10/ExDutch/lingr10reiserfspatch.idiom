@@ -1,4 +1,4 @@
-# Idioma Holandés para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Idioma Neerlandés para soporte ReiserFS en LINUX-CDGRAB 1.0
 # Traducción experimental, generado con Google Translate.
 # Pascual Martínez Cruz --> pascual89@hotmail.com
 # Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
@@ -69,8 +69,8 @@ imgr_tmp_MSG13="Fout bij het ontkoppelen van afbeelding"
 ############################ MAIN ##############################
 
 lingr10reiserfspatch_MSG1="Formatteer schijf in ReiserFS"
-lingr10reiserfspatch_MSG2="Maak ReiserFS-image voor CD/DVD/BD"
-lingr10reiserfspatch_MSG3="Bewerkingen op ReiserFS-afbeeldingen"
+lingr10reiserfspatch_MSG2="Maak ReiserFS image voor CD/DVD/BD"
+lingr10reiserfspatch_MSG3="Bewerkingen op ReiserFS afbeeldingen"
 lingr10reiserfspatch_MSG4="Ongeldige optie"
 lingr10reiserfspatch_MSG0="Afsluiten"
 

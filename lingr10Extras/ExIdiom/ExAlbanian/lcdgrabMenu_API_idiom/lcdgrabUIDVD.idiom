@@ -74,7 +74,6 @@ menugrabar_DVD_MSG6="Formatoni DVD+RW/DVD-RW"
 menugrabar_DVD_MSG7="Shfaq informacionin e diskut në disk"
 menugrabar_DVD_MSG0="Menyja e mëparshme"
 menugrabar_DVD_MSGPRINCIPAL="Shkruaj një opsion"
-menugrabar_DVD_MSG8=$dvd_clonar_MSG4
 
 # menugrabar_DVD_libburnia
 

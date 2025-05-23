@@ -15,15 +15,6 @@ cabecera_interfaz_MSG3="=================================="
 
 # formatear_disco_reiserfs
 
-formatear_disco_reiserfs_MSG1="Salida del comando mount:"
-formatear_disco_reiserfs_MSG2="Especifique el dispositivo de bloque a formatear: "
-formatear_disco_reiserfs_MSG3="Dispositivo Formateado con Exito"
-formatear_disco_reiserfs_MSG4="Error al formatear dispositivo"
-formatear_disco_reiserfs_MSG5="PROCESO COMPLETADO"
-formatear_disco_reiserfs_MSG6="Desmontando dispositivo..."
-formatear_disco_reiserfs_MSG7="Formateando unidad en ReiserFS..."
-formatear_disco_reiserfs_MSG8="Ejecutando"
-
 formatear_disco_reiserfs_MSG1="Монтирај излаз команде:"
 formatear_disco_reiserfs_MSG2="Одредите блок уређај за форматирање: "
 formatear_disco_reiserfs_MSG3="Уређај је успешно форматиран"

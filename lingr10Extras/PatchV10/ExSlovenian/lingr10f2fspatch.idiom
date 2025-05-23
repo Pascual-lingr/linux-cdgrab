@@ -1,0 +1,73 @@
+# Idioma Esloveno para soporte F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Za nadaljevanje pritisnite ENTER ..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="================================="
+cabecera_interfaz_MSG2="PODPORA ZA LINUX-CDGRAB 1.0 F2FS."
+
+# creditos
+
+creditos_DESC="Podpora za formatiranje bliskovnega pomnilnika pod linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Izhod ukaza za namestitev:"
+formatear_disco_F2FS_MSG2="Določite blokirno napravo za formatiranje: "
+formatear_disco_F2FS_MSG3="Naprava je bila uspešno formatirana"
+formatear_disco_F2FS_MSG4="Napaka pri formatiranju naprave"
+formatear_disco_F2FS_MSG5="PROCES KONČAN"
+formatear_disco_F2FS_MSG6="Odklop naprave ..."
+formatear_disco_F2FS_MSG7="Formatiranje pogona v F2FS..."
+formatear_disco_F2FS_MSG8="Teče"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="USPEŠNO FORMIRAN"
+formatear_img_F2FS_MSG2="NAPAKA PRI FORMATIRANJU PRAZNE DATOTEKE"
+formatear_img_F2FS_MSG3="Ustvarjanje prazne datoteke..."
+formatear_img_F2FS_MSG4="Teče"
+formatear_img_F2FS_MSG5="Formatiranje prazne datoteke v F2FS ..."
+formatear_img_F2FS_MSG6="GENERIRANJE PRAZNE DATOTEKE Z VELIKOSTJO PO MERI"
+formatear_img_F2FS_MSG7="Določite velikost prazne datoteke za ustvarjanje (samo številska vrednost):"
+formatear_img_F2FS_MSG8="Meritve prostora za ustvarjanje prazne datoteke:"
+formatear_img_F2FS_MSG9="Določite meritev prostora za uporabo: "
+formatear_img_F2FS_MSG10="NAPAKA PRI DOLOČANJU MERITVE VELIKOSTI"
+formatear_img_F2FS_MSG11="Vrednost velikosti bloka:"
+formatear_img_F2FS_MSG12="Količina prostora za prazno datoteko:"
+formatear_img_F2FS_MSG13="Izračunana vrednost v bajtih:"
+formatear_img_F2FS_MSG14="Izračunana vrednost za štetje:"
+formatear_img_F2FS_MSG15="Preklican postopek. Velikost slike ni prepoznana."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Izhod"
+imgr_tmp_MSG1="Izbriši vse slikovne datoteke F2FS"
+imgr_tmp_MSG2="Pripni ali odpni slikovno datoteko"
+imgr_tmp_MSG3="Slikovne datoteke v"
+imgr_tmp_MSG4="Izberite možnost"
+imgr_tmp_MSG5="Izbrisane slikovne datoteke"
+imgr_tmp_MSG6="Priklopi sliko"
+imgr_tmp_MSG7="Odklopi sliko"
+imgr_tmp_MSG8="Pritrjena slika"
+imgr_tmp_MSG9="Razmontirana slika"
+imgr_tmp_MSG10="Neveljavna možnost"
+imgr_tmp_MSG11="Določite sliko za priklop ali odklop:"
+imgr_tmp_MSG12="Napaka pri nameščanju slike"
+imgr_tmp_MSG13="Napaka pri odklopu slike"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Izhod."
+lingr10F2FSpatch_MSG1="Formatiraj bliskovni pomnilnik v F2FS."
+lingr10F2FSpatch_MSG2="Ustvari slikovno datoteko F2FS."
+lingr10F2FSpatch_MSG3="Operacije na slikah F2FS."
+lingr10F2FSpatch_MSG4="O."
+lingr10F2FSpatch_MSG5="Neveljavna možnost"
+

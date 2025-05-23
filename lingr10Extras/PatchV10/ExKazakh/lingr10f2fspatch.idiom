@@ -1,0 +1,73 @@
+# Idioma Kazajo para soporte F2FS en LINUX-CDGRAB 1.0
+# Traduccion experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Жалғастыру үшін ENTER пернесін басыңыз..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="============================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 ҚОЛДАУ F2FS."
+
+# creditos
+
+creditos_DESC="Linux-cdgrab астында флэш жадты пішімдеуге қолдау көрсету"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Орнату пәрменінің шығысы:"
+formatear_disco_F2FS_MSG2="Пішімдеу үшін блоктау құрылғысын көрсетіңіз: "
+formatear_disco_F2FS_MSG3="Құрылғы сәтті пішімделді"
+formatear_disco_F2FS_MSG4="Құрылғыны пішімдеу қатесі"
+formatear_disco_F2FS_MSG5="ПРОЦЕСС АЯҚТАЛДЫ"
+formatear_disco_F2FS_MSG6="Құрылғыны ажырату..."
+formatear_disco_F2FS_MSG7="F2FS ішінде дискіні пішімдеу..."
+formatear_disco_F2FS_MSG8="Орындалуда"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="СӘТТІ ПІШІМДЕРДІ"
+formatear_img_F2FS_MSG2="БОС ФАЙЛДЫ Пішімдеу КЕЗІНДЕГІ ҚАТЕ"
+formatear_img_F2FS_MSG3="Бос файл жасалуда..."
+formatear_img_F2FS_MSG4="Орындалуда"
+formatear_img_F2FS_MSG5="F2FS ішіндегі бос файлды пішімдеу..."
+formatear_img_F2FS_MSG6="АРНАЛҒАН ӨЛШЕМІ БАР БОС ФАЙЛДЫ ЖАСАУ"
+formatear_img_F2FS_MSG7="Жасалатын бос файлдың өлшемін көрсетіңіз (тек сандық мән):"
+formatear_img_F2FS_MSG8="Бос файлды құру үшін кеңістік өлшемдері:"
+formatear_img_F2FS_MSG9="Қолданылатын кеңістік өлшемін көрсетіңіз: "
+formatear_img_F2FS_MSG10="ӨЛШЕМДІ ӨЛШЕРУ КЕЗІНДЕГІ ҚАТЕ"
+formatear_img_F2FS_MSG11="Блок өлшемі мәні:"
+formatear_img_F2FS_MSG12="Бос файл үшін орын мөлшері:"
+formatear_img_F2FS_MSG13="Байттардағы есептелген мән:"
+formatear_img_F2FS_MSG14="Санақ үшін есептелген мән:"
+formatear_img_F2FS_MSG15="Бас тартылған процесс. Кескін өлшемі танылмайды."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Шығу"
+imgr_tmp_MSG1="Барлық F2FS кескін файлдарын жою"
+imgr_tmp_MSG2="Сурет файлын орнату немесе ажырату"
+imgr_tmp_MSG3="Кескін файлдары"
+imgr_tmp_MSG4="Опцияны таңдау"
+imgr_tmp_MSG5="Жойылған кескін файлдары"
+imgr_tmp_MSG6="Суретті орнату"
+imgr_tmp_MSG7="Кескінді ажырату"
+imgr_tmp_MSG8="Орнатылған сурет"
+imgr_tmp_MSG9="Ажыратылған сурет"
+imgr_tmp_MSG10="Жарамсыз опция"
+imgr_tmp_MSG11="Орнату немесе ажырату үшін суретті көрсетіңіз:"
+imgr_tmp_MSG12="Суретті орнату қатесі"
+imgr_tmp_MSG13="Суретті ажырату қатесі"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Шығу."
+lingr10F2FSpatch_MSG1="Флэш жадты F2FS форматына пішімдеу."
+lingr10F2FSpatch_MSG2="F2FS кескін файлын жасау."
+lingr10F2FSpatch_MSG3="F2FS кескіндеріндегі операциялар."
+lingr10F2FSpatch_MSG4="Тақында."
+lingr10F2FSpatch_MSG5="Жарамсыз опция"
+
