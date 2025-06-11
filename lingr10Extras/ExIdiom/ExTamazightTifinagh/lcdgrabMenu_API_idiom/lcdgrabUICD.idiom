@@ -1,0 +1,73 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabación en CD.
+# Traducción experimental al Tamazight (Tifinagh), generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="ⴼⵔⴻⵏ ⵢⵉⵡⴻⵏ ⵏ ⵓⴹⴼⴰⵔ"
+clonar_MSG2="---------- ⵓⵍⵖⵓⵢⴻⵏ ⵏ ⵓⴹⴻⴱⵙⵉ ⵙ ⵜⵓⴳⵏⴰ ⵓⵇⴱⴻⵍ ----------"
+clonar_MSG3="ⵙⵏⵓⵍⴼⵓⴷ CD ⵏ ⵢⵉⵙⴻⴼⴽⴰ"
+clonar_MSG4="ⵙⵏⵓⵍⴼⵓⴷ ⵜⵓⴳⵏⴰ ⵓⵇⴱⴻⵍ CD ⴷⴻⴳ ⵓⴹⴻⴱⵙⵉⵉⵏⴻⴽ ⴰⵇⴻⵙⵃⴰⵏ"
+clonar_MSG5="----------- ⵓⵍⵖⵓⵢⴻⵏ ⵏ ⵓⴹⴻⴱⵙⵉ ⴷⴻⴳ ⵜⴼⴻⴽⴽⴰ -----------"
+clonar_MSG6="ⵙⵏⵓⵍⴼⴻⴹ ⵢⴰⵏ ⵛⴷⵉ ⵏ ⵉⵙⴼⴽⴰ ⵖ ⵡⴰⵟⵟⴰⵚ"
+clonar_MSG7="ⵙⵏⵓⵍⴼ ⵢⴰⵏ ⵛⴷ ⵏ ⵉⵙⴼⴽⴰ ⴳ ⵓⴼⴼⵖ"
+clonar_MSG7B="ⵙⵏⵓⵍⴼⴻⴹ ⵢⵉⵡⴻⵏ ⵏ ⵛⴷⵉⴷ ⵏ ⵓⵙⵍⵉⴹ ⴷⴻⴳ ⵡⴰⴼⴼⴰⵖ"
+clonar_MSG8="ⵉⴹⵔⵉⵙⴻⵏ ⵏ ⵓⵙⵏⵓⵍⴼⵓ ⴷⴻⴳ ⵜⴼⴻⴽⴽⴰ ⵃⵡⴰⴵⴻⵏ ⵙⵉⵏ ⵏ ⵢⵉⴹⴻⴱⵙⵉⵢⴻⵏ ⵏ ⵜⵎⵓⵖⵍⵉ"
+clonar_MSG9="ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷ ⴷⴻⴳ ⵓⵙⴻⵍⴽⵉⵎⵉⴽ, ⵉⵎⵉ ⵉⵙⴻⴼⴽⴰ ⵜⵜⵡⴰⵙⴻⴽⴽⵔⴻⵏ ⴷⴻⴳ ⵡⴰⴽⵓⴷ ⵉⴷⴻⴳ"
+clonar_MSG10="ⵖⴻⵔ ⵙⵔⵉⴷ ⵙⴻⴳ ⵓⴹⵔⵉⵙ ⵏ ⵓⵖⴱⴰⵍⵓ, ⵎⴰ ⵢⴻⵍⵍⴰ ⴰⵙⴻⵍⴽⵉⵎⵉⴽ ⵢⴻⵙⵄⴰ ⴽⴰⵏ"
+clonar_MSG11="ⵢⵉⵡⴻⵏ ⵓⵔ ⵢⴻⵣⵎⵉⵔ ⴰⵔⴰ ⴰⴷ ⵢⴻⵙⵙⴻⵇⴷⴻⵛ ⵍⵇⴻⴹⵢⴰⵏⵏⵏⵉ ⴷⴻⴳ ⵜⴼⴻⴽⴽⴰ."
+clonar_MSG12B="ⵙⵏⵓⵍⴼⵓ CD ⵏ ⵢⵉⵙⴻⴼⴽⴰ"
+clonar_MSG0="ⴰⵎⴻⵏⵏⵓⵖ ⵢⴻⵣⵔⵉⵏ"
+
+# mgrabacd
+
+mgrabacd_MSG1="ⵉⵙⴻⴼⴽⴰ ⵏ CD ⵙⴻⴳ ⵓⴹⴻⴱⵙⵉ ⴰⵇⴻⵙⵃⴰⵏ"
+mgrabacd_MSG2="ⵙⵙⴻⵔⵖ CD ⵏ ⵉⵙⴻⴼⴽⴰ ⵉⵎⴰⵢⵏⵓⵜⴻⵏ (ⵙⴻⵇⴷⴻⵛ cdrtools)"
+mgrabacd_MSG3="ⵙⵙⴻⵔⵖ CD ⵏ ⵉⵙⴻⴼⴽⴰ ⵉⵎⴰⵢⵏⵓⵜⴻⵏ (ⵙⴻⵇⴷⴻⵛ libburnia)"
+mgrabacd_MSG4="ⴰⵎⴻⵏⵏⵓⵖ ⵢⴻⵣⵔⵉⵏ"
+mgrabacd_MSG5="ⴰⵔⵓⴷ ⴰⴹⵔⵉⵙ"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="ⴰⵙⴻⴽⵍⴻⵙ ⵏ ⵜⵓⴳⵏⴰ ⵏ ⵉⵙⴻⴼⴽⴰ"
+mgrabaimg_MSG2="ⵙⵙⴻⵅⵙⵉ ⵜⵓⴳⵏⴰ ⵏ iso ⵏⴻⵖ ext2 ⵖⴻⵔ CD-R/RW (ⵙⴻⵇⴷⴻⵛ cdrtools)"
+mgrabaimg_MSG3="ⵙⵙⴻⵅⵙⵉ ⵜⵓⴳⵏⴰ ⵏ iso ⵖⴻⵔ CD-R/RW (ⵙⴻⵇⴷⴻⵛ libburnia)"
+mgrabaimg_MSG4="ⴰⵎⴻⵏⵏⵓⵖ ⵢⴻⵣⵔⵉⵏ"
+mgrabaimg_MSG5="ⴰⵔⵓⴷ ⴰⴹⵔⵉⵙ"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="ⵙⵔⵖ ⵢⴰⵏ ⵓⴹⴱⵉ ⵏ ⵓⵙⵍⵉⴹ ⵙⴳ ⵉⴼⵓⵢⵍⴰ .wav"
+mgrabararchivosaudio_MSG2="ⵙⵔⵖ ⵢⴰⵏ ⵓⵙⵍⵉⴳ ⵏ ⵙⵉⴷⵉ ⵙⴳ ⵉⴼⵓⵢⵍⴰ .mp3"
+mgrabararchivosaudio_MSG3="ⵙⵔⵖ ⵢⴰⵏ ⵓⵙⵍⵉⴳ ⵏ ⵙⵉⴷⵉ ⵙⴳ ⵉⴼⵓⵢⵍⴰ .ogg"
+mgrabararchivosaudio_MSG0="ⴰⴹⵔⵉⵙ ⵉⵣⵡⴰⵔⵏ"
+# Resultado del traductor
+mgrabararchivosaudio_MSG0B="Arud ⴰⴼⴻⵔⴷⵉⵙ"
+mgrabararchivosaudio_MSG4="ⵙⵔⵖ ⵢⴰⵏ ⵓⵙⵍⵉⴳ ⵏ ⵙⵉⴷⵉ ⵙⴳ ⵉⴼⵓⵢⵍⴰ .flac"
+mgrabararchivosaudio_MSG5="ⴰⵙⴻⴽⵍⴻⵙ ⵏ CD ⵏ ⵓⵙⵍⵉⴹ ⵙⴻⴳ ⵢⵉⴼⵓⵢⵍⴰ"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="ⴰⵙⴻⴽⵍⴻⵙ ⵏ CD"
+menugrabar_cd_MSG2="------------------- ⵉⵙⴻⴼⴽⴰ ⵏ ⵛⴷ ------------------"
+menugrabar_cd_MSG3="ⵙⵏⵓⵍⴼⴻⵙ CD ⵏ ⵢⵉⵙⴻⴼⴽⴰ"
+menugrabar_cd_MSG4="ⵙⵔⵖ ⵢⴰⵏ ⵛⴷ ⵏ ⵉⵙⴼⴽⴰ ⴰⵎⴰⵢⵏⵓ"
+menugrabar_cd_MSG5="ⵙⴻⵖⵖ ⵢⴰⵏ ⵛⴷ ⴰⵎⴰⵢⵏⵓ ⵏ ⵉⵙⴼⴽⴰ ⵉⴳⴳⵓⵜⵏ ⵏ ⵜⵖⵉⵎⵉⵜⵉⵏ"
+menugrabar_cd_MSG6="ⵙⴻⵔⵖ ⵜⴰⵡⵍⴰⴼⵜ ⵏ .ⵉⵙⵓ ⵏⵖ .ⴻⵅⵜ2 ⵖⵔ ⵛⴷ"
+menugrabar_cd_MSG7="ⵙⴻⵖⵍⵉ ⵜⴰⵡⵍⴰⴼⵜ ⵏ .ⴱⵉⵏ/.ⵛⵓⴻ ⵖⴻⵔ ⵛⴷ"
+menugrabar_cd_MSG8="-------------------- CD ⵏ ⵓⵙⵍⵉⴹ ------------------"
+menugrabar_cd_MSG9="ⵙⵏⵓⵍⴼⵓⴷ CD ⵏ ⵓⵙⵍⵉⴹ"
+menugrabar_cd_MSG13="----------------- ⵉⴹⴰⵖⴰⵔⴻⵏ ⵏⵏⵉⴹⴻⵏ ----------------"
+menugrabar_cd_MSG14="ⵙⵙⴻⵔⵖ ⵢⵉⵡⴻⵏ ⵏ CD ⵉⵅⵓⵍⴼⴻⵏ (ⵉⵙⴻⴼⴽⴰ + ⵚⵚⵓⵜ)"
+menugrabar_cd_MSG15="ⴰⴽⴽⴻⵙ ⵢⴰⵏ ⵛⴷⵔⵡ"
+menugrabar_cd_MSG16="ⵖⴻⵍⵇⴻⵏ ⵛⴷ ⵢⵓⵔⴷⵉⵏ"
+menugrabar_cd_MSG17="ⵙⵎⵍ ⵉⵏⵖⵎⵉⵙⵏ ⵏ ⵓⴹⴱⵉⴱ ⴳ ⵓⵏⵚⵉⴱ"
+menugrabar_cd_MSG18="ⵙⴻⵖⵣⵉ ⵢⴰⵏ ⵓⵙⵍⵉⴹ ⵏ ⵙⵉⴷⵉ ⵙⴳ ⵉⴼⵓⵢⵍⴰ ⵏ ⵓⴹⴱⵉⴱ"
+menugrabar_cd_MSG0="ⴰⵎⵏⴰⵡ ⵉⵣⵡⴰⵔⵏ"
+menugrabar_cd_MSGPRINCIPAL="ⴰⵔⵓⴷ ⵢⵉⵡⴻⵏ ⵏ ⵓⴼⴻⵔⴷⵉⵙ"

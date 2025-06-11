@@ -1,0 +1,36 @@
+# Idioma Tamazight (Tifinagh) para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="ⵜⵜⵏⴻⵄ ENTER ⵉⵡⴰⴽⴽⴻⵏ ⴰⴷ ⵜⴽⴻⵎⵍⴻⴹ..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="========================================="
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 ⴰⵙⵏⵓⵍⴼⵓ ⵏ .NRG ⵖⴻⵔ .ISO"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="ⵙⴽⵛⵎ ⴰⴱⵔⵉⴷ ⵏ ⵜⵡⵍⴰⴼⵜ .nrg ⵏⵏⴰ ⵜⵔⵉⴷ ⴰⴷ ⵜⵙⵏⴼⵍⵜ"
+convertir_imagen_nrg_MSG1B="ⵙⴽⵛⵎ ⴰⴱⵔⵉⴷ ⵏ ⵜⵡⵍⴰⴼⵜ .iso ⵏⵏⴰ ⵜⵔⵉⴷ ⴰⴷ ⵜⵙⵏⴼⵍⴷ"
+convertir_imagen_nrg_MSG2="ⵢⴻⵜⵜⴽⴻⵎⵎⵉⵍ"
+convertir_imagen_nrg_MSG3="ⴰⵙⵏⴰⵍ ⵏ ⵜⵡⵍⴰⴼⵜ ⵏ .nrg ⵖⵔ .ⵉⵙⵓ ⵉⴽⵎⵍ ⵙ ⵓⵎⵓⵔⵙ"
+convertir_imagen_nrg_MSG4="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴻⵏⵇⴻⴷ ⵏ ⵜⵓⴳⵏⴰ .nrg"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="ⴰⵙⵏⴰⵍ ⵏ ⵓⵙⵏⴼⵍ ⵏ ⵜⵡⵍⴰⴼⵜ ⴳ linux-cdgrab"
+creditospatchnrgaiso_MSG2="ⴰⵙⵏⴼⴻⵍ ⵏ ⵜⵡⵍⴰⴼⵉⵏ .ⵏⵔⴳ ⵖⵔ .ⵉⵙⵓ ⵙ ⵓⵙⵎⵔⵙ ⵏ nrg2iso"
+creditospatchnrgaiso_MSG3="ⴰⵣⵔⴻⵡ ⴷⴷⴰⵡ ⵏ ⵜⵜⴻⵙⵔⵉⵃ ⵏ GPL v2"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="ⵜⴰⵍⵖⴰ ⵏ ⵓⵎⵢⴰⴳⴻⵔ:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1="ⴰⵙⵏⴼⵍ ⵏ ⵜⵡⵍⴰⴼⵜ ⵏ .nrg ⵙ .iso"
+lingr10ConversionNRG_2_ISO_MSG2="ⵖⴻⴼ"
+lingr10ConversionNRG_2_ISO_MSG3="ⴰⵎⴻⵏⵏⵓⵖ ⵉⵄⴻⴷⴷⴰⵏ"
+lingr10ConversionNRG_2_ISO_MSG4="Afran ⵓⵔ ⵢⴻⵜⵜⵡⴰⵇⴱⴰⵍ ⴰⵔⴰ"

@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en Tamazight (Tifinagh) para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="ⵙⵙⴻⴽⵛⴻⵎ ⴰⴱⵔⵉⴷ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏⴻⵖ ⵏ ⵓⴹⵔⵉⵙ:"
+empaquetar_MSG2="------- ⵉⴹⴰⵖⴰⵔⴻⵏ -------"
+empaquetar_MSG3="ⵙⵏⵓⵍⴼⵓⴷ ⴰⴼⴰⵢⵍⵓ .tar.gz"
+empaquetar_MSG4="ⵙⵏⵓⵍⴼⵓⴷ ⴰⴼⴰⵢⵍⵓ .tar.bz2"
+empaquetar_MSG5="ⴰⵔⵓⴷ ⴰⴹⵔⵉⵙ : "
+empaquetar_MSG6="ⵜⴰⵔⵡⴻⵍⴰ"
+empaquetar_MSG7="ⴰⴹⵔⴰⵏ ⵓⵔ ⵢⴻⵜⵜⵡⴰⵇⴱⴰⵍ ⴰⵔⴰ"
+
+# desempaquetar
+
+desempaquetar_MSG1="ⴰⵔⵓ ⴰⴱⵔⵉⴷ ⵏ ⵓⴼⴰⵢⵍⵓ:"
+desempaquetar_MSG2="ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ ⵓⵙⴻⵎⵖⴻⵔ"
+desempaquetar_MSG3="ⵏⴻⵖ ⵎⴰ ⵓⵍⴰⵛ"
+desempaquetar_MSG4="ⵓⵔ ⵢⴻⵍⵍⵉ"
+desempaquetar_MSG5="ⵜⴰⵔⵡⴻⵍⴰ"
+desempaquetar_MSG6="ⵢⴻⵜⵜⵡⴰⴼⵙⴻⵔ"
+desempaquetar_MSG7="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵄⵔⴰⴹ ⵏ ⵓⵙⴼⴻⴹ"
+
+# comprime
+
+comprime_MSG1="ⴰⵙⴻⵖⵍⵉ ⵏ ⵜⵓⴳⵏⴰ"
+comprime_MSG2="ⵙⵙⴻⵎⵖⴻⵔ ⵙ bzip2"
+comprime_MSG3="ⵙⵙⴻⵎⵖⴻⵔ ⵙ gzip"
+comprime_MSG4="ⵙⵙⴻⵎⵖⴻⵔ ⵙ xz"
+comprime_MSG5="ⴰⵎⴻⵏⵏⵓⵖ ⵢⴻⵣⵔⵉⵏ"
+comprime_MSG6="ⵜⴰⵔⵡⴻⵍⴰ"
+comprime_MSG7="ⵢⴻⴽⴼⴰ ⵓⵙⴻⵖⵣⴻⴼ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵜⵓⴳⵏⴰ"
+comprime_MSG8="ⵜⵓⵛⵛⴹⴰ ⵎⵉ ⴰⵔⴰ ⵜⴻⵙⵙⴻⵎⵖⴻⵔⴻⴹ ⵙ"
+comprime_MSG9="ⴰⵙⴻⵎⵔⴻⵙ ⵓⵔ ⵢⴻⵜⵜⵡⴰⵇⴱⴰⵍ ⴰⵔⴰ"
+
+# descomprime
+
+descomprime_MSG1="ⴰⵔⵓ ⴰⴱⵔⵉⴷ ⵏ ⵓⴼⴰⵢⵍⵓ:"
+descomprime_MSG2="----------------"
+descomprime_MSG3="ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ ⵓⵙⴻⵎⵖⴻⵔ"
+descomprime_MSG4="ⵏⴻⵖ ⵎⴰ ⵓⵍⴰⵛ"
+descomprime_MSG5="ⵓⵔ ⵢⴻⵍⵍⵉ"
+descomprime_MSG6="ⵜⴰⵔⵡⴻⵍⴰ"
+descomprime_MSG7="ⵢⴻⵜⵜⵡⴰⴼⵙⴻⵔ"
+descomprime_MSG8="ⵜⵓⵛⵛⴹⴰ ⵎⵉ ⴰⵔⴰ ⵜⵄⴻⵔⴹⴻⴹ ⴰⴷ ⵜⴻⴼⵔⵓⴹ"
+

@@ -1,0 +1,74 @@
+# Idioma Tamazight (Tifinagh) para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="ⵜⵜⵏⴻⵄ ENTER ⵉⵡⴰⴽⴽⴻⵏ ⴰⴷ ⵜⴽⴻⵎⵍⴻⴹ..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="====================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 ⵢⴻⵜⵜⵄⴰⵡⴰⵏ  REISERFS."
+cabecera_interfaz_MSG3="====================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="mount ⴰⵙⴻⴽⵛⴻⵎ ⵏ ⵓⵎⵢⴰⴳⴻⵔ:"
+formatear_disco_reiserfs_MSG2="ⵙⵏⵓⵍⴼⴰⴷ ⴰⵙⴻⵖⵡⴻⵏ ⵏ ⵓⵃⴻⴷⴷⴰⴷ ⵉ ⵓⵖⴰⵡⴰⵙ: "
+formatear_disco_reiserfs_MSG3="ⴰⵙⴻⵍⴽⵉⵎ ⵉⵜⵜⵓⵙⵎⴻⵍ ⵙ ⵔⵔⴱⴻⵃ"
+formatear_disco_reiserfs_MSG4="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵡⴰⵍⵍⴰⵍ ⵏ ⵓⵙⵏⵉⵍⴻⵙ"
+formatear_disco_reiserfs_MSG5="ⵢⴻⴽⴼⴰ ⵓⴽⴰⵍⴰ"
+formatear_disco_reiserfs_MSG6="ⴰⵙⴻⴽⵛⴻⵎ ⵏ ⵡⴰⵍⵍⴰⵍ..."
+formatear_disco_reiserfs_MSG7="ⴰⵙⴻⵎⵔⴻⵙ ⵏ ⵜⵎⴻⵥⴷⵉⵜ ⴷⴻⴳ ReiserFS..."
+formatear_disco_reiserfs_MSG8="ⵜⴰⵔⵡⴻⵍⴰ"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷ ⵙ ⵔⵔⴱⴻⵃ"
+formatear_img_reiserfs_MSG2="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵏⵉⵍⴻⵙ ⵏ ⵓⴼⴰⵢⵍⵓ ⵉⵍⴻⵎ"
+formatear_img_reiserfs_MSG3="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵓⴼⴰⵢⵍⵓ ⴷ ⵉⵍⴻⵎ..."
+formatear_img_reiserfs_MSG4="ⵜⴰⵔⵡⴻⵍⴰ"
+formatear_img_reiserfs_MSG5="ⴰⵙⴻⵎⵔⴻⵙ ⵏ ⵓⴼⴰⵢⵍⵓ ⵉⵍⴻⵎ ⴷⴻⴳ ReiserFS..."
+formatear_img_reiserfs_MSG6="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵓⴼⴰⵢⵍⵓ ⴷ ⵉⵍⴻⵎ ⵙ ⵍⵇⵉⵙ ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷⴻⵏ"
+formatear_img_reiserfs_MSG7="ⵙⴽⴻⵏ ⵜⴰⵊⵓⵎⵎⴰ ⵏ ⵓⴼⴰⵢⵍⵓ ⵉⵍⴻⵎ ⴰⴽⴽⴻⵏ ⴰⴷ ⴷⵜⴻⵙⵏⵓⵍⴼⵓⴹ (ⴰⵍⴰ ⴰⵣⴰⵍ ⴰⵎⴹⴰⵏ):"
+formatear_img_reiserfs_MSG8="ⵍⵇⵉⵙ ⵏ ⵓⵎⴹⵉⵇ ⵉ ⵓⵙⵏⵓⵍⴼⵓ ⵏ ⵓⴼⴰⵢⵍⵓ ⵉⵍⴻⵎ:"
+formatear_img_reiserfs_MSG9="ⵙⴽⴻⵏⴷ ⵍⵇⵉⵙ ⵏ ⵜⴻⵙⵔⴰⴼⵜ ⴰⵔⴰ ⵜⴻⵙⵇⴻⴷⵛⴻⴹ: "
+formatear_img_reiserfs_MSG10="ⵜⵓⵛⵛⴹⴰ ⵎⵉ ⴰⵔⴰ ⴷⵜⴻⵙⵙⴻⴽⵏⴻⴹ ⵍⵇⵉⵙ ⵏ ⵜⴰⵊⵓⵎⵎⴰ"
+formatear_img_reiserfs_MSG11="ⴰⵣⴰⵍ ⵏ ⵓⵊⴻⵎⵎⴰⵍ ⵏ ⵓⵃⵔⵉⵛ:"
+formatear_img_reiserfs_MSG12="ⴰⵣⴰⵍ ⵏ ⵓⵙⵖⴰⵔ ⵉ ⵓⴼⴰⵢⵍⵓ ⵉⴼⵍⴽⵏ:"
+formatear_img_reiserfs_MSG13="ⴰⵣⴰⵍ ⵢⴻⵜⵜⵡⴰⵃⴻⵙⴱⴻⵏ ⵙ ⵢⵉⴱⵉⵜⴻⵏ:"
+formatear_img_reiserfs_MSG14="ⴰⵣⴰⵍ ⵢⴻⵜⵜⵡⴰⵃⴻⵙⴱⴻⵏ ⵉ ⵓⵙⵉⴹⴻⵏ:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="ⵙⵏⵓⵍⴼⵓⴷ ⵜⵓⴳⵏⴰ ⵉ CD-R/RW (702 Mbytes)"
+m_img_CDDVDBD_reiserfs_MSG2="ⵙⵏⵓⵍⴼⵓⴷ ⵜⵓⴳⵏⴰ ⵉ DVD+RW (4 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG3="ⵙⵏⵓⵍⴼⵓⴷ ⵜⵓⴳⵏⴰ ⵉ DVD+RW/DL (8 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG4="ⵙⵏⵓⵍⴼⵓⴷ ⵜⵓⴳⵏⴰ ⵉ BD-R/RE (25 Gbytes)"
+m_img_CDDVDBD_reiserfs_MSG5="ⵙⵏⵓⵍⴼⵓⴷ ⴰⴼⴰⵢⵍⵓ ⵏ ⵜⵓⴳⵏⴰ ⵙ ⵜⴰⵊⵓⵎⵎⴰ ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷⴻⵏ"
+
+# imgr_tmp
+
+imgr_tmp_MSG1="ⴰⴽⴽⴻⵙ ⴰⴽⴽⵯ ⵉⴼⵓⵢⵍⴰ ⵏ ⵜⵡⵍⴰⴼⵜ ⵏ reiserfs"
+imgr_tmp_MSG2="ⴰⵙⴻⵔⴽⴻⴷ ⵏⵖ ⴰⵙⴽⴽⴻⵙ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵜⵓⴳⵏⴰ"
+imgr_tmp_MSG3="ⵉⴼⵓⵢⵍⴰ ⵏ ⵜⵡⵍⴰⴼⵉⵏ ⴳ"
+imgr_tmp_MSG4="ⴼⵔⴻⵏ ⵢⴰⵏ ⵓⵙⵖⴰⵔ"
+imgr_tmp_MSG5="ⵉⴼⵓⵢⵍⴰ ⵏ ⵜⵡⵍⴰⴼⵜ ⵉⵜⵜⵡⴰⵙⴽⴽⵙⵏ"
+imgr_tmp_MSG6="ⴰⴷⵔⴰⵔ ⵏ ⵜⵡⵍⴰⴼⵜ"
+imgr_tmp_MSG7="ⵙⴻⴽⴽⴻⵙ ⵜⴰⵡⵍⴰⴼⵜ"
+imgr_tmp_MSG8="ⵜⵡⵍⴰⴼⵜ ⵉⵜⵜⵓⵙⵔⵙⵏ"
+imgr_tmp_MSG9="ⵜⵓⴳⵏⴰ ⵉⵜⵜⵡⴰⵙⴻⴽⴽⵔⴻⵏ"
+imgr_tmp_MSG10="ⴰⴼⵔⴰⵏ ⵓⵔ ⵉⵚⴰⵃⵏ ⴰⵔⴰ"
+imgr_tmp_MSG11="ⵙⴽⴰⵏ ⵜⴰⵡⵍⴰⴼⵜ ⵉ ⵔⴰⴷ ⵜⵙⵙⵔⵙⵍⵜ ⵏⵖ ⴰⴷ ⵜⵙⵙⵔⵙⵍⵜ:"
+imgr_tmp_MSG12="ⵜⵓⵛⵛⴹⴰ ⵏ ⵓⵙⵔⵙ ⵏ ⵜⵡⵍⴰⴼⵜ"
+imgr_tmp_MSG13="ⵜⵓⵛⵛⴹⴰ ⵏ ⵓⵙⵎⴽⵍ ⵏ ⵜⵡⵍⴰⴼⵜ"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Asmel ⵏ ⵜⵎⴻⵥⴷⵉⵜ ⴷⴻⴳ ReiserFS"
+lingr10reiserfspatch_MSG2="ⵙⵏⵓⵍⴼⴰ ⵜⴰⵡⵍⴰⴼⵜ ⵏ ReiserFS ⵉ CD/DVD/BD"
+lingr10reiserfspatch_MSG3="ⵜⵉⵎⵀⴰⵍ ⵖⴼ ⵜⵓⴳⵏⵉⵡⵉⵏ ⵏ ReiserFS"
+lingr10reiserfspatch_MSG4="ⴰⴼⴻⵔⴷⵉⵙ ⵓⵔ ⵢⴻⵜⵜⵡⴰⵇⴱⴰⵍ ⴰⵔⴰ"
+lingr10reiserfspatch_MSG0="ⴼⴼⴻⵖⴷ"

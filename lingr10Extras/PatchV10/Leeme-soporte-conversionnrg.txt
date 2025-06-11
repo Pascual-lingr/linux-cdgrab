@@ -3,7 +3,7 @@ lingr10ConversionNRG_2_ISO.sh ver 0.1 --> 18/10/2024
 path de ejecución: /usr/share/linux-cdgrab/parches/lingr10ConversionNRG_2_ISO.sh
 
 ficheros de idioma: /usr/share/linux-cdgrab/lcdgrabAPI_idiom/${IDIOM}/lcdgrabparches_idiom/lingr10lightscribepatch.idiom
-donde IDIOM = Español, EspDefNA, Catala, English, ExFrench, ExDeutsch, ExGreek, ExRussian, ExJapanese, ExChinese, ExKorean, ExThai, ExPortuguese, ExItalian, ExDutch, ExNorwegian, ExPolish, ExCzech, ExSwedish, ExArmenian, ExGeorgian, ExSpanishEn, ExDanish, ExAmharic, ExTigrinya, ExVietnamese, ExIcelandic, ExSwahili, ExLao, ExLuxembourgish, ExLithuanian, ExAfrikaans, ExUkrainian, ExTurkish, ExHungarian, ExBelarusian, ExSlovak, ExAzerbaijani, ExEstonian, ExFinnish, ExKazakh, ExMongolian, ExTajik, ExTibetan, ExCroatian, ExBosnian, ExLatvian, ExRomanian, ExSerbian, ExSlovenian, ExAlbanian y .defecidiom
+donde IDIOM = Español, EspDefNA, Catala, English, ExFrench, ExDeutsch, ExGreek, ExRussian, ExJapanese, ExChinese, ExKorean, ExThai, ExPortuguese, ExItalian, ExDutch, ExNorwegian, ExPolish, ExCzech, ExSwedish, ExArmenian, ExGeorgian, ExSpanishEn, ExDanish, ExAmharic, ExTigrinya, ExVietnamese, ExIcelandic, ExSwahili, ExLao, ExLuxembourgish, ExLithuanian, ExAfrikaans, ExUkrainian, ExTurkish, ExHungarian, ExBelarusian, ExSlovak, ExAzerbaijani, ExEstonian, ExFinnish, ExKazakh, ExMongolian, ExTajik, ExTibetan, ExCroatian, ExBosnian, ExLatvian, ExRomanian, ExSerbian, ExSlovenian, ExAlbanian, ExTamazightTifinagh y .defecidiom
 
 Parche para convertir imagenes con formato .nrg de Nero Burning ROM
 en imágenes iso-9660 .iso mediante la herramienta nrg2iso

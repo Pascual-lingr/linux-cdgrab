@@ -1,0 +1,17 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Tamazight (Tifinagh) para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+# Resultado del traductor
+expulsar_medio_MSG1="ⴷⵉⵙⴽ OPTIK ⵢⴻⵜⵜⵡⴰⵙⵓⴼⵖⴻⵏ"
+expulsar_medio_MSG2="ⵜⵓⵛⵛⴹⴰ ⵎⵉ ⴰⵔⴰ ⵜⵄⴻⵔⴹⴻⴹ ⴰⴷ ⵜⴻⵙⵙⵓⴼⵖⴻⴹ ⴰⴹⵔⵉⵙ ⵙⴻⴳ ⵡⴰⵍⵍⴰⵍ"
+expulsar_medio_MSG3="ⵙⵙⴻⴽⵛⴻⵎ ⵉⵙⴻⵎ ⵙ ⵓⴼⵓⵙ:"
+

@@ -1,0 +1,32 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcgdrabMenu_API_idiom/lcdgrabUIAUDIO.idiom
+# Mensajes en Tamazight (Tifinagh) para el menu de conversión de Audio.
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_audio
+
+menu_conversion_audio_MSG1="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵚⵚⵓⵜ"
+menu_conversion_audio_MSG2="--------------- ⴰⴱⴻⴷⴷⴻⵍ ⴳⴰⵔ ⵜⴰⵍⵖⵉⵡⵉⵏ -------------"
+menu_conversion_audio_MSG3="ⴰⴱⴻⴷⴷⴻⵍ ⵏ .mp3 ⵖⴻⵔ .wav"
+menu_conversion_audio_MSG4="ⵙⴱⴻⴷⴷ .ogg ⵖⴻⵔ .wav"
+menu_conversion_audio_MSG5="ⵙⵏⵓⵍⴼⵓⴷ .wav ⵖⴻⵔ .mp3."
+menu_conversion_audio_MSG6="ⵙⴱⴻⴷⴷ .wav ⵖⴻⵔ .ogg"
+menu_conversion_audio_MSG6C="ⵙⴱⴻⴷⴷ .wav ⵖⴻⵔ .flac"
+menu_conversion_audio_MSG6B="ⵙⴱⴻⴷⴷ .flac ⵖⴻⵔ .wav"
+menu_conversion_audio_MSG7="------------ ⴰⵙⴻⴽⵛⴻⵎ ⵏ ⵢⵉⴹⵔⵉⵙⴻⵏ ⵏ ⵓⵙⵍⵉⴹ ----------"
+menu_conversion_audio_MSG8="ⵔⵥⴻⵎ ⵢⵉⵡⴻⵏ ⵏ CD ⵏ ⵓⵙⵍⵉⴹ ⵖⴻⵔ .wav"
+menu_conversion_audio_MSG9="ⵔⵥⴻⵎ ⵢⵉⵡⴻⵜ ⵏ ⵜⴻⴳⵔⴰⵡⵜ ⵏ ⵢⵉⴹⴻⴱⵙⵉⵢⴻⵏ ⵏ ⵓⵙⵍⵉⴹ ⵖⴻⵔ .wav"
+menu_conversion_audio_MSG10="ⵔⵥⴻⵎ ⵢⵉⵡⴻⵏ ⵏ CD ⵏ ⵓⵙⵍⵉⴹ ⵖⴻⵔ .mp3."
+menu_conversion_audio_MSG11="ⵔⵥⴻⵎ ⵢⵉⵡⴻⵏ ⵏ CD ⵏ ⵓⵙⵍⵉⴹ ⵖⴻⵔ .ogg"
+menu_conversion_audio_MSG0="ⴰⵎⴻⵏⵏⵓⵖ ⵢⴻⵣⵔⵉⵏ"
+menu_conversion_audio_MSG12="ⴰⵔⵣⵓ ⵅⴼ ⵉⴼⵓⵢⵍⴰ .mp3"
+menu_conversion_audio_MSG13="ⵏⴰⴷⵉ ⵖⴻⴼ ⵉⴼⵓⵢⵍⴰ .ogg"
+menu_conversion_audio_MSG14="ⵏⴰⴷⵉ ⵖⴻⴼ ⵉⴼⵓⵢⵍⴰ .wav"
+menu_conversion_audio_MSG15="------------------- ⵜⵉⵎⵀⴰⵍ ⵏⵏⵉⴹⴻⵏ ----------------"
+menu_conversion_audio_MSG16="ⴳⴻⵣⵎ ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⵙⵍⵉⴹ .wav"
+menu_conversion_audio_MSG17="ⵔⵥⴻⵎ ⵢⵉⵡⴻⵏ ⵏ CD ⵏ ⵓⵙⵍⵉⴹ ⵖⴻⵔ .flac"

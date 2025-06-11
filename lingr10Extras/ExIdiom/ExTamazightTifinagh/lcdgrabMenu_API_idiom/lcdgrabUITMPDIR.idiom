@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Tamazight (Tifinagh) para el menú de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="ⵉⴼⵓⵢⵍⴰ ⴳ /tmp"
+dir_tmp_MSG2="ⴽⴽⴻⵙ ⴰⴽⴽ ⵜⵉⵡⵍⴰⴼⵉⵏ ⴷ ⵉⴼⵓⵢⵍⴰ ⵉⵔⵎⵙⵏⵏ"
+dir_tmp_MSG3="ⵙⵔⵥⵎ ⴰⵏⵎⵀⴰⵍ ⵏ ⵓⴼⴰⵢⵍⵓ ⵉ ⵜⵉⵎⵀⴰⵍ ⵢⴰⴹⵏⵉⵏ"
+dir_tmp_MSG4="ⴰⵙⵔⴽⴷ ⵏⵖ ⴰⵙⴽⴽⵉⵔ ⵏ ⵜⵡⵍⴰⴼⵜ"
+dir_tmp_MSG5="ⵙⴽⴰⵏⴷ ⴰⵎⴻⵏⵏⵓⵖ ⵏ ⵓⵙⵏⵓⵍⴼⵓ ⵏ ⵜⵡⵍⴰⴼⵜ"
+dir_tmp_MSG6="ⵙⴽⴰⵏ ⵉⴹⵔⵉⵙⴻⵏ ⵏ ⵓⵙⴻⴽⵍⴻⵙ ⵏ ⵜⵡⵍⴰⴼⵜ"
+dir_tmp_MSG7="ⴰⵎⵏⴰⵡ ⵉⵣⵡⴰⵔⵏ"
+dir_tmp_MSG8="ⴰⵎⵓⵖ ⵏ ⵢⵉⴼⵓⵢⵍⴰ ⵢⴻⵍⵍⴰⵏ ⴷⴻⴳ"
+dir_tmp_MSG9="ⴼⵔⴻⵏ ⵢⵉⵡⴻⵏ ⵏ ⵓⴹⵔⵉⵙ:"
+dir_tmp_MSG10="ⵜⵓⴳⵏⵉⵡⵉⵏ ⴷ ⵢⵉⴼⴰⵢⵍⵓⵜⴻⵏ ⵢⴻⵜⵜⵡⴰⵙⴻⴽⴽⵙⴻⵏ"
+dir_tmp_MSG11="ⴰⴷⵔⴰⵔ ⵏ ⵜⵡⵍⴰⴼⵜ."
+dir_tmp_MSG12="ⵙⴽⴽⵔ ⵜⴰⵡⵍⴰⴼⵜ."
+dir_tmp_MSG13="ⴰⵣⵖ ⵜⴰⵡⵍⴰⴼⵜ ⵖⵔ ⵛⴷ"
+dir_tmp_MSG14="ⵙⵔⵖ ⵜⴰⵡⵍⴰⴼⵜ ⴳ ⴹⴹⴱⵉⵔ"
+dir_tmp_MSG14B="ⵙⴻⵔⵖ ⵜⴰⵡⵍⴰⴼⵜ ⵉ ⴱⴷ"
+dir_tmp_MSG15="ⴼⵔⴻⵏ ⴰⴼⵔⴰⵏ ⵖⴻⴼ ⵍⴻⵃⵙⴰⴱ ⵏ ⵡⴰⵎⵎⴰⵙ ⵏ ⵓⵙⴻⴽⵍⴻⵙ".
+dir_tmp_MSG16="ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⵙⵎⴻⵍ ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ."
+dir_tmp_MSG17="ⴰⵙⴳⴻⵍⵍⵉ ⵏ ⵓⴱⵔⵉⴷ ⵏ ⵓⵙⴻⴽⵍⴻⵙ"
+dir_tmp_MSG18="ⵙⵏⵓⵍ ⴰⴼⴰⵢⵍⵓ .iso ⵉ ⵔⴰⴷ ⵉⵙⵙⵉⵔⵎ"
+dir_tmp_MSG19="ⵙⴽⵛⵎ ⴰⴱⵔⵉⴷ ⵏ ⵜⵡⵍⴰⴼⵜ: "
+

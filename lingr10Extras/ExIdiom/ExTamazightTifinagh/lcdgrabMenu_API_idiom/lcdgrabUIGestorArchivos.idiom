@@ -1,0 +1,58 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Tamazight (Tifinagh) para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="************************* ⵉⴹⴰⵖⴰⵔⴻⵏ ⵏ ⵓⵙⵉⴽⴻⵍ **********************"
+ayuda_gestor_de_archivos_MSG2="ⴰⴼⴻⴹ ⴰⵏⴰⴳⵔⴰⵡ ⵏ ⵢⵉⴼⴰⵢⵍⵓⵜⴻⵏ."
+ayuda_gestor_de_archivos_MSG3="X --> ⴼⴼⴻⵖⴷ"
+ayuda_gestor_de_archivos_MSG4="A --> ⴰⴹⵔⵉⵙ ⴰⵇⴱⵓⵔ"
+ayuda_gestor_de_archivos_MSG5="B --> ⴰⴹⵔⵉⵙ ⵉ ⴷⵉⵜⴻⴷⴷⵓⵏ"
+ayuda_gestor_de_archivos_MSG6="ⵜⵉⴳⴰⵡⵜ ⵖⴻⴼ ⵢⵉⴼⵓⵢⵍⴰ ⴷ ⵢⵉⴹⵔⵉⵙⴻⵏ."
+ayuda_gestor_de_archivos_MSG7="C --> ⵙⵏⵓⵍⴼⵓⴷ ⴰⴼⴰⵢⵍⵓ"
+ayuda_gestor_de_archivos_MSG8="M --> ⵙⵏⴻⵇⴷⴻⵛ ⴰⴼⴰⵢⵍⵓ"
+ayuda_gestor_de_archivos_MSG9="CD --> ⵙⵏⵓⵍⴼⵓⴷ ⴰⴹⵔⵉⵙ"
+ayuda_gestor_de_archivos_MSG10="MD --> ⵙⴽⴻⵔⵔⴻⵣ ⴰⴹⵔⵉⵙ"
+ayuda_gestor_de_archivos_MSG11="ⴰⴼⵀⴰⵎ ⵏ ⵜⵉⴳⴰⵡⵉⵏ ⵖⴻⴼ ⵢⵉⴼⵓⵢⵍⴰ ⴷ ⵢⵉⴹⵔⵉⵙⴻⵏ."
+ayuda_gestor_de_archivos_MSG12="Z --> ⵙⵙⴻⵎⵖⴻⵔ ⴰⴼⴰⵢⵍⵓ"
+ayuda_gestor_de_archivos_MSG13="DZ --> ⴽⴽⴻⵙ ⴰⴼⴰⵢⵍⵓ"
+ayuda_gestor_de_archivos_MSG14="EZ --> ⵙⵏⵓⵍⴼⵓⴷ ⴰⴼⴻⵔⴷⵉⵙ .tar.gz ⵏⴻⵖ .tar.bz2"
+ayuda_gestor_de_archivos_MSG15="DEZ --> ⴼⵙⵔ ⴰ .tar.gz ⵏⵖ .tar.bz2"
+ayuda_gestor_de_archivos_MSG16="*****************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="ⴰⴹⵔⵉⵙ ⴰⵙⴻⵔⵜⴰⵏ ⵏ ⵜⵓⵔⴰ"
+gestor_de_archivos_MSG0B="ⵉⴼⵓⵢⵍⴰ ⴷⴻⴳ"
+gestor_de_archivos_MSG1="============================ ⵉⴹⴰⵖⴰⵔⴻⵏ ⵏ ⵓⵙⵉⴽⴻⵍ =========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> ⵄⵉⵡⴻⵏ="
+gestor_de_archivos_MSG3="========================================================================="
+gestor_de_archivos_MSG4="ⴰⵔⵓⴷ ⴰⴼⵔⴰⵏ"
+# Resultado del traductor
+gestor_de_archivos_MSG5="Asekles ⵏ ⵚⵚⴻⵏⴼ"
+gestor_de_archivos_MSG6="ⴰⵔⵓ ⴰⴼⴰⵢⵍⵓ ⴰⵖⴱⴰⵍⵓ"
+gestor_de_archivos_MSG7="ⴰⵔⵓ ⴰⴼⴰⵢⵍⵓ ⵏ ⵡⴰⴷⴷⴰⵍ"
+gestor_de_archivos_MSG8="ⴰⴼⴰⵢⵍⵓ ⵢⴻⵜⵜⵡⴰⵙⵏⵓⵍⴼⴰⴷ ⵙ ⵓⵎⵓⵔⵙ"
+gestor_de_archivos_MSG9="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴻⴽⵍⴻⵙ ⵏ ⵓⴼⴰⵢⵍⵓ"
+gestor_de_archivos_MSG10="ⴰⵔⵓ ⴰⴼⴰⵢⵍⵓ ⴰⵖⴱⴰⵍⵓ"
+gestor_de_archivos_MSG11="ⴰⵔⵓ ⴰⴼⴰⵢⵍⵓ ⵏ ⵡⴰⴷⴷⴰⵍ"
+gestor_de_archivos_MSG12="ⴰⴼⴰⵢⵍⵓ ⵢⴻⵜⵜⵡⴰⵙⵏⴻⴼⵍⵉ ⵙ ⵜⵓⵔⵔⵉⵜ"
+gestor_de_archivos_MSG13="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵉⵡⴻⴹ ⵏ ⵓⴼⴰⵢⵍⵓ"
+gestor_de_archivos_MSG14="ⴰⵔⵓⴷ ⴰⴹⵔⵉⵙ ⵏ ⵓⵖⴱⴰⵍⵓ"
+gestor_de_archivos_MSG15="ⴰⵔⵓⴷ ⵜⴰⵖⴱⴰⵍⵓⵜ ⵏ ⵓⵖⵎⵉⵙ"
+gestor_de_archivos_MSG16="ⴰⵙⵎⴻⵍ ⵢⴻⵜⵜⵡⴰⵙⵏⵓⵍⴼⴰⴷ ⵙ ⵔⵔⴱⴻⵃ"
+gestor_de_archivos_MSG17="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴻⴽⵍⴻⵙ ⵏ ⵓⴹⵔⵉⵙ"
+gestor_de_archivos_MSG18="ⴰⵔⵓ ⴷⴻⴳ ⵓⵎⴹⵉⵇ ⵏ ⵓⵖⴱⴰⵍⵓ"
+gestor_de_archivos_MSG19="ⴰⵔⵓⴷ ⵜⴰⵖⴱⴰⵍⵓⵜ ⵏ ⵓⵏⴰⵖⵎⵉⵙ"
+gestor_de_archivos_MSG20="ⴰⵙⵎⴻⵍ ⵢⴻⵜⵜⵡⴰⵙⵏⴻⴼⵍⵉ ⵙ ⵔⵔⴱⴻⵃ"
+gestor_de_archivos_MSG21="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵉⵡⴻⴹ ⵏ ⵓⴹⵔⵉⵙ"
+gestor_de_archivos_MSG22="ⴰⴼⴰⵢⵍⵓ ⵉ ⵓⵙⴻⵎⵔⴻⵙ"
+gestor_de_archivos_MSG23="ⵙⴽⴻⵏⴷ ⴰⴱⵔⵉⴷ ⵏ ⵓⴼⴰⵢⵍⵓ"
+

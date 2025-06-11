@@ -1,0 +1,185 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcdgrabCMD_API_idion/lcdgrabCD-API.idiom
+# Mensajes en Tamazight (Tifinagh) para el API de grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# copia_bin
+
+copia_bin_MSG1="ⵜⴰⵔⵡⴻⵍⴰ"
+copia_bin_MSG2="--------------ⴰⵄⵔⴰⴹ ⵏ ⵓⴽⴰⵍⴰ ⵏ ⵓⵙⴻⴽⵍⴻⵙ---------------"
+copia_bin_MSG3="	ⵜⵓⴽⴽⵙⴰ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵜⵓⴳⵏⴰ"
+copia_bin_MSG4="ⵜⴻⴹⵔⴰⴷ ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴻⴽⵍⴻⵙ."
+copia_bin_MSG5="ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⵙⵎⴻⵍ ⵏ ⵜⵓⴳⵏⴰ ⵏ ⵓⴹⵔⵉⵙ .iso ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ. ⴰⵃⴱⴰⵙ ⵏ ⵓⵙⴻⴽⵍⴻⵙ..."
+
+# datos_al_vuelo
+
+datos_al_vuelo_MSG1="ⵜⴰⵔⵡⴻⵍⴰ"
+datos_al_vuelo_MSG2="ⴰⵄⵔⴰⴹ ⵏ ⵓⵙⴻⴽⵍⴻⵙ ⵓⵔ ⵢⴻⵣⵎⵉⵔ ⴰⵔⴰ, ⴰⵄⵔⴰⴹⵏⵏⵉⴹⴻⵏ ⵏⴻⴱⵍⴰ ⵜⴰⵍⵍⴻⵍⵜ ⵉ overburn"
+datos_al_vuelo_MSG3="ⵙⴻⴼⵇⴻⴷ ⵎⴰ ⵢⴻⵍⵍⴰ ⴰⴹⵔⵉⵙ ⵏ ⵓⵖⴱⴰⵍⵓ ⵏⴻⵖ ⴰⵙⴻⵍⴽⵉⵎ"
+datos_al_vuelo_MSG4="ⵢⴻⵍⵍⴰ ⴷⴻⴳ ⵜⴻⴳⵏⵉⵜ ⵢⴻⵍⵀⴰⵏ"
+datos_al_vuelo_MSG5="ⴰⴷ ⴷⵜⴰⴼⴻⴹ ⵓⵟⵓⵏ ⵏ ⵓⵃⵔⵉⵛ leadout ⵙⴻⴳ ⵓⴹⵔⵉⵙ ⵏ ⵓⵖⴱⴰⵍⵓ"
+datos_al_vuelo_MSG6="ⴰⵙⴻⴽⵍⴻⵙ ⵏ ⵓⴹⴻⴱⵙⵉ..."
+
+# clonar_cd
+
+clonar_cd_MSG1="ⵜⴰⵔⵡⴻⵍⴰ"
+clonar_cd_MSG2="CD ⵢⴻⵜⵜⵡⴰⵙⵏⵓⵍⴼⴰⴷ ⵙ ⵔⵔⴱⴻⵃ"
+clonar_cd_MSG3="ⵢⴻⴹⵔⴰⴷ ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵏⵓⵍⴼⵓ ⵏ CD."
+
+# datos
+
+datos_MSG1="ⵉⴼⵓⵢⵍⴰ ⴷ ⵢⵉⴹⵔⵉⵙⴻⵏ ⵉ ⵓⵙⵏⵓⵍⴼⵓ ⵏ ⵜⵓⴳⵏⴰ .iso"
+datos_MSG2="CD/DVD/BD ⵜⵉⴱⵣⵉⵎⵉⵏ"
+datos_MSG3="ⵙⵙⴻⴽⵛⴻⵎ ⵉⵙⴻⵎ ⵉ CD/DVD/BD ⴰⵔⴰ ⴷⵢⴰⵙⴻⵏ:"
+datos_MSG4="ⴰⵙⴻⴽⵛⴻⵎ ⵏ ⵓⵏⴻⵎⵀⴰⵍ ⵏ ⵓⴼⴰⵢⵍⵓ:"
+datos_MSG5="	ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵜⵓⴳⵏⴰ . . ."
+datos_MSG6="ⵜⴰⵔⵡⴻⵍⴰ"
+datos_MSG7="ⵜⵓⴳⵏⴰ ISO-9660 ⵜⴻⵜⵜⵡⴰⵙⵏⵓⵍⴼⴰⴷ ⴷⴻⴳ"
+datos_MSG8="		ⴰⵙⴻⵔⵙⵉ ⵏ CD/DVD/BD"
+datos_MSG9="ⴰⴽⴰⵍⴰ ⵏ ⵓⵙⵏⵓⵍⴼⵓ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵜⵓⴳⵏⴰ ⵓⵔ ⵢⴻⵙⵙⴰⵡⴻⴹ ⴰⵔⴰ"
+datos_MSG10="ⵜⵜⵄⴻⵔⵔⵉⴹ ⴰⴷ ⴷⵜⴻⵙⵏⵓⵍⴼⵓⴹ ⴰⵎⴰⵢⵏⵓⵜ ⵏⴻⴱⵍⴰ ⵜⴰⵍⵍⴻⵍⵜ ⵏ HFS (Macintosh)"
+datos_MSG11="ⵜⵓⴽⴽⵙⴰ ⵏ ⵜⵓⴳⵏⴰ . . ."
+datos_MSG12="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵜⵓⴳⵏⴰ ⵜⴰⵎⴰⵢⵏⵓⵜ . . ."
+datos_MSG13="ⵓⵔ ⵢⴻⵣⵎⵉⵔ ⴰⵔⴰ ⴰⴷ ⵢⴻⵜⵜⵡⴰⵙⴻⴽⵍⴻⵙ ⴰⴽⴽⴻⵏ ⵉⵡⴰⵜⴰ."
+datos_MSG14="------------ⴰⵄⵔⴰⴹ ⵏ ⵓⴽⴰⵍⴰ ⵏ ⵓⵙⴻⴽⵍⴻⵙ-----------"
+datos_MSG15="ⵜⵓⴽⴽⵙⴰ ⵏ ⵜⵓⴳⵏⴰ..."
+datos_MSG16="ⴰⵙⴻⵖⵖ ⵏ ⵉⵙⴻⴼⴽⴰ ISO-9660 CD/DVD/BD"
+datos_MSG17="ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ."
+datos_MSG18="ⴰⵃⴱⴰⵙ ⵏ ⵓⵙⴻⴽⵍⴻⵙ ⵏ ⵓⴹⴻⴱⵙⵉ..."
+
+# datoslb
+
+datoslb_MSG1="ⵜⵓⵛⵛⴹⴰ: ⴰⴼⴰⵢⵍⵓ ⵏ ⵜⵓⴳⵏⴰ ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ. ⴰⵖⴻⵍⵍⵓⵢ..."
+datoslb_MSG2="ⴰⴽⴰⵍⴰ ⵏ ⵓⵙⴻⴽⵍⴻⵙ OK"
+datoslb_MSG3="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⴽⴰⵍⴰ ⵏ ⵓⵙⴻⴽⵍⴻⵙ"
+
+# borra
+
+borra_MSG0="ⴰⵎⴻⵏⵏⵓⵖ ⴰⵇⴱⵓⵔ"
+borra_MSG1="ⴼⵔⴻⵏ ⵜⴰⵍⵖⴰ ⵉⵡⴰⴽⴽⴻⵏ ⴰⴷ ⵜⴻⵙⴼⴻⴹ CD-RW"
+borra_MSG2="----------------------------------"
+borra_MSG3="ⵜⵓⴽⴽⵙⴰ ⵙ ⵍⴻⵎⵖⴰⵡⵍⴰ (ⵙⴻⵇⴷⴻⵛ cdrecord)"
+borra_MSG4="ⴽⴻⵎⵎⴻⵍ ⵜⵓⴽⴽⵙⴰ (ⵙⴻⵇⴷⴻⵛ cdrecord)"
+borra_MSG5="ⵜⵓⴽⴽⵙⴰ ⵜⴻⵃⵡⴰⴵ (ⵙⴻⵇⴷⴻⵛ cdrskin)"
+borra_MSG6="ⵜⴰⵔⵡⴻⵍⴰ"
+borra_MSG7="ⵜⴰⴳⵎⵓⴹⵜ ⵏⴻⵖ ⴰⵙⴼⴻⴹ ⵉⵍⴰⵇⴻⵏ ⵢⴻⵜⵜⵡⴰⵅⴷⴻⵎ ⵙ ⵍⵎⴻⵏⴷⴰⴷ ⵏ ⵜⴻⴳⵏⵉⵜ ⵏ ⵓⴹⵔⵉⵙ."
+borra_MSG8="CD-RW ⵢⴻⵜⵜⵡⴰⵙⴼⴻⴹ ⵙ ⵔⵔⴱⴻⵃ!!"
+borra_MSG9="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵜⵓⴽⴽⵙⴰ ⵏ CD-RW"
+borra_MSG10="ⵃⴻⵜⵜⴻⵎ ⵜⵓⴽⴽⵙⴰ ⵏ CD-RW"
+
+# err_borra_cdrw
+
+err_borra_cdrw_MSG1="ⵜⵓⵛⵛⴹⴰ ⵎⵉ ⴰⵔⴰ ⵜⵄⴻⵔⴹⴻⴹ ⴰⴷ ⵜⴻⵙⴼⴻⴹ  CD-RW"
+err_borra_cdrw_MSG2="CD-RW ⵓⵔ ⵏⴻⵙⵄⵉ ⴰⵣⴰⵍ"
+err_borra_cdrw_MSG3="ⵓⵔ ⵢⴻⵣⵎⵉⵔ ⴰⵔⴰ ⴰⴷ ⵢⴻⴽⴽⴻⵙ ⴰⵢⴰ  CD-RW"
+err_borra_cdrw_MSG4="ⵙⴻⴼⵇⴻⴷ ⵎⴰ ⵢⴻⵍⵍⴰ CD-RW ⵓⵔ ⵢⴻⵜⵜⵡⴰⵅⵚⴻⵔ ⴰⵔⴰ ⵙ ⵜⴼⴻⴽⴽⴰ"
+
+# cerrar_cd
+
+cerrar_cd_MSG1="ⵜⴰⵔⵡⴻⵍⴰ"
+# Resultado del traductor
+cerrar_cd_MSG2="CD nni ⵢⴻⵜⵜⵡⴰⵇⵇⴻⵏ ⴰⴽⴽⴻⵏ ⵉⵡⴰⵜⴰ."
+cerrar_cd_MSG3="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵖⴻⵍⵍⴻⵜ ⵏ CD"
+cerrar_cd_MSG4="ⵜⴰⵣⵍⵉⵜ ⵏ ⵓⵖⴻⵍⵍⴻⵜ ⴷⴻⴳ CD ⵏ ⵢⵉⵙⴻⴼⴽⴰ . . ."
+
+# grabimg
+
+grabimg_MSG1=".iso ⵏⵖ .ext2 ⵜⴰⵡⵍⴰⴼⵜ ⵉ ⵓⵙⵉⵣⵎ ⴳ CD/DVD"
+grabimg_MSG2="ⴰⵥⵥⴰⵍ ⵏ ⵓⵙⵏⴼⵍ ⵏ ⵓⴼⴰⵢⵍⵓ."
+grabimg_MSG3="ⴰⵔⵓⴷ ⴰⴱⵔⵉⴷ ⴰⴽⴽⵯ ⵉ ⵜⵡⵍⴰⴼⵜ ⵏ CD/DVD ⵏⵏⴰ ⵜⵔⵉⴷ ⴰⴷ ⵜⵙⴽⵔⵎⴷ:"
+grabimg_MSG4="ⵜⴰⵔⵡⴻⵍⴰ"
+grabimg_MSG5="-----------ⴰⵄⵔⴰⴹ ⵏ ⵓⴽⴰⵍⴰ ⵏ ⵓⵙⴻⴽⵍⴻⵙ-----------"
+grabimg_MSG6="ⴰⵙⴻⴽⵍⴻⵙ ⵢⴻⴽⴼⴰ!!"
+grabimg_MSG7=".EXT2 ⵜⵓⴳⵏⴰ ⵜⴻⵜⵜⵡⴰⵙⵙⴻⵔⵖ ⵙ ⵔⵔⴱⴻⵃ"
+
+# grabimglb
+
+grabimglb_MSG1="ⴰⵔⵓⴷ ⴰⴱⵔⵉⴷ ⴰⴽⴽⵯ ⵉ ⵜⵡⵍⴰⴼⵜ ⵏ CD/DVD ⵏⵏⴰ ⵜⵔⵉⴷ ⴰⴷ ⵜⴻⵙⵔⵖⵍⵜ:"
+grabimglb_MSG2="ⴰⵙⴻⵔⵖⵉ ⵏ ⵜⵡⵍⴰⴼⵜ ⴳ ⵓⴹⴱⵉ..."
+grabimglb_MSG3="ⵜⵓⴳⵏⴰ IS-O9660 ⵜⴻⵜⵜⵡⴰⵅⵍⴻⵇⴷ ⵙ ⵔⵔⴱⴻⵃ"
+grabimglb_MSG4="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴻⴽⵍⴻⵙ ⵏ ⵜⵓⴳⵏⴰ ISO-9660"
+grabimglb_MSG5="ⵜⵓⵛⵛⴹⴰ: ⴰⴼⴰⵢⵍⵓ ⵏ ⵜⵓⴳⵏⴰ ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ. ⴰⵖⴻⵍⵍⵓⵢ..."
+
+# grabimg_cue
+
+grabimg_cue_MSG1=".bin ⴷ .cue ⵉ ⵉⴼⵓⵢⵍⴰ ⵉ ⵓⵣⵎⵎⴻⵎ ⵏ ⵜⵡⵍⴰⴼⵜ"
+grabimg_cue_MSG2="ⵉⵡⴰⴽⴽⴻⵏ ⴰⴷ ⵜⴻⵙⵙⴻⴽⵍⴻⵙⴹ ⵜⵓⴳⵏⴰ ⵏ bin/cue ⵙⵉⵏ ⵏ ⵢⵉⴼⵓⵢⵍⴰ ⵢⴻⵙⵙⴻⴼⴽ ⴰⴷ ⵉⵍⵉⵏ"
+grabimg_cue_MSG3="ⵉⵍⵉ ⴷⴻⴳ ⵓⵙⴻⴱⵜⴻⵔ ⵏ ⵜⵓⵔⴰ."
+grabimg_cue_MSG4="ⴰⴹⵔⵉⵙ ⴰⵎⴰⴽⵜⵓ ⵏ ⵜⵓⵔⴰ"
+grabimg_cue_MSG5="ⵙⴽⵛⵎ ⵉⵙⵎ ⵏ ⵓⴼⴰⵢⵍⵓ *.cue ⵍⵍⵉ ⵉⵙⵙⴰⵡⵍⵏ ⴰⴼⴰⵢⵍⵓ ⵏ ⵜⵡⵍⴰⴼⵜ *.bin"
+grabimg_cue_MSG6=".ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⵙⵎⴻⴽⵜⵉ: "
+grabimg_cue_MSG7="ⵜⴰⵔⵡⴻⵍⴰ"
+grabimg_cue_MSG8="ⴰⵙⴻⴽⵍⴻⵙ ⵢⴻⴽⴼⴰ!!"
+
+# graba un CD multisesion
+
+cd_multi_MSG1="ⵙⴻⵔⵖ ⵛⴷ ⵏ ⵡⴰⵟⴰⵙ ⵏ ⵜⵖⵉⵎⵉⵜⵉⵏ ⵙⴳ ⵢⴰⵜ ⵜⵡⵍⴰⴼⵜ ⵏ . iso"
+cd_multi_MSG2="ⵉⵙⵙⵉⵖ ⵢⴰⵜ ⵜⵖⵉⵎⵉⵜ ⵜⴰⵎⵣⵡⴰⵔⵓⵜ ⵉ ⵓⴹⴱⵉ ⵙⴳ ⵢⴰⵜ ⵜⵡⵍⴰⴼⵜ . iso"
+cd_multi_MSG3="ⵙⴻⵔⵖ ⵛⴷ ⵏ ⵜⵓⴳⴻⵜ ⵏ ⵜⵖⵉⵎⵉⵜⵉⵏ ⵙⴳ ⵉⴼⵓⵢⵍⴰ ⵉⵍⵍⴰⵏ ⴳ ⵓⴹⴱⵉⴱ".
+cd_multi_MSG4="ⵙⴻⵔⵖ ⵉⵙⴰⵍⵍⴻⵏ ⵉⵎⵙⴻⴹⴼⴰⵔⴻⵏ ⵖⴻⵔ ⵛⴷ ⵙⴻⴳ ⵉⴼⵓⵢⵍⴰ ⵢⴻⵍⵍⴰⵏ ⴷⴻⴳ ⵓⴹⴻⴱⵙⵉ ⴰⵇⴻⵙⵃⴰⵏ".
+cd_multi_MSG5="ⴰⴼⴻⵔⴷⵉⵙ ⴰⴷ ⵉⵜⵜⴰⵡⴰ ⵛⴷ ⵏ ⵜⵓⴳⵜ ⵏ ⵜⵖⵉⵎⵉⵜⵉⵏ, ⵙ ⵢⴰⵜ ⵜⵖⵉⵎⵉⵜ ⵉⵜⵜⵓⵙⴽⵍⵙⵏ ⴷⴰⵜ."
+cd_multi_MSG6="ⴰⵎⵏⴰⵡ ⴰⵣⵡⴰⵔ"
+cd_multi_MSG7=".ⵉⵙⵓ ⵜⵓⴳⵏⴰ ⵉ ⵓⵙⴻⵖⵣⴻⴼ ⵏ CD ⵏ ⵡⴰⵟⴰⵙ ⵏ ⵜⵖⵉⵎⵉⵢⵉⵏ"
+cd_multi_MSG8="ⵙⵏⵓⵍ ⴰⴱⵔⵉⴷ ⵏ ⵜⵡⵍⴰⴼⵜ .iso"
+cd_multi_MSG9="ⵜⴰⵔⵡⴻⵍⴰ"
+cd_multi_MSG10="CD ⵏ ⵡⴰⵟⴰⵙ ⵏ ⵜⵖⵉⵎⵉⵢⵉⵏ ⵢⴻⵜⵜⵡⴰⵙⴻⴽⵍⴻⵙ ⵙ ⵔⵔⴱⴻⵃ !!"
+cd_multi_MSG11="ⵉⵏⴼⵡⴰⵖⴻⵏ ⵔⴰⴷ ⵙⴽⵛⵎⵏ ⴳ ⵜⵡⵍⴰⴼⵜ."
+cd_multi_MSG12="ⵙⴽⴰⵏ ⴷⴷⴰⵡ ⴰⵏⵡⴰ ⵉⵏⴻⴱⴳⴰⵡⴻⵏ ⴰⵔⴰ ⵜⴻⵙⵙⴻⴽⵛⴻⵎ"
+cd_multi_MSG13="ⵙⴽⵔ ⵢⴰⵏ ⵢⵉⵙⵎ ⵉ ⵓⵥⴰⵔ ⵏ ⵓⴹⴱⵉ:"
+cd_multi_MSG14="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵜⵓⴳⵏⴰ..."
+cd_multi_MSG15="ⵢⴻⵜⵜⵡⴰⵅⵍⴻⵇ ⵙ ⵔⵔⴱⴻⵃ."
+cd_multi_MSG16="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵏⵓⵍⴼⵓ ⵏ ⵜⵓⴳⵏⴰ. ⴰⵃⴱⴰⵙ ⵏ ⵓⴽⴰⵍⴰ ⵏ ⵓⵙⴻⴽⵍⴻⵙ..."
+cd_multi_MSG17="ⴰⵙⴻⵔⵙⵉ ⵏ ⵜⵓⴳⵏⴰ ⵏ CD..."
+cd_multi_MSG18="ⴰⵎⴻⵏⵏⵓⵖ ⵏ CD ⵏ ⵡⴰⵟⴰⵙ ⵏ ⵜⵖⵉⵎⵉⵢⵉⵏ"
+
+# copia_cd_audio
+
+copia_cd_audio_MSG1="ⴰⵙⴻⴽⵛⴻⵎ ⵏ CD ⵏ ⵓⵙⵍⵉⴹ ..."
+copia_cd_audio_MSG2="ⵜⴰⵔⵡⴻⵍⴰ"
+copia_cd_audio_MSG3="ⵜⵉⵣⵍⴰⵜⵉⵏ ⵏ ⵓⵙⵍⵉⴹ ⵜⵜⵡⴰⵇⴻⵔⴹⴻⵏⵜ ⵙ ⵔⵔⴱⴻⵃ!!"
+copia_cd_audio_MSG4="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵛⴻⴳⴳⴻⵄ ⵏ ⵉⴹⵔⵉⵙⴻⵏ ⵏ ⵓⵙⵍⵉⴹ"
+copia_cd_audio_MSG5="ⴰⵙⴻⵔⵙⵉ ⵏ ⵓⵙⵍⵉⴹ ⵏ CD ..."
+# Resultado del traductor
+copia_cd_audio_MSG6="Audio CD ⵢⴻⵜⵜⵡⴰⵙⵏⵓⵍⴼⴰⵏ ⵙ ⵔⵔⴱⴻⵃ!!"
+
+# wav_a_cd
+
+wav_a_cd_MSG1=".wav ⵏ ⵉⴼⵓⵢⵍⴰ ⵉ ⵔⴰⴷ ⵉⵙⵙⵉⵔⵖⵏ ⵖⵔ CD"
+wav_a_cd_MSG2="ⵓⵔ ⴰⵔ ⵉⵙⵙⴻⴼⵔⴰⵢ Linux-cdgrab ⴰⵖⴻⵔⵔⴰⴱⵓ ⵏ ⵓⵎⴹⵉⵇ"
+wav_a_cd_MSG3="ⵙⵎⴽⴷ ⴱⴻⵍⵍⵉ ⴰⴼⴰⵢⵍⵓ ⴰⴷ ⵓⵔ ⵉⴳⴳⵓⵔ 650 ⵎⴱ ⴳ ⵡⴰⴷⴷⴰⴷ"
+wav_a_cd_MSG4="ⵎⴰ ⵜⵙⵎⵔⵙⵎⴷ ⵢⴰⵏ CD ⵏ 80 ⵏ ⵜⵓⵙⴷⵉⴷⵜ."
+wav_a_cd_MSG5="ⵙⴽⵛⵎ ⴰⴱⵔⵉⴷ ⵏ ⵓⵎⴹⵉⵇ ⵏ ⵉⴼⵓⵢⵍⴰ .wav"
+wav_a_cd_MSG6="ⵜⴰⵔⵡⴻⵍⴰ"
+wav_a_cd_MSG7="ⵢⴻⴽⴼⴰ ⵓⴽⴰⵍⴰ !"
+
+# cdmixto
+
+cdmixto_MSG1="ⴰⵙⵏⴼⴰⵔ ⵏ ⵓⵙⵏⴼⵍⵓⵍ ⵏ ⵛⴷ ⴰⵎⵔⴽⵡⵏ (ⵜⵡⵍⴰⴼⵜ ⵏ ⵉⵙⴼⴽⴰ .iso + ⵉⴼⵓⵢⵍⴰ ⵏ ⵓⵙⵍⵉⴹ .wav)"
+cdmixto_MSG2="Linux-cdgrab ⵓⵔ ⴰⵔ ⵉⵙⵙⴻⴼⵔⴰⵢ ⴰⵏⴻⵛⵜ ⵏ ⵓⵙⴻⴱⵜⴻⵔ"
+cdmixto_MSG3="ⵎⴰⵏⵉⴷⴰ ⵍⵍⴰⵏ ⵉⴼⵓⵢⵍⴰ ⵏ ⵓⵙⵍⵉⴳ."
+cdmixto_MSG4="ⵓⵔ ⵉⵅⴻⴷⴷⴻⵎ ⴰⵔⴰ ⴰⴽⴽⴰ ⵙⴻⴳ ⵜⵓⴳⵏⴰ . iso ⴰⵔⴰ ⵜⴻⵙⵔⴻⵖⴻⴹ ⵓⵍⴰ ⴷ ⵏⴻⵜⵜⴰ"
+cdmixto_MSG5="ⴷⴻⴼⴼⵉⵔ."
+cdmixto_MSG6="Ilik ⴷ ⴰⵎⵙⴰⵙⵉ ⵙ ⵍⵇⵉⵙ ⵏ ⵡⴰⵢⴻⵏ ⴰⴽⴽ ⴰⵔⴰ ⵜⴻⴷⴷⵓⴹ ⵢⵉⴷⵙ".
+cdmixto_MSG7="ⴰⴽⴽⴻⵏ ⴰⴷ ⵜⴻⵣⵣⵍⴻⴹ ⵖⴻⵔ ⵛⴷ ⵏⵏⴻⴽ ⴰⵎⴰⵢⵏⵓⵜ."
+cdmixto_MSG8="ⵙⵏⵓⵍ ⴰⴱⵔⵉⴷ ⵏ ⵉⴼⵓⵢⵍⴰ ⵉⵎⵙⵍⵉⵢⴻⵏ:"
+cdmixto_MSG9="ⵙⴽⵍ ⴰⴱⵔⵉⴷ ⵏ ⵜⵡⵍⴰⴼⵜ ⵏ iso:"
+cdmixto_MSG10="###################################"
+cdmixto_MSG11="ⴰⵙⴻⴽⵍⴻⵙ ⵏ CD ⵉⵅⵓⵍⴼⴻⵏ : ⵉⵙⴻⴼⴽⴰ + ⴰⵥⴰⵡⴰⵏ"
+cdmixto_MSG12="ⵜⴰⵔⵡⴻⵍⴰ"
+cdmixto_MSG13="----ⵢⴻⵜⵜⵡⴰⵅⵍⴻⵇⴷ CD ⵉⵅⵓⵍⴼⴻⵏ ⵙ ⵔⵔⴱⴻⵃ-----!!"
+cdmixto_MSG14="------ⵜⵓⵛⵛⴹⴰ ⵎⵉ ⴰⵔⴰ ⵜⴻⵙⵙⴻⵔⵖⴻⴹ CD ⵉⵅⵓⵍⴼⴻⵏ--------"
+
+# discoinfo
+
+discoinfo_MSG1="ⵜⴰⵔⵡⴻⵍⴰ"
+
+# cdrecord_scan
+
+cdrecord_scan_MSG0="ⴰⵙⴰⴳⴻⵏ IDE/SCSI ⴰⵙⴽⴰⵏ"
+cdrecord_scan_MSG1="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴽⴰⵏ ⵏ ⵓⵙⵎⴻⵍ IDE/SCSI"
+cdrecord_scan_MSG2="ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ cdrecord"

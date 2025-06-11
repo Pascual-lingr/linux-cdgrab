@@ -1,0 +1,235 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en Tamazight (Tifinagh) para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="ⴰⵏⴰⴳⵔⴰⵡ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵜⵓⴳⵏⴰ"
+imagen_linux_fs_MSG2="ⴼⵔⴻⵏ ⴰⵏⴰⴳⵔⴰⵡ ⵏ ⵢⵉⴼⴰⵢⵍⵓⵜⴻⵏ: "
+imagen_linux_fs_MSG3="ⵙⵏⵓⵍⴼⴰ ⵜⴰⵡⵍⴰⴼⵜ ⵉ ⵢⴰⵜ ⵛⴷⵔ/ⵔⵡ (702 ⵎⴱⵢⵜ)"
+imagen_linux_fs_MSG4="ⵙⵏⵓⵍⴼⴰ ⵜⴰⵡⵍⴰⴼⵜ ⵉ ⵢⴰⵜ ⴷⴼⴷ+ⵔⵡ (4 ⵏ ⴳⴱⵉⵜ)"
+imagen_linux_fs_MSG5="ⵙⵏⵓⵍⴼⴰ ⵜⴰⵡⵍⴰⴼⵜ ⵉ ⵢⴰⵜ ⴷⴼⴷ+ⵔⵡ/ⴷⵍ (8 ⵏ ⴳⴱⵢⵜ)"
+imagen_linux_fs_MSG5B="ⵙⵏⵓⵍⴼⴰ ⵜⴰⵡⵍⴰⴼⵜ ⵉ ⵢⴰⵜ ⴱⴷⵔ/ⵔⴻ (25 ⴳⴱⵉⵜ)"
+imagen_linux_fs_MSG5C="ⵙⵏⵓⵍⴼⴰⴷ ⴰⴼⴰⵢⵍⵓ ⵏ ⵜⵡⵍⴰⴼⵜ ⵙ ⵓⵖⴰⵡⴰⵙ ⵏ ⵓⴼⵓⵙ"
+imagen_linux_fs_MSG6="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵓⴼⴰⵢⵍⵓ ⵉⵍⴻⵎ ⵙ ⵜⵣⴻⵎⵎⴰⵔ ⵏ 702 ⵏ ⵎⴱⵉⵜ"
+imagen_linux_fs_MSG7="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵓⴼⴰⵢⵍⵓ ⵉⵍⴻⵎ ⵙ ⵜⵣⴻⵎⵎⴰⵔ ⵏ 4 ⵏ ⵢⵉⴳⵉⴱⵉⵜⴻⵏ"
+imagen_linux_fs_MSG8="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵓⴼⴰⵢⵍⵓ ⵉⵍⴻⵎ ⵙ ⵜⵣⴻⵎⵎⴰⵔ ⵏ 8 ⵏ ⵢⵉⴳⵉⴱⵉⵜⴻⵏ"
+imagen_linux_fs_MSG8B="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵓⴼⴰⵢⵍⵓ ⵉⴼⵍⵓⴳⵏ ⵙ ⵜⵣⵎⵎⴰⵔ ⵏ 25 ⴳⴱⵉⵜ"
+imagen_linux_fs_MSG8C="ⴰⵙⵏⴼⵍⵓⵍ ⵏ ⵓⴼⴰⵢⵍⵓ ⵉⴼⵍⴽⵏ ⵙ ⵓⵣⵖⴰⵔ ⴰⵎⵣⵡⴰⵔⵓ"
+imagen_linux_fs_MSG9="ⵜⵓⵛⵛⴹⴰ: ⵓⵔ ⵢⴻⵜⵜⵡⴰⵙⵙⴻⵏ ⴰⵔⴰ ⵍⵇⵉⵙ ⵏ ⵜⵓⴳⵏⴰ. ⴰⵖⴻⵍⵍⵓⵢ..."
+imagen_linux_fs_MSG10="ⵜⴰⵔⵡⴻⵍⴰ"
+imagen_linux_fs_MSG11="ⴰⵀⵉⵍ ⴰⴷ ⵉⵙⵏⵓⵍⴼⴰ ⴰⴼⴰⵢⵍⵓ ⵉⴼⵍⵓⴳⵏ."
+imagen_linux_fs_MSG12="ⴰⵏⴰⴳⵔⴰⵡ ⴰⴷ ⴰⴽ-ⵉⵏⴱⵔ ⵎⴰⵙ ⴰⴼⴰⵢⵍⵓ ⵉⵜⵜⵓⵙⵏⴼⵍⵏ ⴷⴰⵜ ⵓⵔ ⵉⴳⵉ ⵢⴰⵏ ⵓⵖⴰⵡⴰⵙ ⵏ ⵓⴱⴷⴷⵍ ⴷ ⵔⴰⴷ ⴰⴽ-ⴷ-ⵉⵙⵇⵙⴰ ⵎⴰ ⵜⵔⵉⴷ ⴰⴷ ⵜ-ⵜⵙⵏⴼⵍⵜ"
+imagen_linux_fs_MSG13="ⵜⵉⵔⵉⵔⵉⵜ ⵉⵀ"
+imagen_linux_fs_MSG13="ⵢⴻⵜⵜⵡⴰⵙⵏⵓⵍⴼⴰⴷ ⵙ ⵔⵔⴱⴻⵃ"
+imagen_linux_fs_MSG14="	ⴰⵙⴷⵓⴽⴽⴻⵍ ⵏ ⵜⵓⴳⵏⴰ . . ."
+imagen_linux_fs_MSG15="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴻⵖⵥⴰⵏ ⵏ ⵓⴼⴰⵢⵍⵓ ⴷ ⴰⵍⴻⵎⵎⴰⵙ."
+imagen_linux_fs_MSG16="ⴰⵀⵉⵍ ⵉⵙⵔⵙ ⴰⴼⴰⵢⵍⵓ ⵉⵜⵜⵓⵙⵏⴰⵏ ⴳ"
+imagen_linux_fs_MSG17="Linux-cdgrab ⴰⴷ ⵢⴻⵔⵥⴻⵎ ⴰⵙⵎⵀⴰⵍ ⵏ ⵢⵉⴼⴰⵢⵍⵓⵜⴻⵏ ⴰⴼⴰⴷ ⴰⴷ ⵉⵣⵎⵔ ⴰⴷ ⵉⵙⵡⵓⵔⵉ ⵖⴼ ⵜⵓⴳⵏⴰ ⵉⵖⴻⴼ ⵢⵔⵏⵙ"
+imagen_linux_fs_MSG18="ⴰⴽⴽⵏ ⴰⴷ ⵜⵜⵡⴰⵙⵏⵓⵍⴼⵏ ⵉⴼⵓⵢⵍⴰ, ⵙⴽⵔ ⴰⴼⴰⵢⵍⵓ ⵉⵜⵜⵓⵙⵏⴽⵏⵏ"
+imagen_linux_fs_MSG19="ⵜⵍⵍⴰ ⵜⵡⵍⴰⴼⵜ ⵏ ⵍⵉⵏⵓⵅ ⴳ ⵓⵏⵎⴹⴰⵍ ⴰⴷ"
+imagen_linux_fs_MSG19B="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵔⴰⵙ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵜⵓⴳⵏⴰ."
+imagen_linux_fs_MSG20="ⵉⴼⵓⵢⵍⴰ ⴰⵔⴰ ⴷⵢⴻⵙⵎⴻⴽⵜⵉⵏ ⴷⴻⴳ ⵜⵓⴳⵏⴰ. ⵢⴻⵜⵜⵡⴰⵙⵙⴻⵔⵙ ⵖⴻⴼ /mnt/lcdgrab"
+imagen_linux_fs_MSG21="ⴰⵙⴻⴽⵛⴻⵎ ⵏ ⵓⵏⴻⵎⵀⴰⵍ ⵏ ⵓⴼⴰⵢⵍⵓ..."
+imagen_linux_fs_MSG22="ⴰⵄⴻⵢⵢⴻⵏ:"
+imagen_linux_fs_MSG23="-------"
+imagen_linux_fs_MSG24="ⵜⵓⴳⵏⴰⵏⵏⵉ"
+imagen_linux_fs_MSG25="ⵎⴰⵣⴰⵍ ⵢⴻⵜⵜⵡⴰⵔⴽⴻⴱ"
+imagen_linux_fs_MSG26="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵏⵓⵍⴼⵓ ⵏ ⵓⴼⴰⵢⵍⵓ ⴷ ⵉⵍⴻⵎ ⵙ dd"
+imagen_linux_fs_MSG27="ⵙⴻⴼⵇⴻⴷ ⵎⴰ ⵢⴻⵍⵍⴰ ⵜⴻⵙⵄⵉⴹ ⴰⵎⴹⵉⵇ ⵉⵍⴻⵍⵍⵉ ⴷⴻⴳ ⵜⴼⴻⵔⴽⵉⵜ ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷⴻⵏ ⵖⴻⴼ /"
+imagen_linux_fs_MSG34="ⴰⵏⴰⴳⵔⴰⵡ ⵏ ⵓⴼⴰⵢⵍⵓ ⵉ ⵜⴰⵍⵖⴰ ⵏ ⵓⴼⴰⵢⵍⵓ"
+imagen_linux_fs_MSG35="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵓⴼⴰⵢⵍⵓ ⴷ ⵉⵍⴻⵎ ⵙ ⵍⵇⵉⵙ ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷⴻⵏ"
+imagen_linux_fs_MSG36="ⵙⴽⴻⵏⴷ ⵜⴰⵊⵓⵎⵎⴰ ⵏ ⵓⵃⵔⵉⵛ ⵏ ⵓⴼⴰⵢⵍⵓ ⴰⵎⴰⵢⵏⵓⵜ ⴷ ⴰⵍⴻⵎⵎⴰⵙ (ⴰⵣⴰⵍ ⵏ ⵓⵎⴹⴰⵏ ⴽⴰⵏ):"
+imagen_linux_fs_MSG37="ⴰⵎⴷⵢⴰ ⵏ ⵡⴰⵣⴰⵍⴻⵏ ⵉ ⵓⴱⵔⵉⴷ ⵏ ⵓⴱⵍⵓⴳ ⴳⴰⵏ: 1024, 2048 (ext2 ⴽⴰⵏ) ⵏⵖ 4096 (ⴰⴽⴽ ⵉⵡⵓⴷⴰⵎ)"
+imagen_linux_fs_MSG38="ⵙⵏⵓⵍ ⴰⵏⴻⵛⵜ ⵏ ⵓⴼⴰⵢⵍⵓ ⴰⵡⵔⵎ ⵉ ⵔⴰⴷ ⵉⵙⵏⴼⵍⵏ (ⴰⵍⴰ ⴰⵣⴰⵍ ⴰⵎⴹⴰⵏ):"
+imagen_linux_fs_MSG39="ⵉⵙⴽⴰⵎⵏ ⵏ ⵓⵙⴰⵢⵔⴰⵔ ⴰⴼⴰⴷ ⴰⴷ ⵏⵙⴼⵍⴽ ⴰⴼⴰⵢⵍⵓ ⵉⴼⵍⴳⵏ:"
+imagen_linux_fs_MSG40="ⵙⵏⵓⵍ ⴰⵙⴻⴽⵍⵓ ⵏ ⵜⴰⵍⵍⵓⵏⵜ ⴰⵔⴰ ⵜⴻⵙⵇⴻⴷⵛⴻⴹ: "
+imagen_linux_fs_MSG41="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴻⴱⴷⴻⴷ ⵏ ⵍⵇⵉⵙ ⵏ ⵜⴰⵊⵓⵎⵎⴰ"
+imagen_linux_fs_MSG42="ⴰⵣⴰⵍ ⵏ ⵓⵖⵔⵓⵎ ⵏ ⵓⵃⵔⵉⵛ:"
+imagen_linux_fs_MSG43="ⴰⵣⴰⵍ ⵏ ⵓⵙⵖⴰⵔ ⵉ ⵓⴼⴰⵢⵍⵓ ⵉⴼⵍⴽⵏ:"
+imagen_linux_fs_MSG44="ⴰⵣⴰⵍ ⵢⴻⵜⵜⵡⴰⵃⴻⵙⴱⴻⵏ ⵙ ⵢⵉⴱⵉⵜⴻⵏ:"
+imagen_linux_fs_MSG45="ⴰⵣⴰⵍ ⵢⴻⵜⵜⵡⴰⵃⴻⵙⴱⴻⵏ ⵉ ⵓⵙⵉⴹⵏ:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1="ⵙⵎⵖⵔ ⵜⴰⵖⵓⵔⵉ ⵏ md5 ⵎⵉ ⴰⵔⴰ ⴷⵜⵙⵏⵓⵍⴼⴻⴹ ⵜⵉⵡⵍⴰⴼⵉⵏ .iso"
+comprobar_lectura_md5_MSG2="ⵙⵎⴽⴻⵍ ⵜⴰⵖⵓⵔⵉ ⵏ ⵎⴷ5 ⵎⵉ ⴰⵔⴰ ⴷⵜⴻⵙⵙⵓⴼⵖⴻⴹ ⵜⵉⵡⵍⴰⴼⵉⵏ .iso"
+comprobar_lectura_md5_MSG3="ⴰⵎⵓⵖ ⴰⵇⴱⵓⵔ"
+comprobar_lectura_md5_MSG4="ⴰⵙⴻⴱⴷⴻⴷ ⵏ ⵜⵓⵔⴰ:"
+comprobar_lectura_md5_MSG5="ⵢⴻⵜⵜⵡⴰⵙⴻⵇⴷⴻⵛ"
+comprobar_lectura_md5_MSG6="Ur ⵢⴻⵜⵜⵡⴰⵄⵣⴻⵍ"
+comprobar_lectura_md5_MSG7="ⵖⴻⵔ md5 ⵙⵙⵓⵎⴰ ⵢⴻⵜⵜⵡⴰⵙⵇⴻⴷⵛⴻⵏ"
+comprobar_lectura_md5_MSG8="ⵖⴻⵔ md5 ⵏ ⵜⵎⴻⵔⵏⴰ ⵓⵔ ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷ ⴰⵔⴰ"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="ⵉⵙⵎ ⵏ ⵜⵡⵍⴰⴼⵜ ⵏ ⵉⵙⵓ ⵓⵔ ⵉⵥⴹⴰⵕ ⴰⴷ ⵉⵜⵜⵖⵔⴰ"
+leer_md5sum_MSG2="ⵜⴰⵖⵔⵉ ⵏ ⵎⴷ5sum ⵏ"
+leer_md5sum_MSG3="ⵉⵙⴽⴰⵏ ⵏ ⵓⴳⵔⴰⵡ md5 ⵏ ⵜⵡⵍⴰⴼⵜ"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵜⵓⴳⵏⴰ ⵏ CD"
+extraer_isoCD_dd_MSG2="ⵜⵓⴳⵏⴰ ⵜⴻⵜⵜⵡⴰⵅⵍⴻⵇⴷ ⴷⴻⴳ"
+extraer_isoCD_dd_MSG3="ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵜⵓⴳⵏⴰ ⵏ DVD"
+extraer_isoDVD_dd_MSG2="ⵜⴰⵔⵡⴻⵍⴰ"
+extraer_isoDVD_dd_MSG3="ⵜⵓⴳⵏⴰ ⵜⴻⵜⵜⵡⴰⵅⵍⴻⵇⴷ ⴷⴻⴳ"
+extraer_isoDVD_dd_MSG4="ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="ⵢⴻⵜⵜⴽⴻⵎⵎⵉⵍ"
+extraer_iso_readcd_MSG2="ⵜⵓⴳⵏⴰ ⵜⴻⵜⵜⵡⴰⵅⵍⴻⵇⴷ ⵙ ⵔⵔⴱⴻⵃ."
+extraer_iso_readcd_MSG3="ⵜⵓⴳⵏⴰ ⵉⵜⵜⵓⵙⵏⴼⵍⵏ ⴷⴳ"
+extraer_iso_readcd_MSG4="ⴰⵃⴱⴰⵙ ⵏ ⵓⴽⴰⵍⴰ ⵏ ⵓⵙⴻⴽⵍⴻⵙ..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="CD ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷⴻⵏ"
+extraer_iso_mkisofs_MSG2="ⵙⵏⵓⵍⴼⵓⴷ ⵜⵓⴳⵏⴰ... "
+extraer_iso_mkisofs_MSG3="ⴰⵎⵙⴰⵙⴰ ⵏ ⵎⴰⴽⵉⵏⵜⵓⵛ ⵢⵜⵜⵡⴰⵙⴽⵛⵎ"
+extraer_iso_mkisofs_MSG4="ⵍⴻⴱⵙⴰ"
+extraer_iso_mkisofs_MSG5="ⵢⴻⵜⵜⴽⴻⵎⵎⵉⵍ"
+extraer_iso_mkisofs_MSG6="ⵜⵡⵍⴰⴼⵜ ⵉⵜⵜⵓⵙⵏⴼⵍⵏ ⴳ ⵓⵏⵎⵍⵉⵍ"
+extraer_iso_mkisofs_MSG7="ⴰⵄⴰⵡⴻⴷ ⵏ ⵓⵄⵔⴰⴹ ⵏ ⵓⵙⴰⴽⴰ ⴱⵍⴰ ⴰⵙⵏⴰⵍ ⵏ ⵎⴰⴽⵉⵏⵜⵓⵛ"
+extraer_iso_mkisofs_MSG8="ⵜⵡⵍⴰⴼⵜ ⵉⵜⵜⵓⵙⵏⴼⵍⵏ ⴳ ⵓⵏⴼⴰⵍ"
+extraer_iso_mkisofs_MSG9="ⴰⵔⵔⴰ mkisofs ⵜⵉⴳⴳⵉⵡⵉⵏ ⵓⵔ ⵢⴻⵜⵜⵡⴰⵙⵙⵏⴻⵏ ⵎⵉ ⴰⵔⴰ ⵉⵙⵏⴼⵍⵓⵍ"
+extraer_iso_mkisofs_MSG10="ⵙⴻⴳ"
+extraer_iso_mkisofs_MSG11="ⵙⴼⵇⴷ ⵜⴰⵣⴷⵎⵜ ⵏ ⵉⵙⴼⴽⴰ"
+extraer_iso_mkisofs_MSG12="ⵔⴽⴻⴱ"
+extraer_iso_mkisofs_MSG12B="ⴰⵎ"
+extraer_iso_mkisofs_MSG13="ⵜⴰⵔⵔⴰ ⵜⴰⵡⵍⴰⴼⵜ ⵏ ⴳⴻⵏⵉⵙⵓ ⵜⵓⴳⴳⵉⵡⵉⵏ ⵓⵔ ⵉⵜⵜⵢⴰⵙⵙⴰⵏⵏ ⵎⵉ ⴰⵔⴰ ⵜⵙⵏⴼⵍⵓⵍ"
+extraer_iso_mkisofs_MSG13B="ⵙⴻⴳ"
+extraer_iso_mkisofs_MSG14="ⵓⵔ ⵜⵜⵡⴰⴼⴽⴰⵏ ⴰⵔⴰ Mkisofs ⴷ genisoimage. ⵜⵜⵅⵉⵍⴽ ⵙⴱⴻⴷⴷ cdrtools ⵏⴻⵖ cdrkit."
+extraer_iso_mkisofs_MSG15="ⵓⵔ ⵉⵣⵎⵉⵔ ⴰⴷ ⵢⴻⵜⵜⵡⴰⵔⵣⵓ"
+extraer_iso_mkisofs_MSG16="ⵜⴰⵡⵍⴰⴼⵜ ⵉⵜⵜⵓⵙⵏⴼⵍⵏ ⵙ ⵓⵎⵓⵔⵙ ⴳ"
+
+# m_comp_img
+
+m_comp_img_MSG1="ⵜⵓⴳⵏⴰ ⵜⴻⵜⵜⵡⴰⵙⵏⵓⵍⴼⴰⴷ ⵙ ⵔⵔⴱⴻⵃ ⴷⴻⴳ"
+m_comp_img_MSG2="ⵜⴻⴱⵖⵉⴹ ⴰⴷ ⵜⴻⵙⵙⴻⵎⵖⴻⵔⴻⴹ ⴰⴼⴰⵢⵍⵓ ⵏ ⵜⵓⴳⵏⴰ?"
+m_comp_img_MSG3="(s/y) ⴰⴷ ⵜⵉⴷⵜⴻⵙⵙⴻⵎⵖⴻⵔ; ⴰⴽⴰⵍⴰ ⵏ ⵓⵙⵏⴻⴼⵍⵉ ⵢⴻⵜⵜⵡⴰⴱⵟⴻⵍ ⵙ ⵜⴼⴻⵔⵏⵉⵜ ⵏⵏⵉⴹⴻⵏ."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="ⴰⵙⴻⴽⵛⴻⵎ ⵏ ⵓⵏⴻⵎⵀⴰⵍ ⵏ ⵓⴼⴰⵢⵍⵓ..."
+generar_iso_directorio_MSG2="ⵙⴽⴻⵛⵎ ⵉⵙⴻⵎ ⵉ CD/DVD/BD ⵏ ⵓⵣⴻⴽⴽⴰ"
+generar_iso_directorio_MSG3="ⵙⵏⵓⵍⴼⵓⴷ ⵜⵓⴳⵏⴰ ..."
+generar_iso_directorio_MSG4="ⵜⴰⵙⴻⵎⵍⵉⵍⵜ ⵏ Macintosh ⵜⴻⵜⵜⵡⴰⴽⴽⴻⵙ"
+generar_iso_directorio_MSG5="ⵍⴻⴱⵙⴰ"
+generar_iso_directorio_MSG6="ⵜⴰⵔⵡⴻⵍⴰ"
+generar_iso_directorio_MSG7="ⵜⵓⴳⵏⴰ ⵜⴻⵜⵜⵡⴰⵅⵍⴻⵇ ⴷⴻⴳ ⵓⴹⵔⵉⵙ"
+generar_iso_directorio_MSG8="ⴰⴽⴰⵍⴰ ⵏ ⵓⵙⵏⵓⵍⴼⵓ ⵏ ⵜⵓⴳⵏⴰ ⵓⵔ ⵢⴻⵣⵎⵉⵔ ⴰⵔⴰ."
+generar_iso_directorio_MSG9="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵜⵓⴳⵏⴰ ⵏⴻⴱⵍⴰ ⴰⵎⵙⴰⵙⵉ ⵏ MACINTOSH"
+generar_iso_directorio_MSG10="ⵓⵔ ⵏⴻⵣⵎⵉⵔ ⴰⵔⴰ ⴰⴷ ⵏⴰⴼ ⵍⴰ mkisofs ⵍⴰ genisoimage. ⵙⴱⴻⴷⴷ ⵛⴷⵔⵜⵓⵍⵙ ⵏⴻⵖ ⵛⴷⵔⴽⵉⵜ."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="ⵙⵙⴻⴽⵛⴻⵎ ⵉⵙⴻⵎ ⵉ DVD/BD ⴰⵔⴰ ⴷⵢⴰⵙⴻⵏ"
+# Resultado del traductor
+generar_bdv_udf_directorio_MSG2="ⵙⴽⴻⵏⴷ ⴰⴹⵔⵉⵙ ⵉ ⵡⴰⴽⴽⴻⵏ ⴰⴷ ⴷⵜⴻⵙⵏⵓⵍⴼⵓⴹ ⵜⵓⴳⵏⴰ ⵏ vidyu:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="ⵙⴽⴻⵏⴷ ⴰⵙⴻⴽⴽⵉⵍ ⵏ ⵓⴹⴻⴱⵙⵉ:"
+generar_iso_directorio_libburnia_MSG2="ⵙⵏⵓⵍⴼⴰⴷ ⵜⴰⵙⵖⵓⵏⵜ ⴰⵔⴰ ⴷⵢⴻⵙⵏⵓⵍⴼⵓⵏ ⵜⵓⴳⵏⴰ ⵏ iso9660:"
+generar_iso_directorio_libburnia_MSG3="ⵜⵓⴳⵏⴰ ⵏ iso9660 ⵜⴻⵜⵜⵡⴰⵅⵍⴻⵇⴷ ⵙ ⵔⵔⴱⴻⵃ"
+generar_iso_directorio_libburnia_MSG4="ⴰⵣⴳⴰⵍ ⵎⵉ ⴰⵔⴰ ⴷⵏⵙⵏⵓⵍⴼⵓ ⵜⴰⵡⵍⴰⴼⵜ ⵉⵙⵓ-9660 ⵙ xorriso"
+
+# imagenISO
+
+imagenISO_MSG1="ⵉⴼⵓⵢⵍⴰ ⴷ ⵢⵉⴹⵔⵉⵙⴻⵏ ⴰⵔⴰ ⴷⵢⴻⵙⵎⴻⴽⵜⵉⵏ ⴷⴻⴳ ⵜⵓⴳⵏⴰ .iso"
+imagenISO_MSG2="ⴼⵔⴻⵏ ⵢⵉⵡⴻⵏ ⵏ ⵓⴹⵔⵉⵙ"
+imagenISO_MSG2B="----------------"
+imagenISO_MSG3="ⵙⵏⵓⵍⴼⴰ ⵜⴰⵡⵍⴰⴼⵜ ⵏ ISO-9660 ⵙⴳ ⵙⵉⴷ (ⵙⵎⵔⵙ dd)"
+imagenISO_MSG4="ⵙⵏⵓⵍⴼⴰ ⵜⴰⵡⵍⴰⴼⵜ ⵏ ISO-9660 ⵙⴳ ⴹⴹⴱⵉⵔ (ⵙⵎⵔⵙ dd)"
+imagenISO_MSG5="ⵙⵏⵓⵍⴼⴰ ⵜⴰⵡⵍⴰⴼⵜ ⵏ ISO-9660 ⵙⴳ ⵙⵉⴷ (ⵙⵎⵔⵙ readcd)"
+imagenISO_MSG6="ⵙⵏⴼⵍⵓⵍ ⵜⴰⵡⵍⴰⴼⵜ ⵏ ISO-9660 ⵙⴳ ⵓⴹⴱⵉⴱ ⵏ ⵙⵉⴷ ⵏⵖ ⴷ ⴹⵉⴼⴷ (ⵙⵎⵔⵙ ⵏ mkisofs)"
+imagenISO_MSG7="ⵙⵏⵓⵍⴼⴰⴷ ⵜⴰⵡⵍⴰⴼⵜ ⵏ ISO-9660 ⵙⴳ ⵉⵙⴼⴽⴰ ⵏ ⵓⴹⴱⵉⴱ ⴰⵥⵉⴹⴰⵏ (ⵙⵎⵔⵙ ⵏ mkisofs)"
+imagenISO_MSG8="ⴰⵎⵏⴰⵡ ⵉⵣⵡⴰⵔⵏ"
+imagenISO_MSG9="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵜⵓⴳⵏⴰ"
+imagenISO_MSG10="ⵙⵏⵓⵍⴼⴰⴷ ⵜⴰⵡⵍⴰⴼⵜ ⵏ ISO-9660 ⵙⴳ ⵉⵙⴼⴽⴰ ⵏ ⵓⴹⴱⵉⴱ ⴰⵥⵉⴹⴰⵏ (ⵙⵎⵔⵙ xorriso)"
+imagenISO_MSG11="ⵙⵏⵓⵍⴼⴰⴷ ⵜⴰⵡⵍⴰⴼⵜ ⵉⵙⵓ/ⵓⴷⴼ ⵙⴳ ⵢⴰⵜ ⵜⵡⵍⵍⴰⴼⵜ/ⴷⴼ/ⴷⴼ/ⴱⴷ (ⵙⵎⵔⵙ ⵏ mkisofs)"
+imagenISO_MSG12="ⵙⵏⵓⵍⴼⴰⴷ ⵜⴰⵡⵍⴰⴼⵜ ⵉⵙⵓ/ⵓⴷⴼ ⵙⴳ ⵉⵙⴼⴽⴰ ⵏ ⵓⴹⴱⵉⴱ ⴰⵥⵉⴹⴰⵏ (ⵙⵎⵔⵙ ⵏ mkisofs)"
+# Resultado del traductor
+imagenISO_MSG13="ISO9660 ⴰⵎⴻⵏⵏⵓⵖ ⵏ Uselkim"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="ⵙⵏⵓⵍⴼⴰⴷ ⵜⴰⵡⵍⴰⴼⵜ ⵏ UDF/ISO ⵙⴳ ⵉⵙⴼⴽⴰ ⵏ ⵓⴹⴱⵉⴱ ⴰⵥⵉⴹⴰⵏ (ⵙⵎⵔⵙ ⵏ mkisofs)"
+imagenISO_MSG15="ⵙⵏⵓⵍⴼⴰⴷ ⵜⴰⵡⵍⴰⴼⵜ ⵏ UDF/ISO ⵙ ⵜⴰⵍⵍⴰⵍⵜ ⵏ ⴼⵉⴷⵢⵓ ⵏ DVD (ⵙⵎⵔⵙ ⵏ mkisofs)"
+
+# imagen_img
+
+imagen_img_MSG1="ⴰⵔⵓⴷ ⴰⵙⴻⵍⴽⵉⵎ ⵏ ⵓⵃⵔⵉⵛ ⵏ ⵓⵖⴱⴰⵍⵓ ⵙⴻⴳⵙ ⴰⵔⴰ ⴷⵜⴻⵜⵜⵡⴰⵅⴷⴻⵎ ⵜⵓⴳⵏⴰ"
+imagen_img_MSG2="-------------------------------------------------"
+imagen_img_MSG3="ⵉⵙⵏⴼⴰⵍⵏ ⵉⵜⵜⵓⵣⵎⵎⴻⵎⵏ ⴳ /ⴰⵜⴳ/ⴼⵙⵜⴰⴱ ⴷ /ⴰⵜⴳ/ⵎⵜⴰⴱ"
+imagen_img_MSG4="Asekcem ⵏ ⵓⵎⵢⴰⴳⴻⵔ ⵏ ⵓⴷⵔⴰⵔ:"
+imagen_img_MSG5="ⵙⴽⵛⵎ ⵉⵙⵎ ⵏ ⵓⵖⴰⵡⴰⵙ: "
+imagen_img_MSG6="ⴰⵙⵏⴼⵍⵓⵍ ⵏ ⵜⵡⵍⴰⴼⵜ .ⵉⵎⴳ ⵏ ⵡⴰⵍⵍⴰⵍ ⵏ ⵓⴱⴷⵍⴹ"
+imagen_img_MSG7="ⵜⴻⵜⵜⴽⴻⵎⵎⵉⵍ"
+imagen_img_MSG8="ⵜⵓⴳⵏⴰ ⵏ ⵡⴰⵍⵍⴰⵍ ⵜⴻⵜⵜⵡⴰⵅⵍⴻⵇⴷ ⴷⴻⴳ"
+
+# monta_img
+monta_img_MSG1="ⵜⴰⵡⵍⴰⴼⵜ ISO ⵏⵖⴷ ⴻⵅⵜ2 ⵉ ⵡⵙⵎⴰⵍ."
+monta_img_MSG2="ⴰⵔⵓ ⴷⴻⴳ ⵓⴱⵔⵉⴷ ⵏ ⵓⵙⴻⴱⵜⴻⵔ ⴰⵏⴷⴰ ⵜⴻⵍⵍⴰ ⵜⵓⴳⵏⴰ ⵉ ⵔⴰⴷ ⵜⴻⵜⵜⵡⴰⵙⴻⵔⵙ:"
+monta_img_MSG3="ⵜⵓⴳⵏⴰ ⵏ CD ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷⴻⵏ:"
+monta_img_MSG4="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴻⵔⵙⵉ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵜⵓⴳⵏⴰ"
+monta_img_MSG5="ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ"
+monta_img_MSG6="ⵜⴰⵏⵇⵉⴹⵜ ⵏ ⵓⴷⵔⴰⵔ ⵓⵔ ⵜⴻⵍⵍⵉ ⴰⵔⴰ"
+monta_img_MSG7="ⵜⵓⵛⵛⴹⴰ ⵓⵔ ⵏⴻⵜⵜⵡⴰⵕⴵⴰ"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO ⵏⴻⵖ ext2 ⵜⵓⴳⵏⴰ ⴰⵔⴰ ⵢⴻⵜⵜⵡⴰⵙⴼⴻⴹⴻⵏ."
+desmonta_img_MSG2="ⵜⵓⴳⵏⴰ ⵢⴻⵜⵜⵡⴰⴼⵙⴻⵔⴻⵏ"
+desmonta_img_MSG3="ⵓⵔ ⵜⵓⴼⵉ ⵜⴰⵡⵍⴰⴼⵜ ⵉⵙⵙⵔⵙⵏ"
+desmonta_img_MSG4="ⵜⵓⴼⴼⵖⴰ ⵏ ⵓⴷⵔⴰⵔ"
+desmonta_img_MSG5="ⵜⵣⴻⵎⵔⴻⴷ ⴰⴷ ⵜⵙⵏⵉⵍⴻⴷ ⴰⴱⵔⵉⴷ ⵏ ⵓⵙⴻⴱⵜⴻⵔ ⵏ ⵜⵡⵍⴰⴼⵜ ⵙⵔⵉⴷ."
+desmonta_img_MSG6="ⵣⵓⵏⴷ /tmp/lcdgrabimg.iso ⵏⵖ ⴰⵏⵎⵍⴰⵍ ⵏ ⵓⵙⵔⵙ ⵏ ⵜⵡⵍⴰⴼⵜ ⵣⵓⵏⴷ /mnt/lcdgrab"
+desmonta_img_MSG7="ⵎⴰⵍⴰ ⵓⵔ ⵉⵜⵜⵓⵙⴽⴰⵔ, ⵉⵥⴹⴰⵕ ⴰⴷ ⵉⵜⵜⵔⵣⵣⵓ ⵙ ⵓⵙⵎⵔⵙ ⵏ ⵓⵙⵏⴼⵍ ⵏ ⵓⴼⴰⵢⵍⵓ".
+desmonta_img_MSG8="ⴰⴱⴷⵓ ⵏ ⵓⵙⵏⴼⵍ ⵏ ⵓⴼⴰⵢⵍⵓ"
+desmonta_img_MSG9="ⵙⵏⵓⵍ ⴰⴱⵔⵉⴷ ⵏ ⵜⵡⵍⴰⴼⵜ."
+desmonta_img_MSG10="ⵜⵓⴳⵏⴰ ⵢⴻⵜⵜⵡⴰⴼⵙⴻⵔⴻⵏ"
+desmonta_img_MSG11="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵜⵓⴽⴽⵙⴰ ⵏ ⵜⵓⴳⵏⴰ"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".nrg ⵜⴰⵡⵍⴰⴼⵜ ⵉ ⵓⵙⵏⴼⵍ ⵙ .iso"
+nrg_a_iso_MSG2="ⵙⴽⵛⵎ ⴰⴱⵔⵉⴷ ⵏ ⵜⵡⵍⴰⴼⵜ .nrg (ⵏⵉⵔⵓ ⴱⵓⵔⵏⵉⵏⴳ ⵔⵓⵎ) ⵔⴰⴷ ⵜⵙⵏⴼⵍⵜ"
+nrg_a_iso_MSG3="ⴰⵙⵏⴼⵍ ⵏ ⵜⵡⵍⴰⴼⵜ..."
+nrg_a_iso_MSG4="ⴰⴱⵔⵉⴷ ⵏ ⵜⵡⵍⴰⴼⵜ .nrg ⵏ ⵓⵖⴱⴰⵍⵓ"
+nrg_a_iso_MSG5="ⵓⵔ ⵉⵍⵍⵉ ⵏⵖ ⵉⵜⵜⵎⵙⴰⵙⴰⵏ ⴷ ⵢⴰⵜ ⵜⵡⵓⵔⵉ"
+nrg_a_iso_MSG6="ⴰⴱⵔⵉⴷ ⵓⵔ ⵉⴱⵓⵖⵍⴰⵏ."
+nrg_a_iso_MSG7="ⵜⴳⴰ ⵢⴰⴳⵉ ⵢⴰⵜ ⵜⵡⵍⴰⴼⵜ ISO-9660 ⵉⵣⵡⴰⵔⵏ, ⵓⵔ ⵜⴻⵜⵜⵡⴰⵙⵏⴼⵍⵓⵍ."
+nrg_a_iso_MSG8="ⴰⵙⵏⵓⵍⴼ ⵙ ⵓⵙⵖⵣⴼ ⵉⵎⵣⴰⵔⴰⵢⵏ..."
+nrg_a_iso_MSG9="ⵜⴽⴻⵎⵎⴻⵍ ⵜⵓⵍⵍⵉⵙⵜ"
+nrg_a_iso_MSG10="ⵉⵜⴻⴷⴷⵓ"
+nrg_a_iso_MSG11="ⵜⵡⵓⴳⵍⴰ ⵜⴰⵡⵍⴰⴼⵜ ⵙ ⵓⵎⵓⵔⵙ"
+nrg_a_iso_MSG12="ⵜⵓⵛⵛⴹⴰ ⵎⵉ ⴰⵔⴰ ⴷ-ⵜⴻⵙⵏⵓⵍⴼⵓⴹ TUGNA .iso"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1="ⵙⵏⵓⵍⴼⴰⴷ ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⵙⵏⵎⵍ ⵏ .ⵛⵓⴻ ⵙⴳ ⵜⵡⵍⴰⴼⵜ ⵏ .ⴱⵉⵏ"
+GenerarArchivocue_MSG2="ⴰⴹⵔⵉⵙ ⴰⵙⴻⵔⵜⴰⵏ ⵏ ⵜⵓⵔⴰ"
+GenerarArchivocue_MSG3="ⴰⵔⴰ ⴽⴰⵏ ⴰⴱⵔⵉⴷ ⵏ ⵓⵎⴹⵉⵇ ⴰⵏⴷⴰ ⵢⴻⵍⵍⴰ"
+GenerarArchivocue_MSG4="ⴰⴼⴷ ⴰⴼⴰⵢⵍⵓ ⵏ ⵜⵡⵍⴰⴼⵜ:"
+GenerarArchivocue_MSG5="ⵙⴽⵛⵎ ⵉⵙⵎ ⵏ ⵜⵡⵍⴰⴼⵜ ⵏ .ⴱⵉⵏ ⵉ ⵡⵓⵎⵉ"
+GenerarArchivocue_MSG6="ⵉⵙⵏⵓⵍⴼⴰⴷ ⴰⴼⴰⵢⵍⵓ ⵏⵏⵙ .ⵛⵓⴻ ⵉⵎⵙⴰⵙⴰⵏ"
+GenerarArchivocue_MSG7="ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⵙⴻⴼⵀⴻⵎ .ⵛⵓⴻ ⵢⴻⵜⵜⵡⴰⵙⵏⵓⵍⴼⴰⴷ ⵙ ⵔⵔⴱⴻⵃ"
+GenerarArchivocue_MSG8="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵏⵓⵍⴼⵓ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵓⵙⴻⴼⵀⴻⵎ .ⵛⵓⴻ"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="ⵜⴰⵔⵡⴻⵍⴰ"
+ImagenbincueCDDVD_MSG2=".ⴱⵉⵏ .ⵛⵓⴻ ⵜⵓⴳⵏⴰ ⵏ ⵓⴹⵔⵉⵙ ⵜⴻⵜⵜⵡⴰⵙⵏⵓⵍⴼⴰⴷ ⵙ ⵔⵔⴱⴻⵃ"
+

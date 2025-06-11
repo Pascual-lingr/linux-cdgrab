@@ -1,0 +1,48 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazigtTifinagh/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Tamazight (Tifinagh) para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ⵜⵓⴳⵏⴰ ISO-9660 ⵜⴻⵜⵜⵡⴰⵙⴻⴽⵍⴻⵙ ⵙ ⵔⵔⴱⴻⵃ ⴷⴻⴳ BLURAY"
+grabar_ISO_BD_MSG2="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴻⴽⵍⴻⵙ ⵏ ⵜⵓⴳⵏⴰ ⴷⴻⴳ BLU-RAY DISC"
+grabar_ISO_BD_MSG3="ⵜⵓⴳⵏⴰ ISO9660 ⴷⴻⴳ BD"
+grabar_ISO_BD_MSG4="ⵙⴽⴻⵏⴷ ⴰⴱⵔⵉⴷ ⵖⴻⵔ ⵜⵓⴳⵏⴰ ⵏ iso-9660 ⴰⵔⴰ ⵢⴻⵜⵜⵡⴰⵙⵔⴻⵖⴻⵏ:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1="ⵉⴼⵓⵢⵍⴰ ⴷ ⵢⵉⴹⵔⵉⵙⴻⵏ ⵉ ⵓⵙⵏⵓⵍⴼⵓ ⵏ ⵜⵓⴳⵏⴰ .iso"
+bd_datos_MSG2="ⵜⴰⵙⴻⴽⴽⵉⵔⵜ BD"
+bd_datos_MSG3="ⵙⵙⴻⴽⵛⴻⵎ ⵉⵙⴻⵎ ⵉ DB ⵏ ⵓⵣⴻⴽⴽⴰ:"
+bd_datos_MSG4="ⴰⵙⴻⴽⵛⴻⵎ ⵏ ⵓⵏⴻⵎⵀⴰⵍ ⵏ ⵓⴼⴰⵢⵍⵓ:"
+bd_datos_MSG5="	ⵙⵏⵓⵍⴼⵓⴷ ⵜⵓⴳⵏⴰ . . ."
+bd_datos_MSG6="ⵜⵜⴰⵣⵍⴰ"
+bd_datos_MSG7="ⵜⵓⴳⵏⴰ ISO-9660 ⵜⴻⵜⵜⵡⴰⵙⵏⵓⵍⴼⴰⴷ ⴷⴻⴳ"
+bd_datos_MSG8="		ⴰⵙⴻⴽⵍⴻⵙ BD"
+bd_datos_MSG13="ⵜⵓⴽⴽⵙⴰ ⵏ ⵜⵓⴳⵏⴰ..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="ⵜⴰⴳⵎⵓⴹⵜ ⵏⴻⵖ ⴰⵙⴼⴻⴹ ⵉⵍⴰⵇⴻⵏ ⵢⴻⵜⵜⵡⴰⵅⴷⴻⵎ ⵙ ⵍⵎⴻⵏⴷⴰⴷ ⵏ ⵜⴻⴳⵏⵉⵜ ⵏ ⵓⴹⵔⵉⵙ."
+borrar_BDRE_lb_MSG2="BD-RE ⵢⴻⵜⵜⵡⴰⴽⴽⴻⵙ ⵙ ⵔⵔⴱⴻⵃ !!"
+borrar_BDRE_lb_MSG3="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵜⵓⴽⴽⵙⴰ ⵏ BD-RE"
+
+

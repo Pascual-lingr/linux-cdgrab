@@ -1,0 +1,140 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al Tamazight (Tifinagh), generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab ⵓⵔ ⵣⵎⵉⵔⴻⵖ ⴰⵔⴰ ⴰⴷ ⴰⴼⴻⵖ ⴰⵎⴻⵙⵏⵉⵍⴻⵙ ⵏ ⵓⴹⵔⵉⵙ vi"
+ayuda_MSG2="ⴰⵔⵓ ⵉⵙⴻⵎ ⵏ ⵓⵎⴻⵙⴽⴰⵔ ⵏ ⵓⴹⵔⵉⵙ ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷⴻⵏ ⴷⴻⴳ ⵓⵏⴰⴳⵔⴰⵡⵉⴽ"
+ayuda_MSG3="ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ ⵓⵎⴻⵙⵏⵉⵍⴻⵙ ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷⴻⵏ"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="ⴰⴼⴰⵢⵍⵓ ⵉⵜⵜⵓⵙⵏⵓⵍⴼⴰⵏ ⵙ ⵡⵓⴷⴻⵎ ⴰⵡⵓⵔⵎⴰⵏ ⵙ ⵍⵉⵏⵓⵅ-ⵛⴷⴳⵔⴰⴱ 1.0"
+creacion_de_mnt_MSG2="ⴰⴼⴰⵢⵍⵓ ⴰⴷ ⴰⴽⴷ ⵓⴷⵍⵉⵙ"
+creacion_de_mnt_MSG3="ⵜⵜⵡⴰⵅⴻⵍⵇⴻⵏ ⵙ ⵡⵓⴷⴻⵎ ⴰⵡⵓⵔⵎⴰⵏ"
+creacion_de_mnt_MSG4="ⵙⵖⵓⵔ ⴰⵙⵏⴰⵙ ⵏ Linux-cdgrab ⵎⵉ ⴰⵔⴰ ⵜⴻⵙⵏⴻⴹ ⵉⵙ ⵓⵔ ⵉⵍⵍⵉ ⴰⵔⴰ ⴷⴻⴳ ⵓⵥⴻⴹⴹⴰ ⵏⵏⴻⴽ ⵏ Linux"
+creacion_de_mnt_MSG5="ⴰⴹⵔⵉⵙ"
+creacion_de_mnt_MSG6="ⵉⵙⵎⵔⴰⵙ Linux-cdgrab ⴰⵏⵎⵍⴰⵍ ⴰⴷ ⴰⴼⴰⴷ ⴰⴷ ⵢⴻⵔⵙ ⴰⵏⵎⴰⵍ ⵏⵏⵙ ⵏ ⵛⴷ ⵔⵓⵎ/ⴷⴼⴷⵔⵓⵎ/ⴱⴷⵔⵓⵎ"
+creacion_de_mnt_MSG7="ⴰⴹⵔⵉⵙⵏⵏⵉ"
+creacion_de_mnt_MSG8="ⵓⵔ ⵉⵜⵜⵡⴰⴽⴽⴻⵙ ⴰⵔⴰ ⵎⴰ ⵢⴻⵍⵍⴰ Linux-cdgrab ⵢⴻⵜⵜⵡⴰⴽⴽⴻⵙ ⵉⴷⴻⴳ ⵙ ⵓⵎⴰⵜⴰ ⵉⴳⴰ ⴷ"
+creacion_de_mnt_MSG9="ⵜⴰⵏⵇⵉⴹⵜ ⵏ ⵓⵙⵎⴻⵍ ⵏ /dev/cdrom ⴷⴻⴳ ⵜⵓⴳⴻⵜ ⵏ ⵜⴼⴻⵔⴽⵉⵡⵉⵏ ⵏ Linux."
+creacion_de_mnt_MSG10="ⵎⴰ ⵢⴻⵍⵍⴰ ⴰⵥⴻⴹⴹⴰ ⵏⵏⴻⴽ ⵢⴻⵙⵙⴻⵇⴷⴰⵛ ⴰⵙⴻⴱⵜⴻⵔ ⵢⴰⴹⵏ ⵉ ⵓⵙⴻⵔⵙⵉ ⵏ ⵓⵖⴰⵡⴰⵙ /dev/cdrom,"
+creacion_de_mnt_MSG11="ⵓⵔ ⴰⵔ ⵉⵙⵏⴼⵍⵓⵍ ⵛⴰ ⵏ ⵓⵔ ⵉⵙⵙⴰⵙⴰ ⵎⵉ ⴰⵔⴰ ⵜⴰⵔⵎⴹ ⴰⴷ ⵜⴽⵛⵎ ⵙ ⵉⵙⴼⴽⴰ ⵉⵍⵍⴰⵏ ⵖ ⵜⴰⵢⵓⵏⵜ ⵏⵏⴽ"
+creacion_de_mnt_MSG12="ⵖⴰⵙ ⵎⴰ ⵢⴻⵍⵍⴰ Linux-cdgrab ⵉⵜⵜⵡⴰⵙⴻⴽⴽⴻⵙ ⵜⵣⴻⵎⵔⴻⴷ ⴰⴷ ⵜⴳⴻⴷ ⴱⵍⴰ"
+creacion_de_mnt_MSG13="ⵉⵙⵡⵓⵜⵙ ⵏ ⵓⴼⴰⵢⵍⵓ ⴰⴷ ⵉⴳⴰ ⵉⵡⵜⵜⴰⵙⵏ ⵏ ⵉⵏⵖⵎⵉⵙⵏ ⵡⴰⵀⴰ, ⵜⵥⴹⴰⵔⴷ ⴰⴷ ⵜ ⵜⴽⴽⵙⴷ ⵙ ⵜⵍⴻⵍⵍⵉ ⵎⵉ ⴰⵔⴰ ⵜⵖⵔⵎ."
+
+# creditos
+
+creditos_MSG1="ⴱⵔⴻⵇ ⴷⴷⴰⵡ ⵜⵜⴻⵙⵔⵉⵃ ⵏ GPL v2"
+creditos_MSG2="ⵓⴳⴰⵔ ⵏ ⵉⵙⴰⵍⵍⴻⵏ ⴷⴻⴳ www.gnu.org"
+creditos_MSG3="Pascual Martínez Cruz, ⴰⵎⵅⴻⵍⵍⴰⵇ ⴷ ⵓⵎⵃⴰⴷⴷⵉ"
+creditos_MSG4="ⴰⵕⴰⴱⵓⵍ ⵏ ⵡⵓⴳⵓⵔⴻⵏ: pascual89@hotmail.com"
+creditos_MSG5="ⴰⵙⵎⴻⵍ ⵏ ⵡⴰⵀⵉⵍ: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="ⵢⴻⴱⵏⴰ ⵖⴻⴼ LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz"
+
+# cargar_parche
+
+cargar_parche_MSG1="Cargando"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="ⵜⴰⵙⴻⵏⵙⴻⴷⴷⴰⵢⵜ"
+lcdgrab_sintaxis_MSG2="ⵙⵙⵓⴼⵖ ⵜⴰⵡⵙⵉⵜ ⴰⴷ"
+lcdgrab_sintaxis_MSG3="ⵙⵓⴳⴳⴻⵣ ⵜⴰⵍⵖⴰ ⵏ Linux-cdgrab"
+lcdgrab_sintaxis_MSG3="ⵉⵙⵏⵓⵍⴼⴰⴷ ⵜⴰⵖⴰⵔⵜ ⵏ IDE ⵏⵖⴷ ⴰⵖⴰⵡⴰⵙ ⵏ ⵓⵙⴻⴽⵍⴻⵙ".
+lcdgrab_sintaxis_MSG5="ⵏⴻⵖ"
+lcdgrab_sintaxis_MSG6="ⵢⴻⵙⵙⴽⴰⵏⴰⵢ ⵜⴰⵣⵣⵍⴰ ⵏ ⵓⵙⴻⴽⵍⴻⵙ".
+lcdgrab_sintaxis_MSG7="ⵢⴻⵙⴱⴰⵏⴷ ⴰⵎⴻⵖⵔⵉ CD-ROM/DVD-ROM/BD-ROM"
+lcdgrab_sintaxis_MSG8="ⵉⵙⵏⵓⵍⴼⴰⴷ ⵜⴰⵖⴱⴰⵍⵓⵜ IDE ATAPI ⵏ ⵓⵙⴻⴽⵍⴻⵙ"
+lcdgrab_sintaxis_MSG9="ⵉⵙⵖⵓⵏⴻⵏ ⵏ -G -V -L ⴷ -CA ⵙⵎⵢⴰⵍⵏ ⴳⵔⴰⵜⵙⵏ."
+lcdgrab_sintaxis_MSG9B="ⵉⵙⵏⴼⴰⵍⵏ ⵏ -iut ium -iug ⴷ -iuk ⴳⴰⵏ ⵉⵥⵉⵍⵏ ⴳⵔⴰⵜⵙⵏ,"
+lcdgrab_sintaxis_MSG9C="ⴰⵎⵙⴻⵎⵎⴰⵍ ⵉ -G -V -L ⴷ -CA, ⴷ ⴰⵣⴰⵔⵓⴳ ⴳⵔ -h ⴷ -v".
+lcdgrab_sintaxis_MSG10="ⵉⴼⴻⵔⴷⵉⵙⴻⵏ -h ⴷ -v ⵣⴻⴷⴷⵉⴳⴻⵏ ⴳⴰⵔ-ⴰⵙⴻⵏ ⴷ ⵡⴰⵢⴻⴹ."
+lcdgrab_sintaxis_MSG11="ⵉⵎⵢⴰⴳⴻⵏ:"
+lcdgrab_sintaxis_MSG12="ⴰⵙⴻⵍⴽⵉⵎ"
+lcdgrab_sintaxis_MSG13="ⵓⵟⵓⵏ"
+lcdgrab_sintaxis_MSG14="ⴰⵙⴻⵎⵔⴰⵔ ⵏ ⵓⴹⵔⵉⵙ".
+lcdgrab_sintaxis_MSG15="ⴰⵙⴻⵎⵔⴰⵔ ⵙ ⵏⵛⵓⵔⵙⴻⵙ".
+lcdgrab_sintaxis_MSG16="ⴰⵙⴻⵎⵔⴰⵔ ⴰⵏⵓⵎⴰⵏ ⵙ GTK".
+lcdgrab_sintaxis_MSG17="ⴰⵙⴻⵎⵔⴰⵔ ⴰⵏⵓⵎⴰⵏ ⵙ Qt".
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="ⵙⵙⴻⴽⵛⴻⵎ ⴰⴱⵔⵉⴷ ⵏ ⵓⵙⴻⴽⴽⵉⵍ:"
+main_lcdgrabopdep_MSG2="ⴰⴱⵔⵉⴷ ⵓⵔ ⵉⵡⴰⵜⴰⵏ ⴰⵔⴰ"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="ⵉⴹⴻⴱⵙⵉⵢⴻⵏ ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷⴻⵏ:"
+main_lcdgrabopdeppatch_MSG2="ⵙⴽⴻⵛⵎ ⴰⴱⵔⵉⴷ ⵏ ⵜⵇⴰⵛⵓⵛⵜ:"
+main_lcdgrabopdeppatch_MSG3="ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ"
+
+# menu principal dialog
+main_lcdgrabop9uidia="ⵛⴻⴱⴱⴻⵃ ⵢⵉⵡⴻⵏ ⵏ ⵓⴹⴻⴱⵙⵉ ⵏ ⵣⵢⴰⴷⴰ"
+
+# menu principal texto
+
+main_lcdgrabop1_text="ⴰⵙⴻⴽⵍⴻⵙ ⵏ CD\t\t\t\t="
+main_lcdgrabop2_text="ⴰⵙⴻⵔⵙⵉ ⵖⴻⵔ DVD\t\t\t\t="
+main_lcdgrabop3_text="ⴰⵙⴻⴽⵍⴻⵙ ⵏ BD\t\t\t\t="
+# Resultado del traductor
+main_lcdgrabop4_text="ⵜⵉⵎⵀⴰⵍ ⵏ Uselkim ⵏ Udisk\t\t\t="
+main_lcdgrabop5_text="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵜⵓⴳⵏⴰ\t\t\t\t="
+main_lcdgrabop6_text="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵚⵚⵓⵜ\t\t\t\t="
+# Resultado del traductor
+main_lcdgrabop6b_text="ⴰⴱⴻⴷⴷⴻⵍ ⵏ vidyu\t\t\t\t="
+main_lcdgrabop7_text="ⴰⵙⴻⵎⵍⵉⵍ ⵏⴻⵖ ⴼⵙⴻⵔ CD/DVD/BD\t\t="
+main_lcdgrabop8_text="ⵙⵙⴻⵔⵙ ⵏⴻⵖ ⴽⴽⴻⵙ ⵜⵓⴳⵏⴰ\t\t\t="
+main_lcdgrabop9_text="ⵛⴻⴱⴱⴻⵃ ⵢⵉⵡⴻⵏ ⵏ ⵓⴹⴻⴱⵙⵉ ⵏ ⵣⵢⴰⴷⴰ\t\t="
+main_lcdgrabop10_text="ⴰⵍⴻⵎⵎⴰⵙ ⵏ ⵓⴹⴼⴰⵔ\t\t\t\t="
+main_lcdgrabop0_text="ⴼⴼⴻⵖ\t\t\t\t\t="
+main_lcdgrabet1_text="ⵉⴹⴰⵖⴰⵔⴻⵏ ⵏⵏⵉⴹⴻⵏ ##\t\t="
+main_lcdgrabopEe_text="ⵙⵙⵓⴼⵖⴻⴹ ⴰⴹⴻⴱⵙⵉ ⵙⴻⴳ ⵓⴹⴻⴱⵙⵉ\t="
+main_lcdgrabopTD_text="ⵙⴽⴻⵏ ⴰⴹⵔⵉⵙ"
+tabs="\t\t\t="
+main_lcdgrabopG_text="ⴰⵎⴹⴻⴱⴱⴻⵔ ⵏ ⵓⴼⴰⵢⵍⵓ\t\t\t="
+main_lcdgrabopH_text="ⵄⵉⵡⴻⵏ\t\t\t\t="
+main_lcdgrabopA_text="ⴰⵣⴰⵍ ⵏ\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="ⴰⵙⴻⴽⵍⴻⵙ ⵏ CD"
+main_lcdgrabop2="ⴰⵙⴻⵔⵙⵉ ⵖⴻⵔ DVD"
+main_lcdgrabop3="ⴰⵙⴻⴽⵍⴻⵙ ⵏ BD"
+# Resultado del traductor
+main_lcdgrabop4="ⵜⵉⵎⵀⴰⵍ ⵏ Uselkim ⵏ Udisk"
+main_lcdgrabop5="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵜⵓⴳⵏⴰ"
+main_lcdgrabop6="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵚⵚⵓⵜ"
+# Resultado del traductor
+main_lcdgrabop6b="ⴰⴱⴻⴷⴷⴻⵍ ⵏ vidyu"
+main_lcdgrabop7="ⴰⵙⴻⵎⵍⵉⵍ ⵏⴻⵖ ⴼⵙⴻⵔ CD/DVD/BD"
+main_lcdgrabop8="ⵙⵙⴻⵔⵙ ⵏⴻⵖ ⴽⴽⴻⵙ ⵜⵓⴳⵏⴰ"
+main_lcdgrabop9="ⵛⴻⴱⴱⴻⵃ ⵢⵉⵡⴻⵏ ⵏ ⵓⴹⴻⴱⵙⵉ ⵏ ⵣⵢⴰⴷⴰ"
+main_lcdgrabop10="ⴰⵍⴻⵎⵎⴰⵙ ⵏ ⵓⴹⴼⴰⵔ"
+main_lcdgrabop0="ⴼⴼⴻⵖ"
+main_lcdgrabet1="ⵉⴹⴰⵖⴰⵔⴻⵏ ⵏⵏⵉⴹⴻⵏ ##"
+main_lcdgrabopEe="ⵙⵙⵓⴼⵖⴻⴹ ⴰⴹⴻⴱⵙⵉ ⵙⴻⴳ ⵓⴹⴻⴱⵙⵉ"
+main_lcdgrabopTD="ⵙⴽⴻⵏ ⴰⴹⵔⵉⵙ"
+main_lcdgrabopG="ⴰⵎⴹⴻⴱⴱⴻⵔ ⵏ ⵓⴼⴰⵢⵍⵓ"
+main_lcdgrabopH="ⵄⵉⵡⴻⵏ"
+main_lcdgrabopA="ⴰⵣⴰⵍ ⵏ"
+main_lcdgrabopPRINCIPAL="ⴰⵔⵓⴷ ⴰⴼⴻⵔⴷⵉⵙ:"
+MSG1_MAIN="ⴰⴼⵔⴰⵏ ⵏ H ⵢⴻⵙⵙⴽⴰⵏⴰⵢⴷ ⴰⵙⴻⵇⴷⴻⵛ ⵏ ⵢⵉⴼⴻⵔⴷⵉⵙⴻⵏ."
+main_lcdgrabopA_MSG1="ⵜⴰⵣⵍⴰ ⴷⴻⴳ:"
+

@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en Tamazight (Tifinagh) para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="ⴰⴱⵔⵉⴷ ⵏ ⵜⵓⴳⵏⴰ .img ⵏⴻⵖ .ext2 ⴰⴽⴽⴻⵏ ⴰⴷ ⵜⵜⵉⴷⵜⴻⵙⵙⵓⴼⵖⴻⴹ ⴷⴻⴳ ⵓⴹⵔⵉⵙ."
+volcar_imagen_MSG2="---------------------------ⴰⵅⴰⵜⴰⵔ----------------------------" 
+volcar_imagen_MSG3="+ ⴰⴼⴻⵔⴷⵉⵙ ⴰⴷ ⵓⵔ ⵉⵜⵜⵓⵙⵡⵉⵔ ⴳ ⵉⴹⴱⵉⴱⵏ ⵉⵎⵥⵍⴰⵢⵏ."
+volcar_imagen_MSG4="+ ⴰⵙⵎⵔⵙ ⵖⴼ ⵉⴱⵏⴷⵔⵉⴼⵏ, ⵉⴹⴱⵉⴱⵏ ⵏ ⵉⴹⴱⵉⴱⵏ, ⵜⵉⴼⵔⵡⵉⵏ ⵏ ⵉⴹⴱⵉⴱⵏ, ⴰⵜⴳ. "
+volcar_imagen_MSG5="+ ⴰⵅⴻⵎⵎⴻⵎ ⵙ ⵢⵉⴹⴻⴱⵙⵉⵢⴻⵏ ⵉⵇⴻⵙⵃⴻⵏ:"
+volcar_imagen_MSG6="+ ⵜⵉⵔⵔⴰ ⵏ ⵜⵡⵍⴰⴼⵜ ⵜⴻⵜⵜⵓⵙⴽⴰⵔ ⵙ ⴷⴷ ⵙⴳ ⵓⵎⵣⵡⴰⵔⵓ".
+volcar_imagen_MSG7="  ⵙⴳ ⵓⴹⴻⴱⵙⵉ ⵉⵜⵜⵓⵙⴽⴰⵏⴻⵏ, ⴰⵙⴻⵇⴷⴻⵛ ⵏ ⵓⵎⴹⴰⵏ ⵓⵔ ⵢⴻⵜⵜⵡⴰⵇⴱⴰⵍ"
+volcar_imagen_MSG8="  ⴰⴳⵣⵓⵎ ⵉⵡⴰⵜⴰⵏ ⵉ ⵓⵙⴱⴷⵓ ⵏ ⵓⴱⵔⵉⴷ ⵏ ⵜⵉⵔⵔⴰ"
+volcar_imagen_MSG9="+ ⴰⵙⵎⵔⵙ ⵙ ⵓⵃⴰⴷⴷⴰⴷ. ⴰⵙⵎⵔⵙ ⵙ ⵓⵎⵉⴹⴰⵏ ⵏⵏⴽ."
+volcar_imagen_MSG10="+ ⵜⵉⴼⴻⵔⴽⵉⵡⵉⵏ ⵏ ⵓⴹⴻⴱⵙⵉ ⵣⴻⵎⵔⴻⵏⵜ ⴰⴷ ⵓⵖⴰⵍⴻⵏⵜ ⵓⵔ ⵜⵜⵡⴰⵙⵙⴻⵇⴷⴰⵛⴻⵏⵜ ⴰⵔⴰ."
+volcar_imagen_MSG11="+ ⵓⵔ ⵉⵜⵜⵓⵙⵎⵔⵙ ⴰⴷ ⵜ ⵜⵏⵙⵙⵎⵔⵙ ⵖ ⵉⵏⴰⴳⵔⴰⵡⵏ ⵏ ⵜⵓⴳⵜⵜ ⵏ ⵜⴱⴹⵉⵜⵉⵏ."
+volcar_imagen_MSG12="  ⴰⵙⵔⴽⴻⴷ ⵉⵣⵎⵔ ⴰⴷ ⵉⴼⵍ ⵜⴰⴱⵍⵓⵜ ⵏ ⵓⴱⴹⵓ ⴷ"
+volcar_imagen_MSG13="  ⵉⴼⴻⵔⴷⵉⵙⴻⵏ ⵓⵔ ⵏⴻⵙⵄⵉ ⵍⴼⴰⵢⴷⴰ ⵙ ⵜⵉⵎⵎⴰⴷⵏⵙⴻⵏ."
+volcar_imagen_MSG14="-------------------------------------------------------------"
+volcar_imagen_MSG15="ⵟⵟⴻⴼ ⵜⴰⵙⴰⵔⵓⵜ ⵏ C ⵉⵡⴰⴽⴽⴻⵏ ⴰⴷ ⵜⴽⴻⵎⵍⴻⴹ.;(ⴰⴽⴰⵍⴰ ⴰⴷ ⵢⴻⵜⵜⵡⴰⴱⵟⴻⵍ ⴷⴻⴳ ⵓⴹⴼⴰⵔ ⵏⵏⵉⴹⴻⵏ)"
+volcar_imagen_MSG16="ⵙⵏⵓⵍ ⴰⴱⵔⵉⴷ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵜⵡⵍⴰⴼⵜ ⵉ ⵔⴰⴷ ⵉⵣⵔⴳⴳⵣⵏ ⵖⵔ ⵓⴹⴱⵉⴱ: "
+volcar_imagen_MSG17="ⴰⵙⴻⴽⵛⴻⵎ ⵏ ⵓⵎⵢⴰⴳⴻⵔ mount:"
+volcar_imagen_MSG18="ⵙⴽⴰⵏⴷ ⴰⵍⵍⴰⵍ ⵏ ⵓⵃⵔⵉⵛ ⴰⵏⴷⴰ ⴰⵔⴰ ⵜⴻⵜⵜⵡⴰⴹⴻⴳⴳⴻⵔ ⵜⵓⴳⵏⴰ:"
+volcar_imagen_MSG19="ⴰⴹⴻⴳⴳⴻⵔ ⵏ ⵜⵓⴳⵏⴰ"
+volcar_imagen_MSG20="ⴷⴻⴳ ⵡⴰⵍⵍⴰⵍ"
+volcar_imagen_MSG21="ⵜⴰⵔⵡⴻⵍⴰ"
+volcar_imagen_MSG22="ⴰⴽⴰⵍⴰ ⵏ ⵓⴹⴻⴳⴳⴻⵔ ⵏ ⵜⵓⴳⵏⴰ ⵢⴻⴽⴼⴰ"
+
+# volcar_iso
+
+volcar_iso_MSG1="ⵙⴽⴻⵏⴷ ⴰⵙⴻⵍⴽⵉⵎ ⵏ ⵓⵃⵔⵉⵛ ⴰⵔⴰ ⵜⴰⵔⵓⴹ ⵜⵓⴳⵏⴰ ⵏ iso :"
+volcar_iso_MSG2="ⴰⵄⴻⵢⵢⴻⵏ"
+volcar_iso_MSG2B="------"
+volcar_iso_MSG3="ⵙⵏⵓⵍ ⴰⵖⴰⵡⴰⵙ ⵏ ⵓⴱⵍⴳⵍ ⵖⵓⵔⵙ ⴰⴷ ⵜⴰⵔⵓⴹ."
+volcar_iso_MSG4="ⵉⵎⴷⵢⴰⵜⵏ: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Ur ⵙⵏⵓⵍⴼⴰⴷ ⵜⴰⴱⴹⵉⵜ ⵢⴻⴽⴽⴰⵏ ⵉ ⵡⴰⵍⵍⴰⵍ ⴰⴷ".
+volcar_iso_MSG6="ⵉⵎⴷⵢⴰⵜⵏ: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="ⵙⵏⵓⵍ ⵜⴰⵡⵍⴰⴼⵜ iso-9660 ⵏⵖ ⵉⵎⴳ ⵉ ⵜⵉⵔⴰ:"
+volcar_iso_MSG9="ⵉⴽⴻⵎⵎⴻⵍ ⵓⵙⵉⴽⴻⵍ"
+volcar_iso_MSG10="ⴰⵣⴳⵓⵍ ⴳ ⵓⴱⵔⵉⴷ ⵏ ⵜⵉⵔⵔⴰ ⵏ ⵉⵙⵓ"
+volcar_iso_MSG11="ⵙⴽⴻⵍ ⵜⴰⵊⵓⵎⵎⴰ ⵏ ⵓⴱⵍⵓⴽ ⵉ ⵜⵉⵔⴰ ⵏ ⵜⵓⴳⵏⴰ"
+volcar_iso_MSG12="ⴼⵔⴻⵏ ⴰⵖⵜⴰⵙ ⵖⴻⴼ ⵍⴻⵃⵙⴰⴱ ⵏ ⵓⵏⴰⴳⵔⴰⵡ ⵏ ⵓⵙⴻⵍⴽⵉⵎ ⴰⴽⴽⴻⵏ ⴰⴷ ⵜⴰⵔⵓⴹ:"
+volcar_iso_MSG13="ISO-9660 ⵏⵖ ⵜⴰⵡⵍⴰⴼⵜ ⵏ IMG ⵉⵜⵜⴱⴷⴷⴰⵏ ⴰⴷ ⵜⴼⵍⵙⴽ ⴳ ⵓⵙⵏⴰⵙ:"
+volcar_iso_MSG14="ⴰⴼⴼⵓⵖ"
+volcar_iso_MSG15="ⴰⴼⴰⵢⵍⵓ ⵏ ⵜⵓⴳⵏⴰ ISO-9660 ⵏⴻⵖ IMG"
+volcar_ISO_MSG16="ⴼⵔⴻⵏ ⴰⵏⴰⴳⵔⴰⵡ ⵏ ⵓⵙⴻⵍⴽⵉⵎ ⵉⵡⴰⴽⴽⴻⵏ ⴰⴷ ⵜⵜⴻⵙⵙⵓⴼⵖⴻⴹ"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="ⴼⵔⴻⵏ ⴰⵏⴰⴳⵔⴰⵡ ⵏ ⵓⴼⴰⵢⵍⵓ ⵙ"
+Formateador_linuxfs_MSG2="ⴰⴷ ⵉⵜⵜⵡⴰⵙⵏⵓⵍⴼⴰ ⵓⵖⴰⵡⴰⵙ:"
+Formateador_linuxfs_MSG3="ⵙⵏⵓⵍⴼⴰⴷ ⴰⵙⴻⵖⵣⴰⵏ ⵏ ⵓⵃⵔⵉⵛ ⵉ ⵓⵙⴻⵖⵏⴻⵡ: "
+Formateador_linuxfs_MSG5="ⵢⴻⴽⴼⴰ ⵓⴽⴰⵍⴰ"
+Formateador_linuxfs_MSG6="ⴰⵎⵙⵓⴷⴷⴻⵙ ⵏ ⵓⴹⴻⴱⵙⵉ"
+Formateador_linuxfs_MSG7="ⵙⴱⴻⴷⴷ ⴰⵙⴻⴽⴽⵉⵍ ⵏ ⵍⵃⴻⵙⵙ"
+Formateador_linuxfs_MSG10="ⵙⵏⵓⵍ ⵉⵙⵎ ⵏ ⵜⴰⵖⵓⵍⵜ ⵏ ⵓⴳⴱⵓⵔ".
+Formateador_linuxfs_MSG11="ⴰⵙⴻⴽⴽⵉⵍ ⵏ ⵓⴷⵍⵉⵙ ⴰⵎⴰⵢⵏⵓⵜ"
+Formateador_linuxfs_MSG12="Sbeggen ⵜⴰⵊⵓⵎⵎⴰ ⵏ ⵓⵃⵔⵉⵛ"
+Formateador_linuxfs_MSG13="ⴰⵣⴰⵍ ⵏ ⵓⴱⵍⵓⴳ ⴰⵎⴰⵢⵏⵓ".
+Formateador_linuxfs_MSG14="ⴰⵎⴻⵏⵏⵓⵖ ⴰⵇⴱⵓⵔ"
+

@@ -1,0 +1,27 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcgdrabMenu_API_idiom/lcdgrabUIVIDEO.idiom
+# Mensajes en Tamazight (Tifinagh) para el menú de conversión de Video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_conversion_video
+
+# Resultado del traductor
+menu_conversion_video_MSG1="ⴰⴱⴻⴷⴷⴻⵍ ⵏ VIDYU"
+menu_conversion_video_MSG2="---------------- ⴰⴱⴻⴷⴷⴻⵍ ⴳⴰⵔ ⵜⴰⵍⵖⵉⵡⵉⵏ ------------"
+menu_conversion_video_MSG3="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵓⴼⵉⴷⵢⵓ ⵖⴻⵔ ⵓⴹⴻⴱⵙⵉ ⵏ ⴱⵍⵓ ⵔⴰⵢ ⵢⴻⵜⵜⵡⴰⵙⵙⵏⴻⵏ ⵙ Smart-TV"
+menu_conversion_video_MSG4="ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⴼⵉⴷⵢⵓ ⵉ ⵔⴰⴷ ⵉⵙⵏⴼⵍ:"
+menu_conversion_video_MSG0="ⴰⵎⴻⵏⵏⵓⵖ ⵢⴻⵣⵔⵉⵏ"
+menu_conversion_video_MSG6="ⵙⵙⴻⴽⵍⴻⵙ ⵜⴰⵖⵉⵎⵉⵜ ⵏ ⵓⵙⴻⵇⵇⴰⵎⵓ"
+menu_conversion_video_MSG7="ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ vidyu ⵙ ⵜⴰⵍⵖⴰ ⵢⴻⵎⴳⴰⵔⴰⴷⴻⵏ"
+menu_conversion_video_MSG8="---------------- ⵉⴹⴰⵖⴰⵔⴻⵏ ⵏⵏⵉⴹⴻⵏ -----------------"
+menu_conversion_video_MSG9="ⵅⵍⴻⴹ ⴰⴼⴰⵢⵍⵓ ⵏ Vidyu ⴷ ⵓⴼⴰⵢⵍⵓ ⵏ ⵓⵙⵍⵉⴹ"
+# Resultado del traductor
+menu_conversion_video_MSG10="ⴽⴽⴻⵙⴷ MP3 ⵏ ⵚⵚⵓⵜ ⵙⴻⴳ ⵓⴼⴰⵢⵍⵓ ⵏ Vidyu"
+# Resultado del traductor
+menu_conversion_video_MSG11="ⴳⴻⵣⵎ ⴰⴼⴰⵢⵍⵓ ⵏ Vidyu"
+

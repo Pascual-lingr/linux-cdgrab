@@ -1,0 +1,91 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al Tamazight (Tifinagh), generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="ⴼⵔⵉⵏ ⵜⴰⵖⵓⵍⵜ ⵏ ⵓⵏⵙⵙⵎⵔⵙ ⵍⵍⵉ ⵔⴰⴷ ⵉⵜⵜⵓⵙⵎⵔⵙ:"
+SeleccionaIUDVD_MSG2="ⵙⵎⵔⵙ ⵜⴰⴳⴳⴰⵢⵜ ⵉ dvd+-rw-tools"
+SeleccionaIUDVD_MSG3="ⵙⵎⵔⵙ ⵜⴰⴳⴳⴰⵢⵜ ⵉ Cdrecord-ProDVD"
+SeleccionaIUDVD_MSG4="ⵙⵎⵔⵙ ⵜⴰⴳⴳⴰⵢⵜ ⵉ libburnia"
+SeleccionaIUDVD_MSG5="ⴰⵎⵏⴰⵡ ⴰⵣⵡⴰⵔ"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="ⴰⵙⴻⵖⵍⵉ ⵖⴻⵔ DVD"
+menugrabar_dvd_MSG2="------------------ ⵉⵙⴻⴼⴽⴰ ⵏ DVD ------------------"
+menugrabar_dvd_MSG3="ⵙⵏⵓⵍⴼⴷ ⵢⴰⵏ ⴹⴹⴱⵉⵔ ⵏ ⵉⵙⴼⴽⴰ ⵉⵙⵓ-9660"
+menugrabar_dvd_MSG4="ⵙⵏⵓⵍⴼⴰⴷ ⵢⴰⵜ ⵜⵡⵍⴰⴼⵜ ⵏ DVD ⵉⵣⵡⴰⵔⵏ ⴳ ⵓⴹⴱⵉ ⴰⵇⵙⴰⵢ"
+menugrabar_dvd_MSG5="ⵙⵔⵖ ⵢⴰⵏ ⴹⴹⴱⵉⵔ ⵏ ⵉⵙⴼⴽⴰ ISO-9660 ⴰⵎⴰⵢⵏⵓ"
+menugrabar_dvd_MSG6="ⵔⵏⵓ ⵜⴰⵙⵖⵉⵎⵜ ⵏ ⵉⵙⴼⴽⴰ ⵜⴰⵎⴰⵢⵏⵓⵜ ⵉ ⴹⵉⴼⴷⵉ ⵏ ⵉⵙⴼⴽⴰ ⵉ ISO-9660 (DVD ⵏ ⵡⴰⵟⴰⵙ ⵏ ⵜⵖⵉⵎⵉⵜⵉⵏ)"
+menugrabar_dvd_MSG7="ⵉⵃⵡⴰⴵ ⵢⴰⵏ ⴹⴹⴱⵉⵔ ⵉⵜⵜⵓⵙⴽⵍⵙⵏ ⴷⴰⵜ ⵙ ⵓⵙⵎⵔⵙ ⵏ ⵓⴼⵜⵉ ⵡⵉⵙⵙ ⵙⵉⵏ".
+menugrabar_dvd_MSG8="ⵙⴻⵖⵣⵉ ⵢⴰⵜ ⵜⵡⵍⴰⴼⵜ ⵏ ⵉⵙⴼⴽⴰ ISO-9660 ⵖⵔ ⴹⴹⴱⵉⵔ"
+menugrabar_dvd_MSG9="ⵙⴻⵖⵍⵉ ⵢⴰⵜ ⵜⵡⵍⴰⴼⵜ .ext2 ⴳ ⴹⴹⴱⵉⵔ"
+menugrabar_dvd_MSG10="---------------- ⵜⴰⵠⵉⴷⵢⵓⵜ - DVD -----------------"
+menugrabar_dvd_MSG11="ⵙⵙⴻⵔⵖ ⵢⵉⵡⴻⵏ ⵏ DVD-Video ⴰⵎⴰⵢⵏⵓⵜ"
+menugrabar_dvd_MSG12="---------------- ⵉⴹⴰⵖⴰⵔⴻⵏ ⵏⵏⵉⴹⴻⵏ ------------------"
+menugrabar_dvd_MSG13="ⴰⵙⵏⵉⵍⴻⵙ ⵏ ⵢⴰⵏ ⴷⴼⴷ+ⵔⵡ/ⴷⴼⴷⵔⵡ"
+menugrabar_dvd_MSG14="ⵙⴽⴰⵏ ⵉⵏⵖⵎⵉⵙⵏ ⵏ ⵓⴹⴱⵉⴱ ⵏ DVD"
+menugrabar_dvd_MSG0="ⴰⵎⵏⴰⵡ ⵉⵣⵡⴰⵔⵏ"
+menugrabar_dvd_MSGPRINCIPAL="ⴰⵔⵓⴷ ⵢⵉⵡⴻⵏ ⵏ ⵓⴼⴻⵔⴷⵉⵙ"
+menugrabar_dvd_MSG15="ⵉⴼⵓⵢⵍⴰ ⴷ ⵉⵏⵎⵖⴰⵍⵏ ⵔⴰⴷ ⵙⴽⵔⵏⵏ ⴳ ⴹⴹⴱⵉⵔ"
+menugrabar_dvd_MSG16="ⴰⵕⵥⵓⵎ ⵏ ⵓⵙⵎⵀⴰⵍ ⵏ ⵓⴼⴰⵢⵍⵓ..."
+Menugrabar_dvd_MSG17=".ⵉⵙⵓ ⵜⵓⴳⵏⴰ ⵉ ⵡⴰⴽⴽⴻⵏ ⴰⴷ ⵜⵜⴻⵙⵙⴻⵔⵖⴻⴹ ⴷⴻⴳ DVD"
+menugrabar_dvd_MSG18="ⴰⵔⵓ ⴷⴻⴳ ⵓⴱⵔⵉⴷ ⵏ ⵓⵙⴻⴱⵜⴻⵔ ⴰⵏⴷⴰ ⵜⴻⵍⵍⴰ ⵜⵓⴳⵏⴰ ⵏ .iso ⵉ ⵜⴻⴱⵖⵉⴹ ⴰⴷ ⵜⴻⵙⵔⴻⵖⴹ"
+menugrabar_dvd_MSG19="ⵉⵃⵡⴰⴵ ⵜⴰⵍⵖⴰ ⵏ cdrecord ⵙ ⵜⴰⵍⵍⴻⵍⵜ ⵏ DVD."
+menugrabar_dvd_MSG20="ⴰⵙⴻⴽⵍⴻⵙ ⵏ ⵜⵡⵍⴰⴼⵜ .ⴻⵅⵜ2 ⴳ ⴹⴹⴱⵉⵔ ⴰⴷ ⵢⵉⵍⵉ ⵙ cdrecord."
+menugrabar_dvd_MSG21="ⵜⴰⵍⵖⴰ ⵏ cdrecord ⵉ ⵢⴻⵍⵍⴰⵏ ⴳ ⵓⵙⴻⵔⵙ ⵏⵏⴻⴽ ⵉⵅⵚⵚⴰ"
+menugrabar_dvd_MSG22="ⴰⵄⵉⵡⴻⵏ ⵏ ⵓⵙⴻⴽⵍⴻⵙ ⵏ DVD."
+
+############# Cdrecord-ProDVD ################
+
+# dvd_clonar
+
+dvd_clonar_MSG1="ⴼⵔⴻⵏ ⵢⵉⵡⴻⵏ ⵏ ⵓⴹⴼⴰⵔ"
+dvd_clonar_MSG2="--- ⵓⵍⵖⵓⵢⴻⵏ ⵏ ⵓⴹⴻⴱⵙⵉ ⵙ ⵜⵓⴳⵏⴰ ⵓⵇⴱⴻⵍ ---"
+dvd_clonar_MSG3="ⵙⵏⵓⵍⴼⵓⴷ ⵢⵉⵡⴻⵏ ⵏ DVD ⵏ ⵢⵉⵙⴻⴼⴽⴰ"
+dvd_clonar_MSG4="ⵙⵏⵓⵍⴼⵓⴷ ⵜⵓⴳⵏⴰ ⵏ DVD ⵏ ⵓⵙⴽⴰⵣⴰⵍ ⴷⴻⴳ ⵓⴹⴻⴱⵙⵉⵉⵏⴻⴽ ⴰⵇⴻⵙⵃⴰⵏ"
+dvd_clonar_MSG5="--- ⵓⵍⵖⵓⵢⴻⵏ ⵏ ⵓⴹⴻⴱⵙⵉ ⴷⴻⴳ ⵜⴼⴻⴽⴽⴰ ---"
+dvd_clonar_MSG6="ⵙⵏⵓⵍⴼⵓⴷ ⵢⵉⵡⴻⵏ ⵏ DVD ⵏ ⵢⵉⵙⴻⴼⴽⴰ ⴷⴻⴳ ⵓⴼⴻⵔⴷⵉⵙ"
+dvd_clonar_MSG7="ⵙⵏⵓⵍⴼⵓⴷ ⵢⵉⵡⴻⵏ ⵏ DVD ⵏ ⵢⵉⵙⴻⴼⴽⴰ ⴷⴻⴳ ⵓⴼⴻⵔⴷⵉⵙ"
+dvd_clonar_MSG8="ⵉⴼⴻⵔⴷⵉⵙⴻⵏ ⵏ ⵓⵙⵏⵓⵍⴼⵓ ⵙ ⵜⵖⴰⵡⵍⴰ ⵃⵡⴰⴵⴻⵏ ⵉⴹⴻⴱⵙⵉⵢⴻⵏ ⵏ ⵜⴼⴻⵍⵡⵉⵜ ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷⴻⵏ ⴷⴻⴳ ⵓⵙⴻⵍⴽⵉⵎⵉⴽ."
+dvd_clonar_MSG9="ⵉⵎⵉ ⵉⵙⴻⴼⴽⴰ ⵜⵜⵡⴰⵙⴻⴽⴽⵔⴻⵏ ⴷⴻⴳ ⵡⴰⴽⵓⴷ ⵉⴷⴻⴳ ⵜⵜⵡⴰⵖⵔⴰⵏ ⵙⵔⵉⴷ ⵙⴻⴳ ⵓⴹⵔⵉⵙ ⵏ ⵓⵖⴱⴰⵍⵓ"
+dvd_clonar_MSG10="ⵎⴰ ⵢⴻⵍⵍⴰ ⴰⵙⴻⵍⴽⵉⵎⵉⴽ ⵢⴻⵙⵄⴰ ⴽⴰⵏ ⵢⵉⵡⴻⵏ"
+dvd_clonar_MSG11="ⵓⵔ ⵜⴻⵣⵎⵉⵔⴻⴹ ⴰⵔⴰ ⴰⴷ ⵜⴻⵙⵇⴻⴷⵛⴻⴹ ⵍⵇⴻⴹⵢⴰⵏ ⴷⴻⴳ ⵓⴼⴻⵔⴷⵉⵙ."
+dvd_clonar_MSG0="ⴰⵎⴻⵏⵏⵓⵖ ⵢⴻⵣⵔⵉⵏ"
+dvd_clonar_MSG12="ⵓⴷⵍⵉⵙ ⵏ DVD"
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="ⴰⵙⴻⵖⵍⵉ ⵖⴻⵔ DVD"
+menugrabar_DVD_MSG2="------------------ ⵉⵙⴻⴼⴽⴰ ⵏ DVD --------------------"
+# Resultado del traductor
+menugrabar_DVD_MSG3="DVD ⵏ ⵉⵙⴻⴼⴽⴰ ⵏ Rip"
+menugrabar_DVD_MSG4="ⵙⵔⵖ ⵢⴰⵏ ⴹⵉⴼⴷⵉ ⵏ ⵉⵙⴼⴽⴰ ⴰⵎⴰⵢⵏⵓ"
+menugrabar_DVD_MSG5="ⵙⴻⵔⵖ ⵜⴰⵡⵍⴰⴼⵜ ⵏ .iso ⵏⵖ .ext2 ⵖⵔ DVD"
+menugrabar_DVD_MSG6="ⴰⵙⵏⵉⵍⴻⵙ ⵏ DVD+RW/Dvd-RW"
+menugrabar_DVD_MSG7="ⵙⵎⵍ ⵉⵏⵖⵎⵉⵙⵏ ⵏ ⵓⴹⴱⵉⴱ ⴳ ⵓⴹⴼⴰⵔ"
+menugrabar_DVD_MSG0="ⴰⵎⵏⴰⵡ ⵉⵣⵡⴰⵔⵏ"
+menugrabar_DVD_MSGPRINCIPAL="ⴰⵔⵓⴷ ⵢⴰⵏ ⵓⴼⵔⴰⵏ"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="ⵙⵔⵖ ⵜⴰⵡⵍⴰⴼⵜ ⵏ ⵉⵙⵓ-9660 ⵖⵔ ⴷⴼⴷⵉⵕⵉ"
+menugrabar_DVD_libburnia_MSG2="ⵙⴻⵔⵖ ⵉⵙⴻⴼⴽⴰ ⵙⴳ ⵓⴹⴻⴱⵙⵉ ⴰⵥⵉⴹⴰⵏ ⵖⴻⵔ ⴹⵉⴼⴷ"
+menugrabar_DVD_libburnia_MSG3="ⵜⵓⴳⵏⴰ ⵏ DVD"
+menugrabar_DVD_libburnia_MSG4="ⴰⵙⵏⵉⵍⴻⵙ ⵏ DVD-RW ⵙ ⵓⵎⴻⵔⵏⵓ ⴰⵎⴻⵣⵡⴰⵔⵓ"
+menugrabar_DVD_libburnia_MSG5="ⴰⵙⵏⵉⵍⴻⵙ ⵏ DVD-RW ⵉ ⵜⵉⵔⴰ ⵢⴻⵜⵜⵡⴰⵃⴻⵔⵣⴻⵏ"
+menugrabar_DVD_libburnia_MSG6="ⵙⴽⴰⵏ ⵉⵏⵖⵎⵉⵙⵏ ⵏ ⵓⵏⵀⵉⵍ"
+menugrabar_DVD_libburnia_MSG8="ⴰⴹⵔⵉⵙ ⵏ ⵉⴷⵔⵉⴼⵏ ⵉⵜⵜⵓⵙⵔⵙⵏ ⴳ ⵓⵏⴰⴳⵔⴰⵡ"
+menugrabar_DVD_libburnia_MSG0="ⵜⵓⴼⴼⵖⴰ"
+menugrabar_DVD_libburnia_MSG7="ⵙⴽⵛⵎ ⵢⴰⵏ ⵓⴼⵔⴰⵏ"
+

@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Tamazight (Tifinagh), generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="ⴰⵙⵏⵓⵍⴼⵓ ⴷ ⵓⵙⴽⴰⵙⵉ ⵖⴻⴼ ⵜⵓⴳⵏⵉⵡⵉⵏ ⵏ ⵓⴹⵔⵉⵙ"
+MenuImagen_MSG2="----------------- ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵜⵓⴳⵏⴰ -----------------"
+MenuImagen_MSG3="ⵙⵏⵓⵍⴼⴰ ⵢⴰⵜ ⵜⵡⵍⴰⴼⵜ ISO-9660"
+MenuImagen_MSG4="ⵙⵏⵓⵍⴼⵓⴷ ⵜⴰⵡⵍⴰⴼⵜ ⵙ ⵓⵏⴰⴳⵔⴰⵡ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ Linux ⴰⵏⴰⵚⵍⵉ"
+MenuImagen_MSG5="ⵙⵏⵓⵍⴼⴰⴷ ⵢⴰⵜ ⵜⵡⵍⴰⴼⵜ .ⵉⵎⴳ ⵏ ⴽⵔⴰ ⵏ ⴰⵍⵍⴰⵍ ⵏ ⵓⴱⵍⴳⵍ"
+MenuImagen_MSG6="ⵙⵏⵓⵍⴼⴰⴷ ⵢⴰⵜ ⵜⵡⵍⴰⴼⵜ .bin .cue ⵙⴳ ⴰⵙⵏⴰⵙ ⴰⵣⴰⵢⴰⵣ"
+MenuImagen_MSG7="----------------- ⵉⴹⴰⵖⴰⵔⴻⵏ ⵏⵏⵉⴹⴻⵏ -----------------"
+MenuImagen_MSG8="ⵙⵏⵓⵍⴼⴰⴷ ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⵏⴳⴰⵍ .cue ⵙⴳ ⵜⵡⵍⴰⴼⵜ ⵏ .bin"
+MenuImagen_MSG9="ⵙⵏⴼⴻⵍ ⵢⴰⵜ ⵜⵡⵍⴰⴼⵜ ⵏ .nrg (Nero Burning ROM) ⵙ .iso"
+MenuImagen_MSG10="ⵙⵖⴻⵙ ⵜⴰⵡⵍⴰⴼⵜ ⵙ gzip, bzip2 ⵏⵖ xz"
+MenuImagen_MSG11="ⵙⵔⴽⴻⵙ ⵜⴰⵡⵍⴰⴼⵜ ⵙ zip,gz,bz2 ⵏⵖ xz"
+MenuImagen_MSG11B="ⵙⴻⴼⵇⴻⴷ md5 ⵏ ⵜⵓⴳⵏⵉⵡⵉⵏ ⵏ iso"
+MenuImagen_MSG12="ⴱⴻⴷⴷⴻⵍ ⵍⵃⴰⵍⴰ ⵏ iso"
+MenuImagen_MSG0="ⴰⵎⴻⵏⵏⵓⵖ ⵉⵄⴻⴷⴷⴰⵏ"
+MenuImagen_MSG13="ⴰⴼⴰⵢⵍⵓ ⵏ ⵜⵡⵍⴰⴼⵜ ⵉ ⵔⴰⴷ ⵉⵜⵜⵡⴰⵙⵎⵥⵥ"
+MenuImagen_MSG14="ⵙⵙⴻⵖⵍⵉ ⴰⴼⴰⵢⵍⵓ ⵏ ⵜⵓⴳⵏⴰ"
+MenuImagen_MSG15="ⴰⵔⵓ ⴷⴻⴳ ⵓⴱⵔⵉⴷ ⵏ ⵓⵙⴻⴱⵜⴻⵔ ⴰⵏⴷⴰ ⵜⴻⵍⵍⴰ ⵜⵓⴳⵏⴰ ⵉ ⵜⴻⴱⵖⵉⴹ ⴰⴷ ⵜⴻⵙⵙⴻⵎⵥⴻⴹ:"
+MenuImagen_MSG16="ⴰⴼⴰⵢⵍⵓ ⵏ ⵜⵡⵍⴰⴼⵜ ⵏⵏⴰ ⵜⵔⵉⴷ ⴰⴷ ⵜⵙⴽⵔⵙ"
+MenuImagen_MSG17="ⴰⵙⵡⵉⵔ ⵏ ISO ⵏ ⵜⵓⵔⴰ"
+MenuImagen_MSG18="ⴰⵙⵡⵉⵔ ⵏ iso"
+MenuImagen_MSG19="ⵉⵙⵎⴰⵡⵏ ⵏ ⵉⴼⴰⵢⵍⵓⵜⴻⵏ ⴱⵏⴰⵏ ⵙ ⵢⴰⵜ ⵜⴰⴳⵣⵣⵓⵎⵜ"
+MenuImagen_MSG20="ⵓ ⵜⵜⵡⴰⵃⴻⵙⴱⴻⵏ ⴰⵔ 8.3 ⵏ ⵉⵙⴻⴽⴽⵉⵍⴻⵏ."
+MenuImagen_MSG21="ⵙⵜⵔ ⴰⵙⵡⵉⵔ ⴰⴷ ⵎⴽ ⵜⵔⵉⴷ ⴰⵙⵎⵙⴰⵙⴰ ⵏ ⵉⵙⵎ"
+MenuImagen_MSG21b="ⴷⴷⴰⵡ ⵏ ⵓⵏⴰⴳⵔⴰⵡ ⵏ ⵓⵙⵉⵔⴻⵎ MSDOS"
+MenuImagen_MSG22="ⵉⵙⵎⴰⵡⵏ ⵏ ⵉⴼⴰⵢⵍⵓⵜⴻⵏ ⴱⵏⴰⵏ ⵙ ⵢⴰⵜ ⵜⴰⴳⵣⵣⵓⵎⵜ"
+MenuImagen_MSG23="ⴰⵙⵡⵉⵔ ⵓⵔ ⵢⴻⵜⵜⵡⴰⴱⴹⴰⵏ."
+MenuImagen_MSG24="ⵙⵎⵔⵙ ⵏ ⵓⵙⵡⵉⵔ ⴰⴷ ⵎⴽ ⵜⵔⵉⴷ ⴰⵎⵙⴰⵙⴰ ⵏ ⵓⴼⴰⵢⵍⵓ"
+MenuImagen_MSG25="ⴰⵎⴻⵇⵇⵔⴰⵏ, ⴷⴻⴳ ⵜⴰⵍⵓⴼⵜ ⴰⴷ >= 2 ⵏ ⵢⵉⴳⵉⴳⴰⴱⵉⵜⴻⵏ."
+MenuImagen_MSG26="ⴰⴽⴽ ⵉⵙⵡⵉⵔⵏ ⵏ ISO ⵙⵙⴰⵔⵙⴰⵏ ⵉⵙⵎⴰⵡⵏ ⵏ ⵉⴼⴰⵢⵍⵓⵜⴻⵏ ⵙ ⵉⵙⴽⴽⵉⵍⵏ ⵉⵅⴰⵜⴰⵔⵏ ⴷ ⵉⵎⵥⵥⵢⴰⵏⵏ ⴷ"
+MenuImagen_MSG27="ⵉⵙⴽⴽⵉⵍⴻⵏ ⴰⵎ _ . ⵉⵙⵎⴰⵡⵏ ⵏ ⵉⴼⴰⵢⵍⵓⵜⴻⵏ ⵜⵜⵡⴰⵔⵓⵃⵏ ⵖⵔ 31 ⵏ ⵉⵙⴽⴽⵉⵍⵏ"
+# Resultado del traductor
+MenuImagen_MSG28="Azal ⵏ 8 ⵏ ⵢⵉⴱⴻⵔⴷⴰⵏ ⵏ ⵓⴹⵔⵉⵙ ⴷ ⵢⵉⵙⴻⵎ ⵏ ⵓⴱⵔⵉⴷ".
+MenuImagen_MSG29="ⵉⵏⴼⵍⵉⵢⴻⵏ ⵙ 255 ⵏ ⵉⵙⴽⴽⵉⵍⵏ."
+MenuImagen_MSG30="ⴼⵔⴻⵏ ⴰⵙⵡⵉⵔ ⵏ ⵉⵙⵓ ⴰⵎⴰⵢⵏⵓ"
+MenuImagen_MSG31="ⴰⵙⵡⵉⵔ ⵏ ISO ⵡⵉⵙ 4 ⵓⵔ ⵉⴳⵉ ⵓⵏⵚⵉⴱ"
+MenuImagen_MSG32="ⵣⵔⴷ ⵜⴰⵙⵏⴰ ⵏ ⵎⴰⵏ ⵏ mkisofs"
+MenuImagen_MSG33="ⴰⵙⵡⵉⵔ ⵏ ISO ⵓⵔ ⵢⴻⵜⵜⵡⴰⵇⴱⴰⵍ ⴰⵔⴰ"
+# Resultado del traductor
+MenuImagen_MSG34="Sbedd ⴰⵙⵡⵉⵔ ⵏ iso 3 ⵙ ⵓⵎⴻⵏⵣⵓ"
+

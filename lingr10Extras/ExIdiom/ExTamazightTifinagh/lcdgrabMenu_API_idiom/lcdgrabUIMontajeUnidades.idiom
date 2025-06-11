@@ -1,0 +1,51 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en Tamazight (Tifinagh) para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="ⴰⵍⵍⴰⵍⴻⵏ ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷⴻⵏ ⵜⵓⵔⴰ ⴷⴻⴳ ⵓⵏⴰⴳⵔⴰⵡ"
+montar_dispositivos_MSG1B="ⴰⵙⴷⵓⴽⴽⴻⵍ/ⴰⵙⴷⵓⴽⴽⴻⵍ ⵏ ⵡⴰⵍⵍⴰⵍ"
+montar_dispositivos_MSG2="ⵉⴹⴰⵖⴰⵔⴻⵏ ⵏ LINUX-CDGRAB"
+montar_dispositivos_MSG3="ⵙⵙⵓⴼⵖⴻⴹ ⴰⴹⴻⴱⵙⵉ ⵙⴻⴳ ⵓⵎⴻⵖⵔⵉ ⵏ CD/DVD/BD"
+montar_dispositivos_MSG4="ⵙⵙⵓⴼⵖⴻⴹ ⴰⴹⴻⴱⵙⵉ ⵙⴻⴳ ⵓⵎⵙⴰⵖ ⵏ CD/DVD/BD"
+montar_dispositivos_MSG5="ⴰⴷⵔⴰⵔ ⵏ ⵓⵎⵖⵔⵉ ⵏ CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG6="ⴰⴽⴽⴻⵙ ⵏ ⵓⴷⵖⴰⵔ ⵏ CD-ROM/DVD-ROM/BD-ROM"
+montar_dispositivos_MSG7="ⴰⴷ ⵔⵏⵓ ⵏⵖ ⴰⵔⵔⵙ ⵏ ⵡⴰⵍⵍⴰⵍ ⵙ ⵓⴼⵓⵙ"
+montar_dispositivos_MSG0="ⴰⵎⵓⵖ ⴰⵇⴱⵓⵔ"
+montar_dispositivos_MSG8="CD/DVD/BD ⵢⴻⵜⵜⵡⴰⵔⵙ ⵖⴻⴼ"
+montar_dispositivos_MSG9="ⵜⵜⵖⴻⵎ ENTER ⵉⵡⴰⴽⴽⴻⵏ ⴰⴷ ⵜⴽⴻⵎⵍⴻⴹ."
+montar_dispositivos_MSG10="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴻⵔⵙ ⵏ CD/DVD/BD ⵖⴻⴼ"
+montar_dispositivos_MSG11="ⵓⵔ ⵉⵜⵜⵡⴰⵙⵎⵔⵙ ⵓⴷⵍⵉⵙ ⵏ CD/DVD/BD"
+montar_dispositivos_MSG12="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵓⴽⴽⴻⵙ ⵏ CD/DVD/BD"
+montar_dispositivos_MSG13="ⴰⵔⵓⴷ ⴰⵖⴰⵡⴰⵙ ⵉ ⵡⴰⴽⴽⴻⵏ ⴰⴷ ⵜⴻⵙⵔⴻⵙ/ⵜⴻⵙⵙⵓⴼⵖⴻⴹ:"
+montar_dispositivos_MSG14="ⵙⴽⴻⵛⵎ ⵜⴰⵏⵇⵉⴹⵜ ⵏ ⵓⵎⵔⴰⵔ:"
+montar_dispositivos_MSG15="ⵓⵔ ⵉⵎⵙⴰⵙⴰⵏ ⴷ ⵢⴰⵏ ⵓⵖⴰⵡⴰⵙ ⵏ ⵓⴱⴹⴹⵓ."
+montar_dispositivos_MSG16="ⵜⴰⵏⵇⵉⴹⵜ ⵏ ⵓⴷⵔⴰⵔ ⵓⵔ ⵜⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ"
+montar_dispositivos_MSG17="ⵜⴰⵏⵇⵉⴹⵜ ⵏ ⵓⵙⵔⵔⴻⴷ ⴰⵎⴻⵙⵍⵓⴳⴻⵏ"
+montar_dispositivos_MSG18="ⴼⵔⴻⵏ ⴰⴹⵔⵉⵙ:"
+montar_dispositivos_MSG19="ⵔⴽⴻⴱ"
+montar_dispositivos_MSG20="ⴷⴻⴳ"
+montar_dispositivos_MSG21="ⵔⵥⴻⵎ"
+montar_dispositivos_MSG22="ⵏ"
+montar_dispositivos_MSG23="ⵢⴻⵜⵜⵡⴰⵔⴽⴻⴱ ⵖⴻⴼ:"
+montar_dispositivos_MSG24="ⵜⵓⵛⵛⴹⴰ ⵏ ⵓⵙⴻⵔⵙ"
+montar_dispositivos_MSG25="ⴷⴻⴳ"
+montar_dispositivos_MSG26="ⵢⴻⵜⵜⵡⴰⴽⴽⴻⵙ ⵙⴻⴳ"
+montar_dispositivos_MSG27="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴼⴻⴹ"
+montar_dispositivos_MSG28="ⵏ"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="ⴰⵙⴻⴽⵛⴻⵎ ⵏ ⵓⵎⵢⴰⴳⴻⵔ mount"
+Montar_Imagenes_MSG1B="ⵙⵙⴻⵔⵙ/ⴽⴽⴻⵙ ⵉⴼⵓⵢⵍⴰ ⵏ ⵜⵓⴳⵏⴰ"
+Montar_Imagenes_MSG2="ⴼⵔⴻⵏ ⵢⵉⵡⴻⵏ ⵏ ⵓⴹⴼⴰⵔ"
+Montar_Imagenes_MSG3="ⴰⴷⵔⴰⵔ ⵏ ⵜⵓⴳⵏⴰ CD/DVD/BD"
+Montar_Imagenes_MSG4="ⴽⴽⴻⵙ ⵜⵓⴳⵏⴰ ⵙⴻⴳ CD/DVD/BD"
+Montar_Imagenes_MSG5="ⴰⵎⴻⵏⵏⵓⵖ ⴰⵇⴱⵓⵔ"

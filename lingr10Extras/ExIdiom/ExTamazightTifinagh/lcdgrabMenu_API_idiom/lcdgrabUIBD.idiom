@@ -1,0 +1,20 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcgdrabMenu_API_idiom/lcdgrabUIBD.idiom
+# Menu de Interfaz para la grabación de BD.
+# Traducción experimental al Tamazight (Tifinagh), generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# menu_grabar_BD
+
+menu_grabar_BD_MSG0="ⴰⵎⴻⵏⵏⵓ ⵉⵣⵡⴰⵔⵏ."
+menu_grabar_BD_MSG1="ⴰⵙⴻⴽⵍⴻⵙ ⵏ ⵓⴹⴻⴱⵙⵉ ⵏ BLU RAY"
+menu_grabar_BD_MSG2="ⵙⵔⵖ ⵢⴰⵏ ⵉⵙⵓ ⴱⴷⵔ/ⴱⴷ-ⵔⴻ ⴰⵎⴰⵢⵏⵓ ⵙⴳ ⵉⵙⴼⴽⴰ ⵏ ⵓⴹⴱⵉⴱ ⴰⵇⵚⵕⴰⵏ"
+menu_grabar_BD_MSG4="ⵜⴰⵡⵍⴰⴼⵜ ISO/UDF ⵉ ⵔⴰⴷ ⵉⵙⵙⵉⵔⵖ ⴳ ⵓⴹⴱⵉⴱ."
+menu_grabar_BD_MSG7="ⵙⵔⵖ ⵜⴰⵡⵍⴰⴼⵜ ⵉⵙⵓ-9660/ⵓⴷⴼ ⵖⵔ ⴱⴷⵔ/ⴱⴷ-ⵔⴻ"
+menu_grabar_BD_MSG8="------------------- ⴱⴷⵉⵙⴻⴼⴽⴰ -------------------"
+menu_grabar_BD_MSG9="ⵙⴽⴻⵏⴷ ⵉⵙⴰⵍⵍⴻⵏ ⵏ ⵓⴹⴻⴱⵙⵉ ⵏ ⵓⵏⴻⴽⵛⵓⵎ"
+menu_grabar_BD_MSG10="ⵙⴻⵇⴷⴻⵛ ⵜⵓⴽⴽⵙⴰ ⵉⵍⴰⵇⴻⵏ ⵉ BD-RE"

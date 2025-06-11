@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExTamazightTifinagh/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Tamazight (Tifinagh) para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="ⵜⵉⵎⵀⴰⵍ ⵏ ⵓⵏⴻⴽⵛⵓⵎ ⵏ ⵓⴹⴻⴱⵙⵉ"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="------------------------ ⴰⵅⴰⵜⴰⵔ -------------------------"
+MenuDispositivosBloque_MSG3="+ ⵓⵔ ⵙⴻⴳⴳⴻⵎ ⴰⵔⴰ ⵜⵉⵎⵀⴰⵍ ⵏ ⵜⵉⵔⴰ ⴷⴻⴳ ⵢⵉⴹⴻⴱⵙⵉⵢⴻⵏ ⵉⵇⴻⵙⵃⴻⵏ "
+MenuDispositivosBloque_MSG4="+ ⵖⴻⴼ ⵜⴼⴻⵔⴽⵉⵡⵉⵏ ⵏ ⵓⴹⴻⴱⵙⵉ ⵢⴻⵙⵄⴰⵏ ⵜⵓⴳⵏⵉⵡⵉⵏ".
+MenuDispositivosBloque_MSG5="+ ⴰⵙⴻⵏⵇⴻⴷ, ⵜⵉⴼⴻⵔⴽⵉⵡⵉⵏ ⵏ ⵓⵙⴻⵍⴽⵉⵎ ⵏⴰⵖ ⴰⵢⵍⴰⴽ"
+MenuDispositivosBloque_MSG6="+ ⴰⴼⴻⵔⴷⵉⵙ ⵏ ⵓⵏⴰⴳⵔⴰⵡ ⵏ ⵓⵙⴻⵍⴽⵉⵎ."
+MenuDispositivosBloque_MSG7="+ ⴰⵙⵎⵔⵙ ⵓⵔⴳⴳⵉⵍⵏ ⵏ ⵜⵉⴼⵢⴰⵔ ⵏ ⵜⵉⵔⵔⴰ ⵏ ⵓⵎⵏⵢⵓ ⴰⴷ "
+MenuDispositivosBloque_MSG8="+ ⵢⴻⵣⵎⴻⵔ ⴰⴷ ⴷⵢⴻⵙⵏⵓⵍⴼⵓ ⵜⴰⵖⵜⴻⵙⵜ ⴷⴻⴳ ⵓⵏⴰⴳⵔⴰⵡ."
+MenuDispositivosBloque_MSG9="+ ⵙⴻⵇⴷⴻⵛ ⵙ ⵜⵃⴻⵇⵔⴰⵏⵉⵜ. ⵙⴻⵇⴷⴻⵛ ⵙ ⵜⵃⵉⵍⴰⵉⵏⴻⴽ."
+MenuDispositivosBloque_MSG10="---------------------- ⵜⵉⵔⴰ ----------------------"
+MenuDispositivosBloque_MSG11="ⴹⴻⴳⴳⴻⵔ ⵢⴰⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵜⵡⵍⴰⴼⵜ ⵖⴻⴼ ⵓⵎⴰⵀⵉⵍ ⵏ ⵓⴹⴻⴱⵙⵉ"
+MenuDispositivosBloque_MSG11B="ⴹⴻⴳⴳⴻⵔ ⵜⵓⴳⵏⴰ .iso ⵏⴻⵖ .img (ⵜⴻⵣⵎⴻⵔ ⴰⴷ ⵜⴻⴱⴷⵓ ⵙ ⵢⵉⵎⴰⵏⵉⵙ) ⵖⴻⵔ pendrive ⵏⴻⵖ ⵖⴻⵔ ⵓⴹⴻⴱⵙⵉ USB"
+MenuDispositivosBloque_MSG11C="ⵎⴰⵞⵞⵉ ⴰⴽⴽⵯ ⵉⵏⴰⴳⵔⴰⵡⵏ ⵏ ⵓⵙⵔⴰⵙ ⵓⵔ ⵜⵜⵡⴰⵙⵏⴰⴼⵍⵏ."
+MenuDispositivosBloque_MSG12="ⴰⵙⵏⵉⵍⴻⵙ ⵏ ⵓⴹⴻⴱⵙⵉ ⵙ ⵓⵏⴰⴳⵔⴰⵡ ⵏ ⵉⴼⴰⵢⵍⵓⵜⴻⵏ ⵏ Linux ⵏⴻⵖ Windows ⴰⵏⴰⵚⵍⵉ".
+MenuDispositivosBloque_MSG13="--------------------- ⵜⴰⵖⵓⵔⵉ ---------------------"
+MenuDispositivosBloque_MSG14="ⵙⵏⵓⵍⴼⴰⴷ ⵜⴰⵡⵍⴰⴼⵜ ⵏ .img ⵙⴳ ⵢⴰⵏ ⵓⴹⴱⵉⴱ ⵏ ⵓⴹⴱⵉⴱ"
+MenuDispositivosBloque_MSG15="ⴰⵎⴻⵏⵏⵓⵖ ⴰⵇⴱⵓⵔ"
+MenuDispositivosBloque_MSG16="Arud ⴰⴼⴻⵔⴷⵉⵙ"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="-----------------------------ⴰⵅⴰⵜⴰⵔ-------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ ⵜⴰⵢⵓⵏⵜ ⵏ ⵓⵙⵏⵉⵍⴻⵙ ⵙ ⵓⵏⴰⴳⵔⴰⵡ ⵏ ⵢⵉⴼⴰⵢⵍⵓⵜⴻⵏ ⵢⴻⵜⵜⵡⴰⵙⵙⴻⵇⴷⴰⵛⴻⵏ ⴷⴻⴳ ⵉⵙⴳⵓⵍⴰⵙⴻⵏ"
+UIFormatearUnidad_linuxfs_MSG2B="+ ⵏⴻⵖ ⵜⵉⴼⴻⵔⴽⵉⵡⵉⵏ ⵏ ⵓⴹⵔⵉⵙ."
+UIFormatearUnidad_linuxfs_MSG3="+ ⴰⴼⵜⴰⵢ ⴰⴷ ⵔⴰⴷ ⵉⵎⵙⵉ ⴰⴽⴽⵯ ⵉⵙⴼⴽⴰ ⵉⵍⵍⴰⵏ ⵖ ⵜⴰⵢⵓⵏⵜ"
+UIFormatearUnidad_linuxfs_MSG4="+ ⵉⵏⴹⴻⴱⵙⵉⵢⴻⵏ ⵉⵜⵜⵡⴰⴽⴽⵙⴻⵏ ⵉⵜⵜⵡⴰⵙⵏⴰⵍⵖⴻⵏ ⵙ ⵓⵏⴰⴳⵔⴰⵡ ⵏ ⵉⴼⴰⵢⵍⵓⵜⴻⵏ"
+UIFormatearUnidad_linuxfs_MSG5="+ ⵍⵉⵏⵓⵅ ⵙ ⵉⵅⴻⴼ-ⵉⵙ ⵔⴰⴷ ⵢⵉⵍⵉ ⵡⴰⵍⴰ ⵉⵜⵜⴰⵡⴰⵣ ⴷⴷⴰⵡ ⵏ ⵓⵏⴰⴳⵔⴰⵡ ⴰⴷ ⵏ ⵓⵙⵡⵓⵔⵉ."
+UIFormatearUnidad_linuxfs_MSG6="+ ⴰⵙⵎⵔⵙ ⵙ ⵓⵃⴰⴷⴷⴰⴷ, ⴰⵙⵎⵔⵙ ⵙ ⵓⵎⵉⴹⴰⵏ ⵏⵏⴽ."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="ⴹⴻⵎ ⵜⴰⵙⴰⵔⵓⵜ ⵏ C ⵉⵡⴰⴽⴽⴻⵏ ⴰⴷ ⵜⴽⴻⵎⵍⴻⴹ. (ⴰⴽⴰⵍⴰ ⴰⴷ ⵢⴻⵜⵜⵡⴰⴱⵟⴻⵍ ⴷⴻⴳ ⵓⴹⴼⴰⵔ ⵏⵏⵉⴹⴻⵏ)"
+

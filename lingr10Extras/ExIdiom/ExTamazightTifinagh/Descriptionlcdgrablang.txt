@@ -1,0 +1,23 @@
+ⵜⴰⵎⴰⵣⵉⵖⵜ
+
+Tamazight Tifinagh.
+Experimental.
+
+Idioma Tamazight escrito en Tifinagh.
+Por estudio del comportamiento de los caracteres del alfabeto Tifinagh.
+Contiene errores de significado en contexto o traducción propia.
+El shell debe tener soporte para los caracteres de tifinagh, de lo
+contrario este idioma no será funcional en el shell.
+Generado con Google Translate.
+
+Tamazight language written in Tifinagh.
+By studying the behavior of the characters of the Tifinagh alphabet.
+Contains meaning errors in context or own translation.
+The shell must have support for tifinagh characters, otherwise
+this language will not be functional in the shell.
+Generated with Google Translate.
+
+ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⵎⴰⵣⵉⵖⵜ (ⵜⵉⴼⵉⵏⴰⴳ) ⵉ linux-cdgrab.
+ⵜⴰⵊⴻⵔⵔⵓⵎⵜ, ⵜⴻⵜⵜⵡⴰⵅⴷⴻⵎ ⵙ ⵜⵙⵓⵇⵉⵍⵜ ⵏ Google.
+Pascual Martínez Cruz; pascual@hotmail.com
+

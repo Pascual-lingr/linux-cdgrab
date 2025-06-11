@@ -1,0 +1,141 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en Tamazight (Tifinagh) para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3 ⵏ ⵢⵉⴼⵓⵢⵍⴰ ⵉ ⵓⴱⴻⴷⴷⴻⵍ"
+mp3awav_MSG0="ⵙⴽⴻⵛⵎ ⴰⴱⵔⵉⴷ ⵖⴻⵔ ⵉⴼⵓⵢⵍⴰ .mp3: "
+mp3awav_MSG1="ⴰⵙⵏⵓⵍⴼⵓ"
+mp3awav_MSG1B=" ⵉ ⵜⴰⵍⵖⴰ .wav"
+mp3awav_MSG2="ⵜⴰⵔⵡⴻⵍⴰ"
+mp3awav_MSG3="ⴰⵎⵎⵓⴷ ⵏ 44100 Mhz"
+mp3awav_MSG4="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴻⵍⴽⴻⵎ ⵏ ⵍⴻⵎⵜⴻⵍ"
+mp3awav_MSG5="ⵓⵔ ⵢⴻⵣⵎⵉⵔ ⴰⵔⴰ ⴰⴷ ⵉⴱⴻⴷⴷⴻⵍ"
+mp3awav_MSG6="ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ ⵓⵎⴹⵉⵇ"
+mp3awav_MSG7="ⵜⴰⴳⴳⴰⵔⴰ ⵏ ⵓⵙⵓⵖⴻⵍ ⵏ ⵓⵙⵍⵉⴹ"
+mp3awav_MSG8="ⴰⵙⴻⵎⵔⴻⵙ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵓⵙⵍⵉⴹ"
+mp3awav_MSG9="ⴰⵎⵢⴰⴳ"
+mp3awav_MSG10="ⵢⴻⵜⵜⵡⴰⵙⵍⴻⴹ"
+mp3awav_MSG11="ⵜⵓⵛⵛⴹⴰ ⵏ ⵓⵙⵏⵉⵍⴻⵙ"
+
+# oggawav
+
+oggawav_MSG0="OGG ⵏ ⵢⵉⴼⵓⵢⵍⴰ ⵉ ⵓⴱⴻⴷⴷⴻⵍ"
+oggawav_MSG1="ⵙⴽⴻⵛⵎ ⴰⴱⵔⵉⴷ ⵖⴻⵔ ⵉⴼⵓⵢⵍⴰ .ogg: "
+oggawav_MSG2="ⴰⵙⵏⵓⵍⴼⵓ"
+oggawav_MSG2B="ⵉ ⵜⴰⵍⵖⴰ .wav"
+oggawav_MSG3="ⵜⴰⵔⵡⴻⵍⴰ"
+oggawav_MSG4="ⴰⵎⵎⵓⴷ ⵏ 44100 Mhz"
+oggawav_MSG5="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴻⵍⴽⴻⵎ ⵏ ⵍⴻⵎⵜⴻⵍ"
+oggawav_MSG6="ⵓⵔ ⵢⴻⵣⵎⵉⵔ ⴰⵔⴰ ⴰⴷ ⵉⴱⴻⴷⴷⴻⵍ"
+oggawav_MSG7="ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ ⵓⵎⴹⵉⵇ"
+oggawav_MSG8="ⵜⴰⴳⴳⴰⵔⴰ ⵏ ⵓⵙⵓⵖⴻⵍ ⵏ ⵓⵙⵍⵉⴹ"
+oggawav_MSG9="ⴰⵙⴻⵎⵔⴻⵙ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵓⵙⵍⵉⴹ"
+oggawav_MSG10="ⴰⵎⵢⴰⴳ"
+oggawav_MSG11="ⵢⴻⵜⵜⵡⴰⵙⵍⴻⴹ"
+oggawav_MSG12="ⵜⵓⵛⵛⴹⴰ ⵏ ⵓⵙⵏⵉⵍⴻⵙ"
+
+# cdawav
+
+cdawav_MSG1="ⴰⵙⴻⴽⵛⴻⵎ ⵏ CD ⵏ ⵓⵙⵍⵉⴹ ..."
+cdawav_MSG2="ⵜⴰⵔⵡⴻⵍⴰ:"
+cdawav_MSG3="ⵉⵛⴻⴹⴹⵉⴹⴻⵏ ⵏ ⵓⵙⵍⵉⴹ ⵙ ⵔⵔⴱⴻⵃ !!"
+cdawav_MSG4="ⴰⴳⴱⵓⵔ ⵏ ⵓⵙⴻⴱⵜⴻⵔ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵓⵙⵍⵉⴹ"
+cdawav_MSG5="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵛⴻⴳⴳⴻⵄ ⵏ ⵉⴹⵔⵉⵙⴻⵏ ⵏ ⵓⵙⵍⵉⴹ"
+
+# cddawav
+
+cddawav_MSG1="ⵙⴽⴻⵛⵎ ⴰⵎⴹⴰⵏ ⵏ ⵜⵉⵣⵍⴰⵜⵉⵏ ⴰⵔⴰ ⵜⵜⴻⵇⴹⴻⵄⴻⴹ :"
+cddawav_MSG2="ⵟⵟⴻⴼ Crtl + c ⵉⵡⴰⴽⴽⴻⵏ ⴰⴷ ⵜⴱⴻⵟⵟⵍⴻⴹ ⴰⵙⴻⴽⵛⴻⵎ ⵏ ⵢⵉⵡⴻⵏ ⵏ ⵓⴹⵔⵉⵙ"
+cddawav_MSG3="ⵜⴰⵔⵡⴻⵍⴰ:"
+cddawav_MSG4="ⵢⴻⵜⵜⵡⴰⵔⵥⴻⵎ ⵙ ⵔⵔⴱⴻⵃ"
+cddawav_MSG5="ⵜⵓⵛⵛⴹⴰ ⵎⵉ ⴰⵔⴰ ⵜⵜⴻⵇⴹⴻⵄⴻⴹ"
+
+# wavamp3
+
+wavamp3_MSG0="WAV ⵏ ⵢⵉⴼⵓⵢⵍⴰ ⵉ ⵓⴱⴻⴷⴷⴻⵍ"
+wavamp3_MSG1="ⵙⵙⴻⴽⵛⴻⵎ ⴰⴱⵔⵉⴷ ⵖⴻⵔ ⵉⴼⵓⵢⵍⴰ .wav: "
+wavamp3_MSG1B="ⴰⵙⵏⵓⵍⴼⵓ"
+wavamp3_MSG2="ⵉ ⵜⴰⵍⵖⴰ"
+wavamp3_MSG3="ⵜⴰⵔⵡⴻⵍⴰ:"
+wavamp3_MSG4="ⵎⵉ ⴰⵔⴰ ⵜⴱⴻⴷⴷⴻⵍⴻⴹ"
+wavamp3_MSG5="ⵖⴻⵔ ⵜⴰⵍⵖⴰ .MP3"
+wavamp3_MSG6="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵓⵖⴻⵍ"
+wavamp3_MSG7="ⵉⴽⴻⵎⵎⴻⵍ ⵓⵙⵓⵖⴻⵍ ⵏ ⵚⵚⵓⵜ"
+wavamp3_MSG8="ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ ⵓⵎⴹⵉⵇ ⵏ ⵓⵙⵍⵉⴹ"
+
+# cdamp3
+
+cdamp3_MSG1="ⴰⵙⴻⴽⵛⴻⵎ ⵏ CD ⵏ ⵓⵙⵍⵉⴹ ..."
+cdamp3_MSG2="ⵜⴰⵔⵡⴻⵍⴰ:"
+cdamp3_MSG3="ⵉⵛⴻⴹⴹⵉⴹⴻⵏ ⵏ ⵓⵙⵍⵉⴹ ⵙ ⵔⵔⴱⴻⵃ !!"
+cdamp3_MSG4="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵛⴻⴳⴳⴻⵄ ⵏ ⵉⴹⵔⵉⵙⴻⵏ ⵏ ⵓⵙⵍⵉⴹ"
+cdamp3_MSG5="ⴰⵙⵉⵡⴻⵍ ⵉ ⵜⴻⵖⵍⵉⴼⵜ:"
+
+# wavaogg
+
+wavaogg_MSG1="ⵙⵙⴻⴽⵛⴻⵎ ⴰⴱⵔⵉⴷ ⵖⴻⵔ ⵉⴼⵓⵢⵍⴰ .wav: "
+wavaogg_MSG2="ⴰⵙⵏⵓⵍⴼⵓ"
+wavaogg_MSG3="ⵉ ⵜⴰⵍⵖⴰ .ogg"
+wavaogg_MSG4="ⵜⴰⵔⵡⴻⵍⴰ:"
+wavaogg_MSG5="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵓⵖⴻⵍ"
+wavaogg_MSG6="ⵖⴻⵔ ⵜⴰⵍⵖⴰ .ogg"
+
+# cdaogg
+
+cdaogg_MSG1="ⴰⵙⴻⴽⵛⴻⵎ ⵏ CD ⵏ ⵓⵙⵍⵉⴹ ..."
+cdaogg_MSG2="ⵜⴰⵔⵡⴻⵍⴰ:"
+cdaogg_MSG3="ⵉⵛⴻⴹⴹⵉⴹⴻⵏ ⵏ ⵓⵙⵍⵉⴹ ⵙ ⵔⵔⴱⴻⵃ !!"
+cdaogg_MSG4="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵛⴻⴳⴳⴻⵄ ⵏ ⵉⴹⵔⵉⵙⴻⵏ ⵏ ⵓⵙⵍⵉⴹ"
+cdaogg_MSG5="ⴰⵙⵉⵡⴻⵍ ⵉ ⵜⴻⵖⵍⵉⴼⵜ:"
+
+# corta_wav
+
+corta_wav_MSG0="ⴰⵎⴹⴰⵏ ⵏ ⵜⵙⵉⵏⵉⵏ:"
+corta_wav_MSG1="ⵙⵏⵓⵍ ⴰⴱⵔⵉⴷ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵓⵙⵍⵉⴹ ⵉ ⵔⴰⴷ ⵜⵙⵏⴼⵍⵜ:"
+corta_wav_MSG2="ⵙⵏⵓⵍ ⴰⵣⵎⵣ ⵙ ⵜⵉⵙⵉⵏⵉⵏ ⴷⴼⴼⵉⵔ ⵏⵏⵙ"
+corta_wav_MSG3="ⴰⴷ ⵉⴳⵣⴻⵎ ⴰⴼⴰⵢⵍⵓ."
+corta_wav_MSG4="-ⵜⵉⵏⵇⵉⴹⵉⵏ-"
+corta_wav_MSG5="ⴰⴽⴽⴻⵏ ⴰⴷ ⵜⵙⵏⵉⵍⴻⴹ ⵜⴰⵣⵡⴰⵔⴰ ⵏ ⵓⵙⵍⵉⴹ, ⵙⴽⴻⵛⵎ 0."
+corta_wav_MSG6="ⴰⵣⴰⵍ ⴷⴻⴳ ⵜⵉⵙⵉⵏⵉⵏ ⴰⴽⴽⴻⵏ ⴰⴷ ⵜⴻⴱⴷⵓ ⴰⵙⵓⵖⴻⵍ:"
+corta_wav_MSG7="ⵙⵏⵓⵍ ⴰⵣⵎⵣ ⵙ ⵜⵉⵙⵉⵏⵉⵏ ⴷⴼⴼⵉⵔ ⵏⵏⵙ"
+corta_wav_MSG8="ⴰⴷ ⵉⴳⵣⴻⵎ ⴰⴼⴰⵢⵍⵓ."
+corta_wav_MSG9="ⴰⵣⴰⵍ ⴷⴻⴳ ⵜⵉⵙⵉⵏⵉⵏ ⴰⵔ ⴰⴷ ⵉⴽⴻⵎⵎⴻⵍ ⵓⵙⵓⵖⴻⵍ:"
+corta_wav_MSG10="ⵜⴰⵔⵡⴻⵍⴰ"
+corta_wav_MSG11="ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⵙⵍⵉⴳ ⵉⵜⵜⵡⴰⴳⵣⵎⵏ"
+corta_wav_MSG12="ⴰⵣⴳⴰⵍ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵓⵙⴻⵣⵎⴻⵍ"
+corta_wav_MSG13="ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⵙⵍⵉⴳ ⵉ ⵓⵙⴳⵣⵉⵎ:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV ⴰⵥⴰⵡⴰⵏ"
+flacawav_MSG1="ⵙⴽⴻⵏⴷ ⴰⴱⵔⵉⴷ ⵖⴻⵔ ⵉⴼⵓⵢⵍⴰ .flac :"
+flacawav_MSG2="ⴰⵙⵏⵓⵍⴼⵓ"
+flacawav_MSG3=" ⵉ ⵜⴰⵍⵖⴰ .wav"
+flacawav_MSG4="ⴰⵎⵎⵓⴷ ⵏ 44100 Mhz"
+flacawav_MSG5="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴻⵍⴽⴻⵎ ⵏ ⵍⴻⵎⵜⴻⵍ"
+flacawav_MSG6="ⴰⵙⴻⵎⵔⴻⵙ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵓⵙⵍⵉⴹ"
+flacawav_MSG7="ⴰⵎⵢⴰⴳ"
+flacawav_MSG8="ⵢⴻⵜⵜⵡⴰⵙⵍⴻⴹ"
+flacawav_MSG9="ⵜⵓⵛⵛⴹⴰ ⵏ ⵓⵙⵏⵉⵍⴻⵙ"
+flacawav_MSG10="ⵓⵔ ⵢⴻⵣⵎⵉⵔ ⴰⵔⴰ ⴰⴷ ⵉⴱⴻⴷⴷⴻⵍ"
+flacawav_MSG11="ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ ⵓⵎⴹⵉⵇ"
+flacawav_MSG12="ⵜⴰⴳⴳⴰⵔⴰ ⵏ ⵓⵙⵓⵖⴻⵍ ⵏ ⵓⵙⵍⵉⴹ"
+
+# wavaflac
+
+wavaflac_MSG0="WAV ⵏ ⵢⵉⴼⵓⵢⵍⴰ ⵉ ⵓⴱⴻⴷⴷⴻⵍ"
+wavaflac_MSG1="ⵙⵙⴻⴽⵛⴻⵎ ⴰⴱⵔⵉⴷ ⵖⴻⵔ ⵉⴼⵓⵢⵍⴰ .wav: "
+wavaflac_MSG2="ⴰⵙⵏⵓⵍⴼⵓ"
+wavaflac_MSG3="ⵉ ⵜⴰⵍⵖⴰ .flac"
+wavaflac_MSG4="ⴰⴼⴰⵢⵍⵓ ⵢⴻⵜⵜⵡⴰⴱⴻⴷⴷⵍⴻⵏ .flac"
+wavaflac_MSG5="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵓⵖⴻⵍ"
+wavaflac_MSG6="ⵖⴻⵔ ⵜⴰⵍⵖⴰ .flac"
+wavaflac_MSG7="ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ ⵓⵎⴹⵉⵇ ⵏ ⵓⴼⴰⵢⵍⵓ FLAC"

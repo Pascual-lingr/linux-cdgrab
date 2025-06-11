@@ -1,0 +1,174 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Tamazight (Tifinagh) para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="ⴰⵍⵍⴰⵍ ⵏ ⵓⵙⴻⴽⵍⴻⵙ ⴰⵎ"
+buscar_grabadora_MSG1B="ⵉⵣⵔⴼⴰⵏ"
+buscar_grabadora_MSG2="ⴰⵍⵍⴰⵍ ⵏ ⵓⵙⴻⴽⵍⴻⵙ ⴰⵎ"
+buscar_grabadora_MSG2B="ⵜⵓⵛⵛⴹⴰ"
+buscar_grabadora_MSG3="ⵉⵙⴰⵍⵍⴻⵏ ⵏ dvd+-rw-tools ⴰⵔ ⴰⵔ ⵜⵜⵇⴰⴱⴰⵍⵏ ⴰⵖⴰⵡⴰⵙ ⵏ ⵓⵙⴻⴽⵍⴻⵙ ⴰⵎ"
+buscar_grabadora_MSG4="ⴰⴽⴽⴻⵏ ⴰⴷ ⵜⴻⵙⵎⴻⴹ ⵉⴹⴻⴱⵙⵉⵢⴻⵏ ⵏ DVD ⵙ ⵓⵙⵎⵔⵙ ⵏ dvd+rw-tools, ⵉⵅⵚⵚⴰ ⴰⴷ ⵜⵙⴱⴻⴷⴷⴻⴹ ⴰⵙⴻⵖⵥⴰⵏ ⵏⴽ ⴰⵎ ⴰⵖⴰⵡⴰⵙ ⵏ ⵓⴱⵔⵉⴷ."
+buscar_grabadora_MSG5="ⴰⵎⴻⴷⵢⴰ"
+buscar_grabadora_MSG6="ⵏⴻⵖ"
+buscar_grabadora_MSG7="ⴰⵙⴽⴰⵏ ⵏ ⵉⴳⵔⴰⵏ ⵏ ⵓⵏⴰⴳⵔⴰⵡ ⵉⵍⵍⴰⵏ ⴳ /dev"
+buscar_grabadora_MSG8="ⵙⴽⵛⵎ ⴰⵖⴰⵡⴰⵙ ⵏ ⵓⴱⵍⵓⴳ ⵉⵎⵙⴰⵙⴰⵏ ⴷ ⵓⵎⵙⴽⵍⵙ ⵏⵏⴽ ⵏ DVD"
+buscar_grabadora_MSG9=" ⵓⵔ ⵉⵜⵜⵓⵙⴽⴰⵔ ⵡⴰⵏⴰⵡ ⵏⵖ ⵏ ⵓⴼⵜⴰⵢ ⵏ ⵓⵎⵙⴽⵍⵙ."
+buscar_grabadora_MSG10="ⴰⵍⵍⴰⵍ ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷⴻⵏ ⵉ ⵓⵙⴻⴽⵍⴻⵙ"
+buscar_grabadora_MSG11="ⴰⵙⴻⵍⴽⵉⵎ ⵏ ⵓⵙⴻⴽⵍⴻⵙ ⵢⴻⵜⵜⵡⴰⵙⵙⵓⴼⴼⴻⵖ ⵖⴻⵔ ⵜⵡⴻⵏⵏⴰⴹⵜ ⵏ ⵓⵇⴻⵛⵍⴰⵡ ⴰⵎ"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="ⴰⵣⴰⵍ ⵉⵣⴻⵎⵔⴻⵏ ⴰⴷ ⵢⵉⵍⵉ ⵢⴻⵜⵜⵡⴰⵇⴱⴰⵍ ⴽⴰⵏ ⵉ cdrecord"
+buscar_grabadoralb_MSG2="ⴰⵙⵏⴰⵙ ⵏ ⵜⵓⵔⴰ ⵏ ⵓⵙⴻⴽⵍⴻⵙ ⵉⴳⴰ"
+buscar_grabadoralb_MSG3="ⵙⴼⵇⴷ ⵉⵙ ⵉⵎⵙⴰⵙⴰⵏ ⵓⵙⵔⵓⵙ ⴰⴷ ⴷ ⵡⴰⵜⵉⴳ ⵍⵍⵉ ⵉⴼⴽⴰ cdrskin"
+buscar_grabadoralb_MSG4="ⴰⵙⴽⴰⵏ ⵏ ⵓⵙⵎⴻⵍ IDE/SCSI ⵙ cdrskin..."
+buscar_grabadoralb_MSG5="ⵙⵏⵓⵍ ⴰⵣⴰⵖ ⴰⵎⴰⵢⵏⵓ ⵉ ⵔⴰⴷ ⵉⵜⵜⵡⴰⵙⵎⵔⵙⵏ ⴷ cdrskin:"
+
+# datos_dvd
+
+datos_dvd_MSG1="ⵙⵙⴻⴽⵛⴻⵎ ⵉⵙⴻⵎ ⵉ DVD ⵉ ⴷⵉⵜⴻⴷⴷⵓⵏ:"
+datos_dvd_MSG2="DVD ⵏ ⵜⵎⴻⵙ . . ."
+datos_dvd_MSG3="ⵍⴻⴱⵙⴰ"
+datos_dvd_MSG4="ⵜⵜⴻⴷⴷⵓⵏ"
+datos_dvd_MSG5=" DVD ⵢⴻⵞⵞⴰ ⵙ ⵔⵔⴱⴻⵃ!! "
+datos_dvd_MSG6="ⵓⵔ ⵢⴻⵣⵎⵉⵔ ⴰⵔⴰ ⴰⴷ ⵢⴰⴼ mkisofs ⵏⴻⵖ genisoimage, ⵙⴱⴻⴷⴷ cdrtools ⵏⴻⵖ cdrkit"
+
+# datos_dvd_multi
+
+datos_dvd_multi_MSG1="ⵙⵙⴻⴽⵛⴻⵎ ⵉⵙⴻⵎ ⵉ DVD ⵉ ⴷⵉⵜⴻⴷⴷⵓⵏ:"
+datos_dvd_multi_MSG2="DVD ⵏ ⵜⵎⴻⵙ . . ."
+datos_dvd_multi_MSG3="ⵍⴻⴱⵙⴰ"
+datos_dvd_multi_MSG4="ⵜⵜⴻⴷⴷⵓⵏ"
+datos_dvd_multi_MSG5=" DVD ⵢⴻⵞⵞⴰ ⵙ ⵔⵔⴱⴻⵃ!! "
+datos_dvd_multi_MSG6="ⵓⵔ ⵢⴻⵣⵎⵉⵔ ⴰⵔⴰ ⴰⴷ ⵢⴰⴼ mkisofs ⵏⴻⵖ genisoimage, ⵙⴱⴻⴷⴷ cdrtools ⵏⴻⵖ cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="ⴰⵙⴻⴽⵍⴻⵙ ⵏ ⵜⵓⴳⵏⴰ..."
+grabimg_dvd_MSG2="ⵜⵜⴻⴷⴷⵓⵏ"
+grabimg_dvd_MSG3="ⵜⵓⴳⵏⴰ ⵏ DVD ⵜⴻⵜⵜⵡⴰⵔⵥⴻⵎ ⵙ ⵔⵔⴱⴻⵃ. !"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="ⵙⵔⴻⵖ ⵜⵓⴳⵏⴰ ⵖⴻⵔ DVD . . ."
+copia_bin_dvd_MSG2="ⵜⵜⴻⴷⴷⵓⵏ"
+copia_bin_dvd_MSG3="	ⵜⵓⴽⴽⵙⴰ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵜⵓⴳⵏⴰ"
+copia_bin_dvd_MSG4="ⵢⴻⴽⴼⴰ ⵓⵙⴻⴽⵍⴻⵙ !"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="ⵜⴰⵍⵖⴰ"
+formatear_dvd_MSG2="ⵃⴻⵜⵜⵎ ⵜⴰⵍⵖⴰ ⵜⴰⵎⴰⵢⵏⵓⵜ ⵉ ⴰ"
+formatear_dvd_MSG3="ⵙⵏⴻⴼⵍⵉ ⵏ ⵓⵃⵔⵉⵛ ⵏ ⵓⵙⵓⴼⵖ ⵏ ⴰ"
+formatear_dvd_MSG4="ⴰⵙⵏⴰⵍ ⵏ DVD-RW ⵙ ⵓⵎⵔⵏⵓ ⴰⵎⵣⵡⴰⵔⵓ"
+formatear_dvd_MSG5="ⵙⵏⵓⵎⵎⴻⴷ ⵢⴰⵏ DVD-RW ⵙ ⵜⵉⵔⴰ ⵏ ⵓⴼⵍⵍⴰ ⵉⵜⵜⵡⴰⴳⴷⵍⵏ"
+formatear_dvd_MSG6="ⵜⵎⴹⵉⵕ ⵢⴰⵏ ⴹⵉⴼⴹ ⵙ ⵉⵣⵓⵔⵓⵏ"
+formatear_dvd_MSG7="ⵙⴽⵍ ⵉⵏⵖⵎⵉⵙⵏ ⵏ ⴹⵉⴼⴷ"
+formatear_dvd_MSG8="ⴰⵎⴻⵏⵏⵓⵖ ⴰⵣⵡⴰⵔ"
+formatear_dvd_MSG9="ⴰⴼⴻⵔⴷⵉⵙ ⴰⴷ ⵉⵜⵜⵓⵙⵎⵔⴰⵙ ⵉ ⵓⵙⵏⵉⵍⴻⵙ ⵏ DVD ⵉ ⵜⵉⴽⴽⵍⵜ ⵜⴰⵎⵣⵡⴰⵔⵓⵜ."
+formatear_dvd_MSG10="ⵎⴰ ⵢⴻⵍⵍⴰ ⴹⵉⴼⴹ ⵉⵜⵜⵓⵙⵏⴰⵍ ⵢⴰⴽⴰⵏ, ⵓⵔ ⴰⵔ ⵉⵙⵙⵎⵙⵉ ⵉⵙⴼⴽⴰ."
+formatear_dvd_MSG11="ⵡⵉⴳⵉ ⵔⴰⴷ ⵜⵜⵡⴰⵏⴼⴰⵍⵏ ⴼ ⵢⴰⵏ ⵓⵙⴽⴽⵉⵍ ⴰⵎⴰⵢⵏⵓ."
+formatear_dvd_MSG12="ⴰⴽⴽⴻⵏ ⴰⴷ ⵜⵙⵎⴽⴻⴷ ⵜⵓⴳⵏⴰ ⵏ ⴹⵉⴼⴷ ⵙⵎⵔⵙ:"
+formatear_dvd_MSG13="ⵜⵎⴹⵉⵕ ⵢⴰⵏ ⴹⵉⴼⴹ ⵙ ⵉⵣⵓⵔⵓⵏ"
+formatear_dvd_MSG14="ⴰⴳⵔⴰⵡ ⴰⴷ ⵉⵙⵎⴻⵙ ⵜⴰⵍⵖⴰ ⴷ ⵉⵙⴼⴽⴰ ⵙⴳ ⴹⴹⴱⵉⵔ ⵉⵜⵜⵓⵙⵎⵙⴰⵢⵏ."
+formatear_dvd_MSG15="ⵜⵜⴻⴷⴷⵓⵏ"
+formatear_dvd_MSG16="DVD+RW/DVD-RW ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷ ⵙ ⵔⵔⴱⴻⵃ!"
+formatear_dvd_MSG17="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵏⵉⵍⴻⵙ ⵏ DVD"
+formatear_dvd_MSG18="ⴰⵃⴻⵜⵜⴻⵎ ⵏ ⵜⴰⵍⵖⴰ ⴷⴻⴳ ⵓⴹⴻⴱⵙⵉ DVD+RW..."
+formatear_dvd_MSG19="DVD+RW ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷ ⵙ ⵔⵔⴱⴻⵃ!"
+formatear_dvd_MSG20="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵏⵉⵍⴻⵙ ⵏ DVD+RW"
+formatear_dvd_MSG21="ⵜⴰⴼⴻⵔⵏⵉⵜⴰ ⵓⵔ ⵜⴻⵜⵜⵃⴰⵣ ⴰⵔⴰ ⵉⵙⴻⴼⴽⴰ ⵢⴻⵜⵜⵡⴰⵃⴻⵔⵣⴻⵏ ⴷⴻⴳ DVD+RW."
+formatear_dvd_MSG22="ⵜⵓⴽⴽⵙⴰ ⵏ ⵓⵃⵔⵉⵛ ⵏ ⵓⵙⵎⴻⵍ ⵙⴻⴳ DVD+RW..."
+formatear_dvd_MSG23="ⴰⵙⴻⵎⵔⴻⵙ ⵏ ⵓⴹⴻⴱⵙⵉ DVDRW ⵙ ⵜⵉⵔⴰ ⵏ ⵜⵎⴻⵣⵡⴰⵔⵓⵜ..."
+formatear_dvd_MSG24="DVD-RW ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷ ⵙ ⵔⵔⴱⴻⵃ!"
+formatear_dvd_MSG25="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵏⵉⵍⴻⵙ ⵏ DVD-RW"
+formatear_dvd_MSG26="ⴰⵙⴻⵎⵔⴻⵙ ⵏ ⵓⴹⴻⴱⵙⵉ DVDRW ⵙ ⵜⵉⵔⴰ ⵢⴻⵜⵜⵡⴰⵃⴻⵔⵣⴻⵏ..."
+formatear_dvd_MSG27="ⵜⵓⴽⴽⵙⴰ ⵏ DVD ⵉⵣⴻⵎⵔⴻⵏ ⴰⴷ ⵢⴻⵜⵜⵡⴰⵔⵓ"
+
+# null_dvd
+
+null_dvd_MSG1="ⵜⵉⵔⴰ ⴷⴻⴳ ⵓⴹⵔⵉⵙ ⵙⴻⴳ /dev/zero . . ."
+null_dvd_MSG2="ⵜⵜⴻⴷⴷⵓⵏ"
+null_dvd_MSG3="ⵢⴻⴽⴼⴰ ⵓⴽⴰⵍⴰ"
+null_dvd_MSG4="ⵜⵓⵛⵛⴹⴰ ⵓⵔ ⵏⴻⵜⵜⵡⴰⵕⴵⴰ ⴰⵔⴰ"
+
+# dvd_video
+
+dvd_video_MSG1="ⴰⴱⵔⵉⴷ ⵏⵏⴰ ⴳ ⵍⵍⴰⵏ ⵉⵏⴼⵍⵉⵡⵏ VIDEO_TS ⴷ AUDIO_TS:"
+dvd_video_MSG2="ⵙⵏⵓⵍ ⴰⴱⵔⵉⴷ ⵎⴰⵏⵉ ⵍⵍⴰⵏ ⵉⵏⴼⵍⵉⵢⵏ VIDEO_TS ⴷ AUDIO_TS:"
+dvd_video_MSG3="ⵜⵜⴻⴷⴷⵓⵏ"
+dvd_video_MSG4="--- DVD-VIDEO ⵢⴻⵜⵜⵡⴰⵙⴻⴽⵍⴻⵙ ⵙ ⵔⵔⴱⴻⵃ ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="ⵜⵜⴻⴷⴷⵓⵏ"
+dvd_copia_bin_MSG2="	ⵜⵓⴽⴽⵙⴰ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵜⵓⴳⵏⴰ"
+dvd_copia_bin_MSG3="ⵜⴻⴹⵔⴰⴷ ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴻⴽⵍⴻⵙ."
+
+# dvd_datos
+
+dvd_datos_MSG1="ⵉⴼⵓⵢⵍⴰ ⴷ ⵢⵉⴹⵔⵉⵙⴻⵏ ⵉ ⵓⵙⵏⵓⵍⴼⵓ ⵏ ⵜⵓⴳⵏⴰ .iso"
+dvd_datos_MSG2="ⵜⴰⵙⴻⴽⴽⵉⵔⵜ ⵏ DVD"
+dvd_datos_MSG3="ⵙⴽⵛⵎ ⵢⴰⵏ ⵢⵉⵙⵎ ⵏ ⴹⵉⴼⴹ ⵏ ⵉⵎⴰⵍ:"
+dvd_datos_MSG4="ⴰⴱⴷⵓ ⵏ ⵓⵙⵏⴼⵍ ⵏ ⵓⴼⴰⵢⵍⵓ:"
+dvd_datos_MSG5="	ⴰⵙⵏⵓⵍⴼⵓ ⵏ ⵜⵓⴳⵏⴰ . . ."
+dvd_datos_MSG6="ⵜⵜⴻⴷⴷⵓⵏ"
+dvd_datos_MSG7="ⵜⵓⴳⵏⴰ ⵏ ISO-9660 ⵜⴻⵜⵜⵡⴰⵅⵍⴻⵇⴷ ⴷⴻⴳ"
+dvd_datos_MSG8="		DVD ⵢⴻⵜⵜⵇⴻⵔⵔⵉⴱⴻⵏ ..."
+dvd_datos_MSG13="ⵜⵓⴽⴽⵙⴰ ⵏ ⵜⵓⴳⵏⴰ..."
+
+# dvd_borra
+
+dvd_borra_MSG1="ⵜⵜⴻⴷⴷⵓⵏ"
+# Resultado del traductor.
+dvd_borra_MSG2="ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷ ⵓⴹⴻⴱⵙⵉ optik ⵙ ⵔⵔⴱⴻⵃ"
+dvd_borra_MSG3="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵏⵉⵍⴻⵙ ⵏ ⵓⴹⴻⴱⵙⵉ optik"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="ⵜⵜⴻⴷⴷⵓⵏ"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="ⵜⵜⴻⴷⴷⵓⵏ"
+# Resultado del traductor.
+formatearCDDVDBD_MSG2="ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷ ⵓⴹⴻⴱⵙⵉ optik ⵙ ⵔⵔⴱⴻⵃ"
+formatearCDDVDBD_MSG3="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵏⵉⵍⴻⵙ ⵏ ⵓⴹⴻⴱⵙⵉ optik"
+
+# formatearDVDRW_sobreescritura_restringida
+
+formatearDVDRW_sobreescritura_restringida_MSG1="DVD-RW ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷ ⵙ ⵔⵔⴱⴻⵃ!!"
+formatearDVDRW_sobreescritura_restringida_MSG2="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵏⵉⵍⴻⵙ ⵏ DVDRW ⵖⴻⵔ ⵜⵉⵔⴰ ⵢⴻⵜⵜⵡⴰⵃⴻⵔⵣⴻⵏ"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷ ⵙ ⵔⵔⴱⴻⵃ!!"
+formatearDVDRW_incremental_secuencial_MSG2="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵏⵉⵍⴻⵙ ⵏ DVD-RW ⵖⴻⵔ ⵜⵎⴻⵔⵏⴰ ⵏ ⵜⵎⴻⵣⵡⴰⵔⵓⵜ"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="ⵙⴽⴻⵏⴷ ⴰⴱⵔⵉⴷ ⵖⴻⵔ ⵜⵓⴳⵏⴰ ⵏ iso-9660 ⴰⵔⴰ ⵢⴻⵜⵜⵡⴰⵙⵔⴻⵖⴻⵏ:"
+cdrskinisocddvd_MSG2="ⵜⵓⴳⵏⴰ ⵏ ISO ⵜⴻⵜⵜⵡⴰⵔⵥⴻⵎ ⵙ ⵔⵔⴱⴻⵃ."
+cdrskinisocddvd_MSG3="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵙⴻⴽⵍⴻⵙ ⵏ ⵜⵓⴳⵏⴰ"
+
+

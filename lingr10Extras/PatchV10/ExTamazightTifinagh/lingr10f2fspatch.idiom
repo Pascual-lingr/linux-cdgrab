@@ -1,0 +1,73 @@
+# Idioma Tamazight (Tifinagh) para soporte de F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="ⵜⵜⵏⴻⵄ ENTER ⵉⵡⴰⴽⴽⴻⵏ ⴰⴷ ⵜⴽⴻⵎⵍⴻⴹ..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="================================"
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 ⵢⴻⵜⵜⵄⴰⵡⴰⵏ F2FS."
+
+# creditos
+
+creditos_DESC="ⵜⴰⵍⵍⴻⵍⵜ ⵉ ⵓⵙⴻⵎⵔⴻⵙ ⵏ ⵓⵙⵎⴻⴽⵜⵉ ⵏ ⴼⵍⴰⵙⵀ ⴷⴷⴰⵡ ⵏ linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="ⴰⵙⴻⴽⵛⴻⵎ ⵏ ⵓⵎⵢⴰⴳⴻⵔ mount:"
+formatear_disco_F2FS_MSG2="ⵙⵏⵓⵍ ⴰⵍⵍⴰⵍ ⵏ ⵓⴱⵍⴳⵍ ⵉ ⵡⵙⵖⵏⵙ: "
+formatear_disco_F2FS_MSG3="ⴰⵙⴻⵍⴽⵉⵎ ⵢⴻⵜⵜⵡⴰⵙⵏⵓⵍⴼⴰ ⵙ ⵔⵔⴱⴻⵃ"
+formatear_disco_F2FS_MSG4="ⵜⵓⵛⵛⴹⴰ ⵏ ⵓⵙⵏⵉⵍⴻⵙ ⵏ ⵡⴰⵍⵍⴰⵍ"
+formatear_disco_F2FS_MSG5="ⵢⴻⴽⴼⴰ ⵓⴽⴰⵍⴰ"
+formatear_disco_F2FS_MSG6="ⴰⵙⴻⴼⵔⴻⴽ ⵏ ⵡⴰⵍⵍⴰⵍ..."
+formatear_disco_F2FS_MSG7="ⴰⵙⴻⵖⵣⴻⴼ ⵏ ⵓⵙⵏⵉⵍⴻⵙ ⴷⴻⴳ F2FS..."
+formatear_disco_F2FS_MSG8="ⵜⴰⵣⵍⴰ"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷ ⵙ ⵔⵔⴱⴻⵃ"
+formatear_img_F2FS_MSG2="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵏⵉⵍⴻⵙ ⵏ ⵓⴼⴰⵢⵍⵓ ⵉⵍⴻⵎ"
+formatear_img_F2FS_MSG3="ⵙⵏⵓⵍⴼⵓⴷ ⴰⴼⴰⵢⵍⵓ ⴷ ⵉⵍⴻⵎ..."
+formatear_img_F2FS_MSG4="ⵜⴰⵣⵍⴰ"
+formatear_img_F2FS_MSG5="ⴰⵙⴻⵖⵣⴻⴼ ⵏ ⵓⴼⴰⵢⵍⵓ ⵉⵍⴻⵎ ⴷⴻⴳ F2FS..."
+formatear_img_F2FS_MSG6="ⵜⴰⵙⵓⵜⴰ ⵏ ⵓⴼⴰⵢⵍⵓ ⵉⵍⴻⵎ ⵙ ⵍⵇⵉⵙ ⵏ ⵓⵎⵙⴻⴹⵔⵓ"
+formatear_img_F2FS_MSG7="ⵙⵏⵓⵍ ⴰⵏⴻⵛⵜ ⵏ ⵓⴼⴰⵢⵍⵓ ⴰⵡⵍⴰⵙ ⵉ ⵔⴰⴷ ⵉⵙⵏⴼⵍⵏ (ⴰⵣⴰⵍ ⴰⵎⴹⴰⵏ ⴽⴰⵏ):"
+formatear_img_F2FS_MSG8="ⵉⵎⵓⴽⴰⵏ ⵏ ⵓⵙⴰⵢⵔⴰⵔ ⵉ ⵓⵙⵓⴼⴼⵖ ⵏ ⴰⴼⴰⵢⵍⵓ ⵉⴼⵍⵓⴳⵏ:"
+formatear_img_F2FS_MSG9="ⵙⵏⵓⵍ ⴰⵏⴻⵛⵜ ⵏ ⵓⵙⴰⵢⵔⴰⵔ ⵉ ⵔⴰⴷ ⵉⵙⵙⵎⵔⵙ: "
+formatear_img_F2FS_MSG10="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴻⴱⴷⴻⴷ ⵏ ⵍⵇⵉⵙ ⵏ ⵜⴰⵊⵓⵎⵎⴰ"
+formatear_img_F2FS_MSG11="ⴰⵣⴰⵍ ⵏ ⵓⵖⵔⵓⵎ ⵏ ⵓⵃⵔⵉⵛ:"
+formatear_img_F2FS_MSG12="ⴰⵣⴰⵍ ⵏ ⵓⵙⵖⴰⵔ ⵉ ⵓⴼⴰⵢⵍⵓ ⵉⴼⵍⴽⵏ:"
+formatear_img_F2FS_MSG13="ⴰⵣⴰⵍ ⵢⴻⵜⵜⵡⴰⵃⴻⵙⴱⴻⵏ ⵙ ⵢⵉⴱⵉⵜⴻⵏ:"
+formatear_img_F2FS_MSG14="ⴰⵣⴰⵍ ⵉⵜⵜⵓⵙⵙⵉⴱⵏ ⵉ ⵓⵙⵉⴹⵏ:"
+formatear_img_F2FS_MSG15="ⴰⵙⵏⴰⵙ ⵉⵜⵜⵓⵙⴽⴽⵙⵏ. ⵓⵔ ⵉⵜⵜⵓⵙⵙⵏ ⵓⵏⵣⵉ ⵏ ⵜⵡⵍⴰⴼⵜ."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="ⴼⴼⴻⵖⴷ"
+imgr_tmp_MSG1="ⴰⴽⴽⴻⵙ ⴰⴽⴽ ⵉⴼⵓⵢⵍⴰ ⵏ ⵜⵓⴳⵏⴰ ⵏ F2FS"
+imgr_tmp_MSG2="ⴰⵙⴻⵔⴽⴻⴷ ⵏⵖ ⴰⴽⴽⴻⵙ ⴰⴼⴰⵢⵍⵓ ⵏ ⵜⵓⴳⵏⴰ"
+imgr_tmp_MSG3="ⵉⴼⵓⵢⵍⴰ ⵏ ⵜⵡⵍⴰⴼⵉⵏ ⴳ"
+imgr_tmp_MSG4="ⴼⵔⴻⵏ ⵢⴰⵏ ⵓⵙⵖⴰⵔ"
+imgr_tmp_MSG5="ⵉⴼⵓⵢⵍⴰ ⵏ ⵜⵡⵍⴰⴼⵜ ⵜⵜⵡⴰⴽⴽⵙⵏ"
+imgr_tmp_MSG6="ⴰⴷⵔⴰⵔ ⵏ ⵜⵡⵍⴰⴼⵜ"
+imgr_tmp_MSG7="ⵙⴽⴽⵉⵔ ⵏ ⵜⵡⵍⴰⴼⵜ"
+imgr_tmp_MSG8="ⵜⵡⵍⴰⴼⵜ ⵉⵜⵜⵓⵙⵔⵙⵏ"
+imgr_tmp_MSG9="ⵜⴰⵡⵍⴰⴼⵜ ⵓⵔ ⵉⵜⵜⵡⴰⵙⵙⵔⵙⵏ"
+imgr_tmp_MSG10="ⴰⴼⵔⴰⵏ ⵓⵔ ⵉⵚⴰⵃⵏ ⴰⵔⴰ"
+imgr_tmp_MSG11="ⵙⴽⴰⵏ ⵜⴰⵡⵍⴰⴼⵜ ⵉ ⵔⴰⴷ ⵜⵙⵙⵔⵙⵍⵜ ⵏⵖ ⴰⴷ ⵜⵙⵙⵔⵙⵍⵜ:"
+imgr_tmp_MSG12="ⵜⵓⵛⵛⴹⴰ ⵏ ⵓⵙⵔⵙ ⵏ ⵜⵡⵍⴰⴼⵜ"
+imgr_tmp_MSG13="ⵜⵓⵛⵛⴹⴰ ⵏ ⵓⵙⵎⴽⵍ ⵏ ⵜⵡⵍⴰⴼⵜ"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="ⴼⴼⴻⵖⴷ."
+lingr10F2FSpatch_MSG1="ⴰⵙⵏⵉⵍⴻⵙ ⵏ ⵓⴼⵍⴰⵙⵀ ⵙ F2FS."
+lingr10F2FSpatch_MSG2="ⵙⵏⴼⵍⵓⵍ ⵢⴰⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵜⵡⵍⴰⴼⵜ F2FS."
+lingr10F2FSpatch_MSG3="ⵜⵉⵎⵀⴰⵍ ⵖⴼ ⵜⵡⵍⴰⴼⵉⵏ ⵏ F2FS."
+lingr10F2FSpatch_MSG4="ⴰⵣⴰⵍ ⵏ"
+lingr10F2FSpatch_MSG5="ⴰⴼⵔⴰⵏ ⵓⵔ ⵢⴻⵜⵜⵡⴰⵇⴱⴰⵍ ⴰⵔⴰ"
+

@@ -1,0 +1,284 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Tamazight (Tifinagh) para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="ⴰⵙⴻⴱⴷⴻⴷ ⵏ Linux-cdgrab"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="ⵎⴰⵍⴰ ⵓⵔ ⵜⵙⵙⵉⵏⴷ ⵎⴰⵏ ⵜⴰⵖⴱⴰⵍⵓⵜ ⵏ IDE ⵉ ⴳⵉⵙ ⵉⴳⴰⵏ" 
+ayuda_IDE_MSG2="ⵉⵙⵉⵣⵎⵔ ⵓⵙⵎⵖⵍ ⵏⵏⴽ ⴰⴷ ⵢⴰⴼ ⵙ ⵡⵣⵣⵉⴷ ⵏ ⵓⵙⴽⴽⵉⵍ t."
+ayuda_IDE_MSG3="ⴰⵎⴷⵢⴰ ⵏ ⵢⴰⵜ ⵜⴱⴰⴷⵓⵜ IDE ⵉⵣⵎⵔ ⴰⴷ ⵢⵉⵍⵉ 0,0,0 ⵏⵖ 0,1,0"
+ayuda_IDE_MSG4="ⵜⵣⵎⵔⴷ ⴰⵡⴷ ⴰⴷ ⵜⵙⵏⴰⵍⴷ ⴰⵙⵔⵙ ⵉⵣⵔⵉⵏ"
+ayuda_IDE_MSG5="ⵖⵔ ⵓⵏⵙⵉ ⵏⵏⴽ. ⵎⴽ ⵓⵔ ⵜⵙⵙⵏⴷ ⵎⴰⵏ ⵢⴰⵏ, ⵙⴽⵔ d,"
+ayuda_IDE_MSG6="ⴰⴽⴽⴻⵏ ⴰⴷ ⵜⵡⴰⵍⵉⴹ ⵉⴳⴻⵔⴷⴰⵏ ⵉⵜⵜⵓⵣⵎⵎⴻⵎⵏ ⴳ ⵓⴼⴰⵢⵍⵓ /etc/fstab"
+ayuda_IDE_MSG7="ⴰⵎⴷⵢⴰ ⵏ ⵉⵙⴳⵓⵔⵏ ⵉⵣⵎⵔ ⴰⴷ ⵢⵉⵍⵉ /dev/hdd,/dev/hde ⴰⵜⴳ."
+ayuda_IDE_MSG8="ⵎⴰ ⵜⵜⵔⴰⴷ, ⵜⵣⵎⵔⴷ ⵓⵍⴰ ⴰⴷ ⵜⵙⵏⵉⵜⵎ ⴰⴽⴽⵯ ⵉⴳⵯⵔⴰⵏ ⵉⵍⵍⴰⵏ ⴳⵉⵙ"
+ayuda_IDE_MSG9="ⴷⴻⴳ ⵓⵎⴹⵉⵇ ⵏ /dev ⵙ ⵓⴹⴹⵓⵕ ⵏ ⵓⵙⴽⴽⵉⵍ l."
+ayuda_IDE_MSG10="ⵉⵍⴰⵇ ⴰⴷ ⵜⵙⵏⵉⵜ ⴰⵎⴰ ⴷ ⵜⴰⵖⴱⴰⵍⵓⵜ ⵏ IDE ⵏⵖ ⴷ ⴰⵖⴱⴰⵍⵓ ⵏ ⵓⵙⴻⴽⵍⴻⵙ"
+ayuda_IDE_MSG11="ⵎⴰⵛⴰ ⵓⵔ ⵉ ⵙⵏⴰⵜ."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab ⵢⴻⵜⵜⵡⴰⴽⴽⴻⵙ ⵙⴻⴳ ⵓⵏⴰⴳⵔⴰⵡⵉⴽ"
+
+# imprimir_variables
+
+imprimir_variables_MSG1="ⵜⴰⵣⵣⵍⴰ ⵏ ⵓⵙⴻⴽⵍⴻⵙ"
+imprimir_variables_MSG2="ⵜⴰⵖⵡⴰⵍⵜ ⵏ IDE/SCSI ⵏⴻⵖ ⴰⵍⵍⴰⵍ ⵏ ⵓⵙⴻⴽⵍⴻⵙ"
+imprimir_variables_MSG3="ⴰⵎⴻⵖⵔⵉ ⵏ CDROM, DVDROM ⵏⴻⵖ BDROM"
+imprimir_variables_MSG4="ⴰⵍⵍⴰⵍ ATAPI"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="ⵜⴰⵣⵣⵍⴰ ⵏ ⵓⵙⴻⴽⵍⴻⵙ"
+imprimir_lcdgrabcfg_MSG2="ⵜⴰⵖⵡⴰⵍⵜ ⵏ IDE/SCSI ⵏⴻⵖ ⴰⵍⵍⴰⵍ ⵏ ⵓⵙⴻⴽⵍⴻⵙ"
+imprimir_lcdgrabcfg_MSG3="ⴰⵎⴻⵖⵔⵉ ⵏ CDROM, DVDROM ⵏⴻⵖ BDROM"
+imprimir_lcdgrabcfg_MSG4="ⴰⵍⵍⴰⵍ ATAPI"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷ"
+chequeo_de_aplicaciones_MSG2="ⵓⵔ ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷ ⴰⵔⴰ"
+chequeo_de_aplicaciones_MSG3="ⴰⵙⵙⴻⵔⵙⵉ"
+chequeo_de_aplicaciones_MSG4="ⴰⵅⴰⵜⴰⵔ:"
+chequeo_de_aplicaciones_MSG5="ⴰⵙⴻⴱⴷⴻⴷ ⵏ ⵡⴰⵍⵍⴰⵍⴻⵏ ⵉⵍⴰⵇⴻⵏ Linux-cdgrab ⴰⴷ ⵉⵅⴻⴷⴷⴻⵎ ⵙ ⵍⴻⴽⵎⴰⵍⵉⵙ"
+chequeo_de_aplicaciones_MSG6="ⴰⵀⵉⵍⴻⵏ ⴰⴽⴽ ⵉ ⵜⴻⵃⵡⴰⴵⴻⴹ ⵉ Linux-cdgrab ⵜⵜⵡⴰⵙⴻⵔⵙⴻⵏ ⴷⴻⴳ ⵓⵏⴰⴳⵔⴰⵡⵉⴽ."
+chequeo_de_aplicaciones_MSG4B="ⴰⵄⴻⵢⵢⴻⵏ:"
+chequeo_de_aplicaciones_MSG5B="ⵓⴼⴰⵏⴷ ⴰⵍⵍⴰⵍⴻⵏ ⵉⵅⵓⵚⵚⴻⵏ"
+chequeo_de_aplicaciones_MSG6B="ⴰⵍⵍⴰⵍⴻⵏ ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷⴻⵏ ⴷⴻⴳ ⵓⵏⴰⴳⵔⴰⵡ"
+
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="ⴰⵎⴳⵉⵔⴻⴷⴰ ⵢⴻⵜⵜⵓⵏⴻⴼⴽ 0,0,0 ⵙ ⵜⵖⴰⵡⵍⴰ."
+msgdefCANALATAPI_MSG2="ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⵙⴻⵎⵔⴻⵙ ⴰⴷ ⵢⴻⵜⵜⵡⴰⵔⵓ ⵙ CANALATAPI = 0,0,0"
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⵙⵏⵉⵍⴻⵙ ⵉⵜⵜⵓⵙⵏⵓⵍⴼⴰⴷ ⵙ ⵡⵓⴷⴻⵎ ⴰⵡⵓⵔⵎⴰⵏ ⵙ Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG5="ⵓⵔ ⵉⵜⵜⵢⴰⴼⴰ cdrecord ⴳ ⵓⵏⴰⴳⵔⴰⵡ"
+nuevo_lcdgrabcfg_MSG6="ⵙⴻⵔⵙ ⴰⴼⴻⵔⴷⵉⵙ ⵏ cdrtools."
+nuevo_lcdgrabcfg_MSG7="ⵜⵣⵎⵔⴷ ⴰⴷ ⵜⴽⴻⵎⵎⵍⵜ ⴰⵙⵏⵉⵍⵙ ⵙ ⵓⴱⴷⴰⴷ ⵏ ⵉⵣⵓⵍⴼⴰⵏⵏ".
+nuevo_lcdgrabcfg_MSG8="ⵉ ⵓⵙⵉⵔⵖ ⵎⴽ ⵜⵙⵙⵏⴷ ⵢⴰⴽⴰⵏ."
+nuevo_lcdgrabcfg_MSG9="ⴰⵎⵏⴹⴻⵏ ⵏ cdrecord ⵉⵜⵜⵡⴰⵙⵙⴻⵇⴷⴰⵛ ⵉ ⵓⵙⵉⵣⴷⴳ ⵏ ⵉⴹⴱⵉⴱⵏ ⵏ CD, DVD, ⴷ BD."
+nuevo_lcdgrabcfg_MSG10="ⵓⵔ ⵜⵜⵉⵍⵉⵏⵜ ⵜⵖⴰⵡⵙⵉⵡⵉⵏ ⴰⴷ ⵙ ⵜⵉⵡⵓⵔⵉⵡⵉⵏ ⴰⵔ ⴰⵔ ⵉⵜⵜⵓⵙⵔⵙ ⵓⴼⴼⵓⴳⵍ ⴰⴷ."
+nuevo_lcdgrabcfg_MSG11="ⴰⵙⵏⴰⵙ ⵏ ⵓⵙⴽⴰⵏ ⵏ ⵜⵎⴰⵛⵉⵏⵉⵏ, ⵏⵏⴰ ⵉⵍⵍⴰⵏ, ⵓⵔ ⵉⵜⵜⵉⵍⵉ ⵓⵍⴰ ⴷ ⴰⵡⴷ ⴰⵡⵡⵓⵔ."
+nuevo_lcdgrabcfg_MSG12="ⴷⴻⴳ ⵓⵙⴻⵇⵇⴰⵎⵓ ⴰⴷ ⵏ ⵓⵙⵏⵉⵍⴻⵙ."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab ⵉⵅⵚⵚⴰ ⴰⴷ ⵉⵜⵜⵓⵙⵏⴽⴷ ⴳ ⴽⴽⵓⵥ ⵏ ⵜⵙⵓⵔⵉⴼⵉⵏ ⴰⴷ ⵢⵓⵛⴽⴰⵏ"
+nuevo_lcdgrabcfg_MSG14="ⴰⵙⵓⵔⵉⴼ ⴰⵎⵣⵡⴰⵔⵓ."
+nuevo_lcdgrabcfg_MSG15="ⵜⴰⵣⵣⵍⴰ ⵏ ⵓⵙⴻⴽⵍⴻⵙ"
+nuevo_lcdgrabcfg_MSG16="ⵢⵉⵡⴻⵏ ⵏ ⵓⵎⴹⴰⵏ ⴽⴰⵏ 2,4,8,16,32...ⴰⵜⴳ."
+nuevo_lcdgrabcfg_MSG17="ⴰⵙⵓⵔⵉⴼ ⵡⵉⵙ ⵙⵉⵏ."
+nuevo_lcdgrabcfg_MSG18="ⵜⴰⵖⵡⴰⵍⵜ ⵏ IDE/SCSI ⵏⴻⵖ ⴰⵍⵍⴰⵍ ⵏ ⵓⵙⴻⴽⵍⴻⵙ :"
+nuevo_lcdgrabcfg_MSG19="A -> ⵄⵉⵡⴻⵏ"
+nuevo_lcdgrabcfg_MSG20="ⴰⵙⴽⴰⵏ..."
+nuevo_lcdgrabcfg_MSG21="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴽⴰⵏ ⵏ ⵓⵙⵎⴻⵍ IDE/SCSI"
+nuevo_lcdgrabcfg_MSG22="cdrecord ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ"
+nuevo_lcdgrabcfg_MSG23="ⴰⵙⵓⵔⵉⴼ ⵡⵉⵙ ⴽⵔⴰⴹ."
+nuevo_lcdgrabcfg_MSG24="ⴰⵍⵍⴰⵍ ⵏ CD-ROM, DVD-ROM ⵏⴻⵖ BD-ROM"
+nuevo_lcdgrabcfg_MSG25="L -> ⵓⴳⵣⴻⵎ ⵏ ⵡⴰⵍⵍⴰⵍⴻⵏ ⵢⴻⵍⵍⴰⵏ"
+nuevo_lcdgrabcfg_MSG26="ⴰⵙⴽⴰⵏ..."
+nuevo_lcdgrabcfg_MSG27="ⴰⵙⴻⴽⵛⴻⵎ ⵏ IDE/SCSI"
+nuevo_lcdgrabcfg_MSG28="ⴰⵙⴻⵍⴽⵉⵎ ⴰⵔⴰ ⵢⴻⵙⵙⴻⵇⴷⴻⵛ cdrecord ⵙ ⵜⵜⴰⵡⵉⵍ ⵏ dev=ATAPI ⵉ ⵓⵙⴻⴽⵍⴻⵙ ⵏ ⵡⴰⵟⴰⵙ ⵏ ⵜⵖⵉⵎⵉⵢⵉⵏ"
+nuevo_lcdgrabcfg_MSG30="ⴰⵍⵍⴰⵍⵏⵏⵉ ⵢⴻⵙⵄⴰ ⵉⵙⴻⵎ ⴰⵎ 0,0,0 ⵏⴻⵖ 1,0,0 ⴰⵜⴳ."
+# Resultado del traductor
+nuevo_lcdgrabcfg_MSG31="ⵙⴽⴻⵏⴷ ⴰⵙⴻⵍⴽⵉⵎ ⴰⵔⴰ ⴷⵜⴻⵙⵙⵉⵡⴻⵍⴹ ⵉ cdrecord ⴷⴻⴳ CDnsen ⵏ ⵡⴰⵟⴰⵙ ⵏ ⵜⵖⵉⵎⵉⵢⵉⵏ: "
+nuevo_lcdgrabcfg_MSG32="ⴰⵙⴻⴱⴷⴻⴷ ⵓⵔ ⵢⴻⵍⵀⵉ ⴰⵔⴰ ⵉ CANALATAPI"
+nuevo_lcdgrabcfg_MSG33="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴽⴰⵏ ⵏ ⵓⵙⵎⴻⵍ IDE/SCSI"
+nuevo_lcdgrabcfg_MSG34="cdrecord ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ"
+nuevo_lcdgrabcfg_MSG36="ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⵙⵏⴻⴼⵍⵉ ⵢⴻⵜⵜⵡⴰⵅⴷⴻⵎ ⵙ ⵡⵓⴷⴻⵎ ⴰⵡⵓⵔⵎⴰⵏ ⵙⵖⵓⵔ Linux-cdgrab."
+nuevo_lcdgrabcfg_MSG37="ⴰⵙⴻⴱⴷⴻⴷ ⵏ LINUX-CDGRAB ⵉⴽⴻⵎⵎⴻⵍ"
+
+# colores
+
+colores_MSG1="ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ ⵓⵎⵓⵖ ⵏ ⵢⵉⵏⵉ."
+colores_MSG2="ⴰⵄⴻⴱⴱⵉ ⵏ ⵉⵏⵉⵜⴻⵏ ⵉⵎⴻⵣⵡⵓⵔⴰ"
+colores_MSG3="ⴼⵔⴻⵏ ⵢⵉⵡⴻⵏ ⵏ ⵓⵙⴻⵏⴼⴰⵔ ⵏ ⵢⵉⵏⵉ ⴰⵎⴰⵢⵏⵓⵜ ⵉ ⵜⵎⴻⵥⴷⵉⵜ ⵏ LINUX-CDGRAB"
+colores_MSG4="ⴰⵙⴻⴽⴽⵉⵍ ⴰⴱⴻⵔⴽⴰⵏ"
+colores_MSG5="ⴰⵙⴻⴽⴽⵉⵍ ⵏ ⵜⴼⴻⵍⵡⵉⵜ ⵏ ⵜⴼⴻⵍⵡⵉⵜ"
+colores_MSG6="ⵉⵏⵉ ⵏ ⵓⴹⴰⵔ ⴰⴱⴻⵔⴽⴰⵏ"
+colores_MSG7="ⴰⵙⴻⴽⴽⵉⵍ ⴰⵣⴻⴳⴳⴰⵖ"
+colores_MSG8="ⴰⵙⴻⴽⴽⵉⵍ ⴰⴱⴻⵔⴽⴰⵏ ⵢⴻⵜⵜⵛⴻⴱⴱⵉⵃⴻⵏ"
+colores_MSG9="ⵉⵏⵉ ⵏ ⵜⴼⴻⵍⵡⵉⵜ ⴰⵣⴻⴳⴳⴰⵖ"
+colores_MSG10="ⴰⵙⴻⴽⴽⵉⵍ ⴰⵣⴻⴳⵣⴰⵡ"
+colores_MSG11="ⴰⵙⴻⴽⴽⵉⵍ ⴰⵣⴻⴳⴳⴰⵖ ⵢⴻⵜⵜⵛⴻⴱⴱⵉⵃⴻⵏ"
+colores_MSG12="ⵉⵏⵉ ⵏ ⵜⴼⴻⵍⵡⵉⵜ ⵜⴰⵣⴻⴳⵣⴰⵡⵜ"
+colores_MSG13="ⴰⵙⴻⴽⴽⵉⵍ ⴰⵡⵔⴰⵖ"
+colores_MSG14="ⴰⵙⴻⴽⴽⵉⵍ ⴰⵣⴻⴳⵣⴰⵡ ⵢⴻⵜⵜⵛⴻⴱⴱⵉⵃⴻⵏ"
+colores_MSG15="ⵉⵏⵉ ⵏ ⵓⴳⴱⵓⵔ ⴰⵕⴻⵏⴵⵓ"
+colores_MSG16="ⵜⴰⵙⴻⴽⴽⵉⵔⵜ ⵜⴰⵣⴻⴳⵣⴰⵡⵜ"
+colores_MSG17="ⴰⵙⴻⴽⴽⵉⵍ ⴰⵡⵔⴰⵖ ⵢⴻⵜⵜⵛⴻⴱⴱⵉⵃⴻⵏ"
+colores_MSG18="ⵉⵏⵉ ⵏ ⵜⵣⵓⵍⵜ ⵜⴰⵣⴻⴳⵣⴰⵡⵜ"
+colores_MSG19="ⵜⴰⵙⴻⴽⴽⵉⵔⵜ ⵜⴰⴱⴻⵔⴽⴰⵏⵜ"
+colores_MSG20="ⴰⵙⴻⴽⴽⵉⵍ ⴰⵣⴻⴳⵣⴰⵡ ⵉⵛⴻⵄⵍⴻⵏ"
+colores_MSG21="ⵉⵏⵉ ⵏ ⵜⴼⴻⵍⵡⵉⵜ ⴷ ⴰⵥⴰⵢⴰⵏ"
+colores_MSG22="ⵜⴰⵙⴻⴽⴽⵉⵍⵜ ⵏ ⵓⵙⴻⴽⴽⵉⵍ"
+colores_MSG23="ⴰⵙⴻⴽⴽⵉⵍ ⴰⵥⴰⵢⴰⵏ ⵉⴼⴰⵣⴻⵏ"
+colores_MSG24="ⴰⴽⵍⵉ ⵏ ⵓⴹⴼⴰⵔ ⴰⵕⵚⴰⵏⵉ"
+colores_MSG25="ⴰⵙⴻⴽⴽⵉⵍ ⴰⵔⵚⴰⵙⴰⵏ"
+colores_MSG26="ⴰⴽⵏⵉ ⵏ ⵓⴹⴰⵔ ⴰⵕⵚⴰⵏⵉ"
+colores_MSG27="ⴰⵙⴻⴽⴽⵉⵍ ⵉⴼⴰⵣⴻⵏ ⴰⵛⵢⴰⵏ"
+colores_MSG28="ⴰⴽⵍⵉ ⵏ ⵓⴷⴼⴻⵍ ⴰⵕⵚⴰⵙⵉ"
+colores_MSG29="ⴰⵙⴻⴽⴽⵉⵍ ⴰⵎⴻⵣⵡⴰⵔⵓ"
+colores_MSG30="ⴰⵙⴻⴽⴽⵉⵍ ⴰⵎⴻⵍⵍⴰⵍ ⵉⵛⴻⴱⵃⴰⵏ".
+colores_MSG31="ⵉⵏⵉ ⵏ ⵜⴼⴻⵍⵡⵉⵜ ⵏ ⵜⴼⴻⵍⵡⵉⵜ".
+colores_MSG32="ⵓⵟⵟⵓⵏ ⵏ ⵉⴽⵓⵍⵓ ⵏ ⵜⵉⵔⵔⴰ: "
+colores_MSG33="ⵓⵟⵟⵓⵏ ⵏ ⵢⵉⵏⵉ ⵏ ⵜⴰⵖⵓⵍⵜ: "
+colores_MSG34="ⵓⵟⵟⵓⵏ ⵏ ⴰⴽⵍⴰⵏ ⵏ ⵜⴱⵔⴰⵜ ⵏ ⵓⵎⴱⵉⴷⴷ: "
+colores_MSG35="ⴰⴹⵔⵉⵙ ⵏ ⵢⵉⵏⵉ ⵏ ⵢⵉⵣⴻⵏ ⵏ ⵓⵙⵎⴻⴽⵜⵉ: "
+colores_MSG36="ⵓⵟⵟⵓⵏ ⵏ ⵢⵉⵏⵉ ⵉ ⵜⵡⵓⵔⵉⵡⵉⵏ ⵉⴼⴼⵓⵙⵏ ⵙ ⵓⵎⵓⵔⵙ "
+colores_MSG37="ⵓⵟⵟⵓⵏ ⵏ ⵉⴽⵯⵍⴰⵏ ⵉ ⵜⵓⵙⴽⵉⵡⵉⵏ ⵉⵜⵜⴼⴽⵉⵏ ⵙ ⵢⴰⵜ ⵓⵣⴳⴰⵍ: "
+colores_MSG38="ⴰⵀⵉⵍ ⴰⵎⴰⵢⵏⵓⵜ ⵉ LINUX-CDGRAB"
+colores_MSG39="ⵉⵏⵉ ⵏ ⵜⵉⵔⴰ ⵜⴰⵎⴰⵜⵓⵜ"
+colores_MSG40="ⵜⵉⵡⵍⴰⴼⵉⵏ"
+colores_MSG41="ⵉⵏⴻⴱⴳⵉⵢⴻⵏ"
+colores_MSG42="ⴰⵙⵡⵉⵔ"
+colores_MSG43="ⵜⵓⵛⵛⴹⴰ"
+colores_MSG44="ⵉⵏⵉ ⵏ ⵜⴼⴻⵍⵡⵉⵜ"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="ⵓⵎⵓⵖ ⵏ ⵉⵏⵉⵜⴻⵏ ⵢⴻⵍⵍⴰⵏ:"
+cambiar_esquema_de_color_MSG2="#####ⴰⵙⴻⴽⴽⵉⵔ ⵏ ⵉⵏⵉ#######"
+cambiar_esquema_de_color_MSG3="------------------------"
+cambiar_esquema_de_color_MSG4="ⴰⵎⵓⵖ ⵏ ⵉⵏⵉ"
+cambiar_esquema_de_color_MSG5="ⵢⴻⵅⵚⴻⵔ"
+cambiar_esquema_de_color_MSG6="ⵜⴰⴳⵣⵉⵡⵉⵏ"
+cambiar_esquema_de_color_MSG6b="ⵉⵡⴻⵍⵍⵉⵀⴻⵏ"
+cambiar_esquema_de_color_MSG7="ⴰⵎⴻⵏⵏⵓⵖ ⵏ ⵛⵛⴱⴰⵃⴰ OK ⵜⵉⴼⴻⵍⵡⵉⵢⵉⵏ ⵏ ⵓⵙⵎⴻⴽⵜⵉ ⵏ ⵓⵖⴻⵍⵍⴻⵜ"
+cambiar_esquema_de_color_MSG8="ⴰⵔⴰ ⵓⵟⵟⵓⵏ ⵏ ⵓⴽⵍⵉ ⴰⵎⴰⵢⵏⵓ:"
+cambiar_esquema_de_color_MSG9="ⴰⴼⴻⵔⴷⵉⵙ ⵓⵔ ⵢⴻⵜⵜⵡⴰⵇⴱⴰⵍ ⴰⵔⴰ"
+cambiar_esquema_de_color_MSG10="ⴰⵙⴱⴻⴷⴷ ⵏ ⵢⵉⵏⵉ ⵏ ⵜⵎⴻⵥⴷⵉⵜ."
+cambiar_esquema_de_color_MSG11="  ⴰⴹⴰⵔ = ⴰⴹⴰⵔ ⴰⵣⴻⴳⵣⴰⵡ"
+cambiar_esquema_de_color_MSG12="  ⵜⴰⵙⴻⴽⴽⵉⵔⵜ = ⵜⴰⵎⴻⵍⵍⴰⵍⵜ ⵉⵛⴻⴱⵃⴻⵏ".
+cambiar_esquema_de_color_MSG13="  ⵉⵄⴻⵢⵢⴻⵏ = ⴰⵡⵔⴰⵖ ⵉⴼⴰⵣⴻⵏ"
+cambiar_esquema_de_color_MSG14="  ⵜⵓⵛⵛⴹⵉⵡⵉⵏ = ⴰⵣⴻⴳⴳⴰⵖ ⵉⴼⴰⵣⴻⵏ".
+cambiar_esquema_de_color_MSG15="  ⵜⵓⵛⵛⴹⵉⵡⵉⵏ = ⴰⵣⴻⴳⴳⴰⵖ ⵉⴼⴰⵣⴻⵏ".
+cambiar_esquema_de_color_MSG16="  ⵉⵃⴻⵣⵣⵉⴱⴻⵏ = ⴰⵣⴻⴳⵣⴰⵡ ⵉⴼⴰⵣⴻⵏ"
+cambiar_esquema_de_color_MSG17="  ⵜⵉⵡⵍⴰⴼⵉⵏ = ⵛⵢⴰⵏ ⵉⴼⴰⵣⴻⵏ"
+
+# cambia_lector
+
+cambia_lector_MSG1="ⴰⵙⴻⵖⵥⴰⵏ ⵏ ⵜⵡⴻⵏⵏⴰⴹⵜ ⵉ ⵢⵉⴹⴻⴱⵙⵉⵢⴻⵏ ⵏ ⵜⵎⵓⵖⵍⵉ"
+cambia_lector_MSG2="ⴰⵙⴻⵍⴽⵉⵎ ⵏ ⵜⵓⵔⴰ ⵉⵛⵓⴷⴷⴻⵏ ⵖⴻⵔ CD-ROM, DVD-ROM ⵏⴻⵖ BD-ROM"
+cambia_lector_MSG3="ⴰⵙⴻⵍⴽⵉⵎ ⵏ ⵜⵓⵔⴰ ⵉⵛⵓⴷⴷⴻⵏ ⵖⴻⵔ ⵓⵖⴻⵔⵔⴰⴱⵓ ⵏ CD/DVD/BD"
+cambia_lector_MSG4="ⴰⵍⵍⴰⵍ ⵏ ⵜⵓⵔⴰ ⵉⵛⵓⴷⴷⴻⵏ ⵖⴻⵔ ⵓⵎⵢⴰⴳⴻⵔ dev=ATAPI"
+cambia_lector_MSG5="(ⵜⴰⵍⵍⴻⵍⵜ ⵏ ⵡⴰⵟⴰⵙ ⵏ ⵜⵖⵉⵎⵉⵢⵉⵏ ⵉ cdrecord)"
+cambia_lector_MSG6="ⴼⵔⴻⵏ ⵜⴰⵙⵏⴰⵜⵡⵉⵍⵜ ⵉ ⵖⴻⴼ ⵔⴰⴷ ⵢⵉⵍⵉ ⵓⵙⵏⴼⴻⵍ."
+Cambia_lector_MSG7="ⵙⴽⴻⵛⵎ ⴰⴹⵔⵉⵙ:"
+cambia_lector_MSG8="ⵙⴽⵛⵎ ⵉⵙⵎ ⵏ ⵓⵖⴰⵡⴰⵙ ⴰⵎⴰⵢⵏⵓ"
+cambia_lector_MSG9="ⵓⵔ ⵉⵎⵙⴰⵙⴰⵏ ⴰⵔⴰ ⴷ ⵢⴰⵏ ⵓⵖⴰⵡⴰⵙ ⵏ ⵓⴱⵍⴹⵍ"
+Cambia_lector_MSG10="ⴰⵍⵍⴰⵍ"
+cambia_lector_MSG11="ⵢⴻⵜⵜⵡⴰⵙⵏⴻⴼⴽ ⵙ ⵡⵓⴷⴻⵎ ⴰⵎⵓⵍⵍⵉ"
+cambia_lector_MSG12="ⴰⵙⵡⵉⵔ ⴰⵎⴰⵢⵏⵓ ⵉⴳⴰ:"
+cambia_lector_MSG13="ⵎⴰⵞⵞⵉ ⴰⴽⴽ ⵜⵉⴼⴻⵍⵡⵉⵢⵉⵏ ⵏ cdrecord ⵇⴻⴱⵍⴻⵏⵜ ⴰⵙⴻⵍⴽⵉⵎ ⵏ ⵓⵙⵎⴻⵍ ⴷ ⴰⴼⴻⵔⴷⵉⵙ ⵏ ⵓⵙⴻⴽⵍⴻⵙ."
+cambia_lector_MSG14="ⵙⴽⴻⵛⵎ ⵉⵙⴻⵎ ⵏ ⵡⴰⵍⵍⴰⵍ ATAPI ⴰⵎⴰⵢⵏⵓⵜ"
+cambia_lector_MSG15="ⴰⵙⵏⵉⵍⴻⵙ ⵓⵔ ⵉⵚⴰⵃ ⴰⵔⴰ ⵉ CANALATAPI"
+cambia_lector_MSG16="ⴰⵎⴳⴰⵍ ⴰⴷ ⵉⵜⵜⵡⴰⴼⴽⴰ 0,0,0 ⵙ ⵓⵎⵣⵡⴰⵔⵓ"
+cambia_lector_MSG17="ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⵙⵏⵉⵍⴻⵙ ⴰⴷ ⵢⴻⵜⵜⵡⴰⵔⵓ ⵙ CANALATAPI = 0,0,0"
+cambia_lector_MSG18="ⴰⵙⵡⵉⵔ ⴰⵎⴰⵢⵏⵓ ⵉⴳⴰ:"
+cambia_lector_MSG19="ⵓⵍⴰⵛ ⵉⴱⴻⴷⴷⴰⵍⴻⵏ ⵢⴻⵜⵜⵡⴰⵅⴻⴷⵎⴻⵏ ⴷⴻⴳ ⵡⴰⵍⵍⴰⵍⴻⵏ"
+cambia_lector_MSG4B="ⴰⵙⵓⴼⴻⵖ ⵏ ⵡⴰⵣⴰⵍⴻⵏ ⵙⴻⴳ ⵓⴼⴰⵢⵍⵓ ⵏ ⵓⵙⴻⵎⵔⴻⵙ"
+cambia_lector_MSG4C="ⵜⵜⵡⴰⵅⴻⴱⴱⵔⴻⵏⴷ ⵡⴰⵣⴰⵍⴻⵏⴰ ⵉ ⵜⵡⴻⵏⵏⴰⴹⵜ.:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="ⵙⴻⴳ ⵓⵎⵓⵖⴰ, ⵜⵣⴻⵎⵔⴻⴹ ⴰⴷ ⵜⴻⴼⵔⴻⵏⴹ ⴰⵏⵡⴰ"
+cambia_generador_isocd_MSG2="ⴰⵙⴻⵍⴽⵉⵎ ⴰⵔⴰ ⵜⴻⵙⵇⴻⴷⵛⴻⴹ ⵉ ⵓⵙⵙⴻⴹⵔⵓ ⵏ ⵜⵓⴳⵏⵉⵡⵉⵏ ISO-9660 "
+cambia_generador_isocd_MSG3="ⵙⴻⴳ ⵢⵉⴹⴻⴱⵙⵉⵢⴻⵏ ⵏ CD ⵢⴻⵍⵍⴰⵏ ⴷⴻⴳ ⵜⵎⴻⵥⴷⵉⵜ."
+cambia_generador_isocd_MSG4="ⴰⵙⴻⴱⴷⴻⴷ ⵏ ⵜⵓⵔⴰ:"
+cambia_generador_isocd_MSG5="ⵙⴻⵇⴷⴻⵛ dd (ⴰⴼⵜⵓⵙ GNU coreutils)"
+cambia_generador_isocd_MSG6="ⵙⴻⵇⴷⴻⵛ readcd (ⴰⴼⵜⵓⵙ ⵏ  cdrtools)"
+cambia_generador_isocd_MSG7="ⴰⵎⴻⵏⵏⵓⵖ ⵉⵄⴻⴷⴷⴰⵏ."
+cambia_generador_isocd_MSG8="ⴼⵔⴻⵏ ⵢⵉⵡⴻⵏ ⵏ ⵓⴹⵔⵉⵙ:"
+cambia_generador_isocd_MSG9="ⴰⵙⴻⵇⴷⴻⵛ ⵏ dd ⴰⵎ ⵓⵙⵏⵓⵍⴼⵓ ⵏ iso."
+cambia_generador_isocd_MSG10="ⴰⵙⴻⵇⴷⴻⵛ ⵏ readcd ⴰⵎ ⵓⵙⵏⵓⵍⴼⵓ ⵏ iso."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="ⵙⴱⴻⴷⴷ ⵉⵎⴻⴹⵇⴰⵏ ⵏ HFS ⴰⴽⴽ ⴷ Rock Ridge ⴷ Joliet"
+establecer_hfs_iso_MSG2="ⵙⴻⵇⴷⴻⵛ ⴽⴰⵏ ⵉⵙⴻⴼⴽⴰ ⵏ Rock Ridge ⴷ Joliet"
+establecer_hfs_iso_MSG3="ⴰⵎⴻⵏⵏⵓⵖ ⵉⵄⴻⴷⴷⴰⵏ."
+establecer_hfs_iso_MSG4="ⴼⵔⴻⵏ ⵢⵉⵡⴻⵏ ⵏ ⵓⴹⵔⵉⵙ:"
+establecer_hfs_iso_MSG5="ⴰⵙⴻⵇⴷⴻⵛ ⵏ HFS, ⵉⵎⴻⴹⵇⴰⵏ ⵏ Rock Ridge ⴷ Joliet"
+establecer_hfs_iso_MSG6="ⴰⵙⴻⵇⴷⴻⵛ ⵏ ⵉⵙⴻⴼⴽⴰ ⵏ Rock Ridge ⴷ Joliet"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="ⴰⵏⴰⴳⵔⴰⵡ ⵏ ⵓⵙⴻⴱⵜⴻⵔ ⵏ ⵜⵓⵔⴰ"
+cambia_notificaciones_MSG2A="ⴰⴳⴻⵎⵎⴰⴹ ⵓⴷⵍⵉⵙ GNOME"
+cambia_notificaciones_MSG2B="ⴰⴳⴻⵎⵎⴰⴹ ⵓⴷⵍⵉⵙ KDE"
+cambia_notificaciones_MSG2="ⴰⴳⵔⵓⴷ ⵙ ncurses"
+cambia_notificaciones_MSG3="ⴰⴳⵔⵓⴷ ⵏ ⵓⴹⵔⵉⵙ"
+cambia_notificaciones_MSG4="ⴼⴼⴻⵖⴷ"
+cambia_notificaciones_MSG5="ⴼⵔⴻⵏ ⵢⵉⵡⴻⵏ ⵏ ⵓⴹⵔⵉⵙ:"
+cambia_notificaciones_MSG6="ⴰⵙⴻⵇⴷⴻⵛ ⵏ ⵓⴳⵔⴰⵡ ⴷ dialog"
+cambia_notidicaciones_MSG6B="ⴰⵙⴻⵇⴷⴻⵛ ⵏ ⵓⴳⵔⴰⵡ ⴷ zenity"
+cambia_notidicaciones_MSG6C="ⴰⵙⴻⵇⴷⴻⵛ ⵏ ⵓⴳⵔⴰⵡ ⴷ kdialog"
+cambia_notificaciones_MSG7="ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ ⵓⵎⵢⴰⴳⴻⵔ dialog"
+cambia_notificaciones_MSG8="ⴰⵙⴻⵇⴷⴻⵛ ⵏ ⵓⴳⴱⵓⵔ ⵏ ⵓⴹⵔⵉⵙ"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="ⵜⵓⵜⵍⴰⵢⵜ ⵢⴻⵜⵜⵡⴰⵙⵇⴻⴷⵛⴻⵏ:"
+cambiar_idioma_UI_MSG1="ⵜⵓⵜⵍⴰⵢⵉⵏ ⵢⴻⵍⵍⴰⵏ ⵜⵓⵔⴰ:"
+cambiar_idioma_UI_MSG2="ⴰⵔⵓ ⵉⵙⵎ ⵏ ⵜⵓⵜⵍⴰⵢⵜ ⵉ ⵔⴰⴷ ⵉⵜⵜⵓⵙⵎⵔⵙ ."
+cambiar_idioma_UI_MSG3="ⴷⴻⴳ ⵓⴳⴻⵎⵎⴰⴹ ⵓⵜⵔⵉⵎ ⵏ ⵓⵙⴻⵇⴷⴻⵛ:"
+cambiar_idioma_UI_MSG4="ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⵎⴰⵢⵏⵓⵜ ⵢⴻⵜⵜⵡⴰⵙⵇⴻⴷⵛⴻⵏ ⴷ:"
+cambiar_idioma_UI_MSG5="ⴰⵄⵉⵡⴻⴷ ⵏ ⵓⵄⴻⴷⴷⵉ LINUX-CDGRAB"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="ⴰⵙⴻⵖⵥⴰⵏ ⵏ ⵜⵓⵔⴰ"
+seleccion_gestor_archivos_MSG2="ⵉⵍⴻⵙ mc"
+seleccion_gestor_archivos_MSG3="ⵙⴻⵇⴷⴻⵛ ⴰⵏⴻⵎⵀⴰⵍ ⵏ ⵓⴹⵔⵉⵙ ⵢⴻⵜⵜⵡⴰⵙⴷⵓⴽⴽⵍⴻⵏ"
+seleccion_gestor_archivos_MSG4="ⵎⵛ ⵓⵔ ⵉⵜⵜⵓⵙⵔⵙ ⴳ ⵓⵏⴰⴳⵔⴰⵡ".
+seleccion_gestor_archivos_MSG5="ⴰⵙⵎⵔⵙ ⵏ ⵓⵙⵏⴼⵍ ⵏ ⵓⴹⵔⵉⵙ ⵉⵙⴷⵓⴽⴽⵍⵏ ⵙ ⵡⵓⴷⵎ ⴰⵎⵣⵡⴰⵔⵓ".
+seleccion_gestor_archivos_MSG6="ⵓⵜⵉⵍⵉⵜⵢ mc"
+seleccion_gestor_archivos_MSG7="ⴰⴹⵔⵉⵙ ⵢⴻⵜⵜⵡⴰⵙⴷⵓⴽⴽⵍⴻⵏ"
+
+# centro_de_control
+
+centro_de_control_MSG1="ⴰⵍⴻⵎⵎⴰⵙ ⵏ ⵓⴹⴼⴰⵔ"
+centro_de_control_MSG2="ⵉⵙⴻⵖⵡⴰⵏ ⵉⵎⴰⵢⵏⵓⵜⴻⵏ"
+centro_de_control_MSG3="ⴽⴽⴻⵙ ⴰⴼⴰⵢⵍⵓ ⵏ ⵜⴰⵍⵖⴰ"
+centro_de_control_MSG4="ⵙⴽⴻⵏⴷ ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⵙⴻⵎⵔⴻⵙ ⵏ ⵜⵓⵔⴰ ⴷ ⵡⴰⵣⴰⵍⴻⵏ"
+centro_de_control_MSG5="ⴰⵣⴰⵍ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵓⵙⴻⵎⵔⴻⵙ:"
+centro_de_control_MSG5B="ⴰⵙⴻⴱⵜⴻⵔ ⵏ ⵜⵓⵔⴰ ⵢⴻⵜⵜⵡⴰⵙⴻⵇⴷⴰⵛⴻⵏ ⴷⴻⴳ ⵜⵡⴻⵏⵏⴰⴹⵜ:"
+centro_de_control_MSG6="ⴰⴱⴻⴷⴷⴻⵍ ⵏ ⵜⵜⴰⵡⵉⵍⴰⵜ ⵏ ⵓⵙⵉⵡⴻⴹ"
+centro_de_control_MSG7="ⵙⴻⴼⵇⴻⴷ ⴰⵀⵉⵍ ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷⴻⵏ"
+centro_de_control_MSG8="ⵙⴽⴰⵏ ⴰⵙⴰⴳⴻⵏ IDE/SCSI ⵙ ⵓⵙⴻⴽⵍⴻⵙ ⵏ cdrecord"
+centro_de_control_MSG8C="ⵙⴽⴰⵏ ⴰⵙⴰⴳⴻⵏ IDE/SCSI ⵙ ⵓⵙⴻⴽⵍⴻⵙ ⵏ cdrskin"
+centro_de_control_MSG8B="ⵍⵉⵙⵜ ⵏ ⵢⵉⴹⴻⴱⵙⵉⵢⴻⵏ ⵢⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷⴻⵏ ⴷⴻⴳ ⵓⵏⴰⴳⵔⴰⵡ ⵙ cdrskin"
+centro_de_control_MSG9="ⴱⴻⴷⴷⴻⵍ ⴰⵙⴻⵏⴼⴰⵔ ⵏ ISO ⵙⴻⴳ CD"
+centro_de_control_MSG9B="ⵙⴱⴻⴷⴷ ⵉⵙⴻⴼⴽⴰ ⵏ HFS ⵉ iso-9660"
+centro_de_control_MSG10="ⴱⴻⴷⴷⴻⵍ ⴰⵏⴻⴳⴳⴰⵔⵓ ⵏ ⵓⵙⴻⵇⴷⴰⵛ"
+centro_de_control_MSG10b="ⴱⴻⴷⴷⴻⵍ ⵛⵛⴱⴰⵃⴰ"
+centro_de_control_MSG10c="ⴱⴻⴷⴷⴻⵍ ⵜⵓⵜⵍⴰⵢⵜ ⵏ ⵓⵙⴻⵏⵇⴻⴷ"
+centro_de_control_MSG11="ⴱⴻⴷⴷⴻⵍ ⴰⵏⴻⵎⵀⴰⵍ ⵏ ⵓⴼⴰⵢⵍⵓ"
+centro_de_control_MSG11B="ⴽⴽⴻⵙ ⴰⵀⵉⵍ"
+centro_de_control_MSG12="ⴰⵔⵓⴷ ⴰⴹⵔⵉⵙ : "
+centro_de_control_MSG13="ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⵙⴻⵎⵔⴻⵙ ⵓⵔ ⵢⴻⵍⵍⵉ ⴰⵔⴰ"
+centro_de_control_MSG14="ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⵙⴻⵎⵔⴻⵙ ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ"
+centro_de_control_MSG15="ⴰⵙⴽⴰⵏ"
+centro_de_control_MSG16="ⴰⵙⴻⴽⵛⴻⵎ ⵏ IDE/SCSI"
+centro_de_control_MSG17="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⴽⴰⵏ ⵏ ⵓⵙⵎⴻⵍ IDE/SCSI"
+centro_de_control_MSG18="ⴼⵔⴻⵏ ⴰⵖⴰⵡⴰⵙ ⵏ ⵉⵏⵉ"
+centro_de_control_MSG19="ⴰⴼⵔⴰⵏ ⵏ ⵉⵏⵉⵜⴻⵏ ⵙ ⵍⴻⴱⵖⵉ"
+centro_de_control_MSG20="ⴰⵎⴻⵏⵏⵓⵖ ⵢⴻⵣⵔⵉⵏ"
+centro_de_control_MSG21="ⴰⵔⵓⴷ ⴰⴹⵔⵉⵙ : "
+centro_de_control_MSG22="ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⵙⴻⵎⵔⴻⵙ ⵓⵔ ⵢⴻⵍⵍⵉ ⴰⵔⴰ"
+centro_de_control_MSG23="ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⵙⴻⵎⵔⴻⵙ ⵓⵔ ⵢⴻⵜⵜⵡⴰⴼ ⴰⵔⴰ"
+centro_de_control_MSG24="ⴼⵔⴻⵏ ⴰⵖⴰⵡⴰⵙ ⵏ ⵉⵏⵉ"
+centro_de_control_MSG25="ⴰⴼⵔⴰⵏ ⵏ ⵉⵏⵉⵜⴻⵏ ⵙ ⵍⴻⴱⵖⵉ"
+centro_de_control_MSG26="ⴰⴹⵔⴰⵏ ⵓⵔ ⵢⴻⵜⵜⵡⴰⵇⴱⴰⵍ ⴰⵔⴰ"
+

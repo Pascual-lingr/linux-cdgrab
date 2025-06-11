@@ -1,0 +1,70 @@
+#########################################################
+# lcdgrabAPI_idiom/ExTamazightTifinagh/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en Tamazight (Tifinagh) para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+# Resultado del traductor
+conv_video_BDVideo_MSG1="ⵜⴰⵙⴻⵎⵍⵉⵍⵜ ⵏ ⵓⵙⵓⵖⴻⵍ ⵏ vidyu BLU-RAY DISC"
+conv_video_BDVideo_MSG2="ⵙⵏⵓⵍ ⴰⴱⵔⵉⴷ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵓⴼⵉⴷⵢⵓ ⵉ ⵔⴰⴷ ⵉⵙⵏⴼⵍ:"
+conv_video_BDVideo_MSG3="ⵙⵏⵓⵍ ⵉⵙⵎ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵓⴼⵉⴷⵢⵓ ⴰⵎⴰⵢⵏⵓ ⵉ ⵔⴰⴷ ⵜⵙⵏⴼⵍⴷ:"
+conv_video_BDVideo_MSG4="ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⴼⵉⴷⵢⵓ ⵉⵜⵜⵓⵙⵏⴼⵍ ⵙ ⵓⵎⵓⵔⵙ!!"
+conv_video_BDVideo_MSG5="ⴰⵣⴳⴰⵍ ⴳ ⵓⵙⵏⴼⵍ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ ⵓⴼⵉⴷⵢⵓ"
+
+# conv_VideoFich
+
+# Resultado del traductor
+conv_VideoFich_MSG1="ⴰⴱⴻⴷⴷⴻⵍ ⵏ ⵢⵉⴼⵓⵢⵍⴰ ⵏ Vidyu"
+# Resultado del traductor
+conv_VideoFich_MSG2="ⵙⵏⵓⵍ ⴰⴼⴰⵢⵍⵓ ⵏ vidyu ⵉ ⵔⴰⴷ ⵜⵙⵏⵓⵍⴼⵓⵜ:"
+conv_VideoFich_MSG3="ⵙⵏⵓⵍ ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⴼⵉⴷⵢⵓ ⵉ ⵔⴰⴷ ⵉⵙⵏⴼⵍⵏ:"
+# Resultado del traductor
+conv_VideoFich_MSG4="ⵢⴻⴽⴼⴰ ⵓⴱⴻⴷⴷⴻⵍ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ vidyu"
+# Resultado del traductor
+conv_VideoFich_MSG5="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⴱⴻⴷⴷⴻⵍ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ vidyu"
+
+# extrae_Audio_de_Video
+
+# Resultado del traductor
+extrae_Audio_de_Video_MSG1="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⴱⴻⴷⴷⴻⵍ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ vidyu"
+extrae_Audio_de_Video_MSG2="ⵙⴽⴻⵏⴷ ⴰⴼⴰⵢⵍⵓ ⵏ ⵚⵚⵓⵜ mp3 ⴰⵔⴰ ⴷⵜⴻⵙⵏⵓⵍⴼⵓⴹ:"
+extrae_Audio_de_Video_MSG3="ⵜⵓⴽⴽⵙⴰ ⵏ ⵚⵚⵓⵜ ⵜⴻⵍⵍⴰⴷ ⵙ ⵔⵔⴱⴻⵃ."
+extrae_Audio_de_Video_MSG4="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵜⵓⴽⴽⵙⴰ ⵏ ⵚⵚⵓⵜ"
+
+# extrae_Fragmento_Video
+
+# Resultado del traductor
+extrae_Fragmento_Video_MSG1="ⵙⴽⴻⵏⴷ ⴰⴼⴰⵢⵍⵓ ⵏ tvidyut:"
+# Resultado del traductor
+extrae_Fragmento_Video_MSG2="ⵙⴽⴻⵏⴷ ⴰⴼⴰⵢⵍⵓ ⵏ tvidyut ⴰⵔⴰ ⴷⵜⴻⵙⵏⵓⵍⴼⵓⴹ:"
+extrae_Fragmento_Video_MSG3="ⵙⴽⴻⵏⴷ ⴰⴽⵓⴷ ⵏ ⵓⵙⴱⴰⴷⵓ (ⵙⴱⴻⴳⴳⴻⵏⴷ ⴰⵎ HH:MM:SS) :"
+extrae_Fragmento_Video_MSG4="ⵙⴽⴻⵏⴷ ⴰⴽⵓⴷ ⵏ ⵜⴰⴳⴳⴰⵔⴰ (ⵙⴱⴻⴳⴳⴻⵏⴷ ⴰⵎ HH:MM:SS) :"
+# Resultado del traductor
+extrae_Fragmento_Video_MSG5="Vidyu ⵢⴻⵜⵜⵡⴰⴳⵣⴻⵎ ⵙ ⵔⵔⴱⴻⵃ"
+# Resultado del traductor
+extrae_Fragmento_Video_MSG6="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵇⴻⵙⵙⴻⵔ ⵏ vidyu"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="ⵙⵏⵓⵍ ⴰⴼⴰⵢⵍⵓ ⵏ ⵉⵎⵙⵍⵉ:"
+# Resultado del traductor
+mezcla_Audio_Video_MSG2="ⵙⵏⵓⵍ ⴰⴼⴰⵢⵍⵓ ⵏ vidyu:"
+mezcla_Audio_Video_MSG3="ⵙⵏⵓⵍ ⴰⴼⴰⵢⵍⵓ ⵏ ⵓⴼⵉⴷⵢⵓ ⵉ ⵔⴰⴷ ⵜⵙⵏⴼⵍⴷ:"
+# Resultado del traductor
+mezcla_Audio_Video_MSG4="ⴰⴼⴰⵢⵍⵓ ⵏ Vidyu ⴰⵎⴰⵢⵏⵓⵜ ⵢⴻⵜⵜⵡⴰⵙⵏⵓⵍⴼⴰⴷ ⵙ ⵔⵔⴱⴻⵃ."
+# Resultado del traductor
+mezcla_Audio_Video_MSG5="ⵜⵓⵛⵛⴹⴰ ⴷⴻⴳ ⵓⵙⵏⵓⵍⴼⵓ ⵏ ⵓⴼⴰⵢⵍⵓ ⵏ tvidyut"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="ⴰⴹⴼⴰⵔ ⵓⵔ ⵢⴻⵍⵍⵉ ⴰⵔⴰ ⵉ ⵓⴳⴻⵎⵎⴰⴹ ⵏ ⵜⴽⵓⵏⵙⵓⵍⴰ"
+graba_escritorio_MSG2="-- ⴰⵙⴻⴽⵍⴻⵙ ⵏ ⵜⵖⵉⵎⵉⵜ ⵏ ⵓⵏⴰⵔⴰⵢ -- ⵥⴻⵎ CTRL + C ⴰⴷ ⵜⴱⴻⵟⵟⵍⴻⴹ ⴰⵙⴻⴽⵍⴻⵙ"
+# Resultado del traductor
+graba_escritorio_MSG3="ⵢⴻⴽⴼⴰ ⵓⵙⴻⴽⵍⴻⵙ ⵏ vidyu"
+
