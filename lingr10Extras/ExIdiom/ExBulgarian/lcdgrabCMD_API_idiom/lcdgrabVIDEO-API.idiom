@@ -1,0 +1,55 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBulgarian/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en búlgaro para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="СЪВМЕСТИМОСТ С BLU-RAY ДИСКОВЕ ЗА КОНВЕРТИРАНЕ НА ВИДЕО"
+conv_video_BDVideo_MSG2="Посочете пътя на видео файла за конвертиране:"
+conv_video_BDVideo_MSG3="Посочете името на файла на новото видео, което да създадете:"
+conv_video_BDVideo_MSG4="Видеофайлът е конвертиран успешно!!"
+conv_video_BDVideo_MSG5="Грешка при конвертиране на видео файла"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="КОНВЕРТиране на видеофайл"
+conv_VideoFich_MSG2="Посочете видеофайла за конвертиране:"
+conv_VideoFich_MSG3="Посочете видеофайла за генериране:"
+conv_VideoFich_MSG4="КОНВЕРТирането на видеофайла е завършено"
+conv_VideoFich_MSG5="ГРЕШКА ПРИ КОНВЕРТИРАНЕТО НА ВИДЕОФАЙЛ"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="Посочете видео файла:"
+extrae_Audio_de_Video_MSG2="Посочете mp3 аудио файла, който да се генерира:"
+extrae_Audio_de_Video_MSG3="ИЗВЛИЧАНЕТО НА ЗВУК ЗАВЪРШИ УСПЕШНО"
+extrae_Audio_de_Video_MSG4="ГРЕШКА ПРИ ИЗВЛИЧАНЕТО НА ЗВУК"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="Посочете видеофайла:"
+extrae_Fragmento_Video_MSG2="Посочете видеофайла за генериране:"
+extrae_Fragmento_Video_MSG3="Посочете началния час (Посочете като HH:MM:SS):"
+extrae_Fragmento_Video_MSG4="Посочете крайния час (Посочете като HH:MM:SS):"
+extrae_Fragmento_Video_MSG5="ВИДЕОТО Е УСПЕШНО ОТРЕЗАНО"
+extrae_Fragmento_Video_MSG6="ГРЕШКА ПРИ ОТРЕЗВАНЕТО НА ВИДЕОТО"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="Посочете аудио файла:"
+mezcla_Audio_Video_MSG2="Посочете видео файла:"
+mezcla_Audio_Video_MSG3="Посочете видео файла за генериране:"
+mezcla_Audio_Video_MSG4="НОВ ВИДЕО ФАЙЛ Е ГЕНЕРИРАН УСПЕШНО"
+mezcla_Audio_Video_MSG5="ГРЕШКА ПРИ ГЕНЕРИРАНЕТО НА ВИДЕО ФАЙЛ"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="ОПЦИЯТА НЕ Е НАЛИЧНА ЗА КОНЗОЛНИЯ ИНТЕРФЕЙС"
+graba_escritorio_MSG2="-- ЗАПИСВАНЕ НА СЕСИЯ НА РАБОТИЛНИЯ ПЛАТФОР -- НАТИСНЕТЕ CTRL + C, ЗА ДА ОТМЕНИТЕ И СПРЕТЕ ЗАПИСА"
+graba_escritorio_MSG3="ВИДЕЗАПИСЪТ Е ЗАВЪРШЕН"

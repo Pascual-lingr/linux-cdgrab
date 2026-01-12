@@ -1,0 +1,34 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBulgarian/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Búlgaro para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="Файлове в /tmp"
+dir_tmp_MSG2="Изтриване на всички изображения и компресирани файлове"
+dir_tmp_MSG3="Стартиране на файловия мениджър за други операции"
+dir_tmp_MSG4="Монтиране или демонтиране на изображение"
+dir_tmp_MSG5="Показване на менюто за създаване на изображение"
+dir_tmp_MSG6="Показване на опциите за записване на изображение"
+dir_tmp_MSG7="Предишно меню"
+dir_tmp_MSG8="СПИСЪК СЪС СЪЩЕСТВУВАЩИТЕ ФАЙЛОВЕ В"
+dir_tmp_MSG9="ИЗБЕРЕТЕ ОПЦИЯ:"
+dir_tmp_MSG10="ИЗТРИТИ ИЗОБРАЖЕНИЯ И ФАЙЛОВЕ"
+dir_tmp_MSG11="Монтиране на изображение."
+dir_tmp_MSG12="Демонтиране на изображение."
+dir_tmp_MSG12="Демонтиране на изображение."
+dir_tmp_MSG13="Записване на образ на CD"
+dir_tmp_MSG14="Записване на образ на DVD"
+dir_tmp_MSG14B="Записване на образ на BD"
+dir_tmp_MSG15="Изберете опция според носителя за запис"
+dir_tmp_MSG16="КОНФИГУРАЦИОННИЯТ ФАЙЛ НЕ Е НАМЕРЕН"
+dir_tmp_MSG17="Прекъсване на процеса на запис"
+dir_tmp_MSG18="Посочете .iso файла за запис"
+dir_tmp_MSG19="Въведете пътя до образа: "

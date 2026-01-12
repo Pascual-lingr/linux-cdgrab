@@ -1,0 +1,156 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBulgarian/lcdgrabCMD_API_idiom/lcdgrabDVD-API.idiom
+# Mensajes en Búlgaro para el API de grabación en DVD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# buscar_grabadora
+
+buscar_grabadora_MSG1="Записващо устройство като"
+buscar_grabadora_MSG1B="Валидно"
+buscar_grabadora_MSG2="Записващо устройство като"
+buscar_grabadora_MSG2B="Неправилно"
+buscar_grabadora_MSG3="DVD+-RW-Tools не приема записващото устройство като"
+buscar_grabadora_MSG4="За да записвате DVD-та с помощта на DVD+RW-Tools, трябва да посочите вашия рекордер като блоково устройство"
+buscar_grabadora_MSG5="Пример"
+buscar_grabadora_MSG6="или"
+buscar_grabadora_MSG7="Показване на съществуващи системни устройства в /dev"
+buscar_grabadora_MSG8="Въведете блоковото устройство, което съответства на вашия DVD рекордер"
+buscar_grabadora_MSG9="Не е посочена опция за тип рекордер."
+buscar_grabadora_MSG10="УСТРОЙСТВО, КОНФИГУРИРАНО ЗА РЕКОРДЕР"
+buscar_grabadora_MSG11="Записващото устройство е експортирано в средата на shell като"
+
+# buscar_grabadoralb
+
+buscar_grabadoralb_MSG1="Възможна стойност, валидна само за cdrecord"
+buscar_grabadoralb_MSG2="Текущата конфигурация за записващото устройство е"
+buscar_grabadoralb_MSG3="Проверете дали тази конфигурация съответства на стойността, зададена от cdrskin"
+buscar_grabadoralb_MSG4="Сканиране на IDE/SCSI порт с cdrskin..."
+buscar_grabadoralb_MSG5="Посочете новата стойност, която ще се използва с cdrskin:"
+
+# datos_dvd
+
+datos_dvd_MSG1="Въведете име за бъдещото DVD:"
+datos_dvd_MSG2="ЗАПИСВАНЕ НА DVD . . ."
+datos_dvd_MSG3="Използва се"
+datos_dvd_MSG4="бягане"
+datos_dvd_MSG5="ЗАПИСВАНЕТО НА DVD Е УСПЕШНО !!"
+datos_dvd_MSG6="mkisofs или genisoimage не са намерени, моля, инсталирайте cdrtools или cdrkit"
+
+# grabimg-dvd
+
+grabimg_dvd_MSG1="ЗАПИС НА ИЗОБРАЖЕНИЕ . . ."
+grabimg_dvd_MSG2="бягане"
+grabimg_dvd_MSG3="DVD ИЗОБРАЖЕНИЕТО Е ЗАПИСАНО УСПЕШНО !"
+
+# copia_bin_dvd
+
+copia_bin_dvd_MSG1="ЗАПИСВАНЕ НА ИЗОБРАЖЕНИЯ НА DVD . . ."
+copia_bin_dvd_MSG2="бягане"
+copia_bin_dvd_MSG3="	ИЗТРИВАНЕ НА ФАЙЛ С ИЗОБРАЖЕНИЕ"
+copia_bin_dvd_MSG4="ЗАПИСЪТ ЗАВЪРШЕН!"
+
+# formatear_dvd
+
+formatear_dvd_MSG1="Форматиране на"
+formatear_dvd_MSG2="Принудително ново форматиране за"
+formatear_dvd_MSG3="Преместване на изходния блок на"
+formatear_dvd_MSG4="Форматиране на DVD-RW за последователно нарастващо записване"
+formatear_dvd_MSG5="Форматиране на DVD-RW за ограничено презаписване"
+formatear_dvd_MSG6="Запълване на DVD с нули"
+formatear_dvd_MSG7="Показва информация за DVD"
+formatear_dvd_MSG8="Предишно меню"
+formatear_dvd_MSG9="Тази опция се използва за форматиране на DVD за първи път."
+formatear_dvd_MSG10="Ако DVD то вече е форматирано, данните няма да бъдат изтрити."
+formatear_dvd_MSG11="Тези данни ще бъдат презаписани при нов запис."
+formatear_dvd_MSG12="За да изтриете съдържанието на DVD диска, използвайте:"
+formatear_dvd_MSG13="Запълнете DVD диска с нули"
+formatear_dvd_MSG14="Тази опция изтрива формата и данните на DVD диска, който се обработва."
+formatear_dvd_MSG15="Изпълнява се"
+formatear_dvd_MSG16="DVD+RW/DVD-RW ФОРМАТИРАН УСПЕШНО !"
+formatear_dvd_MSG17="ГРЕШКА ПРИ ФОРМАТИРАНЕ НА DVD"
+formatear_dvd_MSG18="Принудително форматиране на DVD+RW диск..."
+formatear_dvd_MSG19="DVD+RW ФОРМАТИРАН УСПЕШНО !"
+formatear_dvd_MSG20="ГРЕШКА ПРИ ФОРМАТИРАНЕ НА DVD+RW"
+formatear_dvd_MSG21="Тази опция не засяга данните, записани на DVD+RW"
+formatear_dvd_MSG22="Премахване на изходния блок от DVD+RW..."
+formatear_dvd_MSG23="Форматиране на DVD-RW диск за последователно записване..."
+formatear_dvd_MSG24="DVD-RW ФОРМАТИРАН УСПЕШНО !"
+formatear_dvd_MSG25="ГРЕШКА ПРИ ФОРМАТИРАНЕ НА DVD-RW"
+formatear_dvd_MSG26="Форматиране на DVD-RW диск с ограничено презаписване..."
+formatear_dvd_MSG27="ИЗТРИВАНЕ НА ПРЕЗАПИСВАЕМ DVD"
+
+# null_dvd
+
+null_dvd_MSG1="Записване на диск от /dev/zero . . ."
+null_dvd_MSG2="бягане"
+null_dvd_MSG3="ПРОЦЕСЪТ ЗАВЪРШЕН"
+null_dvd_MSG4="НЕОЧАКВАНА ГРЕШКА"
+
+# dvd_video
+
+dvd_video_MSG1="Път до директориите VIDEO_TS и AUDIO_TS:"
+dvd_video_MSG2="Посочете пътя до директориите VIDEO_TS и AUDIO_TS:"
+dvd_video_MSG3="бягане"
+dvd_video_MSG4="--- DVD-ВИДЕОТО Е УСПЕШНО ЗАПИСАНО ---"
+
+#########################################################
+################## Cdrecord-ProDVD ######################
+#########################################################
+
+# dvd_copia_bin
+
+dvd_copia_bin_MSG1="бягане"
+dvd_copia_bin_MSG2="	ИЗТРИВАНЕ НА ФАЙЛ С ИЗОБРАЖЕНИЕ"
+dvd_copia_bin_MSG3="ВЪЗНИКНА ГРЕШКА В ЗАПИСА"
+
+# dvd_datos
+
+dvd_datos_MSG1="Файлове и директории за създаване на .iso образ"
+dvd_datos_MSG2="ЕТИКЕТ НА DVD"
+dvd_datos_MSG3="Въведете име за бъдещия DVD:"
+dvd_datos_MSG4="Стартиране на файловия мениджър:"
+dvd_datos_MSG5="	СЪЗДАВАНЕ НА ОБРАЗ..."
+dvd_datos_MSG6="бягане"
+dvd_datos_MSG7="ISO-9660 ОБРАЗ, СЪЗДАН НА"
+dvd_datos_MSG8="		ЗАПИСВАНЕ НА DVD"
+dvd_datos_MSG13="ИЗТРИВАНЕ НА ОБРАЗ..."
+
+# dvd_borra
+
+dvd_borra_MSG1="бягане"
+dvd_borra_MSG2="ОПТИЧНИЯТ ДИСК Е УСПЕШНО ФОРМАТИРАН"
+dvd_borra_MSG3="ГРЕШКА ПРИ ФОРМАТИРАНЕ НА ОПТИЧНИЯ ДИСКА"
+
+# dvd_discoinfo
+
+dvd_discoinfo_MSG1="бягане"
+
+#########################################################
+################## libburnia project ####################
+#########################################################
+
+# formatearCDDVDBD
+
+formatearCDDVDBD_MSG1="бягане"
+formatearCDDVDBD_MSG2="ОПТИЧНИЯТ ДИСК Е УСПЕШНО ФОРМАТИРАН"
+formatearCDDVDBD_MSG3="ГРЕШКА ПРИ ФОРМАТИРАНЕ НА ОПТИЧНИЯ ДИСКА"
+
+# formatearDVDRW_incremental_secuencial
+
+formatearDVDRW_incremental_secuencial_MSG1="DVD-RW форматиран успешно!!"
+formatearDVDRW_incremental_secuencial_MSG2="Грешка при форматирането на DVD-RW в инкрементален секвенциален"
+
+# cdrskinisocddvd
+
+cdrskinisocddvd_MSG1="Посочете пътя до iso-9660 образа за запис:"
+cdrskinisocddvd_MSG2="ISO образът е записан успешно!!"
+cdrskinisocddvd_MSG3="ГРЕШКА ПРИ ЗАПИСВАНЕ НА ОБРАЗ"

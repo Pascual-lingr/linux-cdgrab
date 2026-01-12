@@ -1,0 +1,16 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBulgarian/lcgdrabCMD_API_idiom/lcdgrabExpulsaCDDVD-API.idiom
+# Mensajes en Búlgaro para lcdgrabCMD_API/lcdgrabExpulsaCDDVD-API.sh
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+# expulsar_medio
+
+expulsar_medio_MSG1="ОПТИЧНИЯТ ДИСК Е ИЗХВЪРЛЕН"
+expulsar_medio_MSG2="Грешка при изваждане на диска от устройството"
+expulsar_medio_MSG3="Въведете името ръчно:"
+

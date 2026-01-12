@@ -1,0 +1,53 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBulgarian/lcgdrabCMD_API_idiom/lcdgrabCompresion-API.idiom
+# Mensajes en búlgaro para el API de compresión/descompresión
+# sobre archivos.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# empaquetar
+
+empaquetar_MSG1="Въведете пътя до файла или директорията:"
+empaquetar_MSG2="------- Опции -------"
+empaquetar_MSG3="Генериране на .tar.gz файл"
+empaquetar_MSG4="Генериране на .tar.bz2 файл"
+empaquetar_MSG5="Въведете опция: "
+empaquetar_MSG6="Изпълнява се"
+empaquetar_MSG7="Невалидна опция"
+
+# desempaquetar
+
+desempaquetar_MSG1="Въведете пътя до файла:"
+desempaquetar_MSG2="НЕ Е НАМЕРЕН ДЕКОМПРЕСОР ЗА"
+desempaquetar_MSG3="ИЛИ"
+desempaquetar_MSG4="НЕ СЪЩЕСТВУВА"
+desempaquetar_MSG5="Изпълнява се"
+desempaquetar_MSG6="разопаковано"
+desempaquetar_MSG7="Грешка при опит за разопаковане"
+
+# comprime
+
+comprime_MSG1="КОМПРЕСИРАНЕ НА ИЗОБРАЖЕНИЕ"
+comprime_MSG2="Компресиране с bzip2"
+comprime_MSG3="Компресиране с gzip"
+comprime_MSG4="Компресиране с xz"
+comprime_MSG5="Предишно меню"
+comprime_MSG6="Изпълнява се"
+comprime_MSG7="Компресирането на файла с изображение е завършено"
+comprime_MSG8="Грешка при компресиране с"
+comprime_MSG9="Невалиден компресор"
+
+# descomprime
+
+descomprime_MSG1="Въведете пътя до файла:"
+descomprime_MSG2="-----------------------"
+descomprime_MSG3="НЕ Е НАМЕРЕН ДЕКОМПРЕСОР ЗА"
+descomprime_MSG4="ИЛИ"
+descomprime_MSG5="НЕ СЪЩЕСТВУВА"
+descomprime_MSG6="Изпълнява се"
+descomprime_MSG7="декомпресиран"
+descomprime_MSG8="Грешка при опит за декомпресиране"

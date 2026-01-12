@@ -1,0 +1,25 @@
+български
+
+Búlgaro. Bulgarian.
+Experimental.
+
+Implementado en Windows 11 mediante Notepad.
+Prueba de compatibilidad sobre el formato de ficheros
+de texto usado en Notepad con los editores usados en Linux.
+Contiene errores de significado en contexto o traducción propia.
+El shell debe tener soporte para el alfabeto cirílico, de lo 
+contrario este idioma no será funcional en el shell.
+Generado con Google Translate.
+
+Implemented on Windows 11 using Notepad.
+Compatibility test on the text file format 
+used in Notepad with the editors used in Linux.
+Contains errors in meaning due to context or my own translation.
+The shell must support the Cyrillic alphabet; otherwise, this
+language will not function in the shell.
+Generated with Google Translate.
+
+Български езиков пакет за linux-cdgrab.
+Експериментален, генериран с Google Translate.
+Pascual Martínez Cruz; pascual@hotmail.com
+

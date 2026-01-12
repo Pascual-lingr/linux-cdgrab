@@ -1,0 +1,52 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBulgarian/lcgdrabMenu_API/lcdgrabUIMontajeUnidades.idiom
+# Mensajes en búlgaro para el menu de montaje y desmontaje de dispositivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# montar_dispositivos
+
+montar_dispositivos_MSG1="УСТРОЙСТВА, МОНТИРАНИ В МОМЕНТА НА СИСТЕМАТА"
+montar_dispositivos_MSG1B="МОНТИРАНЕ/ДЕМОНТИРАНЕ НА УСТРОЙСТВА"
+montar_dispositivos_MSG2="ОПЦИИ ЗА LINUX-CDGRAB"
+montar_dispositivos_MSG3="Изваждане на диск от CD/DVD/BD устройство"
+montar_dispositivos_MSG4="Изваждане на диск от CD/DVD/BD записвачка"
+montar_dispositivos_MSG5="Монтиране на CD-ROM/DVD-ROM/BD-ROM устройство"
+montar_dispositivos_MSG6="Демонтиране на CD-ROM/DVD-ROM/BD-ROM устройство"
+montar_dispositivos_MSG7="Ръчно монтиране или демонтиране на устройството"
+montar_dispositivos_MSG0="Предишно меню"
+montar_dispositivos_MSG8="CD/DVD/BD е монтиран на"
+montar_dispositivos_MSG9="НАТИСНЕТЕ ENTER, ЗА ДА ПРОДЪЛЖИТЕ..."
+montar_dispositivos_MSG10="Грешка при монтиране на CD/DVD/BD на"
+montar_dispositivos_MSG11="CD/DVD/BD е демонтиран"
+montar_dispositivos_MSG12="Грешка при демонтиране на CD/DVD/BD"
+montar_dispositivos_MSG13="Въведете устройството за монтиране/демонтиране:"
+montar_dispositivos_MSG14="Въведете точката на монтиране:"
+montar_dispositivos_MSG15="не съответства на блоково устройство"
+montar_dispositivos_MSG16="Точката на монтиране не е намерена"
+montar_dispositivos_MSG17="Точка на монтиране по подразбиране"
+montar_dispositivos_MSG18="Изберете опция:"
+montar_dispositivos_MSG19="Монтиране на"
+montar_dispositivos_MSG20="на"
+montar_dispositivos_MSG21="Демонтиране"
+montar_dispositivos_MSG22="от"
+montar_dispositivos_MSG23="монтиран на:"
+montar_dispositivos_MSG24="ГРЕШКА ПРИ МОНТИРАНЕ"
+montar_dispositivos_MSG25="ВКЛ."
+montar_dispositivos_MSG26="демонтиран от"
+montar_dispositivos_MSG27="ГРЕШКА ПРИ ДЕМОНТИРАНЕ"
+montar_dispositivos_MSG28="от"
+
+# Montar_Imagenes
+
+Montar_Imagenes_MSG1="Изход от командата за монтиране"
+Montar_Imagenes_MSG1B="МОНТИРАНЕ/ДЕМОНТИРАНЕ НА ФАЙЛОВЕ С ОБРАЗИ"
+Montar_Imagenes_MSG2="Изберете опция"
+Montar_Imagenes_MSG3="Монтиране на CD/DVD/BD образ"
+Montar_Imagenes_MSG4="Демонтиране на CD/DVD/BD образ"
+Montar_Imagenes_MSG5="Предишно меню"
+

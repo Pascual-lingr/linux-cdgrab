@@ -1,0 +1,47 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Búlgaro para la aplicación principal #
+# Traducción experimental.                         #
+# Generado con Gooogle Translate.                  #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="Файл, генериран автоматично от LINUX-CDGRAB 1.0"
+creacion_de_Depot_MSG2="Този файл, заедно с директорията"
+creacion_de_Depot_MSG3="бяха генерирани автоматично"
+creacion_de_Depot_MSG4="от приложението Linux-cdgrab след проверка, че не съществува във вашата Linux дистрибуция"
+creacion_de_Depot_MSG5="директорията"
+creacion_de_Depot_MSG6="Linux-cdgrab използва тази директория за запис на временни файлове и изображения на устройства (iso, img и др.)"
+creacion_de_Depot_MSG8="Depot се използва от GoboLinux за съхраняване на временни файлове"
+creacion_de_Depot_MSG9="Целта на този файл е само за информационни цели; можете свободно да го изтриете, след като го прочетете."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="ЗАБЕЛЕЖКА:"
+main_IDSISTEMA_MSG2="Неподдържана операционна система."
+main_IDSISTEMA_MSG3="Ако имате проблеми с приложението, използвайте GNU/Linux."
+
+# argumentos
+
+main_arg_MSG1="Това не е валиден аргумент"
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="намерен"
+main_cdkit_test_MSG2="връзка към wodim е създадена"
+main_cdkit_test_MSG3="връзка към genisoimage е създадена"
+main_cdkit_test_MSG4="връзка към icedax е създадена"
+
+# pgm principal
+
+pgm_principal_MSG1="ФАТАЛНО: Не е намерено правилно разпределение на директории."
+pgm_principal_MSG2="ЧУЖДЕН"
+
+
+

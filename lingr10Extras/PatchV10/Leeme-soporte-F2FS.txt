@@ -7,7 +7,7 @@ ficheros de idioma:
 Fichero de idioma reutilizado de linux-cdgrab 1.0
 
 /usr/share/linux-cdgrab/lcdgrabAPI_idiom/${IDIOM}/lcdgrabparches_idiom/lingr10f2fspatch.idiom
-donde IDIOM = Español, EspDefNA, Catala, English, ExFrench, ExDeutsch, ExGreek, ExRussian, ExJapanese, ExChinese, ExKorean, ExThai, ExPortuguese, ExItalian, ExDutch, ExNorwegian, ExPolish, ExCzech, ExSwedish, ExArmenian, ExGeorgian, ExSpanishEn, ExDanish, ExAmharic, ExTigrinya, ExVietnamese, ExIcelandic, ExSwahili, ExLao, ExLuxembourgish, ExLithuanian, ExAfrikaans, ExUkrainian, ExTurkish, ExHungarian, ExBelarusian, ExSlovak, ExAzerbaijani, ExEstonian, EsFinnish, ExKazakh, ExMongolian, ExTajik, ExTibetan, ExCroatian, ExBosnian, ExLatvian, ExRomanian, ExSerbian, ExSlovenian, ExAlbanian, ExTamazightTifinagh y .defecidiom
+donde IDIOM = Español, EspDefNA, Catala, English, ExFrench, ExDeutsch, ExGreek, ExRussian, ExJapanese, ExChinese, ExKorean, ExThai, ExPortuguese, ExItalian, ExDutch, ExNorwegian, ExPolish, ExCzech, ExSwedish, ExArmenian, ExGeorgian, ExSpanishEn, ExDanish, ExAmharic, ExTigrinya, ExVietnamese, ExIcelandic, ExSwahili, ExLao, ExLuxembourgish, ExLithuanian, ExAfrikaans, ExUkrainian, ExTurkish, ExHungarian, ExBelarusian, ExSlovak, ExAzerbaijani, ExEstonian, EsFinnish, ExKazakh, ExMongolian, ExTajik, ExTibetan, ExCroatian, ExBosnian, ExLatvian, ExRomanian, ExSerbian, ExSlovenian, ExAlbanian, ExTamazightTifinagh, ExBulgarian y .defecidiom
 
 Parche para soportar el sistema de ficheros F2FS en LINUX-CDGRAB 1.0
 Sistema de ficheros para memorias flash creado por Samsung.

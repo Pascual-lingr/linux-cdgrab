@@ -1,0 +1,141 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBulgarian/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en búlgaro para el API de audio.
+# Traduccción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3 ФАЙЛОВЕ ЗА КОНВЕРТИРАНЕ"
+mp3awav_MSG0="Въведете пътя до .mp3 файловете: "
+mp3awav_MSG1="КОНВЕРТИРАНЕ"
+mp3awav_MSG1B=" ВЪВ ФОРМАТ .wav"
+mp3awav_MSG2="бягане"
+mp3awav_MSG3="Дискретизация, зададена на 44100 MHz"
+mp3awav_MSG4="Грешка при обработката на извадката"
+mp3awav_MSG5="Конвертирането не бе успешно"
+mp3awav_MSG6="Директорията не е намерена"
+mp3awav_MSG7="КРАЙ НА АУДИО КОНВЕРСИЯТА"
+mp3awav_MSG8="Нормализиране на аудио файл"
+mp3awav_MSG9="Архив"
+mp3awav_MSG10="Нормализирано"
+mp3awav_MSG11="Грешка при нормализиране"
+
+# oggawav
+
+oggawav_MSG0="OGG ФАЙЛОВЕ ЗА КОНВЕРТИРАНЕ"
+oggawav_MSG1="Въведете пътя до .ogg файловете: "
+oggawav_MSG2="КОНВЕРТИРАНЕ"
+oggawav_MSG2B="ВЪВ ФОРМАТ .wav"
+oggawav_MSG3="бягане"
+oggawav_MSG4="Дискретизация, зададена на 44100 MHz"
+oggawav_MSG5="Грешка при обработката на извадката"
+oggawav_MSG6="Конвертирането не бе успешно"
+oggawav_MSG7="Директорията не е намерена"
+oggawav_MSG8="КРАЙ НА АУДИО КОРИЦАТА"
+oggawav_MSG9="Нормализиране на аудио файл"
+oggawav_MSG10="Архив"
+oggawav_MSG11="Нормализирано"
+oggawav_MSG12="Грешка при нормализиране"
+
+# cdawav
+
+cdawav_MSG1="РИПВАНЕ НА АУДИО CD ..."
+cdawav_MSG2="бягане:"
+cdawav_MSG3="УСПЕШНО РИПНАТИ АУДИО ЗАПИСИ !!"
+cdawav_MSG4="Съдържание на директорията с аудио файлове"
+cdawav_MSG5="ГРЕШКА ПРИ ИЗВЛИЧАНЕТО НА АУДИО ЗАПИСИ"
+
+# cddawav
+
+cddawav_MSG1="ВЪВЕДЕТЕ БРОЯ НА ПЕСЕНИТЕ ЗА РИПВАНЕ :"
+cddawav_MSG2="Натиснете Ctrl + c, за да отмените извличането на песен"
+cddawav_MSG3="бягане:"
+cddawav_MSG4="УСПЕШНО РАЗКЪСАНО"
+cddawav_MSG5="RIP ГРЕШКА"
+
+# wavamp3
+
+wavamp3_MSG0="WAV ФАЙЛОВЕ ЗА КОНВЕРТИРАНЕ"
+wavamp3_MSG1="Въведете пътя до .wav файловете: "
+wavamp3_MSG1B="КОНВЕРТИРАНЕ"
+wavamp3_MSG2="ЗА ФОРМАТИРАНЕ"
+wavamp3_MSG3="бягане:"
+wavamp3_MSG4="при преобразуване"
+wavamp3_MSG5="към формата .MP3"
+wavamp3_MSG6="Error при преобразуване"
+wavamp3_MSG7="CONVERSIÓN DE AUDIO FINALIZADA"
+wavamp3_MSG8="DIRECTORIO DE AUDIO NO ENCONTRADO"
+
+# cdamp3
+
+cdamp3_MSG1="РИПВАНЕ НА АУДИО CD ..."
+cdamp3_MSG2="бягане:"
+cdamp3_MSG3="УСПЕШНО РИПНАТИ АУДИО ЗАПИСИ !!"
+cdamp3_MSG4="ГРЕШКА ПРИ ИЗВЛИЧАНЕТО НА АУДИО ЗАПИСИ"
+cdamp3_MSG5="Извикване на функцията:"
+
+# wavaogg
+
+wavaogg_MSG1="Въведете пътя до .wav файловете: "
+wavaogg_MSG2="КОНВЕРТИРАНЕ"
+wavaogg_MSG3="ВЪВ ФОРМАТ .ogg"
+wavaogg_MSG4="бягане:"
+wavaogg_MSG5="Error при преобразуване"
+wavaogg_MSG6="към формата .ogg"
+
+# cdaogg
+
+cdaogg_MSG1="РИПВАНЕ НА АУДИО CD ..."
+cdaogg_MSG2="бягане:"
+cdaogg_MSG3="УСПЕШНО РИПНАТИ АУДИО ЗАПИСИ !!"
+cdaogg_MSG4="ГРЕШКА ПРИ ИЗВЛИЧАНЕТО НА АУДИО ЗАПИСИ"
+cdaogg_MSG5="Извикване на функцията:"
+
+# corta_wav
+
+corta_wav_MSG0="Брой секунди:"
+corta_wav_MSG1="Посочете пътя до аудио файла за конвертиране:"
+corta_wav_MSG2="Посочете времето в секунди, в което"
+corta_wav_MSG3="ще започне изрязването на файла."
+corta_wav_MSG4="-ЗАБЕЛЕЖКА-"
+corta_wav_MSG5="За да укажете началото на аудиото, въведете 0"
+corta_wav_MSG6="Стойност в секунди за началото на конвертирането:"
+corta_wav_MSG7="Укажете времето в секунди, след което"
+corta_wav_MSG8="изрязването на файла ще приключи."
+corta_wav_MSG9="Стойност в секунди за края на конвертирането:"
+corta_wav_MSG10="бягане"
+corta_wav_MSG11="Аудио файлът е отрязан"
+corta_wav_MSG12="Грешка при отрязване на файла"
+corta_wav_MSG13="Аудио файл за отрязване:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV АУДИО"
+flacawav_MSG1="Въведете пътя до .flac файловете :"
+flacawav_MSG2="КОНВЕРТИРАНЕ"
+flacawav_MSG3=" ВЪВ ФОРМАТ .wav"
+flacawav_MSG4="Дискретизация, зададена на 44100 MHz"
+flacawav_MSG5="Грешка при обработката на извадката"
+flacawav_MSG6="Нормализиране на аудио файл"
+flacawav_MSG7="Архив"
+flacawav_MSG8="Нормализирано"
+flacawav_MSG9="Грешка при нормализиране"
+flacawav_MSG10="Конвертирането не бе успешно"
+flacawav_MSG11="Директорията не е намерена"
+flacawav_MSG12="КРАЙ НА АУДИО КОНВЕРСИЯТА"
+
+# wavaflac
+
+wavaflac_MSG0="WAV ФАЙЛОВЕ ЗА КОНВЕРТИРАНЕ"
+wavaflac_MSG1="Въведете пътя до .wav файловете: "
+wavaflac_MSG2="КОНВЕРТИРАНЕ"
+wavaflac_MSG3="ВЪВ ФОРМАТ .flac"
+wavaflac_MSG4="преобразуван ВЪВ ФОРМАТ flac"
+wavaflac_MSG5="грешка при преобразуване"
+wavaflac_MSG6="към формата .flac"
+wavaflac_MSG7="Директорията с FLAC файлове не е намерена"

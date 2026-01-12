@@ -1,0 +1,72 @@
+# Idioma Búlgaro para el soporte de F2FS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Натиснете ENTER, за да продължите..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="===================================="
+cabecera_interfaz_MSG2="ПОДДРЪЖКА ЗА F2FS В LINUX-CDGRAB 1.0"
+
+# creditos
+
+creditos_DESC="Поддръжка за форматиране на флаш памет под linux-cdgrab"
+
+# formatear_disco_F2FS
+
+formatear_disco_F2FS_MSG1="Изход от командата за монтиране:"
+formatear_disco_F2FS_MSG2="Посочете блоковото устройство за форматиране:"
+formatear_disco_F2FS_MSG3="Устройството е форматирано успешно"
+formatear_disco_F2FS_MSG4="Грешка при форматиране на устройството"
+formatear_disco_F2FS_MSG5="ПРОЦЕСЪТ Е ЗАВЪРШЕН"
+formatear_disco_F2FS_MSG6="Демонтиране на устройството..."
+formatear_disco_F2FS_MSG7="Форматиране на устройството към F2FS..."
+formatear_disco_F2FS_MSG8="Изпълнява се"
+
+# formatear_img_F2FS
+
+formatear_img_F2FS_MSG1="ФОРМАТИРАНО УСПЕШНО"
+formatear_img_F2FS_MSG2="ГРЕШКА ПРИ ФОРМАТИРАНЕ НА ПРАЗЕН ФАЙЛ"
+formatear_img_F2FS_MSG3="Генериране на празен файл..."
+formatear_img_F2FS_MSG4="Изпълнява се"
+formatear_img_F2FS_MSG5="Форматиране на празен файл във F2FS..."
+formatear_img_F2FS_MSG6="ГЕНЕРИРАНЕ НА ПРАЗЕН ФАЙЛ С ПЕРСОНАЛИЗИРАН РАЗМЕР"
+formatear_img_F2FS_MSG7="Посочете размера на празния файл за генериране (само числова стойност):"
+formatear_img_F2FS_MSG8="Мери на пространството за генериране на празния файл:"
+formatear_img_F2FS_MSG9="Посочете мерната единица за използване:"
+formatear_img_F2FS_MSG10="ГРЕШКА ПРИ ОПРЕДЕЛЯНЕ НА РАЗМЕРА ИЗМЕРКА"
+formatear_img_F2FS_MSG11="Стойност за размера на блока:"
+formatear_img_F2FS_MSG12="Количество място за празен файл:"
+formatear_img_F2FS_MSG13="Изчислена стойност в байтове:"
+formatear_img_F2FS_MSG14="Изчислена стойност за count:"
+formatear_img_F2FS_MSG15="Процесът е прекратен. Размерът на изображението не е разпознат."
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Изход"
+imgr_tmp_MSG1="Изтриване на всички файлове с изображения на F2FS"
+imgr_tmp_MSG2="Монтиране или демонтиране на файл с изображение"
+imgr_tmp_MSG3="Файлове с изображения в"
+imgr_tmp_MSG4="Изберете опция"
+imgr_tmp_MSG5="Файловете с изображения са изтрити"
+imgr_tmp_MSG6="Монтиране на изображение"
+imgr_tmp_MSG7="Демонтиране на изображение"
+imgr_tmp_MSG8="Монтирано изображение"
+imgr_tmp_MSG9="Демонтирано изображение"
+imgr_tmp_MSG10="Невалидна опция"
+imgr_tmp_MSG11="Посочете изображението за монтиране или демонтиране:"
+imgr_tmp_MSG12="Грешка при монтиране на изображението"
+imgr_tmp_MSG13="Грешка при демонтиране на изображението"
+
+############################ MAIN ##############################
+
+lingr10F2FSpatch_MSG0="Изход."
+lingr10F2FSpatch_MSG1="Форматиране на флаш паметта в F2FS."
+lingr10F2FSpatch_MSG2="Създаване на файл с изображение на F2FS."
+lingr10F2FSpatch_MSG3="Операции с изображения на F2FS."
+lingr10F2FSpatch_MSG4="Относно."
+lingr10F2FSpatch_MSG5="Невалидна опция"

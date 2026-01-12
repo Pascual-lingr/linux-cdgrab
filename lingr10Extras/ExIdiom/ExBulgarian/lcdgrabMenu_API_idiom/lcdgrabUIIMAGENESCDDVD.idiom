@@ -1,0 +1,49 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBulgarian/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="СЪЗДАВАНЕ И ОБРАБОТКА НА ОБРАЗИ НА ДИСКОВЕ"
+MenuImagen_MSG2="-------------- СЪЗДАВАНЕ НА ОБРАЗИ --------------"
+MenuImagen_MSG3="Създаване на ISO-9660 образ"
+MenuImagen_MSG4="Създаване на образ с нативна файлова система на Linux"
+MenuImagen_MSG5="Създаване на .img образ от всяко блоково устройство"
+MenuImagen_MSG6="Създаване на .bin .cue образ от текущото устройство"
+MenuImagen_MSG7="------------------ ДРУГИ ОПЦИИ ------------------"
+MenuImagen_MSG8="Генериране на .cue файл с описание от .bin образ"
+MenuImagen_MSG9="Конвертиране на .nrg образ (Nero Burning ROM) в .iso"
+MenuImagen_MSG10="Компресиране на образ с gzip, bzip2 или xz"
+MenuImagen_MSG11="Разархивиране на образ в zip, gz, bz2 или xz"
+MenuImagen_MSG11B="Проверка на MD5 контролната сума на ISO изображенията"
+MenuImagen_MSG12="Промяна на ISO режима"
+MenuImagen_MSG0="Предишно меню"
+MenuImagen_MSG13="Файл с изображение за компресиране"
+MenuImagen_MSG14="КОМПРЕСИРАНЕ НА ФАЙЛА С ИЗОБРАЖЕНИЕТО"
+MenuImagen_MSG15="Въведете пътя до директорията, където се намира изображението, което искате да компресирате:"
+MenuImagen_MSG16="Файл с изображение за разархивиране"
+MenuImagen_MSG17="ТЕКУЩО ISO НИВО"
+MenuImagen_MSG18="ISO ниво"
+MenuImagen_MSG19="Имената на файловете се състоят от раздел"
+MenuImagen_MSG20="и са ограничени до 8,3 знака."
+MenuImagen_MSG21="Изберете това ниво, ако искате съвместимост с имената на файловете"
+MenuImagen_MSG21b="под операционната система MS-DOS"
+MenuImagen_MSG22="Имената на файловете се състоят от раздел"
+MenuImagen_MSG23="Неограничено ниво."
+MenuImagen_MSG24="Използвайте това ниво, ако искате съвместимост с"
+MenuImagen_MSG25="големи файлове, в този случай >= 2 гигабайта."
+MenuImagen_MSG26="Всички ISO нива ограничават имената на файловете до главни, малки букви и"
+MenuImagen_MSG27="символи като долна черта (_). Имената на файловете са ограничени до 31 знака"
+MenuImagen_MSG28="Пътищата до директории до максимум 8 знака, а името на пътя до"
+MenuImagen_MSG29="директориите до 255 знака."
+MenuImagen_MSG30="Изберете новото ISO ниво"
+MenuImagen_MSG31="ISO ниво 4 не е официално"
+MenuImagen_MSG32="Вижте страницата с ръководството на mkisofs"
+MenuImagen_MSG33="Невалидно ISO ниво"
+MenuImagen_MSG34="ISO ниво 3 е зададено по подразбиране"

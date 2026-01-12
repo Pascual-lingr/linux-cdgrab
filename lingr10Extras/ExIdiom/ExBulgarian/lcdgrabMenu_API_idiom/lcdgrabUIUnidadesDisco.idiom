@@ -1,0 +1,44 @@
+#########################################################
+# lcdgrabAPI_idion/ExBulgarian/lcgdrabMenu_API_idiom/lcdgrabUIUnidadesDisco.idiom
+# Mensajes en Búlgaro para el Interfaz sobre dispositivo de bloque
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuDispositivosBloque
+
+MenuDispositivosBloque_MSG1="ОПЕРАЦИИ С ДИСКОВИ УСТРОЙСТВА"
+MenuDispositivosBloque_KDE_MSG1="$MenuDispositivosBloque_MSG1"
+MenuDispositivosBloque_MSG2="------------------------- ВАЖНО -------------------------"
+MenuDispositivosBloque_MSG3="+ Не извършвайте операции за запис на твърди дискове "
+MenuDispositivosBloque_MSG4="+ на дискови дялове, съдържащи "
+MenuDispositivosBloque_MSG5="+ образи за възстановяване, дялове за зареждане или "
+MenuDispositivosBloque_MSG6="+ дяла на операционната система."
+MenuDispositivosBloque_MSG7="+ Злоупотребата с опциите за запис в това меню "
+MenuDispositivosBloque_MSG8="+ може да причини системна повреда."
+MenuDispositivosBloque_MSG9="+ Използвайте с повишено внимание. Използвайте на ваш собствен риск."
+MenuDispositivosBloque_MSG10="--------------------- ПИСАНЕ ---------------------"
+MenuDispositivosBloque_MSG11="Записване на файл с изображение на дисково устройство"
+MenuDispositivosBloque_MSG11B="Записване на ISO или IMG изображение (стартиращо) на USB флаш устройство или твърд диск"
+MenuDispositivosBloque_MSG11C="Не всички инсталационни системи се поддържат."
+MenuDispositivosBloque_MSG12="Форматиране на устройството с оригинална файлова система Linux или Windows"
+MenuDispositivosBloque_MSG13="--------------------- ЧЕТЕНЕ ---------------------"
+MenuDispositivosBloque_MSG14="Създаване на .img изображение от дисково устройство"
+MenuDispositivosBloque_MSG15="Предишно меню"
+MenuDispositivosBloque_MSG16="Въведете опция"
+
+# UIFormatearUnidad_linuxfs
+
+UIFormatearUnidad_linuxfs_MSG1="-----------------------------ВАЖНО--------------------------------"
+UIFormatearUnidad_linuxfs_MSG2="+ Форматира устройството с файловата система, използвана на устройствата"
+UIFormatearUnidad_linuxfs_MSG2B="+ или дискови дялове."
+UIFormatearUnidad_linuxfs_MSG3="+ Тази опция ще изтрие всички съществуващи данни на устройството"
+UIFormatearUnidad_linuxfs_MSG4="+ Сменяемите устройства, форматирани с файлова система"
+UIFormatearUnidad_linuxfs_MSG5="+ специфични за Linux, ще бъдат достъпни само под тази операционна система."
+UIFormatearUnidad_linuxfs_MSG6="+ Използвайте с повишено внимание, използвайте на свой собствен риск."
+UIFormatearUnidad_linuxfs_MSG7="------------------------------------------------------------------"
+UIFormatearUnidad_linuxfs_MSG8="Натиснете клавиша C, за да продължите; (Процесът ще бъде прекратен при друга опция)"
+

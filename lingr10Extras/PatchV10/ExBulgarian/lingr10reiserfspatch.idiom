@@ -1,0 +1,75 @@
+# Idioma Búlgaro para soporte ReiserFS en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Натиснете ENTER, за да продължите..."
+
+# cabecera_interfaz
+
+cabecera_interfaz_MSG1="======================================="
+cabecera_interfaz_MSG2="LINUX-CDGRAB 1.0 ПОДДРЪЖКА НА REISERFS."
+cabecera_interfaz_MSG3="======================================="
+
+# formatear_disco_reiserfs
+
+formatear_disco_reiserfs_MSG1="Изход от командата за монтиране:"
+formatear_disco_reiserfs_MSG2="Посочете блоковото устройство за форматиране:"
+formatear_disco_reiserfs_MSG3="Устройството е форматирано успешно"
+formatear_disco_reiserfs_MSG4="Грешка при форматиране на устройството"
+formatear_disco_reiserfs_MSG5="ПРОЦЕСЪТ Е ЗАВЪРШЕН"
+formatear_disco_reiserfs_MSG6="Демонтиране на устройството..."
+formatear_disco_reiserfs_MSG7="Форматиране на диск в ReiserFS..."
+formatear_disco_reiserfs_MSG8="Изпълнява се"
+
+# formatear_img_reiserfs
+
+formatear_img_reiserfs_MSG1="ФОРМАТИРАНО УСПЕШНО"
+formatear_img_reiserfs_MSG2="ГРЕШКА ПРИ ФОРМАТИРАНЕ НА ПРАЗЕН ФАЙЛ"
+formatear_img_reiserfs_MSG3="Генериране на празен файл..."
+formatear_img_reiserfs_MSG4="Изпълнява се"
+formatear_img_reiserfs_MSG5="Форматиране на празен файл в ReiserFS..."
+formatear_img_reiserfs_MSG6="ГЕНЕРИРАНЕ НА ПРАЗЕН ФАЙЛ С ПЕРСОНАЛИЗИРАН РАЗМЕР"
+formatear_img_reiserfs_MSG7="Посочете размера на празния файл за генериране (само числова стойност):"
+formatear_img_reiserfs_MSG8="Мерии на пространството за генериране на празния файл:"
+formatear_img_reiserfs_MSG9="Посочете мерната единица за пространство, която да се използва:"
+formatear_img_reiserfs_MSG10="ГРЕШКА ПРИ СПЕЦИФИЦИРАНЕ МЯРКА НА РАЗМЕРА"
+formatear_img_reiserfs_MSG11="Стойност на размера на блока:"
+formatear_img_reiserfs_MSG12="Количество място за празен файл:"
+formatear_img_reiserfs_MSG13="Изчислена стойност в байтове:"
+formatear_img_reiserfs_MSG14="Изчислена стойност за count:"
+
+# m_img_CDDVDBD_reiserfs
+
+m_img_CDDVDBD_reiserfs_MSG1="Създаване на образ за CD-R/RW (702 MB)"
+m_img_CDDVDBD_reiserfs_MSG2="Създаване на образ за DVD+RW (4 GB)"
+m_img_CDDVDBD_reiserfs_MSG3="Създаване на образ за DVD+RW/DL (8 GB)"
+m_img_CDDVDBD_reiserfs_MSG4="Създаване на образ за BD-R/RE (25 GB)"
+m_img_CDDVDBD_reiserfs_MSG5="Създаване на файл с образ с персонализиран размер"
+
+# imgr_tmp
+
+imgr_tmp_MSG0="Изход"
+imgr_tmp_MSG1="Изтриване на всички файлове с изображения на reiserfs"
+imgr_tmp_MSG2="Монтиране или демонтиране на файл с изображение"
+imgr_tmp_MSG3="Файлове с изображения в"
+imgr_tmp_MSG4="Изберете опция"
+imgr_tmp_MSG5="Файловете с изображения са изтрити"
+imgr_tmp_MSG6="Монтиране на изображение"
+imgr_tmp_MSG7="Демонтиране на изображение"
+imgr_tmp_MSG8="Монтирано изображение"
+imgr_tmp_MSG9="Демонтирано изображение"
+imgr_tmp_MSG10="Невалидна опция"
+imgr_tmp_MSG11="Посочете изображението за монтиране или демонтиране:"
+imgr_tmp_MSG12="Грешка Грешка при монтиране на изображението"
+imgr_tmp_MSG13="Грешка при демонтиране на изображението"
+
+############################ MAIN ##############################
+
+lingr10reiserfspatch_MSG1="Форматиране на устройството в ReiserFS"
+lingr10reiserfspatch_MSG2="Създаване на образ в ReiserFS за CD/DVD/BD"
+lingr10reiserfspatch_MSG3="Операции с образи в ReiserFS"
+lingr10reiserfspatch_MSG4="Невалидна опция"
+lingr10reiserfspatch_MSG0="Изход"

@@ -1,0 +1,31 @@
+# Idioma Búlgaro para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="Натиснете ENTER, за да продължите..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="============================================"
+cabecera_lightscribe_MSG2="ПОДДРЪЖКА НА LIGHTSCRIBE ЗА LINUX-CDGRAB 1.0"
+cabecera_lightscribe_MSG3="============================================"
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="Въведете пътя до изображението, което искате да отпечатате на диска:"
+imprimir_disco_lightscribe_MSG2="Форматът на изображението трябва да бъде .bmp"
+imprimir_disco_lightscribe_MSG3="Изпълнява се"
+imprimir_disco_lightscribe_MSG4="Етикетът е отпечатан на диск"
+imprimir_disco_lightscribe_MSG5="Грешка при отпечатване на етикет на диск"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="Технологията LightScribe е налична само на някои устройства."
+lingr10lightscribepatch_MSG2="Трябва да проверите дали вашата записвачка я поддържа."
+lingr10lightscribepatch_MSG3="По подобен начин могат да се етикетират само специални LightScribe CD или DVD дискове."
+lingr10lightscribepatch_MSG4="Печат на LightScribe диск"
+lingr10lightscribepatch_MSG5="Предишно меню"
+lingr10lightscribepatch_MSG6="Невалидна опция"

@@ -1,0 +1,72 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBulgarian/lcdgrabMenu_API_idiom/lcdgrabUICD.idiom
+# Mensajes de Interfaz para la grabación en CD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# clonar
+
+clonar_MSG1="ИЗБЕРЕТЕ ОПЦИЯ"
+clonar_MSG2="--- КОПИЯ НА ПРЕДВАРИТЕЛНО ЗАПИСАНИ ДИСКОВЕ ----"
+clonar_MSG3="Копиране на CD с данни"
+clonar_MSG4="Създаване на CD с предварително записан образ на вашия твърд диск"
+clonar_MSG5="----------- КОПИЯ НА ДИСКОВЕ В ЛЕТИЕ -----------"
+clonar_MSG6="Копиране на CD с данни в движение"
+clonar_MSG7="Клониране на CD с данни в движение"
+clonar_MSG7B="Копиране на аудио CD в движение"
+clonar_MSG8="ОПЦИИТЕ ЗА КОПИРАНЕ В ЛЕТИЕ ИЗИСКВАТ ДВЕ ОПТИЧНИ УСТРОЙСТВА"
+clonar_MSG9="НЕ Е ИНСТАЛИРАН НА ВАШИЯ КОМПЮТЪР, ТЪЙ КАТО ДАННИТЕ СЕ ЗАПИСВАТ, ДОКАТО СА"
+clonar_MSG10="ЧЕТЕ ДИРЕКТНО ОТ ИЗТОЧНИКА, САМО АКО Е НА ВАШИЯ КОМПЮТЪР ИМА"
+clonar_MSG11="ЕДИН ДОКУМЕНТ. НЯМА ДА МОЖЕТЕ ДА ИЗПОЛЗВАТЕ КОПИЯ В ТЕЧЕНИЕ."
+clonar_MSG12B="КОПИРАНЕ НА CD С ДАННИ"
+clonar_MSG0="Предишно меню"
+
+# mgrabacd
+
+mgrabacd_MSG1="ДАННИ ОТ ТВЪРД ДИСК"
+mgrabacd_MSG2="Записване на нов CD с данни (използване на cdrtools)"
+mgrabacd_MSG3="Записване на нов CD с данни (използване на libburnia)"
+mgrabacd_MSG4="Предишно меню"
+mgrabacd_MSG5="Въведете опция"
+
+# mgrabaimg
+
+mgrabaimg_MSG1="ЗАПИСВАНЕ НА ОБРАЗ НА ДАННИ"
+mgrabaimg_MSG2="Записване на ISO или ext2 образ на CD-R/RW (използвайте cdrtools)"
+mgrabaimg_MSG3="Записване на ISO образ на CD-R/RW (използвайте libburnia)"
+mgrabaimg_MSG4="Предишно меню"
+mgrabaimg_MSG5="Въведете опция"
+
+# mgrabararchivosaudio
+
+mgrabararchivosaudio_MSG1="Записване на аудио CD от .wav файлове"
+mgrabararchivosaudio_MSG2="Записване на аудио CD от .mp3 файлове"
+mgrabararchivosaudio_MSG3="Записване на аудио CD от .ogg файлове"
+mgrabararchivosaudio_MSG0="Предишно меню"
+mgrabararchivosaudio_MSG0B="Въведете опция"
+mgrabararchivosaudio_MSG4="Записване на аудио CD от .flac файлове"
+mgrabararchivosaudio_MSG5="ЗАПИСВАНЕ НА АУДИО CD ОТ ФАЙЛОВЕ"
+
+# menugrabar_cd
+
+menugrabar_cd_MSG1="Записване на CD"
+menugrabar_cd_MSG2="------------------- CD - Данни -------------------"
+menugrabar_cd_MSG3="Копиране на CD с данни"
+menugrabar_cd_MSG4="Записване на нов CD с данни"
+menugrabar_cd_MSG5="Записване на нов CD с данни за няколко сесии"
+menugrabar_cd_MSG6="Записване на .iso или .ext2 образ на CD"
+menugrabar_cd_MSG7="Записване на .bin/.cue образ на CD"
+menugrabar_cd_MSG8="-------------------- CD - Аудио ------------------"
+menugrabar_cd_MSG9="Копиране на аудио CD"
+menugrabar_cd_MSG13="------------------ Други опции -------------------"
+menugrabar_cd_MSG14="Записване на смесен CD (данни + Аудио)"
+menugrabar_cd_MSG15="Изтриване на CD-RW"
+menugrabar_cd_MSG16="Затваряне на отворения CD"
+menugrabar_cd_MSG17="Показване на информация за диска в устройството"
+menugrabar_cd_MSG18="Записване на аудио CD от файлове на диска"
+menugrabar_cd_MSG0="Предишно меню"
+menugrabar_cd_MSGPRINCIPAL="Въведете опция"

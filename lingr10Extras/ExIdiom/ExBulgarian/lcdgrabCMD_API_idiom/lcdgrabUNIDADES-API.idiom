@@ -1,0 +1,71 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBulgarian/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en búlgaro para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="Път до .img или .ext2 изображението за запис на диск."
+volcar_imagen_MSG2="--------------------------ВАЖНО-------------------------------" 
+volcar_imagen_MSG3="+ Тази опция не е функционална на оптични дискове."
+volcar_imagen_MSG4="+ Използване на USB устройства, флопи дискове, дискови дялове и др."
+volcar_imagen_MSG5="+ Внимание при твърди дискове:"
+volcar_imagen_MSG6="+ Образът се записва с dd от самото начало"
+volcar_imagen_MSG7=" на посочения диск; използване на специфичен номер на сектор"
+volcar_imagen_MSG8=" за стартиране на процеса на запис не е разрешено."
+volcar_imagen_MSG9="+ Използвайте с повишено внимание. Използвайте на ваш собствен риск."
+volcar_imagen_MSG10="+ Дисковите дялове може да станат неизползваеми."
+volcar_imagen_MSG11="+ Не се препоръчва за използване на многоделни системи."
+volcar_imagen_MSG12=" Възстановяването може да направи таблицата на дяловете и самите дялове неизползваеми."
+volcar_imagen_MSG13=" самите дялове са неизползваеми."
+volcar_imagen_MSG14="-------------------------------------------------------------"
+volcar_imagen_MSG15="Натиснете клавиша C, за да продължите; (Процесът ще бъде прекратен при друга опция)"
+volcar_imagen_MSG16="Посочете пътя до файла с изображението, който ще се запачи на диска: "
+volcar_imagen_MSG17="Изход от командата за монтиране:"
+volcar_imagen_MSG18="Посочете блоковото устройство, където ще се запачи изображението:"
+volcar_imagen_MSG19="ИЗПЪЛНЕНИЕ НА ИЗОБРАЖЕНИЕ"
+volcar_imagen_MSG20="НА УСТРОЙСТВОТО"
+volcar_imagen_MSG21="изпълнява се"
+volcar_imagen_MSG22="ПРОЦЕСЪТ НА ИЗОБРАЖЕНИЕТО Е ЗАВЪРШЕН"
+
+# volcar_iso
+
+volcar_iso_MSG1="Посочете блоковото устройство, където да се запише ISO образът:"
+volcar_iso_MSG2="ЗАБЕЛЕЖКА"
+volcar_iso_MSG2B="---------"
+volcar_iso_MSG3="Посочете блоковото устройство, на което искате да записвате."
+volcar_iso_MSG1="Посочете блоковото устройство, на което искате да записвате."
+volcar_iso_MSG4="Примери: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="Не посочвайте дял, принадлежащ на това устройство"
+volcar_iso_MSG6="Примери: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="Посочете ISO-9660 или IMG образ за запис:"
+volcar_iso_MSG9="Процесът е завършен"
+volcar_iso_MSG10="Грешка при запис на ISO"
+volcar_iso_MSG11="Посочете размера на блока за запис на образа"
+volcar_iso_MSG12="Изберете опция според операционната система за запис:"
+volcar_iso_MSG13="ISO-9660 или стартиращ IMG образ към флаш устройството:"
+volcar_iso_MSG14="Изход"
+volcar_iso_MSG15="ISO-9660 ФАЙЛ С ОБРАЗ ИЛИ IMG"
+volcar_ISO_MSG16="ИЗБЕРЕТЕ ОПЕРАЦИОННАТА СИСТЕМА ЗА ЗАПИС НА УСТРОЙСТВОТО"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="Изберете файловата система, с която"
+Formateador_linuxfs_MSG2="устройството ще бъде форматирано:"
+Formateador_linuxfs_MSG3="Посочете блоковото устройство за форматиране:"
+Formateador_linuxfs_MSG5="ПРОЦЕСЪТ ЗАВЪРШЕН"
+Formateador_linuxfs_MSG6="ФОРМАТЕР НА ДИСКОВЕ"
+Formateador_linuxfs_MSG7="Задаване на етикет на том"
+Formateador_linuxfs_MSG10="Посочете името на етикета на тома"
+Formateador_linuxfs_MSG11="Нов етикет на том"
+Formateador_linuxfs_MSG12="Посочете размера на блока"
+Formateador_linuxfs_MSG13="Нов размер на блока"
+Formateador_linuxfs_MSG14="Предишно меню"
+

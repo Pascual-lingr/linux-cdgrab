@@ -1,0 +1,58 @@
+#########################################################
+# lcdgrabAPI_idiom/ExBulgarian/lcgdrabMenu_API_idiom/lcdgrabUIGestorArchivos.idiom
+# Mensajes en Búlgaro para el gestor de archivos
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda_gestor_de_archivos
+
+ayuda_gestor_de_archivos_MSG1="*************************** ОПЦИИ ЗА НАВИГАЦИЯ ***************************"
+ayuda_gestor_de_archivos_MSG2="Навигиране във файловата система."
+ayuda_gestor_de_archivos_MSG3="X --> Изход"
+ayuda_gestor_de_archivos_MSG4="A --> Предишна директория"
+ayuda_gestor_de_archivos_MSG5="B --> Следваща директория"
+ayuda_gestor_de_archivos_MSG6="Действия с файлове и директории."
+ayuda_gestor_de_archivos_MSG7="C --> Копиране на файл"
+ayuda_gestor_de_archivos_MSG8="M --> Преместване на файл"
+ayuda_gestor_de_archivos_MSG9="CD --> Копиране на директория"
+ayuda_gestor_de_archivos_MSG10="MD --> Преместване на директория"
+ayuda_gestor_de_archivos_MSG11="Действия за компресиране на файлове и директории."
+ayuda_gestor_de_archivos_MSG12="Z --> Компресиране на файл"
+ayuda_gestor_de_archivos_MSG13="DZ --> Декомпресиране на файл"
+ayuda_gestor_de_archivos_MSG14="EZ --> Създаване на .tar.gz или .tar.bz2 пакет"
+ayuda_gestor_de_archivos_MSG15="DEZ --> Разопаковане на .tar.gz или .tar.bz2 файл"
+
+ayuda_gestor_de_archivos_MSG16="*************************************************************************"
+
+# gestor_de_archivos
+
+gestor_de_archivos_MSG0="Текуща активна директория"
+gestor_de_archivos_MSG0B="Файлове в"
+gestor_de_archivos_MSG1="=========================== ОПЦИИ ЗА НАВИГАЦИЯ =========================="
+gestor_de_archivos_MSG2="=X -- A -- B -- C -- M -- CD -- MD -- Z -- DZ -- EZ -- DEZ | H --> ПОМОЩ="
+gestor_de_archivos_MSG3="========================================================================="
+gestor_de_archivos_MSG4="Въведете опция"
+gestor_de_archivos_MSG5="Въведете директорията"
+gestor_de_archivos_MSG6="Въведете изходния файл"
+gestor_de_archivos_MSG7="Въведете целевия файл"
+gestor_de_archivos_MSG8="Файлът е копиран успешно"
+gestor_de_archivos_MSG9="Грешка при копиране на файла"
+gestor_de_archivos_MSG10="Въведете изходния файл"
+gestor_de_archivos_MSG11="Въведете целевия файл"
+gestor_de_archivos_MSG12="Файлът е преместен успешно"
+gestor_de_archivos_MSG13="Грешка при преместване на файла"
+gestor_de_archivos_MSG14="Въведете изходната директория"
+gestor_de_archivos_MSG15="Въведете целевата директория"
+gestor_de_archivos_MSG16="Директорията е копирана успешно"
+gestor_de_archivos_MSG17="Грешка при копиране на директорията"
+gestor_de_archivos_MSG18="Въведете изходната директория"
+gestor_de_archivos_MSG19="Въведете целевата директория"
+gestor_de_archivos_MSG20="Директорията е преместена успешно"
+gestor_de_archivos_MSG21="Грешка при преместване на директорията"
+gestor_de_archivos_MSG22="ФАЙЛ ЗА КОМПРЕСИРАНЕ"
+gestor_de_archivos_MSG23="Посочете пътя към файла"
+
