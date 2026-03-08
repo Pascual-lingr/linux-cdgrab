@@ -1,0 +1,71 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSinghalese/lcgdrabCMD_API_idiom/lcdgrabUNIDADES-API.idiom
+# Mensajes en cingalés para las acciones sobre dispositivos de bloque.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de linux-cdgrab 1.0
+#########################################################
+
+################## DISPOSITIVOS DE BLOQUE ###################
+
+# volcar_imagen
+
+volcar_imagen_MSG1="තැටියට ලිවීමට .img හෝ .ext2 රූපයට යන මාර්ගය."
+volcar_imagen_MSG2="-----------------------------වැදගත්--------------------------------------------------" 
+volcar_imagen_MSG3="+ මෙම විකල්පය දෘශ්‍ය තැටි මත ක්‍රියාකාරී නොවේ."
+volcar_imagen_MSG4="+ USB ධාවක, නම්‍ය තැටි, තැටි කොටස් ආදියෙහි භාවිතා කරන්න."
+volcar_imagen_MSG5="+ දෘඪ තැටි සමඟ සලකා බැලීම:"
+volcar_imagen_MSG6="+ රූපය ආරම්භයේ සිට dd භාවිතයෙන් ලියා ඇත"
+volcar_imagen_MSG7="  නිශ්චිත තැටියේ; නිශ්චිත අංශ අංකයක් භාවිතා කරමින්"
+volcar_imagen_MSG8="  ලිවීමේ ක්‍රියාවලිය ආරම්භ කිරීමට අවසර නැත."
+volcar_imagen_MSG9="+ ප්‍රවේශමෙන් භාවිතා කරන්න. ඔබේම අවදානමකින් භාවිතා කරන්න."
+volcar_imagen_MSG10="+ තැටි කොටස් භාවිතයට නුසුදුසු විය හැක."
+volcar_imagen_MSG11="+ බහු-කොටස් කරන ලද පද්ධතිවල භාවිතය සඳහා නිර්දේශ නොකරයි."
+volcar_imagen_MSG12="  ප්‍රතිස්ථාපනය කිරීමෙන් කොටස් වගුව සහ කොටස් භාවිතයට නුසුදුසු බවට පත් කළ හැකිය."
+volcar_imagen_MSG13="  කොටස් භාවිතා කළ නොහැක."
+volcar_imagen_MSG14="-------------------------------------------------------------"
+volcar_imagen_MSG15="ඉදිරියට යාමට C යතුර ඔබන්න; (ක්‍රියාවලිය වෙනත් විකල්පයකින් අවලංගු කෙරේ)"
+volcar_imagen_MSG16="තැටියට ඩම්ප් කිරීමට රූප ගොනු මාර්ගය සඳහන් කරන්න: "
+volcar_imagen_MSG17="විධාන ප්‍රතිදානය සවි කරන්න:"
+volcar_imagen_MSG18="රූපය ඩම්ප් කරන බ්ලොක් උපාංගය සඳහන් කරන්න:"
+volcar_imagen_MSG19="ප්‍රතිරූපය උඩු යටිකුරු කිරීම"
+volcar_imagen_MSG20="උපාංගයේ"
+volcar_imagen_MSG21="ධාවනය වෙමින් පවතී"
+volcar_imagen_MSG22="රූප ඩම්ප් ක්‍රියාවලිය සම්පූර්ණයි"
+
+
+# volcar_iso
+
+volcar_iso_MSG1="ISO පිළිබිඹුව ලිවිය යුතු බ්ලොක් උපාංගය සඳහන් කරන්න:"
+volcar_iso_MSG2="අවවාදයයි"
+volcar_iso_MSG2B="--------"
+volcar_iso_MSG3="ලිවීමට බ්ලොක් උපාංගය නියම කරන්න."
+volcar_iso_MSG4="උදාහරණ: /dev/sdb, /dev/sdc"
+volcar_iso_MSG5="මෙම උපාංගයට අයත් කොටසක් නියම නොකරන්න"
+volcar_iso_MSG6="උදාහරණ: /dev/sdb1, /dev/sdc2"
+volcar_iso_MSG7="ලිවීමට ISO-9660 හෝ IMG රූපය නියම කරන්න:"
+volcar_iso_MSG9="ක්‍රියාවලිය සම්පූර්ණයි"
+volcar_iso_MSG10="iso ලිවීමේ දෝෂය"
+volcar_iso_MSG11="රූපය ලිවීම සඳහා බ්ලොක් ප්‍රමාණය නියම කරන්න"
+volcar_iso_MSG12="ලිවීමට මෙහෙයුම් පද්ධතියට අනුව විකල්පය තෝරන්න:"
+volcar_iso_MSG13="ISO-9660 හෝ ෆ්ලෑෂ් කිරීමට ආරම්භ කළ හැකි IMG රූපය උපාංගය:"
+volcar_iso_MSG14="පිටවීම"
+volcar_iso_MSG15="ISO-9660 රූප ගොනුව හෝ IMG"
+volcar_ISO_MSG16="ධාවනය කිරීමට පිළිස්සීමට මෙහෙයුම් පද්ධතිය තෝරන්න"
+
+# Formateador_linuxfs
+
+Formateador_linuxfs_MSG1="ගොනු පද්ධතිය තෝරන්න"
+Formateador_linuxfs_MSG2="උපාංගය ආකෘතිගත කරනු ලබන්නේ:"
+Formateador_linuxfs_MSG3="ආකෘතිකරණය කිරීමට බ්ලොක් උපාංගය නියම කරන්න:"
+Formateador_linuxfs_MSG5="ක්‍රියාව සම්පූර්ණ කරන ලදී"
+Formateador_linuxfs_MSG6="ඩිස්ක් ආකෘතිය"
+Formateador_linuxfs_MSG7="වෙළුම් ලේබලය සකසන්න"
+Formateador_linuxfs_MSG10="වෙළුම් ලේබලයේ නම නියම කරන්න"
+Formateador_linuxfs_MSG11="නව වෙළුම් ලේබලය"
+Formateador_linuxfs_MSG12="බ්ලොක් ප්‍රමාණය නියම කරන්න"
+Formateador_linuxfs_MSG13="නව බ්ලොක් ප්‍රමාණය"
+Formateador_linuxfs_MSG14="පෙර මෙනුව"
+

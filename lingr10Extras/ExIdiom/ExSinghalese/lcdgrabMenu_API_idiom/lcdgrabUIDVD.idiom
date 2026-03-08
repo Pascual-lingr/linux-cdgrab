@@ -1,0 +1,71 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSinghalese/lcgdrabMenu_API_idiom/lcdgrabUIDVD.idiom
+# Menú de Interfaz para la grabación de DVD.
+# Traducción experimental al cingalés, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# SeleccionaIUDVD
+
+SeleccionaIUDVD_MSG1="භාවිතා කළ යුතු පරිශීලක අතුරුමුහුණත තෝරන්න:"
+SeleccionaIUDVD_MSG2="dvd+-rw-tools සඳහා අතුරුමුහුණත භාවිතා කරන්න"
+SeleccionaIUDVD_MSG3="Cdrecord-ProDVD සඳහා අතුරුමුහුණත භාවිතා කරන්න"
+SeleccionaIUDVD_MSG4="libburnia සඳහා අතුරුමුහුණත භාවිතා කරන්න"
+SeleccionaIUDVD_MSG5="පෙර මෙනුව"
+
+############# dvd+-rw-tools ################
+
+# menugrabar_dvd
+
+menugrabar_dvd_MSG1="DVD පටිගත කිරීම"
+menugrabar_dvd_MSG2="----------------------- DVD - දත්ත -------------------------"
+menugrabar_dvd_MSG3="ISO-9660 දත්ත DVD තැටියක් පිටපත් කිරීම"
+menugrabar_dvd_MSG4="දෘඪ තැටියේ පෙරදසුන් DVD රූපයක් සාදන්න"
+menugrabar_dvd_MSG5="නව ISO-9660 දත්ත DVD තැටියක් පුළුස්සා දමන්න"
+menugrabar_dvd_MSG8="ISO-9660 දත්ත රූපයක් DVD එකකට පුළුස්සා දමන්න"
+menugrabar_dvd_MSG10="---------------------- DVD - වීඩියෝ -----------------------"
+menugrabar_dvd_MSG11="නව DVD-වීඩියෝවක් පටිගත කරන්න"
+menugrabar_dvd_MSG12="---------------------- වෙනත් විකල්ප -----------------------"
+menugrabar_dvd_MSG13="DVD+RW/DVD-RW ආකෘතිකරණය කිරීම"
+menugrabar_dvd_MSG14="DVD තැටි තොරතුරු පෙන්වන්න"
+menugrabar_dvd_MSG0="පෙර මෙනුව"
+menugrabar_dvd_MSGPRINCIPAL="විකල්පයක් ඇතුළත් කරන්න"
+menugrabar_dvd_MSG15="DVD හි ඇතුළත් කළ යුතු ගොනු සහ නාමාවලි"
+menugrabar_dvd_MSG16="ගොනු කළමනාකරු දියත් කිරීම..."
+menugrabar_dvd_MSG17=".iso රූපය DVD වෙත පුළුස්සා දැමීමට"
+menugrabar_dvd_MSG18="ඔබට පුළුස්සා දැමීමට අවශ්‍ය .iso රූපය පිහිටා ඇති නාමාවලි මාර්ගය ඇතුළත් කරන්න"
+menugrabar_dvd_MSG19="DVD සහාය ඇති cdrecord අනුවාදයක් අවශ්‍ය වේ."
+menugrabar_dvd_MSG20=".ext2 රූපය cdrecord භාවිතයෙන් DVD වෙත පුළුස්සා දමනු ලැබේ."
+menugrabar_dvd_MSG21="ඔබේ පද්ධතියේ ස්ථාපනය කර ඇති cdrecord අනුවාදය"
+menugrabar_dvd_MSG22="DVD පිළිස්සීම සඳහා සහය දැක්විය යුතුය."
+
+############# Cdrecord-ProDVD ################
+
+# menugrabar_DVD
+
+menugrabar_DVD_MSG1="DVD පටිගත කිරීම"
+menugrabar_DVD_MSG2="---------------------- DVD - දත්ත ------------------------------"
+menugrabar_DVD_MSG3="දත්ත DVD පිටපත් කරන්න"
+menugrabar_DVD_MSG4="නව දත්ත DVD එකක් පුළුස්සා දමන්න"
+menugrabar_DVD_MSG5=".iso හෝ .ext2 රූපය DVD එකකට පුළුස්සා දමන්න"
+menugrabar_DVD_MSG6="DVD+RW/DVD-RW ආකෘතිය"
+menugrabar_DVD_MSG7="ධාවකයේ තැටි තොරතුරු පෙන්වන්න"
+menugrabar_DVD_MSG0="පෙර මෙනුව"
+menugrabar_DVD_MSGPRINCIPAL="විකල්පයක් ටයිප් කරන්න"
+menugrabar_DVD_MSG8="දෘඪ තැටියේ පෙරදසුන් DVD රූපයක් සාදන්න"
+menugrabar_DVD_MSG8=$dvd_clonar_MSG4
+
+# menugrabar_DVD_libburnia
+
+menugrabar_DVD_libburnia_MSG1="iso-9660 රූපය DVD එකකට පුළුස්සා දමන්න"
+menugrabar_DVD_libburnia_MSG2="දත්ත දෘඪ තැටියෙන් DVD එකට පුළුස්සා දමන්න"
+menugrabar_DVD_libburnia_MSG3="DVD ආකෘතිය"
+menugrabar_DVD_libburnia_MSG4="DVD-RW අනුක්‍රමික වර්ධක ආකෘතියට ආකෘතිකරණය කරන්න"
+menugrabar_DVD_libburnia_MSG6="ධාවක තොරතුරු පෙන්වන්න"
+menugrabar_DVD_libburnia_MSG8="පද්ධතියේ ස්ථාපනය කර ඇති ධාවක ලැයිස්තුගත කරන්න"
+menugrabar_DVD_libburnia_MSG0="පිටවීම"
+menugrabar_DVD_libburnia_MSG7="විකල්පයක් ඇතුළත් කරන්න"
+

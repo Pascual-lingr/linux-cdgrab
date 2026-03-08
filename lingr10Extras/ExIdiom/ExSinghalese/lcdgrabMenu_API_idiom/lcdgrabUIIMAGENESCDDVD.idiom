@@ -1,0 +1,50 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSinghalese/lcgdrabMenu_API/lcdgrabUIIMAGENESCDDVD.idiom
+# Mensajes para el intefaz de creación de imágenes
+# Traducción experimental al Cingalés, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# MenuImagen
+
+MenuImagen_MSG1="තැටි රූප නිර්මාණය කිරීම සහ ප්‍රතිකාර කිරීම"
+MenuImagen_MSG2="------------------- රූප නිර්මාණය කිරීම --------------------"
+MenuImagen_MSG3="ISO-9660 රූපයක් සාදන්න"
+MenuImagen_MSG4="ස්වදේශීය Linux ගොනු පද්ධතියක් සහිත රූපයක් සාදන්න"
+MenuImagen_MSG5="ඕනෑම බ්ලොක් උපාංගයකින් .img රූපයක් සාදන්න"
+MenuImagen_MSG6="වත්මන් උපාංගයෙන් .bin .cue රූපයක් සාදන්න"
+MenuImagen_MSG7="--------------------- වෙනත් විකල්ප -------------------------"
+MenuImagen_MSG8=".bin රූපයකින් .cue විස්තර ගොනුවක් ජනනය කරන්න"
+MenuImagen_MSG9=".nrg රූපයක් (Nero Burning ROM) .iso බවට පරිවර්තනය කරන්න"
+MenuImagen_MSG10="gzip, bzip2 හෝ xz සමඟ රූපයක් සම්පීඩනය කරන්න"
+MenuImagen_MSG11="zip, gz හි රූපයක් unzip කරන්න, bz2, හෝ xz"
+MenuImagen_MSG11B="iso රූපවල md5 චෙක්සම් පරීක්ෂා කරන්න"
+MenuImagen_MSG12="iso මාදිලිය වෙනස් කරන්න"
+MenuImagen_MSG0="පෙර මෙනුව"
+MenuImagen_MSG13="සම්පීඩනය කිරීමට රූප ගොනුව"
+MenuImagen_MSG14="සම්පීඩන රූප ගොනුව"
+MenuImagen_MSG15="ඔබට සම්පීඩනය කිරීමට අවශ්‍ය රූපය පිහිටා ඇති නාමාවලි මාර්ගය ඇතුළත් කරන්න:"
+MenuImagen_MSG16="රූප ගොනුව විසංයෝජනය කිරීමට"
+MenuImagen_MSG17="වර්තමාන ISO මට්ටම"
+MenuImagen_MSG18="iso මට්ටම"
+MenuImagen_MSG19="ගොනු නම් කොටසක් අඩංගු වේ"
+MenuImagen_MSG20="සහ අක්ෂර 8.3කට සීමා වේ."
+MenuImagen_MSG21="ඔබට නම් අනුකූලතාව අවශ්‍ය නම් මෙම මට්ටම තෝරන්න"
+MenuImagen_MSG21b="MS-DOS මෙහෙයුම් පද්ධතිය යටතේ"
+MenuImagen_MSG22="ගොනු නම් කොටසක් අඩංගු වේ"
+MenuImagen_MSG23="සීමා නොකළ මට්ටම."
+MenuImagen_MSG24="ඔබට අනුකූලතාව අවශ්‍ය නම් මෙම මට්ටම භාවිතා කරන්න"
+MenuImagen_MSG25="විශාල ගොනු, මෙම අවස්ථාවේදී >= ගිගාබයිට් 2."
+MenuImagen_MSG26="සියලුම iso මට්ටම් ගොනු නාම ලොකු අකුරු, කුඩා අකුරු සහ"
+MenuImagen_MSG27="යටි ඉරි වැනි අක්ෂර වලට සීමා කරයි. ගොනු නාම අක්ෂර 31 කට සීමා වේ"
+MenuImagen_MSG28="උපරිම අක්ෂර 8 ක් දක්වා නාමාවලි මාර්ග සහ නාමාවලි මාර්ග නම්"
+MenuImagen_MSG29="අක්ෂර 255."
+MenuImagen_MSG30="නව iso මට්ටම තෝරන්න"
+MenuImagen_MSG31="iso මට්ටම 4 නිල නොවේ"
+MenuImagen_MSG32="mkisofs man පිටුව බලන්න"
+MenuImagen_MSG33="අවලංගු iso මට්ටම"
+MenuImagen_MSG34="iso මට්ටම 3 පෙරනිමියෙන් සකසා ඇත"
+

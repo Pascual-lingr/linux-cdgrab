@@ -1,0 +1,56 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSinghalese/lcdgrabCMD_API_idiom/lcdgrabVIDEO-API.idiom
+# Mensajes en cingalés para el API de video.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# conv_video_BDVideo
+
+conv_video_BDVideo_MSG1="වීඩියෝ පරිවර්තනය BLU-RAY තැටියේ අනුකූලතාව"
+conv_video_BDVideo_MSG2="පරිවර්තනය කළ යුතු වීඩියෝ ගොනුවේ මාර්ගය සඳහන් කරන්න:"
+conv_video_BDVideo_MSG3="නිර්මාණය කළ යුතු නව වීඩියෝවේ ගොනු නාමය සඳහන් කරන්න:"
+conv_video_BDVideo_MSG4="වීඩියෝ ගොනුව සාර්ථකව පරිවර්තනය කර ඇත!!"
+conv_video_BDVideo_MSG5="වීඩියෝ ගොනුව පරිවර්තනය කිරීමේදී දෝෂයක්"
+
+# conv_VideoFich
+
+conv_VideoFich_MSG1="වීඩියෝ ගොනු පරිවර්තනය"
+conv_VideoFich_MSG2="පරිවර්තනය කළ යුතු වීඩියෝ ගොනුව සඳහන් කරන්න:"
+conv_VideoFich_MSG3="උත්පාදනය කළ යුතු වීඩියෝ ගොනුව සඳහන් කරන්න:"
+conv_VideoFich_MSG4="වීඩියෝ ගොනු පරිවර්තනය සම්පූර්ණයි"
+conv_VideoFich_MSG5="දෝෂ පරිවර්තනය කිරීමේ වීඩියෝ ගොනුව"
+
+# extrae_Audio_de_Video
+
+extrae_Audio_de_Video_MSG1="වීඩියෝ ගොනුව නිශ්චිත කරන්න:"
+extrae_Audio_de_Video_MSG2="උත්පාදනය කිරීමට mp3 ශ්‍රව්‍ය ගොනුව නිශ්චිත කරන්න:"
+extrae_Audio_de_Video_MSG3="ශබ්ද නිස්සාරණය සාර්ථකව සම්පූර්ණ කරන ලදී"
+extrae_Audio_de_Video_MSG4="දෝෂ නිස්සාරණ ශබ්දය"
+
+# extrae_Fragmento_Video
+
+extrae_Fragmento_Video_MSG1="වීඩියෝ ගොනුව නිශ්චිත කරන්න:"
+extrae_Fragmento_Video_MSG2="උත්පාදනය කිරීමට වීඩියෝ ගොනුව නිශ්චිත කරන්න:"
+extrae_Fragmento_Video_MSG3="ආරම්භක වේලාව නිශ්චිත කරන්න (HH:MM:SS ලෙස සඳහන් කරන්න):"
+extrae_Fragmento_Video_MSG4="අවසන් වේලාව නිශ්චිත කරන්න (HH:MM:SS ලෙස සඳහන් කරන්න):"
+extrae_Fragmento_Video_MSG5="වීඩියෝව සාර්ථකව කපා ඇත"
+extrae_Fragmento_Video_MSG6="දෝෂ සහිත කප්පාදු කිරීමේ වීඩියෝව"
+
+# mezcla_Audio_Video
+
+mezcla_Audio_Video_MSG1="ශ්‍රව්‍ය ගොනුව සඳහන් කරන්න:"
+mezcla_Audio_Video_MSG2="වීඩියෝ ගොනුව සඳහන් කරන්න:"
+mezcla_Audio_Video_MSG3="උත්පාදනය කිරීමට වීඩියෝ ගොනුව සඳහන් කරන්න:"
+mezcla_Audio_Video_MSG4="නව වීඩියෝ ගොනුව සාර්ථකව ජනනය කරන ලදී"
+mezcla_Audio_Video_MSG5="වීඩියෝ ගොනුව උත්පාදනය කිරීමේ දෝෂය"
+
+# graba_escritorio
+
+graba_escritorio_MSG1="කොන්සෝල අතුරුමුහුණත සඳහා විකල්පය නොමැත"
+graba_escritorio_MSG2="-- ඩෙස්ක්ටොප් සැසිය පටිගත කිරීම -- පටිගත කිරීම අවලංගු කර නැවැත්වීමට CTRL + C ඔබන්න."
+graba_escritorio_MSG3="වීඩියෝ පටිගත කිරීම සම්පූර්ණයි"
+

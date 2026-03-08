@@ -1,0 +1,109 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSinghalese/lcdgrabCMD_API_idiom/lcdgrabAPP-SYS.idiom
+# Mensajes en idioma Cingalés para la colección de funciones
+# contenida en lcdgrabAPP-SYS 
+#
+# Funciones de notificación para el Interfaz de Usuario.
+# Funciones comunes al Interfaz de Usuario.
+#
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# m_cdrecord-sin-overburn
+
+m_cdrecord_sin_overburn_MSG1="පටිගත කිරීමේ ක්‍රියාවලිය නැවත උත්සාහ කරමින්..."
+m_cdrecord_sin_overburn_MSG2="-overburn විකල්පය නොමැතිව cdrecord ක්‍රියාත්මක කිරීම"
+m_cdrecord_sin_overburn_MSG3="-පැරණි පටිගත කිරීමේ උපාංග හෝ cdrecord හි පැරණි අනුවාද වල overburn සහාය නොදක්වයි."
+
+# Opcion_invalida
+
+Opcion_invalida_D_MSG1="අවලංගු විකල්පය"
+
+# img_error
+
+img_error_D_MSG1="රූපය නිර්මාණය කිරීමේ දෝෂයක්"
+
+# CD_error
+
+CD_error_D_MSG1="CD පටිගත කිරීමේ දෝෂය"
+
+# DVD_error
+
+DVD_error_D_MSG1="DVD පටිගත කිරීමේ දෝෂය"
+
+# DO_error
+
+DO_error_D_MSG1="දෘශ්‍ය තැටිය පටිගත කිරීමේදී දෝෂයක්"
+
+
+# tecla
+
+tecla_D_MSG1="\nඉදිරියට යාමට ENTER ඔබන්න..."
+
+# rutas_dir
+
+rutas_dir_D_MSG1="තැටියට පිළිස්සීමට නාමාවලි මාර්ග"
+rutas_dir_D_MSG2="ඩිරෙක්ටරි නාමය ඇතුළත් කරන්න (f පිටවීමට):"
+rutas_dir_D_MSG3="ඩිරෙක්ටරි"
+rutas_dir_D_MSG4="අවලංගු"
+
+# una_sola_grabadora
+
+una_sola_grabadora_D_MSG1="පද්ධතියේ එකම දෘශ්‍ය ඒකකය"
+una_sola_grabadora_D_MSG2="කියවීමේ සහ ලිවීමේ ඒකක සමාන වේ. ඔබේ පද්ධතියට ඇත්තේ එක් භෞතික ධාවකයක් පමණක් යැයි උපකල්පනය කෙරේ. ධාවකයෙන් මුල් තැටිය ඉවත් කරන්න. පටිගත කිරීමේ ක්‍රියාවලිය දිගටම කරගෙන යාමට හිස් දෘශ්‍ය තැටියක් ඇතුළු කරන්න."
+
+# grabacion_ok
+
+grabacion_ok_D_MSG1="ඇල්බමයේ පටිගත කිරීම සාර්ථකව නිම කර ඇත."
+
+# text_Opcion_invalida
+
+text_Opcion_invalida_MSG1="අවලංගු විකල්පය"
+
+# text grabacion_ok
+
+text_grabacion_ok_MSG1="ඇල්බමයේ පටිගත කිරීම සාර්ථකව නිම කර ඇත."
+
+# text_img_error
+
+text_img_error_MSG1="රූපය නිර්මාණය කිරීමේ දෝෂයක්"
+
+# text_CD_error
+
+text_CD_error_MSG1="CD පටිගත කිරීමේ දෝෂය"
+
+# text_DVD_error
+
+text_DVD_error_MSG1="DVD පටිගත කිරීමේ දෝෂය"
+
+# text_DO_error
+
+text_DO_error_MSG1="දෘශ්‍ය තැටිය පටිගත කිරීමේදී දෝෂයක්"
+
+# teclash
+
+teclash_MSG1="ඉදිරියට යාමට ENTER ඔබන්න..."
+
+# text_rutas_dir
+
+text_rutas_dir_MSG1="ඩිරෙක්ටරියේ නම ඇතුළත් කරන්න (f පිටවීමට):"
+text_rutas_dir_MSG2="ඩිරෙක්ටරිය"
+text_rutas_dir_MSG3=" වලංගු නොවේ"
+
+# text_una_sola_grabadora
+
+text_una_sola_grabadora_MSG1="පද්ධතියේ එකම දෘශ්‍ය ඒකකය"
+text_una_sola_grabadora_MSG2="කියවීමේ සහ ලිවීමේ ඒකක එක හා සමානයි."
+text_una_sola_grabadora_MSG3="ඔබේ පද්ධතියට ඇත්තේ එකක් පමණක් යැයි උපකල්පනය කෙරේ"
+text_una_sola_grabadora_MSG4="භෞතික ධාවකය."
+text_una_sola_grabadora_MSG5="ධාවකයෙන් මූලාශ්‍ර තැටිය ඉවත් කරන්න."
+text_una_sola_grabadora_MSG6="හිස් දෘශ්‍ය තැටියක් ඇතුළු කරන්න"
+text_una_sola_grabadora_MSG7="පටිගත කිරීමේ ක්‍රියාවලිය දිගටම කරගෙන යාමට."
+
+# lingrcmdexec
+
+lingrcmdexec_MSG1="දුවනවා"

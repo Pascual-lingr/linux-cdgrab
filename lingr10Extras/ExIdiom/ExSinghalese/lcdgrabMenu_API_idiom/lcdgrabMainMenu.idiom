@@ -1,0 +1,136 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSinghalese/lcgdrabMenu_API/lcdgrabMainMenu.idiom
+# Mensajes de texto para las funciones del programa principal
+# Traducción experimental al cingalés, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# ayuda
+
+ayuda_MSG1="Linux-cdgrab හට vi පෙළ සංස්කාරකය සොයාගත නොහැක"
+ayuda_MSG2="ඔබේ පද්ධතියේ ස්ථාපනය කර ඇති පෙළ සංස්කාරකයේ නම ඇතුළත් කරන්න"
+ayuda_MSG3="කිසිදු සංස්කාරකයක් ස්ථාපනය කර නොමැත"
+
+# creacion_de_mnt
+
+creacion_de_mnt_MSG1="LINUX-CDGRAB 1.0 මගින් ගොනුව ස්වයංක්‍රීයව ජනනය කරන ලදී"
+creacion_de_mnt_MSG2="මෙම ගොනුව නාමාවලිය සමඟ"
+creacion_de_mnt_MSG3="ස්වයංක්‍රීයව ජනනය කරන ලදී"
+creacion_de_mnt_MSG4="ඔබේ Linux බෙදාහැරීමේ නාමාවලිය නොපවතින බව සත්‍යාපනය කළ විට Linux-cdgrab යෙදුම විසින්"
+creacion_de_mnt_MSG5="නාමාවලිය"
+creacion_de_mnt_MSG6="ඔබේ CD-ROM/DVD-ROM/BD-ROM ධාවකය සවි කිරීමට Linux-cdgrab මෙම නාමාවලිය භාවිතා කරයි"
+creacion_de_mnt_MSG7="නාමාවලිය"
+creacion_de_mnt_MSG8="Linux-cdgrab අස්ථාපනය කළහොත් එය මකා නොදමනු ඇත, මන්ද එය සාමාන්‍යයෙන්"
+creacion_de_mnt_MSG9="බොහෝ Linux බෙදාහැරීම් වල /dev/cdrom සඳහා පෙරනිමි සවිකිරීමේ ස්ථානය."
+creacion_de_mnt_MSG10="ඔබගේ බෙදාහැරීම /dev/cdrom උපාංගය සවි කිරීමට වෙනත් නාමාවලියක් භාවිතා කරන්නේ නම්,"
+creacion_de_mnt_MSG11="ඔබගේ ධාවකයේ දත්ත වෙත ප්‍රවේශ වීමට උත්සාහ කරන විට එය කිසිදු නොගැලපීමක් ඇති නොකරයි"
+creacion_de_mnt_MSG12="කෙසේ වෙතත් Linux-cdgrab අස්ථාපනය කර ඇත්නම් ඔබට එය නොමැතිව කළ හැකිය"
+creacion_de_mnt_MSG13="මෙම ගොනුවේ අරමුණ තොරතුරු සඳහා පමණි; ඔබ එය කියවූ පසු ඔබට එය නිදහසේ මකා දැමිය හැකිය."
+
+# creditos
+
+creditos_MSG1="GPL v2 බලපත්‍රය යටතේ බෙදා හරින ලදී"
+creditos_MSG2="වැඩිදුර තොරතුරු www.gnu.org හි ඇත"
+creditos_MSG3="Pascual Martínez Cruz, නිර්මාතෘ සහ නඩත්තුකරු"
+creditos_MSG4="දෝෂ වාර්තා: pascual89@hotmail.com"
+creditos_MSG5="වැඩසටහන් වෙබ් අඩවිය: www.github.com/Pascual-lingr/linux-cdgrab"
+
+# creditosno
+
+creditosno_MSG3="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG4="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+creditosno_MSG5="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+## No editar variable, No edit variable.
+
+creditosno_MSGVSRC="LINUX-CDGRAB 1.0 CopyRight: Pascual Martínez Cruz මත පදනම්ව"
+
+# cargar_parche
+
+cargar_parche_MSG1="අයකිරීම"
+
+# lcdgrab_sintaxis
+
+lcdgrab_sintaxis_MSG1="සින්ටැක්ස්"
+lcdgrab_sintaxis_MSG2="මෙම උදව්ව මුද්‍රණය කරයි"
+lcdgrab_sintaxis_MSG3="Linux-cdgrab අනුවාදය මුද්‍රණය කරයි"
+lcdgrab_sintaxis_MSG4="IDE නාලිකාව හෝ පටිගත කිරීමේ උපාංගය නියම කරයි"
+lcdgrab_sintaxis_MSG5="හෝ"
+lcdgrab_sintaxis_MSG6="පටිගත කිරීමේ වේගය නියම කරයි"
+lcdgrab_sintaxis_MSG7="CD-ROM/DVD-ROM/BD-ROM ධාවකය නියම කරයි"
+lcdgrab_sintaxis_MSG8="රෙකෝඩරයේ IDE ATAPI නාලිකාව නියම කරයි"
+lcdgrab_sintaxis_MSG9="-G, -V, -L, සහ -CA විකල්ප අන්‍යෝන්‍ය වශයෙන් සුවිශේෂී වේ."
+lcdgrab_sintaxis_MSG9B="-iut, -ium, -iug, සහ -iuk විකල්ප එකිනෙකින් ස්වාධීන වේ."
+lcdgrab_sintaxis_MSG9C="-G, -V, -L, සහ -CA සඳහා අනුපූරක වන අතර -h සහ -v වලින් ස්වාධීන වේ."
+lcdgrab_sintaxis_MSG10="-h සහ -v විකල්ප එකිනෙකින් සහ අනෙක් ඒවායින් ස්වාධීන වේ."
+lcdgrab_sintaxis_MSG11="උදාහරණ:"
+lcdgrab_sintaxis_MSG12="උපාංගය"
+lcdgrab_sintaxis_MSG13="අංකය"
+lcdgrab_sintaxis_MSG14="පෙළ අතුරුමුහුණත"
+lcdgrab_sintaxis_MSG15="ncurses සමඟ අතුරුමුහුණත"
+lcdgrab_sintaxis_MSG16="GTK සමඟ චිත්‍රක අතුරුමුහුණත"
+lcdgrab_sintaxis_MSG17="Qt සමඟ චිත්‍රක අතුරුමුහුණත"
+
+# depura_lcdgrab
+
+main_lcdgrabopdep_MSG1="ස්ක්‍රිප්ට් මාර්ගය ඇතුළත් කරන්න:"
+main_lcdgrabopdep_MSG2="වලංගු නොවන මාර්ගය"
+
+# depura_parche
+
+main_lcdgrabopdeppatch_MSG1="පැච් ස්ථාපනය කර ඇත:"
+main_lcdgrabopdeppatch_MSG2="පැච් මාර්ගය ඇතුළත් කරන්න:"
+main_lcdgrabopdeppatch_MSG3="හමු වුණේ නැහැ"
+
+# menu principal dialog
+main_lcdgrabop9uidia="අමතර පැච් එකක් පූරණය කරන්න"
+
+# menu principal texto
+
+main_lcdgrabop1_text="CD හි පටිගත කිරීම\t\t\t\t="
+main_lcdgrabop2_text="DVD හි පටිගත කිරීම\t\t\t\t="
+main_lcdgrabop3_text="BD හි පටිගත කිරීම\t\t\t\t="
+main_lcdgrabop4_text="තැටි ධාවක මෙහෙයුම්\t\t\t\t="
+main_lcdgrabop5_text="රූප නිර්මාණය\t\t\t\t="
+main_lcdgrabop6_text="ශ්‍රව්‍ය පරිවර්තනය\t\t\t\t="
+main_lcdgrabop6b_text="වීඩියෝ පරිවර්තනය\t\t\t\t="
+main_lcdgrabop7_text="CD/DVD/BD සවි කිරීම හෝ ඉවත් කිරීම\t\t="
+main_lcdgrabop8_text="රූපය සවි කරන්න හෝ ඉවත් කරන්න\t\t\t="
+main_lcdgrabop9_text="අමතර පැච් එකක් පූරණය කරන්න\t\t\t="
+main_lcdgrabop10_text="පාලන මධ්යස්ථානය\t\t\t\t="
+main_lcdgrabop0_text="නැති වෙනවා\t\t\t\t="
+main_lcdgrabet1_text="වෙනත් විකල්ප ##\t\t\t="
+main_lcdgrabopEe_text="ධාවකයෙන් තැටිය ඉවත් කරන්න\t\t="
+main_lcdgrabopTD_text="නාමාවලිය පෙන්වන්න"
+tabs="\t\t="
+main_lcdgrabopG_text="ගොනු කළමනාකරු\t\t\t\t="
+main_lcdgrabopH_text="ආධාර\t\t\t\t\t="
+main_lcdgrabopA_text="ගැන\t\t\t\t\t="
+
+# menu principal
+
+main_lcdgrabop1="CD හි පටිගත කිරීම"
+main_lcdgrabop2="DVD හි පටිගත කිරීම"
+main_lcdgrabop3="BD හි පටිගත කිරීම"
+main_lcdgrabop4="තැටි ධාවක මෙහෙයුම්"
+main_lcdgrabop5="රූප නිර්මාණය"
+main_lcdgrabop6="ශ්‍රව්‍ය පරිවර්තනය"
+main_lcdgrabop6b="වීඩියෝ පරිවර්තනය"
+main_lcdgrabop7="CD/DVD/BD සවි කිරීම හෝ ඉවත් කිරීම"
+main_lcdgrabop8="රූපය සවි කරන්න හෝ ඉවත් කරන්න"
+main_lcdgrabop9="අමතර පැච් එකක් පූරණය කරන්න"
+main_lcdgrabop10="පාලන මධ්යස්ථානය"
+main_lcdgrabop0="නැති වෙනවා"
+main_lcdgrabet1="වෙනත් විකල්ප ##"
+main_lcdgrabopEe="ධාවකයෙන් තැටිය ඉවත් කරන්න"
+main_lcdgrabopTD="නාමාවලිය පෙන්වන්න"
+main_lcdgrabopG="ගොනු කළමනාකරු"
+main_lcdgrabopH="ආධාර"
+main_lcdgrabopA="ගැන"
+main_lcdgrabopPRINCIPAL="විකල්පයක් ටයිප් කරන්න:"
+MSG1_MAIN="H තේරීමෙන් විකල්ප භාවිතය පෙන්වයි."
+main_lcdgrabopA_MSG1="ධාවනය වෙමින් පවතී:"
+
