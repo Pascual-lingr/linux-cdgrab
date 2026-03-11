@@ -1,0 +1,284 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSinghalese/lcdgrabMenu_API_idiom/lcdgrabUICentroControl.idiom
+# Mensajes en Cingalés para el Interfaz del Centro de Control
+# Traducción experimental, generado con Google Translate
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# cab_config
+
+cab_config_MSG1="Linux-cdgrab වින්‍යාසය"
+
+# ayuda_IDE_MSG1
+
+ayuda_IDE_MSG1="ඔබේ දාහකයට අයත් IDE නාලිකාව කුමක්දැයි ඔබ නොදන්නේ නම්"
+ayuda_IDE_MSG2="t අකුර එබීමෙන් ඔබට එය සොයාගත හැකිය."
+ayuda_IDE_MSG3="IDE නාලිකාවක උදාහරණයක් 0,0,0 හෝ 0,1,0 විය හැකිය"
+ayuda_IDE_MSG4="ඔබට අනුරූප උපාංගය ද නියම කළ හැකිය"
+ayuda_IDE_MSG5="ඔබේ දාහකයට. එය කුමන එකක් දැයි ඔබට විශ්වාස නැත්නම්, d ඔබන්න,"
+ayuda_IDE_MSG6="/etc/fstab ගොනුවේ ලියාපදිංචි කර ඇති උපාංග බැලීමට"
+ayuda_IDE_MSG7="උපාංග සඳහා උදාහරණයක් /dev/hdd, /dev/hde, ආදිය විය හැකිය."
+ayuda_IDE_MSG8="ඔබට අවශ්‍ය නම්, අඩංගු සියලුම උපාංග ලැයිස්තුගත කළ හැක"
+ayuda_IDE_MSG9=" /dev නාමාවලියෙහි l අකුර එබීමෙන්."
+ayuda_IDE_MSG10="ඔබ IDE නාලිකාව හෝ පටිගත කිරීමේ උපාංගය සඳහන් කළ යුතුය"
+ayuda_IDE_MSG11="නමුත් දෙකම නොවේ."
+
+# desinstalar
+
+desinstalar_MSG1="Linux-cdgrab ඔබගේ පද්ධතියෙන් අස්ථාපනය කර ඇත."
+
+# imprimir_variables
+
+imprimir_variables_MSG1="පටිගත කිරීමේ වේගය"
+imprimir_variables_MSG2="IDE/SCSI නාලිකාව හෝ පටිගත කිරීමේ උපාංගය"
+imprimir_variables_MSG3="CD-ROM, DVD-ROM, හෝ BD-ROM ධාවකය"
+imprimir_variables_MSG4="ATAPI උපාංගය"
+
+# imprimir_lcdgrabcfg
+
+imprimir_lcdgrabcfg_MSG1="පටිගත කිරීමේ වේගය"
+imprimir_lcdgrabcfg_MSG2="IDE/SCSI නාලිකාව හෝ පටිගත කිරීමේ උපාංගය"
+imprimir_lcdgrabcfg_MSG3="CD-ROM, DVD-ROM, හෝ BD-ROM ධාවකය"
+imprimir_lcdgrabcfg_MSG4="ATAPI උපාංගය"
+
+# chequeo_de_aplicaciones
+
+chequeo_de_aplicaciones_MSG1="ස්ථාපනය කර ඇත"
+chequeo_de_aplicaciones_MSG2="ස්ථාපනය කර නැත"
+chequeo_de_aplicaciones_MSG3="ස්ථාපනය කරන්න"
+chequeo_de_aplicaciones_MSG4="වැදගත්:"
+chequeo_de_aplicaciones_MSG5="අවශ්‍ය මෙවලම් ස්ථාපනය කිරීමෙන් Linux-cdgrab සම්පූර්ණයෙන්ම ක්‍රියාකාරී වනු ඇත"
+chequeo_de_aplicaciones_MSG6="Linux-cdgrab සඳහා අවශ්‍ය සියලුම වැඩසටහන් ඔබේ පද්ධතියේ ස්ථාපනය කර ඇත"
+chequeo_de_aplicaciones_MSG4B="දැනුම්දීම:"
+chequeo_de_aplicaciones_MSG5B="අතුරුදහන් වූ මෙවලම් සොයාගෙන ඇත"
+chequeo_de_aplicaciones_MSG6B="පද්ධතියේ ස්ථාපනය කර ඇති මෙවලම්"
+
+# msgdefCANALATAPI
+
+msgdefCANALATAPI_MSG1="මෙම විචල්‍යයට පෙරනිමියෙන් 0,0,0 පවරා ඇත."
+msgdefCANALATAPI_MSG2="වින්‍යාස ගොනුව CANALATAPI = 0,0,0 සමඟ ලියනු ලැබේ."
+
+# nuevo_lcdgrabcfg
+
+nuevo_lcdgrabcfg_MSG1="Linux-cdgrab මඟින් ස්වයංක්‍රීයව ජනනය කරන ලද වින්‍යාස ගොනුව."
+nuevo_lcdgrabcfg_MSG5="cdrecord පද්ධතිය තුළ හමු නොවීය"
+nuevo_lcdgrabcfg_MSG6="cdrtools පැකේජය ස්ථාපනය කරන්න."
+nuevo_lcdgrabcfg_MSG7="පටිගත කිරීමේ අගයන් නියම කිරීමෙන් ඔබට වින්‍යාසය දිගටම කරගෙන යා හැක"
+nuevo_lcdgrabcfg_MSG8="ඔබ ඒවා කලින් දන්නේ නම්."
+nuevo_lcdgrabcfg_MSG9="cdrecord විධානය CD, DVD සහ BD තැටි පිළිස්සීම සඳහා භාවිතා කරයි"
+nuevo_lcdgrabcfg_MSG10="මෙම පැකේජය ස්ථාපනය කරන තුරු මෙම විකල්ප ක්‍රියාකාරී නොවේ."
+nuevo_lcdgrabcfg_MSG11="ධාවක පරිලෝකන මෙවලම පවතී"
+nuevo_lcdgrabcfg_MSG12="මෙම වින්‍යාස විශාරදයේ ද ක්‍රියාකාරී නොවනු ඇත."
+nuevo_lcdgrabcfg_MSG13="Linux-cdgrab පහත පියවර හතර තුළ වින්‍යාස කළ යුතුය"
+nuevo_lcdgrabcfg_MSG14="පළමු පියවර."
+nuevo_lcdgrabcfg_MSG15="පටිගත කිරීමේ වේගය"
+nuevo_lcdgrabcfg_MSG16="2, 4, 8, 16, 32... ආදිය සඳහා අංකයක් පමණි."
+nuevo_lcdgrabcfg_MSG17="දෙවන පියවර."
+nuevo_lcdgrabcfg_MSG18="IDE/SCSI නාලිකාව හෝ පටිගත කිරීමේ උපාංගය:"
+nuevo_lcdgrabcfg_MSG19="A -> උදව්"
+nuevo_lcdgrabcfg_MSG20="ස්කෑන් කිරීම..."
+nuevo_lcdgrabcfg_MSG21="IDE/SCSI port ස්කෑන් කිරීමේදී දෝෂයක්"
+nuevo_lcdgrabcfg_MSG22="cdrecord හමු නොවීය"
+nuevo_lcdgrabcfg_MSG23="තෙවන පියවර."
+nuevo_lcdgrabcfg_MSG24="CD-ROM, DVD-ROM, හෝ BD-ROM උපාංගය"
+nuevo_lcdgrabcfg_MSG25="L -> ලබා ගත හැකි උපාංග ලැයිස්තුගත කරයි"
+nuevo_lcdgrabcfg_MSG26="ස්කෑන් කිරීම..."
+nuevo_lcdgrabcfg_MSG27="IDE/SCSI port ස්කෑන් කිරීම"
+nuevo_lcdgrabcfg_MSG28="බහු-සැසි පටිගත කිරීම් වලදී dev=ATAPI හරහා cdrecord විසින් භාවිතා කළ යුතු උපාංගය"
+nuevo_lcdgrabcfg_MSG30="උපාංගයට 0,0,0 හෝ 1,0,0 වැනි නම් කිරීමේ සම්මුතියක් ඇත."
+nuevo_lcdgrabcfg_MSG31="බහු-සැසි සංයුක්ත තැටිවල cdrecord ඇමතීමට උපාංගය සඳහන් කරන්න: "
+nuevo_lcdgrabcfg_MSG32="CANALATAPI සඳහා වින්‍යාසය නිවැරදි නොවේ"
+nuevo_lcdgrabcfg_MSG33="IDE/SCSI port ස්කෑන් කිරීමේදී දෝෂයක්"
+nuevo_lcdgrabcfg_MSG34="cdrecord හමු නොවීය"
+nuevo_lcdgrabcfg_MSG36="Linux-cdgrab මඟින් ස්වයංක්‍රීයව ජනනය කරන ලද වින්‍යාස ගොනුව."
+nuevo_lcdgrabcfg_MSG37="LINUX-CDGRAB වින්‍යාසය සම්පූර්ණයි"
+
+# colores
+
+colores_MSG1="වර්ණ ලැයිස්තුව හමු නොවීය"
+colores_MSG2="පෙරනිමි වර්ණ පූරණය වෙමින් පවතී"
+colores_MSG3="LINUX-CDGRAB අතුරුමුහුණත සඳහා නව වර්ණ පටිපාටියක් තෝරන්න"
+colores_MSG4="කළු අකුරු"
+colores_MSG5="සම්මත දීප්තිමත් අකුරු"
+colores_MSG6="කළු පසුබිම් වර්ණය"
+colores_MSG7="රතු අකුරු"
+colores_MSG8="කළු දීප්තිමත් අකුරු"
+colores_MSG9="රතු පසුබිම් වර්ණය"
+colores_MSG10="කොළ අකුරු"
+colores_MSG11="රතු දීප්තිමත් අකුරු"
+colores_MSG12="කොළ පසුබිම් වර්ණය"
+colores_MSG13="කහ අකුරු"
+colores_MSG14="කොළ දීප්තිමත් අකුරු"
+colores_MSG15="තැඹිලි පාට පසුබිම"
+colores_MSG16="නිල් පාට අකුරු"
+colores_MSG17="දීප්තිමත් කහ පාට අකුරු"
+colores_MSG18="නිල් පසුබිම් වර්ණය"
+colores_MSG19="මැජෙන්ටා අකුරු"
+colores_MSG20="දීප්තිමත් නිල් අකුරු"
+colores_MSG21="මැජෙන්ටා පසුබිම් වර්ණය"
+colores_MSG22="සයන් අකුරු"
+colores_MSG23="දීප්තිමත් මැජෙන්ටා අකුරු"
+colores_MSG24="සයන් පසුබිම් වර්ණය"
+colores_MSG25="අළු අකුරු"
+colores_MSG26="සයන් පසුබිම් වර්ණය"
+colores_MSG27="දීප්තිමත් සයන් අකුරු"
+colores_MSG28="අළු පසුබිම් වර්ණය"
+# Resultado del traductor
+colores_MSG29="DEFAULT අකුරු"
+# Resultado del traductor
+colores_MSG30="දීප්තිමත් සුදු FONT"
+colores_MSG31="පසුබිම් වර්ණය පෙරනිමියෙන්"
+colores_MSG32="ෆොන්ටය සඳහා වර්ණ අංකය: "
+colores_MSG33="පසුබිම සඳහා වර්ණ අංකය: "
+colores_MSG34="අනතුරු ඇඟවීමේ පණිවිඩ සඳහා වර්ණ අංකය: "
+colores_MSG35="ලේබල් පණිවිඩ සඳහා වර්ණ අංකය: "
+colores_MSG36="සාර්ථකව සම්පූර්ණ කරන ලද ක්‍රියාවලීන් සඳහා වර්ණ අංකය: "
+colores_MSG37="අසාර්ථක වූ ක්‍රියාවලීන් සඳහා වර්ණ අංකය: "
+colores_MSG38="LINUX-CDGRAB සඳහා නව යෝජනා ක්‍රමය"
+colores_MSG39="සාමාන්‍ය අකුරු වර්ණය"
+colores_MSG40="ලේබල්"
+colores_MSG41="දැනුම්දීම්"
+colores_MSG42="සාර්ථකත්වය"
+colores_MSG43="දෝෂය"
+colores_MSG44="පසුබිම් වර්ණය"
+
+# cambiar_esquema_de_color
+
+cambiar_esquema_de_color_MSG1="ලබා ගත හැකි වර්ණ ලැයිස්තුව:"
+cambiar_esquema_de_color_MSG2="#####වර්ණ යෝජනා ක්‍රම#######"
+cambiar_esquema_de_color_MSG3="---------------------------"
+cambiar_esquema_de_color_MSG4="වර්ණ මෙනුව"
+cambiar_esquema_de_color_MSG5="අසමත් වීම"
+cambiar_esquema_de_color_MSG6="ලේබල"
+cambiar_esquema_de_color_MSG6b="අනතුරු ඇඟවීම්"
+cambiar_esquema_de_color_MSG7="වර්ණ මෙනුව හරි අසාර්ථක අනතුරු ඇඟවීම් ලේබල"
+cambiar_esquema_de_color_MSG8="නව වර්ණයේ අංකය ඇතුළත් කරන්න:"
+cambiar_esquema_de_color_MSG9="වලංගු නොවන විකල්පය"
+cambiar_esquema_de_color_MSG10="අක්‍රිය වර්ණ සැකසීම."
+cambiar_esquema_de_color_MSG11="  පසුබිම = නිල්_පසුබිම"
+cambiar_esquema_de_color_MSG12="  අකුරු = දීප්තිමත් සුදු"
+cambiar_esquema_de_color_MSG13="  දැනුම්දීම් = දීප්තිමත් කහ"
+cambiar_esquema_de_color_MSG14="  දෝෂ = දීප්තිමත් රතු"
+cambiar_esquema_de_color_MSG15="  දෝෂ = දීප්තිමත් රතු"
+cambiar_esquema_de_color_MSG16="  පහර = දීප්තිමත් කොළ"
+cambiar_esquema_de_color_MSG17="  ලේබල = දීප්තිමත් සයන්"
+
+# cambia_lector
+
+cambia_lector_MSG1="දෘශ්‍ය ධාවක පරිසර වින්‍යාසය"
+cambia_lector_MSG2="CD-ROM, DVD-ROM, හෝ BD-ROM සමඟ සම්බන්ධ වත්මන් උපාංගය"
+cambia_lector_MSG3="CD/DVD/BD රෙකෝඩරය සමඟ සම්බන්ධ වත්මන් උපාංගය"
+cambia_lector_MSG4="dev=ATAPI පරාමිතිය සමඟ සම්බන්ධ වත්මන් උපාංගය"
+cambia_lector_MSG5="(CD රෙකෝඩරය සඳහා බහු-සැසි සහාය)"
+cambia_lector_MSG6="වෙනස් කළ යුතු උපාංගය තෝරන්න."
+cambia_lector_MSG7="විකල්පය ඇතුළත් කරන්න:"
+cambia_lector_MSG8="නව උපාංගයේ නම ඇතුළත් කරන්න"
+cambia_lector_MSG9="බ්ලොක් උපාංගයකට අනුරූප නොවේ"
+cambia_lector_MSG10="උපාංගය"
+cambia_lector_MSG11="පෙරනිමියෙන් පවරා ඇත"
+cambia_lector_MSG12="නව උපාංගය:"
+cambia_lector_MSG13="cdrecord හි සියලුම අනුවාදයන් බ්ලොක් උපාංගයක් පටිගත කිරීමේ පරාමිතියක් ලෙස පිළිගන්නේ නැත"
+cambia_lector_MSG14="නව ATAPI උපාංගයේ නම ඇතුළත් කරන්න"
+cambia_lector_MSG15="CANALATAPI සඳහා වින්‍යාසය නිවැරදි නොවේ"
+cambia_lector_MSG16="0,0,0 මෙම විචල්‍යයට පෙරනිමියෙන් පවරා ඇත"
+cambia_lector_MSG17="වින්‍යාස ගොනුව CANALATAPI = 0,0,0 සමඟ ලියා ඇත"
+cambia_lector_MSG18="නව උපාංගය es :"
+cambia_lector_MSG19="උපාංගවලට කිසිදු වෙනසක් සිදු කර නොමැත"
+cambia_lector_MSG4B="වින්‍යාස ගොනුවෙන් අගයන් අපනයනය කරන්න"
+cambia_lector_MSG4C="මෙම අගයන් පරිසරයට වාර්තා කරන ලදී:"
+
+# cambia_generador_isocd
+
+cambia_generador_isocd_MSG1="මෙම මෙනුවෙන් ඔබට කුමන උපයෝගිතා තෝරා ගත හැකිද"
+cambia_generador_isocd_MSG2="ISO-9660 රූප ජනනය කිරීමට භාවිතා කරන්නේද"
+cambia_generador_isocd_MSG3="ධාවකයේ පවතින CD තැටි වලින්."
+cambia_generador_isocd_MSG4="වත්මන් වින්‍යාසය:"
+cambia_generador_isocd_MSG5="dd (GNU coreutils සංරචකය) භාවිතා කරන්න"
+cambia_generador_isocd_MSG6="readcd (cdrtools සංරචකය) භාවිතා කරන්න"
+cambia_generador_isocd_MSG7="පෙර මෙනුව."
+cambia_generador_isocd_MSG8="විකල්පයක් තෝරන්න:"
+cambia_generador_isocd_MSG9="ISO උත්පාදක යන්ත්‍රය ලෙස dd භාවිතා කිරීම."
+cambia_generador_isocd_MSG10="ISO උත්පාදක යන්ත්‍රය ලෙස readcd භාවිතා කිරීම."
+
+# establecer_hfs_iso
+
+establecer_hfs_iso_MSG1="Rock Ridge සහ Joliet සමඟ HFS පාර-දත්ත සකසන්න"
+establecer_hfs_iso_MSG2="Rock Ridge සහ Joliet පාර-දත්ත පමණක් භාවිතා කරන්න"
+establecer_hfs_iso_MSG3="පෙර මෙනුව."
+establecer_hfs_iso_MSG4="විකල්පයක් තෝරන්න:"
+establecer_hfs_iso_MSG5="HFS, Rock Ridge සහ Joliet පාර-දත්ත භාවිතා කිරීම"
+establecer_hfs_iso_MSG6="Rock Ridge සහ Joliet පාර-දත්ත භාවිතා කිරීම"
+
+# cambia_notificaciones
+
+cambia_notificaciones_MSG1="වත්මන් දැනුම්දීම් පද්ධතිය"
+cambia_notificaciones_MSG2A="GNOME චිත්‍රක අතුරුමුහුණත"
+cambia_notificaciones_MSG2B="KDE චිත්‍රක අතුරුමුහුණත"
+cambia_notificaciones_MSG2="ncurses සමඟ අතුරුමුහුණත"
+cambia_notificaciones_MSG3="පෙළ-පාදක අතුරුමුහුණත"
+cambia_notificaciones_MSG4="පිටවීම"
+cambia_notificaciones_MSG5="විකල්පයක් තෝරන්න:"
+cambia_notificaciones_MSG6="සංවාදය සමඟ අතුරුමුහුණත භාවිතා කිරීම"
+cambia_notidicaciones_MSG6B="සෙන්ටි සමඟ අතුරුමුහුණත භාවිතා කිරීම"
+cambia_notidicaciones_MSG6C="kdialog සමඟ අතුරුමුහුණත භාවිතා කිරීම"
+cambia_notificaciones_MSG7="සංවාද විධානය හමු නොවීය"
+cambia_notificaciones_MSG8="පෙළ-පාදක අතුරුමුහුණත භාවිතා කිරීම"
+
+# cambiar_idioma_UI
+
+cambiar_idioma_UI_MSG0="භාවිතයේ ඇති භාෂාව:"
+cambiar_idioma_UI_MSG1="වර්තමානයේ ඇති භාෂා:"
+cambiar_idioma_UI_MSG2="භාවිතා කළ යුතු භාෂාවේ නම ඇතුළත් කරන්න"
+cambiar_idioma_UI_MSG3="යෙදුම් අතුරුමුහුණතෙහි:"
+cambiar_idioma_UI_MSG4="භාවිතා කරන ලද නව භාෂාව වන්නේ:"
+cambiar_idioma_UI_MSG5="LINUX-CDGRAB නැවත ආරම්භ කරන්න"
+
+# seleccion_gestor_archivos
+
+seleccion_gestor_archivos_MSG1="වත්මන් වින්‍යාසය"
+seleccion_gestor_archivos_MSG2="mc භාවිතා කරන්න"
+seleccion_gestor_archivos_MSG3="බිල්ට්-ඉන් පෙළ කළමනාකරු භාවිතා කරන්න"
+seleccion_gestor_archivos_MSG4="mc පද්ධතිය තුළ ස්ථාපනය කර නැත"
+seleccion_gestor_archivos_MSG5="පෙරනිමියෙන් බිල්ට්-ඉන් පෙළ කළමනාකරු භාවිතා කිරීම"
+seleccion_gestor_archivos_MSG6="mc උපයෝගිතා"
+seleccion_gestor_archivos_MSG7="බිල්ට්-ඉන් පෙළ"
+
+# centro_de_control
+
+centro_de_control_MSG1="පාලන මධ්‍යස්ථානය"
+centro_de_control_MSG2="නව වින්‍යාසය"
+centro_de_control_MSG3="වින්‍යාස ගොනුව මකන්න"
+centro_de_control_MSG4="වින්‍යාස ගොනුව සහ වත්මන් අගයන් මකන්න"
+centro_de_control_MSG5="වින්‍යාස ගොනු අගයන්:"
+centro_de_control_MSG5B="පරිසරයේ භාවිතා වන වත්මන් වින්‍යාසය:"
+centro_de_control_MSG6="දෘශ්‍ය මාධ්‍ය වෙනස් කරන්න"
+centro_de_control_MSG7="ස්ථාපිත වැඩසටහන් පරීක්ෂා කරන්න"
+centro_de_control_MSG8="cdrecord සමඟ IDE/SCSI වරාය පරිලෝකනය කරන්න"
+centro_de_control_MSG8C="cdrskin සමඟ IDE/SCSI වරාය පරිලෝකනය කරන්න"
+centro_de_control_MSG8B="cdrskin සමඟ පද්ධතියේ ස්ථාපනය කර ඇති ධාවක ලැයිස්තුගත කරන්න"
+centro_de_control_MSG9="CD වෙතින් ISO උත්පාදක උපයෝගීතාව වෙනස් කරන්න"
+centro_de_control_MSG9B="iso-9660 සඳහා HFS පාර-දත්ත සකසන්න"
+centro_de_control_MSG10="පරිශීලක වෙනස් කරන්න අතුරුමුහුණත"
+centro_de_control_MSG10b="වර්ණ වෙනස් කරන්න"
+centro_de_control_MSG10c="අතුරුමුහුණත භාෂාව වෙනස් කරන්න"
+centro_de_control_MSG11="ගොනු කළමනාකරු වෙනස් කරන්න"
+centro_de_control_MSG11B="වැඩසටහන අස්ථාපනය කරන්න"
+centro_de_control_MSG12="විකල්පයක් ඇතුළත් කරන්න:"
+centro_de_control_MSG13="වින්‍යාස ගොනුව නොපවතී"
+centro_de_control_MSG14="වින්‍යාස ගොනුව හමු නොවීය"
+centro_de_control_MSG15="ස්කෑන් කිරීම"
+centro_de_control_MSG16="IDE/SCSI port ස්කෑන් කරන ලදී"
+centro_de_control_MSG17="IDE/SCSI port ස්කෑන් කිරීමේ දෝෂය"
+centro_de_control_MSG18="වර්ණ යෝජනා ක්‍රමය තෝරන්න"
+centro_de_control_MSG19="අත්තනෝමතික ලෙස වර්ණ තෝරන්න"
+centro_de_control_MSG20="පෙර මෙනුව"
+centro_de_control_MSG21="විකල්පයක් ඇතුළත් කරන්න:"
+centro_de_control_MSG22="වින්‍යාස ගොනුවක් නොමැත"
+centro_de_control_MSG23="වින්‍යාස ගොනුව හමු නොවීය"
+centro_de_control_MSG24="වර්ණ යෝජනා ක්‍රමය තෝරන්න"
+centro_de_control_MSG25="වර්ණ තෝරන්න අත්තනෝමතික ලෙස"
+centro_de_control_MSG26="අවලංගු විකල්පය"
+

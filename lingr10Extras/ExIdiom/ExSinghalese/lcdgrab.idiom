@@ -1,0 +1,47 @@
+####################################################
+#				       		   #
+#		LINUX - CDGRAB 1.0		   #
+# Mensajes en Cingalés para la aplicación principal#
+# Traducción experimental.                         #
+# Generado con Google Translate                    #
+# Parte de Linux-cdgrab 1.0                        #
+# Pascual Martínez Cruz -> pascual89@hotmail.com   #
+#	 Distribuir bajo licencia GPL v2.	   #
+#						   #
+####################################################
+
+# creacion_de_Depot
+
+creacion_de_Depot_MSG1="LINUX-CDGRAB 1.0 මගින් ගොනුව ස්වයංක්‍රීයව ජනනය කරන ලදී"
+creacion_de_Depot_MSG2="මෙම ගොනුව නාමාවලිය සමඟ"
+creacion_de_Depot_MSG3="ස්වයංක්‍රීයව ජනනය කරන ලදී"
+creacion_de_Depot_MSG4="ඔබගේ Linux බෙදාහැරීමේ එය නොපවතින බව සත්‍යාපනය කිරීමෙන් පසු Linux-cdgrab යෙදුම විසින්"
+creacion_de_Depot_MSG5="නාමාවලිය"
+creacion_de_Depot_MSG6="Linux-cdgrab මෙම නාමාවලිය තාවකාලික ගොනු සහ උපාංග රූප ලිවීමට භාවිතා කරයි (iso, img, ආදිය)"
+creacion_de_Depot_MSG8="GoboLinux විසින් තාවකාලික ගොනු ගබඩා කිරීම සඳහා ඩිපෝව භාවිතා කරයි"
+creacion_de_Depot_MSG9="මෙම ගොනුවේ අරමුණ තොරතුරු දැනගැනීමේ අරමුණු සඳහා පමණි; ඔබට එය කියවීමෙන් පසු එය නිදහසේ මකා දැමිය හැකිය."
+
+# Comprueba el Sistema operativo.
+
+main_IDSISTEMA_MSG1="අවවාදයයි:"
+main_IDSISTEMA_MSG2="සහාය නොදක්වන මෙහෙයුම් පද්ධතිය."
+main_IDSISTEMA_MSG3="යෙදුම සමඟ ගැටළු ඇති වුවහොත්, GNU/Linux භාවිතා කරන්න."
+
+# argumentos
+
+main_arg_MSG1="ඒක වලංගු තර්කයක් නෙවෙයි."
+
+# compatibilidad con cdrkit
+
+main_cdkit_test_MSG1="සොයාගත්තා"
+main_cdkit_test_MSG2="wodim වෙත සබැඳිය නිර්මාණය කරන ලදී"
+main_cdkit_test_MSG3="genisoimage වෙත සබැඳිය නිර්මාණය කරන ලදී"
+main_cdkit_test_MSG4="icedax වෙත සබැඳිය නිර්මාණය කරන ලදී"
+
+# pgm principal
+
+pgm_principal_MSG1="මාරාන්තික: නිවැරදි නාමාවලි ව්‍යාප්තියක් හමු නොවීය."
+pgm_principal_MSG2="ආගන්තුකයෙක්"
+
+
+

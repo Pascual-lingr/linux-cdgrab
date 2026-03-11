@@ -1,0 +1,31 @@
+# Idioma Cingalés para etiquetado LightScribe en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="ඉදිරියට යාමට ENTER ඔබන්න..."
+
+# cabecera_lightscribe
+
+cabecera_lightscribe_MSG1="=================================="
+cabecera_lightscribe_MSG2="LINUX-CDGRAB 1.0 LIGHTSCRIBE සහාය."
+cabecera_lightscribe_MSG3="=================================="
+
+# imprimir_disco_lightscribe
+
+imprimir_disco_lightscribe_MSG1="තැටියට මුද්‍රණය කිරීමට අවශ්‍ය රූපයට මාර්ගය ඇතුළත් කරන්න:"
+imprimir_disco_lightscribe_MSG2="රූප ආකෘතිය .bmp විය යුතුය"
+imprimir_disco_lightscribe_MSG3="ධාවනය වෙමින් පවතී"
+imprimir_disco_lightscribe_MSG4="තැටියට මුද්‍රණය කරන ලද ලේබලය"
+imprimir_disco_lightscribe_MSG5="තැටියට ලේබලය මුද්‍රණය කිරීමේදී දෝෂයක්"
+
+############################ LightScribe CD/DVD ##############################
+
+lingr10lightscribepatch_MSG1="LightScribe තාක්ෂණය ලබා ගත හැක්කේ සමහර ධාවක වල පමණි."
+lingr10lightscribepatch_MSG2="ඔබේ දාහකය එයට සහය දක්වයිදැයි ඔබ පරීක්ෂා කළ යුතුය."
+lingr10lightscribepatch_MSG3="ඒ හා සමානව, විශේෂ LightScribe CD හෝ DVD පමණක් ලේබල් කළ හැක."
+lingr10lightscribepatch_MSG4="LightScribe තැටියක් මුද්‍රණය කරන්න"
+lingr10lightscribepatch_MSG5="පෙර මෙනුව"
+lingr10lightscribepatch_MSG6="අවලංගු විකල්පය"

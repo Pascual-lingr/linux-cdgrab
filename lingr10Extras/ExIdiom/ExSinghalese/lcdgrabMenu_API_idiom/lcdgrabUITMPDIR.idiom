@@ -1,0 +1,35 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSinghalese/lcgdrabMenu_API_idiom/lcdgrabUITMPDIR.idiom
+# Mensajes en Cingalés para el menu de interfaz que gestiona los archivos de imagen
+# almacenados en el directorio /tmp del sistema.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# dir_tmp
+
+dir_tmp_MSG1="/tmp හි ගොනු"
+dir_tmp_MSG2="සියලුම රූප සහ සම්පීඩිත ගොනු මකන්න"
+dir_tmp_MSG3="වෙනත් මෙහෙයුම් සඳහා ගොනු කළමනාකරු දියත් කරන්න"
+dir_tmp_MSG4="රූපයක් සවි කරන්න හෝ ඉවත් කරන්න"
+dir_tmp_MSG5="රූප නිර්මාණය කිරීමේ මෙනුව පෙන්වන්න"
+dir_tmp_MSG6="රූප දැවෙන විකල්ප පෙන්වන්න"
+dir_tmp_MSG7="පෙර මෙනුව"
+dir_tmp_MSG8="පවතින ගොනු ලැයිස්තුව"
+dir_tmp_MSG9="විකල්පයක් තෝරන්න:"
+dir_tmp_MSG10="මකා දැමූ රූප සහ ගොනු"
+dir_tmp_MSG11="රූපය සවි කරන්න."
+dir_tmp_MSG12="රූපය ඉවත් කරන්න."
+dir_tmp_MSG12="රූපය ඉවත් කරන්න."
+dir_tmp_MSG13="රූපය CD තැටියට පුළුස්සා දමන්න"
+dir_tmp_MSG14="රූපය DVD තැටියට පුළුස්සා දමන්න"
+dir_tmp_MSG14B="රූපය BD තැටියට පුළුස්සා දමන්න"
+dir_tmp_MSG15="පටිගත කිරීමේ මාධ්‍යය අනුව විකල්පය තෝරන්න"
+dir_tmp_MSG16="වින්‍යාස ගොනුව හමු නොවීය"
+dir_tmp_MSG17="දැවෙන ක්‍රියාවලිය නවතා දැමීම"
+dir_tmp_MSG18="දැවිය යුතු .iso ගොනුව සඳහන් කරන්න"
+dir_tmp_MSG19="රූප මාර්ගය ඇතුළත් කරන්න:"
+

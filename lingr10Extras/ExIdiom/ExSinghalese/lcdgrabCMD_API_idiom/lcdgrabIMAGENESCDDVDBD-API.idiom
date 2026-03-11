@@ -1,0 +1,235 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSinghalese/lcdgrabCMD_API_idiom/lcdgrabIMAGENESCDDVDBD-API.idiom
+# Mensajes en cingalés para el API de creación y tratamiento
+# de imágenes de CD, DVD y BD.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# imagen_linux_fs
+
+imagen_linux_fs_MSG1="රූප ගොනු පද්ධතිය"
+imagen_linux_fs_MSG2="ගොනු පද්ධතිය තෝරන්න:"
+imagen_linux_fs_MSG3="CD-R/RW (702 MB) සඳහා රූපයක් සාදන්න"
+imagen_linux_fs_MSG4="DVD+RW (4 GB) සඳහා රූපයක් සාදන්න"
+imagen_linux_fs_MSG5="DVD+RW/DL (8 GB) සඳහා රූපයක් සාදන්න"
+imagen_linux_fs_MSG5B="BD-R/RE (25 GB) සඳහා රූපයක් සාදන්න"
+imagen_linux_fs_MSG5C="අභිරුචි ප්‍රමාණයෙන් රූප ගොනුවක් සාදන්න"
+imagen_linux_fs_MSG6="702 MB ධාරිතාවයකින් යුත් හිස් ගොනුවක් නිර්මාණය කිරීම"
+imagen_linux_fs_MSG7="4 ධාරිතාවයකින් යුත් හිස් ගොනුවක් නිර්මාණය කිරීම GB"
+imagen_linux_fs_MSG8="8 GB ධාරිතාවක් සහිත හිස් ගොනුවක් නිර්මාණය කිරීම"
+imagen_linux_fs_MSG8B="25 GB ධාරිතාවක් සහිත හිස් ගොනුවක් නිර්මාණය කිරීම"
+imagen_linux_fs_MSG8C="අභිරුචි ප්‍රමාණයකින් හිස් ගොනුවක් නිර්මාණය කිරීම"
+imagen_linux_fs_MSG9="දෝෂය: රූප ප්‍රමාණය නොදන්නා. අහෝසි කිරීම..."
+imagen_linux_fs_MSG10="ධාවනය වෙමින් පවතී"
+imagen_linux_fs_MSG11="වැඩසටහන හිස් ගොනුව සංයුති කිරීමට යයි."
+imagen_linux_fs_MSG12="පෙර නිර්මාණය කරන ලද ගොනුව අවහිර උපාංගයක් නොවන බව පද්ධතිය ඔබට අනතුරු අඟවන අතර ඔබට එය සංයුති කිරීමට අවශ්‍ය දැයි අසනු ඇත."
+imagen_linux_fs_MSG13="තහවුරු කිරීමේ පිළිතුරු දෙන්න."
+imagen_linux_fs_MSG13="සාර්ථකව ආකෘතිගත කර ඇත"
+imagen_linux_fs_MSG14="රූපය සවි කිරීම . ."
+imagen_linux_fs_MSG15="හිස් ගොනුව ආකෘතිකරණය කිරීමේ දෝෂය"
+imagen_linux_fs_MSG16="මෙම වැඩසටහන මඟින් ආකෘතිගත කරන ලද ගොනුව සවිකර ඇත"
+imagen_linux_fs_MSG17="Linux-cdgrab මඟින් ගොනු කළමනාකරු දියත් කරනු ඇති අතර එමඟින් ඔබට සවිකර ඇති රූපය සමඟ වැඩ කළ හැකිය"
+imagen_linux_fs_MSG18="ගොනු පිටපත් කළ පසු, ආකෘතිගත කරන ලද ගොනුව ඉවත් කරන්න"
+imagen_linux_fs_MSG19="Linux රූපය මෙම නාමාවලියෙහි ඇත"
+imagen_linux_fs_MSG19B="දෝෂ සවිකිරීමේ රූප ගොනුව"
+imagen_linux_fs_MSG20="රූපයේ ඇතුළත් කළ යුතු ගොනු. /mnt/lcdgrab හි සවිකර ඇත"
+imagen_linux_fs_MSG21="ගොනු කළමනාකරු දියත් කරමින්..."
+imagen_linux_fs_MSG22="අවවාදයයි:"
+imagen_linux_fs_MSG23="--------"
+imagen_linux_fs_MSG24="රූපය"
+imagen_linux_fs_MSG25="තවමත් සවිකර ඇත"
+imagen_linux_fs_MSG26="dd සහිත හිස් ගොනුවක් නිර්මාණය කිරීමේ දෝෂය"
+imagen_linux_fs_MSG27="/ හි සවිකර ඇති කොටසෙහි ඔබට නිදහස් ඉඩක් තිබේදැයි පරීක්ෂා කරන්න"
+imagen_linux_fs_MSG34="ගොනුවක් ආකෘතිකරණය කිරීම සඳහා ගොනු පද්ධතිය"
+imagen_linux_fs_MSG35="අභිරුචි ප්‍රමාණයකින් හිස් ගොනුවක් ජනනය කිරීම"
+imagen_linux_fs_MSG36="නව හිස් ගොනුවේ බ්ලොක් ප්‍රමාණය සඳහන් කරන්න (සංඛ්‍යාත්මක අගයක් පමණි):"
+imagen_linux_fs_MSG37="බ්ලොක් ප්‍රමාණය සඳහා උදාහරණ අගයන් වන්නේ: 1024, 2048 (ext2 පමණි) හෝ 4096 (සියල්ල ආකෘති)"
+imagen_linux_fs_MSG38="උත්පාදනය කිරීමට හිස් ගොනුවේ ප්‍රමාණය සඳහන් කරන්න (සංඛ්‍යාත්මක අගයක් පමණි):"
+imagen_linux_fs_MSG39="හිස් ගොනුව උත්පාදනය කිරීමට ඉඩ මිනුම්:"
+imagen_linux_fs_MSG40="භාවිතා කිරීමට ඉඩ මිනුම සඳහන් කරන්න:"
+imagen_linux_fs_MSG41="ප්‍රමාණ මිනුම සඳහන් කිරීමේ දෝෂය"
+imagen_linux_fs_MSG42="බ්ලොක් ප්‍රමාණයේ අගය:"
+imagen_linux_fs_MSG43="හිස් ගොනුව සඳහා ඉඩ ප්‍රමාණය:"
+imagen_linux_fs_MSG44="බයිට් වලින් ගණනය කළ අගය:"
+imagen_linux_fs_MSG45="count සඳහා ගණනය කළ අගය:"
+
+# comprobar_lectura_md5
+
+comprobar_lectura_md5_MSG1=".iso රූප ජනනය කරන විට MD5 කියවීම සක්‍රීය කරන්න"
+comprobar_lectura_md5_MSG2=".iso රූප ජනනය කරන විට MD5 කියවීම අක්‍රීය කරන්න"
+comprobar_lectura_md5_MSG3="පෙර මෙනුව"
+comprobar_lectura_md5_MSG4="වත්මන් සැකසුම්:"
+comprobar_lectura_md5_MSG5="සක්‍රීය කර ඇත"
+comprobar_lectura_md5_MSG6="අක්‍රීය කර ඇත"
+comprobar_lectura_md5_MSG7="MD5 එකතුව කියවීම සක්‍රීය කර ඇත"
+comprobar_lectura_md5_MSG8="MD5 එකතුව කියවීම අක්‍රීය කර ඇත"
+
+# leer_md5sum
+
+leer_md5sum_MSG1="රූපයේ නම iso කියවිය නොහැකි විය"
+leer_md5sum_MSG2="md5 sum කියවීම"
+leer_md5sum_MSG3="රූපයේ md5 sum දර්ශනය කිරීම"
+
+# extraer_isoCD_dd
+
+extraer_isoCD_dd_MSG1="CD රූපයක් නිර්මාණය කරමින්"
+extraer_isoCD_dd_MSG2="රූපය නිර්මාණය කරන ලදී"
+extraer_isoCD_dd_MSG3="සොයා ගත නොහැකි විය"
+
+# extraer_isoDVD_dd
+
+extraer_isoDVD_dd_MSG1="DVD රූපය නිර්මාණය කරමින්"
+extraer_isoDVD_dd_MSG2="ධාවනය වෙමින් පවතී"
+extraer_isoDVD_dd_MSG3="රූපය නිර්මාණය කර ඇත"
+extraer_isoDVD_dd_MSG4="හමු නොවීය"
+
+# extraer_iso_readcd
+
+extraer_iso_readcd_MSG1="ධාවනය වෙමින් පවතී"
+extraer_iso_readcd_MSG2="රූපය සාර්ථකව නිර්මාණය කර ඇත"
+extraer_iso_readcd_MSG3="රූපය නිර්මාණය කර ඇත"
+extraer_iso_readcd_MSG4="දැවෙන ක්‍රියාවලිය නවතා දමමින්..."
+
+# extraer_iso_mkisofs
+
+extraer_iso_mkisofs_MSG1="CD සවිකර ඇත"
+extraer_iso_mkisofs_MSG2="රූපය නිර්මාණය කරමින්..."
+extraer_iso_mkisofs_MSG3="Macintosh සමඟ ගැළපීම සක්‍රීය කර ඇත"
+extraer_iso_mkisofs_MSG4="භාවිතා කරමින්"
+extraer_iso_mkisofs_MSG5="ධාවනය වෙමින් පවතී"
+extraer_iso_mkisofs_MSG6="නාමාවලියෙහි නිර්මාණය කරන ලද රූපය"
+extraer_iso_mkisofs_MSG7="Macintosh සඳහා සහය නොමැතිව ක්‍රියාවලිය නැවත උත්සාහ කිරීම"
+extraer_iso_mkisofs_MSG8="නාමාවලියෙහි නිර්මාණය කරන ලද රූපය"
+extraer_iso_mkisofs_MSG9="mkisofs නිර්මාණය කිරීමට උත්සාහ කරන විට නොදන්නා දෝෂ ලබා දෙයි"
+extraer_iso_mkisofs_MSG10="සිට"
+extraer_iso_mkisofs_MSG11="දත්තවල අඛණ්ඩතාව සත්‍යාපනය කරන්න"
+extraer_iso_mkisofs_MSG12="පදින්න"
+extraer_iso_mkisofs_MSG12B="තුළ"
+extraer_iso_mkisofs_MSG13="genisoimage නිර්මාණය කිරීමේදී නොදන්නා දෝෂ ආපසු ලබා දෙයි"
+extraer_iso_mkisofs_MSG13B="සිට"
+extraer_iso_mkisofs_MSG14="mkisofs සහ genisoimage හමු නොවීය. cdrtools හෝ cdrkit ස්ථාපනය කරන්න."
+extraer_iso_mkisofs_MSG15="සවි කිරීමට අසමත් විය"
+extraer_iso_mkisofs_MSG16="රූපය සාර්ථකව නිර්මාණය කරන ලදී"
+
+# m_comp_img
+
+m_comp_img_MSG1="රූපය සාර්ථකව ජනනය කරන ලදී"
+m_comp_img_MSG2="රූප ගොනුව සම්පීඩනය කිරීමට ඔබට අවශ්‍යද?"
+m_comp_img_MSG3="(s/y) සම්පීඩනය කිරීමට; ක්‍රියාවලිය වෙනත් විකල්පයක් සමඟ අවලංගු කර ඇත."
+
+# generar_iso_directorio
+
+generar_iso_directorio_MSG1="ගොනු කළමනාකරු දියත් කරමින්..."
+generar_iso_directorio_MSG2="අනාගත CD/DVD/BD සඳහා නමක් ඇතුළත් කරන්න"
+generar_iso_directorio_MSG3="රූපය නිර්මාණය කිරීම..."
+generar_iso_directorio_MSG4="Macintosh සමඟ අනුකූලතාව සක්‍රීය කර ඇත"
+generar_iso_directorio_MSG5="භාවිතා කරමින්"
+generar_iso_directorio_MSG6="ධාවනය වෙමින්"
+generar_iso_directorio_MSG7="නාමාවලිය තුළ නිර්මාණය කරන ලද රූපය"
+generar_iso_directorio_MSG8="රූප නිර්මාණය කිරීමේ ක්‍රියාවලිය අසාර්ථක විය"
+generar_iso_directorio_MSG9="MACINTOSH සහාය නොමැතිව රූපය නිර්මාණය කිරීම"
+generar_iso_directorio_MSG10="mkisofs සහ genisoimage හමු නොවීය. cdrtools හෝ cdrkit ස්ථාපනය කරන්න."
+
+# generar_bdv_udf_directorio
+
+generar_bdv_udf_directorio_MSG1="අනාගත DVD/BD සඳහා නමක් ඇතුළත් කරන්න."
+generar_bdv_udf_directorio_MSG2="වීඩියෝ රූපය ජනනය කිරීමට නාමාවලිය සඳහන් කරන්න:"
+
+# generar_iso_directorio_libburnia
+
+generar_iso_directorio_libburnia_MSG1="තැටි ලේබලය සඳහන් කරන්න:"
+generar_iso_directorio_libburnia_MSG2="iso-9660 රූපය ජනනය කිරීමට නාමාවලිය සඳහන් කරන්න:"
+generar_iso_directorio_libburnia_MSG3="ISO9660 රූපය සාර්ථකව නිර්මාණය කරන ලදී!!"
+generar_iso_directorio_libburnia_MSG4="xorriso සමඟ iso-9660 රූපය ජනනය කිරීමේදී දෝෂයක්"
+
+# imagenISO
+
+imagenISO_MSG1=".iso රූපයට ඇතුළත් කළ යුතු ගොනු සහ නාමාවලි"
+imagenISO_MSG2="විකල්පයක් තෝරන්න"
+imagenISO_MSG2B="-----------------"
+imagenISO_MSG3="CD වලින් ISO-9660 රූපය ජනනය කරන්න (dd භාවිතා කරන්න)"
+imagenISO_MSG4="DVD වලින් ISO-9660 රූපය ජනනය කරන්න (dd භාවිතා කරන්න)"
+imagenISO_MSG5="CD වලින් ISO-9660 රූපය ජනනය කරන්න (readcd භාවිතා කරන්න)"
+imagenISO_MSG6="CD හෝ DVD වලින් ISO-9660 රූපය ජනනය කරන්න (mkisofs භාවිතා කරන්න)"
+imagenISO_MSG7="දෘत තැටි දත්ත වලින් ISO-9660 රූපය සාදන්න (mkisofs භාවිතා කරන්න)"
+imagenISO_MSG8="පෙර මෙනුව"
+imagenISO_MSG9="රූපය නිර්මාණය කිරීම"
+imagenISO_MSG10="දෘत තැටි දත්ත වලින් ISO-9660 රූපය සාදන්න (xorriso භාවිතා කරන්න)"
+imagenISO_MSG11="CD/DVD/BD වලින් ISO/UDF රූපය සාදන්න (mkisofs භාවිතා කරන්න)"
+imagenISO_MSG12="ISO/UDF රූපය සාදන්න දෘඪ තැටි දත්ත වලින් (mkisofs භාවිතා කරයි)"
+imagenISO_MSG13="ISO-9660 මෙනුව හැඩතල ගැන්වීම"
+imagenISO_MSG13B="================================================="
+imagenISO_MSG14="දෘඪ තැටි දත්ත වලින් UDF/ISO රූපයක් සාදන්න (mkisofs භාවිතා කරන්න)"
+imagenISO_MSG15="DVD වීඩියෝ සහාය ඇතිව UDF/ISO රූපයක් සාදන්න (mkisofs භාවිතා කරන්න)"
+
+# imagen_img
+
+imagen_img_MSG1="රූපය නිර්මාණය වන මූලාශ්‍ර බ්ලොක් උපාංගය ඇතුළත් කරන්න."
+imagen_img_MSG2="--------------------------------------------------"
+imagen_img_MSG3="/etc/fstab සහ /etc/mtab හි ලියාපදිංචි කර ඇති උපාංග"
+imagen_img_MSG4="සවි කිරීමේ විධානයේ ප්‍රතිදානය:"
+imagen_img_MSG5="උපාංගයේ නම ඇතුළත් කරන්න:"
+imagen_img_MSG6="බ්ලොක් උපාංගයේ .img රූපය නිර්මාණය කිරීම"
+imagen_img_MSG7="ක්‍රියාත්මක කිරීම"
+imagen_img_MSG8="උපාංගයේ රූපය නිර්මාණය කරන ලදී"
+
+# monta_img
+
+monta_img_MSG1="ISO හෝ ext2 රූපය සවි කිරීමට."
+monta_img_MSG2="සවි කිරීමට රූපය පිහිටා ඇති නාමාවලි මාර්ගය ඇතුළත් කරන්න:"
+monta_img_MSG3="CD රූපය සවි කර ඇත:"
+monta_img_MSG4="දෝෂ සවි කිරීමේ රූප ගොනුව"
+monta_img_MSG5="ගොනුව හමු නොවීය"
+monta_img_MSG6="මවුන්ට් පොයින්ට් නොපවතී"
+monta_img_MSG7="අනපේක්ෂිත දෝෂයක්"
+
+# desmonta_img
+
+desmonta_img_MSG1="ISO හෝ ext2 රූපය ඉවත් කිරීමට."
+desmonta_img_MSG2="රූපය විසුරුවා හරින ලදී"
+desmonta_img_MSG3="රූපයක් සවිකර නැත"
+desmonta_img_MSG4="ප්‍රතිදානය සවි කරන්න:"
+desmonta_img_MSG5="ඔබට රූපයක නිරපේක්ෂ නාමාවලි මාර්ගය කෙලින්ම නියම කළ හැක."
+desmonta_img_MSG6="උදාහරණයක් ලෙස, /tmp/lcdgrabimg.iso හෝ රූපය සඳහා සවි කිරීමේ නාමාවලිය, උදාහරණයක් ලෙස /mnt/lcdgrab"
+desmonta_img_MSG7="නිශ්චිතව දක්වා නොමැති නම්, ගොනු කළමනාකරු භාවිතයෙන් එය සෙවිය හැක"
+desmonta_img_MSG8="ගොනු කළමනාකරු දියත් කිරීම"
+desmonta_img_MSG9="කරුණාකර රූප මාර්ගය නියම කරන්න."
+desmonta_img_MSG10="රූපය ඉවත් කරන ලදී"
+desmonta_img_MSG11="රූපය ඉවත් කිරීමේ දෝෂයක්"
+
+# nrg_a_iso
+
+nrg_a_iso_MSG1=".iso බවට පරිවර්තනය කිරීමට රූපය .nrg"
+nrg_a_iso_MSG2=".nrg රූපයට (Nero Burning ROM) මාර්ගය ඇතුළත් කරන්න"
+nrg_a_iso_MSG3="රූපය පරිවර්තනය කරමින්..."
+nrg_a_iso_MSG4="මූලාශ්‍ර .nrg රූපයට මාර්ගය"
+nrg_a_iso_MSG5="නොපවතී හෝ නාමාවලියකට අනුරූප වේ"
+nrg_a_iso_MSG6="අවලංගු මාර්ගය."
+nrg_a_iso_MSG7="මෙය දැනටමත් පෙර ISO-9660 රූපයකි; එය පරිවර්තනය නොකෙරේ."
+nrg_a_iso_MSG7="මෙය දැනටමත් ISO-9660 රූපයකි; එය පරිවර්තනය නොකෙරේ."
+nrg_a_iso_MSG8="වෙනස් දිගුවක් සමඟ පිටපත් කරමින්..."
+nrg_a_iso_MSG9="පිටපත් කිරීම සම්පූර්ණයි"
+nrg_a_iso_MSG10="දුවනවා"
+nrg_a_iso_MSG11="රූපය සාර්ථකව පරිවර්තනය කරන ලදී"
+nrg_a_iso_MSG12=".iso රූපය නිර්මාණය කිරීමේදී දෝෂයක්"
+
+# GenerarArchivocue
+
+GenerarArchivocue_MSG1=".bin රූපයෙන් .cue විස්තර ගොනුව ජනනය කරන්න"
+GenerarArchivocue_MSG2="වත්මන් ක්‍රියාකාරී නාමාවලිය"
+GenerarArchivocue_MSG3="රූප ගොනුව පිහිටා ඇති නාමාවලි මාර්ගය පමණක් ඇතුළත් කරන්න"
+GenerarArchivocue_MSG4="රූප ගොනුව සොයා ගන්න:"
+GenerarArchivocue_MSG5="අනුරූප .cue ගොනුව ජනනය වන .bin රූපයේ නම ඇතුළත් කරන්න"
+GenerarArchivocue_MSG6="එහි අනුරූප .cue ගොනුව ජනනය කරන්න"
+GenerarArchivocue_MSG7=".cue විස්තර ගොනුව සාර්ථකව ජනනය කරන ලදී"
+GenerarArchivocue_MSG8="දෝෂය ජනනය කරමින් .cue විස්තර ගොනුව"
+
+# ImagenbincueCDDVD
+
+ImagenbincueCDDVD_MSG1="දුවනවා"
+ImagenbincueCDDVD_MSG2="සාර්ථක තැටි රූපය .BIN .CUE"
+

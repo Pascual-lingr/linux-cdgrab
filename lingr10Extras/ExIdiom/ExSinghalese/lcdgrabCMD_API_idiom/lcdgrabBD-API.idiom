@@ -1,0 +1,46 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSinghalese/lcdgrabCMD_API_idiom/lcdgrabBD-API.idiom
+# Mensajes en Cingalés para el API de grabación en BD.
+# Traducción experimental, generado con Google Translate.
+# 
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+#########################################################
+#################### dvd+-rw-tools ######################
+#########################################################
+
+# grabar_ISO_BD
+
+grabar_ISO_BD_MSG1="ISO-9660 රූපය සාර්ථකව BLU-RAY තැටියට දැවී යයි"
+grabar_ISO_BD_MSG2="රූපය BLU-RAY තැටියට දෝෂ සහිතව දැවී යයි"
+grabar_ISO_BD_MSG3="ISO-9660 රූපය BD මත"
+grabar_ISO_BD_MSG4="ISO-9660 රූපය පිළිස්සීමට මාර්ගය සඳහන් කරන්න:"
+
+#########################################################
+################# cdrecord-ProDVD-ProBD #################
+#########################################################
+
+# bd_datos
+
+bd_datos_MSG1=".iso රූපය නිර්මාණය කිරීම සඳහා ගොනු සහ නාමාවලි"
+bd_datos_MSG2="DB ලේබලය"
+bd_datos_MSG3="අනාගත දත්ත සමුදාය සඳහා නමක් ඇතුළත් කරන්න:"
+bd_datos_MSG4="ගොනු කළමනාකරු දියත් කිරීම:"
+bd_datos_MSG5="රූපය නිර්මාණය කිරීම . ."
+bd_datos_MSG6="ක්‍රියාත්මක කිරීම"
+bd_datos_MSG7="ISO-9660 රූපය නිර්මාණය කරන ලදී"
+bd_datos_MSG8="		BD පටිගත කිරීම"
+bd_datos_MSG13="රූපය මකා දමමින්..."
+
+#########################################################
+####################### libburnia #######################
+#########################################################
+
+# borrar_BDRE_lb
+
+borrar_BDRE_lb_MSG1="තැටියේ තත්ත්වය අනුව අවශ්‍ය හැඩතල ගැන්වීම හෝ මකා දැමීම යොදනු ලැබේ"
+borrar_BDRE_lb_MSG2="BD-RE සාර්ථකව මකා දමන ලදී!!"
+borrar_BDRE_lb_MSG3="BD-RE දෝෂය මකා දැමීම"

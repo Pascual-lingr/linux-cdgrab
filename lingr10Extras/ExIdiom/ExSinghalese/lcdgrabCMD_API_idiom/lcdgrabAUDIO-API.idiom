@@ -1,0 +1,141 @@
+#########################################################
+# lcdgrabAPI_idiom/ExSinghalese/lcdgrabCMD_API_idiom/lcdgrabAUDIO-API.idiom
+# Mensajes en cingalés para el API de audio.
+# Traducción experimental, generado con Google Translate.
+#
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo GPL v2
+# Parte de Linux-cdgrab 1.0
+#########################################################
+
+# mp3awav
+
+mp3awav_MSG0B="MP3 ගොනු පරිවර්තනය කිරීමට"
+mp3awav_MSG0=".mp3 ගොනු වෙත මාර්ගය ඇතුළත් කරන්න.: "
+mp3awav_MSG1="පරිවර්තනය කිරීම"
+mp3awav_MSG1B=" .wav ආකෘතියක්"
+mp3awav_MSG2="දුවනවා"
+mp3awav_MSG3="සාම්පල 44100 MHz ට සකසා ඇත"
+mp3awav_MSG4="නියැදීම සැකසීමේදී දෝෂයකි"
+mp3awav_MSG5="පරිවර්තනය කිරීමට අසමත් විය"
+mp3awav_MSG6="නාමාවලිය හමු නොවීය"
+mp3awav_MSG7="ශ්‍රව්‍ය පරිවර්තනයේ අවසානය"
+mp3awav_MSG8="ශ්‍රව්‍ය ගොනුව සාමාන්‍යකරණය කිරීම"
+mp3awav_MSG9="සංරක්ෂිතය"
+mp3awav_MSG10="සාමාන්‍යකරණය කර ඇත"
+mp3awav_MSG11="සාමාන්‍යකරණයේ දෝෂයකි"
+
+# oggawav
+
+oggawav_MSG0="OGG ගොනු පරිවර්තනය කිරීමට"
+oggawav_MSG1=".ogg ගොනු වෙත මාර්ගය ඇතුළත් කරන්න.: "
+oggawav_MSG2="පරිවර්තනය කිරීම"
+oggawav_MSG2B=".wav ආකෘතියක්"
+oggawav_MSG3="දුවනවා"
+oggawav_MSG4="සාම්පල 44100 MHz ට සකසා ඇත"
+oggawav_MSG5="නියැදීම සැකසීමේදී දෝෂයකි"
+oggawav_MSG6="පරිවර්තනය කිරීමට අසමත් විය"
+oggawav_MSG7="නාමාවලිය හමු නොවීය"
+oggawav_MSG8="ශ්‍රව්‍ය කවරයේ අවසානය"
+oggawav_MSG9="ශ්‍රව්‍ය ගොනුව සාමාන්‍යකරණය කිරීම"
+oggawav_MSG10="සංරක්ෂිතය"
+oggawav_MSG11="සාමාන්‍යකරණය කර ඇත"
+oggawav_MSG12="සාමාන්‍යකරණයේ දෝෂයකි"
+
+# cdawav
+
+cdawav_MSG1="ශ්‍රව්‍ය සංයුක්ත තැටියක් ඉරා දමමින්..."
+cdawav_MSG2="දුවනවා:"
+cdawav_MSG3="ශ්‍රව්‍ය ඛණ්ඩ සාර්ථකව ඉරා දමන ලදී!!"
+cdawav_MSG4="ශ්‍රව්‍ය ගොනු නාමාවලියෙහි අන්තර්ගතය"
+cdawav_MSG5="ශ්‍රව්‍ය ඛණ්ඩ ඉරා දැමීමේ දෝෂයක්"
+
+# cddawav
+
+cddawav_MSG1="ඉරා දැමීමට ඇති ධාවන පථ ගණන ඇතුළත් කරන්න:"
+cddawav_MSG2="ධාවන පථයක් රිප් කිරීම අවලංගු කිරීමට Ctrl + c ඔබන්න"
+cddawav_MSG3="දුවනවා:"
+cddawav_MSG4="සාර්ථකව ඉරී ගියේය"
+cddawav_MSG5="දෝෂය ඉරී යාම"
+
+# wavamp3
+
+wavamp3_MSG0="පරිවර්තනය කිරීමට WAV ගොනු"
+wavamp3_MSG1=".wav ගොනු වෙත මාර්ගය ඇතුළත් කරන්න.: "
+wavamp3_MSG1B="පරිවර්තනය කිරීම"
+wavamp3_MSG2="ආකෘතියක්"
+wavamp3_MSG3="දුවනවා:"
+wavamp3_MSG4="පරිවර්තනය කරන විට"
+wavamp3_MSG5=".MP3 ආකෘතියක්"
+wavamp3_MSG6="පරිවර්තනය කිරීමේදී දෝෂයක්"
+wavamp3_MSG7="ශ්‍රව්‍ය පරිවර්තනය සම්පූර්ණයි"
+wavamp3_MSG8="ශ්‍රව්‍ය නාමාවලිය හමු නොවීය"
+
+# cdamp3
+
+cdamp3_MSG1="ශ්‍රව්‍ය සංයුක්ත තැටියක් ඉරා දමමින්..."
+cdamp3_MSG2="දුවනවා:"
+cdamp3_MSG3="ශ්‍රව්‍ය පථ සාර්ථකව ඉරා දැමීය!!"
+cdamp3_MSG4="ශ්‍රව්‍ය ධාවන පථවල දෝෂ ඉරී යාම"
+cdamp3_MSG5="කාර්යය ඇමතීම:"
+
+# wavaogg
+
+wavaogg_MSG1=".wav ගොනු වෙත මාර්ගය ඇතුළත් කරන්න.: "
+wavaogg_MSG2="පරිවර්තනය කිරීම"
+wavaogg_MSG3=".ogg ආකෘතියක්"
+wavaogg_MSG4="දුවනවා:"
+wavaogg_MSG5="පරිවර්තනය කිරීමේ දෝෂයකි"
+wavaogg_MSG6=".ogg ආකෘතියට"
+
+# cdaogg
+
+cdaogg_MSG1="ශ්‍රව්‍ය සංයුක්ත තැටියක් ඉරා දමමින්..."
+cdaogg_MSG2="දුවනවා:"
+cdaogg_MSG3="ශ්‍රව්‍ය පථ සාර්ථකව ඉරා දැමීය!!"
+cdaogg_MSG4="ශ්‍රව්‍ය ධාවන පථවල දෝෂ ඉරී යාම"
+cdaogg_MSG5="කාර්යය ඇමතීම:"
+
+# corta_wav
+
+corta_wav_MSG0="තත්පර ගණන:"
+corta_wav_MSG1="පරිවර්තනය කළ යුතු ශ්‍රව්‍ය ගොනුවේ මාර්ගය සඳහන් කරන්න:"
+corta_wav_MSG2="තත්පර වලින් කාලය සඳහන් කරන්න"
+corta_wav_MSG3="ගොනු කැපීම ආරම්භ වේ."
+corta_wav_MSG4="-සටහන-"
+corta_wav_MSG5="ශ්‍රව්‍යයේ ආරම්භය නියම කිරීමට, 0 ඇතුළත් කරන්න"
+corta_wav_MSG6="පරිවර්තනයේ ආරම්භය සඳහා අගය තත්පර වලින්:"
+corta_wav_MSG7="තත්පර වලින් කාලය නියම කරන්න"
+corta_wav_MSG8="ගොනු කැපීම අවසන් වනු ඇත."
+corta_wav_MSG9="පරිවර්තනයේ අවසානය සඳහා අගය තත්පර වලින්:"
+corta_wav_MSG10="දුවනවා"
+corta_wav_MSG11="ශ්‍රව්‍ය ගොනුව කප්පාදු කරන ලදී"
+corta_wav_MSG12="ගොනුව කප්පාදු කිරීමේ දෝෂය"
+corta_wav_MSG13="ශ්‍රව්‍ය ගොනුව කප්පාදු කිරීමට:"
+
+# flacawav
+
+flacawav_MSG0="FLAC/WAV ඕඩියෝ"
+flacawav_MSG1=".flac ගොනු වෙත මාර්ගය ඇතුළත් කරන්න.:"
+flacawav_MSG2="පරිවර්තනය කිරීම"
+flacawav_MSG3=" .wav ආකෘතියක්"
+flacawav_MSG4="සාම්පල 44100 MHz ට සකසා ඇත"
+flacawav_MSG5="නියැදීම සැකසීමේදී දෝෂයකි"
+flacawav_MSG6="ශ්‍රව්‍ය ගොනුව සාමාන්‍යකරණය කිරීම"
+flacawav_MSG7="සංරක්ෂිතය"
+flacawav_MSG8="සාමාන්‍යකරණය කර ඇත"
+flacawav_MSG9="සාමාන්‍යකරණයේ දෝෂයකි"
+flacawav_MSG10="පරිවර්තනය කිරීමට අසමත් විය"
+flacawav_MSG11="නාමාවලිය හමු නොවීය"
+flacawav_MSG12="ශ්‍රව්‍ය පරිවර්තනයේ අවසානය"
+
+# wavaflac
+
+wavaflac_MSG0="පරිවර්තනය කිරීමට WAV ගොනු"
+wavaflac_MSG1=".wav ගොනු වෙත මාර්ගය ඇතුළත් කරන්න.: "
+wavaflac_MSG2="පරිවර්තනය කිරීම"
+wavaflac_MSG3=".flac ආකෘතියක්"
+wavaflac_MSG4="flac ආකෘතියට පරිවර්තනය කරන ලදි"
+wavaflac_MSG5="පරිවර්තනය කිරීමේ දෝෂයකි"
+wavaflac_MSG6=".flac ආකෘතියක්"
+wavaflac_MSG7="FLAC ගොනු නාමාවලිය හමු නොවීය"

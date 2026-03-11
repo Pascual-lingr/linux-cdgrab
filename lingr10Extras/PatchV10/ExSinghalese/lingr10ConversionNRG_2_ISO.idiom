@@ -1,0 +1,37 @@
+# Idioma Cingalés para el soporte de imágenes .nrg en LINUX-CDGRAB 1.0
+# Traducción experimental, generado con Google Translate
+# Pascual Martínez Cruz --> pascual89@hotmail.com
+# Distribuir bajo la misma licencia que Linux-cdgrab 1.0 (GPL v2)
+
+# presskey
+
+presskey_MSG1="ඉදිරියට යාමට ENTER ඔබන්න..."
+
+# cabecera_NRG
+
+cabeceraNRG_MSG1="============================================"
+cabeceraNRG_MSG2="LINUX-CDGRAB 1.0 පරිවර්තනය .NRG සිට .ISO දක්වා"
+
+# convertir_imagen_nrg
+
+convertir_imagen_nrg_MSG1="ඔබට පරිවර්තනය කිරීමට අවශ්‍ය .nrg රූපයට මාර්ගය ඇතුළත් කරන්න"
+convertir_imagen_nrg_MSG1B="ඔබට ජනනය කිරීමට අවශ්‍ය .iso රූපයට මාර්ගය ඇතුළත් කරන්න"
+convertir_imagen_nrg_MSG2="ධාවනය වෙමින් පවතී"
+convertir_imagen_nrg_MSG3=".nrg රූපය .iso බවට පරිවර්තනය කිරීම සාර්ථකයි"
+convertir_imagen_nrg_MSG4=".nrg රූපය පරිවර්තනය කිරීමේදී දෝෂයක්"
+
+# creditospatchnrgaiso
+
+creditospatchnrgaiso_MSG1="linux-cdgrab හි රූප පරිවර්තනය සඳහා සහාය"
+creditospatchnrgaiso_MSG2="nrg2iso භාවිතයෙන් .nrg රූප .iso බවට පරිවර්තනය කිරීම"
+creditospatchnrgaiso_MSG3="GPL v2 බලපත්‍රය යටතේ බෙදා හරින්න"
+creditospatchnrgaiso_MSG4="Pascual Martínez Cruz --> pascual89@hotmail.com"
+creditospatchnrgaiso_MSG5="විධාන අනුවාදය:"
+
+############################ Conversion nrg a iso ##############################
+
+lingr10ConversionNRG_2_ISO_MSG1=".nrg රූපය .iso බවට පරිවර්තනය කරන්න"
+lingr10ConversionNRG_2_ISO_MSG2="ගැන"
+lingr10ConversionNRG_2_ISO_MSG3="පෙර මෙනුව"
+lingr10ConversionNRG_2_ISO_MSG4="අවලංගු විකල්පය"
+
