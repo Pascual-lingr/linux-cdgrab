@@ -1,6 +1,4 @@
-**LINUX-CDGRAB 1.0 debian\_cdrkit:**
-
-**-------------------------------**
+## LINUX-CDGRAB 1.0 debian\_cdrkit:
 
 Esta aplicación corresponde con una versión no oficial y modificada
 de linux-cdgrab-1.0r3 para utilizar solamente el paquete cdrkit
